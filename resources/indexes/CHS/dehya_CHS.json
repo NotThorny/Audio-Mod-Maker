@@ -1,0 +1,920 @@
+{
+    "Teapot": {
+        "89b13b98c04cc861": {
+            "hash": "89b13b98c04cc861",
+            "directory": "External17",
+            "voiceContent": "一般来说，只要竖起代表自己佣兵团的旗帜，稍微有点眼力的佣兵就不会过来自讨不痛快。",
+            "sourceName": "vo_mimiTomo_xm_dehya_barracks_02.wem"
+        },
+        "e42879b994866752": {
+            "hash": "e42879b994866752",
+            "directory": "External28",
+            "voiceContent": "既然你都准备得这么好了…那我必须让你见识一下我烤肉的手艺。",
+            "sourceName": "vo_mimiTomo_xm_dehya_kabobRestaurant_02.wem"
+        },
+        "6745d7c2fbd63ab5": {
+            "hash": "6745d7c2fbd63ab5",
+            "directory": "External12",
+            "voiceContent": "你是把整座烤肉店都搬过来了吗？烤肉的工具这么齐全，而且连桌椅炉台都是整套的。",
+            "sourceName": "vo_mimiTomo_xm_dehya_kabobRestaurant_01.wem"
+        },
+        "2f762d9091b98ebe": {
+            "hash": "2f762d9091b98ebe",
+            "directory": "External5",
+            "voiceContent": "旗帜和武器架，是佣兵在外扎营时的两大自保手段。",
+            "sourceName": "vo_mimiTomo_xm_dehya_barracks_01.wem"
+        },
+        "dbe1e19fc83afee0": {
+            "hash": "dbe1e19fc83afee0",
+            "directory": "External27",
+            "voiceContent": "如果有人不顾这种警告，依然过来找麻烦…这个时候，就该武器架派上用场了。",
+            "sourceName": "vo_mimiTomo_xm_dehya_barracks_03.wem"
+        },
+        "661bebb151543c9b": {
+            "hash": "661bebb151543c9b",
+            "directory": "External12",
+            "voiceContent": "什么？这里的动物都不能猎？行吧，我先出去一趟，带点新鲜的肉回来…",
+            "sourceName": "vo_mimiTomo_xm_dehya_kabobRestaurant_03.wem"
+        },
+        "2b38e079b13dd5f2": {
+            "hash": "2b38e079b13dd5f2",
+            "directory": "External5",
+            "voiceContent": "如果想要在沙漠生存，这些都是必须解决的问题。",
+            "sourceName": "vo_dehya_mimitomo_friendship1_03.wem"
+        },
+        "22e1a20f72de947d": {
+            "hash": "22e1a20f72de947d",
+            "directory": "External4",
+            "voiceContent": "你别说。我之前听说冒险家协会曾经真的接受过一次和「淤湖」有关的委托。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_09.wem"
+        },
+        "913d860170d3149c": {
+            "hash": "913d860170d3149c",
+            "directory": "External18",
+            "voiceContent": "我还是第一次进到一盏壶里呢，说出去应该都没人相信。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_03.wem"
+        },
+        "b092527170eed43b": {
+            "hash": "b092527170eed43b",
+            "directory": "External22",
+            "voiceContent": "地里不会突然钻出魔物，天上没有那些时刻想飞下来抢食吃的赤鹫。",
+            "sourceName": "vo_dehya_mimitomo_friendship1_02.wem"
+        },
+        "826c31cbd4f8fed5": {
+            "hash": "826c31cbd4f8fed5",
+            "directory": "External16",
+            "voiceContent": "行啊，我正闲着无聊呢。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_01.wem"
+        },
+        "00219ff8926f892d": {
+            "hash": "00219ff8926f892d",
+            "directory": "External0",
+            "voiceContent": "非要说的话，就是把这个地方先逛个遍吧。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_02.wem"
+        },
+        "db0a8488eaa25344": {
+            "hash": "db0a8488eaa25344",
+            "directory": "External27",
+            "voiceContent": "哈哈哈，这里比沙漠可好多了。气温不会忽冷忽热，没有沙暴和狂风…",
+            "sourceName": "vo_dehya_mimitomo_friendship1_01.wem"
+        },
+        "26b0f3a89f2c4442": {
+            "hash": "26b0f3a89f2c4442",
+            "directory": "External4",
+            "voiceContent": "于是冒险家协会就挑选了一群经验比较丰富的冒险家，护送着他们进了沙漠。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_11.wem"
+        },
+        "be98261db34e0b4c": {
+            "hash": "be98261db34e0b4c",
+            "directory": "External23",
+            "voiceContent": "不然，等会你领着我去周围逛逛？再给我介绍一下这壶的其他住客。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_10.wem"
+        },
+        "26aad2e2caa69162": {
+            "hash": "26aad2e2caa69162",
+            "directory": "External4",
+            "voiceContent": "而且我早上居然是自然醒来的，而不是被什么响动吵醒…说实话，还是有点不太习惯。",
+            "sourceName": "vo_dehya_mimitomo_morning_02.wem"
+        },
+        "835f45dd7f4bfe4f": {
+            "hash": "835f45dd7f4bfe4f",
+            "directory": "External16",
+            "voiceContent": "虽然「淤湖」的水源确实是沙漠底部的地下水，但这种湖水的味道又苦又涩，根本无法入口，也没法解渴。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_07.wem"
+        },
+        "95cd72131e383bbe": {
+            "hash": "95cd72131e383bbe",
+            "directory": "External18",
+            "voiceContent": "最多也就是去城里的酒馆喝几杯放松…虽然说出来很好笑，但我基本上没有闲下来过这么长时间。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_05.wem"
+        },
+        "812311b0cdeedb65": {
+            "hash": "812311b0cdeedb65",
+            "directory": "External16",
+            "voiceContent": "然后…据说冒险家协会就再也没有接受过类似的委托了。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_12.wem"
+        },
+        "f008801b4ccb7561": {
+            "hash": "f008801b4ccb7561",
+            "directory": "External30",
+            "voiceContent": "想要生活下去就得这样，每个人都有各自不同的压力，这也是没有办法的事。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_06.wem"
+        },
+        "314b241207d272bd": {
+            "hash": "314b241207d272bd",
+            "directory": "External6",
+            "voiceContent": "这地方虽然舒坦，但也没什么事可干。实在有些无聊啊…",
+            "sourceName": "vo_dehya_mimitomo_hello_01.wem"
+        },
+        "68f6d9196061ad9f": {
+            "hash": "68f6d9196061ad9f",
+            "directory": "External13",
+            "voiceContent": "你要休息了吗？嗯，安心睡觉去吧，我再去周围逛逛。",
+            "sourceName": "vo_dehya_mimitomo_night_01.wem"
+        },
+        "cec801f19c976daa": {
+            "hash": "cec801f19c976daa",
+            "directory": "External25",
+            "voiceContent": "在这里？唔，一时半会我也想不出什么特别想做的事…",
+            "sourceName": "vo_dehya_mimitomo_friendship3_01.wem"
+        },
+        "dbeb03a6f694882b": {
+            "hash": "dbeb03a6f694882b",
+            "directory": "External27",
+            "voiceContent": "在这行讨生活的人这么多，如果干活不积极，那就要吃了上顿没下顿喽。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_08.wem"
+        },
+        "50a653c4dec557f2": {
+            "hash": "50a653c4dec557f2",
+            "directory": "External10",
+            "voiceContent": "你知道沙漠里有一种「淤湖」吗？",
+            "sourceName": "vo_dehya_mimitomo_friendship2_02.wem"
+        },
+        "314b91ae01382fe2": {
+            "hash": "314b91ae01382fe2",
+            "directory": "External6",
+            "voiceContent": "哈哈哈，行了行了，先别说这种话题了，好不容易托你的福能闲下来，我可得抓紧时间放松一下。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_09.wem"
+        },
+        "eb7894099f664e47": {
+            "hash": "eb7894099f664e47",
+            "directory": "External29",
+            "voiceContent": "那当然是保养一下武器，看看下份要解决的委托，再抓紧时间睡一觉。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_04.wem"
+        },
+        "01a1e3e5c2abd366": {
+            "hash": "01a1e3e5c2abd366",
+            "directory": "External0",
+            "voiceContent": "不过，这种说法也就仅仅是传说而已啦。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_06.wem"
+        },
+        "d5ffc5bc9e76563b": {
+            "hash": "d5ffc5bc9e76563b",
+            "directory": "External26",
+            "voiceContent": "唔，那可有些不一样。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_03.wem"
+        },
+        "9ea904aa695e6008": {
+            "hash": "9ea904aa695e6008",
+            "directory": "External19",
+            "voiceContent": "哎呀，你怎么皱着眉，不会是被我说的这些事给吓住了吧？",
+            "sourceName": "vo_dehya_mimitomo_friendship1_05.wem"
+        },
+        "c41677f596e5e208": {
+            "hash": "c41677f596e5e208",
+            "directory": "External24",
+            "voiceContent": "这种「淤湖」一般出现在沙漠的深处，在一些神神叨叨的传说里，这种「淤湖」是阿赫玛尔的恩赐。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_04.wem"
+        },
+        "b3fd881851421fac": {
+            "hash": "b3fd881851421fac",
+            "directory": "External22",
+            "voiceContent": "而且，这种「淤湖」通常在一段时间后就会被风沙掩埋，也没法起到地标的作用。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_08.wem"
+        },
+        "811cf0eaf9692785": {
+            "hash": "811cf0eaf9692785",
+            "directory": "External16",
+            "voiceContent": "你看着很精神嘛，这里的环境确实不错，昨晚上我睡得很好。",
+            "sourceName": "vo_dehya_mimitomo_morning_01.wem"
+        },
+        "5df1d29251c47c4f": {
+            "hash": "5df1d29251c47c4f",
+            "directory": "External11",
+            "voiceContent": "放心吧，你还有我这个帮手啊。如果你之后要进沙漠办事的话，叫上我就行。所有事情都包在我身上。",
+            "sourceName": "vo_dehya_mimitomo_friendship1_06.wem"
+        },
+        "fe6bcb33ebfb5418": {
+            "hash": "fe6bcb33ebfb5418",
+            "directory": "External31",
+            "voiceContent": "虽然按你的说法，这盏壶是绝对安全的。但睡觉时连个值守的人都没有…我还是有点不放心。",
+            "sourceName": "vo_dehya_mimitomo_night_02.wem"
+        },
+        "4239262254b9abe0": {
+            "hash": "4239262254b9abe0",
+            "directory": "External8",
+            "voiceContent": "特别是佣兵这行，一般在上一份委托没有结束时，我们就要去找下一份委托了。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_07.wem"
+        },
+        "2d7c4014d4ea7f1d": {
+            "hash": "2d7c4014d4ea7f1d",
+            "directory": "External5",
+            "voiceContent": "特别是那只叫做阿圆的小鸟，看起来，她也有一盏壶？",
+            "sourceName": "vo_dehya_mimitomo_friendship3_11.wem"
+        },
+        "71e611ee8ef818c9": {
+            "hash": "71e611ee8ef818c9",
+            "directory": "External14",
+            "voiceContent": "当他的子民在沙漠中受困时，阿赫玛尔就会命令地下的水源溢出地表，形成这种湖供人解渴…",
+            "sourceName": "vo_dehya_mimitomo_friendship2_05.wem"
+        },
+        "7ff8e59f236c700b": {
+            "hash": "7ff8e59f236c700b",
+            "directory": "External15",
+            "voiceContent": "委托的具体内容…大概就是一群来须弥旅游的外国人想去沙漠里看看这种「淤湖」。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_10.wem"
+        },
+        "4c789ea3617096c9": {
+            "hash": "4c789ea3617096c9",
+            "directory": "External9",
+            "voiceContent": "除了这些问题之外，还要提防着那些不怀好意的人…",
+            "sourceName": "vo_dehya_mimitomo_friendship1_04.wem"
+        }
+    },
+    "Quests": {
+        "353b43bb811c2740": {
+            "hash": "353b43bb811c2740",
+            "directory": "External6",
+            "voiceContent": "哎我说，坎蒂丝你琴弹得也太好了吧！怎么平时不多拿出来露两手？",
+            "sourceName": "vo_HSEQ003_18_dehya_03.wem"
+        },
+        "8e4d1db2052e9b41": {
+            "hash": "8e4d1db2052e9b41",
+            "directory": "External17",
+            "voiceContent": "这不是正好吗！节日就该开开心心才对嘛！",
+            "sourceName": "vo_HSEQ003_18_dehya_02.wem"
+        },
+        "f6db2ba87e4c61a0": {
+            "hash": "f6db2ba87e4c61a0",
+            "directory": "External30",
+            "voiceContent": "还准备在花车巡游之后请她吃顿生日晚宴呢！所以七鲜桌什么的肯定也少不了。",
+            "sourceName": "vo_HSEQ001_2_dehya_06.wem"
+        },
+        "a01a998fc8f90407": {
+            "hash": "a01a998fc8f90407",
+            "directory": "External20",
+            "voiceContent": "迪娜泽黛听完觉得这主意很棒，我就找上其他人，大家一拍即合，立刻组织起来了。",
+            "sourceName": "vo_HSEQ001_2_dehya_05.wem"
+        },
+        "04f1396f829c6e73": {
+            "hash": "04f1396f829c6e73",
+            "directory": "External0",
+            "voiceContent": "哎呀这你就放心吧，对我们佣兵来说，秘密可是比生命还重要的东西！",
+            "sourceName": "vo_HSEQ001_2_dehya_01.wem"
+        },
+        "a14385a173794f21": {
+            "hash": "a14385a173794f21",
+            "directory": "External20",
+            "voiceContent": "咦？我记得坎蒂丝你刚才说想要个人帮忙一起采购，这不正好吗？",
+            "sourceName": "vo_HSEQ001_2_dehya_07.wem"
+        },
+        "4708779944e6167e": {
+            "hash": "4708779944e6167e",
+            "directory": "External8",
+            "voiceContent": "欸？我也是和迪娜泽黛聊天时偶然想到的。每一届花神诞祭的活动都比较类似，总觉得该来些不一样的东西。",
+            "sourceName": "vo_HSEQ001_2_dehya_04.wem"
+        },
+        "908d092d20273eeb": {
+            "hash": "908d092d20273eeb",
+            "directory": "External18",
+            "voiceContent": "那就这么定了！装饰交给我和迪娜泽黛就行，宴会场地拜托提纳里操办。",
+            "sourceName": "vo_HSEQ001_2_dehya_09.wem"
+        },
+        "45de8b879a64185c": {
+            "hash": "45de8b879a64185c",
+            "directory": "External8",
+            "voiceContent": "打比方啦打比方，你懂我的意思。",
+            "sourceName": "vo_HSEQ001_2_dehya_02.wem"
+        },
+        "e287973427e7bca2": {
+            "hash": "e287973427e7bca2",
+            "directory": "External28",
+            "voiceContent": "哟，派蒙真是越来越会说话了。",
+            "sourceName": "vo_HSEQ001_2_dehya_08.wem"
+        },
+        "aedef24582d970b3": {
+            "hash": "aedef24582d970b3",
+            "directory": "External21",
+            "voiceContent": "没办法，商队也不会等我们…所以我就先行来了璃月，在这里等着她。",
+            "sourceName": "vo_HDJHK003_2_dehya_09.wem"
+        },
+        "8d9f341bd2a6afb4": {
+            "hash": "8d9f341bd2a6afb4",
+            "directory": "External17",
+            "voiceContent": "是啊，我想要做一张「祝柬」送给坎蒂丝，可是一直没做出满意的，正打算再做一张新的呢。",
+            "sourceName": "vo_HDJHK003_2_dehya_02.wem"
+        },
+        "aa4f0e33d57457f9": {
+            "hash": "aa4f0e33d57457f9",
+            "directory": "External21",
+            "voiceContent": "可坎蒂丝就是不答应，最后还是村里的人劝了她好久，她才答应给自己放放假。",
+            "sourceName": "vo_HDJHK003_2_dehya_07.wem"
+        },
+        "e7da42240139e97f": {
+            "hash": "e7da42240139e97f",
+            "directory": "External28",
+            "voiceContent": "我和她说，一年到头了，就让自己轻松一下，我正好要护送一支商队来璃月，干脆就和我一起来璃月过海灯节。",
+            "sourceName": "vo_HDJHK003_2_dehya_05.wem"
+        },
+        "3a0ae02b09281196": {
+            "hash": "3a0ae02b09281196",
+            "directory": "External7",
+            "voiceContent": "本来她都没答应和我一起来璃月，说自己还要守着村子。",
+            "sourceName": "vo_HDJHK003_2_dehya_04.wem"
+        },
+        "72acc4e79f0eaba0": {
+            "hash": "72acc4e79f0eaba0",
+            "directory": "External14",
+            "voiceContent": "最后，我挑了一条项链，又听说璃月人在海灯节的时候，送礼都要附上一张特别的「祝柬」，所以我就打算给自己设计一张。",
+            "sourceName": "vo_HDJHK003_2_dehya_11.wem"
+        },
+        "29f1c04dc383fdaa": {
+            "hash": "29f1c04dc383fdaa",
+            "directory": "External5",
+            "voiceContent": "不过，她还要亲自安排一些事情，等一切安排妥当后，她才会过来。",
+            "sourceName": "vo_HDJHK003_2_dehya_08.wem"
+        },
+        "e6e76e1256e75605": {
+            "hash": "e6e76e1256e75605",
+            "directory": "External28",
+            "voiceContent": "她要来，不过…还要过一段时间。",
+            "sourceName": "vo_HDJHK003_2_dehya_03.wem"
+        },
+        "1bec32cee9bb4e07": {
+            "hash": "1bec32cee9bb4e07",
+            "directory": "External3",
+            "voiceContent": "结果…就和之前说的一样，做来做去都不满意。",
+            "sourceName": "vo_HDJHK003_2_dehya_12.wem"
+        },
+        "1d151ee0943b9921": {
+            "hash": "1d151ee0943b9921",
+            "directory": "External3",
+            "voiceContent": "这不，我想着先给她买点礼物，可是璃月的好东西太多，我都快挑花眼了。",
+            "sourceName": "vo_HDJHK003_2_dehya_10.wem"
+        },
+        "2891b43c18d43a78": {
+            "hash": "2891b43c18d43a78",
+            "directory": "External5",
+            "voiceContent": "要是她不放心村子，我就让团里的弟兄们帮她守着村子。",
+            "sourceName": "vo_HDJHK003_2_dehya_06.wem"
+        },
+        "56deeda208830399": {
+            "hash": "56deeda208830399",
+            "directory": "External10",
+            "voiceContent": "喔？你果然心灵手巧啊，这张「祝柬」真好看，谢啦。",
+            "sourceName": "vo_HDJHK003_4_dehya_01.wem"
+        },
+        "e571938791b606d4": {
+            "hash": "e571938791b606d4",
+            "directory": "External28",
+            "voiceContent": "不过说起来，都过这么长时间了，坎蒂丝怎么还没来…",
+            "sourceName": "vo_HDJHK003_4_dehya_04.wem"
+        },
+        "3faca18fc0493f9f": {
+            "hash": "3faca18fc0493f9f",
+            "directory": "External7",
+            "voiceContent": "我还要再做一封。等坎蒂丝来了，再把项链和「祝柬」一起送出去，她一定会很高兴的。",
+            "sourceName": "vo_HDJHK003_4_dehya_03.wem"
+        },
+        "e69abf993c36be36": {
+            "hash": "e69abf993c36be36",
+            "directory": "External28",
+            "voiceContent": "这封「祝柬」就算是你送我的，现在我手头没带宝贝，等回了须弥之后，给你寄回礼。",
+            "sourceName": "vo_HDJHK003_4_dehya_02.wem"
+        },
+        "12a1c8cb393dfb00": {
+            "hash": "12a1c8cb393dfb00",
+            "directory": "External2",
+            "voiceContent": "哎，坎蒂丝这次不也在花车队伍里吗？我记得…是去弹琴来着？",
+            "sourceName": "vo_HSEQ003_15_dehya_04.wem"
+        },
+        "4a7324980d1c684a": {
+            "hash": "4a7324980d1c684a",
+            "directory": "External9",
+            "voiceContent": "你们不在的时间里，我们已经把糖塔的框架搭出来了。",
+            "sourceName": "vo_HSEQ003_15_dehya_02.wem"
+        },
+        "d08a42a176f3d94d": {
+            "hash": "d08a42a176f3d94d",
+            "directory": "External26",
+            "voiceContent": "哎！你们总算回来了！我都急到要去通知我的佣兵兄弟了！",
+            "sourceName": "vo_HSEQ003_15_dehya_01.wem"
+        },
+        "cbfa568fc98eb253": {
+            "hash": "cbfa568fc98eb253",
+            "directory": "External25",
+            "voiceContent": "到时候可得好好表现哟！",
+            "sourceName": "vo_HSEQ003_15_dehya_03.wem"
+        },
+        "f969493885243130": {
+            "hash": "f969493885243130",
+            "directory": "External31",
+            "voiceContent": "这些愚人众胆子真大，看来是欠收拾了！",
+            "sourceName": "vo_XMAQ302_9_dehya_01.wem"
+        },
+        "79fcb71e97425097": {
+            "hash": "79fcb71e97425097",
+            "directory": "External15",
+            "voiceContent": "啊哈？做别人的走狗，做出感情来了？",
+            "sourceName": "vo_XMAQ302_9_dehya_02.wem"
+        },
+        "8a50694b5ece35db": {
+            "hash": "8a50694b5ece35db",
+            "directory": "External17",
+            "voiceContent": "植被非常丰富，跟我想的有些不同。",
+            "sourceName": "vo_XMAQ106_3_dehya_06.wem"
+        }
+    },
+    "Gameplay": {
+        "a6703131ca6ebeed": {
+            "hash": "a6703131ca6ebeed",
+            "directory": "External20",
+            "voiceContent": "开打吧！",
+            "sourceName": "vo_dehya_battle_skill1_01.wem"
+        },
+        "787d932ad77b7f6a": {
+            "hash": "787d932ad77b7f6a",
+            "directory": "External15",
+            "voiceContent": "不用留情。",
+            "sourceName": "vo_dehya_battle_skill1_02.wem"
+        },
+        "fa04c52293edc973": {
+            "hash": "fa04c52293edc973",
+            "directory": "External31",
+            "voiceContent": "一起上！",
+            "sourceName": "vo_dehya_battle_skill1_03.wem"
+        },
+        "bc744a5493c3bd8f": {
+            "hash": "bc744a5493c3bd8f",
+            "directory": "External23",
+            "voiceContent": "你撑得住吗？",
+            "sourceName": "vo_dehya_battle_skill3_01.wem"
+        },
+        "fd2c7c6cab5f5548": {
+            "hash": "fd2c7c6cab5f5548",
+            "directory": "External31",
+            "voiceContent": "在这，打垮你！",
+            "sourceName": "vo_dehya_battle_skill3_02.wem"
+        },
+        "aafb1665a36fd809": {
+            "hash": "aafb1665a36fd809",
+            "directory": "External21",
+            "voiceContent": "把牙咬紧点！",
+            "sourceName": "vo_dehya_battle_skill3_03.wem"
+        },
+        "47614b8793a517ba": {
+            "hash": "47614b8793a517ba",
+            "directory": "External8",
+            "voiceContent": "居然还有意外收获…",
+            "sourceName": "vo_dehya_chest_open_01.wem"
+        },
+        "a166698fc20adcbd": {
+            "hash": "a166698fc20adcbd",
+            "directory": "External20",
+            "voiceContent": "哈哈哈，这个不错啊。",
+            "sourceName": "vo_dehya_chest_open_02.wem"
+        },
+        "35e84f98a35191ec": {
+            "hash": "35e84f98a35191ec",
+            "directory": "External6",
+            "voiceContent": "也许能卖个好价钱。",
+            "sourceName": "vo_dehya_chest_open_03.wem"
+        },
+        "c9b82db6980a3ace": {
+            "hash": "c9b82db6980a3ace",
+            "directory": "External25",
+            "voiceContent": "稳住！别慌张！",
+            "sourceName": "vo_dehya_life_less30_teammate_01.wem"
+        },
+        "4c9f7bbfff2c63f1": {
+            "hash": "4c9f7bbfff2c63f1",
+            "directory": "External9",
+            "voiceContent": "退后，让我来！",
+            "sourceName": "vo_dehya_life_less30_teammate_02.wem"
+        },
+        "971ca64062794353": {
+            "hash": "971ca64062794353",
+            "directory": "External18",
+            "voiceContent": "这下…糟了…",
+            "sourceName": "vo_dehya_life_die_01.wem"
+        },
+        "2cc8785aee41f5bc": {
+            "hash": "2cc8785aee41f5bc",
+            "directory": "External5",
+            "voiceContent": "真是…大意了…",
+            "sourceName": "vo_dehya_life_die_02.wem"
+        },
+        "e9a8515d8226a837": {
+            "hash": "e9a8515d8226a837",
+            "directory": "External29",
+            "voiceContent": "你说了算。",
+            "sourceName": "vo_dehya_teamJoin_01.wem"
+        },
+        "14576374fc093350": {
+            "hash": "14576374fc093350",
+            "directory": "External2",
+            "voiceContent": "有什么委托吗？",
+            "sourceName": "vo_dehya_teamJoin_02.wem"
+        },
+        "9614bd6cb8a950d1": {
+            "hash": "9614bd6cb8a950d1",
+            "directory": "External18",
+            "voiceContent": "该开始干活了。",
+            "sourceName": "vo_dehya_teamJoin_03.wem"
+        },
+        "4f4e5124dee87ac0": {
+            "hash": "4f4e5124dee87ac0",
+            "directory": "External9",
+            "voiceContent": "你问佣兵的工作原则？嗯…很简单，谁出的钱多，就给谁办事。",
+            "sourceName": "vo_dehya_character_idle_01.wem"
+        },
+        "fbf3bf0c2c784627": {
+            "hash": "fbf3bf0c2c784627",
+            "directory": "External31",
+            "voiceContent": "沙漠是个难相处的对手，但至少它足够光明磊落，把所有艰险挑战都放在台面上给你看。",
+            "sourceName": "vo_dehya_character_idle_02.wem"
+        },
+        "4e251d133467b51e": {
+            "hash": "4e251d133467b51e",
+            "directory": "External9",
+            "voiceContent": "我们的人已经习惯了沙漠…但我还是希望他们在某天能够告别风沙，在某处绿洲更愉快地生活。",
+            "sourceName": "vo_dehya_character_idle_03.wem"
+        },
+        "7412fbc2cbe248ea": {
+            "hash": "7412fbc2cbe248ea",
+            "directory": "External14",
+            "voiceContent": "听佣兵团里的老人说，沙漠里偶尔也会下雨，而且雨势比这猛烈得多。",
+            "sourceName": "vo_dehya_weather_heavyRain_01.wem"
+        },
+        "2faca06d6167cf21": {
+            "hash": "2faca06d6167cf21",
+            "directory": "External5",
+            "voiceContent": "这雷鸣声可够大的…可以掩盖住很多声音。",
+            "sourceName": "vo_dehya_weather_thunder_01.wem"
+        },
+        "e0408c17c630f7a8": {
+            "hash": "e0408c17c630f7a8",
+            "directory": "External28",
+            "voiceContent": "起风了，我们去下风口扎营比较安全。",
+            "sourceName": "vo_dehya_weather_breezy_01.wem"
+        },
+        "73f6a2beab58addd": {
+            "hash": "73f6a2beab58addd",
+            "directory": "External14",
+            "voiceContent": "呼…这里简直比夜晚的沙漠还冷。",
+            "sourceName": "vo_dehya_weather_snowy_01.wem"
+        },
+        "77ad7ffbfb9a281c": {
+            "hash": "77ad7ffbfb9a281c",
+            "directory": "External14",
+            "voiceContent": "天气很好，要是我手里的活也能轻松点就好喽。",
+            "sourceName": "vo_dehya_weather_sunny_01.wem"
+        },
+        "ab716be8bd095438": {
+            "hash": "ab716be8bd095438",
+            "directory": "External21",
+            "voiceContent": "你看起来精神不错，那我们等会就拔营出发吧。",
+            "sourceName": "vo_dehya_dialog_greetingMorning.wem"
+        },
+        "7de892c2ac85e7f4": {
+            "hash": "7de892c2ac85e7f4",
+            "directory": "External15",
+            "voiceContent": "已经中午了…等我找到合适的位置，就可以搭灶做饭了。",
+            "sourceName": "vo_dehya_dialog_greetingNoon.wem"
+        },
+        "9e4b1f066cf7dd02": {
+            "hash": "9e4b1f066cf7dd02",
+            "directory": "External19",
+            "voiceContent": "这么晚了你还在工作？真是比我们佣兵都辛苦啊。",
+            "sourceName": "vo_dehya_dialog_greetingNight.wem"
+        },
+        "cdda0e0432ce2e82": {
+            "hash": "cdda0e0432ce2e82",
+            "directory": "External25",
+            "voiceContent": "时间不早了，今夜的值守就交给我，你快去休息吧。",
+            "sourceName": "vo_dehya_dialog_greetingNight2.wem"
+        },
+        "cf40d995bc2266b5": {
+            "hash": "cf40d995bc2266b5",
+            "directory": "External25",
+            "voiceContent": "镀金旅团只是一个「头衔」，任何须弥的佣兵都可以自称为「镀金旅团」的一员。有些佣兵就用这头衔来唬骗外地人。哼，拜这帮人所赐，现在「镀金旅团」的名号已经越来越招人厌了。",
+            "sourceName": "vo_dehya_dialog_idle.wem"
+        },
+        "dabf88c88a884a1f": {
+            "hash": "dabf88c88a884a1f",
+            "directory": "External27",
+            "voiceContent": "库塞拉…他是个吊儿郎当，喜欢装模作样的佣兵。是他从沙漠里救了我，又用尽全力，将他一切能够给予我的东西，都给了我。但正是因为他，我才能成长为现在的我。",
+            "sourceName": "vo_dehya_dialog_idle2.wem"
+        },
+        "dcadb60321a874e2": {
+            "hash": "dcadb60321a874e2",
+            "directory": "External27",
+            "voiceContent": "朋友？嗯…我们一起经历了那么多事，共同闯过了那么多场战斗，用「朋友」来形容我们之间的关系，总感觉有点轻飘飘的。我想想…不如，用「战友」吧，这种感情只能从并肩的战斗中锤炼而出，是最不可动摇的东西。",
+            "sourceName": "vo_dehya_dialog_close1.wem"
+        },
+        "9b9ec93f88ee851b": {
+            "hash": "9b9ec93f88ee851b",
+            "directory": "External19",
+            "voiceContent": "你最近可是大显身手啊，我所在的佣兵团里都有不少人一直在讲你的事迹，甚至还有几个人来问我，能不能向你引见一下他们。",
+            "sourceName": "vo_dehya_dialog_close.wem"
+        },
+        "6bf27edb398f5889": {
+            "hash": "6bf27edb398f5889",
+            "directory": "External13",
+            "voiceContent": "「神之眼」给我带来了什么？嗯…老实说，比起战斗时的便利，这枚「神之眼」更大的作用，是让更多的佣兵慕名而来加入「炽光猎兽」。",
+            "sourceName": "vo_dehya_dialog_pendant.wem"
+        },
+        "1c90f925e9e62dda": {
+            "hash": "1c90f925e9e62dda",
+            "directory": "External3",
+            "voiceContent": "你知道枣椰吗？我小时候最喜欢吃这种果子。但老爹完全不知道拆枣椰的方法，就拿着刀胡乱地戳来戳去，把里面的果肉都弄得乱七八糟，完全没办法下口吃。最后只能把果肉都刮下来，混在牛奶里，勉强给我当做粥来吃。我有时候也会怀念这种粥的味道，还有那个拆枣椰都能拆得手忙脚乱的老爹。",
+            "sourceName": "vo_dehya_dialog_share_01.wem"
+        },
+        "3e80b508ef480ec0": {
+            "hash": "3e80b508ef480ec0",
+            "directory": "External7",
+            "voiceContent": "在一些人眼里，啃食残骸的赤鹫是带来死亡与灾厄的生物。但在我看来，这些翱翔在沙海之上的鹫鸟，有着最热烈的生命力。不知道当它们从天空往下俯瞰时，大赤沙海会是一个什么模样。",
+            "sourceName": "vo_dehya_pref_gift_01.wem"
+        },
+        "af1091b032fb410d": {
+            "hash": "af1091b032fb410d",
+            "directory": "External21",
+            "voiceContent": "哈哈哈，你别说，我还真的差点和这位巡林官做成过一笔生意。之前我经人介绍，要做他进沙漠考察时的向导。不过后来不知道为什么这单生意取消了，我记得…好像是这位巡林官实在耐不住热，还是其他什么原因来着。",
+            "sourceName": "vo_dehya_teammate_tighnari_01.wem"
+        },
+        "4b55cdf45d2ccfe8": {
+            "hash": "4b55cdf45d2ccfe8",
+            "directory": "External9",
+            "voiceContent": "哼，我之前还以为，教令院里顶多是有一群自私自利的鬣狗在蝇营狗苟，结果…居然还有这么几匹喂不熟的白眼狼在作乱。依我看，那位小吉祥草王真是慈悲得有些过头了，对付这种劣兽，最好是连骨头都锤碎掉！就这么放他们去林子里歇着，真是太便宜他们了。",
+            "sourceName": "vo_dehya_teammate_nahida_01.wem"
+        },
+        "29d7a4f9ce0d32bc": {
+            "hash": "29d7a4f9ce0d32bc",
+            "directory": "External5",
+            "voiceContent": "你说坎蒂丝啊，她什么都好，就是性子犟得和驮兽一样。我和她说了好多次，别老是绷着弦，偶尔也要给自己放个假，比如去须弥城里逛逛，买点漂亮衣服首饰…但她总是说不放心村子，拒绝了我好多次。唉，实在不行，下次我帮她守村子，然后再拜托团里的妹子们带她进城玩玩好了。",
+            "sourceName": "vo_dehya_teammate_candace_01.wem"
+        },
+        "8d6c8a9d9bb8e34d": {
+            "hash": "8d6c8a9d9bb8e34d",
+            "directory": "External17",
+            "voiceContent": "那个商人啊。据说她那里什么都有得卖，只是价钱贵了点？哈哈，那我还挺希望和她见几面的，毕竟…有些佣兵需要的东西，在市场上真是拿钱都买不到啊。",
+            "sourceName": "vo_dehya_teammate_dori_01.wem"
+        },
+        "b7aafc1912e6fca4": {
+            "hash": "b7aafc1912e6fca4",
+            "directory": "External22",
+            "voiceContent": "那个成天迷迷糊糊的小丫头啊，我有印象。之前我在沙漠边缘的一个绿洲碰见过她，她好像是跟着教令院的什么队伍来观察星象，不过我也没有太留意。啥？坎蒂丝…星空的使者…这都什么乱七八糟的？这丫头不会还没睡醒吧。",
+            "sourceName": "vo_dehya_teammate_layla_01.wem"
+        },
+        "e6f733fb725155e3": {
+            "hash": "e6f733fb725155e3",
+            "directory": "External28",
+            "voiceContent": "我也是最近才知道他来自缄默之殿。哎呀，不好意思，我对缄默之殿这类神秘组织了解很少嘛。以前倒是在沙漠里见过他几回，他很好沟通，我的佣兵兄弟在沙漠遇到麻烦，他还把饮用水分给他们过。是个不错的人。",
+            "sourceName": "vo_dehya_teammate_sethos_01.wem"
+        },
+        "dbb5b09d177794a2": {
+            "hash": "dbb5b09d177794a2",
+            "directory": "External27",
+            "voiceContent": "他曾经邀请我过去教令院任职，但我过不惯那种死水一潭般的生活，就拒绝了。不过这位书记官说话时那种七拐八绕，又夹枪带棒的腔调，倒是很符合我对教令院学者的印象…",
+            "sourceName": "vo_dehya_teammate_alhaitham_01.wem"
+        },
+        "01a33a678dddb7ae": {
+            "hash": "01a33a678dddb7ae",
+            "directory": "External0",
+            "voiceContent": "那位「大风纪官」？是个雷厉风行的狠角色，处理某些事情的方法，也挺对我胃口的。",
+            "sourceName": "vo_dehya_teammate_cyno_01.wem"
+        },
+        "ede89ef51398c3f6": {
+            "hash": "ede89ef51398c3f6",
+            "directory": "External29",
+            "voiceContent": "解决了那件事之后，妮露也能更加自由地跳舞了吧。哦她上次还说，要把自己用的香粉捎一份给我，但我经常在外面奔波，就只能让她先送去坎蒂丝那里。唔…我也该找个时间过去看看了。",
+            "sourceName": "vo_dehya_teammate_nilou_01.wem"
+        },
+        "94e789100002cd98": {
+            "hash": "94e789100002cd98",
+            "directory": "External18",
+            "voiceContent": "我自小就在佣兵团里生活，玩具是木刀木剑，认识的人要么是佣兵，要么准备做佣兵，就连吃饭的木碗都是团里的人拿刀削出来的木碗。在这种环境下长大，要是我不做佣兵反而有点奇怪，对吧？",
+            "sourceName": "vo_dehya_friendship_01.wem"
+        },
+        "ff7296f57469271f": {
+            "hash": "ff7296f57469271f",
+            "directory": "External31",
+            "voiceContent": "我是哪里人？这我可不知道，我从来都没想过这方面的问题。但硬要说的话，我一直生活在沙漠里，应该算是「沙漠这边」的人吧。",
+            "sourceName": "vo_dehya_friendship_02.wem"
+        },
+        "a660b4fef056a5b6": {
+            "hash": "a660b4fef056a5b6",
+            "directory": "External20",
+            "voiceContent": "佣兵的工作可不容易，先不说接受的委托难度如何，更让人头疼的是完成委托后如何让客户迅速地结清钱款。教令院结钱最爽快，冒险家协会其次，结钱最不爽快的是那些做货物贸易的商人，他们总是说自己的资金正在周转，暂时拿不出多少现钱，让我再等等。嘁，拿不出钱，那他们车上那么多货是怎么来的？",
+            "sourceName": "vo_dehya_friendship_03.wem"
+        },
+        "4fd642e63b310e25": {
+            "hash": "4fd642e63b310e25",
+            "directory": "External9",
+            "voiceContent": "在之前那件事过后，教令院对于我们的态度也有了改变，据说还推出了一大堆帮助沙漠子民的条款。呃，那一大堆文件我是看不懂了，我只希望「防沙壁」从今往后只隔绝风沙，不要再阻断希望。",
+            "sourceName": "vo_dehya_friendship_04.wem"
+        },
+        "a53788ed45d5ee54": {
+            "hash": "a53788ed45d5ee54",
+            "directory": "External20",
+            "voiceContent": "大部分佣兵的抱负就是扬名立万，他们不断地接受高难度的委托，赚取财富和名声。有的人幸运地活下来，成为了传奇，有些人就在沙漠里默默无闻的消失。但我可没有那么「远大」的抱负，我只想要保护周围的人，让他们能安心地生活，这就足够了。要是能再赚点钱，那就更好了，哈哈。",
+            "sourceName": "vo_dehya_friendship_05.wem"
+        },
+        "8fc0f0e1d5bcde1c": {
+            "hash": "8fc0f0e1d5bcde1c",
+            "directory": "External17",
+            "voiceContent": "我有空的时候，最喜欢打理我的「妆匣」。里面的香粉和粉刷可都是我花大价钱收来的，你瞧瞧这粉质，多细腻啊！不管是流了汗，还是淋了雨，妆都不会花。哼哼，真是一分钱一分货。",
+            "sourceName": "vo_dehya_pref_hobby.wem"
+        },
+        "b1326b03ef5893f1": {
+            "hash": "b1326b03ef5893f1",
+            "directory": "External22",
+            "voiceContent": "又有几笔委托的钱款没结清，还有几个兄弟执行委托的时候闯了祸…唉，我明明不是团里的一把手，为什么还要操心这种事？",
+            "sourceName": "vo_dehya_dialog_annoyed.wem"
+        },
+        "8118d67d37f262c1": {
+            "hash": "8118d67d37f262c1",
+            "directory": "External16",
+            "voiceContent": "可别让我吃那种味道很苦的东西，我可受不了。",
+            "sourceName": "vo_dehya_pref_foodDislike.wem"
+        },
+        "2e82d1f35eb839b0": {
+            "hash": "2e82d1f35eb839b0",
+            "directory": "External5",
+            "voiceContent": "这道菜味道真不错！再多吃几口的话，我说不定以后就吃不下那些干粮啦。",
+            "sourceName": "vo_dehya_spice_pref_01.wem"
+        },
+        "6f0aab5617e5746a": {
+            "hash": "6f0aab5617e5746a",
+            "directory": "External13",
+            "voiceContent": "唔，如果当做干粮来看的话，味道还是不错的。",
+            "sourceName": "vo_dehya_spice_normal_01.wem"
+        },
+        "6ec4926c1120fcc6": {
+            "hash": "6ec4926c1120fcc6",
+            "directory": "External13",
+            "voiceContent": "至少…至少能填饱肚子，能安全填饱肚子的食物就是好食物！哈哈…",
+            "sourceName": "vo_dehya_spice_dislike_01.wem"
+        },
+        "050ba77aa191ac23": {
+            "hash": "050ba77aa191ac23",
+            "directory": "External0",
+            "voiceContent": "生日快乐！摸摸你的兜，礼物已经放在里面了。怎么做到的？一点佣兵的小把戏而已。先别管这些了，我在兰巴德酒馆已经订了一桌上好的酒席，咱们赶紧过去吧。嗯？放心，我没有让团里的其他人过来，这帮人吵吵嚷嚷的只会起哄，好不容易过个生日，我来陪你就够了，走吧走吧。",
+            "sourceName": "vo_dehya_pref_birthday_01.wem"
+        },
+        "a42d319e0a098b6b": {
+            "hash": "a42d319e0a098b6b",
+            "directory": "External20",
+            "voiceContent": "哦？力量真的在成长。",
+            "sourceName": "vo_dehya_starUp_01.wem"
+        },
+        "f750a3b6bc4a46f4": {
+            "hash": "f750a3b6bc4a46f4",
+            "directory": "External30",
+            "voiceContent": "感觉不错啊，这样挥起剑来也更有力了。",
+            "sourceName": "vo_dehya_starUp_02.wem"
+        },
+        "5098ddad408aed45": {
+            "hash": "5098ddad408aed45",
+            "directory": "External10",
+            "voiceContent": "这种力量…真想立刻去试试手，不然我们俩直接来过几招吧？",
+            "sourceName": "vo_dehya_starUp_03.wem"
+        },
+        "a7234fc5f5b084d6": {
+            "hash": "a7234fc5f5b084d6",
+            "directory": "External20",
+            "voiceContent": "没想到我居然还能有这样的成长，这都多亏了你。接下来有什么委托吗？无论是什么委托，只要你开口，我就会和你同行。",
+            "sourceName": "vo_dehya_starUp_04.wem"
+        },
+        "a11babb8187a49d7": {
+            "hash": "a11babb8187a49d7",
+            "directory": "External20",
+            "voiceContent": "哼…有点本事！",
+            "sourceName": "vo_dehya_life_less30_01.wem"
+        },
+        "20883dd2065c2a70": {
+            "hash": "20883dd2065c2a70",
+            "directory": "External4",
+            "voiceContent": "该动真格的了！",
+            "sourceName": "vo_dehya_life_less30_02.wem"
+        },
+        "a24597c9c2fc47f1": {
+            "hash": "a24597c9c2fc47f1",
+            "directory": "External20",
+            "voiceContent": "这不是正好？",
+            "sourceName": "vo_dehya_life_less30_03.wem"
+        },
+        "9bac92520fde6a4d": {
+            "hash": "9bac92520fde6a4d",
+            "directory": "External19",
+            "voiceContent": "佣兵的…宿命…",
+            "sourceName": "vo_dehya_life_die_03.wem"
+        },
+        "02257fbded854907": {
+            "hash": "02257fbded854907",
+            "directory": "External0",
+            "voiceContent": "有两下子…",
+            "sourceName": "vo_dehya_battle_hit_H_01.wem"
+        },
+        "331f8841c33bee43": {
+            "hash": "331f8841c33bee43",
+            "directory": "External6",
+            "voiceContent": "小花招！",
+            "sourceName": "vo_dehya_battle_hit_L_01.wem"
+        },
+        "d805b06e785c13ae": {
+            "hash": "d805b06e785c13ae",
+            "directory": "External27",
+            "voiceContent": "跟紧我，不要乱走，沙漠可不会对任何人留情。",
+            "sourceName": "vo_dehya_weather_desert_01.wem"
+        },
+        "c6e755c185dff735": {
+            "hash": "c6e755c185dff735",
+            "directory": "External24",
+            "voiceContent": "那当然是「枣椰蜜糖」了，既容易携带，味道又好。",
+            "sourceName": "vo_dehya_pref_foodLike_01.wem"
+        },
+        "ec36338b6e6e0536": {
+            "hash": "ec36338b6e6e0536",
+            "directory": "External29",
+            "voiceContent": "我叫迪希雅，就是你想要雇佣的那位佣兵。你有什么委托？打架？护送？无论是什么事，只要开口就行。",
+            "sourceName": "vo_dehya_draw_appear_01.wem"
+        },
+        "52743e592d813354": {
+            "hash": "52743e592d813354",
+            "directory": "External10",
+            "voiceContent": "唔，如果当做干粮来看的话…味道还是不错的。",
+            "sourceName": "vo_dehya_spice_event_normal_01.wem"
+        },
+        "563d768b55784b38": {
+            "hash": "563d768b55784b38",
+            "directory": "External10",
+            "voiceContent": "至少…至少能填饱肚子，能安全填饱肚子的食物就是好食物！哈哈哈…",
+            "sourceName": "vo_dehya_spice_event_dislike_01.wem"
+        },
+        "5387c3e95bd9ab2e": {
+            "hash": "5387c3e95bd9ab2e",
+            "directory": "External10",
+            "voiceContent": "这道菜味道真不错！再多吃几口的话，我说不定以后就吃不下那些干粮啦。",
+            "sourceName": "vo_dehya_spice_event_pref_01.wem"
+        },
+        "7a139503f773b9cf": {
+            "hash": "7a139503f773b9cf",
+            "directory": "External15",
+            "voiceContent": "让我占个便宜吧。",
+            "sourceName": "vo_card_dehya_inGame_easy_01.wem"
+        },
+        "d4f188c6ccd3dd7f": {
+            "hash": "d4f188c6ccd3dd7f",
+            "directory": "External26",
+            "voiceContent": "真会抓时机啊…",
+            "sourceName": "vo_card_dehya_inGame_hard_02.wem"
+        },
+        "d3feb4b522814a05": {
+            "hash": "d3feb4b522814a05",
+            "directory": "External26",
+            "voiceContent": "我就不留情了。",
+            "sourceName": "vo_card_dehya_inGame_hard_04.wem"
+        },
+        "689a6115071fd449": {
+            "hash": "689a6115071fd449",
+            "directory": "External13",
+            "voiceContent": "还有点棘手了…",
+            "sourceName": "vo_card_dehya_inGame_easy_03.wem"
+        },
+        "15a8fadee46e2e78": {
+            "hash": "15a8fadee46e2e78",
+            "directory": "External2",
+            "voiceContent": "你应该还撑得住吧？",
+            "sourceName": "vo_card_dehya_inGame_hard_01.wem"
+        },
+        "475aa2eb56ed1372": {
+            "hash": "475aa2eb56ed1372",
+            "directory": "External8",
+            "voiceContent": "看好了！",
+            "sourceName": "vo_card_dehya_inGame_easy_04.wem"
+        },
+        "272226cdd4c20596": {
+            "hash": "272226cdd4c20596",
+            "directory": "External4",
+            "voiceContent": "还挺有本事的。",
+            "sourceName": "vo_card_dehya_inGame_hard_03.wem"
+        },
+        "bacac71c0f0d9d88": {
+            "hash": "bacac71c0f0d9d88",
+            "directory": "External23",
+            "voiceContent": "你倒是机灵。",
+            "sourceName": "vo_card_dehya_inGame_easy_02.wem"
+        }
+    }
+}

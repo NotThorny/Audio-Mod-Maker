@@ -1,0 +1,950 @@
+{
+    "Teapot": {
+        "a6cc79a8aa0fd94f": {
+            "hash": "a6cc79a8aa0fd94f",
+            "directory": "External20",
+            "voiceContent": "自分の傭兵団の旗を立てておきさえすれば、勘のいい傭兵が自分から痛い目にあいにくることもないだろ。",
+            "sourceName": "vo_mimiTomo_xm_dehya_barracks_02.wem"
+        },
+        "3bf2368c686729c4": {
+            "hash": "3bf2368c686729c4",
+            "directory": "External7",
+            "voiceContent": "旅人がここまで準備してくれたんだ…あたしの肉を焼く腕前を見せる時が来たな。",
+            "sourceName": "vo_mimiTomo_xm_dehya_kabobRestaurant_02.wem"
+        },
+        "117a0474eeb3aabb": {
+            "hash": "117a0474eeb3aabb",
+            "directory": "External2",
+            "voiceContent": "旅人は焼肉屋を丸々運んで来たのか？肉を焼く道具がこんなに…テーブルや椅子、コンロまで揃ってるぞ。",
+            "sourceName": "vo_mimiTomo_xm_dehya_kabobRestaurant_01.wem"
+        },
+        "e783abc0c1a9bd08": {
+            "hash": "e783abc0c1a9bd08",
+            "directory": "External28",
+            "voiceContent": "旗と武器棚、これは傭兵が野営する時の二大自衛手段だ。",
+            "sourceName": "vo_mimiTomo_xm_dehya_barracks_01.wem"
+        },
+        "250f17b0ed6fae66": {
+            "hash": "250f17b0ed6fae66",
+            "directory": "External4",
+            "voiceContent": "その警告を無視してトラブルを起こしに来るやつがいたら…今度は武器棚の出番ってわけだ。",
+            "sourceName": "vo_mimiTomo_xm_dehya_barracks_03.wem"
+        },
+        "bde6708425365355": {
+            "hash": "bde6708425365355",
+            "directory": "External23",
+            "voiceContent": "何だって？ここにいる動物を狩っちゃだめなのか？まあいい、あたしは先に出かけて、新鮮な肉を持って帰ってくるとしよう…",
+            "sourceName": "vo_mimiTomo_xm_dehya_kabobRestaurant_03.wem"
+        },
+        "3f522d41d9adf05c": {
+            "hash": "3f522d41d9adf05c",
+            "directory": "External7",
+            "voiceContent": "もし砂漠で生き残りたいのなら、こういった問題は解決しなきゃいけないもんだ。",
+            "sourceName": "vo_dehya_mimitomo_friendship1_03.wem"
+        },
+        "3941f9d7f898b26f": {
+            "hash": "3941f9d7f898b26f",
+            "directory": "External7",
+            "voiceContent": "そういうことだな。あたしは以前、冒険者協会が実際に「湧泉」に関する依頼を一回だけ受けたと聞いたことがある。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_09.wem"
+        },
+        "42e954cc285277b2": {
+            "hash": "42e954cc285277b2",
+            "directory": "External8",
+            "voiceContent": "壺なんてものに入ったのはこれが初めてだが、そのことを他の人に言っても、誰も信じてくれないだろう。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_03.wem"
+        },
+        "aad04738f8673bed": {
+            "hash": "aad04738f8673bed",
+            "directory": "External21",
+            "voiceContent": "地面から突然魔物が飛び出してくることもなければ、いつも空から食べ物を狙ってくる赤鷲がいるわけでもない。",
+            "sourceName": "vo_dehya_mimitomo_friendship1_02.wem"
+        },
+        "f02d8a1c349425f7": {
+            "hash": "f02d8a1c349425f7",
+            "directory": "External30",
+            "voiceContent": "あぁ、ちょうど退屈してたところだ。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_01.wem"
+        },
+        "c4dcc6c3e5204dfb": {
+            "hash": "c4dcc6c3e5204dfb",
+            "directory": "External24",
+            "voiceContent": "強いて言えば、まずはこの場所を回ってみたいかな。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_02.wem"
+        },
+        "7cdda9320573fc6a": {
+            "hash": "7cdda9320573fc6a",
+            "directory": "External15",
+            "voiceContent": "ハハハ、ここは砂漠よりよっぽどマシだからな。急に暑くなったり寒くなったりしないし、砂嵐や強風もない…",
+            "sourceName": "vo_dehya_mimitomo_friendship1_01.wem"
+        },
+        "3c859bf68813dd1c": {
+            "hash": "3c859bf68813dd1c",
+            "directory": "External7",
+            "voiceContent": "そこで冒険者協会は、比較的経験豊富な冒険者たちを選んで、砂漠を進むうえでの護衛とした。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_11.wem"
+        },
+        "f7d840dcf8653b56": {
+            "hash": "f7d840dcf8653b56",
+            "directory": "External30",
+            "voiceContent": "じゃあ、あたしを連れて辺りを案内してくれないか？この壺に住んでる他のやつを紹介してくれよ。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_10.wem"
+        },
+        "76ef029faa0ec098": {
+            "hash": "76ef029faa0ec098",
+            "directory": "External14",
+            "voiceContent": "それどころか、何かの物音で起こされることもなく、自然に目が覚めた…実を言うと、まだちょっと慣れてないんだ。",
+            "sourceName": "vo_dehya_mimitomo_morning_02.wem"
+        },
+        "d8c45609ec2b479d": {
+            "hash": "d8c45609ec2b479d",
+            "directory": "External27",
+            "voiceContent": "「湧泉」の水源はたしかに砂漠の底にある地下水だが、そういうところの水は渋くて苦い。喉の渇きを癒すどころか、口に入れることすらできやしないんだ。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_07.wem"
+        },
+        "b65a78fce074b5c8": {
+            "hash": "b65a78fce074b5c8",
+            "directory": "External22",
+            "voiceContent": "そうでなければ…せいぜいシティの酒場で何杯か飲んで、息抜きするくらいかな。自分で言うのもなんだが、そもそもあたしは長いこと暇になったためしがなくてな。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_05.wem"
+        },
+        "fefd49de732da933": {
+            "hash": "fefd49de732da933",
+            "directory": "External31",
+            "voiceContent": "それ以降…冒険者協会は同じような依頼を二度と受けなくなったらしい。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_12.wem"
+        },
+        "75a246e4c8d91e0f": {
+            "hash": "75a246e4c8d91e0f",
+            "directory": "External14",
+            "voiceContent": "生きていくためにはそうしなきゃならないし、人がそれぞれ違う重荷を背負ってるのはしょうがない。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_06.wem"
+        },
+        "8353f068fd2f2488": {
+            "hash": "8353f068fd2f2488",
+            "directory": "External16",
+            "voiceContent": "おや？ようやくお出ましか。何かいい依頼はあったか？",
+            "sourceName": "vo_dehya_mimitomo_hello_02.wem"
+        },
+        "429cbe50e59540cf": {
+            "hash": "429cbe50e59540cf",
+            "directory": "External8",
+            "voiceContent": "この場所は快適だけど、やることがあんまり無いな。ちょっとばかし退屈だぜ…",
+            "sourceName": "vo_dehya_mimitomo_hello_01.wem"
+        },
+        "5e57c8fad54039ed": {
+            "hash": "5e57c8fad54039ed",
+            "directory": "External11",
+            "voiceContent": "休むのか？あぁ、安心して寝るといい。あたしは周囲の様子を見に行ってこよう。",
+            "sourceName": "vo_dehya_mimitomo_night_01.wem"
+        },
+        "ef55f8db5ed57f04": {
+            "hash": "ef55f8db5ed57f04",
+            "directory": "External29",
+            "voiceContent": "ここでか？うーん、しばらくは特にやりたいことも思いつかないな…",
+            "sourceName": "vo_dehya_mimitomo_friendship3_01.wem"
+        },
+        "11bfa316b98a3e3d": {
+            "hash": "11bfa316b98a3e3d",
+            "directory": "External2",
+            "voiceContent": "この稼業で飯を食ってる人間は大勢いるわけだからな、仕事を疎かにすれば、次が最後の食事になるってわけだ。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_08.wem"
+        },
+        "1adb9c33ae74fd10": {
+            "hash": "1adb9c33ae74fd10",
+            "directory": "External3",
+            "voiceContent": "砂漠に、ある種の「湧泉」みたいなものがあるのを知っているか？",
+            "sourceName": "vo_dehya_mimitomo_friendship2_02.wem"
+        },
+        "a641891f9ad0f36c": {
+            "hash": "a641891f9ad0f36c",
+            "directory": "External20",
+            "voiceContent": "ハハハ、まあいいんだ、こんな話はやめようぜ。せっかくあんたのおかげで暇ができたんだから、くつろげる時間を無駄にしたくない。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_09.wem"
+        },
+        "642912f5d8853889": {
+            "hash": "642912f5d8853889",
+            "directory": "External12",
+            "voiceContent": "それはもちろん武器の手入れをして、次に解決すべき依頼を確認することだ。それから、時間を見つけて睡眠を取ることもな。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_04.wem"
+        },
+        "69e03c12ca8ed3cc": {
+            "hash": "69e03c12ca8ed3cc",
+            "directory": "External13",
+            "voiceContent": "だけど、こういった見解はあくまで伝説にすぎない。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_06.wem"
+        },
+        "9c98f62b6b151a91": {
+            "hash": "9c98f62b6b151a91",
+            "directory": "External19",
+            "voiceContent": "うーん、ちょっと違うんだ。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_03.wem"
+        },
+        "407c1953842fee7e": {
+            "hash": "407c1953842fee7e",
+            "directory": "External8",
+            "voiceContent": "おっと、なんで眉をひそめてるんだ？もしかして怖がらせちまったか？",
+            "sourceName": "vo_dehya_mimitomo_friendship1_05.wem"
+        },
+        "7b593801bae2599a": {
+            "hash": "7b593801bae2599a",
+            "directory": "External15",
+            "voiceContent": "こういった「湧泉」は一般的に砂漠の奥に出現し、いくつかの怪しい伝説によれば、それはアフマルの恩恵だとか言われてる。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_04.wem"
+        },
+        "b78497e03bf88686": {
+            "hash": "b78497e03bf88686",
+            "directory": "External22",
+            "voiceContent": "そして、こうした「湧泉」は通常、時間が経つと風で砂に埋もれてしまって、目印としての役割すら果たせない。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_08.wem"
+        },
+        "e17a10851e751a1f": {
+            "hash": "e17a10851e751a1f",
+            "directory": "External28",
+            "voiceContent": "見た感じ、あんたも元気そうだな。ここの環境は確かにいい。昨夜はよく眠れたよ。",
+            "sourceName": "vo_dehya_mimitomo_morning_01.wem"
+        },
+        "9ab7275bb2c32721": {
+            "hash": "9ab7275bb2c32721",
+            "directory": "External19",
+            "voiceContent": "安心しな、あんたにはあたしっていう助っ人がいる。今後砂漠に用事があるなら、あたしを呼んでくれ。全部あたしに任せてくれればいい。",
+            "sourceName": "vo_dehya_mimitomo_friendship1_06.wem"
+        },
+        "30652af3e24cfa6a": {
+            "hash": "30652af3e24cfa6a",
+            "directory": "External6",
+            "voiceContent": "あんたの見解では、この壺は絶対に安全だって話だったが…それでも見張りも立たせずに寝るってのは、あたしにとっては少し不安だ。",
+            "sourceName": "vo_dehya_mimitomo_night_02.wem"
+        },
+        "f3e4e4ed0c38f326": {
+            "hash": "f3e4e4ed0c38f326",
+            "directory": "External30",
+            "voiceContent": "特に傭兵の仕事ってのは、往々にして依頼がまだ終わっていないうちから、次の依頼を探しに行く。",
+            "sourceName": "vo_dehya_mimitomo_friendship3_07.wem"
+        },
+        "a5a7a2d5f077123f": {
+            "hash": "a5a7a2d5f077123f",
+            "directory": "External20",
+            "voiceContent": "特にあの…マルって呼ばれてる鳥、見たところあいつも壺を持ってるよな…？",
+            "sourceName": "vo_dehya_mimitomo_friendship3_11.wem"
+        },
+        "28f1e9fab2c576e3": {
+            "hash": "28f1e9fab2c576e3",
+            "directory": "External5",
+            "voiceContent": "かの民が砂漠に取り残された時、アフマルは地下の水源を地表に溢れさせ、喉の渇きを癒やすためにこうした泉を形成するよう命じた…",
+            "sourceName": "vo_dehya_mimitomo_friendship2_05.wem"
+        },
+        "ab69b5eda9b051ad": {
+            "hash": "ab69b5eda9b051ad",
+            "directory": "External21",
+            "voiceContent": "依頼の具体的な内容は…スメールを訪れた外国人たちが、砂漠のそうした「湧泉」を見に行きたがったというものだった。",
+            "sourceName": "vo_dehya_mimitomo_friendship2_10.wem"
+        },
+        "998e3b4a0842dc07": {
+            "hash": "998e3b4a0842dc07",
+            "directory": "External19",
+            "voiceContent": "それだけじゃない、悪意のある人間にも注意しなきゃいけないしな…",
+            "sourceName": "vo_dehya_mimitomo_friendship1_04.wem"
+        }
+    },
+    "Quests": {
+        "efd798aa23bb0f86": {
+            "hash": "efd798aa23bb0f86",
+            "directory": "External29",
+            "voiceContent": "そういえばキャンディス…楽器、うますぎだろ！どうして普段からもっと演奏してくれないんだ？",
+            "sourceName": "vo_HSEQ003_18_dehya_03.wem"
+        },
+        "7194faa1e05b3b6f": {
+            "hash": "7194faa1e05b3b6f",
+            "directory": "External14",
+            "voiceContent": "それくらいイイじゃないか！せっかくの祭りなんだから、思い切って楽しまないとな！",
+            "sourceName": "vo_HSEQ003_18_dehya_02.wem"
+        },
+        "9d5a9dde548e6802": {
+            "hash": "9d5a9dde548e6802",
+            "directory": "External19",
+            "voiceContent": "フロート車のパレードのあとは、誕生日パーティーに誘うつもりだ。だから、ハフト・スィーンとかも外せない。",
+            "sourceName": "vo_HSEQ001_2_dehya_06.wem"
+        },
+        "f7cbbbe6834f4c25": {
+            "hash": "f7cbbbe6834f4c25",
+            "directory": "External30",
+            "voiceContent": "ドニアザードもいいアイデアだって言ってくれたし、みんなに相談したら話がサクサク進んでな。",
+            "sourceName": "vo_HSEQ001_2_dehya_05.wem"
+        },
+        "be9a5c0804c12919": {
+            "hash": "be9a5c0804c12919",
+            "directory": "External23",
+            "voiceContent": "心配すんなって。あたしたち傭兵は、秘密を守ることを命よりも大切にしてるからな。",
+            "sourceName": "vo_HSEQ001_2_dehya_01.wem"
+        },
+        "f6a28fd4d8ce94cb": {
+            "hash": "f6a28fd4d8ce94cb",
+            "directory": "External30",
+            "voiceContent": "だったらキャンディス、さっき買い出しを手伝ってほしいって言ってたよな？ほら、渡りに船ってやつだぜ。",
+            "sourceName": "vo_HSEQ001_2_dehya_07.wem"
+        },
+        "4d2d01ed8df42c54": {
+            "hash": "4d2d01ed8df42c54",
+            "directory": "External9",
+            "voiceContent": "ん？ああ、ドニアザードと話してたらふと思いついたんだ。花神誕祭って、毎年似たり寄ったりだろ？今年はちょっと特別な企画があってもいいと思ってさ。",
+            "sourceName": "vo_HSEQ001_2_dehya_04.wem"
+        },
+        "0ac00c492f058101": {
+            "hash": "0ac00c492f058101",
+            "directory": "External1",
+            "voiceContent": "よし、決まりだな！飾りはあたしとドニアザードが担当する。パーティー会場はティナリに任せた。",
+            "sourceName": "vo_HSEQ001_2_dehya_09.wem"
+        },
+        "a7680ff5bc87651f": {
+            "hash": "a7680ff5bc87651f",
+            "directory": "External20",
+            "voiceContent": "おっ、旅人にパイモン！ここで会えるなんてな！",
+            "sourceName": "vo_HSEQ001_2_dehya_03.wem"
+        },
+        "4e562dff3874e3b6": {
+            "hash": "4e562dff3874e3b6",
+            "directory": "External9",
+            "voiceContent": "ただの例え話だよ。あたしの言いたいことは分かるだろ？",
+            "sourceName": "vo_HSEQ001_2_dehya_02.wem"
+        },
+        "b1ae3252aaf30d00": {
+            "hash": "b1ae3252aaf30d00",
+            "directory": "External22",
+            "voiceContent": "おっ、パイモン、ずいぶん口が上手くなったな。",
+            "sourceName": "vo_HSEQ001_2_dehya_08.wem"
+        },
+        "b9109e66e8f2d74d": {
+            "hash": "b9109e66e8f2d74d",
+            "directory": "External23",
+            "voiceContent": "ま、仕方ないよな。キャラバンは待ってくれないし…だから先に来て、キャンディスを待ってるんだ。",
+            "sourceName": "vo_HDJHK003_2_dehya_09.wem"
+        },
+        "955dd4108733f4e4": {
+            "hash": "955dd4108733f4e4",
+            "directory": "External18",
+            "voiceContent": "ちょうどいいところに来てくれたぜ。あんたなら色々知ってるだろ。アドバイスしてくれよ。",
+            "sourceName": "vo_HDJHK003_2_dehya_13.wem"
+        },
+        "4145ae2483993825": {
+            "hash": "4145ae2483993825",
+            "directory": "External8",
+            "voiceContent": "旅人、奇遇だな。あんたも海灯祭に遊びにきたのか？",
+            "sourceName": "vo_HDJHK003_2_dehya_01.wem"
+        },
+        "e6d4901c54d85402": {
+            "hash": "e6d4901c54d85402",
+            "directory": "External28",
+            "voiceContent": "ああ、キャンディスに贈りたくて。でも、まだ納得の行くものが出来てないんだ。ちょうど、新しく作り直そうとしていたところだ。",
+            "sourceName": "vo_HDJHK003_2_dehya_02.wem"
+        },
+        "f0e20233bcd1511f": {
+            "hash": "f0e20233bcd1511f",
+            "directory": "External30",
+            "voiceContent": "それでもダメって言うんだ。最終的に、村のやつらにも長いこと説得されて、やっと休みを取ってくれたんだ。",
+            "sourceName": "vo_HDJHK003_2_dehya_07.wem"
+        },
+        "08144e46050b1519": {
+            "hash": "08144e46050b1519",
+            "directory": "External1",
+            "voiceContent": "一年間頑張ったんだから気分転換しよう、あたしもちょうど璃月に向かうキャラバンを護衛するから、一緒に璃月の海灯祭に参加しよう——",
+            "sourceName": "vo_HDJHK003_2_dehya_05.wem"
+        },
+        "8656f44e486af798": {
+            "hash": "8656f44e486af798",
+            "directory": "External16",
+            "voiceContent": "あたしが一緒に璃月に行こうと誘ったんだが、最初は断られたんだ。村を守らなきゃって言われて…",
+            "sourceName": "vo_HDJHK003_2_dehya_04.wem"
+        },
+        "90cdaffed9ce6e12": {
+            "hash": "90cdaffed9ce6e12",
+            "directory": "External18",
+            "voiceContent": "結局、ネックレスを選んだんだけどな。璃月の人は海灯祭で贈り物をする時に「祝灯状」っていう特別な手紙を添えるって聞いたから、あたしも自分用に一枚作ってみようと思ってさ。",
+            "sourceName": "vo_HDJHK003_2_dehya_11.wem"
+        },
+        "4a2c846fc75662bc": {
+            "hash": "4a2c846fc75662bc",
+            "directory": "External9",
+            "voiceContent": "ただ、まだやるべきことがあるから、全部済ませてから、ここに来ることになってる。",
+            "sourceName": "vo_HDJHK003_2_dehya_08.wem"
+        },
+        "401c8212d91880cb": {
+            "hash": "401c8212d91880cb",
+            "directory": "External8",
+            "voiceContent": "キャンディスも来るさ。ただ…もうしばらくは無理だ。",
+            "sourceName": "vo_HDJHK003_2_dehya_03.wem"
+        },
+        "17510e0844016b75": {
+            "hash": "17510e0844016b75",
+            "directory": "External2",
+            "voiceContent": "でも…さっきも言った通り、どう頑張っても納得行くのが作れないんだ。",
+            "sourceName": "vo_HDJHK003_2_dehya_12.wem"
+        },
+        "12c221f6969df75b": {
+            "hash": "12c221f6969df75b",
+            "directory": "External2",
+            "voiceContent": "何かプレゼントを買おうと思ってたんだが、いいものがありすぎて、迷いに迷っちまったよ。",
+            "sourceName": "vo_HDJHK003_2_dehya_10.wem"
+        },
+        "97d0203d38becfb6": {
+            "hash": "97d0203d38becfb6",
+            "directory": "External18",
+            "voiceContent": "村のことが気がかりなら、旅団の仲間たちに村を守ってもらうから、とまで言ったんだけどさ。",
+            "sourceName": "vo_HDJHK003_2_dehya_06.wem"
+        },
+        "fe54db6dc10ad6ff": {
+            "hash": "fe54db6dc10ad6ff",
+            "directory": "External31",
+            "voiceContent": "へえ…やっぱ、器用だな。綺麗だ、ありがとう。",
+            "sourceName": "vo_HDJHK003_4_dehya_01.wem"
+        },
+        "a2efe953e7f5ad62": {
+            "hash": "a2efe953e7f5ad62",
+            "directory": "External20",
+            "voiceContent": "それにしても、あいつ…まだ来ないのか？",
+            "sourceName": "vo_HDJHK003_4_dehya_04.wem"
+        },
+        "c0c9a77d95454579": {
+            "hash": "c0c9a77d95454579",
+            "directory": "External24",
+            "voiceContent": "祝灯状はもう一通作って、キャンディスが着いたら、ネックレスに添えてプレゼントしようと思ってる。きっと喜んでくれるぜ。",
+            "sourceName": "vo_HDJHK003_4_dehya_03.wem"
+        },
+        "3f0c4d85d8a527f8": {
+            "hash": "3f0c4d85d8a527f8",
+            "directory": "External7",
+            "voiceContent": "この祝灯状はあんたからの贈り物ってことで、もらっとくよ。今は良いものを持ってないから、スメールに戻ったら…お返しさせてくれ。",
+            "sourceName": "vo_HDJHK003_4_dehya_02.wem"
+        },
+        "568f6a24f10625b2": {
+            "hash": "568f6a24f10625b2",
+            "directory": "External10",
+            "voiceContent": "そういや、キャンディスもパレードに参加するんだよな？確か…演奏って言ってたか？",
+            "sourceName": "vo_HSEQ003_15_dehya_04.wem"
+        },
+        "ca008e55a92863c8": {
+            "hash": "ca008e55a92863c8",
+            "directory": "External25",
+            "voiceContent": "あんたたちがいない間に、キャンディタワーの枠組みを作ったぞ。",
+            "sourceName": "vo_HSEQ003_15_dehya_02.wem"
+        },
+        "89485c3d918ccc0f": {
+            "hash": "89485c3d918ccc0f",
+            "directory": "External17",
+            "voiceContent": "おっ！やっと戻って来たか！もう少しで傭兵の仲間たちを呼ぶところだったぜ！",
+            "sourceName": "vo_HSEQ003_15_dehya_01.wem"
+        },
+        "77cf284ea138e689": {
+            "hash": "77cf284ea138e689",
+            "directory": "External14",
+            "voiceContent": "よろしく頼むぜ！",
+            "sourceName": "vo_HSEQ003_15_dehya_03.wem"
+        },
+        "bcc3fe0f983f2992": {
+            "hash": "bcc3fe0f983f2992",
+            "directory": "External23",
+            "voiceContent": "ちょうどいいところに来てくれたぜ。あんたなら色々知ってるだろ。アドバイスしてくれよ。",
+            "sourceName": "vo_HDJHK003_3_dehya_01.wem"
+        },
+        "544d2e9c82c0b3ae": {
+            "hash": "544d2e9c82c0b3ae",
+            "directory": "External10",
+            "voiceContent": "ファデュイめ、いい度胸だな！どうやらお仕置きが必要らしい。",
+            "sourceName": "vo_XMAQ302_9_dehya_01.wem"
+        },
+        "8276fca375e38751": {
+            "hash": "8276fca375e38751",
+            "directory": "External16",
+            "voiceContent": "ハァ？犬のくせに、主人への感情が湧いてきたか？",
+            "sourceName": "vo_XMAQ302_9_dehya_02.wem"
+        },
+        "281f7d144670f21d": {
+            "hash": "281f7d144670f21d",
+            "directory": "External5",
+            "voiceContent": "植生がこんなにも豊かだなんて…思ってたのとちょっと違ったぜ。",
+            "sourceName": "vo_XMAQ106_3_dehya_06.wem"
+        }
+    },
+    "Gameplay": {
+        "4775d363bc5c53d3": {
+            "hash": "4775d363bc5c53d3",
+            "directory": "External8",
+            "voiceContent": "やるか！",
+            "sourceName": "vo_dehya_battle_skill1_01.wem"
+        },
+        "dd21a57e4825063c": {
+            "hash": "dd21a57e4825063c",
+            "directory": "External27",
+            "voiceContent": "手加減ナシだぜ。",
+            "sourceName": "vo_dehya_battle_skill1_02.wem"
+        },
+        "4c05bf7569c17acd": {
+            "hash": "4c05bf7569c17acd",
+            "directory": "External9",
+            "voiceContent": "行くぞ！",
+            "sourceName": "vo_dehya_battle_skill1_03.wem"
+        },
+        "de9303ad2cab2db1": {
+            "hash": "de9303ad2cab2db1",
+            "directory": "External27",
+            "voiceContent": "耐えられるかな？",
+            "sourceName": "vo_dehya_battle_skill3_01.wem"
+        },
+        "5845b5a3c2a5db8e": {
+            "hash": "5845b5a3c2a5db8e",
+            "directory": "External11",
+            "voiceContent": "ここであんたを潰す！",
+            "sourceName": "vo_dehya_battle_skill3_02.wem"
+        },
+        "da03179b7f460697": {
+            "hash": "da03179b7f460697",
+            "directory": "External27",
+            "voiceContent": "歯ぁ食いしばれよ！",
+            "sourceName": "vo_dehya_battle_skill3_03.wem"
+        },
+        "210e5fd6c931c8d8": {
+            "hash": "210e5fd6c931c8d8",
+            "directory": "External4",
+            "voiceContent": "おぉ～予想外の収穫だな…",
+            "sourceName": "vo_dehya_chest_open_01.wem"
+        },
+        "8b986dbc3d966f5f": {
+            "hash": "8b986dbc3d966f5f",
+            "directory": "External17",
+            "voiceContent": "ハハッ、悪くない。",
+            "sourceName": "vo_dehya_chest_open_02.wem"
+        },
+        "35ed8bc5bc68c9f6": {
+            "hash": "35ed8bc5bc68c9f6",
+            "directory": "External6",
+            "voiceContent": "いい値段で売れそうだ。",
+            "sourceName": "vo_dehya_chest_open_03.wem"
+        },
+        "0a73d93fe4504e10": {
+            "hash": "0a73d93fe4504e10",
+            "directory": "External1",
+            "voiceContent": "落ち着け。慌てるな！",
+            "sourceName": "vo_dehya_life_less30_teammate_01.wem"
+        },
+        "dfc5c7286a6f76f7": {
+            "hash": "dfc5c7286a6f76f7",
+            "directory": "External27",
+            "voiceContent": "下がれ、あたしが行く！",
+            "sourceName": "vo_dehya_life_less30_teammate_02.wem"
+        },
+        "51ff266f56b19c05": {
+            "hash": "51ff266f56b19c05",
+            "directory": "External10",
+            "voiceContent": "こいつは…まずいな…",
+            "sourceName": "vo_dehya_life_die_01.wem"
+        },
+        "f78d086727ef05e2": {
+            "hash": "f78d086727ef05e2",
+            "directory": "External30",
+            "voiceContent": "油断…しちまった…",
+            "sourceName": "vo_dehya_life_die_02.wem"
+        },
+        "6a0ea6a92620b495": {
+            "hash": "6a0ea6a92620b495",
+            "directory": "External13",
+            "voiceContent": "あんたに従おう。",
+            "sourceName": "vo_dehya_teamJoin_01.wem"
+        },
+        "3848c8a22fed0db2": {
+            "hash": "3848c8a22fed0db2",
+            "directory": "External7",
+            "voiceContent": "何か依頼があるのか？",
+            "sourceName": "vo_dehya_teamJoin_02.wem"
+        },
+        "ba3c3a99ecbae3fb": {
+            "hash": "ba3c3a99ecbae3fb",
+            "directory": "External23",
+            "voiceContent": "さて、仕事を始めるか。",
+            "sourceName": "vo_dehya_teamJoin_03.wem"
+        },
+        "13167781b898a64a": {
+            "hash": "13167781b898a64a",
+            "directory": "External2",
+            "voiceContent": "傭兵としてのモットー？ハハッ、簡単な話さ…より多く金を出したやつのために仕事をするんだ。",
+            "sourceName": "vo_dehya_character_idle_01.wem"
+        },
+        "992d958b2270174d": {
+            "hash": "992d958b2270174d",
+            "directory": "External19",
+            "voiceContent": "砂漠ってのは付き合いにくい相手だが、少なくとも公明正大だ。危険や挑戦はすべて目に見えるようにしてくれてる。",
+            "sourceName": "vo_dehya_character_idle_02.wem"
+        },
+        "2a497b9400d3a2bc": {
+            "hash": "2a497b9400d3a2bc",
+            "directory": "External5",
+            "voiceContent": "あたしらは砂漠に慣れちゃいるが…それでもいつかは風砂とおさらばして、どこかのオアシスで楽しく暮らせる日が来ることを願ってるよ。",
+            "sourceName": "vo_dehya_character_idle_03.wem"
+        },
+        "2bf14f43811efa8c": {
+            "hash": "2bf14f43811efa8c",
+            "directory": "External5",
+            "voiceContent": "傭兵団のご老人から聞いたんだが…砂漠にもたまには雨が降るんだってな。しかも、ここより遥かに激しいらしいぜ。",
+            "sourceName": "vo_dehya_weather_heavyRain_01.wem"
+        },
+        "2abc16fb69768c6f": {
+            "hash": "2abc16fb69768c6f",
+            "directory": "External5",
+            "voiceContent": "雷の音、結構大きいな…色んな音をかき消してくれそうだ。",
+            "sourceName": "vo_dehya_weather_thunder_01.wem"
+        },
+        "303139469c885c4e": {
+            "hash": "303139469c885c4e",
+            "directory": "External6",
+            "voiceContent": "風が出てきたな…野営地は風下に作った方が安全だろう。",
+            "sourceName": "vo_dehya_weather_breezy_01.wem"
+        },
+        "0e76e136608ae4b3": {
+            "hash": "0e76e136608ae4b3",
+            "directory": "External1",
+            "voiceContent": "うぅ…ここは夜の砂漠よりも寒いぜ…",
+            "sourceName": "vo_dehya_weather_snowy_01.wem"
+        },
+        "f747cc3d50e08c2e": {
+            "hash": "f747cc3d50e08c2e",
+            "directory": "External30",
+            "voiceContent": "いい天気だ。今ある仕事がもう少し楽だったらもっとよかったんだが。",
+            "sourceName": "vo_dehya_weather_sunny_01.wem"
+        },
+        "a8534fa6172c8e9e": {
+            "hash": "a8534fa6172c8e9e",
+            "directory": "External21",
+            "voiceContent": "元気そうじゃないか。だったら、さっさと拠点を発とうぜ。",
+            "sourceName": "vo_dehya_dialog_greetingMorning.wem"
+        },
+        "4229d1ff7ccb987a": {
+            "hash": "4229d1ff7ccb987a",
+            "directory": "External8",
+            "voiceContent": "もう昼か…いい場所があったら、すぐにかまどを設けて料理をするとしようか。",
+            "sourceName": "vo_dehya_dialog_greetingNoon.wem"
+        },
+        "1d26a9e34cdeafa4": {
+            "hash": "1d26a9e34cdeafa4",
+            "directory": "External3",
+            "voiceContent": "こんな遅くまで仕事か？あたしら傭兵よりも大変そうだな。",
+            "sourceName": "vo_dehya_dialog_greetingNight.wem"
+        },
+        "1c569ee39b7be1ec": {
+            "hash": "1c569ee39b7be1ec",
+            "directory": "External3",
+            "voiceContent": "もう夜も遅い。今晩の見回りはあたしに任せて、あんたは早く休みな。",
+            "sourceName": "vo_dehya_dialog_greetingNight2.wem"
+        },
+        "b4776213cbf03763": {
+            "hash": "b4776213cbf03763",
+            "directory": "External22",
+            "voiceContent": "エルマイト旅団なんてのはただの「肩書き」さ。スメールの傭兵なら誰だって「エルマイト旅団」の一員を自称できる。中にはそれを利用して外から来たやつを騙す傭兵だっているんだ…ふん、おかげで、今や「エルマイト旅団」の名はますます嫌われちまってる。",
+            "sourceName": "vo_dehya_dialog_idle.wem"
+        },
+        "3995ee4b7b81587d": {
+            "hash": "3995ee4b7b81587d",
+            "directory": "External7",
+            "voiceContent": "…クセラか…だらしなくて、そのくせ気取るのが好きな傭兵だったよ。砂漠の中から救ってくれて、持てる全てをあたしにくれたんだ。…あいつのおかげで、あたしは今のあたしにまで成長できた。",
+            "sourceName": "vo_dehya_dialog_idle2.wem"
+        },
+        "b2272f3824021ecc": {
+            "hash": "b2272f3824021ecc",
+            "directory": "External22",
+            "voiceContent": "友達？うーん…あたしたちは色んなことを一緒に経験して、色んな戦いを一緒に駆け抜けてきた。この関係を「友達」なんて言葉で表すのは、なんだか軽い気がしないか。そうだな…「戦友」ってのはどうだ？こういうのは、共に肩を並べて戦った中でしか生まれない、最も揺るがない関係なんだ。",
+            "sourceName": "vo_dehya_dialog_close1.wem"
+        },
+        "c749519e95b926c1": {
+            "hash": "c749519e95b926c1",
+            "directory": "External24",
+            "voiceContent": "最近、存分に腕を振るってるみたいじゃないか。うちの傭兵団でも、あんたの実績について話してるやつが結構いるんだぜ。中には、あんたを紹介してくれないかって聞いてくるやつらまでいるほどさ。",
+            "sourceName": "vo_dehya_dialog_close.wem"
+        },
+        "f72b64c3980eb21b": {
+            "hash": "f72b64c3980eb21b",
+            "directory": "External30",
+            "voiceContent": "「神の目」があたしに何をもたらしたか…って？あー…正直、戦闘が便利になるっていうのよりも、より多くの傭兵が評判を聞いて「熾光の猟獣」に加入しに来てくれるって点で役立ってるかな…",
+            "sourceName": "vo_dehya_dialog_pendant.wem"
+        },
+        "a0d91bcc5fab477c": {
+            "hash": "a0d91bcc5fab477c",
+            "directory": "External20",
+            "voiceContent": "デーツって知ってるか？小さい頃、あれが大好きだったんだ。ただ、オヤジはデーツの剥き方をまったく知らなくてさ、ナイフで適当に刺しまくったりしてたよ。おかげで中の果肉はめちゃくちゃになって、とても食えたもんじゃなかった。最後には果肉をはぎ取って牛乳に入れて、やっとのことでお粥にして食ってたんだ。でも、たまに——そのお粥の味と…デーツ一つ剥くのにすらあたふたしてたオヤジのことが、恋しくなるよ…",
+            "sourceName": "vo_dehya_dialog_share_01.wem"
+        },
+        "ed2d090f1708e556": {
+            "hash": "ed2d090f1708e556",
+            "directory": "External29",
+            "voiceContent": "一部の人の目には、残骸を食らう赤鷲が死と災厄をもたらす生き物のように映るらしい。でもあたしからすれば、こういう砂海の上を飛ぶ鷲たちは、限りなく凄まじい生命力を持ってる存在だ。…鷲たちが空から見下ろすとき、大赤砂海は一体どんな風に見えてるんだろうな。",
+            "sourceName": "vo_dehya_pref_gift_01.wem"
+        },
+        "a8c9958bc5e406af": {
+            "hash": "a8c9958bc5e406af",
+            "directory": "External21",
+            "voiceContent": "ハハハッ、実は昔、もうちょっとでそのレンジャー長と一緒に仕事をするところだったんだぜ。他のやつからの紹介だったんだが、砂漠に入るためのガイドをすることになってな。でもその後、なぜかその仕事は取り止めになったんだ。確か…そのレンジャー長がどうしても暑さに耐えられなかったとかで…ん？それとも他の原因だったか…",
+            "sourceName": "vo_dehya_teammate_tighnari_01.wem"
+        },
+        "232c1a6651541ce2": {
+            "hash": "232c1a6651541ce2",
+            "directory": "External4",
+            "voiceContent": "ふん、あたしはこないだまで、教令院ではせいぜい私利私欲にまみれたハイエナ共がこそこそ動いてる程度だと思ってた。だがまさかそれ以外にも…恩を仇で返す欲にまみれたクズどもまでいたとはな。あたしからすりゃ、クラクサナリデビは…慈悲深すぎる。あんな獣以下の存在、骨まで粉々にしてやったってまだ足りないくらいだ！それをあのまま森で生かしておくなんて、いくら何でもやつらにとって都合が良すぎる。",
+            "sourceName": "vo_dehya_teammate_nahida_01.wem"
+        },
+        "84b227e9b77fbfa2": {
+            "hash": "84b227e9b77fbfa2",
+            "directory": "External16",
+            "voiceContent": "キャンディスか？あいつは他に欠点なんかないが、唯一…性格が駄獣と同じくらい強情なんだ。何回も言ったんだぜ？そんなに張り詰めてないで、たまには休みをとってスメールシティを回ってみたり、綺麗な服や装飾品でも買ったりしたほうがいいんじゃないかってな…でも、その度に村が心配だからって断られるんだ。はぁ、これ以上言ってもダメなら、今度あたしが代わりに村を守って、旅団の娘たちにキャンディスをシティへ連れ出してもらうか…",
+            "sourceName": "vo_dehya_teammate_candace_01.wem"
+        },
+        "5e411611d6904a43": {
+            "hash": "5e411611d6904a43",
+            "directory": "External11",
+            "voiceContent": "あの商人か…何でも売ってるって聞くぜ。ただ、値段はちょっと高いみたいだけどな？ハハハッ、あたしも会ってみたいよ。何しろ…傭兵稼業に必要なものの中には、市場で金をはたいても買えないものがあるからな。",
+            "sourceName": "vo_dehya_teammate_dori_01.wem"
+        },
+        "d4f3b6945d020076": {
+            "hash": "d4f3b6945d020076",
+            "directory": "External26",
+            "voiceContent": "あのいつもウトウトしてる女の子だろ、印象あるぜ。前に、砂漠の辺境にあるオアシスで会ったことがある。たしか教令院の何かの隊と一緒に天体観測に来てたみたいだったけど、あたしもあの時はあまり気に留めてなくてな…ん、何？キャンディス…星空の使者…？なんだそのデタラメな話は？そいつ、寝ぼけてたんじゃないのか…？",
+            "sourceName": "vo_dehya_teammate_layla_01.wem"
+        },
+        "94d0d36046616cd5": {
+            "hash": "94d0d36046616cd5",
+            "directory": "External18",
+            "voiceContent": "あいつが沈黙の殿の人間だって事実は、あたしも最近になってやっと知ったんだ。ははっ、悪いな。沈黙の殿のような謎の組織にはあまり詳しくないんだ。昔、砂漠で何回かばったり会ったことはあるが、融通のきくやつって印象だった。傭兵たちが砂漠でトラブった時も、水を分けてもらったことがあったらしい。なかなかいいやつだと思うぜ。",
+            "sourceName": "vo_dehya_teammate_sethos_01.wem"
+        },
+        "ec73107b4eb5140c": {
+            "hash": "ec73107b4eb5140c",
+            "directory": "External29",
+            "voiceContent": "昔、教令院に勤めないかってあいつに誘われたことがある。けどあたしは断ったんだ…あんな淀んだたまり水みたいな生活、ごめんだからな。だがまあ、あの書記官の遠回しで皮肉っぽい喋り方は…あたしの教令院の学者に対する印象にドンピシャだったよ…コホンッ…",
+            "sourceName": "vo_dehya_teammate_alhaitham_01.wem"
+        },
+        "1c006ad878ce8e98": {
+            "hash": "1c006ad878ce8e98",
+            "directory": "External3",
+            "voiceContent": "あの「大マハマトラ」のことか？いつも厳格で素早い、腕の立つやつさ。一部の物事に対する処理の仕方は、あたしの好みにもかなり合ってる。",
+            "sourceName": "vo_dehya_teammate_cyno_01.wem"
+        },
+        "0b4e9e3d61ffe600": {
+            "hash": "0b4e9e3d61ffe600",
+            "directory": "External1",
+            "voiceContent": "あの件が解決してから、ニィロウはより自由に踊れるようになったはずだ。そういやこの間ニィロウが、使ってるフェイスパウダーをあたしにも一つくれるって言ってくれたんだが、あたしはしょっちゅう外出してるから、とりあえずキャンディスのところに届けてもらったんだ。うん…そろそろ時間を見つけて取りに行かないとだな…",
+            "sourceName": "vo_dehya_teammate_nilou_01.wem"
+        },
+        "fb4cbf0f6d1a613e": {
+            "hash": "fb4cbf0f6d1a613e",
+            "directory": "External31",
+            "voiceContent": "あたしは小さい頃から傭兵団で暮らしてた。おもちゃは木でできたナイフや剣、知り合いは傭兵か傭兵を目指すやつばかり。食事をするのに使う木製のお椀でさえ、団員がナイフで削って作った代物だった…そんな環境で育って、傭兵にならないほうがおかしいだろ。そう思わないか？",
+            "sourceName": "vo_dehya_friendship_01.wem"
+        },
+        "5587cd179bad9ae1": {
+            "hash": "5587cd179bad9ae1",
+            "directory": "External10",
+            "voiceContent": "あたしがどこの人間かだって？さあ、あたしも知らないな。そんなこと、考えたこともなかったよ。強いて言うなら…ずっと砂漠で生活してるから、「砂漠側」の人間って言えるかもな。",
+            "sourceName": "vo_dehya_friendship_02.wem"
+        },
+        "a7b8731ea39bd160": {
+            "hash": "a7b8731ea39bd160",
+            "directory": "External20",
+            "voiceContent": "傭兵の仕事は決して簡単じゃない。依頼の難易度は言うまでもないが、それ以上に難しいことがある——依頼を完了した後、如何にして迅速に雇い主に金を払ってもらうかってことだ。その点で言えば、一番速いのは教令院で、次に来るのは冒険者協会だな。一番遅いのは、貨物貿易をやる商人だ。あいつらはいつも、資金がまだ回ってるから今はあまり現金が出せない、なんて言ってあたしを待たせるんだ。チッ、金が出せないって…じゃあ、荷車にある貨物はどこから来たんだっつの。",
+            "sourceName": "vo_dehya_friendship_03.wem"
+        },
+        "b93480e5aacf0633": {
+            "hash": "b93480e5aacf0633",
+            "directory": "External23",
+            "voiceContent": "あの件の後、教令院のあたしたちに対する態度にも変化があったんだ。聞くところによると、砂漠の民を支援するって条項がたくさん導入されたらしい。コホンッ、あの書類の山はあたしには理解できないが…ただ、「防砂壁」がこれからは風砂だけを遮り、希望を阻まない存在になることを祈るよ。",
+            "sourceName": "vo_dehya_friendship_04.wem"
+        },
+        "34474eedeb79932a": {
+            "hash": "34474eedeb79932a",
+            "directory": "External6",
+            "voiceContent": "傭兵の多くは、名を上げることを目標にしてる。そういうやつらはいつも難しい依頼を引き受けて、富と名声を得ようとしてるんだ。運良く生き残って伝説となるやつもいれば、無名のまま砂漠に消えてくやつもいる。でも、あたしはそんな「大それた」野望は持ってない。周りの人たちが安心して暮らせるよう守ることができたら、それだけで十分なんだ。その上で金も稼げたらもっといいってだけの話さ。ハハハッ。",
+            "sourceName": "vo_dehya_friendship_05.wem"
+        },
+        "e9e2d8e497c580fa": {
+            "hash": "e9e2d8e497c580fa",
+            "directory": "External29",
+            "voiceContent": "時間があるときは、「メイクボックス」の手入れをするのが一番好きなんだ。フェイスパウダーもメイクブラシも、あたしが高値で買ったやつばっかりなんだぜ。見てくれよ、この粉の質感、すっごく繊細だろ！汗をかいても、雨に濡れても、全然化粧が崩れないんだ…ふふん、やっぱ高いだけあって質も良いってもんだぜ。",
+            "sourceName": "vo_dehya_pref_hobby.wem"
+        },
+        "1c9e6e5fae8fd0ef": {
+            "hash": "1c9e6e5fae8fd0ef",
+            "directory": "External3",
+            "voiceContent": "まだいくつか決済の終わってない依頼があることと…それから、何人かの仲間が任務の時にヘマをやっちまったこと…はぁ、あたしは旅団のボスってわけじゃないのに、なんでこんなことに心を煩わせなきゃいけねぇんだ…",
+            "sourceName": "vo_dehya_dialog_annoyed.wem"
+        },
+        "a6312a8ef401003f": {
+            "hash": "a6312a8ef401003f",
+            "directory": "External20",
+            "voiceContent": "苦いものは絶対に食わせないでくれ。あたしには耐えられない…",
+            "sourceName": "vo_dehya_pref_foodDislike.wem"
+        },
+        "2e0aa9f461fcc5aa": {
+            "hash": "2e0aa9f461fcc5aa",
+            "directory": "External5",
+            "voiceContent": "本当にいい味だぜ！これ以上食ったら、もう携行食なんか食えなくなっちまうかもしれないな。",
+            "sourceName": "vo_dehya_spice_pref_01.wem"
+        },
+        "95ddf3f6bb424d70": {
+            "hash": "95ddf3f6bb424d70",
+            "directory": "External18",
+            "voiceContent": "うーん…携行食だと思って食えば…悪くない味だ。",
+            "sourceName": "vo_dehya_spice_normal_01.wem"
+        },
+        "ef50a5a1b2d87564": {
+            "hash": "ef50a5a1b2d87564",
+            "directory": "External29",
+            "voiceContent": "少なくとも…腹は満たせる。安全に腹を満たせるなら、それだけでいい食べ物ってもんさ！ハハハ…",
+            "sourceName": "vo_dehya_spice_dislike_01.wem"
+        },
+        "0aebdbfec95cae29": {
+            "hash": "0aebdbfec95cae29",
+            "directory": "External1",
+            "voiceContent": "誕生日おめでとう！ポケットを探ってみろよ、プレゼントが入ってるからさ。どうやったのかって？傭兵のちょっとした持ち芸さ。そんなことより、ランバド酒場にいい席を予約したんだ、早く行こうぜ…ん？安心しろ、旅団の他のやつらは呼んでないから。あいつらが来たって、騒がしく野次を飛ばしてくるだけだろうしな。せっかくの誕生日なんだ、付き合うのはあたしだけでいいだろ？…コホンッ、ほら、さっさと行くぞ。",
+            "sourceName": "vo_dehya_pref_birthday_01.wem"
+        },
+        "cf39cba8909e30c9": {
+            "hash": "cf39cba8909e30c9",
+            "directory": "External25",
+            "voiceContent": "へえ？本当に力が成長してる…",
+            "sourceName": "vo_dehya_starUp_01.wem"
+        },
+        "5ef59d9fc451eb66": {
+            "hash": "5ef59d9fc451eb66",
+            "directory": "External11",
+            "voiceContent": "悪くない感じだ。前よりも力強く剣を振れるぜ。",
+            "sourceName": "vo_dehya_starUp_02.wem"
+        },
+        "e0b2ff9780f2164f": {
+            "hash": "e0b2ff9780f2164f",
+            "directory": "External28",
+            "voiceContent": "この力…今すぐにでも試してみたい。いっそ、あたしたちで勝負してみないか？",
+            "sourceName": "vo_dehya_starUp_03.wem"
+        },
+        "5dcbb18e19cfed44": {
+            "hash": "5dcbb18e19cfed44",
+            "directory": "External11",
+            "voiceContent": "あたしもまだこんな成長を遂げられるなんてな…あんたのおかげだ。何か依頼はないか？どんな依頼でも、あんたの口から言ってくれれば、付き合うぜ。",
+            "sourceName": "vo_dehya_starUp_04.wem"
+        },
+        "6ff93b4bb1f1f8f9": {
+            "hash": "6ff93b4bb1f1f8f9",
+            "directory": "External13",
+            "voiceContent": "ふん…やるじゃねぇか。",
+            "sourceName": "vo_dehya_life_less30_01.wem"
+        },
+        "ffb50d42e5a5b296": {
+            "hash": "ffb50d42e5a5b296",
+            "directory": "External31",
+            "voiceContent": "そろそろ本気を出すか。",
+            "sourceName": "vo_dehya_life_less30_02.wem"
+        },
+        "ad846f3bddb78a7f": {
+            "hash": "ad846f3bddb78a7f",
+            "directory": "External21",
+            "voiceContent": "上等だ。",
+            "sourceName": "vo_dehya_life_less30_03.wem"
+        },
+        "a22c7a601d4b5e2b": {
+            "hash": "a22c7a601d4b5e2b",
+            "directory": "External20",
+            "voiceContent": "傭兵の…宿命か…",
+            "sourceName": "vo_dehya_life_die_03.wem"
+        },
+        "4e0ed34fa6e5783d": {
+            "hash": "4e0ed34fa6e5783d",
+            "directory": "External9",
+            "voiceContent": "なかなかだな…",
+            "sourceName": "vo_dehya_battle_hit_H_01.wem"
+        },
+        "059e4ae1e2dc09f9": {
+            "hash": "059e4ae1e2dc09f9",
+            "directory": "External0",
+            "voiceContent": "ちょこまかと…！",
+            "sourceName": "vo_dehya_battle_hit_L_01.wem"
+        },
+        "2d116588a902d2c8": {
+            "hash": "2d116588a902d2c8",
+            "directory": "External5",
+            "voiceContent": "しっかりあたしについて来いよ。砂漠は誰が相手でも手加減してくれないからな。",
+            "sourceName": "vo_dehya_weather_desert_01.wem"
+        },
+        "f5da2dee22e478e3": {
+            "hash": "f5da2dee22e478e3",
+            "directory": "External30",
+            "voiceContent": "もちろん「ナツメヤシキャンディ」だ。持ち歩きに便利だし、味もいい。",
+            "sourceName": "vo_dehya_pref_foodLike_01.wem"
+        },
+        "e077d7e5d1d78ee8": {
+            "hash": "e077d7e5d1d78ee8",
+            "directory": "External28",
+            "voiceContent": "あたしはディシア、あんたの雇いたがってた傭兵だ。さて、どんな依頼があるんだ？ケンカか？それとも護送か？言ってくれればどんなことでもやるぜ。",
+            "sourceName": "vo_dehya_draw_appear_01.wem"
+        },
+        "c26dceb70dcca84a": {
+            "hash": "c26dceb70dcca84a",
+            "directory": "External24",
+            "voiceContent": "うーん…携行食だと思って食えば…悪くない味だ。",
+            "sourceName": "vo_dehya_spice_event_normal_01.wem"
+        },
+        "25b44e4572132326": {
+            "hash": "25b44e4572132326",
+            "directory": "External4",
+            "voiceContent": "少なくとも…腹は満たせる。安全に腹を満たせるなら、それだけでいい食べ物ってもんさ！ハハハ…",
+            "sourceName": "vo_dehya_spice_event_dislike_01.wem"
+        },
+        "55b7abdc41697810": {
+            "hash": "55b7abdc41697810",
+            "directory": "External10",
+            "voiceContent": "本当にいい味だぜ！これ以上食ったら、もう携行食なんか食えなくなっちまうかもしれないな。",
+            "sourceName": "vo_dehya_spice_event_pref_01.wem"
+        },
+        "70fd9e031097ad51": {
+            "hash": "70fd9e031097ad51",
+            "directory": "External14",
+            "voiceContent": "ここは甘い汁を吸わせてもらうぜ。",
+            "sourceName": "vo_card_dehya_inGame_easy_01.wem"
+        },
+        "27959244cd991acd": {
+            "hash": "27959244cd991acd",
+            "directory": "External4",
+            "voiceContent": "タイミングをものにするのが上手いな…",
+            "sourceName": "vo_card_dehya_inGame_hard_02.wem"
+        },
+        "12ec8655da8fdfe7": {
+            "hash": "12ec8655da8fdfe7",
+            "directory": "External2",
+            "voiceContent": "手加減はしないぜ。",
+            "sourceName": "vo_card_dehya_inGame_hard_04.wem"
+        },
+        "c49131f3da1504b7": {
+            "hash": "c49131f3da1504b7",
+            "directory": "External24",
+            "voiceContent": "ちょっと厳しいな…",
+            "sourceName": "vo_card_dehya_inGame_easy_03.wem"
+        },
+        "a17e743b63c1a9ca": {
+            "hash": "a17e743b63c1a9ca",
+            "directory": "External20",
+            "voiceContent": "おいおい、まだ耐えられるよな？",
+            "sourceName": "vo_card_dehya_inGame_hard_01.wem"
+        },
+        "3e43e3ea700fb28c": {
+            "hash": "3e43e3ea700fb28c",
+            "directory": "External7",
+            "voiceContent": "よく見てな！",
+            "sourceName": "vo_card_dehya_inGame_easy_04.wem"
+        },
+        "b8b1784dabfca63c": {
+            "hash": "b8b1784dabfca63c",
+            "directory": "External23",
+            "voiceContent": "へえ、やるじゃないか。",
+            "sourceName": "vo_card_dehya_inGame_hard_03.wem"
+        },
+        "42d3cffc1d74d9ae": {
+            "hash": "42d3cffc1d74d9ae",
+            "directory": "External8",
+            "voiceContent": "ふん、機転が利くじゃないか。",
+            "sourceName": "vo_card_dehya_inGame_easy_02.wem"
+        }
+    }
+}

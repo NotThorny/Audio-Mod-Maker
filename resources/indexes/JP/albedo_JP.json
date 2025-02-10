@@ -1,0 +1,811 @@
+{
+    "Teapot": {
+        "b89a529559786aa7": {
+            "hash": "b89a529559786aa7",
+            "directory": "External23",
+            "voiceContent": "面白いテーマだ。細部まで上手いこと作られているし、野外探索でしか感じられない荒野の雰囲気もある。",
+            "sourceName": "vo_mimiTomo_md_albedo_adventure_01.wem"
+        },
+        "b296905b0784a8f4": {
+            "hash": "b296905b0784a8f4",
+            "directory": "External22",
+            "voiceContent": "悪くない工房だ。どうやらここでも、引き続き研究を行えるみたいだね。",
+            "sourceName": "vo_mimiTomo_md_albedo_alchemy_01.wem"
+        },
+        "b16dac495d046b22": {
+            "hash": "b16dac495d046b22",
+            "directory": "External22",
+            "voiceContent": "もしよければ、キミと共にもっと深くまで探究してみたい。キミの手助けにもなるしね。",
+            "sourceName": "vo_mimiTomo_md_albedo_alchemy_03.wem"
+        },
+        "5f731e425543ed6b": {
+            "hash": "5f731e425543ed6b",
+            "directory": "External11",
+            "voiceContent": "ボクの予想だが、キミはある種の秘術を会得して、この世に現存する物事を「描いた」のではないかな？",
+            "sourceName": "vo_mimiTomo_md_albedo_alchemy_02.wem"
+        },
+        "6506bea48ffb1341": {
+            "hash": "6506bea48ffb1341",
+            "directory": "External12",
+            "voiceContent": "それでその…スケッチの被写体になってくれる気はあるかい？",
+            "sourceName": "vo_mimiTomo_md_albedo_adventure_03.wem"
+        },
+        "0bf4e4ae0be89f40": {
+            "hash": "0bf4e4ae0be89f40",
+            "directory": "External1",
+            "voiceContent": "うん、さっそく一枚スケッチしよう。",
+            "sourceName": "vo_mimiTomo_md_albedo_adventure_02.wem"
+        },
+        "6e60fb4eea895457": {
+            "hash": "6e60fb4eea895457",
+            "directory": "External13",
+            "voiceContent": "おやすみ、いい夢を見るといい。",
+            "sourceName": "vo_albedo_mimitomo_night_01.wem"
+        },
+        "a522ab6e6bfd08e6": {
+            "hash": "a522ab6e6bfd08e6",
+            "directory": "External20",
+            "voiceContent": "そういえば…昔は人との関わり合いを時間の無駄だと思っていた。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_05.wem"
+        },
+        "01ef0b10ab9bc88c": {
+            "hash": "01ef0b10ab9bc88c",
+            "directory": "External0",
+            "voiceContent": "ああ。本の中に書かれていた「桃源郷」とは、おそらくこのような場所のことを言うのだろう。",
+            "sourceName": "vo_albedo_mimitomo_friendship1_01.wem"
+        },
+        "9d51fbeea32a92b1": {
+            "hash": "9d51fbeea32a92b1",
+            "directory": "External19",
+            "voiceContent": "ボクたちはお互いに分かり合えてきた。そう思わないかい？",
+            "sourceName": "vo_albedo_mimitomo_friendship3_09b_2.wem"
+        },
+        "26e00d66289d33cf": {
+            "hash": "26e00d66289d33cf",
+            "directory": "External4",
+            "voiceContent": "それ以外にも、まだまだある。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_04.wem"
+        },
+        "1704ade53925408e": {
+            "hash": "1704ade53925408e",
+            "directory": "External2",
+            "voiceContent": "ありがとう。キミの安全は保証する、いつものように。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_09b_1.wem"
+        },
+        "25ecf9547e4a3455": {
+            "hash": "25ecf9547e4a3455",
+            "directory": "External4",
+            "voiceContent": "キミが付き添ってくれてから、インスピレーションがどんどん湧いてくるんだ。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_02.wem"
+        },
+        "a4aee15e990b35e4": {
+            "hash": "a4aee15e990b35e4",
+            "directory": "External20",
+            "voiceContent": "どうしてかな？もう少し時間をくれれば、必ず解き明かすことができるだろう。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_08.wem"
+        },
+        "96ab0d77f0edd272": {
+            "hash": "96ab0d77f0edd272",
+            "directory": "External18",
+            "voiceContent": "ああ、もちろん。",
+            "sourceName": "vo_albedo_mimitomo_friendship1_03a_2.wem"
+        },
+        "362fabb8feaa7191": {
+            "hash": "362fabb8feaa7191",
+            "directory": "External6",
+            "voiceContent": "キミかな。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_05.wem"
+        },
+        "1a0a4105b3c6da13": {
+            "hash": "1a0a4105b3c6da13",
+            "directory": "External3",
+            "voiceContent": "だから、絵を描くことを学んだのさ。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_03a_4.wem"
+        },
+        "67973f7e40371788": {
+            "hash": "67973f7e40371788",
+            "directory": "External12",
+            "voiceContent": "これは本当に特別な現象だ。そして、その原因を解き明かすことは可能であるとボクは思う。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_07.wem"
+        },
+        "1566d97738494e49": {
+            "hash": "1566d97738494e49",
+            "directory": "External2",
+            "voiceContent": "しかしキミと出会ってから、他のことよりもキミにもっと時間を費やしたくなったんだ。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_06.wem"
+        },
+        "5c227f2f7612351e": {
+            "hash": "5c227f2f7612351e",
+            "directory": "External11",
+            "voiceContent": "うん、もうだいぶ前からの習慣なんだ。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_03a_1.wem"
+        },
+        "b2eb6b318f83a5d0": {
+            "hash": "b2eb6b318f83a5d0",
+            "directory": "External22",
+            "voiceContent": "…キミに感謝してる。",
+            "sourceName": "vo_albedo_mimitomo_friendship1_05.wem"
+        },
+        "b47251c1420a5410": {
+            "hash": "b47251c1420a5410",
+            "directory": "External22",
+            "voiceContent": "ふむ、他に興味があること…",
+            "sourceName": "vo_albedo_mimitomo_friendship2_04.wem"
+        },
+        "14efed8f4e77b09a": {
+            "hash": "14efed8f4e77b09a",
+            "directory": "External2",
+            "voiceContent": "そうだな…話題はキミに任せるよ。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_02.wem"
+        },
+        "a3f8bf5cc17b0ac4": {
+            "hash": "a3f8bf5cc17b0ac4",
+            "directory": "External20",
+            "voiceContent": "絵のことも、実験のことも。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_03.wem"
+        },
+        "b65d8d37a4a56ec1": {
+            "hash": "b65d8d37a4a56ec1",
+            "directory": "External22",
+            "voiceContent": "最初は研究のために、石刷りのようにただ紙に写していただけだったんだ。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_03a_2.wem"
+        },
+        "d0e6570538f10fb5": {
+            "hash": "d0e6570538f10fb5",
+            "directory": "External26",
+            "voiceContent": "ありがとう。今日の題材は——",
+            "sourceName": "vo_albedo_mimitomo_friendship3_09a_1.wem"
+        },
+        "89c43fa9c8297cf7": {
+            "hash": "89c43fa9c8297cf7",
+            "directory": "External17",
+            "voiceContent": "今は…それだけじゃない。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_07.wem"
+        },
+        "f4271b4d88168d72": {
+            "hash": "f4271b4d88168d72",
+            "directory": "External30",
+            "voiceContent": "うん、細かなことばかりだが結構ある。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_01.wem"
+        },
+        "1c047f6fb09ed0bb": {
+            "hash": "1c047f6fb09ed0bb",
+            "directory": "External3",
+            "voiceContent": "そうだ…",
+            "sourceName": "vo_albedo_mimitomo_friendship1_03a_3.wem"
+        },
+        "657abfa6b94196a2": {
+            "hash": "657abfa6b94196a2",
+            "directory": "External12",
+            "voiceContent": "実験の中で様々な課題を研究し…",
+            "sourceName": "vo_albedo_mimitomo_friendship2_03b_2.wem"
+        },
+        "c870eb7ee7217955": {
+            "hash": "c870eb7ee7217955",
+            "directory": "External25",
+            "voiceContent": "……",
+            "sourceName": "vo_albedo_mimitomo_friendship1_03a_1.wem"
+        },
+        "4dc8f8fbd1a13c52": {
+            "hash": "4dc8f8fbd1a13c52",
+            "directory": "External9",
+            "voiceContent": "「キミと洞天」にしよう。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_09a_2.wem"
+        },
+        "edcd8d68d86b34f0": {
+            "hash": "edcd8d68d86b34f0",
+            "directory": "External29",
+            "voiceContent": "眠る前に物語を読む必要は…なさそうだね。",
+            "sourceName": "vo_albedo_mimitomo_night_02.wem"
+        },
+        "1380319fb18118eb": {
+            "hash": "1380319fb18118eb",
+            "directory": "External2",
+            "voiceContent": "自らの手で未知の秘密を解き明かして、新たな知識を得る。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_03b_3.wem"
+        },
+        "bfebddaee8027ac5": {
+            "hash": "bfebddaee8027ac5",
+            "directory": "External23",
+            "voiceContent": "うん、ボクにとって、世界とは境界のない書庫なんだ。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_03b_1.wem"
+        },
+        "951e0f0df4731a0a": {
+            "hash": "951e0f0df4731a0a",
+            "directory": "External18",
+            "voiceContent": "デザインのテクニックを習得していく内に、いつの間にかそれに没頭していた。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_03a_5.wem"
+        },
+        "6771559044875c5a": {
+            "hash": "6771559044875c5a",
+            "directory": "External12",
+            "voiceContent": "うん…キミの創意を十分に活かしてくれれば、それだけでいい。",
+            "sourceName": "vo_albedo_mimitomo_friendship1_03b.wem"
+        },
+        "5d4bb3412092fac0": {
+            "hash": "5d4bb3412092fac0",
+            "directory": "External11",
+            "voiceContent": "でもあまりいい出来にならないし、何より魂がこもっていない。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_03a_3.wem"
+        },
+        "c1d27d866ecaa2c3": {
+            "hash": "c1d27d866ecaa2c3",
+            "directory": "External24",
+            "voiceContent": "だからもう少し…キミの時間をボクにくれないか？",
+            "sourceName": "vo_albedo_mimitomo_friendship3_08.wem"
+        },
+        "725b0b977fc09e9d": {
+            "hash": "725b0b977fc09e9d",
+            "directory": "External14",
+            "voiceContent": "もちろんいいよ。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_01.wem"
+        },
+        "fca95b4f21a63b34": {
+            "hash": "fca95b4f21a63b34",
+            "directory": "External31",
+            "voiceContent": "それと、終わったらデザートを一緒に食べに行きたいな。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_10.wem"
+        },
+        "cd7ce8ba12c0aec2": {
+            "hash": "cd7ce8ba12c0aec2",
+            "directory": "External25",
+            "voiceContent": "遠くから足音が聞こえたけど、うん、やはりキミだったか。",
+            "sourceName": "vo_albedo_mimitomo_hello_02.wem"
+        },
+        "019723d8a9f11138": {
+            "hash": "019723d8a9f11138",
+            "directory": "External0",
+            "voiceContent": "この感覚が好きなんだ。",
+            "sourceName": "vo_albedo_mimitomo_friendship2_03b_4.wem"
+        },
+        "55f19545a5e6e185": {
+            "hash": "55f19545a5e6e185",
+            "directory": "External10",
+            "voiceContent": "意義あることの続きとして、そしてボクに付き合ってくれた礼として。",
+            "sourceName": "vo_albedo_mimitomo_friendship3_11.wem"
+        },
+        "c467b8f896b747a3": {
+            "hash": "c467b8f896b747a3",
+            "directory": "External24",
+            "voiceContent": "静かで快適な環境、時間を忘れてしまうほど実験に専念することができる。",
+            "sourceName": "vo_albedo_mimitomo_friendship1_02.wem"
+        },
+        "34a8c5294c23c351": {
+            "hash": "34a8c5294c23c351",
+            "directory": "External6",
+            "voiceContent": "ボクはどこにいてもスケッチをすることがあるから、キミが飾り付けた「洞天」内はボクにとってインスピレーションの源でもあるんだ。",
+            "sourceName": "vo_albedo_mimitomo_friendship1_04.wem"
+        },
+        "04a0ddb208a628ee": {
+            "hash": "04a0ddb208a628ee",
+            "directory": "External0",
+            "voiceContent": "始めはキミから感じる星海の気配が気になっていたけど…",
+            "sourceName": "vo_albedo_mimitomo_friendship2_06.wem"
+        },
+        "6e8b0560fe6b151a": {
+            "hash": "6e8b0560fe6b151a",
+            "directory": "External13",
+            "voiceContent": "だけど、もしキミに他の予定があるのなら、計画を変更してもかまわない。",
+            "sourceName": "vo_albedo_mimitomo_morning_02.wem"
+        }
+    },
+    "Quests": {},
+    "Gameplay": {
+        "bc98ff4fdb9a7a6d": {
+            "hash": "bc98ff4fdb9a7a6d",
+            "directory": "External23",
+            "voiceContent": "咲け。",
+            "sourceName": "vo_albedo_battle_skill1_01.wem"
+        },
+        "8ea66148e8a73aea": {
+            "hash": "8ea66148e8a73aea",
+            "directory": "External17",
+            "voiceContent": "擬似陽華。",
+            "sourceName": "vo_albedo_battle_skill1_02.wem"
+        },
+        "102d9340a51984f3": {
+            "hash": "102d9340a51984f3",
+            "directory": "External2",
+            "voiceContent": "創生の術。",
+            "sourceName": "vo_albedo_battle_skill1_03.wem"
+        },
+        "d29d1872a4ef790f": {
+            "hash": "d29d1872a4ef790f",
+            "directory": "External26",
+            "voiceContent": "今こそ、誕生の時。",
+            "sourceName": "vo_albedo_battle_skill3_01.wem"
+        },
+        "13554a8abc8b10c8": {
+            "hash": "13554a8abc8b10c8",
+            "directory": "External2",
+            "voiceContent": "冥王、顕生へ。",
+            "sourceName": "vo_albedo_battle_skill3_02.wem"
+        },
+        "c123e483b49b9389": {
+            "hash": "c123e483b49b9389",
+            "directory": "External24",
+            "voiceContent": "偉業を見届けよ。",
+            "sourceName": "vo_albedo_battle_skill3_03.wem"
+        },
+        "687ad613aff24a3a": {
+            "hash": "687ad613aff24a3a",
+            "directory": "External13",
+            "voiceContent": "大地の秘宝か。",
+            "sourceName": "vo_albedo_chest_open_01.wem"
+        },
+        "c27ff41bde580f3d": {
+            "hash": "c27ff41bde580f3d",
+            "directory": "External24",
+            "voiceContent": "無言なる叙述。",
+            "sourceName": "vo_albedo_chest_open_02.wem"
+        },
+        "5701da24bf9ec46c": {
+            "hash": "5701da24bf9ec46c",
+            "directory": "External10",
+            "voiceContent": "「黄金」の比ではないが、価値がある。",
+            "sourceName": "vo_albedo_chest_open_03.wem"
+        },
+        "7195bbe432c2a14e": {
+            "hash": "7195bbe432c2a14e",
+            "directory": "External14",
+            "voiceContent": "ボクに任せて。",
+            "sourceName": "vo_albedo_life_less30_teammate_01.wem"
+        },
+        "f47d09ed99e4ca71": {
+            "hash": "f47d09ed99e4ca71",
+            "directory": "External30",
+            "voiceContent": "変わって、キミには無理だよ。",
+            "sourceName": "vo_albedo_life_less30_teammate_02.wem"
+        },
+        "6c03098f3db9b1d3": {
+            "hash": "6c03098f3db9b1d3",
+            "directory": "External13",
+            "voiceContent": "灰は灰に、塵は塵に…",
+            "sourceName": "vo_albedo_life_die_01.wem"
+        },
+        "01aedba9c982643c": {
+            "hash": "01aedba9c982643c",
+            "directory": "External0",
+            "voiceContent": "実験が失敗したのか？",
+            "sourceName": "vo_albedo_life_die_02.wem"
+        },
+        "42e3111561dcda09": {
+            "hash": "42e3111561dcda09",
+            "directory": "External8",
+            "voiceContent": "了解。",
+            "sourceName": "vo_albedo_teamJoin_01.wem"
+        },
+        "d29ee30c959094a6": {
+            "hash": "d29ee30c959094a6",
+            "directory": "External26",
+            "voiceContent": "課外活動かな？",
+            "sourceName": "vo_albedo_teamJoin_02.wem"
+        },
+        "545c45045230bf8f": {
+            "hash": "545c45045230bf8f",
+            "directory": "External10",
+            "voiceContent": "一緒に探索しよう。",
+            "sourceName": "vo_albedo_teamJoin_03.wem"
+        },
+        "2cc677c93ae4f176": {
+            "hash": "2cc677c93ae4f176",
+            "directory": "External5",
+            "voiceContent": "ボクはアルベド、西風騎士団の首席錬金術師だ。キミから感じる星海の気配に興味があってね、近くで観察したいと思ったんだ。きっとこれから一緒に行動する機会が増えると思うよ。",
+            "sourceName": "vo_albedo_draw_appear.wem"
+        },
+        "0f0ad05ee594bec0": {
+            "hash": "0f0ad05ee594bec0",
+            "directory": "External1",
+            "voiceContent": "いい景色だね。休憩中にこの景色を絵にしようか。",
+            "sourceName": "vo_albedo_explore_idle_01.wem"
+        },
+        "bbb03e4633248a27": {
+            "hash": "bbb03e4633248a27",
+            "directory": "External23",
+            "voiceContent": "「世界の真相」とは…一体何なんだろう？",
+            "sourceName": "vo_albedo_explore_idle_02.wem"
+        },
+        "0de19c4d3b13f91e": {
+            "hash": "0de19c4d3b13f91e",
+            "directory": "External1",
+            "voiceContent": "自分の両足で土地を測り、「未知」を知識に変えていく。この感じ、懐かしいなぁ。",
+            "sourceName": "vo_albedo_explore_idle_03.wem"
+        },
+        "4430facbad8ef496": {
+            "hash": "4430facbad8ef496",
+            "directory": "External8",
+            "voiceContent": "土が潤っている、ボムボムウリの根の採集に相応しいね。大丈夫、ボクに任せて。",
+            "sourceName": "vo_albedo_weather_heavyRain_01.wem"
+        },
+        "324f222baa5063c9": {
+            "hash": "324f222baa5063c9",
+            "directory": "External6",
+            "voiceContent": "師匠…",
+            "sourceName": "vo_albedo_weather_snowy_01.wem"
+        },
+        "44b7b2da82a44398": {
+            "hash": "44b7b2da82a44398",
+            "directory": "External8",
+            "voiceContent": "光が十分、生物活動も活発、うん、スケッチに向いてるね。",
+            "sourceName": "vo_albedo_weather_sunny_01.wem"
+        },
+        "8c5003b214c12edc": {
+            "hash": "8c5003b214c12edc",
+            "directory": "External17",
+            "voiceContent": "おはよう、古代遺物を探しに出かけるのかい？",
+            "sourceName": "vo_albedo_dialog_greetingMorning.wem"
+        },
+        "31037030aec15338": {
+            "hash": "31037030aec15338",
+            "directory": "External6",
+            "voiceContent": "こんにちは、キミの足音が聞こえたんだ。工房の外は賑やかだね。",
+            "sourceName": "vo_albedo_dialog_greetingNoon.wem"
+        },
+        "74cd12f1a531f756": {
+            "hash": "74cd12f1a531f756",
+            "directory": "External14",
+            "voiceContent": "外はやっと静かになったね、ふう。",
+            "sourceName": "vo_albedo_dialog_greetingNight.wem"
+        },
+        "a9469b7a120efd3e": {
+            "hash": "a9469b7a120efd3e",
+            "directory": "External21",
+            "voiceContent": "おやすみ、先に休んでていいよ。ボクは最後の実験を終わらせたいんだ。そんなに興味があるなら…明日会う時、実験結果について一緒に話し合おう。",
+            "sourceName": "vo_albedo_dialog_greetingNight2.wem"
+        },
+        "03b12f2c3b21d021": {
+            "hash": "03b12f2c3b21d021",
+            "directory": "External0",
+            "voiceContent": "天才？ボクをそう呼ぶ人は多いけど…ボクはそうとは思わないんだ。",
+            "sourceName": "vo_albedo_dialog_idle.wem"
+        },
+        "7541b02c896316ae": {
+            "hash": "7541b02c896316ae",
+            "directory": "External14",
+            "voiceContent": "ボクの助手になってくれないかい？何度もボクのそばで見てきたから、もう覚えてるよね。安心して、ボクがついてる。たとえ実験をするのが初めてだとしても、問題はないさ。ボクはボクの指導力に自信があるし、何よりもキミの才能を信じてるからね。",
+            "sourceName": "vo_albedo_dialog_close1.wem"
+        },
+        "7e5fb4d01d108fc3": {
+            "hash": "7e5fb4d01d108fc3",
+            "directory": "External15",
+            "voiceContent": "人付き合いは…面倒だよ。始めると維持が必要だし、繋がりが途絶えると再び紡ぐのにもっと時間がかかる…",
+            "sourceName": "vo_albedo_dialog_idle2.wem"
+        },
+        "4d1a8e6856df771f": {
+            "hash": "4d1a8e6856df771f",
+            "directory": "External9",
+            "voiceContent": "キミ…ボクの実験に付き合ってくれるのかい？光栄だね。ああ、緊張しないで。ボクの実験は危険だけど、無実の人を傷つけたりしないから。",
+            "sourceName": "vo_albedo_dialog_close.wem"
+        },
+        "57d2c6946a4256bd": {
+            "hash": "57d2c6946a4256bd",
+            "directory": "External10",
+            "voiceContent": "「神の目」？所詮実験用の道具だよ、ビーカーやるつぼと変わらないさ。唯一興味があるのはその原理だ…いつかボクが解明してみせる、時間の問題だよ。",
+            "sourceName": "vo_albedo_dialog_pendant.wem"
+        },
+        "8ebb225dfda917ce": {
+            "hash": "8ebb225dfda917ce",
+            "directory": "External17",
+            "voiceContent": "キミに拒否されたら落ち込むから少し言いにくいけど…うーん…キミの周りを飛んでるちびっ子に興味があるんだ、少し貸してもらえないかな？",
+            "sourceName": "vo_albedo_dialog_share_01.wem"
+        },
+        "43c3fb0519d78b88": {
+            "hash": "43c3fb0519d78b88",
+            "directory": "External8",
+            "voiceContent": "石化古樹のことをもっと知りたい？うーん…キミが近くの秘境で見たあれはそれほど古くないものだ。より古い木だと2、3000メートルくらいの高さがあるからね。その根元には大きな蜘蛛が集まってる。その蜘蛛をクチナシとオガルカヤでくくって、カルダモンを塗り、数時間焼いた後の香りは…本当に忘れられないよ。",
+            "sourceName": "vo_albedo_pref_gift.wem"
+        },
+        "6c37b54d0060c690": {
+            "hash": "6c37b54d0060c690",
+            "directory": "External13",
+            "voiceContent": "…家族のこと？お母さんって呼んでほしいとアリスさんには言われてるけど…ボクにとっての家族はやはり師匠かな。物心がついた頃から師匠と一緒に探検してたし、錬金術も世の中の知識も彼女が教えてくれたんだ。…ボクにとって彼女は、「家族」や「師匠」って言葉だけでは表現しきれないかもしれない。",
+            "sourceName": "vo_albedo_teammate_relatives_01.wem"
+        },
+        "f2e08457ab9e0a6b": {
+            "hash": "f2e08457ab9e0a6b",
+            "directory": "External30",
+            "voiceContent": "スクロースかい？彼女が「生物錬金」に夢中になってる理由は理解できると思うよ…ともあれ、彼女の研究が順調に進んでるのを見ると、ボクも嬉しくなるんだ。",
+            "sourceName": "vo_albedo_teammate_sucrose_01.wem"
+        },
+        "4603f6705ddec5f4": {
+            "hash": "4603f6705ddec5f4",
+            "directory": "External8",
+            "voiceContent": "学術的な面に関しては仲良くやってるけど、研究課題以外のことに関しては、こだわりが強すぎるきらいがあるんだ。たとえば、同世代なんだからボクのことは呼び捨てでいいよって言っても、彼女は先生と呼んでくる。はぁ、彼女の好きなようにさせるしかないね。",
+            "sourceName": "vo_albedo_teammate_sucrose_02.wem"
+        },
+        "c501c2a21d6ff280": {
+            "hash": "c501c2a21d6ff280",
+            "directory": "External24",
+            "voiceContent": "行秋かい？彼の書いた小説は面白いよ。ただ、稲妻の「八重堂」がいつも他の作者とコラボしてほしいと言ってくるんだ、そうすれば印税の収入も多くなるってさ。フン、ボクは別にお金に困ってないのに。",
+            "sourceName": "vo_albedo_teammate_xingqiu_01.wem"
+        },
+        "67269cfcd016c5a0": {
+            "hash": "67269cfcd016c5a0",
+            "directory": "External12",
+            "voiceContent": "バーバラかい？彼女は真面目な牧師だよ。そういえば昔、彼女のクロッキーを描いたことがあってね…絵はどうしたかって？うん…アルバートの購入希望を断って、代理団長にプレゼントしたよ。…人付き合いって、本当に大変だね。",
+            "sourceName": "vo_albedo_teammate_barbara_01.wem"
+        },
+        "98378d5f13b5949a": {
+            "hash": "98378d5f13b5949a",
+            "directory": "External19",
+            "voiceContent": "リサかい？彼女との話し合いはいつも価値のある結果をもたらしてくれるんだ。あんなに才能があるのに図書館司書の肩書きで満足するとは、きっとその才能に関わる因縁深い理由があるんだと思う。",
+            "sourceName": "vo_albedo_teammate_lisa_01.wem"
+        },
+        "143567cbfc186018": {
+            "hash": "143567cbfc186018",
+            "directory": "External2",
+            "voiceContent": "クレーのことは実の妹のように思ってるよ。だから彼女が何かトラブルを起こしても、アリスさんに比べたらその破壊力はかわいいものだって自分に言い聞かせるようにしてるんだ。",
+            "sourceName": "vo_albedo_teammate_klee_01.wem"
+        },
+        "143a725df52f0749": {
+            "hash": "143a725df52f0749",
+            "directory": "External2",
+            "voiceContent": "ジン？彼女は真面目な代理団長で、あの大団長よりも頼もしいと言える…みんなも、彼女が正式に団長となる日を密かに期待してるんじゃないかな。",
+            "sourceName": "vo_albedo_teammate_qin_01.wem"
+        },
+        "b09b6b3d5655937c": {
+            "hash": "b09b6b3d5655937c",
+            "directory": "External22",
+            "voiceContent": "ボクに聞きたいことがあるのかい？何かな。あっ、その前にひとつ聞きたいんだけど、その質問はそんなに時間かからないよね？いま進めている研究がもうすぐ最終段階に入るんだ…",
+            "sourceName": "vo_albedo_friendship_01.wem"
+        },
+        "1aef9922ca8ce013": {
+            "hash": "1aef9922ca8ce013",
+            "directory": "External3",
+            "voiceContent": "ああ、これは余談なんだけど、人の介入がない限り、8倍の大きさの太陽が消滅しないと黄金は自然生成されないんだ。",
+            "sourceName": "vo_albedo_friendship_02.wem"
+        },
+        "9603672b0b39200a": {
+            "hash": "9603672b0b39200a",
+            "directory": "External18",
+            "voiceContent": "人物画の作業時間は主に気分次第だ。ホフマンを描く時は半日もかかったりするけど、ガイアを描く時はちょんちょんで終わるよ——この丸は顔、これが眼帯の紐でこっちが眼帯って具合にね。",
+            "sourceName": "vo_albedo_friendship_03.wem"
+        },
+        "b742e554bb6b74c1": {
+            "hash": "b742e554bb6b74c1",
+            "directory": "External22",
+            "voiceContent": "絵と研究以外では…たまに稲妻と璃月の小説を読んだりしているよ。面白い考えをたくさん見られるし、時には予想もつかないインスピレーションを得られるんだ。",
+            "sourceName": "vo_albedo_friendship_04.wem"
+        },
+        "5e310b5e375900c0": {
+            "hash": "5e310b5e375900c0",
+            "directory": "External11",
+            "voiceContent": "今でも、師匠に教わった「黒土の術」は謎だらけだ、師匠は一体この技術で何を作り出そうとしていたんだろう…研究はまだまだ終わらない、キミにも一緒に探索をしてもらわないとね。",
+            "sourceName": "vo_albedo_friendship_05.wem"
+        },
+        "03d4007f39ff2fd0": {
+            "hash": "03d4007f39ff2fd0",
+            "directory": "External0",
+            "voiceContent": "うーん…研究以外で一番時間をかけたいのは絵を描くことかな。最初は物体や材料の構造を理解し、それを研究に応用するために始めたんだけど、気付いたら趣味になっていた。うん、いいリラックスになってると思うよ。",
+            "sourceName": "vo_albedo_pref_hobby.wem"
+        },
+        "b5e1562372501ef5": {
+            "hash": "b5e1562372501ef5",
+            "directory": "External22",
+            "voiceContent": "時間が足りないことかな。面倒なことを他の人に任せても、やっぱり時間は足りないって思ってしまうよ。",
+            "sourceName": "vo_albedo_dialog_annoyed.wem"
+        },
+        "99c99ac2ad74180b": {
+            "hash": "99c99ac2ad74180b",
+            "directory": "External19",
+            "voiceContent": "スイーツは好きだよ。なんというか…スイーツを食べると、カロリーを一気に補給出来て、集中力や効率が上がるんだ。",
+            "sourceName": "vo_albedo_pref_foodLike.wem"
+        },
+        "1b8d9d57162f2575": {
+            "hash": "1b8d9d57162f2575",
+            "directory": "External3",
+            "voiceContent": "嫌いな食べ物…レストランに出てくる大量の肉かな。ボクは小食だから、「もったいない」上に「美味しくなくなる」。だからいっそのこと、ボクはレストランに行くことをやめたんだ。そのせいで、料理に費やす時間が増えてしまったけどね…",
+            "sourceName": "vo_albedo_pref_foodDislike.wem"
+        },
+        "0418032c5c06bfd4": {
+            "hash": "0418032c5c06bfd4",
+            "directory": "External0",
+            "voiceContent": "味覚が色をまるで反射しているようだ…ふむ、これは黄金色だね。",
+            "sourceName": "vo_albedo_spice_pref_01.wem"
+        },
+        "c1d49696ffcd6a4e": {
+            "hash": "c1d49696ffcd6a4e",
+            "directory": "External24",
+            "voiceContent": "キミは料理を作ることに時間をかけるようだ。だから、このような味が作れるのだろう。",
+            "sourceName": "vo_albedo_spice_normal_01.wem"
+        },
+        "437c864c61b04c7a": {
+            "hash": "437c864c61b04c7a",
+            "directory": "External8",
+            "voiceContent": "量が少し多いようだ…キミも一緒に食べないかい？",
+            "sourceName": "vo_albedo_spice_dislike_01.wem"
+        },
+        "b5633b59aa7a4471": {
+            "hash": "b5633b59aa7a4471",
+            "directory": "External22",
+            "voiceContent": "誕生日おめでとう。嬉しそうだね。そんなキミを絵に描いてもいいかい？人の脳の容量は限られてるから、つい忘れてしまうんだ。でも絵にすれば、それは記憶の延長になる。将来、絵をもう一度目にすることで、当時の気持ちを思い出すことができるんだ。",
+            "sourceName": "vo_albedo_pref_birthday.wem"
+        },
+        "d8b34636dd9b123f": {
+            "hash": "d8b34636dd9b123f",
+            "directory": "External27",
+            "voiceContent": "「黒土」は錬金術の語源でもあり、最初の状態のことだよ。この世界に生きてる限り、ボクたちは存在する意味を探さないといけない。",
+            "sourceName": "vo_albedo_starUp_01.wem"
+        },
+        "1604b84ef2523a38": {
+            "hash": "1604b84ef2523a38",
+            "directory": "External2",
+            "voiceContent": "「白亜」、それは変化の始まり。不純物が取り除かれ、あらゆる知識を受け入れる準備ができた。ボクと共に世界を探索してみないかい？",
+            "sourceName": "vo_albedo_starUp_02.wem"
+        },
+        "9b281246b1d580b9": {
+            "hash": "9b281246b1d580b9",
+            "directory": "External19",
+            "voiceContent": "「赤化」、錬金術では感情の精錬を意味するんだ。ボクの赤はキミが原因らしい。",
+            "sourceName": "vo_albedo_starUp_03.wem"
+        },
+        "79e8541d01a2bfa2": {
+            "hash": "79e8541d01a2bfa2",
+            "directory": "External15",
+            "voiceContent": "「黄金」、錬金術の最後の段階。無価値のものは存在する意味を見つけ、黄金になった。ボクも、ちゃんと意味を見つけたよ。",
+            "sourceName": "vo_albedo_starUp_04.wem"
+        },
+        "2cb497cc2fa71957": {
+            "hash": "2cb497cc2fa71957",
+            "directory": "External5",
+            "voiceContent": "計算ミス…",
+            "sourceName": "vo_albedo_life_less30_01.wem"
+        },
+        "ac2129e61d88f9f0": {
+            "hash": "ac2129e61d88f9f0",
+            "directory": "External21",
+            "voiceContent": "再評価が必要だ…",
+            "sourceName": "vo_albedo_life_less30_02.wem"
+        },
+        "2dde83ddda291771": {
+            "hash": "2dde83ddda291771",
+            "directory": "External5",
+            "voiceContent": "策を変えないと。",
+            "sourceName": "vo_albedo_life_less30_03.wem"
+        },
+        "7092f5a0eb1ed8cd": {
+            "hash": "7092f5a0eb1ed8cd",
+            "directory": "External14",
+            "voiceContent": "ボクの研究も、終わりか…",
+            "sourceName": "vo_albedo_life_die_03.wem"
+        },
+        "ba8eb7fa03fd3d20": {
+            "hash": "ba8eb7fa03fd3d20",
+            "directory": "External23",
+            "voiceContent": "ミスしたか…",
+            "sourceName": "vo_albedo_battle_hit_H_02.wem"
+        },
+        "2a74007fb029372c": {
+            "hash": "2a74007fb029372c",
+            "directory": "External5",
+            "voiceContent": "しきい値内だ…",
+            "sourceName": "vo_albedo_battle_hit_L_02.wem"
+        },
+        "6aacbb7a1c674690": {
+            "hash": "6aacbb7a1c674690",
+            "directory": "External13",
+            "voiceContent": "量が少し多いようだ…キミも一緒に食べないかい？",
+            "sourceName": "vo_albedo_spice_event_dislike_01.wem"
+        },
+        "51c79a4a28454f5c": {
+            "hash": "51c79a4a28454f5c",
+            "directory": "External10",
+            "voiceContent": "キミは料理を作ることに時間をかけるようだ。だから、このような味が作れるのだろう。",
+            "sourceName": "vo_albedo_spice_event_normal_01.wem"
+        },
+        "2b20529a7ca74536": {
+            "hash": "2b20529a7ca74536",
+            "directory": "External5",
+            "voiceContent": "味覚が色をまるで反射しているようだ…ふむ、これは黄金色だね。",
+            "sourceName": "vo_albedo_spice_event_pref_01.wem"
+        },
+        "5206dbab0804d81f": {
+            "hash": "5206dbab0804d81f",
+            "directory": "External10",
+            "voiceContent": "この程度の試練、やはりキミにとっては造作も無いようだ。",
+            "sourceName": "vo_card_albedo_invite_easy_03.wem"
+        },
+        "949a6a6a696fa675": {
+            "hash": "949a6a6a696fa675",
+            "directory": "External18",
+            "voiceContent": "当初の目標は達成できた、悪くない。さて、次の目標は…",
+            "sourceName": "vo_card_albedo_invite_hard_02.wem"
+        },
+        "f8f4f9b483f256b6": {
+            "hash": "f8f4f9b483f256b6",
+            "directory": "External31",
+            "voiceContent": "落ち込む必要はない。考え方を少し変えればいいだけだ。",
+            "sourceName": "vo_card_albedo_invite_easy_02.wem"
+        },
+        "0e170c60ff3ca912": {
+            "hash": "0e170c60ff3ca912",
+            "directory": "External1",
+            "voiceContent": "このカードゲームは横で何度も見学したことがある。そして、いくつかのアイデアも持っている…ちょうどいい、ボクの実験に付き合ってもらおうか。",
+            "sourceName": "vo_card_albedo_invite_hard_01.wem"
+        },
+        "12a73072aca22fe4": {
+            "hash": "12a73072aca22fe4",
+            "directory": "External2",
+            "voiceContent": "予想外の結果が手に入った…とても満足したよ。",
+            "sourceName": "vo_card_albedo_invite_hard_03.wem"
+        },
+        "1ff8a5226abba81e": {
+            "hash": "1ff8a5226abba81e",
+            "directory": "External3",
+            "voiceContent": "悪くない対戦だった。リフレッシュにはちょうどいい。",
+            "sourceName": "vo_card_albedo_endOfGame_win_01.wem"
+        },
+        "f09f7d55bce278c2": {
+            "hash": "f09f7d55bce278c2",
+            "directory": "External30",
+            "voiceContent": "キミの勝ちだ、おめでとう。ボクも、勝つための戦略を見直さなければならないみたいだね。",
+            "sourceName": "vo_card_albedo_endOfGame_fail_01.wem"
+        },
+        "1086580577b8f78d": {
+            "hash": "1086580577b8f78d",
+            "directory": "External2",
+            "voiceContent": "ここは本当に賑やかだ。カードゲームがこんなにも好かれる理由とは、一体なんなのだろうか？",
+            "sourceName": "vo_card_albedo_freetalk_01.wem"
+        },
+        "6ac246c8900df45e": {
+            "hash": "6ac246c8900df45e",
+            "directory": "External13",
+            "voiceContent": "ああ、先に休んでくれていいよ。ボクも、このあと戻って仕事を続けるから。",
+            "sourceName": "vo_card_albedo_leave_01.wem"
+        },
+        "693927bd503e9c19": {
+            "hash": "693927bd503e9c19",
+            "directory": "External13",
+            "voiceContent": "そんなに楽しみなら、ひと勝負しようか。",
+            "sourceName": "vo_card_albedo_invite_easy_01.wem"
+        },
+        "0b65adfcfb94e803": {
+            "hash": "0b65adfcfb94e803",
+            "directory": "External1",
+            "voiceContent": "この挑戦をキミに。",
+            "sourceName": "vo_card_albedo_inGame_hard_04.wem"
+        },
+        "1fda4d4f02dee4e2": {
+            "hash": "1fda4d4f02dee4e2",
+            "directory": "External3",
+            "voiceContent": "まだ平気だ…",
+            "sourceName": "vo_card_albedo_inGame_easy_02.wem"
+        },
+        "4ea6e03868609bb0": {
+            "hash": "4ea6e03868609bb0",
+            "directory": "External9",
+            "voiceContent": "どうやら、苦しい戦いになってきたようだね。",
+            "sourceName": "vo_card_albedo_inGame_hard_03.wem"
+        },
+        "d3ca3a3027e3e231": {
+            "hash": "d3ca3a3027e3e231",
+            "directory": "External26",
+            "voiceContent": "さすがだね。",
+            "sourceName": "vo_card_albedo_inGame_hard_02.wem"
+        },
+        "ca79bf47f83b3d2b": {
+            "hash": "ca79bf47f83b3d2b",
+            "directory": "External25",
+            "voiceContent": "評価すべきパフォーマンスだ。",
+            "sourceName": "vo_card_albedo_inGame_easy_03.wem"
+        },
+        "4d7cec26bdde900e": {
+            "hash": "4d7cec26bdde900e",
+            "directory": "External9",
+            "voiceContent": "戦略が効いたようだ。",
+            "sourceName": "vo_card_albedo_inGame_hard_01.wem"
+        },
+        "bbf6b180f38e5f78": {
+            "hash": "bbf6b180f38e5f78",
+            "directory": "External23",
+            "voiceContent": "成果を見せよう。",
+            "sourceName": "vo_card_albedo_inGame_easy_04.wem"
+        },
+        "7a4c6b5731a17b05": {
+            "hash": "7a4c6b5731a17b05",
+            "directory": "External15",
+            "voiceContent": "ボクの仮説は立証された。",
+            "sourceName": "vo_card_albedo_inGame_easy_01.wem"
+        }
+    }
+}

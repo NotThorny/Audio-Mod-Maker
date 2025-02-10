@@ -1,0 +1,914 @@
+{
+    "Teapot": {
+        "19e6ba11b3f384d1": {
+            "hash": "19e6ba11b3f384d1",
+            "directory": "External3",
+            "voiceContent": "この公園はとてもいい雰囲気だな。ありがとう…",
+            "sourceName": "vo_mimiTomo_md_qin_park_03.wem"
+        },
+        "6d7a4e027d70dc37": {
+            "hash": "6d7a4e027d70dc37",
+            "directory": "External13",
+            "voiceContent": "モンドの城内を散歩する度、皆の楽しそうな姿を見て、私も大いに励まされるんだ。",
+            "sourceName": "vo_mimiTomo_md_qin_park_01.wem"
+        },
+        "21c778a6c322bd95": {
+            "hash": "21c778a6c322bd95",
+            "directory": "External4",
+            "voiceContent": "読書の時も、仕事の時も、とても落ち着ける。",
+            "sourceName": "vo_mimiTomo_md_qin_study_02.wem"
+        },
+        "f0019a9fccef16b2": {
+            "hash": "f0019a9fccef16b2",
+            "directory": "External30",
+            "voiceContent": "まさか騎士団本部以外で、こんなにも整った書斎を見ることになるとは思わなかった。",
+            "sourceName": "vo_mimiTomo_md_qin_study_01.wem"
+        },
+        "9c6e3eaf03721e04": {
+            "hash": "9c6e3eaf03721e04",
+            "directory": "External19",
+            "voiceContent": "ありがとう、栄誉騎士。ここを気に入ったよ。",
+            "sourceName": "vo_mimiTomo_md_qin_study_03.wem"
+        },
+        "98296019f7536750": {
+            "hash": "98296019f7536750",
+            "directory": "External19",
+            "voiceContent": "騎士団の努力は、市民の人々が何の心配もなく生活を送るためにある。",
+            "sourceName": "vo_mimiTomo_md_qin_park_02.wem"
+        },
+        "b5b97ccf2cb21514": {
+            "hash": "b5b97ccf2cb21514",
+            "directory": "External22",
+            "voiceContent": "もちろん仕事をする時は、全力で取り組むが。",
+            "sourceName": "vo_qin_mimitomo_friendship3_03.wem"
+        },
+        "e6f3f374b007d1ed": {
+            "hash": "e6f3f374b007d1ed",
+            "directory": "External28",
+            "voiceContent": "あぁ、喜んで。",
+            "sourceName": "vo_qin_mimitomo_friendship2_01.wem"
+        },
+        "6c536d4567461153": {
+            "hash": "6c536d4567461153",
+            "directory": "External13",
+            "voiceContent": "私に手伝えることがあれば、いつでも言ってくれ。",
+            "sourceName": "vo_qin_mimitomo_morning_03.wem"
+        },
+        "6c47556711a913aa": {
+            "hash": "6c47556711a913aa",
+            "directory": "External13",
+            "voiceContent": "それにとても静かで、落ち着いて仕事ができる。",
+            "sourceName": "vo_qin_mimitomo_friendship1_03.wem"
+        },
+        "c58741d706708cb5": {
+            "hash": "c58741d706708cb5",
+            "directory": "External24",
+            "voiceContent": "風の導くままに。",
+            "sourceName": "vo_qin_mimitomo_hello_01.wem"
+        },
+        "4089333f4d1db603": {
+            "hash": "4089333f4d1db603",
+            "directory": "External8",
+            "voiceContent": "分かった、お互いもっと気楽に接し合える関係になるべきだな。",
+            "sourceName": "vo_qin_mimitomo_friendship2_03a_4.wem"
+        },
+        "83ca657ab9e969b0": {
+            "hash": "83ca657ab9e969b0",
+            "directory": "External16",
+            "voiceContent": "す、すまない…私は…",
+            "sourceName": "vo_qin_mimitomo_friendship2_03a_3.wem"
+        },
+        "63bf36c824f211e5": {
+            "hash": "63bf36c824f211e5",
+            "directory": "External12",
+            "voiceContent": "以前君が言ったように、私も自分の生き方を変えてみようと思ったんだ。",
+            "sourceName": "vo_qin_mimitomo_friendship3_02.wem"
+        },
+        "ba49a8e0da17a976": {
+            "hash": "ba49a8e0da17a976",
+            "directory": "External23",
+            "voiceContent": "これもすべて君のおかげだ…",
+            "sourceName": "vo_qin_mimitomo_friendship3_05.wem"
+        },
+        "b00c9f494e18f63c": {
+            "hash": "b00c9f494e18f63c",
+            "directory": "External22",
+            "voiceContent": "ダメ…なのか？",
+            "sourceName": "vo_qin_mimitomo_friendship1_04a.wem"
+        },
+        "88f7e77f1477f447": {
+            "hash": "88f7e77f1477f447",
+            "directory": "External17",
+            "voiceContent": "そのことは心に刻んでおこう。",
+            "sourceName": "vo_qin_mimitomo_friendship1_06.wem"
+        },
+        "0ff48ad75b454edf": {
+            "hash": "0ff48ad75b454edf",
+            "directory": "External1",
+            "voiceContent": "君と一緒にいる時は、きちんとリラックスできるようになった。",
+            "sourceName": "vo_qin_mimitomo_friendship3_04.wem"
+        },
+        "e3141ceb6f2d0bc4": {
+            "hash": "e3141ceb6f2d0bc4",
+            "directory": "External28",
+            "voiceContent": "歩きながら一緒に話そう。",
+            "sourceName": "vo_qin_mimitomo_friendship3_10.wem"
+        },
+        "fa7ec75e2ce844c7": {
+            "hash": "fa7ec75e2ce844c7",
+            "directory": "External31",
+            "voiceContent": "おやすみ、早く休むといい。",
+            "sourceName": "vo_qin_mimitomo_night_01.wem"
+        },
+        "a56a7cf1e6e0a858": {
+            "hash": "a56a7cf1e6e0a858",
+            "directory": "External20",
+            "voiceContent": "私がそれに応えなければ、恥ずべきことだ。",
+            "sourceName": "vo_qin_mimitomo_friendship3_07.wem"
+        },
+        "eacc3b4daad3c74a": {
+            "hash": "eacc3b4daad3c74a",
+            "directory": "External29",
+            "voiceContent": "君の旅が上手くいくことを祈っている。",
+            "sourceName": "vo_qin_mimitomo_morning_02.wem"
+        },
+        "82a071690f675e0e": {
+            "hash": "82a071690f675e0e",
+            "directory": "External16",
+            "voiceContent": "すまない…きっと私が普段から仕事のことばかり言うから、君にそのような気遣いを…",
+            "sourceName": "vo_qin_mimitomo_friendship2_03a_1.wem"
+        },
+        "d6dad3976a63bd21": {
+            "hash": "d6dad3976a63bd21",
+            "directory": "External26",
+            "voiceContent": "が、頑張るよ…",
+            "sourceName": "vo_qin_mimitomo_friendship2_05.wem"
+        },
+        "f134875ed0fe86b3": {
+            "hash": "f134875ed0fe86b3",
+            "directory": "External30",
+            "voiceContent": "空気が新鮮で、心身共にリラックスできる環境だからな。",
+            "sourceName": "vo_qin_mimitomo_friendship1_02.wem"
+        },
+        "2ebcd976e5e4ba9c": {
+            "hash": "2ebcd976e5e4ba9c",
+            "directory": "External5",
+            "voiceContent": "あぁ、ここはとても快適だ。",
+            "sourceName": "vo_qin_mimitomo_friendship1_01.wem"
+        },
+        "650856e32bfc3555": {
+            "hash": "650856e32bfc3555",
+            "directory": "External12",
+            "voiceContent": "まだまだ、君と話したいことがあるんだ。",
+            "sourceName": "vo_qin_mimitomo_friendship3_11.wem"
+        },
+        "520d09011d91160a": {
+            "hash": "520d09011d91160a",
+            "directory": "External10",
+            "voiceContent": "……",
+            "sourceName": "vo_qin_mimitomo_friendship3_09.wem"
+        },
+        "b901556dbd14926a": {
+            "hash": "b901556dbd14926a",
+            "directory": "External23",
+            "voiceContent": "どんな話をしようか？",
+            "sourceName": "vo_qin_mimitomo_friendship2_02.wem"
+        },
+        "dfb87997c9cb51e0": {
+            "hash": "dfb87997c9cb51e0",
+            "directory": "External27",
+            "voiceContent": "ありがとう…",
+            "sourceName": "vo_qin_mimitomo_friendship1_05.wem"
+        },
+        "2c72799e7536cfa0": {
+            "hash": "2c72799e7536cfa0",
+            "directory": "External5",
+            "voiceContent": "あぁ…その…",
+            "sourceName": "vo_qin_mimitomo_friendship2_04.wem"
+        },
+        "513f5976e23ba260": {
+            "hash": "513f5976e23ba260",
+            "directory": "External10",
+            "voiceContent": "君が、私に言ってくれたように…",
+            "sourceName": "vo_qin_mimitomo_night_02.wem"
+        },
+        "094d18bff62f7ac2": {
+            "hash": "094d18bff62f7ac2",
+            "directory": "External1",
+            "voiceContent": "そうだな、一緒に散歩に行かないか？",
+            "sourceName": "vo_qin_mimitomo_friendship3_01.wem"
+        },
+        "3b582e7764b12f1b": {
+            "hash": "3b582e7764b12f1b",
+            "directory": "External7",
+            "voiceContent": "へっ…し、しかし、まだ心の準備が…",
+            "sourceName": "vo_qin_mimitomo_friendship2_03b_3.wem"
+        },
+        "d6f93af8dce4d613": {
+            "hash": "d6f93af8dce4d613",
+            "directory": "External26",
+            "voiceContent": "本当にありがとう。",
+            "sourceName": "vo_qin_mimitomo_friendship3_08.wem"
+        },
+        "3c821a890f332d35": {
+            "hash": "3c821a890f332d35",
+            "directory": "External7",
+            "voiceContent": "簡単なものを少し歌えるだけだ。",
+            "sourceName": "vo_qin_mimitomo_friendship2_03b_1.wem"
+        },
+        "819360b2d404ed68": {
+            "hash": "819360b2d404ed68",
+            "directory": "External16",
+            "voiceContent": "ちゃんと練習してからにしなければ。",
+            "sourceName": "vo_qin_mimitomo_friendship2_03b_4.wem"
+        },
+        "2727d6e9a380c5d9": {
+            "hash": "2727d6e9a380c5d9",
+            "directory": "External4",
+            "voiceContent": "君はいつも、こうして私に付き添い、私のことを思ってくれる。",
+            "sourceName": "vo_qin_mimitomo_friendship3_06.wem"
+        },
+        "08edbf72796cb031": {
+            "hash": "08edbf72796cb031",
+            "directory": "External1",
+            "voiceContent": "反省しないといけないな。",
+            "sourceName": "vo_qin_mimitomo_friendship2_03a_2.wem"
+        },
+        "b964bc7fa7e359d2": {
+            "hash": "b964bc7fa7e359d2",
+            "directory": "External23",
+            "voiceContent": "こ…これといって自慢できるものではない。",
+            "sourceName": "vo_qin_mimitomo_friendship2_03b_2.wem"
+        }
+    },
+    "Quests": {
+        "af8bbd8bc68041e4": {
+            "hash": "af8bbd8bc68041e4",
+            "directory": "External21",
+            "voiceContent": "次はちゃんと後ろからこっそり近づいて、一気に捕まえるぞ！",
+            "sourceName": "vo_QINLQ002_4_paimon_01a_1.wem"
+        },
+        "cea8dc94c0e07ea4": {
+            "hash": "cea8dc94c0e07ea4",
+            "directory": "External25",
+            "voiceContent": "はぁ…思ったより警戒心が強いんだな。でもまだ遠くには行ってないはずだ。「元素視角」でもう一度探してみよう。",
+            "sourceName": "vo_QINLQ002_4_paimon_01a.wem"
+        },
+        "2cf00b71d5ea445b": {
+            "hash": "2cf00b71d5ea445b",
+            "directory": "External5",
+            "voiceContent": "もしくは…魚で気をそらしてやれ。あと少しだ。",
+            "sourceName": "vo_QINLQ002_4_paimon_01a_2.wem"
+        },
+        "15624a7859a6a2f7": {
+            "hash": "15624a7859a6a2f7",
+            "directory": "External2",
+            "voiceContent": "おい、見ろよ！あれ…マーガレットが言ってた猫じゃないか？",
+            "sourceName": "vo_QINLQ002_2_paimon_01.wem"
+        },
+        "40105c8fd3877a10": {
+            "hash": "40105c8fd3877a10",
+            "directory": "External8",
+            "voiceContent": "きっと、あれが「リトルプリンス」だよな？",
+            "sourceName": "vo_QINLQ002_2_paimon_02.wem"
+        },
+        "67cdff9ba565f586": {
+            "hash": "67cdff9ba565f586",
+            "directory": "External12",
+            "voiceContent": "せっかく「リトルプリンス」を見つけたんだ、また逃がしたら大変だぞ！真面目にやれよな！",
+            "sourceName": "vo_QINLQ002_3_paimon_01b_1.wem"
+        },
+        "8053a67deb849a97": {
+            "hash": "8053a67deb849a97",
+            "directory": "External16",
+            "voiceContent": "急用が出来たなら、また帰ってから探すことにするか。",
+            "sourceName": "vo_QINLQ002_3_paimon_01c_1.wem"
+        },
+        "8ce4ceae802b91c2": {
+            "hash": "8ce4ceae802b91c2",
+            "directory": "External17",
+            "voiceContent": "どこへ行くんだ？",
+            "sourceName": "vo_QINLQ002_3_paimon_01b.wem"
+        },
+        "e62cc0a5046bbd8b": {
+            "hash": "e62cc0a5046bbd8b",
+            "directory": "External28",
+            "voiceContent": "「リトルプリンス」は、城の中にいるはずだぞ？",
+            "sourceName": "vo_QINLQ002_3_paimon_01c.wem"
+        },
+        "d29a82996d94df1a": {
+            "hash": "d29a82996d94df1a",
+            "directory": "External26",
+            "voiceContent": "トワリンはこの先にいるのか…",
+            "sourceName": "vo_dialog_MDAQ068_qin_01.wem"
+        },
+        "3005a0a19eddcd1d": {
+            "hash": "3005a0a19eddcd1d",
+            "directory": "External6",
+            "voiceContent": "これも、風の導きだろうな。",
+            "sourceName": "vo_dialog_MDAQ068_qin_02.wem"
+        },
+        "ab8a84343cee22b0": {
+            "hash": "ab8a84343cee22b0",
+            "directory": "External21",
+            "voiceContent": "頼んだわね。「リトルプリンス」は商業エリアと住居エリアの近くにいるはずよ。いい？「リトルプリンス」は黒猫よ。",
+            "sourceName": "vo_QINLQ002_1_margaret_05.wem"
+        },
+        "410d98c47684e6c2": {
+            "hash": "410d98c47684e6c2",
+            "directory": "External8",
+            "voiceContent": "やっぱり、あの黒猫が「リトルプリンス」だ！",
+            "sourceName": "vo_QINLQ002_1_paimon_10.wem"
+        },
+        "b273dd5f8a9cd118": {
+            "hash": "b273dd5f8a9cd118",
+            "directory": "External22",
+            "voiceContent": "あっ、見ろよ！あの猫、見覚えがあるぞ。確かキャッツテールで見たよな…",
+            "sourceName": "vo_QINLQ002_1_paimon_09.wem"
+        },
+        "5085a590e1e6851d": {
+            "hash": "5085a590e1e6851d",
+            "directory": "External10",
+            "voiceContent": "フン、こいつらならどうだ？弱点だった水元素はもう効かない。",
+            "sourceName": "vo_QINLQ005_4_abyss_05.wem"
+        },
+        "e1a18b99c04a114c": {
+            "hash": "e1a18b99c04a114c",
+            "directory": "External28",
+            "voiceContent": "しつこいな、まさかここまで追って来るとは！",
+            "sourceName": "vo_QINLQ005_4_abyss_04.wem"
+        },
+        "a0b33981a880b463": {
+            "hash": "a0b33981a880b463",
+            "directory": "External20",
+            "voiceContent": "いい加減にしてほしいものだ。ここまで来たら、このワシが直々に相手してやろう。",
+            "sourceName": "vo_QINLQ005_4_abyss_07.wem"
+        },
+        "f31a8788b09d971a": {
+            "hash": "f31a8788b09d971a",
+            "directory": "External30",
+            "voiceContent": "フン、この猛火はどうだ。一箇所でも残っていれば、煉獄の炎がまた燃え出す。",
+            "sourceName": "vo_QINLQ005_4_abyss_06.wem"
+        }
+    },
+    "Gameplay": {
+        "9ee0f077de75e2d5": {
+            "hash": "9ee0f077de75e2d5",
+            "directory": "External19",
+            "voiceContent": "いざ…勝負！",
+            "sourceName": "vo_qin_battle_skill1_01.wem"
+        },
+        "6d1b1270e8423bf2": {
+            "hash": "6d1b1270e8423bf2",
+            "directory": "External13",
+            "voiceContent": "…ハァ！",
+            "sourceName": "vo_qin_battle_skill1_02.wem"
+        },
+        "f2748468a7f33a3b": {
+            "hash": "f2748468a7f33a3b",
+            "directory": "External30",
+            "voiceContent": "…セァ！",
+            "sourceName": "vo_qin_battle_skill1_03.wem"
+        },
+        "f4f0d475c6fab437": {
+            "hash": "f4f0d475c6fab437",
+            "directory": "External30",
+            "voiceContent": "風よ、私に応えるのだ。",
+            "sourceName": "vo_qin_battle_skill3_01.wem"
+        },
+        "1f9fe68d40dd3f50": {
+            "hash": "1f9fe68d40dd3f50",
+            "directory": "External3",
+            "voiceContent": "剣に誓う！",
+            "sourceName": "vo_qin_battle_skill3_02.wem"
+        },
+        "a15d4084fd7d5cd1": {
+            "hash": "a15d4084fd7d5cd1",
+            "directory": "External20",
+            "voiceContent": "風の神よ、我らを導きたまえ。",
+            "sourceName": "vo_qin_battle_skill3_03.wem"
+        },
+        "f015ac9880d33192": {
+            "hash": "f015ac9880d33192",
+            "directory": "External30",
+            "voiceContent": "思ってもない収穫だ。",
+            "sourceName": "vo_qin_chest_open_01.wem"
+        },
+        "76990aa1eb062ef5": {
+            "hash": "76990aa1eb062ef5",
+            "directory": "External14",
+            "voiceContent": "うん、実に幸運な一日だ。",
+            "sourceName": "vo_qin_chest_open_02.wem"
+        },
+        "f4a5d0aa2e38b864": {
+            "hash": "f4a5d0aa2e38b864",
+            "directory": "External30",
+            "voiceContent": "皆も宝が手に入るといいな。",
+            "sourceName": "vo_qin_chest_open_03.wem"
+        },
+        "dc1f8f1025356ed6": {
+            "hash": "dc1f8f1025356ed6",
+            "directory": "External27",
+            "voiceContent": "怪我をしているではないか…一時退却を！",
+            "sourceName": "vo_qin_life_less30_teammate_01.wem"
+        },
+        "4c63bd18f181b439": {
+            "hash": "4c63bd18f181b439",
+            "directory": "External9",
+            "voiceContent": "私に任せろ。",
+            "sourceName": "vo_qin_life_less30_teammate_02.wem"
+        },
+        "12742a74daed4d6b": {
+            "hash": "12742a74daed4d6b",
+            "directory": "External2",
+            "voiceContent": "モンド…",
+            "sourceName": "vo_qin_life_die_01.wem"
+        },
+        "65979c8d8d2e08f4": {
+            "hash": "65979c8d8d2e08f4",
+            "directory": "External12",
+            "voiceContent": "個人の力には限界がある…",
+            "sourceName": "vo_qin_life_die_02.wem"
+        },
+        "d4219559bc461964": {
+            "hash": "d4219559bc461964",
+            "directory": "External26",
+            "voiceContent": "いつでも出発できる。",
+            "sourceName": "vo_qin_teamJoin_01.wem"
+        },
+        "5185e33fcbb01bdb": {
+            "hash": "5185e33fcbb01bdb",
+            "directory": "External10",
+            "voiceContent": "準備は万端だ。",
+            "sourceName": "vo_qin_teamJoin_02.wem"
+        },
+        "cf9171480ee09292": {
+            "hash": "cf9171480ee09292",
+            "directory": "External25",
+            "voiceContent": "風の導きのままに。",
+            "sourceName": "vo_qin_teamJoin_03.wem"
+        },
+        "bad8638ec7fc28ee": {
+            "hash": "bad8638ec7fc28ee",
+            "directory": "External23",
+            "voiceContent": "「蒲公英騎士」·ジン、入隊させていただきたい。これから先、私の栄誉と忠誠は貴方と共にある！",
+            "sourceName": "vo_qin_draw_appear.wem"
+        },
+        "7641d6bfeebbe838": {
+            "hash": "7641d6bfeebbe838",
+            "directory": "External14",
+            "voiceContent": "行動するのだ。ここに留まっているわけにはいかない。",
+            "sourceName": "vo_qin_explore_idle_01.wem"
+        },
+        "38f064a7da04c03f": {
+            "hash": "38f064a7da04c03f",
+            "directory": "External7",
+            "voiceContent": "騎士団の皆は…真面目にやっているのだろうか？",
+            "sourceName": "vo_qin_explore_idle_02.wem"
+        },
+        "8b2102aee1f2e956": {
+            "hash": "8b2102aee1f2e956",
+            "directory": "External17",
+            "voiceContent": "行こう、次の目的地へ！",
+            "sourceName": "vo_qin_explore_idle_03.wem"
+        },
+        "c245920081368c7e": {
+            "hash": "c245920081368c7e",
+            "directory": "External24",
+            "voiceContent": "雨が降ろうと、私の行く手を遮ることはできぬ。",
+            "sourceName": "vo_qin_weather_heavyRain_01.wem"
+        },
+        "6fff0913771c0927": {
+            "hash": "6fff0913771c0927",
+            "directory": "External13",
+            "voiceContent": "こういう天気こそ行動に適しているのだ。",
+            "sourceName": "vo_qin_weather_afterRain_01.wem"
+        },
+        "eb69c28d83663bf8": {
+            "hash": "eb69c28d83663bf8",
+            "directory": "External29",
+            "voiceContent": "聞くところでは、あの日も珍しく強い風が吹いていたらしい…",
+            "sourceName": "vo_qin_weather_gale_01.wem"
+        },
+        "3c7414ede9f6bd81": {
+            "hash": "3c7414ede9f6bd81",
+            "directory": "External7",
+            "voiceContent": "雪だ。ブーツの手入れを念入りにな。",
+            "sourceName": "vo_qin_weather_snowy_01.wem"
+        },
+        "cd812996dfdf33ec": {
+            "hash": "cd812996dfdf33ec",
+            "directory": "External25",
+            "voiceContent": "気持ちのいい天気だ。",
+            "sourceName": "vo_qin_weather_breezy_01.wem"
+        },
+        "415481bd299fc024": {
+            "hash": "415481bd299fc024",
+            "directory": "External8",
+            "voiceContent": "「一日の計は早朝にあり」。今日も頑張ろう。",
+            "sourceName": "vo_qin_dialog_greetingMorning.wem"
+        },
+        "8940cce7c99da080": {
+            "hash": "8940cce7c99da080",
+            "directory": "External17",
+            "voiceContent": "よし、今から任務を始めよう。",
+            "sourceName": "vo_qin_dialog_greetingNoon.wem"
+        },
+        "d4774af0817318be": {
+            "hash": "d4774af0817318be",
+            "directory": "External26",
+            "voiceContent": "どうやら、コーヒーに耐性がついたようだな。他の代替品があればいいのだが……リサに聞いてみよう。",
+            "sourceName": "vo_qin_dialog_greetingNight.wem"
+        },
+        "d71349040410b636": {
+            "hash": "d71349040410b636",
+            "directory": "External26",
+            "voiceContent": "今日の訓練はここまでにしよう。よくやった。ご苦労様。",
+            "sourceName": "vo_qin_dialog_greetingNight2.wem"
+        },
+        "01a8698f11004709": {
+            "hash": "01a8698f11004709",
+            "directory": "External0",
+            "voiceContent": "今日は人々を守るためとは言え、五つの遺跡守衛を叩き切って、八つ裂きにしてしまった。あ…私はまだ自分を磨き続けなければいけない。あれは貴重な文化遺産なので、今度は素手で倒してみるべきだ。",
+            "sourceName": "vo_qin_dialog_idle.wem"
+        },
+        "b736160b4f4c27b8": {
+            "hash": "b736160b4f4c27b8",
+            "directory": "External22",
+            "voiceContent": "任務は勝手に終わるものではない。だが、適度な息抜きも悪くはない。今日は特別に数分の昼休みをとろう。",
+            "sourceName": "vo_qin_dialog_close3.wem"
+        },
+        "cc1541fa428328d6": {
+            "hash": "cc1541fa428328d6",
+            "directory": "External25",
+            "voiceContent": "全力で君を助けよう。もちろん、君の進む道が正義からかけ離れた時、私は迷わず指摘させてもらう。",
+            "sourceName": "vo_qin_dialog_close1.wem"
+        },
+        "3c5970030ecf6e39": {
+            "hash": "3c5970030ecf6e39",
+            "directory": "External7",
+            "voiceContent": "この剣に誓おう。必ず勝利を君に捧げると。",
+            "sourceName": "vo_qin_dialog_close2.wem"
+        },
+        "9d4a1fdcb890ff15": {
+            "hash": "9d4a1fdcb890ff15",
+            "directory": "External19",
+            "voiceContent": "「モンドを守る」、それはグンヒルド家の家訓だ。「神の目」を使う度に、私は母上様、そしてモンドの人々の期待を思い出す。モンドのため、自由のために戦うことに、私は躊躇ったりしない。",
+            "sourceName": "vo_qin_dialog_pendant.wem"
+        },
+        "d53e0bda2415399a": {
+            "hash": "d53e0bda2415399a",
+            "directory": "External26",
+            "voiceContent": "西風騎士団を代表して、君がモンドのためにしてくれた全てのことに感謝する。どうか無理をせず、適度に…急に笑い出してどうしたのだ？私が何かおかしなことを言ったか？",
+            "sourceName": "vo_qin_dialog_share.wem"
+        },
+        "86eecf2cdf694df0": {
+            "hash": "86eecf2cdf694df0",
+            "directory": "External16",
+            "voiceContent": "「蒲公英、蒲公英、風と共に遠くへ行くがいい。」蒲公英は、風に乗って天空の島まで行けるのかもしれないな。",
+            "sourceName": "vo_qin_pref_gift.wem"
+        },
+        "69de1726acb63828": {
+            "hash": "69de1726acb63828",
+            "directory": "External13",
+            "voiceContent": "バーバラはとても頑張っている。ただ、時々無理しすぎだ…ん？どうしてそんなによく知っているかって？西風教会も騎士団の管轄だからだ。",
+            "sourceName": "vo_qin_teammate_barbara_01.wem"
+        },
+        "a1f56b91d6f9e8f2": {
+            "hash": "a1f56b91d6f9e8f2",
+            "directory": "External20",
+            "voiceContent": "リサ、彼女がいれば何かと安心だ。",
+            "sourceName": "vo_qin_teammate_lisa_01.wem"
+        },
+        "b3ca2ce44c2866a4": {
+            "hash": "b3ca2ce44c2866a4",
+            "directory": "External22",
+            "voiceContent": "アンバーはこのところ着実に成長している。いつの日か、彼女の功績も吟遊詩人によって歌われるといいのだが。",
+            "sourceName": "vo_qin_teammate_ambor_01.wem"
+        },
+        "f119ddec1ce49f8c": {
+            "hash": "f119ddec1ce49f8c",
+            "directory": "External30",
+            "voiceContent": "ファルカ大団長、彼は西風騎士団の生きた伝説だ。彼が帰ってきたら、話を聞いてみるといい。きっと勉強になると思う。",
+            "sourceName": "vo_qin_teammate_varka_01.wem"
+        },
+        "f20bf9b82043f0a3": {
+            "hash": "f20bf9b82043f0a3",
+            "directory": "External30",
+            "voiceContent": "ノエル、ああ…あの西風騎士になりたがっている少女のことか。彼女の心にはまだ迷いがある。今の彼女が外の危険に触れるのは、まだ早いかもしれないな。",
+            "sourceName": "vo_qin_teammate_noel_01.wem"
+        },
+        "5664ca7c429ca8b4": {
+            "hash": "5664ca7c429ca8b4",
+            "directory": "External10",
+            "voiceContent": "ロサリアさんはいつも「面倒」と口にするが、実はかなり頼りになる存在だ。この前彼女に「面倒なら私も手伝うが」と言ったら、「そっちのがもっと面倒よ」って言われた。うん…やはり私もまだまだだな。",
+            "sourceName": "vo_qin_teammate_rosaria_01.wem"
+        },
+        "76e772977baba120": {
+            "hash": "76e772977baba120",
+            "directory": "External14",
+            "voiceContent": "そうか…ガイアも君にアドバイスをしたのか。彼は優れた西風騎士。それは間違いない。",
+            "sourceName": "vo_qin_teammate_kaeya_01.wem"
+        },
+        "1e6c69d246be95f0": {
+            "hash": "1e6c69d246be95f0",
+            "directory": "External3",
+            "voiceContent": "遊ぶことが子供の仕事と言うが、クレーが気に入るおもちゃは危険な物ばかりだ。なかなかに安心できない。",
+            "sourceName": "vo_qin_teammate_klee_01.wem"
+        },
+        "72342d7631d1c718": {
+            "hash": "72342d7631d1c718",
+            "directory": "External14",
+            "voiceContent": "「天才」という言葉は、アルベドのような人のためにあるのかもしれない。",
+            "sourceName": "vo_qin_teammate_albedo_01.wem"
+        },
+        "e71cbcad94f34d74": {
+            "hash": "e71cbcad94f34d74",
+            "directory": "External28",
+            "voiceContent": "私の肩には西風騎士団の信頼、そしてモンドの民の期待がかかっている。だから、気を緩めるわけにはいかないのだ。",
+            "sourceName": "vo_qin_friendship_01.wem"
+        },
+        "93f94a94e2b291eb": {
+            "hash": "93f94a94e2b291eb",
+            "directory": "External18",
+            "voiceContent": "ヴァネッサの「蒲公英騎士」の名は現在にまで受け継がれている。かつて、数々の偉大な騎士たちがこの栄誉を授けられてきた。私がこの名を汚すわけにはいかぬのだ。だから、決して気を緩めてはいけない。人々を守るための盾と剣にならなくては。",
+            "sourceName": "vo_qin_friendship_02.wem"
+        },
+        "e5f3d89bea730fa2": {
+            "hash": "e5f3d89bea730fa2",
+            "directory": "External28",
+            "voiceContent": "伝説の物語にしろ、歴史書にしろ、偉大な騎士はその功績しか記されていない。彼らは一度も道を見失わなかったというのか……？風よ、我が進むべき道を示してくれ。",
+            "sourceName": "vo_qin_friendship_03.wem"
+        },
+        "073396c59aa5d0b9": {
+            "hash": "073396c59aa5d0b9",
+            "directory": "External0",
+            "voiceContent": "仕事に全力を尽くす時、悩みも時間も忘れてしまう。そんな時、ファルカ大団長はこう言った「君はこういうことに最もふさわしい人だ。」と。",
+            "sourceName": "vo_qin_friendship_04.wem"
+        },
+        "82103ccddb228a38": {
+            "hash": "82103ccddb228a38",
+            "directory": "External16",
+            "voiceContent": "君と行動を共にして、進むべき道がこれ以上なくはっきりした。まるで、ついに頼れる人が見つかったようだ。これは一体……いや、きっとまだ私の努力が足りないのだ。絶対に気を緩めてはならない。西風騎士団とモンドの期待に背くわけにはいかないのだから。……だが、ありがとう。",
+            "sourceName": "vo_qin_friendship_05.wem"
+        },
+        "4cc19e217aca6de8": {
+            "hash": "4cc19e217aca6de8",
+            "directory": "External9",
+            "voiceContent": "君とは書物に記されている英雄たちの伝記について語り合えるかもしれないな。カーンルイア英雄王の物語を聞いたことは？",
+            "sourceName": "vo_qin_pref_hobby.wem"
+        },
+        "02f30f552fec4c2d": {
+            "hash": "02f30f552fec4c2d",
+            "directory": "External0",
+            "voiceContent": "もし何か不思議な薬があって、それを飲んだら寝なくても済むとしたら…うん、明日リサに聞いてみるか？",
+            "sourceName": "vo_qin_dialog_annoyed.wem"
+        },
+        "ee9a2f5bf5be4b13": {
+            "hash": "ee9a2f5bf5be4b13",
+            "directory": "External29",
+            "voiceContent": "キャッツテールのピザ……長いこと食べてないな。団長室まで出前をしてくれればいいのに。",
+            "sourceName": "vo_qin_pref_foodLike.wem"
+        },
+        "2cf4dd76125f005d": {
+            "hash": "2cf4dd76125f005d",
+            "directory": "External5",
+            "voiceContent": "優れた騎士は好き嫌いなどしないのだ。",
+            "sourceName": "vo_qin_pref_foodDislike.wem"
+        },
+        "0f06af07ed5bd42c": {
+            "hash": "0f06af07ed5bd42c",
+            "directory": "External1",
+            "voiceContent": "味だけでなく、健康にまで気を配ってあるのだな。気遣いありがとう。",
+            "sourceName": "vo_qin_spice_pref_01.wem"
+        },
+        "1afeda98a3cef306": {
+            "hash": "1afeda98a3cef306",
+            "directory": "External3",
+            "voiceContent": "うん、実に晴れやかな気分だ。感謝する。",
+            "sourceName": "vo_qin_spice_normal_01.wem"
+        },
+        "8291f8692cd61ba2": {
+            "hash": "8291f8692cd61ba2",
+            "directory": "External16",
+            "voiceContent": "ふぅ…とりあえず、ご苦労だった。",
+            "sourceName": "vo_qin_spice_dislike_01.wem"
+        },
+        "4d4c20669abd6719": {
+            "hash": "4d4c20669abd6719",
+            "directory": "External9",
+            "voiceContent": "今日はめでたい日だ。なぜなら、風の加護を受けた君の誕生日だからだ。誕生日なんだから、ゆっくり休むといい。オホン…♪ハッピーバースデー、トゥーユー♪…あっ、失礼を許してくれ。このプレゼント、気に入ってくれたかな？",
+            "sourceName": "vo_qin_pref_birthday.wem"
+        },
+        "8c7b65eef8484717": {
+            "hash": "8c7b65eef8484717",
+            "directory": "External17",
+            "voiceContent": "よしっ、次の目標まで一気に行くぞ。",
+            "sourceName": "vo_qin_starUp_01.wem"
+        },
+        "0be7f808e62a27b0": {
+            "hash": "0be7f808e62a27b0",
+            "directory": "External1",
+            "voiceContent": "風が止まない限り、私は足を止めたりしない。",
+            "sourceName": "vo_qin_starUp_02.wem"
+        },
+        "910b5200a5ad6e31": {
+            "hash": "910b5200a5ad6e31",
+            "directory": "External18",
+            "voiceContent": "一時的に平静を取り戻したとしても、油断は禁物だ。代理団長として、万が一に備えて万全に準備しておくべきだ。",
+            "sourceName": "vo_qin_starUp_03.wem"
+        },
+        "6fcb93d6f57aad3a": {
+            "hash": "6fcb93d6f57aad3a",
+            "directory": "External13",
+            "voiceContent": "私はまだまだだ。君と出会ってからずっと君に助けられてきた。この感謝は…風よ、どうか私情を許してくれ。代理団長ではなく、ただの「ジン」として、私の剣は君と共にあることを、ここに誓おう。",
+            "sourceName": "vo_qin_starUp_04.wem"
+        },
+        "9a365c291774355f": {
+            "hash": "9a365c291774355f",
+            "directory": "External19",
+            "voiceContent": "私は、大丈夫だ…！",
+            "sourceName": "vo_qin_life_less30_01.wem"
+        },
+        "2fac4e43a30f8ed8": {
+            "hash": "2fac4e43a30f8ed8",
+            "directory": "External5",
+            "voiceContent": "仲間を…守らなくては…",
+            "sourceName": "vo_qin_life_less30_02.wem"
+        },
+        "b169a83b5fafac59": {
+            "hash": "b169a83b5fafac59",
+            "directory": "External22",
+            "voiceContent": "まだ諦めるわけには…",
+            "sourceName": "vo_qin_life_less30_03.wem"
+        },
+        "bedfd684116eaf45": {
+            "hash": "bedfd684116eaf45",
+            "directory": "External23",
+            "voiceContent": "私には…まだ荷が重い…",
+            "sourceName": "vo_qin_life_die_03.wem"
+        },
+        "11f4fb57fe464ddf": {
+            "hash": "11f4fb57fe464ddf",
+            "directory": "External2",
+            "voiceContent": "この程度の傷！",
+            "sourceName": "vo_qin_battle_hit_H_01.wem"
+        },
+        "87af90c156d6e4a4": {
+            "hash": "87af90c156d6e4a4",
+            "directory": "External16",
+            "voiceContent": "ディルック先輩の騎士団への態度には理由がある。申し訳ないと感じつつも結果は変えられない…私の努力で、少しでも騎士団を見直してくれたらいいのだが…ああ、これは私が成すべき責務だ。",
+            "sourceName": "vo_qin_teammate_diluc_01.wem"
+        },
+        "0879dea76924101b": {
+            "hash": "0879dea76924101b",
+            "directory": "External1",
+            "voiceContent": "ディルックは…尊敬に値する先輩だ。選んだ道は違うが、モンドを守りたいという気持ちはちゃんと伝わってくる。",
+            "sourceName": "vo_qin_teammate_diluc_02.wem"
+        },
+        "99f712e59bb56aa3": {
+            "hash": "99f712e59bb56aa3",
+            "directory": "External19",
+            "voiceContent": "錬金術師として、彼女も優れた才能の持ち主だ。それにアルベドがついているから、心配はないと思う。ただ…いや、なんでもない、自分の世界に入り込むのは悪いことではないはずだ。",
+            "sourceName": "vo_qin_teammate_sucrose_01.wem"
+        },
+        "893bd1c42da335c4": {
+            "hash": "893bd1c42da335c4",
+            "directory": "External17",
+            "voiceContent": "エウルア？コホン…彼女の生まれについては気にしないであげてくれ。西風騎士団は一人一人を平等に評価する。エウルアは物事の善悪をはっきりと理解していて、才能にも恵まれている。時に危険な発言をするのは彼女の性格からくるものだ。だから、どれほど私に挑戦的な態度を取ろうと、私は気にしない。",
+            "sourceName": "vo_qin_teammate_eula_01.wem"
+        },
+        "0793546e1277a263": {
+            "hash": "0793546e1277a263",
+            "directory": "External0",
+            "voiceContent": "大団長がミカを遠征隊の斥候の要として選んだのは、任務の必要性だけでなく、彼の地道で勤勉な態度を見込んでのことだ。私の個人的な意見だが、このような仲間と共に仕事ができることをとても光栄に思う。",
+            "sourceName": "vo_qin_teammate_mika_01.wem"
+        },
+        "8bf415ce4e42b442": {
+            "hash": "8bf415ce4e42b442",
+            "directory": "External17",
+            "voiceContent": "共に最善を尽くそう。",
+            "sourceName": "vo_card_qin_invite_hard_01.wem"
+        },
+        "386079dd84c54e94": {
+            "hash": "386079dd84c54e94",
+            "directory": "External7",
+            "voiceContent": "この手のゲームは得意じゃないようだ…",
+            "sourceName": "vo_card_qin_invite_hard_03.wem"
+        },
+        "16e858d400a8ba86": {
+            "hash": "16e858d400a8ba86",
+            "directory": "External2",
+            "voiceContent": "素晴らしい対戦だった。",
+            "sourceName": "vo_card_qin_invite_easy_02.wem"
+        },
+        "98a5bacbbd48e66f": {
+            "hash": "98a5bacbbd48e66f",
+            "directory": "External19",
+            "voiceContent": "私の思慮が足りなかったか。",
+            "sourceName": "vo_card_qin_invite_easy_03.wem"
+        },
+        "e66633d67d054b65": {
+            "hash": "e66633d67d054b65",
+            "directory": "External28",
+            "voiceContent": "なかなかの苦戦だったな。",
+            "sourceName": "vo_card_qin_invite_hard_02.wem"
+        },
+        "beb12f9b3f41b0b2": {
+            "hash": "beb12f9b3f41b0b2",
+            "directory": "External23",
+            "voiceContent": "この一戦、実に楽しいものだった。",
+            "sourceName": "vo_card_qin_endOfGame_fail_01.wem"
+        },
+        "872c86dcccf500e9": {
+            "hash": "872c86dcccf500e9",
+            "directory": "External16",
+            "voiceContent": "分かった、全力で相手しよう。",
+            "sourceName": "vo_card_qin_invite_easy_01.wem"
+        },
+        "d6c52bc9a827326e": {
+            "hash": "d6c52bc9a827326e",
+            "directory": "External26",
+            "voiceContent": "ああ、私もそろそろ戻らなくては…",
+            "sourceName": "vo_card_qin_leave_01.wem"
+        },
+        "d6fcbff68e95bb4e": {
+            "hash": "d6fcbff68e95bb4e",
+            "directory": "External26",
+            "voiceContent": "素晴らしい一戦だった。お疲れ様。",
+            "sourceName": "vo_card_qin_endOfGame_win_01.wem"
+        },
+        "c832a99d5e57395d": {
+            "hash": "c832a99d5e57395d",
+            "directory": "External25",
+            "voiceContent": "何回かプレイしたんだが、かえって緊張してきた…",
+            "sourceName": "vo_card_qin_freetalk_01.wem"
+        },
+        "ea61539b3f9a7fbb": {
+            "hash": "ea61539b3f9a7fbb",
+            "directory": "External29",
+            "voiceContent": "うん、実に晴れやかな気分だ。感謝する。",
+            "sourceName": "vo_qin_spice_event_normal_01.wem"
+        },
+        "2469e9358e5414f5": {
+            "hash": "2469e9358e5414f5",
+            "directory": "External4",
+            "voiceContent": "味だけでなく、健康にまで気を配ってあるのだな。気遣いありがとう。",
+            "sourceName": "vo_qin_spice_event_pref_01.wem"
+        },
+        "694123cc6a16c021": {
+            "hash": "694123cc6a16c021",
+            "directory": "External13",
+            "voiceContent": "ふぅ…とりあえず、ご苦労だった。",
+            "sourceName": "vo_qin_spice_event_dislike_01.wem"
+        },
+        "8a1c76f3ab8c8a48": {
+            "hash": "8a1c76f3ab8c8a48",
+            "directory": "External17",
+            "voiceContent": "いくぞっ！",
+            "sourceName": "vo_card_qin_inGame_easy_04.wem"
+        },
+        "4647bbb3b6dd0261": {
+            "hash": "4647bbb3b6dd0261",
+            "directory": "External8",
+            "voiceContent": "少し考えさせてくれ。",
+            "sourceName": "vo_card_qin_inGame_hard_02.wem"
+        },
+        "487130c9e99df315": {
+            "hash": "487130c9e99df315",
+            "directory": "External9",
+            "voiceContent": "どうやら、こちらが優位なようだ。",
+            "sourceName": "vo_card_qin_inGame_easy_01.wem"
+        },
+        "ec0cadab8849c8be": {
+            "hash": "ec0cadab8849c8be",
+            "directory": "External29",
+            "voiceContent": "悪くない始まりだ。",
+            "sourceName": "vo_card_qin_inGame_hard_01.wem"
+        },
+        "a9f46f81c5fe6db3": {
+            "hash": "a9f46f81c5fe6db3",
+            "directory": "External21",
+            "voiceContent": "これで…勝負だ！",
+            "sourceName": "vo_card_qin_inGame_hard_04.wem"
+        },
+        "987861babecb38e0": {
+            "hash": "987861babecb38e0",
+            "directory": "External19",
+            "voiceContent": "戦局はまだ逆転できる。",
+            "sourceName": "vo_card_qin_inGame_hard_03.wem"
+        },
+        "16ab52c2f36a4c32": {
+            "hash": "16ab52c2f36a4c32",
+            "directory": "External2",
+            "voiceContent": "ここで一枚やられるか…",
+            "sourceName": "vo_card_qin_inGame_easy_02.wem"
+        },
+        "989ec4bab038227b": {
+            "hash": "989ec4bab038227b",
+            "directory": "External19",
+            "voiceContent": "無視できない劣勢だな…",
+            "sourceName": "vo_card_qin_inGame_easy_03.wem"
+        }
+    }
+}

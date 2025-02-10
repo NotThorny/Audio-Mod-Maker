@@ -1,0 +1,853 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "8c1ffac05ac74552": {
+            "hash": "8c1ffac05ac74552",
+            "directory": "External17",
+            "voiceContent": "Another victory for Natlan!",
+            "sourceName": "vo_NTAQ303_10_mualani_01.wem"
+        },
+        "8a54cbe1203397d1": {
+            "hash": "8a54cbe1203397d1",
+            "directory": "External17",
+            "voiceContent": "Does your head still hurt? Let me help you walk.",
+            "sourceName": "vo_NTAQ007_7_mualani_07.wem"
+        },
+        "8a1cf76f36ed19cf": {
+            "hash": "8a1cf76f36ed19cf",
+            "directory": "External17",
+            "voiceContent": "Seems we still can't get around them...",
+            "sourceName": "vo_MLNLQ004_2_mualani_13.wem"
+        },
+        "085f95777a4ceee6": {
+            "hash": "085f95777a4ceee6",
+            "directory": "External1",
+            "voiceContent": "Follow me and stay close.",
+            "sourceName": "vo_MLNLQ004_2_mualani_12.wem"
+        },
+        "8b0352d713e18f98": {
+            "hash": "8b0352d713e18f98",
+            "directory": "External17",
+            "voiceContent": "This way! If you go now, they'll definitely take note of us.",
+            "sourceName": "vo_MLNLQ004_3_mualani_08.wem"
+        },
+        "ecd960243656c52f": {
+            "hash": "ecd960243656c52f",
+            "directory": "External29",
+            "voiceContent": "Heh, at a place where many gather... like a party!",
+            "sourceName": "vo_MLNLQ004_1_mualani_12.wem"
+        },
+        "993850949cf15634": {
+            "hash": "993850949cf15634",
+            "directory": "External19",
+            "voiceContent": "Phew, we made it! Great work, Kachina!",
+            "sourceName": "vo_NTAQ002_4_mualani_08.wem"
+        },
+        "523b6ede909d84c7": {
+            "hash": "523b6ede909d84c7",
+            "directory": "External10",
+            "voiceContent": "It's going to take forever to make it to the top...",
+            "sourceName": "vo_NTAQ002_4_mualani_07.wem"
+        },
+        "fc904ce80f6f723e": {
+            "hash": "fc904ce80f6f723e",
+            "directory": "External31",
+            "voiceContent": "This mountain is huge. Is the next Tower really all the way up there?",
+            "sourceName": "vo_NTAQ002_4_mualani_06.wem"
+        },
+        "ebb0a53faa849ed6": {
+            "hash": "ebb0a53faa849ed6",
+            "directory": "External29",
+            "voiceContent": "That's it, alright. C'mon, let's get rid of this thing!",
+            "sourceName": "vo_NTAQ003_9_mualani_11.wem"
+        },
+        "82924f743bfed75f": {
+            "hash": "82924f743bfed75f",
+            "directory": "External16",
+            "voiceContent": "How could there be so many here? We can't get through...",
+            "sourceName": "vo_MLNLQ004_4_mualani_11.wem"
+        },
+        "d65cfb6505ab9a65": {
+            "hash": "d65cfb6505ab9a65",
+            "directory": "External26",
+            "voiceContent": "Let's back off and try again.",
+            "sourceName": "vo_MLNLQ004_4_mualani_17.wem"
+        },
+        "d532cf535b292f0b": {
+            "hash": "d532cf535b292f0b",
+            "directory": "External26",
+            "voiceContent": "Careful, don't startle them.",
+            "sourceName": "vo_MLNLQ004_4_mualani_15.wem"
+        },
+        "2ce76d7dbad131f6": {
+            "hash": "2ce76d7dbad131f6",
+            "directory": "External5",
+            "voiceContent": "It's just a young Koholasaur... Don't worry, this little one doesn't pose any danger.",
+            "sourceName": "vo_MLNLQ004_4_mualani_10.wem"
+        },
+        "7beadd5cd6e90342": {
+            "hash": "7beadd5cd6e90342",
+            "directory": "External15",
+            "voiceContent": "Come on!",
+            "sourceName": "vo_MLNLQ004_4_mualani_14.wem"
+        },
+        "99c59b86843a4e59": {
+            "hash": "99c59b86843a4e59",
+            "directory": "External19",
+            "voiceContent": "Noot-noot!",
+            "sourceName": "vo_MLNLQ004_4_mualani_13.wem"
+        },
+        "2857416c0d6b9d94": {
+            "hash": "2857416c0d6b9d94",
+            "directory": "External5",
+            "voiceContent": "Oh no! We've been spotted!",
+            "sourceName": "vo_MLNLQ004_4_mualani_16.wem"
+        },
+        "85d63192cb7a6f0c": {
+            "hash": "85d63192cb7a6f0c",
+            "directory": "External16",
+            "voiceContent": "What's that sound!? Careful!",
+            "sourceName": "vo_MLNLQ004_4_mualani_09.wem"
+        },
+        "1808418ec79a30d8": {
+            "hash": "1808418ec79a30d8",
+            "directory": "External3",
+            "voiceContent": "Oh, I have an idea. Wait here!",
+            "sourceName": "vo_MLNLQ004_4_mualani_12.wem"
+        },
+        "f4ba4b89ed16e3dd": {
+            "hash": "f4ba4b89ed16e3dd",
+            "directory": "External30",
+            "voiceContent": "Be sure to stay out of sight!",
+            "sourceName": "vo_MLNLQ004_4_mualani_08.wem"
+        },
+        "3a782c1eb248f5f0": {
+            "hash": "3a782c1eb248f5f0",
+            "directory": "External7",
+            "voiceContent": "Let's try not to disrupt them!",
+            "sourceName": "vo_MLNLQ004_5_mualani_15.wem"
+        },
+        "632c3418ea8da499": {
+            "hash": "632c3418ea8da499",
+            "directory": "External12",
+            "voiceContent": "Now, switch to the Spiritway on the right!",
+            "sourceName": "vo_MLNLQ005_2_mualani_12.wem"
+        },
+        "e16eda212ded8718": {
+            "hash": "e16eda212ded8718",
+            "directory": "External28",
+            "voiceContent": "#{NICKNAME}, time to activate the next node!",
+            "sourceName": "vo_MLNLQ005_2_mualani_13.wem"
+        },
+        "9b3467e5be9b104b": {
+            "hash": "9b3467e5be9b104b",
+            "directory": "External19",
+            "voiceContent": "The path ends up ahead! Switch to the next Spiritway!",
+            "sourceName": "vo_MLNLQ005_2_mualani_14.wem"
+        },
+        "41ec75ef3a5ae382": {
+            "hash": "41ec75ef3a5ae382",
+            "directory": "External8",
+            "voiceContent": "#{NICKNAME}, get to the next node!",
+            "sourceName": "vo_MLNLQ005_2_mualani_15.wem"
+        },
+        "78219de292462bde": {
+            "hash": "78219de292462bde",
+            "directory": "External15",
+            "voiceContent": "Quick! Through the middle!",
+            "sourceName": "vo_NTAQ007_9_mualani_15.wem"
+        },
+        "8b80c39cd5c309c4": {
+            "hash": "8b80c39cd5c309c4",
+            "directory": "External17",
+            "voiceContent": "More falling rocks? Okay, watch this!",
+            "sourceName": "vo_MLNLQ006_5_mualani_04.wem"
+        },
+        "0d74fd9492923355": {
+            "hash": "0d74fd9492923355",
+            "directory": "External1",
+            "voiceContent": "Over there! Phew, looks like I'm just in time...",
+            "sourceName": "vo_MLNLQ006_5_mualani_05.wem"
+        },
+        "0e6811a63ce532cf": {
+            "hash": "0e6811a63ce532cf",
+            "directory": "External1",
+            "voiceContent": "The cave is becoming more and more unstable... I have to hurry!",
+            "sourceName": "vo_MLNLQ006_5_mualani_03.wem"
+        },
+        "3ce54bd952d4383f": {
+            "hash": "3ce54bd952d4383f",
+            "directory": "External7",
+            "voiceContent": "Not here either... The current is too fast!",
+            "sourceName": "vo_MLNLQ005_4_mualani_16.wem"
+        },
+        "8f15e9e05ac26156": {
+            "hash": "8f15e9e05ac26156",
+            "directory": "External17",
+            "voiceContent": "We found him!",
+            "sourceName": "vo_MLNLQ005_4_mualani_17.wem"
+        },
+        "7a36bdf1678b6038": {
+            "hash": "7a36bdf1678b6038",
+            "directory": "External15",
+            "voiceContent": "That way? He's been pulled away by the current!",
+            "sourceName": "vo_MLNLQ005_4_mualani_15.wem"
+        },
+        "fcbc423228c7329c": {
+            "hash": "fcbc423228c7329c",
+            "directory": "External31",
+            "voiceContent": "We shouldn't waste our time on them.",
+            "sourceName": "vo_NTAQ007_6_mualani_05.wem"
+        },
+        "7ea43cff1a6cb584": {
+            "hash": "7ea43cff1a6cb584",
+            "directory": "External15",
+            "voiceContent": "Heads up!",
+            "sourceName": "vo_MLNLQ006_2_mualani_09.wem"
+        },
+        "93bdf73b71273d87": {
+            "hash": "93bdf73b71273d87",
+            "directory": "External18",
+            "voiceContent": "Careful, more falling rocks!",
+            "sourceName": "vo_MLNLQ006_2_mualani_11.wem"
+        },
+        "3aabd544ed144ffe": {
+            "hash": "3aabd544ed144ffe",
+            "directory": "External7",
+            "voiceContent": "These volcanic caves aren't very stable, so watch out for falling rocks.",
+            "sourceName": "vo_MLNLQ006_2_mualani_10.wem"
+        },
+        "e3252d64376b2a30": {
+            "hash": "e3252d64376b2a30",
+            "directory": "External28",
+            "voiceContent": "According to the map, we need to head downward? Okay, don't be afraid, everyone! Jump down with me!",
+            "sourceName": "vo_MLNLQ006_2_mualani_05.wem"
+        },
+        "03fd76f6da1d5515": {
+            "hash": "03fd76f6da1d5515",
+            "directory": "External0",
+            "voiceContent": "This isn't the way. It will be too dangerous up ahead...",
+            "sourceName": "vo_MLNLQ006_2_mualani_08.wem"
+        },
+        "ea7e8954267a9b20": {
+            "hash": "ea7e8954267a9b20",
+            "directory": "External29",
+            "voiceContent": "Seems like this cave is getting more and more unstable by the minute.",
+            "sourceName": "vo_MLNLQ006_2_mualani_12.wem"
+        },
+        "f01fec3611833252": {
+            "hash": "f01fec3611833252",
+            "directory": "External30",
+            "voiceContent": "Now, that's what I like to hear! Let's meet each other at the top and fight in the Night Warden Wars together!",
+            "sourceName": "vo_NTAQ002_4_mualani_20.wem"
+        },
+        "a8fc00f745f0e260": {
+            "hash": "a8fc00f745f0e260",
+            "directory": "External21",
+            "voiceContent": "Nicely done, Kachina!",
+            "sourceName": "vo_NTAQ002_4_mualani_04.wem"
+        },
+        "5e6172cbea15bdc3": {
+            "hash": "5e6172cbea15bdc3",
+            "directory": "External11",
+            "voiceContent": "An empty Fire Tower... We're too late.",
+            "sourceName": "vo_NTAQ002_4_mualani_10.wem"
+        },
+        "a509a50759c64d70": {
+            "hash": "a509a50759c64d70",
+            "directory": "External20",
+            "voiceContent": "Have a little faith in yourself! You're already a great warrior!",
+            "sourceName": "vo_NTAQ002_4_mualani_17.wem"
+        },
+        "08ec40d569151ffa": {
+            "hash": "08ec40d569151ffa",
+            "directory": "External1",
+            "voiceContent": "Haha, bring it on!",
+            "sourceName": "vo_NTAQ002_4_mualani_11.wem"
+        },
+        "56cb5af03e02abe1": {
+            "hash": "56cb5af03e02abe1",
+            "directory": "External10",
+            "voiceContent": "C'mon, don't just stand there. Let's grab the Fire and go!",
+            "sourceName": "vo_NTAQ002_4_mualani_05.wem"
+        },
+        "f40d44e675de702c": {
+            "hash": "f40d44e675de702c",
+            "directory": "External30",
+            "voiceContent": "Uh oh, we're running out of time.",
+            "sourceName": "vo_NTAQ002_4_mualani_13.wem"
+        },
+        "26c6feff16666af1": {
+            "hash": "26c6feff16666af1",
+            "directory": "External4",
+            "voiceContent": "Hey, what are you thanking me for? We won as a team! There's no way I could've taken on that many people without you.",
+            "sourceName": "vo_NTAQ002_4_mualani_16.wem"
+        },
+        "160f828ac312a6bb": {
+            "hash": "160f828ac312a6bb",
+            "directory": "External2",
+            "voiceContent": "Hahaha, those were some steep curves. Not scared, are you?",
+            "sourceName": "vo_NTAQ002_4_mualani_18.wem"
+        },
+        "f2808a8b2131fc85": {
+            "hash": "f2808a8b2131fc85",
+            "directory": "External30",
+            "voiceContent": "Isn't it obvious? To send them all packing, of course!",
+            "sourceName": "vo_NTAQ002_4_mualani_09.wem"
+        },
+        "259d12ed6be46cd7": {
+            "hash": "259d12ed6be46cd7",
+            "directory": "External4",
+            "voiceContent": "Wait, there's a Spiritway over there. We can ride it back!",
+            "sourceName": "vo_NTAQ002_4_mualani_14.wem"
+        },
+        "62f15edd977ae4fd": {
+            "hash": "62f15edd977ae4fd",
+            "directory": "External12",
+            "voiceContent": "We've collected enough Sacred Fire! Still doing alright, Kachina?",
+            "sourceName": "vo_NTAQ002_4_mualani_12.wem"
+        },
+        "90b610930361a872": {
+            "hash": "90b610930361a872",
+            "directory": "External18",
+            "voiceContent": "Oh, yeah! Back when we first met, right? I accidentally knocked over your piece of cake, then offered to take you Spiritway-surfing to make up for it.",
+            "sourceName": "vo_NTAQ002_4_mualani_19.wem"
+        },
+        "358adcc68dcea42a": {
+            "hash": "358adcc68dcea42a",
+            "directory": "External6",
+            "voiceContent": "Be on the lookout for an ambush... Careful, we've got company!",
+            "sourceName": "vo_NTAQ002_4_mualani_02.wem"
+        },
+        "ba780ebe4d241733": {
+            "hash": "ba780ebe4d241733",
+            "directory": "External23",
+            "voiceContent": "We're just getting started. Grab the Fire, and let's head to the next spot!",
+            "sourceName": "vo_NTAQ002_4_mualani_03.wem"
+        },
+        "a3dfb0f5af4441ce": {
+            "hash": "a3dfb0f5af4441ce",
+            "directory": "External20",
+            "voiceContent": "We really lucked out! Just grab onto me, Kachina. Not sure if you remember, but people from my tribe can ride Spiritways over great distances. It's all smooth sailing from here!",
+            "sourceName": "vo_NTAQ002_4_mualani_15.wem"
+        },
+        "66e47acd83a6bfad": {
+            "hash": "66e47acd83a6bfad",
+            "directory": "External12",
+            "voiceContent": "Oh, a Fire Tower! And an unoccupied one, from the looks of it.",
+            "sourceName": "vo_NTAQ002_4_mualani_01.wem"
+        },
+        "85e93364b66844a9": {
+            "hash": "85e93364b66844a9",
+            "directory": "External16",
+            "voiceContent": "No, they ARE the Abyss. Destroy them.",
+            "sourceName": "vo_NTAQ003_9_mualani_01.wem"
+        },
+        "9c70aa16be30798e": {
+            "hash": "9c70aa16be30798e",
+            "directory": "External19",
+            "voiceContent": "Oh yeah... Fair point.",
+            "sourceName": "vo_NTAQ108_4_mualani_03.wem"
+        },
+        "9d9a9e2868b28530": {
+            "hash": "9d9a9e2868b28530",
+            "directory": "External19",
+            "voiceContent": "Did you guys see that huge fireball!? It exploded right above my head!",
+            "sourceName": "vo_NTAQ108_4_mualani_01.wem"
+        },
+        "1e2e0c0e7ad0a497": {
+            "hash": "1e2e0c0e7ad0a497",
+            "directory": "External3",
+            "voiceContent": "No no, you're good, Archon! It didn't hurt at all, plus it was friggin' cool!",
+            "sourceName": "vo_NTAQ108_4_mualani_02.wem"
+        }
+    },
+    "Gameplay": {
+        "d1c35427a015dc31": {
+            "hash": "d1c35427a015dc31",
+            "directory": "External26",
+            "voiceContent": "Let's ride!",
+            "sourceName": "vo_mualani_battle_skill1_01.wem"
+        },
+        "4b76061e36108a0e": {
+            "hash": "4b76061e36108a0e",
+            "directory": "External9",
+            "voiceContent": "Carving waves~",
+            "sourceName": "vo_mualani_battle_skill1_02.wem"
+        },
+        "cd336815f2b0b517": {
+            "hash": "cd336815f2b0b517",
+            "directory": "External25",
+            "voiceContent": "Faster!",
+            "sourceName": "vo_mualani_battle_skill1_03.wem"
+        },
+        "9f0a9a0eff8f956c": {
+            "hash": "9f0a9a0eff8f956c",
+            "directory": "External19",
+            "voiceContent": "Woohoo~!",
+            "sourceName": "vo_mualani_battle_skill1_04.wem"
+        },
+        "0a88b4061e48e03d": {
+            "hash": "0a88b4061e48e03d",
+            "directory": "External1",
+            "voiceContent": "Amazing!",
+            "sourceName": "vo_mualani_battle_skill1_05.wem"
+        },
+        "b08395fdefe31b3a": {
+            "hash": "b08395fdefe31b3a",
+            "directory": "External22",
+            "voiceContent": "Surf's up!",
+            "sourceName": "vo_mualani_battle_skill1_06.wem"
+        },
+        "3aa623de2fc70253": {
+            "hash": "3aa623de2fc70253",
+            "directory": "External7",
+            "voiceContent": "Catch an epic wave! Woosh~!",
+            "sourceName": "vo_mualani_battle_skill3_01.wem"
+        },
+        "d051f5f8bb8fb4bc": {
+            "hash": "d051f5f8bb8fb4bc",
+            "directory": "External26",
+            "voiceContent": "Let's shred, Sharky!",
+            "sourceName": "vo_mualani_battle_skill3_02.wem"
+        },
+        "3f360fefdd2c294d": {
+            "hash": "3f360fefdd2c294d",
+            "directory": "External7",
+            "voiceContent": "Check this out! Best of luck!",
+            "sourceName": "vo_mualani_battle_skill3_03.wem"
+        },
+        "611ef74ace00553e": {
+            "hash": "611ef74ace00553e",
+            "directory": "External12",
+            "voiceContent": "I told you today's our lucky day!",
+            "sourceName": "vo_mualani_chest_open_01.wem"
+        },
+        "bb5a0552fc938ee1": {
+            "hash": "bb5a0552fc938ee1",
+            "directory": "External23",
+            "voiceContent": "The best stuff's always at the bottom!",
+            "sourceName": "vo_mualani_chest_open_02.wem"
+        },
+        "0d8aab5a0481c560": {
+            "hash": "0d8aab5a0481c560",
+            "directory": "External1",
+            "voiceContent": "Oh no, I dropped it! Quick, pick it up! Hope I didn't just jinx us...",
+            "sourceName": "vo_mualani_chest_open_03.wem"
+        },
+        "18f182eae3a440ea": {
+            "hash": "18f182eae3a440ea",
+            "directory": "External3",
+            "voiceContent": "You're not fighting alone!",
+            "sourceName": "vo_mualani_life_less30_teammate_01.wem"
+        },
+        "46e420f1d697806d": {
+            "hash": "46e420f1d697806d",
+            "directory": "External8",
+            "voiceContent": "That's it, lemme at 'em!",
+            "sourceName": "vo_mualani_life_less30_teammate_02.wem"
+        },
+        "2708fc707256c4b7": {
+            "hash": "2708fc707256c4b7",
+            "directory": "External4",
+            "voiceContent": "What kinda guide... falls behind...",
+            "sourceName": "vo_mualani_life_die_01.wem"
+        },
+        "51b80e87ec394fd0": {
+            "hash": "51b80e87ec394fd0",
+            "directory": "External10",
+            "voiceContent": "No one fights alone...",
+            "sourceName": "vo_mualani_life_die_02.wem"
+        },
+        "0381fc8819cbdfab": {
+            "hash": "0381fc8819cbdfab",
+            "directory": "External0",
+            "voiceContent": "Whoa, what a lineup! We'll be unstoppable!",
+            "sourceName": "vo_mualani_teamJoin_01.wem"
+        },
+        "5a0c6ea0cef17734": {
+            "hash": "5a0c6ea0cef17734",
+            "directory": "External11",
+            "voiceContent": "Hey, guys! How's it going?",
+            "sourceName": "vo_mualani_teamJoin_02.wem"
+        },
+        "b354a89753321d85": {
+            "hash": "b354a89753321d85",
+            "directory": "External22",
+            "voiceContent": "Woohoo! Let's goooooo~!",
+            "sourceName": "vo_mualani_teamJoin_03.wem"
+        },
+        "44fc024347495054": {
+            "hash": "44fc024347495054",
+            "directory": "External8",
+            "voiceContent": "The most important part of going out to have fun is... well, going out! So just show up and I'll handle the rest.",
+            "sourceName": "vo_mualani_character_idle_01.wem"
+        },
+        "ee71902a9223b8cb": {
+            "hash": "ee71902a9223b8cb",
+            "directory": "External29",
+            "voiceContent": "Ever tried chasing waves before? You wanna try? Well? Well? C'mon, no time like the present! I'll help you find the closest beach.",
+            "sourceName": "vo_mualani_character_idle_02.wem"
+        },
+        "95299e340de38c02": {
+            "hash": "95299e340de38c02",
+            "directory": "External18",
+            "voiceContent": "You can only do so much on your own, but with a group, anything's possible!",
+            "sourceName": "vo_mualani_character_idle_03.wem"
+        },
+        "2b5b04e6e66a5ab6": {
+            "hash": "2b5b04e6e66a5ab6",
+            "directory": "External5",
+            "voiceContent": "Woohoo! The slippery ground here is perfect for sliding around on a surfboard!",
+            "sourceName": "vo_mualani_weather_heavyRain_01.wem"
+        },
+        "cef2960fa532616d": {
+            "hash": "cef2960fa532616d",
+            "directory": "External25",
+            "voiceContent": "Whoa! Did you see that? Where did it strike!?",
+            "sourceName": "vo_mualani_weather_thunder_01.wem"
+        },
+        "95ccdbc6bcfa0a90": {
+            "hash": "95ccdbc6bcfa0a90",
+            "directory": "External18",
+            "voiceContent": "When the wind picks up, the waves pick up too. Now's the perfect time to try some epic tricks!",
+            "sourceName": "vo_mualani_weather_gale_01.wem"
+        },
+        "031a0eb566dfbc69": {
+            "hash": "031a0eb566dfbc69",
+            "directory": "External0",
+            "voiceContent": "*shivering* C'mon, let's finish up and head back. I need a good soak in the hot springs...",
+            "sourceName": "vo_mualani_weather_snowy_01.wem"
+        },
+        "649829b610234e38": {
+            "hash": "649829b610234e38",
+            "directory": "External12",
+            "voiceContent": "Ah, this weather makes me wanna lay down and catch some rays... Perfect sunbathing conditions!",
+            "sourceName": "vo_mualani_weather_sunny_01.wem"
+        },
+        "8ddae1054088a5bc": {
+            "hash": "8ddae1054088a5bc",
+            "directory": "External17",
+            "voiceContent": "Good news, I didn't oversleep today! Time to reward myself with a super fancy breakfast.",
+            "sourceName": "vo_mualani_dialog_greetingMorning.wem"
+        },
+        "02b7e5d72da12098": {
+            "hash": "02b7e5d72da12098",
+            "directory": "External0",
+            "voiceContent": "*yawn* Knew I should've slept in... Shoot, why does it look like there's a bunch of Mora-shaped dots floating in front of me... Guess this means I need a nap this afternoon.",
+            "sourceName": "vo_mualani_dialog_greetingNoon.wem"
+        },
+        "a3f3b68692f08136": {
+            "hash": "a3f3b68692f08136",
+            "directory": "External20",
+            "voiceContent": "Want me to bring in something to eat? I can get it here piping hot! Trust me, my surfboard's got the speed you need!",
+            "sourceName": "vo_mualani_dialog_greetingNight.wem"
+        },
+        "8678718a0cd3449e": {
+            "hash": "8678718a0cd3449e",
+            "directory": "External16",
+            "voiceContent": "Shoot... I'm too pumped up from dancing at the bonfire. There goes my sleep for the night... *sigh*",
+            "sourceName": "vo_mualani_dialog_greetingNight2.wem"
+        },
+        "adb3cb572b323901": {
+            "hash": "adb3cb572b323901",
+            "directory": "External21",
+            "voiceContent": "I've carefully picked everything I sell in the shop, from the variety and quality of the products to the functionality and colors. But if you wanna know the best item in my shop, I'd have to say it's this inflatable swimsuit. It's perfect if you're not a confident swimmer. It can inflate instantly to become a life preserver, which makes swimming way safer!You can wear it out of the water, too. Personally, I love wearing it to parties. It's a real showstopper! See, just do this, and you can bounce around... boing... boing...Oh, and it even comes in lucky colors!",
+            "sourceName": "vo_mualani_dialog_idle.wem"
+        },
+        "1c7b71c394f521a3": {
+            "hash": "1c7b71c394f521a3",
+            "directory": "External3",
+            "voiceContent": "Everyone loves to visit our tribe for vacation. The plants and nature here really seem to connect with people. They feel like friends, you know?The rolling waves, swaying seagrass, fluttering leaves... They're all like beloved dance instructors to me. Just follow their beat and rhythm, maybe give a twirl, a bit of side-to-side, and you're dancing! Well? Don't just stand there. C'mon, give it a go!",
+            "sourceName": "vo_mualani_dialog_idle2.wem"
+        },
+        "bfb06eee661ee90e": {
+            "hash": "bfb06eee661ee90e",
+            "directory": "External23",
+            "voiceContent": "We've been through so much together — the Night Kingdom, the mysterious island... I'd say that definitely makes us companions who can trust each other with our lives. If you ever get lost on the road, just let me know! I'm a pretty good guide, if a do say so myself! I'll find a way forward even if that means carving out an entirely new path with my surfboard!",
+            "sourceName": "vo_mualani_dialog_close1.wem"
+        },
+        "38ec20de7c74caff": {
+            "hash": "38ec20de7c74caff",
+            "directory": "External7",
+            "voiceContent": "C'mon, you have to check out these surfboards! There's all kinds of patterns, materials, and colors to pick from! What's your lucky color? Huh? You don't have one? Then lemme pick one for you!",
+            "sourceName": "vo_mualani_dialog_close.wem"
+        },
+        "b1c4beab2cf79dee": {
+            "hash": "b1c4beab2cf79dee",
+            "directory": "External22",
+            "voiceContent": "You're not scared of dogs, right? 'Cause you have to meet my family's dog! He loves to play and tries to get pets from anyone he sees. I always bring him to the water to play. He even knows how to surf, actually. That's my little doggie, already carving the waves better than me!I'll introduce you sometime. I'm sure his tail will be wagging and whirling like a propeller. Just be careful not to get whacked... It hurts, hahahaha!",
+            "sourceName": "vo_mualani_dialog_share_01.wem"
+        },
+        "57299aafa385636c": {
+            "hash": "57299aafa385636c",
+            "directory": "External10",
+            "voiceContent": "The Koholasaurs around the People of the Springs love hot springs just as much as we do. We often find them soaking in the same springs as us. But if you're unsure about their temper, it's best to keep your distance.Oh? How do you judge the temperament of a Koholasaur? Haha, my method is super simple. Just slowly approach them, and you'll know pretty quick... If they don't bite, they're probably pretty chill... If they do try to bite, well... just think of it like a little love nip, I guess.",
+            "sourceName": "vo_mualani_pref_gift_01.wem"
+        },
+        "c0eb7aa65c85e70f": {
+            "hash": "c0eb7aa65c85e70f",
+            "directory": "External24",
+            "voiceContent": "The Pyro Archon is the most respected figure in all of Natlan. I really admire her, not only because she's the Pyro Archon, but because... she looks super cool when she surfs!I've challenged her to a race before, actually... Huh? You wanna know who was faster? In that case, let's race, and I'll tell you once you beat me!",
+            "sourceName": "vo_mualani_teammate_mavuika_01.wem"
+        },
+        "37ecb6cbf164206e": {
+            "hash": "37ecb6cbf164206e",
+            "directory": "External6",
+            "voiceContent": "Kachina is incredibly gentle and kind. From everything she says, it's clear she's always thinking about others. She has so many great qualities, but she's constantly overlooked and ridiculed because she doesn't stand up for herself. *sigh* I know she can handle herself, it's just... I worry about her lack of confidence. More often than not, she ends up believing the awful things people say about her. So, I've made it my personal mission to encourage her and share her strengths with all the people around me. I'm sure one day, everyone will see her in a new light!",
+            "sourceName": "vo_mualani_teammate_kachina_01.wem"
+        },
+        "55f4ae3762a62007": {
+            "hash": "55f4ae3762a62007",
+            "directory": "External10",
+            "voiceContent": "Ajaw will say more in a day than Kinich in a whole year. It can't be easy having to deal with all of Ajaw's antics, but somehow Kinich always manages to do his own thing. Now that I think about it, the only time they seem equally uninterested is when I talk about horoscopes...",
+            "sourceName": "vo_mualani_teammate_kinich_01.wem"
+        },
+        "d7dc66dc3cd2b396": {
+            "hash": "d7dc66dc3cd2b396",
+            "directory": "External26",
+            "voiceContent": "If the Pyro Archon acknowledges a craftsperson, then you know she's good. Even if an Ancient Name got all smashed up, I bet she could make it good as new again. Wait, did I just jinx something? An Ancient Name absolutely cannot get smashed. That would be so bad. I take it back! I take it back! I didn't say anything. And you didn't hear anything either, alright?",
+            "sourceName": "vo_mualani_teammate_xilonen_01.wem"
+        },
+        "4f98cdf54e9eeb6f": {
+            "hash": "4f98cdf54e9eeb6f",
+            "directory": "External9",
+            "voiceContent": "Ifa is the best! No matter what we invite him to do, he's always happy to join. And he's super quick and efficient at everything, too. If he wasn't already working as a vet, I think he'd make a pretty great water sports coach. Hmm? Is he from a different tribe? Well, yeah, but that won't be a problem at all!",
+            "sourceName": "vo_mualani_teammate_ifa_01.wem"
+        },
+        "6479976adb6d4652": {
+            "hash": "6479976adb6d4652",
+            "directory": "External12",
+            "voiceContent": "I met Chasca when I was little. We even fought over toys a few times... I was pretty surprised when I heard she became a Peacemaker. They say some people mature really slowly, while others grow up in an instant. Sometimes, I wonder if I've even started...",
+            "sourceName": "vo_mualani_teammate_chasca_01.wem"
+        },
+        "fb7cb1add81236dd": {
+            "hash": "fb7cb1add81236dd",
+            "directory": "External31",
+            "voiceContent": "Granny Citlali is without a doubt the most experienced priestess I've ever seen. She's more than just an elder, she's like the coolest elder ever! Her predictions are always super accurate. A long time ago, she said the lucky colors for my business were pink and blue. Sure enough, pink and blue floaters are now my top sellers!While I was bugging her... uh, I mean, visiting her recently, she mentioned there was an outlander who could bring me good fortune... Ah, wait a sec! Aren't you an outlander!?",
+            "sourceName": "vo_mualani_teammate_citlali_01.wem"
+        },
+        "82f32fe67bab939f": {
+            "hash": "82f32fe67bab939f",
+            "directory": "External16",
+            "voiceContent": "Iansan is the pride of the Collective of Plenty and all of Natlan. She's been a part of so many Pilgrimages, and is still unbeaten to this day! I registered for her training class, actually, paid the tuition fee and everything. I just haven't started because, uh... I've been too busy to train...Okay, fine. I'll admit... When I saw what Kachina looked like when she finished her training, I heard a voice inside me say, Hey, you belong in the water. Stay on dry land for too long, and you'll wind up stranded there. Sometimes, you've just gotta listen to your heart!",
+            "sourceName": "vo_mualani_teammate_iansan_01.wem"
+        },
+        "ceade7889cc867dc": {
+            "hash": "ceade7889cc867dc",
+            "directory": "External25",
+            "voiceContent": "Hey, got a moment? Wanna come over and chat? We could go to the hot springs, or anywhere, really. I'm not picky. I don't get opportunities like this very often, so I've brought my Kamera with me. I'll even show you some cool poses and tricks. Trust me, we'll definitely get some cool group photos today!",
+            "sourceName": "vo_mualani_friendship_01.wem"
+        },
+        "8dc095708500bdf3": {
+            "hash": "8dc095708500bdf3",
+            "directory": "External17",
+            "voiceContent": "Being a good guide means relying on experience. Our ancestors left behind many practices to learn from. But don't worry, I'm not the type to blindly follow old advice and customs. I only swear by the ones I've tried and found to be useful.Huh? Which ones were a bust? Hmm... Well, one time I was out exploring, and I could see a river with a bridge up ahead. But the map wanted me to cross the river with a boat. I measured the river's current and then checked the bridge for any traps or hidden dangers... But, in the end, it turned out that our ancestors didn't recommend using the bridge because... it hadn't been built yet! So, yeah. Experience is key...",
+            "sourceName": "vo_mualani_friendship_02.wem"
+        },
+        "0c396378c88e73ea": {
+            "hash": "0c396378c88e73ea",
+            "directory": "External1",
+            "voiceContent": "I love guiding visitors from other places! At the end of our tours, they always thank me for introducing them to Natlan's local customs. But honestly, I'm equally grateful to them for sharing their experiences with me, chatting about their hometown, and telling me stories I've never heard before... So, in a way, every trip turns into my own kind of journey, as well!",
+            "sourceName": "vo_mualani_friendship_03.wem"
+        },
+        "2a12e1a275dd9ea1": {
+            "hash": "2a12e1a275dd9ea1",
+            "directory": "External5",
+            "voiceContent": "I try my best to play it cool when making new friends, but... hehe... Sometimes people pull me aside and tell me I'm too enthusiastic, to the point of being a little overwhelming. So, now, I try to tone it down a bit at the beginning, and let them warm up to me first...Oh, and please tell me if I'm ever too much, okay? Don't worry about hurting my feelings. You could even write me an anonymous note, if you want. I promise I'll make it right!",
+            "sourceName": "vo_mualani_friendship_04.wem"
+        },
+        "7faa87a980b0b120": {
+            "hash": "7faa87a980b0b120",
+            "directory": "External15",
+            "voiceContent": "Challenges have a way of revealing a person's true potential. Participating in the Pilgrimage really made me understand that! But, in a tough situation, I still think two people are better than one. Every person counts... By working together, we can make our own miracles!Take the Night Warden Wars, for example... We're not the only ones in this fight. What about the heroes who defended Natlan in ages past, or the younger generations who will fight for us in the future. Our combined efforts are what push Natlan forward. If you ask me, that's the real meaning of Umoja.",
+            "sourceName": "vo_mualani_friendship_05.wem"
+        },
+        "5d97aa3931b76730": {
+            "hash": "5d97aa3931b76730",
+            "directory": "External11",
+            "voiceContent": "Swimming, diving, water skiing, surfing, parasailing, beach volleyball, water volleyball, rowing, snorkeling, holding my breath underwater... Whew, I don't think I could ever list all my favorite activities, not even if I had an extra pair of hands. Sometimes, when I get tired, I just float on the water and relax... I've even fallen asleep a few times. It may be comfortable, but you pay the price when you wake up and realize you've drifted into the middle of nowhere. I always get an earful from the elders when that happens...",
+            "sourceName": "vo_mualani_pref_hobby.wem"
+        },
+        "d5be45f45a7d77eb": {
+            "hash": "d5be45f45a7d77eb",
+            "directory": "External26",
+            "voiceContent": "I like a big tray of seafood, no turf, all surf! And no veggies either! One bite makes me feel like a little fish swimming around the sea... Ah, so satisfying!",
+            "sourceName": "vo_mualani_pref_foodLike.wem"
+        },
+        "e3b6867642400d55": {
+            "hash": "e3b6867642400d55",
+            "directory": "External28",
+            "voiceContent": "I regret secretly pouring my glass of milk into the hot springs as a kid. If I actually drank it, maybe I wouldn't be quite so short... But, it's whatever. I promised Auntie Atea I'd never do that again! I drink all my milk now, so it shouldn't be too late to grow a little taller! The same goes for you — we can all learn from my childhood mistakes!",
+            "sourceName": "vo_mualani_pref_foodDislike.wem"
+        },
+        "c4c38d59965acf74": {
+            "hash": "c4c38d59965acf74",
+            "directory": "External24",
+            "voiceContent": "Wow, this is amazing! Makes me want to hop on my surfboard and do three whole flips without touching the ground!",
+            "sourceName": "vo_mualani_spice_pref_01.wem"
+        },
+        "a3bdd9fc630afeee": {
+            "hash": "a3bdd9fc630afeee",
+            "directory": "External20",
+            "voiceContent": "Got any more? This would be a huge hit at a party!",
+            "sourceName": "vo_mualani_spice_normal_01.wem"
+        },
+        "46150f162ccb1d1a": {
+            "hash": "46150f162ccb1d1a",
+            "directory": "External8",
+            "voiceContent": "Maybe we could soak it some hot spring water for a bit? That could improve the texture!",
+            "sourceName": "vo_mualani_spice_dislike_01.wem"
+        },
+        "197e7536eade789f": {
+            "hash": "197e7536eade789f",
+            "directory": "External3",
+            "voiceContent": "Sweet! Just what I needed! Keep 'em coming!",
+            "sourceName": "vo_mualani_starUp_01.wem"
+        },
+        "aef3675176781f18": {
+            "hash": "aef3675176781f18",
+            "directory": "External21",
+            "voiceContent": "Nice! Looks like my strength is on the rise! Now, how about a friendly game of beach volleyball? I won't hold back!",
+            "sourceName": "vo_mualani_starUp_02.wem"
+        },
+        "30b0c14933183c99": {
+            "hash": "30b0c14933183c99",
+            "directory": "External6",
+            "voiceContent": "It's my lucky day, I just know it! Feels like I could even conquer those massive waves I bailed on last time. No time to lose, bring on the challenge!",
+            "sourceName": "vo_mualani_starUp_03.wem"
+        },
+        "0f71031f82e57b82": {
+            "hash": "0f71031f82e57b82",
+            "directory": "External1",
+            "voiceContent": "For the safety of the tour group, I usually stop my clients from wandering into dangerous places... But I know there will always be situations where there's no choice but to face danger head-on. So, let me join you on your journey. If we work together, there's nothing we can't overcome!",
+            "sourceName": "vo_mualani_starUp_04.wem"
+        },
+        "3e9d065c44373703": {
+            "hash": "3e9d065c44373703",
+            "directory": "External7",
+            "voiceContent": "I must protect my clients!",
+            "sourceName": "vo_mualani_life_less30_01.wem"
+        },
+        "d448d876cfffea6c": {
+            "hash": "d448d876cfffea6c",
+            "directory": "External26",
+            "voiceContent": "Not my lucky day...",
+            "sourceName": "vo_mualani_life_less30_02.wem"
+        },
+        "3fc6f26deeb9353d": {
+            "hash": "3fc6f26deeb9353d",
+            "directory": "External7",
+            "voiceContent": "I got this... I got this!",
+            "sourceName": "vo_mualani_life_less30_03.wem"
+        },
+        "d375687fa8d96d51": {
+            "hash": "d375687fa8d96d51",
+            "directory": "External26",
+            "voiceContent": "The journey's... over...",
+            "sourceName": "vo_mualani_life_die_03.wem"
+        },
+        "476c8e3f648cde33": {
+            "hash": "476c8e3f648cde33",
+            "directory": "External8",
+            "voiceContent": "Chill out!",
+            "sourceName": "vo_mualani_battle_hit_H_01.wem"
+        },
+        "84f4e0577973121c": {
+            "hash": "84f4e0577973121c",
+            "directory": "External16",
+            "voiceContent": "Watch the surfboard...",
+            "sourceName": "vo_mualani_battle_hit_H_02.wem"
+        },
+        "04da11eff297817b": {
+            "hash": "04da11eff297817b",
+            "directory": "External0",
+            "voiceContent": "Off we go!",
+            "sourceName": "vo_mualani_explore_sprint_start_01.wem"
+        },
+        "a21b35d6f4927efa": {
+            "hash": "a21b35d6f4927efa",
+            "directory": "External20",
+            "voiceContent": "Sand surfing sounds like a blast! You know I'm up for the challenge!",
+            "sourceName": "vo_mualani_weather_desert_01.wem"
+        },
+        "2f5344076c4cb284": {
+            "hash": "2f5344076c4cb284",
+            "directory": "External5",
+            "voiceContent": "Need a surfboard?",
+            "sourceName": "vo_mualani_explore_sprint_start_02.wem"
+        },
+        "ad8e823097780310": {
+            "hash": "ad8e823097780310",
+            "directory": "External21",
+            "voiceContent": "Hey, c'mon now!",
+            "sourceName": "vo_mualani_battle_hit_L_02.wem"
+        },
+        "3551abe74dd07fdb": {
+            "hash": "3551abe74dd07fdb",
+            "directory": "External6",
+            "voiceContent": "Whenever I'm feeling down, I tell myself, C'mon, it's okay. It's just bad luck. Having one terrible day doesn't mean things will stay that way. That usually helps me feel a little better. But if that still doesn't help, I go Spiritway surfing and shout my lungs out on the high-speed twists and turns. Going for a few rides always makes me feel like I've well and truly left my troubles in the dust.",
+            "sourceName": "vo_mualani_dialog_annoyed_01.wem"
+        },
+        "a81b189c24e29262": {
+            "hash": "a81b189c24e29262",
+            "directory": "External21",
+            "voiceContent": "Thank you for joining me, Traveler. I'm Mualani, a guide from the People of the Springs. If you need anything, just raise your hand and let me know! Now, please stow your weapon, secure your belongings, keep a firm hold on Paimon, and, most importantly, let go of your troubles. I prepared a Sharky Surfboard for you, so hop on and try not to fall! Alrighty... let the journey begin!",
+            "sourceName": "vo_mualani_draw_appear_01.wem"
+        },
+        "de831092efe3f3e3": {
+            "hash": "de831092efe3f3e3",
+            "directory": "External27",
+            "voiceContent": "For a while, I hung my Vision on my swimming floater. After all, its azure color matches really well. But later, I completely forgot about it while playing volleyball with my friends. The floater landed on the sand, and I swear I almost heard something break! But, when I checked, my Vision was still in one piece! So, all in all, I think it was actually a sign of good luck!",
+            "sourceName": "vo_mualani_dialog_pendant_01.wem"
+        },
+        "2f7f1f68cfdf491b": {
+            "hash": "2f7f1f68cfdf491b",
+            "directory": "External5",
+            "voiceContent": "Oh no...",
+            "sourceName": "vo_card_mualani_inGame_hard_02.wem"
+        },
+        "7b549ccc4cc97cd5": {
+            "hash": "7b549ccc4cc97cd5",
+            "directory": "External15",
+            "voiceContent": "Noo, this isn't supposed to happen...",
+            "sourceName": "vo_card_mualani_inGame_easy_03.wem"
+        },
+        "aeb4d182bd921da4": {
+            "hash": "aeb4d182bd921da4",
+            "directory": "External21",
+            "voiceContent": "Hehe, it's my lucky day!",
+            "sourceName": "vo_card_mualani_inGame_hard_01.wem"
+        },
+        "cb656b9ac0610ba9": {
+            "hash": "cb656b9ac0610ba9",
+            "directory": "External25",
+            "voiceContent": "This is the one!",
+            "sourceName": "vo_card_mualani_inGame_hard_04.wem"
+        },
+        "ad8bad71131173d2": {
+            "hash": "ad8bad71131173d2",
+            "directory": "External21",
+            "voiceContent": "Today is not my lucky day...",
+            "sourceName": "vo_card_mualani_inGame_hard_03.wem"
+        },
+        "f96062d48ffa5344": {
+            "hash": "f96062d48ffa5344",
+            "directory": "External31",
+            "voiceContent": "Ehh!?",
+            "sourceName": "vo_card_mualani_inGame_easy_02.wem"
+        },
+        "fa8a4ee63a7c5166": {
+            "hash": "fa8a4ee63a7c5166",
+            "directory": "External31",
+            "voiceContent": "Here it comes!",
+            "sourceName": "vo_card_mualani_inGame_easy_04.wem"
+        },
+        "cee830bd1646d43b": {
+            "hash": "cee830bd1646d43b",
+            "directory": "External25",
+            "voiceContent": "I'm on fire!",
+            "sourceName": "vo_card_mualani_inGame_easy_01.wem"
+        }
+    }
+}

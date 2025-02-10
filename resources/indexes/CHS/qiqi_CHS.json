@@ -1,0 +1,938 @@
+{
+    "Teapot": {
+        "2c733eab7e91da7b": {
+            "hash": "2c733eab7e91da7b",
+            "directory": "External5",
+            "voiceContent": "聊天…聊天…",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_01.wem"
+        },
+        "41c2d578455a2441": {
+            "hash": "41c2d578455a2441",
+            "directory": "External8",
+            "voiceContent": "嗯！",
+            "sourceName": "vo_qiqi_mimitomo_friendship3_08.wem"
+        },
+        "dd38becc624aaa8f": {
+            "hash": "dd38becc624aaa8f",
+            "directory": "External27",
+            "voiceContent": "聊天的内容，会忘记。",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_05.wem"
+        },
+        "782c2eeca879cc83": {
+            "hash": "782c2eeca879cc83",
+            "directory": "External15",
+            "voiceContent": "嗯，七七要，笑一个。",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_09.wem"
+        },
+        "29d2aa0bb23ac8f1": {
+            "hash": "29d2aa0bb23ac8f1",
+            "directory": "External5",
+            "voiceContent": "那我，天天都会是…开心的？",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_08b_2.wem"
+        },
+        "8db2730554f8e16c": {
+            "hash": "8db2730554f8e16c",
+            "directory": "External17",
+            "voiceContent": "我记得你。",
+            "sourceName": "vo_qiqi_mimitomo_hello_02.wem"
+        },
+        "310b5903f206600b": {
+            "hash": "310b5903f206600b",
+            "directory": "External6",
+            "voiceContent": "嗯！我会做好榜样。",
+            "sourceName": "vo_qiqi_mimitomo_friendship3_06.wem"
+        },
+        "56ec70c2f8470b84": {
+            "hash": "56ec70c2f8470b84",
+            "directory": "External10",
+            "voiceContent": "跟你聊天，是一件很舒服的事情。",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_02.wem"
+        },
+        "794969db11686bbe": {
+            "hash": "794969db11686bbe",
+            "directory": "External15",
+            "voiceContent": "笔记？笔记…",
+            "sourceName": "vo_qiqi_mimitomo_friendship1_04a_1.wem"
+        },
+        "1df0f0e479e64248": {
+            "hash": "1df0f0e479e64248",
+            "directory": "External3",
+            "voiceContent": "声音的语调，会忘记。",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_06.wem"
+        },
+        "d76843bc17299442": {
+            "hash": "d76843bc17299442",
+            "directory": "External26",
+            "voiceContent": "采药…是什么来着？",
+            "sourceName": "vo_qiqi_mimitomo_friendship1_04b_2.wem"
+        },
+        "3a59a565da0c40b4": {
+            "hash": "3a59a565da0c40b4",
+            "directory": "External7",
+            "voiceContent": "别忘记，带东西。",
+            "sourceName": "vo_qiqi_mimitomo_morning_02.wem"
+        },
+        "d4db58f7d9c4f719": {
+            "hash": "d4db58f7d9c4f719",
+            "directory": "External26",
+            "voiceContent": "晚安，梦里我也会保护你。",
+            "sourceName": "vo_qiqi_mimitomo_night_01.wem"
+        },
+        "5b7b5cd4a5aa7fa6": {
+            "hash": "5b7b5cd4a5aa7fa6",
+            "directory": "External11",
+            "voiceContent": "…会忘记。",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_04.wem"
+        },
+        "12749b88f54e0e71": {
+            "hash": "12749b88f54e0e71",
+            "directory": "External2",
+            "voiceContent": "啊…",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_10.wem"
+        },
+        "d7c3670d6dc63442": {
+            "hash": "d7c3670d6dc63442",
+            "directory": "External26",
+            "voiceContent": "我会保护它，也会保护你。",
+            "sourceName": "vo_qiqi_mimitomo_friendship3_07.wem"
+        },
+        "c3db66276ce277fa": {
+            "hash": "c3db66276ce277fa",
+            "directory": "External24",
+            "voiceContent": "没事哦。不会有问题的。",
+            "sourceName": "vo_qiqi_mimitomo_friendship1_05.wem"
+        },
+        "dc45aabab7f7ab15": {
+            "hash": "dc45aabab7f7ab15",
+            "directory": "External27",
+            "voiceContent": "但是…",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_03.wem"
+        },
+        "e8b0fb81c147b040": {
+            "hash": "e8b0fb81c147b040",
+            "directory": "External29",
+            "voiceContent": "你，七七，小团雀…",
+            "sourceName": "vo_qiqi_mimitomo_friendship3_09.wem"
+        },
+        "79eef76c1312bf7a": {
+            "hash": "79eef76c1312bf7a",
+            "directory": "External15",
+            "voiceContent": "太好啦…",
+            "sourceName": "vo_qiqi_mimitomo_friendship3_10.wem"
+        },
+        "de6ad924d2dc085f": {
+            "hash": "de6ad924d2dc085f",
+            "directory": "External27",
+            "voiceContent": "和你一起，在这个家里，养小团雀。",
+            "sourceName": "vo_qiqi_mimitomo_friendship3_02.wem"
+        },
+        "88bff72e51ae62f6": {
+            "hash": "88bff72e51ae62f6",
+            "directory": "External17",
+            "voiceContent": "你找来小谷子。我来喂小团雀。",
+            "sourceName": "vo_qiqi_mimitomo_friendship3_03.wem"
+        },
+        "a6eb5c024b189fce": {
+            "hash": "a6eb5c024b189fce",
+            "directory": "External20",
+            "voiceContent": "天天…都来。",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_08b_1.wem"
+        },
+        "1de0842f9b483cfd": {
+            "hash": "1de0842f9b483cfd",
+            "directory": "External3",
+            "voiceContent": "因为七七，很厉害。",
+            "sourceName": "vo_qiqi_mimitomo_friendship1_06.wem"
+        },
+        "e1b624511a33c2f1": {
+            "hash": "e1b624511a33c2f1",
+            "directory": "External28",
+            "voiceContent": "白天也能做柔软体操，不会被人看见。",
+            "sourceName": "vo_qiqi_mimitomo_friendship1_02.wem"
+        },
+        "0faf2f9f9a4d1ef5": {
+            "hash": "0faf2f9f9a4d1ef5",
+            "directory": "External1",
+            "voiceContent": "啊…是这样吗。",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_08a_1.wem"
+        },
+        "31da61c445ec2b65": {
+            "hash": "31da61c445ec2b65",
+            "directory": "External6",
+            "voiceContent": "采药？采药…",
+            "sourceName": "vo_qiqi_mimitomo_friendship1_04b_1.wem"
+        },
+        "892bd196301a2192": {
+            "hash": "892bd196301a2192",
+            "directory": "External17",
+            "voiceContent": "嗯…如果我现在难过的话，你也会难过的。",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_08a_2.wem"
+        },
+        "90b7419138adf0f0": {
+            "hash": "90b7419138adf0f0",
+            "directory": "External18",
+            "voiceContent": "…因为有你，在我身边。",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_11.wem"
+        },
+        "5ff8ca595d93a570": {
+            "hash": "5ff8ca595d93a570",
+            "directory": "External11",
+            "voiceContent": "需要记住的事情，不多。",
+            "sourceName": "vo_qiqi_mimitomo_friendship1_03.wem"
+        },
+        "d38477e33ffba561": {
+            "hash": "d38477e33ffba561",
+            "directory": "External26",
+            "voiceContent": "笔记…是什么来着？",
+            "sourceName": "vo_qiqi_mimitomo_friendship1_04a_2.wem"
+        },
+        "5eced647b31199ce": {
+            "hash": "5eced647b31199ce",
+            "directory": "External11",
+            "voiceContent": "嗯，这里很好。很安静。",
+            "sourceName": "vo_qiqi_mimitomo_friendship1_01.wem"
+        },
+        "73e0cb3f5e7761d8": {
+            "hash": "73e0cb3f5e7761d8",
+            "directory": "External14",
+            "voiceContent": "想要养…小团雀。",
+            "sourceName": "vo_qiqi_mimitomo_friendship3_01.wem"
+        },
+        "323585159c88cb65": {
+            "hash": "323585159c88cb65",
+            "directory": "External6",
+            "voiceContent": "给它也搭一个窝，风吹不断，雨打不坏。",
+            "sourceName": "vo_qiqi_mimitomo_friendship3_04.wem"
+        },
+        "842fcb1ca448ce94": {
+            "hash": "842fcb1ca448ce94",
+            "directory": "External16",
+            "voiceContent": "白天，我陪它散步。睡前，一起做柔软体操。",
+            "sourceName": "vo_qiqi_mimitomo_friendship3_05.wem"
+        },
+        "cbbf8add71f6c509": {
+            "hash": "cbbf8add71f6c509",
+            "directory": "External25",
+            "voiceContent": "开心的感觉…会忘记…",
+            "sourceName": "vo_qiqi_mimitomo_friendship2_07.wem"
+        },
+        "0858b3d4bbff41b0": {
+            "hash": "0858b3d4bbff41b0",
+            "directory": "External1",
+            "voiceContent": "对，采药的时候，也是在这样的地方，休息。",
+            "sourceName": "vo_mimiTomo_ly_qiqi_adventure_02.wem"
+        },
+        "acd551e687e1f761": {
+            "hash": "acd551e687e1f761",
+            "directory": "External21",
+            "voiceContent": "记在笔记上了，谢谢你。",
+            "sourceName": "vo_mimiTomo_ly_qiqi_village_03.wem"
+        },
+        "a84565d4da7cd047": {
+            "hash": "a84565d4da7cd047",
+            "directory": "External21",
+            "voiceContent": "笔记上，没有记录这里。",
+            "sourceName": "vo_mimiTomo_ly_qiqi_village_01.wem"
+        },
+        "88ec21bace1d6117": {
+            "hash": "88ec21bace1d6117",
+            "directory": "External17",
+            "voiceContent": "感觉…很熟悉，让我看看笔记。",
+            "sourceName": "vo_mimiTomo_ly_qiqi_adventure_01.wem"
+        },
+        "8d7c0dcc7b828831": {
+            "hash": "8d7c0dcc7b828831",
+            "directory": "External17",
+            "voiceContent": "确认安全，谢谢。",
+            "sourceName": "vo_mimiTomo_ly_qiqi_adventure_03.wem"
+        },
+        "ff05f7ed8fd02de0": {
+            "hash": "ff05f7ed8fd02de0",
+            "directory": "External31",
+            "voiceContent": "但是这里很安静，喜欢，以后可以经常来吗？",
+            "sourceName": "vo_mimiTomo_ly_qiqi_village_02.wem"
+        }
+    },
+    "Quests": {
+        "d67287d024f950d3": {
+            "hash": "d67287d024f950d3",
+            "directory": "External26",
+            "voiceContent": "很辛苦…",
+            "sourceName": "vo_EQHDJ403_10_qiqi_07.wem"
+        },
+        "a848c9c931d69818": {
+            "hash": "a848c9c931d69818",
+            "directory": "External21",
+            "voiceContent": "祝，胡桃，顺利…",
+            "sourceName": "vo_EQHDJ403_10_qiqi_08.wem"
+        },
+        "1889c5f9e742f8de": {
+            "hash": "1889c5f9e742f8de",
+            "directory": "External3",
+            "voiceContent": "我，我吗？",
+            "sourceName": "vo_EQHDJ403_10_qiqi_02.wem"
+        },
+        "db0273e1d25e77cd": {
+            "hash": "db0273e1d25e77cd",
+            "directory": "External27",
+            "voiceContent": "死气，不喜欢。",
+            "sourceName": "vo_EQHDJ403_10_qiqi_05.wem"
+        },
+        "c65967f2df553ce7": {
+            "hash": "c65967f2df553ce7",
+            "directory": "External24",
+            "voiceContent": "知，知道了…",
+            "sourceName": "vo_EQHDJ403_10_qiqi_03.wem"
+        },
+        "6c1e59eab0c2033c": {
+            "hash": "6c1e59eab0c2033c",
+            "directory": "External13",
+            "voiceContent": "七七，是僵尸。僵尸，不生病…",
+            "sourceName": "vo_EQHDJ403_10_qiqi_04.wem"
+        },
+        "54eb55d8688706ca": {
+            "hash": "54eb55d8688706ca",
+            "directory": "External10",
+            "voiceContent": "生病了，白先生治；死掉了，胡桃埋。",
+            "sourceName": "vo_EQHDJ403_10_qiqi_06.wem"
+        },
+        "fc3ce9638d83a5e6": {
+            "hash": "fc3ce9638d83a5e6",
+            "directory": "External31",
+            "voiceContent": "祝，胡桃，顺利…",
+            "sourceName": "vo_dialog_EQHDJ403_qiqi_01.wem"
+        },
+        "52c368a4f23689ac": {
+            "hash": "52c368a4f23689ac",
+            "directory": "External10",
+            "voiceContent": "七七，采药，发现洞…",
+            "sourceName": "vo_EQHDJ402_12_qiqi_01.wem"
+        },
+        "67a26493e56d397a": {
+            "hash": "67a26493e56d397a",
+            "directory": "External12",
+            "voiceContent": "结果，掉进去了…",
+            "sourceName": "vo_EQHDJ402_12_qiqi_03.wem"
+        },
+        "bd17968a666dd743": {
+            "hash": "bd17968a666dd743",
+            "directory": "External23",
+            "voiceContent": "想堵住…",
+            "sourceName": "vo_EQHDJ402_12_qiqi_02.wem"
+        },
+        "bb758d00afd45814": {
+            "hash": "bb758d00afd45814",
+            "directory": "External23",
+            "voiceContent": "山上…有庙…",
+            "sourceName": "vo_EQHDJ402_11_qiqi_06.wem"
+        },
+        "b90348d3fe498ad2": {
+            "hash": "b90348d3fe498ad2",
+            "directory": "External23",
+            "voiceContent": "七七，来帮忙。",
+            "sourceName": "vo_EQHDJ402_11_qiqi_13.wem"
+        },
+        "697b46f9a81454e5": {
+            "hash": "697b46f9a81454e5",
+            "directory": "External13",
+            "voiceContent": "胡…胡桃？",
+            "sourceName": "vo_EQHDJ402_11_qiqi_07.wem"
+        },
+        "3c20a6dd65995e35": {
+            "hash": "3c20a6dd65995e35",
+            "directory": "External7",
+            "voiceContent": "魔物…",
+            "sourceName": "vo_EQHDJ402_11_qiqi_10.wem"
+        },
+        "2ce3e71b26a308d9": {
+            "hash": "2ce3e71b26a308d9",
+            "directory": "External5",
+            "voiceContent": "世界，睡着…七七，醒着…",
+            "sourceName": "vo_EQHDJ402_11_qiqi_03.wem"
+        },
+        "68511ae7fd91e98b": {
+            "hash": "68511ae7fd91e98b",
+            "directory": "External13",
+            "voiceContent": "七七…采药…",
+            "sourceName": "vo_EQHDJ402_11_qiqi_05.wem"
+        },
+        "15b09b08de6791df": {
+            "hash": "15b09b08de6791df",
+            "directory": "External2",
+            "voiceContent": "七七，困…",
+            "sourceName": "vo_EQHDJ402_11_qiqi_01.wem"
+        },
+        "3af6bacbbb17601b": {
+            "hash": "3af6bacbbb17601b",
+            "directory": "External7",
+            "voiceContent": "魔，魔物！",
+            "sourceName": "vo_EQHDJ402_11_qiqi_12.wem"
+        },
+        "cc9c2b4d1a630527": {
+            "hash": "cc9c2b4d1a630527",
+            "directory": "External25",
+            "voiceContent": "不困了，好吓人…",
+            "sourceName": "vo_EQHDJ402_11_qiqi_09.wem"
+        },
+        "1ecd89542252741e": {
+            "hash": "1ecd89542252741e",
+            "directory": "External3",
+            "voiceContent": "别！别埋！救救…",
+            "sourceName": "vo_EQHDJ402_11_qiqi_08.wem"
+        },
+        "0f0928f17951bdc2": {
+            "hash": "0f0928f17951bdc2",
+            "directory": "External1",
+            "voiceContent": "七七，想做梦…",
+            "sourceName": "vo_EQHDJ402_11_qiqi_04.wem"
+        },
+        "ab268d236a02eb58": {
+            "hash": "ab268d236a02eb58",
+            "directory": "External21",
+            "voiceContent": "可是，困…",
+            "sourceName": "vo_EQHDJ402_11_qiqi_02.wem"
+        }
+    },
+    "Gameplay": {
+        "67643fec3df8a237": {
+            "hash": "67643fec3df8a237",
+            "directory": "External12",
+            "voiceContent": "流转不息。",
+            "sourceName": "vo_qiqi_battle_skill1_01.wem"
+        },
+        "92135203b7db2d50": {
+            "hash": "92135203b7db2d50",
+            "directory": "External18",
+            "voiceContent": "生生不绝。",
+            "sourceName": "vo_qiqi_battle_skill1_02.wem"
+        },
+        "13d0abfb747b4ad1": {
+            "hash": "13d0abfb747b4ad1",
+            "directory": "External2",
+            "voiceContent": "去。",
+            "sourceName": "vo_qiqi_battle_skill1_03.wem"
+        },
+        "f5f6edd1c72bb2da": {
+            "hash": "f5f6edd1c72bb2da",
+            "directory": "External30",
+            "voiceContent": "起。",
+            "sourceName": "vo_qiqi_battle_skill1_04.wem"
+        },
+        "11545bee5573d0d5": {
+            "hash": "11545bee5573d0d5",
+            "directory": "External2",
+            "voiceContent": "听诏，宣此诰命。",
+            "sourceName": "vo_qiqi_battle_skill3_01.wem"
+        },
+        "df8e7de75f4029f2": {
+            "hash": "df8e7de75f4029f2",
+            "directory": "External27",
+            "voiceContent": "真名，度厄真君。",
+            "sourceName": "vo_qiqi_battle_skill3_02.wem"
+        },
+        "64e7efdf1ef1283b": {
+            "hash": "64e7efdf1ef1283b",
+            "directory": "External12",
+            "voiceContent": "玉签，仙法开匣。",
+            "sourceName": "vo_qiqi_battle_skill3_03.wem"
+        },
+        "8adea1d4323eb37c": {
+            "hash": "8adea1d4323eb37c",
+            "directory": "External17",
+            "voiceContent": "好看。",
+            "sourceName": "vo_qiqi_chest_open_01.wem"
+        },
+        "f532cfb9a6760013": {
+            "hash": "f532cfb9a6760013",
+            "directory": "External30",
+            "voiceContent": "宝箱…有用吗？",
+            "sourceName": "vo_qiqi_chest_open_02.wem"
+        },
+        "70469dc1e722400a": {
+            "hash": "70469dc1e722400a",
+            "directory": "External14",
+            "voiceContent": "里面，是什么？不记得…",
+            "sourceName": "vo_qiqi_chest_open_03.wem"
+        },
+        "cbe67417a2485d8c": {
+            "hash": "cbe67417a2485d8c",
+            "directory": "External25",
+            "voiceContent": "危险。",
+            "sourceName": "vo_qiqi_life_less30_teammate_01.wem"
+        },
+        "8e5f21ff8d63dca3": {
+            "hash": "8e5f21ff8d63dca3",
+            "directory": "External17",
+            "voiceContent": "我来吧。",
+            "sourceName": "vo_qiqi_life_less30_teammate_02.wem"
+        },
+        "8a2fc417e11fd0f9": {
+            "hash": "8a2fc417e11fd0f9",
+            "directory": "External17",
+            "voiceContent": "还会...被封印吗…",
+            "sourceName": "vo_qiqi_life_die_01.wem"
+        },
+        "19eb960f14d38a96": {
+            "hash": "19eb960f14d38a96",
+            "directory": "External3",
+            "voiceContent": "好冷…",
+            "sourceName": "vo_qiqi_life_die_02.wem"
+        },
+        "9ec94166f9970ac8": {
+            "hash": "9ec94166f9970ac8",
+            "directory": "External19",
+            "voiceContent": "…我来了。",
+            "sourceName": "vo_qiqi_teamJoin_01.wem"
+        },
+        "5e110f4ee1fb730f": {
+            "hash": "5e110f4ee1fb730f",
+            "directory": "External11",
+            "voiceContent": "有什么事吗？",
+            "sourceName": "vo_qiqi_teamJoin_02.wem"
+        },
+        "dc53ad57255b4826": {
+            "hash": "dc53ad57255b4826",
+            "directory": "External27",
+            "voiceContent": "我带着…笔记。",
+            "sourceName": "vo_qiqi_teamJoin_03.wem"
+        },
+        "a98a763c5a105074": {
+            "hash": "a98a763c5a105074",
+            "directory": "External21",
+            "voiceContent": "我是七七，是个僵尸…啊，还要说什么来着。",
+            "sourceName": "vo_qiqi_draw_appear.wem"
+        },
+        "36f5e455e71d7766": {
+            "hash": "36f5e455e71d7766",
+            "directory": "External6",
+            "voiceContent": "咦，刚刚…我想说什么来着…",
+            "sourceName": "vo_qiqi_explore_idle_01.wem"
+        },
+        "a73a125eb369bcc9": {
+            "hash": "a73a125eb369bcc9",
+            "directory": "External20",
+            "voiceContent": "想去凉快点的地方。",
+            "sourceName": "vo_qiqi_explore_idle_02.wem"
+        },
+        "f96a7865bb578608": {
+            "hash": "f96a7865bb578608",
+            "directory": "External31",
+            "voiceContent": "七二三四，七二三四…五六七七，五六七七…",
+            "sourceName": "vo_qiqi_explore_idle_03.wem"
+        },
+        "36423fcaee9f66cc": {
+            "hash": "36423fcaee9f66cc",
+            "directory": "External6",
+            "voiceContent": "又忘记带伞了。",
+            "sourceName": "vo_qiqi_weather_heavyRain_01.wem"
+        },
+        "0a12c2bce22f6cf3": {
+            "hash": "0a12c2bce22f6cf3",
+            "directory": "External1",
+            "voiceContent": "想堆雪人…可以陪我吗？",
+            "sourceName": "vo_qiqi_weather_snowy_01.wem"
+        },
+        "1f814e2195868aca": {
+            "hash": "1f814e2195868aca",
+            "directory": "External3",
+            "voiceContent": "拉手…拉手！要、要被吹跑了！…",
+            "sourceName": "vo_qiqi_weather_gale_01.wem"
+        },
+        "0a03f0840cec006e": {
+            "hash": "0a03f0840cec006e",
+            "directory": "External1",
+            "voiceContent": "今天不该出门的。",
+            "sourceName": "vo_qiqi_weather_sunny_01.wem"
+        },
+        "7c97eaa32676758e": {
+            "hash": "7c97eaa32676758e",
+            "directory": "External15",
+            "voiceContent": "凉凉的，很舒服。",
+            "sourceName": "vo_qiqi_weather_breezy_01.wem"
+        },
+        "0ae9f749d6b401de": {
+            "hash": "0ae9f749d6b401de",
+            "directory": "External1",
+            "voiceContent": "早上了吗？今天要做的是…我看看笔记。",
+            "sourceName": "vo_qiqi_dialog_greetingMorning.wem"
+        },
+        "c0cd7a6bcfa32aba": {
+            "hash": "c0cd7a6bcfa32aba",
+            "directory": "External24",
+            "voiceContent": "…忘记帮白先生分拣药材了。",
+            "sourceName": "vo_qiqi_dialog_greetingNoon.wem"
+        },
+        "94b78d5ac7f31ce4": {
+            "hash": "94b78d5ac7f31ce4",
+            "directory": "External18",
+            "voiceContent": "晚上好。今天…我做了什么来着…",
+            "sourceName": "vo_qiqi_dialog_greetingNight.wem"
+        },
+        "03d1e2e7484d53ac": {
+            "hash": "03d1e2e7484d53ac",
+            "directory": "External0",
+            "voiceContent": "你先休息吧，我该去做柔软体操了…不要偷看。",
+            "sourceName": "vo_qiqi_dialog_greetingNight2.wem"
+        },
+        "ec33919b6e8f83a3": {
+            "hash": "ec33919b6e8f83a3",
+            "directory": "External29",
+            "voiceContent": "你问我吗…？对不起，我不记得了…",
+            "sourceName": "vo_qiqi_dialog_idle.wem"
+        },
+        "71784eeebd758201": {
+            "hash": "71784eeebd758201",
+            "directory": "External14",
+            "voiceContent": "很多事情我都记不起来了，但是…也没什么不好。",
+            "sourceName": "vo_qiqi_dialog_close.wem"
+        },
+        "44375e69322ead8c": {
+            "hash": "44375e69322ead8c",
+            "directory": "External8",
+            "voiceContent": "最近我努力做了很多记忆力锻炼，所以不用担心我会忘记你了。",
+            "sourceName": "vo_qiqi_dialog_close1.wem"
+        },
+        "718a756caa4f9c5b": {
+            "hash": "718a756caa4f9c5b",
+            "directory": "External14",
+            "voiceContent": "「神之眼」，虽然无法停住时间，但是给了我守护重要之人的力量。",
+            "sourceName": "vo_qiqi_dialog_pendant.wem"
+        },
+        "f26072d0fa4c21b8": {
+            "hash": "f26072d0fa4c21b8",
+            "directory": "External30",
+            "voiceContent": "其实我的身体状况比白先生好很多…",
+            "sourceName": "vo_qiqi_dialog_share.wem"
+        },
+        "d486ba2bcf12fb7a": {
+            "hash": "d486ba2bcf12fb7a",
+            "directory": "External26",
+            "voiceContent": "药庐附近有时候会有小团雀出没，小小的一团。",
+            "sourceName": "vo_qiqi_pref_gift.wem"
+        },
+        "d84f543aeec4ca42": {
+            "hash": "d84f543aeec4ca42",
+            "directory": "External27",
+            "voiceContent": "我记不起来白先生的脸了，但是也没什么关系…",
+            "sourceName": "vo_qiqi_teammate_baizhu_01.wem"
+        },
+        "3a67ad9aa6a7bc56": {
+            "hash": "3a67ad9aa6a7bc56",
+            "directory": "External7",
+            "voiceContent": "高温、假笑和死亡…讨厌。",
+            "sourceName": "vo_qiqi_teammate_hutao_01.wem"
+        },
+        "854a80102ebe7b44": {
+            "hash": "854a80102ebe7b44",
+            "directory": "External16",
+            "voiceContent": "唔，听起来像老古董…",
+            "sourceName": "vo_qiqi_teammate_xiao_01.wem"
+        },
+        "8b962079a902c426": {
+            "hash": "8b962079a902c426",
+            "directory": "External17",
+            "voiceContent": "晚上…偶尔会感觉到有人和我一起做体操…是错觉吗？",
+            "sourceName": "vo_qiqi_teammate_duskyMing_01.wem"
+        },
+        "5ad24df8b50afc3b": {
+            "hash": "5ad24df8b50afc3b",
+            "directory": "External11",
+            "voiceContent": "我见过他吗…？",
+            "sourceName": "vo_qiqi_teammate_xiao_02.wem"
+        },
+        "e083a8e1d3f48896": {
+            "hash": "e083a8e1d3f48896",
+            "directory": "External28",
+            "voiceContent": "…是谁？",
+            "sourceName": "vo_qiqi_teammate_xinyan_01.wem"
+        },
+        "dbc7df4ad72aed45": {
+            "hash": "dbc7df4ad72aed45",
+            "directory": "External27",
+            "voiceContent": "可爱…像小团雀。",
+            "sourceName": "vo_qiqi_teammate_yaoyao_01.wem"
+        },
+        "f2ec0f210f0f467e": {
+            "hash": "f2ec0f210f0f467e",
+            "directory": "External30",
+            "voiceContent": "有什么事吗？",
+            "sourceName": "vo_qiqi_friendship_01.wem"
+        },
+        "4d271d293da27f21": {
+            "hash": "4d271d293da27f21",
+            "directory": "External9",
+            "voiceContent": "柔软体操，让我能够保持和人类一样的身体状态。但是如果放松下来的话，就会变回去…",
+            "sourceName": "vo_qiqi_friendship_02.wem"
+        },
+        "a2bec330487591a0": {
+            "hash": "a2bec330487591a0",
+            "directory": "External20",
+            "voiceContent": "有的人想要利用我，有的人很害怕我。但是你…和他们都不一样。",
+            "sourceName": "vo_qiqi_friendship_03.wem"
+        },
+        "b0d4d0f74cc59e73": {
+            "hash": "b0d4d0f74cc59e73",
+            "directory": "External22",
+            "voiceContent": "从第一次见面开始，你就给我一种很温暖的感觉。和让人不舒服的热不一样，是我的心，感觉到了温暖。谢谢你…我很高兴。可惜我只认识现在的你，如果以后我忘记了…我们就…不，我会「命令」自己记住你。",
+            "sourceName": "vo_qiqi_friendship_04.wem"
+        },
+        "2f4d9eff9053546a": {
+            "hash": "2f4d9eff9053546a",
+            "directory": "External5",
+            "voiceContent": "以前我只想要活下去，虽然不知道为了什么活下去…但现在我好像知道了，以后想要和你一起活下去。我、我们可以…永远一直在一起吗？啊…真的可以吗？嗯！我会保护好你的！",
+            "sourceName": "vo_qiqi_friendship_05.wem"
+        },
+        "d6344f1dd803843a": {
+            "hash": "d6344f1dd803843a",
+            "directory": "External26",
+            "voiceContent": "想要一只小宠物…小团雀那样子的。",
+            "sourceName": "vo_qiqi_pref_hobby.wem"
+        },
+        "e78a11b0cd419c2f": {
+            "hash": "e78a11b0cd419c2f",
+            "directory": "External28",
+            "voiceContent": "我不明白，但是，温度高会让身体很难受…",
+            "sourceName": "vo_qiqi_dialog_annoyed.wem"
+        },
+        "535f56528757a25d": {
+            "hash": "535f56528757a25d",
+            "directory": "External10",
+            "voiceContent": "喜欢椰奶。但是…尝不出味道。",
+            "sourceName": "vo_qiqi_pref_foodLike.wem"
+        },
+        "a67082899ef95f7f": {
+            "hash": "a67082899ef95f7f",
+            "directory": "External20",
+            "voiceContent": "对不起，我不知道…",
+            "sourceName": "vo_qiqi_pref_foodDislike.wem"
+        },
+        "207c0fbc9aa8cdea": {
+            "hash": "207c0fbc9aa8cdea",
+            "directory": "External4",
+            "voiceContent": "凉凉的，很喜欢。虽然没有味道…",
+            "sourceName": "vo_qiqi_spice_pref_01.wem"
+        },
+        "13740032a86c03b0": {
+            "hash": "13740032a86c03b0",
+            "directory": "External2",
+            "voiceContent": "唔…",
+            "sourceName": "vo_qiqi_spice_normal_01.wem"
+        },
+        "40860f33d9a318a4": {
+            "hash": "40860f33d9a318a4",
+            "directory": "External8",
+            "voiceContent": "有点烫…",
+            "sourceName": "vo_qiqi_spice_dislike_01.wem"
+        },
+        "cd59be881d47c68b": {
+            "hash": "cd59be881d47c68b",
+            "directory": "External25",
+            "voiceContent": "生辰快乐。给，草药香囊。很惊讶吗？上次你告诉我的时候，我就记在纸上了。每天都看一遍的话，今后也不会忘记的…",
+            "sourceName": "vo_qiqi_pref_birthday.wem"
+        },
+        "bd5eaa90c4169f09": {
+            "hash": "bd5eaa90c4169f09",
+            "directory": "External23",
+            "voiceContent": "啊，变强了吗…变强，是什么呢？",
+            "sourceName": "vo_qiqi_starUp_01.wem"
+        },
+        "4d1a7c87f7ca59a6": {
+            "hash": "4d1a7c87f7ca59a6",
+            "directory": "External9",
+            "voiceContent": "啊，理解了。变强之后，控制力量需要更多的精力了。",
+            "sourceName": "vo_qiqi_starUp_02.wem"
+        },
+        "ced7de7fb46a848f": {
+            "hash": "ced7de7fb46a848f",
+            "directory": "External25",
+            "voiceContent": "以前我对更加强大并没有概念，但是现在…我希望能够再强一点。",
+            "sourceName": "vo_qiqi_starUp_03.wem"
+        },
+        "488b90764a66e584": {
+            "hash": "488b90764a66e584",
+            "directory": "External9",
+            "voiceContent": "这一切都是因为你在，谢谢你…可以答应我一个愿望吗？今后…就让我来保护你吧，好不好？",
+            "sourceName": "vo_qiqi_starUp_04.wem"
+        },
+        "5caca75092dca105": {
+            "hash": "5caca75092dca105",
+            "directory": "External11",
+            "voiceContent": "痛。",
+            "sourceName": "vo_qiqi_life_less30_01.wem"
+        },
+        "023a8948641a0ae2": {
+            "hash": "023a8948641a0ae2",
+            "directory": "External0",
+            "voiceContent": "啊——",
+            "sourceName": "vo_qiqi_life_less30_02.wem"
+        },
+        "acd9fb415976632b": {
+            "hash": "acd9fb415976632b",
+            "directory": "External21",
+            "voiceContent": "要活下去…",
+            "sourceName": "vo_qiqi_life_less30_03.wem"
+        },
+        "c7baf8080ce5627f": {
+            "hash": "c7baf8080ce5627f",
+            "directory": "External24",
+            "voiceContent": "不要…",
+            "sourceName": "vo_qiqi_life_die_03.wem"
+        },
+        "7d57d6821f146959": {
+            "hash": "7d57d6821f146959",
+            "directory": "External15",
+            "voiceContent": "居然…",
+            "sourceName": "vo_qiqi_battle_hit_H_01.wem"
+        },
+        "1079a87955ab4cf6": {
+            "hash": "1079a87955ab4cf6",
+            "directory": "External2",
+            "voiceContent": "糟了…",
+            "sourceName": "vo_qiqi_battle_hit_H_02.wem"
+        },
+        "712051f8cd8df31a": {
+            "hash": "712051f8cd8df31a",
+            "directory": "External14",
+            "voiceContent": "没感觉…",
+            "sourceName": "vo_qiqi_battle_hit_L_02.wem"
+        },
+        "c6ffe4cc9334c279": {
+            "hash": "c6ffe4cc9334c279",
+            "directory": "External24",
+            "voiceContent": "要更快一点吗？",
+            "sourceName": "vo_qiqi_explore_sprint_start_01.wem"
+        },
+        "f6ecd0333eb36746": {
+            "hash": "f6ecd0333eb36746",
+            "directory": "External30",
+            "voiceContent": "欸？",
+            "sourceName": "vo_qiqi_explore_fly_start_01.wem"
+        },
+        "5201e711065dd6f3": {
+            "hash": "5201e711065dd6f3",
+            "directory": "External10",
+            "voiceContent": "有点烫…",
+            "sourceName": "vo_qiqi_spice_event_dislike_01.wem"
+        },
+        "f6430f8494a51aab": {
+            "hash": "f6430f8494a51aab",
+            "directory": "External30",
+            "voiceContent": "凉凉的，很喜欢。虽然没有味道…",
+            "sourceName": "vo_qiqi_spice_event_pref_01.wem"
+        },
+        "3086c19216b30c45": {
+            "hash": "3086c19216b30c45",
+            "directory": "External6",
+            "voiceContent": "唔…",
+            "sourceName": "vo_qiqi_spice_event_normal_01.wem"
+        },
+        "faa08a0cf6f52379": {
+            "hash": "faa08a0cf6f52379",
+            "directory": "External31",
+            "voiceContent": "好。我先看看笔记，出牌方式，在上面。",
+            "sourceName": "vo_card_qiqi_invite_easy_01.wem"
+        },
+        "513c7289a1718bc4": {
+            "hash": "513c7289a1718bc4",
+            "directory": "External10",
+            "voiceContent": "输掉了…没记全吗？",
+            "sourceName": "vo_card_qiqi_invite_hard_03.wem"
+        },
+        "34c355bccbfa1cad": {
+            "hash": "34c355bccbfa1cad",
+            "directory": "External6",
+            "voiceContent": "好多人，好热，我不喜欢…但这种卡牌很有趣，你可以，陪我玩一局吗？",
+            "sourceName": "vo_card_qiqi_freetalk_01.wem"
+        },
+        "acd6337af7e4e0a2": {
+            "hash": "acd6337af7e4e0a2",
+            "directory": "External21",
+            "voiceContent": "输掉的对局，也要记下来吗？唔…",
+            "sourceName": "vo_card_qiqi_endOfGame_fail_01.wem"
+        },
+        "7ee1c3aa10458ffe": {
+            "hash": "7ee1c3aa10458ffe",
+            "directory": "External15",
+            "voiceContent": "我等一下也要回去，不能让白先生，担心。",
+            "sourceName": "vo_card_qiqi_leave_01.wem"
+        },
+        "a16ace7a680d0e72": {
+            "hash": "a16ace7a680d0e72",
+            "directory": "External20",
+            "voiceContent": "记了好多厉害的出牌方式，所以，不会输。",
+            "sourceName": "vo_card_qiqi_invite_hard_01.wem"
+        },
+        "382bbdfd22bab4ff": {
+            "hash": "382bbdfd22bab4ff",
+            "directory": "External7",
+            "voiceContent": "…是哪一步，被我漏掉了吗？",
+            "sourceName": "vo_card_qiqi_invite_easy_03.wem"
+        },
+        "1e78a425163c4c7e": {
+            "hash": "1e78a425163c4c7e",
+            "directory": "External3",
+            "voiceContent": "你的牌，我要记下来…用得上。",
+            "sourceName": "vo_card_qiqi_endOfGame_win_01.wem"
+        },
+        "8a5c5c042aa8dd16": {
+            "hash": "8a5c5c042aa8dd16",
+            "directory": "External17",
+            "voiceContent": "没有忘记步骤，还好…",
+            "sourceName": "vo_card_qiqi_invite_easy_02.wem"
+        },
+        "d330ac815e40b555": {
+            "hash": "d330ac815e40b555",
+            "directory": "External26",
+            "voiceContent": "赢了…呼，好复杂…累了。",
+            "sourceName": "vo_card_qiqi_invite_hard_02.wem"
+        },
+        "a7139c7c33bf3fee": {
+            "hash": "a7139c7c33bf3fee",
+            "directory": "External20",
+            "voiceContent": "是这样吗？",
+            "sourceName": "vo_card_qiqi_inGame_hard_01.wem"
+        },
+        "64fb5e527173e4e3": {
+            "hash": "64fb5e527173e4e3",
+            "directory": "External12",
+            "voiceContent": "笔记上，写着…",
+            "sourceName": "vo_card_qiqi_inGame_hard_04.wem"
+        },
+        "c7b14c8a8b6a3a58": {
+            "hash": "c7b14c8a8b6a3a58",
+            "directory": "External24",
+            "voiceContent": "记得…这样。",
+            "sourceName": "vo_card_qiqi_inGame_easy_04.wem"
+        },
+        "86060660c97ba3e5": {
+            "hash": "86060660c97ba3e5",
+            "directory": "External16",
+            "voiceContent": "这样，行吗？",
+            "sourceName": "vo_card_qiqi_inGame_easy_01.wem"
+        },
+        "2b93e8589ab90cc2": {
+            "hash": "2b93e8589ab90cc2",
+            "directory": "External5",
+            "voiceContent": "啊，糟糕…",
+            "sourceName": "vo_card_qiqi_inGame_easy_02.wem"
+        },
+        "56e5108b6d236b10": {
+            "hash": "56e5108b6d236b10",
+            "directory": "External10",
+            "voiceContent": "要…怎么做来着…",
+            "sourceName": "vo_card_qiqi_inGame_hard_03.wem"
+        },
+        "d8a26a8329c38891": {
+            "hash": "d8a26a8329c38891",
+            "directory": "External27",
+            "voiceContent": "欸？怎么会…",
+            "sourceName": "vo_card_qiqi_inGame_hard_02.wem"
+        },
+        "84dbda4f1ef9388b": {
+            "hash": "84dbda4f1ef9388b",
+            "directory": "External16",
+            "voiceContent": "下一步，记不住。",
+            "sourceName": "vo_card_qiqi_inGame_easy_03.wem"
+        }
+    }
+}

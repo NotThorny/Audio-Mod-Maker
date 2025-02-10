@@ -1,0 +1,535 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "87fe42288598a3ae": {
+            "hash": "87fe42288598a3ae",
+            "directory": "External16",
+            "voiceContent": "이번에 터진 재해는 작은 징조일 뿐입니다. 우리가 찾아야 하는 건 재앙을 일으킨 원흉이죠…",
+            "sourceName": "vo_FDAQ308_7_neuvillette_01.wem"
+        },
+        "d6915e73f1ea62ac": {
+            "hash": "d6915e73f1ea62ac",
+            "directory": "External26",
+            "voiceContent": "녀석의 슬픔이 적의로 변하고 있는 게 느껴지는군요",
+            "sourceName": "vo_FDAQ306_12_neuvillette_10.wem"
+        },
+        "eb705a62e521127a": {
+            "hash": "eb705a62e521127a",
+            "directory": "External29",
+            "voiceContent": "가호가 완성됐으니 안심하십시오. 제 힘을 이용해 내부에서 「근원」을 제압하는 겁니다",
+            "sourceName": "vo_FDAQ306_12_neuvillette_12.wem"
+        },
+        "40e58c596621b043": {
+            "hash": "40e58c596621b043",
+            "directory": "External8",
+            "voiceContent": "이곳에서 고대 용의 대권을 드러내니 모태 바다의 힘을 목격하십시오",
+            "sourceName": "vo_FDAQ306_12_neuvillette_13.wem"
+        },
+        "4575786b1386d77d": {
+            "hash": "4575786b1386d77d",
+            "directory": "External8",
+            "voiceContent": "별을 삼킨 고래는 「집어삼키려는」 본능을 이길 수 없으니, 계속 녀석을 자극하면 반드시 기회가 있을 겁니다…",
+            "sourceName": "vo_FDAQ306_12_neuvillette_11.wem"
+        }
+    },
+    "Gameplay": {
+        "c0f2dc29fcbe3248": {
+            "hash": "c0f2dc29fcbe3248",
+            "directory": "External24",
+            "voiceContent": "정숙!",
+            "sourceName": "vo_neuvillette_battle_skill1_01.wem"
+        },
+        "803aaa11e5229a8f": {
+            "hash": "803aaa11e5229a8f",
+            "directory": "External16",
+            "voiceContent": "고개를 숙여라",
+            "sourceName": "vo_neuvillette_battle_skill1_02.wem"
+        },
+        "fe7d481a28826fa6": {
+            "hash": "fe7d481a28826fa6",
+            "directory": "External31",
+            "voiceContent": "소란 금지",
+            "sourceName": "vo_neuvillette_battle_skill1_03.wem"
+        },
+        "b4b04992aeb331fe": {
+            "hash": "b4b04992aeb331fe",
+            "directory": "External22",
+            "voiceContent": "밀물이여, 내가 돌아왔다",
+            "sourceName": "vo_neuvillette_battle_skill3_01.wem"
+        },
+        "0eeb579add466aa1": {
+            "hash": "0eeb579add466aa1",
+            "directory": "External1",
+            "voiceContent": "거품이 되어라",
+            "sourceName": "vo_neuvillette_battle_skill3_02.wem"
+        },
+        "6482fda1e8197d20": {
+            "hash": "6482fda1e8197d20",
+            "directory": "External12",
+            "voiceContent": "모든 높은 자를 내려볼지어다",
+            "sourceName": "vo_neuvillette_battle_skill3_03.wem"
+        },
+        "95981a9ff10c7929": {
+            "hash": "95981a9ff10c7929",
+            "directory": "External18",
+            "voiceContent": "주인이 없는 물건은 먼저 찾은 사람이 임자죠. 예, 합법입니다",
+            "sourceName": "vo_neuvillette_chest_open_01.wem"
+        },
+        "2553ec9724c033c6": {
+            "hash": "2553ec9724c033c6",
+            "directory": "External4",
+            "voiceContent": "좋은 물건이 나왔습니까? 적어도 그것을 여는 순간엔 설렘이 가득하겠죠",
+            "sourceName": "vo_neuvillette_chest_open_02.wem"
+        },
+        "aa774e8ee44387af": {
+            "hash": "aa774e8ee44387af",
+            "directory": "External21",
+            "voiceContent": "구두 약속으로 이 물건들을 당신에게 양도하겠습니다",
+            "sourceName": "vo_neuvillette_chest_open_03.wem"
+        },
+        "ad8ac0f875a4ad15": {
+            "hash": "ad8ac0f875a4ad15",
+            "directory": "External21",
+            "voiceContent": "저에게 맡기십시오",
+            "sourceName": "vo_neuvillette_life_less30_teammate_01.wem"
+        },
+        "7bc4e2f17f710632": {
+            "hash": "7bc4e2f17f710632",
+            "directory": "External15",
+            "voiceContent": "좀 쉬고 계십시오",
+            "sourceName": "vo_neuvillette_life_less30_teammate_02.wem"
+        },
+        "493e64ba44f9adfc": {
+            "hash": "493e64ba44f9adfc",
+            "directory": "External9",
+            "voiceContent": "파도가 다시 밀려올 때 반드시 돌아올 겁니다…",
+            "sourceName": "vo_neuvillette_life_die_01.wem"
+        },
+        "b392929fb930fa93": {
+            "hash": "b392929fb930fa93",
+            "directory": "External22",
+            "voiceContent": "제가 태어나기 전의 따뜻한 바다를… 보았습니다…",
+            "sourceName": "vo_neuvillette_life_die_02.wem"
+        },
+        "83374bee6c15316e": {
+            "hash": "83374bee6c15316e",
+            "directory": "External16",
+            "voiceContent": "동행을 허가… 음, 초대해 주셔서 감사합니다",
+            "sourceName": "vo_neuvillette_teamJoin_01.wem"
+        },
+        "b4c619f562197a11": {
+            "hash": "b4c619f562197a11",
+            "directory": "External22",
+            "voiceContent": "얼마든지요",
+            "sourceName": "vo_neuvillette_teamJoin_02.wem"
+        },
+        "3308bffda5795c90": {
+            "hash": "3308bffda5795c90",
+            "directory": "External6",
+            "voiceContent": "같이 물가 같은 곳으로 가서 좀 걷죠",
+            "sourceName": "vo_neuvillette_teamJoin_03.wem"
+        },
+        "29c20936f737f74b": {
+            "hash": "29c20936f737f74b",
+            "directory": "External5",
+            "voiceContent": "전 제 일의 가치와 폰타인 대중들이 한 일의 의미를 잘 압니다. 앞으로도 전 제 일에 자부심을 갖고 살아갈 겁니다",
+            "sourceName": "vo_neuvillette_character_idle_01.wem"
+        },
+        "804c7b4fac5d8ed4": {
+            "hash": "804c7b4fac5d8ed4",
+            "directory": "External16",
+            "voiceContent": "물은 아주 다양한 맛이 있습니다. 몬드의 물은 청량하고 리월의 물은 뒷맛이 오래 가며, 이나즈마의 물은 깊고 그윽한 맛이 있습니다. 수메르의 물은 풍부한 맛이 있지만 자세히 음미해야 알 수 있죠",
+            "sourceName": "vo_neuvillette_character_idle_02.wem"
+        },
+        "2aeb3548a1b8aea5": {
+            "hash": "2aeb3548a1b8aea5",
+            "directory": "External5",
+            "voiceContent": "멜뤼진은 폰타인의 자랑이자 매우 아름다운 생물입니다. 부디 그들을 해치지 말고 친하게 지내주세요",
+            "sourceName": "vo_neuvillette_character_idle_03.wem"
+        },
+        "570147f22cf0c623": {
+            "hash": "570147f22cf0c623",
+            "directory": "External10",
+            "voiceContent": "아, 미안합니다. 비가 많이 내리면 곤란하시겠군요…",
+            "sourceName": "vo_neuvillette_weather_heavyRain_01.wem"
+        },
+        "d13761f6ebfe7962": {
+            "hash": "d13761f6ebfe7962",
+            "directory": "External26",
+            "voiceContent": "끝났군요…",
+            "sourceName": "vo_neuvillette_weather_afterRain_01.wem"
+        },
+        "543d1d4dcb732b6d": {
+            "hash": "543d1d4dcb732b6d",
+            "directory": "External10",
+            "voiceContent": "이런 날씨에는… 실내 창가에서 햇빛을 감상하는 게 최고죠",
+            "sourceName": "vo_neuvillette_weather_sunny_01.wem"
+        },
+        "3f1db264dabb82d0": {
+            "hash": "3f1db264dabb82d0",
+            "directory": "External7",
+            "voiceContent": "「마른하늘에 날벼락」이라는 말이 있지 않습니까? 저에게 딱 그런 느낌입니다",
+            "sourceName": "vo_neuvillette_weather_thunder_01.wem"
+        },
+        "9dc53eba8f95c590": {
+            "hash": "9dc53eba8f95c590",
+            "directory": "External19",
+            "voiceContent": "눈은 물의 자체 정화 수단이기도 하죠. 하지만 인간의 활동으로 더 이상 전처럼 깨끗하지 않으니 드시진 마십시오",
+            "sourceName": "vo_neuvillette_weather_snowy_01.wem"
+        },
+        "7deb9d991abe07f1": {
+            "hash": "7deb9d991abe07f1",
+            "directory": "External15",
+            "voiceContent": "좋은 아침입니다. 즐거운 하루 보내시길 바랍니다",
+            "sourceName": "vo_neuvillette_dialog_greetingMorning.wem"
+        },
+        "0dcafdf8d44867df": {
+            "hash": "0dcafdf8d44867df",
+            "directory": "External1",
+            "voiceContent": "좋은 점심입니다. 분명 홍차나 커피를 마실 시간이 기대되시겠죠. 저도 그렇습니다",
+            "sourceName": "vo_neuvillette_dialog_greetingNoon.wem"
+        },
+        "9a01e97691190967": {
+            "hash": "9a01e97691190967",
+            "directory": "External19",
+            "voiceContent": "좋은 저녁입니다. 오늘은 신경 쓰이는 일이 없으셨길 바랍니다",
+            "sourceName": "vo_neuvillette_dialog_greetingNight.wem"
+        },
+        "81ef5ede6b018609": {
+            "hash": "81ef5ede6b018609",
+            "directory": "External16",
+            "voiceContent": "좋은 밤 되십시오. 전 개인적으로 잔잔한 수면이 아주 아름답다고 생각하는데, 꿈을 꾸지 않고 편안하게 주무시길 바랍니다. 그 어떤 꿈의 물결에도 방해받지 않으셨으면 좋겠군요",
+            "sourceName": "vo_neuvillette_dialog_greetingNight2.wem"
+        },
+        "05a74c071955caee": {
+            "hash": "05a74c071955caee",
+            "directory": "External0",
+            "voiceContent": "전 심판에 열광하는 심판 애호가가 아닙니다. 「심판」은 그저 저의 책임이자, 제가 위임받은 목적에 불과하죠",
+            "sourceName": "vo_neuvillette_dialog_idle.wem"
+        },
+        "b72cb375f19f6966": {
+            "hash": "b72cb375f19f6966",
+            "directory": "External22",
+            "voiceContent": "당신도 그 폰타인 민요에 대해 들으신 겁니까? 하아… 누구한테 들으셨습니까? 대체 누가 그걸 퍼트린 건지…. 아무것도 아닙니다. 전 물의 용이 울 거라고 생각하지 않습니다. 그저 대지에 모인 눈물과 모든 감정을 맛보고 느낀 바가 있는 것뿐이겠죠",
+            "sourceName": "vo_neuvillette_dialog_idle2.wem"
+        },
+        "b797ed4eb28a2c21": {
+            "hash": "b797ed4eb28a2c21",
+            "directory": "External22",
+            "voiceContent": "폰타인 사람들과 오랫동안 지내고 당신과 동행하다 보니 생각이 바뀌었습니다. 인간의 죄는 이미 사면했으니, 앞으로의 심판은 평범한 인간에게 해를 가하지 않을 것을 약속하지요. 다만 저와 참주 사이에는 아직 청산하지 못한 원한과 해야 할 복수가 남아 있습니다",
+            "sourceName": "vo_neuvillette_dialog_close1.wem"
+        },
+        "88b62e9cc6bc3616": {
+            "hash": "88b62e9cc6bc3616",
+            "directory": "External17",
+            "voiceContent": "당신이 세상 밖에서 왔다면, 제가 이 뒤집힌 세상에 내리는 심판을 지켜봐 주십시오. 「본디 위대하신 아버지께서 다스려야 할 나라였거늘, 지금은 추악한 깃털이 다스리고 있습니다. 뒤집히고 어긋난 이 세상을 바로잡기 위해 제가 이 땅에 왔습니다」",
+            "sourceName": "vo_neuvillette_dialog_close.wem"
+        },
+        "676dd7db53037998": {
+            "hash": "676dd7db53037998",
+            "directory": "External12",
+            "voiceContent": "위기의 순간에 더 쉽게 나설 수 있게 가짜 유리구슬을 차고 다니라고 저에게 조언한 사람이 있었습니다. 자신의 힘을 사용하는데 가면을 쓰고 위장해야 한다니, 솔직히 불쾌했습니다. 하지만 신의 눈을 가진 사람들과 지내다 보니, 그들의 갈망과 의지 역시 아주 귀하다는 걸 깨달았죠",
+            "sourceName": "vo_neuvillette_dialog_pendant_01.wem"
+        },
+        "4ef8ec1d1bbab7c5": {
+            "hash": "4ef8ec1d1bbab7c5",
+            "directory": "External9",
+            "voiceContent": "폰타인에는 신기한 법률이 많습니다. 예를 들어 「매월 초삼일은 비행 물체를 날릴 수 없고」, 「갈수기에 떠밀려 온 이매패류는 모두 물의 신의 것이며, 소라 껍데기는 백성들의 것」이라든가, 「집에서 키우는 동물에게 『푸리나』라는 이름을 붙이는 것을 금지」한다든가요. 또 「구내식당과 레스토랑에서 케첩만 먹을 수 없고」, 「멜뤼진은 인격을 나타내는 인칭 대명사로 불러야 한다」라든가 말이죠…. 마지막 조항의 입법은 제가 추진했습니다",
+            "sourceName": "vo_neuvillette_dialog_share_01.wem"
+        },
+        "4aa8070442405a59": {
+            "hash": "4aa8070442405a59",
+            "directory": "External9",
+            "voiceContent": "그들 역시 같은 원류바다 출신 혈통이라 진화에 매우 능숙합니다. 그러고 보니 과거에 있던 용의 풍습 하나가 떠오르는군요. 「우리가 요절한 동족의 피를 마시고 달과 별의 운동이 조석 현상에 영향을 줄 때, 우리 수생족 체내의 물 역시 위로 떠오를 것이며, 죽은 동족의 부활을 알 수 있을 것이다」",
+            "sourceName": "vo_neuvillette_pref_gift_01.wem"
+        },
+        "68903ff87ed6c0b1": {
+            "hash": "68903ff87ed6c0b1",
+            "directory": "External13",
+            "voiceContent": "제가 신들을 판결할 거라는 사실은 절대 바뀌지 않을 겁니다. 황금의 신은 바위의 권능을 쟁취했으니 당연히 심판을 받아야 하지요. 저와 그 신이 싸울까 봐 걱정할 필요는 없습니다. 전 폰타인에 아주 오래 머물러야 하니까요. 400년이 넘도록 있어야 할지도 모르죠. 게다가 판결이 꼭 싸움으로 이어질 거라는 보장도 없습니다",
+            "sourceName": "vo_neuvillette_teammate_zhongli_01.wem"
+        },
+        "e78549ab2b06dabc": {
+            "hash": "e78549ab2b06dabc",
+            "directory": "External28",
+            "voiceContent": "천지가 뒤집혀도 찬탈자인 일곱 신을 향한 저의 심판은 계속될 겁니다. 미풍과 희망의 신은 바람의 권능을 받았으니, 똑같이 심판을 기다려야 하지요. 평소엔 그저 취객일 뿐이라 위험하지 않다고요? 그래도 일단 만나봐야겠습니다",
+            "sourceName": "vo_neuvillette_teammate_venti_01.wem"
+        },
+        "697ad361550b92ad": {
+            "hash": "697ad361550b92ad",
+            "directory": "External13",
+            "voiceContent": "완전한 용의 자격을 다시 얻은 잔존자로서, 바다의 모든 물을 하늘로 돌려보내는 한이 있어도 전 저의 맹세와 책임을 이행할 겁니다. 나루카미는 번개의 권능을 쟁취했으니 찬탈자 명단에 오르는 건 당연한 일입니다. 음, 지금은 마음의 정토에 틀어박혀서 거의 나오지 않는다고요? 그럼 몇백 년 뒤에 찾아가도록 하죠",
+            "sourceName": "vo_neuvillette_teammate_raidenShogun_01.wem"
+        },
+        "bc8ef98f27845b78": {
+            "hash": "bc8ef98f27845b78",
+            "directory": "External23",
+            "voiceContent": "공연이 아주 흥미롭더군요. 그게 바로 리니 씨와 리넷 씨의 마술 세계 아닐까요? 모든 게 가짜인 것 같지만, 믿기만 한다면 전부 진짜가 되는 거죠",
+            "sourceName": "vo_neuvillette_teammate_lyney&lynette_01.wem"
+        },
+        "45b3c63619ff7149": {
+            "hash": "45b3c63619ff7149",
+            "directory": "External8",
+            "voiceContent": "시그윈은 잘 지내고 있는지 모르겠군요. 만약 괴롭힘을 당했다면, 라이오슬리 씨를 폰타인성으로 불러와서 심문할 겁니다. 그야 시그윈은 아주 연약하고 상냥하니까요. 저번엔 사진기 필름을 갖고 돌아와서 나타의 물에 대한 저의 평가를 듣고 싶다고 했는데… 시그윈의 다음 휴가는 대체 언제죠?",
+            "sourceName": "vo_neuvillette_teammate_sigewinne_01.wem"
+        },
+        "1e95be1deb3c6c85": {
+            "hash": "1e95be1deb3c6c85",
+            "directory": "External3",
+            "voiceContent": "그녀의 「공연」이 마침내 막을 내렸군요. 「연기」는 상상의 산물이지만, 푸리나는 이를 통해 자신의 직책을 완수했죠…. 겁 많고 나약한 인간이 광기에 의존해 용감해지다니, 지금까지 정말 고생했다고 말하고 싶군요.기회가 되면 그녀의 무대를 위해 박수를 치고 싶습니다…. 예, 기회가 닿는다면요",
+            "sourceName": "vo_neuvillette_teammate_furina_01.wem"
+        },
+        "30dd1aabf920428d": {
+            "hash": "30dd1aabf920428d",
+            "directory": "External6",
+            "voiceContent": "언젠가 초목의 신을 심판하게 되더라도 그 책임감만큼은 인정합니다. 세상에 완벽한 건 없다지만, 그녀가 보인 헌신과 애정은 책임자로서의 끊임없는 발전을 증명했으니까요. 약 500년 동안 냉대를 받았다고 들었는데, 그 신이 겪은 일에 대해선 매우 유감입니다",
+            "sourceName": "vo_neuvillette_teammate_nahida_01.wem"
+        },
+        "c4e159c30474fb0b": {
+            "hash": "c4e159c30474fb0b",
+            "directory": "External24",
+            "voiceContent": "라이오슬리 씨는 확실히 믿을 만한 사람입니다. 그의 칭호와 명예 모두 제가 얻게 해줬죠. 제가 그의 언변과 아첨에 속아 넘어갔다고 생각하십니까? 이나즈마에는 「말을 아끼는 게 꽃」이라는 말이 있죠",
+            "sourceName": "vo_neuvillette_teammate_wriothesley_01.wem"
+        },
+        "727c396ae310668a": {
+            "hash": "727c396ae310668a",
+            "directory": "External14",
+            "voiceContent": "클로린드 씨는 뛰어난 실력으로 현임 결투 대리인 중에서도 최강자가 되었습니다. 그림자 사냥꾼 업계의 후계자인 클로린드 씨가 있다면 심판청의 공정함이 더욱 잘 보장되겠죠. 그리고 보기보다 인간적이랍니다",
+            "sourceName": "vo_neuvillette_teammate_clorinde_01.wem"
+        },
+        "41d839812ddaadab": {
+            "hash": "41d839812ddaadab",
+            "directory": "External8",
+            "voiceContent": "다른 사람과의 사적인 관계나 절차 밖의 협력은 최대한 피하고 있습니다. 하지만 당신은 품행이 믿을 만하고, 폰타인의 세력과 얽힌 것도 없으니 기꺼이 동행하도록 하죠",
+            "sourceName": "vo_neuvillette_friendship_01.wem"
+        },
+        "9862ab99e3004534": {
+            "hash": "9862ab99e3004534",
+            "directory": "External19",
+            "voiceContent": "이런 말은 사석에서만 가능하지, 공개된 장소에서는 절대 할 수 없습니다. 개인적으로 폰타의 유행이 뜬금없다고 생각하지만, 사람들이 왜 좋아하는지 이해는 합니다. 수분을 섭취하며 당분도 보충할 수 있고 가격도 저렴하니까요",
+            "sourceName": "vo_neuvillette_friendship_02.wem"
+        },
+        "f1aae5906740eb85": {
+            "hash": "f1aae5906740eb85",
+            "directory": "External30",
+            "voiceContent": "최근에 한 연극을 봤습니다. 죽은 부인이 자신의 매력과 악의적인 계략을 통해 마치 사라지지 않는 유령처럼 그녀가 살던 저택에 남아 맴도는 이야기였죠. 연기는 흠 잡을 데가 없었고 스토리도 훌륭했습니다. 보고 나니 현실 세계의 상황이 떠오르더군요",
+            "sourceName": "vo_neuvillette_friendship_03.wem"
+        },
+        "44ce57a91981a716": {
+            "hash": "44ce57a91981a716",
+            "directory": "External8",
+            "voiceContent": "이런저런 이유로 전 폰타인을 떠난 적이 많지 않습니다. 그래서 제가 맛본 세계 각지의 물은 현지에서 마신 게 아니라 전부 외지에서 공수해 온 거죠. 그래도 다양한 식수의 미세한 맛 차이쯤은 구분할 수 있습니다. 이렇게까지 말했는데도 못 믿으시겠습니까? 전 최고 심판관이니 거짓말은 안 합니다",
+            "sourceName": "vo_neuvillette_friendship_04.wem"
+        },
+        "f29db9a211937eff": {
+            "hash": "f29db9a211937eff",
+            "directory": "External30",
+            "voiceContent": "솔직히 골치 아픈 일이 종종 있긴 합니다. 앉을 때 옷자락을 밟거나, 가끔 머리카락이 눌리거나, 머리를 뒤로 기대면 의자 장식에 걸리기도 합니다. 최고 심판관의 위엄을 유지하기 위한 옷차림이니 불편은 당연히 감수해야겠죠. 세상일이 거의 다 그렇습니다. 신분을 받아들이고, 인내하고 이해하며 공존해야 하지요. 제가 늘 하는 일입니다",
+            "sourceName": "vo_neuvillette_friendship_05.wem"
+        },
+        "a70932bf25ba6305": {
+            "hash": "a70932bf25ba6305",
+            "directory": "External20",
+            "voiceContent": "물을 음미하는 것도 일종의 학문입니다. 불 원소로 가열한 물은 가장 기본적인 자연의 맛이고, 숯불로 끓인 물은 전원의 맛이 납니다. 마찬가지로 얼음 원소로 처리한 물은 특별할 것 없이 시원하기만 하지만, 스네즈나야의 얼음이 녹은 물은 완전히 다르지요",
+            "sourceName": "vo_neuvillette_pref_hobby.wem"
+        },
+        "5e430f368c02d78c": {
+            "hash": "5e430f368c02d78c",
+            "directory": "External11",
+            "voiceContent": "동물이 음식을 먹지 않으면 며칠은 살 수 있지만, 물이 없으면 얼마 못 버팁니다. 아무리 맛있는 음식도 깨끗한 물보다 못하지요. 그래서 국물이 많은 음식이 두 번째로 좋습니다",
+            "sourceName": "vo_neuvillette_pref_foodLike.wem"
+        },
+        "8d40165c6a12e188": {
+            "hash": "8d40165c6a12e188",
+            "directory": "External17",
+            "voiceContent": "튀김이나 소스 없이 구운 음식을 정말 먹을 수 있는 겁니까? 특히 수메르의 대추야자 숯탄 전병에 대해선 꼭 한마디 해야겠군요. 그건 위장에 방습제를 집어넣는 것과 다름없습니다",
+            "sourceName": "vo_neuvillette_pref_foodDislike.wem"
+        },
+        "d3d012d04cc66c6f": {
+            "hash": "d3d012d04cc66c6f",
+            "directory": "External26",
+            "voiceContent": "맛이 좋군요. 음식에서 가장 중요한 수분도 가득하고, 재료 손질도 잘하셨습니다",
+            "sourceName": "vo_neuvillette_spice_pref_01.wem"
+        },
+        "f5fee6a63a088e59": {
+            "hash": "f5fee6a63a088e59",
+            "directory": "External30",
+            "voiceContent": "나쁘지 않은 시도입니다. 다만 국물을 좀 더 추가하고 기름을 걷으면 더 좋을 것 같군요",
+            "sourceName": "vo_neuvillette_spice_normal_01.wem"
+        },
+        "d6541731a88140a7": {
+            "hash": "d6541731a88140a7",
+            "directory": "External26",
+            "voiceContent": "너무 뻑뻑하군요. 촉촉하지 않은 요리에서는 요리사의 마음이 느껴지지 않는 법입니다",
+            "sourceName": "vo_neuvillette_spice_dislike_01.wem"
+        },
+        "74520c793b01fd7e": {
+            "hash": "74520c793b01fd7e",
+            "directory": "External14",
+            "voiceContent": "오늘이 생일이군요. 축하합니다. 비가 올지 안 올지 모르겠지만, 제가 어떻게든 해결하겠습니다",
+            "sourceName": "vo_neuvillette_pref_birthday_01.wem"
+        },
+        "b33a6cea3b4dde10": {
+            "hash": "b33a6cea3b4dde10",
+            "directory": "External22",
+            "voiceContent": "이제 조금 익숙해졌군요. 당신의 움직임에 맞추겠습니다",
+            "sourceName": "vo_neuvillette_starUp_01.wem"
+        },
+        "888c5ad2c16d06f7": {
+            "hash": "888c5ad2c16d06f7",
+            "directory": "External17",
+            "voiceContent": "저의 진짜 실력을 좀 발휘해야겠군요. 당신이 이렇게 쉽게 위험에 빠질 줄은 몰랐습니다",
+            "sourceName": "vo_neuvillette_starUp_02.wem"
+        },
+        "0368f8db01e9b2ee": {
+            "hash": "0368f8db01e9b2ee",
+            "directory": "External0",
+            "voiceContent": "이 정도 실력을 갖추고 계셨던 겁니까? 진지하게 임하지 않으면 당신을 따라잡을 수 없겠군요",
+            "sourceName": "vo_neuvillette_starUp_03.wem"
+        },
+        "712326c07904289d": {
+            "hash": "712326c07904289d",
+            "directory": "External14",
+            "voiceContent": "찬탈자로부터 일곱 권능의 일부를 회수했습니다. 이게 제 본래 모습이죠. 「완전한 용」이 됐으니 이제 남은 신들도 심판할 수 있겠군요. 높은 하늘 위에 있는 찬탈자들의 왕을 심판하는 게 저의 운명이지만, 그전까지 힘을 빌려드리겠습니다",
+            "sourceName": "vo_neuvillette_starUp_04.wem"
+        },
+        "e0e77fd8274cfd02": {
+            "hash": "e0e77fd8274cfd02",
+            "directory": "External28",
+            "voiceContent": "전 멀쩡하니 걱정 마십시오",
+            "sourceName": "vo_neuvillette_life_less30_01.wem"
+        },
+        "3b589de0560de125": {
+            "hash": "3b589de0560de125",
+            "directory": "External7",
+            "voiceContent": "위험이 커지고 있지만 제겐 위협이 되지 않습니다",
+            "sourceName": "vo_neuvillette_life_less30_02.wem"
+        },
+        "90b9e3e760b2c154": {
+            "hash": "90b9e3e760b2c154",
+            "directory": "External18",
+            "voiceContent": "흠, 옷에 흠집이 난 것 같군요",
+            "sourceName": "vo_neuvillette_life_less30_03.wem"
+        },
+        "2ea660a7f9dd3a8a": {
+            "hash": "2ea660a7f9dd3a8a",
+            "directory": "External5",
+            "voiceContent": "만물이… 고요하군요…",
+            "sourceName": "vo_neuvillette_life_die_03.wem"
+        },
+        "7cdf19ed4740b0f0": {
+            "hash": "7cdf19ed4740b0f0",
+            "directory": "External15",
+            "voiceContent": "뜻밖의 결과군요…",
+            "sourceName": "vo_neuvillette_battle_hit_H_01.wem"
+        },
+        "fd7287d3595ed057": {
+            "hash": "fd7287d3595ed057",
+            "directory": "External31",
+            "voiceContent": "경솔했군요",
+            "sourceName": "vo_neuvillette_battle_hit_H_02.wem"
+        },
+        "ba545a3cbb2da399": {
+            "hash": "ba545a3cbb2da399",
+            "directory": "External23",
+            "voiceContent": "이런 말 하면 죄송하지만, 그때 본의 아니게 나비아 씨를 화나게 한 일도, 그분의 사과를 받은 일도, 그리고 지금 제가 느끼는 죄책감도 전부 멀게만 느껴집니다. 마치 호수에 가라앉아서 별을 보는 것처럼요. 고의로 그런 건 아니었습니다. 더 이상 만회할 기회도 없겠죠. 감정은 물처럼 스스로 빠르게 회복하고 잠잠해지지 않는 법이니까요",
+            "sourceName": "vo_neuvillette_teammate_navia_01.wem"
+        },
+        "43d3df3af8026c9d": {
+            "hash": "43d3df3af8026c9d",
+            "directory": "External8",
+            "voiceContent": "이건… 저를 암살하려는 계획의 일환입니까?",
+            "sourceName": "vo_neuvillette_weather_desert_01.wem"
+        },
+        "e247b1a6dbc18818": {
+            "hash": "e247b1a6dbc18818",
+            "directory": "External28",
+            "voiceContent": "규칙과 전승으로 심연을 물리친 것은 칭송할 만한 행위입니다. 그러나 그 힘은 용에게서 빼앗은 것이므로 씻을 수 없는 죄가 있는 것도 사실이죠. 다만 나타는 큰 피해를 입었으니 조급히 행동할 필요는 없을 듯합니다. 음, 사료에 따르면 그 전투는 정식적인 결투였으며, 스발란케 역시 피해자의 가족을 선대했다는 겁니까? 허무맹랑한 말입니다만, 일리가 없는 건 아니군요…",
+            "sourceName": "vo_neuvillette_teammate_mavuika_01.wem"
+        },
+        "ddc9d8fb78d73df6": {
+            "hash": "ddc9d8fb78d73df6",
+            "directory": "External27",
+            "voiceContent": "제가 관찰한 결과, 인간은 늘 자연과 대립하더군요. 이렇게 말하면 인간도 자연의 일부라고 주장하는 사람이 있을 겁니다. 하지만 일부 진실을 아는 제가 보기에 인류 문명 세계와 이 별의 자연은 서로 공존하는 법을 찾아야 할 겁니다",
+            "sourceName": "vo_neuvillette_pref_gift_02.wem"
+        },
+        "38ea156dae3f944f": {
+            "hash": "38ea156dae3f944f",
+            "directory": "External7",
+            "voiceContent": "입이 닳도록 얘기한 화제군요. 저를 인간의 범주에서 제외하려는 건 아닙니다만, 생각해 보십시오. 「정의」, 「공정」, 「평등」, 「법률」, 이 개념들은 서로 동등할 수 없습니다. 물은 「공평」하다는 본성을 지녔고, 전대 물의 신 에게리아는 모든 생명을 사랑으로 연결 지어 평등을 이루려고 했죠. 그리고 지금의 신은 평등한 「법률」을 추구하기로 했고, 각종 외부 요인으로 인해 「심판」만을 좇는 안타까운 결과를 낳았지만, 이유가 있어서 그런 거니 비난해선 안 되겠지요",
+            "sourceName": "vo_neuvillette_dialog_idle3.wem"
+        },
+        "f487ce14ecf9d3a2": {
+            "hash": "f487ce14ecf9d3a2",
+            "directory": "External30",
+            "voiceContent": "전 종종 비를 맞는 상상을 합니다. 아, 오해 마십시오. 스트레스가 심해서 그런 건 아닙니다",
+            "sourceName": "vo_neuvillette_dialog_share_02.wem"
+        },
+        "69f4973259904270": {
+            "hash": "69f4973259904270",
+            "directory": "External13",
+            "voiceContent": "비 오는 날에 우산을 안 쓰면 이상해 보일까요…?",
+            "sourceName": "vo_neuvillette_dialog_annoyed_01.wem"
+        },
+        "5c16bccef923863b": {
+            "hash": "5c16bccef923863b",
+            "directory": "External11",
+            "voiceContent": "안녕하십니까, 전 폰타인의 최고 심판관입니다. 호칭은 성씨인 느비예트로 불러주십시오. 일부러 당신과 거리를 두는 건 아닙니다. 다만 너무 가까워 보이면 사법 체제의 불공정함을 의심받을 수 있으니까요.저에게 하실 부탁이 있다면——아 물론, 합법적인 부탁이라면, 교영 마을에서 운송된 물을 음미하며 앉아서 얘기를 나눠보죠",
+            "sourceName": "vo_neuvillette_draw_appear_01.wem"
+        },
+        "d1f8e5c0c769d31f": {
+            "hash": "d1f8e5c0c769d31f",
+            "directory": "External26",
+            "voiceContent": "네? 가장 오래된 일곱 신 중에서도 가짜 유리구슬을 차고 인간 세상을 돌아다니는 자들이 있단 말입니까? 푸흡, 하하하… 실례합니다. 좀 웃겨서 그만",
+            "sourceName": "vo_neuvillette_dialog_pendant_02.wem"
+        },
+        "792d2d0c2dfc7593": {
+            "hash": "792d2d0c2dfc7593",
+            "directory": "External15",
+            "voiceContent": "이견 없는 한 수군요",
+            "sourceName": "vo_card_neuvillette_inGame_easy_02.wem"
+        },
+        "f440fb146ea8b58a": {
+            "hash": "f440fb146ea8b58a",
+            "directory": "External30",
+            "voiceContent": "심사숙고해야겠군요",
+            "sourceName": "vo_card_neuvillette_inGame_easy_03.wem"
+        },
+        "aff45e89b6f143c6": {
+            "hash": "aff45e89b6f143c6",
+            "directory": "External21",
+            "voiceContent": "지금부터 반박해 보겠습니다",
+            "sourceName": "vo_card_neuvillette_inGame_hard_04.wem"
+        },
+        "0387f27a806e9b24": {
+            "hash": "0387f27a806e9b24",
+            "directory": "External0",
+            "voiceContent": "음, 큰 문제는 아니군요",
+            "sourceName": "vo_card_neuvillette_inGame_hard_02.wem"
+        },
+        "0ed8ff26b9c528fc": {
+            "hash": "0ed8ff26b9c528fc",
+            "directory": "External1",
+            "voiceContent": "양해 바랍니다",
+            "sourceName": "vo_card_neuvillette_inGame_easy_01.wem"
+        },
+        "857c2c723d3dc4b5": {
+            "hash": "857c2c723d3dc4b5",
+            "directory": "External16",
+            "voiceContent": "…큰 실수를 해버렸군요",
+            "sourceName": "vo_card_neuvillette_inGame_hard_03.wem"
+        },
+        "1580793e1edb0a41": {
+            "hash": "1580793e1edb0a41",
+            "directory": "External2",
+            "voiceContent": "다음은 제가 진술하겠습니다",
+            "sourceName": "vo_card_neuvillette_inGame_easy_04.wem"
+        },
+        "8452406092bbc69b": {
+            "hash": "8452406092bbc69b",
+            "directory": "External16",
+            "voiceContent": "죄송합니다",
+            "sourceName": "vo_card_neuvillette_inGame_hard_01.wem"
+        }
+    }
+}

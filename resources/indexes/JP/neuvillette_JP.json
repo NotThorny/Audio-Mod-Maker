@@ -1,0 +1,535 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "8d3db51cc143b949": {
+            "hash": "8d3db51cc143b949",
+            "directory": "External17",
+            "voiceContent": "今回の噴出災害は、かすかな兆候にすぎない。災難をもたらした元凶を探さねば。",
+            "sourceName": "vo_FDAQ308_7_neuvillette_01.wem"
+        },
+        "8b6689aa0c97ab91": {
+            "hash": "8b6689aa0c97ab91",
+            "directory": "External17",
+            "voiceContent": "あれの悲しみが、敵意に変わっていくのをひしと感じる…",
+            "sourceName": "vo_FDAQ306_12_neuvillette_10.wem"
+        },
+        "defb1d9ad616b6f7": {
+            "hash": "defb1d9ad616b6f7",
+            "directory": "External27",
+            "voiceContent": "すでに加護を与えたゆえ、心配するな。機会をつかみ取り、私の力を使って内部からやつの「根源」を制圧してくれたまえ。",
+            "sourceName": "vo_FDAQ306_12_neuvillette_12.wem"
+        },
+        "59d7bba3169362ee": {
+            "hash": "59d7bba3169362ee",
+            "directory": "External11",
+            "voiceContent": "ここより、古龍の権能を顕そう。胎海の力をとくと見るがいい。",
+            "sourceName": "vo_FDAQ306_12_neuvillette_13.wem"
+        },
+        "09a92fb24ff78e10": {
+            "hash": "09a92fb24ff78e10",
+            "directory": "External1",
+            "voiceContent": "呑星の鯨は、「呑み込みたい」という本能に抗うことができない。引き続きやつの敵意を刺激すれば、機会は訪れるだろう…",
+            "sourceName": "vo_FDAQ306_12_neuvillette_11.wem"
+        }
+    },
+    "Gameplay": {
+        "7d40bdbfbbed1dbf": {
+            "hash": "7d40bdbfbbed1dbf",
+            "directory": "External15",
+            "voiceContent": "静粛に！",
+            "sourceName": "vo_neuvillette_battle_skill1_01.wem"
+        },
+        "ba922fd7d0a445b8": {
+            "hash": "ba922fd7d0a445b8",
+            "directory": "External23",
+            "voiceContent": "頭を垂れろ。",
+            "sourceName": "vo_neuvillette_battle_skill1_02.wem"
+        },
+        "3fb589cf90278c39": {
+            "hash": "3fb589cf90278c39",
+            "directory": "External7",
+            "voiceContent": "騒ぐな。",
+            "sourceName": "vo_neuvillette_battle_skill1_03.wem"
+        },
+        "40ac5c0c9276001d": {
+            "hash": "40ac5c0c9276001d",
+            "directory": "External8",
+            "voiceContent": "海よ、私は帰ってきた。",
+            "sourceName": "vo_neuvillette_battle_skill3_01.wem"
+        },
+        "e3413e04612d121a": {
+            "hash": "e3413e04612d121a",
+            "directory": "External28",
+            "voiceContent": "泡沫となるがいい。",
+            "sourceName": "vo_neuvillette_battle_skill3_02.wem"
+        },
+        "90d9effd59102f63": {
+            "hash": "90d9effd59102f63",
+            "directory": "External18",
+            "voiceContent": "高き者を、私は蔑む。",
+            "sourceName": "vo_neuvillette_battle_skill3_03.wem"
+        },
+        "a3cd7a3f0376a774": {
+            "hash": "a3cd7a3f0376a774",
+            "directory": "External20",
+            "voiceContent": "主なきそれを初めて見つけたのが君であれば、それは君のものだ。うむ…法律上、問題はない。",
+            "sourceName": "vo_neuvillette_chest_open_01.wem"
+        },
+        "50aa08265135ebeb": {
+            "hash": "50aa08265135ebeb",
+            "directory": "External10",
+            "voiceContent": "悪くない代物か？少なくとも、開けた瞬間の期待感は、心地良いものだったのだろう。",
+            "sourceName": "vo_neuvillette_chest_open_02.wem"
+        },
+        "a2a4962d58f669a2": {
+            "hash": "a2a4962d58f669a2",
+            "directory": "External20",
+            "voiceContent": "口約束ですまないが、これを君に譲渡しよう。",
+            "sourceName": "vo_neuvillette_chest_open_03.wem"
+        },
+        "808168874a678f94": {
+            "hash": "808168874a678f94",
+            "directory": "External16",
+            "voiceContent": "ここは私に。",
+            "sourceName": "vo_neuvillette_life_less30_teammate_01.wem"
+        },
+        "2d5cf66e9825210b": {
+            "hash": "2d5cf66e9825210b",
+            "directory": "External5",
+            "voiceContent": "君は先に休むといい。",
+            "sourceName": "vo_neuvillette_life_less30_teammate_02.wem"
+        },
+        "b40ab0ac9023ec71": {
+            "hash": "b40ab0ac9023ec71",
+            "directory": "External22",
+            "voiceContent": "潮が再び満ちる時、私は帰ってくる…",
+            "sourceName": "vo_neuvillette_life_die_01.wem"
+        },
+        "312362a32901c34e": {
+            "hash": "312362a32901c34e",
+            "directory": "External6",
+            "voiceContent": "見えた…私が誕生する前の、温かな海が…",
+            "sourceName": "vo_neuvillette_life_die_02.wem"
+        },
+        "f0418ee780a4a3c1": {
+            "hash": "f0418ee780a4a3c1",
+            "directory": "External30",
+            "voiceContent": "同行の招待に…うむ、感謝しよう。",
+            "sourceName": "vo_neuvillette_teamJoin_01.wem"
+        },
+        "960680df52116a1e": {
+            "hash": "960680df52116a1e",
+            "directory": "External18",
+            "voiceContent": "喜んで。",
+            "sourceName": "vo_neuvillette_teamJoin_02.wem"
+        },
+        "43d522d84a21fb27": {
+            "hash": "43d522d84a21fb27",
+            "directory": "External8",
+            "voiceContent": "共に少し、水辺を歩こう。",
+            "sourceName": "vo_neuvillette_teamJoin_03.wem"
+        },
+        "83b724979f1fe1ae": {
+            "hash": "83b724979f1fe1ae",
+            "directory": "External16",
+            "voiceContent": "私は、自身の仕事の価値とフォンテーヌの人々が為すことの意義を認めている。自分の責任を、誇りに思っているのだ。",
+            "sourceName": "vo_neuvillette_character_idle_01.wem"
+        },
+        "b1e0f29e9242b551": {
+            "hash": "b1e0f29e9242b551",
+            "directory": "External22",
+            "voiceContent": "水の味は、実に幽遠な趣を持つ——モンドの水は清く澄んでいて、璃月の水は後味が長く続く。稲妻の水は深みがあり、スメールの水は複雑で、じっくりと舌で味わう必要があるのだ。",
+            "sourceName": "vo_neuvillette_character_idle_02.wem"
+        },
+        "302398a6d5a297d0": {
+            "hash": "302398a6d5a297d0",
+            "directory": "External6",
+            "voiceContent": "メリュジーヌはフォンテーヌが誇る美しき生命体だ。彼女らとは良い関係を築くといい。決して、傷つけたりしないように。",
+            "sourceName": "vo_neuvillette_character_idle_03.wem"
+        },
+        "827ffaf7e0a6ed78": {
+            "hash": "827ffaf7e0a6ed78",
+            "directory": "External16",
+            "voiceContent": "おっと、すまない。これほどの大雨は、君からすると厄介なものだったな…",
+            "sourceName": "vo_neuvillette_weather_heavyRain_01.wem"
+        },
+        "9fac042a9d5022dd": {
+            "hash": "9fac042a9d5022dd",
+            "directory": "External19",
+            "voiceContent": "止んでしまったか…",
+            "sourceName": "vo_neuvillette_weather_afterRain_01.wem"
+        },
+        "76496fe333d46eba": {
+            "hash": "76496fe333d46eba",
+            "directory": "External14",
+            "voiceContent": "このような天気の日は、室内の窓辺で過ごすのが最適だ。うむ、日差しを堪能しよう。",
+            "sourceName": "vo_neuvillette_weather_sunny_01.wem"
+        },
+        "010e427a271603fb": {
+            "hash": "010e427a271603fb",
+            "directory": "External0",
+            "voiceContent": "たしか君たちの間には、青天の霹靂という言葉があったか？私からすれば、今がそのような感覚だ。",
+            "sourceName": "vo_neuvillette_weather_thunder_01.wem"
+        },
+        "9345c08111c3418f": {
+            "hash": "9345c08111c3418f",
+            "directory": "External18",
+            "voiceContent": "雪とは、元より水の自浄手段だ。しかし人間の行いにより、雪はそう清潔なものではなくなった。口にするのはやめたほうがいい。",
+            "sourceName": "vo_neuvillette_weather_snowy_01.wem"
+        },
+        "71436210aa22d122": {
+            "hash": "71436210aa22d122",
+            "directory": "External14",
+            "voiceContent": "おはよう。善き一日になることを祈る。",
+            "sourceName": "vo_neuvillette_dialog_greetingMorning.wem"
+        },
+        "6db67897c41c09de": {
+            "hash": "6db67897c41c09de",
+            "directory": "External13",
+            "voiceContent": "ごきげんよう。紅茶やコーヒーの時間を楽しみにしていることだろう。かくいう私もだ。",
+            "sourceName": "vo_neuvillette_dialog_greetingNoon.wem"
+        },
+        "a693a96c5ddf4e68": {
+            "hash": "a693a96c5ddf4e68",
+            "directory": "External20",
+            "voiceContent": "こんばんは。今日の君が、胸を痛める出来事に遭遇していないことを祈ろう。",
+            "sourceName": "vo_neuvillette_dialog_greetingNight.wem"
+        },
+        "c01e077b4278df98": {
+            "hash": "c01e077b4278df98",
+            "directory": "External24",
+            "voiceContent": "おやすみ。私にとって、静かな水面は美しさの表れだ。今宵、夢なき眠りに君が落ちることを祈ろう。如何なる夢のさざ波にも、気持ちを乱されず済むように。",
+            "sourceName": "vo_neuvillette_dialog_greetingNight2.wem"
+        },
+        "c5f00bb320f9e93f": {
+            "hash": "c5f00bb320f9e93f",
+            "directory": "External24",
+            "voiceContent": "私は何も、熱狂的な審判愛好者ではない。「審判」は私の責務であり、委任された目的なのだ。",
+            "sourceName": "vo_neuvillette_dialog_idle.wem"
+        },
+        "10a18448e775d6f1": {
+            "hash": "10a18448e775d6f1",
+            "directory": "External2",
+            "voiceContent": "君もフォンテーヌのあの民謡を聞いたことがあるのか？はぁ、一体誰から聞き、誰が広めている…いや、何でもない。水龍が泣くことはないと思うがな。彼はただ、大地の心に集う涙とすべての感情に触れ、心を動かされただけだ。",
+            "sourceName": "vo_neuvillette_dialog_idle2.wem"
+        },
+        "e35c33c8a2e566a8": {
+            "hash": "e35c33c8a2e566a8",
+            "directory": "External28",
+            "voiceContent": "フォンテーヌの民との長き付き合い、そして君との同行…これらにより、私の考えはとうに改まっている。それに、私はもう人の罪を赦した。今ここに君と約束しよう——今後の審判において、決して一般人には危害を加えない。ただ…私と僭主には、未だに清算されていない怨念と、償われていない血の仇がある。",
+            "sourceName": "vo_neuvillette_dialog_close1.wem"
+        },
+        "19d235d9ec4d4585": {
+            "hash": "19d235d9ec4d4585",
+            "directory": "External3",
+            "voiceContent": "君は天地の外の者だ。この倒錯した世界に対する私の審判は、君が見届けるといい。「天父が統べるべきだった国は、今や雉が王座に就いている。すでに錯乱と逸脱に蝕まれし時代——我は天地を正すために生まれた」。",
+            "sourceName": "vo_neuvillette_dialog_close.wem"
+        },
+        "0bec4f462dc0f41d": {
+            "hash": "0bec4f462dc0f41d",
+            "directory": "External1",
+            "voiceContent": "かつて、危急の事態に備えるためにも、偽のガラス玉を身に付けるようアドバイスされたことがある。正直、その提案は少々不愉快に感じた。自身の力を行使するのに、偽りの仮面で取り繕うなど…だが、神の目を持つ者との長い付き合いで、彼らの「渇望」と「意志」が貴重なものであると、私も理解した。",
+            "sourceName": "vo_neuvillette_dialog_pendant_01.wem"
+        },
+        "f956e25801571870": {
+            "hash": "f956e25801571870",
+            "directory": "External31",
+            "voiceContent": "確かにフォンテーヌには、珍しい法律が数多くある。例えば「月始めの三日間は飛行物体を放ってはいけない」、「乾季に座礁した二枚貝はすべて水神のものであり、巻貝は民のものとする」、「ペットの名に『フリーナ』とつけてはいけない」、「食堂やレストランでケチャップのみを食べるのはいけない」、「メリュジーヌに対しては物を指す代名詞ではなく、人を指す『彼女』を使う」…最後の一条は私が推し進めたものだ。",
+            "sourceName": "vo_neuvillette_dialog_share_01.wem"
+        },
+        "cdf0d954a8bb7652": {
+            "hash": "cdf0d954a8bb7652",
+            "directory": "External25",
+            "voiceContent": "あれらは原海と同じ直系であるゆえ、進化に長けている。かつて、龍の間にはこのような風習があった——我らは夭逝した族の血をすすった。月と星の運行が潮汐を乱す時、我ら水族の体内にある水は上へと昇り、逝去した族人の復活を知る。",
+            "sourceName": "vo_neuvillette_pref_gift_01.wem"
+        },
+        "f7bee68a17d641a8": {
+            "hash": "f7bee68a17d641a8",
+            "directory": "External30",
+            "voiceContent": "私は神々を裁く、これは何者にも変えられない。岩の大権を勝ち取った貴金の神も、当然ながら裁かれる側だ。もし、我らの争いを見たくない者がいたとしても、心配する必要はない。私はまだ、フォンテーヌに居続ける必要がある。その訪れが四百年以上先になることだってあり得るだろう。それに最終的な裁決が、必ずしも武力戦争に繋がるとは限らない。",
+            "sourceName": "vo_neuvillette_teammate_zhongli_01.wem"
+        },
+        "0bcf96222f0fac99": {
+            "hash": "0bcf96222f0fac99",
+            "directory": "External1",
+            "voiceContent": "たとえ天地がひっくり返ろうとも、七神に対する私の裁きを止めることはできない。そよ風と希望の神は風の大権を得たが、彼もまた審判を受ける必要がある…ほとんどただの酔っぱらいで、もう危険性はない、と？ふむ、まずは会ってみなければな。",
+            "sourceName": "vo_neuvillette_teammate_venti_01.wem"
+        },
+        "426c48e9fc7a95c2": {
+            "hash": "426c48e9fc7a95c2",
+            "directory": "External8",
+            "voiceContent": "龍の力をすべて取り戻した生き残りとして、たとえ一切の海水が天に逆行させられようとも、私は「誓い」と「責任」を果たさなければならない。鳴神は雷の大権を勝ち取ったゆえ、僭主の列に名を刻むことになる。ふむ…彼女は今、一心浄土に閉じこもっていて、滅多に姿を現さないと？では、数百年後に会いに行ってみるとしよう。",
+            "sourceName": "vo_neuvillette_teammate_raidenShogun_01.wem"
+        },
+        "b0b88d056e8035b1": {
+            "hash": "b0b88d056e8035b1",
+            "directory": "External22",
+            "voiceContent": "あの公演はとても愉しませてもらった、君もそうだろう？あれがリネ君とリネット君が魅せるマジックの世界だ——驚くほどすべてがまやかしではあるが、信じる心を持てば如何なることも叶ってしまう。",
+            "sourceName": "vo_neuvillette_teammate_lyney&lynette_01.wem"
+        },
+        "dd2a84bf48ed5ee0": {
+            "hash": "dd2a84bf48ed5ee0",
+            "directory": "External27",
+            "voiceContent": "シグウィンは息災だろうか。もし仮にあの子が虐げられるようなことがあれば、リオセスリ殿を必ず街まで呼び、事の真相を問い詰めよう。あの子はとてもナイーブで、とても優しい。この前帰ってきた時には、写真を手にしながら「ナタの水だけど、またレビューを聞かせて」と言ってくれた…あの子の次の休みまで、あと何日待てばいいのだろうか。",
+            "sourceName": "vo_neuvillette_teammate_sigewinne_01.wem"
+        },
+        "d79aad1bff8b548e": {
+            "hash": "d79aad1bff8b548e",
+            "directory": "External26",
+            "voiceContent": "今こうして、彼女の「公演」はついに幕を閉じた。「パフォーマンス」とは想像から生み出されるものだが、フリーナはそれをもってして自らの責務を果たしたのだ…臆病な者が狂気を用いて自らを勇敢にする——今まで実にご苦労であった。機会があれば、彼女の舞台に拍手を送りたい…うむ、機会が出来次第、そうするとしよう。",
+            "sourceName": "vo_neuvillette_teammate_furina_01.wem"
+        },
+        "e6609a981efd48f6": {
+            "hash": "e6609a981efd48f6",
+            "directory": "External28",
+            "voiceContent": "たとえ将来、彼女を審判する日が訪れようとも、草木の神が持つ責任感は認めよう。この世に完璧な人間や事柄はほぼ存在し得ない。だが、あの神の「傾倒」と「寵愛」は、責任を担う者が前へと進み続けてきたことを証明している。彼女は約五百年もの間、冷遇され続けたと聞いた。彼女が置かれてきた環境は実に遺憾に思う。",
+            "sourceName": "vo_neuvillette_teammate_nahida_01.wem"
+        },
+        "716fb8a4106fde0e": {
+            "hash": "716fb8a4106fde0e",
+            "directory": "External14",
+            "voiceContent": "リオセスリ殿は確かに信頼に足る男だ。そして彼の肩書きと名誉は、いずれも私が与えたものになる。彼の話術と出世への策に、私がまんまと嵌ったと思っているのではないか？だが稲妻には…「言わぬが花」ということわざがある。",
+            "sourceName": "vo_neuvillette_teammate_wriothesley_01.wem"
+        },
+        "bdce7caa73a27b11": {
+            "hash": "bdce7caa73a27b11",
+            "directory": "External23",
+            "voiceContent": "その卓越した実力によって、クロリンデは現在いる決闘代理人の中で頂点に立つ存在となった。彼女はファントムハンターの後継者であり、彼女がいることで法廷の正義はより確固たるものになる。そして、彼女は見た目よりも些か人情を重んじるタイプだ。",
+            "sourceName": "vo_neuvillette_teammate_clorinde_01.wem"
+        },
+        "58ac9c6baa7d15a2": {
+            "hash": "58ac9c6baa7d15a2",
+            "directory": "External11",
+            "voiceContent": "他人との個人的な付き合いや、必要なプロセスから外れた協力は極力避けるようにしている。だが、君の人柄は信頼に足るものであり、フォンテーヌの勢力と何の由縁もない。喜んで同行させてもらおう。",
+            "sourceName": "vo_neuvillette_friendship_01.wem"
+        },
+        "b31dba73d93df9c5": {
+            "hash": "b31dba73d93df9c5",
+            "directory": "External22",
+            "voiceContent": "これは内々にしか話せず、公にはできない類の考えなのだが…フォンタがこれほどまでに人気を博しているのは、私からすると些か不可解なことなのだ。だが、好きな人がいるのを理解できないわけでもない——水分を補給しながら糖分を摂取できる上に、値段も手頃だからな。",
+            "sourceName": "vo_neuvillette_friendship_02.wem"
+        },
+        "59d5807d54fd5374": {
+            "hash": "59d5807d54fd5374",
+            "directory": "External11",
+            "voiceContent": "最近、ある劇を観た——亡くなった婦人がそのカリスマ性と悪意ある采配を持ってして、まるで振り払うことができない亡霊のように、自分が去った後の豪邸を今なお覆っている——というものだ。役者は申し分なく、ストーリーも非の打ち所がない。そして、この世界の現状について、考えさせられるものであった。",
+            "sourceName": "vo_neuvillette_friendship_03.wem"
+        },
+        "b7778e858675683f": {
+            "hash": "b7778e858675683f",
+            "directory": "External22",
+            "voiceContent": "諸事情により、フォンテーヌを離れた回数は指で数えられるほどしかない。それゆえ、私が味わった名水は世界各地のものでありながら、いずれも自ら現地に足を運んで飲んだものではないのだ。だが、それぞれの飲み水が持つ微妙な味の違いは、無論区別できる…ん？ここまで言っても、まだ私を信じないと？私は最高審判官だ、嘘はつかん。",
+            "sourceName": "vo_neuvillette_friendship_04.wem"
+        },
+        "09a82c8c8e639156": {
+            "hash": "09a82c8c8e639156",
+            "directory": "External1",
+            "voiceContent": "座った時に裾を踏んだり、たまに髪が乱れたり、背もたれに寄りかかると椅子の装飾に頭が引っかかったりなど…しばし、困ったことに遭遇する。だが、最高審判官の威厳を保つために、このような身なりをしているのだ。ゆえに、それがもたらす煩わしさにも耐えなければならない。そして、この世の大半がその道理に通じている——身分を受け入れ、それに耐え、理解し、共存していく…私はまさにそうしてきた。",
+            "sourceName": "vo_neuvillette_friendship_05.wem"
+        },
+        "2c3ac04573de449e": {
+            "hash": "2c3ac04573de449e",
+            "directory": "External5",
+            "voiceContent": "水を味わうことは、一種の学問と言える。炎元素で熱した水の味は自然界において最も標準となる味であり、木炭で煮沸した水は田畑の味がする。同様に、氷元素で処理した水は平淡な清冽さを持つ。これはスネージナヤの積氷が溶けた水とは、全く異なるものだ。",
+            "sourceName": "vo_neuvillette_pref_hobby.wem"
+        },
+        "038ca035cfdb40e1": {
+            "hash": "038ca035cfdb40e1",
+            "directory": "External0",
+            "voiceContent": "動物は何も食わずに数日生きられるが、水となると話は違う。どんな美食であろうとも、清く澄んだ水に敵うことはない。ゆえに、二番目に好んでいるものは汁気の多い食べ物だ。",
+            "sourceName": "vo_neuvillette_pref_foodLike.wem"
+        },
+        "ee19a757034c6c83": {
+            "hash": "ee19a757034c6c83",
+            "directory": "External29",
+            "voiceContent": "揚げ物や、タレを付けずに焼いたものをなぜ口にできる？取り分けその中でも、スメールのデーツナンは名指しで批判したいくらいだ。胃に乾燥剤を詰め込むのと同じようなものではないか。",
+            "sourceName": "vo_neuvillette_pref_foodDislike.wem"
+        },
+        "907cff25147a052e": {
+            "hash": "907cff25147a052e",
+            "directory": "External18",
+            "voiceContent": "美味だ。料理において最も重要なのは溢れ出る汁気。それも、良く調理されているようだ。",
+            "sourceName": "vo_neuvillette_spice_pref_01.wem"
+        },
+        "f19420e0a2fd9d54": {
+            "hash": "f19420e0a2fd9d54",
+            "directory": "External30",
+            "voiceContent": "悪くない試みだ。ただ、もう少し出汁を加え、脂を抜けばより良くなるだろう。",
+            "sourceName": "vo_neuvillette_spice_normal_01.wem"
+        },
+        "35d562b7f7e06938": {
+            "hash": "35d562b7f7e06938",
+            "directory": "External6",
+            "voiceContent": "少しパサパサしすぎている。汁気に欠ける料理は、料理人の気持ちも味わうことができない。",
+            "sourceName": "vo_neuvillette_spice_dislike_01.wem"
+        },
+        "3106baef4c2f030d": {
+            "hash": "3106baef4c2f030d",
+            "directory": "External6",
+            "voiceContent": "ふむ、今日は君の誕生日か、おめでとう。雨が降るかどうか分からないが…何とかしよう。",
+            "sourceName": "vo_neuvillette_pref_birthday_01.wem"
+        },
+        "c95ac2060908f20d": {
+            "hash": "c95ac2060908f20d",
+            "directory": "External25",
+            "voiceContent": "少し慣れてきた。君の動きに合わせよう。",
+            "sourceName": "vo_neuvillette_starUp_01.wem"
+        },
+        "4344a3fc9f33340a": {
+            "hash": "4344a3fc9f33340a",
+            "directory": "External8",
+            "voiceContent": "君がこうも簡単に危機に陥るとは…どうやら、真の力を発揮せねばならないようだ。",
+            "sourceName": "vo_neuvillette_starUp_02.wem"
+        },
+        "c830d5f45e86f413": {
+            "hash": "c830d5f45e86f413",
+            "directory": "External25",
+            "voiceContent": "君の実力がこれほどのものだったとはな。私も本気を出さなければついて行けないようだ。",
+            "sourceName": "vo_neuvillette_starUp_03.wem"
+        },
+        "0b72482fcb5314c0": {
+            "hash": "0b72482fcb5314c0",
+            "directory": "External1",
+            "voiceContent": "七つの大権の一角を、僭主から取り戻した姿が本来の私だ。この身は既に「完全なる龍」であり、他の神々に審判を下すのに十分な存在となった。私の運命は、高天に座す僭位の王を裁くことになる。だがそれまでは、この力を君に貸しておくとしよう。",
+            "sourceName": "vo_neuvillette_starUp_04.wem"
+        },
+        "6c41d934edc7c1ed": {
+            "hash": "6c41d934edc7c1ed",
+            "directory": "External13",
+            "voiceContent": "差し支えない、心配無用だ。",
+            "sourceName": "vo_neuvillette_life_less30_01.wem"
+        },
+        "3e4f3b2dfad4826a": {
+            "hash": "3e4f3b2dfad4826a",
+            "directory": "External7",
+            "voiceContent": "リスクは上がっているが、支障ない。",
+            "sourceName": "vo_neuvillette_life_less30_02.wem"
+        },
+        "bfd66d25b746cc73": {
+            "hash": "bfd66d25b746cc73",
+            "directory": "External23",
+            "voiceContent": "ふんっ、服が傷んだか。",
+            "sourceName": "vo_neuvillette_life_less30_03.wem"
+        },
+        "b2e0c49ae5a1ee57": {
+            "hash": "b2e0c49ae5a1ee57",
+            "directory": "External22",
+            "voiceContent": "全てが…静寂に…",
+            "sourceName": "vo_neuvillette_life_die_03.wem"
+        },
+        "65012660b42703f1": {
+            "hash": "65012660b42703f1",
+            "directory": "External12",
+            "voiceContent": "そう来るか…",
+            "sourceName": "vo_neuvillette_battle_hit_H_01.wem"
+        },
+        "e219d8574d04dace": {
+            "hash": "e219d8574d04dace",
+            "directory": "External28",
+            "voiceContent": "油断した。",
+            "sourceName": "vo_neuvillette_battle_hit_H_02.wem"
+        },
+        "94cc667c0b0f2844": {
+            "hash": "94cc667c0b0f2844",
+            "directory": "External18",
+            "voiceContent": "このようなことを言うのは忍びないが…あの時、意図せず彼女の怒りを買ってしまったことや、彼女の謝罪を受け入れたこと、それから私がいま抱いている罪悪感、それらすべてが遠くのものであるように感じるのだ——まるで湖の底に沈み、そこから星空を眺めているかのようにな…私はそのようなつもりは毛頭なかったし、埋め合わせの機会がそう滅多に巡ってこないことも重々承知している。感情は水とは異なり、すぐに修復し、落ち着きを取り戻せるものではないからな。",
+            "sourceName": "vo_neuvillette_teammate_navia_01.wem"
+        },
+        "e36366838046a504": {
+            "hash": "e36366838046a504",
+            "directory": "External28",
+            "voiceContent": "これは…私の抹殺計画の一環か？",
+            "sourceName": "vo_neuvillette_weather_desert_01.wem"
+        },
+        "7004ecbe908ba971": {
+            "hash": "7004ecbe908ba971",
+            "directory": "External14",
+            "voiceContent": "ルールと意志の伝承によりアビスを撃退したことは、称賛に値する快挙だ。しかし、その力が龍族から奪ったものであるという罪から逃れることはできない。だが、大戦を終えたばかりのナタに今すぐ赴く必要もなかろう。ん？文献によると、あの戦いは正式な決闘とみなされるべきだと？それに、シュバランケも被害者の血筋に優しく接したと？訳の分からない理屈だが、一理ありそうだな…",
+            "sourceName": "vo_neuvillette_teammate_mavuika_01.wem"
+        },
+        "510e375e100b49b5": {
+            "hash": "510e375e100b49b5",
+            "directory": "External10",
+            "voiceContent": "私の観察からして、人は己と自然を対立させたがる。人も自然の一部だと言う者もいるが、少しばかり真相を知る私からすれば、人間の文明世界とこの星の自然は、共存の道を探す必要があるように思う。",
+            "sourceName": "vo_neuvillette_pref_gift_02.wem"
+        },
+        "8ee42a512ad5b970": {
+            "hash": "8ee42a512ad5b970",
+            "directory": "External17",
+            "voiceContent": "これはすでに議論され尽くしている話題だ。私は自分を人間と無関係な立場に置くつもりはないが…「正義」、「公平」、「平等」、「法律」、これらの概念は互いに等しくあることはできない。水は元より「清きこと水の如し」という本質を持つ。先代水神のエゲリアは、衆生を愛で繋ぎ、平等を実現しようとした。今の神は、平等な「法律」を選んだが、結局は様々な外的要因によって歪められ、すべては「審判」のために——という残念な結果を生んでしまっている。だが、これには他にも理由があるゆえ、非難すべきではないのだが…",
+            "sourceName": "vo_neuvillette_dialog_idle3.wem"
+        },
+        "79ea503e137537d7": {
+            "hash": "79ea503e137537d7",
+            "directory": "External15",
+            "voiceContent": "いつになれば雨を浴びられるのだろうかと——常々そう考えている。おっと、誤解しないでくれ、別にストレスを溜めてはいない。",
+            "sourceName": "vo_neuvillette_dialog_share_02.wem"
+        },
+        "86d08dcd3b38fae1": {
+            "hash": "86d08dcd3b38fae1",
+            "directory": "External16",
+            "voiceContent": "雨の日に傘を差さないのは、些かおかしく映るだろうか…",
+            "sourceName": "vo_neuvillette_dialog_annoyed_01.wem"
+        },
+        "8695df5caaccfac4": {
+            "hash": "8695df5caaccfac4",
+            "directory": "External16",
+            "voiceContent": "ごきげんよう。私はフォンテーヌの最高審判官——私を呼ぶ際は、姓であるヌヴィレットを使ってくれ…これはわざと君を遠ざけているわけではない。あまり関係が近すぎてしまうと、司法制度の不正を疑われかねないのでね。何か要求があれば、翹英荘から運ばれた水を味わいながら、共に話し合おう——もちろん、法の範囲内に限るが。",
+            "sourceName": "vo_neuvillette_draw_appear_01.wem"
+        },
+        "ae81313dfc78061a": {
+            "hash": "ae81313dfc78061a",
+            "directory": "External21",
+            "voiceContent": "何？最古の七神でさえ、偽のガラス玉を付けて俗世を歩んでいる者たちがいると…？くくっ…いや失礼、少々取り乱した。あまりにも滑稽だったものでな。",
+            "sourceName": "vo_neuvillette_dialog_pendant_02.wem"
+        },
+        "894096253527e9c6": {
+            "hash": "894096253527e9c6",
+            "directory": "External17",
+            "voiceContent": "異論はない。",
+            "sourceName": "vo_card_neuvillette_inGame_easy_02.wem"
+        },
+        "0e63f81cf4ab3daf": {
+            "hash": "0e63f81cf4ab3daf",
+            "directory": "External1",
+            "voiceContent": "慎重に考えるとしよう。",
+            "sourceName": "vo_card_neuvillette_inGame_easy_03.wem"
+        },
+        "0321ce41da06b39f": {
+            "hash": "0321ce41da06b39f",
+            "directory": "External0",
+            "voiceContent": "少しばかり、反駁させてもらおう。",
+            "sourceName": "vo_card_neuvillette_inGame_hard_04.wem"
+        },
+        "53857a32a0ce9aa5": {
+            "hash": "53857a32a0ce9aa5",
+            "directory": "External10",
+            "voiceContent": "ふむ、大した問題ではない。",
+            "sourceName": "vo_card_neuvillette_inGame_hard_02.wem"
+        },
+        "f984c42e01742f29": {
+            "hash": "f984c42e01742f29",
+            "directory": "External31",
+            "voiceContent": "気を悪くしないでくれ。",
+            "sourceName": "vo_card_neuvillette_inGame_easy_01.wem"
+        },
+        "a8e6c039ab737ad4": {
+            "hash": "a8e6c039ab737ad4",
+            "directory": "External21",
+            "voiceContent": "…油断した。",
+            "sourceName": "vo_card_neuvillette_inGame_hard_03.wem"
+        },
+        "dcd42a15fea54124": {
+            "hash": "dcd42a15fea54124",
+            "directory": "External27",
+            "voiceContent": "では、裁決を下そう。",
+            "sourceName": "vo_card_neuvillette_inGame_easy_04.wem"
+        },
+        "f9145c2a720db682": {
+            "hash": "f9145c2a720db682",
+            "directory": "External31",
+            "voiceContent": "すまない。",
+            "sourceName": "vo_card_neuvillette_inGame_hard_01.wem"
+        }
+    }
+}

@@ -1,0 +1,998 @@
+{
+    "Teapot": {
+        "9dfb79fa8e635272": {
+            "hash": "9dfb79fa8e635272",
+            "directory": "External19",
+            "voiceContent": "음… 아주 이상적인 은퇴 생활… 일 리가 없지!",
+            "sourceName": "vo_mimiTomo_xm_faruzan_grandBazaar_02.wem"
+        },
+        "cd66d8f0b22e93e7": {
+            "hash": "cd66d8f0b22e93e7",
+            "directory": "External25",
+            "voiceContent": "오! 책이 많네…. 내가 처음 보는 고대 서적도 있어! 몇 장만 봤는데도 벌써 구미가 당기는걸…",
+            "sourceName": "vo_mimiTomo_xm_faruzan_library_01.wem"
+        },
+        "2354ebf24e1450bb": {
+            "hash": "2354ebf24e1450bb",
+            "directory": "External4",
+            "voiceContent": "지금 아주 팔팔하거든. 은퇴할 나이까지 아직 멀었다고!",
+            "sourceName": "vo_mimiTomo_xm_faruzan_grandBazaar_03.wem"
+        },
+        "24276b096781f080": {
+            "hash": "24276b096781f080",
+            "directory": "External4",
+            "voiceContent": "자, 손 내밀어 봐, 사탕 줄게. 나한테 무슨 질문을 하고 싶든, 아니면 다른 일로 찾아온 거든, 나중에 말해",
+            "sourceName": "vo_mimiTomo_xm_faruzan_library_02.wem"
+        },
+        "7d3944ffeb946481": {
+            "hash": "7d3944ffeb946481",
+            "directory": "External15",
+            "voiceContent": "난 보물 창고에 조금만 더 있을래…",
+            "sourceName": "vo_mimiTomo_xm_faruzan_library_03.wem"
+        },
+        "cfc158018496f955": {
+            "hash": "cfc158018496f955",
+            "directory": "External25",
+            "voiceContent": "여기서 가게 좀 차려도 될까? 고대 문서 번역, 장치 분석, 그리고 미니 장치 모형도 좀 팔고…",
+            "sourceName": "vo_mimiTomo_xm_faruzan_grandBazaar_01.wem"
+        },
+        "8aca6fcf47f67645": {
+            "hash": "8aca6fcf47f67645",
+            "directory": "External17",
+            "voiceContent": "음… 사막에 사는 아이들은 무얼 좋아할지 고민 중이야… 과자? 아니면 장난감…?",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_01.wem"
+        },
+        "ac141d18160e3bcc": {
+            "hash": "ac141d18160e3bcc",
+            "directory": "External21",
+            "voiceContent": "응, 맞아",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_03.wem"
+        },
+        "1af8370f37aaaf9d": {
+            "hash": "1af8370f37aaaf9d",
+            "directory": "External3",
+            "voiceContent": "똑같이 정보를 전달하는 행위인데, 왜 「전언」이나 「변론」이라고 하지 않는지 알아?",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_02.wem"
+        },
+        "5e2bd3de233cf115": {
+            "hash": "5e2bd3de233cf115",
+            "directory": "External11",
+            "voiceContent": "준비 작업… 아! 큰일이다!",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_12.wem"
+        },
+        "80d4c6adebf324e7": {
+            "hash": "80d4c6adebf324e7",
+            "directory": "External16",
+            "voiceContent": "걱정하지 마, 난 까다로운 늙은 학자가 아니야…. 함께 지내기 어려운 타입도 아니고…",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_01.wem"
+        },
+        "b3165d5674fe4b00": {
+            "hash": "b3165d5674fe4b00",
+            "directory": "External22",
+            "voiceContent": "자, 이럴 때는 아부하지 말고, 너도 동의한다면 나에게 협조해주지 않겠니?",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_14.wem"
+        },
+        "d8d299e6638c5184": {
+            "hash": "d8d299e6638c5184",
+            "directory": "External27",
+            "voiceContent": "얼마 전에 아카데미아에서 「대외 수업」에 대한 새로운 규칙이 나와서, 산더미 같은 신청 자료를 작성해야 하는 게 기억났어",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_13.wem"
+        },
+        "0383a6cc802ca0ce": {
+            "hash": "0383a6cc802ca0ce",
+            "directory": "External0",
+            "voiceContent": "너구나. 공부하면서 힘든 건 없니? 얘기해 봐, 이 선배님이 다 가르쳐줄게…",
+            "sourceName": "vo_faruzan_mimitomo_hello_01.wem"
+        },
+        "0c28374cf910bf01": {
+            "hash": "0c28374cf910bf01",
+            "directory": "External1",
+            "voiceContent": "넌 내가 아끼는 사람이니 종종 내 관심을 받게 될 거야. 편지나 대화가 아닌 다른 형식의 관심이 될 수도 있지",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_15.wem"
+        },
+        "e154e1e7fd1c0dd6": {
+            "hash": "e154e1e7fd1c0dd6",
+            "directory": "External28",
+            "voiceContent": "이번에는 가서 자주 쓰는 간단한 글자 지식만 알려줄 거야",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_06.wem"
+        },
+        "5d0f7d38f9f46510": {
+            "hash": "5d0f7d38f9f46510",
+            "directory": "External11",
+            "voiceContent": "휴, 부끄럽지만 예전의 나는 「수다」의 의미를 생각할 겨를이 없었어",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_07.wem"
+        },
+        "2c65f5d72d094a32": {
+            "hash": "2c65f5d72d094a32",
+            "directory": "External5",
+            "voiceContent": "하지만 오늘은 넘어갈게. 준비 작업이 아직 안 끝났으니까",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_11.wem"
+        },
+        "4dc7b04b5157913b": {
+            "hash": "4dc7b04b5157913b",
+            "directory": "External9",
+            "voiceContent": "대체 어떤 장치길래 이 모든 걸 이곳에 수납할 수 있는 건지 더 연구해야겠어…",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_05b_3.wem"
+        },
+        "e957c6422fe45572": {
+            "hash": "e957c6422fe45572",
+            "directory": "External29",
+            "voiceContent": "흥, 선배의 심리를 멋대로 추측하다니, 점점 대담해지네?",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_10a.wem"
+        },
+        "ff2e6011aa6b396d": {
+            "hash": "ff2e6011aa6b396d",
+            "directory": "External31",
+            "voiceContent": "그 아이들이 나중에 내 연구 분야를 선택할지는… 그들의 통찰력을 봐야겠지, 안 그래?",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_09.wem"
+        },
+        "ad3e0929c09039ee": {
+            "hash": "ad3e0929c09039ee",
+            "directory": "External21",
+            "voiceContent": "상대에 대해 더 알 수만 있다면, 화제는 뭐가 되든 상관없어",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_05.wem"
+        },
+        "deccd730b6948291": {
+            "hash": "deccd730b6948291",
+            "directory": "External27",
+            "voiceContent": "반대로 어떤 화제가 됐든 전부 중요하다고 할 수도 있지. 아무리 작은 이야깃거리라도 널 신경 쓰는 사람에게는 의미 있을 테니까",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_06.wem"
+        },
+        "d79558c6a1468180": {
+            "hash": "d79558c6a1468180",
+            "directory": "External26",
+            "voiceContent": "음? 왜 못 믿는다는 표정이야?",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_02.wem"
+        },
+        "4e8fabf55f2871f8": {
+            "hash": "4e8fabf55f2871f8",
+            "directory": "External9",
+            "voiceContent": "응? 혹시 눈이 감길 정도로 졸려?",
+            "sourceName": "vo_faruzan_mimitomo_night_01.wem"
+        },
+        "de5ec3c01175146b": {
+            "hash": "de5ec3c01175146b",
+            "directory": "External27",
+            "voiceContent": "응, 며칠 전에 아카데미아를 떠나 사막으로 돌아가서 교편을 잡은 동료가 있는데, 최근에 그 동료에게 편지를 받았거든",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_03.wem"
+        },
+        "01195f7dcd859e6d": {
+            "hash": "01195f7dcd859e6d",
+            "directory": "External0",
+            "voiceContent": "너랑 인사하니까 종일 기운이 넘칠 것 같은 느낌이야. 하하…",
+            "sourceName": "vo_faruzan_mimitomo_morning_02.wem"
+        },
+        "97b9ef11e12f77ae": {
+            "hash": "97b9ef11e12f77ae",
+            "directory": "External18",
+            "voiceContent": "하하, 요즘 너처럼 세심한 후배는 드물거든",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_05a_1.wem"
+        },
+        "0dd839dd478e20ff": {
+            "hash": "0dd839dd478e20ff",
+            "directory": "External1",
+            "voiceContent": "그렇다면 오늘 하루 아주 알차게 보냈다는 거야. 못 끝낸 일은 내일의 너에게 맡기고 푹 쉬어!",
+            "sourceName": "vo_faruzan_mimitomo_night_02.wem"
+        },
+        "fa341c5a87da39d5": {
+            "hash": "fa341c5a87da39d5",
+            "directory": "External31",
+            "voiceContent": "응. 종이랑 펜을 좀 많이 준비해 줄래?",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_05b_1.wem"
+        },
+        "eae7b92348dcb84a": {
+            "hash": "eae7b92348dcb84a",
+            "directory": "External29",
+            "voiceContent": "내가 이런 얘기를 하는 건, 내 경각심을 일깨우기 위해서야",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_12.wem"
+        },
+        "48bbe8c4a38fc012": {
+            "hash": "48bbe8c4a38fc012",
+            "directory": "External9",
+            "voiceContent": "나는 학자라는 타이틀에 아주 떳떳해…. 하지만 그렇다고 내가 좋은 딸, 학생, 친구는 아니지…",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_09.wem"
+        },
+        "6c6eeb1b054f0253": {
+            "hash": "6c6eeb1b054f0253",
+            "directory": "External13",
+            "voiceContent": "눈앞에 있는 모든 걸 소중히 여기고, 내 옆에 있는 사람들을 잘 챙겨야지",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_13.wem"
+        },
+        "ae862944c798aa5e": {
+            "hash": "ae862944c798aa5e",
+            "directory": "External21",
+            "voiceContent": "…선배인 내가 잔소리한다고 싫어하지 마",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_16.wem"
+        },
+        "cab05abc605f495b": {
+            "hash": "cab05abc605f495b",
+            "directory": "External25",
+            "voiceContent": "방에 갇혀서 연구만 하고… 유학할 때 가족과 친구에게 보낸 편지는 줄이고 줄여서 좋은 일만 알리고 걱정거리는 생략하기 일쑤였지",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_08.wem"
+        },
+        "30a732bd2558f581": {
+            "hash": "30a732bd2558f581",
+            "directory": "External6",
+            "voiceContent": "내가 가끔 까다롭게 굴긴 하지만, 아카데미아의 말도 안 되는 규칙이나 버릇없는 학생에게만 그래",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_03.wem"
+        },
+        "4da5b400dd3c0b09": {
+            "hash": "4da5b400dd3c0b09",
+            "directory": "External9",
+            "voiceContent": "역시 중요한 일부터 해야지. 나랑 같이 선물 사러 가자. 과자랑 장난감 둘 다 사지 뭐",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_16.wem"
+        },
+        "5f1ee7efcd8ff08f": {
+            "hash": "5f1ee7efcd8ff08f",
+            "directory": "External11",
+            "voiceContent": "휴… 귀찮아라",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_14.wem"
+        },
+        "93b0461a8bb1eddc": {
+            "hash": "93b0461a8bb1eddc",
+            "directory": "External18",
+            "voiceContent": "지금 뿌린 씨앗이 미래에 뿌리를 내리고 싹을 틔워서 큰 나무가 될지도 몰라. 그걸로 충분해",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_08.wem"
+        },
+        "305951c719359222": {
+            "hash": "305951c719359222",
+            "directory": "External6",
+            "voiceContent": "시간 있으면 조언 좀 해줄래?",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_02.wem"
+        },
+        "32616b2180138df7": {
+            "hash": "32616b2180138df7",
+            "directory": "External6",
+            "voiceContent": "상대의 호불호, 기분, 생각을 알기 위해… 사람들은 재밌는 이야기나 최근의 고민을 공유하지…",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_04.wem"
+        },
+        "021abd359117b4bc": {
+            "hash": "021abd359117b4bc",
+            "directory": "External0",
+            "voiceContent": "응, 고마워",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_10.wem"
+        },
+        "70fed72cb2b4294d": {
+            "hash": "70fed72cb2b4294d",
+            "directory": "External14",
+            "voiceContent": "휴… 걱정하지 마. 내가 어떤 사람인지 알잖아. 난 과거에 빠져 있지 않아…",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_11.wem"
+        },
+        "0f66b4937524eeca": {
+            "hash": "0f66b4937524eeca",
+            "directory": "External1",
+            "voiceContent": "너처럼 착한 사람과 이렇게 근사한 곳에 있는데 불만이 있을 리가 없잖아?",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_04.wem"
+        },
+        "3bde628449c71d08": {
+            "hash": "3bde628449c71d08",
+            "directory": "External7",
+            "voiceContent": "메모를 또 한가득 늘어놓으면 너한테 미안하잖아…",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_05b_4.wem"
+        },
+        "dd6185f810efc5a6": {
+            "hash": "dd6185f810efc5a6",
+            "directory": "External27",
+            "voiceContent": "에이, 모르겠다. 나중에 뭐라고 하면 기억력이 안 좋아서 까먹었다고 해야지. 어차피 날 어떻게 할 것도 아니니까",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_15.wem"
+        },
+        "bd8d19070661c19a": {
+            "hash": "bd8d19070661c19a",
+            "directory": "External23",
+            "voiceContent": "수다라… 이 단어에 대해 고민해 본 적이 있어",
+            "sourceName": "vo_faruzan_mimitomo_friendship2_01.wem"
+        },
+        "1b1da4492617fc55": {
+            "hash": "1b1da4492617fc55",
+            "directory": "External3",
+            "voiceContent": "흥, 선배를 비웃다니, 아주 간이 부었구나?",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_10b.wem"
+        },
+        "51990ff0c9685339": {
+            "hash": "51990ff0c9685339",
+            "directory": "External10",
+            "voiceContent": "하하, 그걸 기억하고 있었네?",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_05.wem"
+        },
+        "c86e3e5391a692f2": {
+            "hash": "c86e3e5391a692f2",
+            "directory": "External25",
+            "voiceContent": "여기 구조가 이렇게 독특할 줄 몰랐어",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_05b_2.wem"
+        },
+        "957dd29cdefc5fcd": {
+            "hash": "957dd29cdefc5fcd",
+            "directory": "External18",
+            "voiceContent": "백 년을 더 지낸다 해도… 후후, 기꺼이 지낼 수 있을 것 같아",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_07.wem"
+        },
+        "c5e3bd18d4524b51": {
+            "hash": "c5e3bd18d4524b51",
+            "directory": "External24",
+            "voiceContent": "그럼 한동안 여기 지내면서 합리적이지 않은 설계를 발견하면 솔직히 말해줄게, 괜찮지?",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_05a_2.wem"
+        },
+        "8f2443e0f52de4bf": {
+            "hash": "8f2443e0f52de4bf",
+            "directory": "External17",
+            "voiceContent": "글을 쉽게 읽고, 자기가 관심이 있는 걸 더 파고들 수 있게 도와주는 거지…",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_07.wem"
+        },
+        "866af4d5e74ec9f1": {
+            "hash": "866af4d5e74ec9f1",
+            "directory": "External16",
+            "voiceContent": "물론, 해결하기 힘든 인생 고민도 얼마든지 물어봐",
+            "sourceName": "vo_faruzan_mimitomo_hello_02.wem"
+        },
+        "cc75b5f909e50cb8": {
+            "hash": "cc75b5f909e50cb8",
+            "directory": "External25",
+            "voiceContent": "와서 구경도 하고 아이들에게 글자 수업도 좀 해줄 수 있냐고 묻더라고…",
+            "sourceName": "vo_faruzan_mimitomo_friendship3_04.wem"
+        },
+        "2699b8a5bd5feb3c": {
+            "hash": "2699b8a5bd5feb3c",
+            "directory": "External4",
+            "voiceContent": "좋아, 여기서 내 관심 분야를 마음껏 연구할 수 있겠어",
+            "sourceName": "vo_faruzan_mimitomo_friendship1_06.wem"
+        }
+    },
+    "Quests": {
+        "41202c114c5544a2": {
+            "hash": "41202c114c5544a2",
+            "directory": "External8",
+            "voiceContent": "(……)",
+            "sourceName": "vo_FRZCOP001_1917301_faruzan_05.wem"
+        },
+        "dd3c90433d04bf38": {
+            "hash": "dd3c90433d04bf38",
+            "directory": "External27",
+            "voiceContent": "(이걸로… 학생을 영입할 수 있을까?)",
+            "sourceName": "vo_FRZCOP001_1917301_faruzan_03.wem"
+        },
+        "ef259e0a4494c6eb": {
+            "hash": "ef259e0a4494c6eb",
+            "directory": "External29",
+            "voiceContent": "(기계 생명체는… 정말 신기해)",
+            "sourceName": "vo_FRZCOP001_1917301_faruzan_04.wem"
+        },
+        "f21bbc32303bc056": {
+            "hash": "f21bbc32303bc056",
+            "directory": "External30",
+            "voiceContent": "(귀찮아 죽겠네…)",
+            "sourceName": "vo_FRZCOP001_1917301_faruzan_01.wem"
+        },
+        "625fea3afc8805b9": {
+            "hash": "625fea3afc8805b9",
+            "directory": "External12",
+            "voiceContent": "(명작 중의 명작을 골라야겠어…)",
+            "sourceName": "vo_FRZCOP001_1917301_faruzan_02.wem"
+        },
+        "55857523e30358bc": {
+            "hash": "55857523e30358bc",
+            "directory": "External10",
+            "voiceContent": "진짜 그런 식으로 몰 셈이야? 풀의 신님을 꽃마차에서 떨어뜨릴 작정이니…",
+            "sourceName": "vo_HSEQ002_10_faruzan_01.wem"
+        },
+        "dafd8bf1c8fc0793": {
+            "hash": "dafd8bf1c8fc0793",
+            "directory": "External27",
+            "voiceContent": "…카베, 넌 건축의 천재야!",
+            "sourceName": "vo_HSEQ003_18_faruzan_03.wem"
+        },
+        "561159fa09a8478a": {
+            "hash": "561159fa09a8478a",
+            "directory": "External10",
+            "voiceContent": "역시——내 안목은 틀리지 않았다니까!",
+            "sourceName": "vo_HSEQ003_18_faruzan_02.wem"
+        },
+        "1e3efe2d35c82840": {
+            "hash": "1e3efe2d35c82840",
+            "directory": "External3",
+            "voiceContent": "…누가 내 신발을 밟은 거야!",
+            "sourceName": "vo_HSEQ003_18_faruzan_04.wem"
+        },
+        "7b6bd0729241cba6": {
+            "hash": "7b6bd0729241cba6",
+            "directory": "External15",
+            "voiceContent": "이 선배님은 뛰어난 후배에게 절대 그런 말투로 얘기하지 않아. 알지?",
+            "sourceName": "vo_HSEQ002_11_faruzan_13.wem"
+        },
+        "7c690e3a92c71a6b": {
+            "hash": "7c690e3a92c71a6b",
+            "directory": "External15",
+            "voiceContent": "신경 쓰지 마세요, 풀의 신님. 제 후배는 다 좋은데 가끔 이런 엉뚱한 걸 디자인해 내곤 하거든요. 잘 다듬으면 괜찮을 거예요",
+            "sourceName": "vo_HSEQ002_11_faruzan_09.wem"
+        },
+        "fd29326a4ee1f68f": {
+            "hash": "fd29326a4ee1f68f",
+            "directory": "External31",
+            "voiceContent": "미안해 카베…. 방금 내가 너무 심했지? 안심해, 나 네 디자인에 아무런 불만 없어",
+            "sourceName": "vo_HSEQ002_11_faruzan_12.wem"
+        },
+        "76dce460e4de5784": {
+            "hash": "76dce460e4de5784",
+            "directory": "External14",
+            "voiceContent": "안심해, 카베. 네가 어떤 사탕탑을 그려내든 이 선배는 언제나 찬성이니까!",
+            "sourceName": "vo_HSEQ002_11_faruzan_15.wem"
+        },
+        "fc361e58a48ef715": {
+            "hash": "fc361e58a48ef715",
+            "directory": "External31",
+            "voiceContent": "…! 오늘 밤은 너무 늦어, 당장 가서 도면을 가져와. 이 선배가 계속 뒤에서 지켜봐야겠니?!",
+            "sourceName": "vo_HSEQ002_11_faruzan_14.wem"
+        },
+        "31ba90950d03f3dc": {
+            "hash": "31ba90950d03f3dc",
+            "directory": "External6",
+            "voiceContent": "근데 콜레이랑 데히야는?",
+            "sourceName": "vo_HSEQ002_11_faruzan_02.wem"
+        },
+        "8bf69e9d3b98df87": {
+            "hash": "8bf69e9d3b98df87",
+            "directory": "External17",
+            "voiceContent": "디… 디자인이 왜 이 모양이야! 이런 재료를 어떻게 지붕에 써!",
+            "sourceName": "vo_HSEQ002_11_faruzan_05.wem"
+        },
+        "ce639c419a879822": {
+            "hash": "ce639c419a879822",
+            "directory": "External25",
+            "voiceContent": "너라면 금방 새로운 디자인을 그려낼 수 있을 거야. 그렇지?",
+            "sourceName": "vo_HSEQ002_11_faruzan_08.wem"
+        },
+        "8d1f8aaee6192aa1": {
+            "hash": "8d1f8aaee6192aa1",
+            "directory": "External17",
+            "voiceContent": "이건 수백 년간 수메르에 이어져 온 전통을 무너뜨리는 디자인이야! 풀의 신님이 보면 슬퍼하실 거라고!",
+            "sourceName": "vo_HSEQ002_11_faruzan_07.wem"
+        },
+        "f0cd3e7cf53c49f3": {
+            "hash": "f0cd3e7cf53c49f3",
+            "directory": "External30",
+            "voiceContent": "이제 실제 제작 단계지? 우린 옆에서 사탕 준비하고 있을게, 넌 스케치부터 그려",
+            "sourceName": "vo_HSEQ002_11_faruzan_01.wem"
+        },
+        "32e47ca6b785f1fe": {
+            "hash": "32e47ca6b785f1fe",
+            "directory": "External6",
+            "voiceContent": "카, 카, 카… 카베!!",
+            "sourceName": "vo_HSEQ002_11_faruzan_04.wem"
+        },
+        "e2b730b5f0ec3d20": {
+            "hash": "e2b730b5f0ec3d20",
+            "directory": "External28",
+            "voiceContent": "(연기해, 빨리!)",
+            "sourceName": "vo_HSEQ002_11_faruzan_06.wem"
+        },
+        "05749b6dbc0e64c2": {
+            "hash": "05749b6dbc0e64c2",
+            "directory": "External0",
+            "voiceContent": "음! 제법인데? 시뮬레이션 폼이 제법 괜찮았어",
+            "sourceName": "vo_HSEQ002_9_faruzan_01.wem"
+        },
+        "efc0f7678e12bae0": {
+            "hash": "efc0f7678e12bae0",
+            "directory": "External29",
+            "voiceContent": "자, 여기. 잘 되는지 확인해 봐",
+            "sourceName": "vo_HSEQ002_8_faruzan_08.wem"
+        },
+        "ded362f33a913ee2": {
+            "hash": "ded362f33a913ee2",
+            "directory": "External27",
+            "voiceContent": "참, 카베. 전에 꽃마차 퍼레이드 시뮬레이션 장치를 부탁했지? 그 장치는 만들어뒀어",
+            "sourceName": "vo_HSEQ002_8_faruzan_06.wem"
+        },
+        "3a38550d13a6687f": {
+            "hash": "3a38550d13a6687f",
+            "directory": "External7",
+            "voiceContent": "그러고 보니까, 해결 방법은 찾은 거야?",
+            "sourceName": "vo_HSEQ002_8_faruzan_03.wem"
+        },
+        "dffd4704e5132eb4": {
+            "hash": "dffd4704e5132eb4",
+            "directory": "External27",
+            "voiceContent": "역시 이 나이대 젊은이는 빠릿빠릿하다니까. 좋아, 너희도 빨리 움직여. 이러다 진짜 늦는다구",
+            "sourceName": "vo_HSEQ002_8_faruzan_04.wem"
+        },
+        "8972d4ec2fed972b": {
+            "hash": "8972d4ec2fed972b",
+            "directory": "External17",
+            "voiceContent": "흥! 이 정도 일이야 예전에——그러니까 백 년도 전에 풀었던 지론파 과제만큼이나 쉬운 문제지!",
+            "sourceName": "vo_HSEQ002_8_faruzan_07.wem"
+        },
+        "394580fb6953d505": {
+            "hash": "394580fb6953d505",
+            "directory": "External7",
+            "voiceContent": "알았으면 얼른 움직여. 나이가 몇인데 아직도 선배가 재촉해야 해?",
+            "sourceName": "vo_HSEQ002_8_faruzan_05.wem"
+        },
+        "fcad211ce7e0d6f9": {
+            "hash": "fcad211ce7e0d6f9",
+            "directory": "External31",
+            "voiceContent": "안 오는 줄 알았잖아. 하나같이 건장한 젊은 녀석들이 어째 늙은 선배보다 늦게 오는 거야?",
+            "sourceName": "vo_HSEQ002_8_faruzan_01.wem"
+        },
+        "8c68f3141b949096": {
+            "hash": "8c68f3141b949096",
+            "directory": "External17",
+            "voiceContent": "지금 사탕탑보다 더 급한 문제가 어딨어? 적당한 사탕 원료를 찾지 못해서 꽃마차 퍼레이드까지 시간을 못 맞추겠다며?",
+            "sourceName": "vo_HSEQ002_8_faruzan_02.wem"
+        }
+    },
+    "Gameplay": {
+        "2d50d3004d64190c": {
+            "hash": "2d50d3004d64190c",
+            "directory": "External5",
+            "voiceContent": "후회해도 늦었어",
+            "sourceName": "vo_faruzan_battle_skill1_01.wem"
+        },
+        "efc980e8387f9823": {
+            "hash": "efc980e8387f9823",
+            "directory": "External29",
+            "voiceContent": "감히 날 도발해?",
+            "sourceName": "vo_faruzan_battle_skill1_02.wem"
+        },
+        "4230ceef409c7bda": {
+            "hash": "4230ceef409c7bda",
+            "directory": "External8",
+            "voiceContent": "두고 보자",
+            "sourceName": "vo_faruzan_battle_skill1_03.wem"
+        },
+        "1f88e33d29deddf2": {
+            "hash": "1f88e33d29deddf2",
+            "directory": "External3",
+            "voiceContent": "광풍의 기어!",
+            "sourceName": "vo_faruzan_battle_skill3_01.wem"
+        },
+        "514ec144201284d5": {
+            "hash": "514ec144201284d5",
+            "directory": "External10",
+            "voiceContent": "자, 갖고 가서 놀아!",
+            "sourceName": "vo_faruzan_battle_skill3_02.wem"
+        },
+        "cf5a874c63435b44": {
+            "hash": "cf5a874c63435b44",
+            "directory": "External25",
+            "voiceContent": "진리는 돌고 도는 법",
+            "sourceName": "vo_faruzan_battle_skill3_03.wem"
+        },
+        "61fbeb9e247f110d": {
+            "hash": "61fbeb9e247f110d",
+            "directory": "External12",
+            "voiceContent": "유물이 나왔다고? 아… 이거?",
+            "sourceName": "vo_faruzan_chest_open_01.wem"
+        },
+        "dbe5cd94baa9530a": {
+            "hash": "dbe5cd94baa9530a",
+            "directory": "External27",
+            "voiceContent": "뭐라도 건졌네",
+            "sourceName": "vo_faruzan_chest_open_02.wem"
+        },
+        "60d1ff8c79fd1313": {
+            "hash": "60d1ff8c79fd1313",
+            "directory": "External12",
+            "voiceContent": "네가 가져가서 써. 「선배님 고맙습니다」 해야지",
+            "sourceName": "vo_faruzan_chest_open_03.wem"
+        },
+        "0e7497a9aceb5241": {
+            "hash": "0e7497a9aceb5241",
+            "directory": "External1",
+            "voiceContent": "목숨을 잃을 수도 있으니 조심해",
+            "sourceName": "vo_faruzan_life_less30_teammate_01.wem"
+        },
+        "b43989a17e58189e": {
+            "hash": "b43989a17e58189e",
+            "directory": "External22",
+            "voiceContent": "이럴 때는 선배한테 기댈 줄도 알아야지!",
+            "sourceName": "vo_faruzan_life_less30_teammate_02.wem"
+        },
+        "e2288bee18420a10": {
+            "hash": "e2288bee18420a10",
+            "directory": "External28",
+            "voiceContent": "수수께끼를… 풀지 못했어…",
+            "sourceName": "vo_faruzan_life_die_01.wem"
+        },
+        "b77a79d69e6132f7": {
+            "hash": "b77a79d69e6132f7",
+            "directory": "External22",
+            "voiceContent": "학자의 길은… 끝이 없는데…",
+            "sourceName": "vo_faruzan_life_die_02.wem"
+        },
+        "9b7f58fe12416298": {
+            "hash": "9b7f58fe12416298",
+            "directory": "External19",
+            "voiceContent": "역시 선배가 있어야겠지?",
+            "sourceName": "vo_faruzan_teamJoin_01.wem"
+        },
+        "060a66e386a7bc1f": {
+            "hash": "060a66e386a7bc1f",
+            "directory": "External0",
+            "voiceContent": "이렇게 움직이는 건 오랜만이네",
+            "sourceName": "vo_faruzan_teamJoin_02.wem"
+        },
+        "acf884ed02953ab6": {
+            "hash": "acf884ed02953ab6",
+            "directory": "External21",
+            "voiceContent": "그래, 젊은 사람이랑 같이 가볼까?",
+            "sourceName": "vo_faruzan_teamJoin_03.wem"
+        },
+        "d84558faf4725d77": {
+            "hash": "d84558faf4725d77",
+            "directory": "External27",
+            "voiceContent": "벌써 백 년이나 지났는데, 아카데미아의 멍청한 규칙은 하나도 안 변했네…",
+            "sourceName": "vo_faruzan_character_idle_01.wem"
+        },
+        "02f36b126e533490": {
+            "hash": "02f36b126e533490",
+            "directory": "External0",
+            "voiceContent": "어——? 뭐라고? 나이가 들어서 잘 안 들려. 먼저 선배라고 불러봐",
+            "sourceName": "vo_faruzan_character_idle_02.wem"
+        },
+        "84b0c50a2af35211": {
+            "hash": "84b0c50a2af35211",
+            "directory": "External16",
+            "voiceContent": "학문 연구는 유행을 따르는 게 아니야. 인기 비인기 학문 같은 건 없어",
+            "sourceName": "vo_faruzan_character_idle_03.wem"
+        },
+        "602b5078caa4db47": {
+            "hash": "602b5078caa4db47",
+            "directory": "External12",
+            "voiceContent": "애도 아니고, 비 오는 날이 뭐가 기쁘다고",
+            "sourceName": "vo_faruzan_weather_heavyRain_01.wem"
+        },
+        "4371e3f2f7b7c524": {
+            "hash": "4371e3f2f7b7c524",
+            "directory": "External8",
+            "voiceContent": "으앗?! 뭐, 뭐야? 나이 든 사람은 천둥번개도 무서워하면 안 돼?",
+            "sourceName": "vo_faruzan_weather_thunder_01.wem"
+        },
+        "ea0c6bde9c07fe01": {
+            "hash": "ea0c6bde9c07fe01",
+            "directory": "External29",
+            "voiceContent": "빙빙 돌아서 결국 또 여기로 왔잖아…?",
+            "sourceName": "vo_faruzan_weather_desert_01.wem"
+        },
+        "07541eda8d6b0ad4": {
+            "hash": "07541eda8d6b0ad4",
+            "directory": "External0",
+            "voiceContent": "예쁘다… 푹 빠지겠어… 에취! 음… 감기도 걸리겠네…",
+            "sourceName": "vo_faruzan_weather_snowy_01.wem"
+        },
+        "bcd5222513136333": {
+            "hash": "bcd5222513136333",
+            "directory": "External23",
+            "voiceContent": "기분 좋다. 역시 공기가 잘 통하는 환경이 좋네",
+            "sourceName": "vo_faruzan_weather_gale_01.wem"
+        },
+        "d20d1cf2a9b1663d": {
+            "hash": "d20d1cf2a9b1663d",
+            "directory": "External26",
+            "voiceContent": "젊은이, 아침이면 기운을 내야지! 다시 인사해 봐",
+            "sourceName": "vo_faruzan_dialog_greetingMorning.wem"
+        },
+        "d0cc3cf5da58879b": {
+            "hash": "d0cc3cf5da58879b",
+            "directory": "External26",
+            "voiceContent": "조금 배고프네… 바자르로 가서 뭐 좀 먹을래? 난 편식 안 해. 너무 신세대 입맛만 아니면 돼",
+            "sourceName": "vo_faruzan_dialog_greetingNoon.wem"
+        },
+        "dc6512d0e6a0d5f3": {
+            "hash": "dc6512d0e6a0d5f3",
+            "directory": "External27",
+            "voiceContent": "호들갑 떨지 마. 어느 시대의 학자든지 밤새우면서 연구하니까. 밤은 조용히 생각할 수 있는 귀한 시간이야",
+            "sourceName": "vo_faruzan_dialog_greetingNight.wem"
+        },
+        "ab99ae946f609b0d": {
+            "hash": "ab99ae946f609b0d",
+            "directory": "External21",
+            "voiceContent": "고대 문서 때문에 머리가 어질어질하네…. 오늘은 여기까지 해야겠어. 그럼 난 자러 갈게. 너도 일찍 쉬어. 잘 자",
+            "sourceName": "vo_faruzan_dialog_greetingNight2.wem"
+        },
+        "334485d266f407e2": {
+            "hash": "334485d266f407e2",
+            "directory": "External6",
+            "voiceContent": "궁금한 게 뭐야? 변형된 압력 장치? 원소 비석의 하층 설계? 음, 잠깐만… 방금 나한테 물어볼 때 선배라고 부르는 거 깜빡했지?",
+            "sourceName": "vo_faruzan_dialog_idle.wem"
+        },
+        "47b89a99152dd4e2": {
+            "hash": "47b89a99152dd4e2",
+            "directory": "External8",
+            "voiceContent": "내 학생이 진심으로 고대 문서 연구를 좋아했으면 좋겠어. 만약 그런 아이를 만나지 못하면 평생 학생을 아무도 안 들일 거야! 어, 어? 신입생한테 일 시키는 건 뭐냐고? 가끔 남는 시간에 선배를 돕는 건 당연하잖아? 나 때는 말이야, 다 그렇게 했어…",
+            "sourceName": "vo_faruzan_dialog_idle2.wem"
+        },
+        "2e2706642f393075": {
+            "hash": "2e2706642f393075",
+            "directory": "External5",
+            "voiceContent": "백 년 동안 끊임없이 수수께끼를 풀다 보니까 어느새 시간의 흐름에조차 점점 둔해졌어…. 지금은 괜찮아, 나 혼자 방황하지 않아도 되니까. 너랑 같이 비문 탁본을 뜨거나, 문자를 해독하고 장치를 해부하면서 연구하는 일분일초를 즐길 수 있어",
+            "sourceName": "vo_faruzan_dialog_close1.wem"
+        },
+        "c2c1c39b80709752": {
+            "hash": "c2c1c39b80709752",
+            "directory": "External24",
+            "voiceContent": "진지하게 말하는 건데, 너 내 학생 하지 않을래? 내가 네 상황에 맞춰서 과제도 내주고, 강의도 누구보다 이해하기 쉽게 해줄게. 현대 장치 수수께끼를 중심으로 관련 문헌 해석까지 범위를 넓히는 게 좋겠어…. 내가 다 경험해 봤어. 이런 지식은 나중에 모험할 때 큰 도움이 될 거라고. 이래도 못 믿겠어?",
+            "sourceName": "vo_faruzan_dialog_close.wem"
+        },
+        "30c5e74b326ccf30": {
+            "hash": "30c5e74b326ccf30",
+            "directory": "External6",
+            "voiceContent": "내 학술 수준? 흥, 화려한 과거 이력을 얘기하지 않아도 신까지 인정하는 사실이지. 왜 학생이 안 모이냐고 묻는다면… 그건 내 문제가 아니야. 학문의 문제도 아니고. 아마 계기가 없어서겠지…. 내가 신의 눈을 특정 계기로 얻은 것처럼 말이야",
+            "sourceName": "vo_faruzan_dialog_pendant.wem"
+        },
+        "96505b84c1fab331": {
+            "hash": "96505b84c1fab331",
+            "directory": "External18",
+            "voiceContent": "「크샤흐레와르 학부는 향후에 장치 연구를 진행할 능력이 되는 유일한 학부가 될 것이다」라…. 흥, 현재 묘론파의 이 선언은 너무 거만한 게 아닌가? 내가 수메르에서 수수께끼를 풀고 있을 때 어디서 블록이나 가지고 놀았을 녀석들이",
+            "sourceName": "vo_faruzan_dialog_share_01.wem"
+        },
+        "5073347c246edb1d": {
+            "hash": "5073347c246edb1d",
+            "directory": "External10",
+            "voiceContent": "난 수많은 유적에 가봤는데 한정적인 고대 문자와 그림으로 해독해 보면, 「유적 드레이크」는 정말 정교한 장치야. 음… 단순히 「장치」 두 글자로 설명할 수 없겠네. 고대부터 지금까지 남은 「생물」이라고 해도 과언이 아니야…",
+            "sourceName": "vo_faruzan_pref_gift_01.wem"
+        },
+        "eaa8ed6bd8c01259": {
+            "hash": "eaa8ed6bd8c01259",
+            "directory": "External29",
+            "voiceContent": "지론파 연구가 묘론파에 사용되는 것처럼… 지식은 한정될 수 없는 거야. 모든 학자는 작은 쿠사나리 화신께 감사의 마음을 갖고 있어. 아카데미아, 아니, 지혜의 도시인 수메르가 사리사욕에서 벗어나 지식을 탐구하는 사람이 학문의 바다에 깊이 파고들어 연구할 수 있게 하셨으니까…",
+            "sourceName": "vo_faruzan_teammate_nahida_01.wem"
+        },
+        "372a003edf926b6c": {
+            "hash": "372a003edf926b6c",
+            "directory": "External6",
+            "voiceContent": "우림 유적 연구는 제일 걱정 안 되는 프로젝트야. 아, 타이나리를 불러야겠다. 살아있는 《우림 생존 가이드》를 데리고 있으면 재밌잖아. 내가 나이는 많지만, 먹어본 버섯은 타이나리가 본 버섯보다 적으니까",
+            "sourceName": "vo_faruzan_teammate_tighnari_01.wem"
+        },
+        "cf12bf00720ee890": {
+            "hash": "cf12bf00720ee890",
+            "directory": "External25",
+            "voiceContent": "콜레이는 어른들에게 예의 바른 데다 근면 성실하고 공부에 열정이 넘쳐서 아주 완벽한 학생이야! 이런 아이는 상냥하게 격려해야지. 타이나리는 꼭 그렇게 엄격하게 굴어야 하나? 거참… 무슨 수를 써서라도 콜레이를 빼와야 하는데… 크흠! 내 말은… 선배로서… 지금 젊은이들의 학업 환경을 개선할 방법을 찾아야 한다고…",
+            "sourceName": "vo_faruzan_teammate_collei_01.wem"
+        },
+        "14b124a4a62a19d9": {
+            "hash": "14b124a4a62a19d9",
+            "directory": "External2",
+            "voiceContent": "기억나. 예의 바른 애였지. 바자르에 몇 번 갔더니 날 기억하더라고. 다른 사람한테 나랑 싸우지 말라고 하더라. 그래, 요즘 젊은이들은 닐루에게 많이 배워야 돼",
+            "sourceName": "vo_faruzan_teammate_nilou_01.wem"
+        },
+        "b6181a0079edf3ea": {
+            "hash": "b6181a0079edf3ea",
+            "directory": "External22",
+            "voiceContent": "응? 그 새로 온 녀석? 마침 잘 얘기했어! 어느 학부 소속인진 모르겠지만, 요즘 길거리며 상점이며 식당이며 여기저기 어슬렁거리더라니까…. 어딜 가도 보이길래 얘기를 좀 해봤는데, 계속 고개를 끄덕거리는 게 뭐랄까… 강아지 같달까? 말도 조리 있게 하는 게 제법 싹수가 보이던데, 혹시 아는 사이면 내 밑으로 들어오라고 잘 좀 말해줘. 이 선배가 절대로 손해 보지 않게 해줄 거라고 말이야",
+            "sourceName": "vo_faruzan_teammate_sethos_01.wem"
+        },
+        "832dba356ce0ab97": {
+            "hash": "832dba356ce0ab97",
+            "directory": "External16",
+            "voiceContent": "사이노의 개그는 현대 문자와 언어로 구성되어 있는데도 문법과 의미에서 그 속뜻을 추리할 수가 없어…. 그냥 글자 그대로의 뜻에 말장난이라고? 정말…? 그러면 개그가 너무 지루한데…",
+            "sourceName": "vo_faruzan_teammate_cyno_01.wem"
+        },
+        "c51751d5671fb567": {
+            "hash": "c51751d5671fb567",
+            "directory": "External24",
+            "voiceContent": "레일라는 가끔 날 보면 고개를 숙이고 날 피해서 가는데, 밤에 우연히 마주치면 스스럼없이 인사하더라… 대체 뭐지? 뭐, 르타와히스트에 들어갈 수 있는 녀석들은 다 천재고, 천재는 다들 이상한 습관이 있으니까 신경 쓸 필요 없겠지",
+            "sourceName": "vo_faruzan_teammate_layla_01.wem"
+        },
+        "42bf8225f3af3d45": {
+            "hash": "42bf8225f3af3d45",
+            "directory": "External8",
+            "voiceContent": "카베는 좋은 인재야. 장치 구조의 원리에 관해서 간단하게 얘기를 나눈 적이 있는데, 뭐랄까… 낭만주의와 예술 감각이 너무 과한 감이 있지만, 그래도 자기만의 생각이 있는 건 대단해. 요즘 주머니 사정이 빠듯하다고 들었는데, 언제 연구비 나오면 맛있는 거라도 사 먹여야지… 딱 기다리라고",
+            "sourceName": "vo_faruzan_teammate_kaveh_01.wem"
+        },
+        "692d20bf18487c77": {
+            "hash": "692d20bf18487c77",
+            "directory": "External13",
+            "voiceContent": "이 파루잔 선배의 이야기는 거의 시대를 넘나드는 문헌 수준이지. 백여 년 전부터 시작해야 하는데… 그래도 들을래? 아주 좋아. 적극적으로 배움을 청하는 태도는 학자의 필수 덕목이지. 입문 축하해",
+            "sourceName": "vo_faruzan_friendship_01.wem"
+        },
+        "93db32d692295390": {
+            "hash": "93db32d692295390",
+            "directory": "External18",
+            "voiceContent": "옛날에는 장치 수수께끼를 풀려면 대량의 문헌 해독과 연구가 필요했어. 과장이 아니라, 네가 푼 수수께끼랑은 아예 레벨이 달라. 인정 안 한다고? 좋아, 네가 어렵다고 생각하는 걸 보여줘 봐. 30분 이상 고민하면 내가 진 걸로 할게",
+            "sourceName": "vo_faruzan_friendship_02.wem"
+        },
+        "15988cce4ec97111": {
+            "hash": "15988cce4ec97111",
+            "directory": "External2",
+            "voiceContent": "적왕 유적에 실수로 들어가지만 않았으면 수메르에 더 많이 이바지했을 텐데…. 그래도 그전에 쓴 원고와 논문이 헛수고가 아니라서 다행이야. 오늘날 묘론파가 땡잡아서 장치학의 기초가 되었거든. 후후, 나도 「선배」 소리 들을 만해",
+            "sourceName": "vo_faruzan_friendship_03.wem"
+        },
+        "f458cea49e96b01a": {
+            "hash": "f458cea49e96b01a",
+            "directory": "External30",
+            "voiceContent": "학자라면 실패를 덤덤하게 받아들이고 결과를 감당해야지…. 과거든 지금이든 다른 사람의 동정은 절대로 바라지 않아! 게다가 난 실력으로 마지막 수수께끼를 풀고 그 지긋지긋한 곳에서 벗어났다고… 날 동정하는 것보다 나에게서 동기부여와 깨우침을 얻어야 하는 거 아니야?",
+            "sourceName": "vo_faruzan_friendship_04.wem"
+        },
+        "a1f1809d9679cd63": {
+            "hash": "a1f1809d9679cd63",
+            "directory": "External20",
+            "voiceContent": "내 연구 방향은 지위가 더 이상 예전 같지 않아. 지론파가 내 연구비 허가를 안 내주는 것도 한두 번이 아니고…. 묘론파에서는 날 지도 교수로 여러 번 초대했어. 조건이 정말 매력적이었지, 높은 연구비 한도, 더 많은 학생… 그래도 거절했어. 어찌 됐든 아무도 관심 가지지 않는 영역을 연구하고, 전 인류의 지혜를 추진하는 사람이 있어야 하니까",
+            "sourceName": "vo_faruzan_friendship_05.wem"
+        },
+        "7d5dd25958ec5631": {
+            "hash": "7d5dd25958ec5631",
+            "directory": "External15",
+            "voiceContent": "악덕 상인과 용병들이 종종 오르모스 항구에 섞여 들어서 어디서 가져온 건지 모르는 「골동품」을 고가에 판매하는데, 다 낡고 고장 난 쓰레기야! 흥, 내가 볼 때마다 폭로했지. 「골동품 감정」에서 「7명의 집정관」을 제외하면 난 누구한테도 안 밀릴 자신 있어",
+            "sourceName": "vo_faruzan_pref_hobby.wem"
+        },
+        "0a9a548792642ea8": {
+            "hash": "0a9a548792642ea8",
+            "directory": "External1",
+            "voiceContent": "백 년 전에 가장 큰 고민은 유적 비문의 정보를 읽을 수 없다는 것뿐이었는데, 백 년 후인 지금은 연구비가 제일 고민이네… 어휴! 골치 아파…",
+            "sourceName": "vo_faruzan_dialog_annoyed.wem"
+        },
+        "843fe3199d678224": {
+            "hash": "843fe3199d678224",
+            "directory": "External16",
+            "voiceContent": "뭐였더라… 파디사라 푸딩, 그건 누가 발명한 거야? 푸딩은 쌀밥으로 만드는 거 아니야? 요즘은 갈수록 요란하다니까. 아니… 고맙지만 난 관심 없어. 네가 만들었어도 사양할게",
+            "sourceName": "vo_faruzan_pref_foodDislike.wem"
+        },
+        "6cf64e9276dfb54b": {
+            "hash": "6cf64e9276dfb54b",
+            "directory": "External13",
+            "voiceContent": "음… 으음… 웬만한 오래된 가게보다 맛있네. 미식계도 점점 발전하고 있는 건가?",
+            "sourceName": "vo_faruzan_spice_pref_01.wem"
+        },
+        "906cf8fcf343eb65": {
+            "hash": "906cf8fcf343eb65",
+            "directory": "External18",
+            "voiceContent": "보기에도 좋고 맛도 좋네. 설마 너 요리책을 자주 보는 타입이야?",
+            "sourceName": "vo_faruzan_spice_normal_01.wem"
+        },
+        "bec1184d3437d313": {
+            "hash": "bec1184d3437d313",
+            "directory": "External23",
+            "voiceContent": "음? 이게 뭐지? 이해하기 힘든 음식이네. 내가 분석해 주길 원하는 거야?",
+            "sourceName": "vo_faruzan_spice_dislike_01.wem"
+        },
+        "c75c59eb5bc1b35a": {
+            "hash": "c75c59eb5bc1b35a",
+            "directory": "External24",
+            "voiceContent": "생일 축하해! 자, 장난감을 만들어봤어. 미니 기관 장치를 모은 거야. 여기에 버튼과 막대가 있고… 옆에 바퀴가 있어…. 마음대로 갖고 놀아. 망가지면 고쳐줄게. 왜 널 애 취급하냐고? 웃기는 소리. 어른이든 아이든 재미와 휴식은 필요하다고",
+            "sourceName": "vo_faruzan_pref_birthday_01.wem"
+        },
+        "1f9e42ce26f964dc": {
+            "hash": "1f9e42ce26f964dc",
+            "directory": "External3",
+            "voiceContent": "훗, 젊은 사람이 아주 빠릿빠릿하구나? 재료 하나 아주 부리나케 찾네",
+            "sourceName": "vo_faruzan_starUp_01.wem"
+        },
+        "deb0f0b60f31baf3": {
+            "hash": "deb0f0b60f31baf3",
+            "directory": "External27",
+            "voiceContent": "음? 무슨 장치라도 풀었어? 힘이 끊임없이 몰려오는걸",
+            "sourceName": "vo_faruzan_starUp_02.wem"
+        },
+        "5d29bebe52bf70ea": {
+            "hash": "5d29bebe52bf70ea",
+            "directory": "External11",
+            "voiceContent": "후후, 열심히 하고 있구나…. 걱정하지 마. 지도와 보호는 선배의 책임이니 널 위험에 빠지게 하지 않을 거야",
+            "sourceName": "vo_faruzan_starUp_03.wem"
+        },
+        "7b033ce8000e9ba1": {
+            "hash": "7b033ce8000e9ba1",
+            "directory": "External15",
+            "voiceContent": "끝없는 지혜의 바다에서 백 년은 단지 일각의 파도를 짧게 볼 수 있는 시간에 불과해…. 아직 깊게 파고들지 않은 학문과 풀지 못한 수수께끼는 너와 내가 함께 노력해야겠네",
+            "sourceName": "vo_faruzan_starUp_04.wem"
+        },
+        "242a636481cc81be": {
+            "hash": "242a636481cc81be",
+            "directory": "External4",
+            "voiceContent": "이런 일은 한두 번도 아니야!",
+            "sourceName": "vo_faruzan_life_less30_01.wem"
+        },
+        "7e65716cb05fbb61": {
+            "hash": "7e65716cb05fbb61",
+            "directory": "External15",
+            "voiceContent": "이 정도 시련은 아무것도 아니지",
+            "sourceName": "vo_faruzan_life_less30_02.wem"
+        },
+        "d0961773b84df1e0": {
+            "hash": "d0961773b84df1e0",
+            "directory": "External26",
+            "voiceContent": "얕보지 마…",
+            "sourceName": "vo_faruzan_life_less30_03.wem"
+        },
+        "325717dededddeee": {
+            "hash": "325717dededddeee",
+            "directory": "External6",
+            "voiceContent": "시간은… 날 위해 멈추지 않았군…",
+            "sourceName": "vo_faruzan_life_die_03.wem"
+        },
+        "5c78984434344dcc": {
+            "hash": "5c78984434344dcc",
+            "directory": "External11",
+            "voiceContent": "이 악랄한 녀석!",
+            "sourceName": "vo_faruzan_battle_hit_H_01.wem"
+        },
+        "1b8a462c1c6af0e3": {
+            "hash": "1b8a462c1c6af0e3",
+            "directory": "External3",
+            "voiceContent": "위아래도 없구나!",
+            "sourceName": "vo_faruzan_battle_hit_H_02.wem"
+        },
+        "0877d4f8f49e68ac": {
+            "hash": "0877d4f8f49e68ac",
+            "directory": "External1",
+            "voiceContent": "밀가루 반죽을 구우면 향기가 배로 폭발하지! 언제 기회 되면 우리 때에 즐겨먹던 레시피를 한번 대접할게. 바자르에서 아무리 찾아도 없는 「고대 요리 비법」이라구",
+            "sourceName": "vo_faruzan_pref_foodLike_01.wem"
+        },
+        "10030d7b57f5610e": {
+            "hash": "10030d7b57f5610e",
+            "directory": "External2",
+            "voiceContent": "지론파 녀석들은 아무도 관심이 없는 비인기 분야라는 이유로 내 연구비 허가를 안 내줘. 그게 판단 기준이면, 지론파는 지금까지도 인원이 제일 적은 학파니까 차라리 하라바타트 학부를 닫지 그래?",
+            "sourceName": "vo_faruzan_dialog_share_02.wem"
+        },
+        "b15968056ae7d22f": {
+            "hash": "b15968056ae7d22f",
+            "directory": "External22",
+            "voiceContent": "이건 왕년에 아카데미아에서 수여한 우수 학자상이고, 이건 수메르 수수께끼 협회에서 준 평생 공로상, 그리고 이건 유적 장치 연구회에서 줬지…. 어때? 내 밑으로 들어올 생각 없어? 크흠, 참고로 난 지론파 학자야. 날 찾으려면 하라바타트 학부로 와. 크샤흐레와르 학부가 아니니까 잘 기억해 둬",
+            "sourceName": "vo_faruzan_draw_appear_01.wem"
+        },
+        "e2d5d31442136827": {
+            "hash": "e2d5d31442136827",
+            "directory": "External28",
+            "voiceContent": "음? 이게 뭐지? 이해하기 힘든 음식이네. 내가 분석해 주길 원하는 거야?",
+            "sourceName": "vo_faruzan_spice_event_dislike_01.wem"
+        },
+        "ef6cf7da893f08d9": {
+            "hash": "ef6cf7da893f08d9",
+            "directory": "External29",
+            "voiceContent": "보기에도 좋고 맛도 좋네. 설마 너 요리책을 자주 보는 타입이야?",
+            "sourceName": "vo_faruzan_spice_event_normal_01.wem"
+        },
+        "a03b8fb22f56e2ef": {
+            "hash": "a03b8fb22f56e2ef",
+            "directory": "External20",
+            "voiceContent": "음… 으음… 웬만한 오래된 가게보다 맛있네. 미식계도 점점 발전하고 있는 건가?",
+            "sourceName": "vo_faruzan_spice_event_pref_01.wem"
+        },
+        "2232add4a16ce47f": {
+            "hash": "2232add4a16ce47f",
+            "directory": "External4",
+            "voiceContent": "집중해",
+            "sourceName": "vo_card_faruzan_inGame_hard_01.wem"
+        },
+        "c1360eac2f0a805e": {
+            "hash": "c1360eac2f0a805e",
+            "directory": "External24",
+            "voiceContent": "이, 이 정도는 별거 아냐…",
+            "sourceName": "vo_card_faruzan_inGame_easy_03.wem"
+        },
+        "62ea1fecb9073578": {
+            "hash": "62ea1fecb9073578",
+            "directory": "External12",
+            "voiceContent": "꽤 복잡한 전술이네",
+            "sourceName": "vo_card_faruzan_inGame_hard_02.wem"
+        },
+        "c5c642bddc702100": {
+            "hash": "c5c642bddc702100",
+            "directory": "External24",
+            "voiceContent": "무르기 없기야",
+            "sourceName": "vo_card_faruzan_inGame_easy_01.wem"
+        },
+        "6f05b0a5271cc467": {
+            "hash": "6f05b0a5271cc467",
+            "directory": "External13",
+            "voiceContent": "좋아, 어디 두고 봐",
+            "sourceName": "vo_card_faruzan_inGame_easy_02.wem"
+        },
+        "83aebc941a25ff4d": {
+            "hash": "83aebc941a25ff4d",
+            "directory": "External16",
+            "voiceContent": "이런 수는 처음 보지?",
+            "sourceName": "vo_card_faruzan_inGame_easy_04.wem"
+        },
+        "c6cdbbbac857bae2": {
+            "hash": "c6cdbbbac857bae2",
+            "directory": "External24",
+            "voiceContent": "선배를 우습게 보지 말라구",
+            "sourceName": "vo_card_faruzan_inGame_hard_04.wem"
+        },
+        "e4a779e475a752f9": {
+            "hash": "e4a779e475a752f9",
+            "directory": "External28",
+            "voiceContent": "으음… 나이가 들어서 머리가 안 돌아가",
+            "sourceName": "vo_card_faruzan_inGame_hard_03.wem"
+        }
+    }
+}

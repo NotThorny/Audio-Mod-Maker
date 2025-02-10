@@ -1,0 +1,535 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "1edc95a531b29b49": {
+            "hash": "1edc95a531b29b49",
+            "directory": "External3",
+            "voiceContent": "The gaseous phlogiston is being replenished... Looks like all the spouts have been unblocked. Let's head back up.",
+            "sourceName": "vo_QSKLQ002_14_chasca_01.wem"
+        },
+        "3944f7840f9e0406": {
+            "hash": "3944f7840f9e0406",
+            "directory": "External7",
+            "voiceContent": "Hmm... I'm not so sure. You don't strike me as the type to enjoy danger.",
+            "sourceName": "vo_NTAQ005_1_chasca_02.wem"
+        },
+        "0ecbc56c95e8d2f5": {
+            "hash": "0ecbc56c95e8d2f5",
+            "directory": "External1",
+            "voiceContent": "That's Wayna, the tribal chief. Let's head over to him.",
+            "sourceName": "vo_NTAQ005_1_chasca_05.wem"
+        },
+        "8cd88b74d91b5c64": {
+            "hash": "8cd88b74d91b5c64",
+            "directory": "External17",
+            "voiceContent": "Or even bungee jumping without a rope while a Yumkasaur stands at the edge and uses its tongue to catch them. Sound like something you'd be interested in?",
+            "sourceName": "vo_NTAQ005_1_chasca_04.wem"
+        },
+        "a989258cdbea4a69": {
+            "hash": "a989258cdbea4a69",
+            "directory": "External21",
+            "voiceContent": "The tribespeople are very adventurous.",
+            "sourceName": "vo_NTAQ005_1_chasca_01.wem"
+        },
+        "bb02597bcc3e2fef": {
+            "hash": "bb02597bcc3e2fef",
+            "directory": "External23",
+            "voiceContent": "The Scions of the Canopy are a bunch of thrill-seekers. They love extreme sports like rock climbing, rappelling, volcano parkour...",
+            "sourceName": "vo_NTAQ005_1_chasca_03.wem"
+        },
+        "884867632bb5d592": {
+            "hash": "884867632bb5d592",
+            "directory": "External17",
+            "voiceContent": "Wayna's right over there. Let's go.",
+            "sourceName": "vo_NTAQ005_1_chasca_06.wem"
+        },
+        "f01162fe2ce98aac": {
+            "hash": "f01162fe2ce98aac",
+            "directory": "External30",
+            "voiceContent": "Don't you even think about running away!",
+            "sourceName": "vo_QSKLQ003_12_chasca_01.wem"
+        },
+        "982f3db3d7b3be3b": {
+            "hash": "982f3db3d7b3be3b",
+            "directory": "External19",
+            "voiceContent": "Hmm... We need a clear shot. Let's get rid of these obstacles first.",
+            "sourceName": "vo_QSKLQ004_9_chasca_01.wem"
+        },
+        "2daf13ad36596468": {
+            "hash": "2daf13ad36596468",
+            "directory": "External5",
+            "voiceContent": "The trial arena. It's not far from the tribe.",
+            "sourceName": "vo_QSKLQ001_18_chasca_01.wem"
+        },
+        "899b4cf7d7d2353d": {
+            "hash": "899b4cf7d7d2353d",
+            "directory": "External17",
+            "voiceContent": "How much longer, Vichama?",
+            "sourceName": "vo_NTAQ005_5_chasca_01.wem"
+        },
+        "d5867245a05dd7ef": {
+            "hash": "d5867245a05dd7ef",
+            "directory": "External26",
+            "voiceContent": "We've fought them before. Let's go. Show no mercy.",
+            "sourceName": "vo_NTAQ006_4_chasca_05.wem"
+        },
+        "c8b62353cfc4f961": {
+            "hash": "c8b62353cfc4f961",
+            "directory": "External25",
+            "voiceContent": "I can't believe he captured so many qucusaurs... But right now, we have focus on solving this problem at the source.",
+            "sourceName": "vo_QSKLQ005_11_chasca_01.wem"
+        },
+        "ee8b3c225b5bbfc2": {
+            "hash": "ee8b3c225b5bbfc2",
+            "directory": "External29",
+            "voiceContent": "Not that way. Now's not the time for aimless exploring.",
+            "sourceName": "vo_QSKLQ005_5_chasca_01.wem"
+        },
+        "d2a088054508f804": {
+            "hash": "d2a088054508f804",
+            "directory": "External26",
+            "voiceContent": "*guttural growling*",
+            "sourceName": "vo_NTAQ108_4_chasca_01.wem"
+        },
+        "68711d76fa62fa56": {
+            "hash": "68711d76fa62fa56",
+            "directory": "External13",
+            "voiceContent": "Nice one.",
+            "sourceName": "vo_QSKLQ001_16_chasca_01.wem"
+        },
+        "3d9b5ae080e423db": {
+            "hash": "3d9b5ae080e423db",
+            "directory": "External7",
+            "voiceContent": "Give up, Allpa. We're negotiating my way now, and this ain't your strong suit.",
+            "sourceName": "vo_QSKLQ005_13_chasca_01.wem"
+        },
+        "500a60cab92810e4": {
+            "hash": "500a60cab92810e4",
+            "directory": "External10",
+            "voiceContent": "Huh, never seen one of these before... Looks like this was built with the Cinder City components too...",
+            "sourceName": "vo_QSKLQ005_3_chasca_01.wem"
+        },
+        "29c6893894f798c7": {
+            "hash": "29c6893894f798c7",
+            "directory": "External5",
+            "voiceContent": "I can see where Pixica's coming from. The view from up high really is spectacular. I don't usually notice, because I tend to just zoom along without taking in the scenery...",
+            "sourceName": "vo_QSKLQ001_13_chasca_01.wem"
+        },
+        "434d3566017db133": {
+            "hash": "434d3566017db133",
+            "directory": "External8",
+            "voiceContent": "It's Tepal's henchmen! He must have brought them here using the relic and his prototype Wings... Watch out!",
+            "sourceName": "vo_QSKLQ005_8_chasca_01.wem"
+        },
+        "80111465ab32a78f": {
+            "hash": "80111465ab32a78f",
+            "directory": "External16",
+            "voiceContent": "It's asking for a nice, hard kick right where it hurts — aim for the weak spot!",
+            "sourceName": "vo_QSKLQ005_4_chasca_01.wem"
+        },
+        "06555ba6364414e1": {
+            "hash": "06555ba6364414e1",
+            "directory": "External0",
+            "voiceContent": "I'll bet that mechanism on top of the cage opens the door... Let me give it a try.",
+            "sourceName": "vo_QSKLQ005_2_chasca_01.wem"
+        }
+    },
+    "Gameplay": {
+        "f4919937309b6a2b": {
+            "hash": "f4919937309b6a2b",
+            "directory": "External30",
+            "voiceContent": "Let's fly.",
+            "sourceName": "vo_chasca_battle_skill1_01.wem"
+        },
+        "4b1c0b4fe5c101b4": {
+            "hash": "4b1c0b4fe5c101b4",
+            "directory": "External9",
+            "voiceContent": "Hah!",
+            "sourceName": "vo_chasca_battle_skill1_02.wem"
+        },
+        "a46445466a01a805": {
+            "hash": "a46445466a01a805",
+            "directory": "External20",
+            "voiceContent": "Take me up.",
+            "sourceName": "vo_chasca_battle_skill1_03.wem"
+        },
+        "3685497e2c8fd069": {
+            "hash": "3685497e2c8fd069",
+            "directory": "External6",
+            "voiceContent": "Fire in the hole!",
+            "sourceName": "vo_chasca_battle_skill3_01.wem"
+        },
+        "c6411b7560438a06": {
+            "hash": "c6411b7560438a06",
+            "directory": "External24",
+            "voiceContent": "Hold on to your hats!",
+            "sourceName": "vo_chasca_battle_skill3_02.wem"
+        },
+        "47fe7d6d1ce3b5ef": {
+            "hash": "47fe7d6d1ce3b5ef",
+            "directory": "External8",
+            "voiceContent": "Knock 'em down.",
+            "sourceName": "vo_chasca_battle_skill3_03.wem"
+        },
+        "bc5ea9c1de637560": {
+            "hash": "bc5ea9c1de637560",
+            "directory": "External23",
+            "voiceContent": "Dividing the loot is often a cause of conflict, but luckily for you, I don't really need this stuff.",
+            "sourceName": "vo_chasca_chest_open_01.wem"
+        },
+        "659e17a9291017c7": {
+            "hash": "659e17a9291017c7",
+            "directory": "External12",
+            "voiceContent": "Mora makes a lot of problems go away. So you can never have too much Mora, huh?",
+            "sourceName": "vo_chasca_chest_open_02.wem"
+        },
+        "0ff2f5b2a7e2053e": {
+            "hash": "0ff2f5b2a7e2053e",
+            "directory": "External1",
+            "voiceContent": "Ooh, shiny... It's so pretty...",
+            "sourceName": "vo_chasca_chest_open_03.wem"
+        },
+        "194a664f9b4f3e48": {
+            "hash": "194a664f9b4f3e48",
+            "directory": "External3",
+            "voiceContent": "...Hey, no dying!",
+            "sourceName": "vo_chasca_life_less30_teammate_01.wem"
+        },
+        "d892343783b3a68f": {
+            "hash": "d892343783b3a68f",
+            "directory": "External27",
+            "voiceContent": "Get behind me!",
+            "sourceName": "vo_chasca_life_less30_teammate_02.wem"
+        },
+        "93c858d42335026d": {
+            "hash": "93c858d42335026d",
+            "directory": "External18",
+            "voiceContent": "Momma... Bird...",
+            "sourceName": "vo_chasca_life_die_01.wem"
+        },
+        "65d5bacd3041c2ea": {
+            "hash": "65d5bacd3041c2ea",
+            "directory": "External12",
+            "voiceContent": "Couldn't... transcend...",
+            "sourceName": "vo_chasca_life_die_02.wem"
+        },
+        "d8b86384b98ff739": {
+            "hash": "d8b86384b98ff739",
+            "directory": "External27",
+            "voiceContent": "Alright, whose wings need clipping?",
+            "sourceName": "vo_chasca_teamJoin_01.wem"
+        },
+        "6874357bed43b1d6": {
+            "hash": "6874357bed43b1d6",
+            "directory": "External13",
+            "voiceContent": "The breeze is restless today.",
+            "sourceName": "vo_chasca_teamJoin_02.wem"
+        },
+        "16439774e55588bf": {
+            "hash": "16439774e55588bf",
+            "directory": "External2",
+            "voiceContent": "Chamber full and ready to roll.",
+            "sourceName": "vo_chasca_teamJoin_03.wem"
+        },
+        "4356fbfc627d7a3e": {
+            "hash": "4356fbfc627d7a3e",
+            "directory": "External8",
+            "voiceContent": "When you lose your way, gaining some altitude can bring some perspective.",
+            "sourceName": "vo_chasca_character_idle_01.wem"
+        },
+        "9d920a049110b3e1": {
+            "hash": "9d920a049110b3e1",
+            "directory": "External19",
+            "voiceContent": "I'd have lost myself long ago if I allowed myself to be led by the whispers of the Abyss. Surviving is tough, but taming the beast within is tougher.",
+            "sourceName": "vo_chasca_character_idle_02.wem"
+        },
+        "efc2b00b98feea60": {
+            "hash": "efc2b00b98feea60",
+            "directory": "External29",
+            "voiceContent": "I'm a little out of practice these days... *yawn*... Any conflicts around? I'm in the mood for some peacemaking.",
+            "sourceName": "vo_chasca_character_idle_03.wem"
+        },
+        "8cf3345f04c05508": {
+            "hash": "8cf3345f04c05508",
+            "directory": "External17",
+            "voiceContent": "Rain... My hair and feathers are gonna get soaked. Time for some preening when I get back.",
+            "sourceName": "vo_chasca_weather_heavyRain_01.wem"
+        },
+        "d614b7952736684b": {
+            "hash": "d614b7952736684b",
+            "directory": "External26",
+            "voiceContent": "Huh, we're really gonna go flying in this weather? You think you can outrun a lightning strike?",
+            "sourceName": "vo_chasca_weather_thunder_01.wem"
+        },
+        "c66c8f929af38b7a": {
+            "hash": "c66c8f929af38b7a",
+            "directory": "External24",
+            "voiceContent": "*sniff* There's prey upwind from us... Be ready to pounce.",
+            "sourceName": "vo_chasca_weather_breezy_01.wem"
+        },
+        "ef7e267b6f01b3ce": {
+            "hash": "ef7e267b6f01b3ce",
+            "directory": "External29",
+            "voiceContent": "The wind's perfect — full speed ahead!",
+            "sourceName": "vo_chasca_weather_gale_01.wem"
+        },
+        "53e942ff30e1e532": {
+            "hash": "53e942ff30e1e532",
+            "directory": "External10",
+            "voiceContent": "The early qucusaur gets the worm, so I made some breakfast. Any plans for the day can wait until we've got some food in us.",
+            "sourceName": "vo_chasca_dialog_greetingMorning.wem"
+        },
+        "6766ae8fa6a6cc6e": {
+            "hash": "6766ae8fa6a6cc6e",
+            "directory": "External12",
+            "voiceContent": "Afternoon. The sun shines strongest at this hour — good time to take a break.",
+            "sourceName": "vo_chasca_dialog_greetingNoon.wem"
+        },
+        "87b161daf18c9878": {
+            "hash": "87b161daf18c9878",
+            "directory": "External16",
+            "voiceContent": "Any plans for dinner? If not, let's eat in the tribe. They always bring out the best food and drink for champions.",
+            "sourceName": "vo_chasca_dialog_greetingNight.wem"
+        },
+        "33125c6cd0b9faa8": {
+            "hash": "33125c6cd0b9faa8",
+            "directory": "External6",
+            "voiceContent": "Turning in for the night? Hmm... I've been flying all day, so I should also do some gun care.",
+            "sourceName": "vo_chasca_dialog_greetingNight2.wem"
+        },
+        "3ff7af5db304fd0f": {
+            "hash": "3ff7af5db304fd0f",
+            "directory": "External7",
+            "voiceContent": "Back when the Flower-Feather Clan was responsible for patrolling and defending all of Natlan, the flying squad was the best of the best — the fiercest warriors in the nation.To this day, the pride felt by many Qucusaur riders borders on arrogance... Hmm? Me? No, I'm not arrogant. Just supremely confident.",
+            "sourceName": "vo_chasca_dialog_idle.wem"
+        },
+        "9136ce14ea898901": {
+            "hash": "9136ce14ea898901",
+            "directory": "External18",
+            "voiceContent": "...When they first brought me back to the tribe, I didn't fit in at all. I felt so out of place — like an alien who suddenly got dropped into a human world... But Chuychu and her— I mean, our parents accepted me for who I was.I'm eternally grateful that I met them, and for that reason, I will defend their beloved tribe... for as long as I live.",
+            "sourceName": "vo_chasca_dialog_idle2.wem"
+        },
+        "07aac8d5251f68b8": {
+            "hash": "07aac8d5251f68b8",
+            "directory": "External0",
+            "voiceContent": "Thank you so much for helping with the Coya situation... I honestly don't know how things would've gone down without you there.She's nowhere near as hostile toward humans anymore, but it'll still take her some time to get used to them. Old habits die hard.Chime, on the other hand? Loves hanging out with the tribe. She gets along really well with Yatlan and the other kids... Heh, watching them play together, it sometimes reminds me of me and Coya when we were little.Anyway, now Mom's the one being difficult... I don't know what's gotten into her recently. She keeps nagging me to build a nest of my own like Coya. And she's all, maybe it's time to expand your family even further... Where is all this coming from? ...Hmm? What are you smiling about?",
+            "sourceName": "vo_chasca_dialog_close1.wem"
+        },
+        "9bdd993fc963a6d5": {
+            "hash": "9bdd993fc963a6d5",
+            "directory": "External19",
+            "voiceContent": "With your skills, I doubt anyone in Natlan would dare start something with you. But there are exceptions to every rule, so if you ever find yourself in a situation you can't brute force your way out of, be sure to come to me. I'll straighten things out.",
+            "sourceName": "vo_chasca_dialog_close.wem"
+        },
+        "2be9694fa7b53d60": {
+            "hash": "2be9694fa7b53d60",
+            "directory": "External5",
+            "voiceContent": "People often find it embarrassing to open up about their childhood mistakes... Why is that? Whether you're a human or a Qucusaur, you can only grow by learning from your past mistakes.That's why I'm not shy about my history of mindlessly lashing out as a kid. Nowadays, I never draw my gun without thinking it through first, even if just for a couple of seconds... or maybe a half second.",
+            "sourceName": "vo_chasca_dialog_share_01.wem"
+        },
+        "d5b5a94a0fe78642": {
+            "hash": "d5b5a94a0fe78642",
+            "directory": "External26",
+            "voiceContent": "Natlan has a lot of very tall trees. You get great visibility from up top, and they're good places to launch off. You wanna try? Don't worry, I'll catch you if you fall.",
+            "sourceName": "vo_chasca_pref_gift_01.wem"
+        },
+        "2d131dd5445ae2c4": {
+            "hash": "2d131dd5445ae2c4",
+            "directory": "External5",
+            "voiceContent": "Every Qucusaur falls from its nest before it learns to fly. Kachina didn't magically become a champion overnight. Her victory was a result of consistent, tireless effort over a very long time. She's an outstanding warrior who deserves all the honor and respect she can get.",
+            "sourceName": "vo_chasca_teammate_kachina_01.wem"
+        },
+        "760407af57461c2c": {
+            "hash": "760407af57461c2c",
+            "directory": "External14",
+            "voiceContent": "Mualani says we got into a fight as kids over some toy we both wanted, but I don't remember any of that.Hmm... I wonder if it's because I got into so many fights that I just lost track of them all? I also wonder if it was actually her surfboard I was after, rather than a toy... I'll bet I just wanted the ability to go hunting on water.Heh, whatever it was, I doubt our feud lasted more than a day. It never does with Mualani.",
+            "sourceName": "vo_chasca_teammate_mualani_01.wem"
+        },
+        "907fbdc270cf4bc4": {
+            "hash": "907fbdc270cf4bc4",
+            "directory": "External18",
+            "voiceContent": "She might come across as low-energy, but make no mistake — she's one of the most diligent people you'll ever meet.When I asked her to build my gun for me, I barely put any thought into it, just gave her a general idea of what I wanted, and left it with her. Then, once she started working on it in earnest, she spent an entire day questioning me — what would a typical day's flying look like, how often I was expecting to use it, and so on — and by the end of the day, there were abandoned designs schemes all over the floor... I was so exhausted that I fell asleep even before she did.Then she wrote a whole maintenance guide, which she forced me to learn by heart so I wouldn't come bugging her with issues every day... Well, that's what she said. But I suspect her real reason was that she wanted to make sure I'd look after myself and fly safe.",
+            "sourceName": "vo_chasca_teammate_xilonen_01.wem"
+        },
+        "008a0b22462bcaa5": {
+            "hash": "008a0b22462bcaa5",
+            "directory": "External0",
+            "voiceContent": "Chuychu and my dad have discussed medicine with him countless times. So after I got back from the airborne workshop, the first thing I did was take Coya to get checked out by him. But he seemed so dismissive — he took one glance, said it's nothing serious, Cusco can handle it, and then immediately left to deal with another patient... *sigh* He was right, of course. I was just worrying too much.",
+            "sourceName": "vo_chasca_teammate_ifa_01.wem"
+        },
+        "d912e9057a3ca7d1": {
+            "hash": "d912e9057a3ca7d1",
+            "directory": "External27",
+            "voiceContent": "I've always felt that training oneself and training others are two very different skillsets. Very few people have them both, but Iansan has them in spades.I, for one, am not very good at teaching other people. Whenever I'm trying to demonstrate something to the flying squad, I spend forever trying to explain some basic, boring detail that seems intuitive to me... only to have everyone ask, What's intuitive about that!?If only Iansan could tutor them, I bet we'd have twice as many candidates pass the flying trials each year... Shame that her training program doesn't include flying.",
+            "sourceName": "vo_chasca_teammate_iansan_01.wem"
+        },
+        "af2b67be425280a1": {
+            "hash": "af2b67be425280a1",
+            "directory": "External21",
+            "voiceContent": "Some people compare me to the Pyro Archon because of my track record in the Pilgrimage. It's a meaningless comparison. If the Pilgrimage was a tree, and I was a vulture on the highest branch, then the Pyro Archon would be the sun in the sky... The stronger you get, the more you appreciate the sheer size of the gulf between you and her. I just won a few championships — she's the champion of an entire era.But at least being on top with a clear view of the sky means I can see exactly how high I want to fly from here.",
+            "sourceName": "vo_chasca_teammate_mavuika_01.wem"
+        },
+        "440ab3f09f42d769": {
+            "hash": "440ab3f09f42d769",
+            "directory": "External8",
+            "voiceContent": "When I first saw Ajaw, I thought Oh, Kinich has a saurian he treats like family, too... Blissfully unaware of how far off the mark I was. Their relationship is... truly one-of-a-kind.Although I will say, Ajaw's mastery of the human language makes me pretty envious. I wish mom could talk like that, too, so we could do away with the whole body-language-based guesswork-game.",
+            "sourceName": "vo_chasca_teammate_kinich_01.wem"
+        },
+        "8607a460ad984d43": {
+            "hash": "8607a460ad984d43",
+            "directory": "External16",
+            "voiceContent": "My dad told me that when I was little, they gathered all of the most learned elders in Natlan and asked them to come up with a plan for managing my Abyss condition. They all disagreed on the best approach, and it turned into a drawn-out debate. At some point, Citlali quietly left the room, but they were all too busy arguing to notice. When she got back, she put some food and wine down in front of her, ignored everyone, and just started eating... the table suddenly went very quiet.Just by looking at her, you'd never know how much seniority and experience she has.",
+            "sourceName": "vo_chasca_teammate_citlali_01.wem"
+        },
+        "f95084f04c18b592": {
+            "hash": "f95084f04c18b592",
+            "directory": "External31",
+            "voiceContent": "As a peacemaker, I know full well that violence isn't always the answer. But in many cases, having the capacity for violence makes people much more willing to listen to reason.",
+            "sourceName": "vo_chasca_friendship_01.wem"
+        },
+        "7fd3e2f9b64bb2f5": {
+            "hash": "7fd3e2f9b64bb2f5",
+            "directory": "External15",
+            "voiceContent": "The warriors of the Flower-Feather Clan are a proud bunch, but the Qucusaurs are a prouder bunch still. Anyone who aspires to become a Rider has to train relentlessly and then win their approval — even me, and I was practically one of them growing up. It's only fair, though. Allowing a rookie to ride a Qucusaur into the skies would be highly irresponsible for both the Qucusaur and the Rider.",
+            "sourceName": "vo_chasca_friendship_02.wem"
+        },
+        "fde0a901f97e3c64": {
+            "hash": "fde0a901f97e3c64",
+            "directory": "External31",
+            "voiceContent": "Sometimes, after failing the flying trials countless times and never winning the Qucusaurs' approval, people lose all their motivation and decide to call it quits. In the Flower-Feather Clan, we call those people the Wingless... But generally, only the most outstanding warriors even attempt the flying trials in the first place. Their fighting spirit may have faded out, but it will one day burn again. And until that day comes, we will quietly watch over them, just as the Qucusaurs watch over their unfledged young.",
+            "sourceName": "vo_chasca_friendship_03.wem"
+        },
+        "2c0a7708eca10fef": {
+            "hash": "2c0a7708eca10fef",
+            "directory": "External5",
+            "voiceContent": "I was never able to enjoy a proper, happy childhood, but when I was on the brink of death, momma bird gave me a new life, and when I was lost and directionless, Chuychu gave me something to believe in. Behind me, I have my saurian family, my human family, and every other creature in the family we call Natlan. So I will not be defeated. Not by the Abyss, and not by life's hardships. Watch me, I will transcend it all!",
+            "sourceName": "vo_chasca_friendship_04.wem"
+        },
+        "aa4d15113000e406": {
+            "hash": "aa4d15113000e406",
+            "directory": "External21",
+            "voiceContent": "Chuychu hoped I'd become a hero. So... I can't give up. I have to stay strong, for her sake...But when the relic exploded, and Coya dove in front of me, I... the same fear of losing my sister came flooding back again...Sorry, I just don't really know who I can talk to about this kind of stuff. I usually push it to the back of my mind... But I feel much better now.Since I can't forget that fear, I guess I'll try the opposite remember it, own it. And eventually... transcend it.",
+            "sourceName": "vo_chasca_friendship_05.wem"
+        },
+        "4c709a868e4d8bee": {
+            "hash": "4c709a868e4d8bee",
+            "directory": "External9",
+            "voiceContent": "Starting fights is more trouble than it's worth. Gets you into too much trouble. Now, ending fights, on the other hand, much more acceptable. This is why I love being a peacemaker, because the fights come to me... Heh, I'm just kidding, of course.",
+            "sourceName": "vo_chasca_pref_hobby.wem"
+        },
+        "068cfc44559de231": {
+            "hash": "068cfc44559de231",
+            "directory": "External0",
+            "voiceContent": "Growing up by the sea, I mostly ate raw fish, and after I came to the tribe, I grew to love Flash-Grilled Steak... Qucusaurs and humans have wildly different diets, but I enjoy them both.",
+            "sourceName": "vo_chasca_pref_foodLike.wem"
+        },
+        "0fb0783c25866353": {
+            "hash": "0fb0783c25866353",
+            "directory": "External1",
+            "voiceContent": "Anything with too much alcohol, I guess. Not because I don't like drinking — I just need to watch my intake very carefully before a flight. But you get some food where the scent of the alcohol is masked by the other flavors... Looks tasty, smells delicious, so you take a bite, and then... uh-oh, it's a trap.",
+            "sourceName": "vo_chasca_pref_foodDislike.wem"
+        },
+        "00736ee564ef731e": {
+            "hash": "00736ee564ef731e",
+            "directory": "External0",
+            "voiceContent": "I'm telling you, this dish plus a nice wine would increase the chances of mediation success by thirty percent. Heh, there's nothing quite like some good food and wine to put people in a good mood.",
+            "sourceName": "vo_chasca_spice_pref_01.wem"
+        },
+        "3d2534abd04b4ea4": {
+            "hash": "3d2534abd04b4ea4",
+            "directory": "External7",
+            "voiceContent": "This is pretty good. Thanks.",
+            "sourceName": "vo_chasca_spice_normal_01.wem"
+        },
+        "5d4b1c8087a6e528": {
+            "hash": "5d4b1c8087a6e528",
+            "directory": "External11",
+            "voiceContent": "Uh... Was this meant for the qucusaurs? ...Sorry, but this isn't the kind of thing they go for.",
+            "sourceName": "vo_chasca_spice_dislike_01.wem"
+        },
+        "83b4c2d658c6583d": {
+            "hash": "83b4c2d658c6583d",
+            "directory": "External16",
+            "voiceContent": "Here, take this gun. It's loaded with six rounds, including an extra-special one. Find an open space and try it out — or better yet, fly up into the sky and do it there.Ooh, you got the special round on the first try, huh? Luck's on your side today... That was a whistling birthday firework. I made it myself!Hmm? ...What are the other five rounds? More fireworks, of course! But they're the trial runs that I made before the one you just fired off. The color's different, and they're not perfect. Next year, I'll do my best to make a full six top-quality rounds for you.",
+            "sourceName": "vo_chasca_pref_birthday_01.wem"
+        },
+        "a6e5f0d30728af3d": {
+            "hash": "a6e5f0d30728af3d",
+            "directory": "External20",
+            "voiceContent": "Huh, is that a new bullet in the chamber?",
+            "sourceName": "vo_chasca_starUp_01.wem"
+        },
+        "4ce0d2cad8c2ea3a": {
+            "hash": "4ce0d2cad8c2ea3a",
+            "directory": "External9",
+            "voiceContent": "Need me to mediate anything? Tribal trouble? Or an all-out war, maybe?",
+            "sourceName": "vo_chasca_starUp_02.wem"
+        },
+        "a5bc04c15ca6b103": {
+            "hash": "a5bc04c15ca6b103",
+            "directory": "External20",
+            "voiceContent": "There's an urge to fight that runs in my veins... But now, I know how to put it to good use.",
+            "sourceName": "vo_chasca_starUp_03.wem"
+        },
+        "e8fd36fcc97264b0": {
+            "hash": "e8fd36fcc97264b0",
+            "directory": "External29",
+            "voiceContent": "Kindness should always be repaid, and merit rewarded. This is one universal principle that holds true for both the Qucusaur and human worlds. From this day forth, no matter where you go, my wings and my guns will always be at your service.",
+            "sourceName": "vo_chasca_starUp_04.wem"
+        },
+        "f0c5cadfec69f991": {
+            "hash": "f0c5cadfec69f991",
+            "directory": "External30",
+            "voiceContent": "A worthy fight...!",
+            "sourceName": "vo_chasca_life_less30_01.wem"
+        },
+        "bf36fcd8f665b0ee": {
+            "hash": "bf36fcd8f665b0ee",
+            "directory": "External23",
+            "voiceContent": "Now I'm all warmed up.",
+            "sourceName": "vo_chasca_life_less30_02.wem"
+        },
+        "445a5ed0b5e904f7": {
+            "hash": "445a5ed0b5e904f7",
+            "directory": "External8",
+            "voiceContent": "You want crazy? I'll show you crazy!",
+            "sourceName": "vo_chasca_life_less30_03.wem"
+        },
+        "e75cecc4ecb40cf3": {
+            "hash": "e75cecc4ecb40cf3",
+            "directory": "External28",
+            "voiceContent": "I'm... falling...",
+            "sourceName": "vo_chasca_life_die_03.wem"
+        },
+        "37869cab246ef805": {
+            "hash": "37869cab246ef805",
+            "directory": "External6",
+            "voiceContent": "This is about to get messy...",
+            "sourceName": "vo_chasca_battle_hit_H_01.wem"
+        },
+        "dd147ea2f5ac61e2": {
+            "hash": "dd147ea2f5ac61e2",
+            "directory": "External27",
+            "voiceContent": "...Again!",
+            "sourceName": "vo_chasca_battle_hit_H_02.wem"
+        },
+        "b703a869234dc2b1": {
+            "hash": "b703a869234dc2b1",
+            "directory": "External22",
+            "voiceContent": "The Abyssal energy. Not because it affects me that much — it doesn't anymore. More because of how much it makes the people around me worry about my safety.",
+            "sourceName": "vo_chasca_dialog_annoyed_01.wem"
+        },
+        "0d7587e021302ff4": {
+            "hash": "0d7587e021302ff4",
+            "directory": "External1",
+            "voiceContent": "Chasca, Flower-Feather Clan. Any disputes you need me to end for you? Depending on the situation, it could cost you a little dignity, a few drinks, or potentially... a round of ammo.",
+            "sourceName": "vo_chasca_draw_appear_01.wem"
+        },
+        "18e9b86601cc360d": {
+            "hash": "18e9b86601cc360d",
+            "directory": "External3",
+            "voiceContent": "This Vision played a major part in my fight against the Abyss. If it hadn't shown up when it did, I don't know who I would be today.",
+            "sourceName": "vo_chasca_dialog_pendant_01.wem"
+        }
+    }
+}

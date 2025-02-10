@@ -1,0 +1,859 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "1230370441a07e28": {
+            "hash": "1230370441a07e28",
+            "directory": "External2",
+            "voiceContent": "ナタは再び勝利を！",
+            "sourceName": "vo_NTAQ303_10_mualani_01.wem"
+        },
+        "b02e0ee50f9d3977": {
+            "hash": "b02e0ee50f9d3977",
+            "directory": "External22",
+            "voiceContent": "頭痛はどう？支えてあげよっか？",
+            "sourceName": "vo_NTAQ007_7_mualani_07.wem"
+        },
+        "08f2ae28450b763d": {
+            "hash": "08f2ae28450b763d",
+            "directory": "External1",
+            "voiceContent": "やっぱり気づかれちゃったか…",
+            "sourceName": "vo_MLNLQ004_2_mualani_13.wem"
+        },
+        "9d74943126522b6c": {
+            "hash": "9d74943126522b6c",
+            "directory": "External19",
+            "voiceContent": "しっかりついてきて。あんまり離れないようにね。",
+            "sourceName": "vo_MLNLQ004_2_mualani_12.wem"
+        },
+        "123da03dee38795a": {
+            "hash": "123da03dee38795a",
+            "directory": "External2",
+            "voiceContent": "こっちだよ！今あっちに行ったら絶対に気づかれちゃうから！",
+            "sourceName": "vo_MLNLQ004_3_mualani_08.wem"
+        },
+        "df104d6d136b7b99": {
+            "hash": "df104d6d136b7b99",
+            "directory": "External27",
+            "voiceContent": "それはね…パーティー会場だよ！",
+            "sourceName": "vo_MLNLQ004_1_mualani_12.wem"
+        },
+        "7b726f07cdddda7a": {
+            "hash": "7b726f07cdddda7a",
+            "directory": "External15",
+            "voiceContent": "おー、上に着いた！ありがとね、カチーナちゃん！",
+            "sourceName": "vo_NTAQ002_4_mualani_08.wem"
+        },
+        "247bfcef185d23c9": {
+            "hash": "247bfcef185d23c9",
+            "directory": "External4",
+            "voiceContent": "登るのにかなり時間かかりそう…",
+            "sourceName": "vo_NTAQ002_4_mualani_07.wem"
+        },
+        "76ac62f6204aed08": {
+            "hash": "76ac62f6204aed08",
+            "directory": "External14",
+            "voiceContent": "この山、ずいぶん高いなぁ…次の聖火台はあんな遠いところにあるの？",
+            "sourceName": "vo_NTAQ002_4_mualani_06.wem"
+        },
+        "ce33813095dfec84": {
+            "hash": "ce33813095dfec84",
+            "directory": "External25",
+            "voiceContent": "そう。さあ、一気につぶそう！",
+            "sourceName": "vo_NTAQ003_9_mualani_11.wem"
+        },
+        "7397961957031ca5": {
+            "hash": "7397961957031ca5",
+            "directory": "External14",
+            "voiceContent": "思ったより沢山いる…これじゃ難しいな…",
+            "sourceName": "vo_MLNLQ004_4_mualani_11.wem"
+        },
+        "2333ea28903b359f": {
+            "hash": "2333ea28903b359f",
+            "directory": "External4",
+            "voiceContent": "一旦撤退して、もう一度試しましょ。",
+            "sourceName": "vo_MLNLQ004_4_mualani_17.wem"
+        },
+        "3a66363ad874f999": {
+            "hash": "3a66363ad874f999",
+            "directory": "External7",
+            "voiceContent": "驚かせないように、慎重にね。",
+            "sourceName": "vo_MLNLQ004_4_mualani_15.wem"
+        },
+        "c8f8dc2061a7fcd4": {
+            "hash": "c8f8dc2061a7fcd4",
+            "directory": "External25",
+            "voiceContent": "ふぅ、子供のコホラ竜か…安心して、この子に敵意はないから。",
+            "sourceName": "vo_MLNLQ004_4_mualani_10.wem"
+        },
+        "b8a8dc431bd4dc18": {
+            "hash": "b8a8dc431bd4dc18",
+            "directory": "External23",
+            "voiceContent": "…ついてきて！",
+            "sourceName": "vo_MLNLQ004_4_mualani_14.wem"
+        },
+        "726e6a07ac82654b": {
+            "hash": "726e6a07ac82654b",
+            "directory": "External14",
+            "voiceContent": "キューキュー！",
+            "sourceName": "vo_MLNLQ004_4_mualani_13.wem"
+        },
+        "ca2208320c28b436": {
+            "hash": "ca2208320c28b436",
+            "directory": "External25",
+            "voiceContent": "あ～っ、やっぱり気づかれちゃった！",
+            "sourceName": "vo_MLNLQ004_4_mualani_16.wem"
+        },
+        "37f0c836100a541a": {
+            "hash": "37f0c836100a541a",
+            "directory": "External6",
+            "voiceContent": "何の音？気をつけて！",
+            "sourceName": "vo_MLNLQ004_4_mualani_09.wem"
+        },
+        "1926781128423882": {
+            "hash": "1926781128423882",
+            "directory": "External3",
+            "voiceContent": "あっ、いいアイデアがあるよ。ちょっと待ってて！",
+            "sourceName": "vo_MLNLQ004_4_mualani_12.wem"
+        },
+        "e5897a2f07ed7163": {
+            "hash": "e5897a2f07ed7163",
+            "directory": "External28",
+            "voiceContent": "あの子たちの視界に入らないようにね！",
+            "sourceName": "vo_MLNLQ004_4_mualani_08.wem"
+        },
+        "ed1dc2514936975e": {
+            "hash": "ed1dc2514936975e",
+            "directory": "External29",
+            "voiceContent": "あの子たちのパーティーを邪魔しないようにね！",
+            "sourceName": "vo_MLNLQ004_5_mualani_15.wem"
+        },
+        "cc651381e7e3209f": {
+            "hash": "cc651381e7e3209f",
+            "directory": "External25",
+            "voiceContent": "右側の「スピリットウェイ」に切り替えて！",
+            "sourceName": "vo_MLNLQ005_2_mualani_12.wem"
+        },
+        "7353318b63d09f36": {
+            "hash": "7353318b63d09f36",
+            "directory": "External14",
+            "voiceContent": "次の「燃素ノード」を起動して！",
+            "sourceName": "vo_MLNLQ005_2_mualani_13.wem"
+        },
+        "1cc8bf72aeab07a5": {
+            "hash": "1cc8bf72aeab07a5",
+            "directory": "External3",
+            "voiceContent": "先の道がなくなっちゃった。別の「スピリットウェイ」に切り替えて！",
+            "sourceName": "vo_MLNLQ005_2_mualani_14.wem"
+        },
+        "722a0579b94fe7d4": {
+            "hash": "722a0579b94fe7d4",
+            "directory": "External14",
+            "voiceContent": "次の「燃素ノード」をお願い！",
+            "sourceName": "vo_MLNLQ005_2_mualani_15.wem"
+        },
+        "12d4392c15c9f654": {
+            "hash": "12d4392c15c9f654",
+            "directory": "External2",
+            "voiceContent": "真ん中から通れるよ、早く！",
+            "sourceName": "vo_NTAQ007_9_mualani_15.wem"
+        },
+        "6216fde9c88aeb36": {
+            "hash": "6216fde9c88aeb36",
+            "directory": "External12",
+            "voiceContent": "また落石？えい！",
+            "sourceName": "vo_MLNLQ006_5_mualani_04.wem"
+        },
+        "bb28dfe04c9d6c9f": {
+            "hash": "bb28dfe04c9d6c9f",
+            "directory": "External23",
+            "voiceContent": "あそこだね！間に合ってよかった…",
+            "sourceName": "vo_MLNLQ006_5_mualani_05.wem"
+        },
+        "0b8c8bd1136553a5": {
+            "hash": "0b8c8bd1136553a5",
+            "directory": "External1",
+            "voiceContent": "洞窟がますます不安定になってる。急がなきゃ！",
+            "sourceName": "vo_MLNLQ006_5_mualani_03.wem"
+        },
+        "4dd70c1db9ac5a29": {
+            "hash": "4dd70c1db9ac5a29",
+            "directory": "External9",
+            "voiceContent": "あれ？いない…くっ、水の流れが急すぎる！",
+            "sourceName": "vo_MLNLQ005_4_mualani_16.wem"
+        },
+        "f82bf227387e55e8": {
+            "hash": "f82bf227387e55e8",
+            "directory": "External31",
+            "voiceContent": "間に合った！",
+            "sourceName": "vo_MLNLQ005_4_mualani_17.wem"
+        },
+        "dd92de14ed6014c6": {
+            "hash": "dd92de14ed6014c6",
+            "directory": "External27",
+            "voiceContent": "あっち？まずいな、どんどん流されちゃうよ！",
+            "sourceName": "vo_MLNLQ005_4_mualani_15.wem"
+        },
+        "c7150726dd15c2e6": {
+            "hash": "c7150726dd15c2e6",
+            "directory": "External24",
+            "voiceContent": "こんなやつらに構ってる余裕ないのに。",
+            "sourceName": "vo_NTAQ007_6_mualani_05.wem"
+        },
+        "d1d6bca6e21cc5ca": {
+            "hash": "d1d6bca6e21cc5ca",
+            "directory": "External26",
+            "voiceContent": "危ない！",
+            "sourceName": "vo_MLNLQ006_2_mualani_09.wem"
+        },
+        "e4d20a88f087e415": {
+            "hash": "e4d20a88f087e415",
+            "directory": "External28",
+            "voiceContent": "気を付けて、また落石だよ！",
+            "sourceName": "vo_MLNLQ006_2_mualani_11.wem"
+        },
+        "5f78d09130d74484": {
+            "hash": "5f78d09130d74484",
+            "directory": "External11",
+            "voiceContent": "溶岩洞ってやっぱり安定しないね。みんな、落石に気を付けて。",
+            "sourceName": "vo_MLNLQ006_2_mualani_10.wem"
+        },
+        "36ad5c869bc02f36": {
+            "hash": "36ad5c869bc02f36",
+            "directory": "External6",
+            "voiceContent": "地図が示した通りだと…下へ進めってことかな。よし…みんな、落ち着いて。あたしと一緒に飛び降りて！",
+            "sourceName": "vo_MLNLQ006_2_mualani_05.wem"
+        },
+        "535dee9e9e8f0fd3": {
+            "hash": "535dee9e9e8f0fd3",
+            "directory": "External10",
+            "voiceContent": "こっちじゃないはず…この先は危険だよ。",
+            "sourceName": "vo_MLNLQ006_2_mualani_08.wem"
+        },
+        "b30c2c81fa543d32": {
+            "hash": "b30c2c81fa543d32",
+            "directory": "External22",
+            "voiceContent": "洞窟がますます不安定になってきてるみたい…",
+            "sourceName": "vo_MLNLQ006_2_mualani_12.wem"
+        },
+        "0e82b365bb94a4bc": {
+            "hash": "0e82b365bb94a4bc",
+            "directory": "External1",
+            "voiceContent": "そうこなくっちゃ！あたしも勝つから、二人で一緒に「夜巡者の戦争」に行こうね！",
+            "sourceName": "vo_NTAQ002_4_mualani_20.wem"
+        },
+        "b437cee64c10de66": {
+            "hash": "b437cee64c10de66",
+            "directory": "External22",
+            "voiceContent": "すごいじゃん、カチーナちゃん！",
+            "sourceName": "vo_NTAQ002_4_mualani_04.wem"
+        },
+        "6e960d9a9e95e231": {
+            "hash": "6e960d9a9e95e231",
+            "directory": "External13",
+            "voiceContent": "聖火台は空っぽか…どうやらあたしたち、出遅れたみたいね。",
+            "sourceName": "vo_NTAQ002_4_mualani_10.wem"
+        },
+        "4d564f70ee63213a": {
+            "hash": "4d564f70ee63213a",
+            "directory": "External9",
+            "voiceContent": "もっと自信持って！カチーナちゃんは十分強い戦士だから！",
+            "sourceName": "vo_NTAQ002_4_mualani_17.wem"
+        },
+        "e972b3a2df129bb0": {
+            "hash": "e972b3a2df129bb0",
+            "directory": "External29",
+            "voiceContent": "あはは、かかっておいで！",
+            "sourceName": "vo_NTAQ002_4_mualani_11.wem"
+        },
+        "35f530de08b1094f": {
+            "hash": "35f530de08b1094f",
+            "directory": "External6",
+            "voiceContent": "ほら、ぼーっとしてないで！聖火を持って次に行こう！",
+            "sourceName": "vo_NTAQ002_4_mualani_05.wem"
+        },
+        "e848bf913490900e": {
+            "hash": "e848bf913490900e",
+            "directory": "External29",
+            "voiceContent": "やばい、時間がない！",
+            "sourceName": "vo_NTAQ002_4_mualani_13.wem"
+        },
+        "a63181677246e803": {
+            "hash": "a63181677246e803",
+            "directory": "External20",
+            "voiceContent": "いいの、二人だからこそ勝てたんだよ。あたし一人じゃあんなに沢山の人を負かすなんてできなかったもん。",
+            "sourceName": "vo_NTAQ002_4_mualani_16.wem"
+        },
+        "f9c4dd583bc3e089": {
+            "hash": "f9c4dd583bc3e089",
+            "directory": "External31",
+            "voiceContent": "キャハッ、すっごい急カーブ。怖くない？",
+            "sourceName": "vo_NTAQ002_4_mualani_18.wem"
+        },
+        "d0e7a0fe4ede7843": {
+            "hash": "d0e7a0fe4ede7843",
+            "directory": "External26",
+            "voiceContent": "そんなの聞くまでもないでしょ。まとめてぶっ飛ばすよ！",
+            "sourceName": "vo_NTAQ002_4_mualani_09.wem"
+        },
+        "a75b6d791cc8e63d": {
+            "hash": "a75b6d791cc8e63d",
+            "directory": "External20",
+            "voiceContent": "待って、そこにスピリットウェイがある。あれに乗って帰ろう！",
+            "sourceName": "vo_NTAQ002_4_mualani_14.wem"
+        },
+        "6a062188f130bb17": {
+            "hash": "6a062188f130bb17",
+            "directory": "External13",
+            "voiceContent": "聖火は十分かな…！カチーナちゃん、大丈夫？",
+            "sourceName": "vo_NTAQ002_4_mualani_12.wem"
+        },
+        "4bf6435f43b35dc8": {
+            "hash": "4bf6435f43b35dc8",
+            "directory": "External9",
+            "voiceContent": "そうそう、知り合ったばっかの頃だっけ？うっかりケーキをひっくり返しちゃったお詫びに、スピリットウェイに乗せてあげたんだよね。",
+            "sourceName": "vo_NTAQ002_4_mualani_19.wem"
+        },
+        "b30de2d4a18ee044": {
+            "hash": "b30de2d4a18ee044",
+            "directory": "External22",
+            "voiceContent": "待ち伏せに注意してね…気を付けて、誰か来る！",
+            "sourceName": "vo_NTAQ002_4_mualani_02.wem"
+        },
+        "35021ccc5e5e09d5": {
+            "hash": "35021ccc5e5e09d5",
+            "directory": "External6",
+            "voiceContent": "まだまだ！さ、焔を持って次の場所に行こう！",
+            "sourceName": "vo_NTAQ002_4_mualani_03.wem"
+        },
+        "3bdd5381fe0f9b6c": {
+            "hash": "3bdd5381fe0f9b6c",
+            "directory": "External7",
+            "voiceContent": "カチーナちゃん、しっかりあたしに掴まっててよ。スピリットウェイがあって本当によかった…知ってるでしょ？「流泉の衆」の人間はこれに乗って山も海も越えられるの。これくらい、どうってことないから。",
+            "sourceName": "vo_NTAQ002_4_mualani_15.wem"
+        },
+        "8895b0bd27db613b": {
+            "hash": "8895b0bd27db613b",
+            "directory": "External17",
+            "voiceContent": "聖火台みーっけ。まだ誰も来てないみたい。",
+            "sourceName": "vo_NTAQ002_4_mualani_01.wem"
+        },
+        "84852b2b27817fbf": {
+            "hash": "84852b2b27817fbf",
+            "directory": "External16",
+            "voiceContent": "ううん、アビスそのものだよ。さ、やっつけよう。",
+            "sourceName": "vo_NTAQ003_9_mualani_01.wem"
+        },
+        "24e9d2f0210b28ac": {
+            "hash": "24e9d2f0210b28ac",
+            "directory": "External4",
+            "voiceContent": "え～っと、それは確かに…？",
+            "sourceName": "vo_NTAQ108_4_mualani_03.wem"
+        },
+        "39c8cedf1441d87a": {
+            "hash": "39c8cedf1441d87a",
+            "directory": "External7",
+            "voiceContent": "ねぇ、すっごくでっかい火の玉が頭に落ちてきたんだけど！？",
+            "sourceName": "vo_NTAQ108_4_mualani_01.wem"
+        },
+        "93cdece742a79d7d": {
+            "hash": "93cdece742a79d7d",
+            "directory": "External18",
+            "voiceContent": "えっ？あっ？炎神様！？まったく熱くなかったので！すごくカッコよかったですよ！",
+            "sourceName": "vo_NTAQ108_4_mualani_02.wem"
+        }
+    },
+    "Gameplay": {
+        "1d840132bab9280f": {
+            "hash": "1d840132bab9280f",
+            "directory": "External3",
+            "voiceContent": "しゅっぱーつ！",
+            "sourceName": "vo_mualani_battle_skill1_01.wem"
+        },
+        "5e3c334ad254bfc8": {
+            "hash": "5e3c334ad254bfc8",
+            "directory": "External11",
+            "voiceContent": "ドリフト～♪",
+            "sourceName": "vo_mualani_battle_skill1_02.wem"
+        },
+        "0c0acd43ca654289": {
+            "hash": "0c0acd43ca654289",
+            "directory": "External1",
+            "voiceContent": "加速するよ！",
+            "sourceName": "vo_mualani_battle_skill1_03.wem"
+        },
+        "eacb0f1a1a3281b2": {
+            "hash": "eacb0f1a1a3281b2",
+            "directory": "External29",
+            "voiceContent": "ひゅー！",
+            "sourceName": "vo_mualani_battle_skill1_04.wem"
+        },
+        "6cbe8111d70057fb": {
+            "hash": "6cbe8111d70057fb",
+            "directory": "External13",
+            "voiceContent": "さいっこう！",
+            "sourceName": "vo_mualani_battle_skill1_05.wem"
+        },
+        "9737b32950b58904": {
+            "hash": "9737b32950b58904",
+            "directory": "External18",
+            "voiceContent": "波が来たよ！",
+            "sourceName": "vo_mualani_battle_skill1_06.wem"
+        },
+        "077fe80ff164296d": {
+            "hash": "077fe80ff164296d",
+            "directory": "External0",
+            "voiceContent": "ビッグウェーブ——ざぶーんっ！",
+            "sourceName": "vo_mualani_battle_skill3_01.wem"
+        },
+        "d98d4a08fe70e9ea": {
+            "hash": "d98d4a08fe70e9ea",
+            "directory": "External27",
+            "voiceContent": "ざぶざぶサメくんアターック！",
+            "sourceName": "vo_mualani_battle_skill3_02.wem"
+        },
+        "5b147c00bae333f3": {
+            "hash": "5b147c00bae333f3",
+            "directory": "External11",
+            "voiceContent": "注目～！君に幸あれ！",
+            "sourceName": "vo_mualani_battle_skill3_03.wem"
+        },
+        "1577de423564eac4": {
+            "hash": "1577de423564eac4",
+            "directory": "External2",
+            "voiceContent": "ね、今日は幸運の日だって言ったでしょ！",
+            "sourceName": "vo_mualani_chest_open_01.wem"
+        },
+        "eaffac2abbb16bbb": {
+            "hash": "eaffac2abbb16bbb",
+            "directory": "External29",
+            "voiceContent": "いいものは箱の一番底に隠れてるものなんだよ。",
+            "sourceName": "vo_mualani_chest_open_02.wem"
+        },
+        "65a63a32fc006d72": {
+            "hash": "65a63a32fc006d72",
+            "directory": "External12",
+            "voiceContent": "あっ、落ちちゃったよ、早く拾って。金運のほうは落ちてないといいんだけど…",
+            "sourceName": "vo_mualani_chest_open_03.wem"
+        },
+        "48329b6724b43f64": {
+            "hash": "48329b6724b43f64",
+            "directory": "External9",
+            "voiceContent": "君は独りじゃないよ！",
+            "sourceName": "vo_mualani_life_less30_teammate_01.wem"
+        },
+        "c596e94d341e41db": {
+            "hash": "c596e94d341e41db",
+            "directory": "External24",
+            "voiceContent": "ひどい。あたしがボコボコにしたげる！",
+            "sourceName": "vo_mualani_life_less30_teammate_02.wem"
+        },
+        "7a7f598ffab12e21": {
+            "hash": "7a7f598ffab12e21",
+            "directory": "External15",
+            "voiceContent": "ガイドが脱落するなんて…",
+            "sourceName": "vo_mualani_life_die_01.wem"
+        },
+        "20444b87cc1df57e": {
+            "hash": "20444b87cc1df57e",
+            "directory": "External4",
+            "voiceContent": "「我々は独りで戦ったりしない」…",
+            "sourceName": "vo_mualani_life_die_02.wem"
+        },
+        "ce81f0287f297c35": {
+            "hash": "ce81f0287f297c35",
+            "directory": "External25",
+            "voiceContent": "わあ！このチームなら、絶対勝てるね！",
+            "sourceName": "vo_mualani_teamJoin_01.wem"
+        },
+        "4b64921f17d9a8d2": {
+            "hash": "4b64921f17d9a8d2",
+            "directory": "External9",
+            "voiceContent": "やっほー。みんな元気？",
+            "sourceName": "vo_mualani_teamJoin_02.wem"
+        },
+        "cd580416d4a77e1b": {
+            "hash": "cd580416d4a77e1b",
+            "directory": "External25",
+            "voiceContent": "よーし！行っくぞ～！",
+            "sourceName": "vo_mualani_teamJoin_03.wem"
+        },
+        "fd061b61a5a38db6": {
+            "hash": "fd061b61a5a38db6",
+            "directory": "External31",
+            "voiceContent": "「遊びに行く」ってのは、「行く」ことが大事なの。来てさえくれれば、あとは全部あたしに任せればいいよ。",
+            "sourceName": "vo_mualani_character_idle_01.wem"
+        },
+        "6d4a496a71efd319": {
+            "hash": "6d4a496a71efd319",
+            "directory": "External13",
+            "voiceContent": "波を追いかけて走ったことある？やってみたい？やってみようよ？ほら、今すぐ行こ！一緒にいい感じの海辺を探してあげるよ。",
+            "sourceName": "vo_mualani_character_idle_02.wem"
+        },
+        "eb8cef72b54fb598": {
+            "hash": "eb8cef72b54fb598",
+            "directory": "External29",
+            "voiceContent": "一人で何かに挑む時、不可能なことはいっぱいある。でもみんなで挑めば、不可能だって可能になる！",
+            "sourceName": "vo_mualani_character_idle_03.wem"
+        },
+        "e8402d1233220810": {
+            "hash": "e8402d1233220810",
+            "directory": "External29",
+            "voiceContent": "イェーイ！濡れた地面ってドリフトにぴったりだよね！",
+            "sourceName": "vo_mualani_weather_heavyRain_01.wem"
+        },
+        "9dc919fe83a62bb3": {
+            "hash": "9dc919fe83a62bb3",
+            "directory": "External19",
+            "voiceContent": "わあ！どこに落ちた？",
+            "sourceName": "vo_mualani_weather_thunder_01.wem"
+        },
+        "9a4044c384dbbf36": {
+            "hash": "9a4044c384dbbf36",
+            "directory": "External19",
+            "voiceContent": "風が強いほど、波が大きいほど、難易度の高い動きに挑戦できる絶好のタイミングなんだ！",
+            "sourceName": "vo_mualani_weather_gale_01.wem"
+        },
+        "6eeb17f2acae5297": {
+            "hash": "6eeb17f2acae5297",
+            "directory": "External13",
+            "voiceContent": "ううっ…さっさと用事を終わらせて温泉に入ろ…",
+            "sourceName": "vo_mualani_weather_snowy_01.wem"
+        },
+        "98c696495675f762": {
+            "hash": "98c696495675f762",
+            "directory": "External19",
+            "voiceContent": "寝転んで日向ぼっこしたい～！片面が焼けたら寝返りしてもう片面を焼くんだよ。",
+            "sourceName": "vo_mualani_weather_sunny_01.wem"
+        },
+        "a8112d8a1b392d3a": {
+            "hash": "a8112d8a1b392d3a",
+            "directory": "External21",
+            "voiceContent": "わーい、今日は寝坊しなかった！自分へのご褒美に、豪華な朝ごはんにしよっと。",
+            "sourceName": "vo_mualani_dialog_greetingMorning.wem"
+        },
+        "93d7edbaa7039dd6": {
+            "hash": "93d7edbaa7039dd6",
+            "directory": "External18",
+            "voiceContent": "あ～あ、早起きなんてするんじゃなかった…ダメダメ、目の前にモラが見えてきちゃったよ。お昼に寝直さないとな…",
+            "sourceName": "vo_mualani_dialog_greetingNoon.wem"
+        },
+        "15e286f63ead5460": {
+            "hash": "15e286f63ead5460",
+            "directory": "External2",
+            "voiceContent": "出前はいかが？熱いうちに必ず届けてあげる。あたしのサーフボードのスピードを信じて。",
+            "sourceName": "vo_mualani_dialog_greetingNight.wem"
+        },
+        "52b8914a91377ba0": {
+            "hash": "52b8914a91377ba0",
+            "directory": "External10",
+            "voiceContent": "やばい…キャンプファイヤーで踊ってたら目が冴えちゃった…今日、絶対寝れないよ…うぅ。",
+            "sourceName": "vo_mualani_dialog_greetingNight2.wem"
+        },
+        "e27ff9a8cf3a7377": {
+            "hash": "e27ff9a8cf3a7377",
+            "directory": "External28",
+            "voiceContent": "うちの店の商品は種類もクオリティも機能も色も、何から何まで全部あたしが厳選してるの。中でもとっておきの品は、やっぱりこの「プクフグウェア」。泳ぎが苦手な人には絶対おすすめだよ。一瞬で膨らんで、「プクフグフロート」に変わるんだ。これがあれば泳ぐときも安心！泳いでない時も着れるんだよ。あたしはよくこれを着てパーティーに行ってるの。注目の的になれること間違いなし！ほら、こんな風にぼよ～ん、ぼよ～んってね…ちなみに、運勢の上がるカラーのを使ってるよ！",
+            "sourceName": "vo_mualani_dialog_idle.wem"
+        },
+        "647a933022d3bad9": {
+            "hash": "647a933022d3bad9",
+            "directory": "External12",
+            "voiceContent": "「流泉の衆」は最高のリゾート地だよ。草とも山とも川とも分かりあえるみたいな感じがするし、みんなあたしたちの友達なの！押し寄せる波、揺らめく海草、さざめく葉っぱ…どれもあたしのダンスの先生だよ。そのテンポとリズムに合わせて、体を揺らして、腰を振って、ぐるっと回って、はい！どう？ボーっとしてないで、一緒に踊ろ！",
+            "sourceName": "vo_mualani_dialog_idle2.wem"
+        },
+        "951e14649193d7c0": {
+            "hash": "951e14649193d7c0",
+            "directory": "External18",
+            "voiceContent": "一緒に夜神の国に行って、神秘の島の光を眺めた——あたしたちはとっくに、命を託し合える仲間だよね。もしいつか、旅の途中で方向を見失ったら、絶対に教えて！この一流ガイドが、サーフボードを使ってでも道を開いてあげる！",
+            "sourceName": "vo_mualani_dialog_close1.wem"
+        },
+        "cb03ac58877317cd": {
+            "hash": "cb03ac58877317cd",
+            "directory": "External25",
+            "voiceContent": "サーフボードを見ていきなよ！色んな素材と柄のがあるんだよ。それから色も！君のラッキーカラーは？えっ、ないの？じゃあ、あたしが選んであげる。",
+            "sourceName": "vo_mualani_dialog_close.wem"
+        },
+        "8b03218a2b8bc888": {
+            "hash": "8b03218a2b8bc888",
+            "directory": "External17",
+            "voiceContent": "犬って怖い？怖くないなら、うちの犬と友達になってあげてよ！人懐っこい子だから、誰を見ても駆け寄って挨拶しにくるし、撫でてほしいって目で見つめてくるんだよ。あたしたち、よく一緒に水遊びするんだけど、あの子はもうサーフィンをマスターしたの。さっすがお利口さんだよね～、あたしより賢いよ！機会があったら紹介させてね。きっとプロペラみたいにぶんぶんしっぽを振って喜ぶと思う——バシッてされないように気を付けてね、結構痛いから。へへっ。",
+            "sourceName": "vo_mualani_dialog_share_01.wem"
+        },
+        "dd15d005e17b882a": {
+            "hash": "dd15d005e17b882a",
+            "directory": "External27",
+            "voiceContent": "「流泉の衆」にいるコホラ竜は、あたしたちと一緒で温泉が好きなんだよ。同じプールに浸かることもよくあるしね。一緒にいる子がどういう性格なのか分からなかったら、ひとまず距離を取ったほうがいいよ。コホラ竜の性格をどうやって判断するかって？へへっ、簡単だよ。ゆっくり近づいて、探りを入れるの。噛みついてこなければ優しい子ってこと…噛みついてきたら…親しいからこそのスキンシップ、かな？",
+            "sourceName": "vo_mualani_pref_gift_01.wem"
+        },
+        "8d4d21fe4f07da59": {
+            "hash": "8d4d21fe4f07da59",
+            "directory": "External17",
+            "voiceContent": "炎神様はナタで一番尊敬されてる人で、あたしもすごく憧れてるの。炎神様だからってだけじゃないよ。あのね…サーフィンする姿がめちゃくちゃ格好いいんだ！炎神様を水上レースに誘ったことがあるんだけど…ん？どっちが勝ったのかって？そうだなあ、じゃあまずはあたしと勝負して。あたしに勝てたら教えてあげる！",
+            "sourceName": "vo_mualani_teammate_mavuika_01.wem"
+        },
+        "2bb452bc90ae198c": {
+            "hash": "2bb452bc90ae198c",
+            "directory": "External5",
+            "voiceContent": "カチーナちゃんは温厚で優しくて、話す前に色々考えちゃう子だよ。優秀なのに、何も言わないから周りに舐められちゃってるんだよね。はぁ…あたしはカチーナちゃんの実力を疑ったことは一度もないけど、あの子自信がなさすぎて、批判する言葉を真に受けないか心配なの…だから、カチーナちゃんを励ますだけじゃなくて、あの子の優秀なところをみんなにアピールしてるんだ。いつかはきっと、みんなも見方を変えてくれるって信じてるよ。",
+            "sourceName": "vo_mualani_teammate_kachina_01.wem"
+        },
+        "15473437f3604331": {
+            "hash": "15473437f3604331",
+            "directory": "External2",
+            "voiceContent": "アハウったら、一日でキィニチの一年分より沢山喋るの。あんな状況でも一切影響されずに、自分なりの判断ができるキィニチはすごいなあ。思い返せば、運勢の話をする時だけは、珍しく意気投合して二人ともまったく無関心ですって態度になるんだけどね…",
+            "sourceName": "vo_mualani_teammate_kinich_01.wem"
+        },
+        "dea8b5502ac4664c": {
+            "hash": "dea8b5502ac4664c",
+            "directory": "External27",
+            "voiceContent": "炎神様でさえ認めた職人の力は疑う余地もないよね。たとえ古名がバラバラになっても、彼女なら完璧に復元できるでしょ…って！縁起の悪いこと言っちゃったかな？あんな大事なものがバラバラになるわけないよね！今のはナシ、君は何も聞こえなかった。ね？",
+            "sourceName": "vo_mualani_teammate_xilonen_01.wem"
+        },
+        "4614de1a8e300f9d": {
+            "hash": "4614de1a8e300f9d",
+            "directory": "External8",
+            "voiceContent": "イファはノリがいいよ！何を遊ぶにしても喜んで応じてくれる。そして何でも手っ取り早くそつなくこなせちゃう。彼が医者になってなければ、水上スポーツのコーチになってほしかったね。部族が違うって？そんなの問題じゃないよ！",
+            "sourceName": "vo_mualani_teammate_ifa_01.wem"
+        },
+        "13dc56abfcc56634": {
+            "hash": "13dc56abfcc56634",
+            "directory": "External2",
+            "voiceContent": "チャスカとは小さい頃からの知り合いだよ。おもちゃの取り合いで何回かケンカしたこともあるくらい。だから…あの子が「調停者」になったって知ったときは結構驚いたな。ゆっくり成長する人もいれば、短い時間ですっごい成長を遂げる人もいるって云うけど、あたしって…まだ成長期に入ってないのかな~？",
+            "sourceName": "vo_mualani_teammate_chasca_01.wem"
+        },
+        "53966aec488f58eb": {
+            "hash": "53966aec488f58eb",
+            "directory": "External10",
+            "voiceContent": "シトラリおばあさまは間違いなく「謎煙の主」の最も経験豊富な祭司だよ。ちょっとした先輩とかじゃなくて、一番の大先輩！おばあさまの占いって、ほんっと良くあたるんだよね。昔、商売のラッキーカラーはピンクと青だって教えてくれたんだけど、やっぱり、今お店で一番売れてるのはピンクと青が入ってるプクフグフロートだよ。最近もよく付きまと…じゃなくて、会いに行ってるんだけど、こないだは「外の者が幸運をもたらしてくれる」って言ってた…えっ、待って、もしかして君がその「外の者」！？",
+            "sourceName": "vo_mualani_teammate_citlali_01.wem"
+        },
+        "df19ee61c9119659": {
+            "hash": "df19ee61c9119659",
+            "directory": "External27",
+            "voiceContent": "イアンサは豊穣の邦の誇りどころか、ナタの誇りだよ。何回も「帰火聖夜の巡礼」に参加してるんだけど、今でも全勝記録をキープしてるの！あたしはそのトレーニングのレッスンを申し込んで、入会費まで支払ったけど…ただ、ずっと行く時間がなくて…まあ、白状するよ。実はある日、トレーニングし終わった時のカチーナちゃんを見て、頭にある声がこうささやいてくれた。「まあ、あたしが得意なのは水上のプログラムだから、陸地に居すぎると打ち上げられた魚みたいになっちゃう」ってね…うん、心の声に従うことにしたの。",
+            "sourceName": "vo_mualani_teammate_iansan_01.wem"
+        },
+        "1c470916d8b5d30a": {
+            "hash": "1c470916d8b5d30a",
+            "directory": "External3",
+            "voiceContent": "時間ある？うちに来ておしゃべりしない？温泉に浸かりながらおしゃべりするのも悪くないよ！それとも行きたい場所とかある？なんでも付き合うよ。せっかくだしと思って、カメラ持ってきちゃった。あたしがお手本ポーズを見せてあげる。ね、今日はきっと面白い写真が撮れるよ！",
+            "sourceName": "vo_mualani_friendship_01.wem"
+        },
+        "a25d2720428b910d": {
+            "hash": "a25d2720428b910d",
+            "directory": "External20",
+            "voiceContent": "ガイドは経験の問われる仕事だよ。幸い先祖たちは色んな貴重な風習や経験を残してくれてるから、いっぱい助けてもらってる。でもそういうルールだからって、何も考えずに従ってるわけじゃないから安心してね。自分でも試してみて、有益だなって分かった風習だけを守るようにしてるんだ。どんなものがダメかって？うーん…例えば、新しい場所を探索した時にこんなことがあった——目の前に橋があるのに、地図には「船に乗って渡れ」って書いてあるの。水の流れを測ったり、橋の安全性やギミックをチェックしたりしてみたけど…結局、先祖が橋を渡れって書かなかったのは、当時は橋がなかったからだった！ってことで、まあ…ガイドにはやっぱり経験が必要だよね…",
+            "sourceName": "vo_mualani_friendship_02.wem"
+        },
+        "36df0d2923d2467c": {
+            "hash": "36df0d2923d2467c",
+            "directory": "External6",
+            "voiceContent": "外から来た観光客をもてなすのが好き。みんなガイドの仕事が終わると、ナタの風土や人情について教えたことに感謝してくれるんだ。旅の途中では、みんなからも故郷のこととか、経験とか、あたしの聞いたことのない話とか、色々聞けるしね。だから、あたしもみんなに感謝してる…あたしにとっては、ある意味…貴重な「心の旅」でもあるって感じかな。",
+            "sourceName": "vo_mualani_friendship_03.wem"
+        },
+        "911a1b3152657f27": {
+            "hash": "911a1b3152657f27",
+            "directory": "External18",
+            "voiceContent": "できるだけみんなに受け入れてもらえるような形で友達を作ってるつもりだけど…はは…親切過ぎて対応に困るって、遠回しに言われることがあるから…今は知り合ってしばらくは控えめにしてるんだ。仲良くなってから距離感を縮めて行こうって…あっ、もしあたしによくないとこがあったら、遠慮なく言ってね！面と向かって言うのが嫌なら、匿名でメッセージを残してくれてもいいよ？絶対に直すから！",
+            "sourceName": "vo_mualani_friendship_04.wem"
+        },
+        "e34b79385a54ee1e": {
+            "hash": "e34b79385a54ee1e",
+            "directory": "External28",
+            "voiceContent": "「帰火聖夜の巡礼」に参加してから、やっぱり窮地に立たされた人はみんな無限の可能性を秘めてるって確信したよ！それでも、「二人」は「一人」より選択肢が多いし、「三人」は「二人」より勝算があると思う…みんなが一致団結すれば、きっと奇跡を起こせるよ！例えば「夜巡者の戦争」みたいに、代々ナタを守ってきた英雄たちも、今のあたしたちも、これから頑張ってくれる後輩たちも…みんなの努力を積み重ねてこそ、より良いナタを築けるって思うの。たぶんこれが、「ウモジャ」の意味なんだろうね…",
+            "sourceName": "vo_mualani_friendship_05.wem"
+        },
+        "89bcf48de6e4c4e6": {
+            "hash": "89bcf48de6e4c4e6",
+            "directory": "External17",
+            "voiceContent": "水泳、飛び込み、水上スキー、サーフィン、パラグライダー、ビーチバレー、ボートレース、ダイビング、ウォーターバレーボール、フリーダイビング…好きなスポーツはプクフグフロートの手を借りても数えきれないくらい、いっぱいあるよ。遊び疲れたらそのまま水の上に浮かんで休むんだけど、うっかり寝ちゃうんだよね。気ままに浮かぶのって気持ちいいけど、目覚めた時どこに流れ着くかわからないっていうのと、部族の年長者にくどくど叱られるのが玉に瑕だな…",
+            "sourceName": "vo_mualani_pref_hobby.wem"
+        },
+        "0560fcc8ce3772d9": {
+            "hash": "0560fcc8ce3772d9",
+            "directory": "External0",
+            "voiceContent": "野菜や獣肉、鳥肉とかが一切入ってない、お皿から溢れ出すほどの海鮮料理かな。一口食べたら、海に飛び込んだ小さな魚になったみたいに、水の中を泳ぐ気分になれるんだ…はぁ…大満足。",
+            "sourceName": "vo_mualani_pref_foodLike.wem"
+        },
+        "f69e5194e097577b": {
+            "hash": "f69e5194e097577b",
+            "directory": "External30",
+            "voiceContent": "小さい頃、こっそり牛乳を温泉に捨ててたのを後悔してるの。あんなことしなきゃ、もっと背が伸びてたはずなのに…でも大丈夫。もう二度としないってアテアおばさんと約束したから！今ならまだ間に合うはず…ちゃんと牛乳を飲んで大きくなるよ！君も気を付けてね。",
+            "sourceName": "vo_mualani_pref_foodDislike.wem"
+        },
+        "a0f5c07d3509b256": {
+            "hash": "a0f5c07d3509b256",
+            "directory": "External20",
+            "voiceContent": "どうしてこんなに美味しいの？サーフボードでそこらを三周したいくらい美味しい…ぜったい落ちずに行けるよ！",
+            "sourceName": "vo_mualani_spice_pref_01.wem"
+        },
+        "5e854cf1c71c70fc": {
+            "hash": "5e854cf1c71c70fc",
+            "directory": "External11",
+            "voiceContent": "もっとある？パーティー会場に置いたらきっとすぐなくなっちゃうくらい美味しいよ。",
+            "sourceName": "vo_mualani_spice_normal_01.wem"
+        },
+        "f403c1d9c611ea30": {
+            "hash": "f403c1d9c611ea30",
+            "directory": "External30",
+            "voiceContent": "温泉で温めてみたら？きっと食感が良くなるよ！",
+            "sourceName": "vo_mualani_spice_dislike_01.wem"
+        },
+        "c31f289b112741d8": {
+            "hash": "c31f289b112741d8",
+            "directory": "External24",
+            "voiceContent": "ハッピーバースデー！後でプレゼントを開けてね。今日は特別に、一番人気のレストランを予約したんだ…きっと他にも友達からいっぱい祝福が届いてるだろうけど、一緒に見知らぬ旅の人も祝ってくれるって言ったら、参加してみたくならない？へへっ、さあ座って座って。みんなからのお祝いの言葉を受け取ってよ。コホン——みんな、注目！今日はあたしの友達——すっごい人格者で、世にも獰猛な巨獣を倒した実力者…繊細な魂を癒した大英雄の誕生日だよ！みんなも一緒に祝ってあげて。まずは——財宝運が上がりますように！そこの人も祝ってくれる？じゃあ——戦いが上手くいきますように！よ～し、じゃあせーのっ——お誕生日おめでとう！元気で幸せな日々が続きますように！",
+            "sourceName": "vo_mualani_pref_birthday_01a.wem"
+        },
+        "68a355bbaad536f5": {
+            "hash": "68a355bbaad536f5",
+            "directory": "External13",
+            "voiceContent": "やったぁ♪ちょうど欲しかったんだよね！いっただき～！",
+            "sourceName": "vo_mualani_starUp_01.wem"
+        },
+        "e21ff7b240a23992": {
+            "hash": "e21ff7b240a23992",
+            "directory": "External28",
+            "voiceContent": "力がみなぎってきちゃった。ドキドキハラハラのビーチバレーで戦わない？",
+            "sourceName": "vo_mualani_starUp_02.wem"
+        },
+        "641469a9fd71c2db": {
+            "hash": "641469a9fd71c2db",
+            "directory": "External12",
+            "voiceContent": "ツキが回ってきた…今なら前回の波にも勝てる気がする！よし、今すぐ挑戦しよ？",
+            "sourceName": "vo_mualani_starUp_03.wem"
+        },
+        "aa4e9be56cc3cd28": {
+            "hash": "aa4e9be56cc3cd28",
+            "directory": "External21",
+            "voiceContent": "いつもはお客さんの安全を考えて、危ないところには行かないようにって忠告するんだけど、君の場合はやむを得ないこともあるし、たまにはどうしても自分から危険な地に足を踏み入れなきゃいけないことがあるってわかってる。だから君の身の安全を守るために、そばに居させて。一緒に窮地を乗り越えよう。",
+            "sourceName": "vo_mualani_starUp_04.wem"
+        },
+        "acfb55ef154a26fd": {
+            "hash": "acfb55ef154a26fd",
+            "directory": "External21",
+            "voiceContent": "お客さんを守らなきゃ。",
+            "sourceName": "vo_mualani_life_less30_01.wem"
+        },
+        "52f637e6e6e461fa": {
+            "hash": "52f637e6e6e461fa",
+            "directory": "External10",
+            "voiceContent": "今日は運が悪いね…",
+            "sourceName": "vo_mualani_life_less30_02.wem"
+        },
+        "a86b69dd67e4ffc3": {
+            "hash": "a86b69dd67e4ffc3",
+            "directory": "External21",
+            "voiceContent": "絶対に…勝つ！",
+            "sourceName": "vo_mualani_life_less30_03.wem"
+        },
+        "79566d7e5030e307": {
+            "hash": "79566d7e5030e307",
+            "directory": "External15",
+            "voiceContent": "ゴールは…家に帰ること…",
+            "sourceName": "vo_mualani_life_die_03.wem"
+        },
+        "ac347cefe3b71321": {
+            "hash": "ac347cefe3b71321",
+            "directory": "External21",
+            "voiceContent": "いい加減にして！",
+            "sourceName": "vo_mualani_battle_hit_H_01.wem"
+        },
+        "51f96ee7b523da7e": {
+            "hash": "51f96ee7b523da7e",
+            "directory": "External10",
+            "voiceContent": "サーフボードが——",
+            "sourceName": "vo_mualani_battle_hit_H_02.wem"
+        },
+        "38be4ec5caa4f9b1": {
+            "hash": "38be4ec5caa4f9b1",
+            "directory": "External7",
+            "voiceContent": "行くよ～♪",
+            "sourceName": "vo_mualani_explore_sprint_start_01.wem"
+        },
+        "accf0af59fcdcc8c": {
+            "hash": "accf0af59fcdcc8c",
+            "directory": "External21",
+            "voiceContent": "砂の上でサーフィンするとスリルがあって気持ちいいんだろうなあ！「流泉の衆」ムアラニ、いざ参らんってね♪",
+            "sourceName": "vo_mualani_weather_desert_01.wem"
+        },
+        "b27100bc609fa78e": {
+            "hash": "b27100bc609fa78e",
+            "directory": "External22",
+            "voiceContent": "サーフボード、貸そうか？",
+            "sourceName": "vo_mualani_explore_sprint_start_02.wem"
+        },
+        "73840e76aec25a82": {
+            "hash": "73840e76aec25a82",
+            "directory": "External14",
+            "voiceContent": "はいはい。",
+            "sourceName": "vo_mualani_battle_hit_L_02.wem"
+        },
+        "f068815ed7489569": {
+            "hash": "f068815ed7489569",
+            "directory": "External30",
+            "voiceContent": "落ち込む時は、「大丈夫、ただ運が悪かっただけ。一生不運が続くわけない」って自分に言い聞かせるの。そうすると気分が少しずつ回復するんだ。それでもダメなら、スピリットウェイに乗って、急カーブのところで思いっきり叫ぶの。何回かやれば、到底追ってこられないほど遠くに悩みを置き去りにできるよ。",
+            "sourceName": "vo_mualani_dialog_annoyed_01.wem"
+        },
+        "868ddfa271f5558c": {
+            "hash": "868ddfa271f5558c",
+            "directory": "External16",
+            "voiceContent": "旅人さん、旅の始まりへようこそ。あたしは「流泉の衆」のガイド、ムアラニだよ。何か要望があったら、いつでも手をあげて教えてね！さて、持ち物や武器をしまって、隣のパイモンをしっかり守ってあげて。一番大事なのは、悩みをぜーんぶ忘れること。さあ、あたしが用意したサメのサーフボードにしっかり立っててね——最高の旅が始まるよ！",
+            "sourceName": "vo_mualani_draw_appear_01.wem"
+        },
+        "48c7af39dda01ea5": {
+            "hash": "48c7af39dda01ea5",
+            "directory": "External9",
+            "voiceContent": "前に、「神の目」をプクフグフロートにつけてたことがあったの。海水みたいな藍色が、ぴったりだと思ってさ。でも友達とプクフグフロートでバレーボールをやった時、そのことが完全に頭から抜けちゃってて…砂浜に落っことしちゃったんだよね。「カシャーン」って音がしたけど…壊れなかったよ！きっと好運の兆しだよね！",
+            "sourceName": "vo_mualani_dialog_pendant_01.wem"
+        },
+        "344be61dae07e941": {
+            "hash": "344be61dae07e941",
+            "directory": "External6",
+            "voiceContent": "あちゃ～",
+            "sourceName": "vo_card_mualani_inGame_hard_02.wem"
+        },
+        "7d0e6f31ddb45edb": {
+            "hash": "7d0e6f31ddb45edb",
+            "directory": "External15",
+            "voiceContent": "こんなはずじゃ…",
+            "sourceName": "vo_card_mualani_inGame_easy_03.wem"
+        },
+        "da10d8157f74af9e": {
+            "hash": "da10d8157f74af9e",
+            "directory": "External27",
+            "voiceContent": "へへっ、ラッキー！",
+            "sourceName": "vo_card_mualani_inGame_hard_01.wem"
+        },
+        "97f899ebbd295493": {
+            "hash": "97f899ebbd295493",
+            "directory": "External18",
+            "voiceContent": "あたしの勝ち！",
+            "sourceName": "vo_card_mualani_inGame_hard_04.wem"
+        },
+        "db3a0c2729f57540": {
+            "hash": "db3a0c2729f57540",
+            "directory": "External27",
+            "voiceContent": "今日はツイてないな…",
+            "sourceName": "vo_card_mualani_inGame_hard_03.wem"
+        },
+        "fb19fd3a20e4d592": {
+            "hash": "fb19fd3a20e4d592",
+            "directory": "External31",
+            "voiceContent": "あれ？",
+            "sourceName": "vo_card_mualani_inGame_easy_02.wem"
+        },
+        "c348a16d4d066928": {
+            "hash": "c348a16d4d066928",
+            "directory": "External24",
+            "voiceContent": "このカードはどうだ！",
+            "sourceName": "vo_card_mualani_inGame_easy_04.wem"
+        },
+        "819d5b438b17d2f5": {
+            "hash": "819d5b438b17d2f5",
+            "directory": "External16",
+            "voiceContent": "今日はツイてるね～！",
+            "sourceName": "vo_card_mualani_inGame_easy_01.wem"
+        }
+    }
+}

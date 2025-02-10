@@ -1,0 +1,992 @@
+{
+    "Teapot": {
+        "1682ab630334d4d3": {
+            "hash": "1682ab630334d4d3",
+            "directory": "External2",
+            "voiceContent": "そうや！この感じ！うち、こういった雰囲気がめっちゃ好きなんや！",
+            "sourceName": "vo_mimiTomo_dq_yoimiya_shoppingArcade_01.wem"
+        },
+        "ac2e7d7d8efd873c": {
+            "hash": "ac2e7d7d8efd873c",
+            "directory": "External21",
+            "voiceContent": "あんたホンマにすごいな、ここを商店街みたいに配置するなんて。どれどれ、「長野原」はどこにあるんかな～",
+            "sourceName": "vo_mimiTomo_dq_yoimiya_shoppingArcade_02.wem"
+        },
+        "1b129774b099fbcd": {
+            "hash": "1b129774b099fbcd",
+            "directory": "External3",
+            "voiceContent": "あっ、あんたも一緒に来てや。こない苦労して準備したんやから、とことん遊ばんと！",
+            "sourceName": "vo_mimiTomo_dq_yoimiya_shoppingArcade_03.wem"
+        },
+        "154ee6c2d2fb878b": {
+            "hash": "154ee6c2d2fb878b",
+            "directory": "External2",
+            "voiceContent": "一緒にどうや？温泉に浸かりながら雑談するんも、めっちゃ楽しいで！",
+            "sourceName": "vo_mimiTomo_dq_yoimiya_hotSpring_03.wem"
+        },
+        "bc06f4cc4ebb5bc2": {
+            "hash": "bc06f4cc4ebb5bc2",
+            "directory": "External23",
+            "voiceContent": "一日の仕事が終わってから、あっつ～い温泉に浸かる。これに勝るものはあらへん！",
+            "sourceName": "vo_mimiTomo_dq_yoimiya_hotSpring_02.wem"
+        },
+        "167912d47d7df2e5": {
+            "hash": "167912d47d7df2e5",
+            "directory": "External2",
+            "voiceContent": "わぁ～！何やと思ったら、めっちゃええ感じの露天風呂やん！",
+            "sourceName": "vo_mimiTomo_dq_yoimiya_hotSpring_01.wem"
+        },
+        "6412a8c7dfffdcd5": {
+            "hash": "6412a8c7dfffdcd5",
+            "directory": "External12",
+            "voiceContent": "ははっ、パイモンちゃんが教えてくれはったんやけどな。あの子が壺を見た時こないな反応したんやろ。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_04a_2.wem"
+        },
+        "d9d427392438e5cb": {
+            "hash": "d9d427392438e5cb",
+            "directory": "External27",
+            "voiceContent": "せや、いっそのことここに「長野原」の支店を開いたらええやん。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_08.wem"
+        },
+        "743c91c3cc5d310d": {
+            "hash": "743c91c3cc5d310d",
+            "directory": "External14",
+            "voiceContent": "「誰かが不幸になってるってのは見たくない」、そういうことやろ？",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_07b_2.wem"
+        },
+        "cba8be58cadb414f": {
+            "hash": "cba8be58cadb414f",
+            "directory": "External25",
+            "voiceContent": "いやいや、本気にせんといて。ただのうちのワガママや。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_09.wem"
+        },
+        "7d591a6b9e6c3d19": {
+            "hash": "7d591a6b9e6c3d19",
+            "directory": "External15",
+            "voiceContent": "「再会した時に失望させたくない」、そういうことやろ？",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_07a_2a.wem"
+        },
+        "0d14ec62d21ff7b6": {
+            "hash": "0d14ec62d21ff7b6",
+            "directory": "External1",
+            "voiceContent": "「再会した時に失望させたくない」、そういうことやろ？",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_07a_2b.wem"
+        },
+        "fc4700939cd162ac": {
+            "hash": "fc4700939cd162ac",
+            "directory": "External31",
+            "voiceContent": "うちやったら…へへ、遊園地やな！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_06.wem"
+        },
+        "49eb5c610e3b1666": {
+            "hash": "49eb5c610e3b1666",
+            "directory": "External9",
+            "voiceContent": "そないな世界に住めたら、うちも夢が叶ったっちゅうもんや！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_08.wem"
+        },
+        "2dd6ce9a92d75f57": {
+            "hash": "2dd6ce9a92d75f57",
+            "directory": "External5",
+            "voiceContent": "ええで、うちが話し好きなんはあんたも知っとるやろ。せっかくやから何かおもろい話題でも見つけて…",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_01.wem"
+        },
+        "79436f3702ff50b0": {
+            "hash": "79436f3702ff50b0",
+            "directory": "External15",
+            "voiceContent": "こないなことができるんも、家の商売が人脈を広げてきたおかげやな。あははっ。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_04b_3.wem"
+        },
+        "01d9a4937b538f69": {
+            "hash": "01d9a4937b538f69",
+            "directory": "External0",
+            "voiceContent": "理由があるはずやろ。例えばうちが話し好きなんは、小さい頃から父ちゃんがうちの話を聞くことが好きなんやって思っとったから。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_04.wem"
+        },
+        "552006e1ad9ec076": {
+            "hash": "552006e1ad9ec076",
+            "directory": "External10",
+            "voiceContent": "あいつなら金魚やし、壺ん中に入れるやろ。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_04b_2.wem"
+        },
+        "3dd07a6e7bf2e08d": {
+            "hash": "3dd07a6e7bf2e08d",
+            "directory": "External7",
+            "voiceContent": "けど…それでもあんたからそないなこと聞くと、やっぱ嬉しいもんやな。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_10.wem"
+        },
+        "c1fe34ea7707dcd9": {
+            "hash": "c1fe34ea7707dcd9",
+            "directory": "External24",
+            "voiceContent": "「ほな、うちの金魚鉢の大将、『金魚太郎』をあんたに同行させたるわ！」",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_04b_1.wem"
+        },
+        "1352d8826ba774ef": {
+            "hash": "1352d8826ba774ef",
+            "directory": "External2",
+            "voiceContent": "じゃあ、あんたには何があるん？",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_06.wem"
+        },
+        "a8c78a9cf740ae28": {
+            "hash": "a8c78a9cf740ae28",
+            "directory": "External21",
+            "voiceContent": "花火が好きなんも、花火を作ることを誇りに感じとるからや。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_05.wem"
+        },
+        "904f95a548f7bd5e": {
+            "hash": "904f95a548f7bd5e",
+            "directory": "External18",
+            "voiceContent": "けどあんたがうちの背中を押したら急に目の前が真っ暗になってしもうて、気づいた時にはここにおったんや。こないなこと思いもせえへんかったで。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_05.wem"
+        },
+        "473ffccee7fc3af8": {
+            "hash": "473ffccee7fc3af8",
+            "directory": "External8",
+            "voiceContent": "せっかくの晴れやし、一緒に遊びに行かへん？",
+            "sourceName": "vo_yoimiya_mimitomo_morning_02.wem"
+        },
+        "804e5c5208aa6837": {
+            "hash": "804e5c5208aa6837",
+            "directory": "External16",
+            "voiceContent": "うん、やっぱさすがやな。それに、羨ましいわ！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_07a_3.wem"
+        },
+        "e21e6ed02330b344": {
+            "hash": "e21e6ed02330b344",
+            "directory": "External28",
+            "voiceContent": "あの子ですら無理っちゅうんなら、うちが入るわけないやろ。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_04a_3.wem"
+        },
+        "628d586187eea3db": {
+            "hash": "628d586187eea3db",
+            "directory": "External12",
+            "voiceContent": "あんたとも長いこと冒険してきて、色んなところからあんたに関する物語を聞いてきた。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_02.wem"
+        },
+        "b52ae3dbe4268e1e": {
+            "hash": "b52ae3dbe4268e1e",
+            "directory": "External22",
+            "voiceContent": "うちが全力で力を貸すから、がんばって自分の物語を書いてってな！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_07b_5.wem"
+        },
+        "d25260775d3995fc": {
+            "hash": "d25260775d3995fc",
+            "directory": "External26",
+            "voiceContent": "遊園地…ああ、ええなぁ。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_11.wem"
+        },
+        "e79b56a82a0f7c36": {
+            "hash": "e79b56a82a0f7c36",
+            "directory": "External28",
+            "voiceContent": "モンドから璃月、それから稲妻…あんたが見てきた風景、人、物事…",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_10.wem"
+        },
+        "40ad389eae21fd9f": {
+            "hash": "40ad389eae21fd9f",
+            "directory": "External8",
+            "voiceContent": "あんたを完全に理解するには、こんぐらいせんとな！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_11.wem"
+        },
+        "e098e669cb1f1a92": {
+            "hash": "e098e669cb1f1a92",
+            "directory": "External28",
+            "voiceContent": "けど聞けば聞くほど気になってくることがあんねん。いったい何があんたをそないな特別な人間にしとるんかっちゅう話や。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_03.wem"
+        },
+        "36023cfb96339d03": {
+            "hash": "36023cfb96339d03",
+            "directory": "External6",
+            "voiceContent": "けど、星とか月を取ったりするんはさすがに無理やで。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_04b_4.wem"
+        },
+        "43f11abd3d9d964c": {
+            "hash": "43f11abd3d9d964c",
+            "directory": "External8",
+            "voiceContent": "けどうちはもう決めたで。あんたの歩んできた道をうちがもう一回歩む！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_09.wem"
+        },
+        "08be77ccada3e67c": {
+            "hash": "08be77ccada3e67c",
+            "directory": "External1",
+            "voiceContent": "小説ん中の英雄みたいで、ほんまかっこええわ。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_07b_3.wem"
+        },
+        "57df84b0f65bc199": {
+            "hash": "57df84b0f65bc199",
+            "directory": "External10",
+            "voiceContent": "あんたのことがもっと知りたいねん——！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_13.wem"
+        },
+        "770c6a6f1d1ad468": {
+            "hash": "770c6a6f1d1ad468",
+            "directory": "External14",
+            "voiceContent": "せやからな、うちと父ちゃんの商売は、みんなの信頼に応えるのが目的なんや。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_04a_4.wem"
+        },
+        "31fb244558491435": {
+            "hash": "31fb244558491435",
+            "directory": "External6",
+            "voiceContent": "おっ？せやったんか。けどあんた少し勘違いしとるな、うちの家の商売は普通の商売とは違うんや。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_04a_1.wem"
+        },
+        "06888ab6d061e9ff": {
+            "hash": "06888ab6d061e9ff",
+            "directory": "External0",
+            "voiceContent": "おはようさん。",
+            "sourceName": "vo_yoimiya_mimitomo_morning_01.wem"
+        },
+        "ee2673ba6287730a": {
+            "hash": "ee2673ba6287730a",
+            "directory": "External29",
+            "voiceContent": "それがあんたの動力やったんか。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_07b_1.wem"
+        },
+        "6b2b1a8abe6dd77d": {
+            "hash": "6b2b1a8abe6dd77d",
+            "directory": "External13",
+            "voiceContent": "おもちゃとかようさん置きたいねん。光ったり動いたり、あと回ったりするやつとか。そんでお腹が空いたらお菓子を食べんねん！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_07.wem"
+        },
+        "52c8438d34133c4d": {
+            "hash": "52c8438d34133c4d",
+            "directory": "External10",
+            "voiceContent": "これって璃月の仙家のもんやろ？ほんまに信じられへんわ。あんたがうちを壺ん中に入れようとした時は、冗談言うとるんかと思うたで。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_02.wem"
+        },
+        "e5290a7b7884a164": {
+            "hash": "e5290a7b7884a164",
+            "directory": "External28",
+            "voiceContent": "あんたのことがもっと知りたい——！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_01.wem"
+        },
+        "b2d534b45f3a0a1d": {
+            "hash": "b2d534b45f3a0a1d",
+            "directory": "External22",
+            "voiceContent": "へへ、わるいな。ちょっと興奮してもうた。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_08.wem"
+        },
+        "4b1bb9b0f3300c4a": {
+            "hash": "4b1bb9b0f3300c4a",
+            "directory": "External9",
+            "voiceContent": "夢ん中でうちの花火が見れたらええな。",
+            "sourceName": "vo_yoimiya_mimitomo_night_02.wem"
+        },
+        "ccb12583ca3bcb4a": {
+            "hash": "ccb12583ca3bcb4a",
+            "directory": "External25",
+            "voiceContent": "凄すぎや！あんたがこないなええ場所を持っとったとはな！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_01.wem"
+        },
+        "94dfc9b6f65d5e00": {
+            "hash": "94dfc9b6f65d5e00",
+            "directory": "External18",
+            "voiceContent": "当たり前やろ。もうずっとここに住んだろとか思っとるで。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_07.wem"
+        },
+        "fa010e489ea5160c": {
+            "hash": "fa010e489ea5160c",
+            "directory": "External31",
+            "voiceContent": "うちも手助けしたるで。どんな場所に行こうと、天の上でも地の下でも、ぜったいに再会させたる！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_07a_4.wem"
+        },
+        "78197b25587d450e": {
+            "hash": "78197b25587d450e",
+            "directory": "External15",
+            "voiceContent": "へぇ～趣あってええやん！面白そうやからうちも手伝ったるわ。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_04b_1.wem"
+        },
+        "aeddc63bf0f940d2": {
+            "hash": "aeddc63bf0f940d2",
+            "directory": "External21",
+            "voiceContent": "璃月の商人は大金を稼ぐのがえらい得意なもんで、どんな取引も上手くこなせるっちゅうのはうちも知っとるで。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_04a_2.wem"
+        },
+        "fe66c92ec2829731": {
+            "hash": "fe66c92ec2829731",
+            "directory": "External31",
+            "voiceContent": "何か必要やったらなんでもうちに言うてな。稲妻で見つけられるもんなら、何してでも見つけて来たるで。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_04b_2.wem"
+        },
+        "edf1a3ad7a6fd201": {
+            "hash": "edf1a3ad7a6fd201",
+            "directory": "External29",
+            "voiceContent": "視界は広いし空気も新鮮、最高にええ場所や。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_06.wem"
+        },
+        "e3e429961276c7bc": {
+            "hash": "e3e429961276c7bc",
+            "directory": "External28",
+            "voiceContent": "この話を聞いた時、どう返すか悩んだぐらいや。ツッコミを入れるべきか、それとも話にノッたるべきか…",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_03.wem"
+        },
+        "2f00baac3d595d71": {
+            "hash": "2f00baac3d595d71",
+            "directory": "External5",
+            "voiceContent": "例えば客間とか、博物館とか、訓練場とか。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_03.wem"
+        },
+        "d6222ab939bba418": {
+            "hash": "d6222ab939bba418",
+            "directory": "External26",
+            "voiceContent": "あぁ、別にあんたに重圧をかけようって考えてるわけやないんや。ただ、うーん…なんて言えばええんかな、単純に…",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_12.wem"
+        },
+        "808c35429ff8b902": {
+            "hash": "808c35429ff8b902",
+            "directory": "External16",
+            "voiceContent": "あんたへの礼っちゅうことで、うちらの仲間たちを呼んでみんなで花火でも見よか！",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_09.wem"
+        },
+        "94e4fdeed6bd5168": {
+            "hash": "94e4fdeed6bd5168",
+            "directory": "External18",
+            "voiceContent": "暇つぶしがしたいんやったら、うちが付き合うたるで。",
+            "sourceName": "vo_yoimiya_mimitomo_hello_02.wem"
+        },
+        "62f985d4dc371f27": {
+            "hash": "62f985d4dc371f27",
+            "directory": "External12",
+            "voiceContent": "あれ？ほならうちは英雄の仲間ってことになるんか？",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_07b_4.wem"
+        },
+        "669b2e791108b043": {
+            "hash": "669b2e791108b043",
+            "directory": "External12",
+            "voiceContent": "まあとにかく、建設が終わったらうちに言うてな。花火でお祝いしたるわ。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_05.wem"
+        },
+        "324ccac0e9cc35f2": {
+            "hash": "324ccac0e9cc35f2",
+            "directory": "External6",
+            "voiceContent": "「入るか！どう考えても入れるわけないやろッ！」",
+            "sourceName": "vo_yoimiya_mimitomo_friendship1_04a_1.wem"
+        },
+        "ad4360b480b93ff0": {
+            "hash": "ad4360b480b93ff0",
+            "directory": "External21",
+            "voiceContent": "せや、こないな桃源郷みたいな場所、住む以外にも何か他の活用法は考えてへんの？",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_02.wem"
+        },
+        "2cbac8613f2d10d1": {
+            "hash": "2cbac8613f2d10d1",
+            "directory": "External5",
+            "voiceContent": "それがあんたの動力やったんか。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship3_07a_1.wem"
+        },
+        "30d13833adc7161b": {
+            "hash": "30d13833adc7161b",
+            "directory": "External6",
+            "voiceContent": "けど、うちの家のお客さんはみんな常連さんやねん。そないなことよりも、人情のほうが大切や。",
+            "sourceName": "vo_yoimiya_mimitomo_friendship2_04a_3.wem"
+        }
+    },
+    "Quests": {
+        "93bfaeba37594e10": {
+            "hash": "93bfaeba37594e10",
+            "directory": "External18",
+            "voiceContent": "（まずは落ち着かせんとあかんな。）",
+            "sourceName": "vo_XGLQ202_8_yoimiya_03.wem"
+        },
+        "0b091efe4d762a7a": {
+            "hash": "0b091efe4d762a7a",
+            "directory": "External1",
+            "voiceContent": "（はー、もうちょいで追いつかれるとこやったわ。エービンちゃん、なかなか手ごわいなぁ。）",
+            "sourceName": "vo_XGLQ203_1_yoimiya_05.wem"
+        },
+        "8e1cfafea68649af": {
+            "hash": "8e1cfafea68649af",
+            "directory": "External17",
+            "voiceContent": "（さて、まずは何しよ…うーん、何売ってるんか、見て回ってみよかな。）",
+            "sourceName": "vo_XGLQ201_4_yoimiya_12.wem"
+        },
+        "48dea37670b09e69": {
+            "hash": "48dea37670b09e69",
+            "directory": "External9",
+            "voiceContent": "なるほど、跳ぶんやな。じゃあ、うちもっ！",
+            "sourceName": "vo_XGLQ203_2_yoimiya_07.wem"
+        },
+        "efcc897fec9dbd28": {
+            "hash": "efcc897fec9dbd28",
+            "directory": "External29",
+            "voiceContent": "うわー、でっかいキノコがぎょうさんあるなぁ。横になっても全然大丈夫なんちゃう。",
+            "sourceName": "vo_XGLQ203_2_yoimiya_06.wem"
+        }
+    },
+    "Gameplay": {
+        "4c81c6499bc7951f": {
+            "hash": "4c81c6499bc7951f",
+            "directory": "External9",
+            "voiceContent": "花火見ぃひん？",
+            "sourceName": "vo_yoimiya_battle_skill1_01.wem"
+        },
+        "e1f6b86427613b98": {
+            "hash": "e1f6b86427613b98",
+            "directory": "External28",
+            "voiceContent": "火ぃつけるで！",
+            "sourceName": "vo_yoimiya_battle_skill1_02.wem"
+        },
+        "63b4125be4015919": {
+            "hash": "63b4125be4015919",
+            "directory": "External12",
+            "voiceContent": "火の用心～",
+            "sourceName": "vo_yoimiya_battle_skill1_03.wem"
+        },
+        "64aae498e64fcdfd": {
+            "hash": "64aae498e64fcdfd",
+            "directory": "External12",
+            "voiceContent": "祭りの開始や！",
+            "sourceName": "vo_yoimiya_battle_skill3_01.wem"
+        },
+        "0aa5c690b7ea08fa": {
+            "hash": "0aa5c690b7ea08fa",
+            "directory": "External1",
+            "voiceContent": "金魚やで！",
+            "sourceName": "vo_yoimiya_battle_skill3_02.wem"
+        },
+        "601af88738eaa6c3": {
+            "hash": "601af88738eaa6c3",
+            "directory": "External12",
+            "voiceContent": "た～まや～！",
+            "sourceName": "vo_yoimiya_battle_skill3_03.wem"
+        },
+        "b027c0fedeca6cd4": {
+            "hash": "b027c0fedeca6cd4",
+            "directory": "External22",
+            "voiceContent": "花火の材料はあらへんかな？",
+            "sourceName": "vo_yoimiya_chest_open_01.wem"
+        },
+        "599d4ee629a4d54b": {
+            "hash": "599d4ee629a4d54b",
+            "directory": "External11",
+            "voiceContent": "中身はなんやろな～♪",
+            "sourceName": "vo_yoimiya_chest_open_02.wem"
+        },
+        "00555cefa564a882": {
+            "hash": "00555cefa564a882",
+            "directory": "External0",
+            "voiceContent": "うちに開けさせてぇ！",
+            "sourceName": "vo_yoimiya_chest_open_03.wem"
+        },
+        "7dabcbb5a6a499b4": {
+            "hash": "7dabcbb5a6a499b4",
+            "directory": "External15",
+            "voiceContent": "うちが援護したる！",
+            "sourceName": "vo_yoimiya_life_less30_teammate_01.wem"
+        },
+        "2721599cf17f022b": {
+            "hash": "2721599cf17f022b",
+            "directory": "External4",
+            "voiceContent": "うちがおれば心配無用や。",
+            "sourceName": "vo_yoimiya_life_less30_teammate_02.wem"
+        },
+        "564a23ad8f3c32d1": {
+            "hash": "564a23ad8f3c32d1",
+            "directory": "External10",
+            "voiceContent": "油断してもうた…",
+            "sourceName": "vo_yoimiya_life_die_01.wem"
+        },
+        "282055a69c195f2e": {
+            "hash": "282055a69c195f2e",
+            "directory": "External5",
+            "voiceContent": "遊び…すぎたかもしれへん。",
+            "sourceName": "vo_yoimiya_life_die_02.wem"
+        },
+        "bce7c667eb1701a9": {
+            "hash": "bce7c667eb1701a9",
+            "directory": "External23",
+            "voiceContent": "祭りでもやるん？",
+            "sourceName": "vo_yoimiya_teamJoin_01.wem"
+        },
+        "4ca3985f1ecabc46": {
+            "hash": "4ca3985f1ecabc46",
+            "directory": "External9",
+            "voiceContent": "遊びに行こかぁ～",
+            "sourceName": "vo_yoimiya_teamJoin_02.wem"
+        },
+        "d1c6fa56de4e102f": {
+            "hash": "d1c6fa56de4e102f",
+            "directory": "External26",
+            "voiceContent": "お友達が増えたでぇ！",
+            "sourceName": "vo_yoimiya_teamJoin_03.wem"
+        },
+        "5539ea508e005bd0": {
+            "hash": "5539ea508e005bd0",
+            "directory": "External10",
+            "voiceContent": "「長野原」へよう来てくれたな！うちは宵宮、何でも言うてや～！うん？串カツの盛り合わせと玉子焼き…って、ちゃうちゃう、うちは飲食店ちゃうでぇ、花火屋やからな！そや、キラキラーっとした、パッと咲く花火のことや！",
+            "sourceName": "vo_yoimiya_draw_appear.wem"
+        },
+        "10175051dfe7737e": {
+            "hash": "10175051dfe7737e",
+            "directory": "External2",
+            "voiceContent": "花火はパッと消えてまうけど、友情は一生もんや。",
+            "sourceName": "vo_yoimiya_character_idle_01.wem"
+        },
+        "6a525e5a0e7aac21": {
+            "hash": "6a525e5a0e7aac21",
+            "directory": "External13",
+            "voiceContent": "暇やったら、何か話したるで！",
+            "sourceName": "vo_yoimiya_character_idle_02.wem"
+        },
+        "bfea0461194dbea0": {
+            "hash": "bfea0461194dbea0",
+            "directory": "External23",
+            "voiceContent": "金魚飼ったことある？大人しゅうて、めっちゃ可愛ええんや。",
+            "sourceName": "vo_yoimiya_character_idle_03.wem"
+        },
+        "39c7691fcd39bc48": {
+            "hash": "39c7691fcd39bc48",
+            "directory": "External7",
+            "voiceContent": "ひぃ～、花火が濡れてまう！どっかに隠れな！うぅ、間に合わへん！",
+            "sourceName": "vo_yoimiya_weather_heavyRain_01.wem"
+        },
+        "f77033a63e6942df": {
+            "hash": "f77033a63e6942df",
+            "directory": "External30",
+            "voiceContent": "ははっ、雪球をギュッと、ほれ——",
+            "sourceName": "vo_yoimiya_weather_snowy_01.wem"
+        },
+        "ebd8d59bf1950e4a": {
+            "hash": "ebd8d59bf1950e4a",
+            "directory": "External29",
+            "voiceContent": "全身ポカポカで気持ちええわぁ～、浮いとるみたい。",
+            "sourceName": "vo_yoimiya_weather_sunny_01.wem"
+        },
+        "3ae04de810b0010e": {
+            "hash": "3ae04de810b0010e",
+            "directory": "External7",
+            "voiceContent": "すっごい風やなぁ——声が押し戻されそうや——！",
+            "sourceName": "vo_yoimiya_weather_gale_01.wem"
+        },
+        "7def8aabf1018572": {
+            "hash": "7def8aabf1018572",
+            "directory": "External15",
+            "voiceContent": "すぅ…はぁ——おはようさん、朝の空気は清々しくて気持ちええなぁ、深呼吸して頭もすっきりや。",
+            "sourceName": "vo_yoimiya_dialog_greetingMorning.wem"
+        },
+        "2c905e8b323638ae": {
+            "hash": "2c905e8b323638ae",
+            "directory": "External5",
+            "voiceContent": "お昼の時間やな。ええっ…今日の卵、黄身が二つやん。えへへ～、今日のうちツイてるんやない？",
+            "sourceName": "vo_yoimiya_dialog_greetingNoon.wem"
+        },
+        "cae1261b87659db8": {
+            "hash": "cae1261b87659db8",
+            "directory": "External25",
+            "voiceContent": "やっと花火を見るのにちょうどええ時間になったな。空でも地上でも綺麗に咲かしたるで…ははっ、冗談や！安全にはちゃーんと気ぃつけるさかい。",
+            "sourceName": "vo_yoimiya_dialog_greetingNight.wem"
+        },
+        "8b00962de47eef68": {
+            "hash": "8b00962de47eef68",
+            "directory": "External17",
+            "voiceContent": "そもさん——！花火を見終わった後、その一日の最後には何が待っとる？ふふん、正解は——夢の中でも花火が見れる、でした～！ほな、さいなら！",
+            "sourceName": "vo_yoimiya_dialog_greetingNight2.wem"
+        },
+        "af3f115a12b87f4f": {
+            "hash": "af3f115a12b87f4f",
+            "directory": "External21",
+            "voiceContent": "うちの父ちゃんは耳が遠くてな、昔から何を言うても笑うてばっかやった。だから、小っちゃい頃は自分の言うとることがどれも面白いんやろなと思っとった、ずーっと一人で喋り続けとったわ…実際は、よう聞こえへんから誤魔化すように笑うとっただけやのに…せやけど、父ちゃんが笑うてくれるなら、うち、これからも喋り続けるで。",
+            "sourceName": "vo_yoimiya_dialog_idle.wem"
+        },
+        "950384ca6c23e978": {
+            "hash": "950384ca6c23e978",
+            "directory": "External18",
+            "voiceContent": "自分一人で何かするよりも…誰かと一緒に何かやる方がええ。例えばあんたと一緒なら、風景を見ても、缶蹴りをしても、めっちゃ楽しい。きっと、あんたと話すのが飽きひんからやろな。",
+            "sourceName": "vo_yoimiya_dialog_close1.wem"
+        },
+        "ac5b0dedf9aa55c1": {
+            "hash": "ac5b0dedf9aa55c1",
+            "directory": "External21",
+            "voiceContent": "「口は災いの元」ゆうけど、心配あらへん。言葉に込もった気持ちは嘘をつかへんもん。間違ったことを言うて誤解されても、それを説明すればええんや。なんも言わんかったら、相手も理解のしようがあらへん。やないと、心も離れてまう。",
+            "sourceName": "vo_yoimiya_dialog_idle2.wem"
+        },
+        "a5f1922d86226715": {
+            "hash": "a5f1922d86226715",
+            "directory": "External20",
+            "voiceContent": "いんじゃんほい！あいこでしょ！わーい、うちの勝ちや！やったぁ！…うん？後出しなんてしてへんよ、してへんてば。",
+            "sourceName": "vo_yoimiya_dialog_close.wem"
+        },
+        "1221c4b86021787f": {
+            "hash": "1221c4b86021787f",
+            "directory": "External2",
+            "voiceContent": "内緒なんやけど、実はなぁ、初めて「神の目」をもろた時、火打ち石やと思うて使っとったんや。花火に火付けたり、お湯を沸かしたりしとった。それから納屋に置きっぱなしにしとったんやけど、それを父ちゃんが見つけてな、えらいもんやから大事にしい言われた。はは、神様が回収せえへんかったのが不思議や。",
+            "sourceName": "vo_yoimiya_dialog_pendant.wem"
+        },
+        "af8ee56c27ea7ba0": {
+            "hash": "af8ee56c27ea7ba0",
+            "directory": "External21",
+            "voiceContent": "知っとる？璃月の海灯祭で打ち上がる花火はな、大体がうちで作ったもんなんや。注文通り作った後、北斗の姉ちゃんが船で届けとる。今は鎖国で輸出も制限されとるけど…祭りに花火があらへんのはあかんやろ。",
+            "sourceName": "vo_yoimiya_dialog_share_01.wem"
+        },
+        "58ce535372971e07": {
+            "hash": "58ce535372971e07",
+            "directory": "External11",
+            "voiceContent": "「花火はな、空に花を咲かせ光を散らしたあと、雨や雪になって大地に帰るんや。そうやって土を潤し、人を育み、もういっぺん綺麗な花を空に咲かすんや。」父ちゃんは、よう物語を聞かせてくれるんやけど、今のがいっちゃんのお気に入りや！",
+            "sourceName": "vo_yoimiya_dialog_share_02.wem"
+        },
+        "22508fe15306b223": {
+            "hash": "22508fe15306b223",
+            "directory": "External4",
+            "voiceContent": "稲妻が鎖国してからは、北斗姉ちゃんにずっと花火の運搬を頼んできたんや。で、そのお礼に船の形をしたおっきい花火を用意してビックリさせたろ思うて。「南十字武装船隊」が港を離れる時に、船員たちの目の前でその花火を打ち上げたんや。ほならみんな、船隊の船が飛んでったってびっくりしとったよ、あははっ！せやけど、北斗姉ちゃんはめっちゃ喜んどったで、贈りもんはこうでなくちゃって言うとった、へへへ。",
+            "sourceName": "vo_yoimiya_teammate_beidou_01.wem"
+        },
+        "9946d296f1b13832": {
+            "hash": "9946d296f1b13832",
+            "directory": "External19",
+            "voiceContent": "花火は将軍様が求める「永遠」から、いっちゃんかけ離れとるもんや。将軍様は刹那の光なんか稲妻になんの価値もないと思うとるはず。はぁ、「永遠」を握る者には分からへんのやろな。「刹那を生きる人」やからこそ、その刹那の甘美を胸に刻み込もうとしとることに。",
+            "sourceName": "vo_yoimiya_teammate_raidenShogun_01.wem"
+        },
+        "0aa73bdf23bb6dbe": {
+            "hash": "0aa73bdf23bb6dbe",
+            "directory": "External1",
+            "voiceContent": "仕事の関係で、彼女とはよう協力することがあるんや。他の奉行とちごうて、ちゃんとうちの話を最後まで聞いてくれるし、丁寧に答えてくれる、しかも嫌味も言わへん。「おしとやか」っちゅう言葉は、まさに彼女のためにあるんやろな。",
+            "sourceName": "vo_yoimiya_teammate_ayaka_01.wem"
+        },
+        "3a929e54b24672cf": {
+            "hash": "3a929e54b24672cf",
+            "directory": "External7",
+            "voiceContent": "ああ、あの人なぁ。ああ見えて、子供にけっこう人気なんや。せやけど負けず嫌いやさかい、子供の遊びに付きおうてる内にいつの間にか勝負しとるんや。ラーメンのスープの一気飲み勝負とか、表情を変えんとどっちが梅干しを食えるかとか、ほんで他の子供たちは横でどっちが勝つか予想したり、応援したりする。やれやれうちも負けてられへんな。",
+            "sourceName": "vo_yoimiya_teammate_itto_01.wem"
+        },
+        "7b49d06cc9e05688": {
+            "hash": "7b49d06cc9e05688",
+            "directory": "External15",
+            "voiceContent": "「荒瀧派」？えぇぇっ！？ただの無職やあらへんの？",
+            "sourceName": "vo_yoimiya_teammate_itto_02.wem"
+        },
+        "f82350da97d44de9": {
+            "hash": "f82350da97d44de9",
+            "directory": "External31",
+            "voiceContent": "うちって考えなしやさかい、思うたことをすぐ口に出してしまうんや。逆に思慮深い人は自分の事を語らずに、昔の詩とか、道沿いの景色のことしか言わへん。花鳥風月は語れても、目の前の現実については口をつぐむ。あいつもきっと過去に何かあったんやろなぁ、うんうん、よう分かるでぇ。",
+            "sourceName": "vo_yoimiya_teammate_kazuha_01.wem"
+        },
+        "64e249e7524ea761": {
+            "hash": "64e249e7524ea761",
+            "directory": "External12",
+            "voiceContent": "昔、夏祭りの件で遅くまで相談したことがあったんやけど、くたくたに疲れてもうたから銭湯に誘ったんや…せやけど彼女、「銭湯」が大勢で入る風呂やと知った瞬間、顔を真っ赤にしてもうて。うーん、ええとこのお嬢さんは銭湯に入れへんってことを知るきっかけになったわ。",
+            "sourceName": "vo_yoimiya_teammate_ayaka_02.wem"
+        },
+        "5c88beaf96e1b018": {
+            "hash": "5c88beaf96e1b018",
+            "directory": "External11",
+            "voiceContent": "とにかく口達者なヤツや、あの口から出てくる言葉には必ず何らかの考えが込められとる。一見繋がりのなさそうな言葉でも、最後は上手いこと誘導されてまう。うーん…うちとは正反対の性格やさかい、困った時は彼に助けを求めることにするわ。",
+            "sourceName": "vo_yoimiya_teammate_thoma_01.wem"
+        },
+        "689e957db2963722": {
+            "hash": "689e957db2963722",
+            "directory": "External13",
+            "voiceContent": "いつやったか神社の祭りで、宮司様のために手持ち花火を用意してくれって綾華ちゃんに頼まれたことがあったんや…せやけど、宮司様って祭りに出席するさかい、神社の境内に座りっきりやろ？宮司様がどうやって花火で遊ぶのか気になって、祭り中ずっと観察しとったんや。ほなら綾華ちゃんがうちのとこにきて、「宮司様、とても満足されておりました」って言うて…えっ？もう花火で遊んだん？ってなって…もしかして、うちが見とったのは宮司様やあらへんかったのかな？",
+            "sourceName": "vo_yoimiya_teammate_yaeMiko_01.wem"
+        },
+        "7fe9addaebc877d2": {
+            "hash": "7fe9addaebc877d2",
+            "directory": "External15",
+            "voiceContent": "うちの物語が聞きたいって？ええよ、こっち座りぃ、自慢の「長野原」家の話をしたるで！めったに聞かれへん真面目な話やからなぁ。",
+            "sourceName": "vo_yoimiya_friendship_01.wem"
+        },
+        "03070be453184b35": {
+            "hash": "03070be453184b35",
+            "directory": "External0",
+            "voiceContent": "うちの家では代々、花火を注文したお客さん一人一人に短冊を渡しとるんや。短冊には長野原家の者しか読まれへん花火の作り方が載っとって、十年経っても百年経っても、お客さんが短冊を持ってくれば、当時とおんなじ花火を作れるようになっとる。",
+            "sourceName": "vo_yoimiya_friendship_02.wem"
+        },
+        "8112d1ec964921a4": {
+            "hash": "8112d1ec964921a4",
+            "directory": "External16",
+            "voiceContent": "最高の花火に最高の瞬間、移ろいやすい一瞬の気持ちが花火へと収まり、違うた形で受け継がれてく。短冊は、過去を振り返りたい人の門を開けるための鍵。せやから「長野原」の花火職人の仕事は、みんなの門を開く手助けをすることなんや。",
+            "sourceName": "vo_yoimiya_friendship_03.wem"
+        },
+        "b2a29ff38c4f1e2f": {
+            "hash": "b2a29ff38c4f1e2f",
+            "directory": "External22",
+            "voiceContent": "夏祭りでは時折り感動的な物語が生まれるんや。花火の下で知りおうた人たちが成長して、ほんで年を取って老いていく。彼らがかつての花火を打ち上げた時、空を照らすんは在りし日の姿…花火は永遠にはなれへんけど、花火に秘められた素晴らしい想いは稲妻と共に永遠を歩むべきなんや。",
+            "sourceName": "vo_yoimiya_friendship_04.wem"
+        },
+        "2d7f3dfbcccbca46": {
+            "hash": "2d7f3dfbcccbca46",
+            "directory": "External5",
+            "voiceContent": "最後の物語は…いや、やめとくわ、今はあんたと静かに花火を見てたい。今宵の絶景と、あんたが話してくれた言葉を全部書き留めたい。ああ、誤解せんといてな、もう終いっちゅう意味やあらへん。…うちとあんたの「物語」を、ここから書き始めるっちゅう意味や。",
+            "sourceName": "vo_yoimiya_friendship_05.wem"
+        },
+        "c5d92e87c166d49a": {
+            "hash": "c5d92e87c166d49a",
+            "directory": "External24",
+            "voiceContent": "花火や！なんや、あかんの？せやなぁ…難しい質問や、お隣さんとお喋りするのも好きやし、子供たちと夏祭りにいくのも好きやし、泳ぐのも、山で果物を採るのも好きや。ああっ、一つに決められへん…あっ、そや！趣味はみんなと遊ぶことや！",
+            "sourceName": "vo_yoimiya_pref_hobby_01.wem"
+        },
+        "a666ccd908632e93": {
+            "hash": "a666ccd908632e93",
+            "directory": "External20",
+            "voiceContent": "長いこと読んどった連載小説がとうとう完結したんやけど、ヒロインが記憶喪失になって、挙げるはずやった婚礼もなしになってもうた…悲しい、なんちゅうことや…",
+            "sourceName": "vo_yoimiya_dialog_annoyed.wem"
+        },
+        "23444c8ff2afc29d": {
+            "hash": "23444c8ff2afc29d",
+            "directory": "External4",
+            "voiceContent": "くるんっ！ん？なんや、今パイモンちゃんが消える時のマネをしとるんや！",
+            "sourceName": "vo_yoimiya_pref_hobby_02.wem"
+        },
+        "7bd9ba26ddd0b171": {
+            "hash": "7bd9ba26ddd0b171",
+            "directory": "External15",
+            "voiceContent": "うちは主食よりも菓子の方が好きや。祭りの時に屋台を一つずつ回って、お腹いーっぱいになるまで食べるんや。ところで、あんたって菓子を作れたりせえへん？うちが作った団子と交換しいひん？おっきいのを取ってええから。",
+            "sourceName": "vo_yoimiya_pref_foodLike.wem"
+        },
+        "736ef81676f77193": {
+            "hash": "736ef81676f77193",
+            "directory": "External14",
+            "voiceContent": "牛乳や。飲んだらお腹が花火大会みたいにドンッドンッ！ってなってまうんや。せやけど、牛乳が入った料理とか菓子はぜんぜん平気でな、何なんやろな…お腹の仙霊さん、好き嫌いが激しいんやろか？",
+            "sourceName": "vo_yoimiya_pref_foodDislike.wem"
+        },
+        "80b6b013e747e45e": {
+            "hash": "80b6b013e747e45e",
+            "directory": "External16",
+            "voiceContent": "わぁ、あんた甘味を作るんが上手いんやな！祭りの屋台で出したら、絶対いっちゃん人気でると思うで！",
+            "sourceName": "vo_yoimiya_spice_pref_01.wem"
+        },
+        "0487d99c81611ce4": {
+            "hash": "0487d99c81611ce4",
+            "directory": "External0",
+            "voiceContent": "うまいもん食べたら、元気が出るもんや。そんで元気が出たら、次は物語を語りとうなる。ほな、ええ物語、選んどくな！",
+            "sourceName": "vo_yoimiya_spice_normal_01.wem"
+        },
+        "0465f782a793ec68": {
+            "hash": "0465f782a793ec68",
+            "directory": "External0",
+            "voiceContent": "んん？なんや、お腹でフライムがはしゃいどるみたいやな…さすがに、それはないと思うんやけど…",
+            "sourceName": "vo_yoimiya_spice_dislike_01.wem"
+        },
+        "cb272f734853e1af": {
+            "hash": "cb272f734853e1af",
+            "directory": "External25",
+            "voiceContent": "誕生日を楽しむんはあんただけやあらへんで、ケーキを贈る人、蠟燭に火つける人、祝ってくれる人、あんたが生まれたことをみんな感謝しとる。せやから、騒がしい方がええ。みんなに祝ってもらうんや！さあ、おめでとうさん！準備はええか？でっかい花火、打ち上げるでぇー！",
+            "sourceName": "vo_yoimiya_pref_birthday.wem"
+        },
+        "7f44d88ab4eba07d": {
+            "hash": "7f44d88ab4eba07d",
+            "directory": "External15",
+            "voiceContent": "もっと高く、もっと響きぃ！",
+            "sourceName": "vo_yoimiya_starUp_01.wem"
+        },
+        "253fba828685db7a": {
+            "hash": "253fba828685db7a",
+            "directory": "External4",
+            "voiceContent": "ふっふ～ん！弓矢で花火を打ち上げるのもありやな！",
+            "sourceName": "vo_yoimiya_starUp_02.wem"
+        },
+        "7ab4ec7907867943": {
+            "hash": "7ab4ec7907867943",
+            "directory": "External15",
+            "voiceContent": "せっかくあんたから戦い方を学んだし、いっそのこと花火職人だけやなく、日雇い冒険者でもやろかな…「英雄」もええかもしれへんな？",
+            "sourceName": "vo_yoimiya_starUp_03.wem"
+        },
+        "c15d1eb4773708f0": {
+            "hash": "c15d1eb4773708f0",
+            "directory": "External24",
+            "voiceContent": "「『英雄』——宵宮姉さん参上！悪霊退散！正義必勝！」この台詞を言うたあと、あんたから教わった力を子供たちに紹介するのはどうや？かっこええんとちゃう？あははっ、あんたも遠慮せんと、いじめられたらこの宵宮姉さんに言うんやで！",
+            "sourceName": "vo_yoimiya_starUp_04.wem"
+        },
+        "8cd7922de746a6cd": {
+            "hash": "8cd7922de746a6cd",
+            "directory": "External17",
+            "voiceContent": "あかん！",
+            "sourceName": "vo_yoimiya_life_less30_01.wem"
+        },
+        "06c074247d6f35ca": {
+            "hash": "06c074247d6f35ca",
+            "directory": "External0",
+            "voiceContent": "みっともない…",
+            "sourceName": "vo_yoimiya_life_less30_02.wem"
+        },
+        "8847a61c39e17fd3": {
+            "hash": "8847a61c39e17fd3",
+            "directory": "External17",
+            "voiceContent": "しっかりせぇへんと。",
+            "sourceName": "vo_yoimiya_life_less30_03.wem"
+        },
+        "a9ddb79e58b98a37": {
+            "hash": "a9ddb79e58b98a37",
+            "directory": "External21",
+            "voiceContent": "祭りも…終いや。",
+            "sourceName": "vo_yoimiya_life_die_03.wem"
+        },
+        "fbd08758b14f946e": {
+            "hash": "fbd08758b14f946e",
+            "directory": "External31",
+            "voiceContent": "今のなしぃ！",
+            "sourceName": "vo_yoimiya_battle_hit_H_02.wem"
+        },
+        "3ba4686c493f6ae9": {
+            "hash": "3ba4686c493f6ae9",
+            "directory": "External7",
+            "voiceContent": "治安と消防関連で天領奉行にはよう通うんやけど、あっこの人達の中でも九条裟羅はいっちゃん筋が通っとるっちゅうか、少なくとも何も分からへん状況からうちのことを頭ごなしに否定せえへん。うちが正しかったら、彼女も素直にうちを認めてくれる。ほんでうちが間違っとったら…はは、トーマに頼んで詫びを入れるしかあらへん！",
+            "sourceName": "vo_yoimiya_teammate_kujoSara_01.wem"
+        },
+        "92792a05add54559": {
+            "hash": "92792a05add54559",
+            "directory": "External18",
+            "voiceContent": "あの子におうたら、うちに教えてくれへん？祭りに連れていきたいんや、それにお友達もぎょうさん紹介したろ思うて。いっつも気怠そうにしとるさかい、一緒に遊ぶ友達がおったら元気になるんちゃうかな？",
+            "sourceName": "vo_yoimiya_teammate_sayu_01.wem"
+        },
+        "f9a5f96e74b06a4a": {
+            "hash": "f9a5f96e74b06a4a",
+            "directory": "External31",
+            "voiceContent": "モンドに爆弾作りの得意な子がおるんやて！？爆弾も花火も似たようなもんやし、花火作りも天才かもしれへんな。一度会うてみたいもんやわ。あっ、せやけど…子供に爆弾は危険やあらへん？モンドの人はなんも言わへんの？",
+            "sourceName": "vo_yoimiya_teammate_klee_01.wem"
+        },
+        "b3803ccba7cc127f": {
+            "hash": "b3803ccba7cc127f",
+            "directory": "External22",
+            "voiceContent": "「狛荷屋」の配達員のことか？あの子はな、ずいぶんと手先が器用なんや。実は花火作りっちゅうんは、色を決める材料が一種類か二種類ぐらいあるんやけど、それの消耗はごっつ激しくってなぁ。そないな時はいつも、あの子がすぐに補充してくれるから、めっちゃ助かっとるねん。前に感謝の気持ちとして花火を一個贈ったんやけど、花火に驚かされた経験があるらしうて、どうしても火をつけたがらんかったんや。ふふ、せやから、あの子には遠くのほうから、うちが上げた花火を見てもらうしかあらへんな。",
+            "sourceName": "vo_yoimiya_teammate_kirara_01.wem"
+        },
+        "ae4240b53709b832": {
+            "hash": "ae4240b53709b832",
+            "directory": "External21",
+            "voiceContent": "ちょ…",
+            "sourceName": "vo_yoimiya_battle_hit_L_02.wem"
+        },
+        "58df8c168a86c5de": {
+            "hash": "58df8c168a86c5de",
+            "directory": "External11",
+            "voiceContent": "飛ぶでぇ——",
+            "sourceName": "vo_yoimiya_explore_fly_start_01.wem"
+        },
+        "ffbc315cee84307e": {
+            "hash": "ffbc315cee84307e",
+            "directory": "External31",
+            "voiceContent": "あんた、小っちゃい頃に木漏れ日って踏んだことある？晴れた日に、木々の隙間から漏れてくる光で、踏んだら消えると思うたらいつも足の甲に乗っかってくんねん。せやから、なんべんもなんべんも踏むんやけど、成功した試しがあらへん…あんまりにも悔しうて、道端の岩に座って溜め息ついたことあんねん、「はぁ、この世には踏めないもんもあるんやなぁー」って。",
+            "sourceName": "vo_yoimiya_dialog_share_03.wem"
+        },
+        "2adb9a93ff75f536": {
+            "hash": "2adb9a93ff75f536",
+            "directory": "External5",
+            "voiceContent": "ある夏祭りで、金魚すくいをしとる子供を横から見とったらふと思いついたんや、水に浮かぶ花火を作れへんかなーって。ほんで誕生したのが「金魚花火」や！水面を泳いだり、七色に光ったり、泡をぶくぶく吐いたりする、不思議やろ！うちもほんまに成功すると思ってへんかったから、世の中ってやっぱ不思議やなぁ～。",
+            "sourceName": "vo_yoimiya_pref_gift.wem"
+        },
+        "4df5e52de779945d": {
+            "hash": "4df5e52de779945d",
+            "directory": "External9",
+            "voiceContent": "ははっ、勝ちや勝ち！",
+            "sourceName": "vo_card_yoimiya_invite_hard_02.wem"
+        },
+        "a0867ee9d2374326": {
+            "hash": "a0867ee9d2374326",
+            "directory": "External20",
+            "voiceContent": "ほなまた！せやけどまだ遊び足りひんから、さっきのデッキまた見せてぇや！",
+            "sourceName": "vo_card_yoimiya_leave_01.wem"
+        },
+        "64baa467158c06ea": {
+            "hash": "64baa467158c06ea",
+            "directory": "External12",
+            "voiceContent": "もう一回や！やっとコツを掴めたとこや！",
+            "sourceName": "vo_card_yoimiya_endOfGame_fail_01.wem"
+        },
+        "74c4c6071d630c9e": {
+            "hash": "74c4c6071d630c9e",
+            "directory": "External14",
+            "voiceContent": "気ぃ落とさんと、もう一回やらへん？",
+            "sourceName": "vo_card_yoimiya_invite_easy_02.wem"
+        },
+        "51a994b6fa585cf6": {
+            "hash": "51a994b6fa585cf6",
+            "directory": "External10",
+            "voiceContent": "遊びのことやったら結構自信あんねん。",
+            "sourceName": "vo_card_yoimiya_endOfGame_win_01.wem"
+        },
+        "ceffd40f4bf64641": {
+            "hash": "ceffd40f4bf64641",
+            "directory": "External25",
+            "voiceContent": "問題あらへんよ。とことん楽しもうや。",
+            "sourceName": "vo_card_yoimiya_invite_easy_01.wem"
+        },
+        "2293680015739da7": {
+            "hash": "2293680015739da7",
+            "directory": "External4",
+            "voiceContent": "あちゃあ…今のなし！三回勝負やろ？",
+            "sourceName": "vo_card_yoimiya_invite_easy_03.wem"
+        },
+        "f3f1c725b915825a": {
+            "hash": "f3f1c725b915825a",
+            "directory": "External30",
+            "voiceContent": "ふふん、うちのカード、見せたるでぇ。",
+            "sourceName": "vo_card_yoimiya_invite_hard_01.wem"
+        },
+        "df11cb36c5dd1f8c": {
+            "hash": "df11cb36c5dd1f8c",
+            "directory": "External27",
+            "voiceContent": "恥ずいなぁ、へへ…",
+            "sourceName": "vo_card_yoimiya_invite_hard_03.wem"
+        },
+        "a395cab2f6f0a595": {
+            "hash": "a395cab2f6f0a595",
+            "directory": "External20",
+            "voiceContent": "「七聖召喚」がこない人気やなんて…次のお祭りで屋台を出すのもええなぁ！",
+            "sourceName": "vo_card_yoimiya_freetalk_01.wem"
+        },
+        "db6a40de4e13ff9e": {
+            "hash": "db6a40de4e13ff9e",
+            "directory": "External27",
+            "voiceContent": "んん？なんや、お腹でフライムがはしゃいどるみたいやな…さすがに、それはないと思うんやけど…",
+            "sourceName": "vo_yoimiya_spice_event_dislike_01.wem"
+        },
+        "646169c30af21ff8": {
+            "hash": "646169c30af21ff8",
+            "directory": "External12",
+            "voiceContent": "わぁ、あんた甘味を作るんが上手いんやな！祭りの屋台で出したら、絶対いっちゃん人気でると思うで！",
+            "sourceName": "vo_yoimiya_spice_event_pref_01.wem"
+        },
+        "f5aabd17917fd1f2": {
+            "hash": "f5aabd17917fd1f2",
+            "directory": "External30",
+            "voiceContent": "うまいもん食べたら、元気が出るもんや。そんで元気が出たら、次は物語を語りとうなる。ほな、ええ物語、選んどくな！",
+            "sourceName": "vo_yoimiya_spice_event_normal_01.wem"
+        },
+        "8c4a397c40124e4b": {
+            "hash": "8c4a397c40124e4b",
+            "directory": "External17",
+            "voiceContent": "うちの自信作をよう見ときぃ！",
+            "sourceName": "vo_card_yoimiya_inGame_hard_04.wem"
+        },
+        "e3fdd7a69fb89d36": {
+            "hash": "e3fdd7a69fb89d36",
+            "directory": "External28",
+            "voiceContent": "へへ、いただきや。",
+            "sourceName": "vo_card_yoimiya_inGame_hard_01.wem"
+        },
+        "d284abb7af64c518": {
+            "hash": "d284abb7af64c518",
+            "directory": "External26",
+            "voiceContent": "うぅ…なかなかやるやないか…",
+            "sourceName": "vo_card_yoimiya_inGame_hard_03.wem"
+        },
+        "b85ddd50d0f62660": {
+            "hash": "b85ddd50d0f62660",
+            "directory": "External23",
+            "voiceContent": "面白いもん見せたろか！",
+            "sourceName": "vo_card_yoimiya_inGame_easy_04.wem"
+        },
+        "44ecb92018d3e82a": {
+            "hash": "44ecb92018d3e82a",
+            "directory": "External8",
+            "voiceContent": "ハンデはくれへんみたいやな…",
+            "sourceName": "vo_card_yoimiya_inGame_easy_02.wem"
+        },
+        "544205af6c04e299": {
+            "hash": "544205af6c04e299",
+            "directory": "External10",
+            "voiceContent": "あっ！うっかりしてもうた…",
+            "sourceName": "vo_card_yoimiya_inGame_hard_02.wem"
+        },
+        "c9d9eb17d8295b33": {
+            "hash": "c9d9eb17d8295b33",
+            "directory": "External25",
+            "voiceContent": "ちょっち油断してもうた…",
+            "sourceName": "vo_card_yoimiya_inGame_easy_03.wem"
+        },
+        "764657270eac03ad": {
+            "hash": "764657270eac03ad",
+            "directory": "External14",
+            "voiceContent": "手加減はせぇへんよ！",
+            "sourceName": "vo_card_yoimiya_inGame_easy_01.wem"
+        }
+    }
+}

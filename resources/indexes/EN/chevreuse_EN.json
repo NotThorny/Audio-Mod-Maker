@@ -1,0 +1,571 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "12767e31301bce15": {
+            "hash": "12767e31301bce15",
+            "directory": "External2",
+            "voiceContent": "Not good! She's trying to escape... We need to end this fight as soon as possible!",
+            "sourceName": "vo_LNTCOP001_1918701_chevreuse_02.wem"
+        },
+        "851d7890f8d506e9": {
+            "hash": "851d7890f8d506e9",
+            "directory": "External16",
+            "voiceContent": "Here, take some of this dim sum as thanks for your help. Receiving this envelope from you really makes this trip worthwhile.",
+            "sourceName": "vo_HDJHK006_4_chevreuse_02.wem"
+        },
+        "14d94a882c88c086": {
+            "hash": "14d94a882c88c086",
+            "directory": "External2",
+            "voiceContent": "Wow, this turned out great! Hmm... you deserve something in return.",
+            "sourceName": "vo_HDJHK006_4_chevreuse_01.wem"
+        },
+        "2c0b5e9a74c225a8": {
+            "hash": "2c0b5e9a74c225a8",
+            "directory": "External5",
+            "voiceContent": "...Still, I've been away for some time, now. I wonder if my officers are keeping up with their training.",
+            "sourceName": "vo_HDJHK006_4_chevreuse_03.wem"
+        },
+        "e5d12c5f05701b5b": {
+            "hash": "e5d12c5f05701b5b",
+            "directory": "External28",
+            "voiceContent": "Well, I guess it's time to start planning a fitness test.",
+            "sourceName": "vo_HDJHK006_4_chevreuse_04.wem"
+        },
+        "c60078e40e8de0db": {
+            "hash": "c60078e40e8de0db",
+            "directory": "External24",
+            "voiceContent": "I also deal with a lot of emergency cases, so over time, I just... forgot to take vacation.",
+            "sourceName": "vo_HDJHK006_2_chevreuse_06.wem"
+        },
+        "ca8f64f5bbf154f5": {
+            "hash": "ca8f64f5bbf154f5",
+            "directory": "External25",
+            "voiceContent": "The end-of-year calculations came through, and the Patrol found out I hadn't taken a single day off, so...",
+            "sourceName": "vo_HDJHK006_2_chevreuse_04.wem"
+        },
+        "440c06ec51be5792": {
+            "hash": "440c06ec51be5792",
+            "directory": "External8",
+            "voiceContent": "I was fine going without any time off this year, but my officers wouldn't hear of it...",
+            "sourceName": "vo_HDJHK006_2_chevreuse_07.wem"
+        },
+        "489c2afdff23de64": {
+            "hash": "489c2afdff23de64",
+            "directory": "External9",
+            "voiceContent": "No. Our officers operate on a rotating schedule, but as the captain of the squad, I'm always on duty.",
+            "sourceName": "vo_HDJHK006_2_chevreuse_05.wem"
+        },
+        "f508970d35a68606": {
+            "hash": "f508970d35a68606",
+            "directory": "External30",
+            "voiceContent": "The Maison Gardiennage stipulates that all employees are required to use our vacation time by the end of the year.",
+            "sourceName": "vo_HDJHK006_2_chevreuse_03.wem"
+        },
+        "e637d74af70b4fca": {
+            "hash": "e637d74af70b4fca",
+            "directory": "External28",
+            "voiceContent": "And I have to hand it to him — Liyue is a sight to behold this time of year. I just came back from Qiaoying Village, actually. I really loved the dim sum made with tea.",
+            "sourceName": "vo_HDJHK006_2_chevreuse_10.wem"
+        },
+        "da1cf55864c31a11": {
+            "hash": "da1cf55864c31a11",
+            "directory": "External27",
+            "voiceContent": "They started shouting about how rules are meant to be followed and a captain needs to lead by example. Basically, they wouldn't take no for an answer.",
+            "sourceName": "vo_HDJHK006_2_chevreuse_08.wem"
+        },
+        "76c5f904f246b1ef": {
+            "hash": "76c5f904f246b1ef",
+            "directory": "External14",
+            "voiceContent": "I'm being forced to take a vacation.",
+            "sourceName": "vo_HDJHK006_2_chevreuse_02.wem"
+        },
+        "585f9b60a822fc90": {
+            "hash": "585f9b60a822fc90",
+            "directory": "External11",
+            "voiceContent": "One of the Gestionnaires who works with us mentioned how Liyue is a top vacation destination during the Lantern Rite festival. He pulled out a boat ticket right then and there, so... Here I am.",
+            "sourceName": "vo_HDJHK006_2_chevreuse_09.wem"
+        },
+        "fd6adb5d3f464c3c": {
+            "hash": "fd6adb5d3f464c3c",
+            "directory": "External31",
+            "voiceContent": "It's just... I'm not very good at this kind of thing. No matter what I do, it always ends up looking weird.",
+            "sourceName": "vo_HDJHK006_2_chevreuse_12.wem"
+        },
+        "67bf0942b37d99d3": {
+            "hash": "67bf0942b37d99d3",
+            "directory": "External12",
+            "voiceContent": "I bought some to share with the Special Patrol. I was planning to follow local customs and make a few gift envelopes, as well.",
+            "sourceName": "vo_HDJHK006_2_chevreuse_11.wem"
+        }
+    },
+    "Gameplay": {
+        "24376608adec06e7": {
+            "hash": "24376608adec06e7",
+            "directory": "External4",
+            "voiceContent": "Stop right there!",
+            "sourceName": "vo_chevreuse_battle_skill1_01.wem"
+        },
+        "7af7f821633f6380": {
+            "hash": "7af7f821633f6380",
+            "directory": "External15",
+            "voiceContent": "Drop your weapons!",
+            "sourceName": "vo_chevreuse_battle_skill1_02.wem"
+        },
+        "d409d217e751d781": {
+            "hash": "d409d217e751d781",
+            "directory": "External26",
+            "voiceContent": "Final warning!",
+            "sourceName": "vo_chevreuse_battle_skill1_03.wem"
+        },
+        "2e2d0f2a09ef5845": {
+            "hash": "2e2d0f2a09ef5845",
+            "directory": "External5",
+            "voiceContent": "You asked for it!",
+            "sourceName": "vo_chevreuse_battle_skill3_01.wem"
+        },
+        "d3bbf121db2e7422": {
+            "hash": "d3bbf121db2e7422",
+            "directory": "External26",
+            "voiceContent": "Justice will prevail!",
+            "sourceName": "vo_chevreuse_battle_skill3_02.wem"
+        },
+        "81c1631ad36df66b": {
+            "hash": "81c1631ad36df66b",
+            "directory": "External16",
+            "voiceContent": "Hands where I can see them!",
+            "sourceName": "vo_chevreuse_battle_skill3_03.wem"
+        },
+        "03f0c8815056ac2c": {
+            "hash": "03f0c8815056ac2c",
+            "directory": "External0",
+            "voiceContent": "Look what we have here.",
+            "sourceName": "vo_chevreuse_chest_open_01.wem"
+        },
+        "6e44f666c48df9c3": {
+            "hash": "6e44f666c48df9c3",
+            "directory": "External13",
+            "voiceContent": "There better not be any contraband in here.",
+            "sourceName": "vo_chevreuse_chest_open_02.wem"
+        },
+        "18cfc470438d5bfa": {
+            "hash": "18cfc470438d5bfa",
+            "directory": "External3",
+            "voiceContent": "At ease. I don't believe this counts as theft.",
+            "sourceName": "vo_chevreuse_chest_open_03.wem"
+        },
+        "123f75f49c522d7c": {
+            "hash": "123f75f49c522d7c",
+            "directory": "External2",
+            "voiceContent": "Back in formation!",
+            "sourceName": "vo_chevreuse_life_less30_teammate_01.wem"
+        },
+        "7c93a3da10897a13": {
+            "hash": "7c93a3da10897a13",
+            "directory": "External15",
+            "voiceContent": "Hold your positions!",
+            "sourceName": "vo_chevreuse_life_less30_teammate_02.wem"
+        },
+        "155eb9849ffa4e89": {
+            "hash": "155eb9849ffa4e89",
+            "directory": "External2",
+            "voiceContent": "The arc of justice... is broken...",
+            "sourceName": "vo_chevreuse_life_die_01.wem"
+        },
+        "a51a8b7bd3ae0926": {
+            "hash": "a51a8b7bd3ae0926",
+            "directory": "External20",
+            "voiceContent": "They're still... out there...",
+            "sourceName": "vo_chevreuse_life_die_02.wem"
+        },
+        "a96659bf4017e81e": {
+            "hash": "a96659bf4017e81e",
+            "directory": "External21",
+            "voiceContent": "Alright team, let's move it out!",
+            "sourceName": "vo_chevreuse_teamJoin_01.wem"
+        },
+        "03a167c76eab21c1": {
+            "hash": "03a167c76eab21c1",
+            "directory": "External0",
+            "voiceContent": "A little extra training never hurts!",
+            "sourceName": "vo_chevreuse_teamJoin_02.wem"
+        },
+        "aa8f8dd0ea98adc0": {
+            "hash": "aa8f8dd0ea98adc0",
+            "directory": "External21",
+            "voiceContent": "Armed and ready!",
+            "sourceName": "vo_chevreuse_teamJoin_03.wem"
+        },
+        "a15948c291f26022": {
+            "hash": "a15948c291f26022",
+            "directory": "External20",
+            "voiceContent": "The musket is my favorite weapon. It's both powerful and threatening... sometimes the latter trait is far more useful.",
+            "sourceName": "vo_chevreuse_character_idle_01.wem"
+        },
+        "fbca66cac0b34445": {
+            "hash": "fbca66cac0b34445",
+            "directory": "External31",
+            "voiceContent": "The Special Security and Surveillance Patrol isn't involved in regular patrol duties around Fontaine. The people we're after aren't exactly the type who just pop up on the street.",
+            "sourceName": "vo_chevreuse_character_idle_02.wem"
+        },
+        "a2822cd43c729df4": {
+            "hash": "a2822cd43c729df4",
+            "directory": "External20",
+            "voiceContent": "Feast-O's are just the best snack. They're easy to carry with you, and go with so many sauces... Gonna go buy some. Be right back.",
+            "sourceName": "vo_chevreuse_character_idle_03.wem"
+        },
+        "474a69add43ecc34": {
+            "hash": "474a69add43ecc34",
+            "directory": "External8",
+            "voiceContent": "Don't worry. My musket can still fire in the rain.",
+            "sourceName": "vo_chevreuse_weather_heavyRain_01.wem"
+        },
+        "48625e5531660397": {
+            "hash": "48625e5531660397",
+            "directory": "External9",
+            "voiceContent": "Some criminals try to use the sound of thunder to conceal gun shots. But, that trick doesn't fool my ears.",
+            "sourceName": "vo_chevreuse_weather_thunder_01.wem"
+        },
+        "653ec116b57b6ed2": {
+            "hash": "653ec116b57b6ed2",
+            "directory": "External12",
+            "voiceContent": "With this wind, I'm afraid even my bullets might get blown off their mark.",
+            "sourceName": "vo_chevreuse_weather_gale_01.wem"
+        },
+        "95a8b749921dd5ab": {
+            "hash": "95a8b749921dd5ab",
+            "directory": "External18",
+            "voiceContent": "...Hold! I need to service my musket before the mechanism freezes.",
+            "sourceName": "vo_chevreuse_weather_snowy_01.wem"
+        },
+        "c8b8460dd38a4546": {
+            "hash": "c8b8460dd38a4546",
+            "directory": "External25",
+            "voiceContent": "What nice weather! Especially good for keeping an eye on things.",
+            "sourceName": "vo_chevreuse_weather_sunny_01.wem"
+        },
+        "e74e08bb48a9f106": {
+            "hash": "e74e08bb48a9f106",
+            "directory": "External28",
+            "voiceContent": "Good morning! I was just about to do a few rounds of strength training. Do you want to join?",
+            "sourceName": "vo_chevreuse_dialog_greetingMorning.wem"
+        },
+        "591089d2cd3ede42": {
+            "hash": "591089d2cd3ede42",
+            "directory": "External11",
+            "voiceContent": "Afternoon! Do you want to grab some food with me at the Special Patrol's mess hall? The food there really fills the stomach.",
+            "sourceName": "vo_chevreuse_dialog_greetingNoon.wem"
+        },
+        "3d3f9b94af8cf18c": {
+            "hash": "3d3f9b94af8cf18c",
+            "directory": "External7",
+            "voiceContent": "Another day of work over, and without any huge disasters to boot. Let's grab a midnight snack. I'll lead the way.",
+            "sourceName": "vo_chevreuse_dialog_greetingNight.wem"
+        },
+        "0ab396ca6f15f564": {
+            "hash": "0ab396ca6f15f564",
+            "directory": "External1",
+            "voiceContent": "Good night. I'm also going to turn in soon. ...I really hope nothing too serious happens while I'm asleep.",
+            "sourceName": "vo_chevreuse_dialog_greetingNight2.wem"
+        },
+        "fc222d36be5aeb6b": {
+            "hash": "fc222d36be5aeb6b",
+            "directory": "External31",
+            "voiceContent": "The Special Security and Surveillance Patrol deals with a whole host of heinous crimes and dangerous criminals. As such, the methods we employ to enforce the law can be a bit on the... harsher side.",
+            "sourceName": "vo_chevreuse_dialog_idle.wem"
+        },
+        "8ba7a225403d5295": {
+            "hash": "8ba7a225403d5295",
+            "directory": "External17",
+            "voiceContent": "There's an unwritten rule in the Special Security and Surveillance Patrol. Any time a member dies in the line of duty, we hold onto their cap. Should a child of a deceased member ever join the Special Patrol, we then pass the cap down to them... I suppose you could call it a way of passing on a member's legacy.",
+            "sourceName": "vo_chevreuse_dialog_idle2.wem"
+        },
+        "6689a77408e02b34": {
+            "hash": "6689a77408e02b34",
+            "directory": "External12",
+            "voiceContent": "You can come to me at any time if you have questions about the law. Actually... You should come to me the minute you have the slightest inkling that something may not be legal.I can't tell you how many idiots I encounter every year who overstep simply because they fail to check where the line is drawn. I don't want to see you become like them.",
+            "sourceName": "vo_chevreuse_dialog_close1.wem"
+        },
+        "8b8c6d35b538b1f9": {
+            "hash": "8b8c6d35b538b1f9",
+            "directory": "External17",
+            "voiceContent": "In my free time, I like to read crime novels. They differ from murder mysteries in that they focus less on describing the complicated details of the crime itself and more on the emotional and human conflicts surrounding the case. I find them very interesting.",
+            "sourceName": "vo_chevreuse_dialog_close.wem"
+        },
+        "9105b74968487e33": {
+            "hash": "9105b74968487e33",
+            "directory": "External18",
+            "voiceContent": "My Vision is certainly an integral part of the way I execute my duties. For instance, my Musket has never had a major malfunction since I received my Vision.I'd say a captain who wields a musket and a Vision is more than enough to scare off a few cowardly criminals.",
+            "sourceName": "vo_chevreuse_dialog_pendant.wem"
+        },
+        "a37d4a975fb094e4": {
+            "hash": "a37d4a975fb094e4",
+            "directory": "External20",
+            "voiceContent": "Harcourt really did it, he arrested Mylis... even though she was his true love. I have to admire him for that, although... did Mylis really do anything wrong? All she did was find some jewelry and sell it off. I guess it didn't belong to her, but it's hardly the heinous crime that the aristocrats made it out to be... *sigh* It's hard to know what justice should look like sometimes, isn't it?",
+            "sourceName": "vo_chevreuse_dialog_share_01.wem"
+        },
+        "c7bdf4170d1b6cfe": {
+            "hash": "c7bdf4170d1b6cfe",
+            "directory": "External24",
+            "voiceContent": "Although our organization belongs to the Maison Gardiennage, the Special Security and Surveillance Patrol makes little use of Gardemeks. As for the reason... Well, let's just say those cumbersome machines would only get in the way of our bullets.",
+            "sourceName": "vo_chevreuse_pref_gift_01.wem"
+        },
+        "d07b8871ea1a0860": {
+            "hash": "d07b8871ea1a0860",
+            "directory": "External26",
+            "voiceContent": "I've heard about the murder case involving Navia's father. It caused quite the stir in the Maison Gardiennage at the time. It was the source of many disagreements, I believe.Fortunately, the truth has come to light and the true culprit has been held accountable... Justice may not always be swift, but it always prevails in the end.",
+            "sourceName": "vo_chevreuse_teammate_navia_01.wem"
+        },
+        "5293d09dfe04d902": {
+            "hash": "5293d09dfe04d902",
+            "directory": "External10",
+            "voiceContent": "Lyney is quite the famous magician. We once had a case where we arrested a magician suspected of deliberate harm, fraudulent behavior, and murder, but we could never figure out his methods. In the end, we brought on Lyney as a consultant. He helped us find a crucial piece of evidence that led to the successful conviction of the suspect. I heard that an author actually used that case as the basis for their mystery novel about a magician who used their craft to commit crimes.Unfortunately... the author ended up going a little overboard on the graphic detail, and since the crime is still fresh in everyone's minds, it'll be a while before they're able to get it published.",
+            "sourceName": "vo_chevreuse_teammate_lyney_01.wem"
+        },
+        "527fa8543e0db2cf": {
+            "hash": "527fa8543e0db2cf",
+            "directory": "External10",
+            "voiceContent": "I once saw Freminet in a shop when we both reached for the same gadget. It was the last one available, but just as I was about to tell him he could have it, he withdrew his hand and ran out of the store. It might sound odd, but he fled like the Gardes were after him.",
+            "sourceName": "vo_chevreuse_teammate_freminet_01.wem"
+        },
+        "96a2276624769489": {
+            "hash": "96a2276624769489",
+            "directory": "External18",
+            "voiceContent": "Chiori's method of resolving disputes is bit radical. But, she has quite the network at her disposal and has provided the Special Security and Surveillance Patrol with intelligence on more than one occasion. In return, I turn a blind eye whenever she throws someone out the door or runs a malignant competitor out of business. If you look into it, you'll find that Chiori is always in the right. She's just not the type to waste her breath on explanations.",
+            "sourceName": "vo_chevreuse_teammate_chiori_01.wem"
+        },
+        "d7466cd1cd1b760b": {
+            "hash": "d7466cd1cd1b760b",
+            "directory": "External26",
+            "voiceContent": "Charlotte is the type of reporter that really gives you a headache. Whenever there's a major case, she's always one of the first people in the vicinity no matter how hard we try to secure the scene. One time, she was even detained as a suspect for half a month, but she was still able to finish her article while in custody... I really do need to find the time to have a formal conversation with her editor about her behavior.",
+            "sourceName": "vo_chevreuse_teammate_charlotte_01.wem"
+        },
+        "b1dd1cf63262a7dc": {
+            "hash": "b1dd1cf63262a7dc",
+            "directory": "External22",
+            "voiceContent": "The Special Security and Surveillance Patrol has a long-lasting friendship with the Melusines. We often collaborate with the Melusines who work in the Marechaussee Phantom. They're kind, honest, and reliable. When it comes to handling major cases, the role they play is irreplaceable. I, myself, am quite close to several Melusines, Sigewinne included.Melusines have long been one of our most indispensable partners. If there continue to be those who dare to slander and belittle their name, then they'll find themselves looking down the barrels of our muskets.",
+            "sourceName": "vo_chevreuse_teammate_sigewinne_01.wem"
+        },
+        "117540f5f400ae8d": {
+            "hash": "117540f5f400ae8d",
+            "directory": "External2",
+            "voiceContent": "Clorinde has built quite the reputation for herself in Fontaine as a Champion Duelist. Our positions are different, so I'm not at liberty to make any comments about her work. But I trust that she takes on those duels out of her own sense of justice.",
+            "sourceName": "vo_chevreuse_teammate_clorinde_01.wem"
+        },
+        "a717055f6e62b34a": {
+            "hash": "a717055f6e62b34a",
+            "directory": "External20",
+            "voiceContent": "The work Wriothesley does is highly effective. As least all criminals know that the Fortress of Meropide isn't the type of place you want to stay at long enough to grow old. That fact comes in handy during our interrogation work.",
+            "sourceName": "vo_chevreuse_teammate_wriothesley_01.wem"
+        },
+        "75e2eca38ada4c32": {
+            "hash": "75e2eca38ada4c32",
+            "directory": "External14",
+            "voiceContent": "Emilie is a good friend. Her expert knowledge of chemistry has been a great help to me many times when analyzing evidence or tracking down a killer. She helps us discover information that no one else can see, like what type of perfume a suspect wore or what type of flowers they sent as a gift. She can even determine the places they've been right down to the very dirt they've stepped in... Plus, she's never been wrong.",
+            "sourceName": "vo_chevreuse_teammate_emilie_01.wem"
+        },
+        "9aea8bbca436d496": {
+            "hash": "9aea8bbca436d496",
+            "directory": "External19",
+            "voiceContent": "Sorry, I'm not great at talking to people... Well, talking to people outside of an interrogation room that is. If there's anything you want to know, please just ask.",
+            "sourceName": "vo_chevreuse_friendship_01.wem"
+        },
+        "0b2eb9c570831af9": {
+            "hash": "0b2eb9c570831af9",
+            "directory": "External1",
+            "voiceContent": "The Special Security and Surveillance Patrol is just one of the many branches of the Maison Gardiennage. We have a more daring way of doing things, and some in the Maison Gardiennage are under the impression that we don't exactly play by the rules.But，I don't think the way the Special Patrol operates should be influenced by outside forces. The criminals we face aren't your everyday goody-goodies from the Palais Mermonia. When crimes are committed swiftly and without warning, like the sudden downpour of a rainstorm, we have to be able to respond just as fast.",
+            "sourceName": "vo_chevreuse_friendship_02.wem"
+        },
+        "89715fcdb3e2fd78": {
+            "hash": "89715fcdb3e2fd78",
+            "directory": "External17",
+            "voiceContent": "The criminals I encounter aren't all cold-blooded killers and heartless villains.Most of them start off by making a small mistake but are too afraid to own up to it. In their efforts to make up for it in secret, they end up getting sucked into a whirlpool of lies. Before they know it, they're in over their heads, and they're forced down the path of a criminal despite the best of intentions.There's this line by my favorite playwright that goes, Lies are the soil in which the seeds of crime are sown.But, he was arrested for plagiarism a few years later. Talk about dramatic irony, I suppose...",
+            "sourceName": "vo_chevreuse_friendship_03.wem"
+        },
+        "97f46d94b88fdb2b": {
+            "hash": "97f46d94b88fdb2b",
+            "directory": "External18",
+            "voiceContent": "After my father was imprisoned, I was labeled a crook's daughter. Growing up in Fleuve Cendre, I saw first-hand how many corners of Fontaine remain shrouded in shadow. Though my upbringing didn't garner me many friends, the knowledge I acquired was far more precious.Those who enforce the law must have their own conception of justice, one that they use to govern their actions. That is what my father taught me.And it has proved itself to be true many times over.",
+            "sourceName": "vo_chevreuse_friendship_04.wem"
+        },
+        "ed54fb9bc33382e2": {
+            "hash": "ed54fb9bc33382e2",
+            "directory": "External29",
+            "voiceContent": "To be honest, as the Captain of the Special Security and Surveillance Patrol, I've witnessed evil beyond measure. Too many times, I've seen good, innocent people get hurt or even lose their lives after getting caught up in events beyond their control... I can't help but feel angry and powerless whenever I think about them.I firmly believe that criminals must be punished, but we must not let punishment trap us in an endless cycle of vengeance.If we are blinded by our emotions and let them control our actions, we run the risk of drowning in them.Those who hold more power should be especially cognizant of that fact. We must all search for our own sense of justice, but we must also be wary of losing ourselves in the pursuit of it.",
+            "sourceName": "vo_chevreuse_friendship_05.wem"
+        },
+        "4c10572614c9d0f2": {
+            "hash": "4c10572614c9d0f2",
+            "directory": "External9",
+            "voiceContent": "Perhaps training? Or target practice? If I really had to say, though, it would be reading crime novels. That reminds me, I should grab the latest copy of The Murder Files.",
+            "sourceName": "vo_chevreuse_pref_hobby.wem"
+        },
+        "f571d4385b16d945": {
+            "hash": "f571d4385b16d945",
+            "directory": "External30",
+            "voiceContent": "I love anything full of grease and sugar. Food like that provides me with ample energy during the workday... Plus, it's a real mood booster. But, on my days off... those fat-inducing foods become my worst enemy. That being said, absolving the world of their existence also comes with its own pleasures.",
+            "sourceName": "vo_chevreuse_pref_foodLike.wem"
+        },
+        "537adfebb9807b67": {
+            "hash": "537adfebb9807b67",
+            "directory": "External10",
+            "voiceContent": "I... can't really handle eating raw food. If I'm going to eat it, then it has to be fully cooked.",
+            "sourceName": "vo_chevreuse_pref_foodDislike.wem"
+        },
+        "ed3a8505b449ed22": {
+            "hash": "ed3a8505b449ed22",
+            "directory": "External29",
+            "voiceContent": "It's delicious. *sigh* But it seems I've already had a few bites too many... I'll have to work it off with extra training.",
+            "sourceName": "vo_chevreuse_spice_pref_01.wem"
+        },
+        "479c7870f9abcd28": {
+            "hash": "479c7870f9abcd28",
+            "directory": "External8",
+            "voiceContent": "Hm, much better than what we get in the Special Patrol's mess hall.",
+            "sourceName": "vo_chevreuse_spice_normal_01.wem"
+        },
+        "871cb8496d40fcac": {
+            "hash": "871cb8496d40fcac",
+            "directory": "External16",
+            "voiceContent": "It's filling but doesn't leave you wanting more... An excellent dish in my book.",
+            "sourceName": "vo_chevreuse_spice_dislike_01.wem"
+        },
+        "d6c6765b83a99b71": {
+            "hash": "d6c6765b83a99b71",
+            "directory": "External26",
+            "voiceContent": "Happy Birthday! Ahem... At attention! Chin up, shoulders back! Let's take your measurements... I want to commission a smaller, more portable musket and holster for you...Okay, at ease. While the musket is being commissioned, you need to log some hours at the shooting range first. No time like the present! Follow me!",
+            "sourceName": "vo_chevreuse_pref_birthday_01.wem"
+        },
+        "0d143e5e38cfb1c1": {
+            "hash": "0d143e5e38cfb1c1",
+            "directory": "External1",
+            "voiceContent": "Not bad. I feel my aim getting steadier by the minute.",
+            "sourceName": "vo_chevreuse_starUp_01.wem"
+        },
+        "b2d930560a3c781e": {
+            "hash": "b2d930560a3c781e",
+            "directory": "External22",
+            "voiceContent": "More accurate at longer range, not bad.",
+            "sourceName": "vo_chevreuse_starUp_02.wem"
+        },
+        "60a7d24f024d0927": {
+            "hash": "60a7d24f024d0927",
+            "directory": "External12",
+            "voiceContent": "Thanks! With this strength, I can't imagine many criminals will be able to get away now!",
+            "sourceName": "vo_chevreuse_starUp_03.wem"
+        },
+        "066cc446d3b9d07c": {
+            "hash": "066cc446d3b9d07c",
+            "directory": "External0",
+            "voiceContent": "Thanks for all your help. I can't promise that the full force of the Special Patrol will be at your beck and call, but as for myself, you need only say the word and I'll be there.",
+            "sourceName": "vo_chevreuse_starUp_04.wem"
+        },
+        "e59f1953575e9f75": {
+            "hash": "e59f1953575e9f75",
+            "directory": "External28",
+            "voiceContent": "You had a choice...!",
+            "sourceName": "vo_chevreuse_life_less30_01.wem"
+        },
+        "5f1bbb49ed2ba212": {
+            "hash": "5f1bbb49ed2ba212",
+            "directory": "External11",
+            "voiceContent": "No respect for the law!",
+            "sourceName": "vo_chevreuse_life_less30_02.wem"
+        },
+        "e1102d41a9fb2b5b": {
+            "hash": "e1102d41a9fb2b5b",
+            "directory": "External28",
+            "voiceContent": "Your crimes are evident.",
+            "sourceName": "vo_chevreuse_life_less30_03.wem"
+        },
+        "26d7ed73904e340f": {
+            "hash": "26d7ed73904e340f",
+            "directory": "External4",
+            "voiceContent": "This can't be... the end...",
+            "sourceName": "vo_chevreuse_life_die_03.wem"
+        },
+        "3bc8c46fa55a72c6": {
+            "hash": "3bc8c46fa55a72c6",
+            "directory": "External7",
+            "voiceContent": "Do not attempt to resist...!",
+            "sourceName": "vo_chevreuse_battle_hit_H_02.wem"
+        },
+        "a64bf0b20c9c1424": {
+            "hash": "a64bf0b20c9c1424",
+            "directory": "External20",
+            "voiceContent": "Everyone knows that the Iudex abstains himself of all personal emotion when presiding over a trial. Some even say he lacks the warmth of human emotion. But the way I see it, justice should remain uncorrupted by personal feelings. Those who break the law bear guilt. It's as simple as that.",
+            "sourceName": "vo_chevreuse_teammate_neuvillette_01.wem"
+        },
+        "0e86e4a37a0b264a": {
+            "hash": "0e86e4a37a0b264a",
+            "directory": "External1",
+            "voiceContent": "Lady Furina once ordered us to carry out some sort of... ceremonial musketeer performance. She not only wanted each of us outfitted with special ceremonial muskets, but she wanted us to practice all sorts of specialized drill formations as well. Luckily, in the end, she couldn't find the right song to pair with the performance and the matter was dropped entirely.",
+            "sourceName": "vo_chevreuse_teammate_furina_01.wem"
+        },
+        "04f8ee4957dabc60": {
+            "hash": "04f8ee4957dabc60",
+            "directory": "External0",
+            "voiceContent": "The sheer vastness of the desert is perfect for keeping certain things buried and out of sight.",
+            "sourceName": "vo_chevreuse_weather_desert_01.wem"
+        },
+        "5192d8e4a4035e15": {
+            "hash": "5192d8e4a4035e15",
+            "directory": "External10",
+            "voiceContent": "I really hate wasting time learning frivolous pieces of etiquette. My time is better spent keeping criminals in check.",
+            "sourceName": "vo_chevreuse_dialog_annoyed_01.wem"
+        },
+        "cbc8b8ac7f36b3c0": {
+            "hash": "cbc8b8ac7f36b3c0",
+            "directory": "External25",
+            "voiceContent": "I'm Chevreuse, Captain of Fontaine's Special Security and Surveillance Patrol. You'll excuse me if I skip the pleasantries. Is there a case that needs my attention?",
+            "sourceName": "vo_chevreuse_draw_appear_01.wem"
+        },
+        "95a01c134e47603a": {
+            "hash": "95a01c134e47603a",
+            "directory": "External18",
+            "voiceContent": "The situation is now critical...",
+            "sourceName": "vo_card_chevreuse_inGame_hard_03.wem"
+        },
+        "04bdcf3460a1f50c": {
+            "hash": "04bdcf3460a1f50c",
+            "directory": "External0",
+            "voiceContent": "How unexpected...",
+            "sourceName": "vo_card_chevreuse_inGame_easy_02.wem"
+        },
+        "094dbb460e071c2e": {
+            "hash": "094dbb460e071c2e",
+            "directory": "External1",
+            "voiceContent": "Rules of combat apply.",
+            "sourceName": "vo_card_chevreuse_inGame_easy_04.wem"
+        },
+        "b6dfda3cfe7a2131": {
+            "hash": "b6dfda3cfe7a2131",
+            "directory": "External22",
+            "voiceContent": "Tactical necessity.",
+            "sourceName": "vo_card_chevreuse_inGame_hard_04.wem"
+        },
+        "c7367d1c4bbd7423": {
+            "hash": "c7367d1c4bbd7423",
+            "directory": "External24",
+            "voiceContent": "Try not to get rattled.",
+            "sourceName": "vo_card_chevreuse_inGame_easy_01.wem"
+        },
+        "73a1e92b823e69dd": {
+            "hash": "73a1e92b823e69dd",
+            "directory": "External14",
+            "voiceContent": "I was too slow.",
+            "sourceName": "vo_card_chevreuse_inGame_easy_03.wem"
+        },
+        "ee7b4e09d22b2703": {
+            "hash": "ee7b4e09d22b2703",
+            "directory": "External29",
+            "voiceContent": "Looks like we've both been training hard.",
+            "sourceName": "vo_card_chevreuse_inGame_hard_02.wem"
+        },
+        "842720245df3da6c": {
+            "hash": "842720245df3da6c",
+            "directory": "External16",
+            "voiceContent": "Stay sharp.",
+            "sourceName": "vo_card_chevreuse_inGame_hard_01.wem"
+        }
+    }
+}

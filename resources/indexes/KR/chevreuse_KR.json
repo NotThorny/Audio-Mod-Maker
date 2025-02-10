@@ -1,0 +1,571 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "babc1a30f315013c": {
+            "hash": "babc1a30f315013c",
+            "directory": "External23",
+            "voiceContent": "젠장! 도망칠 생각이군… 얼른 전투를 끝내야 해…!",
+            "sourceName": "vo_LNTCOP001_1918701_chevreuse_02.wem"
+        },
+        "f0ad83658a3d2cfe": {
+            "hash": "f0ad83658a3d2cfe",
+            "directory": "External30",
+            "voiceContent": "자, 이 디저트들을 가져가. 고마워, 너에게 선물을 받았으니 이번 여행을 온 보람이 있네",
+            "sourceName": "vo_HDJHK006_4_chevreuse_02.wem"
+        },
+        "4ae8916db8d065a1": {
+            "hash": "4ae8916db8d065a1",
+            "directory": "External9",
+            "voiceContent": "음, 역시 예쁘네. 하지만… 이 「축하장」을 그냥 받을 순 없지",
+            "sourceName": "vo_HDJHK006_4_chevreuse_01.wem"
+        },
+        "49bfa55c0e501a87": {
+            "hash": "49bfa55c0e501a87",
+            "directory": "External9",
+            "voiceContent": "…그나저나 폰타인을 오래 비웠는데, 부대원들이 제때 훈련하고 있을지 모르겠단 말이지",
+            "sourceName": "vo_HDJHK006_4_chevreuse_03.wem"
+        },
+        "ef839753dfbb2edc": {
+            "hash": "ef839753dfbb2edc",
+            "directory": "External29",
+            "voiceContent": "아무래도 체력 테스트 계획을 세워야겠어",
+            "sourceName": "vo_HDJHK006_4_chevreuse_04.wem"
+        },
+        "8de73c05637ff0d8": {
+            "hash": "8de73c05637ff0d8",
+            "directory": "External17",
+            "voiceContent": "거기다 가끔은 내가 나서야 하는 돌발 상황도 터지다 보니… 휴가 생각은 까맣게 잊어버렸어",
+            "sourceName": "vo_HDJHK006_2_chevreuse_06.wem"
+        },
+        "a2c667f456b6f1f6": {
+            "hash": "a2c667f456b6f1f6",
+            "directory": "External20",
+            "voiceContent": "그런데 연말 결산 후, 부대에서 내가 올해 하루도 안 쉬었다는 걸 발견했지. 그래서…",
+            "sourceName": "vo_HDJHK006_2_chevreuse_04.wem"
+        },
+        "0fa495fd20200e59": {
+            "hash": "0fa495fd20200e59",
+            "directory": "External1",
+            "voiceContent": "난 휴가야 어찌 되든 별 상관없는데, 휴가를 안 내겠다고 하니까 대원들이 하나같이 흥분해서는…",
+            "sourceName": "vo_HDJHK006_2_chevreuse_07.wem"
+        },
+        "f87149ead7e4975f": {
+            "hash": "f87149ead7e4975f",
+            "directory": "External31",
+            "voiceContent": "아니, 원래는 교대로 휴가를 쓰게 되어 있어. 하지만 난 특별 순찰대의 대장이니 한시도 자리를 비울 수 없지",
+            "sourceName": "vo_HDJHK006_2_chevreuse_05.wem"
+        },
+        "4c3bf5dba1915a65": {
+            "hash": "4c3bf5dba1915a65",
+            "directory": "External9",
+            "voiceContent": "법률 집행청의 규정상, 모든 직원은 연말까지 주어진 휴가를 모두 소진해야만 해",
+            "sourceName": "vo_HDJHK006_2_chevreuse_03.wem"
+        },
+        "311326a76dcb2301": {
+            "hash": "311326a76dcb2301",
+            "directory": "External6",
+            "voiceContent": "뭐, 와보니 정말 마음에 들어. 방금까지 교영 마을에 있다 왔는데, 찻잎으로 만든 맛있는 디저트가 많더라",
+            "sourceName": "vo_HDJHK006_2_chevreuse_10.wem"
+        },
+        "3a89c8149a305e8a": {
+            "hash": "3a89c8149a305e8a",
+            "directory": "External7",
+            "voiceContent": "「이건 규정이라고요, 대장. 우리 특별 순찰대가 어떻게 규정을 어길 수 있겠어요?」라고 하면서 무조건 쉬라고 밀어붙이더라",
+            "sourceName": "vo_HDJHK006_2_chevreuse_08.wem"
+        },
+        "9e363be2a9515d94": {
+            "hash": "9e363be2a9515d94",
+            "directory": "External19",
+            "voiceContent": "강제 휴가 중이야",
+            "sourceName": "vo_HDJHK006_2_chevreuse_02.wem"
+        },
+        "bf75fa0c59841e93": {
+            "hash": "bf75fa0c59841e93",
+            "directory": "External23",
+            "voiceContent": "그때 마침 매번 우리 부대 일을 하러 오는 행정관도 옆에서 맞장구치더니, 갑자기 배표 한 장을 꺼내는 거야. 지금 리월은 해등절 시즌이니 최고의 휴가 장소로 추천한다면서…",
+            "sourceName": "vo_HDJHK006_2_chevreuse_09.wem"
+        },
+        "8140ba9834655267": {
+            "hash": "8140ba9834655267",
+            "directory": "External16",
+            "voiceContent": "다만… 난 이런 건 잘 못하거든. 아무리 해봐도 뭔가 이상해",
+            "sourceName": "vo_HDJHK006_2_chevreuse_12.wem"
+        },
+        "d8014cb0e9b8af00": {
+            "hash": "d8014cb0e9b8af00",
+            "directory": "External27",
+            "voiceContent": "그래서 많이 사 왔어. 돌아가서 부대원들에게도 나눠주려고. 리월의 풍습에 따라 「축하장」도 안에 넣어줄까 해",
+            "sourceName": "vo_HDJHK006_2_chevreuse_11.wem"
+        }
+    },
+    "Gameplay": {
+        "72880d40e66ae4fa": {
+            "hash": "72880d40e66ae4fa",
+            "directory": "External14",
+            "voiceContent": "움직이지 마!",
+            "sourceName": "vo_chevreuse_battle_skill1_01.wem"
+        },
+        "cc8d2b4914d0a9fd": {
+            "hash": "cc8d2b4914d0a9fd",
+            "directory": "External25",
+            "voiceContent": "무기를 버려!",
+            "sourceName": "vo_chevreuse_battle_skill1_02.wem"
+        },
+        "5da91151f334352c": {
+            "hash": "5da91151f334352c",
+            "directory": "External11",
+            "voiceContent": "최후통첩이다!",
+            "sourceName": "vo_chevreuse_battle_skill1_03.wem"
+        },
+        "32dc72361dd13b94": {
+            "hash": "32dc72361dd13b94",
+            "directory": "External6",
+            "voiceContent": "이건 필요한 무력이다",
+            "sourceName": "vo_chevreuse_battle_skill3_01.wem"
+        },
+        "dfb8001d6b8ecd0b": {
+            "hash": "dfb8001d6b8ecd0b",
+            "directory": "External27",
+            "voiceContent": "널 체포하겠다",
+            "sourceName": "vo_chevreuse_battle_skill3_02.wem"
+        },
+        "86700e26e74ea142": {
+            "hash": "86700e26e74ea142",
+            "directory": "External16",
+            "voiceContent": "순순히 항복해라!",
+            "sourceName": "vo_chevreuse_battle_skill3_03.wem"
+        },
+        "37a0da16d77331eb": {
+            "hash": "37a0da16d77331eb",
+            "directory": "External6",
+            "voiceContent": "그래",
+            "sourceName": "vo_chevreuse_chest_open_01.wem"
+        },
+        "8ac44c2f89b3ed74": {
+            "hash": "8ac44c2f89b3ed74",
+            "directory": "External17",
+            "voiceContent": "장물은 없었으면 좋겠군",
+            "sourceName": "vo_chevreuse_chest_open_02.wem"
+        },
+        "e40c86260df493c5": {
+            "hash": "e40c86260df493c5",
+            "directory": "External28",
+            "voiceContent": "불법적인 소득은 아니니 걱정 마",
+            "sourceName": "vo_chevreuse_chest_open_03.wem"
+        },
+        "1e3dd3ca42c0c3f3": {
+            "hash": "1e3dd3ca42c0c3f3",
+            "directory": "External3",
+            "voiceContent": "대열을 바로잡아!",
+            "sourceName": "vo_chevreuse_life_less30_teammate_01.wem"
+        },
+        "5f2b25e25a886ddc": {
+            "hash": "5f2b25e25a886ddc",
+            "directory": "External11",
+            "voiceContent": "진형을 유지해!",
+            "sourceName": "vo_chevreuse_life_less30_teammate_02.wem"
+        },
+        "06681ddaa838506a": {
+            "hash": "06681ddaa838506a",
+            "directory": "External0",
+            "voiceContent": "정의는… 어디에…",
+            "sourceName": "vo_chevreuse_life_die_01.wem"
+        },
+        "345abbe19b2b8fed": {
+            "hash": "345abbe19b2b8fed",
+            "directory": "External6",
+            "voiceContent": "죄인을… 아직…",
+            "sourceName": "vo_chevreuse_life_die_02.wem"
+        },
+        "5e2238d7ca82cf27": {
+            "hash": "5e2238d7ca82cf27",
+            "directory": "External11",
+            "voiceContent": "출동하지",
+            "sourceName": "vo_chevreuse_teamJoin_01.wem"
+        },
+        "b17ccaf07cf303c0": {
+            "hash": "b17ccaf07cf303c0",
+            "directory": "External22",
+            "voiceContent": "추가 훈련이라고 생각할게",
+            "sourceName": "vo_chevreuse_teamJoin_02.wem"
+        },
+        "0a8ea4e7010577c1": {
+            "hash": "0a8ea4e7010577c1",
+            "directory": "External1",
+            "voiceContent": "난 언제든 준비되어 있어",
+            "sourceName": "vo_chevreuse_teamJoin_03.wem"
+        },
+        "a70f2dd3b6ae5d1d": {
+            "hash": "a70f2dd3b6ae5d1d",
+            "directory": "External20",
+            "voiceContent": "화승총은 내가 가장 좋아하는 무기야. 강력한 살상력과 위압감을 갖고 있지. 가끔은 후자가 전자보다 더 유용할 때도 있어",
+            "sourceName": "vo_chevreuse_character_idle_01.wem"
+        },
+        "49a40fcb85656f1a": {
+            "hash": "49a40fcb85656f1a",
+            "directory": "External9",
+            "voiceContent": "우리 특별 순찰대는 폰타인성의 일상 순찰 업무에 참여하지 않아. 우리가 체포하려는 녀석이 거리에 얼굴을 드러낼 일은 거의 없거든",
+            "sourceName": "vo_chevreuse_character_idle_02.wem"
+        },
+        "f73cc1c47d488c63": {
+            "hash": "f73cc1c47d488c63",
+            "directory": "External30",
+            "voiceContent": "「동글동글」이라는 간식은 휴대하기도 편하고, 소스를 곁들이면 다양한 맛을 느낄 수 있어…. 기다려 봐, 가서 몇 개 더 사올게",
+            "sourceName": "vo_chevreuse_character_idle_03.wem"
+        },
+        "13f9c6180dc933e5": {
+            "hash": "13f9c6180dc933e5",
+            "directory": "External2",
+            "voiceContent": "안심해, 빗속에서도 내 화승총은 정상적으로 발사되니까",
+            "sourceName": "vo_chevreuse_weather_heavyRain_01.wem"
+        },
+        "25b49dc041f169fe": {
+            "hash": "25b49dc041f169fe",
+            "directory": "External4",
+            "voiceContent": "어떤 범죄자들은 천둥소리로 총성을 숨기기도 하지만, 내 귀를 속일 순 없지",
+            "sourceName": "vo_chevreuse_weather_thunder_01.wem"
+        },
+        "28f076297f22c26d": {
+            "hash": "28f076297f22c26d",
+            "directory": "External5",
+            "voiceContent": "이 정도 풍속이라면… 바람 때문에 총알 궤도까지 휘겠어",
+            "sourceName": "vo_chevreuse_weather_gale_01.wem"
+        },
+        "f73c69db59c2dbce": {
+            "hash": "f73c69db59c2dbce",
+            "directory": "External30",
+            "voiceContent": "…잠깐 기다려 봐. 화승총의 부품이 얼지 않게 관리해 줘야겠어",
+            "sourceName": "vo_chevreuse_weather_snowy_01.wem"
+        },
+        "af306a6fc8229637": {
+            "hash": "af306a6fc8229637",
+            "directory": "External21",
+            "voiceContent": "날씨도 좋고, 시야도 좋군",
+            "sourceName": "vo_chevreuse_weather_sunny_01.wem"
+        },
+        "77191d035cd0ac87": {
+            "hash": "77191d035cd0ac87",
+            "directory": "External14",
+            "voiceContent": "좋은 아침이야. 마침 체력 훈련을 하려던 참이었는데, 같이 할래?",
+            "sourceName": "vo_chevreuse_dialog_greetingMorning.wem"
+        },
+        "89728b260cf1df85": {
+            "hash": "89728b260cf1df85",
+            "directory": "External17",
+            "voiceContent": "안녕, 같이 특별 순찰대 식당에서 점심 먹을래? 허기를 채우기엔 딱이거든",
+            "sourceName": "vo_chevreuse_dialog_greetingNoon.wem"
+        },
+        "16dd1abec4a17a39": {
+            "hash": "16dd1abec4a17a39",
+            "directory": "External2",
+            "voiceContent": "오늘의 업무도 끝난 것 같네. 다행히 큰 소동은 없었어. 야식 먹으러 가자, 내가 안내할게",
+            "sourceName": "vo_chevreuse_dialog_greetingNight.wem"
+        },
+        "de21d53e0ec9366b": {
+            "hash": "de21d53e0ec9366b",
+            "directory": "External27",
+            "voiceContent": "잘 자. 나도 곧 쉴 생각이야. 오늘 밤은… 돌발 상황이 너무 많지 않았으면 좋겠네",
+            "sourceName": "vo_chevreuse_dialog_greetingNight2.wem"
+        },
+        "61f21bda2e8e74dc": {
+            "hash": "61f21bda2e8e74dc",
+            "directory": "External12",
+            "voiceContent": "특별 순찰대는 각종 위험한 살인 사건과 강력 범죄자를 전문적으로 상대하기 때문에 법을 집행할 때 다소… 과격할 수 있어",
+            "sourceName": "vo_chevreuse_dialog_idle.wem"
+        },
+        "fb4a3bd36468e274": {
+            "hash": "fb4a3bd36468e274",
+            "directory": "External31",
+            "voiceContent": "특별 순찰대에는 누군가가 희생되면 그 대원의 모자를 보관해 두는 전통이 있어. 나중에 그 대원의 자식이 특별 순찰대가 되면 모자를 수여해 주기 위해서거든…. 이것도 일종의 「전승」이라고 할 수 있겠지",
+            "sourceName": "vo_chevreuse_dialog_idle2.wem"
+        },
+        "c8a67a96037f613b": {
+            "hash": "c8a67a96037f613b",
+            "directory": "External25",
+            "voiceContent": "법에 대해 궁금한 점이 있다면 언제든지 물어봐. 아니면… 머릿속에 「이 일은 불법이 아닐지도 몰라」라는 생각이 떠오른다면, 가장 먼저 나한테 상의하도록 해.요행 심리 때문에 선을 넘는 멍청이들이 해마다 있거든. 네가 그런 사람이 되는 걸 보고 싶지 않아",
+            "sourceName": "vo_chevreuse_dialog_close1.wem"
+        },
+        "d8ba83481ff066ec": {
+            "hash": "d8ba83481ff066ec",
+            "directory": "External27",
+            "voiceContent": "한가할 땐 「범죄 소설」을 읽는 편이야. 추리 소설과는 달리, 범죄 소설은 복잡한 범행 수법보다 범죄를 둘러싼 다양한 인간적 갈등과 감정적 충돌에 치중하거든. 난 그게 꽤 재밌더라",
+            "sourceName": "vo_chevreuse_dialog_close.wem"
+        },
+        "00c9ed0e70df7fe6": {
+            "hash": "00c9ed0e70df7fe6",
+            "directory": "External0",
+            "voiceContent": "일할 때 「신의 눈」은 무시할 수 없는 무력 보조 역할을 해. 신의 눈이 생긴 후로 내 화승총은 심각하게 고장난 적이 단 한 번도 없었어. 「신의 눈과 총기를 지닌 특별 순찰대 대장」, 이 칭호라면 겁 많은 용의자들의 간담을 서늘하게 하기엔 충분하겠지",
+            "sourceName": "vo_chevreuse_dialog_pendant.wem"
+        },
+        "b9c5c013dd003c0f": {
+            "hash": "b9c5c013dd003c0f",
+            "directory": "External23",
+            "voiceContent": "하코트가 정말 밀리스를 체포할 줄이야…. 사랑하는 사람에게조차 수갑을 채울 수 있다니 정말 놀라워. 근데 밀리스는 무슨 죄지? 그냥 길에서 주운 장신구를 팔았을 뿐인데 귀족들 입에 오르내리는 대역 죄인이 되다니… 정의란 정말 종잡을 수 없어. 넌 어떻게 생각해?",
+            "sourceName": "vo_chevreuse_dialog_share_01.wem"
+        },
+        "93848282ba1210b7": {
+            "hash": "93848282ba1210b7",
+            "directory": "External18",
+            "voiceContent": "우리는 법률 집행청 소속이긴 하지만, 특별 순찰대는 임무를 수행할 때 대량의 경비 장치를 사용하진 않아. 왜냐하면… 하, 그 굼뜬 장치들은 우리가 총을 쏘는 데 방해만 되거든",
+            "sourceName": "vo_chevreuse_pref_gift_01.wem"
+        },
+        "c2f59af00061df1b": {
+            "hash": "c2f59af00061df1b",
+            "directory": "External24",
+            "voiceContent": "나비아 씨의 아버지와 관련된 살인 사건은 들어봤어. 당시 법률 집행청에서도 시끌벅적했지. 꽤 많은 사람이 그 사건을 두고 논쟁을 벌였어….다행히 이젠 사건의 진실이 밝혀지고 진짜 범인도 법의 심판을 받았으니… 「정의」가 마침내 자릴 잡은 셈이겠지",
+            "sourceName": "vo_chevreuse_teammate_navia_01.wem"
+        },
+        "608a0b6ff2c2f0d5": {
+            "hash": "608a0b6ff2c2f0d5",
+            "directory": "External12",
+            "voiceContent": "그 마술사와는 아는 사이야. 한번은 상해, 유괴, 살인 혐의를 받고 있는 마술사를 체포했는데, 줄곧 범행 수법을 밝혀내지 못했거든. 결국 리니를 데리고 와서야 중요한 물증을 찾고 용의자에게 유죄 판결을 내릴 수 있었어. 이 사건에 관심을 가진 어느 소설가는 마술 트릭으로 범죄를 저지르는 추리 소설을 썼다고 해.근데… 소설의 내용이 너무 디테일해서 여론이 잠잠해지기 전까지는 출판하기 어려울 것 같아",
+            "sourceName": "vo_chevreuse_teammate_lyney_01.wem"
+        },
+        "609c7a6f6492886a": {
+            "hash": "609c7a6f6492886a",
+            "directory": "External12",
+            "voiceContent": "언젠가 부품을 사러 나갔다가 그 잠수원을 만났어. 당시 우리 둘 다 가게에 하나만 남은 범용 부품을 사려고 했지. 그래서 내가 막 그 부품을 양보하려는데, 그 잠수원이 갑자기 손을 움츠리고는 고개를 숙인 채 가게 밖으로 뛰쳐나가는 거야. 이렇게 말하면 좀 그렇지만, 꼭 용의자 같더라…",
+            "sourceName": "vo_chevreuse_teammate_freminet_01.wem"
+        },
+        "a961d0adaf4c1474": {
+            "hash": "a961d0adaf4c1474",
+            "directory": "External21",
+            "voiceContent": "치오리가 분쟁을 처리하는 방식이 다소 과격하긴 해. 하지만 치오리는 연줄과 인맥으로 특별 순찰대에 많은 정보를 제공했거든. 그 답례로 난 치오리가 사람을 가게 밖으로 내던지거나, 악성 라이벌의 가게를 난장판으로 만드는 걸 눈감아 줬고. 또 나중에 조사해보면 매번 일리 있는 쪽은 치오리라는 걸 알게 됐지. 치오리는 단지 쓸데없는 말로 시간 낭비하는 게 싫은 것뿐이야",
+            "sourceName": "vo_chevreuse_teammate_chiori_01.wem"
+        },
+        "2c3985dd6264c47c": {
+            "hash": "2c3985dd6264c47c",
+            "directory": "External5",
+            "voiceContent": "골치 아픈 기자 아가씨야. 중대 사안이 발생하면 우리가 아무리 현장을 봉쇄해도 가장 먼저 현장과 제일 가까운 곳에 나타나거든…. 한번은 내 부하가 샤를로트 씨를 가장 유력한 용의자로 지목하고 보름 동안이나 구금한 적이 있어. 근데 유치장에서 보도 기사를 다 썼더라고…. 언제 시간 내서 거기 편집장과 정식으로 이야기를 해봐야겠어",
+            "sourceName": "vo_chevreuse_teammate_charlotte_01.wem"
+        },
+        "5cf03d2b6ac0640f": {
+            "hash": "5cf03d2b6ac0640f",
+            "directory": "External11",
+            "voiceContent": "특별 순찰대와 멜뤼진 사이에 친분이 있는 지는 꽤 오래됐어. 우린 종종 그림자 수사청의 멜뤼진들과 협력하거든. 멜뤼진들은 착하고 성실하고 믿음직해. 중요한 사건을 처리할 땐 대체할 수 없는 역할도 하고 말이야…. 개인적으로도 몇몇 멜뤼진과 친분이 있어. 수간호사 시그윈도 그중 한 명이야.예전부터 지금까지 멜뤼진은 우리에게 없어서는 안 될 동료야. 만약 누군가가… 다시 어떤 방식으로든 멜뤼진을 모욕한다면, 특별 순찰대의 총구에 자비란 없을 거야",
+            "sourceName": "vo_chevreuse_teammate_sigewinne_01.wem"
+        },
+        "9b24a1e323e1edc8": {
+            "hash": "9b24a1e323e1edc8",
+            "directory": "External19",
+            "voiceContent": "그 결투 대리인은 폰타인성에서 아주 유명하지. 서로 직무가 다르니까 그녀의 일을 함부로 평가하고 싶진 않아. 하지만 그녀가 결투를 수락한 이유가 마음속의 「정의」에서 비롯됐다고 믿어",
+            "sourceName": "vo_chevreuse_teammate_clorinde_01.wem"
+        },
+        "7ea96d1ecb1b41e5": {
+            "hash": "7ea96d1ecb1b41e5",
+            "directory": "External15",
+            "voiceContent": "라이오슬리의 업무 능력은 탁월하고 효과적이야. 적어도 죄인들은 「메로피드 요새」가 노후를 보내기 적합한 장소가 아니라는 걸 똑똑히 알고 있으니까. 그건 우리의 심문에 큰 도움이 되거든",
+            "sourceName": "vo_chevreuse_teammate_wriothesley_01.wem"
+        },
+        "3317f61cdd91a1b3": {
+            "hash": "3317f61cdd91a1b3",
+            "directory": "External6",
+            "voiceContent": "개인적으로 친분이 있어. 에밀리한테 전문적인 화학 지식으로 물증을 분석하거나 용의자를 추적하는 등 여러 차례 도움을 받았거든. 에밀리는 범인이 어떤 향수를 썼는지, 어떤 꽃을 선물했는지, 심지어 어떤 장소에 가고 어떤 흙을 밟았는지 같은 보이지 않는 정보까지 알아내더라고…. 한 번도 틀리지 않고 말이야",
+            "sourceName": "vo_chevreuse_teammate_emilie_01.wem"
+        },
+        "87622dea206e3e31": {
+            "hash": "87622dea206e3e31",
+            "directory": "External16",
+            "voiceContent": "미안, 난 사람과 교류하는 게… 아니, 정상적인 사람과 교류하는 게 서툴러. 궁금한 게 있으면 그냥 물어봐",
+            "sourceName": "vo_chevreuse_friendship_01.wem"
+        },
+        "0114dfe0b668ec0e": {
+            "hash": "0114dfe0b668ec0e",
+            "directory": "External0",
+            "voiceContent": "특별 순찰대는 법률 집행청에 소속된 사법 부서 중 하나야. 우리의 작전 스타일과 인원 구성이 지나치게 대담해서 법률 집행청의 일부 어르신들은 우릴 「규칙을 제일 안 지키는」 부서라고 부르기도 해.하지만 난 특별 순찰대의 행동 준칙이 외부의 영향을 받아서는 안 된다고 생각해. 우리가 상대해야 할 악당은 멜모니아궁의 무골호인이 아니니까. 죄인의 위법 행위가 폭우처럼 들이닥칠 때 우리도 결코 뒤처져서는 안 되지",
+            "sourceName": "vo_chevreuse_friendship_02.wem"
+        },
+        "82d241d873091717": {
+            "hash": "82d241d873091717",
+            "directory": "External16",
+            "voiceContent": "내가 겪은 범죄자들이 전부 극악무도한 악당이었던 건 아냐.처음에는 작은 실수로 시작했다가 그 책임이 두려워서, 자기도 모르게 거짓말이 거짓말을 낳는 소용돌이에 빠져들고, 결국… 수없는 거짓말에 둘러싸여 범죄의 기로에 들어선 사람들이 대다수지.내가 가장 좋아하는 극작가는 어느 오페라에서 「거짓말은 죄를 낳는 악의 토양이다」라는 문장을 노래했어.그런데 그 극작가는 몇 년 후 표절죄로 체포됐지. 정말이지… 그 오페라에 극적인 주석을 단 셈이랄까?",
+            "sourceName": "vo_chevreuse_friendship_03.wem"
+        },
+        "54a973d17fe7f76c": {
+            "hash": "54a973d17fe7f76c",
+            "directory": "External10",
+            "voiceContent": "아버지는 전에 감옥에 갇히셨어. 그래서 난 한때 「죄인의 딸」이라고 불리기도 했지. 잿빛의 강에서 자라면서 햇빛이 비추지 않는 이면을 적잖게 봤어. 이런 경험 덕분에 날 싫어하는 사람도 많지만, 그걸 통해 배운 게 더 많아.법의 집행자는 마음속의 「정의」를 믿고 그걸 행동 속에 담아야 해. 아버지께서 가르쳐 주신 말씀이지.나도 그 말에 깊이 공감하고 있어",
+            "sourceName": "vo_chevreuse_friendship_04.wem"
+        },
+        "c0278dc89ea1423d": {
+            "hash": "c0278dc89ea1423d",
+            "directory": "External24",
+            "voiceContent": "솔직히 특별 순찰대 대장으로서 난 도덕성이라곤 털끝만큼도 없는 악당들의 만행을 수도 없이 봐 왔고, 죄 없고 선량한 사람들이 사건에 휘말려 다치거나 목숨까지 잃는 상황도 봤었지. 그럴 때면 난 종종 분노와 무력감을 느껴.난 「죄인」이 처벌을 받아야 한다고 굳게 믿지만, 그렇다고 그게 끝없는 복수의 순환을 의미하는 건 아냐.만약 우리가 스스로의 눈을 가리고 감정에 이끌려 자신의 행동을 방임한다면, 조만간 모두가 겨울 바다에 빠져 죽게 되겠지.권력을 손에 쥐고 있을수록 그걸 경계해야 해. 마음속의 「정의」를 확고히 추구하되, 정의를 추구하는 과정에서 길을 잃으면 안 돼",
+            "sourceName": "vo_chevreuse_friendship_05.wem"
+        },
+        "d27bb9375f2a5c3b": {
+            "hash": "d27bb9375f2a5c3b",
+            "directory": "External26",
+            "voiceContent": "훈련? 사격? 굳이 말하자면… 범죄 소설 읽기야. 아 참, 《미스터리 추적》 최신호를 가지러 가야겠네",
+            "sourceName": "vo_chevreuse_pref_hobby.wem"
+        },
+        "3d46ea53a16756a2": {
+            "hash": "3d46ea53a16756a2",
+            "directory": "External7",
+            "voiceContent": "지방과 당분이 풍부한 음식은 근무일에 충분한 에너지와 상쾌한 기분을 제공해 줘. 휴일? 휴일이면 그 음식들은 내 체중을 늘리는 「죄악의 정크푸드」로 전락하지. 하지만 그 「죄악」을 처단하는 것도 내가 하루 종일 좋은 기분을 갖게 해줘",
+            "sourceName": "vo_chevreuse_pref_foodLike.wem"
+        },
+        "3bf1558649d5811e": {
+            "hash": "3bf1558649d5811e",
+            "directory": "External7",
+            "voiceContent": "난… 날것은 받아들이기 힘들어. 이왕 입에 넣는 거면, 적어도 익혀서 먹어야지…",
+            "sourceName": "vo_chevreuse_pref_foodDislike.wem"
+        },
+        "7af18a836004ab19": {
+            "hash": "7af18a836004ab19",
+            "directory": "External15",
+            "voiceContent": "꽤 괜찮군. 하지만… 훗, 나도 모르게 너무 많이 먹어서 이따 추가 훈련을 해야겠어",
+            "sourceName": "vo_chevreuse_spice_pref_01.wem"
+        },
+        "76edd27d67ef827f": {
+            "hash": "76edd27d67ef827f",
+            "directory": "External14",
+            "voiceContent": "음, 특별 순찰대 식당의 요리보다 훨씬 맛있어",
+            "sourceName": "vo_chevreuse_spice_normal_01.wem"
+        },
+        "4d42846ea3a25315": {
+            "hash": "4d42846ea3a25315",
+            "directory": "External9",
+            "voiceContent": "허기는 채워지지만 식욕은 돋지 않는군…. 나한테 아주 훌륭한 요리야",
+            "sourceName": "vo_chevreuse_spice_dislike_01.wem"
+        },
+        "aa95d044386587a4": {
+            "hash": "aa95d044386587a4",
+            "directory": "External21",
+            "voiceContent": "생일 축하해. 음… 차렷! 무릎 굽히지 말고, 똑바로 서. 휴대용 소형 화승총과 출납이 빠른 홀스터까지 주문하려면 네 신체 데이터를 측정해야 하거든….자, 긴장 풀어. 화승총이 제작되기 전까지 훈련용 화승총으로 한동안 연습해 봐. 지금 바로 시작할게. 따라와",
+            "sourceName": "vo_chevreuse_pref_birthday_01.wem"
+        },
+        "12e66ff7d23f0786": {
+            "hash": "12e66ff7d23f0786",
+            "directory": "External2",
+            "voiceContent": "훌륭해. 총을 든 자세가 더 안정적이야",
+            "sourceName": "vo_chevreuse_starUp_01.wem"
+        },
+        "832a9e009e8b4de9": {
+            "hash": "832a9e009e8b4de9",
+            "directory": "External16",
+            "voiceContent": "이제 더 먼 곳의 적을 저격할 수 있겠어…",
+            "sourceName": "vo_chevreuse_starUp_02.wem"
+        },
+        "2a18840a1a786ca8": {
+            "hash": "2a18840a1a786ca8",
+            "directory": "External5",
+            "voiceContent": "고마워, 이 힘 덕분에 더 효율적으로 악당을 체포할 수 있을 것 같아",
+            "sourceName": "vo_chevreuse_starUp_03.wem"
+        },
+        "e3de51ceab26625b": {
+            "hash": "e3de51ceab26625b",
+            "directory": "External28",
+            "voiceContent": "그동안의 도움에 진심으로 감사할게. 특별 순찰대가 언제든지 네 부름에 답한다고 약속할 수는 없지만, 개인적으로는 네가 말만 하면 무슨 일이든 너와 함께할게",
+            "sourceName": "vo_chevreuse_starUp_04.wem"
+        },
+        "b0b9c80ad372a938": {
+            "hash": "b0b9c80ad372a938",
+            "directory": "External22",
+            "voiceContent": "이 악당…!",
+            "sourceName": "vo_chevreuse_life_less30_01.wem"
+        },
+        "736855f2bebb813f": {
+            "hash": "736855f2bebb813f",
+            "directory": "External14",
+            "voiceContent": "무법자로군",
+            "sourceName": "vo_chevreuse_life_less30_02.wem"
+        },
+        "c598f3f9c6a9aa56": {
+            "hash": "c598f3f9c6a9aa56",
+            "directory": "External24",
+            "voiceContent": "넌, 해명할 권리가 없다",
+            "sourceName": "vo_chevreuse_life_less30_03.wem"
+        },
+        "c8dca1ea7c72445c": {
+            "hash": "c8dca1ea7c72445c",
+            "directory": "External25",
+            "voiceContent": "이게… 결말인가…",
+            "sourceName": "vo_chevreuse_life_die_03.wem"
+        },
+        "fa3e945b8b0f5bcd": {
+            "hash": "fa3e945b8b0f5bcd",
+            "directory": "External31",
+            "voiceContent": "쓸데없는 저항이다...!",
+            "sourceName": "vo_chevreuse_battle_hit_H_02.wem"
+        },
+        "54ac54d8a2c55943": {
+            "hash": "54ac54d8a2c55943",
+            "directory": "External10",
+            "voiceContent": "모두가 알다시피 최고 심판관님은 재판할 때 사심을 전혀 섞지 않아. 인정미가 없다고 하는 사람도 있지만, 내가 볼 때 정의는 사사로운 감정에 방해를 받아서는 안 돼. 법을 어긴 자는 유죄다, 그게 다야",
+            "sourceName": "vo_chevreuse_teammate_neuvillette_01.wem"
+        },
+        "646e770ede50cd77": {
+            "hash": "646e770ede50cd77",
+            "directory": "External12",
+            "voiceContent": "푸리나 님은… 예전에 우리한테 갑자기 무슨… 화승총 공연 훈련을 시키신 적이 있어. 순찰대 전원에게 특수 제작된 「의례 화승총」을 소지하게 하셨고. 특수한 화승총 춤 훈련까지 시키셨지…. 마음에 드는 의장곡을 찾지 못해 흐지부지 끝나서 정말 다행이었어",
+            "sourceName": "vo_chevreuse_teammate_furina_01.wem"
+        },
+        "9d60d9fd97e55cbf": {
+            "hash": "9d60d9fd97e55cbf",
+            "directory": "External19",
+            "voiceContent": "광활한 사막은 어떤 사물들을 묻어두기에 아주 적합하지",
+            "sourceName": "vo_chevreuse_weather_desert_01.wem"
+        },
+        "5ea56790f31fa32e": {
+            "hash": "5ea56790f31fa32e",
+            "directory": "External11",
+            "voiceContent": "번거로운 예절은 그만 좀 배웠으면 좋겠어. 그런 일에 시간을 낭비할 바엔 차라리 강력범을 감시하는 게 낫지",
+            "sourceName": "vo_chevreuse_dialog_annoyed_01.wem"
+        },
+        "925d8aa6d262dabd": {
+            "hash": "925d8aa6d262dabd",
+            "directory": "External18",
+            "voiceContent": "난 폰타인 특별 순찰대 대장 슈브르즈다. 인사말은 됐고, 내가 처리해야 할 까다로운 사건이라도 있나?",
+            "sourceName": "vo_chevreuse_draw_appear_01.wem"
+        },
+        "2bd5ce7476e300f1": {
+            "hash": "2bd5ce7476e300f1",
+            "directory": "External5",
+            "voiceContent": "긴급사태로군…",
+            "sourceName": "vo_card_chevreuse_inGame_hard_03.wem"
+        },
+        "e6a20472642f379f": {
+            "hash": "e6a20472642f379f",
+            "directory": "External28",
+            "voiceContent": "이렇게 될 줄이야…",
+            "sourceName": "vo_card_chevreuse_inGame_easy_02.wem"
+        },
+        "3705b0632af71ea5": {
+            "hash": "3705b0632af71ea5",
+            "directory": "External6",
+            "voiceContent": "이건 합법적인 수단이야",
+            "sourceName": "vo_card_chevreuse_inGame_easy_04.wem"
+        },
+        "0dfb104ac991b5fa": {
+            "hash": "0dfb104ac991b5fa",
+            "directory": "External1",
+            "voiceContent": "반드시 필요한 전술이야",
+            "sourceName": "vo_card_chevreuse_inGame_hard_04.wem"
+        },
+        "7c16f68cefc8de18": {
+            "hash": "7c16f68cefc8de18",
+            "directory": "External15",
+            "voiceContent": "너무 당황하진 마",
+            "sourceName": "vo_card_chevreuse_inGame_easy_01.wem"
+        },
+        "8d90227be01cb636": {
+            "hash": "8d90227be01cb636",
+            "directory": "External17",
+            "voiceContent": "내가 반응이 느렸네",
+            "sourceName": "vo_card_chevreuse_inGame_easy_03.wem"
+        },
+        "aa18747cba42e370": {
+            "hash": "aa18747cba42e370",
+            "directory": "External21",
+            "voiceContent": "너도 열심히 했구나",
+            "sourceName": "vo_card_chevreuse_inGame_hard_02.wem"
+        },
+        "2aabe262cc6102d7": {
+            "hash": "2aabe262cc6102d7",
+            "directory": "External5",
+            "voiceContent": "눈 떼지 마",
+            "sourceName": "vo_card_chevreuse_inGame_hard_01.wem"
+        }
+    }
+}

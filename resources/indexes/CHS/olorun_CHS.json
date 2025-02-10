@@ -1,0 +1,931 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "20647ccf5baf65c8": {
+            "hash": "20647ccf5baf65c8",
+            "directory": "External4",
+            "voiceContent": "奶奶，你在说什么？",
+            "sourceName": "vo_TLEQ003_2_olorun_03.wem"
+        },
+        "acf3589ea38d27b2": {
+            "hash": "acf3589ea38d27b2",
+            "directory": "External21",
+            "voiceContent": "不过这是要去哪里？",
+            "sourceName": "vo_TLEQ003_2_olorun_05.wem"
+        },
+        "5deee8bf8773a326": {
+            "hash": "5deee8bf8773a326",
+            "directory": "External11",
+            "voiceContent": "那太好了，之前我还听说，有那种出神太久结果身体部位坏死的情况。",
+            "sourceName": "vo_TLEQ003_2_olorun_01.wem"
+        },
+        "ce3316c853bfe889": {
+            "hash": "ce3316c853bfe889",
+            "directory": "External25",
+            "voiceContent": "嗯，总之勒拉，虽然我们之前不认识，但是现在你没事就好，我为你高兴。",
+            "sourceName": "vo_TLEQ003_2_olorun_02.wem"
+        },
+        "2ee6ca96605afdfb": {
+            "hash": "2ee6ca96605afdfb",
+            "directory": "External5",
+            "voiceContent": "等等，这种套路…是我用过的那个法术，奶奶的真身已经离我们很远了。根本就是脚底抹油。",
+            "sourceName": "vo_TLEQ003_2_olorun_04.wem"
+        },
+        "47b7833391558fb6": {
+            "hash": "47b7833391558fb6",
+            "directory": "External8",
+            "voiceContent": "我很理解你…勒拉。",
+            "sourceName": "vo_TLEQ003_1_olorun_06.wem"
+        },
+        "a0c9652a1568111f": {
+            "hash": "a0c9652a1568111f",
+            "directory": "External20",
+            "voiceContent": "有些种子可以毫不费劲地长成漂亮的卷心菜，但也有些种子，怎么努力都没法发芽。",
+            "sourceName": "vo_TLEQ003_1_olorun_07.wem"
+        },
+        "68f8015d4189974d": {
+            "hash": "68f8015d4189974d",
+            "directory": "External13",
+            "voiceContent": "虽然我说这些也没有用，但希望你能调整好自己。",
+            "sourceName": "vo_TLEQ003_1_olorun_09.wem"
+        },
+        "363e5744a101b798": {
+            "hash": "363e5744a101b798",
+            "directory": "External6",
+            "voiceContent": "不用客气，勒拉，奶奶只是嘴巴不饶人，我们都不会怪你的。",
+            "sourceName": "vo_TLEQ003_1_olorun_04.wem"
+        },
+        "b7fbb13c5da1d519": {
+            "hash": "b7fbb13c5da1d519",
+            "directory": "External22",
+            "voiceContent": "毕竟你受了别人的蛊惑吧？那个谷中才是罪魁祸首。",
+            "sourceName": "vo_TLEQ003_1_olorun_05.wem"
+        },
+        "96bbf312ad6f1402": {
+            "hash": "96bbf312ad6f1402",
+            "directory": "External18",
+            "voiceContent": "小声一点，现在不能吵到她。",
+            "sourceName": "vo_TLEQ003_1_olorun_02.wem"
+        },
+        "fa13e7661fed22bc": {
+            "hash": "fa13e7661fed22bc",
+            "directory": "External31",
+            "voiceContent": "我也不知道为什么会是这样，可能这就是人生吧？总有很多没办法的事情。",
+            "sourceName": "vo_TLEQ003_1_olorun_08.wem"
+        },
+        "f12d111adc2ff825": {
+            "hash": "f12d111adc2ff825",
+            "directory": "External30",
+            "voiceContent": "按照奶奶说的，我也准备好了备用的物品，今天万无一失。",
+            "sourceName": "vo_TLEQ003_1_olorun_01.wem"
+        },
+        "f003e50931af40cb": {
+            "hash": "f003e50931af40cb",
+            "directory": "External30",
+            "voiceContent": "看！勒拉的灵性回来了，正在往他的身上跑。",
+            "sourceName": "vo_TLEQ003_1_olorun_03.wem"
+        },
+        "fcc00707445b1e20": {
+            "hash": "fcc00707445b1e20",
+            "directory": "External31",
+            "voiceContent": "能请你们先去洞里面看看吗？虽然现在应该还安全，但是拖得越久，有危险的人就会越有危险。",
+            "sourceName": "vo_TLEQ001_2_olorun_09.wem"
+        },
+        "75b80702a00aa18c": {
+            "hash": "75b80702a00aa18c",
+            "directory": "External14",
+            "voiceContent": "嗯，我跟我家的蜜虫讲过你的丰功伟绩，奶奶应该也跟她的陷阱讲过。",
+            "sourceName": "vo_TLEQ001_2_olorun_12.wem"
+        },
+        "e99556a49876b6f4": {
+            "hash": "e99556a49876b6f4",
+            "directory": "External29",
+            "voiceContent": "什么？糟糕…",
+            "sourceName": "vo_TLEQ001_2_olorun_05.wem"
+        },
+        "42dd909b1cb75d45": {
+            "hash": "42dd909b1cb75d45",
+            "directory": "External8",
+            "voiceContent": "奶奶说，一个段落比喻两次的轻小说是二流。我不想变成二流。",
+            "sourceName": "vo_TLEQ001_2_olorun_04.wem"
+        },
+        "e86c7292edf67922": {
+            "hash": "e86c7292edf67922",
+            "directory": "External29",
+            "voiceContent": "也许我一走进去洞里，就会被奶奶的监视法术发现，又或者踩中她留下的陷阱…",
+            "sourceName": "vo_TLEQ001_2_olorun_07.wem"
+        },
+        "996802b3d1dcf4d6": {
+            "hash": "996802b3d1dcf4d6",
+            "directory": "External19",
+            "voiceContent": "她原本就站在那个洞口，防止我进去。我的前路就是这样被阻断的。",
+            "sourceName": "vo_TLEQ001_2_olorun_03.wem"
+        },
+        "8a9802f19343045a": {
+            "hash": "8a9802f19343045a",
+            "directory": "External17",
+            "voiceContent": "我只能先在门口等一会，以防自投奶奶的罗网。",
+            "sourceName": "vo_TLEQ001_2_olorun_10.wem"
+        },
+        "8488d6c4dea5f3b8": {
+            "hash": "8488d6c4dea5f3b8",
+            "directory": "External16",
+            "voiceContent": "咦？",
+            "sourceName": "vo_TLEQ001_2_olorun_01.wem"
+        },
+        "a728610039880ba1": {
+            "hash": "a728610039880ba1",
+            "directory": "External20",
+            "voiceContent": "我只是想救人而已…是奶奶不让。",
+            "sourceName": "vo_TLEQ001_2_olorun_08.wem"
+        },
+        "473764acc9eecbbf": {
+            "hash": "473764acc9eecbbf",
+            "directory": "External8",
+            "voiceContent": "奶奶…居然不见了…",
+            "sourceName": "vo_TLEQ001_2_olorun_02.wem"
+        },
+        "9671e48be635fb6b": {
+            "hash": "9671e48be635fb6b",
+            "directory": "External18",
+            "voiceContent": "我觉得没那么简单…奶奶不会这么轻易放弃抓我的。",
+            "sourceName": "vo_TLEQ001_2_olorun_06.wem"
+        },
+        "e97100d9d5c64cac": {
+            "hash": "e97100d9d5c64cac",
+            "directory": "External29",
+            "voiceContent": "但是奶奶，你真厉害，居然可以用人为媒介来进行暝视，我一直以为只能用物品。",
+            "sourceName": "vo_TLEQ001_5_olorun_11.wem"
+        },
+        "479f2ad1f0856147": {
+            "hash": "479f2ad1f0856147",
+            "directory": "External8",
+            "voiceContent": "对不起，奶奶。",
+            "sourceName": "vo_TLEQ001_5_olorun_01.wem"
+        },
+        "4c2f16e39dea8861": {
+            "hash": "4c2f16e39dea8861",
+            "directory": "External9",
+            "voiceContent": "啊？啊…对的，对的，奶奶。",
+            "sourceName": "vo_TLEQ001_5_olorun_03.wem"
+        },
+        "ed641cc9c1f2279c": {
+            "hash": "ed641cc9c1f2279c",
+            "directory": "External29",
+            "voiceContent": "有药可救的，只要是灵魂层面的事，我就还有办法…",
+            "sourceName": "vo_TLEQ001_5_olorun_06.wem"
+        },
+        "14a5884a7aadc441": {
+            "hash": "14a5884a7aadc441",
+            "directory": "External2",
+            "voiceContent": "说我是白痴也无所谓，只要你们支持我，我就能把勒拉的灵性找回来。",
+            "sourceName": "vo_TLEQ001_5_olorun_08a_1.wem"
+        },
+        "5c4836c0e38e9c2d": {
+            "hash": "5c4836c0e38e9c2d",
+            "directory": "External11",
+            "voiceContent": "不会有事的，奶奶太操心了。我的身体基本没问题了，现在应该能找到安全的办法。我想，只有这样才能找回勒拉的灵性。",
+            "sourceName": "vo_TLEQ001_5_olorun_07.wem"
+        },
+        "afdbcab1ad0bf3b3": {
+            "hash": "afdbcab1ad0bf3b3",
+            "directory": "External21",
+            "voiceContent": "嗯，我就是想把勒拉失踪的灵性找回来…",
+            "sourceName": "vo_TLEQ001_5_olorun_05.wem"
+        },
+        "9e5fbceaa5d8bee0": {
+            "hash": "9e5fbceaa5d8bee0",
+            "directory": "External19",
+            "voiceContent": "…真的对不起。",
+            "sourceName": "vo_TLEQ001_5_olorun_02.wem"
+        },
+        "58551ad0f762c17d": {
+            "hash": "58551ad0f762c17d",
+            "directory": "External11",
+            "voiceContent": "唔…派蒙，不举这个例子也没关系的。",
+            "sourceName": "vo_TLEQ001_5_olorun_10.wem"
+        },
+        "e8d71a902b6c6c7f": {
+            "hash": "e8d71a902b6c6c7f",
+            "directory": "External29",
+            "voiceContent": "欸？奶奶真的还有办法吗？",
+            "sourceName": "vo_TLEQ001_5_olorun_09.wem"
+        },
+        "39611f7990cfd3a1": {
+            "hash": "39611f7990cfd3a1",
+            "directory": "External7",
+            "voiceContent": "但现在你们到了，就可以开始行动起来了，时间不会一直等着我。",
+            "sourceName": "vo_TLEQ001_1_olorun_18.wem"
+        },
+        "b8ed259cdb3a46d0": {
+            "hash": "b8ed259cdb3a46d0",
+            "directory": "External23",
+            "voiceContent": "被你发现了。确实，我现在就跟产蜜困难的蜜虫一样烦恼。奶奶堵住了我的前路。",
+            "sourceName": "vo_TLEQ001_1_olorun_06.wem"
+        },
+        "2ba0c12d2924bcd6": {
+            "hash": "2ba0c12d2924bcd6",
+            "directory": "External5",
+            "voiceContent": "你给人的感觉不太一样，茜特菈莉奶奶对你的态度也不一样。后来的事情也证明了这两点。",
+            "sourceName": "vo_TLEQ001_1_olorun_13.wem"
+        },
+        "0c80b18da4b790ae": {
+            "hash": "0c80b18da4b790ae",
+            "directory": "External1",
+            "voiceContent": "你们是真正的好朋友。如果我家的蔬菜见到你们，一定也会长得更茂盛。",
+            "sourceName": "vo_TLEQ001_1_olorun_04.wem"
+        },
+        "9be4ef35f5710239": {
+            "hash": "9be4ef35f5710239",
+            "directory": "External19",
+            "voiceContent": "我需要拉拢你们，毕竟，能搞定奶奶的人…",
+            "sourceName": "vo_TLEQ001_1_olorun_10.wem"
+        },
+        "8ef8c5809ba2e620": {
+            "hash": "8ef8c5809ba2e620",
+            "directory": "External17",
+            "voiceContent": "你肯定知道奶奶喜欢看轻小说，喝闷酒，睡大觉，如果是你，一定可以对症下药，把她引走。",
+            "sourceName": "vo_TLEQ001_1_olorun_19.wem"
+        },
+        "ea22f94d11343748": {
+            "hash": "ea22f94d11343748",
+            "directory": "External29",
+            "voiceContent": "简直就像给蔬菜浇水一样轻松，如果我家的蔬菜在这里…啊…抱歉，没时间再讲蔬菜了…",
+            "sourceName": "vo_TLEQ001_1_olorun_24.wem"
+        },
+        "3aaa7f9497da6451": {
+            "hash": "3aaa7f9497da6451",
+            "directory": "External7",
+            "voiceContent": "是的，你们知道，奶奶是个天才，天才总会堵住别人的路，让别人绝望。",
+            "sourceName": "vo_TLEQ001_1_olorun_07.wem"
+        },
+        "7aa5310c453e4122": {
+            "hash": "7aa5310c453e4122",
+            "directory": "External15",
+            "voiceContent": "我只是看上去无所事事，其实在为前路感到烦恼，奶奶她成了拦路虎，让我无路可走。",
+            "sourceName": "vo_TLEQ001_1_olorun_17.wem"
+        },
+        "76d4df7318eede5d": {
+            "hash": "76d4df7318eede5d",
+            "directory": "External14",
+            "voiceContent": "原来是这样…让我心里很温暖，这就是幸福的感觉吗？",
+            "sourceName": "vo_TLEQ001_1_olorun_03.wem"
+        },
+        "29f303204486a01b": {
+            "hash": "29f303204486a01b",
+            "directory": "External5",
+            "voiceContent": "应该说得很严重了吧，嗯，所以，请你们帮忙搞定奶奶。",
+            "sourceName": "vo_TLEQ001_1_olorun_09.wem"
+        },
+        "a877b3234f45a015": {
+            "hash": "a877b3234f45a015",
+            "directory": "External21",
+            "voiceContent": "「亲爱的奶奶，我有一本《蜃楼战记》最新卷，还有一本《奥西兹小姐事件簿》特别番外，要来一起看看吗？」",
+            "sourceName": "vo_TLEQ001_1_olorun_21.wem"
+        },
+        "1af96e7b070c7246": {
+            "hash": "1af96e7b070c7246",
+            "directory": "External3",
+            "voiceContent": "拜托了，请帮帮我，真的很重要。",
+            "sourceName": "vo_TLEQ001_1_olorun_16a_1.wem"
+        },
+        "231e792b8f950084": {
+            "hash": "231e792b8f950084",
+            "directory": "External4",
+            "voiceContent": "是的。我当然没有闲着，去做了不少功课，说辞我也准备了一些。你们可以走到奶奶面前说：",
+            "sourceName": "vo_TLEQ001_1_olorun_20.wem"
+        },
+        "a7ff912887b8cad2": {
+            "hash": "a7ff912887b8cad2",
+            "directory": "External20",
+            "voiceContent": "而我又是她的孙子，她让别人有多绝望，在我这个孙子身上都是要加倍的…",
+            "sourceName": "vo_TLEQ001_1_olorun_08.wem"
+        },
+        "8e3e13856157bbb7": {
+            "hash": "8e3e13856157bbb7",
+            "directory": "External17",
+            "voiceContent": "是夸奖，听说夸奖别人会让人快乐。你快乐了吗？",
+            "sourceName": "vo_TLEQ001_1_olorun_05.wem"
+        },
+        "fecd1f2b50d346cc": {
+            "hash": "fecd1f2b50d346cc",
+            "directory": "External31",
+            "voiceContent": "那就是说，奶奶的方向是正确的。勒拉的游离灵性正在被吸引过来。",
+            "sourceName": "vo_TLEQ002_1_olorun_16.wem"
+        },
+        "cbf2a8c3cd800185": {
+            "hash": "cbf2a8c3cd800185",
+            "directory": "External25",
+            "voiceContent": "为什么？",
+            "sourceName": "vo_TLEQ002_1_olorun_08.wem"
+        },
+        "3185d943f1598d91": {
+            "hash": "3185d943f1598d91",
+            "directory": "External6",
+            "voiceContent": "我在奶奶家里的织卷上看到过跟这把弓很像的东西…",
+            "sourceName": "vo_TLEQ002_1_olorun_13.wem"
+        },
+        "6db13922726fba9d": {
+            "hash": "6db13922726fba9d",
+            "directory": "External13",
+            "voiceContent": "加油，奶奶。我也会加油的。",
+            "sourceName": "vo_TLEQ002_1_olorun_17.wem"
+        },
+        "303d7928ea50b0e1": {
+            "hash": "303d7928ea50b0e1",
+            "directory": "External6",
+            "voiceContent": "过敏疗法，真是天马行空的点子啊，真的有用吗？",
+            "sourceName": "vo_TLEQ002_1_olorun_04.wem"
+        },
+        "bddecd133909e9e3": {
+            "hash": "bddecd133909e9e3",
+            "directory": "External23",
+            "voiceContent": "虽说是桑哈杰前辈的东西，但既然都已经碎掉了，就算找齐了也派不上什么用场了吧。",
+            "sourceName": "vo_TLEQ002_1_olorun_15.wem"
+        },
+        "826e1f2ff23ee760": {
+            "hash": "826e1f2ff23ee760",
+            "directory": "External16",
+            "voiceContent": "这是…？",
+            "sourceName": "vo_TLEQ002_1_olorun_05.wem"
+        },
+        "fff70b3cfb5544ee": {
+            "hash": "fff70b3cfb5544ee",
+            "directory": "External31",
+            "voiceContent": "我这样的孙子就无所谓了。",
+            "sourceName": "vo_TLEQ002_1_olorun_10.wem"
+        },
+        "2bad8d173ceb89c7": {
+            "hash": "2bad8d173ceb89c7",
+            "directory": "External5",
+            "voiceContent": "等等，我还有一种熟悉的感觉，它似乎与我的古名有关系…",
+            "sourceName": "vo_TLEQ002_1_olorun_06.wem"
+        },
+        "0efcfaff3a1ca92a": {
+            "hash": "0efcfaff3a1ca92a",
+            "directory": "External1",
+            "voiceContent": "虽然勒拉的情况还比较稳定，可这样下去也不是办法。",
+            "sourceName": "vo_TLEQ002_1_olorun_03.wem"
+        },
+        "afc87f4c34b97010": {
+            "hash": "afc87f4c34b97010",
+            "directory": "External21",
+            "voiceContent": "你们看，其中一块是不是和这个碎片有点像啊？",
+            "sourceName": "vo_TLEQ002_1_olorun_12.wem"
+        },
+        "d6026b20bbbd773e": {
+            "hash": "d6026b20bbbd773e",
+            "directory": "External26",
+            "voiceContent": "不…我觉得它可能是古名的前主人留下的。",
+            "sourceName": "vo_TLEQ002_1_olorun_07.wem"
+        },
+        "851a6d34bad898f7": {
+            "hash": "851a6d34bad898f7",
+            "directory": "External16",
+            "voiceContent": "不好意思，奶奶，我准备好了。",
+            "sourceName": "vo_TLEQ002_1_olorun_11.wem"
+        },
+        "4c717af8c23cf986": {
+            "hash": "4c717af8c23cf986",
+            "directory": "External9",
+            "voiceContent": "安全性我也确认过了，应该不会有危险。",
+            "sourceName": "vo_TLEQ002_1_olorun_18.wem"
+        },
+        "d1727f0f0e58501c": {
+            "hash": "d1727f0f0e58501c",
+            "directory": "External26",
+            "voiceContent": "奶奶，你来了。",
+            "sourceName": "vo_TLEQ002_1_olorun_01.wem"
+        },
+        "08ce345f3a69a535": {
+            "hash": "08ce345f3a69a535",
+            "directory": "External1",
+            "voiceContent": "放心，我确认过了，这次应该不会有危险。",
+            "sourceName": "vo_dialog_TLEQ002_olorun_01.wem"
+        },
+        "a846cad17b315c49": {
+            "hash": "a846cad17b315c49",
+            "directory": "External21",
+            "voiceContent": "地图？是哪里啊？",
+            "sourceName": "vo_TLEQ002_4_olorun_01.wem"
+        },
+        "38029cc8aee516e6": {
+            "hash": "38029cc8aee516e6",
+            "directory": "External7",
+            "voiceContent": "其实奶奶就是懒得出远门而已。",
+            "sourceName": "vo_TLEQ002_4_olorun_02.wem"
+        },
+        "b9bffec06b8541cf": {
+            "hash": "b9bffec06b8541cf",
+            "directory": "External23",
+            "voiceContent": "我也有感觉，附近有一个接近完整的灵魂。",
+            "sourceName": "vo_TLEQ002_4_olorun_03.wem"
+        },
+        "8a403f89516e7bd2": {
+            "hash": "8a403f89516e7bd2",
+            "directory": "External17",
+            "voiceContent": "……",
+            "sourceName": "vo_TLEQ001_8_olorun_01.wem"
+        },
+        "8b69639afbef25a4": {
+            "hash": "8b69639afbef25a4",
+            "directory": "External17",
+            "voiceContent": "这种事让我来就行了。",
+            "sourceName": "vo_TLEQ001_8_olorun_03.wem"
+        },
+        "0d5d9d92b8be4f35": {
+            "hash": "0d5d9d92b8be4f35",
+            "directory": "External1",
+            "voiceContent": "补充说明，边界大师是一种尊称，专门给像奶奶这样厉害的人物。",
+            "sourceName": "vo_TLEQ001_8_olorun_02.wem"
+        },
+        "1f0f8d271d207105": {
+            "hash": "1f0f8d271d207105",
+            "directory": "External3",
+            "voiceContent": "难道是我选错了地方…抱歉。",
+            "sourceName": "vo_TLEQ003_3_olorun_07.wem"
+        },
+        "c5c7533098dfcab4": {
+            "hash": "c5c7533098dfcab4",
+            "directory": "External24",
+            "voiceContent": "总之，这个谷中真狡猾，选择了风险最低的一种办法。",
+            "sourceName": "vo_TLEQ003_3_olorun_06.wem"
+        },
+        "ef0af135f583c3d5": {
+            "hash": "ef0af135f583c3d5",
+            "directory": "External29",
+            "voiceContent": "勒拉，我为你高兴。以后要一起加油啊，希望我们都能成为一颗漂亮的卷心菜。",
+            "sourceName": "vo_TLEQ003_3_olorun_10.wem"
+        },
+        "20026138c773047f": {
+            "hash": "20026138c773047f",
+            "directory": "External4",
+            "voiceContent": "从山洞里只有奶奶一个人来看，应该是没有。",
+            "sourceName": "vo_TLEQ003_3_olorun_01.wem"
+        },
+        "e2772d489bad72f9": {
+            "hash": "e2772d489bad72f9",
+            "directory": "External28",
+            "voiceContent": "看，我之前没瞎说吧？",
+            "sourceName": "vo_TLEQ003_3_olorun_03.wem"
+        },
+        "c49d6f1eee5ddae2": {
+            "hash": "c49d6f1eee5ddae2",
+            "directory": "External24",
+            "voiceContent": "对不起，是我…",
+            "sourceName": "vo_TLEQ003_3_olorun_04.wem"
+        },
+        "6f3ce117e3ba332b": {
+            "hash": "6f3ce117e3ba332b",
+            "directory": "External13",
+            "voiceContent": "但还有奶奶。",
+            "sourceName": "vo_TLEQ003_3_olorun_05.wem"
+        },
+        "291f4f840b5de6be": {
+            "hash": "291f4f840b5de6be",
+            "directory": "External5",
+            "voiceContent": "一开始为了救勒拉，我想找一个灵性比较充足的区域，所以就找到了疯贤者的地盘。",
+            "sourceName": "vo_TLEQ003_3_olorun_08.wem"
+        },
+        "60b9d350df0d5578": {
+            "hash": "60b9d350df0d5578",
+            "directory": "External12",
+            "voiceContent": "原来奶奶刚才是假装离开山洞，实际偷偷躲了起来，准备来个瓮中捉鳖。",
+            "sourceName": "vo_TLEQ003_3_olorun_02.wem"
+        },
+        "7eca717a8c8bf947": {
+            "hash": "7eca717a8c8bf947",
+            "directory": "External15",
+            "voiceContent": "真好啊，人生真是奇妙，只要一直向前走，说不定就会碰到肥料。",
+            "sourceName": "vo_TLEQ003_3_olorun_09.wem"
+        },
+        "11eb808f7e655883": {
+            "hash": "11eb808f7e655883",
+            "directory": "External2",
+            "voiceContent": "魔物的数量少了很多，现在适合乘胜追击。",
+            "sourceName": "vo_NTAQ108_4_olorun_02.wem"
+        },
+        "a79752aa0a2e0bec": {
+            "hash": "a79752aa0a2e0bec",
+            "directory": "External20",
+            "voiceContent": "人都救出来了，奶奶你们先走。给我一点点时间，绝不耽误接下来的行动。",
+            "sourceName": "vo_NTAQ108_4_olorun_01.wem"
+        },
+        "b9104e98fa8191ba": {
+            "hash": "b9104e98fa8191ba",
+            "directory": "External23",
+            "voiceContent": "尽情借用火神大人的力量吧，不用留情。",
+            "sourceName": "vo_NTAQ108_4_olorun_03.wem"
+        },
+        "552cb2caeb310c30": {
+            "hash": "552cb2caeb310c30",
+            "directory": "External10",
+            "voiceContent": "它们都是很重要的生命。",
+            "sourceName": "vo_NTAQ108_4_olorun_05.wem"
+        },
+        "da500cc2aab452b1": {
+            "hash": "da500cc2aab452b1",
+            "directory": "External27",
+            "voiceContent": "抱歉，不能放着蔬菜和蜜虫不管。",
+            "sourceName": "vo_NTAQ108_4_olorun_04.wem"
+        }
+    },
+    "Gameplay": {
+        "fd3e5bb4e7ce2513": {
+            "hash": "fd3e5bb4e7ce2513",
+            "directory": "External31",
+            "voiceContent": "别跑太远。",
+            "sourceName": "vo_olorun_battle_skill1_01.wem"
+        },
+        "92ea2dcf7396d87c": {
+            "hash": "92ea2dcf7396d87c",
+            "directory": "External18",
+            "voiceContent": "再见咯。",
+            "sourceName": "vo_olorun_battle_skill1_02.wem"
+        },
+        "fe6847c69250230d": {
+            "hash": "fe6847c69250230d",
+            "directory": "External31",
+            "voiceContent": "放生！",
+            "sourceName": "vo_olorun_battle_skill1_03.wem"
+        },
+        "90f68bfe553b89f1": {
+            "hash": "90f68bfe553b89f1",
+            "directory": "External18",
+            "voiceContent": "去吧，你自由了。",
+            "sourceName": "vo_olorun_battle_skill3_01.wem"
+        },
+        "0e0f3df4ee1960ce": {
+            "hash": "0e0f3df4ee1960ce",
+            "directory": "External1",
+            "voiceContent": "来，跟大家问好。",
+            "sourceName": "vo_olorun_battle_skill3_02.wem"
+        },
+        "8fcc9fecaab98bd7": {
+            "hash": "8fcc9fecaab98bd7",
+            "directory": "External17",
+            "voiceContent": "帮我四处看看。",
+            "sourceName": "vo_olorun_battle_skill3_03.wem"
+        },
+        "55d0533e1f6de098": {
+            "hash": "55d0533e1f6de098",
+            "directory": "External10",
+            "voiceContent": "你对宝箱的热情正在威胁它们的生存环境。",
+            "sourceName": "vo_olorun_chest_open_01.wem"
+        },
+        "c05b612393d43a1f": {
+            "hash": "c05b612393d43a1f",
+            "directory": "External24",
+            "voiceContent": "敲上去的声音很清脆，应该是颗不错的果实。",
+            "sourceName": "vo_olorun_chest_open_02.wem"
+        },
+        "67497f2d0fc1b8b6": {
+            "hash": "67497f2d0fc1b8b6",
+            "directory": "External12",
+            "voiceContent": "小心哦，有些龙喜欢躲在箱子里。可能是内向吧。",
+            "sourceName": "vo_olorun_chest_open_03.wem"
+        },
+        "b8ef0cf2138b02d0": {
+            "hash": "b8ef0cf2138b02d0",
+            "directory": "External23",
+            "voiceContent": "要带你去看医生吗？",
+            "sourceName": "vo_olorun_life_less30_teammate_01.wem"
+        },
+        "8e3ffada99a877b7": {
+            "hash": "8e3ffada99a877b7",
+            "directory": "External17",
+            "voiceContent": "我先补上。",
+            "sourceName": "vo_olorun_life_less30_teammate_02.wem"
+        },
+        "550efb27273e46c5": {
+            "hash": "550efb27273e46c5",
+            "directory": "External10",
+            "voiceContent": "先走一步…",
+            "sourceName": "vo_olorun_life_die_01.wem"
+        },
+        "fa9ddd1ef87d62a2": {
+            "hash": "fa9ddd1ef87d62a2",
+            "directory": "External31",
+            "voiceContent": "看不清了…",
+            "sourceName": "vo_olorun_life_die_02.wem"
+        },
+        "00e7981b68c1272b": {
+            "hash": "00e7981b68c1272b",
+            "directory": "External0",
+            "voiceContent": "要我加入吗？",
+            "sourceName": "vo_olorun_teamJoin_01.wem"
+        },
+        "57720a341de6beb4": {
+            "hash": "57720a341de6beb4",
+            "directory": "External10",
+            "voiceContent": "去哪？",
+            "sourceName": "vo_olorun_teamJoin_02.wem"
+        },
+        "b0ba442aa2276505": {
+            "hash": "b0ba442aa2276505",
+            "directory": "External22",
+            "voiceContent": "能不能先说，是好事还是坏事？",
+            "sourceName": "vo_olorun_teamJoin_03.wem"
+        },
+        "d338510c9c939e5e": {
+            "hash": "d338510c9c939e5e",
+            "directory": "External26",
+            "voiceContent": "你听谁说的烟谜主里都是怪人？我以为只有我一个。还有谁啊？",
+            "sourceName": "vo_olorun_character_idle_01.wem"
+        },
+        "30da5f14ce0bb301": {
+            "hash": "30da5f14ce0bb301",
+            "directory": "External6",
+            "voiceContent": "每个人都应该有一种自己最喜欢的动物，或者蔬菜，或者水果。这样才能知道自己想要成为什么样的人。",
+            "sourceName": "vo_olorun_character_idle_02.wem"
+        },
+        "d7c8851e49f93f00": {
+            "hash": "d7c8851e49f93f00",
+            "directory": "External26",
+            "voiceContent": "不是所有的迷烟都能穿过。如果野心太大，就会被烟雾呛到。",
+            "sourceName": "vo_olorun_character_idle_03.wem"
+        },
+        "2f47926e4d8288a8": {
+            "hash": "2f47926e4d8288a8",
+            "directory": "External5",
+            "voiceContent": "跑起来泥水会溅到衣摆上，飞的话…浸水的披风又太沉了。还是找个地方蹲会儿吧。",
+            "sourceName": "vo_olorun_weather_heavyRain_01.wem"
+        },
+        "68e3044f779c82eb": {
+            "hash": "68e3044f779c82eb",
+            "directory": "External13",
+            "voiceContent": "闪电很像蛇。不知道有没有人利用它们的颜色和形状占卜…说实话，有点担心这些人的安全。",
+            "sourceName": "vo_olorun_weather_thunder_01.wem"
+        },
+        "7cb68f02e2ebd094": {
+            "hash": "7cb68f02e2ebd094",
+            "directory": "External15",
+            "voiceContent": "这地方…感觉很难种出东西来。要不还是走吧？",
+            "sourceName": "vo_olorun_weather_desert_01.wem"
+        },
+        "fa41b277369ecebf": {
+            "hash": "fa41b277369ecebf",
+            "directory": "External31",
+            "voiceContent": "…雪下面葬着什么。轻一点，不要惊醒它们。",
+            "sourceName": "vo_olorun_weather_snowy_01.wem"
+        },
+        "eb43546ce6e5be2a": {
+            "hash": "eb43546ce6e5be2a",
+            "directory": "External29",
+            "voiceContent": "太阳是永燃之火，纳塔人从不惧怕直视烈日。当然，实在受不了可以戴墨镜。",
+            "sourceName": "vo_olorun_weather_sunny_01.wem"
+        },
+        "139957174d790c12": {
+            "hash": "139957174d790c12",
+            "directory": "External2",
+            "voiceContent": "抱歉，虽然睁着眼睛，但我还没醒…正事可以晚点说吗？",
+            "sourceName": "vo_olorun_dialog_greetingMorning.wem"
+        },
+        "b1712ec15e6759ce": {
+            "hash": "b1712ec15e6759ce",
+            "directory": "External22",
+            "voiceContent": "胃说时间到了，应该去吃点东西。但我想不出要吃什么…也可能是脑子还没醒。",
+            "sourceName": "vo_olorun_dialog_greetingNoon.wem"
+        },
+        "c35a1653b9bf2fd8": {
+            "hash": "c35a1653b9bf2fd8",
+            "directory": "External24",
+            "voiceContent": "突然想喝肉龙掌气泡咖啡，不加奶。你说太晚了？那…早上好。",
+            "sourceName": "vo_olorun_dialog_greetingNight.wem"
+        },
+        "c1ee65a8fbce0988": {
+            "hash": "c1ee65a8fbce0988",
+            "directory": "External24",
+            "voiceContent": "一到这个时候大脑就会活跃起来。我很早就放弃强迫自己睡眠了，所以你先休息吧，我带上夜灯去看看地里的萝卜。",
+            "sourceName": "vo_olorun_dialog_greetingNight2.wem"
+        },
+        "27d5f047d0af926f": {
+            "hash": "27d5f047d0af926f",
+            "directory": "External4",
+            "voiceContent": "我知道自己说话有时很难懂。你如果有哪里没听明白，请直接提问，我不介意的。",
+            "sourceName": "vo_olorun_dialog_idle.wem"
+        },
+        "8bcafbe7c47fd561": {
+            "hash": "8bcafbe7c47fd561",
+            "directory": "External17",
+            "voiceContent": "我不知道自己是从哪来的，但似乎也并不好奇…比起这个，我更想知道自己该往何处去。",
+            "sourceName": "vo_olorun_dialog_idle2.wem"
+        },
+        "038a4c6aae673018": {
+            "hash": "038a4c6aae673018",
+            "directory": "External0",
+            "voiceContent": "这是「凌晨四点」的肉龙掌，「比头大」的青蜜莓，「截至上周为止第一甜」的蜜…还有…哦，还有「咔库库免费问诊券」。怎么露出疑惑的表情，这些是送给你的，请收下。你帮了我的忙，但看上去并不缺什么，我只好按照自己的喜好准备了礼物。咔库库是谁？咔库库是龙。有机会介绍你们认识。",
+            "sourceName": "vo_olorun_dialog_close1.wem"
+        },
+        "2e34aecfb85d6935": {
+            "hash": "2e34aecfb85d6935",
+            "directory": "External5",
+            "voiceContent": "抱歉…嗯…我是说，真的很抱歉。一上来就骗你，的确不是什么好的开局。原因已经都告诉你了，绝无虚言。如果你不想接受也没关系，那我会尽量不出现在你面前。",
+            "sourceName": "vo_olorun_dialog_close.wem"
+        },
+        "3eb80a1a77736100": {
+            "hash": "3eb80a1a77736100",
+            "directory": "External7",
+            "voiceContent": "一个小窍门：不要做第一个提出建议的人。就像先长出来的果实容易被盯上，第一个出头的人经常输得很惨。",
+            "sourceName": "vo_olorun_dialog_share_01.wem"
+        },
+        "31635618606bca62": {
+            "hash": "31635618606bca62",
+            "directory": "External6",
+            "voiceContent": "飞鼯其实并不总像它们在高空滑翔时那样目中无人。它们会突然飞过来，扒在你身上不走。这种时候很难不给它们点好处。从某种角度来看，算是一群狡猾的家伙。",
+            "sourceName": "vo_olorun_pref_gift_01.wem"
+        },
+        "b146caaecd2a52e4": {
+            "hash": "b146caaecd2a52e4",
+            "directory": "External22",
+            "voiceContent": "她好像很喜欢待在高处，尤其是树上。我发现倒挂在树枝上会比躺在上面更解压，有机会可以和她交流下心得。欸，不好吗？大家总说要换个角度看世界，像希诺宁这样的发明家，应该很需要吧。",
+            "sourceName": "vo_olorun_teammate_xilonen_01.wem"
+        },
+        "4c7ea62c978ae689": {
+            "hash": "4c7ea62c978ae689",
+            "directory": "External9",
+            "voiceContent": "那个阿乔很有意思。它年纪很大，却又年纪很小。基尼奇正好相反，他年纪很小，但年纪很大。你…你能明白我的意思对吧？",
+            "sourceName": "vo_olorun_teammate_kinich_01.wem"
+        },
+        "8a97aaf7f21984ec": {
+            "hash": "8a97aaf7f21984ec",
+            "directory": "External17",
+            "voiceContent": "恰斯卡很厉害，也很出名。只要她一来，人们就都不吵架了，开始和和气气地握手。最讲理的家伙原来叫「武力威慑」，是个不错的名字。",
+            "sourceName": "vo_olorun_teammate_chasca_01.wem"
+        },
+        "6127ca0ace520641": {
+            "hash": "6127ca0ace520641",
+            "directory": "External12",
+            "voiceContent": "我之前并不认识火神大人。我的意思是，我当然知道火神是谁，但并不像当面对过话的那种「认识」。在这之前，火神大人对我来说更像一种刻写着力量的图腾，一个象征着掌控全局的标志。这在我心中并不算切实的了解，所以我产生了疑问。现在疑问消失了不少，我很开心，也有些心虚和羞愧…她似乎从不迷茫，知道火焰为何长燃，所以无论如何不能让其熄灭。我希望…希望自己能成为帮得上纳塔的人。当然，关于她我还有一些思考…上次在宴会上见到她吃了很多很多绿叶蔬菜，我们还聊了这件事，她说她很喜欢营养均衡的感觉。总觉得，是比想象中更细致的人。",
+            "sourceName": "vo_olorun_teammate_mavuika_01.wem"
+        },
+        "9dc4c042c0d7f100": {
+            "hash": "9dc4c042c0d7f100",
+            "directory": "External19",
+            "voiceContent": "真是一段奇异又仓促的缘分。都说烟谜主的人擅长预知未来，但我在路边遇到「队长」时，从没想过事情会变得这样复杂。在你看来，人情是可以简单两清的吗？如果是，我心中为何仍保留感激与亏欠？…又或许是我考虑得太多了。无论之前发生了什么，他帮助拯救了纳塔岌岌可危的地脉，是一位值得尊敬的英雄。我会一直记得他的。",
+            "sourceName": "vo_olorun_teammate_capitano_01.wem"
+        },
+        "a6ab69d0683c5845": {
+            "hash": "a6ab69d0683c5845",
+            "directory": "External20",
+            "voiceContent": "别看伊法经常教训病号，他和龙们的关系其实很好。闲下来他会在诊所门口弹吉他，让围上来的龙一个一个跟着唱。但其实就是呜呜叫啦。我如果碰到了也会加入。我是说加入龙。",
+            "sourceName": "vo_olorun_teammate_ifa_01.wem"
+        },
+        "49726002aa8ba263": {
+            "hash": "49726002aa8ba263",
+            "directory": "External9",
+            "voiceContent": "奶奶其实是个很直白的人，高兴或者不高兴都会直接表现出来，也不太擅长掩饰自己的情感。你看上去像是她的同辈，或者…甚至比她更大？抱歉，这样好像不太礼貌，我不多问了。但如果真是这样，就请你多和她聊聊天吧，奶奶大概受够了身边都是晚辈，见到你会很开心的。",
+            "sourceName": "vo_olorun_teammate_citlali_01.wem"
+        },
+        "88aaf06997184bf1": {
+            "hash": "88aaf06997184bf1",
+            "directory": "External17",
+            "voiceContent": "只能说，还好火神大人没有派她来抓我。她是远近闻名的运动教练，虽然我有身高优势，但很可能跑不过她。障眼法？用多了就不管用了啊。",
+            "sourceName": "vo_olorun_teammate_iansan_01.wem"
+        },
+        "1e73113317c8ec72": {
+            "hash": "1e73113317c8ec72",
+            "directory": "External3",
+            "voiceContent": "你好。要握手吗？纳塔人打招呼一般不会这样正式，但你想要也可以。其实在远处喊一声就够了，我听力很好，会察觉到的。",
+            "sourceName": "vo_olorun_friendship_01.wem"
+        },
+        "5038ef3a0dfc9355": {
+            "hash": "5038ef3a0dfc9355",
+            "directory": "External10",
+            "voiceContent": "你似乎总是很忙，我也希望像你一样，一直有事可做。但有时，我又很喜欢清闲度日。人的心情真多变啊，我自己也控制不了，真为难。",
+            "sourceName": "vo_olorun_friendship_02.wem"
+        },
+        "ce44b542512d69c4": {
+            "hash": "ce44b542512d69c4",
+            "directory": "External25",
+            "voiceContent": "纳塔的白天很热，所以除非必要，我更喜欢晚上出门。你见过夜晚的水面吗？月光让水波闪着光，看起来十分清亮。但只有在阳光下你才能看清它是不是真的干净，所以，尽量不要触碰夜晚漆黑的水。",
+            "sourceName": "vo_olorun_friendship_03.wem"
+        },
+        "512c034bb84f92cf": {
+            "hash": "512c034bb84f92cf",
+            "directory": "External10",
+            "voiceContent": "我对灵魂的感知天生比其他人强一些。怎么描述呢…人的灵魂有些像一团团莫测的能量，如果世界上有形态各异的小龙棉花糖，那大概就是灵魂的样子吧。你的灵魂很温暖，是烤过的那种。",
+            "sourceName": "vo_olorun_friendship_04.wem"
+        },
+        "cf6ea153fbaf67e6": {
+            "hash": "cf6ea153fbaf67e6",
+            "directory": "External25",
+            "voiceContent": "老实说，我自己对自己也不甚了解。我总是有很多疑问；已有的问题还没得到解决，马上又会有新的加入进来。好像没有什么特别好的解决办法…只能尽量往前走，对吧？",
+            "sourceName": "vo_olorun_friendship_05.wem"
+        },
+        "bc8ae34d2284a64e": {
+            "hash": "bc8ae34d2284a64e",
+            "directory": "External23",
+            "voiceContent": "除了种菜和观察蜜虫以外的爱好？有的。…当然有，给我点时间，会想出来的。",
+            "sourceName": "vo_olorun_pref_hobby.wem"
+        },
+        "a7dddc403bf72a11": {
+            "hash": "a7dddc403bf72a11",
+            "directory": "External20",
+            "voiceContent": "吃塔塔可时，在下面放一张空饼皮。只要吃得足够多，掉下来的食材就能变成一个新的塔塔可了。",
+            "sourceName": "vo_olorun_pref_foodLike.wem"
+        },
+        "ca8aa3bd69c2ed33": {
+            "hash": "ca8aa3bd69c2ed33",
+            "directory": "External25",
+            "voiceContent": "军用食品…尤其是压缩饼干。它们就像「队长」的灵魂一样沉重…品质很好，只是太硬了。",
+            "sourceName": "vo_olorun_pref_foodDislike.wem"
+        },
+        "2a2504757fcb193e": {
+            "hash": "2a2504757fcb193e",
+            "directory": "External5",
+            "voiceContent": "厉害，比我自己做的好吃。",
+            "sourceName": "vo_olorun_spice_pref_01.wem"
+        },
+        "98ac6c39030256c4": {
+            "hash": "98ac6c39030256c4",
+            "directory": "External19",
+            "voiceContent": "不多不少，正正好的味道。",
+            "sourceName": "vo_olorun_spice_normal_01.wem"
+        },
+        "16b9c9a32d3f5dc8": {
+            "hash": "16b9c9a32d3f5dc8",
+            "directory": "External2",
+            "voiceContent": "我不太明白…这是什么艺术？",
+            "sourceName": "vo_olorun_spice_dislike_01.wem"
+        },
+        "eb7ad7f636c8d05d": {
+            "hash": "eb7ad7f636c8d05d",
+            "directory": "External29",
+            "voiceContent": "在纳塔，有种说法是，一个人的出生日期决定了他的命运。如果他的生日和某位大英雄是同一天，那他就会得到这位英雄的庇佑，拥有和他一样的品质。我想，和你共享生日的人一定很幸运。生日快乐。",
+            "sourceName": "vo_olorun_pref_birthday_01.wem"
+        },
+        "c74bb6afcf0a4b9d": {
+            "hash": "c74bb6afcf0a4b9d",
+            "directory": "External24",
+            "voiceContent": "你刚刚拿给我的是什么？能再让我看一下吗？",
+            "sourceName": "vo_olorun_starUp_01.wem"
+        },
+        "17794aa095a47ae3": {
+            "hash": "17794aa095a47ae3",
+            "directory": "External2",
+            "voiceContent": "身体很轻，看来可以一下子去到更高的地方了。但要控制好力道，因为磕到头会很疼。",
+            "sourceName": "vo_olorun_starUp_03.wem"
+        },
+        "0962fcd991540110": {
+            "hash": "0962fcd991540110",
+            "directory": "External1",
+            "voiceContent": "我还没能力窥探死亡的界限，但你的帮助似乎将死亡推得更远了一些。放心，我不会因此就去随心所欲做坏事的，我保证。",
+            "sourceName": "vo_olorun_starUp_04.wem"
+        },
+        "4daddc67d173f1b9": {
+            "hash": "4daddc67d173f1b9",
+            "directory": "External9",
+            "voiceContent": "跑不动了…",
+            "sourceName": "vo_olorun_life_less30_01.wem"
+        },
+        "dd69ae5f0527ac56": {
+            "hash": "dd69ae5f0527ac56",
+            "directory": "External27",
+            "voiceContent": "警惕…！",
+            "sourceName": "vo_olorun_life_less30_02.wem"
+        },
+        "8b391057fd39833f": {
+            "hash": "8b391057fd39833f",
+            "directory": "External17",
+            "voiceContent": "坏兆头。",
+            "sourceName": "vo_olorun_life_less30_03.wem"
+        },
+        "a8a34f17f0bce4eb": {
+            "hash": "a8a34f17f0bce4eb",
+            "directory": "External21",
+            "voiceContent": "听见了…不该存在的声音…",
+            "sourceName": "vo_olorun_life_die_03.wem"
+        },
+        "9c9e7befc07263fd": {
+            "hash": "9c9e7befc07263fd",
+            "directory": "External19",
+            "voiceContent": "呃，跑慢了…",
+            "sourceName": "vo_olorun_battle_hit_H_01.wem"
+        },
+        "42995de7920c9efa": {
+            "hash": "42995de7920c9efa",
+            "directory": "External8",
+            "voiceContent": "这不对吧？",
+            "sourceName": "vo_olorun_battle_hit_H_02.wem"
+        },
+        "25b51f6acdb34951": {
+            "hash": "25b51f6acdb34951",
+            "directory": "External4",
+            "voiceContent": "有时，想要和做到之间的距离真的很难跨越。",
+            "sourceName": "vo_olorun_dialog_annoyed_01.wem"
+        },
+        "787da3839f5f0014": {
+            "hash": "787da3839f5f0014",
+            "directory": "External15",
+            "voiceContent": "你好，我是来自「烟谜主」的欧洛伦。我不是卖菜的，但是可以送你一些。别担心，没什么特别的原因，也没有想从你这里换取什么。我只是好奇每颗种子最终会长成什么样，所以越种越多。希望它们都能在中意它们的胃里安度晚年。",
+            "sourceName": "vo_olorun_draw_appear_01.wem"
+        },
+        "28aed3307bcadd2d": {
+            "hash": "28aed3307bcadd2d",
+            "directory": "External5",
+            "voiceContent": "听人说打雷有助于作物生长。我试了下在菜地中央驱动「神之眼」，很遗憾，卷心菜和番茄都不太开心，所以就没继续了。",
+            "sourceName": "vo_olorun_dialog_pendant_01.wem"
+        }
+    }
+}

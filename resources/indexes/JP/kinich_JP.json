@@ -1,0 +1,523 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "b32effd23e26c449": {
+            "hash": "b32effd23e26c449",
+            "directory": "External22",
+            "voiceContent": "山の王が吐き出す実をよく見ておけ。それを使って俺が倒す！",
+            "sourceName": "vo_JNQLQ005_12_kinich_02.wem"
+        },
+        "055f65d946148d88": {
+            "hash": "055f65d946148d88",
+            "directory": "External0",
+            "voiceContent": "いい調子だ！",
+            "sourceName": "vo_JNQLQ005_12_kinich_03.wem"
+        },
+        "2c49c89b37eda89a": {
+            "hash": "2c49c89b37eda89a",
+            "directory": "External5",
+            "voiceContent": "新しい戦況報告が届いた。",
+            "sourceName": "vo_NTAQ106_28_kinich_01.wem"
+        },
+        "483c3ae46f7a764f": {
+            "hash": "483c3ae46f7a764f",
+            "directory": "External9",
+            "voiceContent": "ミスったな。順番通りに火を灯すんだ。引き返すことはできない、もう一度やり直すとしよう。",
+            "sourceName": "vo_JNQLQ005_10_kinich_06.wem"
+        },
+        "7aa1d40bd52b7626": {
+            "hash": "7aa1d40bd52b7626",
+            "directory": "External15",
+            "voiceContent": "来たぞ。やつらは裂傷を負わせるのが得意だ。気をつけろ。",
+            "sourceName": "vo_JNQLQ004_15_kinich_01.wem"
+        },
+        "d5d16f8eee0df7d3": {
+            "hash": "d5d16f8eee0df7d3",
+            "directory": "External26",
+            "voiceContent": "敵の数は多いが、こっちも戦力は充分だ。おまけに、夜神の国の力で情報伝達すれば采配も振れる。",
+            "sourceName": "vo_NTAQ108_1_kinich_01.wem"
+        },
+        "6b7d41a979d6aa3c": {
+            "hash": "6b7d41a979d6aa3c",
+            "directory": "External13",
+            "voiceContent": "焦らず、着実に行くぞ。",
+            "sourceName": "vo_NTAQ108_1_kinich_02.wem"
+        },
+        "68e0d767e31fb3b9": {
+            "hash": "68e0d767e31fb3b9",
+            "directory": "External13",
+            "voiceContent": "——と、アハウは魔物に八つ当たり中だ。",
+            "sourceName": "vo_NTAQ108_4_kinich_02.wem"
+        },
+        "e0130e46b8fb20dc": {
+            "hash": "e0130e46b8fb20dc",
+            "directory": "External28",
+            "voiceContent": "なんだとっ！この無礼も——",
+            "sourceName": "vo_NTAQ108_4_ajaw_02.wem"
+        },
+        "f89ca95f16d36e56": {
+            "hash": "f89ca95f16d36e56",
+            "directory": "External31",
+            "voiceContent": "「この偉大なる聖龍クフル・アハウの咆哮をぶった切るとは、どういう了見だマーヴィカ！」",
+            "sourceName": "vo_NTAQ108_4_kinich_01.wem"
+        },
+        "9f25bc2ea13376f3": {
+            "hash": "9f25bc2ea13376f3",
+            "directory": "External19",
+            "voiceContent": "アビスのやろうども！この偉大なる聖龍クフル・アハウ様の前に跪け！",
+            "sourceName": "vo_NTAQ108_4_ajaw_01.wem"
+        },
+        "9d0b7049b8bc8404": {
+            "hash": "9d0b7049b8bc8404",
+            "directory": "External19",
+            "voiceContent": "チッ、卑怯な腹黒どもだぜ。数に頼るとか恥ずかしくねぇのか！",
+            "sourceName": "vo_NTAQ106_30_ajaw_01.wem"
+        }
+    },
+    "Gameplay": {
+        "5c039e1418c01e14": {
+            "hash": "5c039e1418c01e14",
+            "directory": "External11",
+            "voiceContent": "掛かったな。",
+            "sourceName": "vo_kinich_battle_skill1_04.wem"
+        },
+        "0a09580d11001ae5": {
+            "hash": "0a09580d11001ae5",
+            "directory": "External1",
+            "voiceContent": "獲物だ。",
+            "sourceName": "vo_kinich_battle_skill1_05.wem"
+        },
+        "af973a04e23d83c2": {
+            "hash": "af973a04e23d83c2",
+            "directory": "External21",
+            "voiceContent": "退路はない。",
+            "sourceName": "vo_kinich_battle_skill1_06.wem"
+        },
+        "466643acd150511b": {
+            "hash": "466643acd150511b",
+            "directory": "External8",
+            "voiceContent": "夜神に報いるために。",
+            "sourceName": "vo_kinich_battle_skill3_01.wem"
+        },
+        "c59bf5c6bf0325a4": {
+            "hash": "c59bf5c6bf0325a4",
+            "directory": "External24",
+            "voiceContent": "死出の旅路へ。",
+            "sourceName": "vo_kinich_battle_skill3_02.wem"
+        },
+        "47902fbe7bd24f35": {
+            "hash": "47902fbe7bd24f35",
+            "directory": "External8",
+            "voiceContent": "昔日の影よ、我が命を果たせ。",
+            "sourceName": "vo_kinich_battle_skill3_03.wem"
+        },
+        "81b97279ae492db6": {
+            "hash": "81b97279ae492db6",
+            "directory": "External16",
+            "voiceContent": "キィニチ：山分けでいいな？アハウ：こんなガラクタが欲しいのか？",
+            "sourceName": "vo_kinich_chest_open_01.wem"
+        },
+        "f1fda0827a957319": {
+            "hash": "f1fda0827a957319",
+            "directory": "External30",
+            "voiceContent": "キィニチ：あらゆるものには、それぞれ使い道がある。アハウ：いい加減、その貧乏くさいところを直せっつーの。",
+            "sourceName": "vo_kinich_chest_open_02.wem"
+        },
+        "7040468abdf55598": {
+            "hash": "7040468abdf55598",
+            "directory": "External14",
+            "voiceContent": "アハウ：チッ、こんなもんしかねぇのか？キィニチ：要らないなら、無駄口を叩いてないでどけ。",
+            "sourceName": "vo_kinich_chest_open_03.wem"
+        },
+        "2a906eafe5d0f3b2": {
+            "hash": "2a906eafe5d0f3b2",
+            "directory": "External5",
+            "voiceContent": "自分の状況を理解してるか？",
+            "sourceName": "vo_kinich_life_less30_teammate_01.wem"
+        },
+        "5c564cb6dc049a95": {
+            "hash": "5c564cb6dc049a95",
+            "directory": "External11",
+            "voiceContent": "さあ、値段交渉といこう。",
+            "sourceName": "vo_kinich_life_less30_teammate_02.wem"
+        },
+        "4ec8a4e9d4d3070f": {
+            "hash": "4ec8a4e9d4d3070f",
+            "directory": "External9",
+            "voiceContent": "絶対に…振り返るな…",
+            "sourceName": "vo_kinich_life_die_01.wem"
+        },
+        "8f80d701ec6e9ec8": {
+            "hash": "8f80d701ec6e9ec8",
+            "directory": "External17",
+            "voiceContent": "何事にも代償が必要だ…",
+            "sourceName": "vo_kinich_life_die_02.wem"
+        },
+        "461095b7b3472e30": {
+            "hash": "461095b7b3472e30",
+            "directory": "External8",
+            "voiceContent": "取引成立だ。この件、引き受けよう。",
+            "sourceName": "vo_kinich_teamJoin_01.wem"
+        },
+        "c6a4039dc5654d97": {
+            "hash": "c6a4039dc5654d97",
+            "directory": "External24",
+            "voiceContent": "俺に任せてくれ。",
+            "sourceName": "vo_kinich_teamJoin_02.wem"
+        },
+        "44e6a1a608c5228e": {
+            "hash": "44e6a1a608c5228e",
+            "directory": "External8",
+            "voiceContent": "実りの多い協力関係になることを祈ってる。",
+            "sourceName": "vo_kinich_teamJoin_03.wem"
+        },
+        "10f8be82de633810": {
+            "hash": "10f8be82de633810",
+            "directory": "External2",
+            "voiceContent": "キィニチ：アハウの性格は知ってのとおりだ。だから、こいつの言うことはあまり気に留めないでくれ。アハウ：キィニチ、このヤロー！ここから出たら後悔させてやっからな！",
+            "sourceName": "vo_kinich_character_idle_01.wem"
+        },
+        "e64aac6b648260f7": {
+            "hash": "e64aac6b648260f7",
+            "directory": "External28",
+            "voiceContent": "励ましたり慰めたりするのは苦手だが、「代償」を量ることならできる。",
+            "sourceName": "vo_kinich_character_idle_02.wem"
+        },
+        "61274a73a4ff0cee": {
+            "hash": "61274a73a4ff0cee",
+            "directory": "External12",
+            "voiceContent": "調査に七割、判断に一割、そして残りは実行に充てる——これが俺のスタミナ配分だ。",
+            "sourceName": "vo_kinich_character_idle_03.wem"
+        },
+        "135583e5116cd7db": {
+            "hash": "135583e5116cd7db",
+            "directory": "External2",
+            "voiceContent": "チッ、ズボンの裾がまだ濡れてる…",
+            "sourceName": "vo_kinich_weather_afterRain_01.wem"
+        },
+        "7b5ce8c4e75c5cf1": {
+            "hash": "7b5ce8c4e75c5cf1",
+            "directory": "External15",
+            "voiceContent": "アハウ：空からケツの光った虫でも落ちてきたのか？ま、大した光じゃねぇな。キィニチ：お前はその虫の光にも及ばないだろ？アハウ：なっ！？もう一回言ってみやがれ！",
+            "sourceName": "vo_kinich_weather_thunder_01.wem"
+        },
+        "39956252a056c6ec": {
+            "hash": "39956252a056c6ec",
+            "directory": "External7",
+            "voiceContent": "キィニチ：この天候でエクストリームスポーツをやったら、難易度が増すな。アハウ：試してみたらどうだ？お前の「雄死」を見せてくれよ、くくくっ。",
+            "sourceName": "vo_kinich_weather_gale_01.wem"
+        },
+        "efd4172d79a5daec": {
+            "hash": "efd4172d79a5daec",
+            "directory": "External29",
+            "voiceContent": "アハウ：オレのサングラス、チョーイケてんだろ？ぜってぇ貸さねぇからな！",
+            "sourceName": "vo_kinich_weather_sunny_01.wem"
+        },
+        "4a9183fcff782ed8": {
+            "hash": "4a9183fcff782ed8",
+            "directory": "External9",
+            "voiceContent": "アハウ：土が雲と交わり、闇が野原を呑み込むとき——我輩が狂風を吹かせ、俗世を焼き払ってくれよう！キィニチ：ほらを「吹く」のも大概にしろ。",
+            "sourceName": "vo_kinich_weather_breezy_01.wem"
+        },
+        "4a285b0ec9e79cc8": {
+            "hash": "4a285b0ec9e79cc8",
+            "directory": "External9",
+            "voiceContent": "おはよう。俺はこれから出かける。明日の朝まで帰ってこないから、待たなくていい。",
+            "sourceName": "vo_kinich_dialog_greetingMorning.wem"
+        },
+        "155581e5463cdb04": {
+            "hash": "155581e5463cdb04",
+            "directory": "External2",
+            "voiceContent": "せっかく来たんだ、軽く何か食べていったらどうだ？さ、これで手を拭くといい。",
+            "sourceName": "vo_kinich_dialog_greetingNoon.wem"
+        },
+        "b405bf355e7ffbd2": {
+            "hash": "b405bf355e7ffbd2",
+            "directory": "External22",
+            "voiceContent": "「今日」という日はもうじき終わる。一日の収穫に心が満たされていようがいまいが、事実が変わることはない…俺がやるべきことは、今よりも歩調を速めることだ。",
+            "sourceName": "vo_kinich_dialog_greetingNight.wem"
+        },
+        "ad8caecf192df892": {
+            "hash": "ad8caecf192df892",
+            "directory": "External21",
+            "voiceContent": "焚き火の煙が気になるのか？待ってくれ…よし、これでゆっくり休めるはずだ。",
+            "sourceName": "vo_kinich_dialog_greetingNight2.wem"
+        },
+        "17875909f126b905": {
+            "hash": "17875909f126b905",
+            "directory": "External2",
+            "voiceContent": "アハウ：キィニチ、お前なんで自分に人気がねぇか、理由を考えたことあるか？夜になってもなかなか寝つけずに、月を眺めながら身悶えてただろ？この知恵の聖龍クフル·アハウが目の前にいるのだ。我輩の前で跪いて教えを乞えば、この知恵を授けてやらないこともないぞ。キィニチ：少なくとも、お前の信者たちが殴りたくなる気持ちは分かった。",
+            "sourceName": "vo_kinich_dialog_idle.wem"
+        },
+        "4225cc4654cb6fef": {
+            "hash": "4225cc4654cb6fef",
+            "directory": "External8",
+            "voiceContent": "竜狩り人という俺の仕事は少し特殊でな、万人から理解を得られるものじゃない。だが事態が膠着し、解決策が見つからないとき、手を汚す役も必要だ。俺はその役になっても構わないと思ってる——納得のいく報酬さえ貰えればな。",
+            "sourceName": "vo_kinich_dialog_idle2.wem"
+        },
+        "73383b6603c2ff32": {
+            "hash": "73383b6603c2ff32",
+            "directory": "External14",
+            "voiceContent": "アハウが何を企んでるのか俺も知ってるが…お前のためなら、危険を冒しても構わないと思ってる。俺はいつも代償って言葉を口にするが、世の中には代償を問わないこともあると信じてるんだ。",
+            "sourceName": "vo_kinich_dialog_close1.wem"
+        },
+        "180fc47094ff89eb": {
+            "hash": "180fc47094ff89eb",
+            "directory": "External3",
+            "voiceContent": "キィニチ：お前が望むなら、冒険者協会の依頼を分担してやってもいい。アハウ：とにかく一番厄介で、ややこしくて、できれば命の危険があるやつで頼んだぞ！",
+            "sourceName": "vo_kinich_dialog_close.wem"
+        },
+        "9d0f65ea96dbd74a": {
+            "hash": "9d0f65ea96dbd74a",
+            "directory": "External19",
+            "voiceContent": "「懸木の民」は縛りのない絶対的な自由に憧れてる。その考え方に従うなら、人と竜は認め合い、助け合う関係であるべきだ。決して契約によって結ばれるべきじゃない。俺は例外だがな。",
+            "sourceName": "vo_kinich_dialog_share_01.wem"
+        },
+        "fc81d0f18d75a030": {
+            "hash": "fc81d0f18d75a030",
+            "directory": "External31",
+            "voiceContent": "キィニチ：ケネパベリーを採るときは、周りに邪魔な龍がいないか確かめたほうがいい。アハウ：こ、この緑トカゲ野郎！ケチンボ爬虫類！おなかと背中がくっついてなけりゃ、誰がお前の採った腐った実なんか食うか！キィニチ：なら、俺が全部食べる。アハウ：んにゃろう！もうアッタマきた！",
+            "sourceName": "vo_kinich_pref_gift_01.wem"
+        },
+        "ee0142d3fb0320cb": {
+            "hash": "ee0142d3fb0320cb",
+            "directory": "External29",
+            "voiceContent": "俺はいつも人に代償を求める側だった——炎神様が「反魂の詩」で俺を夜神の国から連れ戻してくれるまではな。「代償」を払う側になって…俺は初めてその本当の意味を理解できた気がする。強き者にとってそれは取引の手段で、弱き者にとっては賭けの対象となる。いずれにせよ、一番大事なことは、賭けに出る勇気があるかどうかだ。",
+            "sourceName": "vo_kinich_teammate_mavuika_01.wem"
+        },
+        "47c6abe7bf70c5ca": {
+            "hash": "47c6abe7bf70c5ca",
+            "directory": "External8",
+            "voiceContent": "あいつから依頼を受けたことがある。内容は「戦闘顧問」になってほしいというものだ。報酬もかなりうまかったから引き受けたんだが、ムアラニの腕はそう悪くなかった。だから何度か聞いてみたんだ。すると「戦闘顧問」を雇ったのは、カチーナにサバイバルスキルを教えるためだと分かった…つまり、戦いの相手は「自然」だったというわけだ。ま、俺からすれば、「日常」となんら変わらないことだがな。とにかく、それ以降、常連客が二人増えた。",
+            "sourceName": "vo_kinich_teammate_mualani_01.wem"
+        },
+        "4a6bd09de76d41aa": {
+            "hash": "4a6bd09de76d41aa",
+            "directory": "External9",
+            "voiceContent": "以前、彼女に関する依頼を出すやつらがいた。「こだまの子」の一部の人間だったんだが、カチーナが「古名」を持ってることを妬み、裏から手を回してその仲間の竜をやっつけようと企んだんだ——ああ、やつらにはもう代償を払わせた。",
+            "sourceName": "vo_kinich_teammate_kachina_01.wem"
+        },
+        "52ab0b19d39f9419": {
+            "hash": "52ab0b19d39f9419",
+            "directory": "External10",
+            "voiceContent": "ああ、そうだ。彼女からも依頼を受けたことがある。稲妻の商人から紙の書物を大量に購入して届けてな。依頼主のプライベートを詮索するつもりはないが、「謎煙の主」の読み物って、織物に縫い付けられてるんじゃないのか？",
+            "sourceName": "vo_kinich_teammate_citlali_01.wem"
+        },
+        "2ed3f1cccf68524b": {
+            "hash": "2ed3f1cccf68524b",
+            "directory": "External5",
+            "voiceContent": "キィニチ：彼には以前世話になったことがある。アハウが「具合が悪い」って泣き喚くもんだから、最高の竜医に診てもらったんだ。さすが優れた医術の持ち主だけあったな。診療所に案内されたアハウが、あっという間に完治したんだから。アハウ：お…お前に何が分かるってんだ！？あいつはとんでもねぇヤブ医者だぜ！オ…オレが何を言われたか、知りもしねぇくせに！",
+            "sourceName": "vo_kinich_teammate_ifa_01.wem"
+        },
+        "3d0b067d24d9197e": {
+            "hash": "3d0b067d24d9197e",
+            "directory": "External7",
+            "voiceContent": "チャスカが依頼を処理してるところを、俺は見たことがある。あいつとは揉め事の解決方法が違ってな。俺は一方を黙らせて片付けるタイプだが、あいつは双方を黙らせる。そして、当事者はどっちも病床に伏すことになるんだ。やっと口が利けるようになった頃には、なんで言い争ってたのかをもう覚えてないらしい。",
+            "sourceName": "vo_kinich_teammate_chasca_01.wem"
+        },
+        "bbe5a19e85379e32": {
+            "hash": "bbe5a19e85379e32",
+            "directory": "External23",
+            "voiceContent": "「こだまの子」の前を通りかかったとき、ある奇妙な依頼を受けた。育てやすい植物がほしいって依頼でな。それでサウリアンサキュレントの種を植木鉢や肥料と一緒に届けたんだ。サウリアンサキュレントは生命力が強い植物で、様々な地形に広く分布し、荒野でもよく育つ。だが、しばらく経って報酬を受け取りに行くと、鉢には芽の影すらなかった。シロネンの園芸能力を過大評価した代償はかなり重かったな…あの件は、失敗に終わった数少ない依頼の一つだった。",
+            "sourceName": "vo_kinich_teammate_xilonen_01.wem"
+        },
+        "8fd12a420c6daedb": {
+            "hash": "8fd12a420c6daedb",
+            "directory": "External17",
+            "voiceContent": "キィニチ：彼女の依頼…というより、彼女と共同で仕事をしたことがある。彼女はトレーナーとして、選手たちの食事も管理してるんだが、カロリーを一桁単位で計っていてな。そのためには、品質、規格ともに基準を満たす果物を仕入れる必要がある。もし少しでも黒ずんでいたり、虫に食われていたりしたら即却下という徹底ぶりだ。基準が厳しすぎると文句を言うやつもいたが、俺は目が利くほうだし、不良品を処理する優秀なルートがあったから、何かと都合がよかった。アハウ：ま、待て！まさか…オレに飲ませてたジュースって…！？",
+            "sourceName": "vo_kinich_teammate_iansan_01.wem"
+        },
+        "9fe0aa9a12bdcbc8": {
+            "hash": "9fe0aa9a12bdcbc8",
+            "directory": "External19",
+            "voiceContent": "俺は竜狩り人だが、竜を狩る必要がないときは、他の依頼を引き受けることもある。お前と同業者と言えるな。",
+            "sourceName": "vo_kinich_friendship_01.wem"
+        },
+        "5f287881fb22340f": {
+            "hash": "5f287881fb22340f",
+            "directory": "External11",
+            "voiceContent": "以前手紙の配達をしてると、受取人から「ついでに頼まれてくれないか」と言われることがよくあった。その「ついでに」に、どれぐらいの値段をつけるべきだろうな？ま、値段を言ったとたん、どいつも依頼を即撤回してたが。",
+            "sourceName": "vo_kinich_friendship_02.wem"
+        },
+        "dd6b168a3e820926": {
+            "hash": "dd6b168a3e820926",
+            "directory": "External27",
+            "voiceContent": "竜を初めて狩るとき、俺は数週間にわたって入念な準備をした。数日かけて竜を追跡し観察を行ったり、三種類以上の罠を作ったり…それから生活習慣や好きな食べ物を詳細に記録した。結局、その準備の大半は無駄だったが、時には無駄なことをするのも必要だ。",
+            "sourceName": "vo_kinich_friendship_03.wem"
+        },
+        "5e35647050cf3495": {
+            "hash": "5e35647050cf3495",
+            "directory": "External11",
+            "voiceContent": "キィニチ：アハウはかつて古い遺跡に封印されてたんだ。俺は契約を結ぶことでこいつを解放してやった。アハウ：遅かれ早かれ、ドブに頭を突っ込んじまいそうなやつが、今もピンピン生きてるとはな。はぁ…まぁいい。烈炎の国の至高なる領主の我輩は、この地位に相応しい美徳と教養を備えているからな。キィニチ：毎日俺に死んでほしくてたまらないってのが、その美徳と教養なのか？アハウ：オレが言ってんのは忍耐と時間のことだ！キィニチ：…ま、とにかく、弱みさえ掴んどけば、邪悪なやつにも十分利用価値がある。アハウ：クソキィニチめ！今日こそ、他のやつの手を借りてお前をシメてやる！",
+            "sourceName": "vo_kinich_friendship_04.wem"
+        },
+        "d8dc2a78911e9504": {
+            "hash": "d8dc2a78911e9504",
+            "directory": "External27",
+            "voiceContent": "俺はこれまで何事においても「代償」を量ってきた。大霊から「廻焔」、つまり「マリポ」って古名を授かったときも、それほど驚きはしなかった。生きてこそ価値を生み出せる。だから俺は、すべてが終わりを迎える日を望んだりしない。だが「廻焔」の持ち主として、炎に焼かれる覚悟はとうにできてる。その炎に生涯見つめられていようと構わない。俺は絶対に後悔を残さないからな。",
+            "sourceName": "vo_kinich_friendship_05.wem"
+        },
+        "a5751fe23b6cb8ec": {
+            "hash": "a5751fe23b6cb8ec",
+            "directory": "External20",
+            "voiceContent": "エクストリームスポーツは色々やってる。飽きてきたら、種目を変えたりしてな。このスポーツはテクニックを磨きながら、自分の恐怖心に挑むものだ…まずは恐怖と向き合うことから——そして慣れたら、それをコントロールできるようになる。",
+            "sourceName": "vo_kinich_pref_hobby.wem"
+        },
+        "ab290e138eea3bb7": {
+            "hash": "ab290e138eea3bb7",
+            "directory": "External21",
+            "voiceContent": "キィニチ：野外では、手に入りやすいもので済ませることが多い。肉と果物はベストな選択肢だ。アハウ：フン、好き嫌いしないお利口さんぶってんじゃねえ。お前がグレインの実を採ってるとこなんか、一度も見たことないぜ。キィニチ：重くて持ち歩きにくいからだ。",
+            "sourceName": "vo_kinich_pref_foodLike.wem"
+        },
+        "b81a647d9250a491": {
+            "hash": "b81a647d9250a491",
+            "directory": "External23",
+            "voiceContent": "アハウ：冷たいもの、辛いものは神聖なる身体を侵すからダメだ。油っこいもの、匂いのきついものは内臓に悪いからアウトだな。硬いものは噛みづれぇし、かと言って柔らかすぎても味気がねえ…キィニチ：一体何なら食べるんだ？アハウ：ヘッ、お前の魂に決まってんだろ、ギャハハハッ！",
+            "sourceName": "vo_kinich_pref_foodDislike.wem"
+        },
+        "d666acedebe4d360": {
+            "hash": "d666acedebe4d360",
+            "directory": "External26",
+            "voiceContent": "キィニチ：…うまいな。これに見合う報酬を渡そう…あるいはお前の好きなものでもいい。アハウ：おい、吐き出せ！この欲張りマムシが！オレの分まで食いやがって！",
+            "sourceName": "vo_kinich_spice_pref_01.wem"
+        },
+        "42be63612323e03a": {
+            "hash": "42be63612323e03a",
+            "directory": "External8",
+            "voiceContent": "キィニチ：ああ、思ったよりうまいな。アハウ：ケッ、真に受けんじゃねぇぞ。料理が下手だって、心の中で皮肉ってんだよ、こいつ。",
+            "sourceName": "vo_kinich_spice_normal_01.wem"
+        },
+        "25b2a5086ebb6cf6": {
+            "hash": "25b2a5086ebb6cf6",
+            "directory": "External4",
+            "voiceContent": "キィニチ：…今回は…ただでいいか？アハウ：おい、勝手に返すなって！オレはまだ味見もしてねぇぞ！",
+            "sourceName": "vo_kinich_spice_dislike_01.wem"
+        },
+        "9633a611b7a1be93": {
+            "hash": "9633a611b7a1be93",
+            "directory": "External18",
+            "voiceContent": "キィニチ：いいか？アハウ：はぁ…分かった分かった。フン、人に働かせるときだけ、目をキラキラ輝かせやがって。モラの山でも見つけたのか？オレに頼らなきゃ飛べもしねぇくせに。おい、お前に話してんだよ。いいから、さっさと乗れ。偉大なる聖龍クフル·アハウの背中に乗れるなんて、一生にあるかないかの栄誉だぞ。キィニチ：ちょっとした森の旅だ。ルートは入念に計画したから、俺の言う通りに進めば危険はない。安心しろ。アハウ：約束した報酬だけ忘れんなよ！キィニチ：ああ。さ、乗ってくれ…誕生日、おめでとう。",
+            "sourceName": "vo_kinich_pref_birthday_01.wem"
+        },
+        "1446b89971a9ce9b": {
+            "hash": "1446b89971a9ce9b",
+            "directory": "External2",
+            "voiceContent": "剣は、硬さと鋭さで選べばいい。",
+            "sourceName": "vo_kinich_starUp_01.wem"
+        },
+        "937c6ab35f5ca324": {
+            "hash": "937c6ab35f5ca324",
+            "directory": "External18",
+            "voiceContent": "荷物は必要最低限のものに絞り、できるだけ軽くすべきだ。そうだな…例えばこの傘はいらない。",
+            "sourceName": "vo_kinich_starUp_02.wem"
+        },
+        "1570a4ab1c2bccb5": {
+            "hash": "1570a4ab1c2bccb5",
+            "directory": "External2",
+            "voiceContent": "行動を起こす前は、バンダナを締めなおして、冷静さと俊敏さを保つよう自分に言い聞かせてる。",
+            "sourceName": "vo_kinich_starUp_03.wem"
+        },
+        "3fe8d6c295df4bc6": {
+            "hash": "3fe8d6c295df4bc6",
+            "directory": "External7",
+            "voiceContent": "お前には色々世話になった。その厚意をただで受け取るわけにはいかない。お前の望む値段を言ってくれてもいいし、あるいは俺が用意した報酬をもらってくれてもいい…「マリポ」の名において、決してお前をがっかりさせないと約束しよう。",
+            "sourceName": "vo_kinich_starUp_04.wem"
+        },
+        "61fc0ed07d1a2c8b": {
+            "hash": "61fc0ed07d1a2c8b",
+            "directory": "External12",
+            "voiceContent": "次に代償を払うのはお前だ。",
+            "sourceName": "vo_kinich_life_less30_01.wem"
+        },
+        "b52080e92f5c9b14": {
+            "hash": "b52080e92f5c9b14",
+            "directory": "External22",
+            "voiceContent": "裏を突くか…",
+            "sourceName": "vo_kinich_life_less30_02.wem"
+        },
+        "63263ae2279c97e5": {
+            "hash": "63263ae2279c97e5",
+            "directory": "External12",
+            "voiceContent": "アハウ：とうとうおしまいだな、キィニチ！ギャハハハッ！",
+            "sourceName": "vo_kinich_life_less30_03.wem"
+        },
+        "3d4f70fae47f2189": {
+            "hash": "3d4f70fae47f2189",
+            "directory": "External7",
+            "voiceContent": "アハウ：ハハッ…悪くねぇ取引だぜ…",
+            "sourceName": "vo_kinich_life_die_03.wem"
+        },
+        "d48ba3b880bf7a6b": {
+            "hash": "d48ba3b880bf7a6b",
+            "directory": "External26",
+            "voiceContent": "しくったな。",
+            "sourceName": "vo_kinich_battle_hit_H_01.wem"
+        },
+        "27af15d1330035f4": {
+            "hash": "27af15d1330035f4",
+            "directory": "External4",
+            "voiceContent": "虚を突かれたか…",
+            "sourceName": "vo_kinich_battle_hit_H_02.wem"
+        },
+        "507c4c77d981b874": {
+            "hash": "507c4c77d981b874",
+            "directory": "External10",
+            "voiceContent": "…これは必要か？",
+            "sourceName": "vo_kinich_explore_fly_start_01.wem"
+        },
+        "b7c6989be411c3de": {
+            "hash": "b7c6989be411c3de",
+            "directory": "External22",
+            "voiceContent": "水分を取るのを忘れるな。",
+            "sourceName": "vo_kinich_weather_desert_01.wem"
+        },
+        "e8d4e9ae39297597": {
+            "hash": "e8d4e9ae39297597",
+            "directory": "External29",
+            "voiceContent": "俺が見てきた限り、悩みを抱えてるやつは考えすぎか、あるいは考えなさすぎか、そのどっちかだ。俺は常に次の目標と着地点を定めてる。だから、悩む暇なんかないんだ。",
+            "sourceName": "vo_kinich_dialog_annoyed_01.wem"
+        },
+        "d4ac42672aebbae6": {
+            "hash": "d4ac42672aebbae6",
+            "directory": "External26",
+            "voiceContent": "キィニチ：「マリポ」のキィニチだ。よろしく頼む。依頼を出すときは、報酬の額を提示してくれ。アハウ：…ん？それで終わりか？はぁ、お前ってやつは！せめて仕事がいかに速くて的確か、あと過去の戦績も並べて、安心して任せられるっていうのをアピールしたらどうだ？んで、相手の期待が高まったところで、「見合う報酬を望む」って言うんだ！商売の「しょ」の字も知らねぇのか？アハウ：偉大なる聖龍クフル·アハウがお前みてぇなマヌケと契約を結んだって考えると…あ～、穴があったら入りたいぐらいだ！",
+            "sourceName": "vo_kinich_draw_appear_01.wem"
+        },
+        "31393c38b7a42aef": {
+            "hash": "31393c38b7a42aef",
+            "directory": "External6",
+            "voiceContent": "「神の目」を使うのに代償は要らない。だが、値段が明示されていない場合、あとで重い代償を払わされることもある。",
+            "sourceName": "vo_kinich_dialog_pendant_01.wem"
+        },
+        "7459b41be14ac9c2": {
+            "hash": "7459b41be14ac9c2",
+            "directory": "External14",
+            "voiceContent": "アハウ：どの技も似たり寄ったりだな…",
+            "sourceName": "vo_ajaw_battle_skill1_03.wem"
+        },
+        "720861d5f585ce46": {
+            "hash": "720861d5f585ce46",
+            "directory": "External14",
+            "voiceContent": "アハウ：聖龍降臨！",
+            "sourceName": "vo_kinich_battle_skill3_04.wem"
+        },
+        "f72bc3cdb509222f": {
+            "hash": "f72bc3cdb509222f",
+            "directory": "External30",
+            "voiceContent": "アハウ：原霊顕現！",
+            "sourceName": "vo_kinich_battle_skill3_05.wem"
+        },
+        "e24c8fdec1d213a9": {
+            "hash": "e24c8fdec1d213a9",
+            "directory": "External28",
+            "voiceContent": "アハウ：汝の魂を我輩に捧げよ。アハウ：はぁ？返事もロクにできねぇのか？アハウ：んなら、永遠に黙らせてやる！",
+            "sourceName": "vo_kinich_battle_skill3_07.wem"
+        },
+        "394401f777547d5a": {
+            "hash": "394401f777547d5a",
+            "directory": "External7",
+            "voiceContent": "アハウ：我輩の威光は、比類なきもの！アハウ：今はどうも気分が晴れないのだ。アハウ：虫けらども、きっちり代償を払ってもらうぞ！",
+            "sourceName": "vo_kinich_battle_skill3_08.wem"
+        }
+    }
+}

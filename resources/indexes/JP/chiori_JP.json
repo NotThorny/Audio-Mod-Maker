@@ -1,0 +1,541 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "91e177ef292d7557": {
+            "hash": "91e177ef292d7557",
+            "directory": "External18",
+            "voiceContent": "ストレス発散のつもりで、思いっきりやっちゃって。",
+            "sourceName": "vo_QZLQ002_8_chiori_15.wem"
+        },
+        "12dc4e2c2466ecdf": {
+            "hash": "12dc4e2c2466ecdf",
+            "directory": "External2",
+            "voiceContent": "もちろんよ。取引相手に手を出したりしないわ。相手が話の通じる人であればなおさらね。",
+            "sourceName": "vo_QZLQ002_3_chiori_01.wem"
+        },
+        "2b80cf38ba44c9b6": {
+            "hash": "2b80cf38ba44c9b6",
+            "directory": "External5",
+            "voiceContent": "パイモン、海の中で一番きれいなものは何だと思う？",
+            "sourceName": "vo_QZLQ002_6_chiori_01.wem"
+        },
+        "9bc4fd4186910f19": {
+            "hash": "9bc4fd4186910f19",
+            "directory": "External19",
+            "voiceContent": "分かったなら、いっぱい採ってちょうだいね。",
+            "sourceName": "vo_QZLQ002_6_chiori_02.wem"
+        },
+        "0e9a8dfc0e59eda0": {
+            "hash": "0e9a8dfc0e59eda0",
+            "directory": "External1",
+            "voiceContent": "しっかりつかまって、パイモン！",
+            "sourceName": "vo_QZLQ003_2_chiori_02.wem"
+        },
+        "b7d9fbe359069007": {
+            "hash": "b7d9fbe359069007",
+            "directory": "External22",
+            "voiceContent": "ユーサーの工房に見学に来た客を案内するロボットガイドよ。音声は自動再生なの。",
+            "sourceName": "vo_QZLQ003_2_chiori_01.wem"
+        },
+        "9b2969cb5637b06a": {
+            "hash": "9b2969cb5637b06a",
+            "directory": "External19",
+            "voiceContent": "工房のさらに深部に運ばれたみたいね。",
+            "sourceName": "vo_QZLQ003_2_chiori_04.wem"
+        },
+        "b902e7f50386db21": {
+            "hash": "b902e7f50386db21",
+            "directory": "External23",
+            "voiceContent": "…止まったみたい。",
+            "sourceName": "vo_QZLQ003_2_chiori_03.wem"
+        },
+        "36a01a716b2c4993": {
+            "hash": "36a01a716b2c4993",
+            "directory": "External6",
+            "voiceContent": "ほら、あそこを見て。出口に通じてるかもしれない。",
+            "sourceName": "vo_QZLQ003_4_chiori_14.wem"
+        },
+        "b1b3e879abd8898a": {
+            "hash": "b1b3e879abd8898a",
+            "directory": "External22",
+            "voiceContent": "あの装置を使って上へ行きましょう。",
+            "sourceName": "vo_QZLQ003_4_chiori_15.wem"
+        },
+        "79e18cacd7f86a40": {
+            "hash": "79e18cacd7f86a40",
+            "directory": "External15",
+            "voiceContent": "時間がないわ！早く外へ！",
+            "sourceName": "vo_QZLQ003_4_chiori_13.wem"
+        },
+        "d2f366a35c0ade41": {
+            "hash": "d2f366a35c0ade41",
+            "directory": "External26",
+            "voiceContent": "そんなことより、まずはここから出ましょう！",
+            "sourceName": "vo_QZLQ003_4_chiori_12.wem"
+        },
+        "4dc4f95ba9fd8549": {
+            "hash": "4dc4f95ba9fd8549",
+            "directory": "External9",
+            "voiceContent": "ついてきて。上へ向かいましょう。",
+            "sourceName": "vo_QZLQ003_3_chiori_06.wem"
+        }
+    },
+    "Gameplay": {
+        "6d0e7674508e2d61": {
+            "hash": "6d0e7674508e2d61",
+            "directory": "External13",
+            "voiceContent": "たもと。",
+            "sourceName": "vo_chiori_battle_skill1_01.wem"
+        },
+        "12d3686c21faf3be": {
+            "hash": "12d3686c21faf3be",
+            "directory": "External2",
+            "voiceContent": "次。",
+            "sourceName": "vo_chiori_battle_skill1_02.wem"
+        },
+        "687e8a62a3290647": {
+            "hash": "687e8a62a3290647",
+            "directory": "External13",
+            "voiceContent": "手伝って。",
+            "sourceName": "vo_chiori_battle_skill1_03.wem"
+        },
+        "2ab81f94a2d186c3": {
+            "hash": "2ab81f94a2d186c3",
+            "directory": "External5",
+            "voiceContent": "ファッションは、私が定義する。",
+            "sourceName": "vo_chiori_battle_skill3_01.wem"
+        },
+        "c063f1af2e9a392c": {
+            "hash": "c063f1af2e9a392c",
+            "directory": "External24",
+            "voiceContent": "絹のような弱さね。",
+            "sourceName": "vo_chiori_battle_skill3_02.wem"
+        },
+        "2f480ba65036adfd": {
+            "hash": "2f480ba65036adfd",
+            "directory": "External5",
+            "voiceContent": "紅に染まって散りなさい。",
+            "sourceName": "vo_chiori_battle_skill3_03.wem"
+        },
+        "9b5c0a952baf356e": {
+            "hash": "9b5c0a952baf356e",
+            "directory": "External19",
+            "voiceContent": "ふん、作りはまあまあね。私ならもっといいものを作れるわ。",
+            "sourceName": "vo_chiori_chest_open_01.wem"
+        },
+        "ccead89c21b37e11": {
+            "hash": "ccead89c21b37e11",
+            "directory": "External25",
+            "voiceContent": "へぇ、こういうのが好きなの？",
+            "sourceName": "vo_chiori_chest_open_02.wem"
+        },
+        "4b2d7ea465136090": {
+            "hash": "4b2d7ea465136090",
+            "directory": "External9",
+            "voiceContent": "ふーん…参考にしてみるわ。",
+            "sourceName": "vo_chiori_chest_open_03.wem"
+        },
+        "8943ba150b381bda": {
+            "hash": "8943ba150b381bda",
+            "directory": "External17",
+            "voiceContent": "強がらないでよね。",
+            "sourceName": "vo_chiori_life_less30_teammate_01.wem"
+        },
+        "e347d81d399c2ddd": {
+            "hash": "e347d81d399c2ddd",
+            "directory": "External28",
+            "voiceContent": "死装束は縫わないわよ。",
+            "sourceName": "vo_chiori_life_less30_teammate_02.wem"
+        },
+        "b670652d7b74bd07": {
+            "hash": "b670652d7b74bd07",
+            "directory": "External22",
+            "voiceContent": "仕上げを…間違えたかな…",
+            "sourceName": "vo_chiori_life_die_01.wem"
+        },
+        "0d30f74630c81aa0": {
+            "hash": "0d30f74630c81aa0",
+            "directory": "External1",
+            "voiceContent": "負けなんか認めないわ…",
+            "sourceName": "vo_chiori_life_die_02.wem"
+        },
+        "257f9830e8c74a60": {
+            "hash": "257f9830e8c74a60",
+            "directory": "External4",
+            "voiceContent": "ようこそ「千織屋」へ。",
+            "sourceName": "vo_chiori_teamJoin_01.wem"
+        },
+        "cebf06183373ecc7": {
+            "hash": "cebf06183373ecc7",
+            "directory": "External25",
+            "voiceContent": "オーダーメイドの依頼？",
+            "sourceName": "vo_chiori_teamJoin_02.wem"
+        },
+        "7913e421b245da3e": {
+            "hash": "7913e421b245da3e",
+            "directory": "External15",
+            "voiceContent": "インスピレーションを探しに行きましょ。",
+            "sourceName": "vo_chiori_teamJoin_03.wem"
+        },
+        "4ff84bc0c14cf5e8": {
+            "hash": "4ff84bc0c14cf5e8",
+            "directory": "External9",
+            "voiceContent": "歩む道も、なりたい姿も、全部自分自身で決めるの。誰も私に指図なんかできないわ。",
+            "sourceName": "vo_chiori_character_idle_01.wem"
+        },
+        "ba8299a635b208af": {
+            "hash": "ba8299a635b208af",
+            "directory": "External23",
+            "voiceContent": "布を裁つにはハサミを使うはず？そんなつまらない規則なんてどうだっていいわ。使い勝手のいい刃物を使うまでよ。",
+            "sourceName": "vo_chiori_character_idle_02.wem"
+        },
+        "355f37ae762eb4c6": {
+            "hash": "355f37ae762eb4c6",
+            "directory": "External6",
+            "voiceContent": "つっ立ったまま動くつもりがないのなら、いっそ私のモデルになってくれない？綺麗な服をデザインしてあげるわ。",
+            "sourceName": "vo_chiori_character_idle_03.wem"
+        },
+        "ac5043b8c2925be2": {
+            "hash": "ac5043b8c2925be2",
+            "directory": "External21",
+            "voiceContent": "雨より、地面の泥水のほうが嫌いだわ。服についたらなかなかとれないんだもの。",
+            "sourceName": "vo_chiori_weather_heavyRain_01.wem"
+        },
+        "90c71acaaf24e019": {
+            "hash": "90c71acaaf24e019",
+            "directory": "External18",
+            "voiceContent": "…故郷の景色を思い出すわ。",
+            "sourceName": "vo_chiori_weather_thunder_01.wem"
+        },
+        "586dfc83368a9645": {
+            "hash": "586dfc83368a9645",
+            "directory": "External11",
+            "voiceContent": "憧れの孤高…手にした瞬間に散ってしまう美しさ…雪って、「ファッション」と結構似てるわね…",
+            "sourceName": "vo_chiori_weather_snowy_01.wem"
+        },
+        "69963b6b84d4d2d6": {
+            "hash": "69963b6b84d4d2d6",
+            "directory": "External13",
+            "voiceContent": "こんな場所でどうトレンドを広げればいいのか、まったく想像がつかないわ。",
+            "sourceName": "vo_chiori_weather_desert_01.wem"
+        },
+        "5d4477b46d3e6dd0": {
+            "hash": "5d4477b46d3e6dd0",
+            "directory": "External11",
+            "voiceContent": "おはよう。朝食を用意してくれるかもなんて期待はやめてね。むしろ、もしカフェに行くなら、君のほうがついでに私にコーヒーを持って帰ってきてよ。ミルクなし、お砂糖なしでお願い。",
+            "sourceName": "vo_chiori_dialog_greetingMorning.wem"
+        },
+        "43f15d007f1fc00c": {
+            "hash": "43f15d007f1fc00c",
+            "directory": "External8",
+            "voiceContent": "もうこんな時間？お腹が全然減ってないのよね…作業を中断したくないから、昼ご飯は一人で行ってきてちょうだい。",
+            "sourceName": "vo_chiori_dialog_greetingNoon.wem"
+        },
+        "776fcc875c18a05a": {
+            "hash": "776fcc875c18a05a",
+            "directory": "External14",
+            "voiceContent": "外が騒がしいわね…フォンテーヌの人たち、総出で散歩でもしてるわけ？",
+            "sourceName": "vo_chiori_dialog_greetingNight.wem"
+        },
+        "098b789d296ae16a": {
+            "hash": "098b789d296ae16a",
+            "directory": "External1",
+            "voiceContent": "お風呂に入ってゆっくり休もうっと。それじゃ、また明日。",
+            "sourceName": "vo_chiori_dialog_greetingNight2.wem"
+        },
+        "54362067843e720d": {
+            "hash": "54362067843e720d",
+            "directory": "External10",
+            "voiceContent": "性格が悪いだの、話し方がストレート過ぎてすぐに人を傷つけるだの、そういう文句や陰口はよく聞くわ。でも私からすれば、誰にでもお世辞と分かる社交辞令のほうが大概よ。はっきり言って時間の無駄ね。事実を指摘されただけで傷つく人なんて、弱すぎるんじゃないの？",
+            "sourceName": "vo_chiori_dialog_idle.wem"
+        },
+        "829777c5e0af06e7": {
+            "hash": "829777c5e0af06e7",
+            "directory": "External16",
+            "voiceContent": "ブランドの理念を構想してた当初は、自分の経験から、沢山のキーワードをまとめることができたわ。だけど、その中から一つを選ぶのは本当に大変だった。どの「宝石」も自分の理念を反映している…それなのに、選べるのは自分を代表する一つだけってところが特に難しかったわね。「絶対に屈しない」——これこそが私であり、私のブランドよ。",
+            "sourceName": "vo_chiori_dialog_idle2.wem"
+        },
+        "63a14d4f53a0c63a": {
+            "hash": "63a14d4f53a0c63a",
+            "directory": "External12",
+            "voiceContent": "言うタイミングを逃しちゃってたけど、私は思ったことをそのまま言っちゃうタイプなの。ま、そこについてはもう慣れてるでしょうけどね。自分のやり方を変えるつもりはないから、君も私の前では遠慮せずに素の自分を見せてくれていいわよ。隠す必要なんて何もない。つべこべ言わないって約束してあげるわ。…信じられない、ですって？今まで私が約束を破ったことがあった？",
+            "sourceName": "vo_chiori_dialog_close1.wem"
+        },
+        "83ab336e75b75da3": {
+            "hash": "83ab336e75b75da3",
+            "directory": "External16",
+            "voiceContent": "私の目を信じなさい。この服なら君に似合うはずよ。え？こんなスタイルの服、見たことないって？ふん、それは君が今まで出会ってきたデザイナーにセンスがなかっただけでしょ。",
+            "sourceName": "vo_chiori_dialog_close.wem"
+        },
+        "88dbe1b5c4c64e92": {
+            "hash": "88dbe1b5c4c64e92",
+            "directory": "External17",
+            "voiceContent": "子供の頃の私は落ち着きがなかったから、親は私に色んなものを学ばせたわ。その中の一つが「剣道」だった。でも、ある程度学んだ頃にふと、両手にそれぞれ刃物を持った方が強いし、使い勝手がいいって気づいたの。ま、剣道の先生にはやめろって言われたわ。どうしてって聞いたら…主流じゃないことは「まともじゃない」んですって。その後、私は一度もそこへ稽古に行かなかったわ。今考えてみると、あの時、自分の気に入ったやり方を貫くことができて本当によかったと思う。もしかすると、私って生まれつき両手を両方とも使ってないと落ち着かない性質なのかも。",
+            "sourceName": "vo_chiori_dialog_share_01.wem"
+        },
+        "36bfa789d0ee3fd8": {
+            "hash": "36bfa789d0ee3fd8",
+            "directory": "External6",
+            "voiceContent": "「たもと」は私の初めての作品よ。当時はただ、自分と似たような女の子にモデルと助手をやらせようと思って作ったの。え？傍にいてくれる存在？私にはそんなの必要ないわ。",
+            "sourceName": "vo_chiori_pref_gift_01.wem"
+        },
+        "6cd5783a29e4849e": {
+            "hash": "6cd5783a29e4849e",
+            "directory": "External13",
+            "voiceContent": "前に彼女が、変なもののデザインを山ほど「依頼」してきたことがあるの——それもすごく真剣な顔でね。例えば、操舵輪の出っ張り部分を、全部それぞれ違った王冠みたいなデザインにしてほしい、とか。当時はつい冷たい目で、そんなことをするくらいなら、君の帽子を船の形にするほうがマシよって答えちゃったわ。私のデザインについて「時代を先取りしすぎている」なんて言う人たちは、きっとナヴィアと話したことがないんでしょうね。",
+            "sourceName": "vo_chiori_teammate_navia_01.wem"
+        },
+        "cd11a11dee42fedc": {
+            "hash": "cd11a11dee42fedc",
+            "directory": "External25",
+            "voiceContent": "私は秘密を隠しておけるようなハットは作れないわ。でも、彼の魔術は、それを可能にしてしまうの。あれだけの秘密を隠したハットって、被るとどんな気分がするんでしょうね。たまに気になりはするけど…私はやっぱり、考えは隠さずに言っちゃったほうがすっきりするわ。",
+            "sourceName": "vo_chiori_teammate_lyney_01.wem"
+        },
+        "a64795244dadbae0": {
+            "hash": "a64795244dadbae0",
+            "directory": "External20",
+            "voiceContent": "あの助手さん、口数は少ないんだけど、私のことをとても信頼してくれてるみたい。私って、猫に好かれやすいのかしら…",
+            "sourceName": "vo_chiori_teammate_lynette_01.wem"
+        },
+        "dbbbae2981d6d438": {
+            "hash": "dbbbae2981d6d438",
+            "directory": "External27",
+            "voiceContent": "一部の友人や協力者から彼のことは聞いてるわ。彼のやり方には結構感心してるけど、自分のやり方を変えるつもりはないの。",
+            "sourceName": "vo_chiori_teammate_wriothesley_01.wem"
+        },
+        "d0ccf531e974ef99": {
+            "hash": "d0ccf531e974ef99",
+            "directory": "External26",
+            "voiceContent": "昔、まだ稲妻にいた頃、緑色の目をした猫に懐かれてたの。インスピレーションを探して外に出る度、その子は私の後をついて回ってきてた。私が持ってる布の色と模様に興味があったみたいで、機嫌がいい時は私の足にスリスリしてくることもあったわ…だから、かなり時間が経ってたけど、二本の尻尾と緑の瞳を持ったあの子を見た瞬間、あの猫だってすぐわかったわ。新鮮なものを見るときのあの子のあの目は、何年経ったって全然変わってないもの。",
+            "sourceName": "vo_chiori_teammate_kirara_01.wem"
+        },
+        "c6b84780bc703444": {
+            "hash": "c6b84780bc703444",
+            "directory": "External24",
+            "voiceContent": "子供の頃の私があんなにやんちゃじゃなかったら、神里家のお嬢様に出会う機会に恵まれることもなかったでしょうね。あれは、私が神里家の塀を乗り越えて、こっそり庭に忍び込んだ時のことだった。彼女が塀の近くに転がった毬を拾おうとこちらに駆けてきたの——私を見つけて驚いていたけど、ワクワクもしてるみたいだったわ。それで、一緒にあれこれ喋ったり遊んだりした。でも…結局バレちゃって、築き上げたばかりの友情は、私がつまみ出されたことで終わりを告げたわ。",
+            "sourceName": "vo_chiori_teammate_ayaka_01.wem"
+        },
+        "a309def8321e9505": {
+            "hash": "a309def8321e9505",
+            "directory": "External20",
+            "voiceContent": "以前、取材のためにシャルロットが店にやってきたことがあるの。私は、別にインタビューしてもらうほどのニュースはないからいいって断ったわ。だけど、彼女が諦めて店を出ようとしたその瞬間、ある酔っ払いが店に入ってきて、騒ぎを起こして…彼女は一部始終を記録したってわけ。本当に信じられないわよね。記者がニュースを追うっていうのはよく聞く話だけど、ニュースのほうが記者を追ってくるなんてこと、あり得る？",
+            "sourceName": "vo_chiori_teammate_charlotte_01.wem"
+        },
+        "939a7511bb43b1a1": {
+            "hash": "939a7511bb43b1a1",
+            "directory": "External18",
+            "voiceContent": "シュヴルーズとなら、会話も協力も滞りなく進められるわ。でもその反動か、彼女とのやり取りを終えて他のお客さんの相手をする時は、いつも何だかぎこちない感じになっちゃうのよね。",
+            "sourceName": "vo_chiori_teammate_chevreuse_01.wem"
+        },
+        "d12b8e184ad1c174": {
+            "hash": "d12b8e184ad1c174",
+            "directory": "External26",
+            "voiceContent": "エミリエの香水はかなりの人気よ。うちもあそことは提携してて、試作品のサンプルを「千織屋」に送ってもらってるわ。そして届いた香水をエローフェにこっそり試着室に振りまいてもらって、顧客たちの反応をエミリエにフィードバックしてあげてるの。かなり長く続けてるけど、試着室の匂いが変だなんて言われたことは一度もないわ。それどころか、店で使ってる香水はどこで買えるのかって聞かれることばっかりよ。彼女が新しい香水を発売するたびに、私も気になって一つ買ってるの。どれも使う度に新鮮に感じられる香りで、あれは本当に天才の所業ね…感服しちゃうわ。",
+            "sourceName": "vo_chiori_teammate_emilie_01.wem"
+        },
+        "1e2de2bc8d720420": {
+            "hash": "1e2de2bc8d720420",
+            "directory": "External3",
+            "voiceContent": "言わせてもらうけど、別に私、噂ほど気性が荒いわけじゃないから。私はただ、くだらないことで時間を無駄にしたくないだけなの。でも何故だか知らないけど、私の周りじゃ「くだらないこと」が後を絶たないわけ。そのせいで、私の評判もどんどん悪くなってきちゃったのよ…まったく、風評被害っていうのはまさにこのことよね。",
+            "sourceName": "vo_chiori_friendship_01.wem"
+        },
+        "c76d50a3d81ea687": {
+            "hash": "c76d50a3d81ea687",
+            "directory": "External24",
+            "voiceContent": "子供の頃からお説教されるのは嫌いだった。「規則」っていうのが大嫌いで、どうしても逆の方向に行きたくなるって時期もあったわ。ひねくれた性格のおかげで散々ひどい目にも遭ったけど…年を取るにつれて、段々分かってきたの。「規則」っていうのは、全部が全部悪いものってわけでもないってね。私が本当に嫌っていたのは、自分の思う通りに決定できない感覚のほうだったのよ。",
+            "sourceName": "vo_chiori_friendship_02.wem"
+        },
+        "6e5b2ead540bb8fe": {
+            "hash": "6e5b2ead540bb8fe",
+            "directory": "External13",
+            "voiceContent": "子供の頃の一番の楽しみは、故郷の夏祭りだったわ。夏祭りでは、みんな一番綺麗な服を着て外へ行くの…帯にぶら下げる色とりどりの水風船、どう頑張ってもすくえない金魚、甘すぎるりんご飴、それから「長野原」の花火…お祭りは楽しいけど、家に帰った後は、いつも何だか物足りない気分がしてた。今になってやっと分かったけど…きっと、観客側に立つだけじゃ満足できなかったのよね。花火といえば、みんながすぐ「長野原」を思い出すみたいに、いつかはお祭りに着る服といえば「千織屋」の服だって、みんなに認めさせたいわ…ふぅ、考えてみただけで、やる気が溢れてきちゃった。よし、店に戻って服を作ってくるわ！",
+            "sourceName": "vo_chiori_friendship_03.wem"
+        },
+        "d8af5c92c843066d": {
+            "hash": "d8af5c92c843066d",
+            "directory": "External27",
+            "voiceContent": "仕事の時は仕事に専念するけど、今を楽しむのも好きよ。時間のある時は、食べ物を手に景色のいいところを見つけて静かにお昼寝したり、お気に入りの音楽を聴きながらゆっくり夜の眠りを楽しんだり…友人を呼んでみんなでわいわいお喋りしながら、思う存分食べて飲んでパーティーを楽しむこともあるわ…何をするかはその時の気分で決めるの。トレンドが今この瞬間にしかないのと同じように、私も今この瞬間を生きていたいわ。——どう？君も今夜は私と出掛けて、一緒にのんびりしてみない？",
+            "sourceName": "vo_chiori_friendship_04.wem"
+        },
+        "6d31429ba989badc": {
+            "hash": "6d31429ba989badc",
+            "directory": "External13",
+            "voiceContent": "稲妻のお菓子や、あっさりしたご飯が好き…故郷の布の触り心地が好きだし、一日の終わりにお風呂につかるのも好き…でも、フォンテーヌの優しい海の水や、美しい海景色も好きなの…私って結局、過去の影響からは抜け出せてないのかもって、今日のすべては運命で決まってたことなのかもって、よく考えちゃうわ。でも答えは分からないままでいい…私は、今を生きているんだもの。過去のすべてが今の私を形作ってるんだとしても、未来をどうやって歩んでいくかは、自分で決める。誰にも変えられやしないわ。",
+            "sourceName": "vo_chiori_friendship_05.wem"
+        },
+        "5f474bcb56312ec4": {
+            "hash": "5f474bcb56312ec4",
+            "directory": "External11",
+            "voiceContent": "私は仕事を通じて夢を追い、趣味を通じて自由を探してるわ。毎日好きじゃないことをやるなんて、一体何の意味があるの？",
+            "sourceName": "vo_chiori_pref_hobby.wem"
+        },
+        "a13cc2549fbc5f3f": {
+            "hash": "a13cc2549fbc5f3f",
+            "directory": "External20",
+            "voiceContent": "子供の頃に食べた稲妻のお菓子が忘れられないわ。でも、食べる喜び以上に、私はお菓子作りの過程を楽しんでた。もし布がお菓子よりも色合いや変化に富まないものだったら、この世にお菓子職人が一人増えてたかもね。",
+            "sourceName": "vo_chiori_pref_foodLike.wem"
+        },
+        "7006ecca4bf22c59": {
+            "hash": "7006ecca4bf22c59",
+            "directory": "External14",
+            "voiceContent": "ハギスみたいな、味の濃い料理は苦手だわ。道を歩いてる途中でいきなり岩フライムの泥攻撃を喰らって、顔が泥まみれになったみたいな感じがするんだもの…この説明なら分かるでしょ？",
+            "sourceName": "vo_chiori_pref_foodDislike.wem"
+        },
+        "d4420dcb3c00ead8": {
+            "hash": "d4420dcb3c00ead8",
+            "directory": "External26",
+            "voiceContent": "うん、なかなか好きな味よ。次もこういうのをお願いね。安心して、お返しはちゃんとするから。",
+            "sourceName": "vo_chiori_spice_pref_01.wem"
+        },
+        "f0ad09396bce4bd2": {
+            "hash": "f0ad09396bce4bd2",
+            "directory": "External30",
+            "voiceContent": "悪くない腕じゃない。仕事が終わった後、店でゆっくり味わうのにちょうどいいわ。",
+            "sourceName": "vo_chiori_spice_normal_01.wem"
+        },
+        "32519963afda587e": {
+            "hash": "32519963afda587e",
+            "directory": "External6",
+            "voiceContent": "嫌いな味だわ。次はもっとあっさりしたものにしてくれる？",
+            "sourceName": "vo_chiori_spice_dislike_01.wem"
+        },
+        "33f81cbdd201e53b": {
+            "hash": "33f81cbdd201e53b",
+            "directory": "External6",
+            "voiceContent": "お誕生日おめでとう。クイズの回答者になるつもりはないから、欲しいプレゼントがあれば直接教えて。何？ストレート過ぎるって？分かったわ。じゃあナヴィアと綺良々たちを呼んで、さらに君の友達を何人か集めて、夜に「千織屋」でパーティーを開きましょ。他の人のプレゼントを参考に、君に似合うアクセサリーをその場で作ってあげる。絶対に気に入ってもらえるって自信があるわよ。",
+            "sourceName": "vo_chiori_pref_birthday_01.wem"
+        },
+        "bacf37ddf77bed93": {
+            "hash": "bacf37ddf77bed93",
+            "directory": "External23",
+            "voiceContent": "…ダメだわ、ありきたりすぎるのよ。",
+            "sourceName": "vo_chiori_starUp_01.wem"
+        },
+        "507b09f88344a0fc": {
+            "hash": "507b09f88344a0fc",
+            "directory": "External10",
+            "voiceContent": "…まあまあかな。でも、やっぱり人目を惹きつけるような要素が欠けてるような…",
+            "sourceName": "vo_chiori_starUp_02.wem"
+        },
+        "bbf923efa1fdeb8d": {
+            "hash": "bbf923efa1fdeb8d",
+            "directory": "External23",
+            "voiceContent": "…よし、求めてたものを捉えられた気がする。",
+            "sourceName": "vo_chiori_starUp_03.wem"
+        },
+        "fce77607b9c7489e": {
+            "hash": "fce77607b9c7489e",
+            "directory": "External31",
+            "voiceContent": "手が震えたりはしないわ。私はその道のプロなんだもの。でも、確かに…鼓動はちょっとうるさいかもね。作品が完成するまで、ずっと付き合ってくれてありがとう。この作品は私にとって本当に重要な意味を持つものよ。これでこの先の道も、もっと自信を持って歩けそう。",
+            "sourceName": "vo_chiori_starUp_04.wem"
+        },
+        "77a6e081849d65f3": {
+            "hash": "77a6e081849d65f3",
+            "directory": "External14",
+            "voiceContent": "服が破けたじゃない…",
+            "sourceName": "vo_chiori_life_less30_01.wem"
+        },
+        "b89432999c650fdc": {
+            "hash": "b89432999c650fdc",
+            "directory": "External23",
+            "voiceContent": "いい加減に…ッ！",
+            "sourceName": "vo_chiori_life_less30_02.wem"
+        },
+        "24124c90bb1e5b6d": {
+            "hash": "24124c90bb1e5b6d",
+            "directory": "External4",
+            "voiceContent": "ちょっと「躾」が必要みたいね…",
+            "sourceName": "vo_chiori_life_less30_03.wem"
+        },
+        "b799513f25f50821": {
+            "hash": "b799513f25f50821",
+            "directory": "External22",
+            "voiceContent": "私のブランドが…まだ…",
+            "sourceName": "vo_chiori_life_die_03.wem"
+        },
+        "03ead3094e255b83": {
+            "hash": "03ead3094e255b83",
+            "directory": "External0",
+            "voiceContent": "センスのないやつね…",
+            "sourceName": "vo_chiori_battle_hit_H_01.wem"
+        },
+        "9996a523d9ee0eec": {
+            "hash": "9996a523d9ee0eec",
+            "directory": "External19",
+            "voiceContent": "よくも私を怒らせたわね…",
+            "sourceName": "vo_chiori_battle_hit_H_02.wem"
+        },
+        "bcae8f8c1ca371e0": {
+            "hash": "bcae8f8c1ca371e0",
+            "directory": "External23",
+            "voiceContent": "この程度？",
+            "sourceName": "vo_chiori_battle_hit_L_02.wem"
+        },
+        "d15db7d95ba39b0f": {
+            "hash": "d15db7d95ba39b0f",
+            "directory": "External26",
+            "voiceContent": "たまに悩むわ…夢を追い求めてても、思った以上に進展は遅いのよ。一体いつになったら、私のブランドを世界中に広められるんだろうって、考えちゃう。でも、折り合いをつけて現実と妥協するつもりもないんだから、悩んだって何の意味もないでしょ？そんな時間があるなら、服でも作った方がマシよ。",
+            "sourceName": "vo_chiori_dialog_annoyed_01.wem"
+        },
+        "7c4297135ac75e7e": {
+            "hash": "7c4297135ac75e7e",
+            "directory": "External15",
+            "voiceContent": "私は千織、「千織屋」の店主よ。衣装のオーダーメイドならいつでも言ってちょうだい。他の依頼は…君が交換条件にする価値のあるものを持ってるかどうかによるかな。だって、お互いに与え合ってこそ商売でしょ。それから、「千織屋」内での喫煙と喧嘩は禁止よ。「お客様は神様」なんて、うちじゃ通用しないから。一般人だろうが本物の神様だろうが、規則を破って外に投げ出されたときに尻もちをつく姿勢は同じよ。",
+            "sourceName": "vo_chiori_draw_appear_01.wem"
+        },
+        "c4412663fd9ea607": {
+            "hash": "c4412663fd9ea607",
+            "directory": "External24",
+            "voiceContent": "フォンテーヌ人からは「雷鳴の裁錦師」って呼ばれてるの。由来は出身地よ。別に、どう呼ばれたって構わないわ。故郷に対する未練なんてないし、「神の目」だって、稲妻を出ようと決めたその時に授かったんだもの。まあ、とはいえ、布をいくら干しても干しきれないあの場所は嫌いじゃないわ。私はただ、あそこに帰る必要性を感じないだけ。",
+            "sourceName": "vo_chiori_dialog_pendant_01.wem"
+        },
+        "8b5242327009da84": {
+            "hash": "8b5242327009da84",
+            "directory": "External17",
+            "voiceContent": "へえ、やるわね。",
+            "sourceName": "vo_card_chiori_inGame_easy_02.wem"
+        },
+        "8fe12e441d6d4ea6": {
+            "hash": "8fe12e441d6d4ea6",
+            "directory": "External17",
+            "voiceContent": "ひらめいた。",
+            "sourceName": "vo_card_chiori_inGame_easy_04.wem"
+        },
+        "ed01027d1f4c6d12": {
+            "hash": "ed01027d1f4c6d12",
+            "directory": "External29",
+            "voiceContent": "まだ終わってない、負けは認めないわよ。",
+            "sourceName": "vo_card_chiori_inGame_hard_03.wem"
+        },
+        "6ef57474dc1bf65b": {
+            "hash": "6ef57474dc1bf65b",
+            "directory": "External13",
+            "voiceContent": "油断してた…",
+            "sourceName": "vo_card_chiori_inGame_hard_02.wem"
+        },
+        "0e41c0a6cf80e1e9": {
+            "hash": "0e41c0a6cf80e1e9",
+            "directory": "External1",
+            "voiceContent": "勝利を決める一手。",
+            "sourceName": "vo_card_chiori_inGame_hard_04.wem"
+        },
+        "f191268eccb1f3e4": {
+            "hash": "f191268eccb1f3e4",
+            "directory": "External30",
+            "voiceContent": "集中しなさい。",
+            "sourceName": "vo_card_chiori_inGame_hard_01.wem"
+        },
+        "10ab7c2a2fba7a15": {
+            "hash": "10ab7c2a2fba7a15",
+            "directory": "External2",
+            "voiceContent": "…面倒なことになってきたわ。",
+            "sourceName": "vo_card_chiori_inGame_easy_03.wem"
+        },
+        "60d9101af654a97b": {
+            "hash": "60d9101af654a97b",
+            "directory": "External12",
+            "voiceContent": "もうちょっと考えてみたら？",
+            "sourceName": "vo_card_chiori_inGame_easy_01.wem"
+        }
+    }
+}

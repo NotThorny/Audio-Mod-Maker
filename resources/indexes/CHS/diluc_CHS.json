@@ -1,0 +1,860 @@
+{
+    "Teapot": {
+        "ce012daf4c31777b": {
+            "hash": "ce012daf4c31777b",
+            "directory": "External25",
+            "voiceContent": "所以对铁匠铺的投入，不必吝啬。",
+            "sourceName": "vo_mimiTomo_md_diluc_blacksmith_03.wem"
+        },
+        "699bb3c5e30eaec7": {
+            "hash": "699bb3c5e30eaec7",
+            "directory": "External13",
+            "voiceContent": "管理果园需要顾及诸多因素，不比战斗或对弈简单。",
+            "sourceName": "vo_mimiTomo_md_diluc_vineyard_01.wem"
+        },
+        "4c0dbbb78f63a132": {
+            "hash": "4c0dbbb78f63a132",
+            "directory": "External9",
+            "voiceContent": "维护刀剑，则是铸造前行的基石。",
+            "sourceName": "vo_mimiTomo_md_diluc_blacksmith_02.wem"
+        },
+        "c05c45de98620c60": {
+            "hash": "c05c45de98620c60",
+            "directory": "External24",
+            "voiceContent": "铲除杂草的时间稍晚，都有可能干扰果实的品质，进一步影响酒的口感。",
+            "sourceName": "vo_mimiTomo_md_diluc_vineyard_02.wem"
+        },
+        "6e2b9fd79073d5e1": {
+            "hash": "6e2b9fd79073d5e1",
+            "directory": "External13",
+            "voiceContent": "如有需要，我会协助你的。试着成为合格的管理者吧。",
+            "sourceName": "vo_mimiTomo_md_diluc_vineyard_03.wem"
+        },
+        "7dd399be85974815": {
+            "hash": "7dd399be85974815",
+            "directory": "External15",
+            "voiceContent": "刀剑是最朴素的力量，每一位战士都不可或缺。",
+            "sourceName": "vo_mimiTomo_md_diluc_blacksmith_01.wem"
+        },
+        "fc9075868c673ad0": {
+            "hash": "fc9075868c673ad0",
+            "directory": "External31",
+            "voiceContent": "没什么。你去吧。",
+            "sourceName": "vo_diluc_mimitomo_night_02.wem"
+        },
+        "3993eb86f68ff0a9": {
+            "hash": "3993eb86f68ff0a9",
+            "directory": "External7",
+            "voiceContent": "这款饮料需要一个名字。既然配方改动过，原先的名字就已经不适合了。",
+            "sourceName": "vo_diluc_mimitomo_friendship3_06.wem"
+        },
+        "98f53fb0eb0bc435": {
+            "hash": "98f53fb0eb0bc435",
+            "directory": "External19",
+            "voiceContent": "不。不用那么在意。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_02a_1.wem"
+        },
+        "ea39f393eb5f6f57": {
+            "hash": "ea39f393eb5f6f57",
+            "directory": "External29",
+            "voiceContent": "这应该不是你想听的聊天内容。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_07.wem"
+        },
+        "e03d8aa295c200b0": {
+            "hash": "e03d8aa295c200b0",
+            "directory": "External28",
+            "voiceContent": "不过…我明白你是在关照我。让你担心了。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_02b_3.wem"
+        },
+        "278e3f8416f5e77d": {
+            "hash": "278e3f8416f5e77d",
+            "directory": "External4",
+            "voiceContent": "只是闲聊吗…",
+            "sourceName": "vo_diluc_mimitomo_friendship2_01.wem"
+        },
+        "d1e1636f1284afb7": {
+            "hash": "d1e1636f1284afb7",
+            "directory": "External26",
+            "voiceContent": "晚安…",
+            "sourceName": "vo_diluc_mimitomo_night_01.wem"
+        },
+        "80d021753d2656ba": {
+            "hash": "80d021753d2656ba",
+            "directory": "External16",
+            "voiceContent": "抱歉，我并不是贬低这处家园。",
+            "sourceName": "vo_diluc_mimitomo_friendship1_03.wem"
+        },
+        "e3e8d1907561ec68": {
+            "hash": "e3e8d1907561ec68",
+            "directory": "External28",
+            "voiceContent": "嗯，这是按你口味调制的，我觉得用你起的名字才更妥帖。",
+            "sourceName": "vo_diluc_mimitomo_friendship3_07.wem"
+        },
+        "69a685add9414ff0": {
+            "hash": "69a685add9414ff0",
+            "directory": "External13",
+            "voiceContent": "无论是人的暗中觊觎，还是非人集团的秘密谋划。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_04.wem"
+        },
+        "c94fbd7e2a43ab46": {
+            "hash": "c94fbd7e2a43ab46",
+            "directory": "External25",
+            "voiceContent": "接下来还有一件事情要拜托你。",
+            "sourceName": "vo_diluc_mimitomo_friendship3_05.wem"
+        },
+        "1e2c7189facb2614": {
+            "hash": "1e2c7189facb2614",
+            "directory": "External3",
+            "voiceContent": "没关系，你可以慢慢想。如果忘了味道，我也可以再调制一杯给你。",
+            "sourceName": "vo_diluc_mimitomo_friendship3_10.wem"
+        },
+        "4e731f75e9c6ff2f": {
+            "hash": "4e731f75e9c6ff2f",
+            "directory": "External9",
+            "voiceContent": "那就好。我根据你的口味进行过一些调整，看来方向没有错。",
+            "sourceName": "vo_diluc_mimitomo_friendship3_04.wem"
+        },
+        "eb63dfa595e16d71": {
+            "hash": "eb63dfa595e16d71",
+            "directory": "External29",
+            "voiceContent": "威胁无孔不入，只要有机可乘。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_05.wem"
+        },
+        "bcbcd7d710e2f67d": {
+            "hash": "bcbcd7d710e2f67d",
+            "directory": "External23",
+            "voiceContent": "嗯，一切顺利。",
+            "sourceName": "vo_diluc_mimitomo_morning_01.wem"
+        },
+        "6560e49a55454731": {
+            "hash": "6560e49a55454731",
+            "directory": "External12",
+            "voiceContent": "我只是在思考，在观察，或者在计划着一些事情。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_02b_2.wem"
+        },
+        "687c919c2ebf444e": {
+            "hash": "687c919c2ebf444e",
+            "directory": "External13",
+            "voiceContent": "……",
+            "sourceName": "vo_diluc_mimitomo_friendship2_06.wem"
+        },
+        "a20fdf9eed5917b1": {
+            "hash": "a20fdf9eed5917b1",
+            "directory": "External20",
+            "voiceContent": "也没有想让你失望的意思。",
+            "sourceName": "vo_diluc_mimitomo_friendship1_04.wem"
+        },
+        "1ce3516ef3c102a4": {
+            "hash": "1ce3516ef3c102a4",
+            "directory": "External3",
+            "voiceContent": "看你的表情，你是喜欢的。",
+            "sourceName": "vo_diluc_mimitomo_friendship3_03.wem"
+        },
+        "e179c7ccd77446a2": {
+            "hash": "e179c7ccd77446a2",
+            "directory": "External28",
+            "voiceContent": "嗯，看你的状态似乎还不错。",
+            "sourceName": "vo_diluc_mimitomo_hello_02.wem"
+        },
+        "9d7ff38d3ff3f097": {
+            "hash": "9d7ff38d3ff3f097",
+            "directory": "External19",
+            "voiceContent": "希望你不会介意。",
+            "sourceName": "vo_diluc_mimitomo_friendship1_06.wem"
+        },
+        "15d7e1a783bbf0d2": {
+            "hash": "15d7e1a783bbf0d2",
+            "directory": "External2",
+            "voiceContent": "在你身上花些时间，也是应该的事情。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_02a_2.wem"
+        },
+        "1cec85a72dd5d130": {
+            "hash": "1cec85a72dd5d130",
+            "directory": "External3",
+            "voiceContent": "我想说的是…如果要适应在这边居住生活的话，对我而言需要一点时间。",
+            "sourceName": "vo_diluc_mimitomo_friendship1_05.wem"
+        },
+        "4ff6c62bf39ba96f": {
+            "hash": "4ff6c62bf39ba96f",
+            "directory": "External9",
+            "voiceContent": "嗯…",
+            "sourceName": "vo_diluc_mimitomo_friendship2_08a_1.wem"
+        },
+        "e56b78467f34e2a8": {
+            "hash": "e56b78467f34e2a8",
+            "directory": "External28",
+            "voiceContent": "我得反思一下自己了…",
+            "sourceName": "vo_diluc_mimitomo_friendship2_08a_2.wem"
+        },
+        "908b5d9fac125a5a": {
+            "hash": "908b5d9fac125a5a",
+            "directory": "External18",
+            "voiceContent": "…说得也是。",
+            "sourceName": "vo_diluc_mimitomo_friendship3_09.wem"
+        },
+        "3e240f98a3f576a3": {
+            "hash": "3e240f98a3f576a3",
+            "directory": "External7",
+            "voiceContent": "还是说…你希望直接用你的名字？",
+            "sourceName": "vo_diluc_mimitomo_friendship3_08.wem"
+        },
+        "cc322b82f30b22e5": {
+            "hash": "cc322b82f30b22e5",
+            "directory": "External25",
+            "voiceContent": "随时随地。",
+            "sourceName": "vo_diluc_mimitomo_friendship3_11.wem"
+        },
+        "df139690eb3ff50e": {
+            "hash": "df139690eb3ff50e",
+            "directory": "External27",
+            "voiceContent": "我吗…？我并没有不开心。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_02b_1.wem"
+        },
+        "d9ab536bc10a1d83": {
+            "hash": "d9ab536bc10a1d83",
+            "directory": "External27",
+            "voiceContent": "……",
+            "sourceName": "vo_diluc_mimitomo_friendship1_02.wem"
+        },
+        "6f5725864cd2d0ec": {
+            "hash": "6f5725864cd2d0ec",
+            "directory": "External13",
+            "voiceContent": "还行吧。",
+            "sourceName": "vo_diluc_mimitomo_friendship1_01.wem"
+        },
+        "68c87310a45b50a3": {
+            "hash": "68c87310a45b50a3",
+            "directory": "External13",
+            "voiceContent": "我会的。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_08b_2.wem"
+        },
+        "1bba2d5d494058d2": {
+            "hash": "1bba2d5d494058d2",
+            "directory": "External3",
+            "voiceContent": "嗯，请尝一下这个。",
+            "sourceName": "vo_diluc_mimitomo_friendship3_01.wem"
+        },
+        "9ed78b66b0902c35": {
+            "hash": "9ed78b66b0902c35",
+            "directory": "External19",
+            "voiceContent": "无酒精饮料，基底是祖上的配方。但我在调制的时候，也融入了一些自己的想法。",
+            "sourceName": "vo_diluc_mimitomo_friendship3_02.wem"
+        },
+        "62b7b9cee27d317a": {
+            "hash": "62b7b9cee27d317a",
+            "directory": "External12",
+            "voiceContent": "如果有需要我出面的场合，不用顾虑什么。叫我就行。",
+            "sourceName": "vo_diluc_mimitomo_morning_02.wem"
+        },
+        "a64fc528b93fd18c": {
+            "hash": "a64fc528b93fd18c",
+            "directory": "External20",
+            "voiceContent": "嗯…",
+            "sourceName": "vo_diluc_mimitomo_friendship2_08b_1.wem"
+        },
+        "22fe53726990c043": {
+            "hash": "22fe53726990c043",
+            "directory": "External4",
+            "voiceContent": "嗯。你还是一如既往地敏锐啊。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_03.wem"
+        },
+        "8718cf40791051d5": {
+            "hash": "8718cf40791051d5",
+            "directory": "External16",
+            "voiceContent": "你所感兴趣的闲聊话题，我也会找到的。",
+            "sourceName": "vo_diluc_mimitomo_friendship2_09.wem"
+        }
+    },
+    "Quests": {
+        "81ef76b156f73157": {
+            "hash": "81ef76b156f73157",
+            "directory": "External16",
+            "voiceContent": "不要迟疑了，赶快把问题解决吧。",
+            "sourceName": "vo_dialog_MDAQ068_diluc_02.wem"
+        },
+        "015c08cb44d911f0": {
+            "hash": "015c08cb44d911f0",
+            "directory": "External0",
+            "voiceContent": "信任从来不是没有理由的…",
+            "sourceName": "vo_dialog_MDAQ068_diluc_01.wem"
+        },
+        "e1fc44299397cf90": {
+            "hash": "e1fc44299397cf90",
+            "directory": "External28",
+            "voiceContent": "去吧。抓紧动身。",
+            "sourceName": "vo_dialog_MDAQ051_diluc_01.wem"
+        },
+        "5ab8d2f00e82800e": {
+            "hash": "5ab8d2f00e82800e",
+            "directory": "External11",
+            "voiceContent": "好，就用惩罚性的暴力，来给它上一课吧…！",
+            "sourceName": "vo_MDAQ064_2_diluc_01.wem"
+        }
+    },
+    "Gameplay": {
+        "1115f3dd929b5489": {
+            "hash": "1115f3dd929b5489",
+            "directory": "External2",
+            "voiceContent": "呵。",
+            "sourceName": "vo_diluc_battle_skill1_01.wem"
+        },
+        "a0d1c5d4c64f0f26": {
+            "hash": "a0d1c5d4c64f0f26",
+            "directory": "External20",
+            "voiceContent": "哈。",
+            "sourceName": "vo_diluc_battle_skill1_02.wem"
+        },
+        "228f27cc82ef3a0f": {
+            "hash": "228f27cc82ef3a0f",
+            "directory": "External4",
+            "voiceContent": "哈！——",
+            "sourceName": "vo_diluc_battle_skill1_03.wem"
+        },
+        "4a60506b486200cd": {
+            "hash": "4a60506b486200cd",
+            "directory": "External9",
+            "voiceContent": "呵。",
+            "sourceName": "vo_diluc_suit_aristocrat_skill1_01.wem"
+        },
+        "c4493261de8a8fca": {
+            "hash": "c4493261de8a8fca",
+            "directory": "External24",
+            "voiceContent": "哈。",
+            "sourceName": "vo_diluc_suit_aristocrat_skill1_02.wem"
+        },
+        "45d064599afcd9d3": {
+            "hash": "45d064599afcd9d3",
+            "directory": "External8",
+            "voiceContent": "哈！——",
+            "sourceName": "vo_diluc_suit_aristocrat_skill1_03.wem"
+        },
+        "86a53f5bd17b61cb": {
+            "hash": "86a53f5bd17b61cb",
+            "directory": "External16",
+            "voiceContent": "在此——宣判！",
+            "sourceName": "vo_diluc_battle_skill3_01.wem"
+        },
+        "dd2fb17486a0f954": {
+            "hash": "dd2fb17486a0f954",
+            "directory": "External27",
+            "voiceContent": "火焰——烧尽。",
+            "sourceName": "vo_diluc_battle_skill3_02.wem"
+        },
+        "87ce6b6d7bfc1925": {
+            "hash": "87ce6b6d7bfc1925",
+            "directory": "External16",
+            "voiceContent": "审判——喝啊！",
+            "sourceName": "vo_diluc_battle_skill3_03.wem"
+        },
+        "684736aadf5deb6f": {
+            "hash": "684736aadf5deb6f",
+            "directory": "External13",
+            "voiceContent": "在此——清算！",
+            "sourceName": "vo_diluc_suit_aristocrat_skill3_01.wem"
+        },
+        "fdbbe8c56af724a8": {
+            "hash": "fdbbe8c56af724a8",
+            "directory": "External31",
+            "voiceContent": "烈焰——燃毁！",
+            "sourceName": "vo_diluc_suit_aristocrat_skill3_02.wem"
+        },
+        "56ce02bbef0a05e9": {
+            "hash": "56ce02bbef0a05e9",
+            "directory": "External10",
+            "voiceContent": "破晓——将至！",
+            "sourceName": "vo_diluc_suit_aristocrat_skill3_03.wem"
+        },
+        "7753e03c0a5ca566": {
+            "hash": "7753e03c0a5ca566",
+            "directory": "External14",
+            "voiceContent": "哼，就当是聚沙成塔。",
+            "sourceName": "vo_diluc_chest_open_01.wem"
+        },
+        "e7980e44d6a8eac9": {
+            "hash": "e7980e44d6a8eac9",
+            "directory": "External28",
+            "voiceContent": "还不赖。",
+            "sourceName": "vo_diluc_chest_open_02.wem"
+        },
+        "39c8744bde96b408": {
+            "hash": "39c8744bde96b408",
+            "directory": "External7",
+            "voiceContent": "一点一滴地积累吧。",
+            "sourceName": "vo_diluc_chest_open_03.wem"
+        },
+        "ddb6d6cd24e1da62": {
+            "hash": "ddb6d6cd24e1da62",
+            "directory": "External27",
+            "voiceContent": "…当心点。",
+            "sourceName": "vo_diluc_life_less30_teammate_01.wem"
+        },
+        "3828f4d553a47085": {
+            "hash": "3828f4d553a47085",
+            "directory": "External7",
+            "voiceContent": "状态不好就去休息。",
+            "sourceName": "vo_diluc_life_less30_teammate_02.wem"
+        },
+        "c8bcb0681ceff41f": {
+            "hash": "c8bcb0681ceff41f",
+            "directory": "External25",
+            "voiceContent": "计划…出错了吗…",
+            "sourceName": "vo_diluc_life_die_01.wem"
+        },
+        "5e31a282a8899a98": {
+            "hash": "5e31a282a8899a98",
+            "directory": "External11",
+            "voiceContent": "败者…没有借口…",
+            "sourceName": "vo_diluc_life_die_02.wem"
+        },
+        "634faa71f0bfbcdd": {
+            "hash": "634faa71f0bfbcdd",
+            "directory": "External12",
+            "voiceContent": "走吧。",
+            "sourceName": "vo_diluc_teamJoin_01.wem"
+        },
+        "094b8c69c25baada": {
+            "hash": "094b8c69c25baada",
+            "directory": "External1",
+            "voiceContent": "任务的目标是…",
+            "sourceName": "vo_diluc_teamJoin_02.wem"
+        },
+        "b6e43e62ba3ec723": {
+            "hash": "b6e43e62ba3ec723",
+            "directory": "External22",
+            "voiceContent": "利落地解决吧。",
+            "sourceName": "vo_diluc_teamJoin_03.wem"
+        },
+        "5ad5c384d4cb9b3e": {
+            "hash": "5ad5c384d4cb9b3e",
+            "directory": "External11",
+            "voiceContent": "蒙德城的迪卢克，应约而来。闲聊恕不奉陪，如果你是想做一番大事，我倒有点兴致。",
+            "sourceName": "vo_diluc_draw_appear.wem"
+        },
+        "791c17ebc06c0128": {
+            "hash": "791c17ebc06c0128",
+            "directory": "External15",
+            "voiceContent": "偶尔悠闲一下，也不错。",
+            "sourceName": "vo_diluc_explore_idle_01.wem"
+        },
+        "e3a765d134d2c7ef": {
+            "hash": "e3a765d134d2c7ef",
+            "directory": "External28",
+            "voiceContent": "应该换骑士团的那些家伙来陪你。",
+            "sourceName": "vo_diluc_explore_idle_02.wem"
+        },
+        "61ea03d978329c06": {
+            "hash": "61ea03d978329c06",
+            "directory": "External12",
+            "voiceContent": "行会里还有很多事，你要么在这休息，我回去看看。",
+            "sourceName": "vo_diluc_explore_idle_03.wem"
+        },
+        "ddc2256d1bb9982e": {
+            "hash": "ddc2256d1bb9982e",
+            "directory": "External27",
+            "voiceContent": "我不用伞，你随意。",
+            "sourceName": "vo_diluc_weather_heavyRain_01.wem"
+        },
+        "0bebf3740edc6bd1": {
+            "hash": "0bebf3740edc6bd1",
+            "directory": "External1",
+            "voiceContent": "雨吗，可惜洗刷不了那些污秽的心。",
+            "sourceName": "vo_diluc_weather_heavyRain_02.wem"
+        },
+        "3dd03e992a327400": {
+            "hash": "3dd03e992a327400",
+            "directory": "External7",
+            "voiceContent": "只要坚信自己的道路，就无所谓天气是晴是雨。",
+            "sourceName": "vo_diluc_weather_sunny_01.wem"
+        },
+        "6bb856ff8349ebe8": {
+            "hash": "6bb856ff8349ebe8",
+            "directory": "External13",
+            "voiceContent": "呼啸的风声，会被用来遮掩犯罪的痕迹。",
+            "sourceName": "vo_diluc_weather_gale_01.wem"
+        },
+        "f689471e0b0b9e54": {
+            "hash": "f689471e0b0b9e54",
+            "directory": "External30",
+            "voiceContent": "寒暄就免了。昨夜一切平安就好。",
+            "sourceName": "vo_diluc_dialog_greetingMorning.wem"
+        },
+        "0ba21017d071b8b0": {
+            "hash": "0ba21017d071b8b0",
+            "directory": "External1",
+            "voiceContent": "想试试隐藏菜单吗？",
+            "sourceName": "vo_diluc_dialog_greetingNoon.wem"
+        },
+        "1b852468fbc1caee": {
+            "hash": "1b852468fbc1caee",
+            "directory": "External3",
+            "voiceContent": "夜晚到了。",
+            "sourceName": "vo_diluc_dialog_greetingNight.wem"
+        },
+        "4b2361c9af236966": {
+            "hash": "4b2361c9af236966",
+            "directory": "External9",
+            "voiceContent": "嗯，下次见。我会目送你安全离开的。",
+            "sourceName": "vo_diluc_dialog_greetingNight2.wem"
+        },
+        "c781167e24fbeef9": {
+            "hash": "c781167e24fbeef9",
+            "directory": "External24",
+            "voiceContent": "「暗夜英雄」的传说吗？有趣的传言。",
+            "sourceName": "vo_diluc_dialog_idle.wem"
+        },
+        "d816e35e9117d886": {
+            "hash": "d816e35e9117d886",
+            "directory": "External27",
+            "voiceContent": "需要什么就直说。报销问题找埃泽。",
+            "sourceName": "vo_diluc_dialog_close1.wem"
+        },
+        "485b11675d641ee9": {
+            "hash": "485b11675d641ee9",
+            "directory": "External9",
+            "voiceContent": "你已经证明了你的决心。那么，也让你见证一下我的意志吧。",
+            "sourceName": "vo_diluc_dialog_close2.wem"
+        },
+        "f4af235303ee34e5": {
+            "hash": "f4af235303ee34e5",
+            "directory": "External30",
+            "voiceContent": "对于无法看清眼前道路的人来说，「神之眼」或许是神的一盏明灯。但对于有信念的人来说，只是一个可有可无的奖章罢了。",
+            "sourceName": "vo_diluc_dialog_pendant.wem"
+        },
+        "b04fb89340061f6a": {
+            "hash": "b04fb89340061f6a",
+            "directory": "External22",
+            "voiceContent": "我偶尔会去「天使的馈赠」亲自调酒，因为酒馆是情报集中流通的地方。",
+            "sourceName": "vo_diluc_dialog_share.wem"
+        },
+        "eb0a8f3d10676d00": {
+            "hash": "eb0a8f3d10676d00",
+            "directory": "External29",
+            "voiceContent": "…是夜枭。在黑暗中守望、观察的猛禽，只在最合适的时机出手，没有任何破绽。",
+            "sourceName": "vo_diluc_pref_gift.wem"
+        },
+        "035bc90b904ba490": {
+            "hash": "035bc90b904ba490",
+            "directory": "External0",
+            "voiceContent": "凯亚吗…那个男人说的话，只能信一半。",
+            "sourceName": "vo_diluc_teammate_kaeya_01.wem"
+        },
+        "df5ad3bf7ef9ba82": {
+            "hash": "df5ad3bf7ef9ba82",
+            "directory": "External27",
+            "voiceContent": "丽莎，能成为骑士团内最值得仰赖的人之一。如果她愿意的话。",
+            "sourceName": "vo_diluc_teammate_lisa_01.wem"
+        },
+        "66c0e13eaaaa0461": {
+            "hash": "66c0e13eaaaa0461",
+            "directory": "External12",
+            "voiceContent": "无意义的琐事，是琴最大的敌人。",
+            "sourceName": "vo_diluc_teammate_qin_01.wem"
+        },
+        "d72b793e6ee2c15c": {
+            "hash": "d72b793e6ee2c15c",
+            "directory": "External26",
+            "voiceContent": "大团长法尔伽，我能理解他的立场，却无法认同他的做派。呵…是我多言了。我早已不是西风骑士，忘了我说的话吧。",
+            "sourceName": "vo_diluc_teammate_varka_01.wem"
+        },
+        "793af8f0a1d47a54": {
+            "hash": "793af8f0a1d47a54",
+            "directory": "External15",
+            "voiceContent": "我听说过她，她有自己的理念。努力挣脱家族束缚的气势也值得称道。但她…却加入了西风骑士团。",
+            "sourceName": "vo_diluc_teammate_eula_01.wem"
+        },
+        "0c85d3367c16cabe": {
+            "hash": "0c85d3367c16cabe",
+            "directory": "External1",
+            "voiceContent": "琴那无人能及的责任心，终究让她没能看清自己真正的职责啊。",
+            "sourceName": "vo_diluc_teammate_qin_02.wem"
+        },
+        "6b95553ecd136cc0": {
+            "hash": "6b95553ecd136cc0",
+            "directory": "External13",
+            "voiceContent": "蒙德的土地浸润着风神的恩泽，就不需要赞助占星术士来预测收成了吧。",
+            "sourceName": "vo_diluc_teammate_mona_01.wem"
+        },
+        "1d5efb8183909c98": {
+            "hash": "1d5efb8183909c98",
+            "directory": "External3",
+            "voiceContent": "迪奥娜对我的态度很是生硬，我也一直没找到合适的机会交流。如果是涉及到家族恩怨的话…嗯？不是？只是单纯地讨厌酒？没想到在这蒙德，也会有讨厌酒的酒保啊。",
+            "sourceName": "vo_diluc_teammate_diona_01.wem"
+        },
+        "b6028ef76a93f944": {
+            "hash": "b6028ef76a93f944",
+            "directory": "External22",
+            "voiceContent": "有何贵干？",
+            "sourceName": "vo_diluc_friendship_01.wem"
+        },
+        "8b8a5cdff0e07a3b": {
+            "hash": "8b8a5cdff0e07a3b",
+            "directory": "External17",
+            "voiceContent": "嗯，你问骑士团？哼…没什么可多谈的，道路不同罢了。",
+            "sourceName": "vo_diluc_friendship_02.wem"
+        },
+        "0630eae8312f7bf2": {
+            "hash": "0630eae8312f7bf2",
+            "directory": "External0",
+            "voiceContent": "很久不和管家之外的人对弈了。难得有这份闲暇，跟我下局棋吧。",
+            "sourceName": "vo_diluc_friendship_03.wem"
+        },
+        "2770a911e1623cc9": {
+            "hash": "2770a911e1623cc9",
+            "directory": "External4",
+            "voiceContent": "将军。哼，但能把我逼到这个地步，还真是不简单啊。",
+            "sourceName": "vo_diluc_friendship_04.wem"
+        },
+        "79a10f18e9500608": {
+            "hash": "79a10f18e9500608",
+            "directory": "External15",
+            "voiceContent": "你还不赖。无论是对弈还是战斗，都不乏让人眼前一亮的表现。不…这样的合作，对我来说也算新奇…那么，今后也同行吧，「吾友」。",
+            "sourceName": "vo_diluc_friendship_05.wem"
+        },
+        "ca19153e6e656558": {
+            "hash": "ca19153e6e656558",
+            "directory": "External25",
+            "voiceContent": "庄园里的那些艺术品？那不是我的。是先父有收集的爱好。",
+            "sourceName": "vo_diluc_pref_hobby.wem"
+        },
+        "446fcc27232d7c9d": {
+            "hash": "446fcc27232d7c9d",
+            "directory": "External8",
+            "voiceContent": "真正应当消灭的敌人，孕育罪恶的「黑暗」本身，需要用刀剑以外的方法去斩断…",
+            "sourceName": "vo_diluc_dialog_annoyed.wem"
+        },
+        "d8d0c40e29325543": {
+            "hash": "d8d0c40e29325543",
+            "directory": "External27",
+            "voiceContent": "你问我杯子里的是什么酒？葡萄汁而已，我一般喝这个。",
+            "sourceName": "vo_diluc_pref_foodLike.wem"
+        },
+        "8fdb7395c3b5778d": {
+            "hash": "8fdb7395c3b5778d",
+            "directory": "External17",
+            "voiceContent": "我不喜欢酒。没什么…我不喜欢酒的口感。",
+            "sourceName": "vo_diluc_pref_foodDislike.wem"
+        },
+        "ba889b379b33907c": {
+            "hash": "ba889b379b33907c",
+            "directory": "External23",
+            "voiceContent": "很精致。风味令人难忘。",
+            "sourceName": "vo_diluc_spice_pref_01.wem"
+        },
+        "176eb218cc2e9676": {
+            "hash": "176eb218cc2e9676",
+            "directory": "External2",
+            "voiceContent": "能品尝出厨师的专注。不错的菜肴。",
+            "sourceName": "vo_diluc_spice_normal_01.wem"
+        },
+        "2bc536bb61617432": {
+            "hash": "2bc536bb61617432",
+            "directory": "External5",
+            "voiceContent": "…谢谢。",
+            "sourceName": "vo_diluc_spice_dislike_01.wem"
+        },
+        "4461c153a694c9e9": {
+            "hash": "4461c153a694c9e9",
+            "directory": "External8",
+            "voiceContent": "生日快乐，这是属于你的重要日子。说吧，你的心愿。如果在我能力范围之内，我会考虑的。",
+            "sourceName": "vo_diluc_pref_birthday.wem"
+        },
+        "d3d5e37326068427": {
+            "hash": "d3d5e37326068427",
+            "directory": "External26",
+            "voiceContent": "为了达成目标，力量是必须的。",
+            "sourceName": "vo_diluc_starUp_01.wem"
+        },
+        "2730758bd876b8c0": {
+            "hash": "2730758bd876b8c0",
+            "directory": "External4",
+            "voiceContent": "前方会有什么？我很少会思考这种问题。我必须前进，不论有谁阻挡在我面前。",
+            "sourceName": "vo_diluc_starUp_02.wem"
+        },
+        "80424f825c892cc1": {
+            "hash": "80424f825c892cc1",
+            "directory": "External16",
+            "voiceContent": "力量增强了…虽然还不够，但终归是在向前方探索。在「黎明」到来之前，必须有人稍微照亮「黑暗」…",
+            "sourceName": "vo_diluc_starUp_03.wem"
+        },
+        "5f02d158ac56d80a": {
+            "hash": "5f02d158ac56d80a",
+            "directory": "External11",
+            "voiceContent": "我原以为——要扫荡罪恶的话，我必须独自行走在长夜之中。但你的坚持让我意识到，我又一次错了。「同伴」，我向你致以感谢。",
+            "sourceName": "vo_diluc_starUp_04.wem"
+        },
+        "2a5fab7de7d7a97b": {
+            "hash": "2a5fab7de7d7a97b",
+            "directory": "External5",
+            "voiceContent": "这点程度…",
+            "sourceName": "vo_diluc_life_less30_01.wem"
+        },
+        "54d8dd95618cda84": {
+            "hash": "54d8dd95618cda84",
+            "directory": "External10",
+            "voiceContent": "可恶…",
+            "sourceName": "vo_diluc_life_less30_02.wem"
+        },
+        "da32178d213d7a15": {
+            "hash": "da32178d213d7a15",
+            "directory": "External27",
+            "voiceContent": "你会付出代价。",
+            "sourceName": "vo_diluc_life_less30_03.wem"
+        },
+        "dfeefc7a6529b819": {
+            "hash": "dfeefc7a6529b819",
+            "directory": "External27",
+            "voiceContent": "要熄灭了吗…",
+            "sourceName": "vo_diluc_life_die_03.wem"
+        },
+        "398ee82092867efb": {
+            "hash": "398ee82092867efb",
+            "directory": "External7",
+            "voiceContent": "可恶。",
+            "sourceName": "vo_diluc_battle_hit_H_01.wem"
+        },
+        "823ed1c46aa83515": {
+            "hash": "823ed1c46aa83515",
+            "directory": "External16",
+            "voiceContent": "提前做好准备，先于对方进攻吧。",
+            "sourceName": "vo_diluc_suit_aristocrat_idle_01.wem"
+        },
+        "5078f3bd74748e32": {
+            "hash": "5078f3bd74748e32",
+            "directory": "External10",
+            "voiceContent": "休息时，也可以思考接下来的计划。",
+            "sourceName": "vo_diluc_suit_aristocrat_idle_02.wem"
+        },
+        "d26c65b53142647b": {
+            "hash": "d26c65b53142647b",
+            "directory": "External26",
+            "voiceContent": "任何行动难免都有风险，你要多加小心。",
+            "sourceName": "vo_diluc_suit_aristocrat_idle_03.wem"
+        },
+        "a76af832b942a776": {
+            "hash": "a76af832b942a776",
+            "directory": "External20",
+            "voiceContent": "能品尝出厨师的专注。不错的菜肴。",
+            "sourceName": "vo_diluc_spice_event_normal_01.wem"
+        },
+        "22174bd16922397c": {
+            "hash": "22174bd16922397c",
+            "directory": "External4",
+            "voiceContent": "很精致。风味令人难忘。",
+            "sourceName": "vo_diluc_spice_event_pref_01.wem"
+        },
+        "e98154c93a7a5732": {
+            "hash": "e98154c93a7a5732",
+            "directory": "External29",
+            "voiceContent": "…谢谢。",
+            "sourceName": "vo_diluc_spice_event_dislike_01.wem"
+        },
+        "898f889f9761aa18": {
+            "hash": "898f889f9761aa18",
+            "directory": "External17",
+            "voiceContent": "能获胜…终究是好事。",
+            "sourceName": "vo_card_diluc_endOfGame_win_01.wem"
+        },
+        "fdce11de39987221": {
+            "hash": "fdce11de39987221",
+            "directory": "External31",
+            "voiceContent": "赢得很漂亮。",
+            "sourceName": "vo_card_diluc_invite_easy_03.wem"
+        },
+        "f80e3b32caa27c63": {
+            "hash": "f80e3b32caa27c63",
+            "directory": "External31",
+            "voiceContent": "埃泽建议我过来试玩「七圣召唤」，好吧…用来放松倒也不错。",
+            "sourceName": "vo_card_diluc_freetalk_01.wem"
+        },
+        "29eb2b625cf4dd60": {
+            "hash": "29eb2b625cf4dd60",
+            "directory": "External5",
+            "voiceContent": "路上小心。回见。",
+            "sourceName": "vo_card_diluc_leave_01.wem"
+        },
+        "60036db9a0d3c40e": {
+            "hash": "60036db9a0d3c40e",
+            "directory": "External12",
+            "voiceContent": "呵…我输得心服口服。",
+            "sourceName": "vo_card_diluc_invite_hard_03.wem"
+        },
+        "fca525cc8f182707": {
+            "hash": "fca525cc8f182707",
+            "directory": "External31",
+            "voiceContent": "也好，那我们来一局。",
+            "sourceName": "vo_card_diluc_invite_easy_01.wem"
+        },
+        "e1c0cfb15d73ef17": {
+            "hash": "e1c0cfb15d73ef17",
+            "directory": "External28",
+            "voiceContent": "这场胜利，我拿下了。",
+            "sourceName": "vo_card_diluc_invite_hard_02.wem"
+        },
+        "5365b7e5446b84a0": {
+            "hash": "5365b7e5446b84a0",
+            "directory": "External10",
+            "voiceContent": "胜负已分。",
+            "sourceName": "vo_card_diluc_invite_easy_02.wem"
+        },
+        "612d61cb4b55cfb0": {
+            "hash": "612d61cb4b55cfb0",
+            "directory": "External12",
+            "voiceContent": "这场对局，希望你全力以赴。",
+            "sourceName": "vo_card_diluc_invite_hard_01.wem"
+        },
+        "8aa0a300c315f884": {
+            "hash": "8aa0a300c315f884",
+            "directory": "External17",
+            "voiceContent": "亮眼的表现…",
+            "sourceName": "vo_card_diluc_endOfGame_fail_01.wem"
+        },
+        "c4cba079a36a7dd3": {
+            "hash": "c4cba079a36a7dd3",
+            "directory": "External24",
+            "voiceContent": "一些代价。",
+            "sourceName": "vo_card_diluc_inGame_hard_02.wem"
+        },
+        "43446e81e6f833ca": {
+            "hash": "43446e81e6f833ca",
+            "directory": "External8",
+            "voiceContent": "可别高兴得太早。",
+            "sourceName": "vo_card_diluc_inGame_hard_03.wem"
+        },
+        "5a7772942f33303c": {
+            "hash": "5a7772942f33303c",
+            "directory": "External11",
+            "voiceContent": "呵，不要太大意了。",
+            "sourceName": "vo_card_diluc_inGame_hard_01.wem"
+        },
+        "bb68f4c4d3d5bfde": {
+            "hash": "bb68f4c4d3d5bfde",
+            "directory": "External23",
+            "voiceContent": "该…认真点了。",
+            "sourceName": "vo_card_diluc_inGame_easy_04.wem"
+        },
+        "0efd88b59d54ca3c": {
+            "hash": "0efd88b59d54ca3c",
+            "directory": "External1",
+            "voiceContent": "还不赖。",
+            "sourceName": "vo_card_diluc_inGame_easy_02.wem"
+        },
+        "7951b69b118c17d3": {
+            "hash": "7951b69b118c17d3",
+            "directory": "External15",
+            "voiceContent": "你轻敌了。",
+            "sourceName": "vo_card_diluc_inGame_easy_01.wem"
+        },
+        "7de1a2acbef13ecd": {
+            "hash": "7de1a2acbef13ecd",
+            "directory": "External15",
+            "voiceContent": "…有点意思。",
+            "sourceName": "vo_card_diluc_inGame_easy_03.wem"
+        },
+        "6484ecab972c3a81": {
+            "hash": "6484ecab972c3a81",
+            "directory": "External12",
+            "voiceContent": "让它结束吧！",
+            "sourceName": "vo_card_diluc_inGame_hard_04.wem"
+        }
+    }
+}

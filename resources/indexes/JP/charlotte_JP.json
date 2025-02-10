@@ -1,0 +1,511 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "68b5be102495cbd7": {
+            "hash": "68b5be102495cbd7",
+            "directory": "External13",
+            "voiceContent": "私もずっと追いかけてきた懸案が、君たちのお陰で解決するとは思わなかったわ。これも縁ってやつかしら。",
+            "sourceName": "vo_FDAQ308_11_charlotte_02.wem"
+        },
+        "f50e79df6c45c849": {
+            "hash": "f50e79df6c45c849",
+            "directory": "External30",
+            "voiceContent": "魔女とか、そういう存在の言葉って…きっと何かが起きた時に初めて、その本当の意味が分かるんでしょうね。",
+            "sourceName": "vo_FDAQ308_11_charlotte_08.wem"
+        },
+        "a17a1deea2c71cc3": {
+            "hash": "a17a1deea2c71cc3",
+            "directory": "External20",
+            "voiceContent": "ヌヴィレット様のお話では、あの時は「公子」も鯨も、まだ原始胎海にいたそうよ。",
+            "sourceName": "vo_FDAQ308_11_charlotte_06.wem"
+        },
+        "a60a0a00502c43fd": {
+            "hash": "a60a0a00502c43fd",
+            "directory": "External20",
+            "voiceContent": "ファトゥス…彼女は本当に非凡な人物だと思うわ。あの方の判断なら、価値があるかもね。",
+            "sourceName": "vo_FDAQ308_11_charlotte_04.wem"
+        },
+        "3725f0092e8fcf2c": {
+            "hash": "3725f0092e8fcf2c",
+            "directory": "External6",
+            "voiceContent": "メロピデ要塞が危うく破壊されるところだったって言うのに、リアルタイムでその様子を記録できなかったことは、私の記者人生で一番の心残りになるかも。",
+            "sourceName": "vo_FDAQ308_11_charlotte_05.wem"
+        },
+        "e6f85c1867f5a0ce": {
+            "hash": "e6f85c1867f5a0ce",
+            "directory": "External28",
+            "voiceContent": "ヌヴィレット様のご意見と諭示機の結論が食い違ったのは初めてよ。この件については、水神でさえわけが分からないみたいね。",
+            "sourceName": "vo_FDAQ308_11_charlotte_03.wem"
+        },
+        "e822502a1277ac70": {
+            "hash": "e822502a1277ac70",
+            "directory": "External29",
+            "voiceContent": "君たちは歌劇場で初めて対決に参加して、法廷で水神に勝った。こんなに喜ばしいことは、ちゃんと記念しなくちゃね。",
+            "sourceName": "vo_FDAQ308_11_charlotte_01.wem"
+        },
+        "4c04ebf821c67efa": {
+            "hash": "4c04ebf821c67efa",
+            "directory": "External9",
+            "voiceContent": "ナヴィア——私は大切な友達を失うところだったのね。今考えただけでも、本当にぞっとする。",
+            "sourceName": "vo_FDAQ308_11_charlotte_07.wem"
+        }
+    },
+    "Gameplay": {
+        "8b3b95f647154e55": {
+            "hash": "8b3b95f647154e55",
+            "directory": "External17",
+            "voiceContent": "目線お願いしまーす！",
+            "sourceName": "vo_charlotte_battle_skill1_01.wem"
+        },
+        "5975b7ef50e1a772": {
+            "hash": "5975b7ef50e1a772",
+            "directory": "External11",
+            "voiceContent": "はい、チーズ。",
+            "sourceName": "vo_charlotte_battle_skill1_02.wem"
+        },
+        "decf29e71092a5bb": {
+            "hash": "decf29e71092a5bb",
+            "directory": "External27",
+            "voiceContent": "ポーズお願いします！",
+            "sourceName": "vo_charlotte_battle_skill1_03.wem"
+        },
+        "e14b79f42f9a1fb7": {
+            "hash": "e14b79f42f9a1fb7",
+            "directory": "External28",
+            "voiceContent": "真実至上！",
+            "sourceName": "vo_charlotte_battle_skill3_01.wem"
+        },
+        "0bfa8c0ba97caad0": {
+            "hash": "0bfa8c0ba97caad0",
+            "directory": "External1",
+            "voiceContent": "特ダネよ！",
+            "sourceName": "vo_charlotte_battle_skill3_02.wem"
+        },
+        "8db7e603661cc851": {
+            "hash": "8db7e603661cc851",
+            "directory": "External17",
+            "voiceContent": "シャルロットが、報道します！",
+            "sourceName": "vo_charlotte_battle_skill3_03.wem"
+        },
+        "a16842bc8fbb7412": {
+            "hash": "a16842bc8fbb7412",
+            "directory": "External20",
+            "voiceContent": "ほう！悪くないわね。",
+            "sourceName": "vo_charlotte_chest_open_01.wem"
+        },
+        "27eba0c5f9ee7175": {
+            "hash": "27eba0c5f9ee7175",
+            "directory": "External4",
+            "voiceContent": "ここに箱を置いた人を取材してみたいわ。",
+            "sourceName": "vo_charlotte_chest_open_02.wem"
+        },
+        "a5f866ce3d20fae4": {
+            "hash": "a5f866ce3d20fae4",
+            "directory": "External20",
+            "voiceContent": "これは落とし物リストに載ってないものよね？",
+            "sourceName": "vo_charlotte_chest_open_03.wem"
+        },
+        "bd4df36f86456556": {
+            "hash": "bd4df36f86456556",
+            "directory": "External23",
+            "voiceContent": "気を付けて！",
+            "sourceName": "vo_charlotte_life_less30_teammate_01.wem"
+        },
+        "2d9221785291aab9": {
+            "hash": "2d9221785291aab9",
+            "directory": "External5",
+            "voiceContent": "ちょっと！訃報なんて書きたくないわよ！",
+            "sourceName": "vo_charlotte_life_less30_teammate_02.wem"
+        },
+        "a03171dac0e24beb": {
+            "hash": "a03171dac0e24beb",
+            "directory": "External20",
+            "voiceContent": "スクープを…持ち帰らないと…",
+            "sourceName": "vo_charlotte_life_die_01.wem"
+        },
+        "f354e3f373230774": {
+            "hash": "f354e3f373230774",
+            "directory": "External30",
+            "voiceContent": "少なくとも…記録はできた…",
+            "sourceName": "vo_charlotte_life_die_02.wem"
+        },
+        "5311abbd3e89917c": {
+            "hash": "5311abbd3e89917c",
+            "directory": "External10",
+            "voiceContent": "取材開始！",
+            "sourceName": "vo_charlotte_teamJoin_01.wem"
+        },
+        "bd65d9a2b2c0de13": {
+            "hash": "bd65d9a2b2c0de13",
+            "directory": "External23",
+            "voiceContent": "記事のネタとかある？",
+            "sourceName": "vo_charlotte_teamJoin_02.wem"
+        },
+        "3879a7aaf36d1e0a": {
+            "hash": "3879a7aaf36d1e0a",
+            "directory": "External7",
+            "voiceContent": "近づけば近づくほど、報道の真実味が増す。",
+            "sourceName": "vo_charlotte_teamJoin_03.wem"
+        },
+        "bb7262dba150a1ac": {
+            "hash": "bb7262dba150a1ac",
+            "directory": "External23",
+            "voiceContent": "鋭い観察眼、冴え渡る頭脳さえ持ってれば、毎日特ダネを発見できる！",
+            "sourceName": "vo_charlotte_character_idle_01.wem"
+        },
+        "25c690c11587ef43": {
+            "hash": "25c690c11587ef43",
+            "directory": "External4",
+            "voiceContent": "フォンテーヌ廷には記者がたくさんいるけど、全員が全員、プロの資質を持ち合わせてるわけじゃないの。取材を受ける気になったら…やっぱり私のところに来てね。",
+            "sourceName": "vo_charlotte_character_idle_02.wem"
+        },
+        "d0515eca9487517a": {
+            "hash": "d0515eca9487517a",
+            "directory": "External26",
+            "voiceContent": "『スチームバード新聞』は優秀な新聞社で、先進的な考え方を持つ編集長と有能な記者がたくさんいるの。最も優秀なところは、原稿料の支払いがとても速いこと。",
+            "sourceName": "vo_charlotte_character_idle_03.wem"
+        },
+        "bcd0ded70709e0fe": {
+            "hash": "bcd0ded70709e0fe",
+            "directory": "External23",
+            "voiceContent": "写真機のレンズが水に濡れたらいけない！",
+            "sourceName": "vo_charlotte_weather_heavyRain_01.wem"
+        },
+        "5c82eeb558da16f5": {
+            "hash": "5c82eeb558da16f5",
+            "directory": "External11",
+            "voiceContent": "あっ！残念…また雷を撮りそびれた…",
+            "sourceName": "vo_charlotte_weather_thunder_01.wem"
+        },
+        "5614787056510a01": {
+            "hash": "5614787056510a01",
+            "directory": "External10",
+            "voiceContent": "本当に寒いわね。指がシャッターを切れないくらい。",
+            "sourceName": "vo_charlotte_weather_snowy_01.wem"
+        },
+        "4b37bf5e6b550750": {
+            "hash": "4b37bf5e6b550750",
+            "directory": "External9",
+            "voiceContent": "なかなかいい光加減！さあ、ポーズをとって。写真を撮ってあげる！",
+            "sourceName": "vo_charlotte_weather_sunny_01.wem"
+        },
+        "b19e1469a565c8a4": {
+            "hash": "b19e1469a565c8a4",
+            "directory": "External22",
+            "voiceContent": "おはよう。今日の新聞はもう読んだ？まだ？じゃあ聞かせてあげるね…",
+            "sourceName": "vo_charlotte_dialog_greetingMorning.wem"
+        },
+        "81c15b34c955ba00": {
+            "hash": "81c15b34c955ba00",
+            "directory": "External16",
+            "voiceContent": "もうお昼ご飯の時間だね。いいレストランを知ってるの。ついてきて。",
+            "sourceName": "vo_charlotte_dialog_greetingNoon.wem"
+        },
+        "cf0297c707466d3e": {
+            "hash": "cf0297c707466d3e",
+            "directory": "External25",
+            "voiceContent": "夜はおしゃべりに最適な時間ね。何か話したいこととかある？記事に載せるかどうかは事前に相談するから、安心して。約束はちゃんと守るわ。",
+            "sourceName": "vo_charlotte_dialog_greetingNight.wem"
+        },
+        "651b59896a294bb6": {
+            "hash": "651b59896a294bb6",
+            "directory": "External12",
+            "voiceContent": "おやすみ。早く休んでね。これから新聞社に原稿を確認しに行くから、また明日。",
+            "sourceName": "vo_charlotte_dialog_greetingNight2.wem"
+        },
+        "cf235997b93c3089": {
+            "hash": "cf235997b93c3089",
+            "directory": "External25",
+            "voiceContent": "記者はあんまり好かれてる職業じゃないの。何せ、「嘘は優しいけど、真実は残酷だ」って言うくらいだからね。",
+            "sourceName": "vo_charlotte_dialog_idle.wem"
+        },
+        "847ad0efdd32b63b": {
+            "hash": "847ad0efdd32b63b",
+            "directory": "External16",
+            "voiceContent": "面白いものを撮るときにしか、いい写真は撮れない。つまらないものを撮るときは…シャッターボタンを押しただけで、辛抱強いって褒められたいくらいよ。",
+            "sourceName": "vo_charlotte_dialog_idle2.wem"
+        },
+        "3337b10227280e56": {
+            "hash": "3337b10227280e56",
+            "directory": "External6",
+            "voiceContent": "グッドニュース！次の『スチームバード新聞』の一面を飾る人物は君たちにするよう、ユーフラシアさんを説得してきたわ。そして、この私が直々に書いた特集記事も添えてね…え…？必要ないって？ユーフラシアさんにたくさんお願いしたのに！ちょっとだけ考え直してくれない？も…もう一回ご馳走してあげるから！",
+            "sourceName": "vo_charlotte_dialog_close1.wem"
+        },
+        "f15514188a41f2d7": {
+            "hash": "f15514188a41f2d7",
+            "directory": "External30",
+            "voiceContent": "さあ、取材を受け、輝く大スターになる準備はできてるかしら？ほら、まずは決めポーズをとって！パイモンも、びしっと飛んでちょうだい！",
+            "sourceName": "vo_charlotte_dialog_close.wem"
+        },
+        "7a0e5be648e0a41b": {
+            "hash": "7a0e5be648e0a41b",
+            "directory": "External15",
+            "voiceContent": "そうね…実は「風元素」の神の目が欲しかったの。そうしたら、風の力であちこち飛べて、色んな場所に行って取材できるわけでしょ。でも、この「氷元素」の神の目も悪くないわ。少なくとも写真機が熱暴走する心配がなくなったからね。",
+            "sourceName": "vo_charlotte_dialog_pendant_01.wem"
+        },
+        "00b4ea56550dd076": {
+            "hash": "00b4ea56550dd076",
+            "directory": "External0",
+            "voiceContent": "真実至上主義、優れた物語。これが私のポリシーよ。え？どっちが重要かって？もちろん「真実性」だわ。「物語性」はあくまでも読者に理解してもらうための補助手段に過ぎないの。でも私の観察によると…読者には「真実」よりも、「物語」のほうが受けがいいみたい。",
+            "sourceName": "vo_charlotte_dialog_share_01.wem"
+        },
+        "285c91e663bf6714": {
+            "hash": "285c91e663bf6714",
+            "directory": "External5",
+            "voiceContent": "紹介するわ。一番の仲間兼助手、唯一無二の写真機「ヴェリテくん」よ。この子の帽子とネクタイは、千織さんにわざわざオーダーメイドしてもらったの。素敵でしょ？それに色んなシーンの取材に合わせて、違うスタイルのアクセサリーも何セットか仕立ててもらったのよ。",
+            "sourceName": "vo_charlotte_pref_gift_01.wem"
+        },
+        "b463f8931635e5fa": {
+            "hash": "b463f8931635e5fa",
+            "directory": "External22",
+            "voiceContent": "ナヴィアのお父さんの冤罪が晴れて、「連続少女失踪事件」も無事解決したから、あの子はようやくほっとしたでしょう。それでも、なぜかナヴィアは最近、色んな悪いニュースの主役になってるの。でも私が新聞社にある、あの子に関する報道をすべて引き受けて、原稿の内容をコントロールしてるから大丈夫だけど…ただ…この件で私はユーフラシアさんに何度も叱られたの。でもナヴィアを助けるために、そして約束してたあの独占取材で根掘り葉掘り聞くためにも…叱られる甲斐はあると思うわ！",
+            "sourceName": "vo_charlotte_teammate_navia_01.wem"
+        },
+        "56d2955497ba5190": {
+            "hash": "56d2955497ba5190",
+            "directory": "External10",
+            "voiceContent": "はぁ…またもリネさんに断られちゃった。これで何回目かしら…でも大丈夫！断られれば断られるほど、確信が強くなるんだ。彼にはきっと、とんでもない価値の謎が隠されてて、それが絶対前代未聞のビッグニュースだって思うの。必ず掘り出して見せるわ！",
+            "sourceName": "vo_charlotte_teammate_lyney_01.wem"
+        },
+        "2764d0cf3df6356c": {
+            "hash": "2764d0cf3df6356c",
+            "directory": "External4",
+            "voiceContent": "何を聞かれても、リネットさんはただ静かに目を伏せるだけ。何の表情もないのよ。まるで…クロックワーク人形みたいに。こんな記事を書いてみたいわ。『マジックの秘密——天才魔術師の「マリオネットアシスタント」』！…彼女はこの記事を読んでも何の反応もしないんだろうけど。",
+            "sourceName": "vo_charlotte_teammate_lynette_01.wem"
+        },
+        "223e3a19e494b07b": {
+            "hash": "223e3a19e494b07b",
+            "directory": "External4",
+            "voiceContent": "「千織屋」を細かく観察したことがあるわ。店内にはフォンテーヌの貴婦人や、評判を聞いて駆けつけてきた外国人観光客以外に、見るからにやばそうな人もしょっちゅう来てるの！顔に傷跡があってムキムキな人もいれば、覆面で懐に刀を携えてる人もいる…でも、彼らは手にお土産らしきものを持っていて、礼儀正しく丁寧なの。えっと…態度の悪い人は、ぶっ飛ばされて出ていくからね。私はその瞬間を撮ったことがあるわよ！",
+            "sourceName": "vo_charlotte_teammate_chiori_01.wem"
+        },
+        "cfa6ed88f1a09001": {
+            "hash": "cfa6ed88f1a09001",
+            "directory": "External25",
+            "voiceContent": "あれから、フレミネと何回か会ったわ。私の写真機助手の「ヴェリテくん」に興味津々で、レンズの改良をしてくれたの。実を言うと…「ヴェリテくん」をテキパキとバラバラに解体したのを見たとき、私はめちゃくちゃハラハラしてたのよ…でも予想外なことに、組み立て直したときも同じくテキパキしてて、とても慣れてるみたいだったわ。フォンテーヌ科学院出身じゃないかって疑ったんだけど、フレミネはそれを否定したの。",
+            "sourceName": "vo_charlotte_teammate_freminet_01.wem"
+        },
+        "83a0161f5f2de08e": {
+            "hash": "83a0161f5f2de08e",
+            "directory": "External16",
+            "voiceContent": "「最高審判官」にインタビューするなら、事前にすべての質問を書き出して、それをパレ·メルモニアの関連部署に審査してもらわなければならないの。審査に通った質問だけ、インタビューに採用される…インタビュー中のトラブルを避けるためにね。この流れは実に複雑すぎるわ。考えただけで疲れちゃうもの。",
+            "sourceName": "vo_charlotte_teammate_neuvillette_01.wem"
+        },
+        "471b0aaf881099f3": {
+            "hash": "471b0aaf881099f3",
+            "directory": "External8",
+            "voiceContent": "クロリンデさんはフォンテーヌ廷で最も有名で、最も謎めいた「決闘代理人」なの。個人的な情報筋から聞いた話だけど、彼女は独特な儀式で愛用の武器を手入れするらしいわ。もしかして、それが決闘で勝ち続けるカギとなってるのかしら？でも彼女は取材を受けたくないって公言してたから…そのことを直接彼女から聞くことはできないわね。",
+            "sourceName": "vo_charlotte_teammate_clorinde_01.wem"
+        },
+        "18d59fac1c969264": {
+            "hash": "18d59fac1c969264",
+            "directory": "External3",
+            "voiceContent": "最近はあの「公爵」に会ってたりしない？彼に関する情報を探ってくれた？特別許可券、特別許可食堂…「働かざる者食うべからず」…こんなありふれた情報は別にいいわよ。「公爵」のプライベートに関する話はないかしら？え、何？秘密だって？なんで君まで口が堅いのよ！私のご馳走を返して！この嘘つき！君なんかそのまま服役してなさいよ！",
+            "sourceName": "vo_charlotte_teammate_wriothesley_01.wem"
+        },
+        "18feb721c1142938": {
+            "hash": "18feb721c1142938",
+            "directory": "External3",
+            "voiceContent": "エミリエさんが作った香水はフォンテーヌ廷で一番素敵よ！この間は虫よけ、制汗、ニオイ対策までできる香水を薦めてくれたの。私みたいに外回りが多い人にはぴったりだわ。今日は手首にちょっとだけつけてみたの…ほら、嗅いでみて。とてもいい匂いよ。",
+            "sourceName": "vo_charlotte_teammate_emilie_01.wem"
+        },
+        "4e3f2bb5799832f4": {
+            "hash": "4e3f2bb5799832f4",
+            "directory": "External9",
+            "voiceContent": "「真実」を追い求めることに、リスクが付き物なのはよく分かってるわ。でも一つの「真実」に、一つの「独占記事」があるわけだから、絶対に見逃しはしない…コホンッ！つまり、記者の責務を果たす絶好のチャンスを見逃さないってこと。必ず、最も真実味のある、最も有力で、最も面白い独占記事をみんなにお届けするわ！",
+            "sourceName": "vo_charlotte_friendship_01.wem"
+        },
+        "fb1bb99cc757776b": {
+            "hash": "fb1bb99cc757776b",
+            "directory": "External31",
+            "voiceContent": "記者を始めたばかりの頃は、記事の書き方について何も知らなかったから、他の記事を読んで勉強するしかなかったの。『スチームバード新聞』以外に、少部数で発行される個人の刊行物も参考にしたわ。例えばフォンテーヌ廷の有名人のゴシップを報道する『ウォッチャー』、エンタメのイベントや大会を取り上げている『週刊エンターテイナー』、グルメを紹介する『メインシェフ』、でたらめとデマばっかりの『アメイジング！』とか。これらの記事を読んでとてもインスパイアされたの。勉強になったことは…うーん、色んなスタイルの書き方を覚えたわね。",
+            "sourceName": "vo_charlotte_friendship_02.wem"
+        },
+        "4d1647a3cf17f522": {
+            "hash": "4d1647a3cf17f522",
+            "directory": "External9",
+            "voiceContent": "真相を探るため、私は無職に扮して、評判の悪い食品工場の生産現場に潜り込み、六ヶ月間の雑用係をしたことがあるわ。十分な情報を集めた後、私は彼らのやったことを記事にして新聞に載せたの。報道の反響が大きくて、食品工場は罰を受けたけど、その報復がきたわ。毎晩家に帰ると、枕元に脅迫状が置かれてたり、新聞社の入口に泥を塗られたりとか…新聞社はすぐに通報し、私は「七聖召喚」の報道のために、モンドに派遣されていて、しばらく経ってからやっとフォンテーヌに戻ったの。こんなことが何度もあったけど、ユーフラシアさんは一体どうやって解決したのかしら…",
+            "sourceName": "vo_charlotte_friendship_03.wem"
+        },
+        "6e5605cd7f4ab639": {
+            "hash": "6e5605cd7f4ab639",
+            "directory": "External13",
+            "voiceContent": "記者の道に入る前の幼い頃、私は好奇心旺盛で、世の中すべての事象の裏にはきっと謎があると思ってた。私にとって世界は広大で、人が知らない物語がお宝のようにたくさん埋まってるの。裏に謎がありそうな出来事に遭遇するたびに、私は写真を撮って、アルバムに収めるようにしてきたわ。これらの写真はすべて、私だけの「宝の地図」で…そして私は、あらゆる方法を使って、写真に隠されてる「真実」を解読しようとしてるの。",
+            "sourceName": "vo_charlotte_friendship_04.wem"
+        },
+        "e932abd5bfc76fb8": {
+            "hash": "e932abd5bfc76fb8",
+            "directory": "External29",
+            "voiceContent": "その「真実」にはどんな価値があるのか、何を意味してるのか、あるいはどんな事件と関係してるのかなんて、私は気にしない…ただそれを暴いてみたいだけ。冒険者の話で例えると、私は…宝探しの過程を楽しむ人なのかしら。最後にどんなお宝が見つかるかなんて、それほど執着しないの。検証する中、私は色んな人と知り合った。フォンテーヌの友達、私のことを生まれながらの記者だと思ってくれるユーフラシアさん、そして一緒に「真実」を探して見届けてくれた君。みんなの助けがなければ、私はおそらく、あちこちで写真を撮ることしか知らない小娘のままだったでしょう。とにかく…君の「特別インタビュー」を受けることができて、とても嬉しいわ。",
+            "sourceName": "vo_charlotte_friendship_05.wem"
+        },
+        "de2ef4e60f7b1e68": {
+            "hash": "de2ef4e60f7b1e68",
+            "directory": "External27",
+            "voiceContent": "写真機の色んなレンズを集めるのが大好きなの。あるレンズは長い焦点距離があって、あるレンズは画角が広い。そうだ、また別のレンズには特別な機能があって、撮った写真に色んなエフェクトが付くの。ほら例えばこのレンズ、これを使って人を撮ると、顔がまん丸く映るのよ…さあ！撮ってあげるから、パイモンも一緒に来てちょうだい！",
+            "sourceName": "vo_charlotte_pref_hobby.wem"
+        },
+        "55bc9e63da633093": {
+            "hash": "55bc9e63da633093",
+            "directory": "External10",
+            "voiceContent": "へへっ、私は甘いものが大好きなの。いくら食事をとっても、デザートは入るわ。お母さんの言葉を借りると…私の胃袋にはいつも、デザートのための場所が空いてるってね。",
+            "sourceName": "vo_charlotte_pref_foodLike.wem"
+        },
+        "469540f87eb94cdd": {
+            "hash": "469540f87eb94cdd",
+            "directory": "External8",
+            "voiceContent": "辛いものは食べられないの。胃袋に、超敏感なマシナリー·辛味測定型が入ってるのかしら…ちょっとのピリ辛でも、食べたら絶対痛くなるのよ…しかも、痛みが一日中続くし。ううぅ…",
+            "sourceName": "vo_charlotte_pref_foodDislike.wem"
+        },
+        "76291e0fd200b9ac": {
+            "hash": "76291e0fd200b9ac",
+            "directory": "External14",
+            "voiceContent": "すごい料理の腕！新聞に料理コラムでも書こうかしら？レイアウトと写真の構図がもう浮かんできたわ。",
+            "sourceName": "vo_charlotte_spice_pref_01.wem"
+        },
+        "69f76be444b83486": {
+            "hash": "69f76be444b83486",
+            "directory": "External13",
+            "voiceContent": "悪くない味ね。今度時間があったら…私にも教えて？",
+            "sourceName": "vo_charlotte_spice_normal_01.wem"
+        },
+        "9c325beb99306822": {
+            "hash": "9c325beb99306822",
+            "directory": "External19",
+            "voiceContent": "はぁ…この味…そしてこの料理を食べた私、どっちも新聞に載るには十分ね…",
+            "sourceName": "vo_charlotte_spice_dislike_01.wem"
+        },
+        "a9d0c2a9333c3e4f": {
+            "hash": "a9d0c2a9333c3e4f",
+            "directory": "External21",
+            "voiceContent": "お誕生日おめでとう！今日の『スチームバード新聞』は読んだ？君へのお祝いメッセージが載ってるよ…ねえ、買ってないの？大丈夫。さっき新聞社を出たときに一部持ってきたから。ほら、ここよ。ここが私の確保できる一番のスペースなんだから。",
+            "sourceName": "vo_charlotte_pref_birthday_01.wem"
+        },
+        "fc4426de5ae79497": {
+            "hash": "fc4426de5ae79497",
+            "directory": "External31",
+            "voiceContent": "不思議な感じ。記録しておかないと…",
+            "sourceName": "vo_charlotte_starUp_01.wem"
+        },
+        "7bb0b8f848c97530": {
+            "hash": "7bb0b8f848c97530",
+            "directory": "External15",
+            "voiceContent": "本当にこんなものが人の成長に役立つんだね？前は聞いたことしかなかったけど、まさか自分で体験できる日が来るなんて…",
+            "sourceName": "vo_charlotte_starUp_02.wem"
+        },
+        "00d412f0084cbbb1": {
+            "hash": "00d412f0084cbbb1",
+            "directory": "External0",
+            "voiceContent": "君は前にもこんな方法で他の人を手伝ったの？使う素材はどう違うの？それと…あっ、ごめん。また職業病が…",
+            "sourceName": "vo_charlotte_starUp_03.wem"
+        },
+        "df9454c65819faba": {
+            "hash": "df9454c65819faba",
+            "directory": "External27",
+            "voiceContent": "へぇ！思考が早くなって、力がみなぎってくるのを感じるわ。きっと、もっとたくさんの特ダネを掴めるに違いない！でもその前に、この素敵な瞬間を記念して、一緒に写真を撮りましょうよ！",
+            "sourceName": "vo_charlotte_starUp_04.wem"
+        },
+        "d1cdfb6e6c1d34df": {
+            "hash": "d1cdfb6e6c1d34df",
+            "directory": "External26",
+            "voiceContent": "ま、まだ記録できる…",
+            "sourceName": "vo_charlotte_life_less30_01.wem"
+        },
+        "6743ed88f7b88e58": {
+            "hash": "6743ed88f7b88e58",
+            "directory": "External12",
+            "voiceContent": "まだ記事にすべきスクープが…！",
+            "sourceName": "vo_charlotte_life_less30_02.wem"
+        },
+        "e9014780b458abd9": {
+            "hash": "e9014780b458abd9",
+            "directory": "External29",
+            "voiceContent": "写真機はまだ動く！",
+            "sourceName": "vo_charlotte_life_less30_03.wem"
+        },
+        "4c9d1de9f763adc5": {
+            "hash": "4c9d1de9f763adc5",
+            "directory": "External9",
+            "voiceContent": "見出しが、まだ…",
+            "sourceName": "vo_charlotte_life_die_03.wem"
+        },
+        "c70e1041650bcdd8": {
+            "hash": "c70e1041650bcdd8",
+            "directory": "External24",
+            "voiceContent": "レンズがっ！",
+            "sourceName": "vo_charlotte_battle_hit_H_02.wem"
+        },
+        "27587afa35e772cc": {
+            "hash": "27587afa35e772cc",
+            "directory": "External4",
+            "voiceContent": "水神フリーナ様の言動は人々の心を動かす力があるの。あの方は生まれながらの大スターだわ。ユーフラシアさんは以前、一人の記者を密着取材に行かせたことがあるんだけど、彼はしばらくして辞職したの。辞めた理由は…私の調査によると、彼が写真を撮るたびに、フリーナ様が写真を確認し、納得するまで撮り直しを要求したんだって。一番ひどかったときは、フリーナ様のポーズ一つを撮るのに、127回も撮り直したって…",
+            "sourceName": "vo_charlotte_teammate_furina_01.wem"
+        },
+        "4204cf42a3285fc4": {
+            "hash": "4204cf42a3285fc4",
+            "directory": "External8",
+            "voiceContent": "失礼ね。",
+            "sourceName": "vo_charlotte_battle_hit_L_02.wem"
+        },
+        "08fb0bf639192a73": {
+            "hash": "08fb0bf639192a73",
+            "directory": "External1",
+            "voiceContent": "質問するときの態度がちょっと…激しすぎるから、私にあんまりよくない印象を抱いてる人も一定数いるの。毎回取材に行くと、みんな警戒してる様子で…はぁ、でも一部の取材対象には、わざとそんな態度を取らないといけないけど…",
+            "sourceName": "vo_charlotte_dialog_annoyed_01.wem"
+        },
+        "2d728ed1ac49c3da": {
+            "hash": "2d728ed1ac49c3da",
+            "directory": "External5",
+            "voiceContent": "初めまして。『スチームバード新聞』の記者、シャルロットです。よろしくお願いします。もし時間があったら、特別インタビューを受けてくれませんか？君からはビッグニュースをたくさん掘り出せるって、記者の勘がそう教えてくれたのよ。",
+            "sourceName": "vo_charlotte_draw_appear_01.wem"
+        },
+        "892122632d7297b8": {
+            "hash": "892122632d7297b8",
+            "directory": "External17",
+            "voiceContent": "まだ、とっておきのカードがあるんだから！",
+            "sourceName": "vo_card_charlotte_inGame_easy_04.wem"
+        },
+        "3758de00538e5471": {
+            "hash": "3758de00538e5471",
+            "directory": "External6",
+            "voiceContent": "あれ！？どういうこと…？",
+            "sourceName": "vo_card_charlotte_inGame_hard_02.wem"
+        },
+        "4775dc396b840145": {
+            "hash": "4775dc396b840145",
+            "directory": "External8",
+            "voiceContent": "本当にうまくいったわ。",
+            "sourceName": "vo_card_charlotte_inGame_easy_01.wem"
+        },
+        "b4718ff6ec6c2b4e": {
+            "hash": "b4718ff6ec6c2b4e",
+            "directory": "External22",
+            "voiceContent": "この前読んだ雑誌が役に立ったわ。",
+            "sourceName": "vo_card_charlotte_inGame_hard_01.wem"
+        },
+        "b59b840896ee36f0": {
+            "hash": "b59b840896ee36f0",
+            "directory": "External22",
+            "voiceContent": "さっきは何を出したんだっけ…",
+            "sourceName": "vo_card_charlotte_inGame_hard_03.wem"
+        },
+        "ed04be313cc31d22": {
+            "hash": "ed04be313cc31d22",
+            "directory": "External29",
+            "voiceContent": "いやいや、こんな出し方じゃダメね…",
+            "sourceName": "vo_card_charlotte_inGame_easy_02.wem"
+        },
+        "6ef351cd273da743": {
+            "hash": "6ef351cd273da743",
+            "directory": "External13",
+            "voiceContent": "さあ！これで決めるのよ！",
+            "sourceName": "vo_card_charlotte_inGame_hard_04.wem"
+        },
+        "9b0a302a35029f6b": {
+            "hash": "9b0a302a35029f6b",
+            "directory": "External19",
+            "voiceContent": "そうね…ここはよく考えないと…",
+            "sourceName": "vo_card_charlotte_inGame_easy_03.wem"
+        }
+    }
+}

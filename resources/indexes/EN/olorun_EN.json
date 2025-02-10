@@ -1,0 +1,943 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "83e1b9e5d2893230": {
+            "hash": "83e1b9e5d2893230",
+            "directory": "External16",
+            "voiceContent": "Granny, what are YOU talking about?",
+            "sourceName": "vo_TLEQ003_2_olorun_03.wem"
+        },
+        "e7c555b3e1d9b7ba": {
+            "hash": "e7c555b3e1d9b7ba",
+            "directory": "External28",
+            "voiceContent": "But where are you going, Granny?",
+            "sourceName": "vo_TLEQ003_2_olorun_05.wem"
+        },
+        "82b7c5d42807268e": {
+            "hash": "82b7c5d42807268e",
+            "directory": "External16",
+            "voiceContent": "That's a relief. I've heard of cases where people's bodies started necrotizing after they spent too long meditating.",
+            "sourceName": "vo_TLEQ003_2_olorun_01.wem"
+        },
+        "090513dd920c78b1": {
+            "hash": "090513dd920c78b1",
+            "directory": "External1",
+            "voiceContent": "Mm. Anyway, Leyla, even though we didn't know each other before all this, I'm still really glad that you're okay now.",
+            "sourceName": "vo_TLEQ003_2_olorun_02.wem"
+        },
+        "40a087aa65bd7e83": {
+            "hash": "40a087aa65bd7e83",
+            "directory": "External8",
+            "voiceContent": "Wait, I know this trick... It's the same one I used a while back. Granny snuck away from right under our noses...",
+            "sourceName": "vo_TLEQ003_2_olorun_04.wem"
+        },
+        "2c428b708963edbe": {
+            "hash": "2c428b708963edbe",
+            "directory": "External5",
+            "voiceContent": "I totally understand how you feel, Leyla...",
+            "sourceName": "vo_TLEQ003_1_olorun_06.wem"
+        },
+        "81edad670a920047": {
+            "hash": "81edad670a920047",
+            "directory": "External16",
+            "voiceContent": "Some seeds effortlessly grow into beautiful cabbages, while others struggle with all their might and never even sprout.",
+            "sourceName": "vo_TLEQ003_1_olorun_07.wem"
+        },
+        "2232c9139b267805": {
+            "hash": "2232c9139b267805",
+            "directory": "External4",
+            "voiceContent": "I know saying this doesn't change anything either, but I hope it makes you feel a little better.",
+            "sourceName": "vo_TLEQ003_1_olorun_09.wem"
+        },
+        "d8ae3f7fbfe55de0": {
+            "hash": "d8ae3f7fbfe55de0",
+            "directory": "External27",
+            "voiceContent": "You're more than welcome, Leyla. And don't mind Granny's — she's all bark and no bite. We're just glad that you're okay.",
+            "sourceName": "vo_TLEQ003_1_olorun_04.wem"
+        },
+        "867d9978b7f72761": {
+            "hash": "867d9978b7f72761",
+            "directory": "External16",
+            "voiceContent": "Besides, someone tricked you into doing this, didn't they? That Kokuchuu guy. He's the real culprit here.",
+            "sourceName": "vo_TLEQ003_1_olorun_05.wem"
+        },
+        "653d1b4f07c31faa": {
+            "hash": "653d1b4f07c31faa",
+            "directory": "External12",
+            "voiceContent": "Keep your voice down. We mustn't disturb her.",
+            "sourceName": "vo_TLEQ003_1_olorun_02.wem"
+        },
+        "c8ea8f1d16e5d1b4": {
+            "hash": "c8ea8f1d16e5d1b4",
+            "directory": "External25",
+            "voiceContent": "Who knows why this is the way things are... Maybe that's just life? Life is full of things we can't change.",
+            "sourceName": "vo_TLEQ003_1_olorun_08.wem"
+        },
+        "9696b955fd9b3b2d": {
+            "hash": "9696b955fd9b3b2d",
+            "directory": "External18",
+            "voiceContent": "And I've prepared the rest of the tools for the ceremony, per Granny's instructions. We've dotted all our i's and crossed all our t's, so today should go off without a hitch.",
+            "sourceName": "vo_TLEQ003_1_olorun_01.wem"
+        },
+        "ea2a4d46c71892b3": {
+            "hash": "ea2a4d46c71892b3",
+            "directory": "External29",
+            "voiceContent": "Look! Leyla's spirit is back. It's coming towards his body.",
+            "sourceName": "vo_TLEQ003_1_olorun_03.wem"
+        },
+        "a1aa9f698aa3bc18": {
+            "hash": "a1aa9f698aa3bc18",
+            "directory": "External20",
+            "voiceContent": "Could I ask you to go inside and take a look at him? I think he should be safe for now, but he'll be at greater and greater risk as time goes by.",
+            "sourceName": "vo_TLEQ001_2_olorun_09.wem"
+        },
+        "dcb0beddad0e6c14": {
+            "hash": "dcb0beddad0e6c14",
+            "directory": "External27",
+            "voiceContent": "Sure it is — I mean, I've told my aphids all about your heroic deeds, so I assume Granny's told her traps, too.",
+            "sourceName": "vo_TLEQ001_2_olorun_12.wem"
+        },
+        "65802f8b098f273c": {
+            "hash": "65802f8b098f273c",
+            "directory": "External12",
+            "voiceContent": "What? Oh... darn it...",
+            "sourceName": "vo_TLEQ001_2_olorun_05.wem"
+        },
+        "d46449822b2b9bcd": {
+            "hash": "d46449822b2b9bcd",
+            "directory": "External26",
+            "voiceContent": "Granny says it's tacky when light novels use contrived metaphors. I don't wanna be tacky.",
+            "sourceName": "vo_TLEQ001_2_olorun_04.wem"
+        },
+        "4e4d2b78c1542aca": {
+            "hash": "4e4d2b78c1542aca",
+            "directory": "External9",
+            "voiceContent": "She might have laid a trap for me. Or maybe when I get inside, I'll get caught by one of her surveillance spells...",
+            "sourceName": "vo_TLEQ001_2_olorun_07.wem"
+        },
+        "11eb9b9a40101cde": {
+            "hash": "11eb9b9a40101cde",
+            "directory": "External2",
+            "voiceContent": "She was standing there at the cave entrance to stop me from going in. Standing right in my way.",
+            "sourceName": "vo_TLEQ001_2_olorun_03.wem"
+        },
+        "30445ace768bd1c2": {
+            "hash": "30445ace768bd1c2",
+            "directory": "External6",
+            "voiceContent": "I'll have to wait outside, or I might fall into one of Granny's traps.",
+            "sourceName": "vo_TLEQ001_2_olorun_10.wem"
+        },
+        "167bcfabed75bd80": {
+            "hash": "167bcfabed75bd80",
+            "directory": "External2",
+            "voiceContent": "...Huh?",
+            "sourceName": "vo_TLEQ001_2_olorun_01.wem"
+        },
+        "2367f9614743d999": {
+            "hash": "2367f9614743d999",
+            "directory": "External4",
+            "voiceContent": "I just want to rescue someone... and Granny won't let me.",
+            "sourceName": "vo_TLEQ001_2_olorun_08.wem"
+        },
+        "bfbb3d93382260e7": {
+            "hash": "bfbb3d93382260e7",
+            "directory": "External23",
+            "voiceContent": "It's Granny... She's gone.",
+            "sourceName": "vo_TLEQ001_2_olorun_02.wem"
+        },
+        "cfd45d707dc674d3": {
+            "hash": "cfd45d707dc674d3",
+            "directory": "External25",
+            "voiceContent": "I don't think it'll be that simple... Granny wouldn't release me from her grasp so easily.",
+            "sourceName": "vo_TLEQ001_2_olorun_06.wem"
+        },
+        "23e6883decaa5614": {
+            "hash": "23e6883decaa5614",
+            "directory": "External4",
+            "voiceContent": "But Granny, it's amazing that you can use a person as a clairvoyance medium. I always thought you had to use inanimate objects.",
+            "sourceName": "vo_TLEQ001_5_olorun_11.wem"
+        },
+        "d4287663964775cf": {
+            "hash": "d4287663964775cf",
+            "directory": "External26",
+            "voiceContent": "Sorry, Granny.",
+            "sourceName": "vo_TLEQ001_5_olorun_01.wem"
+        },
+        "c2af4274a5f39049": {
+            "hash": "c2af4274a5f39049",
+            "directory": "External24",
+            "voiceContent": "Huh? Uh... Yes, that's right.",
+            "sourceName": "vo_TLEQ001_5_olorun_03.wem"
+        },
+        "5141285a2f254cc4": {
+            "hash": "5141285a2f254cc4",
+            "directory": "External10",
+            "voiceContent": "Yes, there is. As long as the soul is involved, I should be able to help...",
+            "sourceName": "vo_TLEQ001_5_olorun_06.wem"
+        },
+        "2e9ffb9bac9b4b39": {
+            "hash": "2e9ffb9bac9b4b39",
+            "directory": "External5",
+            "voiceContent": "Call me an idiot all you want — I know I can bring his spirit back. I just need your support.",
+            "sourceName": "vo_TLEQ001_5_olorun_08a_1.wem"
+        },
+        "d3356251ebf47655": {
+            "hash": "d3356251ebf47655",
+            "directory": "External26",
+            "voiceContent": "I'll be fine — Granny's just worrying too much. I'm feeling fine now, so I should be able to do it safely. Besides, it's probably our only hope of bringing Leyla back.",
+            "sourceName": "vo_TLEQ001_5_olorun_07.wem"
+        },
+        "26c8f642b571cdbb": {
+            "hash": "26c8f642b571cdbb",
+            "directory": "External4",
+            "voiceContent": "I just wanted to help bring Leyla's spirit back...",
+            "sourceName": "vo_TLEQ001_5_olorun_05.wem"
+        },
+        "14dfa87bade15988": {
+            "hash": "14dfa87bade15988",
+            "directory": "External2",
+            "voiceContent": "...I'm truly sorry.",
+            "sourceName": "vo_TLEQ001_5_olorun_02.wem"
+        },
+        "d1ec4236e4ea52e5": {
+            "hash": "d1ec4236e4ea52e5",
+            "directory": "External26",
+            "voiceContent": "Um... Your point would have been just as clear without the example, Paimon.",
+            "sourceName": "vo_TLEQ001_5_olorun_10.wem"
+        },
+        "365686a55e4393d7": {
+            "hash": "365686a55e4393d7",
+            "directory": "External6",
+            "voiceContent": "Wait, really? You actually know a way to save him?",
+            "sourceName": "vo_TLEQ001_5_olorun_09.wem"
+        },
+        "654e6cc94de5646d": {
+            "hash": "654e6cc94de5646d",
+            "directory": "External12",
+            "voiceContent": "If I had a woven scroll that listed the forty people who can deal with Granny Citlali, your name would be at the top of that list.",
+            "sourceName": "vo_TLEQ001_1_olorun_14.wem"
+        },
+        "b7b91ca86ce27e39": {
+            "hash": "b7b91ca86ce27e39",
+            "directory": "External22",
+            "voiceContent": "But now that you're here, I can start moving again. Before time runs out.",
+            "sourceName": "vo_TLEQ001_1_olorun_18.wem"
+        },
+        "60b1e2478cd9f0f8": {
+            "hash": "60b1e2478cd9f0f8",
+            "directory": "External12",
+            "voiceContent": "It's that obvious, huh? Well, you're right. I feel like an aphid who can't find a flower. Granny is standing in my way.",
+            "sourceName": "vo_TLEQ001_1_olorun_06.wem"
+        },
+        "fafa3ee3d9ae16fe": {
+            "hash": "fafa3ee3d9ae16fe",
+            "directory": "External31",
+            "voiceContent": "It feels like there's something unique about you. Even Granny Citlali treats you like you're someone special. And everything that's happened since we met suggests it's true.",
+            "sourceName": "vo_TLEQ001_1_olorun_13.wem"
+        },
+        "722b0e367d2dc816": {
+            "hash": "722b0e367d2dc816",
+            "directory": "External14",
+            "voiceContent": "You are truly the best friends I could ask for. If my vegetables met you, I'm sure they'd grow all the more lush for it.",
+            "sourceName": "vo_TLEQ001_1_olorun_04.wem"
+        },
+        "075732d1335576ba": {
+            "hash": "075732d1335576ba",
+            "directory": "External0",
+            "voiceContent": "She'll pretend not to be interested for a few seconds, then think of an excuse to say yes. As long as you're the one doing the fishing, she'll definitely take the bait.",
+            "sourceName": "vo_TLEQ001_1_olorun_22.wem"
+        },
+        "55354cec08414fa1": {
+            "hash": "55354cec08414fa1",
+            "directory": "External10",
+            "voiceContent": "I had to get you involved. Most people can't deal with Granny, and...",
+            "sourceName": "vo_TLEQ001_1_olorun_10.wem"
+        },
+        "3295c2b0ad5f37b8": {
+            "hash": "3295c2b0ad5f37b8",
+            "directory": "External6",
+            "voiceContent": "You know how much Granny loves to drink, nap, and read light novels, right? If you offer her what she wants, I'm sure you can lure her away.",
+            "sourceName": "vo_TLEQ001_1_olorun_19.wem"
+        },
+        "a37397032404f130": {
+            "hash": "a37397032404f130",
+            "directory": "External20",
+            "voiceContent": "It'll be as easy as watering vegetables — and if my vegetables were here, they'd... Uh, sorry, there's no time for vegetable talk.",
+            "sourceName": "vo_TLEQ001_1_olorun_24.wem"
+        },
+        "2896f0fae38837b1": {
+            "hash": "2896f0fae38837b1",
+            "directory": "External5",
+            "voiceContent": "Just trust me. Let me take you to her. With you there, everything will be better.",
+            "sourceName": "vo_TLEQ001_1_olorun_25.wem"
+        },
+        "e26f3c3f497a0e79": {
+            "hash": "e26f3c3f497a0e79",
+            "directory": "External28",
+            "voiceContent": "Yes. Granny's a genius, as you know. Geniuses often stand in the way of others, leading them to despair.",
+            "sourceName": "vo_TLEQ001_1_olorun_07.wem"
+        },
+        "375bcec25af224ea": {
+            "hash": "375bcec25af224ea",
+            "directory": "External6",
+            "voiceContent": "Although it looks like I'm just hanging around with nothing to do, inside, I'm distraught about the path ahead. Granny Citlali is blocking my way and I can't get past.",
+            "sourceName": "vo_TLEQ001_1_olorun_17.wem"
+        },
+        "1f079c1dcaed0c85": {
+            "hash": "1f079c1dcaed0c85",
+            "directory": "External3",
+            "voiceContent": "You did? That makes me feel... warm and fuzzy. Is this what happiness feels like?",
+            "sourceName": "vo_TLEQ001_1_olorun_03.wem"
+        },
+        "e6ff2050f6df2733": {
+            "hash": "e6ff2050f6df2733",
+            "directory": "External28",
+            "voiceContent": "If that sounds serious... it's because it is. So please, help me deal with her.",
+            "sourceName": "vo_TLEQ001_1_olorun_09.wem"
+        },
+        "615c50d961bb3bbd": {
+            "hash": "615c50d961bb3bbd",
+            "directory": "External12",
+            "voiceContent": "Dear Granny, I have the latest volume of 'Mirage Warriors' here, along with a special-edition spinoff of 'The Case Files of Miss Orith.' Wanna read them together?",
+            "sourceName": "vo_TLEQ001_1_olorun_21.wem"
+        },
+        "a726dac98b43398e": {
+            "hash": "a726dac98b43398e",
+            "directory": "External20",
+            "voiceContent": "Please, you've gotta help me. This is really important.",
+            "sourceName": "vo_TLEQ001_1_olorun_16a_1.wem"
+        },
+        "f5de36e24301f0ec": {
+            "hash": "f5de36e24301f0ec",
+            "directory": "External30",
+            "voiceContent": "That's right. Don't worry, I won't make you do all the work — I've planned it all out, including what you need to say. All you need to do is walk up to her, and tell her this",
+            "sourceName": "vo_TLEQ001_1_olorun_20.wem"
+        },
+        "6211ee593789b42a": {
+            "hash": "6211ee593789b42a",
+            "directory": "External12",
+            "voiceContent": "And on top of that, I'm her grandson. Which means I get a double dose of despair.",
+            "sourceName": "vo_TLEQ001_1_olorun_08.wem"
+        },
+        "1ffa702f753f9fff": {
+            "hash": "1ffa702f753f9fff",
+            "directory": "External3",
+            "voiceContent": "Well, it's a compliment. I heard that complimenting people makes them happy. Did it work? Are you happy?",
+            "sourceName": "vo_TLEQ001_1_olorun_05.wem"
+        },
+        "da5acdeb2a895d14": {
+            "hash": "da5acdeb2a895d14",
+            "directory": "External27",
+            "voiceContent": "Looks like Granny's plan is working. Leyla's spirit is being drawn to the bait.",
+            "sourceName": "vo_TLEQ002_1_olorun_16.wem"
+        },
+        "a6bdd8090a34a35d": {
+            "hash": "a6bdd8090a34a35d",
+            "directory": "External20",
+            "voiceContent": "Why?",
+            "sourceName": "vo_TLEQ002_1_olorun_08.wem"
+        },
+        "4bc92805a1580dd9": {
+            "hash": "4bc92805a1580dd9",
+            "directory": "External9",
+            "voiceContent": "I saw a bow just like this in one of Granny's scrolls...",
+            "sourceName": "vo_TLEQ002_1_olorun_13.wem"
+        },
+        "886087e422c959e5": {
+            "hash": "886087e422c959e5",
+            "directory": "External17",
+            "voiceContent": "You can do it, Granny. I'm ready to go too.",
+            "sourceName": "vo_TLEQ002_1_olorun_17.wem"
+        },
+        "f5c247e8264e27a9": {
+            "hash": "f5c247e8264e27a9",
+            "directory": "External30",
+            "voiceContent": "Hypersensitization therapy, huh... What a novel idea. Could that really work?",
+            "sourceName": "vo_TLEQ002_1_olorun_04.wem"
+        },
+        "87365bd27846ee8b": {
+            "hash": "87365bd27846ee8b",
+            "directory": "External16",
+            "voiceContent": "I don't know if he'd have anything to gain by doing that. Even if they're Sanhaj relics, I still doubt he'd have much use for a broken bow.",
+            "sourceName": "vo_TLEQ002_1_olorun_15.wem"
+        },
+        "a0172df1a5202368": {
+            "hash": "a0172df1a5202368",
+            "directory": "External20",
+            "voiceContent": "What's this?",
+            "sourceName": "vo_TLEQ002_1_olorun_05.wem"
+        },
+        "deeaf9fcd7eef176": {
+            "hash": "deeaf9fcd7eef176",
+            "directory": "External27",
+            "voiceContent": "Meanwhile, I'm just a grandkid, so I'm expendable.",
+            "sourceName": "vo_TLEQ002_1_olorun_10.wem"
+        },
+        "0aa17bd71985362f": {
+            "hash": "0aa17bd71985362f",
+            "directory": "External1",
+            "voiceContent": "Wait, there's something else... It feels so familiar... I think this is somehow connected to my ancient name...",
+            "sourceName": "vo_TLEQ002_1_olorun_06.wem"
+        },
+        "d7e889be78fe8fd2": {
+            "hash": "d7e889be78fe8fd2",
+            "directory": "External26",
+            "voiceContent": "Leyla's condition is still stable, but we're not really getting anywhere.",
+            "sourceName": "vo_TLEQ002_1_olorun_03.wem"
+        },
+        "ca0bce0de4b7f058": {
+            "hash": "ca0bce0de4b7f058",
+            "directory": "External25",
+            "voiceContent": "Hey, don't you think one of the pieces looks just like this shard?",
+            "sourceName": "vo_TLEQ002_1_olorun_12.wem"
+        },
+        "857e19df5a01e246": {
+            "hash": "857e19df5a01e246",
+            "directory": "External16",
+            "voiceContent": "No... More like, I think this item might have belonged to a previous bearer of my ancient name.",
+            "sourceName": "vo_TLEQ002_1_olorun_07.wem"
+        },
+        "3495dbf3591c96df": {
+            "hash": "3495dbf3591c96df",
+            "directory": "External6",
+            "voiceContent": "Sorry, Granny. I'm ready now.",
+            "sourceName": "vo_TLEQ002_1_olorun_11.wem"
+        },
+        "3db2ca3e9d07791e": {
+            "hash": "3db2ca3e9d07791e",
+            "directory": "External7",
+            "voiceContent": "Fine by me. We know it's safe now, so you shouldn't have any problems.",
+            "sourceName": "vo_TLEQ002_1_olorun_18.wem"
+        },
+        "d911add0237f39a4": {
+            "hash": "d911add0237f39a4",
+            "directory": "External27",
+            "voiceContent": "Ah, Granny. You're back.",
+            "sourceName": "vo_TLEQ002_1_olorun_01.wem"
+        },
+        "ab6f093a6c1d127d": {
+            "hash": "ab6f093a6c1d127d",
+            "directory": "External21",
+            "voiceContent": "Don't worry, I'm quite sure the shard is safe. There shouldn't be any danger.",
+            "sourceName": "vo_dialog_TLEQ002_olorun_01.wem"
+        },
+        "a03619ced20d2ff1": {
+            "hash": "a03619ced20d2ff1",
+            "directory": "External20",
+            "voiceContent": "A map? Of where?",
+            "sourceName": "vo_TLEQ002_4_olorun_01.wem"
+        },
+        "1d4ecbc56aeb06ce": {
+            "hash": "1d4ecbc56aeb06ce",
+            "directory": "External3",
+            "voiceContent": "That's just an excuse. Granny's too lazy to take a trip that far away...",
+            "sourceName": "vo_TLEQ002_4_olorun_02.wem"
+        },
+        "9f0c2dbd278b31d7": {
+            "hash": "9f0c2dbd278b31d7",
+            "directory": "External19",
+            "voiceContent": "I sense it too... There's a soul nearby — almost a complete one.",
+            "sourceName": "vo_TLEQ002_4_olorun_03.wem"
+        },
+        "d91851c76f402aca": {
+            "hash": "d91851c76f402aca",
+            "directory": "External27",
+            "voiceContent": "...",
+            "sourceName": "vo_TLEQ001_8_olorun_01.wem"
+        },
+        "f04b55d9b77b273c": {
+            "hash": "f04b55d9b77b273c",
+            "directory": "External30",
+            "voiceContent": "It's fine, I can handle that.",
+            "sourceName": "vo_TLEQ001_8_olorun_03.wem"
+        },
+        "5f2f6fd0d9179bcd": {
+            "hash": "5f2f6fd0d9179bcd",
+            "directory": "External11",
+            "voiceContent": "Border Master is a honorable title, by the way. It's only given to powerful figures, like Granny Citlali.",
+            "sourceName": "vo_TLEQ001_8_olorun_02.wem"
+        },
+        "c4d8e78f0c7ce22d": {
+            "hash": "c4d8e78f0c7ce22d",
+            "directory": "External24",
+            "voiceContent": "Was it my fault for picking a bad place...? I'm sorry.",
+            "sourceName": "vo_TLEQ003_3_olorun_07.wem"
+        },
+        "55f4cd97eae06d9c": {
+            "hash": "55f4cd97eae06d9c",
+            "directory": "External10",
+            "voiceContent": "Either way, Kokuchuu played us like a fiddle. He managed to accomplish his goals without taking any of the risk himself. Pretty sneaky.",
+            "sourceName": "vo_TLEQ003_3_olorun_06.wem"
+        },
+        "c0e5cb9f2051077d": {
+            "hash": "c0e5cb9f2051077d",
+            "directory": "External24",
+            "voiceContent": "I'm so happy for you, Leyla. Let's both give this our best shot, and who knows — we might both be beautiful cabbages one day.",
+            "sourceName": "vo_TLEQ003_3_olorun_10.wem"
+        },
+        "b02fdba01973a747": {
+            "hash": "b02fdba01973a747",
+            "directory": "External22",
+            "voiceContent": "Given that she's the only person here... I'm guessing no.",
+            "sourceName": "vo_TLEQ003_3_olorun_01.wem"
+        },
+        "b4bfc7b1c6d8ce61": {
+            "hash": "b4bfc7b1c6d8ce61",
+            "directory": "External22",
+            "voiceContent": "See? What did I tell you?",
+            "sourceName": "vo_TLEQ003_3_olorun_03.wem"
+        },
+        "937f498816a4c6aa": {
+            "hash": "937f498816a4c6aa",
+            "directory": "External18",
+            "voiceContent": "I'm sorry. I took the bait...",
+            "sourceName": "vo_TLEQ003_3_olorun_04.wem"
+        },
+        "186c7b7fd5fa39b3": {
+            "hash": "186c7b7fd5fa39b3",
+            "directory": "External3",
+            "voiceContent": "But so did Granny.",
+            "sourceName": "vo_TLEQ003_3_olorun_05.wem"
+        },
+        "a39869655c48da96": {
+            "hash": "a39869655c48da96",
+            "directory": "External20",
+            "voiceContent": "I went looking for somewhere with a wealth of spiritual energy when I first decided to help Leyla, and ended up choosing this mad sage's hideout.",
+            "sourceName": "vo_TLEQ003_3_olorun_08.wem"
+        },
+        "06f06db8cec704e0": {
+            "hash": "06f06db8cec704e0",
+            "directory": "External0",
+            "voiceContent": "Oh, so Granny had only pretended to leave the cave... When in fact, she'd set up a whole trap for him and was lying in wait.",
+            "sourceName": "vo_TLEQ003_3_olorun_02.wem"
+        },
+        "5167cb5e545ab27f": {
+            "hash": "5167cb5e545ab27f",
+            "directory": "External10",
+            "voiceContent": "Amazing... Life is so full of surprises. As long as you keep moving forward, you might just run into some fertilizer in the middle of the road.",
+            "sourceName": "vo_TLEQ003_3_olorun_09.wem"
+        },
+        "c04b68fcc6895ddb": {
+            "hash": "c04b68fcc6895ddb",
+            "directory": "External24",
+            "voiceContent": "The enemy ranks are thinning. Time to double down.",
+            "sourceName": "vo_NTAQ108_4_olorun_02.wem"
+        },
+        "42e71b16b71f5b64": {
+            "hash": "42e71b16b71f5b64",
+            "directory": "External8",
+            "voiceContent": "Okay, everyone's safe. Granny, please go on ahead with the others. I just need some more time — I promise I won't hold things up.",
+            "sourceName": "vo_NTAQ108_4_olorun_01.wem"
+        },
+        "3e56f70509b9d492": {
+            "hash": "3e56f70509b9d492",
+            "directory": "External7",
+            "voiceContent": "Use the Pyro Archon's power, and show no mercy.",
+            "sourceName": "vo_NTAQ108_4_olorun_03.wem"
+        },
+        "06859b3835db6828": {
+            "hash": "06859b3835db6828",
+            "directory": "External0",
+            "voiceContent": "They're living things, and every life deserves saving.",
+            "sourceName": "vo_NTAQ108_4_olorun_05.wem"
+        },
+        "5f97b52eb9ee4969": {
+            "hash": "5f97b52eb9ee4969",
+            "directory": "External11",
+            "voiceContent": "I'm sorry, I can't bring myself to abandon the vegetables and aphids.",
+            "sourceName": "vo_NTAQ108_4_olorun_04.wem"
+        }
+    },
+    "Gameplay": {
+        "ed62a4f1d7f40c2b": {
+            "hash": "ed62a4f1d7f40c2b",
+            "directory": "External29",
+            "voiceContent": "Not too far, now.",
+            "sourceName": "vo_olorun_battle_skill1_01.wem"
+        },
+        "43ed170a8d19a3b4": {
+            "hash": "43ed170a8d19a3b4",
+            "directory": "External8",
+            "voiceContent": "Farewell.",
+            "sourceName": "vo_olorun_battle_skill1_02.wem"
+        },
+        "9d355101115a4a05": {
+            "hash": "9d355101115a4a05",
+            "directory": "External19",
+            "voiceContent": "Be free!",
+            "sourceName": "vo_olorun_battle_skill1_03.wem"
+        },
+        "2f565538d3e87269": {
+            "hash": "2f565538d3e87269",
+            "directory": "External5",
+            "voiceContent": "Go, you're free now.",
+            "sourceName": "vo_olorun_battle_skill3_01.wem"
+        },
+        "bf122730079c2c06": {
+            "hash": "bf122730079c2c06",
+            "directory": "External23",
+            "voiceContent": "Time to say hello.",
+            "sourceName": "vo_olorun_battle_skill3_02.wem"
+        },
+        "40cf8927c43c57ef": {
+            "hash": "40cf8927c43c57ef",
+            "directory": "External8",
+            "voiceContent": "Tell me what you see.",
+            "sourceName": "vo_olorun_battle_skill3_03.wem"
+        },
+        "14d7fab70c055b60": {
+            "hash": "14d7fab70c055b60",
+            "directory": "External2",
+            "voiceContent": "Your passion for treasure-hunting is turning these chests into an endangered species.",
+            "sourceName": "vo_olorun_chest_open_01.wem"
+        },
+        "be17689e56b1fdc7": {
+            "hash": "be17689e56b1fdc7",
+            "directory": "External23",
+            "voiceContent": "You can always tell which ones are ripe for the picking by the sound they make when you tap on them.",
+            "sourceName": "vo_olorun_chest_open_02.wem"
+        },
+        "686c46a7d583eb3e": {
+            "hash": "686c46a7d583eb3e",
+            "directory": "External13",
+            "voiceContent": "Careful, some saurians like to hide in chests like this — probably an introvert thing.",
+            "sourceName": "vo_olorun_chest_open_03.wem"
+        },
+        "d926d992ff05d448": {
+            "hash": "d926d992ff05d448",
+            "directory": "External27",
+            "voiceContent": "Need me to get a doctor?",
+            "sourceName": "vo_olorun_life_less30_teammate_01.wem"
+        },
+        "986ea77ae76a3c8f": {
+            "hash": "986ea77ae76a3c8f",
+            "directory": "External19",
+            "voiceContent": "Filling in.",
+            "sourceName": "vo_olorun_life_less30_teammate_02.wem"
+        },
+        "3a7818d9875a786d": {
+            "hash": "3a7818d9875a786d",
+            "directory": "External7",
+            "voiceContent": "See you... in the Night Kingdom.",
+            "sourceName": "vo_olorun_life_die_01.wem"
+        },
+        "0c857ad2946738ea": {
+            "hash": "0c857ad2946738ea",
+            "directory": "External1",
+            "voiceContent": "It's getting... dark.",
+            "sourceName": "vo_olorun_life_die_02.wem"
+        },
+        "cd19039629a3e7d3": {
+            "hash": "cd19039629a3e7d3",
+            "directory": "External25",
+            "voiceContent": "Want me to join?",
+            "sourceName": "vo_olorun_teamJoin_01.wem"
+        },
+        "62c4d5b0b56c9a3c": {
+            "hash": "62c4d5b0b56c9a3c",
+            "directory": "External12",
+            "voiceContent": "Where to?",
+            "sourceName": "vo_olorun_teamJoin_02.wem"
+        },
+        "d1a8efa7d7090ecd": {
+            "hash": "d1a8efa7d7090ecd",
+            "directory": "External26",
+            "voiceContent": "What's the occasion?",
+            "sourceName": "vo_olorun_teamJoin_03.wem"
+        },
+        "c27c59b7cb52ad76": {
+            "hash": "c27c59b7cb52ad76",
+            "directory": "External24",
+            "voiceContent": "Someone told you the Masters of the Night-Wind is a tribe of weirdos? Huh, who else is there? Thought I was the only one.",
+            "sourceName": "vo_olorun_character_idle_01.wem"
+        },
+        "2f5a87c094bbc9d9": {
+            "hash": "2f5a87c094bbc9d9",
+            "directory": "External5",
+            "voiceContent": "Having a favorite animal, or vegetable or fruit, can help us recognize what kind of people we want to become.",
+            "sourceName": "vo_olorun_character_idle_02.wem"
+        },
+        "ad9d2dc8d81bac58": {
+            "hash": "ad9d2dc8d81bac58",
+            "directory": "External21",
+            "voiceContent": "Sometimes, a shrouded path is not meant to be walked. Move forward with blind ambition, and the smoke might suffocate you.",
+            "sourceName": "vo_olorun_character_idle_03.wem"
+        },
+        "b19db26c1e7bc7d0": {
+            "hash": "b19db26c1e7bc7d0",
+            "directory": "External22",
+            "voiceContent": "If I run, mud will get on my clothes. If I fly... the rain will make my cape too heavy. Better find somewhere to wait out the weather.",
+            "sourceName": "vo_olorun_weather_heavyRain_01.wem"
+        },
+        "e68e512a3f9a7a73": {
+            "hash": "e68e512a3f9a7a73",
+            "directory": "External28",
+            "voiceContent": "Lightening bolts remind me of snakes. I wonder if people use their shape and appearance to divine the future... On second thought, that seems a little dangerous.",
+            "sourceName": "vo_olorun_weather_thunder_01.wem"
+        },
+        "5268053ca516a64c": {
+            "hash": "5268053ca516a64c",
+            "directory": "External10",
+            "voiceContent": "Can anything... even grow here? Maybe we should leave.",
+            "sourceName": "vo_olorun_weather_desert_01.wem"
+        },
+        "8e129de9f15e4657": {
+            "hash": "8e129de9f15e4657",
+            "directory": "External17",
+            "voiceContent": "...There are things buried beneath the snow. Careful, now — let's not wake them up.",
+            "sourceName": "vo_olorun_weather_snowy_01.wem"
+        },
+        "0703a6926c159c22": {
+            "hash": "0703a6926c159c22",
+            "directory": "External0",
+            "voiceContent": "The sun is an eternal flame, and the people of Natlan never shy away from meeting its gaze head-on. Of course, sunglasses are always an option if it gets too intense.",
+            "sourceName": "vo_olorun_weather_sunny_01.wem"
+        },
+        "e5842726fff1f4fa": {
+            "hash": "e5842726fff1f4fa",
+            "directory": "External28",
+            "voiceContent": "Sorry. My eyes are open, but I'm still half-asleep... Can this wait?",
+            "sourceName": "vo_olorun_dialog_greetingMorning.wem"
+        },
+        "56d701d05b59f496": {
+            "hash": "56d701d05b59f496",
+            "directory": "External10",
+            "voiceContent": "My stomach says it's time for lunch, but I can't think of anything to eat... Maybe my brain is still asleep.",
+            "sourceName": "vo_olorun_dialog_greetingNoon.wem"
+        },
+        "05f7ec1fabc47b20": {
+            "hash": "05f7ec1fabc47b20",
+            "directory": "External0",
+            "voiceContent": "I could really go for some sparkling coffee flavored with Saurian Claw Succulent. I take mine black... Huh? You should only drink coffee in the morning? Well then... Good morning.",
+            "sourceName": "vo_olorun_dialog_greetingNight.wem"
+        },
+        "0616b6ac78abd5e0": {
+            "hash": "0616b6ac78abd5e0",
+            "directory": "External0",
+            "voiceContent": "My brain is always wide awake this time of night, so go ahead and rest. I used to try and force myself to fall asleep, but I gave up a long time ago. I think I'll just go check on the radishes instead.",
+            "sourceName": "vo_olorun_dialog_greetingNight2.wem"
+        },
+        "0aec4f9025fc8237": {
+            "hash": "0aec4f9025fc8237",
+            "directory": "External1",
+            "voiceContent": "I know I say things that are hard to understand sometimes. If you're ever confused, just ask me. I don't mind.",
+            "sourceName": "vo_olorun_dialog_idle.wem"
+        },
+        "2ec2cb4b05754919": {
+            "hash": "2ec2cb4b05754919",
+            "directory": "External5",
+            "voiceContent": "I don't know where I come from, but that doesn't bother me too much... I care more about where I'm going.",
+            "sourceName": "vo_olorun_dialog_idle2.wem"
+        },
+        "469b94d29148e300": {
+            "hash": "469b94d29148e300",
+            "directory": "External8",
+            "voiceContent": "Here, this is a Saurian claw succulent picked at four in the morning, a Quenepa Berry bigger than my head, the sweetest batch of honey from last week, and... Oh! And a voucher for a free appointment with Cacucu.Huh? Why do you look confused? It's a thank you for all your help. I wasn't sure if you needed anything, so I just went with gifts that I like.Oh, who's Cacucu? A saurian. I'll introduce you sometime.",
+            "sourceName": "vo_olorun_dialog_close1.wem"
+        },
+        "948fe0484c53348d": {
+            "hash": "948fe0484c53348d",
+            "directory": "External18",
+            "voiceContent": "I'm sorry... No, I'm more than sorry. I know lying to you right out of the gate didn't make the best first impression. I have explained to you the reasons why, and I promise I spoke only the truth. Still, it's okay if you don't accept my apology. If that's the case, I'll try to stay out of your way.",
+            "sourceName": "vo_olorun_dialog_close.wem"
+        },
+        "0fe201d9b4ece848": {
+            "hash": "0fe201d9b4ece848",
+            "directory": "External1",
+            "voiceContent": "Here's a tip — don't be the first person to put yourself out there. The first fruit that ripens is the easiest target, and people work the same way. Those who take the initiative usually wind up with the short end of the stick.",
+            "sourceName": "vo_olorun_dialog_share_01.wem"
+        },
+        "9e97957977f6eaea": {
+            "hash": "9e97957977f6eaea",
+            "directory": "External19",
+            "voiceContent": "Flying squirrels may seem like proud and aloof creatures when they glide through the air, but they're much more cunning than they look, always zooming in from nowhere, clinging to you until they get a treat... Little rascals, honestly.",
+            "sourceName": "vo_olorun_pref_gift_01.wem"
+        },
+        "992e04a4d51e950c": {
+            "hash": "992e04a4d51e950c",
+            "directory": "External19",
+            "voiceContent": "She seems to enjoy relaxing in high places, especially trees. In my experience, hanging upside down from a tree branch is more relaxing than lying on top of one. Maybe I should share that with her sometime... What? But don't we all need a change of perspective every now and then? Shouldn't that be even more true for an inventor like Xilonen?",
+            "sourceName": "vo_olorun_teammate_xilonen_01.wem"
+        },
+        "755664e8598213f1": {
+            "hash": "755664e8598213f1",
+            "directory": "External14",
+            "voiceContent": "Ajaw is an interesting case. He's old, but also young... And Kinich is just the opposite — young, but also old. You know what I mean, right?",
+            "sourceName": "vo_olorun_teammate_kinich_01.wem"
+        },
+        "b104b59aeafd47f4": {
+            "hash": "b104b59aeafd47f4",
+            "directory": "External22",
+            "voiceContent": "Chasca is famous for a reason. She's an amazing mediator. The minute she shows up, all the fighting stops, and everyone starts shaking hands like the best of friends. She has a pretty convincing method, apparently — armed deterrence... Not a bad name.",
+            "sourceName": "vo_olorun_teammate_chasca_01.wem"
+        },
+        "e67092f4af069d19": {
+            "hash": "e67092f4af069d19",
+            "directory": "External28",
+            "voiceContent": "I didn't really know the Pyro Archon before all this.I mean, I knew of her, but I didn't KNOW know her, you know? I used to think of her like a totem engraved with the word strength, like a symbol of total power and control. But, it never went deeper than that, so doubt started to creep in.Now that I know her better, I feel grateful, but I'm also a little disappointed in myself... She seems so sure of her purpose. She has a fire inside her and knows exactly why it burns, so she won't ever let the flames go out. I want that... I want to be someone who can help Natlan.Anyway, so there's that, and um... I also noticed her eating a lot of leafy vegetables at the victory feast. When I asked her about it, she said she likes to keep a balanced diet. Kinda surprised me somehow. I guess she's more mindful of the little things than I expected.",
+            "sourceName": "vo_olorun_teammate_mavuika_01.wem"
+        },
+        "3855f9eff3da8f5d": {
+            "hash": "3855f9eff3da8f5d",
+            "directory": "External7",
+            "voiceContent": "Ifa may scold his patients a lot, but he actually has a great relationship with the saurians. Whenever he has some time off, he'd play the guitar in front of the clinic, and a bunch of saurians would gather around and sing along.Although, it's more like noise than actual singing. I like to join in when I'm around, too... with the saurians, I mean.",
+            "sourceName": "vo_olorun_teammate_ifa_01.wem"
+        },
+        "62614bc292eb5eab": {
+            "hash": "62614bc292eb5eab",
+            "directory": "External12",
+            "voiceContent": "Granny is actually a very straightforward person. She wears her emotions on her sleeve, you know? It's hard for her to hide what she's feeling. You're the same age as her, right? Or... are you even older?Sorry, I shouldn't ask. That was probably rude... But, if I'm right, maybe you could spend more time together. Granny's been surrounded by people younger than her for a long time, and she's probably had enough. I know she'll be happy to see you.",
+            "sourceName": "vo_olorun_teammate_citlali_01.wem"
+        },
+        "dba7b142dba5ac19": {
+            "hash": "dba7b142dba5ac19",
+            "directory": "External27",
+            "voiceContent": "Iansan is a famous sports coach, and well... All I can say is, I'm grateful the Pyro Archon didn't send her after me. I may have an advantage when it comes to height, but I'm pretty sure she can outrun me... Oh, the smoke-cloud trick? Heh, after you use it a bunch, people start to see it coming.",
+            "sourceName": "vo_olorun_teammate_iansan_01.wem"
+        },
+        "1e397ab839c1b0ca": {
+            "hash": "1e397ab839c1b0ca",
+            "directory": "External3",
+            "voiceContent": "Hello. Oh, a handshake? Our greetings aren't usually so formal in Natlan, but... Okay, we can shake hands. In the future, you can just shout at me from afar. I have good hearing, so I won't miss it.",
+            "sourceName": "vo_olorun_friendship_01.wem"
+        },
+        "a45098c1a39921cd": {
+            "hash": "a45098c1a39921cd",
+            "directory": "External20",
+            "voiceContent": "You always seem so busy. I want to be like that, too — the kind of person who always has something to do. Then again, sometimes I like doing nothing at all. I keep flipping back and forth. It's annoying, but I can't help it.",
+            "sourceName": "vo_olorun_friendship_02.wem"
+        },
+        "356c7eca81fcad3c": {
+            "hash": "356c7eca81fcad3c",
+            "directory": "External6",
+            "voiceContent": "In Natlan, it gets really hot during the day, so I choose to go out at night if possible. The moonlight makes the surface of the water glisten. Have you noticed? Although, at night, the water turns pitch-black. It's impossible to tell how clean it is, so I would avoid contact.",
+            "sourceName": "vo_olorun_friendship_03.wem"
+        },
+        "8fa78cd2b08fe6e7": {
+            "hash": "8fa78cd2b08fe6e7",
+            "directory": "External17",
+            "voiceContent": "I'm more sensitive to souls than most people. I was born that way, but it's also kind of hard to describe... Human souls are like unpredictable masses of energy. Imagine a bunch of little saurian marshmallows of all different kinds... That's basically what a soul looks like. Your soul is warm, like it's been lightly toasted above a glowing fire.",
+            "sourceName": "vo_olorun_friendship_04.wem"
+        },
+        "e1d7ead9b87da2de": {
+            "hash": "e1d7ead9b87da2de",
+            "directory": "External28",
+            "voiceContent": "Other people don't understand me, and to be honest, I don't fully understand myself, either. I have so many doubts, so many unanswered questions, and new ones keep on coming.But, there's no quick-fix for something like this... Just gotta keep moving forward, right?",
+            "sourceName": "vo_olorun_friendship_05.wem"
+        },
+        "4f6be12c47a708a6": {
+            "hash": "4f6be12c47a708a6",
+            "directory": "External9",
+            "voiceContent": "Do I have other hobbies? Besides gardening and aphid-watching, you mean? Oh, yes... Of course. Just give me a second. It'll come to me.",
+            "sourceName": "vo_olorun_pref_hobby.wem"
+        },
+        "ee26ec4145a53a99": {
+            "hash": "ee26ec4145a53a99",
+            "directory": "External29",
+            "voiceContent": "Whenever I eat a Tataco, I like to put an extra tortilla underneath to catch all the ingredients that fall out. That way, you basically get two Tatacos in one.",
+            "sourceName": "vo_olorun_pref_foodLike.wem"
+        },
+        "0a295c2cd62a0a3b": {
+            "hash": "0a295c2cd62a0a3b",
+            "directory": "External1",
+            "voiceContent": "Military rations... especially compressed biscuits. They kinda remind me of The Captain's soul, actually... Good at the core, but a little tough.",
+            "sourceName": "vo_olorun_pref_foodDislike.wem"
+        },
+        "5612dc5e2568e716": {
+            "hash": "5612dc5e2568e716",
+            "directory": "External10",
+            "voiceContent": "Wow, even better than what I can make.",
+            "sourceName": "vo_olorun_spice_pref_01.wem"
+        },
+        "0bf3b789f1f61bbc": {
+            "hash": "0bf3b789f1f61bbc",
+            "directory": "External1",
+            "voiceContent": "Not too strong, not too bland... The flavor is just right.",
+            "sourceName": "vo_olorun_spice_normal_01.wem"
+        },
+        "98d1f2ed16a724f0": {
+            "hash": "98d1f2ed16a724f0",
+            "directory": "External19",
+            "voiceContent": "What avant garde technique is this...? I'm unfamiliar with it.",
+            "sourceName": "vo_olorun_spice_dislike_01.wem"
+        },
+        "c30261e2e26c05a5": {
+            "hash": "c30261e2e26c05a5",
+            "directory": "External24",
+            "voiceContent": "In Natlan, we believe a person's birthday decides their fate. Sharing a birthday with a great hero means being blessed with their protection and inheriting their character.I'm not sure the people out there who share your birthday know how lucky they are... Happy Birthday.",
+            "sourceName": "vo_olorun_pref_birthday_01.wem"
+        },
+        "80e0e28b772306b5": {
+            "hash": "80e0e28b772306b5",
+            "directory": "External16",
+            "voiceContent": "What did you give me just now? Can I have another look?",
+            "sourceName": "vo_olorun_starUp_01.wem"
+        },
+        "7fb6f679cca1089b": {
+            "hash": "7fb6f679cca1089b",
+            "directory": "External15",
+            "voiceContent": "My body feels so light... feels like I can get to even higher places now. Still, it's all about control. Hitting my head is no fun.",
+            "sourceName": "vo_olorun_starUp_03.wem"
+        },
+        "c5f228b53bf4c6e8": {
+            "hash": "c5f228b53bf4c6e8",
+            "directory": "External24",
+            "voiceContent": "I am not yet powerful enough to probe the boundaries of death, but thanks to you, the end now seems a little further away. Don't worry — I won't take advantage of that to do any irresponsible things. On that, you have my word.",
+            "sourceName": "vo_olorun_starUp_04.wem"
+        },
+        "e8d05b7c7683cb91": {
+            "hash": "e8d05b7c7683cb91",
+            "directory": "External29",
+            "voiceContent": "Please, hold up...",
+            "sourceName": "vo_olorun_life_less30_01.wem"
+        },
+        "b7418d75807f82ee": {
+            "hash": "b7418d75807f82ee",
+            "directory": "External22",
+            "voiceContent": "Not good...!",
+            "sourceName": "vo_olorun_life_less30_02.wem"
+        },
+        "3c64ef6d4002d6f7": {
+            "hash": "3c64ef6d4002d6f7",
+            "directory": "External7",
+            "voiceContent": "Bad omen.",
+            "sourceName": "vo_olorun_life_less30_03.wem"
+        },
+        "8e0cacca50d982f3": {
+            "hash": "8e0cacca50d982f3",
+            "directory": "External17",
+            "voiceContent": "The voices... are calling...",
+            "sourceName": "vo_olorun_life_die_03.wem"
+        },
+        "cb4c56a9ce4ece05": {
+            "hash": "cb4c56a9ce4ece05",
+            "directory": "External25",
+            "voiceContent": "Argh, too slow...",
+            "sourceName": "vo_olorun_battle_hit_H_01.wem"
+        },
+        "70da38a19f8c37e2": {
+            "hash": "70da38a19f8c37e2",
+            "directory": "External14",
+            "voiceContent": "Something's wrong...",
+            "sourceName": "vo_olorun_battle_hit_H_02.wem"
+        },
+        "a55b5e9e37668b29": {
+            "hash": "a55b5e9e37668b29",
+            "directory": "External20",
+            "voiceContent": "Sometimes, going from dreaming it to doing it... it's a really tough step.",
+            "sourceName": "vo_olorun_dialog_annoyed_01.wem"
+        },
+        "7b79e31e5d541c4c": {
+            "hash": "7b79e31e5d541c4c",
+            "directory": "External15",
+            "voiceContent": "Oh, hello. I'm Ororon from the Masters of the Night-Wind. Want some vegetables?Oh, don't worry — I'm not trying to sell anything to you or get anything in return. There's no rhyme or reason for it, really. I just like to see what every seed grows up to be, so I end up with a lot of produce. As long as my vegetables wind up in the stomach of someone who enjoys them, that's all that matters.",
+            "sourceName": "vo_olorun_draw_appear_01.wem"
+        },
+        "11a8643e6b2dfd65": {
+            "hash": "11a8643e6b2dfd65",
+            "directory": "External2",
+            "voiceContent": "Some people say lightning helps crops grow. So, I tried using my Vision in the middle of my vegetable field once, but the cabbages and tomatoes didn't like it, so I gave up.",
+            "sourceName": "vo_olorun_dialog_pendant_01.wem"
+        }
+    }
+}

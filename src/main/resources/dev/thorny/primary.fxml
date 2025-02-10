@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Copyright (c) 2015, 2019, Gluon and/or its affiliates.
+  All rights reserved. Use is subject to license terms.
+
+  This file is available and licensed under the following license:
+
+  Redistribution and use in source and binary forms, with or without
+  modification, are permitted provided that the following conditions
+  are met:
+
+  - Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+  - Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in
+    the documentation and/or other materials provided with the distribution.
+  - Neither the name of Oracle Corporation nor the names of its
+    contributors may be used to endorse or promote products derived
+    from this software without specific prior written permission.
+
+  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+  "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+  LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+  A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+  OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+  LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+  DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+  THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-->
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Hyperlink?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.Tooltip?>
+<?import javafx.scene.control.TreeTableColumn?>
+<?import javafx.scene.control.TreeTableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.text.TextFlow?>
+
+<VBox id="vBoxRoot" maxHeight="700.0" maxWidth="1100.0" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="1100.0" stylesheets="@style.css" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="dev.thorny.PrimaryController">
+  <children>
+    <MenuBar>
+      <menus>
+        <Menu mnemonicParsing="false" text="File">
+          <items>
+            <MenuItem mnemonicParsing="false" onAction="#switchToLangSelection" text="Select game or voice lang" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#openModsFolder" text="Open mods folder" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" onAction="#initiateBackupRestore" text="Restore backup" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+            <MenuItem mnemonicParsing="false" onAction="#exit" text="Quit" />
+          </items>
+        </Menu>
+        <Menu mnemonicParsing="false" text="Help">
+          <items>
+            <MenuItem mnemonicParsing="false">
+                     <graphic>
+                        <Hyperlink fx:id="github" alignment="CENTER" contentDisplay="CENTER" onAction="#openLink" text="Github">
+                        </Hyperlink>
+                     </graphic></MenuItem>
+                  <MenuItem mnemonicParsing="false">
+                     <graphic>
+                        <Hyperlink fx:id="gamebanana" onAction="#openLink" text="Gamebanana" />
+                     </graphic>
+                  </MenuItem>
+          </items>
+        </Menu>
+      </menus>
+    </MenuBar>
+    <SplitPane dividerPositions="0.2505567928730512, 0.7505567928730512" focusTraversable="true" prefHeight="-1.0" prefWidth="-1.0" VBox.vgrow="ALWAYS">
+      <items>
+        <AnchorPane prefHeight="0.0" prefWidth="0.0">
+          <children>
+                  <ListView fx:id="userFileList" layoutX="2.0" layoutY="56.0" onDragDropped="#dragAddFiles" AnchorPane.bottomAnchor="43.19999999999993" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="1.1999999999999886" AnchorPane.topAnchor="55.999999999999886" />
+                  <Button id="addSoundsButton" layoutX="84.0" layoutY="14.0" mnemonicParsing="false" onAction="#addFiles" text="Add Sounds" AnchorPane.bottomAnchor="605.1999999999999" AnchorPane.topAnchor="14.0">
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                     <tooltip>
+                        <Tooltip text="Add your desired sound files to replace game audio with">
+                        </Tooltip>
+                     </tooltip></Button>
+                  <Button layoutX="14.0" layoutY="616.0" mnemonicParsing="false" onAction="#removeAllUserSounds" text="Clear all sounds" AnchorPane.bottomAnchor="11.199999999999978" />
+                  <Button layoutX="123.0" layoutY="616.0" mnemonicParsing="false" onAction="#removeAllSoundReplacements" text="Clear all replacements" AnchorPane.bottomAnchor="11.200000000000092" />
+          </children>
+        </AnchorPane>
+            <AnchorPane>
+               <children>
+              <ScrollPane fitToHeight="true" fitToWidth="true" pannable="true" prefHeight="-1.0" prefWidth="-1.0" vbarPolicy="NEVER" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                     <content>
+                        <TreeTableView fx:id="avatarTree" prefHeight="650.0" prefWidth="660.0">
+                          <placeholder>
+                              <Label alignment="CENTER" mouseTransparent="true" prefHeight="18.0" prefWidth="234.0" text="Add sounds on the left to get started" />
+                           </placeholder>
+                          <columns>
+                              <TreeTableColumn fx:id="treeSourceName" prefWidth="245.59996950626373" text="Source name" />
+                              <TreeTableColumn fx:id="treeReplacing" minWidth="-Infinity" prefWidth="120.7999267578125" text="Replacing with" />
+                            <TreeTableColumn fx:id="treeVoiceContent" minWidth="-Infinity" prefWidth="164.00003051757812" text="Voice Content" />
+                            <TreeTableColumn fx:id="treeHash" minWidth="-Infinity" prefWidth="128.7999267578125" text="Hash" />
+                          </columns>
+                        </TreeTableView>
+                     </content>
+              </ScrollPane>
+               </children>
+            </AnchorPane>
+        <AnchorPane minHeight="-Infinity" minWidth="-Infinity" prefHeight="650.0" prefWidth="200.0">
+          <children>
+            <Label id="replacementsText" alignment="CENTER" layoutX="4.0" layoutY="5.0" prefHeight="35.0" prefWidth="260.0" style="&#10;" text="Replacements" textAlignment="CENTER" wrapText="false" AnchorPane.topAnchor="5.0">
+                     <font>
+                <Font size="18.0" fx:id="x1" />
+                     </font>
+                     <textFill>
+                <Color red="0.624" green="0.624" blue="0.624" fx:id="x2" />
+                     </textFill></Label>
+                  <Button id="makeModButton" fx:id="makeModButton" layoutX="154.0" layoutY="573.0" mnemonicParsing="false" text="Make mod" textAlignment="CENTER" AnchorPane.bottomAnchor="46.199999999999974" AnchorPane.rightAnchor="22.799999999999983">
+                  </Button>
+                  <CheckBox fx:id="applyModCheckbox" alignment="CENTER" layoutX="8.0" layoutY="552.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="134.0" selected="true" text="Apply mod to game" AnchorPane.bottomAnchor="63.199999999999974" AnchorPane.rightAnchor="128.79999999999998">
+                     <tooltip>
+                        <Tooltip maxWidth="300.0" text="Whether or not the mod should be automatically applied to the game after it is created. (Requires game to be set)" wrapText="true" />
+                     </tooltip>
+                  </CheckBox>
+                  <ListView fx:id="replacementList" layoutX="-1.0" layoutY="42.0" prefHeight="495.0" prefWidth="274.0" AnchorPane.bottomAnchor="113.19999999999999" AnchorPane.leftAnchor="-1.0" AnchorPane.rightAnchor="-2.3999999999999773" AnchorPane.topAnchor="41.599999999999966" />
+                  <CheckBox fx:id="saveSeparatelyCheckbox" alignment="CENTER" layoutX="8.0" layoutY="589.0" mnemonicParsing="false" prefHeight="35.0" prefWidth="134.0" selected="true" text="Save separately (read tooltip)" textAlignment="CENTER" wrapText="true" AnchorPane.bottomAnchor="26.199999999999974" AnchorPane.rightAnchor="128.79999999999998">
+                     <tooltip>
+                        <Tooltip maxWidth="300.0" text="The mod will be saved to its own folder. If unchecked, mod will be saved to an &quot;all mods&quot; folder, overwriting any of the same voiceline(s)." wrapText="true" />
+                     </tooltip>
+                  </CheckBox>
+                  <TextFlow fx:id="updateTextFlow" layoutX="-1.0" layoutY="-1.0" prefHeight="551.0" prefWidth="271.0" textAlignment="CENTER" visible="false">
+                     <children>
+                        <Text fx:id="updateText" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="100.0" />
+                        <Text fx:id="updateTextBody" layoutX="134.0" layoutY="10.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" wrappingWidth="100.0" />
+                     </children></TextFlow>
+          </children>
+        </AnchorPane>
+      </items>
+    </SplitPane>
+    <HBox id="HBox" alignment="CENTER_LEFT" spacing="5.0" VBox.vgrow="NEVER">
+      <children>
+        <Label maxHeight="1.7976931348623157E308" maxWidth="-1.0" text="Use GitHub issues or Gamebanana page to report issues" HBox.hgrow="ALWAYS">
+          <font>
+            <Font size="11.0" fx:id="x3" />
+          </font>
+          <textFill>
+            <Color red="0.625" green="0.625" blue="0.625" fx:id="x4" />
+          </textFill>
+        </Label>
+        <Pane prefHeight="-1.0" prefWidth="-1.0" HBox.hgrow="ALWAYS" />
+        <Label font="$x3" maxWidth="-1.0" text="https://github.com/NotThorny/Audio-Mod-Maker" textFill="$x4" HBox.hgrow="NEVER" />
+      </children>
+      <padding>
+        <Insets bottom="3.0" left="3.0" right="3.0" top="3.0" />
+      </padding>
+    </HBox>
+  </children>
+</VBox>

@@ -1,0 +1,968 @@
+{
+    "Teapot": {
+        "1d036eb8778e8dc3": {
+            "hash": "1d036eb8778e8dc3",
+            "directory": "External3",
+            "voiceContent": "我的小跟班跟着我，品味也变得越来越好了嘛。我很欣慰很欣慰喔。",
+            "sourceName": "vo_mimiTomo_xm_dori_jewelryStore_02.wem"
+        },
+        "a753272c49059ac6": {
+            "hash": "a753272c49059ac6",
+            "directory": "External20",
+            "voiceContent": "哎呀哎呀，这熟悉的氛围环境和巧妙的商铺布局。",
+            "sourceName": "vo_mimiTomo_xm_dori_grandBazaar_01.wem"
+        },
+        "c78e3cc1f68deffa": {
+            "hash": "c78e3cc1f68deffa",
+            "directory": "External24",
+            "voiceContent": "乐善好施的桑歌玛哈巴依老爷决定在这里多待一会儿，你不用道谢，只需要感到荣幸就行。",
+            "sourceName": "vo_mimiTomo_xm_dori_jewelryStore_03.wem"
+        },
+        "179755351551e029": {
+            "hash": "179755351551e029",
+            "directory": "External2",
+            "voiceContent": "不错嘛，难道我的小跟班还是一个颇有天赋的商业奇才？",
+            "sourceName": "vo_mimiTomo_xm_dori_grandBazaar_02.wem"
+        },
+        "c1ec3b3e9423dbe8": {
+            "hash": "c1ec3b3e9423dbe8",
+            "directory": "External24",
+            "voiceContent": "下次闻名遐迩的桑歌玛哈巴依老爷出去谈大生意的时候，你记得要跟上来喔。",
+            "sourceName": "vo_mimiTomo_xm_dori_grandBazaar_03.wem"
+        },
+        "b2af40d30357402c": {
+            "hash": "b2af40d30357402c",
+            "directory": "External22",
+            "voiceContent": "嚯嚯，虽然比不过世界上最可爱的摩拉，但这里的珠宝也是亮晶晶的，很漂亮嘛。",
+            "sourceName": "vo_mimiTomo_xm_dori_jewelryStore_01.wem"
+        },
+        "45e51985b7e1ad48": {
+            "hash": "45e51985b7e1ad48",
+            "directory": "External8",
+            "voiceContent": "喔？难道说难道说，你想让它打败艾尔卡萨扎莱宫，变成我的第一据点？",
+            "sourceName": "vo_dori_mimitomo_friendship1_03b_1.wem"
+        },
+        "836f8575e3a5eaa6": {
+            "hash": "836f8575e3a5eaa6",
+            "directory": "External16",
+            "voiceContent": "我很欣赏喔！",
+            "sourceName": "vo_dori_mimitomo_friendship1_03b_3.wem"
+        },
+        "af09a277f435fe34": {
+            "hash": "af09a277f435fe34",
+            "directory": "External21",
+            "voiceContent": "既然这里也是我的据点，那么自然是要符合我的品味！",
+            "sourceName": "vo_dori_mimitomo_friendship3_05.wem"
+        },
+        "a8cac2117e52f99d": {
+            "hash": "a8cac2117e52f99d",
+            "directory": "External21",
+            "voiceContent": "不用着急喔，多多攒起来吧。",
+            "sourceName": "vo_dori_mimitomo_friendship1_06.wem"
+        },
+        "2a53b2dfa07d56a4": {
+            "hash": "2a53b2dfa07d56a4",
+            "directory": "External5",
+            "voiceContent": "那摩拉你准备好了吗？",
+            "sourceName": "vo_dori_mimitomo_friendship2_02.wem"
+        },
+        "b7484aae8991aad7": {
+            "hash": "b7484aae8991aad7",
+            "directory": "External22",
+            "voiceContent": "不过等你能给我一大——笔肖像权使用费之后再说吧。",
+            "sourceName": "vo_dori_mimitomo_friendship3_04a_2.wem"
+        },
+        "f8f8560244ed28e3": {
+            "hash": "f8f8560244ed28e3",
+            "directory": "External31",
+            "voiceContent": "只是呢，如果要请博闻强识的桑歌玛哈巴依老爷来当这里的改造顾问的话…",
+            "sourceName": "vo_dori_mimitomo_friendship1_04.wem"
+        },
+        "ab1e00c5b2ca821b": {
+            "hash": "ab1e00c5b2ca821b",
+            "directory": "External21",
+            "voiceContent": "好呀好呀。",
+            "sourceName": "vo_dori_mimitomo_friendship2_01.wem"
+        },
+        "5ffdbfe59fdda76c": {
+            "hash": "5ffdbfe59fdda76c",
+            "directory": "External11",
+            "voiceContent": "没错，就是摩拉雕塑！",
+            "sourceName": "vo_dori_mimitomo_friendship3_04b_2.wem"
+        },
+        "b9492ef45969a70d": {
+            "hash": "b9492ef45969a70d",
+            "directory": "External23",
+            "voiceContent": "咳咳，总之摩拉能解决世界上的大部分烦恼。",
+            "sourceName": "vo_dori_mimitomo_friendship2_03b_3.wem"
+        },
+        "39e6a81a5cb685cc": {
+            "hash": "39e6a81a5cb685cc",
+            "directory": "External7",
+            "voiceContent": "既然有大生意，我也会一直留在这里的，嘿嘿。",
+            "sourceName": "vo_dori_mimitomo_friendship1_07.wem"
+        },
+        "49fc22983a6388f8": {
+            "hash": "49fc22983a6388f8",
+            "directory": "External9",
+            "voiceContent": "我们一起来做个金灿灿的雕塑吧！放在这里最显眼的地方！",
+            "sourceName": "vo_dori_mimitomo_friendship3_01.wem"
+        },
+        "4dcb14fd3ab05c7c": {
+            "hash": "4dcb14fd3ab05c7c",
+            "directory": "External9",
+            "voiceContent": "而且我再也不想因为摩拉不够，而失去些什么了…",
+            "sourceName": "vo_dori_mimitomo_friendship2_03b_2.wem"
+        },
+        "052ce76da046158f": {
+            "hash": "052ce76da046158f",
+            "directory": "External0",
+            "voiceContent": "不错嘛，看来我的小跟班很有上进心。",
+            "sourceName": "vo_dori_mimitomo_friendship1_03b_2.wem"
+        },
+        "ca51edcb1414f403": {
+            "hash": "ca51edcb1414f403",
+            "directory": "External25",
+            "voiceContent": "哎呀哎呀，跟了我这么长时间，小跟班的品味也变好了不少嘛！",
+            "sourceName": "vo_dori_mimitomo_friendship3_04b_1.wem"
+        },
+        "3b10942c073883ee": {
+            "hash": "3b10942c073883ee",
+            "directory": "External7",
+            "voiceContent": "咳咳，虽然比不过艾尔卡萨扎莱宫…",
+            "sourceName": "vo_dori_mimitomo_friendship1_01.wem"
+        },
+        "832b274194fc9a04": {
+            "hash": "832b274194fc9a04",
+            "directory": "External16",
+            "voiceContent": "已经算是有两把刷子了！",
+            "sourceName": "vo_dori_mimitomo_friendship1_03a_2.wem"
+        },
+        "cdc1dfc75cf34fe7": {
+            "hash": "cdc1dfc75cf34fe7",
+            "directory": "External25",
+            "voiceContent": "第二，因为摩拉亮晶晶圆滚滚非常漂亮！",
+            "sourceName": "vo_dori_mimitomo_friendship2_03a_2.wem"
+        },
+        "6c9cacd3954753e1": {
+            "hash": "6c9cacd3954753e1",
+            "directory": "External13",
+            "voiceContent": "制作工具和金灿灿的材料，我前几天已经都准备好了。总之这次我出钱，你出力！",
+            "sourceName": "vo_dori_mimitomo_friendship3_08.wem"
+        },
+        "5b754e872ab76016": {
+            "hash": "5b754e872ab76016",
+            "directory": "External11",
+            "voiceContent": "哼哼，原来是缺少了金灿灿的感觉！",
+            "sourceName": "vo_dori_mimitomo_friendship3_03.wem"
+        },
+        "5be380e69683532f": {
+            "hash": "5be380e69683532f",
+            "directory": "External11",
+            "voiceContent": "这样子我就可以一直待在你身边，从你手上赚摩拉了。",
+            "sourceName": "vo_dori_mimitomo_friendship2_05.wem"
+        },
+        "6960ba4017751756": {
+            "hash": "6960ba4017751756",
+            "directory": "External13",
+            "voiceContent": "祝你做个金灿灿的摩拉梦。",
+            "sourceName": "vo_dori_mimitomo_night_02.wem"
+        },
+        "6c9f6232fd3ccc91": {
+            "hash": "6c9f6232fd3ccc91",
+            "directory": "External13",
+            "voiceContent": "但作为我的第二据点来说，合格了！",
+            "sourceName": "vo_dori_mimitomo_friendship1_02.wem"
+        },
+        "58b1f52a1b4768fb": {
+            "hash": "58b1f52a1b4768fb",
+            "directory": "External11",
+            "voiceContent": "拜托，能让见多识广的桑歌玛哈巴依老爷给出这样子的评价…",
+            "sourceName": "vo_dori_mimitomo_friendship1_03a_1.wem"
+        },
+        "addfbe6649b40e62": {
+            "hash": "addfbe6649b40e62",
+            "directory": "External21",
+            "voiceContent": "你得拿出足够的干劲才行。",
+            "sourceName": "vo_dori_mimitomo_friendship3_07.wem"
+        },
+        "0944b08022c937ff": {
+            "hash": "0944b08022c937ff",
+            "directory": "External1",
+            "voiceContent": "没错，我想了很久这里缺什么…",
+            "sourceName": "vo_dori_mimitomo_friendship3_02.wem"
+        },
+        "358ae8b6ccf17fce": {
+            "hash": "358ae8b6ccf17fce",
+            "directory": "External6",
+            "voiceContent": "现在，先来做个摩拉雕塑！",
+            "sourceName": "vo_dori_mimitomo_friendship3_04a_3.wem"
+        },
+        "b81f42e2aee7a913": {
+            "hash": "b81f42e2aee7a913",
+            "directory": "External23",
+            "voiceContent": "因为摩拉是世界上最可爱的东西！",
+            "sourceName": "vo_dori_mimitomo_friendship2_03b_1.wem"
+        },
+        "d9a4e848e3c15cb9": {
+            "hash": "d9a4e848e3c15cb9",
+            "directory": "External27",
+            "voiceContent": "晚安，小跟班。",
+            "sourceName": "vo_dori_mimitomo_night_01.wem"
+        },
+        "0884613954ad3995": {
+            "hash": "0884613954ad3995",
+            "directory": "External1",
+            "voiceContent": "你可是比那些没有艺术细胞的呆头菇高出一大截了呢！",
+            "sourceName": "vo_dori_mimitomo_friendship1_03a_3.wem"
+        },
+        "1ff23dce64e10bde": {
+            "hash": "1ff23dce64e10bde",
+            "directory": "External3",
+            "voiceContent": "第三，只有真心喜欢摩拉，摩拉才会源源不断地跑向你身边。",
+            "sourceName": "vo_dori_mimitomo_friendship2_03a_3.wem"
+        },
+        "4b5fa4094d0a0b9a": {
+            "hash": "4b5fa4094d0a0b9a",
+            "directory": "External9",
+            "voiceContent": "摩拉，也需要很多很多…",
+            "sourceName": "vo_dori_mimitomo_friendship1_05.wem"
+        },
+        "36b4dcc877738b70": {
+            "hash": "36b4dcc877738b70",
+            "directory": "External6",
+            "voiceContent": "如果你这么想要多莉雕塑的话，也不是不可以！",
+            "sourceName": "vo_dori_mimitomo_friendship3_04a_1.wem"
+        },
+        "f43168f5e6509e0c": {
+            "hash": "f43168f5e6509e0c",
+            "directory": "External30",
+            "voiceContent": "嘿嘿，开玩笑的啦。只是想试试看你的反应。",
+            "sourceName": "vo_dori_mimitomo_hello_02.wem"
+        },
+        "fa37810c7133041e": {
+            "hash": "fa37810c7133041e",
+            "directory": "External31",
+            "voiceContent": "如果有什么是摩拉解决不了的，那么翻倍的摩拉一定就能解决了！",
+            "sourceName": "vo_dori_mimitomo_friendship2_03b_4.wem"
+        },
+        "d6c01eeed6ffff46": {
+            "hash": "d6c01eeed6ffff46",
+            "directory": "External26",
+            "voiceContent": "所以你也要努力赚摩拉爱摩拉喔。",
+            "sourceName": "vo_dori_mimitomo_friendship2_04.wem"
+        },
+        "688a84d80259a4d4": {
+            "hash": "688a84d80259a4d4",
+            "directory": "External13",
+            "voiceContent": "一日之计在于晨，前方摩拉不等人。",
+            "sourceName": "vo_dori_mimitomo_morning_02.wem"
+        },
+        "f1593301221e4068": {
+            "hash": "f1593301221e4068",
+            "directory": "External30",
+            "voiceContent": "小跟班，加油加油喔！",
+            "sourceName": "vo_dori_mimitomo_friendship2_06.wem"
+        },
+        "120012bf4d340d4b": {
+            "hash": "120012bf4d340d4b",
+            "directory": "External2",
+            "voiceContent": "早呀，小跟班。",
+            "sourceName": "vo_dori_mimitomo_morning_01.wem"
+        },
+        "248271e01246ac80": {
+            "hash": "248271e01246ac80",
+            "directory": "External4",
+            "voiceContent": "第一，当然是因为我是商人。",
+            "sourceName": "vo_dori_mimitomo_friendship2_03a_1.wem"
+        },
+        "4ca54ec4ec1d6f9a": {
+            "hash": "4ca54ec4ec1d6f9a",
+            "directory": "External9",
+            "voiceContent": "等你准备好了，就来和我说吧。",
+            "sourceName": "vo_dori_mimitomo_friendship3_10.wem"
+        },
+        "13293ed0f7b4c4a5": {
+            "hash": "13293ed0f7b4c4a5",
+            "directory": "External2",
+            "voiceContent": "我们快行动起来吧。",
+            "sourceName": "vo_dori_mimitomo_morning_03.wem"
+        },
+        "becd52da9d358a60": {
+            "hash": "becd52da9d358a60",
+            "directory": "External23",
+            "voiceContent": "哼，少啰嗦少啰嗦。",
+            "sourceName": "vo_dori_mimitomo_friendship3_09.wem"
+        }
+    },
+    "Quests": {
+        "f94f433b71dfb884": {
+            "hash": "f94f433b71dfb884",
+            "directory": "External31",
+            "voiceContent": "（哎…到时候随便请那宝石商人吃点五百摩拉的路边摊吧…）",
+            "sourceName": "vo_HSEQ001_5_dori_21.wem"
+        },
+        "331a1409b2469df0": {
+            "hash": "331a1409b2469df0",
+            "directory": "External6",
+            "voiceContent": "二十万摩拉，怎么样？",
+            "sourceName": "vo_HSEQ001_5_dori_10.wem"
+        },
+        "96fcafd7c195707a": {
+            "hash": "96fcafd7c195707a",
+            "directory": "External18",
+            "voiceContent": "（等等…阿如村最近的确充满商机，如果借此得到守护者的庇护还能行些方便的话…倒是一笔不错的交易…）",
+            "sourceName": "vo_HSEQ001_5_dori_16.wem"
+        },
+        "3d910fba43aa808a": {
+            "hash": "3d910fba43aa808a",
+            "directory": "External7",
+            "voiceContent": "哦！是要买情报啊！欢迎欢迎！我最喜欢做情报生意了，带在身上不累，卖给别人翻倍！啊不…是…免税，免税。",
+            "sourceName": "vo_HSEQ001_5_dori_05.wem"
+        },
+        "fb789190815eb95f": {
+            "hash": "fb789190815eb95f",
+            "directory": "External31",
+            "voiceContent": "嗨呀，瞧您说的，可不就是为难桑歌玛哈巴依老爷我吗？这类消息源都是商业机密，打听起来费劲得很呢！",
+            "sourceName": "vo_HSEQ001_5_dori_08.wem"
+        },
+        "31f01ff807c4924e": {
+            "hash": "31f01ff807c4924e",
+            "directory": "External6",
+            "voiceContent": "什么？！",
+            "sourceName": "vo_HSEQ001_5_dori_12.wem"
+        },
+        "9236a3c614028308": {
+            "hash": "9236a3c614028308",
+            "directory": "External18",
+            "voiceContent": "呃…嘿嘿…好吧！桑歌玛哈巴依老爷考虑了一下，这次的生意就不计成本了！三…啧…三万就三万！",
+            "sourceName": "vo_HSEQ001_5_dori_18.wem"
+        },
+        "b4d76e016ee6bb71": {
+            "hash": "b4d76e016ee6bb71",
+            "directory": "External22",
+            "voiceContent": "…好吧！阿如村是个有人情味的地方，这个面子我可以卖。你开个价。",
+            "sourceName": "vo_HSEQ001_5_dori_11.wem"
+        },
+        "40063dbf0c14b9c9": {
+            "hash": "40063dbf0c14b9c9",
+            "directory": "External8",
+            "voiceContent": "那…那是当然，谁叫客户是阿如村的守护者嘛，重在结交朋友，这买卖就是亏本我也得做！",
+            "sourceName": "vo_HSEQ001_5_dori_19.wem"
+        },
+        "a5cdaf9a003113f6": {
+            "hash": "a5cdaf9a003113f6",
+            "directory": "External20",
+            "voiceContent": "哟！痛快！那等我算算啊，跑路的车马费，加上给别人送礼的费用…",
+            "sourceName": "vo_HSEQ001_5_dori_09.wem"
+        },
+        "582913cc8ec6f3fc": {
+            "hash": "582913cc8ec6f3fc",
+            "directory": "External11",
+            "voiceContent": "（找人倒是一点不麻烦，就是赚得少些…刚巧我有几个熟人平时也加工宝石，随口问他们一句应该就能搞定。）",
+            "sourceName": "vo_HSEQ001_5_dori_07.wem"
+        },
+        "04957fdbc5499b9e": {
+            "hash": "04957fdbc5499b9e",
+            "directory": "External0",
+            "voiceContent": "…来，你要的货，放心吧，都是好东西，嘿嘿嘿，要不要再顺手带一份桑歌玛哈巴依老爷我新进的好货呀？",
+            "sourceName": "vo_HSEQ001_5_dori_01.wem"
+        },
+        "5ed08de3f3dcd541": {
+            "hash": "5ed08de3f3dcd541",
+            "directory": "External11",
+            "voiceContent": "啊？不要吗？慢走不送。",
+            "sourceName": "vo_HSEQ001_5_dori_02.wem"
+        },
+        "821db3e8ce5ec0ac": {
+            "hash": "821db3e8ce5ec0ac",
+            "directory": "External16",
+            "voiceContent": "怎么还往下砍的呀！",
+            "sourceName": "vo_HSEQ001_5_dori_14.wem"
+        },
+        "f101cddfeffb357d": {
+            "hash": "f101cddfeffb357d",
+            "directory": "External30",
+            "voiceContent": "什…！",
+            "sourceName": "vo_HSEQ001_5_dori_15.wem"
+        },
+        "ec71e1ce42960e43": {
+            "hash": "ec71e1ce42960e43",
+            "directory": "External29",
+            "voiceContent": "（嘁…坎蒂丝这家伙，该不会是想顺带为村里招揽些贸易吧…真是可怕的女人…）",
+            "sourceName": "vo_HSEQ001_5_dori_17.wem"
+        },
+        "4ce29f2c3b5cb132": {
+            "hash": "4ce29f2c3b5cb132",
+            "directory": "External9",
+            "voiceContent": "哎…再见再见，慢走不送了啊…",
+            "sourceName": "vo_HSEQ001_5_dori_23.wem"
+        },
+        "c3a72dc3ad803e8d": {
+            "hash": "c3a72dc3ad803e8d",
+            "directory": "External24",
+            "voiceContent": "是找人的工作呀？这可有些麻烦呢，总觉得要花掉不少摩拉。",
+            "sourceName": "vo_HSEQ001_5_dori_06.wem"
+        },
+        "c27d41b202fe4093": {
+            "hash": "c27d41b202fe4093",
+            "directory": "External24",
+            "voiceContent": "有何贵干呀？我可没在沙漠进行任何不合时宜的买卖呢。",
+            "sourceName": "vo_HSEQ001_5_dori_04.wem"
+        },
+        "ced61123f82a877b": {
+            "hash": "ced61123f82a877b",
+            "directory": "External25",
+            "voiceContent": "收集情报也要些时间，你们…明天再来找我吧！跑这么一趟可不是什么轻松活。",
+            "sourceName": "vo_HSEQ001_5_dori_22.wem"
+        },
+        "7ea87d3331905815": {
+            "hash": "7ea87d3331905815",
+            "directory": "External15",
+            "voiceContent": "啊停停停！三万！说好三万了！",
+            "sourceName": "vo_HSEQ001_5_dori_20.wem"
+        },
+        "05beb3ed6fca6140": {
+            "hash": "05beb3ed6fca6140",
+            "directory": "External0",
+            "voiceContent": "哎呀呀！瞧瞧谁来啦！是我的两位大客户！还有…噢？你是阿如村的守护者坎蒂丝小姐…唔唔唔，有趣！",
+            "sourceName": "vo_HSEQ001_5_dori_03.wem"
+        },
+        "b3ad81efc464bd57": {
+            "hash": "b3ad81efc464bd57",
+            "directory": "External22",
+            "voiceContent": "不卖不卖！这简直…简直亏得我身上的眼镜片都剩不下来啦！绝对不卖！",
+            "sourceName": "vo_HSEQ001_5_dori_13.wem"
+        },
+        "d95d1b18a9ad2ce5": {
+            "hash": "d95d1b18a9ad2ce5",
+            "directory": "External27",
+            "voiceContent": "（又谈成一笔生意。嘿嘿，摩拉，多多的摩拉…）",
+            "sourceName": "vo_KVCOP001_19072_dori_01.wem"
+        },
+        "2b74af69f958fa64": {
+            "hash": "2b74af69f958fa64",
+            "directory": "External5",
+            "voiceContent": "（嗯…刚刚应该要引荐费的。）",
+            "sourceName": "vo_KVCOP001_19074_dori_02.wem"
+        },
+        "ad67e961b62670f5": {
+            "hash": "ad67e961b62670f5",
+            "directory": "External21",
+            "voiceContent": "（引荐费一百万摩拉，谈成了付款，谈不成不用给。卡维应该会答应…）",
+            "sourceName": "vo_KVCOP001_19074_dori_03.wem"
+        },
+        "a8d8fd5008c2fcdb": {
+            "hash": "a8d8fd5008c2fcdb",
+            "directory": "External21",
+            "voiceContent": "（就让伟大的桑歌玛哈巴依老爷帮帮你们吧。）",
+            "sourceName": "vo_KVCOP001_19074_dori_01.wem"
+        }
+    },
+    "Gameplay": {
+        "f6eeefdc6e001d6f": {
+            "hash": "f6eeefdc6e001d6f",
+            "directory": "External30",
+            "voiceContent": "嘿哟！",
+            "sourceName": "vo_dori_battle_skill1_01.wem"
+        },
+        "8c63a1f6f99956a8": {
+            "hash": "8c63a1f6f99956a8",
+            "directory": "External17",
+            "voiceContent": "看我的！",
+            "sourceName": "vo_dori_battle_skill1_02.wem"
+        },
+        "e575bbed7dac37e9": {
+            "hash": "e575bbed7dac37e9",
+            "directory": "External28",
+            "voiceContent": "留下摩拉来！",
+            "sourceName": "vo_dori_battle_skill1_03.wem"
+        },
+        "d908099cd70432cd": {
+            "hash": "d908099cd70432cd",
+            "directory": "External27",
+            "voiceContent": "魔灯显灵！",
+            "sourceName": "vo_dori_battle_skill3_01.wem"
+        },
+        "52f0eb936d2cc1ca": {
+            "hash": "52f0eb936d2cc1ca",
+            "directory": "External10",
+            "voiceContent": "大显身手时间！",
+            "sourceName": "vo_dori_battle_skill3_02.wem"
+        },
+        "d4781d8b299f0bd3": {
+            "hash": "d4781d8b299f0bd3",
+            "directory": "External26",
+            "voiceContent": "一手交钱，一手交货。",
+            "sourceName": "vo_dori_battle_skill3_03.wem"
+        },
+        "da6a1e62da808324": {
+            "hash": "da6a1e62da808324",
+            "directory": "External27",
+            "voiceContent": "哇，分我一半！",
+            "sourceName": "vo_dori_chest_open_01.wem"
+        },
+        "5b346c48eccdae9b": {
+            "hash": "5b346c48eccdae9b",
+            "directory": "External11",
+            "voiceContent": "先让我看看。",
+            "sourceName": "vo_dori_chest_open_02.wem"
+        },
+        "d940fa512fffd952": {
+            "hash": "d940fa512fffd952",
+            "directory": "External27",
+            "voiceContent": "我来我来！",
+            "sourceName": "vo_dori_chest_open_03.wem"
+        },
+        "c8e791f843cb7784": {
+            "hash": "c8e791f843cb7784",
+            "directory": "External25",
+            "voiceContent": "救命之恩，记得给钱！",
+            "sourceName": "vo_dori_life_less30_teammate_01.wem"
+        },
+        "9e6e5fe0ca16467b": {
+            "hash": "9e6e5fe0ca16467b",
+            "directory": "External19",
+            "voiceContent": "呆头菇，命和摩拉一样重要。",
+            "sourceName": "vo_dori_life_less30_teammate_02.wem"
+        },
+        "1f7dd98339c1a281": {
+            "hash": "1f7dd98339c1a281",
+            "directory": "External3",
+            "voiceContent": "摩拉…还没赚够呢…",
+            "sourceName": "vo_dori_life_die_01.wem"
+        },
+        "c1dbcb7b08498dde": {
+            "hash": "c1dbcb7b08498dde",
+            "directory": "External24",
+            "voiceContent": "又是…这样…",
+            "sourceName": "vo_dori_life_die_02.wem"
+        },
+        "2ea417ecd4f91638": {
+            "hash": "2ea417ecd4f91638",
+            "directory": "External5",
+            "voiceContent": "走吧走吧，赚笔大的！",
+            "sourceName": "vo_dori_teamJoin_01.wem"
+        },
+        "f152a5d4c041ee3f": {
+            "hash": "f152a5d4c041ee3f",
+            "directory": "External30",
+            "voiceContent": "摩拉不等人，快跟上。",
+            "sourceName": "vo_dori_teamJoin_02.wem"
+        },
+        "438343dbc8301756": {
+            "hash": "438343dbc8301756",
+            "directory": "External8",
+            "voiceContent": "是什么大生意？",
+            "sourceName": "vo_dori_teamJoin_03.wem"
+        },
+        "735e14eb9d1d19bc": {
+            "hash": "735e14eb9d1d19bc",
+            "directory": "External14",
+            "voiceContent": "哎呀呀，这不是大名鼎鼎的旅行者吗？我是旅行商人多莉·桑歌玛哈巴依。作为给你的见面礼，我这儿的商品全部限时九折优惠，赶快来挑选吧，我帮你打包~",
+            "sourceName": "vo_dori_draw_appear.wem"
+        },
+        "0cb5435736b6c772": {
+            "hash": "0cb5435736b6c772",
+            "directory": "External1",
+            "voiceContent": "我爱摩拉，摩拉爱我，啦啦啦。",
+            "sourceName": "vo_dori_character_idle_01.wem"
+        },
+        "3e7b215e2cea6e55": {
+            "hash": "3e7b215e2cea6e55",
+            "directory": "External7",
+            "voiceContent": "先把商品涨价百分之三十，然后再打八折卖出，不仅我赚得多了，顾客也会觉得划算，这就是双赢。",
+            "sourceName": "vo_dori_character_idle_02.wem"
+        },
+        "bc86e766701b44c4": {
+            "hash": "bc86e766701b44c4",
+            "directory": "External23",
+            "voiceContent": "只要摩拉管够，和教令院对着干也没什么大不了的。",
+            "sourceName": "vo_dori_character_idle_03.wem"
+        },
+        "dd4fd9090ceec2c4": {
+            "hash": "dd4fd9090ceec2c4",
+            "directory": "External27",
+            "voiceContent": "需要伞吗？我这里有一把特制雨伞，收集雨水的同时能够净化水质，把雨水变成饮用水储存在小罐子里，可以说是旅行必备品！只需要五十万摩拉喔。",
+            "sourceName": "vo_dori_weather_heavyRain_01.wem"
+        },
+        "59a1a0c29e79ac27": {
+            "hash": "59a1a0c29e79ac27",
+            "directory": "External11",
+            "voiceContent": "这种天气，恐怕商队也不太好前进了。又要少赚好多摩拉…",
+            "sourceName": "vo_dori_weather_thunder_01.wem"
+        },
+        "c808ad39f0a6c322": {
+            "hash": "c808ad39f0a6c322",
+            "directory": "External25",
+            "voiceContent": "不会吧不会吧，不会真的有人选在大风天穿越沙漠吧。我当然有办法救这种蠢蘑菇，但费用…至少要翻三倍才行！",
+            "sourceName": "vo_dori_weather_gale_01.wem"
+        },
+        "2513b0ef9e7d4b3b": {
+            "hash": "2513b0ef9e7d4b3b",
+            "directory": "External4",
+            "voiceContent": "哒啦，看我的全自动雪球机！想要吗想要吗？租金给你打九点五折喔！",
+            "sourceName": "vo_dori_weather_snowy_01.wem"
+        },
+        "e2e993115262db16": {
+            "hash": "e2e993115262db16",
+            "directory": "External28",
+            "voiceContent": "摩拉在阳光下闪闪发光，真好看！嘿嘿。",
+            "sourceName": "vo_dori_weather_sunny_01.wem"
+        },
+        "af64508f2bb54756": {
+            "hash": "af64508f2bb54756",
+            "directory": "External21",
+            "voiceContent": "早安，昨晚的梦里全是圆滚滚的可爱摩拉，今天一定会是盆满钵满的一天。",
+            "sourceName": "vo_dori_dialog_greetingMorning.wem"
+        },
+        "ba6c12a42d974652": {
+            "hash": "ba6c12a42d974652",
+            "directory": "External23",
+            "voiceContent": "想午睡吗？我可以给你一个软绵绵、蓬松松，完美贴合你背部曲线的靠垫。当然具体有多舒服就看摩拉有多少了。",
+            "sourceName": "vo_dori_dialog_greetingNoon.wem"
+        },
+        "3e635fc05eb5529c": {
+            "hash": "3e635fc05eb5529c",
+            "directory": "External7",
+            "voiceContent": "在夜色中赶路很有挑战性喔，不过这可难不倒常年在外行商的我！",
+            "sourceName": "vo_dori_dialog_greetingNight.wem"
+        },
+        "0b5cdbf9aa74b7b4": {
+            "hash": "0b5cdbf9aa74b7b4",
+            "directory": "External1",
+            "voiceContent": "你要睡觉了吗？嘿嘿，我就大发慈悲让你试试我的摩拉歌谣催眠法吧！一万摩拉入口袋，两万摩拉入口袋，三万摩拉入口袋，四、嘿四万…嘿嘿，摩拉，嘿嘿…",
+            "sourceName": "vo_dori_dialog_greetingNight2.wem"
+        },
+        "7358aae081e0dc3b": {
+            "hash": "7358aae081e0dc3b",
+            "directory": "External14",
+            "voiceContent": "万能的多莉商店，应有尽有，童叟无欺。只要摩拉够，只有想不到，没有买不到。需要任何东西，或者遇到任何困难，都可以来找我喔！",
+            "sourceName": "vo_dori_dialog_idle.wem"
+        },
+        "7363ba05951a2bbb": {
+            "hash": "7363ba05951a2bbb",
+            "directory": "External14",
+            "voiceContent": "好吧好吧，和你实话实说也行啦。沙漠和雨林的旅行大礼包，拆开来卖的话，分别都值二百五十万摩拉。但买一送一听起来比较划算嘛，你不觉得吗？",
+            "sourceName": "vo_dori_dialog_close2.wem"
+        },
+        "b6ea589251503aa5": {
+            "hash": "b6ea589251503aa5",
+            "directory": "External22",
+            "voiceContent": "通常我会躲着教令院的人，他们的各种条条框框简直让人没办法做生意。不过呢，告诉你也没关系。妙论派有些人还算是头脑灵活，和我私下签了条约。我有摩拉，他们有技术和手艺，顺便还能让我的行商更加通畅。嘿嘿，大商人多莉，从不做亏本生意。",
+            "sourceName": "vo_dori_dialog_idle2.wem"
+        },
+        "9ddbec1d0ecdaac4": {
+            "hash": "9ddbec1d0ecdaac4",
+            "directory": "External19",
+            "voiceContent": "我的摩拉是我的，你的摩拉还是我的，嘿嘿。",
+            "sourceName": "vo_dori_dialog_close1.wem"
+        },
+        "a9abdb4e35d52509": {
+            "hash": "a9abdb4e35d52509",
+            "directory": "External21",
+            "voiceContent": "你要在须弥旅行吗？须弥的沙漠很危险喔，就让大善人多莉来帮你吧！锵锵，沙漠旅行大礼包，只需要五百万摩拉！现在购买还会免费附送雨林旅行大礼包！机不可失，时不再来喔。",
+            "sourceName": "vo_dori_dialog_close.wem"
+        },
+        "0149fb37d7ff4c23": {
+            "hash": "0149fb37d7ff4c23",
+            "directory": "External0",
+            "voiceContent": "哎呀哎呀，我的神之眼亮晶晶的，很漂亮吧？既然看到了这么漂亮的东西，你是不是应该付摩拉呢？",
+            "sourceName": "vo_dori_dialog_pendant.wem"
+        },
+        "3a637035e4beae14": {
+            "hash": "3a637035e4beae14",
+            "directory": "External7",
+            "voiceContent": "以前也有些蠢蘑菇试图欠账不还，嘿嘿，也不看看我是谁。不如，你来猜猜看他们的下场如何吧？",
+            "sourceName": "vo_dori_dialog_share_01.wem"
+        },
+        "64e98b344681e5ae": {
+            "hash": "64e98b344681e5ae",
+            "directory": "External12",
+            "voiceContent": "如果盗宝鼬能开口说话的话，我们肯定很有共同语言。它们多有眼光呀！全提瓦特最惹人喜爱的，自然是亮闪闪金灿灿的摩拉。",
+            "sourceName": "vo_dori_pref_gift_01.wem"
+        },
+        "9603fc55670acef0": {
+            "hash": "9603fc55670acef0",
+            "directory": "External18",
+            "voiceContent": "我和他算是有点私交。毕竟能为他拿到「七圣召唤」所有周边产品的人，全须弥只有我一个。很罕见吧！教令院里居然有他这种特行独立，眼光不错，又从不讲价的人。",
+            "sourceName": "vo_dori_teammate_cyno_01.wem"
+        },
+        "d9dcf5219acdc597": {
+            "hash": "d9dcf5219acdc597",
+            "directory": "External27",
+            "voiceContent": "他热爱学术就和我热爱摩拉一样。听说他经常会做一些神奇的小玩意儿，只可惜会用什么公务繁忙作为理由，拒绝和我合作批量生产，要不然…可以赚上一大笔摩拉呢！",
+            "sourceName": "vo_dori_teammate_tighnari_01.wem"
+        },
+        "af0adc23ece50834": {
+            "hash": "af0adc23ece50834",
+            "directory": "External21",
+            "voiceContent": "他以前试探过我的手下。所以说，教令院的家伙真是又呆板又不诚恳。我又何必冒这个风险呢？懂了吗？小跟班。",
+            "sourceName": "vo_dori_teammate_alhaitham_01.wem"
+        },
+        "218d0f8ef59e4f5a": {
+            "hash": "218d0f8ef59e4f5a",
+            "directory": "External4",
+            "voiceContent": "在须弥，小吉祥草王的信徒非常少。你问我吗？啊，如果她愿意给我摩拉的话，我就是她永恒的信徒。",
+            "sourceName": "vo_dori_teammate_nahida_01.wem"
+        },
+        "385be8f03f6ad858": {
+            "hash": "385be8f03f6ad858",
+            "directory": "External7",
+            "voiceContent": "她的舞跳得不错，但只留在须弥，还是不能最大程度上发挥出她的价值…我是说，有点屈才。你说你说，如果能把她带出去，在提瓦特举办巡回演出的话，一共能赚多少摩拉呢？",
+            "sourceName": "vo_dori_teammate_nilou_01.wem"
+        },
+        "ac6730cb2424a893": {
+            "hash": "ac6730cb2424a893",
+            "directory": "External21",
+            "voiceContent": "艾莉丝女士有源源不断的新奇东西，是我的最佳供货商，没有之一。嚯嚯，这种商业机密都告诉你了，你是不是应该交点学费，表示表示呢？",
+            "sourceName": "vo_dori_teammate_alice_01.wem"
+        },
+        "5f5c7adaa0b6a6e8": {
+            "hash": "5f5c7adaa0b6a6e8",
+            "directory": "External11",
+            "voiceContent": "他是跟我有合作的妙论派的人之一，和某些教令院的死脑筋不一样，是个会为理想奋斗的人，我很欣赏他。我悄悄借了他一大——笔摩拉，让他造出了我的艾尔卡萨扎莱宫。可以说没有善良的多莉的资助，就没有今天的卡维。",
+            "sourceName": "vo_dori_teammate_kaveh_01.wem"
+        },
+        "81e78e2eb91b4a14": {
+            "hash": "81e78e2eb91b4a14",
+            "directory": "External16",
+            "voiceContent": "有时候我会雇佣她帮忙保护商队。毕竟她实力不错，要价也不高，可以说是性价比最优之选。",
+            "sourceName": "vo_dori_teammate_dehya_01.wem"
+        },
+        "cf3f0a1f4c5fc398": {
+            "hash": "cf3f0a1f4c5fc398",
+            "directory": "External25",
+            "voiceContent": "岩王帝君离去之前，我每天起来第一件事就是默念：财神在上，保佑多莉日进斗金。现在嘛，求神不如求己。多莉在此，保佑自己日进斗金！",
+            "sourceName": "vo_dori_teammate_morax_01.wem"
+        },
+        "59e11d42bb3819c6": {
+            "hash": "59e11d42bb3819c6",
+            "directory": "External11",
+            "voiceContent": "想听故事？那就…给我一百万摩拉。嗯…看在我们交情的份上，给你打个九点九折好了，九十九万摩拉。怎么样？很划算吧！",
+            "sourceName": "vo_dori_friendship_01.wem"
+        },
+        "ca254b4b87845f29": {
+            "hash": "ca254b4b87845f29",
+            "directory": "External25",
+            "voiceContent": "嘿嘿，你可真有眼光。那我开始讲了！这是一个商人的故事。很久很久以前，她在行商途中迷失了方向。这时候她遇到一只雾怪，雾怪要一口吞掉她。她连忙说，雾怪先生不要着急呀，我这里有个故事。您听听看，如果有趣的话，就请您不要吃掉我…",
+            "sourceName": "vo_dori_friendship_02.wem"
+        },
+        "747a315506565ae8": {
+            "hash": "747a315506565ae8",
+            "directory": "External14",
+            "voiceContent": "雾怪答应了。于是商人开始讲自己的故事，当年她的生意还不像如今这么红火，在她一筹莫展之时，正巧，她从库房里翻出了一个不知从哪儿来的魔灯。她恍惚间擦亮了魔灯。一团红雾从里面弥漫了出来，她自称是「人美心善的大魔王」，见着这位商人就想起了自己乖巧可爱的女儿，所以她说，可以实现商人一个愿望。",
+            "sourceName": "vo_dori_friendship_03.wem"
+        },
+        "2e3eff1997029c9b": {
+            "hash": "2e3eff1997029c9b",
+            "directory": "External5",
+            "voiceContent": "还有什么比摩拉更吸引商人的呢，于是商人许愿：希望接下来的日子，能赚到数也数不清的摩拉。「人美心善的大魔王」同意了，她成为了商人的供货商，为商人提供了源源不断的奇妙商品。商人也因此赚得盆满钵满…",
+            "sourceName": "vo_dori_friendship_04.wem"
+        },
+        "ac4b8d21da34c752": {
+            "hash": "ac4b8d21da34c752",
+            "directory": "External21",
+            "voiceContent": "雾怪听完这些觉得很神奇，明明自己和红雾大魔王也算同类，自己怎么没办法变出什么东西。商人呀，就夸了雾怪天赋异禀，说不定在同一个魔灯里待上一段时间，就能拥有大魔王的能力了。雾怪欣然同意，进入了商人的魔灯…咳咳，你问我这个故事是不是真的？这是另外的价钱喽，再给我九十九万摩拉，我就告诉你！",
+            "sourceName": "vo_dori_friendship_05.wem"
+        },
+        "ba4608c0cef85582": {
+            "hash": "ba4608c0cef85582",
+            "directory": "External23",
+            "voiceContent": "我的爱好可多了，第一是赚摩拉，第二是数摩拉，第三是看摩拉，这世界上没有比摩拉更令人开心的东西了！",
+            "sourceName": "vo_dori_pref_hobby.wem"
+        },
+        "190d04877ca9f417": {
+            "hash": "190d04877ca9f417",
+            "directory": "External3",
+            "voiceContent": "总有些人，拿着才三成利的生意就来打扰我，唉，我也是很忙的。没有百分百的利润，我连听完的兴趣都没有。",
+            "sourceName": "vo_dori_dialog_annoyed.wem"
+        },
+        "9be42eb3322832f7": {
+            "hash": "9be42eb3322832f7",
+            "directory": "External19",
+            "voiceContent": "椰炭饼那种黑乎乎的东西，一点儿也不符合我的品味，我是绝对不会吃的！就算反过来给我摩拉，我…呃，我、我再考虑考虑。",
+            "sourceName": "vo_dori_pref_foodDislike.wem"
+        },
+        "1536e6fa0f165c52": {
+            "hash": "1536e6fa0f165c52",
+            "directory": "External2",
+            "voiceContent": "好吃好吃，啊不如你跟着我一起行商，兼职私人厨师吧。",
+            "sourceName": "vo_dori_spice_pref_01.wem"
+        },
+        "ed234d5eb28bd4f8": {
+            "hash": "ed234d5eb28bd4f8",
+            "directory": "External29",
+            "voiceContent": "哇，我的小跟班做饭水平可以呀。能让我点餐吗？",
+            "sourceName": "vo_dori_spice_normal_01.wem"
+        },
+        "d79f0c9cdce913dc": {
+            "hash": "d79f0c9cdce913dc",
+            "directory": "External26",
+            "voiceContent": "居然让我吃这种东西，嘿嘿，你要赔偿我精神损失费！",
+            "sourceName": "vo_dori_spice_dislike_01.wem"
+        },
+        "6ef873efaebfabe1": {
+            "hash": "6ef873efaebfabe1",
+            "directory": "External13",
+            "voiceContent": "今天我可以满足你一个心愿！毕竟我是无所不能的多莉。说吧说吧，想要什么？不过呢，先和你说好，「一辈子都用不完的摩拉」这种愿望可不行喔。",
+            "sourceName": "vo_dori_pref_birthday_01.wem"
+        },
+        "887a20943bb61f71": {
+            "hash": "887a20943bb61f71",
+            "directory": "External17",
+            "voiceContent": "你这是在投资我吗？你可真有眼光。",
+            "sourceName": "vo_dori_starUp_01.wem"
+        },
+        "0592d28ad493f64e": {
+            "hash": "0592d28ad493f64e",
+            "directory": "External0",
+            "voiceContent": "多多益善，多多益善。",
+            "sourceName": "vo_dori_starUp_02.wem"
+        },
+        "8750348291342157": {
+            "hash": "8750348291342157",
+            "directory": "External16",
+            "voiceContent": "喔！我好像有了一个奇妙钱袋，能掏出源源不断的力量。",
+            "sourceName": "vo_dori_starUp_03.wem"
+        },
+        "55c0667b9b2e24ac": {
+            "hash": "55c0667b9b2e24ac",
+            "directory": "External10",
+            "voiceContent": "恭喜你成为神通广大的桑歌玛哈巴依老爷的尊贵会员！以后你的订单一律八折，这种待遇你可是第一个喔。啊，好好珍惜吧。",
+            "sourceName": "vo_dori_starUp_04.wem"
+        },
+        "0fe97632d0633c5d": {
+            "hash": "0fe97632d0633c5d",
+            "directory": "External1",
+            "voiceContent": "休想抢走我一分摩拉！",
+            "sourceName": "vo_dori_life_less30_01.wem"
+        },
+        "b5e5582aa1ff2a5a": {
+            "hash": "b5e5582aa1ff2a5a",
+            "directory": "External22",
+            "voiceContent": "啊救命啊，抢劫啦！",
+            "sourceName": "vo_dori_life_less30_02.wem"
+        },
+        "637e0a2399e246a3": {
+            "hash": "637e0a2399e246a3",
+            "directory": "External12",
+            "voiceContent": "一定要保护好摩拉。",
+            "sourceName": "vo_dori_life_less30_03.wem"
+        },
+        "6fab6d74005bd1e7": {
+            "hash": "6fab6d74005bd1e7",
+            "directory": "External13",
+            "voiceContent": "摩拉也不管用吗…",
+            "sourceName": "vo_dori_life_die_03.wem"
+        },
+        "727c5a69ac68f141": {
+            "hash": "727c5a69ac68f141",
+            "directory": "External14",
+            "voiceContent": "欺人太甚！",
+            "sourceName": "vo_dori_battle_hit_H_01.wem"
+        },
+        "18414c617dd5b79e": {
+            "hash": "18414c617dd5b79e",
+            "directory": "External3",
+            "voiceContent": "列进黑名单！",
+            "sourceName": "vo_dori_battle_hit_H_02.wem"
+        },
+        "e878badcdb51dc43": {
+            "hash": "e878badcdb51dc43",
+            "directory": "External29",
+            "voiceContent": "在我跨国收购物资的时候，她为我送过好几次货。服务又好，收费还便宜。哦，对了，她很喜欢各种漂亮的小饰品，我这刚好进了一些，须弥特色，纯手工制品，可精致了。怎么样，要不要买来送给她呀？我给你打折。",
+            "sourceName": "vo_dori_teammate_kirara_01.wem"
+        },
+        "a9113da0f1db69c5": {
+            "hash": "a9113da0f1db69c5",
+            "directory": "External21",
+            "voiceContent": "小问题。",
+            "sourceName": "vo_dori_battle_hit_L_01.wem"
+        },
+        "9313593b39a4b951": {
+            "hash": "9313593b39a4b951",
+            "directory": "External18",
+            "voiceContent": "想见见驮兽吗？没问题！你想见多少我就有多少。只不过这个门票钱嘛，欸嘿嘿…",
+            "sourceName": "vo_dori_pref_gift_02.wem"
+        },
+        "cbbac071de3bc29b": {
+            "hash": "cbbac071de3bc29b",
+            "directory": "External25",
+            "voiceContent": "我听说璃月有一种叫做摩拉肉的食物，名字里带摩拉，一定非常好吃。什、什么…你会做？咳咳，你当我的小跟班也有一段时间了，应该从我这儿学到了不少吧。作为交换，你要给我做摩拉肉吃！",
+            "sourceName": "vo_dori_pref_foodLike_01.wem"
+        },
+        "4ea01f98c31a85a2": {
+            "hash": "4ea01f98c31a85a2",
+            "directory": "External9",
+            "voiceContent": "磕碰而已。",
+            "sourceName": "vo_dori_battle_hit_L_02.wem"
+        },
+        "b7c63811a5da6a1f": {
+            "hash": "b7c63811a5da6a1f",
+            "directory": "External22",
+            "voiceContent": "好吃好吃，啊不如你跟着我一起行商，兼职私人厨师吧。",
+            "sourceName": "vo_dori_spice_event_pref_01.wem"
+        },
+        "ae5b8da9ca78fb97": {
+            "hash": "ae5b8da9ca78fb97",
+            "directory": "External21",
+            "voiceContent": "居然让我吃这种东西，嘿嘿，你要赔偿我精神损失费！",
+            "sourceName": "vo_dori_spice_event_dislike_01.wem"
+        },
+        "4a17d0e9b65ec1a9": {
+            "hash": "4a17d0e9b65ec1a9",
+            "directory": "External9",
+            "voiceContent": "哇，我的小跟班做饭水平可以呀。能让我点餐吗？",
+            "sourceName": "vo_dori_spice_event_normal_01.wem"
+        },
+        "3eb476954120c7c4": {
+            "hash": "3eb476954120c7c4",
+            "directory": "External7",
+            "voiceContent": "让你见识一下我的宝贝！",
+            "sourceName": "vo_card_dori_inGame_easy_04.wem"
+        },
+        "0cd4a7047f3c42bf": {
+            "hash": "0cd4a7047f3c42bf",
+            "directory": "External1",
+            "voiceContent": "这笔大生意，我拿下了！",
+            "sourceName": "vo_card_dori_inGame_hard_04.wem"
+        },
+        "b02290afb7ef0b49": {
+            "hash": "b02290afb7ef0b49",
+            "directory": "External22",
+            "voiceContent": "先占点便宜。",
+            "sourceName": "vo_card_dori_inGame_easy_01.wem"
+        },
+        "ae09b4eaa343f022": {
+            "hash": "ae09b4eaa343f022",
+            "directory": "External21",
+            "voiceContent": "嘻嘻嘻，要认输还不晚喔？",
+            "sourceName": "vo_card_dori_inGame_hard_01.wem"
+        },
+        "af3298fc4dc42df4": {
+            "hash": "af3298fc4dc42df4",
+            "directory": "External21",
+            "voiceContent": "呃…接下来该出什么牌来着…",
+            "sourceName": "vo_card_dori_inGame_hard_03.wem"
+        },
+        "087ad2f2d204d445": {
+            "hash": "087ad2f2d204d445",
+            "directory": "External1",
+            "voiceContent": "有点技术嘛，但这吓不倒我。",
+            "sourceName": "vo_card_dori_inGame_hard_02.wem"
+        },
+        "3fde62a6eba2c5e6": {
+            "hash": "3fde62a6eba2c5e6",
+            "directory": "External7",
+            "voiceContent": "哎哟！别碰这个！",
+            "sourceName": "vo_card_dori_inGame_easy_02.wem"
+        },
+        "c19bc49ea842f0cf": {
+            "hash": "c19bc49ea842f0cf",
+            "directory": "External24",
+            "voiceContent": "等、等等！我要再想想！",
+            "sourceName": "vo_card_dori_inGame_easy_03.wem"
+        }
+    }
+}

@@ -1,0 +1,499 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "de35ec7a4f6cd3b9": {
+            "hash": "de35ec7a4f6cd3b9",
+            "directory": "External27",
+            "voiceContent": "我也解开一个。",
+            "sourceName": "vo_CLLQ003_11_furina_01.wem"
+        },
+        "97a777b2d8cced1a": {
+            "hash": "97a777b2d8cced1a",
+            "directory": "External18",
+            "voiceContent": "……",
+            "sourceName": "vo_FDAQ006_16_furina_01.wem"
+        },
+        "c37947c80c0f11d5": {
+            "hash": "c37947c80c0f11d5",
+            "directory": "External24",
+            "voiceContent": "喂，你在做什么！观众们可还看着我呢，守卫在哪儿，守卫！",
+            "sourceName": "vo_FDAQ306_1_furina_05.wem"
+        },
+        "91b369c115db6af2": {
+            "hash": "91b369c115db6af2",
+            "directory": "External18",
+            "voiceContent": "观众们，这只是一次舞台意外，别担心，守卫会处理好的！",
+            "sourceName": "vo_FDAQ306_1_furina_06.wem"
+        }
+    },
+    "Gameplay": {
+        "ea0b20479edc264f": {
+            "hash": "ea0b20479edc264f",
+            "directory": "External29",
+            "voiceContent": "为我歌颂！",
+            "sourceName": "vo_furina_battle_skill1_01.wem"
+        },
+        "2ac2525fb6760a08": {
+            "hash": "2ac2525fb6760a08",
+            "directory": "External5",
+            "voiceContent": "亮相啦！",
+            "sourceName": "vo_furina_battle_skill1_02.wem"
+        },
+        "d891ec58ae8840c9": {
+            "hash": "d891ec58ae8840c9",
+            "directory": "External27",
+            "voiceContent": "噔噔！",
+            "sourceName": "vo_furina_battle_skill1_03.wem"
+        },
+        "b7522e2efe557ff2": {
+            "hash": "b7522e2efe557ff2",
+            "directory": "External22",
+            "voiceContent": "开幕。",
+            "sourceName": "vo_furina_battle_skill1_04.wem"
+        },
+        "3caba026be067e3b": {
+            "hash": "3caba026be067e3b",
+            "directory": "External7",
+            "voiceContent": "光芒啊。",
+            "sourceName": "vo_furina_battle_skill1_05.wem"
+        },
+        "6723d23e37b9fd44": {
+            "hash": "6723d23e37b9fd44",
+            "directory": "External12",
+            "voiceContent": "为你献上。",
+            "sourceName": "vo_furina_battle_skill1_06.wem"
+        },
+        "d76d0724d86a4fad": {
+            "hash": "d76d0724d86a4fad",
+            "directory": "External26",
+            "voiceContent": "让世界热闹起来吧。",
+            "sourceName": "vo_furina_battle_skill3_01.wem"
+        },
+        "a613691de292342a": {
+            "hash": "a613691de292342a",
+            "directory": "External20",
+            "voiceContent": "闪耀时刻！",
+            "sourceName": "vo_furina_battle_skill3_02.wem"
+        },
+        "2b009b15a1e7a733": {
+            "hash": "2b009b15a1e7a733",
+            "directory": "External5",
+            "voiceContent": "欢唱，以我之名！",
+            "sourceName": "vo_furina_battle_skill3_03.wem"
+        },
+        "1ec413eb56675c84": {
+            "hash": "1ec413eb56675c84",
+            "directory": "External3",
+            "voiceContent": "意外之喜，就像蛋糕上的王冠。",
+            "sourceName": "vo_furina_chest_open_01.wem"
+        },
+        "f44ae1d3dcb22b7b": {
+            "hash": "f44ae1d3dcb22b7b",
+            "directory": "External30",
+            "voiceContent": "收下吧。咳…我准许了！",
+            "sourceName": "vo_furina_chest_open_02.wem"
+        },
+        "72576fdc1fe45532": {
+            "hash": "72576fdc1fe45532",
+            "directory": "External14",
+            "voiceContent": "有趣的东西当然是越多越好。",
+            "sourceName": "vo_furina_chest_open_03.wem"
+        },
+        "3e303120748b5a24": {
+            "hash": "3e303120748b5a24",
+            "directory": "External7",
+            "voiceContent": "见识下我的实力！",
+            "sourceName": "vo_furina_life_less30_teammate_01.wem"
+        },
+        "befa7f0686d8859b": {
+            "hash": "befa7f0686d8859b",
+            "directory": "External23",
+            "voiceContent": "换我登场了！",
+            "sourceName": "vo_furina_life_less30_teammate_02.wem"
+        },
+        "0486f8cd97689fe1": {
+            "hash": "0486f8cd97689fe1",
+            "directory": "External0",
+            "voiceContent": "算是…一种解脱吗？",
+            "sourceName": "vo_furina_life_die_01.wem"
+        },
+        "aa4beac568d5663e": {
+            "hash": "aa4beac568d5663e",
+            "directory": "External21",
+            "voiceContent": "我还是没能做到…",
+            "sourceName": "vo_furina_life_die_02.wem"
+        },
+        "8ac258535fc0bb3f": {
+            "hash": "8ac258535fc0bb3f",
+            "directory": "External17",
+            "voiceContent": "果然还是离不开我啊。",
+            "sourceName": "vo_furina_teamJoin_01.wem"
+        },
+        "c813ca6b7477e338": {
+            "hash": "c813ca6b7477e338",
+            "directory": "External25",
+            "voiceContent": "希望是一次尽兴的旅途。",
+            "sourceName": "vo_furina_teamJoin_02.wem"
+        },
+        "4d37246333fb29b9": {
+            "hash": "4d37246333fb29b9",
+            "directory": "External9",
+            "voiceContent": "瞧好了。",
+            "sourceName": "vo_furina_teamJoin_03.wem"
+        },
+        "e1a9a44abf844582": {
+            "hash": "e1a9a44abf844582",
+            "directory": "External28",
+            "voiceContent": "茶会是淑女的必修课。如果你想学习茶会礼仪的话，我可以教你喔。",
+            "sourceName": "vo_furina_character_idle_01.wem"
+        },
+        "3c1ac252ee4529a5": {
+            "hash": "3c1ac252ee4529a5",
+            "directory": "External7",
+            "voiceContent": "好无聊啊，没有什么更有趣的事吗？",
+            "sourceName": "vo_furina_character_idle_02.wem"
+        },
+        "917c0859f8ea09d4": {
+            "hash": "917c0859f8ea09d4",
+            "directory": "External18",
+            "voiceContent": "唉，人气太高也是一种苦恼，谁让我这么受欢迎呢？",
+            "sourceName": "vo_furina_character_idle_03.wem"
+        },
+        "33ea9db490d09914": {
+            "hash": "33ea9db490d09914",
+            "directory": "External6",
+            "voiceContent": "好大的雨！等等，水应该不会淹上来吧？",
+            "sourceName": "vo_furina_weather_heavyRain_01.wem"
+        },
+        "18b9e77d0746310b": {
+            "hash": "18b9e77d0746310b",
+            "directory": "External3",
+            "voiceContent": "哇哦，这地方很适合映影取景。",
+            "sourceName": "vo_furina_weather_snowy_01.wem"
+        },
+        "195d2a4ca452ffc0": {
+            "hash": "195d2a4ca452ffc0",
+            "directory": "External3",
+            "voiceContent": "真是一派荒芜的景象，让我赐予你们水的恩泽吧！",
+            "sourceName": "vo_furina_weather_desert_01.wem"
+        },
+        "747820ea65e1d026": {
+            "hash": "747820ea65e1d026",
+            "directory": "External14",
+            "voiceContent": "这阳光的热度，都快赶上我平时用的影室灯了。还好太阳只有一个。",
+            "sourceName": "vo_furina_weather_sunny_01.wem"
+        },
+        "0d33c83c603aaa32": {
+            "hash": "0d33c83c603aaa32",
+            "directory": "External1",
+            "voiceContent": "「听，风中传来不安的低语，那是被遗忘的海兽做噩梦时的梦呓。」你问为什么是做噩梦？呃…因为，恐惧感是会向外传递的？",
+            "sourceName": "vo_furina_weather_gale_01.wem"
+        },
+        "6fd57b7c46beaba6": {
+            "hash": "6fd57b7c46beaba6",
+            "directory": "External13",
+            "voiceContent": "早安…需要起这么早吗？再多睡一会儿也没关系吧…",
+            "sourceName": "vo_furina_dialog_greetingMorning.wem"
+        },
+        "f66601bd26da03e2": {
+            "hash": "f66601bd26da03e2",
+            "directory": "External30",
+            "voiceContent": "午安！我的蛋糕在哪里？什么什么，你说早上刚吃过？那已经隔了好——久啦！",
+            "sourceName": "vo_furina_dialog_greetingNoon.wem"
+        },
+        "c45a35e3fed2622c": {
+            "hash": "c45a35e3fed2622c",
+            "directory": "External24",
+            "voiceContent": "晚上好。唉，谢贝蕾妲小姐最近总嘀咕着减肥，还说要拉上我一起。哼，比起上个月我肚子都瘦了一圈还不止呢，我已经很努力在控制体态了。喂，你，看得出来么？",
+            "sourceName": "vo_furina_dialog_greetingNight.wem"
+        },
+        "8a34eb8bab31d604": {
+            "hash": "8a34eb8bab31d604",
+            "directory": "External17",
+            "voiceContent": "呼…正好我也困了。明天见，记得准时叫我起来…",
+            "sourceName": "vo_furina_dialog_greetingNight2.wem"
+        },
+        "46169b976251490b": {
+            "hash": "46169b976251490b",
+            "directory": "External8",
+            "voiceContent": "你问我参加茶会的这几个小家伙？它们可是我忠实的追随者，咳，今天就破例为你介绍一下吧！这位是谢贝蕾妲小姐，最可爱的女仆，虽然有时会不小心剪坏我的衣服；这位是海薇玛夫人，可靠的管理人，将我的生活打理得井井有条；最后这位喜欢说教的是乌瑟勋爵，负责一切礼仪相关的事情。呵呵，虽然我已允许你参加我的茶会，但想要得到它们的认可，你还要多多努力才行！",
+            "sourceName": "vo_furina_dialog_idle.wem"
+        },
+        "2c5dd05bdbe01cb5": {
+            "hash": "2c5dd05bdbe01cb5",
+            "directory": "External5",
+            "voiceContent": "我对自己的歌唱水平还是很有自信的，不过值得我开口唱诵的段落可不多。希望那些剧团里的创作者们加把劲，不要让我等太久。",
+            "sourceName": "vo_furina_dialog_idle2.wem"
+        },
+        "cb13637f9a3226d4": {
+            "hash": "cb13637f9a3226d4",
+            "directory": "External25",
+            "voiceContent": "「我」的故事已然落幕，接下来开场的是「我们」的故事了…这么说的话，出场费是不是也该翻倍啦？好开心哦！",
+            "sourceName": "vo_furina_dialog_close1.wem"
+        },
+        "2cfe9f976e9cec99": {
+            "hash": "2cfe9f976e9cec99",
+            "directory": "External5",
+            "voiceContent": "咳。以我们之间的关系，你在我面前无需太过恭敬，可以更随意一些。等等，你那是什么表情，该不会是想说你从一开始就没有「敬仰」过我吧？",
+            "sourceName": "vo_furina_dialog_close.wem"
+        },
+        "f57d1462c881cbb1": {
+            "hash": "f57d1462c881cbb1",
+            "directory": "External30",
+            "voiceContent": "当那古老的预言终结、一切落幕之后，我曾经陷入很长时间的消沉。站在舞台上的人受到观众的追捧，同时也承受着更多的注视与期待。但我很清楚，他们期待的并不是我，而是我扮演的那位「神明」…在这个过程中，我真正得到的只有孤独。所以我一度厌恶任何跟表演有关的事，把自己关在房间里，直到再次站上舞台、再次面对观众的时候，我才发现不知不觉我内心的不安已经消失了。现在的我可以坦然承受他们的目光，也许是因为…我终于开始「扮演」我自己了。",
+            "sourceName": "vo_furina_dialog_pendant_01.wem"
+        },
+        "c03e726c4e087344": {
+            "hash": "c03e726c4e087344",
+            "directory": "External24",
+            "voiceContent": "枫丹的歌剧经历过几次革新，每次革新都会有许多反对的声音。在我印象里，经常有很多人聚在歌剧院吵来吵去，吵得我耳朵嗡嗡响。于是我吓唬他们说，「不准再争论这些无关紧要的问题」，那维莱特也顺势敲了一下他的手杖，歌剧院立刻就安静了。没办法，我总会不经意间表露出充满威严的一面，希望他们能够理解。",
+            "sourceName": "vo_furina_dialog_share_01.wem"
+        },
+        "93d68a60e6de9ede": {
+            "hash": "93d68a60e6de9ede",
+            "directory": "External18",
+            "voiceContent": "我很喜欢幽光星星，这种生物在无人注视的地方也能发出自己的光亮，是我心目中最真实的「明星」。如果有让幽光星星当主角的歌剧就好了，我可以真情实感地在舞台上演绎一只可爱的离群海星。",
+            "sourceName": "vo_furina_pref_gift_01.wem"
+        },
+        "4f13200e1bec5dad": {
+            "hash": "4f13200e1bec5dad",
+            "directory": "External9",
+            "voiceContent": "林尼与琳妮特我当然知道，以前我就经常光临他们的演出。他们的人气虽然高，但跟我比起来还是差了不少，有我出场的演出才是真正的座无虚席，连站票都卖得干干净净。至于现在…呃…现在我已经退隐了，人气下滑也很正常嘛！",
+            "sourceName": "vo_furina_teammate_lyney&lynette_01.wem"
+        },
+        "b5a023d8ef032504": {
+            "hash": "b5a023d8ef032504",
+            "directory": "External22",
+            "voiceContent": "我很感谢那维莱特这几百年间为枫丹的辛苦付出，他似乎也不打算追究我欺骗民众的罪责。反正现在我们已经不需要对接什么工作，我也很久没去沫芒宫了，这对我们双方来说都是一件好事吧？",
+            "sourceName": "vo_furina_teammate_neuvillette_01.wem"
+        },
+        "73eb22088b521bc0": {
+            "hash": "73eb22088b521bc0",
+            "directory": "External14",
+            "voiceContent": "你尝过娜维娅烤的马卡龙吗？不得不承认，她对甜点的造诣已经非常深厚，完全不在我之下。口感和甜度暂且不提，她画在马卡龙上的图案也太可爱了吧？简直就是艺术品！她到底是怎么做到的，难道真的只是天赋？我的内心中竟然会产生一种挫败感…下次一定要向她好好打听一下！",
+            "sourceName": "vo_furina_teammate_navia_01.wem"
+        },
+        "328474de45fdc5aa": {
+            "hash": "328474de45fdc5aa",
+            "directory": "External6",
+            "voiceContent": "我跟他交流不多，那维莱特说他值得信赖，所以我想他大概是个好人吧！哦对了，以前还收到过他寄来的茶，味道不错。",
+            "sourceName": "vo_furina_teammate_wriothesley_01.wem"
+        },
+        "1265117c5d81d0ed": {
+            "hash": "1265117c5d81d0ed",
+            "directory": "External2",
+            "voiceContent": "在我印象里，克洛琳德平时不喜交谈。但她几次站在我的身旁，保护我的安全，我对她非常信任。嗯…我还真有一点想念她，不过现在没什么去见她的理由了。对了！下次邀请她来一起开茶会吧！",
+            "sourceName": "vo_furina_teammate_clorinde_01.wem"
+        },
+        "20908fefd8e1e727": {
+            "hash": "20908fefd8e1e727",
+            "directory": "External4",
+            "voiceContent": "她是一个很坚强的人。坚强的人不管发生什么都会很快振作起来，装作没事的样子，这样身边的人就无需背负额外的压力。我见证过卡雷斯与克洛琳德的决斗，娜维娅她…在这方面越来越像自己的父亲了。",
+            "sourceName": "vo_furina_teammate_navia_02.wem"
+        },
+        "1188e16c96b35a39": {
+            "hash": "1188e16c96b35a39",
+            "directory": "External2",
+            "voiceContent": "「仆人」？谁，谁呀？我已经忘掉了哦，把那么可怕的身影留在脑海中，晚上睡觉都会做噩梦的。",
+            "sourceName": "vo_furina_teammate_arlecchino_01.wem"
+        },
+        "29e0bffe6924ceeb": {
+            "hash": "29e0bffe6924ceeb",
+            "directory": "External5",
+            "voiceContent": "最近经常见到夏洛蒂忙忙碌碌的身影。她好像很想找我约一期独家专访。哪怕我多次拒绝，她也并不放弃。我本来有点生气的，但是她很坚定地对我说——她希望民众能够了解到一个更加真实的我，也相信民众可以理解我的苦衷。我不知道该如何回应她的好意，也许她说的有道理，但我还没有做好准备…",
+            "sourceName": "vo_furina_teammate_charlotte_01.wem"
+        },
+        "ccd9f581f1996d36": {
+            "hash": "ccd9f581f1996d36",
+            "directory": "External25",
+            "voiceContent": "对我的事感兴趣？唉，真没办法，毕竟我曾经也是枫丹最受关注的大明星嘛！每天都有无数记者挖空心思想要探听我的隐私，我可是有丰富的经验将他们拒之门外。当然，我并不打算将这些经验用在你的身上，你可以用足够好吃的点心来和我交换秘密。",
+            "sourceName": "vo_furina_friendship_01.wem"
+        },
+        "3d1e238abde5b299": {
+            "hash": "3d1e238abde5b299",
+            "directory": "External7",
+            "voiceContent": "最近有人向我推荐了「冲浪」这项运动，我也去体验了一番。在惊涛骇浪中保持平衡并不是一件容易的事情，但我很快就掌握了技巧。也许是因为我有这方面的天赋？总之在海天相接的地方近距离地感受风与浪是一件还不错的事情，你也可以试一试。",
+            "sourceName": "vo_furina_friendship_02.wem"
+        },
+        "bb60c99301459518": {
+            "hash": "bb60c99301459518",
+            "directory": "External23",
+            "voiceContent": "有空的话，多和我讲讲旅行的见闻吧？我挺喜欢听你讲那些稀奇古怪的故事。怎么说呢…我很容易对各种事物产生兴趣，但用不了多久就会感到无聊。或许「热情」这种东西，越容易产生就越容易失去。跟你在一起时，我似乎能一直保持愉快的心情，真不可思议。",
+            "sourceName": "vo_furina_friendship_03.wem"
+        },
+        "7526575791f31e4b": {
+            "hash": "7526575791f31e4b",
+            "directory": "External14",
+            "voiceContent": "最近我一直在想，过去我是不是有点亏待自己了？为了保持神明的矜持，几乎没有享受过生活。所以最近我迷上了购物，买了好多新奇的宝贝。像什么七色炫彩茶包、全自动伸缩刀叉、海马专用马鞍…最后发现大部分东西都用不上，我全部送去剧团当演出道具了。奇怪，付款前我明明觉得这些很有用的…",
+            "sourceName": "vo_furina_friendship_04.wem"
+        },
+        "1bde65610db2f182": {
+            "hash": "1bde65610db2f182",
+            "directory": "External3",
+            "voiceContent": "人们很喜欢谈论过去，为那些逝去的美好感到惋惜；也很喜欢谈论未来，仿佛为了缥缈的明天可以牺牲一切。我并不认同他们的做法，但也感到非常羡慕：因为我曾经生活在既没有过去、也没有未来的世界里。为了应对那种恐慌，我尝试塑造并扮演了一个更坚强、更像神明的自己，几百年的时间过去，我曾扮演的「形象」逐渐与真实的自己融为一体。如今连我也无法分辨…或许也没有分辨的必要了，过去的种种经历组成了现在的我，那场并不完美的演出也是我最重要的一部分啊。",
+            "sourceName": "vo_furina_friendship_05.wem"
+        },
+        "89ee0b894bccb312": {
+            "hash": "89ee0b894bccb312",
+            "directory": "External17",
+            "voiceContent": "《王后的荣冠》还没有出续作吗？真遗憾，这种正义战胜邪恶的经典作品总是让人百看不厌。",
+            "sourceName": "vo_furina_pref_hobby.wem"
+        },
+        "6721b64782099965": {
+            "hash": "6721b64782099965",
+            "directory": "External12",
+            "voiceContent": "每个人都不会讨厌精致的糕点，但想要做到让我「喜欢」的程度，还需要多多努力才行。听好了，甜品就像歌剧，从「选角」到「布景」都需要花费心思，才能在最后的「演出」中大放异彩！",
+            "sourceName": "vo_furina_pref_foodLike.wem"
+        },
+        "3950bc2df5d4ed87": {
+            "hash": "3950bc2df5d4ed87",
+            "directory": "External7",
+            "voiceContent": "简单来说，我讨厌大部分「创意菜」。这些年我品尝过许多奇妙的料理，除了给我留下心理阴影外毫无用处。",
+            "sourceName": "vo_furina_pref_foodDislike.wem"
+        },
+        "67479eb7aea46482": {
+            "hash": "67479eb7aea46482",
+            "directory": "External12",
+            "voiceContent": "哦？香味浓郁、口感细腻…没想到你对烹饪也有研究，很有品味嘛。",
+            "sourceName": "vo_furina_spice_pref_01.wem"
+        },
+        "b0db966d296abc88": {
+            "hash": "b0db966d296abc88",
+            "directory": "External22",
+            "voiceContent": "太「普通」了！哼，这种缺乏特色的料理得不到我的认可！",
+            "sourceName": "vo_furina_spice_normal_01.wem"
+        },
+        "4e7e90dcc85d7f0c": {
+            "hash": "4e7e90dcc85d7f0c",
+            "directory": "External9",
+            "voiceContent": "你平时只吃这些吗？唉，我的通心粉分你一些好了。",
+            "sourceName": "vo_furina_spice_dislike_01.wem"
+        },
+        "7b760f11ef7609d1": {
+            "hash": "7b760f11ef7609d1",
+            "directory": "External15",
+            "voiceContent": "生日快乐！喏，作为生日礼物，这张票给你。这可是《欢乐日》的头等座哦，记得过来看。你问我《欢乐日》是什么？唉，本来还想留一点惊喜的…这是我亲自排练的一场歌剧，内容嘛，是很多人聚集在一起，为某个重要的人做庆贺。这么说你应该明白了吧？一定要来啊！",
+            "sourceName": "vo_furina_pref_birthday_01.wem"
+        },
+        "8b886b7f7d2e55e1": {
+            "hash": "8b886b7f7d2e55e1",
+            "directory": "External17",
+            "voiceContent": "神之眼用起来还真不太习惯。你来教教我吧？呃…差点忘了，你也没用过神之眼啊。",
+            "sourceName": "vo_furina_starUp_01.wem"
+        },
+        "314d5d774e9b1c3e": {
+            "hash": "314d5d774e9b1c3e",
+            "directory": "External6",
+            "voiceContent": "靠自己锻炼得到的力量果然很充实。哼哼，多谢了。",
+            "sourceName": "vo_furina_starUp_02.wem"
+        },
+        "86f87f6dcfc92ec7": {
+            "hash": "86f87f6dcfc92ec7",
+            "directory": "External16",
+            "voiceContent": "渐入佳境！不愧是我，在任何情况下都能展现出闪耀的一面。",
+            "sourceName": "vo_furina_starUp_03.wem"
+        },
+        "2cbd7165a135f51c": {
+            "hash": "2cbd7165a135f51c",
+            "directory": "External5",
+            "voiceContent": "没想到你会对我的事这么上心，这是否意味着你仍然需要我的「力量」呢？然而如今的我…或许无法给你足够的回报…你说看重的是我「本人」？既然这样，就让你我共同出演我们的未来吧。",
+            "sourceName": "vo_furina_starUp_04.wem"
+        },
+        "f1c54c6b9f12e7bd": {
+            "hash": "f1c54c6b9f12e7bd",
+            "directory": "External30",
+            "voiceContent": "总之先休战…",
+            "sourceName": "vo_furina_life_less30_01.wem"
+        },
+        "97c02e6370ad22ba": {
+            "hash": "97c02e6370ad22ba",
+            "directory": "External18",
+            "voiceContent": "情况不妙呀！",
+            "sourceName": "vo_furina_life_less30_02.wem"
+        },
+        "f09b6059f490e983": {
+            "hash": "f09b6059f490e983",
+            "directory": "External30",
+            "voiceContent": "救命啊——",
+            "sourceName": "vo_furina_life_less30_03.wem"
+        },
+        "fff70cbbea0378c7": {
+            "hash": "fff70cbbea0378c7",
+            "directory": "External31",
+            "voiceContent": "别看我…丢人的样子…",
+            "sourceName": "vo_furina_life_die_03.wem"
+        },
+        "a454b963d7d81ce1": {
+            "hash": "a454b963d7d81ce1",
+            "directory": "External20",
+            "voiceContent": "干什么啊！",
+            "sourceName": "vo_furina_battle_hit_H_01.wem"
+        },
+        "4a19ab5ba944e33e": {
+            "hash": "4a19ab5ba944e33e",
+            "directory": "External9",
+            "voiceContent": "别打了！",
+            "sourceName": "vo_furina_battle_hit_H_02.wem"
+        },
+        "2b8e306b287fba75": {
+            "hash": "2b8e306b287fba75",
+            "directory": "External5",
+            "voiceContent": "今晚的通心粉选什么酱好呢…",
+            "sourceName": "vo_furina_dialog_annoyed_01.wem"
+        },
+        "4c466fb3d01174a0": {
+            "hash": "4c466fb3d01174a0",
+            "directory": "External9",
+            "voiceContent": "呆站在那里做什么？该不会是因为过于激动，说不出话了吧？没错，站在你面前的就是枫丹人人皆知的大明星——芙宁娜哦。我的档期可是很紧的，能约到我，说明你运气不错嘛。",
+            "sourceName": "vo_furina_draw_appear_01.wem"
+        },
+        "14367c7366ac89e3": {
+            "hash": "14367c7366ac89e3",
+            "directory": "External2",
+            "voiceContent": "不，不太对…",
+            "sourceName": "vo_card_furina_inGame_hard_02.wem"
+        },
+        "5524ce8b7e75e6cc": {
+            "hash": "5524ce8b7e75e6cc",
+            "directory": "External10",
+            "voiceContent": "享受这场对局吧。",
+            "sourceName": "vo_card_furina_inGame_hard_01.wem"
+        },
+        "34fdbf22a8cf230e": {
+            "hash": "34fdbf22a8cf230e",
+            "directory": "External6",
+            "voiceContent": "瞧好了，我的表演！",
+            "sourceName": "vo_card_furina_inGame_easy_04.wem"
+        },
+        "87dd88a41efc2d91": {
+            "hash": "87dd88a41efc2d91",
+            "directory": "External16",
+            "voiceContent": "见证我的闪耀吧！",
+            "sourceName": "vo_card_furina_inGame_hard_04.wem"
+        },
+        "88925313724e2e6c": {
+            "hash": "88925313724e2e6c",
+            "directory": "External17",
+            "voiceContent": "唔…",
+            "sourceName": "vo_card_furina_inGame_easy_02.wem"
+        },
+        "f2e680f8e6857b03": {
+            "hash": "f2e680f8e6857b03",
+            "directory": "External30",
+            "voiceContent": "毫无压力呢。",
+            "sourceName": "vo_card_furina_inGame_easy_01.wem"
+        },
+        "669dca7a6ec96c9a": {
+            "hash": "669dca7a6ec96c9a",
+            "directory": "External12",
+            "voiceContent": "暂停！先暂停！",
+            "sourceName": "vo_card_furina_inGame_hard_03.wem"
+        },
+        "f4106d0a9107793d": {
+            "hash": "f4106d0a9107793d",
+            "directory": "External30",
+            "voiceContent": "慢点！让我想想…",
+            "sourceName": "vo_card_furina_inGame_easy_03.wem"
+        }
+    }
+}

@@ -1,0 +1,613 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "ff0db11e82d2f477": {
+            "hash": "ff0db11e82d2f477",
+            "directory": "External31",
+            "voiceContent": "あっ、走らないで！旅人さんを邪魔しちゃダメ！",
+            "sourceName": "vo_NTAQ303_10_kachina_01a.wem"
+        },
+        "29bbc335fcb3cb90": {
+            "hash": "29bbc335fcb3cb90",
+            "directory": "External5",
+            "voiceContent": "あっ、走らないで！旅人さんを邪魔しちゃダメ！",
+            "sourceName": "vo_NTAQ303_10_kachina_01b.wem"
+        },
+        "a335be14d967abf6": {
+            "hash": "a335be14d967abf6",
+            "directory": "External20",
+            "voiceContent": "パパとママはダンスを教えたかったみたいだけど、わたしはやっぱりすごい戦士になりたいの！",
+            "sourceName": "vo_NTAQ001_4_kachina_05.wem"
+        },
+        "f2392df3f57f7d42": {
+            "hash": "f2392df3f57f7d42",
+            "directory": "External30",
+            "voiceContent": "へへっ、大丈夫だよ。うちの部族は石を相手に生きてるから——あれはわたしたちの象徴の一つなの！",
+            "sourceName": "vo_NTAQ001_4_kachina_01.wem"
+        },
+        "4cab4bfc24421465": {
+            "hash": "4cab4bfc24421465",
+            "directory": "External9",
+            "voiceContent": "それにちゃんと固定されてるから、安心して！",
+            "sourceName": "vo_NTAQ001_4_kachina_02.wem"
+        },
+        "9ea592032c021794": {
+            "hash": "9ea592032c021794",
+            "directory": "External19",
+            "voiceContent": "うちの部族には音楽やダンスが好きな人が多くて、みんなリズム感がすごくいいんだ。",
+            "sourceName": "vo_NTAQ001_4_kachina_03.wem"
+        },
+        "f8e0a00b5a95515f": {
+            "hash": "f8e0a00b5a95515f",
+            "directory": "External31",
+            "voiceContent": "外国から来た人がわざわざここに来て勉強したり交流したりしていくこともあるよ。",
+            "sourceName": "vo_NTAQ001_4_kachina_04.wem"
+        },
+        "cc129c7a03733875": {
+            "hash": "cc129c7a03733875",
+            "directory": "External25",
+            "voiceContent": "ううん、大丈夫。わたしが丈夫だってこと、ムアラニちゃんもよく知ってるでしょ。",
+            "sourceName": "vo_NTAQ007_7_kachina_12.wem"
+        },
+        "a26604860b336ff5": {
+            "hash": "a26604860b336ff5",
+            "directory": "External20",
+            "voiceContent": "旅人、こっち見てくれ！",
+            "sourceName": "vo_NTAQ303_18_iansan_01.wem"
+        },
+        "75b717fb2f9f6efb": {
+            "hash": "75b717fb2f9f6efb",
+            "directory": "External14",
+            "voiceContent": "（拳の強いやつだけが勝つわけじゃない！）",
+            "sourceName": "vo_NTAQ002_6_kachina_07.wem"
+        },
+        "f3c3a60372d198b2": {
+            "hash": "f3c3a60372d198b2",
+            "directory": "External30",
+            "voiceContent": "（すっごく強い人みたいだけど、こういう時こそ焦っちゃだめ。旅人さんの言葉を思い出そう…相手をよく観察して、チャンスをうかがう…）",
+            "sourceName": "vo_NTAQ002_6_kachina_06.wem"
+        },
+        "bb1b0df0d05b2fa7": {
+            "hash": "bb1b0df0d05b2fa7",
+            "directory": "External23",
+            "voiceContent": "えへへ、役に立ててよかった。",
+            "sourceName": "vo_NTAQ002_4_kachina_05.wem"
+        },
+        "0d4c6bf7d84a9e9e": {
+            "hash": "0d4c6bf7d84a9e9e",
+            "directory": "External1",
+            "voiceContent": "大丈夫、わたしに任せて。上まで連れてってあげる！",
+            "sourceName": "vo_NTAQ002_4_kachina_04.wem"
+        },
+        "fd58e3b3ae2a62c3": {
+            "hash": "fd58e3b3ae2a62c3",
+            "directory": "External31",
+            "voiceContent": "あんなに慌てて、どうしたんだろう…",
+            "sourceName": "vo_NTAQ301_22_kachina_05.wem"
+        },
+        "04031453df15047e": {
+            "hash": "04031453df15047e",
+            "directory": "External0",
+            "voiceContent": "落石だ！",
+            "sourceName": "vo_NTAQ007_9_kachina_13.wem"
+        },
+        "04b13a77c65314b0": {
+            "hash": "04b13a77c65314b0",
+            "directory": "External0",
+            "voiceContent": "危なかった…",
+            "sourceName": "vo_NTAQ002_6_kachina_08.wem"
+        },
+        "2589840a69053f95": {
+            "hash": "2589840a69053f95",
+            "directory": "External4",
+            "voiceContent": "（そうだ。石柱に登ってみよう！そうすれば彼女を捕まえられるかも！）",
+            "sourceName": "vo_NTAQ002_6_kachina_05.wem"
+        },
+        "a0304a12a954a004": {
+            "hash": "a0304a12a954a004",
+            "directory": "External20",
+            "voiceContent": "（このままじゃ負けちゃう…）",
+            "sourceName": "vo_NTAQ002_6_kachina_04.wem"
+        },
+        "cc5e19dfc081418d": {
+            "hash": "cc5e19dfc081418d",
+            "directory": "External25",
+            "voiceContent": "わたしたち、本当に伝説の選手に勝ったんだ…",
+            "sourceName": "vo_NTAQ002_4_kachina_03.wem"
+        },
+        "c55be9a161914d29": {
+            "hash": "c55be9a161914d29",
+            "directory": "External24",
+            "voiceContent": "大丈夫、昔ムアラニちゃんと一緒に乗ったことあるもん。こんなことくらいで怖がったりしないよ。",
+            "sourceName": "vo_NTAQ002_4_kachina_10.wem"
+        },
+        "6fb0cfaae06348e8": {
+            "hash": "6fb0cfaae06348e8",
+            "directory": "External13",
+            "voiceContent": "うん…あの日はなかなか稽古でうまくいかなくて、すっごい落ち込んでたけど、ムアラニちゃんのおかげで元気が出たんだ。",
+            "sourceName": "vo_NTAQ002_4_kachina_11.wem"
+        },
+        "56cffd8bb38a140b": {
+            "hash": "56cffd8bb38a140b",
+            "directory": "External10",
+            "voiceContent": "ありがとう、ムアラニちゃん。",
+            "sourceName": "vo_NTAQ002_4_kachina_09.wem"
+        },
+        "cb342dce15ff4393": {
+            "hash": "cb342dce15ff4393",
+            "directory": "External25",
+            "voiceContent": "か、勝った！",
+            "sourceName": "vo_NTAQ002_4_kachina_01.wem"
+        },
+        "67877a0006ddd841": {
+            "hash": "67877a0006ddd841",
+            "directory": "External12",
+            "voiceContent": "はぁ…はぁ…大丈夫。ほら、早く聖火競技場に戻ろう！",
+            "sourceName": "vo_NTAQ002_4_kachina_07.wem"
+        },
+        "da3b1d9054c85baf": {
+            "hash": "da3b1d9054c85baf",
+            "directory": "External27",
+            "voiceContent": "わたし…一度でいいから勝ちたいよ。「帰火聖夜の巡礼」に勝って、本物の戦士になりたい！",
+            "sourceName": "vo_NTAQ002_4_kachina_12.wem"
+        },
+        "fd880b952f49e842": {
+            "hash": "fd880b952f49e842",
+            "directory": "External31",
+            "voiceContent": "はぁ、はぁ…",
+            "sourceName": "vo_NTAQ002_4_kachina_08.wem"
+        },
+        "60dfffe8a1c7f6fc": {
+            "hash": "60dfffe8a1c7f6fc",
+            "directory": "External12",
+            "voiceContent": "この魔物たち…試合会場にまで入ってくるなんて…",
+            "sourceName": "vo_NTAQ002_4_kachina_02.wem"
+        },
+        "0e75a00982cb6440": {
+            "hash": "0e75a00982cb6440",
+            "directory": "External1",
+            "voiceContent": "あそこで戦ってるみたい。どうしよう、ムアラニちゃん？",
+            "sourceName": "vo_NTAQ002_4_kachina_06.wem"
+        },
+        "763b18750d8057d2": {
+            "hash": "763b18750d8057d2",
+            "directory": "External14",
+            "voiceContent": "あわわわ——「スピリットウェイ」みたいで、どきどきする…！",
+            "sourceName": "vo_NTAQ108_4_kachina_01.wem"
+        },
+        "f958767e74d02b35": {
+            "hash": "f958767e74d02b35",
+            "directory": "External31",
+            "voiceContent": "わたしの番！行くよ、ぐるぐるコマちゃん！",
+            "sourceName": "vo_NTAQ108_4_kachina_02.wem"
+        },
+        "77643c86b80101a4": {
+            "hash": "77643c86b80101a4",
+            "directory": "External14",
+            "voiceContent": "ウチらって…えっ、わたしも含まれてる？へ、へへっ、今は確かに向かうところ敵なしだよ！",
+            "sourceName": "vo_NTAQ108_4_kachina_03.wem"
+        }
+    },
+    "Gameplay": {
+        "4d37de1fba97ebb7": {
+            "hash": "4d37de1fba97ebb7",
+            "directory": "External9",
+            "voiceContent": "回って！",
+            "sourceName": "vo_kachina_battle_skill1_01.wem"
+        },
+        "77e6f037347a76d0": {
+            "hash": "77e6f037347a76d0",
+            "directory": "External14",
+            "voiceContent": "よい…しょっと！",
+            "sourceName": "vo_kachina_battle_skill1_02.wem"
+        },
+        "f9a44a2ef11a9451": {
+            "hash": "f9a44a2ef11a9451",
+            "directory": "External31",
+            "voiceContent": "来た来た！",
+            "sourceName": "vo_kachina_battle_skill1_03.wem"
+        },
+        "dbca8c0543cafc5a": {
+            "hash": "dbca8c0543cafc5a",
+            "directory": "External27",
+            "voiceContent": "回る時間だよ！",
+            "sourceName": "vo_kachina_battle_skill1_04.wem"
+        },
+        "89633dfe3bae18a3": {
+            "hash": "89633dfe3bae18a3",
+            "directory": "External17",
+            "voiceContent": "衝撃波！",
+            "sourceName": "vo_kachina_battle_skill1_05.wem"
+        },
+        "c6ea90165092998c": {
+            "hash": "c6ea90165092998c",
+            "directory": "External24",
+            "voiceContent": "ぐるぐるコマちゃん、しゅっぱつ！",
+            "sourceName": "vo_kachina_battle_skill1_06.wem"
+        },
+        "f727fa21d2131a55": {
+            "hash": "f727fa21d2131a55",
+            "directory": "External30",
+            "voiceContent": "どいて！",
+            "sourceName": "vo_kachina_battle_skill3_01.wem"
+        },
+        "c5621c1adbdf7372": {
+            "hash": "c5621c1adbdf7372",
+            "directory": "External24",
+            "voiceContent": "採掘スタート！",
+            "sourceName": "vo_kachina_battle_skill3_02.wem"
+        },
+        "4abb8e129b9071bb": {
+            "hash": "4abb8e129b9071bb",
+            "directory": "External9",
+            "voiceContent": "近づかないで。",
+            "sourceName": "vo_kachina_battle_skill3_03.wem"
+        },
+        "635995de6b8e8ffc": {
+            "hash": "635995de6b8e8ffc",
+            "directory": "External12",
+            "voiceContent": "わあ、キラキラの石！",
+            "sourceName": "vo_kachina_chest_open_01.wem"
+        },
+        "cdadc3c3dfc5dc93": {
+            "hash": "cdadc3c3dfc5dc93",
+            "directory": "External25",
+            "voiceContent": "あなたも石集めが好きなの？わかるよ、すごくきれいだよね～！",
+            "sourceName": "vo_kachina_chest_open_02.wem"
+        },
+        "48c191cc20721c8a": {
+            "hash": "48c191cc20721c8a",
+            "directory": "External9",
+            "voiceContent": "お片付けの手伝いとかいる？わたし、すごく得意なんだよ！",
+            "sourceName": "vo_kachina_chest_open_03.wem"
+        },
+        "6fc142e8fd573e0c": {
+            "hash": "6fc142e8fd573e0c",
+            "directory": "External13",
+            "voiceContent": "わたしもいるって忘れないで！",
+            "sourceName": "vo_kachina_life_less30_teammate_01.wem"
+        },
+        "3239f0d0e872bd23": {
+            "hash": "3239f0d0e872bd23",
+            "directory": "External6",
+            "voiceContent": "ここにいるよ！任せて！",
+            "sourceName": "vo_kachina_life_less30_teammate_02.wem"
+        },
+        "bb4e71e1e15cd979": {
+            "hash": "bb4e71e1e15cd979",
+            "directory": "External23",
+            "voiceContent": "ごめんね、強がっちゃった…",
+            "sourceName": "vo_kachina_life_die_01.wem"
+        },
+        "4b0a43d915109316": {
+            "hash": "4b0a43d915109316",
+            "directory": "External9",
+            "voiceContent": "「ウッサビーティ」の名を…傷つけちゃダメなのに…",
+            "sourceName": "vo_kachina_life_die_02.wem"
+        },
+        "7bb7a54f83af7dfd": {
+            "hash": "7bb7a54f83af7dfd",
+            "directory": "External15",
+            "voiceContent": "えっ、わたしも行っていいの？",
+            "sourceName": "vo_kachina_teamJoin_01.wem"
+        },
+        "21b287475549b8fa": {
+            "hash": "21b287475549b8fa",
+            "directory": "External4",
+            "voiceContent": "やった！一緒に行こう。",
+            "sourceName": "vo_kachina_teamJoin_02.wem"
+        },
+        "7727b93dd64a56c3": {
+            "hash": "7727b93dd64a56c3",
+            "directory": "External14",
+            "voiceContent": "またあなたから戦闘のコツを学べるね。",
+            "sourceName": "vo_kachina_teamJoin_03.wem"
+        },
+        "35e984c33608ecee": {
+            "hash": "35e984c33608ecee",
+            "directory": "External6",
+            "voiceContent": "あっ…さっき、ちゃんと積まれてないブロックを見かけたんだけど…どうしよう？心の中を子竜が搔き続けてるみたいな感覚…落ち着かないよう。",
+            "sourceName": "vo_kachina_character_idle_01.wem"
+        },
+        "677852ca2c0d3591": {
+            "hash": "677852ca2c0d3591",
+            "directory": "External12",
+            "voiceContent": "できる、できない、できる、でき…うぅ、大丈夫…わたしならできる。きっと問題ないはず…だよね？",
+            "sourceName": "vo_kachina_character_idle_02.wem"
+        },
+        "e5baf8d26f6d1810": {
+            "hash": "e5baf8d26f6d1810",
+            "directory": "External28",
+            "voiceContent": "退屈なら、わたしのバッグの中のコレクションを一緒に見てみない？好きなものがあれば持ってっていいよ。",
+            "sourceName": "vo_kachina_character_idle_03.wem"
+        },
+        "54b0ee3ddcf067b8": {
+            "hash": "54b0ee3ddcf067b8",
+            "directory": "External10",
+            "voiceContent": "雨が降ると土がふかふかになるから、雨の日に鉱石を掘るなら普段よりも気をつけないといけないんだよ。",
+            "sourceName": "vo_kachina_weather_heavyRain_01.wem"
+        },
+        "23bc94c3bfefe13b": {
+            "hash": "23bc94c3bfefe13b",
+            "directory": "External4",
+            "voiceContent": "ひぃ——あっ…雷が怖いわけじゃないよ、びっくりしただけ。",
+            "sourceName": "vo_kachina_weather_thunder_01.wem"
+        },
+        "af9b2af2f9e0ca44": {
+            "hash": "af9b2af2f9e0ca44",
+            "directory": "External21",
+            "voiceContent": "この下にキラキラする鉱石があったりしないかな？掘ってみてもいい？",
+            "sourceName": "vo_kachina_weather_desert_01.wem"
+        },
+        "b141fb341b13cccf": {
+            "hash": "b141fb341b13cccf",
+            "directory": "External22",
+            "voiceContent": "雪の上で一緒にゴロゴロしよう。へへっ、安心して。ユーちゃんみたいに雪の中からいきなり飛び出して、おどかしたりしないから。",
+            "sourceName": "vo_kachina_weather_snowy_01.wem"
+        },
+        "0200082adafc82fa": {
+            "hash": "0200082adafc82fa",
+            "directory": "External0",
+            "voiceContent": "見て見て、この宝石！太陽の光が当たると、まるで虹が封じ込められてるみたい！",
+            "sourceName": "vo_kachina_weather_sunny_01.wem"
+        },
+        "c22f50ffbf628962": {
+            "hash": "c22f50ffbf628962",
+            "directory": "External24",
+            "voiceContent": "おはよう～！バッグの整理は終わったから、いつでも出発できるよ。",
+            "sourceName": "vo_kachina_dialog_greetingMorning.wem"
+        },
+        "883c33b7e5de8b1e": {
+            "hash": "883c33b7e5de8b1e",
+            "directory": "External17",
+            "voiceContent": "ううん、まだ眠くないよ。お昼寝したいなら、見張りは任せて。わたし、苦手なことは山ほどあるけど…耳はけっこういいんだ。遠くからの風の声とか草の動きは全部感じられるよ。",
+            "sourceName": "vo_kachina_dialog_greetingNoon.wem"
+        },
+        "24d85cd829a026a8": {
+            "hash": "24d85cd829a026a8",
+            "directory": "External4",
+            "voiceContent": "さっき、夜に山の洞窟で肝試ししないかってムアラニちゃんに誘われたんだ。す、すごく緊張する…どうしよう？友達からの誘いを断りたくなくて、つ…つい後先考えずに約束しちゃった。だって、何があっても、ムアラニちゃんと一緒に立ち向かおうって決めたから。えっ！あなたも一緒に来てくれるの？あ、ありがとう…！ううぅ…",
+            "sourceName": "vo_kachina_dialog_greetingNight.wem"
+        },
+        "6471a7a8ef295d58": {
+            "hash": "6471a7a8ef295d58",
+            "directory": "External12",
+            "voiceContent": "どうしてまたやっちゃったんだろう…ぅぅ…泣きたくないのに、涙が止まらないよぉ…うぇ…ひっく——ひんっ！？…さ、さっきおやすみを言ったから、てっきりもう寝たのかと…でも…慰めてくれてありがとう…",
+            "sourceName": "vo_kachina_dialog_greetingNight2.wem"
+        },
+        "58b9c3d510abaa7f": {
+            "hash": "58b9c3d510abaa7f",
+            "directory": "External11",
+            "voiceContent": "この名前はユーちゃんと一緒に考えたんだよ。まず名前の後半を決めてから、ユーちゃんの動きを参考に前半も決めたの。ぐるぐるコマちゃんに乗ってユーちゃんとよく駆けっこするんだけど…勝率は半々ってとこかな。",
+            "sourceName": "vo_kachina_dialog_idle.wem"
+        },
+        "874925f5a96201b1": {
+            "hash": "874925f5a96201b1",
+            "directory": "External16",
+            "voiceContent": "ナタの戦士にとって、「夜巡者の戦争」で死ぬことはある種の栄誉なんだ。もちろんわたしも例外じゃないよ…でも…理屈はそうやって自分に言い聞かせ続けてたけど、やっぱりあの時は内心すごく怖かった…大きなリスクを冒してまでわたしを夜神の国から連れ戻してくれて、本当にありがとう！うぅぅ…みんなありがとう…",
+            "sourceName": "vo_kachina_dialog_idle2.wem"
+        },
+        "731b0cc33a8f8568": {
+            "hash": "731b0cc33a8f8568",
+            "directory": "External14",
+            "voiceContent": "友達の証に、好きなのを選んで！わたしが手に入れた鉱石の中で、一番きれいなものとかキラキラしたものを全部しまってあるの。好きなのを選んで受け取ってくれたらすごく嬉しい！",
+            "sourceName": "vo_kachina_dialog_close1.wem"
+        },
+        "f959a06d9eb1c6c5": {
+            "hash": "f959a06d9eb1c6c5",
+            "directory": "External31",
+            "voiceContent": "ナタには英雄に関する伝説がたくさんあるんだよ。わたしが一番好きなのはトラオレ様の物語。ただの人間がアビスを地下に封印できたなんて、すごいと思わない？あっ、そういえば、あなたもあれだけ多くの国を旅してきたんだから、きっと色んな伝説を知ってるはずだよね？すごく気になる…時間があったら教えてくれない？",
+            "sourceName": "vo_kachina_dialog_close.wem"
+        },
+        "6fd0f9286471d3b0": {
+            "hash": "6fd0f9286471d3b0",
+            "directory": "External13",
+            "voiceContent": "ユーちゃんはすごく大事な仲間だよ。今は大人しそうに見えるけど、もっと小さい頃のユーちゃんは、好きって気持ちを頭突きで表してたの。力がとても強くて、わたしも尻もちをついちゃうくらいだった。でもテペトル竜は人なつっこい竜だから仕方ないよね。ひゃっ、ユーちゃんったら、わかったって、もう言わないから。",
+            "sourceName": "vo_kachina_dialog_share_01.wem"
+        },
+        "d3a5f92ce797e392": {
+            "hash": "d3a5f92ce797e392",
+            "directory": "External26",
+            "voiceContent": "スピネルの実ってまるで宝石みたい。宝石のようにずっと置いておけたらいいのに…",
+            "sourceName": "vo_kachina_pref_gift_01.wem"
+        },
+        "293773018645775c": {
+            "hash": "293773018645775c",
+            "directory": "External5",
+            "voiceContent": "ムアラニちゃんは初めての親友だよ。ムアラニちゃんに出会うまでは、この世にあんなに親切な人がいて、あんなに面白いことがわたしを待ってるだなんて思いもしなかった。ほら、わたしたちのツーショット。写真を撮った時、一緒に跳ぼうってムアラニちゃんが言ったの…わたしの動きがぎこちなく見える？へへっ、バレちゃった…カメラには映ってないけど、あの時は沢山の人に見られてたから、ちょっと緊張してたんだ…",
+            "sourceName": "vo_kachina_teammate_mualani_01.wem"
+        },
+        "b078d7d6c346d519": {
+            "hash": "b078d7d6c346d519",
+            "directory": "External22",
+            "voiceContent": "キィニチお兄さんを紹介してくれたのはムアラニちゃんだったんだよ。ここだけの話…最初は怖い人だって思ってたの。だって目つきが…ちょっと怖いんだもん。でも、後になって知ったんだけど、わたしをいじめてた悪い人を裏で懲らしめてくれたんだって。お礼をしようとしたけど、十分な報酬を既に受け取ってるから大丈夫だって、どうしても受け取ってくれなかったんだ…",
+            "sourceName": "vo_kachina_teammate_kinich_01.wem"
+        },
+        "e31230177ba19e1c": {
+            "hash": "e31230177ba19e1c",
+            "directory": "External28",
+            "voiceContent": "チャスカお姉さんはナタの有名な「調停者」だよ。お姉さんがいれば、どんな揉め事も簡単に片付くんだって。たぶんだけど…わたしと同じで、人と人の争いが嫌いだからこそ、調停者をやってるんじゃないかな…",
+            "sourceName": "vo_kachina_teammate_chasca_01.wem"
+        },
+        "5fd44d827c93abb1": {
+            "hash": "5fd44d827c93abb1",
+            "directory": "External11",
+            "voiceContent": "炎神さまから直々に「ナタの英雄」だなんて言っていただける日が来るなんて、夢にも思わなかった。炎神様はナタの戦士なら誰もが崇拝する存在なのに、わたし…わたしはそんな存在から…うぅう…思い出すだけで感動しちゃう。ひっく…ごめん、本当にごめんね。泣くつもりじゃなかったのに…",
+            "sourceName": "vo_kachina_teammate_mavuika_01.wem"
+        },
+        "e35908bbcf0ce2f5": {
+            "hash": "e35908bbcf0ce2f5",
+            "directory": "External28",
+            "voiceContent": "イファお兄さんはとってもすごい竜医さんだよ。お兄さんに診てもらった子竜たちはみんな規則正しく暮らすようになるし、変なものも食べなくなって、勝手に突っ走ったりもしなくなるの。病気にもほとんどかからなくなるよ！だから、具合の悪い竜がいたら、みんなすぐイファお兄さんに飛んできてもらって、診てもらうんだ。",
+            "sourceName": "vo_kachina_teammate_ifa_01.wem"
+        },
+        "c9f44934eda55b21": {
+            "hash": "c9f44934eda55b21",
+            "directory": "External25",
+            "voiceContent": "前、強くなるために、イアンサお姉さんに訓練の指導をお願いしたことがあるの。ハードな訓練法が色々入ったプランを立ててくれて、やっとのことでクリアできたんだ。すごく正確に計算された訓練だったから、毎回家まで帰るだけの体力は残ってたけどね。とにかく、イアンサお姉さんにはすごく感謝してるんだ。",
+            "sourceName": "vo_kachina_teammate_iansan_01.wem"
+        },
+        "4fec6fedae32b373": {
+            "hash": "4fec6fedae32b373",
+            "directory": "External9",
+            "voiceContent": "ムアラニちゃんから聞いたよ。わたしを救い出せたのは、シトラリおばあさまの発明品のおかげだったんだってね。それに、「スピリットストーン」が壊れたのも、わたしに責任があると思うから…あの後、勇気を振り絞って会いに行ったんだ。お詫びにわたしの石コレクションから好きなものを選んでって言ったら、シトラリおばあさまは頭を搔きながら、「えっ、選ばないとダメって感じかな？じゃあ、似たようなものを貰うからこれで貸し借りなしってコトでいい？」って言って、一番目立たない黒曜石だけを一つ取って、手を振ってわたしを帰らせたんだ。あのね…やっぱり他のものもあげたほうがいいかな？シトラリおばあさまの好みについて、何か知ってたりしない？",
+            "sourceName": "vo_kachina_teammate_citlali_01.wem"
+        },
+        "9ab94f4520eb1134": {
+            "hash": "9ab94f4520eb1134",
+            "directory": "External19",
+            "voiceContent": "古名を手に入れた後、パカルおじさんがわたしをシロネンお姉さんのところに連れて行ってくれて、それでぐるぐるコマちゃんを作ってもらったんだ。シロネンお姉さんの腕ってほんとに神がかってると思う。その後は宝石コレクションと保存について色々話したり、コレクションを見せ合ったりしてたの。お姉さんのコレクションは保存状態がすごくよかったから、きっと丁寧に手入れしてるんだろうなって思った。でも、普段の生活習慣については…何だか自由だなって思う。前にどれだけ探しても見つからない時があったんだけど、木の上で日向ぼっこして寝てたんだよ…",
+            "sourceName": "vo_kachina_teammate_xilonen_01.wem"
+        },
+        "227b2aa468e9d6e2": {
+            "hash": "227b2aa468e9d6e2",
+            "directory": "External4",
+            "voiceContent": "わたしの古名は「ウッサビーティ」——不屈、って意味なんだ。はぁ、ずっと思ってるんだけど、なんでこの古名を授かったんだろうね。わたしって弱いし、家でも部族でも影が薄いし…あれほど優秀な人たちがすぐそばにいるのに、わたしがこれを持つ資格なんてあるのかな？",
+            "sourceName": "vo_kachina_friendship_01.wem"
+        },
+        "7ced48ac97ac6d05": {
+            "hash": "7ced48ac97ac6d05",
+            "directory": "External15",
+            "voiceContent": "家族の話？わたしは次女だよ。パパはお姉ちゃんにすごく期待をかけてるし、ママは幼い妹の面倒をみないといけない。みんな忙しくて大変だから、わたしも自分の面倒をちゃんと見て、はやく大人にならなきゃ…少しでもいいからパパとママの負担を分かち合いたいんだ。",
+            "sourceName": "vo_kachina_friendship_02.wem"
+        },
+        "23a50eb6136bc6b4": {
+            "hash": "23a50eb6136bc6b4",
+            "directory": "External4",
+            "voiceContent": "パカルおじさんはとても良くしてくれてるよ。部族の他の人が裏でわたしの噂を流すたびに、おじさんはわたしの味方になってくれる。でも実は…申し訳なく思ってるんだ。だってわたし、本当なら自分の実力でみんなに認めてもらうべきだから…",
+            "sourceName": "vo_kachina_friendship_03.wem"
+        },
+        "7de01cbe41ff007f": {
+            "hash": "7de01cbe41ff007f",
+            "directory": "External15",
+            "voiceContent": "分かってるんだよ。泣いたって何の解決にもならない。伝説でも、みんなの前で泣き出す英雄がいるだなんて聞いたことないもん。涙を我慢したいのに、いつも失敗しちゃう…えっ？泣いてもいいって？涙は大事なストレス発散方法？ほ…本当にそう思ってるの？ふぇ…ありがとう…うぅ…なんでまた泣いちゃうんだろう。",
+            "sourceName": "vo_kachina_friendship_04.wem"
+        },
+        "d010bac549ed2896": {
+            "hash": "d010bac549ed2896",
+            "directory": "External26",
+            "voiceContent": "こんなに弱いわたしなんて、他人に無視されても当然だってずっと思ってた…でも、大霊さんの話を聞いてからは、そういう風に思わなくなったよ。わたしの古名は「ウッサビーティ」。わたしは…もっといい「自分」になるって決めたんだ。この世界にはきっと、わたしにしかできないことが存在するって信じてる。だから…頑張り続けるよ。この黒曜石もいつかはわたしの物語を記録して…もっとキラキラした宝石になってくれたらいいな。",
+            "sourceName": "vo_kachina_friendship_05.wem"
+        },
+        "b0190ddb4b13e7de": {
+            "hash": "b0190ddb4b13e7de",
+            "directory": "External22",
+            "voiceContent": "見て、これはわたしが初めて掘り出した宝石なんだ。翠色がすごくきれいでしょ？最初は二個で対になってたんだけど、そのうちの一個をムアラニちゃんにあげたの。ほら、模様が流れる水みたいに見えない？あっ、こっちも見て。黒っぽく見えるけど、太陽の光が当たると虹色に光るんだよ…へへっ、この石は全部、わたしが一個ずつ集めたの。",
+            "sourceName": "vo_kachina_pref_hobby.wem"
+        },
+        "970791587484bc21": {
+            "hash": "970791587484bc21",
+            "directory": "External18",
+            "voiceContent": "グレインチップスが大好き。きちんと積まれてたらもっといいな！",
+            "sourceName": "vo_kachina_pref_foodLike.wem"
+        },
+        "f30cea5523f513c3": {
+            "hash": "f30cea5523f513c3",
+            "directory": "External30",
+            "voiceContent": "えっ！こんなにたくさん？で、でも、食べきらないとシェフの苦労を無駄にしちゃうよね。だ、大丈夫…きっと完食できるはず…！少しずつ食べれば…",
+            "sourceName": "vo_kachina_pref_foodDislike.wem"
+        },
+        "08ea941a95fd046e": {
+            "hash": "08ea941a95fd046e",
+            "directory": "External1",
+            "voiceContent": "わあっ、ほんとに全部食べていいの？すごく美味しい！ゆっくり味わわなきゃ。",
+            "sourceName": "vo_kachina_spice_pref_01.wem"
+        },
+        "4169331c91e55494": {
+            "hash": "4169331c91e55494",
+            "directory": "External8",
+            "voiceContent": "香ばしくて美味しいし、盛り付けもすごく凝ってるね。「料理戦争」があれば優勝できるレベルだと思うよ！",
+            "sourceName": "vo_kachina_spice_normal_01.wem"
+        },
+        "8ba78dbe209a8478": {
+            "hash": "8ba78dbe209a8478",
+            "directory": "External17",
+            "voiceContent": "時間をかけて作ってくれてありがとう！えっと、ちゃんと食べきるから、もうちょっと時間をくれないかな？",
+            "sourceName": "vo_kachina_spice_dislike_01.wem"
+        },
+        "e6e2f0a35f41314d": {
+            "hash": "e6e2f0a35f41314d",
+            "directory": "External28",
+            "voiceContent": "お誕生日おめでとう！これあげる。虹閃石で彫ったナキウサギだよ。虹閃石ってきめ細かい手触りだけど、土の中でも目立たないから、少しでも気が緩んだら見逃しちゃうの…でもずっと持ってるとどんどんツヤツヤになって、綺麗になるんだよ。わたしが一番好きな宝石の一つだから、気に入ってくれると嬉しいな！",
+            "sourceName": "vo_kachina_pref_birthday_01.wem"
+        },
+        "f486aebad990a14d": {
+            "hash": "f486aebad990a14d",
+            "directory": "External30",
+            "voiceContent": "わたしの耳が震えてる…？ああっ、緊張してるわけじゃなくて…嬉しいからなんだ。ごめんね、すごくテンションが上がっちゃうと、抑えきれなくて…手、手で覆うね。",
+            "sourceName": "vo_kachina_starUp_01.wem"
+        },
+        "6e6f90b16fb9304a": {
+            "hash": "6e6f90b16fb9304a",
+            "directory": "External13",
+            "voiceContent": "本当にわたしを大事に思ってくれてるんだね…うぅ、な、泣くつもりじゃなかったのに、感動しちゃって、つい…",
+            "sourceName": "vo_kachina_starUp_02.wem"
+        },
+        "eff6c2a92c2b7a53": {
+            "hash": "eff6c2a92c2b7a53",
+            "directory": "External29",
+            "voiceContent": "「王庭が燃やされ放棄されても、炎が消えることはない。明日には再び燃え盛り、昨日よりも輝くのだ。」わたしがすっごく好きなトラオレ様の言葉の一つなんだ。わ、わたしも頑張らなきゃ…",
+            "sourceName": "vo_kachina_starUp_03.wem"
+        },
+        "369e34e49bdac300": {
+            "hash": "369e34e49bdac300",
+            "directory": "External6",
+            "voiceContent": "新鮮で面白い物事にたくさん出会わせてもらったおかげで、わたし、すっごく成長できた気がする。どう恩返しすればいいか分からないよ…でも、今回は自分で答えを探したい。これからはわたしが英雄になるよ——あなたを守る英雄に！",
+            "sourceName": "vo_kachina_starUp_04.wem"
+        },
+        "8575d4aff5904e85": {
+            "hash": "8575d4aff5904e85",
+            "directory": "External16",
+            "voiceContent": "大丈夫、軽い傷だよ…",
+            "sourceName": "vo_kachina_life_less30_01.wem"
+        },
+        "2b03b6a7c6cdb862": {
+            "hash": "2b03b6a7c6cdb862",
+            "directory": "External5",
+            "voiceContent": "わたし…頑張るから。",
+            "sourceName": "vo_kachina_life_less30_02.wem"
+        },
+        "d5a328a0bc2a10ab": {
+            "hash": "d5a328a0bc2a10ab",
+            "directory": "External26",
+            "voiceContent": "き、きっと行ける！",
+            "sourceName": "vo_kachina_life_less30_03.wem"
+        },
+        "f8d9a5d20d226aff": {
+            "hash": "f8d9a5d20d226aff",
+            "directory": "External31",
+            "voiceContent": "うぅ…またやっちゃった…",
+            "sourceName": "vo_kachina_life_die_03.wem"
+        },
+        "11ff418e0cfb1d76": {
+            "hash": "11ff418e0cfb1d76",
+            "directory": "External2",
+            "voiceContent": "くっ、まだ大丈夫。",
+            "sourceName": "vo_kachina_battle_hit_H_02.wem"
+        },
+        "72a5eb0d84ddc39a": {
+            "hash": "72a5eb0d84ddc39a",
+            "directory": "External14",
+            "voiceContent": "かすっただけだから。",
+            "sourceName": "vo_kachina_battle_hit_L_02.wem"
+        },
+        "78b3f322c4edcd21": {
+            "hash": "78b3f322c4edcd21",
+            "directory": "External15",
+            "voiceContent": "この前、ムアラニちゃんからとても大きな帽子をもらったの。すごくカッコよくて、日よけ機能も完璧だった。好きすぎていつも被ってたんだけど、日が経つにつれて、フェルト帽みたいになっちゃって…だから今は、この毛がつきにくい帽子を被るしかないんだ。",
+            "sourceName": "vo_kachina_dialog_annoyed_01.wem"
+        },
+        "ac9a7407cca61c04": {
+            "hash": "ac9a7407cca61c04",
+            "directory": "External21",
+            "voiceContent": "こんにちは、「こだまの子」のカチーナだよ。好きな食べ物はグレインの実！夢は強くなることで、苦手なものはケンカ…あれ…こういうことじゃない？じゃ、じゃあ…どこかお散歩に行きたいとこはある？このあたりには結構慣れてるから、案内してあげるよ。",
+            "sourceName": "vo_kachina_draw_appear_01.wem"
+        },
+        "03c23c1354e7f25d": {
+            "hash": "03c23c1354e7f25d",
+            "directory": "External0",
+            "voiceContent": "このキラキラの神の目を初めてみたとき、幻覚を見てるのかと思っちゃった。だって、わたしが見てきたどの石よりもキラキラしてたから。今のわたしなんて、伝説の英雄たちには遠く及ばないけど…いつの日か、わたしの物語で誰かに勇気を与えられたらいいな。たとえそれが一人だけでも、最高に幸せだよ…",
+            "sourceName": "vo_kachina_dialog_pendant_01.wem"
+        }
+    }
+}

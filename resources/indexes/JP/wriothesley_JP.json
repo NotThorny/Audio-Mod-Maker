@@ -1,0 +1,457 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "7e349eb5e0e01f34": {
+            "hash": "7e349eb5e0e01f34",
+            "directory": "External15",
+            "voiceContent": "さっきと同じように、まずは目の前にある装置を起動してみろ。何か変化が起こるかもしれない。",
+            "sourceName": "vo_DYZLQ003_14_wriothesley_01.wem"
+        }
+    },
+    "Gameplay": {
+        "6c2572a0f611d2b7": {
+            "hash": "6c2572a0f611d2b7",
+            "directory": "External13",
+            "voiceContent": "始めよう。",
+            "sourceName": "vo_wriothesley_battle_skill1_01.wem"
+        },
+        "96d484b86ff45dd0": {
+            "hash": "96d484b86ff45dd0",
+            "directory": "External18",
+            "voiceContent": "逃げるなって。",
+            "sourceName": "vo_wriothesley_battle_skill1_02.wem"
+        },
+        "1891deb02c947b51": {
+            "hash": "1891deb02c947b51",
+            "directory": "External3",
+            "voiceContent": "少しいいかい。",
+            "sourceName": "vo_wriothesley_battle_skill1_03.wem"
+        },
+        "16158ea30d8d0155": {
+            "hash": "16158ea30d8d0155",
+            "directory": "External2",
+            "voiceContent": "行ってらっしゃい。",
+            "sourceName": "vo_wriothesley_battle_skill3_01.wem"
+        },
+        "e44fb09c17595a72": {
+            "hash": "e44fb09c17595a72",
+            "directory": "External28",
+            "voiceContent": "寒いから気を付けろよ。",
+            "sourceName": "vo_wriothesley_battle_skill3_02.wem"
+        },
+        "69a92293d70a58bb": {
+            "hash": "69a92293d70a58bb",
+            "directory": "External13",
+            "voiceContent": "恐れなくていいさ、罪に向き合うんだ。",
+            "sourceName": "vo_wriothesley_battle_skill3_03.wem"
+        },
+        "babb76c70cd044fc": {
+            "hash": "babb76c70cd044fc",
+            "directory": "External23",
+            "voiceContent": "鍵がついてなかったのか。都合がよかったな。",
+            "sourceName": "vo_wriothesley_chest_open_01.wem"
+        },
+        "250fa4ac81079193": {
+            "hash": "250fa4ac81079193",
+            "directory": "External4",
+            "voiceContent": "とりあえずしまっておこう。いつか役に立つさ。",
+            "sourceName": "vo_wriothesley_chest_open_02.wem"
+        },
+        "a02372b4c1b3d18a": {
+            "hash": "a02372b4c1b3d18a",
+            "directory": "External20",
+            "voiceContent": "主なきもの、公に帰すべし——でも、最初からここには何もなかった。だろ？",
+            "sourceName": "vo_wriothesley_chest_open_03.wem"
+        },
+        "b2da6dd1431ddb0c": {
+            "hash": "b2da6dd1431ddb0c",
+            "directory": "External22",
+            "voiceContent": "下がれ。",
+            "sourceName": "vo_wriothesley_life_less30_teammate_01.wem"
+        },
+        "75531bb92e395a23": {
+            "hash": "75531bb92e395a23",
+            "directory": "External14",
+            "voiceContent": "医務室へ行け。",
+            "sourceName": "vo_wriothesley_life_less30_teammate_02.wem"
+        },
+        "ce0ab90030048679": {
+            "hash": "ce0ab90030048679",
+            "directory": "External25",
+            "voiceContent": "すまない、守り切れなかった…",
+            "sourceName": "vo_wriothesley_life_die_01.wem"
+        },
+        "5dc68af763b84016": {
+            "hash": "5dc68af763b84016",
+            "directory": "External11",
+            "voiceContent": "大博打の結果がこのザマか…",
+            "sourceName": "vo_wriothesley_life_die_02.wem"
+        },
+        "ab01a551d9afc937": {
+            "hash": "ab01a551d9afc937",
+            "directory": "External21",
+            "voiceContent": "やるか。",
+            "sourceName": "vo_wriothesley_teamJoin_01.wem"
+        },
+        "d5b0b76953925450": {
+            "hash": "d5b0b76953925450",
+            "directory": "External26",
+            "voiceContent": "外の仕事か？行こう。",
+            "sourceName": "vo_wriothesley_teamJoin_02.wem"
+        },
+        "576e1161103271d1": {
+            "hash": "576e1161103271d1",
+            "directory": "External10",
+            "voiceContent": "最善を尽くすが、勝利の保証はしないぞ。",
+            "sourceName": "vo_wriothesley_teamJoin_03.wem"
+        },
+        "b7e2106efd84e636": {
+            "hash": "b7e2106efd84e636",
+            "directory": "External22",
+            "voiceContent": "俺の背中にメリュジーヌが描いたステッカーが貼ってあったら、剥がしてくれるかい？",
+            "sourceName": "vo_wriothesley_character_idle_01.wem"
+        },
+        "28263e77c9d12b99": {
+            "hash": "28263e77c9d12b99",
+            "directory": "External5",
+            "voiceContent": "執務室でペットを飼おうかと考えたことがあったが、日差しすら届かない場所で暮らすなんて、犬や猫が可哀そうすぎると思ってやめたんだ。",
+            "sourceName": "vo_wriothesley_character_idle_02.wem"
+        },
+        "a668e4800d310e18": {
+            "hash": "a668e4800d310e18",
+            "directory": "External20",
+            "voiceContent": "違法行為はしないように。他に何か言っておくことはあったか——ああ、違法行為はやめておいてくれ。",
+            "sourceName": "vo_wriothesley_character_idle_03.wem"
+        },
+        "fcbf6be657f72590": {
+            "hash": "fcbf6be657f72590",
+            "directory": "External31",
+            "voiceContent": "雨か？それならよかった。メロピデ要塞で頭の上から水が降ってきたら、それこそ大問題だがな。",
+            "sourceName": "vo_wriothesley_weather_heavyRain_01.wem"
+        },
+        "02e2ffaad78f8d33": {
+            "hash": "02e2ffaad78f8d33",
+            "directory": "External0",
+            "voiceContent": "心の中にやましいことがない限りは、こんな天気でも安眠できるはずさ。",
+            "sourceName": "vo_wriothesley_weather_thunder_01.wem"
+        },
+        "fa5d2b0c99765817": {
+            "hash": "fa5d2b0c99765817",
+            "directory": "External31",
+            "voiceContent": "ふむ…水の下の寒さとはやっぱり違うな。",
+            "sourceName": "vo_wriothesley_weather_snowy_01.wem"
+        },
+        "2438a963433dfce2": {
+            "hash": "2438a963433dfce2",
+            "directory": "External4",
+            "voiceContent": "「太陽の下、新しきものは何ひとつなし」と言うが、いい場所を見つけてピクニックができそうだぞ。",
+            "sourceName": "vo_wriothesley_weather_sunny_01.wem"
+        },
+        "8511a3d7358366ba": {
+            "hash": "8511a3d7358366ba",
+            "directory": "External16",
+            "voiceContent": "おはよう。朝刊の天気予報にはどう書いてあった？",
+            "sourceName": "vo_wriothesley_dialog_greetingMorning.wem"
+        },
+        "483ab18d3c944a56": {
+            "hash": "483ab18d3c944a56",
+            "directory": "External9",
+            "voiceContent": "この時間帯の特別許可食堂は混んでるからな…執務室まで運んでもらおう。",
+            "sourceName": "vo_wriothesley_dialog_greetingNoon.wem"
+        },
+        "2a61c5ca638271e0": {
+            "hash": "2a61c5ca638271e0",
+            "directory": "External5",
+            "voiceContent": "もうこんな時間か？アフタヌーンティーを飲み終えたばっかりかと思ってたんだが。",
+            "sourceName": "vo_wriothesley_dialog_greetingNight.wem"
+        },
+        "fc0dd3c527589c20": {
+            "hash": "fc0dd3c527589c20",
+            "directory": "External31",
+            "voiceContent": "おやすみ。俺ももう少ししたら寝るさ。この夜の静けさを借りて、色々清算しようと思ってな。",
+            "sourceName": "vo_wriothesley_dialog_greetingNight2.wem"
+        },
+        "90ca8676a70a8ff7": {
+            "hash": "90ca8676a70a8ff7",
+            "directory": "External18",
+            "voiceContent": "俺のことを深すぎる謎に包まれた人物とか、全能すぎる人物だと思ってくれているやつが多いみたいだが…あいにく俺は、二つの目と二つの耳しか持ち合わせてないんだ。メロピデ要塞の隅々にまで、目や耳が届くわけないだろ？",
+            "sourceName": "vo_wriothesley_dialog_idle.wem"
+        },
+        "5d4454f5d9742859": {
+            "hash": "5d4454f5d9742859",
+            "directory": "External11",
+            "voiceContent": "俺の刑期はとっくに終わってるから、今は自由な市民さ。もちろん水の上をぶらつくことだってできる。——案ずることはない。俺がずっと居座ってないとメロピデ要塞が安定して運転できないなんて、かえって不健全だろ？",
+            "sourceName": "vo_wriothesley_dialog_idle2.wem"
+        },
+        "f45fd759e42de840": {
+            "hash": "f45fd759e42de840",
+            "directory": "External30",
+            "voiceContent": "利益のやりとりがなくなって、初めて友達になれるって言うだろ？今から始めてもいいぞ。",
+            "sourceName": "vo_wriothesley_dialog_close1.wem"
+        },
+        "c3cd6e1e3e13854d": {
+            "hash": "c3cd6e1e3e13854d",
+            "directory": "External24",
+            "voiceContent": "俺が誰かに抱く第一印象は、たいてい収監登録リストから来てる。どうやらあんたも例外じゃないらしい。",
+            "sourceName": "vo_wriothesley_dialog_close.wem"
+        },
+        "00aafd0b3c6b0f57": {
+            "hash": "00aafd0b3c6b0f57",
+            "directory": "External0",
+            "voiceContent": "昔、囚人から化学薬品を使って元素を使う方法を学んだことがある。「神の目」の配布をどの部門が管理してるのかは知らないが、これくらいの分不相応は、気にしないらしいな。",
+            "sourceName": "vo_wriothesley_dialog_pendant.wem"
+        },
+        "3668884723d9ed08": {
+            "hash": "3668884723d9ed08",
+            "directory": "External6",
+            "voiceContent": "警察隊の捜査から逃げる方法を知ってるかい？——それはな、自分に長ったらしく覚えにくい名前を付けることだ。そしたらやつらが「誰々、手を挙げろ！」と叫びたいとき、詰むからな。",
+            "sourceName": "vo_wriothesley_dialog_share_01.wem"
+        },
+        "d5df91cb981bf5aa": {
+            "hash": "d5df91cb981bf5aa",
+            "directory": "External26",
+            "voiceContent": "「働かざる者食うべからず」という言葉は、かなり昔からメロピデ要塞の壁に刻み込まれてる。誰の仕業かは知らんが、水の下じゃ確かに使えるな。",
+            "sourceName": "vo_wriothesley_pref_gift_01.wem"
+        },
+        "a2076a3f7d21ecd0": {
+            "hash": "a2076a3f7d21ecd0",
+            "directory": "External20",
+            "voiceContent": "以前、会議のためにヌヴィレットさんから呼ばれたことがあったが、外へ出てパレ·メルモニアの正門についた頃、彼が道端で雨の中に突っ立っているのを見たんだ。傘を差しかけてあげたんだが、礼は言われたものの、不自然な表情だった。恐らく、何かの邪魔をしてしまったのかもな。",
+            "sourceName": "vo_wriothesley_teammate_neuvillette_01.wem"
+        },
+        "e663b4e62ea51c56": {
+            "hash": "e663b4e62ea51c56",
+            "directory": "External28",
+            "voiceContent": "俺が罪を認めるのが早すぎたせいか、フリーナ様は当時の審判でつまらなそうな顔をしながら、早々に退場してしまった。水神様を失望させてしまうなんて、とんだ重大事故さ。ふむ、今後はもっといい茶葉を贈ってさしあげないとな。",
+            "sourceName": "vo_wriothesley_teammate_furina_01.wem"
+        },
+        "4fc404893de99ed8": {
+            "hash": "4fc404893de99ed8",
+            "directory": "External9",
+            "voiceContent": "シグウィン看護師長は医療従事者として持つべきすべての美徳を兼ね備えた人物で、周りの仲間全員に気を配ってる。だが、どうやら俺から一部の悪癖を学んでしまったらしい。例えば…彼女はよくメリュジーヌの友人と賭けをするんだ。俺の所有物により多くのステッカーを貼れたほうが勝ちってな。まあ、別に困っているわけではないが。",
+            "sourceName": "vo_wriothesley_teammate_sigewinne_01.wem"
+        },
+        "4becd85e2a642a16": {
+            "hash": "4becd85e2a642a16",
+            "directory": "External9",
+            "voiceContent": "メロピデ要塞に彼女のサービスは必要ないはずだ。一部の痕跡は「前車の覆るは後車の戒め」として残されてる…匂いだって痕跡の一種だ。違うかい？",
+            "sourceName": "vo_wriothesley_teammate_emilie_01.wem"
+        },
+        "4b98e322c7a393af": {
+            "hash": "4b98e322c7a393af",
+            "directory": "External9",
+            "voiceContent": "特巡隊に「世話」になった囚人は、基本大人しい。あの隊長さんのおかげだな。",
+            "sourceName": "vo_wriothesley_teammate_chevreuse_01.wem"
+        },
+        "cd9f31c555b0db99": {
+            "hash": "cd9f31c555b0db99",
+            "directory": "External25",
+            "voiceContent": "クロリンデさんはあんたの見つけられる範囲じゃ一番いい決闘代理人だと思う。彼女の実力は申し分ないからな。まあ、彼女と勝負したことはないが。その必要がなかったからな。",
+            "sourceName": "vo_wriothesley_teammate_clorinde_01.wem"
+        },
+        "f39a36cbc81f28d6": {
+            "hash": "f39a36cbc81f28d6",
+            "directory": "External30",
+            "voiceContent": "認めよう——「壁炉の家」が水の下に仕込んだスパイを処理したのは、ある種の挑発だった。それなのに、あっちのとった措置といえば、子供を数人送りこんで来ただけだった。まったく困ったもんさ。本気で彼らを犠牲にしてもいいと思ってるのか、それとも俺が子供に酷いことはしないのを読んだのか…はぁ。",
+            "sourceName": "vo_wriothesley_teammate_lyney_01.wem"
+        },
+        "5ecda68833d57a1c": {
+            "hash": "5ecda68833d57a1c",
+            "directory": "External11",
+            "voiceContent": "メロピデ要塞と棘薔薇の会は、物資について一部協力関係を築いてはいるが、それ以上のことはない。ナヴィアさんを信用してないとか、彼女の能力を疑ってるってわけじゃないぞ——実を言えばその真逆さ。ただ、水の上と下の事務にお互い干渉しない、というのが俺とカーレスさんの間の約束だったから、それをそのままにしてるだけだ。",
+            "sourceName": "vo_wriothesley_teammate_navia_01.wem"
+        },
+        "7b88cc0c2b4fe38a": {
+            "hash": "7b88cc0c2b4fe38a",
+            "directory": "External15",
+            "voiceContent": "理論上、俺のことをまったく知らない者のほうが、より幸せな生活を送れる。",
+            "sourceName": "vo_wriothesley_friendship_01.wem"
+        },
+        "019eea159525a18d": {
+            "hash": "019eea159525a18d",
+            "directory": "External0",
+            "voiceContent": "俺の身体にある傷跡？かつて深海の巨獣がメロピデ要塞を占拠しようと攻め込んできたときに、そいつとのケンカでできた傷跡…というのはもちろん嘘だ。信じるなよ。",
+            "sourceName": "vo_wriothesley_friendship_02.wem"
+        },
+        "9620d01e766c56fc": {
+            "hash": "9620d01e766c56fc",
+            "directory": "External18",
+            "voiceContent": "知ってるか？手錠っていうのは、型番が近ければ、大抵は共通の鍵で開けられるんだ。俺が持ってるやつだけは例外だけどな。",
+            "sourceName": "vo_wriothesley_friendship_03.wem"
+        },
+        "f05bde26a4ff8fa7": {
+            "hash": "f05bde26a4ff8fa7",
+            "directory": "External30",
+            "voiceContent": "俺一人の能力には、限りがある。俺は病気の治療もできないし、発明品を作ることもできないだろ？それに、巨大な船を作ることだって、もちろん不可能だ。だが、こういうことをやれる者がどこにいるかを俺は分かっているから、みんなはただ俺の顔を立ててくれるのさ。",
+            "sourceName": "vo_wriothesley_friendship_04.wem"
+        },
+        "428d3c2daceefe9e": {
+            "hash": "428d3c2daceefe9e",
+            "directory": "External8",
+            "voiceContent": "今の俺はそれなりにいい暮らしをしてるが、それでも手に入らない一部のものが羨ましい——平和で楽しい子供時代と、簡単に他人を信じることのできる力だ。矛盾してるとか、言いづらいとか、そう思う者もいるらしいが、俺は別にこの気持ちを認めてもいいと思ってる。己の本心に逆らって何になる？",
+            "sourceName": "vo_wriothesley_friendship_05.wem"
+        },
+        "c378bf079b78f666": {
+            "hash": "c378bf079b78f666",
+            "directory": "External24",
+            "voiceContent": "拳闘？趣味とまでは言えないな。ただ生活するうえで必須のもんさ。他に何かオススメの趣味はあるかい？",
+            "sourceName": "vo_wriothesley_pref_hobby.wem"
+        },
+        "64a2bfbe20d18359": {
+            "hash": "64a2bfbe20d18359",
+            "directory": "External12",
+            "voiceContent": "コーヒーを飲むなら俺はミルクを入れるほうだ。お茶なら、砂糖二つでいい。",
+            "sourceName": "vo_wriothesley_pref_foodLike.wem"
+        },
+        "821064aecd5f5cfb": {
+            "hash": "821064aecd5f5cfb",
+            "directory": "External16",
+            "voiceContent": "看護師長の作ったミルクセーキを飲んだことはあるかい？そうだな…「不毛」の味を味わえるぞ。",
+            "sourceName": "vo_wriothesley_pref_foodDislike.wem"
+        },
+        "0037837287a3c2d6": {
+            "hash": "0037837287a3c2d6",
+            "directory": "External0",
+            "voiceContent": "完璧なさじ加減だ。俺にはやれそうもないな。",
+            "sourceName": "vo_wriothesley_spice_pref_01.wem"
+        },
+        "09eab3aebf6a957c": {
+            "hash": "09eab3aebf6a957c",
+            "directory": "External1",
+            "voiceContent": "うまいな。次は俺がご馳走しよう。",
+            "sourceName": "vo_wriothesley_spice_normal_01.wem"
+        },
+        "7f75d4f3b2d9efb0": {
+            "hash": "7f75d4f3b2d9efb0",
+            "directory": "External15",
+            "voiceContent": "お茶を淹れて来る。待っていてくれ。",
+            "sourceName": "vo_wriothesley_spice_dislike_01.wem"
+        },
+        "e58c93bf218dc165": {
+            "hash": "e58c93bf218dc165",
+            "directory": "External28",
+            "voiceContent": "フォンテーヌの子供なら、両親の願いと祝福と共にこの世に生まれてくるもんだ。だが、この世にいる全員がそうなのだと、俺は信じたい。それと比べれば、俺からの祝福なんていうのはつまらないものになってしまうな。——いや、もしあんたが罪を犯してしまっても、刑期を減らすことはできないぞ。特殊なサービス食を用意するくらいしかできそうにない。だから、誕生日の間は大人しくしててくれ。せっかくのお祝いなんだから、きちんと水の上でやろう。な？",
+            "sourceName": "vo_wriothesley_pref_birthday_01.wem"
+        },
+        "e4f01b0dbfd87f75": {
+            "hash": "e4f01b0dbfd87f75",
+            "directory": "External28",
+            "voiceContent": "あんたに信用してもらえて、光栄だ。",
+            "sourceName": "vo_wriothesley_starUp_01.wem"
+        },
+        "5e6cbd0455a58212": {
+            "hash": "5e6cbd0455a58212",
+            "directory": "External11",
+            "voiceContent": "これで、あんたに恩を返さないといけなくなったな。",
+            "sourceName": "vo_wriothesley_starUp_02.wem"
+        },
+        "e0612efc12750b5b": {
+            "hash": "e0612efc12750b5b",
+            "directory": "External28",
+            "voiceContent": "はっ、なぜ俺よりも得意げな顔をしてる？",
+            "sourceName": "vo_wriothesley_starUp_03.wem"
+        },
+        "269b613781c715a8": {
+            "hash": "269b613781c715a8",
+            "directory": "External4",
+            "voiceContent": "力と希望の兆しは好きだ。この先の未来は、すべてがよくなっていく…そう感じさせてくれるからな。別に悲観的に考えてるわけじゃないぞ、ただ事実を述べてるだけさ。何せ、現実世界では常に物事が順風満帆にいくわけじゃないからな。だが、いいニュースもある。悪い事が起こってしまうときには、俺らは同じ側に立っているはずさ…そうだろ？",
+            "sourceName": "vo_wriothesley_starUp_04.wem"
+        },
+        "427bfff9f836dd85": {
+            "hash": "427bfff9f836dd85",
+            "directory": "External8",
+            "voiceContent": "焦るな。",
+            "sourceName": "vo_wriothesley_life_less30_01.wem"
+        },
+        "e809e1f1c9744762": {
+            "hash": "e809e1f1c9744762",
+            "directory": "External29",
+            "voiceContent": "増援は望めないって？まあいいさ。",
+            "sourceName": "vo_wriothesley_life_less30_02.wem"
+        },
+        "92a953eabed09fab": {
+            "hash": "92a953eabed09fab",
+            "directory": "External18",
+            "voiceContent": "タイミングを見計らうんだぞ。",
+            "sourceName": "vo_wriothesley_life_less30_03.wem"
+        },
+        "0b95ecf05bca17ff": {
+            "hash": "0b95ecf05bca17ff",
+            "directory": "External1",
+            "voiceContent": "異議なしだ。",
+            "sourceName": "vo_wriothesley_life_die_03.wem"
+        },
+        "ea09d0508e001a76": {
+            "hash": "ea09d0508e001a76",
+            "directory": "External29",
+            "voiceContent": "ほほう。",
+            "sourceName": "vo_wriothesley_battle_hit_H_02.wem"
+        },
+        "a81b97d8372bae9d": {
+            "hash": "a81b97d8372bae9d",
+            "directory": "External21",
+            "voiceContent": "ずいぶん遠慮がちだな？",
+            "sourceName": "vo_wriothesley_battle_hit_L_01.wem"
+        },
+        "ab44766c2f29ede9": {
+            "hash": "ab44766c2f29ede9",
+            "directory": "External21",
+            "voiceContent": "俺は確かにフォンテーヌ人らしい顔つきをしてるが、百パーセント確定ってわけでもないな——胎海に飛び込んで確認してみるしかないか。",
+            "sourceName": "vo_wriothesley_dialog_annoyed_01.wem"
+        },
+        "fd5ca67dcdbf5f0c": {
+            "hash": "fd5ca67dcdbf5f0c",
+            "directory": "External31",
+            "voiceContent": "どうも、用件を簡潔に説明してくれるかい。ん？仕事の件じゃない？そっちのほうが逆に緊張するんだがな。とにかくまあ、座ってくれ。ついでに、俺のことは「公爵」と呼ぶといい。あいつらがみんなこう呼ぶもんだから、もう慣れちまった。",
+            "sourceName": "vo_wriothesley_draw_appear_01.wem"
+        },
+        "6d7209cadb70064b": {
+            "hash": "6d7209cadb70064b",
+            "directory": "External13",
+            "voiceContent": "ほう…",
+            "sourceName": "vo_card_wriothesley_inGame_easy_03.wem"
+        },
+        "c67190f3f6f03551": {
+            "hash": "c67190f3f6f03551",
+            "directory": "External24",
+            "voiceContent": "なかなかやるな。",
+            "sourceName": "vo_card_wriothesley_inGame_hard_02.wem"
+        },
+        "6e9b35dc85f0bda5": {
+            "hash": "6e9b35dc85f0bda5",
+            "directory": "External13",
+            "voiceContent": "悪くない。",
+            "sourceName": "vo_card_wriothesley_inGame_easy_01.wem"
+        },
+        "44b436fc3a5017d0": {
+            "hash": "44b436fc3a5017d0",
+            "directory": "External8",
+            "voiceContent": "予想の範囲内だ。",
+            "sourceName": "vo_card_wriothesley_inGame_hard_03.wem"
+        },
+        "142a17d4572fd982": {
+            "hash": "142a17d4572fd982",
+            "directory": "External2",
+            "voiceContent": "文句ないさ。",
+            "sourceName": "vo_card_wriothesley_inGame_easy_02.wem"
+        },
+        "563084c34183b9a3": {
+            "hash": "563084c34183b9a3",
+            "directory": "External10",
+            "voiceContent": "タイミングを見計っていこう。",
+            "sourceName": "vo_card_wriothesley_inGame_hard_04.wem"
+        },
+        "b3ac7c064ac27d18": {
+            "hash": "b3ac7c064ac27d18",
+            "directory": "External22",
+            "voiceContent": "たまにはオールインも必要さ。",
+            "sourceName": "vo_card_wriothesley_inGame_easy_04.wem"
+        },
+        "9847c2ed03cd61ae": {
+            "hash": "9847c2ed03cd61ae",
+            "directory": "External19",
+            "voiceContent": "順調だな。",
+            "sourceName": "vo_card_wriothesley_inGame_hard_01.wem"
+        }
+    }
+}

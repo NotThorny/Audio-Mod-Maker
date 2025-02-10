@@ -1,0 +1,853 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "6c5ee4a1ad8c04da": {
+            "hash": "6c5ee4a1ad8c04da",
+            "directory": "External13",
+            "voiceContent": "纳塔又获得了胜利！",
+            "sourceName": "vo_NTAQ303_10_mualani_01.wem"
+        },
+        "ff8171ff7fab5409": {
+            "hash": "ff8171ff7fab5409",
+            "directory": "External31",
+            "voiceContent": "头还痛吗，我扶你走吧。",
+            "sourceName": "vo_NTAQ007_7_mualani_07.wem"
+        },
+        "090678552d4352b7": {
+            "hash": "090678552d4352b7",
+            "directory": "External1",
+            "voiceContent": "还是躲不掉啊…",
+            "sourceName": "vo_MLNLQ004_2_mualani_13.wem"
+        },
+        "8749165d70a327ae": {
+            "hash": "8749165d70a327ae",
+            "directory": "External16",
+            "voiceContent": "跟上来，别离我太远哦。",
+            "sourceName": "vo_MLNLQ004_2_mualani_12.wem"
+        },
+        "0243a2334f4dae10": {
+            "hash": "0243a2334f4dae10",
+            "directory": "External0",
+            "voiceContent": "这边！现在去肯定会被发现的。",
+            "sourceName": "vo_MLNLQ004_3_mualani_08.wem"
+        },
+        "c21edd4ed0a8e3d7": {
+            "hash": "c21edd4ed0a8e3d7",
+            "directory": "External24",
+            "voiceContent": "嗯…在一个举办聚会的地方！",
+            "sourceName": "vo_MLNLQ004_1_mualani_12.wem"
+        },
+        "015c5b9db329a3bc": {
+            "hash": "015c5b9db329a3bc",
+            "directory": "External0",
+            "voiceContent": "上来了！做得好卡齐娜！",
+            "sourceName": "vo_NTAQ002_4_mualani_08.wem"
+        },
+        "a811d961a8a4921f": {
+            "hash": "a811d961a8a4921f",
+            "directory": "External21",
+            "voiceContent": "爬上去估计要花不少时间…",
+            "sourceName": "vo_NTAQ002_4_mualani_07.wem"
+        },
+        "4efff76b249210b6": {
+            "hash": "4efff76b249210b6",
+            "directory": "External9",
+            "voiceContent": "好高的山啊！下一处圣火台居然在那么远的地方？",
+            "sourceName": "vo_NTAQ002_4_mualani_06.wem"
+        },
+        "7885ff729762fe7e": {
+            "hash": "7885ff729762fe7e",
+            "directory": "External15",
+            "voiceContent": "没错。搭把手，我们一起击溃它！",
+            "sourceName": "vo_NTAQ003_9_mualani_11.wem"
+        },
+        "8dec573543c806a7": {
+            "hash": "8dec573543c806a7",
+            "directory": "External17",
+            "voiceContent": "这里怎么有这么多？根本过不去…",
+            "sourceName": "vo_MLNLQ004_4_mualani_11.wem"
+        },
+        "9f2f632433ee188d": {
+            "hash": "9f2f632433ee188d",
+            "directory": "External19",
+            "voiceContent": "先撤出去，我们再试一次。",
+            "sourceName": "vo_MLNLQ004_4_mualani_17.wem"
+        },
+        "9e057712896c1a93": {
+            "hash": "9e057712896c1a93",
+            "directory": "External19",
+            "voiceContent": "小心，不要惊扰它们。",
+            "sourceName": "vo_MLNLQ004_4_mualani_15.wem"
+        },
+        "e01db53c4bb7759e": {
+            "hash": "e01db53c4bb7759e",
+            "directory": "External28",
+            "voiceContent": "原来是幼年体的鳍游龙啊…放心，这小家伙对我们没有敌意。",
+            "sourceName": "vo_MLNLQ004_4_mualani_10.wem"
+        },
+        "1919451aca185a8a": {
+            "hash": "1919451aca185a8a",
+            "directory": "External3",
+            "voiceContent": "跟上来吧！",
+            "sourceName": "vo_MLNLQ004_4_mualani_14.wem"
+        },
+        "3a58c3447a4aaf41": {
+            "hash": "3a58c3447a4aaf41",
+            "directory": "External7",
+            "voiceContent": "啾啾！",
+            "sourceName": "vo_MLNLQ004_4_mualani_13.wem"
+        },
+        "33b1492d1534cdfc": {
+            "hash": "33b1492d1534cdfc",
+            "directory": "External6",
+            "voiceContent": "糟糕，还是被发现了！",
+            "sourceName": "vo_MLNLQ004_4_mualani_16.wem"
+        },
+        "7b7c98cdd22f3624": {
+            "hash": "7b7c98cdd22f3624",
+            "directory": "External15",
+            "voiceContent": "什么声音？小心！",
+            "sourceName": "vo_MLNLQ004_4_mualani_09.wem"
+        },
+        "e146e94df6383b40": {
+            "hash": "e146e94df6383b40",
+            "directory": "External28",
+            "voiceContent": "我有个点子，先在这里等我下！",
+            "sourceName": "vo_MLNLQ004_4_mualani_12.wem"
+        },
+        "fd70d2c58efe5fb5": {
+            "hash": "fd70d2c58efe5fb5",
+            "directory": "External31",
+            "voiceContent": "注意躲避它们的视线！",
+            "sourceName": "vo_MLNLQ004_4_mualani_08.wem"
+        },
+        "58e56630d5226c18": {
+            "hash": "58e56630d5226c18",
+            "directory": "External11",
+            "voiceContent": "不要打扰它们的聚会啦！",
+            "sourceName": "vo_MLNLQ004_5_mualani_15.wem"
+        },
+        "f02d39eab60c1ba1": {
+            "hash": "f02d39eab60c1ba1",
+            "directory": "External30",
+            "voiceContent": "就是现在，切换到右边的「游隙灵道」！",
+            "sourceName": "vo_MLNLQ005_2_mualani_12.wem"
+        },
+        "45c4dff1c0df2e20": {
+            "hash": "45c4dff1c0df2e20",
+            "directory": "External8",
+            "voiceContent": "#{NICKNAME}，该激活下一个「燃素节点」了！",
+            "sourceName": "vo_MLNLQ005_2_mualani_13.wem"
+        },
+        "53daedb8c52f3af3": {
+            "hash": "53daedb8c52f3af3",
+            "directory": "External10",
+            "voiceContent": "前面又没路了，得尽快切换到另一条 「游隙灵道」上！",
+            "sourceName": "vo_MLNLQ005_2_mualani_14.wem"
+        },
+        "d253bbc108bcf0ea": {
+            "hash": "d253bbc108bcf0ea",
+            "directory": "External26",
+            "voiceContent": "#{NICKNAME}，下一个「燃素节点」！",
+            "sourceName": "vo_MLNLQ005_2_mualani_15.wem"
+        },
+        "69eb6ee305aafe46": {
+            "hash": "69eb6ee305aafe46",
+            "directory": "External13",
+            "voiceContent": "从中间走，快！",
+            "sourceName": "vo_NTAQ007_9_mualani_15.wem"
+        },
+        "e95177f97eb5380c": {
+            "hash": "e95177f97eb5380c",
+            "directory": "External29",
+            "voiceContent": "又是落石？看我的！",
+            "sourceName": "vo_MLNLQ006_5_mualani_04.wem"
+        },
+        "583591f0a051acdd": {
+            "hash": "583591f0a051acdd",
+            "directory": "External11",
+            "voiceContent": "就在那边！还好赶上了…",
+            "sourceName": "vo_MLNLQ006_5_mualani_05.wem"
+        },
+        "6f9ec602e8ba8a37": {
+            "hash": "6f9ec602e8ba8a37",
+            "directory": "External13",
+            "voiceContent": "洞穴越来越不稳定了，得抓紧时间！",
+            "sourceName": "vo_MLNLQ006_5_mualani_03.wem"
+        },
+        "9611fd2b43687c67": {
+            "hash": "9611fd2b43687c67",
+            "directory": "External18",
+            "voiceContent": "也不在这里…水流太快了！",
+            "sourceName": "vo_MLNLQ005_4_mualani_16.wem"
+        },
+        "e8425b324b56385e": {
+            "hash": "e8425b324b56385e",
+            "directory": "External29",
+            "voiceContent": "赶上了！",
+            "sourceName": "vo_MLNLQ005_4_mualani_17.wem"
+        },
+        "ecd28f43f8bbd900": {
+            "hash": "ecd28f43f8bbd900",
+            "directory": "External29",
+            "voiceContent": "那个方向吗？被冲到更远的地方了！",
+            "sourceName": "vo_MLNLQ005_4_mualani_15.wem"
+        },
+        "5d05aa2e6a065ab4": {
+            "hash": "5d05aa2e6a065ab4",
+            "directory": "External11",
+            "voiceContent": "没时间浪费在它们身上。",
+            "sourceName": "vo_NTAQ007_6_mualani_05.wem"
+        },
+        "e52555464990b0dc": {
+            "hash": "e52555464990b0dc",
+            "directory": "External28",
+            "voiceContent": "小心！",
+            "sourceName": "vo_MLNLQ006_2_mualani_09.wem"
+        },
+        "e1e1b327ba15852f": {
+            "hash": "e1e1b327ba15852f",
+            "directory": "External28",
+            "voiceContent": "小心，又有落石！",
+            "sourceName": "vo_MLNLQ006_2_mualani_11.wem"
+        },
+        "5cbe512ffa923146": {
+            "hash": "5cbe512ffa923146",
+            "directory": "External11",
+            "voiceContent": "岩浆活动形成的洞穴果然不太稳定，大家当心落石。",
+            "sourceName": "vo_MLNLQ006_2_mualani_10.wem"
+        },
+        "1deac524c7c3cfb8": {
+            "hash": "1deac524c7c3cfb8",
+            "directory": "External3",
+            "voiceContent": "按照地图指示是要往下走？嗯…大家不要怕，跟我一起跳！",
+            "sourceName": "vo_MLNLQ006_2_mualani_05.wem"
+        },
+        "50a36f3d6849fc6d": {
+            "hash": "50a36f3d6849fc6d",
+            "directory": "External10",
+            "voiceContent": "应该不是这边，再往前走就不安全了。",
+            "sourceName": "vo_MLNLQ006_2_mualani_08.wem"
+        },
+        "7757654245b07268": {
+            "hash": "7757654245b07268",
+            "directory": "External14",
+            "voiceContent": "这座洞穴好像越来越不稳定了…",
+            "sourceName": "vo_MLNLQ006_2_mualani_12.wem"
+        },
+        "7034939a0d94ce6a": {
+            "hash": "7034939a0d94ce6a",
+            "directory": "External14",
+            "voiceContent": "这才对嘛！我也会赢下来，然后和你一起去参加「巡夜者战争」——",
+            "sourceName": "vo_NTAQ002_4_mualani_20.wem"
+        },
+        "3d86cb7c343e3898": {
+            "hash": "3d86cb7c343e3898",
+            "directory": "External7",
+            "voiceContent": "干得漂亮，卡齐娜！",
+            "sourceName": "vo_NTAQ002_4_mualani_04.wem"
+        },
+        "c9f1f9248271385b": {
+            "hash": "c9f1f9248271385b",
+            "directory": "External25",
+            "voiceContent": "空的圣火台…看来我们来晚了。",
+            "sourceName": "vo_NTAQ002_4_mualani_10.wem"
+        },
+        "102c2b5ff1c342a8": {
+            "hash": "102c2b5ff1c342a8",
+            "directory": "External2",
+            "voiceContent": "自信一些！你已经是非常强的战士了！",
+            "sourceName": "vo_NTAQ002_4_mualani_17.wem"
+        },
+        "47fd872cc5a1af12": {
+            "hash": "47fd872cc5a1af12",
+            "directory": "External8",
+            "voiceContent": "哈哈，放马过来吧！",
+            "sourceName": "vo_NTAQ002_4_mualani_11.wem"
+        },
+        "bf442573f0de5619": {
+            "hash": "bf442573f0de5619",
+            "directory": "External23",
+            "voiceContent": "别发呆了，带着圣火出发！",
+            "sourceName": "vo_NTAQ002_4_mualani_05.wem"
+        },
+        "4c8dab3e730735e4": {
+            "hash": "4c8dab3e730735e4",
+            "directory": "External9",
+            "voiceContent": "糟糕，没时间了。",
+            "sourceName": "vo_NTAQ002_4_mualani_13.wem"
+        },
+        "693e455675d623e9": {
+            "hash": "693e455675d623e9",
+            "directory": "External13",
+            "voiceContent": "别客气，比赛是我们两个赢下来的。没有你，我可打不赢那么多人。",
+            "sourceName": "vo_NTAQ002_4_mualani_16.wem"
+        },
+        "6a6769682056cde3": {
+            "hash": "6a6769682056cde3",
+            "directory": "External13",
+            "voiceContent": "哈哈哈，好陡峭的弯道，没吓到你吧？",
+            "sourceName": "vo_NTAQ002_4_mualani_18.wem"
+        },
+        "70407594d4c6184d": {
+            "hash": "70407594d4c6184d",
+            "directory": "External14",
+            "voiceContent": "那还用说？当然是把他们一起揍飞啦！",
+            "sourceName": "vo_NTAQ002_4_mualani_09.wem"
+        },
+        "7ab77945662a096f": {
+            "hash": "7ab77945662a096f",
+            "directory": "External15",
+            "voiceContent": "等等，那边有游隙灵道，我们可以坐那个回去！",
+            "sourceName": "vo_NTAQ002_4_mualani_14.wem"
+        },
+        "ce80e5362fd4ac75": {
+            "hash": "ce80e5362fd4ac75",
+            "directory": "External25",
+            "voiceContent": "收集到足够的圣火了！卡齐娜，你还好吗？",
+            "sourceName": "vo_NTAQ002_4_mualani_12.wem"
+        },
+        "bcceb76f2873b09a": {
+            "hash": "bcceb76f2873b09a",
+            "directory": "External23",
+            "voiceContent": "对哦。是刚遇见你的时候吧？那时候我不小心打翻了你的蛋糕，作为赔礼，我带你坐过游隙灵道。",
+            "sourceName": "vo_NTAQ002_4_mualani_19.wem"
+        },
+        "9e04674a40ab9502": {
+            "hash": "9e04674a40ab9502",
+            "directory": "External19",
+            "voiceContent": "当心埋伏…小心，有人来了！",
+            "sourceName": "vo_NTAQ002_4_mualani_02.wem"
+        },
+        "f74c5940c4ebc1cb": {
+            "hash": "f74c5940c4ebc1cb",
+            "directory": "External30",
+            "voiceContent": "还远远不够呢！带上这些火焰，我们去下一个地方！",
+            "sourceName": "vo_NTAQ002_4_mualani_03.wem"
+        },
+        "f8fa174da989dd86": {
+            "hash": "f8fa174da989dd86",
+            "directory": "External31",
+            "voiceContent": "抓紧我，卡齐娜。还好这里有游隙灵道，还记得吗？我们「流泉之众」可以乘着它跨过山川大海，这点路程不算什么。",
+            "sourceName": "vo_NTAQ002_4_mualani_15.wem"
+        },
+        "f87585526f6c7925": {
+            "hash": "f87585526f6c7925",
+            "directory": "External31",
+            "voiceContent": "找到圣火台了。暂时好像没人靠近这里。",
+            "sourceName": "vo_NTAQ002_4_mualani_01.wem"
+        },
+        "d40a6d95cd00c7d1": {
+            "hash": "d40a6d95cd00c7d1",
+            "directory": "External26",
+            "voiceContent": "不，那就是深渊本身，干掉它们。",
+            "sourceName": "vo_NTAQ003_9_mualani_01.wem"
+        },
+        "2f568ab6be10fdb6": {
+            "hash": "2f568ab6be10fdb6",
+            "directory": "External5",
+            "voiceContent": "呃，这倒是…",
+            "sourceName": "vo_NTAQ108_4_mualani_03.wem"
+        },
+        "1ddd5ec7cdbd2598": {
+            "hash": "1ddd5ec7cdbd2598",
+            "directory": "External3",
+            "voiceContent": "你们看见好大一团火砸下来吗！啪的一下，正中我头顶！",
+            "sourceName": "vo_NTAQ108_4_mualani_01.wem"
+        },
+        "88686cad42237f1f": {
+            "hash": "88686cad42237f1f",
+            "directory": "External17",
+            "voiceContent": "没有没有，火神大人，一点都不会感觉烫，而且很帅！",
+            "sourceName": "vo_NTAQ108_4_mualani_02.wem"
+        }
+    },
+    "Gameplay": {
+        "44892ba05def5459": {
+            "hash": "44892ba05def5459",
+            "directory": "External8",
+            "voiceContent": "起乘！",
+            "sourceName": "vo_mualani_battle_skill1_01.wem"
+        },
+        "d7aafd97948637f6": {
+            "hash": "d7aafd97948637f6",
+            "directory": "External26",
+            "voiceContent": "甩尾。",
+            "sourceName": "vo_mualani_battle_skill1_02.wem"
+        },
+        "2d55df8e15b3dd5f": {
+            "hash": "2d55df8e15b3dd5f",
+            "directory": "External5",
+            "voiceContent": "加速咯！",
+            "sourceName": "vo_mualani_battle_skill1_03.wem"
+        },
+        "d31ad185e720a394": {
+            "hash": "d31ad185e720a394",
+            "directory": "External26",
+            "voiceContent": "哟呼！",
+            "sourceName": "vo_mualani_battle_skill1_04.wem"
+        },
+        "81208b7edf60a065": {
+            "hash": "81208b7edf60a065",
+            "directory": "External16",
+            "voiceContent": "超棒！",
+            "sourceName": "vo_mualani_battle_skill1_05.wem"
+        },
+        "26ae6d76b09e0942": {
+            "hash": "26ae6d76b09e0942",
+            "directory": "External4",
+            "voiceContent": "浪来咯！",
+            "sourceName": "vo_mualani_battle_skill1_06.wem"
+        },
+        "bd7d771e9fb0d69b": {
+            "hash": "bd7d771e9fb0d69b",
+            "directory": "External23",
+            "voiceContent": "巨浪——哗啦哗啦。",
+            "sourceName": "vo_mualani_battle_skill3_01.wem"
+        },
+        "3cb329388d63ab24": {
+            "hash": "3cb329388d63ab24",
+            "directory": "External7",
+            "voiceContent": "飞澜鲨鲨！",
+            "sourceName": "vo_mualani_battle_skill3_02.wem"
+        },
+        "bea763304a32d4b5": {
+            "hash": "bea763304a32d4b5",
+            "directory": "External23",
+            "voiceContent": "看我看我！祝你好运！",
+            "sourceName": "vo_mualani_battle_skill3_03.wem"
+        },
+        "af8b4bcdcbacbe36": {
+            "hash": "af8b4bcdcbacbe36",
+            "directory": "External21",
+            "voiceContent": "我就说今天是幸运日吧！",
+            "sourceName": "vo_mualani_chest_open_01.wem"
+        },
+        "1fcf79d697f90399": {
+            "hash": "1fcf79d697f90399",
+            "directory": "External3",
+            "voiceContent": "好东西总是压箱底。",
+            "sourceName": "vo_mualani_chest_open_02.wem"
+        },
+        "9e121fdedb58e618": {
+            "hash": "9e121fdedb58e618",
+            "directory": "External19",
+            "voiceContent": "哎呀掉地上了，快捡起来。希望不要掉财运…",
+            "sourceName": "vo_mualani_chest_open_03.wem"
+        },
+        "5fe2e72228662832": {
+            "hash": "5fe2e72228662832",
+            "directory": "External11",
+            "voiceContent": "你不是一个人在战斗！",
+            "sourceName": "vo_mualani_life_less30_teammate_01.wem"
+        },
+        "91a8c5291e99cf15": {
+            "hash": "91a8c5291e99cf15",
+            "directory": "External18",
+            "voiceContent": "过分，换我来揍它！",
+            "sourceName": "vo_mualani_life_less30_teammate_02.wem"
+        },
+        "e88b37081fd0a38f": {
+            "hash": "e88b37081fd0a38f",
+            "directory": "External29",
+            "voiceContent": "向导怎么能掉队…",
+            "sourceName": "vo_mualani_life_die_01.wem"
+        },
+        "29436920376c3b48": {
+            "hash": "29436920376c3b48",
+            "directory": "External5",
+            "voiceContent": "「我们不会孤军奋战」…",
+            "sourceName": "vo_mualani_life_die_02.wem"
+        },
+        "bbc5f8b5d3f436b3": {
+            "hash": "bbc5f8b5d3f436b3",
+            "directory": "External23",
+            "voiceContent": "哇，这个组合，赢定了！",
+            "sourceName": "vo_mualani_teamJoin_01.wem"
+        },
+        "f94e4acde8da6a9c": {
+            "hash": "f94e4acde8da6a9c",
+            "directory": "External31",
+            "voiceContent": "你好你好，全体队友都好吗？",
+            "sourceName": "vo_mualani_teamJoin_02.wem"
+        },
+        "683264c50a76df2d": {
+            "hash": "683264c50a76df2d",
+            "directory": "External13",
+            "voiceContent": "呜呼！冲冲冲。",
+            "sourceName": "vo_mualani_teamJoin_03.wem"
+        },
+        "c7d02f427427b0fc": {
+            "hash": "c7d02f427427b0fc",
+            "directory": "External24",
+            "voiceContent": "「出来玩」最重要的就是「出来」，只要你来了，剩下的全都交给我来安排吧。",
+            "sourceName": "vo_mualani_character_idle_01.wem"
+        },
+        "32245d27e85efd93": {
+            "hash": "32245d27e85efd93",
+            "directory": "External6",
+            "voiceContent": "你试过追着海浪奔跑吗？想试吗？要试吗？就现在就现在！我陪你找片海。",
+            "sourceName": "vo_mualani_character_idle_02.wem"
+        },
+        "ad382b30290b3d8a": {
+            "hash": "ad382b30290b3d8a",
+            "directory": "External21",
+            "voiceContent": "一个人挑战，有很多不可能，但一群人就能挑战很多不可能！",
+            "sourceName": "vo_mualani_character_idle_03.wem"
+        },
+        "fd5231c14bed3fce": {
+            "hash": "fd5231c14bed3fce",
+            "directory": "External31",
+            "voiceContent": "哟吼！湿滑的地面好适合滑铲进场呀！",
+            "sourceName": "vo_mualani_weather_heavyRain_01.wem"
+        },
+        "a8f9f9a8bde39505": {
+            "hash": "a8f9f9a8bde39505",
+            "directory": "External21",
+            "voiceContent": "哇哦！劈哪了劈哪了？",
+            "sourceName": "vo_mualani_weather_thunder_01.wem"
+        },
+        "5b70913350dc6b88": {
+            "hash": "5b70913350dc6b88",
+            "directory": "External11",
+            "voiceContent": "风越大，浪越大，正是挑战高难度动作的好时候！",
+            "sourceName": "vo_mualani_weather_gale_01.wem"
+        },
+        "47bb9481747e9f11": {
+            "hash": "47bb9481747e9f11",
+            "directory": "External8",
+            "voiceContent": "呃…干完正事就赶紧回去泡温泉吧…",
+            "sourceName": "vo_mualani_weather_snowy_01.wem"
+        },
+        "bc82a3190ee4a6a0": {
+            "hash": "bc82a3190ee4a6a0",
+            "directory": "External23",
+            "voiceContent": "想原地躺下晒太阳，晒完一面再翻个面。",
+            "sourceName": "vo_mualani_weather_sunny_01.wem"
+        },
+        "a57dcd414ec06234": {
+            "hash": "a57dcd414ec06234",
+            "directory": "External20",
+            "voiceContent": "好消息，今天没有睡过头！奖励我自己吃顿超豪华早餐吧。",
+            "sourceName": "vo_mualani_dialog_greetingMorning.wem"
+        },
+        "7aa3e46d21645290": {
+            "hash": "7aa3e46d21645290",
+            "directory": "External15",
+            "voiceContent": "啊，果然还是起太早了么…不行不行，眼前在闪摩拉，中午得补补觉…",
+            "sourceName": "vo_mualani_dialog_greetingNoon.wem"
+        },
+        "02d1d9b2d89e514e": {
+            "hash": "02d1d9b2d89e514e",
+            "directory": "External0",
+            "voiceContent": "需要送餐服务吗？保证让你吃进嘴的时候还是烫的，相信我冲浪板的速度。",
+            "sourceName": "vo_mualani_dialog_greetingNight.wem"
+        },
+        "8586ce4711dd1346": {
+            "hash": "8586ce4711dd1346",
+            "directory": "External16",
+            "voiceContent": "糟糕…在篝火晚会上跳舞跳精神了，今晚肯定睡不着了…呜。",
+            "sourceName": "vo_mualani_dialog_greetingNight2.wem"
+        },
+        "d577253203093959": {
+            "hash": "d577253203093959",
+            "directory": "External26",
+            "voiceContent": "店里上架的商品从种类、质量，到功能和颜色全都是我精心挑选过的，但要说我心目中的镇店之宝，就不得不提这件「豚豚泳装」了。水性不好的朋友一定要考虑它，它可以瞬间充气，变成固定在身上的救生豚豚球，这样游泳可就安全多了！就算不游泳的时候也可以穿哦，我喜欢穿上它参加派对，非常抓人眼球！就像这样，弹来弹去…弹来弹去…顺带一提，配色也是好运款！",
+            "sourceName": "vo_mualani_dialog_idle.wem"
+        },
+        "7a5d37138d109b8b": {
+            "hash": "7a5d37138d109b8b",
+            "directory": "External15",
+            "voiceContent": "「流泉之众」是最好的度假胜地，这里的草木山川似乎能和大家产生共鸣，成为我们的朋友！涌动的波浪，摇曳的海草，飘摆的树叶…它们全都是我崇拜的舞蹈老师，跟着它们的节奏和律动，摇一摇，扭一扭，转个圈，甩起来！怎么样？别愣着看呀，你也一起来试试嘛！",
+            "sourceName": "vo_mualani_dialog_idle2.wem"
+        },
+        "d7a070226d5f5866": {
+            "hash": "d7a070226d5f5866",
+            "directory": "External26",
+            "voiceContent": "一起去过夜神之国，也并肩遥望过神秘岛的光芒，我们早就是可以互相托付生命的伙伴了。如果哪天你在旅途中突然找不到方向，一定要告诉我！我可是超级厉害的向导，就算用冲浪板撞也会给你撞出条路来！",
+            "sourceName": "vo_mualani_dialog_close1.wem"
+        },
+        "4e08cbbdf54c08a7": {
+            "hash": "4e08cbbdf54c08a7",
+            "directory": "External9",
+            "voiceContent": "看看冲浪板吧！有各种材质和花纹，颜色也很多哦！你的幸运色是什么？没有吗？那我给你挑一块好啦。",
+            "sourceName": "vo_mualani_dialog_close.wem"
+        },
+        "c2cf6f14e6f64326": {
+            "hash": "c2cf6f14e6f64326",
+            "directory": "External24",
+            "voiceContent": "你害怕小狗吗？不怕的话就请和我们家的小狗交朋友吧！它可喜欢跟人玩了，不管见到谁都要跑上前打招呼，盼望着抚摸。哦对了，我们经常一起去玩水，它已经学会冲浪了，不愧是我的好狗狗，青出于我胜于我！有机会介绍你们俩认识呀，它那尾巴啊肯定会甩成螺旋桨。你可当心别被甩到了，还挺疼的，哈哈。",
+            "sourceName": "vo_mualani_dialog_share_01.wem"
+        },
+        "a8a90abccc7ec6c4": {
+            "hash": "a8a90abccc7ec6c4",
+            "directory": "External21",
+            "voiceContent": "在「流泉之众」，鳍游龙跟我们一样喜欢温泉。很多时候，它们还会跟我们泡在同一个池子里。如果不确定面前的小家伙脾气是好是坏，最好先保持距离。你问我怎么判断鳍游龙的脾气？哈哈，我的方法很简单，慢慢地靠近过去，一点点试探。不咬人的话说明脾气挺好的…要是被咬了…就当是亲密接触喽？",
+            "sourceName": "vo_mualani_pref_gift_01.wem"
+        },
+        "76f65f16c78c6897": {
+            "hash": "76f65f16c78c6897",
+            "directory": "External14",
+            "voiceContent": "火神大人是纳塔最备受敬仰的头号人物，我很崇拜她，不仅因为她是火神大人，更因为…她冲浪的样子真的很帅！我邀请过她参加水上竞速项目…嗯？你好奇我们的输赢？那你和我先比一场吧，你赢过我我就告诉你！",
+            "sourceName": "vo_mualani_teammate_mavuika_01.wem"
+        },
+        "a6bd2c3da2601ca6": {
+            "hash": "a6bd2c3da2601ca6",
+            "directory": "External20",
+            "voiceContent": "卡齐娜说话会考虑很多，性格又很温和善良。明明很出色，却因为不争辩而被周围的人看轻。唉，我从不怀疑她的实力，唯一担心的，是她不够自信，容易听信那些抨击她的话…所以，除了鼓励她，我还要把她的优点告诉其他人。相信总有一天，大家会做出改变的！",
+            "sourceName": "vo_mualani_teammate_kachina_01.wem"
+        },
+        "bd3c9ddc171a7d7f": {
+            "hash": "bd3c9ddc171a7d7f",
+            "directory": "External23",
+            "voiceContent": "阿乔一天讲的话比基尼奇一年的话还多，在这种情况下，基尼奇居然不受一点干扰，总能做出自己的判断，这还挺不容易的。回想起来，好像只有在聊运势话题的时候，他俩才会出奇一致地呈现出一副不关心的态度…",
+            "sourceName": "vo_mualani_teammate_kinich_01.wem"
+        },
+        "ccbdff27c82b61ae": {
+            "hash": "ccbdff27c82b61ae",
+            "directory": "External25",
+            "voiceContent": "连火神大人都认可的工匠实力毋庸置疑，就算古名变得稀碎，她也绝对能修得天衣无缝吧？啊！我刚刚是不是说了很不吉利的话？这么重要的东西怎么能弄碎！呸呸呸，刚刚我什么都没说过，你也什么都没听到，好吗？",
+            "sourceName": "vo_mualani_teammate_xilonen_01.wem"
+        },
+        "1c9dffa64dff2657": {
+            "hash": "1c9dffa64dff2657",
+            "directory": "External3",
+            "voiceContent": "伊法这个人可上道了！无论叫他出来玩什么他都乐呵呵的，而且做什么都又快又利索。要不是因为他已经干了医生这一行，我倒是挺希望他能来当水上运动教练。部族差异？小意思啦，根本不成问题！",
+            "sourceName": "vo_mualani_teammate_ifa_01.wem"
+        },
+        "af7ddc14c5c7810a": {
+            "hash": "af7ddc14c5c7810a",
+            "directory": "External21",
+            "voiceContent": "我小时候就跟恰斯卡见过面，我们还因为争夺玩具之类的原因打过几次架呢…在得知她成为「调停人」之后，我还挺意外的。听说有的人是慢慢长大的，有的人就蜕变得很快。我的成长期…是不是还没到啊？",
+            "sourceName": "vo_mualani_teammate_chasca_01.wem"
+        },
+        "e4eb65229de673f5": {
+            "hash": "e4eb65229de673f5",
+            "directory": "External28",
+            "voiceContent": "茜特菈莉奶奶绝对是「烟谜主」最最资深的祭司，不是小前辈不是中前辈，是一等一的大前辈！她给我预测过的事情都超灵验的，很久之前她说过我在生意上的幸运色是粉色和蓝色，果不其然，现在店里销量最高的就是粉色蓝色搭配售卖的豚豚球。最近我去缠着她，哦不，探望她，她还提到有一个外来者能给我带来吉兆…等等，欸，你不就是外来者嘛！",
+            "sourceName": "vo_mualani_teammate_citlali_01.wem"
+        },
+        "867ee7aac0dbdfb7": {
+            "hash": "867ee7aac0dbdfb7",
+            "directory": "External16",
+            "voiceContent": "伊安珊不仅是「沃陆之邦」的骄傲，更是纳塔的骄傲，她参加过好多回「归火圣夜巡礼」，至今都保持着全胜战绩！我还报了她的训练班，培训费早就交好了，只是…只是一直在忙没空去训练…好吧，我坦白，有次看到卡齐娜接受完训练的样子，我心里就浮现一个声音：「哎呀我擅长的都是些水上项目，在陆地上活动太久要搁浅的」…嗯，我要尊重内心的建议。",
+            "sourceName": "vo_mualani_teammate_iansan_01.wem"
+        },
+        "ab4bcc2ee5377924": {
+            "hash": "ab4bcc2ee5377924",
+            "directory": "External21",
+            "voiceContent": "你有空吗？来我家边坐边聊？边泡温泉边聊也不错！还是说你有想去的地方？我都可以。机会难得，留影机我都带上了，动作我也可以先做示范，放心，今天我们一定能拍出有趣的合影！",
+            "sourceName": "vo_mualani_friendship_01.wem"
+        },
+        "2c161a14f784a49b": {
+            "hash": "2c161a14f784a49b",
+            "directory": "External5",
+            "voiceContent": "向导是一门很依赖经验的工作，好在先祖们给我们留下了大大小小的宝贵习俗，让我们可以少走弯路。不过放心，我不会一股脑就只认老规矩啦，我遵守的都是我已经尝试过，并且行之有效的习惯。有哪些行不通的？嗯…就比如说，有次我想去探索一个新地点，眼前明明有桥，地图却提示需要划船渡河到达对岸。我又是测水流，又是检查桥上有没有机关和隐患…最后终于发现，先祖没推荐走桥是因为——那时候根本没有这个桥嘛！啊…向导果然很依赖经验啊…",
+            "sourceName": "vo_mualani_friendship_02.wem"
+        },
+        "aa22a81d3ab6cf52": {
+            "hash": "aa22a81d3ab6cf52",
+            "directory": "External21",
+            "voiceContent": "我很喜欢接待外地来的游客。每次结束导览后，他们都会感谢我介绍了纳塔的风土人情，而我也会感谢他们。谢谢他们一路上跟我分享见闻，聊自己的家乡，还有我听都没听过的奇闻轶事…对我来说，这同样是一场不可多得的心灵之旅。",
+            "sourceName": "vo_mualani_friendship_03.wem"
+        },
+        "c7fc6646e8066729": {
+            "hash": "c7fc6646e8066729",
+            "directory": "External24",
+            "voiceContent": "虽然我尽量会用大家都能接受的方式交朋友，但…呵呵…有时候也会有人委婉地告诉我，我太热情了，反而不好招架…所以，现在我在刚认识新朋友时都会收敛一点，熟了再热起来…哦，如果你跟我相处过程中有任何不愉快的地方，请不要犹豫，也不要有心理顾虑，直接告诉我！不想当面说，写个匿名纸条也可以哦？我一定会改正的！",
+            "sourceName": "vo_mualani_friendship_04.wem"
+        },
+        "72514c5066d862e8": {
+            "hash": "72514c5066d862e8",
+            "directory": "External14",
+            "voiceContent": "面对困境，每个人都有巨大潜能，参加过「归火圣夜巡礼」后，我无比赞同这一点！但我依然觉得，「两个人」总比「一个人」有更多选择，「三个人」又比「两个人」更有赢面…所有人团结一心，一定能创造不可思议的奇迹！就拿「巡夜者战争」来说吧，不仅是现在的我们，还有世代以来保卫纳塔的英杰们，以及此后继续为之奋斗的后辈们，所有的努力积攒起来，才会有越来越好的纳塔。我想，这就是「沃摩延」的意义吧…",
+            "sourceName": "vo_mualani_friendship_05.wem"
+        },
+        "76de24cfc8762ab8": {
+            "hash": "76de24cfc8762ab8",
+            "directory": "External14",
+            "voiceContent": "游泳，跳水，滑水，冲浪，水上滑翔伞，沙滩排球，划船、潜水、水上排球还有水下憋气…哎呀，我喜欢的项目借豚豚球的手都数不来。玩累了我就躺在水上休息，有好几次都睡着了，舒服是舒服，但代价就是醒来后不知道漂到哪里去了，被部族里的长辈训了好久…",
+            "sourceName": "vo_mualani_pref_hobby.wem"
+        },
+        "24d3c638b5e41da3": {
+            "hash": "24d3c638b5e41da3",
+            "directory": "External4",
+            "voiceContent": "那种一盘子端上来，不带一点蔬菜，也没有禽肉和兽肉的纯海鲜大餐，吃上一口，就像扎进海里一样，化作一条小鱼，游来游去…唔…太满足了。",
+            "sourceName": "vo_mualani_pref_foodLike.wem"
+        },
+        "ada6ecdcf32248ed": {
+            "hash": "ada6ecdcf32248ed",
+            "directory": "External21",
+            "voiceContent": "我还挺后悔小时候偷偷把牛奶倒进温泉里的，不然我应该还能再长高一些…没关系，我答应过阿伽娅阿姨，再也不会那么做了！现在我会好好喝牛奶的，长高还来得及！你也是哦，我们都要引以为戒啊！",
+            "sourceName": "vo_mualani_pref_foodDislike.wem"
+        },
+        "9a72656c9284d79c": {
+            "hash": "9a72656c9284d79c",
+            "directory": "External19",
+            "voiceContent": "怎么会这么好吃！美味程度让人想要踩着冲浪板翻转三周…不落地那种！",
+            "sourceName": "vo_mualani_spice_pref_01.wem"
+        },
+        "904f86b25c114616": {
+            "hash": "904f86b25c114616",
+            "directory": "External18",
+            "voiceContent": "还有吗还有吗？这个放在派对上绝对会被一扫而空。",
+            "sourceName": "vo_mualani_spice_normal_01.wem"
+        },
+        "05d76f68339170d2": {
+            "hash": "05d76f68339170d2",
+            "directory": "External0",
+            "voiceContent": "要不要试试用温泉泡一下？那样口感更好哦！",
+            "sourceName": "vo_mualani_spice_dislike_01.wem"
+        },
+        "608bdc097f5cfa87": {
+            "hash": "608bdc097f5cfa87",
+            "directory": "External12",
+            "voiceContent": "哦哟，正是我想要的！那就不客气啦。",
+            "sourceName": "vo_mualani_starUp_01.wem"
+        },
+        "b74c6e2234b05820": {
+            "hash": "b74c6e2234b05820",
+            "directory": "External22",
+            "voiceContent": "手劲在噌噌噌往上涨，想来一场精彩激烈的沙滩排球友谊赛吗？",
+            "sourceName": "vo_mualani_starUp_02.wem"
+        },
+        "61b4c81b29dd45a1": {
+            "hash": "61b4c81b29dd45a1",
+            "directory": "External12",
+            "voiceContent": "运势来了…我有手感！现在完全可以征服上次拍翻我的巨浪了，事不宜迟，现在就去挑战。",
+            "sourceName": "vo_mualani_starUp_03.wem"
+        },
+        "43db49f17c8e1aea": {
+            "hash": "43db49f17c8e1aea",
+            "directory": "External8",
+            "voiceContent": "为了旅客的安全，通常我会阻止他们去危险的地方。但我知道你有不得已的情况，也免不了主动踏入危险境地，所以为了你的安全，请让我一路陪着你，肩并肩克服这些险境吧。",
+            "sourceName": "vo_mualani_starUp_04.wem"
+        },
+        "a120d8be6d48b60b": {
+            "hash": "a120d8be6d48b60b",
+            "directory": "External20",
+            "voiceContent": "我还要保护我的旅客。",
+            "sourceName": "vo_mualani_life_less30_01.wem"
+        },
+        "f4454ad71f8b2494": {
+            "hash": "f4454ad71f8b2494",
+            "directory": "External30",
+            "voiceContent": "今天的运势不太好…",
+            "sourceName": "vo_mualani_life_less30_02.wem"
+        },
+        "a24b04d017cb2165": {
+            "hash": "a24b04d017cb2165",
+            "directory": "External20",
+            "voiceContent": "我会赢…我会赢！",
+            "sourceName": "vo_mualani_life_less30_03.wem"
+        },
+        "d71203192f7cbe09": {
+            "hash": "d71203192f7cbe09",
+            "directory": "External26",
+            "voiceContent": "终点是…回家…",
+            "sourceName": "vo_mualani_life_die_03.wem"
+        },
+        "4e9843079fd31eeb": {
+            "hash": "4e9843079fd31eeb",
+            "directory": "External9",
+            "voiceContent": "别太过分！",
+            "sourceName": "vo_mualani_battle_hit_H_01.wem"
+        },
+        "a1bbb5205213da74": {
+            "hash": "a1bbb5205213da74",
+            "directory": "External20",
+            "voiceContent": "我的冲浪板——",
+            "sourceName": "vo_mualani_battle_hit_H_02.wem"
+        },
+        "fb39e24095d77c23": {
+            "hash": "fb39e24095d77c23",
+            "directory": "External31",
+            "voiceContent": "快跑。",
+            "sourceName": "vo_mualani_explore_sprint_start_01.wem"
+        },
+        "897d1844aa37d3e2": {
+            "hash": "897d1844aa37d3e2",
+            "directory": "External17",
+            "voiceContent": "在沙子上冲浪一定很刺激吧！「流泉之众」的玛拉妮，来挑战喽！",
+            "sourceName": "vo_mualani_weather_desert_01.wem"
+        },
+        "38c13458aabbfd0c": {
+            "hash": "38c13458aabbfd0c",
+            "directory": "External7",
+            "voiceContent": "需要借你我的冲浪板吗？",
+            "sourceName": "vo_mualani_explore_sprint_start_02.wem"
+        },
+        "02e882cae78a9908": {
+            "hash": "02e882cae78a9908",
+            "directory": "External0",
+            "voiceContent": "好了好了。",
+            "sourceName": "vo_mualani_battle_hit_L_02.wem"
+        },
+        "9867365312d54f03": {
+            "hash": "9867365312d54f03",
+            "directory": "External19",
+            "voiceContent": "不开心的时候，我会告诉自己「哎呀，没关系的，运势不太好而已，这只是糟糕的一天，不是糟糕的一生」，心情就能慢慢调整过来。要是还不管用，我会乘着游隙灵道，在高速的弯道上痛快地放声呼喊，几个来回下来，烦恼就被甩在身后啦，根本追不上我。",
+            "sourceName": "vo_mualani_dialog_annoyed_01.wem"
+        },
+        "caa05ba5f0526eca": {
+            "hash": "caa05ba5f0526eca",
+            "directory": "External25",
+            "voiceContent": "尊敬的旅行者，欢迎你参加本次旅行，我是「流泉之众」的向导，玛拉妮，有什么需求请随时伸长手臂向我示意哦！现在，请收好武器，保管好随身物品，在身前抱紧派蒙，最最重要的，是放下烦恼，踏上我给你准备的鲨鲨冲浪板，站稳啦——美妙之旅要开始咯！",
+            "sourceName": "vo_mualani_draw_appear_01.wem"
+        },
+        "c4e63e60393151cb": {
+            "hash": "c4e63e60393151cb",
+            "directory": "External24",
+            "voiceContent": "有段时间，我把「神之眼」挂在了豚豚球身上，这海水一般的湛蓝色，怎么看都很配它。但后来和朋友玩排球的时候我完全忘了这回事，豚豚球落在沙滩上，发出非常清脆的一声「哐嘡」，呼…竟然没摔碎，这肯定是好运的预兆！",
+            "sourceName": "vo_mualani_dialog_pendant_01.wem"
+        },
+        "6be2e8ae0c161f63": {
+            "hash": "6be2e8ae0c161f63",
+            "directory": "External13",
+            "voiceContent": "哎呀…",
+            "sourceName": "vo_card_mualani_inGame_hard_02.wem"
+        },
+        "4bbcd94536710ebd": {
+            "hash": "4bbcd94536710ebd",
+            "directory": "External9",
+            "voiceContent": "不该变成这样…",
+            "sourceName": "vo_card_mualani_inGame_easy_03.wem"
+        },
+        "acd13ac623df7c4c": {
+            "hash": "acd13ac623df7c4c",
+            "directory": "External21",
+            "voiceContent": "嘿嘿，好运气！",
+            "sourceName": "vo_card_mualani_inGame_hard_01.wem"
+        },
+        "df89f4dec465c311": {
+            "hash": "df89f4dec465c311",
+            "directory": "External27",
+            "voiceContent": "我赢定了！",
+            "sourceName": "vo_card_mualani_inGame_hard_04.wem"
+        },
+        "be4a36b51433021a": {
+            "hash": "be4a36b51433021a",
+            "directory": "External23",
+            "voiceContent": "今天的运势不太好…",
+            "sourceName": "vo_card_mualani_inGame_hard_03.wem"
+        },
+        "e03ebf4e17b7c3ec": {
+            "hash": "e03ebf4e17b7c3ec",
+            "directory": "External28",
+            "voiceContent": "咦？",
+            "sourceName": "vo_card_mualani_inGame_easy_02.wem"
+        },
+        "8caa2b5d4e38b88e": {
+            "hash": "8caa2b5d4e38b88e",
+            "directory": "External17",
+            "voiceContent": "看看这张牌！",
+            "sourceName": "vo_card_mualani_inGame_easy_04.wem"
+        },
+        "4a92ed338bef1083": {
+            "hash": "4a92ed338bef1083",
+            "directory": "External9",
+            "voiceContent": "手气超好！",
+            "sourceName": "vo_card_mualani_inGame_easy_01.wem"
+        }
+    }
+}

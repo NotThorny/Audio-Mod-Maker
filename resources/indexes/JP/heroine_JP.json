@@ -1,0 +1,511 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "4ea6495dca8ceb86": {
+            "hash": "4ea6495dca8ceb86",
+            "directory": "External9",
+            "voiceContent": "（コリンズの話によれば、鉄拳闘技大会はフォンタ社の協賛で開催してる。おそらく、フォンタ社側にも何か目的があるはず。）",
+            "sourceName": "vo_FDAQ106_7_heroine_04.wem"
+        },
+        "a239dd4e940a43e4": {
+            "hash": "a239dd4e940a43e4",
+            "directory": "External20",
+            "voiceContent": "（研究ノートにはこう書いてあった——「メリュジーヌという種族は、世界の感じ方が人間とは違う。そのため、多くの物事に対して、メリュジーヌの審美眼は人間と大きく異なっている」と）",
+            "sourceName": "vo_FDAQ106_7_heroine_02.wem"
+        },
+        "242d174650d7ba75": {
+            "hash": "242d174650d7ba75",
+            "directory": "External4",
+            "voiceContent": "（昼飯前の三十分、医務室にはいつも誰もいない。この時間帯…看護師長のシグウィンは、どこに何をしに行ってるんだろう？）",
+            "sourceName": "vo_FDAQ106_7_heroine_03.wem"
+        },
+        "67adcc54fea9807c": {
+            "hash": "67adcc54fea9807c",
+            "directory": "External12",
+            "voiceContent": "（水槽を吊ってたロープが花火で焼き切れてしまったことについても、水槽そのものじゃなく水に重点を置いて考えるべき。）",
+            "sourceName": "vo_FDAQ003_42_heroine_05.wem"
+        },
+        "141a3864352c281e": {
+            "hash": "141a3864352c281e",
+            "directory": "External2",
+            "voiceContent": "（マジックボックスの内側には、他にも何か入ってたような気がする…）",
+            "sourceName": "vo_FDAQ003_42_heroine_03.wem"
+        },
+        "c1e8da5d2d3cb927": {
+            "hash": "c1e8da5d2d3cb927",
+            "directory": "External24",
+            "voiceContent": "（原始胎海の水はホールジーがマジックボックスに入る前に、すでに仕掛けられていたはず。）",
+            "sourceName": "vo_FDAQ003_42_heroine_02.wem"
+        },
+        "d32be64c1d62cb0d": {
+            "hash": "d32be64c1d62cb0d",
+            "directory": "External26",
+            "voiceContent": "（リネットはずっと舞台上のマジックボックスにいた。彼女が何か関係している？）",
+            "sourceName": "vo_FDAQ003_42_heroine_04.wem"
+        },
+        "15436c75dfacedc0": {
+            "hash": "15436c75dfacedc0",
+            "directory": "External2",
+            "voiceContent": "（今にして思えば、あのフック付きロープは他のマジックの道具なんかではなく、何らかのトリガーだった。）",
+            "sourceName": "vo_FDAQ003_42_heroine_01.wem"
+        },
+        "fdaf9432bd1d94eb": {
+            "hash": "fdaf9432bd1d94eb",
+            "directory": "External31",
+            "voiceContent": "真相、原罪、審判、それから…災いの根源。",
+            "sourceName": "vo_FDAQ308_10_heroine_01.wem"
+        },
+        "50d3064b6f5e5074": {
+            "hash": "50d3064b6f5e5074",
+            "directory": "External10",
+            "voiceContent": "夢であり、また現実でもある。",
+            "sourceName": "vo_FDAQ308_10_heroine_02.wem"
+        },
+        "820aac2c3b396234": {
+            "hash": "820aac2c3b396234",
+            "directory": "External16",
+            "voiceContent": "もしあの時すぐに対処してなかったら、どうなってたか…想像もつかない。",
+            "sourceName": "vo_FDAQ308_5_heroine_04.wem"
+        },
+        "9eba86443e070a79": {
+            "hash": "9eba86443e070a79",
+            "directory": "External19",
+            "voiceContent": "フォンテーヌ人が溶ける理由はそれなのかも…",
+            "sourceName": "vo_FDAQ308_5_heroine_01.wem"
+        },
+        "2e76583b71bac416": {
+            "hash": "2e76583b71bac416",
+            "directory": "External5",
+            "voiceContent": "ヌヴィレットが言ってた、水神の本当の「罪」…",
+            "sourceName": "vo_FDAQ308_5_heroine_02.wem"
+        },
+        "9ac82a5451dc7549": {
+            "hash": "9ac82a5451dc7549",
+            "directory": "External19",
+            "voiceContent": "メロピデ要塞の胎海が噴出したことと、フォンテーヌ人が胎海の水に溶けるっていう事実…予言が実現する可能性はかなり高まってきてる。",
+            "sourceName": "vo_FDAQ308_5_heroine_12.wem"
+        },
+        "91ce5c8ee438ee60": {
+            "hash": "91ce5c8ee438ee60",
+            "directory": "External18",
+            "voiceContent": "そして石板の絵にある、天空の島が水神とフォンテーヌ人に下した「原罪」…",
+            "sourceName": "vo_FDAQ308_5_heroine_08.wem"
+        },
+        "2a83fc4b85902fe6": {
+            "hash": "2a83fc4b85902fe6",
+            "directory": "External5",
+            "voiceContent": "石板に描かれた予言はとっくに巷に広まってるけど、当初は信じる人も少なかった…",
+            "sourceName": "vo_FDAQ308_5_heroine_11.wem"
+        },
+        "80e0c81a90b77262": {
+            "hash": "80e0c81a90b77262",
+            "directory": "External16",
+            "voiceContent": "でも一つ目の石板に描かれた絵を見る限り…その昔、水神の神の力によって、純水精霊は人間となった…",
+            "sourceName": "vo_FDAQ308_5_heroine_06.wem"
+        },
+        "3f9db687dc4ab7e1": {
+            "hash": "3f9db687dc4ab7e1",
+            "directory": "External7",
+            "voiceContent": "ナヴィアが海に落ちた後、意識の中では審判が行われてた。",
+            "sourceName": "vo_FDAQ308_5_heroine_09.wem"
+        },
+        "dc45ba3469cc9bff": {
+            "hash": "dc45ba3469cc9bff",
+            "directory": "External27",
+            "voiceContent": "海に落ちるなんて簡単な話じゃない…",
+            "sourceName": "vo_FDAQ308_5_heroine_03.wem"
+        },
+        "2b803a138613caab": {
+            "hash": "2b803a138613caab",
+            "directory": "External5",
+            "voiceContent": "目の前の出来事は、今までの歴史上でも起こったことがあることなのかも。",
+            "sourceName": "vo_FDAQ308_5_heroine_07.wem"
+        },
+        "618238a94d4de15c": {
+            "hash": "618238a94d4de15c",
+            "directory": "External12",
+            "voiceContent": "（その間、リネはずっと地下道にいなかった。犯人に残された時間はたっぷりあった。）",
+            "sourceName": "vo_FDAQ003_40_heroine_03.wem"
+        },
+        "bbbe46b17be2cd07": {
+            "hash": "bbbe46b17be2cd07",
+            "directory": "External23",
+            "voiceContent": "（歌劇場の入り口からは誰も出入りしてない。犯人はホールジーをどこに連れて行ったんだろう？）",
+            "sourceName": "vo_FDAQ003_40_heroine_04.wem"
+        },
+        "cd0052a06c072ced": {
+            "hash": "cd0052a06c072ced",
+            "directory": "External25",
+            "voiceContent": "（あの音は、犯人と失踪した少女ホールジーの諍いによるものかもしれない。）",
+            "sourceName": "vo_FDAQ003_40_heroine_02.wem"
+        },
+        "bce732c326631821": {
+            "hash": "bce732c326631821",
+            "directory": "External23",
+            "voiceContent": "（あの通気口を二人で同時に通ろうとするのは無理がある。それに、途中でリネと顔を合わせてしまうかも。）",
+            "sourceName": "vo_FDAQ003_40_heroine_06.wem"
+        },
+        "62ac24baf7cfdf7e": {
+            "hash": "62ac24baf7cfdf7e",
+            "directory": "External12",
+            "voiceContent": "（地下道にはホールジーの服が残されてた。恐らく彼女を目立たせないようにするため…）",
+            "sourceName": "vo_FDAQ003_40_heroine_05.wem"
+        },
+        "fe4cf34e911a48bc": {
+            "hash": "fe4cf34e911a48bc",
+            "directory": "External31",
+            "voiceContent": "（やっぱり第三者がいる？でも、本当に…？）",
+            "sourceName": "vo_FDAQ003_39_heroine_03.wem"
+        },
+        "e719ef3c48df4c4a": {
+            "hash": "e719ef3c48df4c4a",
+            "directory": "External28",
+            "voiceContent": "（死者の名はコーウェル。リネのアシスタントで、道具に細工できた…）",
+            "sourceName": "vo_FDAQ003_39_heroine_01.wem"
+        },
+        "6d310d45b2b6bd4d": {
+            "hash": "6d310d45b2b6bd4d",
+            "directory": "External13",
+            "voiceContent": "（失踪者の名はホールジー。普通の観客だけど、事前に色々計画してたかも？）",
+            "sourceName": "vo_FDAQ003_39_heroine_02.wem"
+        },
+        "a327408139306645": {
+            "hash": "a327408139306645",
+            "directory": "External20",
+            "voiceContent": "（花瓶は偶然割れたわけじゃない、最も重要な犯罪の証拠——水を隠すために使われたんだ！）",
+            "sourceName": "vo_FDAQ003_41_heroine_01.wem"
+        },
+        "e52aaaee181f1677": {
+            "hash": "e52aaaee181f1677",
+            "directory": "External28",
+            "voiceContent": "（地脈と繋がれないということは…地脈に消されることもないということ。）",
+            "sourceName": "vo_EQHDJ403_21_heroine_01.wem"
+        },
+        "919616fd4ea00b11": {
+            "hash": "919616fd4ea00b11",
+            "directory": "External18",
+            "voiceContent": "（もうここにはいない…これは…）",
+            "sourceName": "vo_EQHDJ403_21_heroine_03.wem"
+        },
+        "420767261840479d": {
+            "hash": "420767261840479d",
+            "directory": "External8",
+            "voiceContent": "#もしかして今…天井に{M#立ってる}{F#立ってるの}？部屋がひっくり返ったのかな、それとも重力の影響…？",
+            "sourceName": "vo_SZAQ203_8_heroine_01.wem"
+        },
+        "e15550b2b0d20be4": {
+            "hash": "e15550b2b0d20be4",
+            "directory": "External28",
+            "voiceContent": "#符文をセットする場所を探す必要がある{M#みたいだ…}{F#みたい…}",
+            "sourceName": "vo_SZAQ203_7_heroine_01.wem"
+        },
+        "142e4576523dcfd2": {
+            "hash": "142e4576523dcfd2",
+            "directory": "External2",
+            "voiceContent": "#あまり離れないほうがいいかも。ダインとパイモンがまだ帰ってきて{M#ない}{F#ないし}…",
+            "sourceName": "vo_SZAQ204_11_heroine_01.wem"
+        },
+        "3b354e45c39082df": {
+            "hash": "3b354e45c39082df",
+            "directory": "External7",
+            "voiceContent": "これって…ワープ装置？何を動力としているんだろう…",
+            "sourceName": "vo_SZAQ203_6_heroine_01.wem"
+        }
+    },
+    "Gameplay": {
+        "217ea8f6bc3d0e6d": {
+            "hash": "217ea8f6bc3d0e6d",
+            "directory": "External4",
+            "voiceContent": "…ハァ！",
+            "sourceName": "vo_heroine_battle_skill1_01.wem"
+        },
+        "f38c0aefc949ceea": {
+            "hash": "f38c0aefc949ceea",
+            "directory": "External30",
+            "voiceContent": "…セイ！",
+            "sourceName": "vo_heroine_battle_skill1_02.wem"
+        },
+        "75133ce785bc18f3": {
+            "hash": "75133ce785bc18f3",
+            "directory": "External14",
+            "voiceContent": "風刃…！",
+            "sourceName": "vo_heroine_battle_skill1_03.wem"
+        },
+        "4a43d3b3b0d286c9": {
+            "hash": "4a43d3b3b0d286c9",
+            "directory": "External9",
+            "voiceContent": "ヤァッ！",
+            "sourceName": "vo_heroine_battle_skill1_rock_01.wem"
+        },
+        "d9ffa5aae4864166": {
+            "hash": "d9ffa5aae4864166",
+            "directory": "External27",
+            "voiceContent": "落ちて！",
+            "sourceName": "vo_heroine_battle_skill1_rock_02.wem"
+        },
+        "5bbd07a2a1266c4f": {
+            "hash": "5bbd07a2a1266c4f",
+            "directory": "External11",
+            "voiceContent": "荒星！",
+            "sourceName": "vo_heroine_battle_skill1_rock_03.wem"
+        },
+        "fe4df112c074279c": {
+            "hash": "fe4df112c074279c",
+            "directory": "External31",
+            "voiceContent": "はっ！",
+            "sourceName": "vo_heroine_battle_skill1_thunder_01.wem"
+        },
+        "c0c59efaab8df3b3": {
+            "hash": "c0c59efaab8df3b3",
+            "directory": "External24",
+            "voiceContent": "くらえ！",
+            "sourceName": "vo_heroine_battle_skill1_thunder_02.wem"
+        },
+        "3bd86d02ec3880aa": {
+            "hash": "3bd86d02ec3880aa",
+            "directory": "External7",
+            "voiceContent": "紫影！",
+            "sourceName": "vo_heroine_battle_skill1_thunder_03.wem"
+        },
+        "6d9aa91b4b6a348a": {
+            "hash": "6d9aa91b4b6a348a",
+            "directory": "External13",
+            "voiceContent": "はっ！",
+            "sourceName": "vo_heroine_battle_skill1_dendro_01.wem"
+        },
+        "f3b0c724b53ff28d": {
+            "hash": "f3b0c724b53ff28d",
+            "directory": "External30",
+            "voiceContent": "散！",
+            "sourceName": "vo_heroine_battle_skill1_dendro_02.wem"
+        },
+        "8832ad2d9686a7fc": {
+            "hash": "8832ad2d9686a7fc",
+            "directory": "External17",
+            "voiceContent": "蔓延れ！",
+            "sourceName": "vo_heroine_battle_skill1_dendro_03.wem"
+        },
+        "826816bf4d6998e0": {
+            "hash": "826816bf4d6998e0",
+            "directory": "External16",
+            "voiceContent": "ハァ！",
+            "sourceName": "vo_heroine_battle_skill1_hydro_01.wem"
+        },
+        "2ba784a698163b47": {
+            "hash": "2ba784a698163b47",
+            "directory": "External5",
+            "voiceContent": "行けっ！",
+            "sourceName": "vo_heroine_battle_skill1_hydro_02.wem"
+        },
+        "d5fc62b016e828be": {
+            "hash": "d5fc62b016e828be",
+            "directory": "External26",
+            "voiceContent": "渦よ！",
+            "sourceName": "vo_heroine_battle_skill1_hydro_03.wem"
+        },
+        "c759446a555cd818": {
+            "hash": "c759446a555cd818",
+            "directory": "External24",
+            "voiceContent": "ふっ！",
+            "sourceName": "vo_heroine_battle_skill1_pyro_01.wem"
+        },
+        "31e4524fc9c3319f": {
+            "hash": "31e4524fc9c3319f",
+            "directory": "External6",
+            "voiceContent": "燃やし尽くして！",
+            "sourceName": "vo_heroine_battle_skill1_pyro_02.wem"
+        },
+        "d8d2705945b0b036": {
+            "hash": "d8d2705945b0b036",
+            "directory": "External27",
+            "voiceContent": "灼熱閃光！",
+            "sourceName": "vo_heroine_battle_skill1_pyro_03.wem"
+        },
+        "8247fe40908b18a5": {
+            "hash": "8247fe40908b18a5",
+            "directory": "External16",
+            "voiceContent": "ハーーッ！",
+            "sourceName": "vo_heroine_battle_skill1_pyro_04.wem"
+        },
+        "d7a944479b2ff8d4": {
+            "hash": "d7a944479b2ff8d4",
+            "directory": "External26",
+            "voiceContent": "束縛の炎！",
+            "sourceName": "vo_heroine_battle_skill1_pyro_05.wem"
+        },
+        "811ed22ee60a614b": {
+            "hash": "811ed22ee60a614b",
+            "directory": "External16",
+            "voiceContent": "光を灯せ！",
+            "sourceName": "vo_heroine_battle_skill1_pyro_06.wem"
+        },
+        "3782c21985920d0f": {
+            "hash": "3782c21985920d0f",
+            "directory": "External6",
+            "voiceContent": "フッ—",
+            "sourceName": "vo_heroine_battle_skill3_01.wem"
+        },
+        "783af4319d2da4c8": {
+            "hash": "783af4319d2da4c8",
+            "directory": "External15",
+            "voiceContent": "消えるんだ。",
+            "sourceName": "vo_heroine_battle_skill3_02.wem"
+        },
+        "26098e2a953e2789": {
+            "hash": "26098e2a953e2789",
+            "directory": "External4",
+            "voiceContent": "風と共に去れ。",
+            "sourceName": "vo_heroine_battle_skill3_03.wem"
+        },
+        "f6479868b1568fcb": {
+            "hash": "f6479868b1568fcb",
+            "directory": "External30",
+            "voiceContent": "ハーーッ！",
+            "sourceName": "vo_heroine_battle_skill3_rock_01.wem"
+        },
+        "4cd20a81667c2754": {
+            "hash": "4cd20a81667c2754",
+            "directory": "External9",
+            "voiceContent": "震えよ！",
+            "sourceName": "vo_heroine_battle_skill3_rock_02.wem"
+        },
+        "f770c47a5bd74725": {
+            "hash": "f770c47a5bd74725",
+            "directory": "External30",
+            "voiceContent": "塵となれ！",
+            "sourceName": "vo_heroine_battle_skill3_rock_03.wem"
+        },
+        "591ff3598a7d1e8a": {
+            "hash": "591ff3598a7d1e8a",
+            "directory": "External11",
+            "voiceContent": "ふぁっ——！",
+            "sourceName": "vo_heroine_battle_skill3_thunder_01.wem"
+        },
+        "df361162f452dc8d": {
+            "hash": "df361162f452dc8d",
+            "directory": "External27",
+            "voiceContent": "轟け！",
+            "sourceName": "vo_heroine_battle_skill3_thunder_02.wem"
+        },
+        "73b7f76bd59991fc": {
+            "hash": "73b7f76bd59991fc",
+            "directory": "External14",
+            "voiceContent": "天鼓雷音！",
+            "sourceName": "vo_heroine_battle_skill3_thunder_03.wem"
+        },
+        "98bdcd1de48574e0": {
+            "hash": "98bdcd1de48574e0",
+            "directory": "External19",
+            "voiceContent": "はぁっ！",
+            "sourceName": "vo_heroine_battle_skill3_dendro_01.wem"
+        },
+        "41fd3b052f321747": {
+            "hash": "41fd3b052f321747",
+            "directory": "External8",
+            "voiceContent": "芽生えよ！",
+            "sourceName": "vo_heroine_battle_skill3_dendro_02.wem"
+        },
+        "ec52190eae0404be": {
+            "hash": "ec52190eae0404be",
+            "directory": "External29",
+            "voiceContent": "新蕾貫土！",
+            "sourceName": "vo_heroine_battle_skill3_dendro_03.wem"
+        },
+        "80529e5ddb51a59e": {
+            "hash": "80529e5ddb51a59e",
+            "directory": "External16",
+            "voiceContent": "ハァ！",
+            "sourceName": "vo_heroine_battle_skill3_hydro_01.wem"
+        },
+        "da8dac6609e4df41": {
+            "hash": "da8dac6609e4df41",
+            "directory": "External27",
+            "voiceContent": "浄化せよ！",
+            "sourceName": "vo_heroine_battle_skill3_hydro_02.wem"
+        },
+        "817bd26f85d26b40": {
+            "hash": "817bd26f85d26b40",
+            "directory": "External16",
+            "voiceContent": "激流に飲まれろ！",
+            "sourceName": "vo_heroine_battle_skill3_hydro_03.wem"
+        },
+        "01f0bc3ace14ef1a": {
+            "hash": "01f0bc3ace14ef1a",
+            "directory": "External0",
+            "voiceContent": "ハァ！",
+            "sourceName": "vo_heroine_battle_skill3_pyro_01.wem"
+        },
+        "5f5bda42ff5ddd1d": {
+            "hash": "5f5bda42ff5ddd1d",
+            "directory": "External11",
+            "voiceContent": "明けの明星！",
+            "sourceName": "vo_heroine_battle_skill3_pyro_02.wem"
+        },
+        "f077c04bddc1694c": {
+            "hash": "f077c04bddc1694c",
+            "directory": "External30",
+            "voiceContent": "輝く焔よ、姿を現せ！",
+            "sourceName": "vo_heroine_battle_skill3_pyro_03.wem"
+        },
+        "21a6ef3490ca063a": {
+            "hash": "21a6ef3490ca063a",
+            "directory": "External4",
+            "voiceContent": "この世界も、私に応えているの？",
+            "sourceName": "vo_heroine_chest_open_01.wem"
+        },
+        "7bac0d3cbf2fcb3d": {
+            "hash": "7bac0d3cbf2fcb3d",
+            "directory": "External15",
+            "voiceContent": "旅の収穫だね。",
+            "sourceName": "vo_heroine_chest_open_02.wem"
+        },
+        "102df345a076806c": {
+            "hash": "102df345a076806c",
+            "directory": "External2",
+            "voiceContent": "きちんと仕舞っておこう。",
+            "sourceName": "vo_heroine_chest_open_03.wem"
+        },
+        "659720bfb73f3d4e": {
+            "hash": "659720bfb73f3d4e",
+            "directory": "External12",
+            "voiceContent": "任せて！",
+            "sourceName": "vo_heroine_life_less30_teammate_01.wem"
+        },
+        "e87e6ec91e616671": {
+            "hash": "e87e6ec91e616671",
+            "directory": "External29",
+            "voiceContent": "危ない！",
+            "sourceName": "vo_heroine_life_less30_teammate_02.wem"
+        },
+        "620bc18bfee70dd3": {
+            "hash": "620bc18bfee70dd3",
+            "directory": "External12",
+            "voiceContent": "ここは…ゴールじゃない…",
+            "sourceName": "vo_heroine_life_die_01.wem"
+        },
+        "f7b793a68aafc03c": {
+            "hash": "f7b793a68aafc03c",
+            "directory": "External30",
+            "voiceContent": "世界に…拒まれたの…？",
+            "sourceName": "vo_heroine_life_die_02.wem"
+        },
+        "ebccceafd5ac2726": {
+            "hash": "ebccceafd5ac2726",
+            "directory": "External29",
+            "voiceContent": "次は何に会えるかな？",
+            "sourceName": "vo_heroine_teamJoin_01.wem"
+        },
+        "5c10fcb8a1f86c89": {
+            "hash": "5c10fcb8a1f86c89",
+            "directory": "External11",
+            "voiceContent": "世界は、謎だらけだね…",
+            "sourceName": "vo_heroine_teamJoin_02.wem"
+        },
+        "ae4262bfa9e7e9c8": {
+            "hash": "ae4262bfa9e7e9c8",
+            "directory": "External21",
+            "voiceContent": "やるべきことは、まだまだたくさんある。",
+            "sourceName": "vo_heroine_teamJoin_03.wem"
+        }
+    }
+}

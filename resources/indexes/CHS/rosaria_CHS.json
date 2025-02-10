@@ -1,0 +1,757 @@
+{
+    "Teapot": {
+        "00ec564a1ca26244": {
+            "hash": "00ec564a1ca26244",
+            "directory": "External0",
+            "voiceContent": "在这里种葡萄，难道是想效仿晨曦酒庄的样子，自己酿酒？",
+            "sourceName": "vo_mimiTomo_md_rosaria_vineyard_02.wem"
+        },
+        "e93d2b59e7bb4291": {
+            "hash": "e93d2b59e7bb4291",
+            "directory": "External29",
+            "voiceContent": "多亏了你告诉我有这样的地方，谢了。",
+            "sourceName": "vo_mimiTomo_md_rosaria_park_03.wem"
+        },
+        "677fd1622b1b2510": {
+            "hash": "677fd1622b1b2510",
+            "directory": "External12",
+            "voiceContent": "教会的值班修女应该也找不到这里来，能不受打扰地休息会儿了。",
+            "sourceName": "vo_mimiTomo_md_rosaria_park_02.wem"
+        },
+        "3cd1bf4ab13a4df7": {
+            "hash": "3cd1bf4ab13a4df7",
+            "directory": "External7",
+            "voiceContent": "让人舒服的环境。",
+            "sourceName": "vo_mimiTomo_md_rosaria_park_01.wem"
+        },
+        "d6742432a2eee33b": {
+            "hash": "d6742432a2eee33b",
+            "directory": "External26",
+            "voiceContent": "没想到你还有这种喜好。",
+            "sourceName": "vo_mimiTomo_md_rosaria_vineyard_01.wem"
+        },
+        "82e09041d9718bd5": {
+            "hash": "82e09041d9718bd5",
+            "directory": "External16",
+            "voiceContent": "很不错的想法，成功的话，记得叫上我一起尝尝。",
+            "sourceName": "vo_mimiTomo_md_rosaria_vineyard_03.wem"
+        },
+        "d856e8f8698df80d": {
+            "hash": "d856e8f8698df80d",
+            "directory": "External27",
+            "voiceContent": "去这家的话，就喝蒲公英酒好了。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_08a_2.wem"
+        },
+        "290636e2bcf84055": {
+            "hash": "290636e2bcf84055",
+            "directory": "External5",
+            "voiceContent": "等等…应该是巴托巴斯？还是巴斯巴托来着。刚才好像又说错了。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_05.wem"
+        },
+        "cce330c9f935e0f1": {
+            "hash": "cce330c9f935e0f1",
+            "directory": "External25",
+            "voiceContent": "算了算了，我先替你喝吧。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_11.wem"
+        },
+        "f74058dbc6c49972": {
+            "hash": "f74058dbc6c49972",
+            "directory": "External30",
+            "voiceContent": "行，听你的。那就先这样叫着好了。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_06.wem"
+        },
+        "976c7021e6d8c31b": {
+            "hash": "976c7021e6d8c31b",
+            "directory": "External18",
+            "voiceContent": "嘁，产生依赖可不好。",
+            "sourceName": "vo_rosaria_mimitomo_friendship1_06.wem"
+        },
+        "76dc50ac7e2bfac1": {
+            "hash": "76dc50ac7e2bfac1",
+            "directory": "External14",
+            "voiceContent": "这次就痛痛快快地喝，喝醉也没事。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_02.wem"
+        },
+        "bdd972628a803976": {
+            "hash": "bdd972628a803976",
+            "directory": "External23",
+            "voiceContent": "看在我的面子上，这次你总得喝几杯了吧？",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_09.wem"
+        },
+        "123f53003feb1413": {
+            "hash": "123f53003feb1413",
+            "directory": "External2",
+            "voiceContent": "…这种话，跟我还真不配。",
+            "sourceName": "vo_rosaria_mimitomo_friendship1_04b_1.wem"
+        },
+        "ce5041e823052db4": {
+            "hash": "ce5041e823052db4",
+            "directory": "External25",
+            "voiceContent": "过一会儿，我的工作也该开始了。",
+            "sourceName": "vo_rosaria_mimitomo_night_02.wem"
+        },
+        "497accb351e0a82d": {
+            "hash": "497accb351e0a82d",
+            "directory": "External9",
+            "voiceContent": "与其花时间在教会痛哭流涕忏悔自己的罪孽，还不如用实际行动来弥补。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_02b_2.wem"
+        },
+        "52e29b6ca90c27d7": {
+            "hash": "52e29b6ca90c27d7",
+            "directory": "External10",
+            "voiceContent": "还是饶了我吧。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_02a_3.wem"
+        },
+        "d1253974ec6bfcce": {
+            "hash": "d1253974ec6bfcce",
+            "directory": "External26",
+            "voiceContent": "要弄明白他混乱的表达已经很费劲了，还要用「风神庇佑」这种没用的话来安慰人。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_02a_2.wem"
+        },
+        "62ab518ee93b042e": {
+            "hash": "62ab518ee93b042e",
+            "directory": "External12",
+            "voiceContent": "当家调酒师并不是每天都当班，倒是可以碰碰运气。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_08b_2.wem"
+        },
+        "5240caeeffb83a0a": {
+            "hash": "5240caeeffb83a0a",
+            "directory": "External10",
+            "voiceContent": "晨曦酒庄出品，酒源有绝对的保证。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_08a_1.wem"
+        },
+        "29f94af4674b3fcf": {
+            "hash": "29f94af4674b3fcf",
+            "directory": "External5",
+            "voiceContent": "不过，有许多人相信巴巴托斯眷顾着他们，所以不幸和苦难才不会降临到他们头上。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_03.wem"
+        },
+        "d414612853db1ede": {
+            "hash": "d414612853db1ede",
+            "directory": "External26",
+            "voiceContent": "哈，你精神倒是好。没什么事情的话，我就先歇着了。",
+            "sourceName": "vo_rosaria_mimitomo_morning_02.wem"
+        },
+        "da89047a8d4d6613": {
+            "hash": "da89047a8d4d6613",
+            "directory": "External27",
+            "voiceContent": "我原先觉得，把自己毫无防备地暴露在别人面前，是件蠢事。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_04.wem"
+        },
+        "dda7a25d562c8168": {
+            "hash": "dda7a25d562c8168",
+            "directory": "External27",
+            "voiceContent": "没什么习惯不习惯的，我对自己的住所没什么所谓。",
+            "sourceName": "vo_rosaria_mimitomo_friendship1_01.wem"
+        },
+        "7c99cad3867597bb": {
+            "hash": "7c99cad3867597bb",
+            "directory": "External15",
+            "voiceContent": "呃…另外，谢谢你。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_07.wem"
+        },
+        "49fbe2c09213b7ce": {
+            "hash": "49fbe2c09213b7ce",
+            "directory": "External9",
+            "voiceContent": "等你来日再还。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_12.wem"
+        },
+        "7034d6951916197c": {
+            "hash": "7034d6951916197c",
+            "directory": "External14",
+            "voiceContent": "「天使的馈赠」和「猫尾酒馆」，要去哪家？",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_07.wem"
+        },
+        "4831f042ca91942f": {
+            "hash": "4831f042ca91942f",
+            "directory": "External9",
+            "voiceContent": "不过在这里比教会自在多了…",
+            "sourceName": "vo_rosaria_mimitomo_friendship1_02.wem"
+        },
+        "c30e8e4b0b0e4046": {
+            "hash": "c30e8e4b0b0e4046",
+            "directory": "External24",
+            "voiceContent": "至少不会有人以晨祷的名义，打扰我早上补觉。",
+            "sourceName": "vo_rosaria_mimitomo_friendship1_03.wem"
+        },
+        "7ea281fda34a1780": {
+            "hash": "7ea281fda34a1780",
+            "directory": "External15",
+            "voiceContent": "多谢关心。呵呵，无非是有点小事要处理而已。",
+            "sourceName": "vo_rosaria_mimitomo_friendship1_04a_1.wem"
+        },
+        "a711fceb002916c4": {
+            "hash": "a711fceb002916c4",
+            "directory": "External20",
+            "voiceContent": "行吧，如果这么相信就能感到更幸福，那就随他们吧。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_04.wem"
+        },
+        "1ca142a44f98c11e": {
+            "hash": "1ca142a44f98c11e",
+            "directory": "External3",
+            "voiceContent": "嗯，干脆一起去喝酒吧。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_01.wem"
+        },
+        "27e1efe4edf6bae7": {
+            "hash": "27e1efe4edf6bae7",
+            "directory": "External4",
+            "voiceContent": "我早就习惯这种作息了，想改也麻烦。",
+            "sourceName": "vo_rosaria_mimitomo_friendship1_04a_2.wem"
+        },
+        "540c877e538e25f1": {
+            "hash": "540c877e538e25f1",
+            "directory": "External10",
+            "voiceContent": "哈，我以前被安排接待过一次来告解的信徒。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_02a_1.wem"
+        },
+        "c0ba1377258526f1": {
+            "hash": "c0ba1377258526f1",
+            "directory": "External24",
+            "voiceContent": "哈…现在是什么时候了…",
+            "sourceName": "vo_rosaria_mimitomo_hello_01.wem"
+        },
+        "90d51f95dc5dd7d1": {
+            "hash": "90d51f95dc5dd7d1",
+            "directory": "External18",
+            "voiceContent": "哦？是对这家的特调感兴趣吗？",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_08b_1.wem"
+        },
+        "a7eb251acbb3c77c": {
+            "hash": "a7eb251acbb3c77c",
+            "directory": "External20",
+            "voiceContent": "算了算了，我知道你是好意。我心领了。",
+            "sourceName": "vo_rosaria_mimitomo_friendship1_04b_2.wem"
+        },
+        "0b93ed501d293e70": {
+            "hash": "0b93ed501d293e70",
+            "directory": "External1",
+            "voiceContent": "能和你这样倾诉而不用提防着唠叨，对我来说很难得。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_08.wem"
+        },
+        "1880170576f75a49": {
+            "hash": "1880170576f75a49",
+            "directory": "External3",
+            "voiceContent": "可以。但事先说清楚，想要告解的话，还是去找别人吧。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_01.wem"
+        },
+        "18212eac5c088caa": {
+            "hash": "18212eac5c088caa",
+            "directory": "External3",
+            "voiceContent": "很好，看来我们有共识。",
+            "sourceName": "vo_rosaria_mimitomo_friendship2_02b_1.wem"
+        },
+        "4b25d6d23c95c370": {
+            "hash": "4b25d6d23c95c370",
+            "directory": "External9",
+            "voiceContent": "……",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_10.wem"
+        },
+        "dbb2f08c37cf640d": {
+            "hash": "dbb2f08c37cf640d",
+            "directory": "External27",
+            "voiceContent": "大概是因为信任你吧…这不是重点。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_06.wem"
+        },
+        "1dca76b5fa1986c0": {
+            "hash": "1dca76b5fa1986c0",
+            "directory": "External3",
+            "voiceContent": "是啊，我从来不会让自己喝醉。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_03.wem"
+        },
+        "559cd282cdf9a60a": {
+            "hash": "559cd282cdf9a60a",
+            "directory": "External10",
+            "voiceContent": "不过我的想法改变了。",
+            "sourceName": "vo_rosaria_mimitomo_friendship3_05.wem"
+        },
+        "16a2223bd48b97a4": {
+            "hash": "16a2223bd48b97a4",
+            "directory": "External2",
+            "voiceContent": "说不定，我比想象中更适应这里啊…",
+            "sourceName": "vo_rosaria_mimitomo_friendship1_05.wem"
+        }
+    },
+    "Quests": {},
+    "Gameplay": {
+        "c30f14a88d4e0039": {
+            "hash": "c30f14a88d4e0039",
+            "directory": "External24",
+            "voiceContent": "嘿呀！",
+            "sourceName": "vo_rosaria_battle_skill1_01.wem"
+        },
+        "52cae69fc101bad6": {
+            "hash": "52cae69fc101bad6",
+            "directory": "External10",
+            "voiceContent": "审判！",
+            "sourceName": "vo_rosaria_battle_skill1_02.wem"
+        },
+        "009a4898b91391bf": {
+            "hash": "009a4898b91391bf",
+            "directory": "External0",
+            "voiceContent": "别想跑！",
+            "sourceName": "vo_rosaria_battle_skill1_03.wem"
+        },
+        "d5e2fdcb53ed14fb": {
+            "hash": "d5e2fdcb53ed14fb",
+            "directory": "External26",
+            "voiceContent": "制裁！",
+            "sourceName": "vo_rosaria_battle_skill3_01.wem"
+        },
+        "005c2fe2cda24604": {
+            "hash": "005c2fe2cda24604",
+            "directory": "External0",
+            "voiceContent": "战栗吧！",
+            "sourceName": "vo_rosaria_battle_skill3_02.wem"
+        },
+        "85b569da8d52e595": {
+            "hash": "85b569da8d52e595",
+            "directory": "External16",
+            "voiceContent": "晚安了…",
+            "sourceName": "vo_rosaria_battle_skill3_03.wem"
+        },
+        "ad8899a8f7768e16": {
+            "hash": "ad8899a8f7768e16",
+            "directory": "External21",
+            "voiceContent": "…倒也有不错的玩意。",
+            "sourceName": "vo_rosaria_chest_open_01.wem"
+        },
+        "1dccc7b1c3c2d479": {
+            "hash": "1dccc7b1c3c2d479",
+            "directory": "External3",
+            "voiceContent": "还行，不算很麻烦。",
+            "sourceName": "vo_rosaria_chest_open_02.wem"
+        },
+        "9c0f6dba0722b6f8": {
+            "hash": "9c0f6dba0722b6f8",
+            "directory": "External19",
+            "voiceContent": "心情不错。",
+            "sourceName": "vo_rosaria_chest_open_03.wem"
+        },
+        "8858e70959794652": {
+            "hash": "8858e70959794652",
+            "directory": "External17",
+            "voiceContent": "退后！",
+            "sourceName": "vo_rosaria_life_less30_teammate_01.wem"
+        },
+        "0b764512c0c919b5": {
+            "hash": "0b764512c0c919b5",
+            "directory": "External1",
+            "voiceContent": "不要恋战！",
+            "sourceName": "vo_rosaria_life_less30_teammate_02.wem"
+        },
+        "3a55933fc07152ef": {
+            "hash": "3a55933fc07152ef",
+            "directory": "External7",
+            "voiceContent": "这样也好…",
+            "sourceName": "vo_rosaria_life_die_01.wem"
+        },
+        "cfca455a4c0a8c28": {
+            "hash": "cfca455a4c0a8c28",
+            "directory": "External25",
+            "voiceContent": "或许是…命中注定…",
+            "sourceName": "vo_rosaria_life_die_02.wem"
+        },
+        "35e93fbbc568d6c9": {
+            "hash": "35e93fbbc568d6c9",
+            "directory": "External6",
+            "voiceContent": "又有新工作了？",
+            "sourceName": "vo_rosaria_teamJoin_01.wem"
+        },
+        "c5a511b2f91c9166": {
+            "hash": "c5a511b2f91c9166",
+            "directory": "External24",
+            "voiceContent": "但愿配合顺利。",
+            "sourceName": "vo_rosaria_teamJoin_02.wem"
+        },
+        "476273aab5bcbc4f": {
+            "hash": "476273aab5bcbc4f",
+            "directory": "External8",
+            "voiceContent": "呼…速战速决。",
+            "sourceName": "vo_rosaria_teamJoin_03.wem"
+        },
+        "225e02173fcdb9ee": {
+            "hash": "225e02173fcdb9ee",
+            "directory": "External4",
+            "voiceContent": "这位信徒，如果遇到难以解决的麻烦，可以来找我，如果只想祈祷，还请找其他修女。…嗯？你不是信徒吗？",
+            "sourceName": "vo_rosaria_draw_appear.wem"
+        },
+        "09d69722b7eb0938": {
+            "hash": "09d69722b7eb0938",
+            "directory": "External1",
+            "voiceContent": "还不走吗？",
+            "sourceName": "vo_rosaria_explore_idle_01.wem"
+        },
+        "cc85250aa333e13f": {
+            "hash": "cc85250aa333e13f",
+            "directory": "External25",
+            "voiceContent": "什么都可以商量，除了加班。",
+            "sourceName": "vo_rosaria_explore_idle_02.wem"
+        },
+        "1eb5c311ab220a56": {
+            "hash": "1eb5c311ab220a56",
+            "directory": "External3",
+            "voiceContent": "好好完成工作，好好度过每一天。蒙德的生活不就是如此吗？",
+            "sourceName": "vo_rosaria_explore_idle_03.wem"
+        },
+        "412b622a011a4f7e": {
+            "hash": "412b622a011a4f7e",
+            "directory": "External8",
+            "voiceContent": "唉，影响效率。",
+            "sourceName": "vo_rosaria_weather_heavyRain_01.wem"
+        },
+        "1ff84bad3fc76175": {
+            "hash": "1ff84bad3fc76175",
+            "directory": "External3",
+            "voiceContent": "嘁，麻烦。",
+            "sourceName": "vo_rosaria_weather_thunder_01.wem"
+        },
+        "3157fcc9c50bd081": {
+            "hash": "3157fcc9c50bd081",
+            "directory": "External6",
+            "voiceContent": "雪天赶路，最好小心一些。",
+            "sourceName": "vo_rosaria_weather_snowy_01.wem"
+        },
+        "7efe82f04c955cf8": {
+            "hash": "7efe82f04c955cf8",
+            "directory": "External15",
+            "voiceContent": "是风神巴斯巴托的庇佑吗？等等，好像是巴托巴斯…",
+            "sourceName": "vo_rosaria_weather_gale_01.wem"
+        },
+        "04bca4912102fb24": {
+            "hash": "04bca4912102fb24",
+            "directory": "External0",
+            "voiceContent": "早安，哈…晨祷已经开始了吗？也太早了。",
+            "sourceName": "vo_rosaria_dialog_greetingMorning.wem"
+        },
+        "8f78d4722e8b5180": {
+            "hash": "8f78d4722e8b5180",
+            "directory": "External17",
+            "voiceContent": "午后的阳光对睡眠有好处。你也试试吧。",
+            "sourceName": "vo_rosaria_dialog_greetingNoon.wem"
+        },
+        "535d1b1a0156dbbe": {
+            "hash": "535d1b1a0156dbbe",
+            "directory": "External10",
+            "voiceContent": "晚上好。晚间祷告的话，我不参加。嗯？不为什么。",
+            "sourceName": "vo_rosaria_dialog_greetingNight.wem"
+        },
+        "5b56ff8854150f36": {
+            "hash": "5b56ff8854150f36",
+            "directory": "External11",
+            "voiceContent": "去休息吧，不用操心，剩下的事我会处理。",
+            "sourceName": "vo_rosaria_dialog_greetingNight2.wem"
+        },
+        "692e081788d1d809": {
+            "hash": "692e081788d1d809",
+            "directory": "External13",
+            "voiceContent": "我？只是个无趣的人而已。如你所见，不爱教会也不爱工作。",
+            "sourceName": "vo_rosaria_dialog_idle.wem"
+        },
+        "4be597b768a661d6": {
+            "hash": "4be597b768a661d6",
+            "directory": "External9",
+            "voiceContent": "祈祷吧。不是为了神或其他任何人，而是为了自己。",
+            "sourceName": "vo_rosaria_dialog_close1.wem"
+        },
+        "bc29c5c034f2a739": {
+            "hash": "bc29c5c034f2a739",
+            "directory": "External23",
+            "voiceContent": "不要勉强，有困难可以叫我。",
+            "sourceName": "vo_rosaria_dialog_close2.wem"
+        },
+        "da48d41d987e54bb": {
+            "hash": "da48d41d987e54bb",
+            "directory": "External27",
+            "voiceContent": "那些值班修女一个比一个麻烦，不是抓人去祷告，就是叫人去唱诗班。你可别告诉她们我在这里。",
+            "sourceName": "vo_rosaria_dialog_idle2.wem"
+        },
+        "47231746458d9157": {
+            "hash": "47231746458d9157",
+            "directory": "External8",
+            "voiceContent": "神或许能庇护所有人，可他不会这样做。否则，人的苦难就成了笑话。",
+            "sourceName": "vo_rosaria_dialog_close.wem"
+        },
+        "ef84d044866ada15": {
+            "hash": "ef84d044866ada15",
+            "directory": "External29",
+            "voiceContent": "「神之眼」可以是实力的证明，也可以是幸存的勋章…谁知道呢？真正的好东西总是具有两面性。我不会定义「神之眼」。我和它只是互相见证的关系罢了。",
+            "sourceName": "vo_rosaria_dialog_pendant.wem"
+        },
+        "4551196d7d53aff6": {
+            "hash": "4551196d7d53aff6",
+            "directory": "External8",
+            "voiceContent": "要说什么是值得高兴的好事…呵，只是假设而已。如果有一天你遇到无法解决的难题，也别认为那就是人生的终点。说不定，会有人替你解决困境呢。",
+            "sourceName": "vo_rosaria_dialog_share_01.wem"
+        },
+        "9cecfa4bf35976f0": {
+            "hash": "9cecfa4bf35976f0",
+            "directory": "External19",
+            "voiceContent": "花草不属于我感兴趣的范畴。不过，蒲公英是个例外，它能酿出相当美味的蒲公英酒。休息时间来一杯，比睡懒觉还舒服。",
+            "sourceName": "vo_rosaria_pref_gift.wem"
+        },
+        "bc058b569ba62da4": {
+            "hash": "bc058b569ba62da4",
+            "directory": "External23",
+            "voiceContent": "一看就知道了吧？那位富豪老爷可不是个简单的人物。低调、自信…还有一点危险的气息。",
+            "sourceName": "vo_rosaria_teammate_diluc_01.wem"
+        },
+        "ab3d6d2cc07aea20": {
+            "hash": "ab3d6d2cc07aea20",
+            "directory": "External21",
+            "voiceContent": "人往往要到醉酒以后才会露出真面目。油嘴滑舌算是凯亚的保护色吧，呵，一目了然的伪装。你该看看他喝醉的样子。",
+            "sourceName": "vo_rosaria_teammate_kaeya_01.wem"
+        },
+        "b2bb794b46d12497": {
+            "hash": "b2bb794b46d12497",
+            "directory": "External22",
+            "voiceContent": "这个吟游诗人身上有种非常特殊的气息…我还不能确定真相，但他与别的市民似乎很不一样。",
+            "sourceName": "vo_rosaria_teammate_venti_01.wem"
+        },
+        "96d9536db20efbf2": {
+            "hash": "96d9536db20efbf2",
+            "directory": "External18",
+            "voiceContent": "我不喜欢上班偷懒的人，不过也很能理解她准点下班的心情。",
+            "sourceName": "vo_rosaria_teammate_lisa_01.wem"
+        },
+        "135051ae21d3a8f0": {
+            "hash": "135051ae21d3a8f0",
+            "directory": "External2",
+            "voiceContent": "唉，除了麻烦就是麻烦，虽然是可爱的麻烦。",
+            "sourceName": "vo_rosaria_teammate_klee_01.wem"
+        },
+        "256fd88161b3e88c": {
+            "hash": "256fd88161b3e88c",
+            "directory": "External4",
+            "voiceContent": "虽说是出于好意，但法尔伽啰嗦起来像个老头一样，相当在意身边的人呢。唉，那家伙。",
+            "sourceName": "vo_rosaria_teammate_varka_01.wem"
+        },
+        "70161eb111a3e928": {
+            "hash": "70161eb111a3e928",
+            "directory": "External14",
+            "voiceContent": "芭芭拉总是缠着我，叫我参加礼拜和唱诗班。难道维多利亚给她下了监督我工作的命令？",
+            "sourceName": "vo_rosaria_teammate_barbara_01.wem"
+        },
+        "b7998bbfcc420ef1": {
+            "hash": "b7998bbfcc420ef1",
+            "directory": "External22",
+            "voiceContent": "不仅完成本职工作，还会替他人收尾。值得钦佩的女人。",
+            "sourceName": "vo_rosaria_teammate_qin_01.wem"
+        },
+        "2f95f91a1e0ad218": {
+            "hash": "2f95f91a1e0ad218",
+            "directory": "External5",
+            "voiceContent": "他就像一副挂在古旧房屋里的油画…厚重、神秘，无法被一眼看透。我不讨厌有故事的人。",
+            "sourceName": "vo_rosaria_teammate_albedo_01.wem"
+        },
+        "66ed126abb168674": {
+            "hash": "66ed126abb168674",
+            "directory": "External12",
+            "voiceContent": "跳过寒暄吧。我来这里是为了完成工作，你解决不了的问题可以移交给我。",
+            "sourceName": "vo_rosaria_friendship_01.wem"
+        },
+        "13c9a05208d5caeb": {
+            "hash": "13c9a05208d5caeb",
+            "directory": "External2",
+            "voiceContent": "不信神的修女并不稀奇，就像世上也有不喜欢吃猪肉的猎人、讨厌鱼肉的渔民。做某一件事不代表爱它，不爱一件事也不意味着必须远离。工作就是这样的东西。",
+            "sourceName": "vo_rosaria_friendship_02.wem"
+        },
+        "65c42e59109648a2": {
+            "hash": "65c42e59109648a2",
+            "directory": "External12",
+            "voiceContent": "来一杯吗？这是今年的蒲公英酒，味道很不错。",
+            "sourceName": "vo_rosaria_friendship_03.wem"
+        },
+        "8703ec82c0c909b9": {
+            "hash": "8703ec82c0c909b9",
+            "directory": "External16",
+            "voiceContent": "蒙德是一头既古老又年轻的白色野兽，古老到需要人去保护，也年轻到无法独立生存。只有这样的地方才会需要我这样的人。我像其他修女照顾市民那样照顾着蒙德，让它在自由的道路上平稳前进。你问我为什么它是白色的？…因为像我这样的人，是黑色的。",
+            "sourceName": "vo_rosaria_friendship_04.wem"
+        },
+        "01e0928b0145c338": {
+            "hash": "01e0928b0145c338",
+            "directory": "External0",
+            "voiceContent": "我偶尔能感觉到过去每一年的自己都存在着、围绕着我…对我有所寄托。你一定也有相同的感觉，所以，哪怕如今你已走上截然不同的道路，也不要否认从前的自己。从前的每一个你，都是你脚下的基石。不要害怕过去，不要畏惧与它抗衡。",
+            "sourceName": "vo_rosaria_friendship_05.wem"
+        },
+        "9bcde3f05be018e8": {
+            "hash": "9bcde3f05be018e8",
+            "directory": "External19",
+            "voiceContent": "小酌怡情，有些烦心事只能靠酒精解决。话虽如此，我是不会醉的。",
+            "sourceName": "vo_rosaria_pref_hobby.wem"
+        },
+        "552dbfbcfdc6272d": {
+            "hash": "552dbfbcfdc6272d",
+            "directory": "External10",
+            "voiceContent": "唉…真不想参加下个月的合唱活动，可维多利亚亲自点名了…",
+            "sourceName": "vo_rosaria_dialog_annoyed.wem"
+        },
+        "6e6a85191be18413": {
+            "hash": "6e6a85191be18413",
+            "directory": "External13",
+            "voiceContent": "试过红酒炖兽肉吗？酒精和大块的动物肉出现在一个盘子里，相当有品味。",
+            "sourceName": "vo_rosaria_pref_foodLike.wem"
+        },
+        "21d8c551ed74135d": {
+            "hash": "21d8c551ed74135d",
+            "directory": "External4",
+            "voiceContent": "这个…这个土豆饼的蘸料居然是果酱？完全不合理！",
+            "sourceName": "vo_rosaria_pref_foodDislike.wem"
+        },
+        "8ed704c5137f0d2c": {
+            "hash": "8ed704c5137f0d2c",
+            "directory": "External17",
+            "voiceContent": "看来这方面，我们品味相投。",
+            "sourceName": "vo_rosaria_spice_pref_01.wem"
+        },
+        "ae939afb6cfe1406": {
+            "hash": "ae939afb6cfe1406",
+            "directory": "External21",
+            "voiceContent": "至少能填饱肚子。",
+            "sourceName": "vo_rosaria_spice_normal_01.wem"
+        },
+        "7775e04507eb2ea2": {
+            "hash": "7775e04507eb2ea2",
+            "directory": "External14",
+            "voiceContent": "你对这种食物很感兴趣吗？",
+            "sourceName": "vo_rosaria_spice_dislike_01.wem"
+        },
+        "cd1c7623c0e0a019": {
+            "hash": "cd1c7623c0e0a019",
+            "directory": "External25",
+            "voiceContent": "今天是你生日，有什么想处理的人或事吗？我可以帮个小忙，别告诉其他人就行。",
+            "sourceName": "vo_rosaria_pref_birthday.wem"
+        },
+        "a279910e0c387017": {
+            "hash": "a279910e0c387017",
+            "directory": "External20",
+            "voiceContent": "嗯，感觉不错。",
+            "sourceName": "vo_rosaria_starUp_01.wem"
+        },
+        "21e62327fa1a50b0": {
+            "hash": "21e62327fa1a50b0",
+            "directory": "External4",
+            "voiceContent": "需要帮忙吗？我现在有空。",
+            "sourceName": "vo_rosaria_starUp_02.wem"
+        },
+        "a7097d1fb99d9731": {
+            "hash": "a7097d1fb99d9731",
+            "directory": "External20",
+            "voiceContent": "也好。能力越强，效率越高。",
+            "sourceName": "vo_rosaria_starUp_03.wem"
+        },
+        "85c9bef6096ad63a": {
+            "hash": "85c9bef6096ad63a",
+            "directory": "External16",
+            "voiceContent": "哪怕是擅长战斗与杀戮的我，也从未拥有过如此强大的力量，谢谢你的祝福。",
+            "sourceName": "vo_rosaria_starUp_04.wem"
+        },
+        "a5db4b428e044beb": {
+            "hash": "a5db4b428e044beb",
+            "directory": "External20",
+            "voiceContent": "没想到…哼。",
+            "sourceName": "vo_rosaria_life_less30_01.wem"
+        },
+        "f8febd5b40450774": {
+            "hash": "f8febd5b40450774",
+            "directory": "External31",
+            "voiceContent": "得加个班了。",
+            "sourceName": "vo_rosaria_life_less30_02.wem"
+        },
+        "5246f751c485adc5": {
+            "hash": "5246f751c485adc5",
+            "directory": "External10",
+            "voiceContent": "有两下子！",
+            "sourceName": "vo_rosaria_life_less30_03.wem"
+        },
+        "28dc5f50d01d6d69": {
+            "hash": "28dc5f50d01d6d69",
+            "directory": "External5",
+            "voiceContent": "唔…到此为止了吗…",
+            "sourceName": "vo_rosaria_life_die_03.wem"
+        },
+        "4448961ea5631594": {
+            "hash": "4448961ea5631594",
+            "directory": "External8",
+            "voiceContent": "啧，真麻烦！",
+            "sourceName": "vo_rosaria_battle_hit_H_02.wem"
+        },
+        "716b2faf05f4ed1b": {
+            "hash": "716b2faf05f4ed1b",
+            "directory": "External14",
+            "voiceContent": "父亲？好遥远的词汇啊。对我而言可以说没有，也可以说有不止一个。怎么？很惊讶吗？",
+            "sourceName": "vo_rosaria_teammate_father_01.wem"
+        },
+        "a56b4a61ec45b0a8": {
+            "hash": "a56b4a61ec45b0a8",
+            "directory": "External20",
+            "voiceContent": "不过如此。",
+            "sourceName": "vo_rosaria_battle_hit_L_02.wem"
+        },
+        "c64a41c7cc54b5a6": {
+            "hash": "c64a41c7cc54b5a6",
+            "directory": "External24",
+            "voiceContent": "至少能填饱肚子。",
+            "sourceName": "vo_rosaria_spice_event_normal_01.wem"
+        },
+        "4d327aa146556942": {
+            "hash": "4d327aa146556942",
+            "directory": "External9",
+            "voiceContent": "你对这种食物很感兴趣吗？",
+            "sourceName": "vo_rosaria_spice_event_dislike_01.wem"
+        },
+        "5747bfad2d1308cc": {
+            "hash": "5747bfad2d1308cc",
+            "directory": "External10",
+            "voiceContent": "看来这方面，我们品味相投。",
+            "sourceName": "vo_rosaria_spice_event_pref_01.wem"
+        },
+        "50db0eb798abe521": {
+            "hash": "50db0eb798abe521",
+            "directory": "External10",
+            "voiceContent": "别让我加班啊…",
+            "sourceName": "vo_card_rosaria_inGame_hard_04.wem"
+        },
+        "3301908deb5cba6a": {
+            "hash": "3301908deb5cba6a",
+            "directory": "External6",
+            "voiceContent": "出了个大岔子…",
+            "sourceName": "vo_card_rosaria_inGame_hard_03.wem"
+        },
+        "b488c285a7cf0473": {
+            "hash": "b488c285a7cf0473",
+            "directory": "External22",
+            "voiceContent": "一点也不顺利…",
+            "sourceName": "vo_card_rosaria_inGame_hard_02.wem"
+        },
+        "ffcda1a728f94c7e": {
+            "hash": "ffcda1a728f94c7e",
+            "directory": "External31",
+            "voiceContent": "快点结束吧。",
+            "sourceName": "vo_card_rosaria_inGame_easy_04.wem"
+        },
+        "bdb6637d66afa473": {
+            "hash": "bdb6637d66afa473",
+            "directory": "External23",
+            "voiceContent": "嗯…还行。",
+            "sourceName": "vo_card_rosaria_inGame_easy_01.wem"
+        },
+        "f576149dbf96ae5c": {
+            "hash": "f576149dbf96ae5c",
+            "directory": "External30",
+            "voiceContent": "还算顺利。",
+            "sourceName": "vo_card_rosaria_inGame_hard_01.wem"
+        },
+        "fea3b5957e774e5c": {
+            "hash": "fea3b5957e774e5c",
+            "directory": "External31",
+            "voiceContent": "嘁…",
+            "sourceName": "vo_card_rosaria_inGame_easy_02.wem"
+        },
+        "6a21cf8c9d3099ed": {
+            "hash": "6a21cf8c9d3099ed",
+            "directory": "External13",
+            "voiceContent": "麻烦…",
+            "sourceName": "vo_card_rosaria_inGame_easy_03.wem"
+        }
+    }
+}

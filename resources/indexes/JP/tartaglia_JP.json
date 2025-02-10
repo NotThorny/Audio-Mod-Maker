@@ -1,0 +1,902 @@
+{
+    "Teapot": {
+        "1cffbca2ffb22eae": {
+            "hash": "1cffbca2ffb22eae",
+            "directory": "External3",
+            "voiceContent": "せっかくだから地元の名物料理が食べたいな。相棒～店選びは任せるよ！",
+            "sourceName": "vo_mimiTomo_ly_tartaglia_restaurant_03.wem"
+        },
+        "4fb9e7b1e22bc1af": {
+            "hash": "4fb9e7b1e22bc1af",
+            "directory": "External9",
+            "voiceContent": "キッチン？ちょうどいい、俺の腕を披露してあげよう。こう見えても、昔は結構料理を作ってたんだ。",
+            "sourceName": "vo_mimiTomo_ly_tartaglia_kitchen_01.wem"
+        },
+        "c96c30b23634e4d0": {
+            "hash": "c96c30b23634e4d0",
+            "directory": "External25",
+            "voiceContent": "この香ばしい香り、気分も晴れやかになるよ。",
+            "sourceName": "vo_mimiTomo_ly_tartaglia_restaurant_01.wem"
+        },
+        "3adab3c2eef4b329": {
+            "hash": "3adab3c2eef4b329",
+            "directory": "External7",
+            "voiceContent": "俺の挑戦を受ける勇気…君にはあるかな？",
+            "sourceName": "vo_mimiTomo_ly_tartaglia_kitchen_03.wem"
+        },
+        "9ebd1e9abc5259b7": {
+            "hash": "9ebd1e9abc5259b7",
+            "directory": "External19",
+            "voiceContent": "以前「琉璃亭」や「新月軒」の料理を食べたけど、高級な所だけでは、異国の美食を堪能したとは言えない。",
+            "sourceName": "vo_mimiTomo_ly_tartaglia_restaurant_02.wem"
+        },
+        "e52f99cc6dc6aee8": {
+            "hash": "e52f99cc6dc6aee8",
+            "directory": "External28",
+            "voiceContent": "食べ物には武器と同等の価値があるからね。相手が作った料理を食べるのも、戦いの一種と言える。",
+            "sourceName": "vo_mimiTomo_ly_tartaglia_kitchen_02.wem"
+        },
+        "a74cfb2abf026f8f": {
+            "hash": "a74cfb2abf026f8f",
+            "directory": "External20",
+            "voiceContent": "俺の故郷の風景を君に見せてあげたい。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship3_02.wem"
+        },
+        "0aa4f77e31808bb1": {
+            "hash": "0aa4f77e31808bb1",
+            "directory": "External1",
+            "voiceContent": "よし、じゃあ約束だ！",
+            "sourceName": "vo_tartaglia_mimitomo_friendship3_08.wem"
+        },
+        "f6877b09db499f7b": {
+            "hash": "f6877b09db499f7b",
+            "directory": "External30",
+            "voiceContent": "あっ、そうだ！故郷の特産物を使って本場のボルシチを作ってあげよう！",
+            "sourceName": "vo_tartaglia_mimitomo_friendship3_06.wem"
+        },
+        "85819d8671fd4530": {
+            "hash": "85819d8671fd4530",
+            "directory": "External16",
+            "voiceContent": "あははっ、まずは…家族に言っておかないと。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship3_09.wem"
+        },
+        "e8052d42d69e0748": {
+            "hash": "e8052d42d69e0748",
+            "directory": "External29",
+            "voiceContent": "そうだな…もし君に数週間の暇ができたら…",
+            "sourceName": "vo_tartaglia_mimitomo_friendship3_01.wem"
+        },
+        "d9d7ebc3897df3ea": {
+            "hash": "d9d7ebc3897df3ea",
+            "directory": "External27",
+            "voiceContent": "俺からの誘いを受け入れてくれるかな？",
+            "sourceName": "vo_tartaglia_mimitomo_friendship2_08.wem"
+        },
+        "a659e71914af7015": {
+            "hash": "a659e71914af7015",
+            "directory": "External20",
+            "voiceContent": "大規模な氷の彫刻を作る人もいるんだ…",
+            "sourceName": "vo_tartaglia_mimitomo_friendship3_04.wem"
+        },
+        "35fda8b3b7263fa1": {
+            "hash": "35fda8b3b7263fa1",
+            "directory": "External6",
+            "voiceContent": "美しく、静かで…温かみのある…",
+            "sourceName": "vo_tartaglia_mimitomo_friendship1_02.wem"
+        },
+        "e6faed78e37b0e6b": {
+            "hash": "e6faed78e37b0e6b",
+            "directory": "External28",
+            "voiceContent": "ああ、もちろんいいよ。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship2_01.wem"
+        },
+        "dbc29aab889306fe": {
+            "hash": "dbc29aab889306fe",
+            "directory": "External27",
+            "voiceContent": "ああ、ここは住むのに最適だ。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship1_01.wem"
+        },
+        "9366998819fc7045": {
+            "hash": "9366998819fc7045",
+            "directory": "External18",
+            "voiceContent": "大雪の中で「炎水」を飲みながら会話できる二人は、共に戦場に立てるほど仲のいい関係を築けているということなんだ。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship2_03.wem"
+        },
+        "09532989e100d1a9": {
+            "hash": "09532989e100d1a9",
+            "directory": "External1",
+            "voiceContent": "もう寝る時間か…",
+            "sourceName": "vo_tartaglia_mimitomo_night_01.wem"
+        },
+        "e9f10ba0cf2207d6": {
+            "hash": "e9f10ba0cf2207d6",
+            "directory": "External29",
+            "voiceContent": "今、俺はこうして君と自由気ままに話せている。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship2_04.wem"
+        },
+        "5a3539a99b6e4d39": {
+            "hash": "5a3539a99b6e4d39",
+            "directory": "External11",
+            "voiceContent": "世界征服という道のりに君という相棒がいたら、俺たちは間違いなく最強のコンビになれる。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship2_07.wem"
+        },
+        "99ab5c81c6495ef3": {
+            "hash": "99ab5c81c6495ef3",
+            "directory": "External19",
+            "voiceContent": "あっははは、悪い、そういう意味じゃないんだ。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship1_04.wem"
+        },
+        "18242a8a09d714ea": {
+            "hash": "18242a8a09d714ea",
+            "directory": "External3",
+            "voiceContent": "ただ、君が一緒にいてくれたら、トーニャたちもきっと喜ぶと思ってね。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship1_05.wem"
+        },
+        "80ff22c3332a3555": {
+            "hash": "80ff22c3332a3555",
+            "directory": "External16",
+            "voiceContent": "俺も…そろそろ体を動かしたいからね。",
+            "sourceName": "vo_tartaglia_mimitomo_morning_03.wem"
+        },
+        "d492b6b3fca78cbb": {
+            "hash": "d492b6b3fca78cbb",
+            "directory": "External26",
+            "voiceContent": "おはよう、相棒。",
+            "sourceName": "vo_tartaglia_mimitomo_morning_01.wem"
+        },
+        "1969d545a8ea78ea": {
+            "hash": "1969d545a8ea78ea",
+            "directory": "External3",
+            "voiceContent": "もうすでに手紙を読む時のあいつらの笑顔が目に浮かぶよ。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship3_10.wem"
+        },
+        "ff0ae8cb765b0bc4": {
+            "hash": "ff0ae8cb765b0bc4",
+            "directory": "External31",
+            "voiceContent": "君ですら手を焼くような相手がいたら、迷わず俺を呼んでくれ。",
+            "sourceName": "vo_tartaglia_mimitomo_morning_02.wem"
+        },
+        "97c06d99c733debf": {
+            "hash": "97c06d99c733debf",
+            "directory": "External18",
+            "voiceContent": "戦場に立った時は、君に背中を任せてもいいと思ってるんだ。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship2_05.wem"
+        },
+        "1e325d78d437e02f": {
+            "hash": "1e325d78d437e02f",
+            "directory": "External3",
+            "voiceContent": "次また君に会えるのは…いつになるだろうね。",
+            "sourceName": "vo_tartaglia_mimitomo_night_03.wem"
+        },
+        "8b954ebac1f95220": {
+            "hash": "8b954ebac1f95220",
+            "directory": "External17",
+            "voiceContent": "トーニャ、アントン、それにテウセルを連れてきて一緒に住みたいくらいだ…",
+            "sourceName": "vo_tartaglia_mimitomo_friendship1_03.wem"
+        },
+        "cf6d18a151be3a9c": {
+            "hash": "cf6d18a151be3a9c",
+            "directory": "External25",
+            "voiceContent": "俺はまた強くなったよ、試してみるかい？",
+            "sourceName": "vo_tartaglia_mimitomo_hello_02.wem"
+        },
+        "3a1e5f9195bbc9f4": {
+            "hash": "3a1e5f9195bbc9f4",
+            "directory": "External7",
+            "voiceContent": "スネージナヤには、「炎水」という強い酒がある。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship2_02.wem"
+        },
+        "749409121e7bc932": {
+            "hash": "749409121e7bc932",
+            "directory": "External14",
+            "voiceContent": "それと氷釣りもできる！ここの池の魚よりも遥かにデカいのが釣れるよ。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship3_07.wem"
+        },
+        "2100ad2154fed084": {
+            "hash": "2100ad2154fed084",
+            "directory": "External4",
+            "voiceContent": "もし雪合戦が好きなら、君と一緒のチームになってもいいよ。もちろん弟や妹たちも一緒にね。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship3_05.wem"
+        },
+        "3e513298735aaf2d": {
+            "hash": "3e513298735aaf2d",
+            "directory": "External7",
+            "voiceContent": "ははっ…冗談さ。ここに来たってことは、何か話したいことでもあるのかな。",
+            "sourceName": "vo_tartaglia_mimitomo_hello_03.wem"
+        },
+        "f8357beb4127693f": {
+            "hash": "f8357beb4127693f",
+            "directory": "External31",
+            "voiceContent": "君のことを信頼してるんだ。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship2_06a.wem"
+        },
+        "3586ee0355de9138": {
+            "hash": "3586ee0355de9138",
+            "directory": "External6",
+            "voiceContent": "自分の実力に自信がなさすぎだよ。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship2_06b.wem"
+        },
+        "258f9933026244a6": {
+            "hash": "258f9933026244a6",
+            "directory": "External4",
+            "voiceContent": "天を舞う雪に、踏んでも砕けない氷の湖面。",
+            "sourceName": "vo_tartaglia_mimitomo_friendship3_03.wem"
+        }
+    },
+    "Quests": {
+        "6fc735747b13bab6": {
+            "hash": "6fc735747b13bab6",
+            "directory": "External13",
+            "voiceContent": "当たると羊になる「魔女ビーム」だ、気を付けるんだぞ！",
+            "sourceName": "vo_GZLQ003_4_tartaglia_08.wem"
+        },
+        "9107b39e2b47c24d": {
+            "hash": "9107b39e2b47c24d",
+            "directory": "External18",
+            "voiceContent": "テウセルのところだったらまずい、なんとか止めよう。",
+            "sourceName": "vo_GZLQ003_4_tartaglia_07.wem"
+        },
+        "474082f165860d25": {
+            "hash": "474082f165860d25",
+            "directory": "External8",
+            "voiceContent": "どちらにせよ、俺が手を下す前に「神の心」を渡してもらおうか。",
+            "sourceName": "vo_LYAQ204_5_tartaglia_03.wem"
+        },
+        "82b430675985b4cd": {
+            "hash": "82b430675985b4cd",
+            "directory": "External16",
+            "voiceContent": "せっかくのチャンスだ、実力を見せてくれ。",
+            "sourceName": "vo_LYAQ204_3_tartaglia_01.wem"
+        },
+        "c4cbb6911bcfd680": {
+            "hash": "c4cbb6911bcfd680",
+            "directory": "External24",
+            "voiceContent": "へぇー、これほどの実力、道理で「淑女」が君を警戒するわけだ。",
+            "sourceName": "vo_LYAQ204_3_tartaglia_04.wem"
+        },
+        "c03b827f6e6a35de": {
+            "hash": "c03b827f6e6a35de",
+            "directory": "External24",
+            "voiceContent": "執行官の力を前に、君がどこまでやれるか見せてくれ！",
+            "sourceName": "vo_LYAQ204_3_tartaglia_06.wem"
+        },
+        "fc9d125defae43ca": {
+            "hash": "fc9d125defae43ca",
+            "directory": "External31",
+            "voiceContent": "ファデュイの「執行官」と戦えるなんて、滅多にないぞ。",
+            "sourceName": "vo_LYAQ204_3_tartaglia_02.wem"
+        },
+        "1ddd90879fe24a81": {
+            "hash": "1ddd90879fe24a81",
+            "directory": "External3",
+            "voiceContent": "俺も本気を出させてもらうよ！俺の「本気」は、君にとって少し乱暴かもしれないけど…",
+            "sourceName": "vo_LYAQ204_3_tartaglia_05.wem"
+        },
+        "7e244455ac208dd3": {
+            "hash": "7e244455ac208dd3",
+            "directory": "External15",
+            "voiceContent": "せいぜい、失望させないでくれよ？",
+            "sourceName": "vo_LYAQ204_3_tartaglia_03.wem"
+        }
+    },
+    "Gameplay": {
+        "32305085d3926eb7": {
+            "hash": "32305085d3926eb7",
+            "directory": "External6",
+            "voiceContent": "行くぞ！",
+            "sourceName": "vo_tartaglia_battle_skill1_01.wem"
+        },
+        "5cdf629d4d74f9d0": {
+            "hash": "5cdf629d4d74f9d0",
+            "directory": "External11",
+            "voiceContent": "ハーッ！",
+            "sourceName": "vo_tartaglia_battle_skill1_02.wem"
+        },
+        "de9cbc950a151751": {
+            "hash": "de9cbc950a151751",
+            "directory": "External27",
+            "voiceContent": "狂瀾怒濤！",
+            "sourceName": "vo_tartaglia_battle_skill1_03.wem"
+        },
+        "c0c2fe6b5cc57f5a": {
+            "hash": "c0c2fe6b5cc57f5a",
+            "directory": "External24",
+            "voiceContent": "来い！",
+            "sourceName": "vo_tartaglia_battle_skill1_04.wem"
+        },
+        "6e5bb06454a89ba3": {
+            "hash": "6e5bb06454a89ba3",
+            "directory": "External13",
+            "voiceContent": "さーて。",
+            "sourceName": "vo_tartaglia_battle_skill1_05.wem"
+        },
+        "abe3027c698d1c8c": {
+            "hash": "abe3027c698d1c8c",
+            "directory": "External21",
+            "voiceContent": "ふう——",
+            "sourceName": "vo_tartaglia_battle_skill1_06.wem"
+        },
+        "dc206c87eb0d9d55": {
+            "hash": "dc206c87eb0d9d55",
+            "directory": "External27",
+            "voiceContent": "止水の矢！",
+            "sourceName": "vo_tartaglia_battle_skill3_01.wem"
+        },
+        "aa5a8e80f4d9f672": {
+            "hash": "aa5a8e80f4d9f672",
+            "directory": "External21",
+            "voiceContent": "逃げられるかな！",
+            "sourceName": "vo_tartaglia_battle_skill3_02.wem"
+        },
+        "2fb40078b48af4bb": {
+            "hash": "2fb40078b48af4bb",
+            "directory": "External5",
+            "voiceContent": "隙を見せるのは、ほんの一瞬だ！",
+            "sourceName": "vo_tartaglia_battle_skill3_03.wem"
+        },
+        "1dcab2b1acfa8088": {
+            "hash": "1dcab2b1acfa8088",
+            "directory": "External3",
+            "voiceContent": "痛いから我慢しろよ。",
+            "sourceName": "vo_tartaglia_battle_skill3_04.wem"
+        },
+        "18b3ce0c8ca218fc": {
+            "hash": "18b3ce0c8ca218fc",
+            "directory": "External3",
+            "voiceContent": "よし！もっとお宝を見つけに行こう！",
+            "sourceName": "vo_tartaglia_chest_open_01.wem"
+        },
+        "8307fbf200d96593": {
+            "hash": "8307fbf200d96593",
+            "directory": "External16",
+            "voiceContent": "ああ、最高だ！",
+            "sourceName": "vo_tartaglia_chest_open_02.wem"
+        },
+        "fe1bc9fa4185a58a": {
+            "hash": "fe1bc9fa4185a58a",
+            "directory": "External31",
+            "voiceContent": "あはは、ワクワクするね！",
+            "sourceName": "vo_tartaglia_chest_open_03.wem"
+        },
+        "802c58aad41b4f0c": {
+            "hash": "802c58aad41b4f0c",
+            "directory": "External16",
+            "voiceContent": "君たち、最近運動不足なんじゃないか？",
+            "sourceName": "vo_tartaglia_life_less30_teammate_01.wem"
+        },
+        "42a50692bf36ce23": {
+            "hash": "42a50692bf36ce23",
+            "directory": "External8",
+            "voiceContent": "退け！ここは俺がやる！",
+            "sourceName": "vo_tartaglia_life_less30_teammate_02.wem"
+        },
+        "1fc13ca52b763a79": {
+            "hash": "1fc13ca52b763a79",
+            "directory": "External3",
+            "voiceContent": "そんな馬鹿な…せっかく手に入れたのに…",
+            "sourceName": "vo_tartaglia_life_die_01.wem"
+        },
+        "af7d0e9c5f29f416": {
+            "hash": "af7d0e9c5f29f416",
+            "directory": "External21",
+            "voiceContent": "やっちまった…",
+            "sourceName": "vo_tartaglia_life_die_02.wem"
+        },
+        "9a42cd78db21ed77": {
+            "hash": "9a42cd78db21ed77",
+            "directory": "External19",
+            "voiceContent": "あはっ、強いやつはどこかな？",
+            "sourceName": "vo_tartaglia_teamJoin_01.wem"
+        },
+        "c4f0df905502c490": {
+            "hash": "c4f0df905502c490",
+            "directory": "External24",
+            "voiceContent": "しっかり見ててくれよな！",
+            "sourceName": "vo_tartaglia_teamJoin_02.wem"
+        },
+        "46ae398811a2e211": {
+            "hash": "46ae398811a2e211",
+            "directory": "External8",
+            "voiceContent": "待ちくたびれてたところだ！",
+            "sourceName": "vo_tartaglia_teamJoin_03.wem"
+        },
+        "4f85231ecbeb1d68": {
+            "hash": "4f85231ecbeb1d68",
+            "directory": "External9",
+            "voiceContent": "俺はファデュイ執行官第十一位、「公子」タルタリヤだ。そして君は——争いを招く者だね、実に愉快だ。きっと相性がいいと思うよ。",
+            "sourceName": "vo_tartaglia_draw_appear.wem"
+        },
+        "c9c075a8e5362e62": {
+            "hash": "c9c075a8e5362e62",
+            "directory": "External25",
+            "voiceContent": "ここに立ってても、相手はやってこないよ。",
+            "sourceName": "vo_tartaglia_explore_idle_01.wem"
+        },
+        "243293b113f8c485": {
+            "hash": "243293b113f8c485",
+            "directory": "External4",
+            "voiceContent": "んーー、この辺りに戦い甲斐のある強敵はいないんだろうか？",
+            "sourceName": "vo_tartaglia_explore_idle_02.wem"
+        },
+        "caea59ba8fb81e34": {
+            "hash": "caea59ba8fb81e34",
+            "directory": "External25",
+            "voiceContent": "他の執行官たちは何してるんだろうね。まあ、どうせ訳の分からない「壮大な計画」とやらを進めてるんだろうけど。",
+            "sourceName": "vo_tartaglia_explore_idle_03.wem"
+        },
+        "252567c2be4b57ff": {
+            "hash": "252567c2be4b57ff",
+            "directory": "External4",
+            "voiceContent": "俺の故郷の雪原でこんな風に立ってたら凍死してしまうよ、ハハハッ。",
+            "sourceName": "vo_tartaglia_explore_idle_04.wem"
+        },
+        "6b8cf7b46e09ecb5": {
+            "hash": "6b8cf7b46e09ecb5",
+            "directory": "External13",
+            "voiceContent": "雨が水面を打つ音は魚を驚かしてしまう。それに比べ、雨上がりは釣りをするのに絶好の時間だ。",
+            "sourceName": "vo_tartaglia_weather_afterRain_01.wem"
+        },
+        "7fdd78a3e3afb7f7": {
+            "hash": "7fdd78a3e3afb7f7",
+            "directory": "External15",
+            "voiceContent": "ハハッ、故郷の方でも今は雪が降っているのかな？",
+            "sourceName": "vo_tartaglia_weather_snowy_01.wem"
+        },
+        "e70673aa009e2016": {
+            "hash": "e70673aa009e2016",
+            "directory": "External28",
+            "voiceContent": "清々しい風だ！",
+            "sourceName": "vo_tartaglia_weather_gale_01.wem"
+        },
+        "aa8b8abb5d908f10": {
+            "hash": "aa8b8abb5d908f10",
+            "directory": "External21",
+            "voiceContent": "素晴らしい雪だね！天地が月光のように綺麗だ。こんな舞台で流れる鮮血はより際立つだろうね。",
+            "sourceName": "vo_tartaglia_weather_snowy_02.wem"
+        },
+        "4d6203e7cf377f92": {
+            "hash": "4d6203e7cf377f92",
+            "directory": "External9",
+            "voiceContent": "ほう、風から争いの気配を感じる。",
+            "sourceName": "vo_tartaglia_weather_breezy_01.wem"
+        },
+        "7b4703c00d52e5da": {
+            "hash": "7b4703c00d52e5da",
+            "directory": "External15",
+            "voiceContent": "やあ、相棒！今日は元気そうだね。",
+            "sourceName": "vo_tartaglia_dialog_greetingMorning.wem"
+        },
+        "93f562594b050676": {
+            "hash": "93f562594b050676",
+            "directory": "External18",
+            "voiceContent": "調子よさそうだ、俺と手合わせしてみるか？",
+            "sourceName": "vo_tartaglia_dialog_greetingNoon.wem"
+        },
+        "dfbc8374ded85480": {
+            "hash": "dfbc8374ded85480",
+            "directory": "External27",
+            "voiceContent": "ぷはーーッ、食った食った。体を動かしてこよう。",
+            "sourceName": "vo_tartaglia_dialog_greetingNight.wem"
+        },
+        "77babc74b7658940": {
+            "hash": "77babc74b7658940",
+            "directory": "External14",
+            "voiceContent": "楽しい一日だった。また明日だ、相棒！",
+            "sourceName": "vo_tartaglia_dialog_greetingNight2.wem"
+        },
+        "c40dbeb4f765e697": {
+            "hash": "c40dbeb4f765e697",
+            "directory": "External24",
+            "voiceContent": "戦士たる者、常に挑む心を刃の先に留めなければならない。勝とうが負けようが、それによりかけがえのない貴重な経験を得られるんだ。",
+            "sourceName": "vo_tartaglia_dialog_idle.wem"
+        },
+        "452b1822a2974cc7": {
+            "hash": "452b1822a2974cc7",
+            "directory": "External8",
+            "voiceContent": "神の目を持たない君がこれほどの力を持つとは、実に楽しみだ…君が自身の限界に達する前に、すべてを捨てて俺と命を賭けた戦いをしよう、それまで絶対に倒れるなよ！死ぬなんてもってのほかだからね。",
+            "sourceName": "vo_tartaglia_dialog_close2.wem"
+        },
+        "ef7ff62c21693a3e": {
+            "hash": "ef7ff62c21693a3e",
+            "directory": "External29",
+            "voiceContent": "相棒、ファデュイに入ってみないか？…いや、やっぱ今のはなし。今の君の立場だからこそ、一緒にいる俺に他の執行官と殺し合う理由ができるんだから。こんなチャンス、そう易々と捨てられるわけがないよね。",
+            "sourceName": "vo_tartaglia_dialog_close3.wem"
+        },
+        "91c41bd82268c46d": {
+            "hash": "91c41bd82268c46d",
+            "directory": "External18",
+            "voiceContent": "君と同行してることは、他の執行官の間でとうに広まってるだろうね。あいつらの顔を見てみたいもんだよ、ハハハッ。",
+            "sourceName": "vo_tartaglia_dialog_close.wem"
+        },
+        "9bebaa3b57eaaa60": {
+            "hash": "9bebaa3b57eaaa60",
+            "directory": "External19",
+            "voiceContent": "実は弓が一番苦手な武器なんだ。だからこそ、使ってるよ。手強い相手ほど、征服し甲斐がある。",
+            "sourceName": "vo_tartaglia_dialog_close1.wem"
+        },
+        "347560cb0df5e7f7": {
+            "hash": "347560cb0df5e7f7",
+            "directory": "External6",
+            "voiceContent": "ハハッ、強くなれるなら、「神の目」でも「邪眼」でも、アビスの罪人から学ぶことさえも厭わないさ…",
+            "sourceName": "vo_tartaglia_dialog_pendant.wem"
+        },
+        "c96fde5bd2060ab4": {
+            "hash": "c96fde5bd2060ab4",
+            "directory": "External25",
+            "voiceContent": "果てしない雪原では、命はいつだって骨を砕くような一面の純白と隣り合わせで、足跡さえもそこには残せない。そう、俺たちは毎日見えない敵と戦っていたんだ。",
+            "sourceName": "vo_tartaglia_dialog_share.wem"
+        },
+        "15d030b3f7d663de": {
+            "hash": "15d030b3f7d663de",
+            "directory": "External2",
+            "voiceContent": "かつて俺は世界の深淵で巨大な魔獣とにらみ合った。いつの日か、あの骨さえも凍るような強大な怪物を正々堂々と倒してみせる。その時は、君に見届けてほしいんだ、相棒！",
+            "sourceName": "vo_tartaglia_pref_gift.wem"
+        },
+        "5f49a7039485ad4a": {
+            "hash": "5f49a7039485ad4a",
+            "directory": "External11",
+            "voiceContent": "ファルカかい？いつか西風騎士団の頂点、伝説の「北風騎士」と戦えると思うと、興奮して震えてしまうよ。生きるって素晴らしいね。",
+            "sourceName": "vo_tartaglia_teammate_varka_01.wem"
+        },
+        "12a1d06df7a9bc91": {
+            "hash": "12a1d06df7a9bc91",
+            "directory": "External2",
+            "voiceContent": "もう何年師匠に会ってないんだろうな。次に彼女と手合わせする時は、少なくとも両手を使わせてやりたいよ。",
+            "sourceName": "vo_tartaglia_teammate_skirk_01.wem"
+        },
+        "b22b3914f49ca3a0": {
+            "hash": "b22b3914f49ca3a0",
+            "directory": "External22",
+            "voiceContent": "あいつは只者じゃないね、真の実力はどんなものだろうか…期待してしまうよ。",
+            "sourceName": "vo_tartaglia_teammate_zhongli_01.wem"
+        },
+        "3275316fdaea8228": {
+            "hash": "3275316fdaea8228",
+            "directory": "External6",
+            "voiceContent": "昔、戦場で彼の戦いを見たことがある。その姿はあまりに勇猛なものだったよ。ただ俺の席は後ろすぎる、たぶん彼は俺のことに気付いていなかっただろう。けど、たとえ今日見向きされなくても、明日こそは、俺の実力を彼に見せてやりたい。",
+            "sourceName": "vo_tartaglia_teammate_capitano_01.wem"
+        },
+        "fa35591fadfc1aa0": {
+            "hash": "fa35591fadfc1aa0",
+            "directory": "External31",
+            "voiceContent": "彼は年齢別に自分の義体を作って、様々な任務を担当させているらしい。しょうがないさ、俺の同僚はみんな変わり者ばかりだからね。でも、逆に考えよう、仮に俺が自分の義体と出会ったら…ハハッ、きっと生き残るほうを決めるために、そいつと戦うことになるよね。",
+            "sourceName": "vo_tartaglia_teammate_dottore_01.wem"
+        },
+        "096550d27e064c93": {
+            "hash": "096550d27e064c93",
+            "directory": "External1",
+            "voiceContent": "ファトゥスの席は実力によって決まる。けど、なんであの子が「第三位」にいるのかはよく分からないんだ。もし機会があったら、俺より前にいる執行官たちと一度戦ってみたいね。ただ、どうしてか彼女とはあまり戦う気が起きないんだ…とにかく、君も気を付けたほうがいい。",
+            "sourceName": "vo_tartaglia_teammate_columbina_01.wem"
+        },
+        "5b6aa6fc3f494607": {
+            "hash": "5b6aa6fc3f494607",
+            "directory": "External11",
+            "voiceContent": "鍾離先生は最近どうしてる？うん…順調？どうやら「凡人」の生活にも慣れ始めたみたいだね。はぁ…いろいろあったけど、鍾離先生とも一回戦って見たいものだな。何…俺は勝てない？ハハッ…",
+            "sourceName": "vo_tartaglia_teammate_zhongli_02.wem"
+        },
+        "1568d9f1914cd759": {
+            "hash": "1568d9f1914cd759",
+            "directory": "External2",
+            "voiceContent": "女皇様は実に優しい人だよ。優しすぎるからこそ、冷酷にならなければならない。平和を夢見ているからこそ、世界に宣戦布告した。それに、彼女が世界の敵になったからこそ、俺たちは出会えたのさ。",
+            "sourceName": "vo_tartaglia_teammate_barnabas_01.wem"
+        },
+        "be8f90c28ce387b0": {
+            "hash": "be8f90c28ce387b0",
+            "directory": "External23",
+            "voiceContent": "彼はファデュイ最初の執行官で、今の執行官たちのリーダーでもある。ただ、重要な場面でしか姿を見せないんだ。彼の功績については…正直、興味がない。俺が忠誠を誓うのは女皇様だからね。",
+            "sourceName": "vo_tartaglia_teammate_pierro_01.wem"
+        },
+        "b0274e13e8df612a": {
+            "hash": "b0274e13e8df612a",
+            "directory": "External22",
+            "voiceContent": "覚えておいてくれ、相棒、俺こそがいつか世界を征服する者だ。",
+            "sourceName": "vo_tartaglia_friendship_01.wem"
+        },
+        "e180ec1adeb77cad": {
+            "hash": "e180ec1adeb77cad",
+            "directory": "External28",
+            "voiceContent": "戦う相手が神でもアビスの魔獣でも、形さえあれば勝てる可能性がある。けど執行官の中には、権謀術数や陰謀とか…「見えない手段」に熱心な輩がいる。俺はそういったつまらないヤツらは性に合わないんだよ。",
+            "sourceName": "vo_tartaglia_friendship_02.wem"
+        },
+        "729cd223bd1b081c": {
+            "hash": "729cd223bd1b081c",
+            "directory": "External14",
+            "voiceContent": "ここの空と故郷の空は繋がっている。顔を上げて雪のような月光を見ると、故郷の人々も同じ月を見ているのかと思いを馳せてしまう。弟や妹は…優れた戦士になれているだろうか？",
+            "sourceName": "vo_tartaglia_friendship_03.wem"
+        },
+        "ccd7e02bebae41c7": {
+            "hash": "ccd7e02bebae41c7",
+            "directory": "External25",
+            "voiceContent": "相棒、これだけは忘れるなよ。殺し合う時、「燃えてきた」なんて馬鹿な言葉で自分を奮い立たせるな。燃え尽きれば、灰以外何も残らない。何があっても、生き抜くんだ。",
+            "sourceName": "vo_tartaglia_friendship_04.wem"
+        },
+        "772cbe356a802f3e": {
+            "hash": "772cbe356a802f3e",
+            "directory": "External14",
+            "voiceContent": "時間が経つのは早いものだ。いつか君に、俺が世界を征服して、神の王座を踏みつける姿を見せてあげるよ。それまで、絶対に倒れるなよ、相棒！",
+            "sourceName": "vo_tartaglia_friendship_05.wem"
+        },
+        "1968ce1b7c768486": {
+            "hash": "1968ce1b7c768486",
+            "directory": "External3",
+            "voiceContent": "氷上の穴釣りと決闘には通ずるものがある、その心は我慢強さと決断だよ。そういえば、これは人生においてあらゆる局面で使えると思わないかい？",
+            "sourceName": "vo_tartaglia_pref_hobby.wem"
+        },
+        "2700dc64723430ab": {
+            "hash": "2700dc64723430ab",
+            "directory": "External4",
+            "voiceContent": "ん？悩み…君と一緒にいると、いつも挑戦し甲斐のある強敵に出会えるから、悩みなんてつまらないことを考える暇もないよ。",
+            "sourceName": "vo_tartaglia_dialog_annoyed.wem"
+        },
+        "2434cd934da24cf9": {
+            "hash": "2434cd934da24cf9",
+            "directory": "External4",
+            "voiceContent": "この世界は美味しい料理と心躍る戦闘に満ち溢れている。生きるって素晴らしい！",
+            "sourceName": "vo_tartaglia_pref_foodLike.wem"
+        },
+        "8fe219e20f9c591b": {
+            "hash": "8fe219e20f9c591b",
+            "directory": "External17",
+            "voiceContent": "食べ物と武器は同じだ。真の戦士は武器の好き嫌いがないし、食べ物の好き嫌いもない。君も好き嫌いするなよ。",
+            "sourceName": "vo_tartaglia_pref_foodDislike.wem"
+        },
+        "3777a15b75294636": {
+            "hash": "3777a15b75294636",
+            "directory": "External6",
+            "voiceContent": "美味しいものを食べると、気分まで晴れやかになるね。…さて、君にどうお返ししたらいいかな？",
+            "sourceName": "vo_tartaglia_spice_pref_01.wem"
+        },
+        "238044913dfa785c": {
+            "hash": "238044913dfa785c",
+            "directory": "External4",
+            "voiceContent": "料理の腕がだいぶ上がったようだね。腕っぷしも強くなってるのかな？",
+            "sourceName": "vo_tartaglia_spice_normal_01.wem"
+        },
+        "7c9f1243ff3bf190": {
+            "hash": "7c9f1243ff3bf190",
+            "directory": "External15",
+            "voiceContent": "想像をしてなかった口当たりだけど。うん…もう少し食べてみよう。",
+            "sourceName": "vo_tartaglia_spice_dislike_01.wem"
+        },
+        "577df1f2d3c212b7": {
+            "hash": "577df1f2d3c212b7",
+            "directory": "External10",
+            "voiceContent": "やあ、相棒、誕生日おめでとう！むちゃくちゃ殴りたい相手とかいる？いたら遠慮なく俺に言ってくれ！",
+            "sourceName": "vo_tartaglia_pref_birthday.wem"
+        },
+        "73aea7a6cc595095": {
+            "hash": "73aea7a6cc595095",
+            "directory": "External14",
+            "voiceContent": "おっ！少し強くなったみたいだ。誰で試してみようかな…",
+            "sourceName": "vo_tartaglia_starUp_01.wem"
+        },
+        "41e8c99fd625a9b2": {
+            "hash": "41e8c99fd625a9b2",
+            "directory": "External8",
+            "voiceContent": "「戦士の力は円のようだ。その円が大きいほど、戦える相手が多い。」これって誰の言葉だったっけ…",
+            "sourceName": "vo_tartaglia_starUp_02.wem"
+        },
+        "c3dc3b9792f37ffb": {
+            "hash": "c3dc3b9792f37ffb",
+            "directory": "External24",
+            "voiceContent": "悪くない！相棒、君のおかげでまた「世界征服」という目標に一歩近づいた。きっと女皇様も、俺がここまで成長することを予想してなかっただろうね。",
+            "sourceName": "vo_tartaglia_starUp_03.wem"
+        },
+        "b559edd08e47e7c8": {
+            "hash": "b559edd08e47e7c8",
+            "directory": "External22",
+            "voiceContent": "相棒、君もちゃんと腕を磨いておいてくれよ！でないと、俺が世界の頂点に立った時、命を賭けて殺し合える相手がいなくなっちゃうだろ？",
+            "sourceName": "vo_tartaglia_starUp_04.wem"
+        },
+        "c14c4b1229c21985": {
+            "hash": "c14c4b1229c21985",
+            "directory": "External24",
+            "voiceContent": "ハッ、面白い。",
+            "sourceName": "vo_tartaglia_life_less30_01.wem"
+        },
+        "66da2d09faff8362": {
+            "hash": "66da2d09faff8362",
+            "directory": "External12",
+            "voiceContent": "やるじゃないか！",
+            "sourceName": "vo_tartaglia_life_less30_02.wem"
+        },
+        "11799f02f05bdbab": {
+            "hash": "11799f02f05bdbab",
+            "directory": "External2",
+            "voiceContent": "瀬戸際だろ、俺の得意分野さ。",
+            "sourceName": "vo_tartaglia_life_less30_03.wem"
+        },
+        "5d4c7095573bcbff": {
+            "hash": "5d4c7095573bcbff",
+            "directory": "External11",
+            "voiceContent": "なかなか…やるな…",
+            "sourceName": "vo_tartaglia_life_die_03.wem"
+        },
+        "5e13987587002ad9": {
+            "hash": "5e13987587002ad9",
+            "directory": "External11",
+            "voiceContent": "チッ、油断した。",
+            "sourceName": "vo_tartaglia_battle_hit_H_01.wem"
+        },
+        "1cf83d95204ddf2d": {
+            "hash": "1cf83d95204ddf2d",
+            "directory": "External3",
+            "voiceContent": "打算的な人は別に嫌いじゃない。何しろ、俺がファデュイに入ったのだって、戦う機会がもっと欲しいからだ。けど、俺はどうしてもこいつのことが気に入らない。裏切ることで利益を手にできるのなら、彼女は躊躇なく女皇様に刃を向けるだろう。彼女の目には、狂気しかないからね。",
+            "sourceName": "vo_tartaglia_teammate_arlecchino_01.wem"
+        },
+        "5399c85a3c8a66b0": {
+            "hash": "5399c85a3c8a66b0",
+            "directory": "External10",
+            "voiceContent": "俺は義理や人情といったものがよく分からない。けど、彼が本当に俺のことを助けたいと思っているのは知っている。俺を見る時の彼の眼差しは、まるで家族を見るもののようだよ。ああ、そういえば、トーニャとテウセルからの手紙には、彼がうちに送ってくれたパイやプレゼントのことがよく書いてある。どうやら、俺が冬国を離れている間、彼は約束通り、俺の家族の面倒をよく見てくれているみたいだ。",
+            "sourceName": "vo_tartaglia_teammate_pulcinella_01.wem"
+        },
+        "e9ad627973960217": {
+            "hash": "e9ad627973960217",
+            "directory": "External29",
+            "voiceContent": "研究に没頭している人らしい。ということは、あれらの機械も彼女と何か関係があるんだろうか。とにかく、彼女と会ったのはたった数回だけだというのに、いつも俺を殺したそうな目で見てくる。彼女を怒らせるようなことをした覚えは、まったくないんだけどね。",
+            "sourceName": "vo_tartaglia_teammate_sandrone_01.wem"
+        },
+        "643e9e79b886ba37": {
+            "hash": "643e9e79b886ba37",
+            "directory": "External12",
+            "voiceContent": "ああ、「壮大な計画」ばかり考えているあの野心家のことか。彼の理論はまったくもって頭に入ってこないよ。とにかく、不測の事態に備えた資本が十分にあるならそれでいい。",
+            "sourceName": "vo_tartaglia_teammate_pantalone_01.wem"
+        },
+        "fba986b382dc448c": {
+            "hash": "fba986b382dc448c",
+            "directory": "External31",
+            "voiceContent": "君も知っていると思うけど、俺は彼女と馬が合わないんだ。それに、今となっては、彼女のことを語る必要もないだろう。ファトゥスにとって、死期は自分で決められるようなものじゃない…でも安心してくれ、何があろうとも、俺は全力で生きていくから。",
+            "sourceName": "vo_tartaglia_teammate_signora_01.wem"
+        },
+        "b8d0fd4ff0cd457f": {
+            "hash": "b8d0fd4ff0cd457f",
+            "directory": "External23",
+            "voiceContent": "兵貴神速。",
+            "sourceName": "vo_tartaglia_explore_sprint_start_03.wem"
+        },
+        "603936a10fca8129": {
+            "hash": "603936a10fca8129",
+            "directory": "External12",
+            "voiceContent": "ハッ、悪くないね。",
+            "sourceName": "vo_tartaglia_explore_fly_start_02.wem"
+        },
+        "574aa1b2ccea6679": {
+            "hash": "574aa1b2ccea6679",
+            "directory": "External10",
+            "voiceContent": "頭も体も、この身を通り抜ける風に洗われたようだ。気持ちいいね。",
+            "sourceName": "vo_tartaglia_weather_gale_02.wem"
+        },
+        "64eb3ea909e2e5c8": {
+            "hash": "64eb3ea909e2e5c8",
+            "directory": "External12",
+            "voiceContent": "彼は「神の心」を手に入れた後、俺たちとの連絡を断ってしまってね。だから、その心を取り戻すために行動を開始した。俺は色んな場所を回るのは別に構わない。もしかすると、偶然どこかで君に会うかもしれないね。",
+            "sourceName": "vo_tartaglia_teammate_scaramouche_01.wem"
+        },
+        "71383daea58becc0": {
+            "hash": "71383daea58becc0",
+            "directory": "External14",
+            "voiceContent": "想像をしてなかった口当たりだけど。うん…もう少し食べてみよう。",
+            "sourceName": "vo_tartaglia_spice_event_dislike_01.wem"
+        },
+        "708eec2218fce56c": {
+            "hash": "708eec2218fce56c",
+            "directory": "External14",
+            "voiceContent": "料理の腕がだいぶ上がったようだね。腕っぷしも強くなってるのかな？",
+            "sourceName": "vo_tartaglia_spice_event_normal_01.wem"
+        },
+        "bd924da646219fe6": {
+            "hash": "bd924da646219fe6",
+            "directory": "External23",
+            "voiceContent": "美味しいものを食べると、気分まで晴れやかになるね。…さて、君にどうお返ししたらいいかな？",
+            "sourceName": "vo_tartaglia_spice_event_pref_01.wem"
+        },
+        "d6d7099971305dd2": {
+            "hash": "d6d7099971305dd2",
+            "directory": "External26",
+            "voiceContent": "この対決は俺の負けだ。君はカードゲームも上手かったんだね、相棒！",
+            "sourceName": "vo_card_tartaglia_endOfGame_fail_01.wem"
+        },
+        "da2f03391166d2ee": {
+            "hash": "da2f03391166d2ee",
+            "directory": "External27",
+            "voiceContent": "悪くなかったよ。ただ、俺のほうがより力を発揮できただけさ。",
+            "sourceName": "vo_card_tartaglia_endOfGame_win_01.wem"
+        },
+        "f106a2d7842a33ce": {
+            "hash": "f106a2d7842a33ce",
+            "directory": "External30",
+            "voiceContent": "もう行っちゃうのかい？さっき新しい戦術を思いついたんだ、もう何回か付き合ってくれないかな。",
+            "sourceName": "vo_card_tartaglia_leave_01.wem"
+        },
+        "1751c99e5d6b1cbd": {
+            "hash": "1751c99e5d6b1cbd",
+            "directory": "External2",
+            "voiceContent": "このゲームは面白いし、持ち運びも便利だ。ただ残念ながら、俺と勝負してくれる人があまり見つからないんだ。",
+            "sourceName": "vo_card_tartaglia_freetalk_01.wem"
+        },
+        "240aaf6b616f1d09": {
+            "hash": "240aaf6b616f1d09",
+            "directory": "External4",
+            "voiceContent": "いいよ。思う存分、楽しもうじゃないか。",
+            "sourceName": "vo_card_tartaglia_invite_easy_01.wem"
+        },
+        "e5ffbec089c06005": {
+            "hash": "e5ffbec089c06005",
+            "directory": "External28",
+            "voiceContent": "うん、悪くない。思う存分楽しめたよ！",
+            "sourceName": "vo_card_tartaglia_invite_hard_02.wem"
+        },
+        "3583e35a51c3028f": {
+            "hash": "3583e35a51c3028f",
+            "directory": "External6",
+            "voiceContent": "チッ、油断しただけさ…",
+            "sourceName": "vo_card_tartaglia_invite_easy_03.wem"
+        },
+        "8cb784ca057fb9b4": {
+            "hash": "8cb784ca057fb9b4",
+            "directory": "External17",
+            "voiceContent": "やっぱり、君には一分の隙も見せてはならないね…うん、今回は君の勝ちさ。",
+            "sourceName": "vo_card_tartaglia_invite_hard_03.wem"
+        },
+        "8b8da0b85afdc9e2": {
+            "hash": "8b8da0b85afdc9e2",
+            "directory": "External17",
+            "voiceContent": "調子がいいようだ…なら、手加減はしないよ。",
+            "sourceName": "vo_card_tartaglia_invite_hard_01.wem"
+        },
+        "b3c681629522d7a6": {
+            "hash": "b3c681629522d7a6",
+            "directory": "External22",
+            "voiceContent": "ははっ、今回は俺の勝ちだね。",
+            "sourceName": "vo_card_tartaglia_invite_easy_02.wem"
+        },
+        "d3a2866256147881": {
+            "hash": "d3a2866256147881",
+            "directory": "External26",
+            "voiceContent": "小さなミスだ、問題ない。",
+            "sourceName": "vo_card_tartaglia_inGame_hard_02.wem"
+        },
+        "6edf99c85992161b": {
+            "hash": "6edf99c85992161b",
+            "directory": "External13",
+            "voiceContent": "おや、こいつはまずいことになったな。",
+            "sourceName": "vo_card_tartaglia_inGame_easy_03.wem"
+        },
+        "ecec27d09cc440d2": {
+            "hash": "ecec27d09cc440d2",
+            "directory": "External29",
+            "voiceContent": "隙を突かれちゃったかな。",
+            "sourceName": "vo_card_tartaglia_inGame_easy_02.wem"
+        },
+        "33e93a306252bbd3": {
+            "hash": "33e93a306252bbd3",
+            "directory": "External6",
+            "voiceContent": "これはどう対応するかな？",
+            "sourceName": "vo_card_tartaglia_inGame_hard_04.wem"
+        },
+        "7600785a249c63de": {
+            "hash": "7600785a249c63de",
+            "directory": "External14",
+            "voiceContent": "どうしたんだい？君らしくないよ。",
+            "sourceName": "vo_card_tartaglia_inGame_hard_01.wem"
+        },
+        "b51acc03c8e5d468": {
+            "hash": "b51acc03c8e5d468",
+            "directory": "External22",
+            "voiceContent": "隙あり！",
+            "sourceName": "vo_card_tartaglia_inGame_easy_04.wem"
+        },
+        "700985da04141435": {
+            "hash": "700985da04141435",
+            "directory": "External14",
+            "voiceContent": "気を引き締めたほうがいいよ。",
+            "sourceName": "vo_card_tartaglia_inGame_easy_01.wem"
+        },
+        "7a90ac6bd2020480": {
+            "hash": "7a90ac6bd2020480",
+            "directory": "External15",
+            "voiceContent": "勝敗を決める瀬戸際だね、面白い。",
+            "sourceName": "vo_card_tartaglia_inGame_hard_03.wem"
+        }
+    }
+}

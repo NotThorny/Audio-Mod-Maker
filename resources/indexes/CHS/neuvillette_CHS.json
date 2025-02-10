@@ -1,0 +1,535 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "dc2839cebc062617": {
+            "hash": "dc2839cebc062617",
+            "directory": "External27",
+            "voiceContent": "这次喷发灾害只能算是小小的征兆。我们要找的，是导致灾难的罪魁祸首…",
+            "sourceName": "vo_FDAQ308_7_neuvillette_01.wem"
+        },
+        "dfef2f9c0b2ed24f": {
+            "hash": "dfef2f9c0b2ed24f",
+            "directory": "External27",
+            "voiceContent": "我能感受到，它的悲伤正在转化为敌意。",
+            "sourceName": "vo_FDAQ306_12_neuvillette_10.wem"
+        },
+        "ce75fbad1adaecc9": {
+            "hash": "ce75fbad1adaecc9",
+            "directory": "External25",
+            "voiceContent": "加护已经完成，无需担忧。抓住机会，用我的力量从内部压制它的「根源」。",
+            "sourceName": "vo_FDAQ306_12_neuvillette_12.wem"
+        },
+        "20a661b422c8b608": {
+            "hash": "20a661b422c8b608",
+            "directory": "External4",
+            "voiceContent": "于此显现古龙之权能，见证胎海之力吧。",
+            "sourceName": "vo_FDAQ306_12_neuvillette_13.wem"
+        },
+        "5e31cda44e8ea766": {
+            "hash": "5e31cda44e8ea766",
+            "directory": "External11",
+            "voiceContent": "吞星之鲸无法抗拒「吞噬」的本能，继续激发它的敌意，机会即将出现…",
+            "sourceName": "vo_FDAQ306_12_neuvillette_11.wem"
+        }
+    },
+    "Gameplay": {
+        "8bec0d56a32086e1": {
+            "hash": "8bec0d56a32086e1",
+            "directory": "External17",
+            "voiceContent": "肃静！",
+            "sourceName": "vo_neuvillette_battle_skill1_01.wem"
+        },
+        "31b0ff4e748d4d3e": {
+            "hash": "31b0ff4e748d4d3e",
+            "directory": "External6",
+            "voiceContent": "低头。",
+            "sourceName": "vo_neuvillette_battle_skill1_02.wem"
+        },
+        "875c2144f5bb5fc7": {
+            "hash": "875c2144f5bb5fc7",
+            "directory": "External16",
+            "voiceContent": "不得喧哗。",
+            "sourceName": "vo_neuvillette_battle_skill1_03.wem"
+        },
+        "4995b676f563e043": {
+            "hash": "4995b676f563e043",
+            "directory": "External9",
+            "voiceContent": "潮水啊，我已归来。",
+            "sourceName": "vo_neuvillette_battle_skill3_01.wem"
+        },
+        "df418891812c92ac": {
+            "hash": "df418891812c92ac",
+            "directory": "External27",
+            "voiceContent": "化作，浮沫吧。",
+            "sourceName": "vo_neuvillette_battle_skill3_02.wem"
+        },
+        "4e25a288a2c9077d": {
+            "hash": "4e25a288a2c9077d",
+            "directory": "External9",
+            "voiceContent": "凡高大者，我无不蔑视。",
+            "sourceName": "vo_neuvillette_battle_skill3_03.wem"
+        },
+        "f7327b8bcb9841ee": {
+            "hash": "f7327b8bcb9841ee",
+            "directory": "External30",
+            "voiceContent": "当你第一个找到无主的它时，它就属于你了。嗯，合法的。",
+            "sourceName": "vo_neuvillette_chest_open_01.wem"
+        },
+        "28c14992c19c8a91": {
+            "hash": "28c14992c19c8a91",
+            "directory": "External5",
+            "voiceContent": "是不错的东西吗？至少打开它那一瞬的期待是不错的心绪吧。",
+            "sourceName": "vo_neuvillette_chest_open_02.wem"
+        },
+        "a703ef9b04fc6d10": {
+            "hash": "a703ef9b04fc6d10",
+            "directory": "External20",
+            "voiceContent": "我以口头约定的方式将这些让渡与你。",
+            "sourceName": "vo_neuvillette_chest_open_03.wem"
+        },
+        "ae28915f0055ac5a": {
+            "hash": "ae28915f0055ac5a",
+            "directory": "External21",
+            "voiceContent": "让我来吧。",
+            "sourceName": "vo_neuvillette_life_less30_teammate_01.wem"
+        },
+        "082caf672eb9be5d": {
+            "hash": "082caf672eb9be5d",
+            "directory": "External1",
+            "voiceContent": "你先休息一下。",
+            "sourceName": "vo_neuvillette_life_less30_teammate_02.wem"
+        },
+        "510881be95577587": {
+            "hash": "510881be95577587",
+            "directory": "External10",
+            "voiceContent": "潮汐再起时，我必将归来…",
+            "sourceName": "vo_neuvillette_life_die_01.wem"
+        },
+        "a7c913d74aaad320": {
+            "hash": "a7c913d74aaad320",
+            "directory": "External20",
+            "voiceContent": "看到了…我诞生前的温暖之海…",
+            "sourceName": "vo_neuvillette_life_die_02.wem"
+        },
+        "00d7206b9253bd23": {
+            "hash": "00d7206b9253bd23",
+            "directory": "External0",
+            "voiceContent": "感谢你许可…嗯，邀请我同行。",
+            "sourceName": "vo_neuvillette_teamJoin_01.wem"
+        },
+        "3e5e7283a7383e0c": {
+            "hash": "3e5e7283a7383e0c",
+            "directory": "External7",
+            "voiceContent": "十分乐意。",
+            "sourceName": "vo_neuvillette_teamJoin_02.wem"
+        },
+        "ad428c7ac8d4b2dd": {
+            "hash": "ad428c7ac8d4b2dd",
+            "directory": "External21",
+            "voiceContent": "一起走走吧，去水畔之类的地方。",
+            "sourceName": "vo_neuvillette_teamJoin_03.wem"
+        },
+        "14e39b183731b58c": {
+            "hash": "14e39b183731b58c",
+            "directory": "External2",
+            "voiceContent": "我既认可我自身工作的价值，也认同枫丹大众所作所为的意义。我想，我还是会以我的责任为荣的。",
+            "sourceName": "vo_neuvillette_character_idle_01.wem"
+        },
+        "d75c4900224d34a3": {
+            "hash": "d75c4900224d34a3",
+            "directory": "External26",
+            "voiceContent": "水的味道是很有讲究的。蒙德的水清冽，璃月的水回味悠长，稻妻的水口味幽邃深远，须弥的水味道虽然丰富但需要细品。",
+            "sourceName": "vo_neuvillette_character_idle_02.wem"
+        },
+        "29c397072a6a185a": {
+            "hash": "29c397072a6a185a",
+            "directory": "External5",
+            "voiceContent": "美露莘是枫丹引以为傲的美丽生灵。你一定要和她们做好朋友，也不要伤害她们。",
+            "sourceName": "vo_neuvillette_character_idle_03.wem"
+        },
+        "6f9f3092b84b5fde": {
+            "hash": "6f9f3092b84b5fde",
+            "directory": "External13",
+            "voiceContent": "啊，抱歉。雨这么大，对你来说想必是个麻烦吧…",
+            "sourceName": "vo_neuvillette_weather_heavyRain_01.wem"
+        },
+        "3500555b91031507": {
+            "hash": "3500555b91031507",
+            "directory": "External6",
+            "voiceContent": "结束了…",
+            "sourceName": "vo_neuvillette_weather_afterRain_01.wem"
+        },
+        "53d84d672db17730": {
+            "hash": "53d84d672db17730",
+            "directory": "External10",
+            "voiceContent": "这种天气最适合在室内窗边，嗯，欣赏阳光。",
+            "sourceName": "vo_neuvillette_weather_sunny_01.wem"
+        },
+        "9038cc673a9082d5": {
+            "hash": "9038cc673a9082d5",
+            "directory": "External18",
+            "voiceContent": "对你们来说，是不是有句话叫晴天霹雳？对我来说就是这个感觉。",
+            "sourceName": "vo_neuvillette_weather_thunder_01.wem"
+        },
+        "eaca28f1b4070a61": {
+            "hash": "eaca28f1b4070a61",
+            "directory": "External29",
+            "voiceContent": "雪本身也是一种水的自洁手段。但是人类活动让雪不那么干净了，不要吃。",
+            "sourceName": "vo_neuvillette_weather_snowy_01.wem"
+        },
+        "aa56798f2a8a93c4": {
+            "hash": "aa56798f2a8a93c4",
+            "directory": "External21",
+            "voiceContent": "早上好。希望你今天过得愉快。",
+            "sourceName": "vo_neuvillette_dialog_greetingMorning.wem"
+        },
+        "30ea6cda0f6ac9a0": {
+            "hash": "30ea6cda0f6ac9a0",
+            "directory": "External6",
+            "voiceContent": "午安。你一定很期待红茶或者咖啡的时间吧，我也是。",
+            "sourceName": "vo_neuvillette_dialog_greetingNoon.wem"
+        },
+        "c270eab3b2d04a5e": {
+            "hash": "c270eab3b2d04a5e",
+            "directory": "External24",
+            "voiceContent": "晚上好。希望今天你没有遇到什么难以释怀的坏事。",
+            "sourceName": "vo_neuvillette_dialog_greetingNight.wem"
+        },
+        "eb92e1b35c4e87d6": {
+            "hash": "eb92e1b35c4e87d6",
+            "directory": "External29",
+            "voiceContent": "晚安。对我来说平静的水面是美好的意象，所以我祝你今夜收获无梦的安眠。不要有任何梦的涟漪撩拨你的心绪。",
+            "sourceName": "vo_neuvillette_dialog_greetingNight2.wem"
+        },
+        "f4f4ec12d3079c29": {
+            "hash": "f4f4ec12d3079c29",
+            "directory": "External30",
+            "voiceContent": "我又不是什么狂热的审判爱好者。「审判」只是我职责所在，是我被委任的目的。",
+            "sourceName": "vo_neuvillette_dialog_idle.wem"
+        },
+        "e459d81f22f6c3db": {
+            "hash": "e459d81f22f6c3db",
+            "directory": "External28",
+            "voiceContent": "你也听说过枫丹的这句民谣是吗？唉，这是谁教你的，又是谁让它流传开的…嗯，没什么。我觉得水龙不会哭，他只是品尝到了在大地之心里汇聚的泪水与所有的情绪，所以有所触动而已。",
+            "sourceName": "vo_neuvillette_dialog_idle2.wem"
+        },
+        "81197f98e245d276": {
+            "hash": "81197f98e245d276",
+            "directory": "External16",
+            "voiceContent": "与枫丹人民长久的相处以及与你的同行早已让我改观。再加上我早已赦免了人的罪，我可以与你约定，接下来的审判不会危害到普通人。但是我与僭主尚有未结清的恩怨，还有未得偿还的血仇。",
+            "sourceName": "vo_neuvillette_dialog_close1.wem"
+        },
+        "4265ca0d1dd06f77": {
+            "hash": "4265ca0d1dd06f77",
+            "directory": "External8",
+            "voiceContent": "既然你是天地外之人，那就由你见证吧，我对于这个倒错世界的审判。「本应由天父统治的雄邦，如今王位上坐的却是雉鸡。时代已然错乱脱节，而我就是为了扭整乾坤而生」。",
+            "sourceName": "vo_neuvillette_dialog_close.wem"
+        },
+        "80f0bf96d32f337b": {
+            "hash": "80f0bf96d32f337b",
+            "directory": "External16",
+            "voiceContent": "曾经有人建议我佩戴一个假的玻璃珠，这样方便危急时刻出手。说实话这个提议让我很不愉快，行使自己的力量却要带着假的面具去伪装。不过和持有神之眼的人相处久了，也明白他们的渴望与意志也是如此难能可贵。",
+            "sourceName": "vo_neuvillette_dialog_pendant_01.wem"
+        },
+        "52dc980a010c46d6": {
+            "hash": "52dc980a010c46d6",
+            "directory": "External10",
+            "voiceContent": "枫丹确实有很多奇妙的法律，比如「每个月前三天不能放飞飞行物」、「枯水期搁浅的双壳贝类都属于水神，螺贝则属于人民」、「禁止给家养动物取名『芙宁娜』」、「禁止在食堂与餐厅单吃番茄酱」、「对美露莘称呼必须使用人格意味的『她』，不能用『它』」…最后一条是我推动立法的。",
+            "sourceName": "vo_neuvillette_dialog_share_01.wem"
+        },
+        "5c43bba7285b2cf4": {
+            "hash": "5c43bba7285b2cf4",
+            "directory": "External11",
+            "voiceContent": "正是因它们同为原海所出之嫡系，所以对于进化之事十分擅长。我想起曾经龙中的风俗：我们啜饮一口早夭族类的血。当月与星的运行搅扰潮汐，我们水族体内的水也向上行去，我们便知道逝去的族人正在复活。",
+            "sourceName": "vo_neuvillette_pref_gift_01.wem"
+        },
+        "6ad8eebc8e29c246": {
+            "hash": "6ad8eebc8e29c246",
+            "directory": "External13",
+            "voiceContent": "我将对诸神行使裁决，没有任何事情可以改变这点。贵金之神赢取了岩之大权，他自然也在受审者之列。如果有谁不希望看到我们发生争执，也不必担心，我还需要在枫丹停留很久，说不定就要四百多年呢。而且最后的判决也不一定会导致兵戎相见。",
+            "sourceName": "vo_neuvillette_teammate_zhongli_01.wem"
+        },
+        "c2f2d46c86611977": {
+            "hash": "c2f2d46c86611977",
+            "directory": "External24",
+            "voiceContent": "纵使天地翻覆，也无法停止我对于僭位七神的巡游审判。微风与希望之神获赠了风之大权，他也需要列席候审。你说他大部分时间都只是个醉汉，没有什么危险的了？那也得先见见吧。",
+            "sourceName": "vo_neuvillette_teammate_venti_01.wem"
+        },
+        "679d311c3ff24ca4": {
+            "hash": "679d311c3ff24ca4",
+            "directory": "External12",
+            "voiceContent": "我作为重获全龙之格的孑遗，就算是让大海所有的水逆行回天，也需要履行我的誓言与责任。鸣神赢取了雷之大权，注定留名于僭权者之列。嗯，你说她现在蛰居于心成净土之中，极少现身？那我过几百年再去吧。",
+            "sourceName": "vo_neuvillette_teammate_raidenShogun_01.wem"
+        },
+        "1958ec3d8d2d6f4b": {
+            "hash": "1958ec3d8d2d6f4b",
+            "directory": "External3",
+            "voiceContent": "很有意思的演出，不是吗？这就是林尼和琳妮特的魔术世界，一切都假得出奇，但是只要你愿意相信，一切都可以成真。",
+            "sourceName": "vo_neuvillette_teammate_lyney&lynette_01.wem"
+        },
+        "2d6a345be73fe7fa": {
+            "hash": "2d6a345be73fe7fa",
+            "directory": "External5",
+            "voiceContent": "希格雯不知道过得好不好。要是她受欺负了我一定要把莱欧斯利喊进城里质问。她是那么脆弱，又那么的善良。上次她回来还给我带了留影机底片，还说想要听我继续点评纳塔的水…距离她下一个假期还要多久？",
+            "sourceName": "vo_neuvillette_teammate_sigewinne_01.wem"
+        },
+        "d3317f77b46b2f2c": {
+            "hash": "d3317f77b46b2f2c",
+            "directory": "External26",
+            "voiceContent": "时至今日，她的「演出」终于落幕。「表演」是想象的产物，但芙宁娜却凭此完成了自己的职责…怯懦之人用疯癫让自己勇敢，一直以来辛苦她了。有机会的话，应当为她的舞台献上掌声…嗯，一旦有机会的话。",
+            "sourceName": "vo_neuvillette_teammate_furina_01.wem"
+        },
+        "2157e799d5b257c4": {
+            "hash": "2157e799d5b257c4",
+            "directory": "External4",
+            "voiceContent": "即便将来会有审判她的一天，我也认可草木之神的责任感。世间难有完美的人与事，可专注和溺爱也证明了一个责任者不断前行。听说她曾遭到约五百年的冷遇，我很为她的经历遗憾。",
+            "sourceName": "vo_neuvillette_teammate_nahida_01.wem"
+        },
+        "27e7f9b3c693b3c4": {
+            "hash": "27e7f9b3c693b3c4",
+            "directory": "External4",
+            "voiceContent": "莱欧斯利确实是一个值得信赖的人。他的头衔和名誉都是我给他争取的。是不是觉得我被他的话术和向上经营欺骗了？稻妻有句话叫「不说即是花」。",
+            "sourceName": "vo_neuvillette_teammate_wriothesley_01.wem"
+        },
+        "060dadd57d2358d3": {
+            "hash": "060dadd57d2358d3",
+            "directory": "External0",
+            "voiceContent": "克洛琳德凭借其超群实力成为了现任决斗代理人中的实力巅峰。她是逐影猎人这一行业的后继者，有她在，审判庭的公正更有保障。另外她会比外观看上去更有人情味一些。",
+            "sourceName": "vo_neuvillette_teammate_clorinde_01.wem"
+        },
+        "ceeca35281b84f94": {
+            "hash": "ceeca35281b84f94",
+            "directory": "External25",
+            "voiceContent": "我会尽量避免与他人有私交以及有流程外的协作。不过阁下的品行值得信任，与枫丹的势力也没有什么纠缠。很乐意与你同行。",
+            "sourceName": "vo_neuvillette_friendship_01.wem"
+        },
+        "7bc83139cf75e10b": {
+            "hash": "7bc83139cf75e10b",
+            "directory": "External15",
+            "voiceContent": "这话只能私下说，公共场合我绝对无法做此表态。枫达这个东西，能流行起来对我来说有点莫名其妙。不过人们很喜欢它也不是不能理解：你看，一边喝水一边补充糖分，而且它还价格低廉。",
+            "sourceName": "vo_neuvillette_friendship_02.wem"
+        },
+        "22803f434b35b542": {
+            "hash": "22803f434b35b542",
+            "directory": "External4",
+            "voiceContent": "最近看过一出戏剧。一个已经逝去的夫人凭借个人魅力与恶意的安排，如同无法驱散的鬼魅一般笼罩着她已不在其中的豪宅。演员无可挑剔，故事也很精巧，而且让我想到了世界的现状。",
+            "sourceName": "vo_neuvillette_friendship_03.wem"
+        },
+        "405afd6cf8870059": {
+            "hash": "405afd6cf8870059",
+            "directory": "External8",
+            "voiceContent": "出于某些原因，我离开枫丹的次数屈指可数，因此，我所品尝的名泉虽是来自世界各地，但都是从外地送来，而非我亲临当地。至于不同饮用水里面的细微味道，我自然能够区分出来。言已至此，还不相信我吗？我是最高审判官，不骗人。",
+            "sourceName": "vo_neuvillette_friendship_04.wem"
+        },
+        "be9da3753be6e2d8": {
+            "hash": "be9da3753be6e2d8",
+            "directory": "External23",
+            "voiceContent": "不得不说，我时常遇到一些令人无奈的事，例如坐下的时候踩到衣摆，偶尔压到头发，往后靠头部也可能被座椅装饰品卡住。为了维持最高审判官的威严，我保持这类装束，自然要忍受它带来的麻烦。世间几乎也遵循着如此的道理——接受一种身份，忍耐它，理解它，与它共存。这正是我一直在做的。",
+            "sourceName": "vo_neuvillette_friendship_05.wem"
+        },
+        "6c48547f7638d408": {
+            "hash": "6c48547f7638d408",
+            "directory": "External13",
+            "voiceContent": "品水是一门学问。用火元素加热的水味道就是自然界最标准的味道，而木炭烧开的水则有田园的味道。同理，冰元素处理的水是一种平淡无奇的清冽，但是至冬积冰所化之水就完全不一样。",
+            "sourceName": "vo_neuvillette_pref_hobby.wem"
+        },
+        "13a71ba33007d233": {
+            "hash": "13a71ba33007d233",
+            "directory": "External2",
+            "voiceContent": "动物不进食尚能活些时日，不喝水可活不了几天。什么美食都比不过纯净的水。所以汤水多的食物就是第二好的。",
+            "sourceName": "vo_neuvillette_pref_foodLike.wem"
+        },
+        "298be6cab87b47fd": {
+            "hash": "298be6cab87b47fd",
+            "directory": "External5",
+            "voiceContent": "油炸或者无酱烤制的食物真的能吃吗？我想点名批评须弥椰炭饼，往人胃里塞干燥剂也不过如此。",
+            "sourceName": "vo_neuvillette_pref_foodDislike.wem"
+        },
+        "fa0a31ca232a0f0c": {
+            "hash": "fa0a31ca232a0f0c",
+            "directory": "External31",
+            "voiceContent": "美味。菜肴最重要的汁水不仅很多，而且处理得很好。",
+            "sourceName": "vo_neuvillette_spice_pref_01.wem"
+        },
+        "137ff36c7529a7e6": {
+            "hash": "137ff36c7529a7e6",
+            "directory": "External2",
+            "voiceContent": "不错的尝试。只不过这道菜是不是可以多加点汤汁，再滤一点油脂出来。",
+            "sourceName": "vo_neuvillette_spice_normal_01.wem"
+        },
+        "17bcec1f5ee9b682": {
+            "hash": "17bcec1f5ee9b682",
+            "directory": "External2",
+            "voiceContent": "太干了。没有汁水的菜品尝不出厨师的心情。",
+            "sourceName": "vo_neuvillette_spice_dislike_01.wem"
+        },
+        "bd4b486df130b6af": {
+            "hash": "bd4b486df130b6af",
+            "directory": "External23",
+            "voiceContent": "今天是你的生日啊，祝你生日快乐。不知道今天下不下雨，我会想想办法的。",
+            "sourceName": "vo_neuvillette_pref_birthday_01.wem"
+        },
+        "212bb261692bc4b7": {
+            "hash": "212bb261692bc4b7",
+            "directory": "External4",
+            "voiceContent": "稍微熟悉些了。我可以配合你的动作。",
+            "sourceName": "vo_neuvillette_starUp_01.wem"
+        },
+        "4bdac478e30e4fd0": {
+            "hash": "4bdac478e30e4fd0",
+            "directory": "External9",
+            "voiceContent": "看来需要拿出些真的本事了。没想到你这么容易身处险境。",
+            "sourceName": "vo_neuvillette_starUp_02.wem"
+        },
+        "cd981e709fae6d51": {
+            "hash": "cd981e709fae6d51",
+            "directory": "External25",
+            "voiceContent": "你的真正实力居然有如此地步吗？看来我不认真的话还无法跟上你了。",
+            "sourceName": "vo_neuvillette_starUp_03.wem"
+        },
+        "afbe6046f25ed55a": {
+            "hash": "afbe6046f25ed55a",
+            "directory": "External21",
+            "voiceContent": "从僭位者那里回收了七之大权一角，这才是我本来的身姿。我已是「完全之龙」，足以审判其余众神。我的命运将是审判高天的僭位之王。但在那之前，我就将力量借与你吧。",
+            "sourceName": "vo_neuvillette_starUp_04.wem"
+        },
+        "6e1553933d9da373": {
+            "hash": "6e1553933d9da373",
+            "directory": "External13",
+            "voiceContent": "并无妨害，不必担心。",
+            "sourceName": "vo_neuvillette_life_less30_01.wem"
+        },
+        "af02a5ab55654d5c": {
+            "hash": "af02a5ab55654d5c",
+            "directory": "External21",
+            "voiceContent": "风险渐涨，不过我没什么问题。",
+            "sourceName": "vo_neuvillette_life_less30_02.wem"
+        },
+        "1a80bfa2741e98ed": {
+            "hash": "1a80bfa2741e98ed",
+            "directory": "External3",
+            "voiceContent": "哼，衣服似乎刮坏了。",
+            "sourceName": "vo_neuvillette_life_less30_03.wem"
+        },
+        "52316dd03fd7c0a1": {
+            "hash": "52316dd03fd7c0a1",
+            "directory": "External10",
+            "voiceContent": "万籁…俱静…",
+            "sourceName": "vo_neuvillette_life_die_03.wem"
+        },
+        "c1d5da26a98ddc03": {
+            "hash": "c1d5da26a98ddc03",
+            "directory": "External24",
+            "voiceContent": "角度意外啊…",
+            "sourceName": "vo_neuvillette_battle_hit_H_01.wem"
+        },
+        "5781ac4135568f6c": {
+            "hash": "5781ac4135568f6c",
+            "directory": "External10",
+            "voiceContent": "是我疏忽了。",
+            "sourceName": "vo_neuvillette_battle_hit_H_02.wem"
+        },
+        "ad4d664823b7a45a": {
+            "hash": "ad4d664823b7a45a",
+            "directory": "External21",
+            "voiceContent": "虽然这么说很对不起她，但无论是当时无意的触怒她、接受她的道歉还是我此时感受到的内疚，全部有种疏离的感觉，仿佛沉卧湖底看星星。我并不是有意的，我也知道很难有机会弥补。情绪并不像是水，能迅速地修复自己，恢复平静。",
+            "sourceName": "vo_neuvillette_teammate_navia_01.wem"
+        },
+        "96834664620c7c52": {
+            "hash": "96834664620c7c52",
+            "directory": "External18",
+            "voiceContent": "这是…您对我谋杀计划的一环吗？",
+            "sourceName": "vo_neuvillette_weather_desert_01.wem"
+        },
+        "f8a7f665de042647": {
+            "hash": "f8a7f665de042647",
+            "directory": "External31",
+            "voiceContent": "以规则与传承击退深渊，此为值得称颂之义举，然权柄乃是从龙类手中夺得，亦是罪无可逭。只不过纳塔元气大伤，确实也不必急于前往。嗯，你说根据史料那一战应该判定为正式决斗，并且希巴拉克也善待了被害者家属？虽然乱七八糟的，但是也有些道理…",
+            "sourceName": "vo_neuvillette_teammate_mavuika_01.wem"
+        },
+        "0920498e761a716b": {
+            "hash": "0920498e761a716b",
+            "directory": "External1",
+            "voiceContent": "就我的观察而言，人习惯将自己与自然对立。此时总会有人出来呼吁人也是自然的一部分。但在知道些许真相的我看来，人类的文明世界和这个星球的自然，应该算是需要寻求共处之道吧。",
+            "sourceName": "vo_neuvillette_pref_gift_02.wem"
+        },
+        "6265662766273a92": {
+            "hash": "6265662766273a92",
+            "directory": "External12",
+            "voiceContent": "这是一个说烂的话题了。并非我要把自己置身人类之外，但是你看，「正义」、「公平」、「平等」、「法律」，这几个概念互相之间其实无法等同。水天然有「如水之平」的本性。前代水神厄歌莉娅希望以爱来联系众生，实现平等。如今这位选择了平等的「法律」，最后却因为种种外因扭曲成了一切只为「审判」的遗憾结果。不过这也另有原因，不该谴责。",
+            "sourceName": "vo_neuvillette_dialog_idle3.wem"
+        },
+        "c320c612cd588c39": {
+            "hash": "c320c612cd588c39",
+            "directory": "External24",
+            "voiceContent": "时常在想，什么时候可以走入一场雨中。啊，你误会了，并不是压力太大。",
+            "sourceName": "vo_neuvillette_dialog_share_02.wem"
+        },
+        "63ae5a65a7b331d3": {
+            "hash": "63ae5a65a7b331d3",
+            "directory": "External12",
+            "voiceContent": "下雨天不打伞是不是看起来有些奇怪…",
+            "sourceName": "vo_neuvillette_dialog_annoyed_01.wem"
+        },
+        "de178e288c7badba": {
+            "hash": "de178e288c7badba",
+            "directory": "External27",
+            "voiceContent": "您好，我是枫丹的最高审判官，称呼我的姓氏那维莱特就可以。并不是想要疏远您的意思，但太过亲近会被人怀疑司法体系的不公。有什么诉求的话——当然，合法范围内——我们可以坐下来谈一谈，一起品尝一下翘英庄运来的水。",
+            "sourceName": "vo_neuvillette_draw_appear_01.wem"
+        },
+        "ab69f1ae4ce46484": {
+            "hash": "ab69f1ae4ce46484",
+            "directory": "External21",
+            "voiceContent": "什么，你说最古老的七神有几个也得带着假玻璃珠行走在人间吗？噗。对不起失态了，这件事有些好笑。",
+            "sourceName": "vo_neuvillette_dialog_pendant_02.wem"
+        },
+        "1ed436251d4bd350": {
+            "hash": "1ed436251d4bd350",
+            "directory": "External3",
+            "voiceContent": "我没有意见。",
+            "sourceName": "vo_card_neuvillette_inGame_easy_02.wem"
+        },
+        "a091901cd9ebf0d1": {
+            "hash": "a091901cd9ebf0d1",
+            "directory": "External20",
+            "voiceContent": "值得深加思虑。",
+            "sourceName": "vo_card_neuvillette_inGame_easy_03.wem"
+        },
+        "28b6dbf4d68c29cd": {
+            "hash": "28b6dbf4d68c29cd",
+            "directory": "External5",
+            "voiceContent": "请容我驳斥一二。",
+            "sourceName": "vo_card_neuvillette_inGame_hard_04.wem"
+        },
+        "140dd005e382eee7": {
+            "hash": "140dd005e382eee7",
+            "directory": "External2",
+            "voiceContent": "唔，妨害不大。",
+            "sourceName": "vo_card_neuvillette_inGame_hard_02.wem"
+        },
+        "f425240da3694837": {
+            "hash": "f425240da3694837",
+            "directory": "External30",
+            "voiceContent": "请体谅。",
+            "sourceName": "vo_card_neuvillette_inGame_easy_01.wem"
+        },
+        "663e2e0ceb70aade": {
+            "hash": "663e2e0ceb70aade",
+            "directory": "External12",
+            "voiceContent": "…疏忽颇大啊。",
+            "sourceName": "vo_card_neuvillette_inGame_hard_03.wem"
+        },
+        "82b7d1f32c9c58da": {
+            "hash": "82b7d1f32c9c58da",
+            "directory": "External16",
+            "voiceContent": "下面由我陈词。",
+            "sourceName": "vo_card_neuvillette_inGame_easy_04.wem"
+        },
+        "6ace621e98d64b80": {
+            "hash": "6ace621e98d64b80",
+            "directory": "External13",
+            "voiceContent": "很抱歉。",
+            "sourceName": "vo_card_neuvillette_inGame_hard_01.wem"
+        }
+    }
+}

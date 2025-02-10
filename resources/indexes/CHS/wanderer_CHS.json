@@ -1,0 +1,944 @@
+{
+    "Teapot": {
+        "360a9663d4ede4a4": {
+            "hash": "360a9663d4ede4a4",
+            "directory": "External6",
+            "voiceContent": "真是不好意思，差点把你错怪成会把客人晾在家里自力更生的类型。",
+            "sourceName": "vo_wanderer_mimitomo_hello_02.wem"
+        },
+        "3eb88e75e29227bc": {
+            "hash": "3eb88e75e29227bc",
+            "directory": "External7",
+            "voiceContent": "…怎么，在等我开启话题吗？那可能等不到了哦。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_02.wem"
+        },
+        "4d885e38212bc6a8": {
+            "hash": "4d885e38212bc6a8",
+            "directory": "External9",
+            "voiceContent": "如今尝尽世间百味，结果发现竟然还是苦的最好。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_11.wem"
+        },
+        "eb23fa8519131d5e": {
+            "hash": "eb23fa8519131d5e",
+            "directory": "External29",
+            "voiceContent": "了解我并不是什么了不起的事情吧，我现在总是直言不讳。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_04.wem"
+        },
+        "4331a5317054a307": {
+            "hash": "4331a5317054a307",
+            "directory": "External8",
+            "voiceContent": "万一吃饭时尴尬到说不出话来，至少还可以享受食物。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_13a_2.wem"
+        },
+        "86641ca525daae26": {
+            "hash": "86641ca525daae26",
+            "directory": "External16",
+            "voiceContent": "……",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_01.wem"
+        },
+        "0bdd180e5f3d3075": {
+            "hash": "0bdd180e5f3d3075",
+            "directory": "External1",
+            "voiceContent": "苦味就是苦味，不会因为之前或者之后的甜而改变。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_14.wem"
+        },
+        "48d9b0b4fa1670c8": {
+            "hash": "48d9b0b4fa1670c8",
+            "directory": "External9",
+            "voiceContent": "…也没什么，只是在思考无聊的问题。",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_03.wem"
+        },
+        "68634528a379551c": {
+            "hash": "68634528a379551c",
+            "directory": "External13",
+            "voiceContent": "谁道歉了！",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_13b_2.wem"
+        },
+        "ce642daef6e61247": {
+            "hash": "ce642daef6e61247",
+            "directory": "External25",
+            "voiceContent": "我还不想休息。",
+            "sourceName": "vo_wanderer_mimitomo_night_03.wem"
+        },
+        "7e9fbc5bb8dc82c9": {
+            "hash": "7e9fbc5bb8dc82c9",
+            "directory": "External15",
+            "voiceContent": "大家各怀鬼胎，表面上却还得推杯换盏，互相问候。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_08.wem"
+        },
+        "c0b732857b2689ac": {
+            "hash": "c0b732857b2689ac",
+            "directory": "External24",
+            "voiceContent": "不过你要真是闲着没事，不如去给我弄点吃的吧。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_05.wem"
+        },
+        "48c6088d4a8b3201": {
+            "hash": "48c6088d4a8b3201",
+            "directory": "External9",
+            "voiceContent": "我初次喝茶时只觉得入口艰涩，从第一口苦到最后一口，也全然没有回甘的感受。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_07.wem"
+        },
+        "dbf38129bff41e06": {
+            "hash": "dbf38129bff41e06",
+            "directory": "External27",
+            "voiceContent": "啊，我懂，总有力不能及的事情嘛。",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_05b_1.wem"
+        },
+        "d7475f1fc515c9ad": {
+            "hash": "d7475f1fc515c9ad",
+            "directory": "External26",
+            "voiceContent": "只是在承认自己判断失误罢了。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_13b_3.wem"
+        },
+        "072e6a8b3827d995": {
+            "hash": "072e6a8b3827d995",
+            "directory": "External0",
+            "voiceContent": "这是你的地盘，按你高兴的方式安排吧。",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_06.wem"
+        },
+        "44d1498cf84109fc": {
+            "hash": "44d1498cf84109fc",
+            "directory": "External8",
+            "voiceContent": "崭新的一天，崭新的生活，呵。",
+            "sourceName": "vo_wanderer_mimitomo_morning_02.wem"
+        },
+        "c29e5330d20c8ec7": {
+            "hash": "c29e5330d20c8ec7",
+            "directory": "External24",
+            "voiceContent": "你要是太过善良，我反而很难办呢。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_13b_5.wem"
+        },
+        "78b90bb875b7ffbe": {
+            "hash": "78b90bb875b7ffbe",
+            "directory": "External15",
+            "voiceContent": "劳你费心关照，早些睡吧。",
+            "sourceName": "vo_wanderer_mimitomo_night_02.wem"
+        },
+        "81d5309378773a04": {
+            "hash": "81d5309378773a04",
+            "directory": "External16",
+            "voiceContent": "我只是过客。",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_07.wem"
+        },
+        "db609a2270141902": {
+            "hash": "db609a2270141902",
+            "directory": "External27",
+            "voiceContent": "但那时的我干坐在刀匠们身边，既不知道怎么才能加入人类的对话，也不了解他们的生活习惯。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_08.wem"
+        },
+        "98f39c7e11256167": {
+            "hash": "98f39c7e11256167",
+            "directory": "External19",
+            "voiceContent": "…虽然在很久以前并非如此。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_05.wem"
+        },
+        "36564a25d8f26186": {
+            "hash": "36564a25d8f26186",
+            "directory": "External6",
+            "voiceContent": "我觉得拐弯抹角不好，人就该学着坦率。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_13.wem"
+        },
+        "efb42e96c678be00": {
+            "hash": "efb42e96c678be00",
+            "directory": "External29",
+            "voiceContent": "你知道我为什么喜欢茶吗？",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_06.wem"
+        },
+        "70899e94b48c5b4e": {
+            "hash": "70899e94b48c5b4e",
+            "directory": "External14",
+            "voiceContent": "——逗你的。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_03.wem"
+        },
+        "2b0b606aef5dd743": {
+            "hash": "2b0b606aef5dd743",
+            "directory": "External5",
+            "voiceContent": "刚才的曲子怎么样？",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_06.wem"
+        },
+        "2adaf3108e932133": {
+            "hash": "2adaf3108e932133",
+            "directory": "External5",
+            "voiceContent": "…我错了。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_13b_1.wem"
+        },
+        "b813ac1d95928d6f": {
+            "hash": "b813ac1d95928d6f",
+            "directory": "External23",
+            "voiceContent": "不用刺激遮盖无趣，也不用甘甜粉饰太平，将生活最原本的味道展示在你面前。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_12.wem"
+        },
+        "3a4b0d4c57573d2a": {
+            "hash": "3a4b0d4c57573d2a",
+            "directory": "External7",
+            "voiceContent": "你好心招待我来，我自当感激不尽。",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_05a_2.wem"
+        },
+        "af2577726c785693": {
+            "hash": "af2577726c785693",
+            "directory": "External21",
+            "voiceContent": "早上好。",
+            "sourceName": "vo_wanderer_mimitomo_morning_01.wem"
+        },
+        "ad9ca86d042e9c4d": {
+            "hash": "ad9ca86d042e9c4d",
+            "directory": "External21",
+            "voiceContent": "倒不是无话可说，只是我的话…免不了要煞风景。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_03.wem"
+        },
+        "8b7c1dc8e8247a32": {
+            "hash": "8b7c1dc8e8247a32",
+            "directory": "External17",
+            "voiceContent": "他们为了逃避不喜欢的任务，什么都做得出来。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_10.wem"
+        },
+        "6cf3313a50de7c3e": {
+            "hash": "6cf3313a50de7c3e",
+            "directory": "External13",
+            "voiceContent": "不过你能有些坏心思也算是好事。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_13b_4.wem"
+        },
+        "34a88c18f45445cb": {
+            "hash": "34a88c18f45445cb",
+            "directory": "External6",
+            "voiceContent": "有人把盛着茶汤的杯盏推到我面前，我为了有事可做，就一个劲儿地喝茶，一杯接着一杯。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_09.wem"
+        },
+        "a90cbc5b56c97553": {
+            "hash": "a90cbc5b56c97553",
+            "directory": "External21",
+            "voiceContent": "客随主便，请吧。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_01.wem"
+        },
+        "6ba4ab534d2f58ad": {
+            "hash": "6ba4ab534d2f58ad",
+            "directory": "External13",
+            "voiceContent": "随意评论主人的生活风格是不礼貌的。",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_05a_1.wem"
+        },
+        "f6a84aadf226f389": {
+            "hash": "f6a84aadf226f389",
+            "directory": "External30",
+            "voiceContent": "你才是这里的主人吧，紧张什么呢，不像样。",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_02.wem"
+        },
+        "71b392a65f0e66f0": {
+            "hash": "71b392a65f0e66f0",
+            "directory": "External14",
+            "voiceContent": "这样发问，是准备满足我提出的任何需求吗？",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_01.wem"
+        },
+        "4c37af328c406469": {
+            "hash": "4c37af328c406469",
+            "directory": "External9",
+            "voiceContent": "有时情况会慢慢变好，有时也只能保持现状。",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_05b_2.wem"
+        },
+        "f247008c712c8657": {
+            "hash": "f247008c712c8657",
+            "directory": "External30",
+            "voiceContent": "那我可得好好想想，测试一下你能为我做到什么程度…",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_02.wem"
+        },
+        "99f2374a25a800a0": {
+            "hash": "99f2374a25a800a0",
+            "directory": "External19",
+            "voiceContent": "那就做你最喜欢的吧。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_13a_1.wem"
+        },
+        "d0d02262c0ca4c08": {
+            "hash": "d0d02262c0ca4c08",
+            "directory": "External26",
+            "voiceContent": "嘻嘻，真想带你去见识一次执行官们的饭局。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_09.wem"
+        },
+        "0d6f8fc0a4f2507b": {
+            "hash": "0d6f8fc0a4f2507b",
+            "directory": "External1",
+            "voiceContent": "可惜现在只有你我，肯定不会有那么戏剧性的场面了。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_11.wem"
+        },
+        "89e9de16a26fb9e4": {
+            "hash": "89e9de16a26fb9e4",
+            "directory": "External17",
+            "voiceContent": "所以，没必要用什么「苦尽甘来」糊弄自己。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_15.wem"
+        },
+        "6ddb371669ad028b": {
+            "hash": "6ddb371669ad028b",
+            "directory": "External13",
+            "voiceContent": "哼。",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_02b.wem"
+        },
+        "b6d4e449e73b101b": {
+            "hash": "b6d4e449e73b101b",
+            "directory": "External22",
+            "voiceContent": "哦，你在啊。",
+            "sourceName": "vo_wanderer_mimitomo_hello_01.wem"
+        },
+        "37e8c1d81ea78184": {
+            "hash": "37e8c1d81ea78184",
+            "directory": "External6",
+            "voiceContent": "我不挑剔，你做什么我就吃什么。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_12.wem"
+        },
+        "d2f419c0a44b3961": {
+            "hash": "d2f419c0a44b3961",
+            "directory": "External26",
+            "voiceContent": "看样子又是平淡无奇的一天？也好。",
+            "sourceName": "vo_wanderer_mimitomo_night_01.wem"
+        },
+        "575bfe7bfec208fb": {
+            "hash": "575bfe7bfec208fb",
+            "directory": "External10",
+            "voiceContent": "你这个…住处，怎么有的地方空旷得很哪。",
+            "sourceName": "vo_wanderer_mimitomo_friendship1_04.wem"
+        },
+        "d5962e746e5d397a": {
+            "hash": "d5962e746e5d397a",
+            "directory": "External26",
+            "voiceContent": "但饭桌是个很有意思的地方。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_07.wem"
+        },
+        "a69a782ea53ea7e9": {
+            "hash": "a69a782ea53ea7e9",
+            "directory": "External20",
+            "voiceContent": "哈哈…现在想来，他们可能是真的以为我喜欢喝茶吧。",
+            "sourceName": "vo_wanderer_mimitomo_friendship2_10.wem"
+        },
+        "2f9b4c7c9cc2fe7d": {
+            "hash": "2f9b4c7c9cc2fe7d",
+            "directory": "External5",
+            "voiceContent": "虽然你在预感不妙时的表情很耐人寻味，但我并没有故意为难你的癖好。",
+            "sourceName": "vo_wanderer_mimitomo_friendship3_04.wem"
+        },
+        "04df771697023157": {
+            "hash": "04df771697023157",
+            "directory": "External0",
+            "voiceContent": "愿望不会因为没能实现而变得更珍贵，但也不必因其落空就质疑当时的真心，对吧？",
+            "sourceName": "vo_mimiTomo_xm_wanderer_vimaraVillage_03.wem"
+        },
+        "0609632841842f71": {
+            "hash": "0609632841842f71",
+            "directory": "External0",
+            "voiceContent": "……",
+            "sourceName": "vo_mimiTomo_xm_wanderer_vimaraVillage_01.wem"
+        },
+        "876f971cb40c5081": {
+            "hash": "876f971cb40c5081",
+            "directory": "External16",
+            "voiceContent": "惊讶什么，我也有心情好的时候呀。",
+            "sourceName": "vo_mimiTomo_xm_wanderer_vegetation_03.wem"
+        },
+        "8322151eda62064e": {
+            "hash": "8322151eda62064e",
+            "directory": "External16",
+            "voiceContent": "很久以前，我在还祈求成为「人」的时候，也曾希望过上普通的生活。",
+            "sourceName": "vo_mimiTomo_xm_wanderer_vimaraVillage_02.wem"
+        },
+        "d79d2b0d7aa67fe7": {
+            "hash": "d79d2b0d7aa67fe7",
+            "directory": "External26",
+            "voiceContent": "稻妻的林木过于幽暗，至冬的又都冷冰冰的。",
+            "sourceName": "vo_mimiTomo_xm_wanderer_vegetation_01.wem"
+        },
+        "2e5dbd262ff9dc80": {
+            "hash": "2e5dbd262ff9dc80",
+            "directory": "External5",
+            "voiceContent": "像这样温暖湿润、生机勃勃的环境，我并不讨厌。",
+            "sourceName": "vo_mimiTomo_xm_wanderer_vegetation_02.wem"
+        }
+    },
+    "Quests": {
+        "9102b6dd92dbed97": {
+            "hash": "9102b6dd92dbed97",
+            "directory": "External18",
+            "voiceContent": "（这种感觉…就像是活了两次一样。）",
+            "sourceName": "vo_LLZAQ004_1_wanderer_28.wem"
+        },
+        "d0f773263cd6b57b": {
+            "hash": "d0f773263cd6b57b",
+            "directory": "External26",
+            "voiceContent": "（…我会面对一切的。）",
+            "sourceName": "vo_LLZAQ003_5_wanderer_01.wem"
+        },
+        "cd9c9f9b342646be": {
+            "hash": "cd9c9f9b342646be",
+            "directory": "External25",
+            "voiceContent": "呜！我…怎么可能倒在这里…！！",
+            "sourceName": "vo_LLZAQ003_20_wanderer_03.wem"
+        }
+    },
+    "Gameplay": {
+        "9c33b87dbda4b58f": {
+            "hash": "9c33b87dbda4b58f",
+            "directory": "External19",
+            "voiceContent": "风起！",
+            "sourceName": "vo_wanderer_battle_skill1_01.wem"
+        },
+        "dcebea95d5404d48": {
+            "hash": "dcebea95d5404d48",
+            "directory": "External27",
+            "voiceContent": "俯瞰凡尘！",
+            "sourceName": "vo_wanderer_battle_skill1_02.wem"
+        },
+        "8aba848ecd50d009": {
+            "hash": "8aba848ecd50d009",
+            "directory": "External17",
+            "voiceContent": "怒风腾天！",
+            "sourceName": "vo_wanderer_battle_skill1_03.wem"
+        },
+        "862f9f5af44fb6ed": {
+            "hash": "862f9f5af44fb6ed",
+            "directory": "External16",
+            "voiceContent": "不度蝼蚁！",
+            "sourceName": "vo_wanderer_battle_skill3_01.wem"
+        },
+        "583d0154015c776a": {
+            "hash": "583d0154015c776a",
+            "directory": "External11",
+            "voiceContent": "鼠雀之辈！",
+            "sourceName": "vo_wanderer_battle_skill3_02.wem"
+        },
+        "d9c4334bbdcec173": {
+            "hash": "d9c4334bbdcec173",
+            "directory": "External27",
+            "voiceContent": "叫大声点！",
+            "sourceName": "vo_wanderer_battle_skill3_03.wem"
+        },
+        "cbae2584b97eb4a0": {
+            "hash": "cbae2584b97eb4a0",
+            "directory": "External25",
+            "voiceContent": "把头低下！",
+            "sourceName": "vo_wanderer_battle_skill3_04.wem"
+        },
+        "76167f7daeaba221": {
+            "hash": "76167f7daeaba221",
+            "directory": "External14",
+            "voiceContent": "毫无自知之明！",
+            "sourceName": "vo_wanderer_battle_skill3_05.wem"
+        },
+        "1bdb71758018697e": {
+            "hash": "1bdb71758018697e",
+            "directory": "External3",
+            "voiceContent": "就凭你，也配直视我？",
+            "sourceName": "vo_wanderer_battle_skill3_06.wem"
+        },
+        "44fcac90b4c99344": {
+            "hash": "44fcac90b4c99344",
+            "directory": "External8",
+            "voiceContent": "多余。",
+            "sourceName": "vo_wanderer_chest_open_01.wem"
+        },
+        "1a847a793b16143b": {
+            "hash": "1a847a793b16143b",
+            "directory": "External3",
+            "voiceContent": "啊？这你也要？",
+            "sourceName": "vo_wanderer_chest_open_02.wem"
+        },
+        "952b08817b6515f2": {
+            "hash": "952b08817b6515f2",
+            "directory": "External18",
+            "voiceContent": "你自己拿着玩吧。",
+            "sourceName": "vo_wanderer_chest_open_03.wem"
+        },
+        "2e96a7e2fec94be4": {
+            "hash": "2e96a7e2fec94be4",
+            "directory": "External5",
+            "voiceContent": "要你何用！",
+            "sourceName": "vo_wanderer_life_less30_teammate_01.wem"
+        },
+        "abfaf5c90e334e5b": {
+            "hash": "abfaf5c90e334e5b",
+            "directory": "External21",
+            "voiceContent": "也没指望你派上用场。",
+            "sourceName": "vo_wanderer_life_less30_teammate_02.wem"
+        },
+        "3691c6e86aa222a1": {
+            "hash": "3691c6e86aa222a1",
+            "directory": "External6",
+            "voiceContent": "坠入…深渊…",
+            "sourceName": "vo_wanderer_life_die_01.wem"
+        },
+        "dc56b8e03c0ee9fe": {
+            "hash": "dc56b8e03c0ee9fe",
+            "directory": "External27",
+            "voiceContent": "皆为…徒劳…",
+            "sourceName": "vo_wanderer_life_die_02.wem"
+        },
+        "284e91c473237c02": {
+            "hash": "284e91c473237c02",
+            "directory": "External5",
+            "voiceContent": "没想到…叫我做什么？",
+            "sourceName": "vo_wanderer_teamJoin_01.wem"
+        },
+        "82bfafcca1e46025": {
+            "hash": "82bfafcca1e46025",
+            "directory": "External16",
+            "voiceContent": "你最好有要事相求。",
+            "sourceName": "vo_wanderer_teamJoin_02.wem"
+        },
+        "d820f5d3ac894054": {
+            "hash": "d820f5d3ac894054",
+            "directory": "External27",
+            "voiceContent": "非我不可？…行吧，勉为其难。",
+            "sourceName": "vo_wanderer_teamJoin_03.wem"
+        },
+        "884b81ef09719a0a": {
+            "hash": "884b81ef09719a0a",
+            "directory": "External17",
+            "voiceContent": "这世上没有纯粹的自由。风也会有吹到头的时候。",
+            "sourceName": "vo_wanderer_character_idle_01.wem"
+        },
+        "0e619ff87347580d": {
+            "hash": "0e619ff87347580d",
+            "directory": "External1",
+            "voiceContent": "我说话刻薄吗？只是实话实说罢了，接受不了的人才该自己反思原因。",
+            "sourceName": "vo_wanderer_character_idle_02.wem"
+        },
+        "a2e38601548e0d7c": {
+            "hash": "a2e38601548e0d7c",
+            "directory": "External20",
+            "voiceContent": "寒暄就免了吧，没话找话的样子也太可笑了。",
+            "sourceName": "vo_wanderer_character_idle_03.wem"
+        },
+        "60fc7e5888fb064c": {
+            "hash": "60fc7e5888fb064c",
+            "directory": "External12",
+            "voiceContent": "想用我的斗笠遮雨？亏你提得出这种要求。",
+            "sourceName": "vo_wanderer_weather_heavyRain_01.wem"
+        },
+        "d28735d4db260409": {
+            "hash": "d28735d4db260409",
+            "directory": "External26",
+            "voiceContent": "见了点阳光就能高兴成这个样子？幼稚。",
+            "sourceName": "vo_wanderer_weather_afterRain_01.wem"
+        },
+        "878149138e8ac54a": {
+            "hash": "878149138e8ac54a",
+            "directory": "External16",
+            "voiceContent": "这点程度，你都能做到吧？",
+            "sourceName": "vo_wanderer_weather_gale_01.wem"
+        },
+        "f4bb3dbf644ee42f": {
+            "hash": "f4bb3dbf644ee42f",
+            "directory": "External30",
+            "voiceContent": "啧…烦心。",
+            "sourceName": "vo_wanderer_weather_thunder_01.wem"
+        },
+        "c644abe7045ed473": {
+            "hash": "c644abe7045ed473",
+            "directory": "External24",
+            "voiceContent": "明明和雨没什么区别，却讨人喜欢多了…真是人各有命。",
+            "sourceName": "vo_wanderer_weather_snowy_01.wem"
+        },
+        "e55dc08e0ccf0d5e": {
+            "hash": "e55dc08e0ccf0d5e",
+            "directory": "External28",
+            "voiceContent": "「快醒醒——太阳要晒屁股咯——」…哈，你不会以为我会这么叫你起床吧？",
+            "sourceName": "vo_wanderer_dialog_greetingMorning.wem"
+        },
+        "23441de0127e4d3a": {
+            "hash": "23441de0127e4d3a",
+            "directory": "External4",
+            "voiceContent": "我不需要吃饭。管好你自己和身边的小东西，就算是让我省心了。",
+            "sourceName": "vo_wanderer_dialog_greetingNoon.wem"
+        },
+        "bf71cbe8624ebc64": {
+            "hash": "bf71cbe8624ebc64",
+            "directory": "External23",
+            "voiceContent": "终于，无聊的一天就要结束了。",
+            "sourceName": "vo_wanderer_dialog_greetingNight.wem"
+        },
+        "f9e9ad8491fd5a2c": {
+            "hash": "f9e9ad8491fd5a2c",
+            "directory": "External31",
+            "voiceContent": "在我身边睡不着吗？呵呵。",
+            "sourceName": "vo_wanderer_dialog_greetingNight2.wem"
+        },
+        "0c263edeb8175623": {
+            "hash": "0c263edeb8175623",
+            "directory": "External1",
+            "voiceContent": "烧掉一个人偶会留下灰烬。至于灰烬中会诞生什么…",
+            "sourceName": "vo_wanderer_dialog_idle.wem"
+        },
+        "06b35b184b19ccbd": {
+            "hash": "06b35b184b19ccbd",
+            "directory": "External0",
+            "voiceContent": "那种东西随便了。执着于注定不属于自己的事物只是在浪费时间，现在的我有更重要的事情要做。",
+            "sourceName": "vo_wanderer_dialog_idle2.wem"
+        },
+        "819d5b730d96e40c": {
+            "hash": "819d5b730d96e40c",
+            "directory": "External16",
+            "voiceContent": "我不可能皈依「正义」，但既然说过要偿还你的恩情，就定会做到。倒是你，在和我接触的时候可能需要想想自己立场哦？万一被人撞见，说你与罪人「狼狈为奸」，我可概不负责。",
+            "sourceName": "vo_wanderer_dialog_close1.wem"
+        },
+        "42a73844af403181": {
+            "hash": "42a73844af403181",
+            "directory": "External8",
+            "voiceContent": "对你我以前的对峙耿耿于怀？哦。所以呢，你要怎么做？慢慢想，我不急。",
+            "sourceName": "vo_wanderer_dialog_close.wem"
+        },
+        "2e0ded2c7c6437db": {
+            "hash": "2e0ded2c7c6437db",
+            "directory": "External5",
+            "voiceContent": "所谓「神明的注视」令人不爽，但反正是可用的力量，我不挑。你觉得「风元素」有其深意？呵，为什么会这么想？神明行事蛮横又无理，我不是让你领教过吗？",
+            "sourceName": "vo_wanderer_dialog_pendant.wem"
+        },
+        "8736beccc5f1333c": {
+            "hash": "8736beccc5f1333c",
+            "directory": "External16",
+            "voiceContent": "没有。你想问什么就问吧，我看心情回答。",
+            "sourceName": "vo_wanderer_dialog_share_01.wem"
+        },
+        "c2efd40eff7e0b16": {
+            "hash": "c2efd40eff7e0b16",
+            "directory": "External24",
+            "voiceContent": "看啊，鸟雀会炫耀羽毛，松鼠忙着囤积食物，人类为了柴米油盐整日奔走。头脑简单的生物活得就是比较容易呢。",
+            "sourceName": "vo_wanderer_pref_gift_01.wem"
+        },
+        "e6061bf15eb62da2": {
+            "hash": "e6061bf15eb62da2",
+            "directory": "External28",
+            "voiceContent": "她选择不除掉我，或许不只是因为我有利用价值。也许是因为她很贤明，又有至善之心，又或许，是她在我身上看到了孤独的影子…你说我是在恶意揣测？哈，这不是当然的事情嘛！我又不是什么好人。",
+            "sourceName": "vo_wanderer_teammate_nahida_01.wem"
+        },
+        "fdb22bcccdb68d56": {
+            "hash": "fdb22bcccdb68d56",
+            "directory": "External31",
+            "voiceContent": "对自己的造物视若不见，却又美其名曰不忍心干预…",
+            "sourceName": "vo_wanderer_teammate_raidenShogun_01.wem"
+        },
+        "c4d6d11397322070": {
+            "hash": "c4d6d11397322070",
+            "directory": "External24",
+            "voiceContent": "人人都称赞她的温柔与慈爱，却不知「爱」也是「罪」的一种。搞不好是代偿心理作祟哦？",
+            "sourceName": "vo_wanderer_teammate_tsaritsa_01.wem"
+        },
+        "ae1bbb7e889989f7": {
+            "hash": "ae1bbb7e889989f7",
+            "directory": "External21",
+            "voiceContent": "试问：当遇到一名「无论何时」都懵懂无知，「无论做什么」都麻木平淡的「少女」时，该作何反应？我的话，尚可一战；你的话…因为太有良知，还是离她远些吧。",
+            "sourceName": "vo_wanderer_teammate_columbina_01.wem"
+        },
+        "d57cc8f6cf703331": {
+            "hash": "d57cc8f6cf703331",
+            "directory": "External26",
+            "voiceContent": "道貌岸然的伪君子。她对人展露「优雅」与「亲切」都只是为了更好地「控制」罢了。而直面过她疯狂一面的人，大多已经…呼~。",
+            "sourceName": "vo_wanderer_teammate_arlecchino_01.wem"
+        },
+        "36ff355e5b6d94a4": {
+            "hash": "36ff355e5b6d94a4",
+            "directory": "External6",
+            "voiceContent": "也就是「公子」才会觉得「公鸡」是真心实意、不求回报地关心他和他的家人。虽然那位市长大人确实做了不少实事，但稍微有点脑子的人都能看出来，这里的潜台词是「你的家人都在我掌控之中」吧？",
+            "sourceName": "vo_wanderer_teammate_pulcinella_01.wem"
+        },
+        "3e4410975f6a07e4": {
+            "hash": "3e4410975f6a07e4",
+            "directory": "External7",
+            "voiceContent": "「丑角」是坎瑞亚的遗民——除此之外，我对他知之甚少，也从未与他有过什么密切的交流。但他似乎对我意有所求，以前给我指派过不少重要的任务，包括前往「深渊」。",
+            "sourceName": "vo_wanderer_teammate_pierro_01.wem"
+        },
+        "7b17fc85fd3fb014": {
+            "hash": "7b17fc85fd3fb014",
+            "directory": "External15",
+            "voiceContent": "「刚正不阿的『队长』」、「正直果敢的『队长』」、「战功累累的『队长』」…这些愚人众里流传的言论，就算是人偶的耳朵也要听出茧子来了。你不觉得，绝对的「正直」，其实是个极其危险的隐患吗？更不用提，「队长」拥有顶尖的实力。",
+            "sourceName": "vo_wanderer_teammate_capitano_01.wem"
+        },
+        "fe2bce14a89b409c": {
+            "hash": "fe2bce14a89b409c",
+            "directory": "External31",
+            "voiceContent": "真遗憾，小吉祥草王让他消除了那么多的切片，剥夺了我将他一片一片千刀万剐的快乐。",
+            "sourceName": "vo_wanderer_teammate_dottore_01.wem"
+        },
+        "30520c2aea777cfe": {
+            "hash": "30520c2aea777cfe",
+            "directory": "External6",
+            "voiceContent": "真稀奇，竟然想了解我。会招来麻烦哦？",
+            "sourceName": "vo_wanderer_friendship_01.wem"
+        },
+        "8a8d1a33190ab5a1": {
+            "hash": "8a8d1a33190ab5a1",
+            "directory": "External17",
+            "voiceContent": "啊，一定有很多、很多人想要找我清算前尘。无所谓，我来者不拒——或者说，还挺期待的呢。",
+            "sourceName": "vo_wanderer_friendship_02.wem"
+        },
+        "e024c03a23ddc820": {
+            "hash": "e024c03a23ddc820",
+            "directory": "External28",
+            "voiceContent": "我曾以为成神便可摒弃无用的情感，现在不这么觉得了。至少「愤怒」，无论来自他人还是自我，都是方便使用的工具。怎么会有人永远不生气呢？难以想象，这种人就没有一点脾气吗？",
+            "sourceName": "vo_wanderer_friendship_03.wem"
+        },
+        "ee3ace01282dd4f3": {
+            "hash": "ee3ace01282dd4f3",
+            "directory": "External29",
+            "voiceContent": "在进入世界树时，我心中只有一个念头：希望自己从未来到这个世上。世界树回应了这个愿望，却没有带来我期盼的结果。这片土地的命运在捉弄它的囚徒方面一如往常。",
+            "sourceName": "vo_wanderer_friendship_04.wem"
+        },
+        "6cb39c096bbb8aea": {
+            "hash": "6cb39c096bbb8aea",
+            "directory": "External13",
+            "voiceContent": "你我有过交点，但终有一天会去往不同的地方。谁知道以后会发生什么呢？走着瞧吧。",
+            "sourceName": "vo_wanderer_friendship_05.wem"
+        },
+        "b282c32800ca27ba": {
+            "hash": "b282c32800ca27ba",
+            "directory": "External22",
+            "voiceContent": "爱好？那是闲人才有空琢磨的东西吧，我看起来像是没事做吗？",
+            "sourceName": "vo_wanderer_pref_hobby.wem"
+        },
+        "a40d89709f5637af": {
+            "hash": "a40d89709f5637af",
+            "directory": "External20",
+            "voiceContent": "在想怎么才能把你甩掉，去胡作非为一番。——开玩笑的，你信了？",
+            "sourceName": "vo_wanderer_dialog_annoyed.wem"
+        },
+        "62a26bb3c128c6ff": {
+            "hash": "62a26bb3c128c6ff",
+            "directory": "External12",
+            "voiceContent": "腻腻歪歪的甜东西，牙齿都要被黏在一起了。你自己留着吧。",
+            "sourceName": "vo_wanderer_pref_foodDislike.wem"
+        },
+        "5de20cc67611046a": {
+            "hash": "5de20cc67611046a",
+            "directory": "External11",
+            "voiceContent": "还行吧，算是你为数不多的优点了。",
+            "sourceName": "vo_wanderer_spice_pref_01.wem"
+        },
+        "7b73fb24a1703e30": {
+            "hash": "7b73fb24a1703e30",
+            "directory": "External15",
+            "voiceContent": "不错，至少做出了能入口的食物。",
+            "sourceName": "vo_wanderer_spice_normal_01.wem"
+        },
+        "fcb7f85dfbd28024": {
+            "hash": "fcb7f85dfbd28024",
+            "directory": "External31",
+            "voiceContent": "想害我？难不成你笨到忘了我非凡胎？",
+            "sourceName": "vo_wanderer_spice_dislike_01.wem"
+        },
+        "7b97f2a41b4a5be9": {
+            "hash": "7b97f2a41b4a5be9",
+            "directory": "External15",
+            "voiceContent": "把手给我。…呵，别紧张啊，只是带你去高处看看而已。如何？应当是非凡的景色。感谢就免了，谢来谢去的没意思。",
+            "sourceName": "vo_wanderer_pref_birthday_01.wem"
+        },
+        "6fd6de5395b0ad89": {
+            "hash": "6fd6de5395b0ad89",
+            "directory": "External13",
+            "voiceContent": "…看得出来，你尽力了。",
+            "sourceName": "vo_wanderer_starUp_01.wem"
+        },
+        "ff92b04ac9646826": {
+            "hash": "ff92b04ac9646826",
+            "directory": "External31",
+            "voiceContent": "风吹过来了…你做了什么？",
+            "sourceName": "vo_wanderer_starUp_02.wem"
+        },
+        "815012428604930f": {
+            "hash": "815012428604930f",
+            "directory": "External16",
+            "voiceContent": "给我力量，你不担心后果吗？…好吧。",
+            "sourceName": "vo_wanderer_starUp_03.wem"
+        },
+        "fb03c4391c00f404": {
+            "hash": "fb03c4391c00f404",
+            "directory": "External31",
+            "voiceContent": "虽说我可以成为你的助力，但将我视作同伴仍是件危险的事情，希望你清楚自己在面对什么。若你不畏惧，便站到我身后吧。",
+            "sourceName": "vo_wanderer_starUp_04.wem"
+        },
+        "d04e65518d54787d": {
+            "hash": "d04e65518d54787d",
+            "directory": "External26",
+            "voiceContent": "习惯了。",
+            "sourceName": "vo_wanderer_life_less30_01.wem"
+        },
+        "764947495eeeb37a": {
+            "hash": "764947495eeeb37a",
+            "directory": "External14",
+            "voiceContent": "不值一提。",
+            "sourceName": "vo_wanderer_life_less30_02.wem"
+        },
+        "3568dad6c021d787": {
+            "hash": "3568dad6c021d787",
+            "directory": "External6",
+            "voiceContent": "罪业的报偿…",
+            "sourceName": "vo_wanderer_life_die_03.wem"
+        },
+        "626e1339aeac56fe": {
+            "hash": "626e1339aeac56fe",
+            "directory": "External12",
+            "voiceContent": "不过如此。",
+            "sourceName": "vo_wanderer_battle_hit_H_02.wem"
+        },
+        "bb80353032bf4487": {
+            "hash": "bb80353032bf4487",
+            "directory": "External23",
+            "voiceContent": "…可笑。",
+            "sourceName": "vo_wanderer_battle_hit_H_03.wem"
+        },
+        "1791522bf1f3aa33": {
+            "hash": "1791522bf1f3aa33",
+            "directory": "External2",
+            "voiceContent": "她除了自己的研究以外什么都不关心，性格恶劣得很。但即便做到如此极端的地步，却也只是制造了大量废品，在我仍是执行官时还低我一席，真是可怜。",
+            "sourceName": "vo_wanderer_teammate_sandrone_01.wem"
+        },
+        "ee6a343e73a547c3": {
+            "hash": "ee6a343e73a547c3",
+            "directory": "External29",
+            "voiceContent": "那个第九席啊，他对「公平交易」过分偏执，甚至试图推翻神与人之间天生的不平等。不过凡人就是这样，容易有不切实际的妄想，倒也没什么特别的，就像他平庸的能力和眼光一样——选择和「博士」密切合作，哼，是不会有好下场的。",
+            "sourceName": "vo_wanderer_teammate_pantalone_01.wem"
+        },
+        "156665d55a87bde2": {
+            "hash": "156665d55a87bde2",
+            "directory": "External2",
+            "voiceContent": "头脑简单，四肢也不甚发达。让他做最后一席都是在拉低执行官的整体水准。万幸，我已经不在其列了。",
+            "sourceName": "vo_wanderer_teammate_tartaglia_01.wem"
+        },
+        "1bffde4f8b4fdde0": {
+            "hash": "1bffde4f8b4fdde0",
+            "directory": "External3",
+            "voiceContent": "她的灰烬里什么都没有。我对失去未来的人不感兴趣。",
+            "sourceName": "vo_wanderer_teammate_signora_01.wem"
+        },
+        "94894ebb405a366e": {
+            "hash": "94894ebb405a366e",
+            "directory": "External18",
+            "voiceContent": "油腔滑调的妖怪，为博神明的青睐，将自己伪装成关心人类的样子。其实，只是为了找乐子吧？",
+            "sourceName": "vo_wanderer_teammate_yaeMiko_01.wem"
+        },
+        "1f225b41a4ba0631": {
+            "hash": "1f225b41a4ba0631",
+            "directory": "External3",
+            "voiceContent": "风驰！",
+            "sourceName": "vo_wanderer_explore_sprint_start_01.wem"
+        },
+        "98d50d383ab4b40e": {
+            "hash": "98d50d383ab4b40e",
+            "directory": "External19",
+            "voiceContent": "疾风随行！",
+            "sourceName": "vo_wanderer_explore_sprint_start_02.wem"
+        },
+        "285c74141275c695": {
+            "hash": "285c74141275c695",
+            "directory": "External5",
+            "voiceContent": "你为什么觉得我会认识他？就因为他经常追在我后面吵着要看我的帽子吗？我们没怎么说过话，第一次见面他就问我是不是叫阿帽，这又何尝不是以貌取人？哼，阿帽，这个名字倒是流传开了…",
+            "sourceName": "vo_wanderer_teammate_sethos_01.wem"
+        },
+        "49110266693a68a3": {
+            "hash": "49110266693a68a3",
+            "directory": "External9",
+            "voiceContent": "有茶吗？越苦越好，回味无穷。",
+            "sourceName": "vo_wanderer_pref_foodLike_01.wem"
+        },
+        "33679e38628dbc1d": {
+            "hash": "33679e38628dbc1d",
+            "directory": "External6",
+            "voiceContent": "你说枫原家的后人？那岂不是…哦？他也有风元素的「神之眼」，还扛下过雷电将军的一刀？呵呵…哈哈哈哈哈哈哈哈！",
+            "sourceName": "vo_wanderer_teammate_kazuha_01.wem"
+        },
+        "8403673c95e71ba8": {
+            "hash": "8403673c95e71ba8",
+            "directory": "External16",
+            "voiceContent": "要我报上名来？此行世间，我名号诸多，虽然随便一个对凡人来说都高不可及，但于我都已成过往。想称呼什么就随你吧，让我见识下你的品味，可别让我失望。",
+            "sourceName": "vo_wanderer_draw_appear_01.wem"
+        },
+        "ec69a1290433bf6c": {
+            "hash": "ec69a1290433bf6c",
+            "directory": "External29",
+            "voiceContent": "…真慢。",
+            "sourceName": "vo_wanderer_explore_sprint_start_04.wem"
+        },
+        "57e7bb2022ed0a3d": {
+            "hash": "57e7bb2022ed0a3d",
+            "directory": "External10",
+            "voiceContent": "没叫你跟着。",
+            "sourceName": "vo_wanderer_explore_sprint_start_05.wem"
+        },
+        "9ecfa3182ff064ea": {
+            "hash": "9ecfa3182ff064ea",
+            "directory": "External19",
+            "voiceContent": "…你死定了。",
+            "sourceName": "vo_wanderer_battle_hit_H_06.wem"
+        },
+        "2056d50fec62aef3": {
+            "hash": "2056d50fec62aef3",
+            "directory": "External4",
+            "voiceContent": "等着求饶吧。",
+            "sourceName": "vo_wanderer_battle_hit_H_07.wem"
+        },
+        "9a099706825d77b8": {
+            "hash": "9a099706825d77b8",
+            "directory": "External19",
+            "voiceContent": "做好付出代价的准备。",
+            "sourceName": "vo_wanderer_battle_hit_H_08.wem"
+        },
+        "caf04e3f3fd0cff5": {
+            "hash": "caf04e3f3fd0cff5",
+            "directory": "External25",
+            "voiceContent": "还行吧，算是你为数不多的优点了。",
+            "sourceName": "vo_wanderer_spice_event_pref_01.wem"
+        },
+        "6f147d83bc6572bb": {
+            "hash": "6f147d83bc6572bb",
+            "directory": "External13",
+            "voiceContent": "不错，至少做出了能入口的食物。",
+            "sourceName": "vo_wanderer_spice_event_normal_01.wem"
+        },
+        "b0a459d876f1a921": {
+            "hash": "b0a459d876f1a921",
+            "directory": "External22",
+            "voiceContent": "想害我？难不成你笨到忘了我非凡胎？",
+            "sourceName": "vo_wanderer_spice_event_dislike_01.wem"
+        },
+        "741e26a31ef2a4f5": {
+            "hash": "741e26a31ef2a4f5",
+            "directory": "External14",
+            "voiceContent": "不痛不痒。",
+            "sourceName": "vo_card_wanderer_inGame_hard_02.wem"
+        },
+        "2054bab2554801ef": {
+            "hash": "2054bab2554801ef",
+            "directory": "External4",
+            "voiceContent": "要帮你的落败找个理由吗？",
+            "sourceName": "vo_card_wanderer_inGame_hard_04.wem"
+        },
+        "318a97e3bd87d69f": {
+            "hash": "318a97e3bd87d69f",
+            "directory": "External6",
+            "voiceContent": "…受够了。",
+            "sourceName": "vo_card_wanderer_inGame_easy_03.wem"
+        },
+        "d878b5ed39755536": {
+            "hash": "d878b5ed39755536",
+            "directory": "External27",
+            "voiceContent": "呵…",
+            "sourceName": "vo_card_wanderer_inGame_easy_02.wem"
+        },
+        "ed9ac899b4bfa792": {
+            "hash": "ed9ac899b4bfa792",
+            "directory": "External29",
+            "voiceContent": "哈！",
+            "sourceName": "vo_card_wanderer_inGame_hard_01.wem"
+        },
+        "48bce3f605c19a99": {
+            "hash": "48bce3f605c19a99",
+            "directory": "External9",
+            "voiceContent": "没招了？",
+            "sourceName": "vo_card_wanderer_inGame_easy_01.wem"
+        },
+        "f22aecab62252e64": {
+            "hash": "f22aecab62252e64",
+            "directory": "External30",
+            "voiceContent": "真是闹剧。",
+            "sourceName": "vo_card_wanderer_inGame_hard_03.wem"
+        },
+        "d74f89db8ef49dd4": {
+            "hash": "d74f89db8ef49dd4",
+            "directory": "External26",
+            "voiceContent": "给你提前认输的机会。",
+            "sourceName": "vo_card_wanderer_inGame_easy_04.wem"
+        }
+    }
+}

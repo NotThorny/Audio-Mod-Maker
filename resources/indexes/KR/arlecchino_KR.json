@@ -1,0 +1,444 @@
+{
+    "Teapot": {},
+    "Quests": {},
+    "Gameplay": {
+        "a81b2abe31cc4322": {
+            "hash": "a81b2abe31cc4322",
+            "directory": "External21",
+            "voiceContent": "꿰뚫어 주지",
+            "sourceName": "vo_arlecchino_battle_skill1_01.wem"
+        },
+        "028c48c6608d2745": {
+            "hash": "028c48c6608d2745",
+            "directory": "External0",
+            "voiceContent": "기각한다",
+            "sourceName": "vo_arlecchino_battle_skill1_02.wem"
+        },
+        "a9440ecfdc4c80f4": {
+            "hash": "a9440ecfdc4c80f4",
+            "directory": "External21",
+            "voiceContent": "펼쳐져라",
+            "sourceName": "vo_arlecchino_battle_skill1_03.wem"
+        },
+        "7a7504e15af5c97c": {
+            "hash": "7a7504e15af5c97c",
+            "directory": "External15",
+            "voiceContent": "이곳으로 떨어져라",
+            "sourceName": "vo_arlecchino_battle_skill3_01.wem"
+        },
+        "e4c932c6cf2d1613": {
+            "hash": "e4c932c6cf2d1613",
+            "directory": "External28",
+            "voiceContent": "이곳에서 떠올라라",
+            "sourceName": "vo_arlecchino_battle_skill3_02.wem"
+        },
+        "5fdd00cf0fd9560a": {
+            "hash": "5fdd00cf0fd9560a",
+            "directory": "External11",
+            "voiceContent": "달처럼 영원하리라",
+            "sourceName": "vo_arlecchino_battle_skill3_03.wem"
+        },
+        "8dad7e2f7c6ff2c3": {
+            "hash": "8dad7e2f7c6ff2c3",
+            "directory": "External17",
+            "voiceContent": "예상 밖의 놀라움은 큰 즐거움이지",
+            "sourceName": "vo_arlecchino_chest_open_01.wem"
+        },
+        "2359504a0838a52c": {
+            "hash": "2359504a0838a52c",
+            "directory": "External4",
+            "voiceContent": "나쁘지 않은 수확이군",
+            "sourceName": "vo_arlecchino_chest_open_02.wem"
+        },
+        "923d6a4129d519fd": {
+            "hash": "923d6a4129d519fd",
+            "directory": "External18",
+            "voiceContent": "이 순간의 기쁨을 잘 기억하도록 해",
+            "sourceName": "vo_arlecchino_chest_open_03.wem"
+        },
+        "88e5ec217fa1d05b": {
+            "hash": "88e5ec217fa1d05b",
+            "directory": "External17",
+            "voiceContent": "물러나",
+            "sourceName": "vo_arlecchino_life_less30_teammate_01.wem"
+        },
+        "0b819e3b7037cde4": {
+            "hash": "0b819e3b7037cde4",
+            "directory": "External1",
+            "voiceContent": "계획을 변경하지",
+            "sourceName": "vo_arlecchino_life_less30_teammate_02.wem"
+        },
+        "0371956df79ef1e2": {
+            "hash": "0371956df79ef1e2",
+            "directory": "External0",
+            "voiceContent": "난롯불이… 꺼져버렸어…",
+            "sourceName": "vo_arlecchino_life_die_01.wem"
+        },
+        "5de3b37626618805": {
+            "hash": "5de3b37626618805",
+            "directory": "External11",
+            "voiceContent": "아이들의… 노랫소리가 들려…",
+            "sourceName": "vo_arlecchino_life_die_02.wem"
+        },
+        "aaae2fa1284fad69": {
+            "hash": "aaae2fa1284fad69",
+            "directory": "External21",
+            "voiceContent": "내가 처리할 테니 안심해",
+            "sourceName": "vo_arlecchino_teamJoin_01.wem"
+        },
+        "3a6a01985c036706": {
+            "hash": "3a6a01985c036706",
+            "directory": "External7",
+            "voiceContent": "버거운 일이라도 생겼나?",
+            "sourceName": "vo_arlecchino_teamJoin_02.wem"
+        },
+        "bc27639018a392ef": {
+            "hash": "bc27639018a392ef",
+            "directory": "External23",
+            "voiceContent": "의미 있는 협력이 되길 바라지",
+            "sourceName": "vo_arlecchino_teamJoin_03.wem"
+        },
+        "e7a4860c8ec29135": {
+            "hash": "e7a4860c8ec29135",
+            "directory": "External28",
+            "voiceContent": "내 눈을 너무 뚫어져라 쳐다보지 마. 뭘 보게 될지 장담 못 하니까",
+            "sourceName": "vo_arlecchino_character_idle_01.wem"
+        },
+        "648728032772bdd2": {
+            "hash": "648728032772bdd2",
+            "directory": "External12",
+            "voiceContent": "아이들은 뭘 하고 있을지 모르겠군…. 뭐, 알아서 하겠지",
+            "sourceName": "vo_arlecchino_character_idle_02.wem"
+        },
+        "e67a99fae440931b": {
+            "hash": "e67a99fae440931b",
+            "directory": "External28",
+            "voiceContent": "보고할 게 있다고? 좋아, 말해 봐",
+            "sourceName": "vo_arlecchino_character_idle_03.wem"
+        },
+        "2b546b9516155f46": {
+            "hash": "2b546b9516155f46",
+            "directory": "External5",
+            "voiceContent": "두려워할 필요 없어. 뇌광도 우리를 피해갈 테니까",
+            "sourceName": "vo_arlecchino_weather_thunder_01.wem"
+        },
+        "4e4a11bc10ed4606": {
+            "hash": "4e4a11bc10ed4606",
+            "directory": "External9",
+            "voiceContent": "사람들은 추위 속에서만 따스한 불꽃을 그리워하지",
+            "sourceName": "vo_arlecchino_weather_snowy_01.wem"
+        },
+        "d39319c1493dd20f": {
+            "hash": "d39319c1493dd20f",
+            "directory": "External26",
+            "voiceContent": "이런 날엔 그늘에 있는 게 좋겠어",
+            "sourceName": "vo_arlecchino_weather_sunny_01.wem"
+        },
+        "a8026c53d6978635": {
+            "hash": "a8026c53d6978635",
+            "directory": "External21",
+            "voiceContent": "자기 비밀을 쉽게 털어놓지 마. 바람이 그걸 어디로 실어 갈지 모르거든",
+            "sourceName": "vo_arlecchino_weather_gale_01.wem"
+        },
+        "d38b1ed4c9ab968f": {
+            "hash": "d38b1ed4c9ab968f",
+            "directory": "External26",
+            "voiceContent": "좋은 아침이군. 오늘의 계획은 뭐지?",
+            "sourceName": "vo_arlecchino_dialog_greetingMorning.wem"
+        },
+        "ab173abeabb17d4d": {
+            "hash": "ab173abeabb17d4d",
+            "directory": "External21",
+            "voiceContent": "점심 때 집에 가면 늘 아이들이 바닥에 널브러져 자고 있더군. 확실히 나른해지기 쉬운 시간이야. 그러니 잠깐 쉬었다 가지",
+            "sourceName": "vo_arlecchino_dialog_greetingNoon.wem"
+        },
+        "54456b2c112e4dc1": {
+            "hash": "54456b2c112e4dc1",
+            "directory": "External10",
+            "voiceContent": "누가 그러더군. 달빛은 인간 세상을 내려다보는 눈 같다고. 그저 우리가 그 시선에 익숙해졌을 뿐이지",
+            "sourceName": "vo_arlecchino_dialog_greetingNight.wem"
+        },
+        "76bf4888d44a06e3": {
+            "hash": "76bf4888d44a06e3",
+            "directory": "External14",
+            "voiceContent": "잘 시간이야. 「잠이 안 온다」고? 그럼 알아서 방법을 찾도록 해. 내 방식은 별로 달갑지 않을 테니",
+            "sourceName": "vo_arlecchino_dialog_greetingNight2.wem"
+        },
+        "8e2f9bdb440d2b84": {
+            "hash": "8e2f9bdb440d2b84",
+            "directory": "External17",
+            "voiceContent": "자기 자신을 객관적으로 바라보기는 쉽지 않아. 그리고 대개 그렇지 못한 쪽이 더 행복하지",
+            "sourceName": "vo_arlecchino_dialog_idle.wem"
+        },
+        "599fa73c9c95364c": {
+            "hash": "599fa73c9c95364c",
+            "directory": "External11",
+            "voiceContent": "가끔은 뒤에서 그런 소리가 들리더군. 내가 감정이 메마르고 잔인한 사람이라고. 오해를 풀 생각은 없어, 편견은 진실을 감춰주니 나에겐 잘된 일이지. 다만 확실히 그들의 기대를 「충족」시켜 줄 필요는 있겠어…. 그자들이 내 손아귀에서 살아남을 수 있을 만큼 실력과 지위가 있으면 좋겠군",
+            "sourceName": "vo_arlecchino_dialog_idle2.wem"
+        },
+        "68e5cf9287391843": {
+            "hash": "68e5cf9287391843",
+            "directory": "External13",
+            "voiceContent": "아이들이 네 이야기를 좋아하더군. 네가 또 언제 오냐고 물어보고 말이야. 기대를 저버리는 데엔 대가가 따르는 법이지, 그 점을 잘 고려해 봐",
+            "sourceName": "vo_arlecchino_dialog_close1.wem"
+        },
+        "3307ed218feb49e4": {
+            "hash": "3307ed218feb49e4",
+            "directory": "External6",
+            "voiceContent": "너와 나는 신념이 다르니 함께하기 위해선 서로 양보할 필요가 있겠지. 내 비밀 몇 가지 알려줄게. 말하지 않는 부분에 대해선… 굳이 알려고 하지 마. 그게 너를 위한 거니까",
+            "sourceName": "vo_arlecchino_dialog_close.wem"
+        },
+        "6723df2487e0ec17": {
+            "hash": "6723df2487e0ec17",
+            "directory": "External12",
+            "voiceContent": "「불꽃이 피처럼 내 몸속에 흐르고 있다」…. 보통은 뻔한 시의 한 구절처럼 여기겠지만, 내게 이건 벗어날 수 없는 현실이야",
+            "sourceName": "vo_arlecchino_dialog_share_01.wem"
+        },
+        "535cbe16d3e6bfdf": {
+            "hash": "535cbe16d3e6bfdf",
+            "directory": "External10",
+            "voiceContent": "스네즈나야의 오로라는 참 아름답지. 나중에 한 번 가서 봐보도록 해",
+            "sourceName": "vo_arlecchino_pref_gift_01.wem"
+        },
+        "a2f6c9c77062e91d": {
+            "hash": "a2f6c9c77062e91d",
+            "directory": "External20",
+            "voiceContent": "크레이비가 진정한 「집」이란 게 뭐냐고 물어본 적이 있어. 나는 대답할 수 없었지. 벽난로의 집을 구성하는 건 전부 「돌아갈 집이 없는」 사람들이었거든.나는 집에 존재하는 불합리함을 거부하며 새로운 규칙을 세웠고, 쿠자비나를 죽인 후 아이들의 「아버지」가 되었어. 그럼에도 여긴 아직 진정한 집은 아니야. 난 이 질문은 계속해서 남겨두려 해. 언젠가 리니가 새로운 답을 내려주길 기대하고 있지",
+            "sourceName": "vo_arlecchino_teammate_lyney_01.wem"
+        },
+        "bae60772125994e1": {
+            "hash": "bae60772125994e1",
+            "directory": "External23",
+            "voiceContent": "침착한 성격은 리넷의 특징이자 장점이야. 본인도 그걸 잘 알고 있을 테지. 리넷은 팀에서 대체할 수 없는 역할을 맡고 있고, 그 점에 행복해하고 있어. 나 역시 「아버지」로서 리넷이 역량을 충분히 발휘할 기회를 제공할 생각이야",
+            "sourceName": "vo_arlecchino_teammate_lynette_01.wem"
+        },
+        "76bf5d52dc37e0d2": {
+            "hash": "76bf5d52dc37e0d2",
+            "directory": "External14",
+            "voiceContent": "프레미네의 마음속엔 다양한 감정이 복잡하게 감춰져 있어. 자신과 상관없는 여러 문제를 자기 탓으로 돌리고 힘들어하는 경우가 많지. 다른 아이들은 그 아이의 생각을 이해하지 못하고 말이야. 하지만 너는 섬세한 감정을 지녔으니, 그 아이와 좋은 친구가 되어줄 수 있을 것 같군",
+            "sourceName": "vo_arlecchino_teammate_freminet_01.wem"
+        },
+        "a8a447e439cd3e4f": {
+            "hash": "a8a447e439cd3e4f",
+            "directory": "External21",
+            "voiceContent": "최초의 집행관인 그는 모든 것이 베일에 싸여있어. 그는 처음 만난 순간부터 내 출신을 쉽게 알아챘지만, 나는 지금까지도 그에 대해 아는 게 거의 없지",
+            "sourceName": "vo_arlecchino_teammate_jester_01.wem"
+        },
+        "bad4fc7cbcf3e439": {
+            "hash": "bad4fc7cbcf3e439",
+            "directory": "External23",
+            "voiceContent": "그의 힘은 그에게 더 많은 책임을 부여했어. 하지만 그 막강한 힘 없이도 그는 충분히 존경할 만한 사람이야",
+            "sourceName": "vo_arlecchino_teammate_capitano_01.wem"
+        },
+        "3ca7ad3e1035721b": {
+            "hash": "3ca7ad3e1035721b",
+            "directory": "External7",
+            "voiceContent": "내가 막 벽난로의 집을 이어받았을 때, 그자는 내게 여러 협력안을 제시했어. 「도태된 아이」를 자기 실험실에 제공하면 그 대가로 실험 성과를 공유해 주겠다는 거였지. 듣자 하니 전대와의 협력은 꽤 유쾌했다더군. 같은 집행관만 아니었으면 녀석을 전대의 곁으로 보내버렸을 텐데 말이야",
+            "sourceName": "vo_arlecchino_teammate_dottore_01.wem"
+        },
+        "80afdcdee5a220cb": {
+            "hash": "80afdcdee5a220cb",
+            "directory": "External16",
+            "voiceContent": "느비예트 씨는 공적으로도 사적으로도 일정한 「거리감」을 유지하려고 해. 다들 그걸 인간미가 부족하다고 평가하지만, 내가 보기엔 정반대야. 법의 차가움이 민중을 지키는 공정함에서 비롯되듯, 그의 거리감도 본질적으로는 특별한 선의라고 볼 수 있지",
+            "sourceName": "vo_arlecchino_teammate_neuvillette_01.wem"
+        },
+        "469b41d95091c90f": {
+            "hash": "469b41d95091c90f",
+            "directory": "External8",
+            "voiceContent": "극단 사람들이 디저트로 나눠 먹도록 리니를 통해 케이크를 보냈어. 아이들이 직접 만든 케이크를 「열성팬」의 이름으로 보낸 건데, 마음에 들어 했으면 좋겠군",
+            "sourceName": "vo_arlecchino_teammate_furina_01.wem"
+        },
+        "9007e5983ec0bb11": {
+            "hash": "9007e5983ec0bb11",
+            "directory": "External18",
+            "voiceContent": "내가 감옥에 있을 때, 여왕님께선 내 죄를 사하고 집행관 자리를 하사해 주셨어. 위선자들의 허울 좋은 말에 비해 그분에게선 진정한 「자애」를 느낄 수 있었지. 그 자애가 드넓게 펼쳐진 얼음을 녹일 수 있을지는 알 수 없어. 다만 언젠가 갈라설 수밖에 없는 날이 온다면, 나는 주저하지 않고 그분에게 검을 휘두를 거야. 그게 내가 보일 수 있는 최고의 경의니까",
+            "sourceName": "vo_arlecchino_teammate_tsaritsa_01.wem"
+        },
+        "320323292cfabac9": {
+            "hash": "320323292cfabac9",
+            "directory": "External6",
+            "voiceContent": "나에 대해 알고 싶다고? 물론이지. 상호 신뢰 원칙에 따라 네게 많은 걸 숨기진 않겠어. 하지만 정말 준비가 된 건가? 비밀은 칼날보다 날카롭고, 위험은 종종 보잘것없는 호기심에서 비롯되는 법인데 말이야",
+            "sourceName": "vo_arlecchino_friendship_01.wem"
+        },
+        "c1bef52060ae7566": {
+            "hash": "c1bef52060ae7566",
+            "directory": "External24",
+            "voiceContent": "수중의 칼날을 꽂아 넣는 순간, 생명의 무게가 저마다 다름을 깨닫게 돼. 고상해 보였지만 마지막 순간 비굴하게 목숨 구걸이나 하는 시시한 빈 껍데기인 자도 있고, 겉보기엔 평범했지만 그 영혼이 의외로 무거운 자도 있지. 뭐, 그렇다 해도 결국 죽음은 모두에게 공평해. 잔혹하다고? 난 현실을 말했을 뿐이야",
+            "sourceName": "vo_arlecchino_friendship_02.wem"
+        },
+        "437c57181d4ea04f": {
+            "hash": "437c57181d4ea04f",
+            "directory": "External8",
+            "voiceContent": "스네즈비치, 스네즈브나… 어둠 속에서도 맑은 두 눈을 뜨고, 불길 옆에서 용감히 춤추는 아이들이지. 나는 힘이 닿는 만큼 그 아이들에게 삶을 대하는 법을 가르쳐 주려 해. 벽난로의 집은 남의 비위를 맞출 필요가 없어. 우리는 사냥에 나선 거미 같은 존재니까",
+            "sourceName": "vo_arlecchino_friendship_03.wem"
+        },
+        "c095090eb62c7744": {
+            "hash": "c095090eb62c7744",
+            "directory": "External24",
+            "voiceContent": "누구도 자신의 출신을 선택할 순 없어. 세상은 그렇게 불공평하지. 하지만 공평하기도 해. 모두에게 저항할 권리가 있으니까. 내가 아이들을 거둔 건 보답을 바라서가 아니야. 대가만 지불한다면, 떠나고 싶은 아이는 새로운 삶을 좇을 수 있지",
+            "sourceName": "vo_arlecchino_friendship_04.wem"
+        },
+        "4289430672fba0d5": {
+            "hash": "4289430672fba0d5",
+            "directory": "External8",
+            "voiceContent": "운명은 참 기묘하지. 어릴 때부터 특별한 힘을 사용할 수 있던 난 「어머니」의 편애를 받았어. 그땐 이 힘의 본질이 무엇인지 아무도 몰랐지——나조차도 이게 혈통을 따라 내려온 저주라고 여겼으니까. 이 힘은 내게 강인한 힘과 고통을 가져다줬어. 집행관이 된 후에야 「피에로」에게 진상을 들을 수 있었지. 놀랍다더군. 「붉은 달」의 혈통이 끊어지지 않은데다, 벽난로의 집에서 돌고 돌아 다시 붉은 달의 후예, 그것도 고아의 손에 들어간 게 말이야.운명은 나를 어떤 미래로 이끌까? 언젠간 그 답을 알게 되겠지. 그리고 난 그날까지, 그 미래를 부술 준비를 할 거야",
+            "sourceName": "vo_arlecchino_friendship_05.wem"
+        },
+        "aaf318975cd469f3": {
+            "hash": "aaf318975cd469f3",
+            "directory": "External21",
+            "voiceContent": "시간이 날 땐 혼자 숲의 곤충을 관찰하곤 해. 곤충들의 싸움은 꽤 재미있거든. 포식, 경쟁, 협력… 강력해 보이는 개체가 꼭 끝까지 살아남는 건 아니더군. 잠깐의 실수로 목숨을 잃기도 하지. 나는 죽음을 앞둔 그것의 몸부림을 천천히 기억에 담아두곤 해. 패배자들의 결말을 기억에 담듯이 말이야",
+            "sourceName": "vo_arlecchino_pref_hobby.wem"
+        },
+        "c3c5969262e280ca": {
+            "hash": "c3c5969262e280ca",
+            "directory": "External24",
+            "voiceContent": "집에서는 비정기적으로 저녁에 바비큐 파티를 열어. 식재료는 아이들이 각자 준비하지. 다들 이런 활동에 참여하길 좋아하고, 나도 마찬가지야. 다음번 파티 땐 익숙한 얼굴이 몇이나 줄어들지 아무도 모르니까…",
+            "sourceName": "vo_arlecchino_pref_foodLike.wem"
+        },
+        "17b3f4c681ecec86": {
+            "hash": "17b3f4c681ecec86",
+            "directory": "External2",
+            "voiceContent": "복잡한 양념이 들어간 음식은 좋아하지 않아. 후각과 미각을 둔하게 하니까. 그리고 재료 본연의 맛을 즐기는 게 음식에 대한 예의지",
+            "sourceName": "vo_arlecchino_pref_foodDislike.wem"
+        },
+        "84971258843be351": {
+            "hash": "84971258843be351",
+            "directory": "External16",
+            "voiceContent": "솜씨가 좋군. 벽난로의 집에서 요리 수업이라도 해보겠나?",
+            "sourceName": "vo_arlecchino_spice_pref_01.wem"
+        },
+        "a07436e0d9d7f4b7": {
+            "hash": "a07436e0d9d7f4b7",
+            "directory": "External20",
+            "voiceContent": "맛이 괜찮네. 아이들이 좋아할지도 모르겠어",
+            "sourceName": "vo_arlecchino_spice_normal_01.wem"
+        },
+        "001826af958ba6fd": {
+            "hash": "001826af958ba6fd",
+            "directory": "External0",
+            "voiceContent": "마음은 고맙지만 맛은 아직 개선할 여지가 많군",
+            "sourceName": "vo_arlecchino_spice_dislike_01.wem"
+        },
+        "3512fb81111de58c": {
+            "hash": "3512fb81111de58c",
+            "directory": "External6",
+            "voiceContent": "메모를 보니 오늘이 네 생일이더군, 맞나? 생일은 시끌벅적하게 보내는 게 좋아. 자기를 축하하든 남을 축하하든, 사람들에겐 바쁜 일상에서 잠시 벗어날 핑곗거리가 필요한 법이니까. 가지. 벽난로의 집에 파티를 준비해 뒀어. 아이들이 너만 기다리고 있다고",
+            "sourceName": "vo_arlecchino_pref_birthday_01.wem"
+        },
+        "65350d0e615a60fe": {
+            "hash": "65350d0e615a60fe",
+            "directory": "External12",
+            "voiceContent": "걸음을 멈추지도, 힘에 얽매이지도 마",
+            "sourceName": "vo_arlecchino_starUp_01.wem"
+        },
+        "bf701b168fed99a1": {
+            "hash": "bf701b168fed99a1",
+            "directory": "External23",
+            "voiceContent": "분노는 충동을 일으키고, 슬픔은 망설임을 가져오지. 항상 마음을 잘 다스리도록 해",
+            "sourceName": "vo_arlecchino_starUp_02.wem"
+        },
+        "1507c11d9ac0ac20": {
+            "hash": "1507c11d9ac0ac20",
+            "directory": "External2",
+            "voiceContent": "누군가는 내 기준이 너무 엄격하다고 하지만, 사실 그 기준은 내게도 똑같이 적용돼",
+            "sourceName": "vo_arlecchino_starUp_03.wem"
+        },
+        "231dcee49f10b8f3": {
+            "hash": "231dcee49f10b8f3",
+            "directory": "External4",
+            "voiceContent": "너와 지내면서 많은 걸 배웠어. 너도 수확이 있었길 바라지. 앞으로도 이런 우호적인 관계를 이어나갔으면 좋겠군…. 언젠가 곤란한 일에 함께 맞서게 될지도 모르잖아?",
+            "sourceName": "vo_arlecchino_starUp_04.wem"
+        },
+        "2d6d14f8fb1f92c0": {
+            "hash": "2d6d14f8fb1f92c0",
+            "directory": "External5",
+            "voiceContent": "나쁘지 않군",
+            "sourceName": "vo_arlecchino_life_less30_01.wem"
+        },
+        "da1282e048af5e27": {
+            "hash": "da1282e048af5e27",
+            "directory": "External27",
+            "voiceContent": "반격할 차례인가",
+            "sourceName": "vo_arlecchino_life_less30_02.wem"
+        },
+        "2c43e0e7509ecd1e": {
+            "hash": "2c43e0e7509ecd1e",
+            "directory": "External5",
+            "voiceContent": "슬슬 진지하게 해볼까",
+            "sourceName": "vo_arlecchino_life_less30_03.wem"
+        },
+        "049b797fa220e1b4": {
+            "hash": "049b797fa220e1b4",
+            "directory": "External0",
+            "voiceContent": "이런 운명은 받아들이지 않아…",
+            "sourceName": "vo_arlecchino_life_die_03.wem"
+        },
+        "55a56c2264ae4182": {
+            "hash": "55a56c2264ae4182",
+            "directory": "External10",
+            "voiceContent": "시시하군",
+            "sourceName": "vo_arlecchino_battle_hit_H_01.wem"
+        },
+        "b0168a2a936f25a5": {
+            "hash": "b0168a2a936f25a5",
+            "directory": "External22",
+            "voiceContent": "계속해 봐",
+            "sourceName": "vo_arlecchino_battle_hit_H_02.wem"
+        },
+        "73598ab8bb35161a": {
+            "hash": "73598ab8bb35161a",
+            "directory": "External14",
+            "voiceContent": "아주 특이한 집행관이야. 그녀에게 질문을 던지면 절대로 「예상 범위 내의 답변」은 돌아오지 않아. 심지어 「제대로 된 답변」조차 아닐 때도 있지. 하지만 분명 「흥미로운 답변」이긴 할 거야",
+            "sourceName": "vo_arlecchino_teammate_damselette_01.wem"
+        },
+        "ed7fef0e85d6d632": {
+            "hash": "ed7fef0e85d6d632",
+            "directory": "External29",
+            "voiceContent": "별로 관심 없는 상대야. 연구에 매진하느라 공개적으로 모습을 드러내는 일이 거의 없지. 그녀를 본 적 없는 사관도 수두룩해. 자신을 여러 조각으로 쪼개 온 세상을 들쑤시고 다니는 녀석과 비교하면, 정반대로 극단적이라 할 수 있겠군",
+            "sourceName": "vo_arlecchino_teammate_marionette_01.wem"
+        },
+        "3422e86d76968460": {
+            "hash": "3422e86d76968460",
+            "directory": "External6",
+            "voiceContent": "두뇌와 수완을 겸비한 자라는 건 인정하지만, 난 그가 「멀쩡」하다고 생각하지 않아. 원대한 계획을 세우고 얼어붙은 경제를 움직일 능력을 갖췄지만, 그 행동의 원동력은 가슴 깊숙이 억눌린 원한과 증오거든. 이성적인 자는 자신이 감정을 잘 컨트롤한다고 여기지만, 그 자신감이야말로 최대의 약점이지",
+            "sourceName": "vo_arlecchino_teammate_pantalone_01.wem"
+        },
+        "01625024a54fdeaf": {
+            "hash": "01625024a54fdeaf",
+            "directory": "External0",
+            "voiceContent": "「시뇨라」와 「피에로」는 내가 가장 먼저 알게 된 집행관이야. 처음 벽난로의 집에 왔을 땐 거만한 태도 때문에 아이들이 싫어했지. 그랬더니 다음엔 선물을 잔뜩 사 와선 「날 싫어하는 아이 몫은 없다」고 으름장을 놓더군. 아이들은 금세 선물을 위해 연기하는 법을 익혔고, 「시뇨라」도 이를 받아주었어. 내 생각에 그녀는 아이들에게 둘러싸인 느낌을 꽤 좋아했던 것 같아. 아마도 마음속의 외로움 때문이겠지…. 그녀의 희생에 대해선 유감이야. 부디 그곳에선 연인과 재회했으면 좋겠군",
+            "sourceName": "vo_arlecchino_teammate_signora_01.wem"
+        },
+        "e8d2b0315f821958": {
+            "hash": "e8d2b0315f821958",
+            "directory": "External29",
+            "voiceContent": "예전에 「밤비」라는 거미를 키운 적이 있어. 꽤 흥미로운 일이었지. 고양이나 강아지와 달리 거미는 길들여지지 않거든. 그래서 거미는 주인에게 무언가를 보답할 일이 없고, 주인도 거미에게 불필요한 감정을 소모할 일이 없어. 이런 관계가 나한텐 잘 맞더군",
+            "sourceName": "vo_arlecchino_pref_gift_02.wem"
+        },
+        "ea5529ee3c85c8ad": {
+            "hash": "ea5529ee3c85c8ad",
+            "directory": "External29",
+            "voiceContent": "솔직히 집행관에 어울리는 성격은 아니야. 매번 타인의 의도를 선하게 해석하려다 보니 이용도 자주 당하지. 물론 재능도 뛰어나고 계속해서 성장하고 있으니, 지금 성급히 평가하진 않겠어",
+            "sourceName": "vo_arlecchino_teammate_tartaglia_01.wem"
+        },
+        "12eac33d84159a66": {
+            "hash": "12eac33d84159a66",
+            "directory": "External2",
+            "voiceContent": "아이들이 자꾸 자기들만 알아듣는 유행어를 쓰더군. 마치 임무 수행 때 쓰는 암호처럼 말이야. 아이들에게도 자기들만의 안전한 공간이 필요할 테니, 이해는 해",
+            "sourceName": "vo_arlecchino_dialog_annoyed_01.wem"
+        },
+        "9baebf35b89fff95": {
+            "hash": "9baebf35b89fff95",
+            "directory": "External19",
+            "voiceContent": "난 우인단 집행관 서열 4위 「하인」 아를레키노다. 벽난로의 집 아이들이 말하는 「아버지」이기도 하지. 앞으로 좋은 관계가 되었으면 좋겠군——어려운 일은 아닐 거야, 지금 우리에겐 부딪힐 이유가 없으니까. 그렇지 않나?",
+            "sourceName": "vo_arlecchino_draw_appear_01.wem"
+        },
+        "b9bf564f0d1a5f4a": {
+            "hash": "b9bf564f0d1a5f4a",
+            "directory": "External23",
+            "voiceContent": "나는 아주 오랫동안 바라는 게 없었어. 「쿠자비나를 죽이겠다」는 생각이 들기 전까진 말이야. 당시에 그건 아주 황당한 생각이었지. 그 여자는 유명한 집행관이었고, 내 무예 대부분은 그 여자에게서 배운 거였으니까.다만 신은 염원이 얼마나 강렬한지만 보는 듯하더군. 나는 결국 신의 눈을 얻었고, 일정 대가를 치른 후 그 힘을 다룰 수 있게 되었어. 어쨌든 제자가 스승을 넘어서려면 예상을 뛰어넘는 일을 해야 하는 법이지",
+            "sourceName": "vo_arlecchino_dialog_pendant_01.wem"
+        }
+    }
+}

@@ -1,0 +1,481 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "5a6b2e84401158d6": {
+            "hash": "5a6b2e84401158d6",
+            "directory": "External11",
+            "voiceContent": "次の戦闘を開始する。",
+            "sourceName": "vo_CLLQ002_19_clorinde_01.wem"
+        },
+        "138d8d4882f7466d": {
+            "hash": "138d8d4882f7466d",
+            "directory": "External2",
+            "voiceContent": "先に進んでもこれ以上の情報は得られそうにない。今はそこへ向かうべきではないと、ファントムハンターたちは考えた。",
+            "sourceName": "vo_CLLQ002_23_clorinde_01.wem"
+        }
+    },
+    "Gameplay": {
+        "b1e788cefc2859fd": {
+            "hash": "b1e788cefc2859fd",
+            "directory": "External22",
+            "voiceContent": "射撃準備。",
+            "sourceName": "vo_clorinde_battle_skill1_01.wem"
+        },
+        "57e26ac6cdc294fa": {
+            "hash": "57e26ac6cdc294fa",
+            "directory": "External10",
+            "voiceContent": "装塡。",
+            "sourceName": "vo_clorinde_battle_skill1_02.wem"
+        },
+        "ad579cbd4ec332c3": {
+            "hash": "ad579cbd4ec332c3",
+            "directory": "External21",
+            "voiceContent": "影を討つ！",
+            "sourceName": "vo_clorinde_battle_skill1_03.wem"
+        },
+        "99be6a7fb1a0211f": {
+            "hash": "99be6a7fb1a0211f",
+            "directory": "External19",
+            "voiceContent": "邪悪を狩り撃つ！",
+            "sourceName": "vo_clorinde_battle_skill3_01.wem"
+        },
+        "2f335c9a3d39c798": {
+            "hash": "2f335c9a3d39c798",
+            "directory": "External5",
+            "voiceContent": "潔白を証明する時だ。",
+            "sourceName": "vo_clorinde_battle_skill3_02.wem"
+        },
+        "b0f0b691f9d9e519": {
+            "hash": "b0f0b691f9d9e519",
+            "directory": "External22",
+            "voiceContent": "悪を見極め、影を狩り尽くす！",
+            "sourceName": "vo_clorinde_battle_skill3_03.wem"
+        },
+        "a854b8016afa4bca": {
+            "hash": "a854b8016afa4bca",
+            "directory": "External21",
+            "voiceContent": "思いがけない幸運だな、悪くない。",
+            "sourceName": "vo_clorinde_chest_open_01.wem"
+        },
+        "2e6bd60ad4d1bccd": {
+            "hash": "2e6bd60ad4d1bccd",
+            "directory": "External5",
+            "voiceContent": "どこにも属さないものだ。争いの種にもならないだろう。",
+            "sourceName": "vo_clorinde_chest_open_02.wem"
+        },
+        "bf87bc13b335483c": {
+            "hash": "bf87bc13b335483c",
+            "directory": "External23",
+            "voiceContent": "拾った者が所有者になる——合理的だな。",
+            "sourceName": "vo_clorinde_chest_open_03.wem"
+        },
+        "36eb0a7c74c0f45e": {
+            "hash": "36eb0a7c74c0f45e",
+            "directory": "External6",
+            "voiceContent": "下がれ！",
+            "sourceName": "vo_clorinde_life_less30_teammate_01.wem"
+        },
+        "948d1884a6390901": {
+            "hash": "948d1884a6390901",
+            "directory": "External18",
+            "voiceContent": "私が引き受ける。",
+            "sourceName": "vo_clorinde_life_less30_teammate_02.wem"
+        },
+        "152d0069e25f8143": {
+            "hash": "152d0069e25f8143",
+            "directory": "External2",
+            "voiceContent": "勝敗は…決した…",
+            "sourceName": "vo_clorinde_life_die_01.wem"
+        },
+        "aad8d2846e2833ac": {
+            "hash": "aad8d2846e2833ac",
+            "directory": "External21",
+            "voiceContent": "敗者の…当然の結末だ…",
+            "sourceName": "vo_clorinde_life_die_02.wem"
+        },
+        "bd2e902e74c78b20": {
+            "hash": "bd2e902e74c78b20",
+            "directory": "External23",
+            "voiceContent": "あなたの頼みなら。",
+            "sourceName": "vo_clorinde_teamJoin_01.wem"
+        },
+        "666dfe15bf742d87": {
+            "hash": "666dfe15bf742d87",
+            "directory": "External12",
+            "voiceContent": "代理決闘の依頼か？",
+            "sourceName": "vo_clorinde_teamJoin_02.wem"
+        },
+        "0d5bdc1f3b613ffe": {
+            "hash": "0d5bdc1f3b613ffe",
+            "directory": "External1",
+            "voiceContent": "影を狙い、剣を振るう。",
+            "sourceName": "vo_clorinde_teamJoin_03.wem"
+        },
+        "ca74b4811cd0940c": {
+            "hash": "ca74b4811cd0940c",
+            "directory": "External25",
+            "voiceContent": "決闘では様々な敵と戦ってきた。ほとんどの者は敗れ、残りも皆、自ら投降した…負けたこと？ないな。",
+            "sourceName": "vo_clorinde_character_idle_01.wem"
+        },
+        "8ced626907ec1323": {
+            "hash": "8ced626907ec1323",
+            "directory": "External17",
+            "voiceContent": "決闘代理人の職を預かっている以上、私自身の意見は重要じゃない。剣がこの手にある限り、私はフォンテーヌの法律と規則を代表しているんだ。",
+            "sourceName": "vo_clorinde_character_idle_02.wem"
+        },
+        "df54b0701008f6da": {
+            "hash": "df54b0701008f6da",
+            "directory": "External27",
+            "voiceContent": "決闘は意志の戦いであり、剣は決闘者の心だ。心が怯んでいると、いくら剣を振るおうとも、まるで鞘に納まったままかのように、誰も斬ることはできない。",
+            "sourceName": "vo_clorinde_character_idle_03.wem"
+        },
+        "77666b4c7facff5e": {
+            "hash": "77666b4c7facff5e",
+            "directory": "External14",
+            "voiceContent": "雨の日は休もうと獲物は思うかもしれないが、狩人がそうするわけにはいかない。",
+            "sourceName": "vo_clorinde_weather_heavyRain_01.wem"
+        },
+        "3cc790155864b487": {
+            "hash": "3cc790155864b487",
+            "directory": "External7",
+            "voiceContent": "風と雲の勝負が決まったようだな。",
+            "sourceName": "vo_clorinde_weather_afterRain_01.wem"
+        },
+        "4c145fcd47ab5ad2": {
+            "hash": "4c145fcd47ab5ad2",
+            "directory": "External9",
+            "voiceContent": "…これほどフォンテーヌが恋しくなる日が来ようとは。",
+            "sourceName": "vo_clorinde_weather_desert_01.wem"
+        },
+        "b4a579a567849655": {
+            "hash": "b4a579a567849655",
+            "directory": "External22",
+            "voiceContent": "この世から、一人でも多くの悪党が消えてくれることを願っている。",
+            "sourceName": "vo_clorinde_weather_thunder_01.wem"
+        },
+        "c8954a40cddc71e1": {
+            "hash": "c8954a40cddc71e1",
+            "directory": "External25",
+            "voiceContent": "なかなか見られない景色だな…でも、少し寂しい感じだ。",
+            "sourceName": "vo_clorinde_weather_snowy_01.wem"
+        },
+        "cbd22bdee89b9f44": {
+            "hash": "cbd22bdee89b9f44",
+            "directory": "External25",
+            "voiceContent": "おはよう。コーヒーを飲みに行こうと思っていたところだ。一緒にどうだろう？マイカップは持参する主義なんだ。必要なら一つ貸す。",
+            "sourceName": "vo_clorinde_dialog_greetingMorning.wem"
+        },
+        "09a84d807227ec20": {
+            "hash": "09a84d807227ec20",
+            "directory": "External1",
+            "voiceContent": "すまない、まだ勤務中なんだ。このサンドイッチをやるから、おやつにして待っていてくれ。",
+            "sourceName": "vo_clorinde_dialog_greetingNoon.wem"
+        },
+        "ca38256d7a31e9de": {
+            "hash": "ca38256d7a31e9de",
+            "directory": "External25",
+            "voiceContent": "酒を飲む心得は残念ながら伝授できないけど、個性的なマイナー飲食店のおすすめならある。",
+            "sourceName": "vo_clorinde_dialog_greetingNight.wem"
+        },
+        "84bb2b6127308e56": {
+            "hash": "84bb2b6127308e56",
+            "directory": "External16",
+            "voiceContent": "おやすみ。武器のメンテナンスが終わったら私も寝る。",
+            "sourceName": "vo_clorinde_dialog_greetingNight2.wem"
+        },
+        "83e82e6a74316ea9": {
+            "hash": "83e82e6a74316ea9",
+            "directory": "External16",
+            "voiceContent": "新聞には常に、公平ではなく正義とも全く関係のない記事が存在している。そういうものを書く者は、基本的に人情やモラに心を蝕まれている。何かの真相を知りたいのなら、関係者に聞くのが一番いい。自分の耳で聞いて、心で理解するんだ。少なくとも、他人の舌に自分の頭を乗っ取られてはいけない。",
+            "sourceName": "vo_clorinde_dialog_idle.wem"
+        },
+        "f5861305fd07735b": {
+            "hash": "f5861305fd07735b",
+            "directory": "External30",
+            "voiceContent": "私の装備はファントムハンターが伝統的に使ってきたものと同じだ。獲物を追い立てる銃、それに致命的な一撃を下す剣。代理決闘の際は、基本的に剣しか使わない。決闘場に逃げ道はないから、追い立てる必要もないんだ。",
+            "sourceName": "vo_clorinde_dialog_idle2.wem"
+        },
+        "bff115dd6ca008f6": {
+            "hash": "bff115dd6ca008f6",
+            "directory": "External23",
+            "voiceContent": "私の習慣の多くはファントムハンターの伝統を受け継いだものだ。彼らの相手は邪悪な魔物だが、私の相手は法を犯した悪党だ…魔物たちの邪悪さは生まれつきの本能であるのに対し、堕落した者たちは善行をする能力も機会もあったはずなのに、それらを悪事に費やした。あなたは？——なぜ、剣を握る？",
+            "sourceName": "vo_clorinde_dialog_close1.wem"
+        },
+        "539204f3f7e11ef7": {
+            "hash": "539204f3f7e11ef7",
+            "directory": "External10",
+            "voiceContent": "毎回決闘が始まる前は、特製のポーションをつけた布で武器を拭いている。メンテナンスのためだけじゃなく、そうやって自分の心を落ち着かせて、雑念を追い払っているんだ。あなたも剣を握る以上は、自分なりの儀式があるだろう？",
+            "sourceName": "vo_clorinde_dialog_close.wem"
+        },
+        "4f62846694d28156": {
+            "hash": "4f62846694d28156",
+            "directory": "External9",
+            "voiceContent": "些細な揉め事が当事者の感情的な判断によって膨らんでいき…ついには尊厳が問われる事件にまで発展するケースを散々見てきた。双方一歩も引けなくなると、それは法廷に持ち込まれ…最終的に荒唐無稽な決闘によって落ち着くんだ。決闘代理人として、決闘で名誉を守ることに文句はない。けど…何というか…いちフォンテーヌ市民としては、コーヒーにマルコット草を入れるべきかどうかということに関する意見の相違が、剣で解決しなければならないようなことだとは思えない…",
+            "sourceName": "vo_clorinde_dialog_share_01.wem"
+        },
+        "6d6ff68e026bdc74": {
+            "hash": "6d6ff68e026bdc74",
+            "directory": "External13",
+            "voiceContent": "ポンポンの実を見たことがあるだろう？飛ぶスピードや方角が予測しにくくて、射撃練習の的としては上々なんだ。ただ、いちいち野外でポンポンの実を探すのが不便でな…栽培している人がいたら助かるんだが…",
+            "sourceName": "vo_clorinde_pref_gift_01.wem"
+        },
+        "3027ce311fc11949": {
+            "hash": "3027ce311fc11949",
+            "directory": "External6",
+            "voiceContent": "シャルロットさんは気が利く記者だ。彼女には悪い印象がない。仕事終わりの帰り道で強引に私を引き止めて写真を撮ろうとしたりしないし、私の後をつけて、私が今日カフェでどんなコーヒーを飲んだのかをこっそりと記録したりもしないからな。何より、彼女は私が記者の取材を一切受け付けないことを承知しているのが素晴らしい。門前払いを食らうような真似はそもそもしてこないんだ。",
+            "sourceName": "vo_clorinde_teammate_charlotte_01.wem"
+        },
+        "f79e2cb5e15f42ac": {
+            "hash": "f79e2cb5e15f42ac",
+            "directory": "External30",
+            "voiceContent": "以前なら、お茶会の時はいつもあの方の後ろに控えていたものだが、今は同じテーブルについて、デザートを分かち合える間柄になった。居場所が変わってようやく、フリーナ様がいつも口にしている「スタイル保持」の意味がわかるようになった。",
+            "sourceName": "vo_clorinde_teammate_furina_01.wem"
+        },
+        "62de7fb1095682da": {
+            "hash": "62de7fb1095682da",
+            "directory": "External12",
+            "voiceContent": "ナヴィアは最近機嫌がとてもいい。数日おきに、新しいテーブルゲームのシナリオをやるために、私を「テーブルトークシアター倶楽部」へ引っ張って行くんだ。シナリオのジャンルは何でもありだ。ゲームマスターを数回担当した以外に、プレイヤーとしても何度か一緒に冒険した。ただ、空気が重くならないように、法廷と関係のあるキャラはなるべく演じないようにしている…",
+            "sourceName": "vo_clorinde_teammate_navia_01.wem"
+        },
+        "d3ddfa1775d8e4e1": {
+            "hash": "d3ddfa1775d8e4e1",
+            "directory": "External26",
+            "voiceContent": "以前、小さなマシナリーのおもちゃと感謝の意を示すカードが彼から届いたんだ。とても精巧なおもちゃだったから、一度フレミネさんには直接礼を言いたいと…ん？直接でないほうがいいのか？分かった、それなら私もカードを作ろう。代わりに彼に渡してくれるだろうか？",
+            "sourceName": "vo_clorinde_teammate_freminet_01.wem"
+        },
+        "3e1f0b70cde68cdb": {
+            "hash": "3e1f0b70cde68cdb",
+            "directory": "External7",
+            "voiceContent": "彼女の店で服を買ったことがあるけど、なかなか良いものだった。でも普段はやはり今着ているこの仕事着を着ていたい。この服なら、身分をはっきりと伝えられるからな。それに、私は馴染みのあるもののほうが好きなんだ。この制服は私の剣と同じく、着慣れていて実用的だ。だから変えなくてもいい。",
+            "sourceName": "vo_clorinde_teammate_chiori_01.wem"
+        },
+        "1e237733bd8a3e44": {
+            "hash": "1e237733bd8a3e44",
+            "directory": "External3",
+            "voiceContent": "メロピデ要塞は簡単に管理できるような場所ではない。それでも相対的には安定した状態を保っているのだから、公爵の手腕は疑いようがないだろう。公にはできない手段も使っているんだろうけど…私たちには知る由もないことだ。",
+            "sourceName": "vo_clorinde_teammate_wriothesley_01.wem"
+        },
+        "4617b57ad11538ee": {
+            "hash": "4617b57ad11538ee",
+            "directory": "External8",
+            "voiceContent": "最高審判官の威光は疑う余地がない。あの方はいつも最も公正な判決を下す。そして必要があれば、私のほうでも判決の公正さを剣で強調する。",
+            "sourceName": "vo_clorinde_teammate_neuvillette_01.wem"
+        },
+        "998a941abf071a35": {
+            "hash": "998a941abf071a35",
+            "directory": "External19",
+            "voiceContent": "シュヴルーズ隊長、か…名前は聞いたことがある。犯罪者を捕まえる時にとんでもない強硬手段を取って、何回か訴えられたことがあるんだ。でも、彼女は法廷においてもその態度を貫き、反論の余地がなくなるまで相手を論破していた。見事だった。",
+            "sourceName": "vo_clorinde_teammate_chevreuse_01.wem"
+        },
+        "0ef8919177cb9c70": {
+            "hash": "0ef8919177cb9c70",
+            "directory": "External1",
+            "voiceContent": "あの大魔術師のプロ意識は称賛に値する。時間があれば、観客として彼のマジックショーを楽しみたいものだ。",
+            "sourceName": "vo_clorinde_teammate_lyney_01.wem"
+        },
+        "0dc439970c128614": {
+            "hash": "0dc439970c128614",
+            "directory": "External1",
+            "voiceContent": "決闘代理人の仕事は複雑じゃない…むしろシンプルなほうだと言えるだろう。法廷の指示に従って相手を負かすだけで、それ以外のことを考える必要はない。…だからこそ、何の関係もない者に「処刑人」と呼ばれるのかもしれないな。",
+            "sourceName": "vo_clorinde_friendship_01.wem"
+        },
+        "ba9fc77e59d0178b": {
+            "hash": "ba9fc77e59d0178b",
+            "directory": "External23",
+            "voiceContent": "代理決闘を行う時、私は常にできる限り公平であろうとしている。相手の目が不自由ならば私も目を隠し、足が不自由ならば私は自分の移動範囲を制限する。たとえどんな状況であろうと、私の参加する決闘は公平でなければならない。",
+            "sourceName": "vo_clorinde_friendship_02.wem"
+        },
+        "6157d587d58febc2": {
+            "hash": "6157d587d58febc2",
+            "directory": "External12",
+            "voiceContent": "決闘の際、投降する者を数え切れないほど見てきた。武器を抜く勇気すらないならば、冤罪も名誉棄損も、都合の良い口実に過ぎないのだろう。彼らはとっくに己に敗れ、心の囚人になっていた。私が剣を抜くまでもない。",
+            "sourceName": "vo_clorinde_friendship_03.wem"
+        },
+        "7f3293b182e136d9": {
+            "hash": "7f3293b182e136d9",
+            "directory": "External15",
+            "voiceContent": "法廷で審判を受ける罪人を見たことがあるか？私が見てきた限りだが…審判では、罪人はいつも巧みな言い訳で自分の行いを取り繕おうとする。彼らの口にかかれば暴行は善行になり、罪は正義と化す…だが、その詭弁は決まって同じところへ辿り着く。一時の気の迷いで誰だって犯すような過ちをしでかしただけで、責められる理由はない、とな。己の身の汚れを誤魔化す方法として、彼らは水源全体を汚すことを選んだわけだ。罪人たちの嘘を暴き、正義の国の汚れを洗い流すことこそ、私が決闘代理人になった目的だ。",
+            "sourceName": "vo_clorinde_friendship_04.wem"
+        },
+        "fd7539b9c6411958": {
+            "hash": "fd7539b9c6411958",
+            "directory": "External31",
+            "voiceContent": "法廷で人情や慈悲を求める者を数多く見てきた。蔑ろにしたいわけではないが…彼らは場所を間違えている。法廷は道理と正義を示す場だ。そして、正義は常に冷酷だ——もっと言えば、冷酷であり続けなければならないのだ。そうでなければ、正義は崩壊してしまう。正義に人情が混じれば結論は偏り、道理の下に執行されるはずの「審判」も人情に駆られた「私刑」でしかなくなってしまう。法廷での「私刑」など、法律に背いた暴力にほかならない。",
+            "sourceName": "vo_clorinde_friendship_05.wem"
+        },
+        "862533fd03d57788": {
+            "hash": "862533fd03d57788",
+            "directory": "External16",
+            "voiceContent": "代理決闘とは異なる、「テーブルトークシアター倶楽部」のゲームマスターという役割のおかげで、私は外側の視点を得ることができた。登場人物たちの人間関係に巻き込まれないようプレイヤーたちの反応を観察し、皆のために私が世界をコントロールし、構築していくんだ。ん？まるで檻の中にいる獲物を眺めているようだと？確かにな…そういう角度から考えたことはなかった。でも、プレイヤーを困らせるような真似はせず、できるだけ皆がシナリオを楽しめるように動くのだから、やはり狩りとはかなり違うと思う。",
+            "sourceName": "vo_clorinde_pref_hobby.wem"
+        },
+        "527eb1e7ba6208b3": {
+            "hash": "527eb1e7ba6208b3",
+            "directory": "External10",
+            "voiceContent": "肉料理はどれも悪くない。ただ、肉は絶対に新鮮なものでないといけない。狩ったばっかりの獲物の肉を塩で簡単に味付けしてから焼いて、酸味のあるフルーツと一緒に食べるととても美味しいんだ。機会があれば、ぜひ一緒に狩りに行こう。そしたら作ってやる。",
+            "sourceName": "vo_clorinde_pref_foodLike.wem"
+        },
+        "07570819d250af7d": {
+            "hash": "07570819d250af7d",
+            "directory": "External0",
+            "voiceContent": "魚介類はどうも口に合わない。骨が多いのも一因だが、あの生臭い匂いがどうしてもな…そういうものは、子供の頃に十分すぎるほど食べてきたからかもしれない。",
+            "sourceName": "vo_clorinde_pref_foodDislike.wem"
+        },
+        "38e1c80ead84458c": {
+            "hash": "38e1c80ead84458c",
+            "directory": "External7",
+            "voiceContent": "完璧だな…とても好みの味だ。記者や美食家にバレないように気を付けたほうがいい。彼らは写真機や紙面でしか美食を楽しめないからな。",
+            "sourceName": "vo_clorinde_spice_pref_01.wem"
+        },
+        "1005dfc908efe266": {
+            "hash": "1005dfc908efe266",
+            "directory": "External2",
+            "voiceContent": "悪くない味だ。ゆっくり味わうのにいいな。",
+            "sourceName": "vo_clorinde_spice_normal_01.wem"
+        },
+        "f5880d6e78bf1e02": {
+            "hash": "f5880d6e78bf1e02",
+            "directory": "External30",
+            "voiceContent": "…レストランに出されるメニューでなくてよかった。シェフと顧客の間で揉め事が起こるのは必至だからな。",
+            "sourceName": "vo_clorinde_spice_dislike_01.wem"
+        },
+        "098892aa34dcda2e": {
+            "hash": "098892aa34dcda2e",
+            "directory": "External1",
+            "voiceContent": "誕生日おめでとう。このネックレスを贈る——私が作ったんだ。短剣の形にしてみた。ファントムハンターの伝統では、新たな仲間が初めて誕生日を迎える時、師匠はその者の名を刻んだ短剣のネックレスを作って、常に胸の近くにかけておくよう言いつけるんだ。そうすると、常に己の心を刃が問いただすことになる。罪を犯していないか、目標に専念できているか、邪悪を狩り尽くす覚悟はまだ潰えていないかと。あなたはファントムハンターではないが、私たちと同じく、悪を許さず、善を行う決心をしていると私は信じている。ん…？なぜ銃の形ではないのかって？銃は暴発する恐れがあって物騒だからな。心を問う手段が「直接的」過ぎるのも良くない。",
+            "sourceName": "vo_clorinde_pref_birthday_01a.wem"
+        },
+        "9326dfea3b97d337": {
+            "hash": "9326dfea3b97d337",
+            "directory": "External18",
+            "voiceContent": "なるほど。確かに成長した気がするな。",
+            "sourceName": "vo_clorinde_starUp_01.wem"
+        },
+        "bdd5f201b57a5e50": {
+            "hash": "bdd5f201b57a5e50",
+            "directory": "External23",
+            "voiceContent": "剣を振るう時の感触が前よりも良くなった。これならすぐに慣れそうだ。",
+            "sourceName": "vo_clorinde_starUp_02.wem"
+        },
+        "3f934bf9721a7bd1": {
+            "hash": "3f934bf9721a7bd1",
+            "directory": "External7",
+            "voiceContent": "視力も成長することがあるんだな。さっそく、あそこに舞う葉っぱで試そう。",
+            "sourceName": "vo_clorinde_starUp_03.wem"
+        },
+        "21b98dcfc4cae3da": {
+            "hash": "21b98dcfc4cae3da",
+            "directory": "External4",
+            "voiceContent": "戦闘において、あなたに私の助けがいるとは思わないけど…もし私の力が必要な時があれば、いつも通り全力を尽くすつもりだ。",
+            "sourceName": "vo_clorinde_starUp_04.wem"
+        },
+        "01852e3402490e27": {
+            "hash": "01852e3402490e27",
+            "directory": "External0",
+            "voiceContent": "…さっさと終わらせよう。",
+            "sourceName": "vo_clorinde_life_less30_01.wem"
+        },
+        "54dfc04cb4b942c0": {
+            "hash": "54dfc04cb4b942c0",
+            "directory": "External10",
+            "voiceContent": "調子に乗るなよ。",
+            "sourceName": "vo_clorinde_life_less30_02.wem"
+        },
+        "adf19a4338cbb6c1": {
+            "hash": "adf19a4338cbb6c1",
+            "directory": "External21",
+            "voiceContent": "…滑稽だな。",
+            "sourceName": "vo_clorinde_life_less30_03.wem"
+        },
+        "19bcec7b8fc4a87d": {
+            "hash": "19bcec7b8fc4a87d",
+            "directory": "External3",
+            "voiceContent": "自らの手で…名誉を証明したな…",
+            "sourceName": "vo_clorinde_life_die_03.wem"
+        },
+        "d8e5b3ec9fc72010": {
+            "hash": "d8e5b3ec9fc72010",
+            "directory": "External27",
+            "voiceContent": "そこまでだ！",
+            "sourceName": "vo_clorinde_battle_hit_H_02.wem"
+        },
+        "c6927e09b221ee7a": {
+            "hash": "c6927e09b221ee7a",
+            "directory": "External24",
+            "voiceContent": "シグウィンさんは優秀な看護師だ。体の傷だけでなく、心の傷を癒すことにも長けている。彼女の美徳と善良な心に触れれば、悪意に満ちた心を持つメロピデ要塞の囚人たちも、きっと善意を学ぶだろう。その僅かな善意は、彼らが心を改めるきっかけになるかもしれない。",
+            "sourceName": "vo_clorinde_teammate_sigewinne_01.wem"
+        },
+        "b04c121381c22f1c": {
+            "hash": "b04c121381c22f1c",
+            "directory": "External22",
+            "voiceContent": "なかなか精確だ。",
+            "sourceName": "vo_clorinde_battle_hit_L_02.wem"
+        },
+        "193f73ce8d521053": {
+            "hash": "193f73ce8d521053",
+            "directory": "External3",
+            "voiceContent": "私がコーヒーを飲むとき、花を買うとき、そして本を読むときを狙って邪魔してくる記者がいなくなることを願っている。いなくならないならば、見せしめにそういうやつらを捕まえて、法廷に訴えることもやぶさかではない。もし代理決闘を申し込まれたら、写真機を持って決闘に出ることを許可するつもりだ。公平を期すために、私も写真機のみを持って臨もう。",
+            "sourceName": "vo_clorinde_dialog_annoyed_01.wem"
+        },
+        "00a2649fa3c6493a": {
+            "hash": "00a2649fa3c6493a",
+            "directory": "External0",
+            "voiceContent": "フォンテーヌ廷決闘代理人、クロリンデだ。よろしく頼む。代理決闘の依頼ならば、まずは状況について教えてくれ…人間関係についての説明は不要だ。私には関係ない。",
+            "sourceName": "vo_clorinde_draw_appear_01.wem"
+        },
+        "3681d8ffb8ce11fb": {
+            "hash": "3681d8ffb8ce11fb",
+            "directory": "External6",
+            "voiceContent": "「神の目」を手に入れた後、決闘で投降する者が明らかに増えた。代理人たちは、この「神の目」は私が持つ決闘における「抑止力」だと言う。私からすれば、無敗の戦績こそが「抑止力」だと思うが。今後の決闘では、もっと派手な勝ち方をすることも考えたほうがいいかもしれないな。",
+            "sourceName": "vo_clorinde_dialog_pendant_01.wem"
+        },
+        "e07a6c1f8cdce7da": {
+            "hash": "e07a6c1f8cdce7da",
+            "directory": "External28",
+            "voiceContent": "…集中しないと。",
+            "sourceName": "vo_card_clorinde_inGame_hard_03.wem"
+        },
+        "9aa51e9b8ff8e4ac": {
+            "hash": "9aa51e9b8ff8e4ac",
+            "directory": "External19",
+            "voiceContent": "うっ…",
+            "sourceName": "vo_card_clorinde_inGame_easy_02.wem"
+        },
+        "cb9a703099a4850c": {
+            "hash": "cb9a703099a4850c",
+            "directory": "External25",
+            "voiceContent": "隙ありだ。",
+            "sourceName": "vo_card_clorinde_inGame_hard_01.wem"
+        },
+        "04f94c8104303243": {
+            "hash": "04f94c8104303243",
+            "directory": "External0",
+            "voiceContent": "油断したな。",
+            "sourceName": "vo_card_clorinde_inGame_easy_01.wem"
+        },
+        "4a778aaac95eb64e": {
+            "hash": "4a778aaac95eb64e",
+            "directory": "External9",
+            "voiceContent": "一気に片をつける。",
+            "sourceName": "vo_card_clorinde_inGame_easy_04.wem"
+        },
+        "fe542a493a2c7fd1": {
+            "hash": "fe542a493a2c7fd1",
+            "directory": "External31",
+            "voiceContent": "こちらの番だ。",
+            "sourceName": "vo_card_clorinde_inGame_hard_04.wem"
+        },
+        "8e131e1884c00423": {
+            "hash": "8e131e1884c00423",
+            "directory": "External17",
+            "voiceContent": "予想外の展開だ…",
+            "sourceName": "vo_card_clorinde_inGame_hard_02.wem"
+        },
+        "09893892b195597d": {
+            "hash": "09893892b195597d",
+            "directory": "External1",
+            "voiceContent": "…少し甘く見ていたようだ。",
+            "sourceName": "vo_card_clorinde_inGame_easy_03.wem"
+        }
+    }
+}

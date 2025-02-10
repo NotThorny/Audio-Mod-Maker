@@ -1,0 +1,499 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "66341c79991bcb71": {
+            "hash": "66341c79991bcb71",
+            "directory": "External12",
+            "voiceContent": "Same here!",
+            "sourceName": "vo_CLLQ003_11_furina_01.wem"
+        },
+        "3cd2e200c8703f02": {
+            "hash": "3cd2e200c8703f02",
+            "directory": "External7",
+            "voiceContent": "...",
+            "sourceName": "vo_FDAQ006_16_furina_01.wem"
+        },
+        "e867566e68e18e4d": {
+            "hash": "e867566e68e18e4d",
+            "directory": "External29",
+            "voiceContent": "Hey! What gives!? The audience is still watching me, you know! Guards! Wait, where are the guards? GUARDS!",
+            "sourceName": "vo_FDAQ306_1_furina_05.wem"
+        },
+        "62503864ff0a1d4a": {
+            "hash": "62503864ff0a1d4a",
+            "directory": "External12",
+            "voiceContent": "Dear audience, the performance is experiencing a technical difficulty, but worry not! The guards shall resolve it soon enough!",
+            "sourceName": "vo_FDAQ306_1_furina_06.wem"
+        }
+    },
+    "Gameplay": {
+        "cb2a8285570d68a7": {
+            "hash": "cb2a8285570d68a7",
+            "directory": "External25",
+            "voiceContent": "Shower me with praise!",
+            "sourceName": "vo_furina_battle_skill1_01.wem"
+        },
+        "1e85149e097d9d40": {
+            "hash": "1e85149e097d9d40",
+            "directory": "External3",
+            "voiceContent": "Strike a pose!",
+            "sourceName": "vo_furina_battle_skill1_02.wem"
+        },
+        "7796ee948d901141": {
+            "hash": "7796ee948d901141",
+            "directory": "External14",
+            "voiceContent": "Yoo-hoo~!",
+            "sourceName": "vo_furina_battle_skill1_03.wem"
+        },
+        "5657706add5dbc8a": {
+            "hash": "5657706add5dbc8a",
+            "directory": "External10",
+            "voiceContent": "The show begins.",
+            "sourceName": "vo_furina_battle_skill1_04.wem"
+        },
+        "db43a2629cb17c93": {
+            "hash": "db43a2629cb17c93",
+            "directory": "External27",
+            "voiceContent": "How brilliant.",
+            "sourceName": "vo_furina_battle_skill1_05.wem"
+        },
+        "70ef747d287a2ffc": {
+            "hash": "70ef747d287a2ffc",
+            "directory": "External14",
+            "voiceContent": "May I present...!",
+            "sourceName": "vo_furina_battle_skill1_06.wem"
+        },
+        "6b855e94a4d8a605": {
+            "hash": "6b855e94a4d8a605",
+            "directory": "External13",
+            "voiceContent": "Let the world come alive, hehe!",
+            "sourceName": "vo_furina_battle_skill3_01.wem"
+        },
+        "1113408c76160fe2": {
+            "hash": "1113408c76160fe2",
+            "directory": "External2",
+            "voiceContent": "Time to shine!",
+            "sourceName": "vo_furina_battle_skill3_02.wem"
+        },
+        "bbb2b2856b72682b": {
+            "hash": "bbb2b2856b72682b",
+            "directory": "External23",
+            "voiceContent": "Let my name echo in song!",
+            "sourceName": "vo_furina_battle_skill3_03.wem"
+        },
+        "99e0bf3b0ebcd96c": {
+            "hash": "99e0bf3b0ebcd96c",
+            "directory": "External19",
+            "voiceContent": "What a pleasant surprise, truly an extra slice of joy.",
+            "sourceName": "vo_furina_chest_open_01.wem"
+        },
+        "0434ed2082f42603": {
+            "hash": "0434ed2082f42603",
+            "directory": "External0",
+            "voiceContent": "Take it... *sigh* Go on, you have my approval!",
+            "sourceName": "vo_furina_chest_open_02.wem"
+        },
+        "ab59bb29ff105f3a": {
+            "hash": "ab59bb29ff105f3a",
+            "directory": "External21",
+            "voiceContent": "Splendid! More interesting trinkets for me.",
+            "sourceName": "vo_furina_chest_open_03.wem"
+        },
+        "1a41266ab6e1bcbc": {
+            "hash": "1a41266ab6e1bcbc",
+            "directory": "External3",
+            "voiceContent": "Witness my power!",
+            "sourceName": "vo_furina_life_less30_teammate_01.wem"
+        },
+        "849554502b190a53": {
+            "hash": "849554502b190a53",
+            "directory": "External16",
+            "voiceContent": "My turn to take the spotlight!",
+            "sourceName": "vo_furina_life_less30_teammate_02.wem"
+        },
+        "b84965532cb37fc9": {
+            "hash": "b84965532cb37fc9",
+            "directory": "External23",
+            "voiceContent": "Am I... free?",
+            "sourceName": "vo_furina_life_die_01.wem"
+        },
+        "4805374a60673a66": {
+            "hash": "4805374a60673a66",
+            "directory": "External9",
+            "voiceContent": "I still... couldn't do it...",
+            "sourceName": "vo_furina_life_die_02.wem"
+        },
+        "093e0fbaf5899847": {
+            "hash": "093e0fbaf5899847",
+            "directory": "External1",
+            "voiceContent": "I knew you'd miss me.",
+            "sourceName": "vo_furina_teamJoin_01.wem"
+        },
+        "5ffea1d3aadcf5e0": {
+            "hash": "5ffea1d3aadcf5e0",
+            "directory": "External11",
+            "voiceContent": "I have high hopes for this journey!",
+            "sourceName": "vo_furina_teamJoin_02.wem"
+        },
+        "0dcdfbcca2eebf61": {
+            "hash": "0dcdfbcca2eebf61",
+            "directory": "External1",
+            "voiceContent": "Witness my magnificence!",
+            "sourceName": "vo_furina_teamJoin_03.wem"
+        },
+        "718b632250a53e3a": {
+            "hash": "718b632250a53e3a",
+            "directory": "External14",
+            "voiceContent": "Tea parties are a must for the well-mannered. If you'd like to learn the proper etiquette, I'd be happy to teach you.",
+            "sourceName": "vo_furina_character_idle_01.wem"
+        },
+        "cb90812a7f0b033d": {
+            "hash": "cb90812a7f0b033d",
+            "directory": "External25",
+            "voiceContent": "Boring... Isn't there anything else more interesting to do?",
+            "sourceName": "vo_furina_character_idle_02.wem"
+        },
+        "601267336051b86c": {
+            "hash": "601267336051b86c",
+            "directory": "External12",
+            "voiceContent": "*sigh* Being too popular can be such a hassle. Who knew the people would adore me so much?",
+            "sourceName": "vo_furina_character_idle_03.wem"
+        },
+        "223d95a38a579cbc": {
+            "hash": "223d95a38a579cbc",
+            "directory": "External4",
+            "voiceContent": "It's pouring out here! Wait, the water levels aren't rising, are they?",
+            "sourceName": "vo_furina_weather_heavyRain_01.wem"
+        },
+        "9f77db009b8be263": {
+            "hash": "9f77db009b8be263",
+            "directory": "External19",
+            "voiceContent": "Wow, this would be the perfect location for shooting a film.",
+            "sourceName": "vo_furina_weather_snowy_01.wem"
+        },
+        "22754e5521a72198": {
+            "hash": "22754e5521a72198",
+            "directory": "External4",
+            "voiceContent": "What a wild and desolate sight... Allow me to grant you the blessing of water!",
+            "sourceName": "vo_furina_weather_desert_01.wem"
+        },
+        "d23a8c99daf5449e": {
+            "hash": "d23a8c99daf5449e",
+            "directory": "External26",
+            "voiceContent": "The sun feels almost as hot as those studio lights I'm in front of all the time... Good thing there can only be one sun.",
+            "sourceName": "vo_furina_weather_sunny_01.wem"
+        },
+        "7f4dc69bd058faba": {
+            "hash": "7f4dc69bd058faba",
+            "directory": "External15",
+            "voiceContent": "Listen, there is a disturbing growling in the wind. That's the sound of a long-forgotten sea monster having a nightmare. Huh? Why is it having a nightmare? Uh... I dunno, because fear has to manifest itself somehow?",
+            "sourceName": "vo_furina_weather_gale_01.wem"
+        },
+        "0ef4378d5889618e": {
+            "hash": "0ef4378d5889618e",
+            "directory": "External1",
+            "voiceContent": "Good morning... Must I really get up this early? Just let me sleep a little longer...",
+            "sourceName": "vo_furina_dialog_greetingMorning.wem"
+        },
+        "58296cf93ae414aa": {
+            "hash": "58296cf93ae414aa",
+            "directory": "External11",
+            "voiceContent": "Good afternoon! Where's my cake? What? I just had cake for breakfast? Well, I think it's been long enough!",
+            "sourceName": "vo_furina_dialog_greetingNoon.wem"
+        },
+        "09f155a5fe3b0314": {
+            "hash": "09f155a5fe3b0314",
+            "directory": "External1",
+            "voiceContent": "Good evening. *sigh* Mademoiselle Crabaletta has been muttering about getting in shape lately and even said that she wanted to drag me along with her. Hmph, I'm already eating much healthier than last month. I work very hard to maintain my figure. Hey, you can tell, can't you!?",
+            "sourceName": "vo_furina_dialog_greetingNight.wem"
+        },
+        "bd8dc9ab951f7d1c": {
+            "hash": "bd8dc9ab951f7d1c",
+            "directory": "External23",
+            "voiceContent": "Whew, I'm getting sleepy myself. See you tomorrow. Remember to wake me up on time...",
+            "sourceName": "vo_furina_dialog_greetingNight2.wem"
+        },
+        "94606b7a71b23453": {
+            "hash": "94606b7a71b23453",
+            "directory": "External18",
+            "voiceContent": "Hmm? Who are these people at the tea party? Why, they are my loyal followers of course! *sigh* Alright, I suppose I'll introduce them to you. This is Mademoiselle Crabaletta, my most adorable maid... although she accidentally cuts my outfits from time to time... This is Surintendante Chevalmarin, my reliable housekeeper who keeps my busy life in order. And finally, the one keeping everybody in line is Gentilhomme Usher, my loyal conferencier. Hehe, I may have allowed you to participate in my tea party, but you'll still need to work hard to gain their approval!",
+            "sourceName": "vo_furina_dialog_idle.wem"
+        },
+        "5d0fb6abbde3f8ed": {
+            "hash": "5d0fb6abbde3f8ed",
+            "directory": "External11",
+            "voiceContent": "I'm very confident in my singing skills, but there aren't many pieces of music that are worthy of my vocal prowess. I hope the creatives in the theater troupe get their act together and don't keep me waiting in vain...",
+            "sourceName": "vo_furina_dialog_idle2.wem"
+        },
+        "b57fa54537bed1fc": {
+            "hash": "b57fa54537bed1fc",
+            "directory": "External22",
+            "voiceContent": "My story has already come to an end, and so the next act shall be about OUR story... In which case, we should probably start charging double for public appearances... Oh, I'm so happy!",
+            "sourceName": "vo_furina_dialog_close1.wem"
+        },
+        "fa23ab9a8413acf1": {
+            "hash": "fa23ab9a8413acf1",
+            "directory": "External31",
+            "voiceContent": "*sigh* Given that we know each other, you may relax a little and needn't act so respectfully in my presence. Wait, what's that expression on your face? Don't tell me that you've never respected me from the very beginning!?",
+            "sourceName": "vo_furina_dialog_close.wem"
+        },
+        "54e23143cb31f449": {
+            "hash": "54e23143cb31f449",
+            "directory": "External10",
+            "voiceContent": "Once the ancient prophecy came to an end and everything was over, I fell into low spirits for a very long time. People who stand on the stage basking in the adulation of their audience must also bear the pressures of being in the public eye and living up to everyone's expectations. But I knew very well my person wouldn't be enough, and that putting on the act of a god would be able the only way to satisfy their adoration... And at the end of the day, all I ever experienced was loneliness. So there came a point when I loathed the very thought of acting and locked myself in my room. It wasn't until the moment I stood on stage and faced the audience again that I realized the anxiety in my heart had dissipated. The reason I can now stand before the crowd's watchful gaze is perhaps because... I have finally started to act as myself.",
+            "sourceName": "vo_furina_dialog_pendant_01.wem"
+        },
+        "0f1c7c7ba8e9278c": {
+            "hash": "0f1c7c7ba8e9278c",
+            "directory": "External1",
+            "voiceContent": "Fontaine's opera house has seen several reforms, and with each reform, opposition was to be expected. As I remember, crowds would often gather in the opera house making a ruckus... That one time, it became so loud my ears were ringing. I frightened them by stating, I forbid anyone from discussing such pointless matters!, I clearly remember Neuvillette tapping his cane on the ground at that precise moment while the whole place immediately fell silent. Sometimes I can't help but inadvertently show my intimidating side... I hope my people understands.",
+            "sourceName": "vo_furina_dialog_share_01.wem"
+        },
+        "34089388239db726": {
+            "hash": "34089388239db726",
+            "directory": "External6",
+            "voiceContent": "I really like the Lumitoile. Those creatures can glow and shine even in places where no one sees them... That's what I call a true star. Ah, if only there were an opera about the Lumitoile, then I could literally play the role of a lovely rogue starfish on stage.",
+            "sourceName": "vo_furina_pref_gift_01.wem"
+        },
+        "132e6f1b5107b885": {
+            "hash": "132e6f1b5107b885",
+            "directory": "External2",
+            "voiceContent": "Of course I know Lyney and Lynette. I used to frequently attend their magic shows. Though they're very popular, they're still much less popular than me. Only my performances would draw a completely sold-out crowd... even standing tickets would be out. But now... Uh... I've already decided to hang up my acting career, so it's perfectly normal for my popularity to decline!",
+            "sourceName": "vo_furina_teammate_lyney&lynette_01.wem"
+        },
+        "bf6a5e90f2839d0c": {
+            "hash": "bf6a5e90f2839d0c",
+            "directory": "External23",
+            "voiceContent": "I'm very grateful to Neuvillette for all the hard work he's done for Fontaine in the past few centuries. It seems he doesn't intend to investigate my crimes of deceiving the people. Anyway, we're no longer working in tandem, and it's been a long time since I've been to the Palais Mermonia. I imagine that this is good for both of us, right?",
+            "sourceName": "vo_furina_teammate_neuvillette_01.wem"
+        },
+        "32f2e2d0b976d668": {
+            "hash": "32f2e2d0b976d668",
+            "directory": "External6",
+            "voiceContent": "Have you tried Navia's macarons? I have to admit that her skills in dessert-making are comparable to mine. The design she paints on the macarons is so cute, don't you think? Not to mention the texture and sweetness... They truly are a work of art! How does she do it? Does it really all boil down to talent? Ugh, I can't believe I'm feeling a little jealous... I'll have to ask her for some tips next time!",
+            "sourceName": "vo_furina_teammate_navia_01.wem"
+        },
+        "895b242fb04ac422": {
+            "hash": "895b242fb04ac422",
+            "directory": "External17",
+            "voiceContent": "I haven't communicated with him much, but Neuvillette claims he's trustworthy, so I suppose he must be a good person. Oh, come to think of it, I've received some tea from Wriothesley before and it was exquisite!",
+            "sourceName": "vo_furina_teammate_wriothesley_01.wem"
+        },
+        "3cd1e42d6fbaae05": {
+            "hash": "3cd1e42d6fbaae05",
+            "directory": "External7",
+            "voiceContent": "As I remember, Clorinde isn't very talkative, but she has stood by me and protected me on several occasions, so I trust her very much. Hmm... I do miss her ever so slightly, but I don't have any real reason to see her now. Oh, right! I should invite her to my next tea party!",
+            "sourceName": "vo_furina_teammate_clorinde_01.wem"
+        },
+        "9d7d30b62ddbe92f": {
+            "hash": "9d7d30b62ddbe92f",
+            "directory": "External19",
+            "voiceContent": "She's a very strong person. Strong people will always manage to keep themselves together no matter what happens, acting like everything is fine. Doing so prevents other people around them from needlessly bearing additional pressure. I saw the duel between Callas and Clorinde... and I can say that in this respect, Navia is becoming more and more like her father.",
+            "sourceName": "vo_furina_teammate_navia_02.wem"
+        },
+        "bb1053311450cd01": {
+            "hash": "bb1053311450cd01",
+            "directory": "External23",
+            "voiceContent": "The Knave? Wh—Who's that? Oh... Uh, I'd already forgotten about her... Keeping such a terrible figure like her in your mind will only give you nightmares.",
+            "sourceName": "vo_furina_teammate_arlecchino_01.wem"
+        },
+        "41105c2bfc2beac3": {
+            "hash": "41105c2bfc2beac3",
+            "directory": "External8",
+            "voiceContent": "I've often seen Charlotte busily running back and forth lately. She still seems to be hoping to arrange an exclusive interview with me. No matter how many times I refuse, she still hasn't given up. To be honest, her persistence made me angry at first... but then she told me with a resolute look in her eyes that she wanted to let people understand the real Furina, and that she believed people would understand my troubles. I don't know how to respond to her kind intentions... I suppose she might be right, but I'm just not ready yet...",
+            "sourceName": "vo_furina_teammate_charlotte_01.wem"
+        },
+        "512df9f4610a16ce": {
+            "hash": "512df9f4610a16ce",
+            "directory": "External10",
+            "voiceContent": "You're interested in hearing about me? *sigh* I suppose there's no helping that... After all, I was once the biggest celebrity of all Fontaine! Every day, countless journalists would come flocking around me, trying to get the inside scoop on my personal life, so I have loads of experience rejecting them. Of course, I don't intend to use this experience on you. With the right delicacies, I might be willing to exchange some of my secrets.",
+            "sourceName": "vo_furina_friendship_01.wem"
+        },
+        "d41547fdc82c3ff1": {
+            "hash": "d41547fdc82c3ff1",
+            "directory": "External26",
+            "voiceContent": "Someone recently recommended me to try surfing, so I went and gave it a shot. Keeping balance on the rolling waves was a little tricky at first, but I managed to get the hang of it pretty quickly. Maybe I'm just a natural surfer... Anyway, feeling the wind and waves up close and riding along the horizon was rather amazing. You should give it a try!",
+            "sourceName": "vo_furina_friendship_02.wem"
+        },
+        "5257ee060b8c2270": {
+            "hash": "5257ee060b8c2270",
+            "directory": "External10",
+            "voiceContent": "If you have time, could you tell me more about your journey? I would love to hear all your fantastic stories. How should I put it... I easily feel interested in all kinds of things, but it isn't long before I feel bored again. Perhaps the more easily enthusiasm sparks, the more quickly it fades. But, when I'm with you, I seem to constantly feel happy... Such an amazing feeling!",
+            "sourceName": "vo_furina_friendship_03.wem"
+        },
+        "0bafbbca9bdb92c3": {
+            "hash": "0bafbbca9bdb92c3",
+            "directory": "External1",
+            "voiceContent": "Recently, I've been wondering if I've been a little too hard on myself in the past. In my efforts to maintain the reserved manner of a deity, I never got the chance to enjoy my life, which is why I've become obsessed with shopping lately. I've bought many new precious things... like dazzling rainbow-colored tea bags, fully-automated extendable cutlery, and a saddle specially made for riding Seahorses... But in the end, I realized that most of the stuff I bought was useless, so I sent them all to the troupe to be used as props in performances. Strange... before I bought those things, I was certain they would all be of good use to me...",
+            "sourceName": "vo_furina_friendship_04.wem"
+        },
+        "b63a89d41adaf4fa": {
+            "hash": "b63a89d41adaf4fa",
+            "directory": "External22",
+            "voiceContent": "People love talking about the past and often regret the beautiful things that have now faded into history. They also love to talk about the future, as if they're willing to sacrifice everything for an uncertain tomorrow. I don't agree with their way of thinking, yet I also feel very envious... I once lived in a world without a past or a future. To cope with that anxiety, I tried to create and act out a stronger, more god-like version of myself. Over the centuries, the stronger role I tried to play gradually merged with my real self. Even I can't separate the two now... but perhaps there's no need to distinguish them. Experiences of the past have formed who I am now, and that flawed performance has also become the most important part of me.",
+            "sourceName": "vo_furina_friendship_05.wem"
+        },
+        "dc04fe1c8fe5c92a": {
+            "hash": "dc04fe1c8fe5c92a",
+            "directory": "External27",
+            "voiceContent": "The Queen's Crown still doesn't have a sequel yet? Pity, a classic like that where justice overcomes evil never gets old.",
+            "sourceName": "vo_furina_pref_hobby.wem"
+        },
+        "d4361bc10a62244d": {
+            "hash": "d4361bc10a62244d",
+            "directory": "External26",
+            "voiceContent": "No one complains about exquisite confectioneries, but it'll take a lot of effort to make some that I like. Listen carefully, desserts are like operas... Everything from choosing the characters to imagining the setting requires a lot of effort in order to make the final performance a hit!",
+            "sourceName": "vo_furina_pref_foodLike.wem"
+        },
+        "2e924573d914fb2f": {
+            "hash": "2e924573d914fb2f",
+            "directory": "External5",
+            "voiceContent": "Simply put, I detest most of those creative dishes. I have tasted many wonderful dishes throughout the years which did nothing but leave me with some moments that I never want to look back on.",
+            "sourceName": "vo_furina_pref_foodDislike.wem"
+        },
+        "cea9f77458920bfa": {
+            "hash": "cea9f77458920bfa",
+            "directory": "External25",
+            "voiceContent": "Oh? What a rich aroma and delicate texture... I didn't expect you to be such an accomplished cook... with refined taste, as well!",
+            "sourceName": "vo_furina_spice_pref_01.wem"
+        },
+        "d0d81923227682e0": {
+            "hash": "d0d81923227682e0",
+            "directory": "External26",
+            "voiceContent": "Too ordinary! Hmph, such an uninspired dish will never have my approval!",
+            "sourceName": "vo_furina_spice_normal_01.wem"
+        },
+        "175fe5eca2f12b74": {
+            "hash": "175fe5eca2f12b74",
+            "directory": "External2",
+            "voiceContent": "Ugh. Is this what you usually eat? *sigh* Seems I'll have to share some of my macaroni with you.",
+            "sourceName": "vo_furina_spice_dislike_01.wem"
+        },
+        "aa8def3b562de979": {
+            "hash": "aa8def3b562de979",
+            "directory": "External21",
+            "voiceContent": "Happy Birthday! Here, please take this ticket as your gift. It's a VIP seat to see Happy Day, just don't forget to show up to the performance! Hmm? What's Happy Day? *sigh* Well, I wanted to keep it a surprise... But it's an opera that I've rehearsed personally. It's about a big group of people that gather together to celebrate a certain very important person. You understand now, right? Just don't forget to come!",
+            "sourceName": "vo_furina_pref_birthday_01.wem"
+        },
+        "5ad1eb7941331759": {
+            "hash": "5ad1eb7941331759",
+            "directory": "External11",
+            "voiceContent": "I'm really not accustomed to using a Vision. Why don't you teach me? Ah, I nearly forgot... you've never used a Vision either.",
+            "sourceName": "vo_furina_starUp_01.wem"
+        },
+        "edf3bd7077c9faf6": {
+            "hash": "edf3bd7077c9faf6",
+            "directory": "External29",
+            "voiceContent": "The strength gained through my own hard work is truly fulfilling. Hehe, thanks for your support.",
+            "sourceName": "vo_furina_starUp_02.wem"
+        },
+        "439e9f66f8f7a05f": {
+            "hash": "439e9f66f8f7a05f",
+            "directory": "External8",
+            "voiceContent": "That's more like it! As expected, my dazzling side comes through in any situation.",
+            "sourceName": "vo_furina_starUp_03.wem"
+        },
+        "e963915eca646694": {
+            "hash": "e963915eca646694",
+            "directory": "External29",
+            "voiceContent": "I didn't know you cared so much about me. Does that mean that you still need my power? But given the way I am now... there's a chance I won't be able to give you everything you need. Hmm? All you really care about is... me? In that case, then let us act out our future journey together!",
+            "sourceName": "vo_furina_starUp_04.wem"
+        },
+        "62667064e1cdc3b5": {
+            "hash": "62667064e1cdc3b5",
+            "directory": "External12",
+            "voiceContent": "Let's call a ceasefire...",
+            "sourceName": "vo_furina_life_less30_01.wem"
+        },
+        "df49125b7a7df052": {
+            "hash": "df49125b7a7df052",
+            "directory": "External27",
+            "voiceContent": "This is trouble!",
+            "sourceName": "vo_furina_life_less30_02.wem"
+        },
+        "613c8453374bc59b": {
+            "hash": "613c8453374bc59b",
+            "directory": "External12",
+            "voiceContent": "Ah! Someone help me!",
+            "sourceName": "vo_furina_life_less30_03.wem"
+        },
+        "c9c299421d07654f": {
+            "hash": "c9c299421d07654f",
+            "directory": "External25",
+            "voiceContent": "Don't look at me... like this...",
+            "sourceName": "vo_furina_life_die_03.wem"
+        },
+        "98020aff61adc469": {
+            "hash": "98020aff61adc469",
+            "directory": "External19",
+            "voiceContent": "How dare you!?",
+            "sourceName": "vo_furina_battle_hit_H_01.wem"
+        },
+        "27bddcf695617e06": {
+            "hash": "27bddcf695617e06",
+            "directory": "External4",
+            "voiceContent": "Stop that!",
+            "sourceName": "vo_furina_battle_hit_H_02.wem"
+        },
+        "92e772544c1ad4ad": {
+            "hash": "92e772544c1ad4ad",
+            "directory": "External18",
+            "voiceContent": "Hmm, what sauce should I pick for my macaroni tonight?",
+            "sourceName": "vo_furina_dialog_annoyed_01.wem"
+        },
+        "fbcd40c1890cf5b8": {
+            "hash": "fbcd40c1890cf5b8",
+            "directory": "External31",
+            "voiceContent": "Why are you just standing there with your mouth gaping? Ah, you must be stunned and at a loss for words... Understandable, it is I after all... Fontaine's most beloved star, Furina. I'm on a very tight schedule, so you're lucky to even get an appointment with me.",
+            "sourceName": "vo_furina_draw_appear_01.wem"
+        },
+        "ab75f448e285a17b": {
+            "hash": "ab75f448e285a17b",
+            "directory": "External21",
+            "voiceContent": "Th—That's not how it's supposed to go...",
+            "sourceName": "vo_card_furina_inGame_hard_02.wem"
+        },
+        "d5ef26605c3ad284": {
+            "hash": "d5ef26605c3ad284",
+            "directory": "External26",
+            "voiceContent": "Sit back and enjoy the duel.",
+            "sourceName": "vo_card_furina_inGame_hard_01.wem"
+        },
+        "ba5b2e0c60228046": {
+            "hash": "ba5b2e0c60228046",
+            "directory": "External23",
+            "voiceContent": "Aaand action!",
+            "sourceName": "vo_card_furina_inGame_easy_04.wem"
+        },
+        "4ac2407ad5ea8c09": {
+            "hash": "4ac2407ad5ea8c09",
+            "directory": "External9",
+            "voiceContent": "Look and long!",
+            "sourceName": "vo_card_furina_inGame_hard_04.wem"
+        },
+        "0deec1fd299fd7a4": {
+            "hash": "0deec1fd299fd7a4",
+            "directory": "External1",
+            "voiceContent": "Uhh...",
+            "sourceName": "vo_card_furina_inGame_easy_02.wem"
+        },
+        "8eb90fe33bed031b": {
+            "hash": "8eb90fe33bed031b",
+            "directory": "External17",
+            "voiceContent": "Well, that was easy.",
+            "sourceName": "vo_card_furina_inGame_easy_01.wem"
+        },
+        "2982825125b7cb32": {
+            "hash": "2982825125b7cb32",
+            "directory": "External5",
+            "voiceContent": "Cut! Cut, I say!",
+            "sourceName": "vo_card_furina_inGame_hard_03.wem"
+        },
+        "8fe2fbf4e66f0135": {
+            "hash": "8fe2fbf4e66f0135",
+            "directory": "External17",
+            "voiceContent": "Hold up a second! I need to think...",
+            "sourceName": "vo_card_furina_inGame_easy_03.wem"
+        }
+    }
+}

@@ -1,0 +1,949 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "c3fbd118f34d20a5": {
+            "hash": "c3fbd118f34d20a5",
+            "directory": "External24",
+            "voiceContent": "할머니, 지금 무슨 말을 하는 거야?",
+            "sourceName": "vo_TLEQ003_2_olorun_03.wem"
+        },
+        "739825282c85399f": {
+            "hash": "739825282c85399f",
+            "directory": "External14",
+            "voiceContent": "근데 어딜 가려는 거야?",
+            "sourceName": "vo_TLEQ003_2_olorun_05.wem"
+        },
+        "c2d2a50748cc694b": {
+            "hash": "c2d2a50748cc694b",
+            "directory": "External24",
+            "voiceContent": "다행이다, 탈혼 상태를 너무 오래 유지하면 신체 일부가 괴사할 수도 있다는 이야기를 들은 적이 있거든",
+            "sourceName": "vo_TLEQ003_2_olorun_01.wem"
+        },
+        "195d171ffdf200d4": {
+            "hash": "195d171ffdf200d4",
+            "directory": "External3",
+            "voiceContent": "그러게. 아무튼 레이라, 잘 알고 지낸 사이는 아니지만, 네가 무사해서 정말 기뻐",
+            "sourceName": "vo_TLEQ003_2_olorun_02.wem"
+        },
+        "1a864331a872b836": {
+            "hash": "1a864331a872b836",
+            "directory": "External3",
+            "voiceContent": "잠깐만, 이건… 내가 전에 썼던 술법이야. 할머니는 지금 우리한테서 엄청 멀어진 상태고. 정말 감쪽같네",
+            "sourceName": "vo_TLEQ003_2_olorun_04.wem"
+        },
+        "cec950cc689f7073": {
+            "hash": "cec950cc689f7073",
+            "directory": "External25",
+            "voiceContent": "네 마음 이해해… 레이라",
+            "sourceName": "vo_TLEQ003_1_olorun_06.wem"
+        },
+        "4d421ed4ac2d266a": {
+            "hash": "4d421ed4ac2d266a",
+            "directory": "External9",
+            "voiceContent": "가만히 있어도 예쁜 양배추로 자라는 씨앗이 있는 반면, 어떤 씨앗은 아무리 노력해도 싹조차 트지 않으니까",
+            "sourceName": "vo_TLEQ003_1_olorun_07.wem"
+        },
+        "487c12c2fe9a3938": {
+            "hash": "487c12c2fe9a3938",
+            "directory": "External9",
+            "voiceContent": "내가 이런 말을 한다고 달라지는 건 없겠지만, 잘 추스르길 바라",
+            "sourceName": "vo_TLEQ003_1_olorun_09.wem"
+        },
+        "7b34bcdb9f2065ed": {
+            "hash": "7b34bcdb9f2065ed",
+            "directory": "External15",
+            "voiceContent": "아냐, 레이라. 할머니가 말은 저렇게 해도, 우리 중에 널 탓하는 사람은 없어",
+            "sourceName": "vo_TLEQ003_1_olorun_04.wem"
+        },
+        "0fb6a2e480671a5c": {
+            "hash": "0fb6a2e480671a5c",
+            "directory": "External1",
+            "voiceContent": "너도 다른 사람의 꼬임에 넘어간 거잖아? 그 타니나카가 원흉인 거지?",
+            "sourceName": "vo_TLEQ003_1_olorun_05.wem"
+        },
+        "69f2b0ecaefc0607": {
+            "hash": "69f2b0ecaefc0607",
+            "directory": "External13",
+            "voiceContent": "목소리 낮춰. 지금은 방해하면 안 돼",
+            "sourceName": "vo_TLEQ003_1_olorun_02.wem"
+        },
+        "cd9f6cbabe1d7fb9": {
+            "hash": "cd9f6cbabe1d7fb9",
+            "directory": "External25",
+            "voiceContent": "왜 그런지는 나도 모르겠어. 어쩌면 그게 인생이겠지? 세상엔 어쩔 수 없는 일이 많더라",
+            "sourceName": "vo_TLEQ003_1_olorun_08.wem"
+        },
+        "c0b34305644f63a0": {
+            "hash": "c0b34305644f63a0",
+            "directory": "External24",
+            "voiceContent": "나도 할머니가 말한 물건을 준비해 뒀어. 오늘은 틀림없이 성공할 거야",
+            "sourceName": "vo_TLEQ003_1_olorun_01.wem"
+        },
+        "10e08ef62ae9187e": {
+            "hash": "10e08ef62ae9187e",
+            "directory": "External2",
+            "voiceContent": "봐! 레이라의 영력이 돌아와서 몸으로 향하고 있어",
+            "sourceName": "vo_TLEQ003_1_olorun_03.wem"
+        },
+        "8a77347da3edb0ad": {
+            "hash": "8a77347da3edb0ad",
+            "directory": "External17",
+            "voiceContent": "먼저 가서 동굴 안을 확인해 줄래? 지금은 무사하겠지만, 시간을 오래 끌면 위험해질지도 몰라",
+            "sourceName": "vo_TLEQ001_2_olorun_09.wem"
+        },
+        "e60ea84a19dc4055": {
+            "hash": "e60ea84a19dc4055",
+            "directory": "External28",
+            "voiceContent": "응, 내가 우리 집 꿀벌레한테 네 업적을 얘기하듯, 할머니도 함정한테 네 이야길 해줬을걸",
+            "sourceName": "vo_TLEQ001_2_olorun_12.wem"
+        },
+        "d97ae45cc005ef79": {
+            "hash": "d97ae45cc005ef79",
+            "directory": "External27",
+            "voiceContent": "뭐? 큰일 났다…",
+            "sourceName": "vo_TLEQ001_2_olorun_05.wem"
+        },
+        "57bd8a650365d1f8": {
+            "hash": "57bd8a650365d1f8",
+            "directory": "External10",
+            "voiceContent": "할머니는 한 단락에 비유를 두 번 쓰는 라이트 노벨은 이류라고 했어. 난 이류가 되고 싶지 않아",
+            "sourceName": "vo_TLEQ001_2_olorun_04.wem"
+        },
+        "1706184cebcb80ff": {
+            "hash": "1706184cebcb80ff",
+            "directory": "External2",
+            "voiceContent": "내가 저 동굴 안으로 들어가면 할머니의 감시 술법에 걸리거나, 할머니가 남겨둔 함정을 밟을지도 몰라…",
+            "sourceName": "vo_TLEQ001_2_olorun_07.wem"
+        },
+        "6640982c0812afab": {
+            "hash": "6640982c0812afab",
+            "directory": "External12",
+            "voiceContent": "원래 저 동굴 입구에 서서 내가 들어가는 걸 막고 있었거든. 그렇게 내 앞길이 막혀 버렸지",
+            "sourceName": "vo_TLEQ001_2_olorun_03.wem"
+        },
+        "39a23c3ae35997bb": {
+            "hash": "39a23c3ae35997bb",
+            "directory": "External7",
+            "voiceContent": "할머니의 함정에 걸릴 수도 있으니까 난 입구에서 기다리고 있을게",
+            "sourceName": "vo_TLEQ001_2_olorun_10.wem"
+        },
+        "1613443b4178ed85": {
+            "hash": "1613443b4178ed85",
+            "directory": "External2",
+            "voiceContent": "어?",
+            "sourceName": "vo_TLEQ001_2_olorun_01.wem"
+        },
+        "1b931a8682513c1c": {
+            "hash": "1b931a8682513c1c",
+            "directory": "External3",
+            "voiceContent": "난 사람을 구하려는 것뿐인데… 할머니가 막았어",
+            "sourceName": "vo_TLEQ001_2_olorun_08.wem"
+        },
+        "bba1263312b65762": {
+            "hash": "bba1263312b65762",
+            "directory": "External23",
+            "voiceContent": "할머니가… 사라졌어…",
+            "sourceName": "vo_TLEQ001_2_olorun_02.wem"
+        },
+        "6936b653f3b9a916": {
+            "hash": "6936b653f3b9a916",
+            "directory": "External13",
+            "voiceContent": "그렇게 간단하진 않을 거 같아…. 할머니는 이렇게 쉽게 날 놓아줄 사람이 아냐",
+            "sourceName": "vo_TLEQ001_2_olorun_06.wem"
+        },
+        "894e3ba00e4d2725": {
+            "hash": "894e3ba00e4d2725",
+            "directory": "External17",
+            "voiceContent": "그치만 할머니, 정말 대단하다. 사람을 매개 삼아 영력 투시를 할 수 있다니. 난 물건만 가능한 줄 알았어",
+            "sourceName": "vo_TLEQ001_5_olorun_11.wem"
+        },
+        "d8d63d7a64825d12": {
+            "hash": "d8d63d7a64825d12",
+            "directory": "External27",
+            "voiceContent": "미안, 할머니",
+            "sourceName": "vo_TLEQ001_5_olorun_01.wem"
+        },
+        "dd66618c11e7e3e4": {
+            "hash": "dd66618c11e7e3e4",
+            "directory": "External27",
+            "voiceContent": "어? 아… 마, 맞아, 할머니",
+            "sourceName": "vo_TLEQ001_5_olorun_03.wem"
+        },
+        "fa16fba414b6d1e9": {
+            "hash": "fa16fba414b6d1e9",
+            "directory": "External31",
+            "voiceContent": "아니야, 영혼과 관련된 일이라면, 나한테 방법이 있어…",
+            "sourceName": "vo_TLEQ001_5_olorun_06.wem"
+        },
+        "9467bd53281e6f1e": {
+            "hash": "9467bd53281e6f1e",
+            "directory": "External18",
+            "voiceContent": "바보라고 해도 상관없어. 너희만 지지해 준다면, 난 레이라의 영력을 되찾아올 거야",
+            "sourceName": "vo_TLEQ001_5_olorun_08a_1.wem"
+        },
+        "a104e1ad90a3f0a8": {
+            "hash": "a104e1ad90a3f0a8",
+            "directory": "External20",
+            "voiceContent": "괜찮아, 할머니가 너무 과하게 걱정하는 거야. 내 몸은 이제 거의 문제 없어. 더 안전한 방법도 찾아낼 수 있고. 레이라의 영력을 되찾으려면 이 방법뿐이야",
+            "sourceName": "vo_TLEQ001_5_olorun_07.wem"
+        },
+        "89d2cd9b486a8b86": {
+            "hash": "89d2cd9b486a8b86",
+            "directory": "External17",
+            "voiceContent": "응, 그래서 난 레이라가 잃어버린 영력을 되찾으려 했던 거야…",
+            "sourceName": "vo_TLEQ001_5_olorun_05.wem"
+        },
+        "5f599b83ceb55a75": {
+            "hash": "5f599b83ceb55a75",
+            "directory": "External11",
+            "voiceContent": "…정말 미안",
+            "sourceName": "vo_TLEQ001_5_olorun_02.wem"
+        },
+        "deaf81a718f20754": {
+            "hash": "deaf81a718f20754",
+            "directory": "External27",
+            "voiceContent": "음… 페이몬, 그 얘긴 굳이 안 해도 돼",
+            "sourceName": "vo_TLEQ001_5_olorun_10.wem"
+        },
+        "4da76dbcc7545e9a": {
+            "hash": "4da76dbcc7545e9a",
+            "directory": "External9",
+            "voiceContent": "어? 진짜 할머니한테 다른 방법이 있어?",
+            "sourceName": "vo_TLEQ001_5_olorun_09.wem"
+        },
+        "f0b062c7b4c36ad4": {
+            "hash": "f0b062c7b4c36ad4",
+            "directory": "External30",
+            "voiceContent": "만약 「시틀라리를 해결할 수 있는 40인」 두루마리를 펼치면, 가장 앞에 있는 사람은 너일 거야",
+            "sourceName": "vo_TLEQ001_1_olorun_14.wem"
+        },
+        "5531932cd1c24b80": {
+            "hash": "5531932cd1c24b80",
+            "directory": "External10",
+            "voiceContent": "그래도 이제 너희가 왔으니 움직일 수 있겠지. 시간은 날 기다려주지 않으니까",
+            "sourceName": "vo_TLEQ001_1_olorun_18.wem"
+        },
+        "715a7ca46a86bdf5": {
+            "hash": "715a7ca46a86bdf5",
+            "directory": "External14",
+            "voiceContent": "눈치챘구나. 맞아, 난 지금 꿀을 만들기 어려운 꿀벌레처럼 고민에 빠졌어. 할머니가 내 앞길을 막았거든",
+            "sourceName": "vo_TLEQ001_1_olorun_06.wem"
+        },
+        "4aeb70cfe356a39f": {
+            "hash": "4aeb70cfe356a39f",
+            "directory": "External9",
+            "voiceContent": "넌 뭔가 느낌이 달라, 시틀라리 할머니가 널 대하는 태도도 그렇고. 이후의 일이 이 두 가지를 증명했지",
+            "sourceName": "vo_TLEQ001_1_olorun_13.wem"
+        },
+        "6ccb9092bd2349db": {
+            "hash": "6ccb9092bd2349db",
+            "directory": "External13",
+            "voiceContent": "너희는 정말 좋은 친구야. 우리 집 채소도 너희를 봤다면 더 무럭무럭 자랐겠지",
+            "sourceName": "vo_TLEQ001_1_olorun_04.wem"
+        },
+        "3be4c10da48df883": {
+            "hash": "3be4c10da48df883",
+            "directory": "External7",
+            "voiceContent": "그럼 할머니는 괜히 고민하는 척하다가 금방 수락할 거야. 네가 미끼를 던지면, 할머니는 반드시 낚여",
+            "sourceName": "vo_TLEQ001_1_olorun_22.wem"
+        },
+        "e06062ea6ef04a18": {
+            "hash": "e06062ea6ef04a18",
+            "directory": "External28",
+            "voiceContent": "너희의 도움이 절실해. 왜냐하면 할머니 일을 해결할 수 있는 사람은…",
+            "sourceName": "vo_TLEQ001_1_olorun_10.wem"
+        },
+        "ae436d2355d4bf81": {
+            "hash": "ae436d2355d4bf81",
+            "directory": "External21",
+            "voiceContent": "할머니가 라이트 노벨이랑 술, 잠을 좋아하는 건 알지? 너라면 분명 눈치 빠르게 할머니를 유인해 낼 수 있을 거야",
+            "sourceName": "vo_TLEQ001_1_olorun_19.wem"
+        },
+        "04494d40d0dcf2b1": {
+            "hash": "04494d40d0dcf2b1",
+            "directory": "External0",
+            "voiceContent": "채소에 물 주는 것처럼 쉬울 거야. 우리 집 채소가 여기 있었다면… 아… 미안, 채소 얘기할 시간은 없겠어…",
+            "sourceName": "vo_TLEQ001_1_olorun_24.wem"
+        },
+        "7f25f3491159ac30": {
+            "hash": "7f25f3491159ac30",
+            "directory": "External15",
+            "voiceContent": "날 믿고 나랑 같이 가줘. 너만 있으면 모든 게 해결될 거야",
+            "sourceName": "vo_TLEQ001_1_olorun_25.wem"
+        },
+        "ef6742acadb94764": {
+            "hash": "ef6742acadb94764",
+            "directory": "External29",
+            "voiceContent": "응. 너희도 알다시피 할머니는 천재야. 천재는 늘 다른 사람의 길을 막고 절망하게 만들지",
+            "sourceName": "vo_TLEQ001_1_olorun_07.wem"
+        },
+        "9a25f0aeff9dd34b": {
+            "hash": "9a25f0aeff9dd34b",
+            "directory": "External19",
+            "voiceContent": "난 지금 보기엔 멀쩡해 보여도, 앞길 때문에 곤란한 상태야. 할머니는 길을 막는 호랑이가 됐고, 난 갈 길을 잃었어",
+            "sourceName": "vo_TLEQ001_1_olorun_17.wem"
+        },
+        "b305c2ce2c755428": {
+            "hash": "b305c2ce2c755428",
+            "directory": "External22",
+            "voiceContent": "그랬구나…. 가슴이 따뜻해졌어. 이게 바로 행복이란 감정인가?",
+            "sourceName": "vo_TLEQ001_1_olorun_03.wem"
+        },
+        "4f593f001d543a6e": {
+            "hash": "4f593f001d543a6e",
+            "directory": "External9",
+            "voiceContent": "엄청 심각하게 들리지? 음, 그러니까, 부디 할머니 일을 해결해줘",
+            "sourceName": "vo_TLEQ001_1_olorun_09.wem"
+        },
+        "d19093283056abec": {
+            "hash": "d19093283056abec",
+            "directory": "External26",
+            "voiceContent": "「사랑하는 할머니, 나한테 《신기루 전기》 신간이랑 《오르치 아가씨의 사건 파일》 번외편이 있는데 같이 볼래?」",
+            "sourceName": "vo_TLEQ001_1_olorun_21.wem"
+        },
+        "8f6a72b8d06ff51d": {
+            "hash": "8f6a72b8d06ff51d",
+            "directory": "External17",
+            "voiceContent": "부탁이야, 날 도와줘. 진짜 엄청 중요한 일이야",
+            "sourceName": "vo_TLEQ001_1_olorun_16a_1.wem"
+        },
+        "3d0ead1f4f0ff6bd": {
+            "hash": "3d0ead1f4f0ff6bd",
+            "directory": "External7",
+            "voiceContent": "맞아. 물론 나도 기다리기만 하진 않았어. 공부를 하며 할 말을 준비해 놨지. 할머니한테 이렇게 말하면 돼",
+            "sourceName": "vo_TLEQ001_1_olorun_20.wem"
+        },
+        "d47ca0f7dcd78e77": {
+            "hash": "d47ca0f7dcd78e77",
+            "directory": "External26",
+            "voiceContent": "게다가 난 할머니의 손자라, 다른 사람보다 배로 절망하게 돼…",
+            "sourceName": "vo_TLEQ001_1_olorun_08.wem"
+        },
+        "ead71e9b0053c092": {
+            "hash": "ead71e9b0053c092",
+            "directory": "External29",
+            "voiceContent": "칭찬이야. 칭찬은 남을 기쁘게 한다는데, 안 기뻤어?",
+            "sourceName": "vo_TLEQ001_1_olorun_05.wem"
+        },
+        "1a73f76f4bd97525": {
+            "hash": "1a73f76f4bd97525",
+            "directory": "External3",
+            "voiceContent": "할머니의 방법이 옳았다는 뜻이야. 레이라의 떠돌던 영력이 끌어당겨지고 있어",
+            "sourceName": "vo_TLEQ002_1_olorun_16.wem"
+        },
+        "fe4acdf7b31496b0": {
+            "hash": "fe4acdf7b31496b0",
+            "directory": "External31",
+            "voiceContent": "어, 왜?",
+            "sourceName": "vo_TLEQ002_1_olorun_08.wem"
+        },
+        "5f853d9910ab3498": {
+            "hash": "5f853d9910ab3498",
+            "directory": "External11",
+            "voiceContent": "할머니 집에 있는 두루마리에서 이 활이랑 비슷한 걸 본 적이 있어…",
+            "sourceName": "vo_TLEQ002_1_olorun_13.wem"
+        },
+        "6fd53d76567e5554": {
+            "hash": "6fd53d76567e5554",
+            "directory": "External13",
+            "voiceContent": "힘내, 할머니. 나도 힘낼게",
+            "sourceName": "vo_TLEQ002_1_olorun_17.wem"
+        },
+        "99c9dd9296162204": {
+            "hash": "99c9dd9296162204",
+            "directory": "External19",
+            "voiceContent": "과민 요법이라니, 정말 뜬금없는 생각이네. 정말 효과가 있을까?",
+            "sourceName": "vo_TLEQ002_1_olorun_04.wem"
+        },
+        "c002d9671d189102": {
+            "hash": "c002d9671d189102",
+            "directory": "External24",
+            "voiceContent": "아무리 산하자 선배의 유물이라도, 이미 부서진 상태라면 다 모아봤자 쓸모가 없지 않나?",
+            "sourceName": "vo_TLEQ002_1_olorun_15.wem"
+        },
+        "1f23178a55c6c195": {
+            "hash": "1f23178a55c6c195",
+            "directory": "External3",
+            "voiceContent": "이건…?",
+            "sourceName": "vo_TLEQ002_1_olorun_05.wem"
+        },
+        "ca104b7e85118e1f": {
+            "hash": "ca104b7e85118e1f",
+            "directory": "External25",
+            "voiceContent": "손자인 난 아무래도 상관없나 봐",
+            "sourceName": "vo_TLEQ002_1_olorun_10.wem"
+        },
+        "ed5d39835f931ab2": {
+            "hash": "ed5d39835f931ab2",
+            "directory": "External29",
+            "voiceContent": "잠깐만, 어쩐지 익숙한 느낌이 들어. 내 고대 이름과 관련이 있는 듯한…",
+            "sourceName": "vo_TLEQ002_1_olorun_06.wem"
+        },
+        "20162b9c0019c10f": {
+            "hash": "20162b9c0019c10f",
+            "directory": "External4",
+            "voiceContent": "레이라의 상태가 꽤 안정적이긴 하지만, 이런 식으로는 안 돼",
+            "sourceName": "vo_TLEQ002_1_olorun_03.wem"
+        },
+        "e1429790cd4b5219": {
+            "hash": "e1429790cd4b5219",
+            "directory": "External28",
+            "voiceContent": "저기 봐, 저 조각 중 하나가 이 조각이랑 비슷하지 않아?",
+            "sourceName": "vo_TLEQ002_1_olorun_12.wem"
+        },
+        "6f50ab7b1c60f0fb": {
+            "hash": "6f50ab7b1c60f0fb",
+            "directory": "External13",
+            "voiceContent": "아니… 아마 고대 이름의 전 주인이 남긴 걸 거야",
+            "sourceName": "vo_TLEQ002_1_olorun_07.wem"
+        },
+        "70fe698800ff0cb6": {
+            "hash": "70fe698800ff0cb6",
+            "directory": "External14",
+            "voiceContent": "미안, 할머니. 나 준비됐어",
+            "sourceName": "vo_TLEQ002_1_olorun_11.wem"
+        },
+        "7d95dbc2be29d967": {
+            "hash": "7d95dbc2be29d967",
+            "directory": "External15",
+            "voiceContent": "안전은 내가 확인했으니까 위험하지 않을 거야",
+            "sourceName": "vo_TLEQ002_1_olorun_18.wem"
+        },
+        "0e9cf7ad0fc5db89": {
+            "hash": "0e9cf7ad0fc5db89",
+            "directory": "External1",
+            "voiceContent": "할머니, 왔구나",
+            "sourceName": "vo_TLEQ002_1_olorun_01.wem"
+        },
+        "7fa131409345df4a": {
+            "hash": "7fa131409345df4a",
+            "directory": "External15",
+            "voiceContent": "걱정 마, 내가 다 확인했으니까 위험하진 않을 거야",
+            "sourceName": "vo_dialog_TLEQ002_olorun_01.wem"
+        },
+        "8456aaf4fa20e95c": {
+            "hash": "8456aaf4fa20e95c",
+            "directory": "External16",
+            "voiceContent": "지도? 어디의 지도지?",
+            "sourceName": "vo_TLEQ002_4_olorun_01.wem"
+        },
+        "436958dce2593f73": {
+            "hash": "436958dce2593f73",
+            "directory": "External8",
+            "voiceContent": "사실 그냥 멀리 나가기 귀찮아 하는 거야",
+            "sourceName": "vo_TLEQ002_4_olorun_02.wem"
+        },
+        "c1e226e525e6f56a": {
+            "hash": "c1e226e525e6f56a",
+            "directory": "External24",
+            "voiceContent": "나도 느껴져. 주변에 완전에 가까운 영혼이 하나 있어",
+            "sourceName": "vo_TLEQ002_4_olorun_03.wem"
+        },
+        "fdfefee004020687": {
+            "hash": "fdfefee004020687",
+            "directory": "External31",
+            "voiceContent": "……",
+            "sourceName": "vo_TLEQ001_8_olorun_01.wem"
+        },
+        "ff27eaf1ae8251a1": {
+            "hash": "ff27eaf1ae8251a1",
+            "directory": "External31",
+            "voiceContent": "그런 일은 내가 하면 돼",
+            "sourceName": "vo_TLEQ001_8_olorun_03.wem"
+        },
+        "54bf90f8b9556420": {
+            "hash": "54bf90f8b9556420",
+            "directory": "External10",
+            "voiceContent": "한마디 보태자면, 대경계사는 할머니처럼 대단한 사람을 향한 일종의 존칭이야",
+            "sourceName": "vo_TLEQ001_8_olorun_02.wem"
+        },
+        "51d2fa9a2d6c3138": {
+            "hash": "51d2fa9a2d6c3138",
+            "directory": "External10",
+            "voiceContent": "내가 장소를 잘못 택해서인가…. 미안해",
+            "sourceName": "vo_TLEQ003_3_olorun_07.wem"
+        },
+        "d6f65491ecef77b9": {
+            "hash": "d6f65491ecef77b9",
+            "directory": "External26",
+            "voiceContent": "어쨌든, 이 타니나카란 놈은 꽤 교활하게 위험을 최소화하는 방법을 취한 셈이야",
+            "sourceName": "vo_TLEQ003_3_olorun_06.wem"
+        },
+        "e43a1a9629b7ea24": {
+            "hash": "e43a1a9629b7ea24",
+            "directory": "External28",
+            "voiceContent": "정말 기뻐, 레이라. 앞으로 같이 힘내자. 우리 모두 예쁜 양배추가 되면 좋겠다",
+            "sourceName": "vo_TLEQ003_3_olorun_10.wem"
+        },
+        "b5b696683cbcb6a2": {
+            "hash": "b5b696683cbcb6a2",
+            "directory": "External22",
+            "voiceContent": "동굴에 할머니 혼자 있는 걸 보면 놓쳤나 봐",
+            "sourceName": "vo_TLEQ003_3_olorun_01.wem"
+        },
+        "b6df7a79e73cf474": {
+            "hash": "b6df7a79e73cf474",
+            "directory": "External22",
+            "voiceContent": "봐, 내 말이 맞지?",
+            "sourceName": "vo_TLEQ003_3_olorun_03.wem"
+        },
+        "1481888218b5093f": {
+            "hash": "1481888218b5093f",
+            "directory": "External2",
+            "voiceContent": "미안해, 나구나…",
+            "sourceName": "vo_TLEQ003_3_olorun_04.wem"
+        },
+        "66b2268920a33256": {
+            "hash": "66b2268920a33256",
+            "directory": "External12",
+            "voiceContent": "그리고 할머니도",
+            "sourceName": "vo_TLEQ003_3_olorun_05.wem"
+        },
+        "d82038a397716873": {
+            "hash": "d82038a397716873",
+            "directory": "External27",
+            "voiceContent": "레이라를 구하기 위해 영력이 풍부한 지역을 찾다가, 미친 현자의 영역에 오게 됐거든",
+            "sourceName": "vo_TLEQ003_3_olorun_08.wem"
+        },
+        "1027b4706b7d9ac5": {
+            "hash": "1027b4706b7d9ac5",
+            "directory": "External2",
+            "voiceContent": "동굴에서 나가는 척하고 숨어 있다가, 독 안에 든 쥐를 잡으려던 거였구나",
+            "sourceName": "vo_TLEQ003_3_olorun_02.wem"
+        },
+        "569906abdaff1e6a": {
+            "hash": "569906abdaff1e6a",
+            "directory": "External10",
+            "voiceContent": "잘 됐다. 역시 인생이란 참 신기해. 앞으로 나아가다 보면, 비료를 만나게 될지도 모르니까",
+            "sourceName": "vo_TLEQ003_3_olorun_09.wem"
+        },
+        "fd4f4ca14f856e0e": {
+            "hash": "fd4f4ca14f856e0e",
+            "directory": "External31",
+            "voiceContent": "마물의 수가 많이 줄었어. 지금이 승기를 밀어붙일 때야",
+            "sourceName": "vo_NTAQ108_4_olorun_02.wem"
+        },
+        "839c9aaab98ac031": {
+            "hash": "839c9aaab98ac031",
+            "directory": "External16",
+            "voiceContent": "사람들을 다 구한 것 같으니 할머니 먼저 가 있어. 난 잠깐 할 게 있어서… 다음 작전에 지장을 주진 않을게",
+            "sourceName": "vo_NTAQ108_4_olorun_01.wem"
+        },
+        "7f0cae990c259917": {
+            "hash": "7f0cae990c259917",
+            "directory": "External15",
+            "voiceContent": "불의 신님의 힘을 마음껏 빌려 쓰자",
+            "sourceName": "vo_NTAQ108_4_olorun_03.wem"
+        },
+        "bc61fa8937bdc43d": {
+            "hash": "bc61fa8937bdc43d",
+            "directory": "External23",
+            "voiceContent": "전부 소중한 생명이잖아",
+            "sourceName": "vo_NTAQ108_4_olorun_05.wem"
+        },
+        "50e3e0921904796c": {
+            "hash": "50e3e0921904796c",
+            "directory": "External10",
+            "voiceContent": "미안, 그래도 야채랑 꿀벌레를 그냥 놔둘 순 없어",
+            "sourceName": "vo_NTAQ108_4_olorun_04.wem"
+        }
+    },
+    "Gameplay": {
+        "19c26221e33c6c62": {
+            "hash": "19c26221e33c6c62",
+            "directory": "External3",
+            "voiceContent": "너무 멀리 가진 마",
+            "sourceName": "vo_olorun_battle_skill1_01.wem"
+        },
+        "7434802a11ff0285": {
+            "hash": "7434802a11ff0285",
+            "directory": "External14",
+            "voiceContent": "잘 가",
+            "sourceName": "vo_olorun_battle_skill1_02.wem"
+        },
+        "1aec46338dbe5c34": {
+            "hash": "1aec46338dbe5c34",
+            "directory": "External3",
+            "voiceContent": "방생해 줄게",
+            "sourceName": "vo_olorun_battle_skill1_03.wem"
+        },
+        "e8b73c4509847bbc": {
+            "hash": "e8b73c4509847bbc",
+            "directory": "External29",
+            "voiceContent": "가, 넌 자유야",
+            "sourceName": "vo_olorun_battle_skill3_01.wem"
+        },
+        "530b6a2a7dbbc953": {
+            "hash": "530b6a2a7dbbc953",
+            "directory": "External10",
+            "voiceContent": "자, 모두한테 인사해",
+            "sourceName": "vo_olorun_battle_skill3_02.wem"
+        },
+        "d1843832c1497f4a": {
+            "hash": "d1843832c1497f4a",
+            "directory": "External26",
+            "voiceContent": "나 대신 잘 둘러봐 줘",
+            "sourceName": "vo_olorun_battle_skill3_03.wem"
+        },
+        "a0cdedbe4f99b483": {
+            "hash": "a0cdedbe4f99b483",
+            "directory": "External20",
+            "voiceContent": "보물상자를 향한 네 열정이 이들의 생존 환경을 위협하고 있어",
+            "sourceName": "vo_olorun_chest_open_01.wem"
+        },
+        "3679bfd8db6267ec": {
+            "hash": "3679bfd8db6267ec",
+            "directory": "External6",
+            "voiceContent": "두드려 보니 맑은 소리가 나, 훌륭한 과실이야",
+            "sourceName": "vo_olorun_chest_open_02.wem"
+        },
+        "a1f7d9cffa1bb2bd": {
+            "hash": "a1f7d9cffa1bb2bd",
+            "directory": "External20",
+            "voiceContent": "조심해, 상자 안에 숨어 있길 좋아하는 용도 있거든. 내향적인 성격인가 봐",
+            "sourceName": "vo_olorun_chest_open_03.wem"
+        },
+        "b30f24afc2132e1b": {
+            "hash": "b30f24afc2132e1b",
+            "directory": "External22",
+            "voiceContent": "의사한테 데려다줄까?",
+            "sourceName": "vo_olorun_life_less30_teammate_01.wem"
+        },
+        "3244d6c9afc602a4": {
+            "hash": "3244d6c9afc602a4",
+            "directory": "External6",
+            "voiceContent": "일단 내가 나설게",
+            "sourceName": "vo_olorun_life_less30_teammate_02.wem"
+        },
+        "5addb69a773c2ca2": {
+            "hash": "5addb69a773c2ca2",
+            "directory": "External11",
+            "voiceContent": "먼저 갈게…",
+            "sourceName": "vo_olorun_life_die_01.wem"
+        },
+        "b54ed4a2a5fd10c5": {
+            "hash": "b54ed4a2a5fd10c5",
+            "directory": "External22",
+            "voiceContent": "눈앞이 흐릿해…",
+            "sourceName": "vo_olorun_life_die_02.wem"
+        },
+        "56f46ea3e57255d8": {
+            "hash": "56f46ea3e57255d8",
+            "directory": "External10",
+            "voiceContent": "내가 필요해?",
+            "sourceName": "vo_olorun_teamJoin_01.wem"
+        },
+        "c17e7c8959d6fc5f": {
+            "hash": "c17e7c8959d6fc5f",
+            "directory": "External24",
+            "voiceContent": "어디 가?",
+            "sourceName": "vo_olorun_teamJoin_02.wem"
+        },
+        "6bd39a92d8a956f6": {
+            "hash": "6bd39a92d8a956f6",
+            "directory": "External13",
+            "voiceContent": "좋은 일인지 나쁜 일인지 먼저 알려주지 않을래?",
+            "sourceName": "vo_olorun_teamJoin_03.wem"
+        },
+        "60e02106a45c3ac5": {
+            "hash": "60e02106a45c3ac5",
+            "directory": "External12",
+            "voiceContent": "연기 주인 사람은 다 괴짜라고? 난 나만 그런 줄 알았는데. 또 누가 있어?",
+            "sourceName": "vo_olorun_character_idle_01.wem"
+        },
+        "066f02fe759b56a2": {
+            "hash": "066f02fe759b56a2",
+            "directory": "External0",
+            "voiceContent": "누구나 좋아하는 동물이나 야채, 과일 하나쯤은 있어야 돼. 그래야 자신이 어떤 사람이 되고 싶은지 알 수 있거든",
+            "sourceName": "vo_olorun_character_idle_02.wem"
+        },
+        "b47474f76ddad8eb": {
+            "hash": "b47474f76ddad8eb",
+            "directory": "External22",
+            "voiceContent": "모든 연기를 다 통과할 수 있는 건 아니야. 야망이 과하게 크면, 연기에 질식할 수도 있어",
+            "sourceName": "vo_olorun_character_idle_03.wem"
+        },
+        "7dc645977994f65d": {
+            "hash": "7dc645977994f65d",
+            "directory": "External15",
+            "voiceContent": "달리면 옷에 흙탕물이 튈 거고, 날면… 망토가 젖어서 무거워질 거야. 그냥 잠깐 앉아 있을 곳을 찾자",
+            "sourceName": "vo_olorun_weather_heavyRain_01.wem"
+        },
+        "620029dae4a1c296": {
+            "hash": "620029dae4a1c296",
+            "directory": "External12",
+            "voiceContent": "번개는 뱀 같아. 번개의 색과 형상으로 점을 보는 사람도 있을까…. 솔직히, 그 사람들의 안전이 좀 걱정돼",
+            "sourceName": "vo_olorun_weather_thunder_01.wem"
+        },
+        "fccce481e7fea6e7": {
+            "hash": "fccce481e7fea6e7",
+            "directory": "External31",
+            "voiceContent": "이곳은… 무언가를 재배하기에 좋은 곳은 아니네. 그냥 지나갈까?",
+            "sourceName": "vo_olorun_weather_desert_01.wem"
+        },
+        "7ea499236f823e96": {
+            "hash": "7ea499236f823e96",
+            "directory": "External15",
+            "voiceContent": "…눈 아래에 무언가가 있어. 녀석들을 깨우지 않게 조심히 가자",
+            "sourceName": "vo_olorun_weather_snowy_01.wem"
+        },
+        "3e613cf810ee2a1f": {
+            "hash": "3e613cf810ee2a1f",
+            "directory": "External7",
+            "voiceContent": "태양은 영원히 타오르는 불이지. 나타 사람들은 태양을 바라보는 걸 두려워하지 않아. 물론, 정말 힘들면 선글라스를 써도 돼",
+            "sourceName": "vo_olorun_weather_sunny_01.wem"
+        },
+        "e2cee5f0153235df": {
+            "hash": "e2cee5f0153235df",
+            "directory": "External28",
+            "voiceContent": "미안, 눈은 떴지만 아직 잠에서 못 깼어…. 일 얘기는 나중에 하지 않을래?",
+            "sourceName": "vo_olorun_dialog_greetingMorning.wem"
+        },
+        "164518646b0aefdd": {
+            "hash": "164518646b0aefdd",
+            "directory": "External2",
+            "voiceContent": "위장이 뭔가 먹을 시간이 됐대. 근데 먹고 싶은 게 떠오르질 않네…. 아직 머리는 덜 깼나 봐",
+            "sourceName": "vo_olorun_dialog_greetingNoon.wem"
+        },
+        "10477eebc73ff9d1": {
+            "hash": "10477eebc73ff9d1",
+            "directory": "External2",
+            "voiceContent": "갑자기 뚱룡장 거품 커피가 마시고 싶어졌어, 우유 안 넣은 걸로. 너무 늦었다고? 그럼… 좋은 아침",
+            "sourceName": "vo_olorun_dialog_greetingNight.wem"
+        },
+        "3fbf4642443dc873": {
+            "hash": "3fbf4642443dc873",
+            "directory": "External7",
+            "voiceContent": "이 시간만 되면 머리가 쌩쌩해져. 그래서 억지로 잠을 청하는 건 포기한 지 오래야. 넌 먼저 가서 쉬어. 난 등불을 들고 밭에 무를 좀 보러 갈게",
+            "sourceName": "vo_olorun_dialog_greetingNight2.wem"
+        },
+        "dae1f6ff9327f214": {
+            "hash": "dae1f6ff9327f214",
+            "directory": "External27",
+            "voiceContent": "나도 가끔 내 말이 이해하기 어렵다는 건 알아. 이해하지 못하겠으면 바로 물어봐도 돼, 난 괜찮으니까",
+            "sourceName": "vo_olorun_dialog_idle.wem"
+        },
+        "b35ef4e3a3b99a1c": {
+            "hash": "b35ef4e3a3b99a1c",
+            "directory": "External22",
+            "voiceContent": "내가 어디에서 왔는지 모르지만, 딱히 궁금하지는 않아…. 그보다는 내가 어디로 가야 하는지를 더 알고 싶어",
+            "sourceName": "vo_olorun_dialog_idle2.wem"
+        },
+        "17b64677597f4f93": {
+            "hash": "17b64677597f4f93",
+            "directory": "External2",
+            "voiceContent": "여기 「새벽 네 시」의 뚱룡장이랑 「머리보다 큰」 마몬치요, 「지난주까진 제일 달콤했던」 꿀… 그리고… 아, 「카쿠쿠 무료 진찰권」도 있어.왜 의아한 표정을 지어? 다 선물이야, 받아줘. 너에게 도움을 받았는데 넌 딱히 부족한 게 없어 보여서, 어쩔 수 없이 내가 좋아하는 걸로 준비했어.카쿠쿠가 누구냐고? 카쿠쿠는 용이야. 언제 한 번 소개해 줄게",
+            "sourceName": "vo_olorun_dialog_close1.wem"
+        },
+        "bf6742c6e27b52f4": {
+            "hash": "bf6742c6e27b52f4",
+            "directory": "External23",
+            "voiceContent": "미안… 음… 그러니까, 정말로 미안해. 만나자마자 속이고, 정말 나쁜 인상을 줬지. 이유는 이미 다 말했지만, 그 말에 절대 거짓은 없어. 받아주지 않는다 해도 괜찮아. 내가 최대한… 네 앞에 나타나지 않으면 되니까…",
+            "sourceName": "vo_olorun_dialog_close.wem"
+        },
+        "840a62a237312bc7": {
+            "hash": "840a62a237312bc7",
+            "directory": "External16",
+            "voiceContent": "삶의 지혜를 하나 알려줄게. 맨 처음으로 의견을 내는 사람은 되지 마. 먼저 맺은 열매가 쉽게 노려지듯이, 가장 먼저 눈에 띄는 사람은 종종 처참하게 패배하거든",
+            "sourceName": "vo_olorun_dialog_share_01.wem"
+        },
+        "1dc3d3bf16e403cf": {
+            "hash": "1dc3d3bf16e403cf",
+            "directory": "External3",
+            "voiceContent": "날다람쥐는 사실 하늘에서 활강할 때처럼 항상 안하무인인 건 아니야. 갑자기 날아들어서 네 몸에 달라붙어 있으면 뭐라도 챙겨주고 싶어지거든. 어떤 의미로는 참 교활한 녀석들이라 할 수 있어",
+            "sourceName": "vo_olorun_pref_gift_01.wem"
+        },
+        "ece5d48b019befbb": {
+            "hash": "ece5d48b019befbb",
+            "directory": "External29",
+            "voiceContent": "실로닌은 높은 곳, 특히 나무 위를 좋아하는 듯해. 난 나뭇가지에 거꾸로 매달려 있는 게 위에 누워 있는 것보다 스트레스가 풀리던데, 기회가 되면 노하우를 나눠 봐야겠어. 어, 별로야? 다들 세상을 보는 각도를 바꿔보라고 하잖아. 실로닌 같은 발명가라면 더 그래야 하지 않나?",
+            "sourceName": "vo_olorun_teammate_xilonen_01.wem"
+        },
+        "267bfe0b54785be4": {
+            "hash": "267bfe0b54785be4",
+            "directory": "External4",
+            "voiceContent": "아쥬는 참 흥미로워. 나이가 많은데, 또 나이가 적지. 키니치는 딱 반대야. 나이가 적은데, 또 나이가 많아. 어… 내 말 이해하고 있는 거지?",
+            "sourceName": "vo_olorun_teammate_kinich_01.wem"
+        },
+        "a588db15a029f0ad": {
+            "hash": "a588db15a029f0ad",
+            "directory": "External20",
+            "voiceContent": "차스카는 대단하고 또 유명해. 싸우던 사람들도 차스카만 오면 싸움을 멈추고 화기애애하게 악수를 하지. 가장 말이 잘 통하는 녀석은 「무력행사」였구나 싶어. 훌륭한 이름이야",
+            "sourceName": "vo_olorun_teammate_chasca_01.wem"
+        },
+        "d6bc18e34c42a3e2": {
+            "hash": "d6bc18e34c42a3e2",
+            "directory": "External26",
+            "voiceContent": "나는 불의 신님을 몰랐어.내 말은, 불의 신님이 누구인지는 당연히 알지만, 실제로 대화를 나눠 본 「아는 사이」가 아니었다는 거야. 이전까지 내게 불의 신님은 힘이 각인된 토템 같았어. 모든 상황을 제어하는 상징적 표식이랄까. 그건 제대로 된 이해가 아니었기에, 나는 항상 의문을 품었어.지금은 그 의문이 많이 해소돼서 무척 기뻐. 한편으론 민망하고 부끄럽기도 해…. 그분은 한 번도 길을 잃은 적이 없으시고, 불꽃이 왜 오랫동안 타오르는지 알고 계셨어. 그래서 어떤 상황에서도 불이 꺼지지 않도록 하셨지. 나도… 나타 사람들을 도울 수 있는 존재가 되고 싶어.물론, 불의 신님에 관한 생각은 이게 다가 아니야…. 저번에 연회에서 그분이 녹색 채소를 많이 드시는 걸 봤어. 그것에 대해 이야기도 나눠봤는데, 균형 잡힌 영양 섭취를 좋아하신다더라. 불의 신님은 내 생각보다 훨씬 섬세한 분이셨어",
+            "sourceName": "vo_olorun_teammate_mavuika_01.wem"
+        },
+        "c4c9da8b312cdc09": {
+            "hash": "c4c9da8b312cdc09",
+            "directory": "External24",
+            "voiceContent": "정말 기이하고 갑작스러운 인연이었지.연기 주인 사람은 미래 예지에 능하다고 하지만, 길에서 「카피타노」를 만났을 때 난 일이 이렇게 복잡해질 줄은 상상도 못 했어. 넌 인연을 쉽게 구분 지을 수 있다고 생각해? 만약 그렇다면, 내 마음속에는 왜 아직도 고마움과 미안함이 남아 있는 걸까?…어쩌면 내가 생각이 너무 많은 걸지도 몰라. 과거에 어떤 일이 있었든, 「카피타노」는 위기에 빠진 나타의 지맥을 구해준, 존경받아 마땅한 영웅이야. 나는 언제까지나 그를 기억할 거야",
+            "sourceName": "vo_olorun_teammate_capitano_01.wem"
+        },
+        "066ce283b13aa93a": {
+            "hash": "066ce283b13aa93a",
+            "directory": "External0",
+            "voiceContent": "이파는 환자를 자주 혼내지만, 사실 용들과 관계가 아주 좋아. 한가할 땐 진료소 앞에서 기타를 치면서, 주위를 둘러싼 용들한테 하나씩 따라 부르게 하지.사실 노래라기보다는 울음소리에 가까워. 나도 지나가다 보면 끼곤 해. 아, 그러니까 용들한테 낀다고",
+            "sourceName": "vo_olorun_teammate_ifa_01.wem"
+        },
+        "76037c8f88c8ca80": {
+            "hash": "76037c8f88c8ca80",
+            "directory": "External14",
+            "voiceContent": "할머니는 사실 무척 솔직한 사람이야. 기쁜 것도 안 기쁜 것도 전부 드러내지. 자기 감정을 숨기는 데도 능숙하지 못하고 말이야. 너는 할머니와 동년배거나… 더 나이가 많아 보이는데?미안, 무례한 질문 같으니 더는 묻지 않을게. 하지만 정말 그렇다면, 할머니와 자주 대화를 나눠줘. 할머니는 주변에 온통 어린 사람들뿐이라, 네가 있어 주면 정말 기뻐할 거야",
+            "sourceName": "vo_olorun_teammate_citlali_01.wem"
+        },
+        "7968bd213f92808c": {
+            "hash": "7968bd213f92808c",
+            "directory": "External15",
+            "voiceContent": "불의 신님이 날 잡으러 얀사를 안 보내서 다행이야. 얀사는 곳곳에 이름을 날린 운동 코치인데, 내가 신장은 더 우세할지 몰라도, 얀사에게서 도망칠 수는 없을 거야. 속임수? 그건 너무 많이 쓰면 효과가 떨어져",
+            "sourceName": "vo_olorun_teammate_iansan_01.wem"
+        },
+        "41326adecbc251b9": {
+            "hash": "41326adecbc251b9",
+            "directory": "External8",
+            "voiceContent": "안녕, 악수할래? 나타 사람들은 인사할 때 보통 이렇게 격식을 차리진 않지만, 네가 원한다면 해도 좋아. 사실 그냥 멀리서 크게 외치는 정도면 충분해. 나는 청력이 좋으니까 알아챌 수 있어",
+            "sourceName": "vo_olorun_friendship_01.wem"
+        },
+        "d0ee3cd5ff760c56": {
+            "hash": "d0ee3cd5ff760c56",
+            "directory": "External26",
+            "voiceContent": "너는 항상 바빠 보이네, 나도 너처럼 늘 할 일이 있으면 좋겠어. 그런데 또 가끔은 한가로운 시간이 좋기도 해. 사람의 마음은 참 갈대 같다니까. 나 자신도 제어할 수 없다니, 정말 곤란해",
+            "sourceName": "vo_olorun_friendship_02.wem"
+        },
+        "7ebd9ecef787e33f": {
+            "hash": "7ebd9ecef787e33f",
+            "directory": "External15",
+            "voiceContent": "낮의 나타는 많이 더워. 그러니까 꼭 필요한 경우가 아니면 나는 저녁에 외출하길 선호해. 밤의 수면을 본 적 있어? 물결이 달빛을 받아 반짝여서 정말 아름다운 장면을 자아내. 하지만 수면이 정말로 깨끗한지는 햇빛 아래서만 확인할 수 있으니, 밤의 어두컴컴한 물은 최대한 피하는 게 좋아",
+            "sourceName": "vo_olorun_friendship_03.wem"
+        },
+        "211b90c6c60fce74": {
+            "hash": "211b90c6c60fce74",
+            "directory": "External4",
+            "voiceContent": "나는 태생적으로 남들보다 강한 영혼 감지 능력을 가지고 있어. 뭐랄까… 사람의 영혼은 마치 변화무쌍한 에너지 덩어리 같아. 만약 세상에 다양한 형태의 꼬마 용 솜사탕이 있다면, 그게 바로 영혼의 모습일 거야. 그리고 네 영혼은 무척 따뜻한, 갓 만든 그런 종류고",
+            "sourceName": "vo_olorun_friendship_04.wem"
+        },
+        "7a63cabd4a5074c5": {
+            "hash": "7a63cabd4a5074c5",
+            "directory": "External15",
+            "voiceContent": "솔직히 나도 나 자신을 잘 모르겠어. 나는 늘 궁금한 게 많아. 갖고 있는 의문이 다 해결도 안 됐는데, 금세 또 새로운 의문이 생기지.특별한 해결 방법은 없는 것 같아…. 그저 최선을 다해 앞으로 나아갈 수밖에. 안 그래?",
+            "sourceName": "vo_olorun_friendship_05.wem"
+        },
+        "34dd15a9ea236243": {
+            "hash": "34dd15a9ea236243",
+            "directory": "External6",
+            "voiceContent": "야채 재배랑 꿀벌레 관찰 빼고? 있어. …당연히 있지. 조금만 시간을 줘. 분명 생각 날 거야",
+            "sourceName": "vo_olorun_pref_hobby.wem"
+        },
+        "74622f08c43e2b5a": {
+            "hash": "74622f08c43e2b5a",
+            "directory": "External14",
+            "voiceContent": "나는 타코를 먹을 때 아래에 토르티야를 한 장 펼쳐 놔. 그러면 어느 정도 먹고 나서 흘러내린 재료로 새로운 타코를 만들 수 있거든",
+            "sourceName": "vo_olorun_pref_foodLike.wem"
+        },
+        "55cc71b5852f7fd6": {
+            "hash": "55cc71b5852f7fd6",
+            "directory": "External10",
+            "voiceContent": "군용 식품… 특히 건빵류. 마치 「카피타노」의 영혼처럼 묵직한 게… 품질은 우수하지만 너무 딱딱해",
+            "sourceName": "vo_olorun_pref_foodDislike.wem"
+        },
+        "ada5b713a261d341": {
+            "hash": "ada5b713a261d341",
+            "directory": "External21",
+            "voiceContent": "대단해, 내가 만든 것보다 훨씬 맛있어",
+            "sourceName": "vo_olorun_spice_pref_01.wem"
+        },
+        "00d55b3c0f10c1c7": {
+            "hash": "00d55b3c0f10c1c7",
+            "directory": "External0",
+            "voiceContent": "부족하지도 과하지도 않은 딱 알맞은 맛이야",
+            "sourceName": "vo_olorun_spice_normal_01.wem"
+        },
+        "91416a8adbb2522d": {
+            "hash": "91416a8adbb2522d",
+            "directory": "External18",
+            "voiceContent": "잘 모르겠어…. 예술의 일종이야?",
+            "sourceName": "vo_olorun_spice_dislike_01.wem"
+        },
+        "cbd7d02d248246bc": {
+            "hash": "cbd7d02d248246bc",
+            "directory": "External25",
+            "voiceContent": "나타에서는 태어난 날이 그 사람의 운명을 결정짓는다는 설이 있어. 만약 그 사람이 어느 영웅과 같은 날에 태어났다면, 그 사람은 영웅의 가호를 받고 그와 동등한 자질을 갖추지.너와 생일이 같은 사람은 분명 엄청난 행운아일 거야. 생일 축하해",
+            "sourceName": "vo_olorun_pref_birthday_01.wem"
+        },
+        "8c7d4e17069ddbae": {
+            "hash": "8c7d4e17069ddbae",
+            "directory": "External17",
+            "voiceContent": "방금 나한테 준 거 뭐야? 다시 한번 봐도 될까?",
+            "sourceName": "vo_olorun_starUp_01.wem"
+        },
+        "38e9c2263d2091d0": {
+            "hash": "38e9c2263d2091d0",
+            "directory": "External7",
+            "voiceContent": "몸이 가벼워, 단숨에 더 높은 곳에 뛰어오를 수 있을 거 같아. 하지만 힘 조절을 잘해야겠어, 머리를 부딪히면 아프니까",
+            "sourceName": "vo_olorun_starUp_03.wem"
+        },
+        "4a660fed445433a3": {
+            "hash": "4a660fed445433a3",
+            "directory": "External9",
+            "voiceContent": "아직 죽음의 경계를 엿볼 능력은 안 되지만, 네 덕분에 죽음을 더 멀리 밀어낸 것 같아. 이걸로 내 사리사욕을 채우는 나쁜 짓은 안 할 테니 안심해. 약속할게",
+            "sourceName": "vo_olorun_starUp_04.wem"
+        },
+        "621a8d139ce60680": {
+            "hash": "621a8d139ce60680",
+            "directory": "External12",
+            "voiceContent": "더는 못 뛰겠어…",
+            "sourceName": "vo_olorun_life_less30_01.wem"
+        },
+        "0b59fafae792a9e7": {
+            "hash": "0b59fafae792a9e7",
+            "directory": "External1",
+            "voiceContent": "경계해야 해…!",
+            "sourceName": "vo_olorun_life_less30_02.wem"
+        },
+        "5d8a5901ef8065de": {
+            "hash": "5d8a5901ef8065de",
+            "directory": "External11",
+            "voiceContent": "나쁜 징조야",
+            "sourceName": "vo_olorun_life_less30_03.wem"
+        },
+        "5c069aac21bc6a74": {
+            "hash": "5c069aac21bc6a74",
+            "directory": "External11",
+            "voiceContent": "존재해선 안 될 목소리가… 들려…",
+            "sourceName": "vo_olorun_life_die_03.wem"
+        },
+        "7f3e6e46bc78e642": {
+            "hash": "7f3e6e46bc78e642",
+            "directory": "External15",
+            "voiceContent": "아, 늦었네…",
+            "sourceName": "vo_olorun_battle_hit_H_01.wem"
+        },
+        "d9b08c4eeb3b7d65": {
+            "hash": "d9b08c4eeb3b7d65",
+            "directory": "External27",
+            "voiceContent": "이건 좀…",
+            "sourceName": "vo_olorun_battle_hit_H_02.wem"
+        },
+        "d4a7bcd076196ab6": {
+            "hash": "d4a7bcd076196ab6",
+            "directory": "External26",
+            "voiceContent": "가끔은, 원하는 것과 할 수 있는 것 사이의 괴리감이 정말 크다고 느껴져",
+            "sourceName": "vo_olorun_dialog_annoyed_01.wem"
+        },
+        "c3f7a5e9ae354005": {
+            "hash": "c3f7a5e9ae354005",
+            "directory": "External24",
+            "voiceContent": "안녕, 난 「연기 주인」의 올로룬이야. 야채 장사를 하진 않지만, 선물로 좀 줄게.걱정 마, 무슨 특별한 의도가 있다거나, 너한테서 뭘 얻어내려는 건 아니야. 난 그냥 모든 씨앗이 마지막에 어떤 모습으로 성장하는지 궁금해서 이것저것 심게 된 것뿐이거든. 야채들이 다들 자신을 좋아해 주는 위장 속에서 편안한 말년을 보냈으면 좋겠어",
+            "sourceName": "vo_olorun_draw_appear_01.wem"
+        },
+        "de1827a0798668fa": {
+            "hash": "de1827a0798668fa",
+            "directory": "External27",
+            "voiceContent": "작물이 번개를 맞으면 더 잘 자란다는 소문을 들었어. 그래서 밭에서 「신의 눈」을 사용해 봤는데, 안타깝게도 양배추와 토마토 모두 좋아하지 않아서 더 해 보지는 않았어",
+            "sourceName": "vo_olorun_dialog_pendant_01.wem"
+        }
+    }
+}

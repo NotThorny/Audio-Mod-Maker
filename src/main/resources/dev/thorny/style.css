@@ -1,0 +1,237 @@
+/* Menu css rules from Markus Weninger */
+* {
+    -fx-my-menu-color: #1e2021;
+    -fx-my-menu-color-highlighted: #455a64;
+    -fx-my-menu-font-color: #E9E9DE;
+    -fx-my-menu-font-color-highlighted: #232627;
+}
+
+/* MENU BAR + Top-level MENU BUTTONS */
+/*** The menu bar itself ***/    
+.menu-bar {
+    -fx-background-color: -fx-my-menu-color;
+}
+
+/*** Top-level menu itself (not selected / hovered) ***/
+.menu-bar > .container > .menu-button {
+    -fx-background-color: -fx-my-menu-color;
+}
+
+/*** Top-level menu's label (not selected / hovered) ***/
+.menu-bar > .container > .menu-button > .label {
+    -fx-text-fill: -fx-my-menu-font-color;
+}
+
+TextFlow {
+    -fx-background-color: #1e2021;
+}
+
+/*** Top-level menu's label (disabled) ***/
+.menu-bar > .container > .menu-button > .label:disabled {
+    -fx-opacity: 1.0;
+}
+
+/*** Top-level menu itself (selected / hovered) ***/
+.menu-bar > .container > .menu-button:hover,
+.menu-bar > .container > .menu-button:focused,
+.menu-bar > .container > .menu-button:showing {
+    -fx-background-color: -fx-my-menu-color-highlighted;
+}
+
+/*** Top-level menu's label (selected / hovered) ***/
+.menu-bar > .container > .menu-button:hover > .label,
+.menu-bar > .container > .menu-button:focused > .label,
+.menu-bar > .container > .menu-button:showing > .label {
+    -fx-text-fill: -fx-my-menu-font-color-highlighted;
+}
+
+/* MENU ITEM (children of a MENU BUTTON) */
+/*** The item itself (not hovered / focused) ***/    
+.menu-item {
+    -fx-background-color: -fx-my-menu-color; 
+}
+
+/*** The item's label (not hovered / focused) ***/   
+.menu-item .label {
+    -fx-text-fill: -fx-my-menu-font-color;
+}
+
+/*** The item's label (disabled) ***/   
+.menu-item .label:disabled {
+    -fx-opacity: 1.0;
+}    
+
+/*** The item itself (hovered / focused) ***/    
+.menu-item:focused, .menu-item:hovered {
+    -fx-background-color: -fx-my-menu-color-highlighted; 
+}
+
+/*** The item's label (hovered / focused) ***/  
+.menu-item:focused .label, .menu-item:hovered .label {
+    -fx-text-fill: -fx-my-menu-font-color-highlighted;
+}
+
+/* CONTEXT MENU */
+/*** The context menu that contains a menu's menu items ***/  
+.context-menu {
+    -fx-background-color: -fx-my-menu-color; 
+}
+
+.root {
+    -fx-background-color: #1e2021;
+    -fx-font-family: "Tahoma";
+}
+
+.corner {
+    -fx-background-color: #232627;
+}
+
+.split-pane:horizontal {
+    -fx-background-color: #161111;
+}
+
+.split-pane-divider {
+    -fx-background-color: #232627;
+}
+
+AnchorPane {
+    -fx-background-color: #323236;
+}
+
+AnchorPane .list-view:vertical {
+    -fx-background-color: #1e2021;
+}
+
+.list-view:vertical {
+    -fx-background-color: #1e2021;
+}
+
+.list-view {
+    -fx-background-color: #1e2021;
+}
+
+.list-view:vertical .virtual-flow {
+    -fx-background-color: #1e2021;
+}
+
+.table-tree-view .placeholder {
+    -fx-background-color: #1e2021;
+}
+
+.table-column {
+    -fx-background-color: #1e2021;
+}
+
+.table-column:odd {
+    -fx-background-color: #272727;
+}
+
+.table-column .text {
+    -fx-fill: #E9E9DE;
+}
+
+.table-column:focus-within .text {
+    /* Color of text in selected rows, currently does nothing probably need more specificity */
+}
+
+.table-column:even {
+    -fx-background-color: #1e2021;
+}
+
+.column-header-background .nested-column-header .table-column {
+    -fx-background-color: #323236;
+}
+
+.column-header-background .table-column .label .text {
+    -fx-fill: #E9E9DE;
+}
+
+.list-cell:even {
+    -fx-background-color: #272727;
+}
+
+.list-cell:odd {
+    -fx-background-color: #1e2021;
+}
+
+.list-cell .text {
+    -fx-fill: #E9E9DE;
+}
+
+.list-cell:focus-within .text {
+    /* Color of text in selected rows */
+}
+
+.button:hover {
+    -fx-effect: dropshadow(gaussian, #d4aab6, 5, 0.5, 0, 0);
+}
+
+.scroll-bar {
+    -fx-background-color: #232627;
+}
+
+.scroll-bar .thumb {
+    -fx-background-color: #d3859b;
+}
+
+.button {
+    -fx-background-color: #d3859b;
+}
+
+.column-resize-line {
+    -fx-background-color: #ea6962;
+}
+
+.tree-table-cell .text {
+    -fx-font: 14px "Tahoma";
+}
+
+.button .text {
+    /* Button font */
+}
+
+#addSoundsButton, #makeModButton {
+    -fx-font: 16px "Tahoma";
+}
+
+.text-field, .choice-box {
+    -fx-background-color: #282828;
+}
+
+* .text-field {
+    -fx-text-fill: #E9E9DE;
+    -fx-opacity: 0.7;
+}
+
+.label .text {
+    /* Menu bar, footer bar */
+    -fx-fill: #E9E9DE;
+}
+
+.scroll-pane {
+    -fx-background-color: #282828;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: #1e2021;
+}
+
+.tree-table-view {
+    -fx-background-color: #1e2021;
+}
+
+.check-box .text {
+    -fx-fill: #E9E9DE;
+}
+
+.check-box:determinate .box {
+    -fx-background-color: #1e2021;
+}
+
+.check-box:determinate:selected .box {
+    -fx-background-color: #d3859b;
+}
+
+.check-box:determinate:selected .box .mark {
+    -fx-fill: #E9E9DE;
+}

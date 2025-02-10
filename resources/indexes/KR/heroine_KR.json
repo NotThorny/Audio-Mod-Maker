@@ -1,0 +1,541 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "fbd40b0131d06e9b": {
+            "hash": "fbd40b0131d06e9b",
+            "directory": "External31",
+            "voiceContent": "(폰타 회사의 홍보원은 몇 번이나 좌절을 맛봤어. 특별 허가 쿠폰의 가치를 얕봤기 때문이지. 공작은 특별 허가 쿠폰의 가치를 모르는 바보들이나 폰타의 신제품을 살 거라 여겼고)",
+            "sourceName": "vo_FDAQ106_7_heroine_06.wem"
+        },
+        "7b09bd1b1f834324": {
+            "hash": "7b09bd1b1f834324",
+            "directory": "External15",
+            "voiceContent": "(폰타 회사 직원의 정보에 따르면, 아직 이름도 포장도 정해지지 않은 신상품의 첫 시음 행사가 진행 중인데, 그 이유는 개발 부서 인원들조차 이 신제품에 대해 확신이 없었기 때문이지)",
+            "sourceName": "vo_FDAQ106_7_heroine_05.wem"
+        },
+        "420f3d3ca1242ce8": {
+            "hash": "420f3d3ca1242ce8",
+            "directory": "External8",
+            "voiceContent": "(시그윈은 늘 생산 구역 근처에서 사람들을 관찰하고 있었어. 아마 인간의 신체 상태를 분석할 수 있는 능력이 있는 것 같아)",
+            "sourceName": "vo_FDAQ106_7_heroine_01.wem"
+        },
+        "ac998b2215893faf": {
+            "hash": "ac998b2215893faf",
+            "directory": "External21",
+            "voiceContent": "(연구 노트에는 「멜뤼진이 세상을 인지하는 방식은 인간과 편차가 있다. 따라서 수많은 사물에 대한 멜뤼진의 미적 감각은 인간과 커다란 차이를 보인다」라는 내용이 있었어)",
+            "sourceName": "vo_FDAQ106_7_heroine_02.wem"
+        },
+        "2776292a5605ebc6": {
+            "hash": "2776292a5605ebc6",
+            "directory": "External4",
+            "voiceContent": "(점심시간 30분 전이 되면 의무실은 항상 텅 빈다고 했어. 그 시간에… 수간호사 시그윈은 어디에서 무엇을 하고 있던 걸까?)",
+            "sourceName": "vo_FDAQ106_7_heroine_03.wem"
+        },
+        "991e095fdd7ab2a5": {
+            "hash": "991e095fdd7ab2a5",
+            "directory": "External19",
+            "voiceContent": "(수조를 고정했던 밧줄은 폭죽에 의해 끊어진 거지만, 여기서도 마찬가지로 수조가 아닌 물에 초점을 맞춰야 해)",
+            "sourceName": "vo_FDAQ003_42_heroine_05.wem"
+        },
+        "48ba5d6f16b2cb9f": {
+            "hash": "48ba5d6f16b2cb9f",
+            "directory": "External9",
+            "voiceContent": "(마술 상자 내부에 다른 뭔가가 있었던 것 같은데…)",
+            "sourceName": "vo_FDAQ003_42_heroine_03.wem"
+        },
+        "efa87b7892a04a36": {
+            "hash": "efa87b7892a04a36",
+            "directory": "External29",
+            "voiceContent": "(원시 모태 바다의 물은 할시가 마술 상자 안에 들어가기 전에 이미 준비돼 있었을 거야)",
+            "sourceName": "vo_FDAQ003_42_heroine_02.wem"
+        },
+        "ee7f4f66e81f92d4": {
+            "hash": "ee7f4f66e81f92d4",
+            "directory": "External29",
+            "voiceContent": "(리넷은 무대 쪽 마술 상자 안에만 있었어. 리넷도 이 트릭과 관련이 있나?)",
+            "sourceName": "vo_FDAQ003_42_heroine_04.wem"
+        },
+        "5feca9815eec8f99": {
+            "hash": "5feca9815eec8f99",
+            "directory": "External11",
+            "voiceContent": "(지금 보니 그 갈고리는 다른 마술에 사용되는 소품이 아니라, 뭔가의 방아쇠였던 것 같아)",
+            "sourceName": "vo_FDAQ003_42_heroine_01.wem"
+        },
+        "96be7946b2454a46": {
+            "hash": "96be7946b2454a46",
+            "directory": "External18",
+            "voiceContent": "진실, 원죄, 심판, 그리고… 재앙의 근원",
+            "sourceName": "vo_FDAQ308_10_heroine_01.wem"
+        },
+        "0702a74f7e918fa9": {
+            "hash": "0702a74f7e918fa9",
+            "directory": "External0",
+            "voiceContent": "꿈이자 현실인 것",
+            "sourceName": "vo_FDAQ308_10_heroine_02.wem"
+        },
+        "dbddfc108eb535db": {
+            "hash": "dbddfc108eb535db",
+            "directory": "External27",
+            "voiceContent": "만약 그때 대응이 늦었더라면, 결과는 훨씬 심각했겠지",
+            "sourceName": "vo_FDAQ308_5_heroine_04.wem"
+        },
+        "0ae61a39b5cddb06": {
+            "hash": "0ae61a39b5cddb06",
+            "directory": "External1",
+            "voiceContent": "이게 폰타인 사람이 용해되는 원인일 수도 있겠어…",
+            "sourceName": "vo_FDAQ308_5_heroine_01.wem"
+        },
+        "7b2a4842821a2169": {
+            "hash": "7b2a4842821a2169",
+            "directory": "External15",
+            "voiceContent": "느비예트 씨가 말한 물의 신의 진정한 「죄」…",
+            "sourceName": "vo_FDAQ308_5_heroine_02.wem"
+        },
+        "60ebfa5730d60e36": {
+            "hash": "60ebfa5730d60e36",
+            "directory": "External12",
+            "voiceContent": "메로피드 요새의 모태 바다 분출 사건과 폰타인 사람이 모태 바다의 물에 용해된다는 사실은 예언이 실현될 가능성을 크게 높였어",
+            "sourceName": "vo_FDAQ308_5_heroine_12.wem"
+        },
+        "438f0c75ae697a77": {
+            "hash": "438f0c75ae697a77",
+            "directory": "External8",
+            "voiceContent": "그리고 석판에서 셀레스티아가 물의 신과 폰타인 사람들에게 내린 「원죄」는…",
+            "sourceName": "vo_FDAQ308_5_heroine_08.wem"
+        },
+        "4f72ce6840823618": {
+            "hash": "4f72ce6840823618",
+            "directory": "External9",
+            "voiceContent": "바닷속에 있는 물의 신을 사람들이 둘러싸고 있던 석판의 그림도 비슷한 사건을 상징하는 건가?",
+            "sourceName": "vo_FDAQ308_5_heroine_10.wem"
+        },
+        "d130285ffd225399": {
+            "hash": "d130285ffd225399",
+            "directory": "External26",
+            "voiceContent": "석판에 있던 예언은 오래전부터 민간에 떠돌았지만, 처음엔 대부분 그 예언을 믿지 않았지",
+            "sourceName": "vo_FDAQ308_5_heroine_11.wem"
+        },
+        "e06ce8223c18a9f5": {
+            "hash": "e06ce8223c18a9f5",
+            "directory": "External28",
+            "voiceContent": "그리고 첫 번째 석판에서 알 수 있듯, 오래전 물의 신이 신력으로 물의 정령을 인간으로 변하게 했지…",
+            "sourceName": "vo_FDAQ308_5_heroine_06.wem"
+        },
+        "be6baa7deee6266e": {
+            "hash": "be6baa7deee6266e",
+            "directory": "External23",
+            "voiceContent": "나비아는 바다로 추락한 뒤, 의식 속에서 어느 심판에 참여하게 됐어",
+            "sourceName": "vo_FDAQ308_5_heroine_09.wem"
+        },
+        "22182e4bfe074028": {
+            "hash": "22182e4bfe074028",
+            "directory": "External4",
+            "voiceContent": "단순히 바다에 빠지는 것만은 아닐 거야…",
+            "sourceName": "vo_FDAQ308_5_heroine_03.wem"
+        },
+        "5e79ae2a7f4b3364": {
+            "hash": "5e79ae2a7f4b3364",
+            "directory": "External11",
+            "voiceContent": "눈앞에서 벌어진 이 장면은 역사 속에서 이미 일어났던 일일지도 몰라",
+            "sourceName": "vo_FDAQ308_5_heroine_07.wem"
+        },
+        "419aefe4ee217979": {
+            "hash": "419aefe4ee217979",
+            "directory": "External8",
+            "voiceContent": "(당시 리니가 지하 통로에 없었던 덕에 범인에게는 충분한 시간이 주어졌을 거야)",
+            "sourceName": "vo_FDAQ003_40_heroine_03.wem"
+        },
+        "23c131bb40d1e162": {
+            "hash": "23c131bb40d1e162",
+            "directory": "External4",
+            "voiceContent": "(오페라 하우스 입구로 드나든 사람은 없었어. 범인은 할시를 어디로 데려간 걸까?)",
+            "sourceName": "vo_FDAQ003_40_heroine_04.wem"
+        },
+        "24eb15cceb53d134": {
+            "hash": "24eb15cceb53d134",
+            "directory": "External4",
+            "voiceContent": "(두 사람이 환풍구를 통해 이동하기는 어려웠을 거야. 그럴 경우 리니와 만났을 가능성도 커)",
+            "sourceName": "vo_FDAQ003_40_heroine_06.wem"
+        },
+        "ce60a3b4362e39ab": {
+            "hash": "ce60a3b4362e39ab",
+            "directory": "External25",
+            "voiceContent": "(지하 통로에 할시의 옷이 남아 있었어. 아마 사람들의 눈길을 피하기 위해서였겠지…)",
+            "sourceName": "vo_FDAQ003_40_heroine_05.wem"
+        },
+        "5592279586fa8fdd": {
+            "hash": "5592279586fa8fdd",
+            "directory": "External10",
+            "voiceContent": "(아니면 역시 제삼자가 존재하는 건가? 정말 그런 걸까…?)",
+            "sourceName": "vo_FDAQ003_39_heroine_03.wem"
+        },
+        "a926bb8650799a23": {
+            "hash": "a926bb8650799a23",
+            "directory": "External21",
+            "voiceContent": "(사망자는 코웰, 리니의 조수야. 그러면 소품에 손을 쓸 수 있었겠지…)",
+            "sourceName": "vo_FDAQ003_39_heroine_01.wem"
+        },
+        "e6ae0d9e655e1b0c": {
+            "hash": "e6ae0d9e655e1b0c",
+            "directory": "External28",
+            "voiceContent": "(실종자는 할시, 평범한 관객이지만, 그녀가 처음부터 음모를 꾸민 건 아닐까?)",
+            "sourceName": "vo_FDAQ003_39_heroine_02.wem"
+        },
+        "ac7b41fce93cb5f8": {
+            "hash": "ac7b41fce93cb5f8",
+            "directory": "External21",
+            "voiceContent": "(하지만 이것만으로는… 제대로 된 반론을 펼칠 수 없어)",
+            "sourceName": "vo_FDAQ003_34_heroine_05.wem"
+        },
+        "b980ba5f57fed104": {
+            "hash": "b980ba5f57fed104",
+            "directory": "External23",
+            "voiceContent": "(꽃병은 어쩌다 깨진 게 아냐. 중요한 범행 증거인 「물」을 숨기기 위한 거였어!)",
+            "sourceName": "vo_FDAQ003_41_heroine_01.wem"
+        },
+        "9271f65166070735": {
+            "hash": "9271f65166070735",
+            "directory": "External18",
+            "voiceContent": "아이드 씨가 이성을 잃은 것 같은데, 일단 싸움을 끝내자…",
+            "sourceName": "vo_SZAQ204_6_heroine_01.wem"
+        },
+        "1f629b234b15caaf": {
+            "hash": "1f629b234b15caaf",
+            "directory": "External3",
+            "voiceContent": "(즉, 나는 호두를 대신해 진의 대가를 받아낼 수 있어. 지금 급선무는 호두를 찾아내는 거야)",
+            "sourceName": "vo_EQHDJ403_21_heroine_02.wem"
+        },
+        "b4d84d3dd6b0b7e8": {
+            "hash": "b4d84d3dd6b0b7e8",
+            "directory": "External22",
+            "voiceContent": "(지맥에 연결될 수 없다는 건, 다시 말해… 지맥이 나는 지울 수 없다는 뜻이야)",
+            "sourceName": "vo_EQHDJ403_21_heroine_01.wem"
+        },
+        "9a3f392b8b9276c6": {
+            "hash": "9a3f392b8b9276c6",
+            "directory": "External19",
+            "voiceContent": "(호두는 여기에 없어… 이것들은…)",
+            "sourceName": "vo_EQHDJ403_21_heroine_03.wem"
+        },
+        "9989032a1db2af0e": {
+            "hash": "9989032a1db2af0e",
+            "directory": "External19",
+            "voiceContent": "내가… 왜 천장에 있지? 방이 뒤집힌 건가? 아니면 중력이…",
+            "sourceName": "vo_SZAQ203_8_heroine_01.wem"
+        },
+        "2fdd30e597cb2183": {
+            "hash": "2fdd30e597cb2183",
+            "directory": "External5",
+            "voiceContent": "올바른 위치에 룬 문자를 끼워 넣어야 할 것 같은데…",
+            "sourceName": "vo_SZAQ203_7_heroine_01.wem"
+        },
+        "61594ac69baf433f": {
+            "hash": "61594ac69baf433f",
+            "directory": "External12",
+            "voiceContent": "여기서 너무 멀리 벗어나지 않는 게 좋겠어. 데인이랑 페이몬이 아직 안 돌아왔으니까…",
+            "sourceName": "vo_SZAQ204_11_heroine_01.wem"
+        },
+        "24e8adb77dc19b88": {
+            "hash": "24e8adb77dc19b88",
+            "directory": "External4",
+            "voiceContent": "이건… 워프 장치인가? 무슨 힘으로 작동하는 거지…?",
+            "sourceName": "vo_SZAQ203_6_heroine_01.wem"
+        }
+    },
+    "Gameplay": {
+        "bc2072774e971cc6": {
+            "hash": "bc2072774e971cc6",
+            "directory": "External23",
+            "voiceContent": "…헛!",
+            "sourceName": "vo_heroine_battle_skill1_01.wem"
+        },
+        "2c64a0801ae36229": {
+            "hash": "2c64a0801ae36229",
+            "directory": "External5",
+            "voiceContent": "…핫!",
+            "sourceName": "vo_heroine_battle_skill1_02.wem"
+        },
+        "d6b9868999b55de8": {
+            "hash": "d6b9868999b55de8",
+            "directory": "External26",
+            "voiceContent": "풍인…!",
+            "sourceName": "vo_heroine_battle_skill1_03.wem"
+        },
+        "a8146addcc2a2234": {
+            "hash": "a8146addcc2a2234",
+            "directory": "External21",
+            "voiceContent": "헛!",
+            "sourceName": "vo_heroine_battle_skill1_rock_01.wem"
+        },
+        "5189f8c517048aab": {
+            "hash": "5189f8c517048aab",
+            "directory": "External10",
+            "voiceContent": "떨어져라!",
+            "sourceName": "vo_heroine_battle_skill1_rock_02.wem"
+        },
+        "a6ea86cc21a83262": {
+            "hash": "a6ea86cc21a83262",
+            "directory": "External20",
+            "voiceContent": "황성!",
+            "sourceName": "vo_heroine_battle_skill1_rock_03.wem"
+        },
+        "f66789b1229780fb": {
+            "hash": "f66789b1229780fb",
+            "directory": "External30",
+            "voiceContent": "하!",
+            "sourceName": "vo_heroine_battle_skill1_thunder_01.wem"
+        },
+        "20e0bbc89c4cb204": {
+            "hash": "20e0bbc89c4cb204",
+            "directory": "External4",
+            "voiceContent": "받아라!",
+            "sourceName": "vo_heroine_battle_skill1_thunder_02.wem"
+        },
+        "a639f5c05bfd5195": {
+            "hash": "a639f5c05bfd5195",
+            "directory": "External20",
+            "voiceContent": "자줏빛 그림자!",
+            "sourceName": "vo_heroine_battle_skill1_thunder_03.wem"
+        },
+        "b2330aafd7c9d88b": {
+            "hash": "b2330aafd7c9d88b",
+            "directory": "External22",
+            "voiceContent": "하!",
+            "sourceName": "vo_heroine_battle_skill1_dendro_01.wem"
+        },
+        "05577cc88a0c4714": {
+            "hash": "05577cc88a0c4714",
+            "directory": "External0",
+            "voiceContent": "흩어져라!",
+            "sourceName": "vo_heroine_battle_skill1_dendro_02.wem"
+        },
+        "b35d36c1824c43e5": {
+            "hash": "b35d36c1824c43e5",
+            "directory": "External22",
+            "voiceContent": "만연!",
+            "sourceName": "vo_heroine_battle_skill1_dendro_03.wem"
+        },
+        "8a7b2d04ffacbfcf": {
+            "hash": "8a7b2d04ffacbfcf",
+            "directory": "External17",
+            "voiceContent": "하!",
+            "sourceName": "vo_heroine_battle_skill1_hydro_01.wem"
+        },
+        "cb325f1d1746a388": {
+            "hash": "cb325f1d1746a388",
+            "directory": "External25",
+            "voiceContent": "가라!",
+            "sourceName": "vo_heroine_battle_skill1_hydro_02.wem"
+        },
+        "7901f9160f58da49": {
+            "hash": "7901f9160f58da49",
+            "directory": "External15",
+            "voiceContent": "소용돌이!",
+            "sourceName": "vo_heroine_battle_skill1_hydro_03.wem"
+        },
+        "b894f77642460269": {
+            "hash": "b894f77642460269",
+            "directory": "External23",
+            "voiceContent": "하!",
+            "sourceName": "vo_heroine_battle_skill1_pyro_01.wem"
+        },
+        "4850c96d75f9bc06": {
+            "hash": "4850c96d75f9bc06",
+            "directory": "External9",
+            "voiceContent": "타올라라!",
+            "sourceName": "vo_heroine_battle_skill1_pyro_02.wem"
+        },
+        "ca0e2b653299e7ef": {
+            "hash": "ca0e2b653299e7ef",
+            "directory": "External25",
+            "voiceContent": "빛나라!",
+            "sourceName": "vo_heroine_battle_skill1_pyro_03.wem"
+        },
+        "9be45d5e3f771464": {
+            "hash": "9be45d5e3f771464",
+            "directory": "External19",
+            "voiceContent": "하앗—!",
+            "sourceName": "vo_heroine_battle_skill1_pyro_04.wem"
+        },
+        "1dd79755fc448af5": {
+            "hash": "1dd79755fc448af5",
+            "directory": "External3",
+            "voiceContent": "불꽃이여!",
+            "sourceName": "vo_heroine_battle_skill1_pyro_05.wem"
+        },
+        "9754394c92118d92": {
+            "hash": "9754394c92118d92",
+            "directory": "External18",
+            "voiceContent": "빛이여!",
+            "sourceName": "vo_heroine_battle_skill1_pyro_06.wem"
+        },
+        "5fa2cf0191c92e10": {
+            "hash": "5fa2cf0191c92e10",
+            "directory": "External11",
+            "voiceContent": "하앗—",
+            "sourceName": "vo_heroine_battle_skill3_01.wem"
+        },
+        "34f4bcea17e856f7": {
+            "hash": "34f4bcea17e856f7",
+            "directory": "External6",
+            "voiceContent": "사라져라",
+            "sourceName": "vo_heroine_battle_skill3_02.wem"
+        },
+        "afd15af2586502ee": {
+            "hash": "afd15af2586502ee",
+            "directory": "External21",
+            "voiceContent": "바람과 함께 사라져라",
+            "sourceName": "vo_heroine_battle_skill3_03.wem"
+        },
+        "0e412a070031c256": {
+            "hash": "0e412a070031c256",
+            "directory": "External1",
+            "voiceContent": "하앗——!",
+            "sourceName": "vo_heroine_battle_skill3_rock_01.wem"
+        },
+        "7e85580fcc7e07b9": {
+            "hash": "7e85580fcc7e07b9",
+            "directory": "External15",
+            "voiceContent": "전율하라!",
+            "sourceName": "vo_heroine_battle_skill3_rock_02.wem"
+        },
+        "f961fe180cfac138": {
+            "hash": "f961fe180cfac138",
+            "directory": "External31",
+            "voiceContent": "먼지가 되어라",
+            "sourceName": "vo_heroine_battle_skill3_rock_03.wem"
+        },
+        "efcd9b477ba72fe9": {
+            "hash": "efcd9b477ba72fe9",
+            "directory": "External29",
+            "voiceContent": "핫——!",
+            "sourceName": "vo_heroine_battle_skill3_thunder_01.wem"
+        },
+        "7f896d3eaf5ae986": {
+            "hash": "7f896d3eaf5ae986",
+            "directory": "External15",
+            "voiceContent": "울부짖어라!",
+            "sourceName": "vo_heroine_battle_skill3_thunder_02.wem"
+        },
+        "0146cf366bfb156f": {
+            "hash": "0146cf366bfb156f",
+            "directory": "External0",
+            "voiceContent": "하늘을 울리는 뇌음!",
+            "sourceName": "vo_heroine_battle_skill3_thunder_03.wem"
+        },
+        "67757e3b0d521399": {
+            "hash": "67757e3b0d521399",
+            "directory": "External12",
+            "voiceContent": "하!",
+            "sourceName": "vo_heroine_battle_skill3_dendro_01.wem"
+        },
+        "f73150324105ce36": {
+            "hash": "f73150324105ce36",
+            "directory": "External30",
+            "voiceContent": "싹 틔워라!",
+            "sourceName": "vo_heroine_battle_skill3_dendro_02.wem"
+        },
+        "50433228c5184f9f": {
+            "hash": "50433228c5184f9f",
+            "directory": "External10",
+            "voiceContent": "피어나는 꽃봉오리!",
+            "sourceName": "vo_heroine_battle_skill3_dendro_03.wem"
+        },
+        "f5cb545bb934789d": {
+            "hash": "f5cb545bb934789d",
+            "directory": "External30",
+            "voiceContent": "하!",
+            "sourceName": "vo_heroine_battle_skill3_hydro_01.wem"
+        },
+        "9860365387eb8a9a": {
+            "hash": "9860365387eb8a9a",
+            "directory": "External19",
+            "voiceContent": "씻어낸다!",
+            "sourceName": "vo_heroine_battle_skill3_hydro_02.wem"
+        },
+        "45f8e84c7fcea7e3": {
+            "hash": "45f8e84c7fcea7e3",
+            "directory": "External8",
+            "voiceContent": "휘몰아쳐라!",
+            "sourceName": "vo_heroine_battle_skill3_hydro_03.wem"
+        },
+        "42eba86e84cbe0d3": {
+            "hash": "42eba86e84cbe0d3",
+            "directory": "External8",
+            "voiceContent": "하!",
+            "sourceName": "vo_heroine_battle_skill3_pyro_01.wem"
+        },
+        "d8977a891094933c": {
+            "hash": "d8977a891094933c",
+            "directory": "External27",
+            "voiceContent": "세상을 밝히리!",
+            "sourceName": "vo_heroine_battle_skill3_pyro_02.wem"
+        },
+        "477b9480323107cd": {
+            "hash": "477b9480323107cd",
+            "directory": "External8",
+            "voiceContent": "찬란한 불꽃!",
+            "sourceName": "vo_heroine_battle_skill3_pyro_03.wem"
+        },
+        "a0de58988e0eca27": {
+            "hash": "a0de58988e0eca27",
+            "directory": "External20",
+            "voiceContent": "이 세계도 나한테 응답하는 걸까?",
+            "sourceName": "vo_heroine_chest_open_01.wem"
+        },
+        "f438eab1407efec0": {
+            "hash": "f438eab1407efec0",
+            "directory": "External30",
+            "voiceContent": "여행 중의 수확이네",
+            "sourceName": "vo_heroine_chest_open_02.wem"
+        },
+        "4d4ac4a7c49172c1": {
+            "hash": "4d4ac4a7c49172c1",
+            "directory": "External9",
+            "voiceContent": "잘 보관해야지",
+            "sourceName": "vo_heroine_chest_open_03.wem"
+        },
+        "070198b614e77557": {
+            "hash": "070198b614e77557",
+            "directory": "External0",
+            "voiceContent": "잠깐… 나에게 맡겨!",
+            "sourceName": "vo_heroine_life_less30_teammate_01.wem"
+        },
+        "866e2ad002c955f0": {
+            "hash": "866e2ad002c955f0",
+            "directory": "External16",
+            "voiceContent": "조심해!",
+            "sourceName": "vo_heroine_life_less30_teammate_02.wem"
+        },
+        "9ebc1dc334794296": {
+            "hash": "9ebc1dc334794296",
+            "directory": "External19",
+            "voiceContent": "여긴… 종점이 아니야…",
+            "sourceName": "vo_heroine_life_die_01.wem"
+        },
+        "0f004bcc00c588f9": {
+            "hash": "0f004bcc00c588f9",
+            "directory": "External1",
+            "voiceContent": "세상이 날… 거부하는 건가?",
+            "sourceName": "vo_heroine_life_die_02.wem"
+        },
+        "e429f6d2144a3c85": {
+            "hash": "e429f6d2144a3c85",
+            "directory": "External28",
+            "voiceContent": "이번엔 또 뭘 마주치게 될까?",
+            "sourceName": "vo_heroine_teamJoin_01.wem"
+        },
+        "89b7d8c9e587a662": {
+            "hash": "89b7d8c9e587a662",
+            "directory": "External17",
+            "voiceContent": "이 세상은 풀리지 않는 미스테리로 가득해…",
+            "sourceName": "vo_heroine_teamJoin_02.wem"
+        },
+        "34574ac2dae3feab": {
+            "hash": "34574ac2dae3feab",
+            "directory": "External6",
+            "voiceContent": "해야 할 일이 아직 많아",
+            "sourceName": "vo_heroine_teamJoin_03.wem"
+        }
+    }
+}

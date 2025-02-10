@@ -1,0 +1,444 @@
+{
+    "Teapot": {},
+    "Quests": {},
+    "Gameplay": {
+        "fe5ab4bb1152ab43": {
+            "hash": "fe5ab4bb1152ab43",
+            "directory": "External31",
+            "voiceContent": "贯穿。",
+            "sourceName": "vo_arlecchino_battle_skill1_01.wem"
+        },
+        "940686d59d1b5dac": {
+            "hash": "940686d59d1b5dac",
+            "directory": "External18",
+            "voiceContent": "否决。",
+            "sourceName": "vo_arlecchino_battle_skill1_02.wem"
+        },
+        "02eaa0ccbeb7d27d": {
+            "hash": "02eaa0ccbeb7d27d",
+            "directory": "External0",
+            "voiceContent": "展现。",
+            "sourceName": "vo_arlecchino_battle_skill1_03.wem"
+        },
+        "40b10b9abf0f51e1": {
+            "hash": "40b10b9abf0f51e1",
+            "directory": "External8",
+            "voiceContent": "于此坠落。",
+            "sourceName": "vo_arlecchino_battle_skill3_01.wem"
+        },
+        "e675fd92907c183e": {
+            "hash": "e675fd92907c183e",
+            "directory": "External28",
+            "voiceContent": "于此升起。",
+            "sourceName": "vo_arlecchino_battle_skill3_02.wem"
+        },
+        "3c211f8911aa2ac7": {
+            "hash": "3c211f8911aa2ac7",
+            "directory": "External7",
+            "voiceContent": "如月长存。",
+            "sourceName": "vo_arlecchino_battle_skill3_03.wem"
+        },
+        "be2adeade940fac8": {
+            "hash": "be2adeade940fac8",
+            "directory": "External23",
+            "voiceContent": "意外是最大的乐趣。",
+            "sourceName": "vo_arlecchino_chest_open_01.wem"
+        },
+        "7d72ac95d1a5630f": {
+            "hash": "7d72ac95d1a5630f",
+            "directory": "External15",
+            "voiceContent": "不错的收获。",
+            "sourceName": "vo_arlecchino_chest_open_02.wem"
+        },
+        "fbb54a9e15053826": {
+            "hash": "fbb54a9e15053826",
+            "directory": "External31",
+            "voiceContent": "纪念此刻的欢愉。",
+            "sourceName": "vo_arlecchino_chest_open_03.wem"
+        },
+        "0a6cf01413c63580": {
+            "hash": "0a6cf01413c63580",
+            "directory": "External1",
+            "voiceContent": "退后。",
+            "sourceName": "vo_arlecchino_life_less30_teammate_01.wem"
+        },
+        "b3ac5dfb5e72d8e7": {
+            "hash": "b3ac5dfb5e72d8e7",
+            "directory": "External22",
+            "voiceContent": "计划变更。",
+            "sourceName": "vo_arlecchino_life_less30_teammate_02.wem"
+        },
+        "498fcd3015291cd5": {
+            "hash": "498fcd3015291cd5",
+            "directory": "External9",
+            "voiceContent": "炉火，熄灭了…",
+            "sourceName": "vo_arlecchino_life_die_01.wem"
+        },
+        "17c9ef291ef575f2": {
+            "hash": "17c9ef291ef575f2",
+            "directory": "External2",
+            "voiceContent": "我听见…孩子们的歌声…",
+            "sourceName": "vo_arlecchino_life_die_02.wem"
+        },
+        "83e856214669fbca": {
+            "hash": "83e856214669fbca",
+            "directory": "External16",
+            "voiceContent": "别担心，我会处理好。",
+            "sourceName": "vo_arlecchino_teamJoin_01.wem"
+        },
+        "09ff742ab0416ccd": {
+            "hash": "09ff742ab0416ccd",
+            "directory": "External1",
+            "voiceContent": "遇到解决不了的麻烦了？",
+            "sourceName": "vo_arlecchino_teamJoin_02.wem"
+        },
+        "9b1b5a338ea4f83c": {
+            "hash": "9b1b5a338ea4f83c",
+            "directory": "External19",
+            "voiceContent": "希望是一次有价值的合作。",
+            "sourceName": "vo_arlecchino_teamJoin_03.wem"
+        },
+        "3f1bc98028adb34e": {
+            "hash": "3f1bc98028adb34e",
+            "directory": "External7",
+            "voiceContent": "不要一直盯着我的眼睛，不保证你会看到什么。",
+            "sourceName": "vo_arlecchino_character_idle_01.wem"
+        },
+        "c20317898fcfdc71": {
+            "hash": "c20317898fcfdc71",
+            "directory": "External24",
+            "voiceContent": "孩子们在做什么？算了，由他们去吧。",
+            "sourceName": "vo_arlecchino_character_idle_02.wem"
+        },
+        "4045bd91d32fbef0": {
+            "hash": "4045bd91d32fbef0",
+            "directory": "External8",
+            "voiceContent": "有事情向我汇报？说吧，我在听。",
+            "sourceName": "vo_arlecchino_character_idle_03.wem"
+        },
+        "6b9311e540def89b": {
+            "hash": "6b9311e540def89b",
+            "directory": "External13",
+            "voiceContent": "无需畏惧，雷光也要避让我们。",
+            "sourceName": "vo_arlecchino_weather_thunder_01.wem"
+        },
+        "926605113257112f": {
+            "hash": "926605113257112f",
+            "directory": "External18",
+            "voiceContent": "身处寒冷之中，人们才会怀念火焰的温暖。",
+            "sourceName": "vo_arlecchino_weather_snowy_01.wem"
+        },
+        "81a9303b033a535a": {
+            "hash": "81a9303b033a535a",
+            "directory": "External16",
+            "voiceContent": "这个天气更适合待在树荫下。",
+            "sourceName": "vo_arlecchino_weather_sunny_01.wem"
+        },
+        "42bd840602ee4cde": {
+            "hash": "42bd840602ee4cde",
+            "directory": "External8",
+            "voiceContent": "不要轻易讲述自己的秘密，你不知道风会把它们带去什么地方。",
+            "sourceName": "vo_arlecchino_weather_gale_01.wem"
+        },
+        "72377934f2c07b82": {
+            "hash": "72377934f2c07b82",
+            "directory": "External14",
+            "voiceContent": "早安，今天有什么计划吗？",
+            "sourceName": "vo_arlecchino_dialog_greetingMorning.wem"
+        },
+        "2e3735a8c1ed4abe": {
+            "hash": "2e3735a8c1ed4abe",
+            "directory": "External5",
+            "voiceContent": "正午回到家，总能见到孩子们横七竖八地睡在地上。这个时间很容易犯困，休息一下再走吧。",
+            "sourceName": "vo_arlecchino_dialog_greetingNoon.wem"
+        },
+        "e85ec91ba2b06e48": {
+            "hash": "e85ec91ba2b06e48",
+            "directory": "External29",
+            "voiceContent": "有人说月亮就像俯瞰人间的眼睛，只是我们已经习惯被它注视。",
+            "sourceName": "vo_arlecchino_dialog_greetingNight.wem"
+        },
+        "5d64be4d31d209f8": {
+            "hash": "5d64be4d31d209f8",
+            "directory": "External11",
+            "voiceContent": "睡觉的时间到了。「睡不着」？那你得自己想想办法了。我猜你不会喜欢我的方案。",
+            "sourceName": "vo_arlecchino_dialog_greetingNight2.wem"
+        },
+        "da5e014f1fcc249f": {
+            "hash": "da5e014f1fcc249f",
+            "directory": "External27",
+            "voiceContent": "清醒地认识自己并不容易。通常来说，做不到的人反而活得比较开心。",
+            "sourceName": "vo_arlecchino_dialog_idle.wem"
+        },
+        "99b53c5ae6b0bad1": {
+            "hash": "99b53c5ae6b0bad1",
+            "directory": "External19",
+            "voiceContent": "偶尔，我会听到其他人在暗处的议论，说我是个感情淡漠、手段狠辣的人。对此我无意澄清，偏见会将真相包裹起来，对我来说是件好事。不过，我确实需要采取一些手段，来「满足」他们的期待…希望他们有足够的实力和地位，能从我手上活下来。",
+            "sourceName": "vo_arlecchino_dialog_idle2.wem"
+        },
+        "19ff2a539885f188": {
+            "hash": "19ff2a539885f188",
+            "directory": "External3",
+            "voiceContent": "孩子们很喜欢听你讲故事。时常问我你什么时候会再来。期望落空总需要支付代价，希望你能将它纳入到考虑之中。",
+            "sourceName": "vo_arlecchino_dialog_close1.wem"
+        },
+        "04d79ad4f229bee5": {
+            "hash": "04d79ad4f229bee5",
+            "directory": "External0",
+            "voiceContent": "你我所持理念不尽相同，想要并肩而行，彼此都要做出让步。我可以分享一些秘密，至于隐瞒的那部分——不要深究，这也是为了你好。",
+            "sourceName": "vo_arlecchino_dialog_close.wem"
+        },
+        "60664efd98c47f90": {
+            "hash": "60664efd98c47f90",
+            "directory": "External12",
+            "voiceContent": "「火焰如血液般在我的身体中流淌」…对普通人来说，这是一句蹩脚的小诗，对我来说却是一种无奈的现实。",
+            "sourceName": "vo_arlecchino_dialog_share_01.wem"
+        },
+        "dc49231f2c494972": {
+            "hash": "dc49231f2c494972",
+            "directory": "External27",
+            "voiceContent": "至冬的极光很美丽，可以去看看。",
+            "sourceName": "vo_arlecchino_pref_gift_01.wem"
+        },
+        "94ee25ba73ff5c1e": {
+            "hash": "94ee25ba73ff5c1e",
+            "directory": "External18",
+            "voiceContent": "克雷薇曾问过我一个问题：什么是真正的「家」？我无法回答，因为构成壁炉之家的，正是一群「无家可归」的人。我否定家中不合理的地方，制定新的规矩，杀死库嘉维娜，成为了孩子们的「父亲」。但我很清楚，这仍然算不上真正的家。我会把这个问题保留下去。期待有一天，林尼能够给我全新的答案。",
+            "sourceName": "vo_arlecchino_teammate_lyney_01.wem"
+        },
+        "2b776dd4f9f4bb92": {
+            "hash": "2b776dd4f9f4bb92",
+            "directory": "External5",
+            "voiceContent": "沉静的性格是琳妮特的特点，也是她的优势。我相信她足够聪明理解到这一点。她在那支小队中有着无可替代的作用，而这么做，也令她感到幸福。作为「父亲」，我会给她足够的空间施展才华。",
+            "sourceName": "vo_arlecchino_teammate_lynette_01.wem"
+        },
+        "98d275e03aae1f8b": {
+            "hash": "98d275e03aae1f8b",
+            "directory": "External19",
+            "voiceContent": "菲米尼的内心非常复杂，藏着各种各样的感情。他会将许多无关的问题归因到自己，并为此感到很难过，其他孩子未必能理解他在想什么。我注意到你的情感也很细腻，或许你能和他成为很好的朋友。",
+            "sourceName": "vo_arlecchino_teammate_freminet_01.wem"
+        },
+        "0b875712de7c255a": {
+            "hash": "0b875712de7c255a",
+            "directory": "External1",
+            "voiceContent": "作为最初的执行官，他的一切都很神秘。初次见面他就能轻易看出我的身世，而我时至今日仍然对他所知甚少。",
+            "sourceName": "vo_arlecchino_teammate_jester_01.wem"
+        },
+        "ec35a25e49d3b930": {
+            "hash": "ec35a25e49d3b930",
+            "directory": "External29",
+            "voiceContent": "他所拥有的力量让他背负着更多的责任，不过在我看来，即使没有强悍的力量，他仍然是一位值得尊敬的人。",
+            "sourceName": "vo_arlecchino_teammate_capitano_01.wem"
+        },
+        "13249922a76085e8": {
+            "hash": "13249922a76085e8",
+            "directory": "External2",
+            "voiceContent": "我刚接手壁炉之家，他就向我提出了许多合作计划，让我将「淘汰的孩子」交给他去做实验，他则向我共享实验成果。听说他跟前代「仆人」合作得很愉快，如果不是同为执行官，我很想送他去见前代「仆人」。",
+            "sourceName": "vo_arlecchino_teammate_dottore_01.wem"
+        },
+        "9c7e75250dc3feb8": {
+            "hash": "9c7e75250dc3feb8",
+            "directory": "External19",
+            "voiceContent": "工作，以及私下，那维莱特先生刻意维持着一种「距离感」。很多人说他不近人情，我认为恰恰相反，就像律法的冰冷源于其庇护众生的公平，这本质上是一种特殊的善意。",
+            "sourceName": "vo_arlecchino_teammate_neuvillette_01.wem"
+        },
+        "86142ecf407e4f2e": {
+            "hash": "86142ecf407e4f2e",
+            "directory": "External16",
+            "voiceContent": "我托林尼帮忙带去了一些蛋糕，分给剧团的人做茶点。蛋糕是孩子们亲手做的，用「热心观众」的名义赠送，希望她喜欢。",
+            "sourceName": "vo_arlecchino_teammate_furina_01.wem"
+        },
+        "ecf623cf9f51e774": {
+            "hash": "ecf623cf9f51e774",
+            "directory": "External29",
+            "voiceContent": "在我入狱时，是女皇大人赦免了我的罪过，赐予我执行官的身份。相较于伪善之人冠冕堂皇的话术，我能从她身上感受到真正的「慈爱」。然而…这份慈爱能否融化辽阔的冰雪，没有人清楚答案。我只知道，如果有一天我们被迫决裂，我会毫不犹豫地向她挥剑，这是我能给出的最高敬意。",
+            "sourceName": "vo_arlecchino_teammate_tsaritsa_01.wem"
+        },
+        "b60189004bd27b02": {
+            "hash": "b60189004bd27b02",
+            "directory": "External22",
+            "voiceContent": "想要了解我的事情？当然可以。本着互信的原则，我不会对你有太多隐瞒。不过你真的做好准备了吗？秘密比刀剑更锋利，危险往往源于不起眼的好奇心。",
+            "sourceName": "vo_arlecchino_friendship_01.wem"
+        },
+        "1072a7087a935f25": {
+            "hash": "1072a7087a935f25",
+            "directory": "External2",
+            "voiceContent": "当你刺出手中的利刃，你会意识到生命有不同的分量。有的人看似荣耀等身，却不过是一具无聊的空壳，临终前最后的思考仍是求饶与苟活。有的人外表平平无奇，灵魂却意外地沉重。即使如此，死亡对于每个人都是平等的。残酷？我只不过说了现实。",
+            "sourceName": "vo_arlecchino_friendship_02.wem"
+        },
+        "65d3ed0f85383f54": {
+            "hash": "65d3ed0f85383f54",
+            "directory": "External12",
+            "voiceContent": "雪奈茨维奇、雪奈茨芙娜…敢于在阴影中睁开明亮双眼的孩子们，敢于在火焰旁起舞的孩子们，我尽己所能，教他们如何面对生活。壁炉之家无需讨好他人，我们像蜘蛛那样狩猎。",
+            "sourceName": "vo_arlecchino_friendship_03.wem"
+        },
+        "c00efb17b3cb781f": {
+            "hash": "c00efb17b3cb781f",
+            "directory": "External24",
+            "voiceContent": "人们无法选择自己的出身，世界就是这样不公；但世界又是公平的，每个人都有抗争的权力。我收留孩子并非为了获得回报。只要愿意付出代价，想要离开的孩子可以追求新的生活。",
+            "sourceName": "vo_arlecchino_friendship_04.wem"
+        },
+        "66fd19212fb8f6b6": {
+            "hash": "66fd19212fb8f6b6",
+            "directory": "External12",
+            "voiceContent": "命运是种很奇妙的东西。小时候，我就能使用一些特别的力量，「母亲」因此对我格外偏爱。但那时没有人知道这份力量的本质是什么——包括我自己，都将它视为延续在血脉中的诅咒。它让我变得强大，也给我带来痛苦。直到我成为执行官，才从「丑角」口中得知真相。他说自己很惊讶，原来「赤月」的血脉仍未断绝，而壁炉之家兜兜转转，居然又重新回到了赤月遗孤的手里。命运会将我导向怎样的未来？总有一天它会给我答案。而我，也做好了斩破它的准备。",
+            "sourceName": "vo_arlecchino_friendship_05.wem"
+        },
+        "f2a61852d34fd9fe": {
+            "hash": "f2a61852d34fd9fe",
+            "directory": "External30",
+            "voiceContent": "空闲时，我会独自观察丛林中的昆虫。它们之间的博弈很有意思，捕食、竞争、合作…看似强大的个体未必能存活到最后，一着不慎就可能丢掉性命。我会把它垂死前的挣扎慢慢记下，一如我记下那些败者的结局。",
+            "sourceName": "vo_arlecchino_pref_hobby.wem"
+        },
+        "ec91eb399a3e6a41": {
+            "hash": "ec91eb399a3e6a41",
+            "directory": "External29",
+            "voiceContent": "家里会不定期举办烧烤晚会，食材交由孩子们自己准备。他们很喜欢参加这种活动，我也一样。毕竟谁都无法预料，下次举办晚会的时候，人群中又会减少哪些熟悉的面孔。",
+            "sourceName": "vo_arlecchino_pref_foodLike.wem"
+        },
+        "42e6f86f69bca2e3": {
+            "hash": "42e6f86f69bca2e3",
+            "directory": "External8",
+            "voiceContent": "我不喜欢调味复杂的食物，它们会让嗅觉与味觉变得迟钝。让食材保持原有的味道，也算是对它们的一种尊重。",
+            "sourceName": "vo_arlecchino_pref_foodDislike.wem"
+        },
+        "626f154b47b975ce": {
+            "hash": "626f154b47b975ce",
+            "directory": "External12",
+            "voiceContent": "好手艺，有兴趣来壁炉之家开烹饪课吗？",
+            "sourceName": "vo_arlecchino_spice_pref_01.wem"
+        },
+        "999871f819538df4": {
+            "hash": "999871f819538df4",
+            "directory": "External19",
+            "voiceContent": "尝起来还不错，或许孩子们会喜欢。",
+            "sourceName": "vo_arlecchino_spice_normal_01.wem"
+        },
+        "8852126510b63d58": {
+            "hash": "8852126510b63d58",
+            "directory": "External17",
+            "voiceContent": "感谢你的一片心意，不过在味道上还有很大的提升空间。",
+            "sourceName": "vo_arlecchino_spice_dislike_01.wem"
+        },
+        "87274d5ccb1e9cad": {
+            "hash": "87274d5ccb1e9cad",
+            "directory": "External16",
+            "voiceContent": "备忘录上写着今天是你的生日，对吗？生日还是要过得热闹些，人们总是需要理由让自己从繁忙的事务中抽出身，或是为自己庆祝，或是为别人庆祝。走吧，我在壁炉之家中准备了宴会，孩子们已经在等你了。",
+            "sourceName": "vo_arlecchino_pref_birthday_01.wem"
+        },
+        "727ce941c320986d": {
+            "hash": "727ce941c320986d",
+            "directory": "External14",
+            "voiceContent": "不要停下前进的脚步，也不要为力量所困。",
+            "sourceName": "vo_arlecchino_starUp_01.wem"
+        },
+        "448a4b3ad02d58ea": {
+            "hash": "448a4b3ad02d58ea",
+            "directory": "External8",
+            "voiceContent": "愤怒带来冲动，伤感让人犹豫。时刻记住调整自己的心态。",
+            "sourceName": "vo_arlecchino_starUp_02.wem"
+        },
+        "c6117d328c9fa2f3": {
+            "hash": "c6117d328c9fa2f3",
+            "directory": "External24",
+            "voiceContent": "有些人说我过于严格，事实上，我对自己也一样。",
+            "sourceName": "vo_arlecchino_starUp_03.wem"
+        },
+        "b7fb6f6b884f9620": {
+            "hash": "b7fb6f6b884f9620",
+            "directory": "External22",
+            "voiceContent": "这段时间我从你身上学到了许多，希望你也有所收获。就让我们继续保持这份友好关系吧…或许将来，我们会共同应对某些棘手的麻烦。",
+            "sourceName": "vo_arlecchino_starUp_04.wem"
+        },
+        "21cef087aaadf9a9": {
+            "hash": "21cef087aaadf9a9",
+            "directory": "External4",
+            "voiceContent": "不错的进攻。",
+            "sourceName": "vo_arlecchino_life_less30_01.wem"
+        },
+        "b18ac27ede61b446": {
+            "hash": "b18ac27ede61b446",
+            "directory": "External22",
+            "voiceContent": "该反击了。",
+            "sourceName": "vo_arlecchino_life_less30_02.wem"
+        },
+        "36ae24769de5082f": {
+            "hash": "36ae24769de5082f",
+            "directory": "External6",
+            "voiceContent": "看来要再认真一点。",
+            "sourceName": "vo_arlecchino_life_less30_03.wem"
+        },
+        "9d236120dea6743b": {
+            "hash": "9d236120dea6743b",
+            "directory": "External19",
+            "voiceContent": "我不会接受这样的命运。",
+            "sourceName": "vo_arlecchino_life_die_03.wem"
+        },
+        "fc36a6c3c3228f8d": {
+            "hash": "fc36a6c3c3228f8d",
+            "directory": "External31",
+            "voiceContent": "平庸。",
+            "sourceName": "vo_arlecchino_battle_hit_H_01.wem"
+        },
+        "762088ba594cd18a": {
+            "hash": "762088ba594cd18a",
+            "directory": "External14",
+            "voiceContent": "继续。",
+            "sourceName": "vo_arlecchino_battle_hit_H_02.wem"
+        },
+        "813e1e1268fb9b2f": {
+            "hash": "813e1e1268fb9b2f",
+            "directory": "External16",
+            "voiceContent": "她是一位非常特别的执行官。如果你向她提问，她不会给你「预料之中的回答」，有时甚至不会给出「正式的回答」，但那一定是个「有趣的回答」。",
+            "sourceName": "vo_arlecchino_teammate_damselette_01.wem"
+        },
+        "1cd6471a1f5590bf": {
+            "hash": "1cd6471a1f5590bf",
+            "directory": "External3",
+            "voiceContent": "我对她没什么兴趣。她热衷于研究，很少公开露面，许多士官甚至都没有见过她。相较于另一个把自己切成很多份、满世界乱跑的人，她算是另一个极端。",
+            "sourceName": "vo_arlecchino_teammate_marionette_01.wem"
+        },
+        "678a51a330e0d87f": {
+            "hash": "678a51a330e0d87f",
+            "directory": "External12",
+            "voiceContent": "不可否认，他既有想法也有手腕，但我认为他并不「清醒」。他可以制定宏伟的计划、操控冰冷的经济，但驱使他行动的仍是内心深处压抑的仇恨与憎恶。理性的人往往自认为能控制情感，这种自信就是最大的弱点。",
+            "sourceName": "vo_arlecchino_teammate_pantalone_01.wem"
+        },
+        "acb51e43145dde44": {
+            "hash": "acb51e43145dde44",
+            "directory": "External21",
+            "voiceContent": "她与皮耶罗是我最先认识的两位执行官。她第一次来壁炉之家做客，一副趾高气昂的做派，不受孩子们喜欢。那之后她每次来访都会带些礼物，堂而皇之地表示「不喜欢我的人没份」。为了礼物，孩子们很快学会了逢场作戏，她也照单全收。我猜测她很享受孩子们围在身旁的感觉，这或许源于她内心的孤独…对于她的牺牲，我深感遗憾，愿她能与死去的爱人重逢。",
+            "sourceName": "vo_arlecchino_teammate_signora_01.wem"
+        },
+        "0e0f0126227cf055": {
+            "hash": "0e0f0126227cf055",
+            "directory": "External1",
+            "voiceContent": "我曾养过一只叫「斑比」的蜘蛛。饲养蜘蛛是件有趣的事情，相较于猫狗一类的宠物，蜘蛛是养不熟的。它并不会给你回报，你也不会在它身上寄托多余的情感。这样的关系对我正好。",
+            "sourceName": "vo_arlecchino_pref_gift_02.wem"
+        },
+        "49023875843a3e0e": {
+            "hash": "49023875843a3e0e",
+            "directory": "External9",
+            "voiceContent": "平心而论，他的性格并不适合做执行官。他常以善意揣测别人，也常被别人利用。当然，他的天赋很好，仍然在不断成长，对他的评价不必急于一时。",
+            "sourceName": "vo_arlecchino_teammate_tartaglia_01.wem"
+        },
+        "6a2fdf1100fc9581": {
+            "hash": "6a2fdf1100fc9581",
+            "directory": "External13",
+            "voiceContent": "孩子们会讲很多只有彼此能听懂的流行词，就像执行任务用的暗语。他们需要一些安全的空间，对此，我充分理解。",
+            "sourceName": "vo_arlecchino_dialog_annoyed_01.wem"
+        },
+        "ea7f002bfde3fa64": {
+            "hash": "ea7f002bfde3fa64",
+            "directory": "External29",
+            "voiceContent": "我是愚人众执行官第四席，「仆人」阿蕾奇诺，也是壁炉之家的孩子们口中的「父亲」。希望我们相处愉快——这并非什么难事，现在的我们还没有冲突的理由，不是吗？",
+            "sourceName": "vo_arlecchino_draw_appear_01.wem"
+        },
+        "43da05dca0e7033d": {
+            "hash": "43da05dca0e7033d",
+            "directory": "External8",
+            "voiceContent": "很长时间里，我没有什么愿望，直到某天产生了「刺杀库嘉维娜」的想法。这个主意当时看来很荒诞，毕竟她是成名已久的执行官，而我的武艺几乎都是她教出来的。不过神明似乎只看愿望是否强烈，最终我得到了神之眼，在付出一些代价之后，成功掌控了这份力量。徒弟想要战胜老师，总要做出些意料之外的事情。",
+            "sourceName": "vo_arlecchino_dialog_pendant_01.wem"
+        }
+    }
+}

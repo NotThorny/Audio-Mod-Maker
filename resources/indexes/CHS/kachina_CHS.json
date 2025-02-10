@@ -1,0 +1,589 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "aecc7856d9d48604": {
+            "hash": "aecc7856d9d48604",
+            "directory": "External21",
+            "voiceContent": "本来爸爸妈妈想让我学跳舞，但我还是更想当一个厉害的战士！",
+            "sourceName": "vo_NTAQ001_4_kachina_05.wem"
+        },
+        "75d0f8785b73bcc8": {
+            "hash": "75d0f8785b73bcc8",
+            "directory": "External14",
+            "voiceContent": "哈哈哈，没事的，因为我们部族总在和石头打交道，那是我们的象征之一。",
+            "sourceName": "vo_NTAQ001_4_kachina_01.wem"
+        },
+        "3518c66043d8250f": {
+            "hash": "3518c66043d8250f",
+            "directory": "External6",
+            "voiceContent": "而且放心吧，固定得可稳了！",
+            "sourceName": "vo_NTAQ001_4_kachina_02.wem"
+        },
+        "b35b64688737fa26": {
+            "hash": "b35b64688737fa26",
+            "directory": "External22",
+            "voiceContent": "我们部族有很多人都喜欢玩音乐和跳舞，他们的节奏感都很棒。",
+            "sourceName": "vo_NTAQ001_4_kachina_03.wem"
+        },
+        "3425b24e99852595": {
+            "hash": "3425b24e99852595",
+            "directory": "External6",
+            "voiceContent": "之前还有外国人专门到这里学习和交流呢。",
+            "sourceName": "vo_NTAQ001_4_kachina_04.wem"
+        },
+        "d210f3bffff2ebe7": {
+            "hash": "d210f3bffff2ebe7",
+            "directory": "External26",
+            "voiceContent": "没事，没事，你知道的，我身体可结实了。",
+            "sourceName": "vo_NTAQ007_7_kachina_12.wem"
+        },
+        "3f300e609f1d08f5": {
+            "hash": "3f300e609f1d08f5",
+            "directory": "External7",
+            "voiceContent": "（不是只有拳头大的人才会赢！）",
+            "sourceName": "vo_NTAQ002_6_kachina_07.wem"
+        },
+        "e02eeaf108927739": {
+            "hash": "e02eeaf108927739",
+            "directory": "External28",
+            "voiceContent": "嘿嘿，有帮上忙就好。",
+            "sourceName": "vo_NTAQ002_4_kachina_05.wem"
+        },
+        "5b0b90f9490f30b8": {
+            "hash": "5b0b90f9490f30b8",
+            "directory": "External11",
+            "voiceContent": "没关系，交给我。我带你上去！",
+            "sourceName": "vo_NTAQ002_4_kachina_04.wem"
+        },
+        "ce26e7bb98d917b1": {
+            "hash": "ce26e7bb98d917b1",
+            "directory": "External25",
+            "voiceContent": "它真的好着急，到底怎么了…",
+            "sourceName": "vo_NTAQ301_22_kachina_05.wem"
+        },
+        "1022004e70c60844": {
+            "hash": "1022004e70c60844",
+            "directory": "External2",
+            "voiceContent": "石头掉下来了！",
+            "sourceName": "vo_NTAQ007_9_kachina_13.wem"
+        },
+        "1d2ed0bc51ea856e": {
+            "hash": "1d2ed0bc51ea856e",
+            "directory": "External3",
+            "voiceContent": "好险…",
+            "sourceName": "vo_NTAQ002_6_kachina_08.wem"
+        },
+        "3aa1224ef1b994db": {
+            "hash": "3aa1224ef1b994db",
+            "directory": "External7",
+            "voiceContent": "（等等，也许我可以试着爬到石柱上去！这样就能够抓到她了！）",
+            "sourceName": "vo_NTAQ002_6_kachina_05.wem"
+        },
+        "b8acb05734ea0b92": {
+            "hash": "b8acb05734ea0b92",
+            "directory": "External23",
+            "voiceContent": "（不能再这样下去了…）",
+            "sourceName": "vo_NTAQ002_6_kachina_04.wem"
+        },
+        "6cf49ec0509f386b": {
+            "hash": "6cf49ec0509f386b",
+            "directory": "External13",
+            "voiceContent": "我们真的打赢了传奇选手…",
+            "sourceName": "vo_NTAQ002_4_kachina_03.wem"
+        },
+        "3cef42cf2901447b": {
+            "hash": "3cef42cf2901447b",
+            "directory": "External7",
+            "voiceContent": "没事。以前你带我坐过，我不会轻易被吓到了。",
+            "sourceName": "vo_NTAQ002_4_kachina_10.wem"
+        },
+        "bafbd0d76c336e32": {
+            "hash": "bafbd0d76c336e32",
+            "directory": "External23",
+            "voiceContent": "嗯。那天我原本很沮丧，因为训练很不顺利。多亏了你，我才振作起来。",
+            "sourceName": "vo_NTAQ002_4_kachina_11.wem"
+        },
+        "8dc43b11e9955d6d": {
+            "hash": "8dc43b11e9955d6d",
+            "directory": "External17",
+            "voiceContent": "谢谢你，玛拉妮。",
+            "sourceName": "vo_NTAQ002_4_kachina_09.wem"
+        },
+        "19604acf87209a45": {
+            "hash": "19604acf87209a45",
+            "directory": "External3",
+            "voiceContent": "赢、赢了！",
+            "sourceName": "vo_NTAQ002_4_kachina_01.wem"
+        },
+        "1dba1ee1345808bf": {
+            "hash": "1dba1ee1345808bf",
+            "directory": "External3",
+            "voiceContent": "呼…呼…我没事。快，我们快回圣火竞技场。",
+            "sourceName": "vo_NTAQ002_4_kachina_07.wem"
+        },
+        "ecc1aede62671515": {
+            "hash": "ecc1aede62671515",
+            "directory": "External29",
+            "voiceContent": "我——很想赢一次。我想赢下「归火圣夜巡礼」，成为一名真正的战士！",
+            "sourceName": "vo_NTAQ002_4_kachina_12.wem"
+        },
+        "2246211acadc11dc": {
+            "hash": "2246211acadc11dc",
+            "directory": "External4",
+            "voiceContent": "呼…",
+            "sourceName": "vo_NTAQ002_4_kachina_08.wem"
+        },
+        "beef2cc7585fb622": {
+            "hash": "beef2cc7585fb622",
+            "directory": "External23",
+            "voiceContent": "这些魔物，居然跑到赛场里来了…",
+            "sourceName": "vo_NTAQ002_4_kachina_02.wem"
+        },
+        "6feabce83c4631d6": {
+            "hash": "6feabce83c4631d6",
+            "directory": "External13",
+            "voiceContent": "那边好像打起来了。玛拉妮，我们该怎么办？",
+            "sourceName": "vo_NTAQ002_4_kachina_06.wem"
+        },
+        "fcaf4cc555db8eb8": {
+            "hash": "fcaf4cc555db8eb8",
+            "directory": "External31",
+            "voiceContent": "呜哇哇——和「游隙灵道」一样，好刺激！",
+            "sourceName": "vo_NTAQ108_4_kachina_01.wem"
+        },
+        "bf5ddaad412466bf": {
+            "hash": "bf5ddaad412466bf",
+            "directory": "External23",
+            "voiceContent": "轮到我了，冲天转转！",
+            "sourceName": "vo_NTAQ108_4_kachina_02.wem"
+        },
+        "118e78b449128fd6": {
+            "hash": "118e78b449128fd6",
+            "directory": "External2",
+            "voiceContent": "我们…欸，是在说我吗？！嘿嘿，我们的确所向披靡！",
+            "sourceName": "vo_NTAQ108_4_kachina_03.wem"
+        }
+    },
+    "Gameplay": {
+        "615cae34020a76c1": {
+            "hash": "615cae34020a76c1",
+            "directory": "External12",
+            "voiceContent": "旋转！",
+            "sourceName": "vo_kachina_battle_skill1_01.wem"
+        },
+        "0721a02bd3773d1e": {
+            "hash": "0721a02bd3773d1e",
+            "directory": "External0",
+            "voiceContent": "嘿——哟！",
+            "sourceName": "vo_kachina_battle_skill1_02.wem"
+        },
+        "b4f04224cb87ce27": {
+            "hash": "b4f04224cb87ce27",
+            "directory": "External22",
+            "voiceContent": "来咯！",
+            "sourceName": "vo_kachina_battle_skill1_03.wem"
+        },
+        "5ab5341c9cf4957c": {
+            "hash": "5ab5341c9cf4957c",
+            "directory": "External11",
+            "voiceContent": "开转咯！",
+            "sourceName": "vo_kachina_battle_skill1_04.wem"
+        },
+        "c6334e13bbade00d": {
+            "hash": "c6334e13bbade00d",
+            "directory": "External24",
+            "voiceContent": "冲地波！",
+            "sourceName": "vo_kachina_battle_skill1_05.wem"
+        },
+        "401d300a51d8220a": {
+            "hash": "401d300a51d8220a",
+            "directory": "External8",
+            "voiceContent": "冲天转转，出发！",
+            "sourceName": "vo_kachina_battle_skill1_06.wem"
+        },
+        "2ea2b9b4b7709ca3": {
+            "hash": "2ea2b9b4b7709ca3",
+            "directory": "External5",
+            "voiceContent": "清退！",
+            "sourceName": "vo_kachina_battle_skill3_01.wem"
+        },
+        "6c2a0bcccc551d8c": {
+            "hash": "6c2a0bcccc551d8c",
+            "directory": "External13",
+            "voiceContent": "矿石采集。",
+            "sourceName": "vo_kachina_battle_skill3_02.wem"
+        },
+        "db0e25c3edf1925d": {
+            "hash": "db0e25c3edf1925d",
+            "directory": "External27",
+            "voiceContent": "切勿靠近。",
+            "sourceName": "vo_kachina_battle_skill3_03.wem"
+        },
+        "48243e2437581dce": {
+            "hash": "48243e2437581dce",
+            "directory": "External9",
+            "voiceContent": "哇哇，有亮晶晶的石头！",
+            "sourceName": "vo_kachina_chest_open_01.wem"
+        },
+        "cb0b8c2d9e7a46f1": {
+            "hash": "cb0b8c2d9e7a46f1",
+            "directory": "External25",
+            "voiceContent": "你也喜欢收集石头吗？我懂我懂，这些石头太好看了。",
+            "sourceName": "vo_kachina_chest_open_02.wem"
+        },
+        "494e3235e1da2970": {
+            "hash": "494e3235e1da2970",
+            "directory": "External9",
+            "voiceContent": "需要帮忙整理吗？我很拿手！",
+            "sourceName": "vo_kachina_chest_open_03.wem"
+        },
+        "4afe8b0888339ffa": {
+            "hash": "4afe8b0888339ffa",
+            "directory": "External9",
+            "voiceContent": "不要忘了还有我呀！",
+            "sourceName": "vo_kachina_life_less30_teammate_01.wem"
+        },
+        "a503a910b69964fd": {
+            "hash": "a503a910b69964fd",
+            "directory": "External20",
+            "voiceContent": "我在！交给我吧！",
+            "sourceName": "vo_kachina_life_less30_teammate_02.wem"
+        },
+        "6a89f5b99867e667": {
+            "hash": "6a89f5b99867e667",
+            "directory": "External13",
+            "voiceContent": "对不起，是我逞强了。",
+            "sourceName": "vo_kachina_life_die_01.wem"
+        },
+        "c14a87d24dbb4300": {
+            "hash": "c14a87d24dbb4300",
+            "directory": "External24",
+            "voiceContent": "不能愧对…「乌沙博蒂」…",
+            "sourceName": "vo_kachina_life_die_02.wem"
+        },
+        "d9448b61556f23c3": {
+            "hash": "d9448b61556f23c3",
+            "directory": "External27",
+            "voiceContent": "呜哇？我可以参加吗？",
+            "sourceName": "vo_kachina_teamJoin_01.wem"
+        },
+        "6ef05d7be137d62c": {
+            "hash": "6ef05d7be137d62c",
+            "directory": "External13",
+            "voiceContent": "太好了！一起动身吧。",
+            "sourceName": "vo_kachina_teamJoin_02.wem"
+        },
+        "ddd4777302d44afd": {
+            "hash": "ddd4777302d44afd",
+            "directory": "External27",
+            "voiceContent": "又能向你学习战斗技巧了。",
+            "sourceName": "vo_kachina_teamJoin_03.wem"
+        },
+        "272e90528e599e34": {
+            "hash": "272e90528e599e34",
+            "directory": "External4",
+            "voiceContent": "啊…我刚刚发现有块砖没有堆整齐。怎么办？现在感觉心里有只小龙在不停地挠啊挠。",
+            "sourceName": "vo_kachina_character_idle_01.wem"
+        },
+        "d0a41e39d93406ab": {
+            "hash": "d0a41e39d93406ab",
+            "directory": "External26",
+            "voiceContent": "我可以、我不行、我可以、我…唔唔，没事的，我可以的，一定没问题的…对吧？",
+            "sourceName": "vo_kachina_character_idle_02.wem"
+        },
+        "2604ac40e3d7ae62": {
+            "hash": "2604ac40e3d7ae62",
+            "directory": "External4",
+            "voiceContent": "无聊的话，要不要一起来看看我包里的收藏？看上什么拿走也没关系哦。",
+            "sourceName": "vo_kachina_character_idle_03.wem"
+        },
+        "1bcb62667d87db96": {
+            "hash": "1bcb62667d87db96",
+            "directory": "External3",
+            "voiceContent": "雨水会让泥土变得松软，所以雨天挖矿一定要比平时更加更加小心哦。",
+            "sourceName": "vo_kachina_weather_heavyRain_01.wem"
+        },
+        "3a97751e89cd4b4d": {
+            "hash": "3a97751e89cd4b4d",
+            "directory": "External7",
+            "voiceContent": "呀——啊…我、我不是害怕，只是被吓了一跳而已。",
+            "sourceName": "vo_kachina_weather_thunder_01.wem"
+        },
+        "808df1240854ae5a": {
+            "hash": "808df1240854ae5a",
+            "directory": "External16",
+            "voiceContent": "这下面会不会藏着金闪闪的矿石？要不要挖挖看？",
+            "sourceName": "vo_kachina_weather_desert_01.wem"
+        },
+        "3a0c554a594a5ac9": {
+            "hash": "3a0c554a594a5ac9",
+            "directory": "External7",
+            "voiceContent": "我们一起去雪地上打滚吧，嘿嘿。你放心，我不会像阿尤一样，钻到雪里又突然冒出来吓你的。",
+            "sourceName": "vo_kachina_weather_snowy_01.wem"
+        },
+        "4c74e5f9319e3a98": {
+            "hash": "4c74e5f9319e3a98",
+            "directory": "External9",
+            "voiceContent": "快看这块宝石！在太阳的照射下，它里面好像藏着彩虹。",
+            "sourceName": "vo_kachina_weather_sunny_01.wem"
+        },
+        "ae2881d8e6732ddc": {
+            "hash": "ae2881d8e6732ddc",
+            "directory": "External21",
+            "voiceContent": "早呀，我已经整理好背包啦，我们随时可以出发。",
+            "sourceName": "vo_kachina_dialog_greetingMorning.wem"
+        },
+        "d935d2b573cb5038": {
+            "hash": "d935d2b573cb5038",
+            "directory": "External27",
+            "voiceContent": "我不困，但如果你想午睡一会儿的话，我可以帮你望风。虽然我有许多不擅长的事情，但…我的耳朵还算灵敏。远处的风吹草动，我都能感觉到。",
+            "sourceName": "vo_kachina_dialog_greetingNoon.wem"
+        },
+        "4c677a8c752ade56": {
+            "hash": "4c677a8c752ade56",
+            "directory": "External9",
+            "voiceContent": "玛拉妮邀请我晚上去山洞试胆，我我我，好紧张，怎么办？我不想拒绝朋友，就…就闭上眼睛答应了…不、不管发生什么事情，我都应该和她一起面对。欸？你也一起来吗？太、太好了！呜…",
+            "sourceName": "vo_kachina_dialog_greetingNight.wem"
+        },
+        "fd8ba78975ff823e": {
+            "hash": "fd8ba78975ff823e",
+            "directory": "External31",
+            "voiceContent": "今天怎么又把事情给搞砸了，呜呜呜…怎么办，明明不想哭的，但眼泪完全停不下来了，呜呜…噫——，刚、刚刚我们不是互相说了晚安，要去睡觉了吗？但谢谢你安慰我…",
+            "sourceName": "vo_kachina_dialog_greetingNight2.wem"
+        },
+        "201211cf86be2d21": {
+            "hash": "201211cf86be2d21",
+            "directory": "External4",
+            "voiceContent": "这个名字是我和阿尤一起取的。我先想好了前半部分，又根据阿尤的动作定下了后半。我常常会乘着它和阿尤比赛跑步，我们各有输赢呢。",
+            "sourceName": "vo_kachina_dialog_idle.wem"
+        },
+        "535dd04997c296c3": {
+            "hash": "535dd04997c296c3",
+            "directory": "External10",
+            "voiceContent": "能在「巡夜者战争」中死去，对纳塔战士们来说是一种荣光，身为其中一员的我也不该例外…但当时我一边这样告诉自己，一边在心里害怕得要命…你们冒着巨大的危险从夜神之国把我带回来，我真的非常感激！呜呜，谢谢你们每个人…",
+            "sourceName": "vo_kachina_dialog_idle2.wem"
+        },
+        "13115f9805e4fbae": {
+            "hash": "13115f9805e4fbae",
+            "directory": "External2",
+            "voiceContent": "来挑一个你喜欢的吧！作为我们是好朋友的证明。我能收集到的最好看、最闪亮的矿石全都在这里啦。如果你愿意选一颗收下的话，我会很开心的！",
+            "sourceName": "vo_kachina_dialog_close1.wem"
+        },
+        "2218a9e1d1917e1f": {
+            "hash": "2218a9e1d1917e1f",
+            "directory": "External4",
+            "voiceContent": "纳塔流传着很多英雄传说，其中我最喜欢的就是陶奥鲁大人的事迹，居然能以血肉之躯把深渊给封入地下，实在太厉害了！对了对了，你走过了那么多国家，一定也知道很多传说故事吧？我真的很好奇…有空的时候可以和我讲讲吗？",
+            "sourceName": "vo_kachina_dialog_close.wem"
+        },
+        "cc9f82ffe685c4ce": {
+            "hash": "cc9f82ffe685c4ce",
+            "directory": "External25",
+            "voiceContent": "阿尤是我很重要的伙伴，别看它现在模样乖巧，它再小些的时候，表达喜欢的方式是冲过来用头撞人。它力气可大了，有时候我都会被它撞得摔倒。不过这也没办法嘛，毕竟嵴锋龙是一种很亲人的龙。哎呀，别撞我呀，阿尤，好好好，我不揭你短啦。",
+            "sourceName": "vo_kachina_dialog_share_01.wem"
+        },
+        "ab9bf17fa2bd794c": {
+            "hash": "ab9bf17fa2bd794c",
+            "directory": "External21",
+            "voiceContent": "澄晶实的果实形状就像宝石一样，如果它也能像宝石一样长时间存放就好了…",
+            "sourceName": "vo_kachina_pref_gift_01.wem"
+        },
+        "e82a47ed88b15046": {
+            "hash": "e82a47ed88b15046",
+            "directory": "External29",
+            "voiceContent": "玛拉妮是我的第一个好朋友。遇到她之前，我都不知道这个世界上有这么好的人，还有这么多好玩的事情。看，这是我们合影的画片。她说是要在合影时一起往上跳…你说我动作看着有点僵硬？嘿嘿…被你发现了…当时镜头外有很多人在看着我们，让我有点紧张…",
+            "sourceName": "vo_kachina_teammate_mualani_01.wem"
+        },
+        "15359f20a48a3167": {
+            "hash": "15359f20a48a3167",
+            "directory": "External2",
+            "voiceContent": "基尼奇哥哥还是玛拉妮介绍给我认识的呢。不瞒你说，一开始我有点害怕他，因为他的眼神看起来…稍微有一点凶。我后来才知道，他私底下教训过欺负我的坏蛋。但在我送他回礼的时候，他又不肯收下，说是已经得到了足额的报酬…",
+            "sourceName": "vo_kachina_teammate_kinich_01.wem"
+        },
+        "1bfa72fef278d4b2": {
+            "hash": "1bfa72fef278d4b2",
+            "directory": "External3",
+            "voiceContent": "她是纳塔有名的「调停人」，据说任何争斗都能被她轻松摆平。她会这么做，恐怕是像我一样，很讨厌人与人之间起什么冲突吧…",
+            "sourceName": "vo_kachina_teammate_chasca_01.wem"
+        },
+        "862494d0a632926f": {
+            "hash": "862494d0a632926f",
+            "directory": "External16",
+            "voiceContent": "我做梦都想不到，居然有一天能被火神大人亲口认可为「纳塔的英雄」，火神大人是每一位纳塔战士的偶像，我…我得到了偶像的…呜…我一想起来就太感动了，呜呜呜…对不起，对不起对不起。不该在这时候哭的…",
+            "sourceName": "vo_kachina_teammate_mavuika_01.wem"
+        },
+        "428877de7aee9acf": {
+            "hash": "428877de7aee9acf",
+            "directory": "External8",
+            "voiceContent": "伊法哥哥是个很厉害的龙医生！凡是给他看过病的小龙，回来后都作息规律、不乱吃乱跑，几乎再没生过病啦。所以每当大家发现有龙身体不舒服，第一反应都是请他飞过来看一看。",
+            "sourceName": "vo_kachina_teammate_ifa_01.wem"
+        },
+        "59c3f69f6a61d5ff": {
+            "hash": "59c3f69f6a61d5ff",
+            "directory": "External11",
+            "voiceContent": "之前为了变强，我拜托伊安珊带我训练。她安排了各种各样高强度的锻炼方式，我常常需要咬紧牙关才能坚持下去。好在她给我安排的训练量非常精准，每次结束后都留出了供我走回家的体力…我还是很感谢她的。",
+            "sourceName": "vo_kachina_teammate_iansan_01.wem"
+        },
+        "5b315f145289703d": {
+            "hash": "5b315f145289703d",
+            "directory": "External11",
+            "voiceContent": "玛拉妮和我说了，你们能救出我，还多亏了她的发明。「灵觉髓石」坏掉了，我也有不可推脱的责任…后来我鼓起勇气去找她道歉了，并且让她在我收藏的石头里挑几块，她挠着头说：「这，我不挑一个是不是很麻烦啊。拿个差不多的我们就两清，是吧？」最后只拿走了最不起眼的一块黑曜石，就摆了摆手让我走了。你说，我要不要再帮她找点什么？她喜欢什么，你知道吗？",
+            "sourceName": "vo_kachina_teammate_citlali_01.wem"
+        },
+        "35be1d4da97737f6": {
+            "hash": "35be1d4da97737f6",
+            "directory": "External6",
+            "voiceContent": "在我获得古名后，帕加尔叔叔带我去找了希诺宁姐姐，请她帮我打造了冲天转转，她的手艺简直出神入化。后来，我们交流过宝石收藏与存储的经验，还欣赏了彼此的珍品。她的收藏品状态非常好，肯定照顾得十分细致。但她自己的生活…似乎要更加随性？有一次我找了她很久都没找到，最后发现她在一棵大树上晒着太阳睡着了…",
+            "sourceName": "vo_kachina_teammate_xilonen_01.wem"
+        },
+        "4e6b1aa8d2d7787c": {
+            "hash": "4e6b1aa8d2d7787c",
+            "directory": "External9",
+            "voiceContent": "「乌沙博蒂」是我的古名，它的意思是坚强，唉，可很多时候我都想不明白为什么这个古名会给我。我那么弱小，不管是在家里，还是在部族里，存在感都不算高…有那么多优秀的人在身边，我真的有拥有它的资格吗？",
+            "sourceName": "vo_kachina_friendship_01.wem"
+        },
+        "b8bf488e470ec513": {
+            "hash": "b8bf488e470ec513",
+            "directory": "External23",
+            "voiceContent": "要说我家人的话…我在家中排行第二。我知道爸爸把期许主要寄托在了姐姐身上，而妈妈现在又要照顾年幼的妹妹。我们的生活有些辛苦，所以我需要管好自己，早点长大…至少让爸爸妈妈少操点心。",
+            "sourceName": "vo_kachina_friendship_02.wem"
+        },
+        "33d3169687bb050a": {
+            "hash": "33d3169687bb050a",
+            "directory": "External6",
+            "voiceContent": "帕加尔叔叔待我很好。部族里其他人议论我的时候，他总会帮我说话。其实…他那样做，我心里反而过意不去。我只有靠自己的实力赢得大家认可才行啊…",
+            "sourceName": "vo_kachina_friendship_03.wem"
+        },
+        "551294c037ed59c1": {
+            "hash": "551294c037ed59c1",
+            "directory": "External10",
+            "voiceContent": "我一直知道，流泪并不能解决任何问题。传说故事里，我从来没听过有英雄会在大家面前哭啊。我很想忍住眼泪，但我总是失败…欸？你说没关系？流泪是一种很重要的发泄方式？你…你真的这么想吗？呜呜呜，谢谢你，呜…我怎么又哭了。",
+            "sourceName": "vo_kachina_friendship_04.wem"
+        },
+        "fc00bac9b3dae5c0": {
+            "hash": "fc00bac9b3dae5c0",
+            "directory": "External31",
+            "voiceContent": "我之前一直觉得自己很弱小，被人忽视也是理所当然…但，听到大灵女士那番话之后，我不再那么想了。「乌沙博蒂」是我的古名，我…已经决定要变成更好的「自己」。这个世界上一定有我才能做到的事。我会…继续努力。希望这块黑曜石有朝一日也能容纳我的事迹，成为一颗…更加璀璨的宝石。",
+            "sourceName": "vo_kachina_friendship_05.wem"
+        },
+        "811816caee40ded0": {
+            "hash": "811816caee40ded0",
+            "directory": "External16",
+            "voiceContent": "这块是我第一次挖出来的宝石，翠绿翠绿的，很好看吧？最初它们是一对，另外一块我送给了玛拉妮，你看，它的花纹像流水一样。对了，还有这块，别看它是黑色的，但放在太阳下面就会有五彩斑斓的感觉…嘿嘿，这些全都是我一块一块收集起来的。",
+            "sourceName": "vo_kachina_pref_hobby.wem"
+        },
+        "37994a2e29f5fd0b": {
+            "hash": "37994a2e29f5fd0b",
+            "directory": "External6",
+            "voiceContent": "粒果片片是我的最爱，要是能堆得整齐一点，那就更加完美了。",
+            "sourceName": "vo_kachina_pref_foodLike.wem"
+        },
+        "234ad075c5291c75": {
+            "hash": "234ad075c5291c75",
+            "directory": "External4",
+            "voiceContent": "欸？分量这么大吗？但、但我吃不完的话，不就浪费了厨师的劳动成果吗？唔唔，没关系…我一定可以吃完的！小口小口慢慢吃…",
+            "sourceName": "vo_kachina_pref_foodDislike.wem"
+        },
+        "a1e7b297d888a4d4": {
+            "hash": "a1e7b297d888a4d4",
+            "directory": "External20",
+            "voiceContent": "哇——真的是送给我的吗？太好吃了！我要慢慢吃，让美味停留得更久一点。",
+            "sourceName": "vo_kachina_spice_pref_01.wem"
+        },
+        "ffb8f738e8aa174e": {
+            "hash": "ffb8f738e8aa174e",
+            "directory": "External31",
+            "voiceContent": "又香又好吃，摆盘也很精致。如果有「厨艺战争」的话，你一定会赢吧！",
+            "sourceName": "vo_kachina_spice_normal_01.wem"
+        },
+        "4b39b96b10aa437a": {
+            "hash": "4b39b96b10aa437a",
+            "directory": "External9",
+            "voiceContent": "谢谢你愿意为我花时间！我、我一定会吃完的，请再多给我一点时间。",
+            "sourceName": "vo_kachina_spice_dislike_01.wem"
+        },
+        "82acdd46b5e7edc7": {
+            "hash": "82acdd46b5e7edc7",
+            "directory": "External16",
+            "voiceContent": "生日快乐！这个送给你，是虹闪石雕成的鼠兔。虹闪石的触感温润，但在地下很不起眼，一不留神就会错过…不过带在身边久了，它的光泽就会越来越漂亮的。这是我最喜欢的宝石之一，希望你也喜欢。",
+            "sourceName": "vo_kachina_pref_birthday_01.wem"
+        },
+        "295ea33fde05273f": {
+            "hash": "295ea33fde05273f",
+            "directory": "External5",
+            "voiceContent": "我的耳朵在抖吗？不是紧张…而是开心。对不起，它们现在激动得不得了，我控制不住。我…我捂住它们吧。",
+            "sourceName": "vo_kachina_starUp_01.wem"
+        },
+        "66b01557f2bc4f38": {
+            "hash": "66b01557f2bc4f38",
+            "directory": "External12",
+            "voiceContent": "你真的非常重视我…呜…呃、我没有想哭的，就是太感动了…",
+            "sourceName": "vo_kachina_starUp_02.wem"
+        },
+        "ebd36f4fb23f95b9": {
+            "hash": "ebd36f4fb23f95b9",
+            "directory": "External29",
+            "voiceContent": "「王庭焚弃，火却未曾殄熄。明晨它要再度燃起，比昨日更为辉熠。」这是陶奥鲁大人说过的话中，我最喜欢的一句。我，我必须要努力才行…",
+            "sourceName": "vo_kachina_starUp_03.wem"
+        },
+        "ca93b126020cd4a2": {
+            "hash": "ca93b126020cd4a2",
+            "directory": "External25",
+            "voiceContent": "你带我一起见识了种种新奇的事物，让我成长了很多，我不知道该怎么回报你才好…但这次我想自己找到答案。接下来就让我来当英雄吧，保护你的英雄！",
+            "sourceName": "vo_kachina_starUp_04.wem"
+        },
+        "93fa5b64328c5353": {
+            "hash": "93fa5b64328c5353",
+            "directory": "External18",
+            "voiceContent": "没事，小伤罢了。",
+            "sourceName": "vo_kachina_life_less30_01.wem"
+        },
+        "29a62d7ebe5505bc": {
+            "hash": "29a62d7ebe5505bc",
+            "directory": "External5",
+            "voiceContent": "我要…振作起来。",
+            "sourceName": "vo_kachina_life_less30_02.wem"
+        },
+        "988a4775dff17a4d": {
+            "hash": "988a4775dff17a4d",
+            "directory": "External19",
+            "voiceContent": "我、我一定可以的！",
+            "sourceName": "vo_kachina_life_less30_03.wem"
+        },
+        "1a5c61c8d1cdb701": {
+            "hash": "1a5c61c8d1cdb701",
+            "directory": "External3",
+            "voiceContent": "呜…又搞砸了吗…",
+            "sourceName": "vo_kachina_life_die_03.wem"
+        },
+        "bfc0d570317fb38c": {
+            "hash": "bfc0d570317fb38c",
+            "directory": "External23",
+            "voiceContent": "唔，不要紧。",
+            "sourceName": "vo_kachina_battle_hit_H_02.wem"
+        },
+        "3853440605f79080": {
+            "hash": "3853440605f79080",
+            "directory": "External7",
+            "voiceContent": "擦伤而已。",
+            "sourceName": "vo_kachina_battle_hit_L_02.wem"
+        },
+        "43ef2e0d4158d03b": {
+            "hash": "43ef2e0d4158d03b",
+            "directory": "External8",
+            "voiceContent": "之前玛拉妮送了我一顶很大的帽子，太酷了，还能完美地遮住太阳，我真的好喜欢，但戴着戴着，它就成了一顶毡帽…后来我只能换成现在这顶不会粘毛的帽子了。",
+            "sourceName": "vo_kachina_dialog_annoyed_01.wem"
+        },
+        "12869f1a67ea07c2": {
+            "hash": "12869f1a67ea07c2",
+            "directory": "External2",
+            "voiceContent": "你好呀，我是「回声之子」的卡齐娜。喜欢吃颗粒果，想要变强，不擅长打架。啊…不是说这些的时候？那、那…请问你接下来想去哪里走走？我挺熟悉这一带的，就让我来带路吧。",
+            "sourceName": "vo_kachina_draw_appear_01.wem"
+        },
+        "8090a6b1ad8f1343": {
+            "hash": "8090a6b1ad8f1343",
+            "directory": "External16",
+            "voiceContent": "在我第一次看到这枚亮晶晶神之眼的时候，我还以为自己眼花了呢，它比我见过的任何一块石头都要闪亮。虽然我现在与那些传说中的英雄相比，还差得很远，但如果有一天，我的故事也能激励别人，哪怕只有一个人也好，那也会成为我最大的幸福…",
+            "sourceName": "vo_kachina_dialog_pendant_01.wem"
+        }
+    }
+}

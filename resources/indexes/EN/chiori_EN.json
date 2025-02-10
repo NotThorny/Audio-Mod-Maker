@@ -1,0 +1,541 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "93637023e92e3441": {
+            "hash": "93637023e92e3441",
+            "directory": "External18",
+            "voiceContent": "Just this once, though, I think I can make an exception. Go ahead and tear them up. Think of it as a good way to vent your emotions.",
+            "sourceName": "vo_QZLQ002_8_chiori_15.wem"
+        },
+        "2e836c0b9ed51375": {
+            "hash": "2e836c0b9ed51375",
+            "directory": "External5",
+            "voiceContent": "Of course. I wouldn't do anything to one of my business partners, especially when a reasonable conversation should suffice.",
+            "sourceName": "vo_QZLQ002_3_chiori_01.wem"
+        },
+        "98c1b5854a30ce24": {
+            "hash": "98c1b5854a30ce24",
+            "directory": "External19",
+            "voiceContent": "Paimon, what do you think is the most beautiful thing in the sea?",
+            "sourceName": "vo_QZLQ002_6_chiori_01.wem"
+        },
+        "198c036b5c7df99b": {
+            "hash": "198c036b5c7df99b",
+            "directory": "External3",
+            "voiceContent": "Well, now that you've hit the nail on the head, help me grab some, would you?",
+            "sourceName": "vo_QZLQ002_6_chiori_02.wem"
+        },
+        "a95bbc1c307bd01a": {
+            "hash": "a95bbc1c307bd01a",
+            "directory": "External21",
+            "voiceContent": "Hold on tight, Paimon!",
+            "sourceName": "vo_QZLQ003_2_chiori_02.wem"
+        },
+        "06c6da2461c4be1d": {
+            "hash": "06c6da2461c4be1d",
+            "directory": "External0",
+            "voiceContent": "A mechanical guide. They usually use a recorded tape to give you a tour of the factory.",
+            "sourceName": "vo_QZLQ003_2_chiori_01.wem"
+        },
+        "48de204e240e7390": {
+            "hash": "48de204e240e7390",
+            "directory": "External9",
+            "voiceContent": "It seems like... we're someplace deeper inside the factory.",
+            "sourceName": "vo_QZLQ003_2_chiori_04.wem"
+        },
+        "56f46e15285eed63": {
+            "hash": "56f46e15285eed63",
+            "directory": "External10",
+            "voiceContent": "...It seems to have stopped.",
+            "sourceName": "vo_QZLQ003_2_chiori_03.wem"
+        },
+        "aaacaa91517d6c2d": {
+            "hash": "aaacaa91517d6c2d",
+            "directory": "External21",
+            "voiceContent": "Look over there. Seems like there's a way out.",
+            "sourceName": "vo_QZLQ003_4_chiori_14.wem"
+        },
+        "3bc8909a2fe0f79c": {
+            "hash": "3bc8909a2fe0f79c",
+            "directory": "External7",
+            "voiceContent": "Maybe we can use these mechanisms to get higher.",
+            "sourceName": "vo_QZLQ003_4_chiori_15.wem"
+        },
+        "40587cabdd461ebe": {
+            "hash": "40587cabdd461ebe",
+            "directory": "External8",
+            "voiceContent": "We're out of time. Let's get out of here.",
+            "sourceName": "vo_QZLQ003_4_chiori_13.wem"
+        },
+        "96039ea25e743147": {
+            "hash": "96039ea25e743147",
+            "directory": "External18",
+            "voiceContent": "Don't worry about that now! Let's get out of here first!",
+            "sourceName": "vo_QZLQ003_4_chiori_12.wem"
+        },
+        "beb10b690da62783": {
+            "hash": "beb10b690da62783",
+            "directory": "External23",
+            "voiceContent": "Follow me. Let's go up.",
+            "sourceName": "vo_QZLQ003_3_chiori_06.wem"
+        }
+    },
+    "Gameplay": {
+        "ae530ad77c1c6323": {
+            "hash": "ae530ad77c1c6323",
+            "directory": "External21",
+            "voiceContent": "Let's go, Tamoto!",
+            "sourceName": "vo_chiori_battle_skill1_01.wem"
+        },
+        "ebda5cef9100e40c": {
+            "hash": "ebda5cef9100e40c",
+            "directory": "External29",
+            "voiceContent": "Next customer!",
+            "sourceName": "vo_chiori_battle_skill1_02.wem"
+        },
+        "5abe76e6b29d58dd": {
+            "hash": "5abe76e6b29d58dd",
+            "directory": "External11",
+            "voiceContent": "Lend me a hand.",
+            "sourceName": "vo_chiori_battle_skill1_03.wem"
+        },
+        "e10cff56c6b63d41": {
+            "hash": "e10cff56c6b63d41",
+            "directory": "External28",
+            "voiceContent": "I am the cutting edge of fashion.",
+            "sourceName": "vo_chiori_battle_skill3_01.wem"
+        },
+        "86d1f14e9823039e": {
+            "hash": "86d1f14e9823039e",
+            "directory": "External16",
+            "voiceContent": "Delicate as silk.",
+            "sourceName": "vo_chiori_battle_skill3_02.wem"
+        },
+        "34a09347903394a7": {
+            "hash": "34a09347903394a7",
+            "directory": "External6",
+            "voiceContent": "Scraps of color, scatter!",
+            "sourceName": "vo_chiori_battle_skill3_03.wem"
+        },
+        "46494cc8996ab728": {
+            "hash": "46494cc8996ab728",
+            "directory": "External8",
+            "voiceContent": "The handiwork is alright... though I've made much better myself.",
+            "sourceName": "vo_chiori_chest_open_01.wem"
+        },
+        "b0d49aae0dd17def": {
+            "hash": "b0d49aae0dd17def",
+            "directory": "External22",
+            "voiceContent": "Ah, so this is what you like?",
+            "sourceName": "vo_chiori_chest_open_02.wem"
+        },
+        "2f1738b651315206": {
+            "hash": "2f1738b651315206",
+            "directory": "External5",
+            "voiceContent": "Hmm... Let me take note of this.",
+            "sourceName": "vo_chiori_chest_open_03.wem"
+        },
+        "fa425e5c6fb58920": {
+            "hash": "fa425e5c6fb58920",
+            "directory": "External31",
+            "voiceContent": "Hey, who're you trying to impress?",
+            "sourceName": "vo_chiori_life_less30_teammate_01.wem"
+        },
+        "a381cc43ba622b87": {
+            "hash": "a381cc43ba622b87",
+            "directory": "External20",
+            "voiceContent": "I don't make burial shrouds, you know.",
+            "sourceName": "vo_chiori_life_less30_teammate_02.wem"
+        },
+        "958b561d3ed3a0b5": {
+            "hash": "958b561d3ed3a0b5",
+            "directory": "External18",
+            "voiceContent": "I wasn't cut out... for this...",
+            "sourceName": "vo_chiori_life_die_01.wem"
+        },
+        "126df813d783cd52": {
+            "hash": "126df813d783cd52",
+            "directory": "External2",
+            "voiceContent": "I'll never... accept defeat...",
+            "sourceName": "vo_chiori_life_die_02.wem"
+        },
+        "c4b42545750e6042": {
+            "hash": "c4b42545750e6042",
+            "directory": "External24",
+            "voiceContent": "Welcome to Chioriya Boutique.",
+            "sourceName": "vo_chiori_teamJoin_01.wem"
+        },
+        "1f26434da3d0f765": {
+            "hash": "1f26434da3d0f765",
+            "directory": "External3",
+            "voiceContent": "Let me guess... Need something tailor-made?",
+            "sourceName": "vo_chiori_teamJoin_02.wem"
+        },
+        "71208954ab90fa94": {
+            "hash": "71208954ab90fa94",
+            "directory": "External14",
+            "voiceContent": "Let's get out and find some inspiration.",
+            "sourceName": "vo_chiori_teamJoin_03.wem"
+        },
+        "849566bf26d832e6": {
+            "hash": "849566bf26d832e6",
+            "directory": "External16",
+            "voiceContent": "It's up to me to decide who I want to be and to cut my own path. No one can tell me what to do.",
+            "sourceName": "vo_chiori_character_idle_01.wem"
+        },
+        "f4d994c7f3247849": {
+            "hash": "f4d994c7f3247849",
+            "directory": "External30",
+            "voiceContent": "Who says you have to use scissors to cut clothes? Leave those rigid rules behind. I much prefer using my own cutting tools.",
+            "sourceName": "vo_chiori_character_idle_02.wem"
+        },
+        "4709facefb124188": {
+            "hash": "4709facefb124188",
+            "directory": "External8",
+            "voiceContent": "If you really like standing around like this, then why don't you just model for me? I'll design some wonderful clothes for you.",
+            "sourceName": "vo_chiori_character_idle_03.wem"
+        },
+        "1fb4bd2b38f28f00": {
+            "hash": "1fb4bd2b38f28f00",
+            "directory": "External3",
+            "voiceContent": "It's not so much the rain that bothers me, but the mud. It's always such a pain to wash it out of my clothes.",
+            "sourceName": "vo_chiori_weather_heavyRain_01.wem"
+        },
+        "a95f8df480461b63": {
+            "hash": "a95f8df480461b63",
+            "directory": "External21",
+            "voiceContent": "...This reminds me of home.",
+            "sourceName": "vo_chiori_weather_thunder_01.wem"
+        },
+        "80b6037554c118c7": {
+            "hash": "80b6037554c118c7",
+            "directory": "External16",
+            "voiceContent": "The way it comes floating from on high makes you want to reach out for it... But the moment it lands on your hand, its beauty dissipates... Hmm, I suppose there are more similarities between snowflakes and fashion than I thought...",
+            "sourceName": "vo_chiori_weather_snowy_01.wem"
+        },
+        "c7c5f57574b1f41c": {
+            "hash": "c7c5f57574b1f41c",
+            "directory": "External24",
+            "voiceContent": "Hmm, just how can I market high fashion here...",
+            "sourceName": "vo_chiori_weather_desert_01.wem"
+        },
+        "dce75ae6cd09132a": {
+            "hash": "dce75ae6cd09132a",
+            "directory": "External27",
+            "voiceContent": "Morning. Don't expect me to make breakfast for you. But if you're going to the café, be a darling and bring me a cup of coffee. Black. No cream, no sugar.",
+            "sourceName": "vo_chiori_dialog_greetingMorning.wem"
+        },
+        "365ab64ef0281906": {
+            "hash": "365ab64ef0281906",
+            "directory": "External6",
+            "voiceContent": "Is it lunch time already? I'm not even hungry yet... I don't plan on taking a break now. You go ahead.",
+            "sourceName": "vo_chiori_dialog_greetingNoon.wem"
+        },
+        "dc8354488839c550": {
+            "hash": "dc8354488839c550",
+            "directory": "External27",
+            "voiceContent": "It's so noisy out there. Has everyone in the entire Court of Fontaine decided to go out this evening?",
+            "sourceName": "vo_chiori_dialog_greetingNight.wem"
+        },
+        "73f20528ec0c0750": {
+            "hash": "73f20528ec0c0750",
+            "directory": "External14",
+            "voiceContent": "I'm going to go relax by taking a nice, long bath. Well, I'll see you tomorrow.",
+            "sourceName": "vo_chiori_dialog_greetingNight2.wem"
+        },
+        "4977f3765dc696a7": {
+            "hash": "4977f3765dc696a7",
+            "directory": "External9",
+            "voiceContent": "Many have expressed displeasure both publicly and privately about my personality, and have complained that my words can be hurtful. But, if you ask me, all those showy pleasantries, greetings, and compliments are far more of a waste of everyone's time. If simply stating the facts seems hurtful, then perhaps they are too insecure.",
+            "sourceName": "vo_chiori_dialog_idle.wem"
+        },
+        "00531c84c1eae7c9": {
+            "hash": "00531c84c1eae7c9",
+            "directory": "External0",
+            "voiceContent": "When I first started conceptualizing the idea of my brand, I reflected on many of my past experiences, and came up with a lot of phrases for the brand's slogan. It's difficult to pick only one phrase for the brand, especially when you realize that every word reflects on a deeply treasured part of yourself... but you can only choose that which best represents you.Never admit defeat. That's me. That's my brand.",
+            "sourceName": "vo_chiori_dialog_idle2.wem"
+        },
+        "3c146145ebc80070": {
+            "hash": "3c146145ebc80070",
+            "directory": "External7",
+            "voiceContent": "I know you probably already know this, but I always just say what's on my mind. Maybe you've already grown accustomed to it, but that's just how I express myself, and I'm not going to change. You should also always act like yourself around me — there's no need to hide anything. I promise I'll never criticize you for who you are. Hmm? Don't believe me? After all this time together, have you ever seen me not keep my word?",
+            "sourceName": "vo_chiori_dialog_close1.wem"
+        },
+        "fbafd9f2084dfdfd": {
+            "hash": "fbafd9f2084dfdfd",
+            "directory": "External31",
+            "voiceContent": "Take it from me — this one looks good on you. Hmm? You've never seen a style like this before? Aw, that's because you've never met a designer with taste before.",
+            "sourceName": "vo_chiori_dialog_close.wem"
+        },
+        "1ea4cf30f1b7d718": {
+            "hash": "1ea4cf30f1b7d718",
+            "directory": "External3",
+            "voiceContent": "When I was a kid, my parents would send me to a variety of activities to help expend my energy. One such activity was learning the art of the sword. But after some time, I suddenly felt that a dual wielding technique was really strong and impressive. It wasn't long before the instructor approached me and told me to stop practicing using that technique. When I asked him why, all he said was that it wasn't the standard sword technique, and that it was improper. After that, I never attended his class again. Now that I think about it, it's fortunate that I insisted on following the way I preferred. Perhaps I'm just the sort who needs to keep both my hands busy.",
+            "sourceName": "vo_chiori_dialog_share_01.wem"
+        },
+        "df122db945f53eba": {
+            "hash": "df122db945f53eba",
+            "directory": "External27",
+            "voiceContent": "Tamoto is my first masterpiece. At the time, I was just thinking to stitch together a puppet girl who looked like me to be my model and assistant. Huh? What about a companion? No, I have no need for that.",
+            "sourceName": "vo_chiori_pref_gift_01.wem"
+        },
+        "0ab469804f12b54c": {
+            "hash": "0ab469804f12b54c",
+            "directory": "External1",
+            "voiceContent": "She used to beg me to help her design all kinds of strange things. For example, little crowns for every handle on a ship's helm... I couldn't help but roll my eyes at her request, and tell her that the most I would do is design her hat like a boat.Those who say I'm ahead of my time have clearly never spoken to her.",
+            "sourceName": "vo_chiori_teammate_navia_01.wem"
+        },
+        "4a20a712a1e800a6": {
+            "hash": "4a20a712a1e800a6",
+            "directory": "External9",
+            "voiceContent": "I can't make a hat that could hide secrets, but it seems Lyney can enchant his hat to do just that... I'm a little curious about how it feels to wear a hat full of so many tricks and secrets like his. As for me, I don't need the burden of all that, it's easiest to just say what's on my mind.",
+            "sourceName": "vo_chiori_teammate_lyney_01.wem"
+        },
+        "8d6d93c71c5151ca": {
+            "hash": "8d6d93c71c5151ca",
+            "directory": "External17",
+            "voiceContent": "The magician's assistant sure doesn't say much, but I know she trusts me. You know, I sure get a lot of love from cats...",
+            "sourceName": "vo_chiori_teammate_lynette_01.wem"
+        },
+        "3ae829c6f9f1a626": {
+            "hash": "3ae829c6f9f1a626",
+            "directory": "External7",
+            "voiceContent": "Yes. Some of my friends and partners have mentioned him to me before. I admire his skills at management and diplomacy, but I certainly have no intention of changing my way of doing things.",
+            "sourceName": "vo_chiori_teammate_wriothesley_01.wem"
+        },
+        "e0685b7920d9e367": {
+            "hash": "e0685b7920d9e367",
+            "directory": "External28",
+            "voiceContent": "While I was still in Inazuma, there was a cat with green eyes that always liked to follow me whenever I went out into the wild in search of inspiration. The kitty seemed to be very interested in the colors and patterns of the fabric I was carrying. She would even come up and rub her head against my legs when she was in a good mood.Later, I recognized those green eyes again, but on a girl with two tails. The way she gazed at new and intriguing things still had not changed after so many years.",
+            "sourceName": "vo_chiori_teammate_kirara_01.wem"
+        },
+        "a40188e0054589d6": {
+            "hash": "a40188e0054589d6",
+            "directory": "External20",
+            "voiceContent": "If I wasn't always slipping away to go play when I was a child, I probably would never have had the chance to meet the young lady of the Kamisato Clan. There was one time when I climbed my way into the Kamisato Clan's courtyard, and her Temari just happened to roll over towards the wall. I could tell that she was both surprised and happy to see me. We played together and chatted for quite some time, but I was discovered in the end. And so, our brief friendship came to an end as I was kicked off the premises.",
+            "sourceName": "vo_chiori_teammate_ayaka_01.wem"
+        },
+        "f531e8070e10415f": {
+            "hash": "f531e8070e10415f",
+            "directory": "External30",
+            "voiceContent": "One time, Charlotte came into the shop, hoping to do an interview with me. I told her there was no point, because there was nothing new to talk about. But just as she was leaving, a drunkard came stumbling into the shop and started causing trouble. She recorded the whole thing... What a fiasco. I've heard of journalists chasing leads, but now it seems news chases the journalists.",
+            "sourceName": "vo_chiori_teammate_charlotte_01.wem"
+        },
+        "14496fc70d990dff": {
+            "hash": "14496fc70d990dff",
+            "directory": "External2",
+            "voiceContent": "Working with Chevreuse and talking with her are a cinch. So easy, in fact, that whenever I say goodbye to her and return to tending to my customers again, it takes me a moment to shift gears mentally.",
+            "sourceName": "vo_chiori_teammate_chevreuse_01.wem"
+        },
+        "57478e50acf10806": {
+            "hash": "57478e50acf10806",
+            "directory": "External10",
+            "voiceContent": "Emilie's perfumes are very popular. We have a business agreement where I ask her to deliver small quantities of perfume she's working on to Chioriya Boutique. I let Eloffe secretly spray the perfume in the fitting room, and then I'll let her know any feedback I get from the customers. Even after all this time, I've never once had a customer ever say that my fitting room smelled strange. In fact, they usually come one after another to ask where they can buy the fragrance. Out of curiosity, I always buy a bottle when she brings them to sell in her shop. I have to say that such fragrances which can always bring a sense of refreshment are truly works of art.",
+            "sourceName": "vo_chiori_teammate_emilie_01.wem"
+        },
+        "80a3d662263f5a5a": {
+            "hash": "80a3d662263f5a5a",
+            "directory": "External16",
+            "voiceContent": "I don't think my temper is as bad as people make it out to be. I just don't like wasting my time on trivial matters, that's all. But for some reason, it's always those trivial things that come back to haunt me. So, over time, I've ended up with a bad reputation. I would say that's completely unjust!",
+            "sourceName": "vo_chiori_friendship_01.wem"
+        },
+        "daa7f46a54a36c5d": {
+            "hash": "daa7f46a54a36c5d",
+            "directory": "External27",
+            "voiceContent": "Ever since I was a kid, I've always had a problem with authority. There was a period when I hated the rules, and would always insist on going against the grain. Thanks to this headstrong character of mine, I've had to go through a lot of suffering. But eventually, I came to understand that rules aren't completely a bad thing. What I really can't stand is the feeling that I can't make decisions based on what I truly think.",
+            "sourceName": "vo_chiori_friendship_02.wem"
+        },
+        "6bc3da733306f78c": {
+            "hash": "6bc3da733306f78c",
+            "directory": "External13",
+            "voiceContent": "When I was little, I used to always look forward to the summer festival in my hometown. Every year, people would take out the most vibrant and beautiful clothes, and carefully put them on before joining the crowd...Every time the festival came around, there'd be all of these brightly colored spheres hanging from people's belts, goldfish that you couldn't scoop up from the bowl no matter how hard you tried, apple candy so sweet that even the children couldn't finish them all, and fireworks so beautiful that they could have only come from the Naganohara house... I always had a lot of fun at such festivals, but even then, I would always feel like something was missing when I went home at the end of the night. It was only after I got much older that I realized I must have wanted to become more than just a spectator at such a wonderful event....It's just like how people will always associate the house of Naganohara with fireworks. I hope that one day, people will also associate festivals with Chioriya clothes.Hehe, just thinking about the prospect of that gets me really fired up. Alright, time to go back to the shop and churn out a few more designs.",
+            "sourceName": "vo_chiori_friendship_03.wem"
+        },
+        "f211287c9d0c49b7": {
+            "hash": "f211287c9d0c49b7",
+            "directory": "External30",
+            "voiceContent": "Although I can get quite immersed in my work, I also enjoy living in the moment. When I have some free time, I would often pack some food and find a lovely place in nature to take a cozy midday nap, before returning home, relaxing some more, and then finally falling asleep to my favorite music. Oh, and other times, I like to go out for food with my friends, talk about everything that's happening in the world, and party until everyone's completely hammered. Honestly, it all just depends on what I feel like doing in the moment. Just as fashion only exists in the moment, I also love living in the moment. So, what do you think? Want to go out with me tonight and enjoy a whole night of fun?",
+            "sourceName": "vo_chiori_friendship_04.wem"
+        },
+        "7053c684e06c1eae": {
+            "hash": "7053c684e06c1eae",
+            "directory": "External14",
+            "voiceContent": "I love Inazuma's petite desserts, as well as all culinary dishes subtle and light. Similarly, I also like the feel of my homeland's fabrics, as well as the practice of taking a bath after a long working day. But on the flip side, I also adore the soft waves of Fontaine's seas, as well as the beautiful scenery underneath the waters.Sometimes, I wonder if everything is in fact predestined, and if I'm still living in the shadow of my past. But then, another question always follows — would the answer to that really change anything? In any case, I'm still me, living in my present. Even if I'm only the way I am due to what has happened in my past, my future is still in my own hands, and no one in this world can really change that.",
+            "sourceName": "vo_chiori_friendship_05.wem"
+        },
+        "ffd5eca527a29b96": {
+            "hash": "ffd5eca527a29b96",
+            "directory": "External31",
+            "voiceContent": "I'm pursuing my dream through my work, and exploring the meaning of freedom through my art. What's the point of spending years and years of your life over something that's not near and dear to your heart?",
+            "sourceName": "vo_chiori_pref_hobby.wem"
+        },
+        "a371de922849a449": {
+            "hash": "a371de922849a449",
+            "directory": "External20",
+            "voiceContent": "I can never forget the Inazuman desserts I used to indulge in as a child. But rather than the joy of tasting them, I've always been more interested in the process of making them. Had I been less drawn to the fascinating world of fabrics and color, the world would have gained another dessert chef.",
+            "sourceName": "vo_chiori_pref_foodLike.wem"
+        },
+        "fe09ca944af18a6b": {
+            "hash": "fe09ca944af18a6b",
+            "directory": "External31",
+            "voiceContent": "I can't handle food with particularly strong flavors, like Haggis, for example. The experience of eating it is kind of like... suddenly getting hit with a faceful of Geo Specter out of nowhere. Does that make sense to you?",
+            "sourceName": "vo_chiori_pref_foodDislike.wem"
+        },
+        "c4124355836b3a26": {
+            "hash": "c4124355836b3a26",
+            "directory": "External24",
+            "voiceContent": "Mm, I do love this dish. Why don't you bring me some more next time. Don't worry, I'll also bring a gift for you in return.",
+            "sourceName": "vo_chiori_spice_pref_01.wem"
+        },
+        "8e8195af2f3128ac": {
+            "hash": "8e8195af2f3128ac",
+            "directory": "External17",
+            "voiceContent": "Not bad. I think this would be most enjoyable after a hard day's work in the shop.",
+            "sourceName": "vo_chiori_spice_normal_01.wem"
+        },
+        "4aa690a584a3bf00": {
+            "hash": "4aa690a584a3bf00",
+            "directory": "External9",
+            "voiceContent": "Ugh, I'm not fond of this flavor. Bring me something lighter on the palette next time.",
+            "sourceName": "vo_chiori_spice_dislike_01.wem"
+        },
+        "70cbb2f10e6187b5": {
+            "hash": "70cbb2f10e6187b5",
+            "directory": "External14",
+            "voiceContent": "Yeah, yeah... Happy birthday, or whatever. Just tell me if there's a gift you like — I can't be bothered to try and guess what you want. Hm? Too direct? Alright then, why don't you grab Navia, Kirara, and the others, and maybe a few of your friends as well. We can have a party tonight at my place. I'll take some notes on the gifts that the others have prepared for you, and make you an accessory right then and there. Ten thousand mora that you'd like it. Haha, call it the confidence of the owner of Chioriya Boutique.",
+            "sourceName": "vo_chiori_pref_birthday_01.wem"
+        },
+        "2d18e820d1f30c45": {
+            "hash": "2d18e820d1f30c45",
+            "directory": "External5",
+            "voiceContent": "...No good. Still feels too ordinary.",
+            "sourceName": "vo_chiori_starUp_01.wem"
+        },
+        "d2a7ca18a3322822": {
+            "hash": "d2a7ca18a3322822",
+            "directory": "External26",
+            "voiceContent": "...Not bad, but it's still lacking the wow factor that makes it really stand out.",
+            "sourceName": "vo_chiori_starUp_02.wem"
+        },
+        "80ad3c119b71aa6b": {
+            "hash": "80ad3c119b71aa6b",
+            "directory": "External16",
+            "voiceContent": "Oho... That's more like it. I think I've got it.",
+            "sourceName": "vo_chiori_starUp_03.wem"
+        },
+        "6ec42e4a93e1a2b8": {
+            "hash": "6ec42e4a93e1a2b8",
+            "directory": "External13",
+            "voiceContent": "Of course, as a master of my craft, my hands will never shake while cutting fabric, but I'll admit, the excitement and anticipation has my heart really beating right now. Thank you for staying with me the whole time I worked on this piece. It is extremely important to me. I now have far more confidence in myself as I embark on the next step of my journey.",
+            "sourceName": "vo_chiori_starUp_04.wem"
+        },
+        "bd2ea80d68dfd689": {
+            "hash": "bd2ea80d68dfd689",
+            "directory": "External23",
+            "voiceContent": "My clothes are ruined...",
+            "sourceName": "vo_chiori_life_less30_01.wem"
+        },
+        "4cea7a049c939126": {
+            "hash": "4cea7a049c939126",
+            "directory": "External9",
+            "voiceContent": "Are you done?",
+            "sourceName": "vo_chiori_life_less30_02.wem"
+        },
+        "cea7dbfc5933bc0f": {
+            "hash": "cea7dbfc5933bc0f",
+            "directory": "External25",
+            "voiceContent": "Time to teach you a lesson.",
+            "sourceName": "vo_chiori_life_less30_03.wem"
+        },
+        "94616a0b9451a29b": {
+            "hash": "94616a0b9451a29b",
+            "directory": "External18",
+            "voiceContent": "But what about... my brand...",
+            "sourceName": "vo_chiori_life_die_03.wem"
+        },
+        "7453fc3d2c7c90ad": {
+            "hash": "7453fc3d2c7c90ad",
+            "directory": "External14",
+            "voiceContent": "How tacky...",
+            "sourceName": "vo_chiori_battle_hit_H_01.wem"
+        },
+        "42fa5e3636a4752a": {
+            "hash": "42fa5e3636a4752a",
+            "directory": "External8",
+            "voiceContent": "You've picked the wrong fight.",
+            "sourceName": "vo_chiori_battle_hit_H_02.wem"
+        },
+        "e1a189f2ef9414c6": {
+            "hash": "e1a189f2ef9414c6",
+            "directory": "External28",
+            "voiceContent": "Is that all?",
+            "sourceName": "vo_chiori_battle_hit_L_02.wem"
+        },
+        "a7632f01c5a5b359": {
+            "hash": "a7632f01c5a5b359",
+            "directory": "External20",
+            "voiceContent": "Sometimes, I worry that I haven't made as much progress as I'd hoped, and thus, it'd be hard to know when I would actually realize my dream of making Chioriya renowned throughout the world. Still, that's no reason to question or abandon the dream. Rather than worrying or doubting myself, my time would be better spent creating a few more designs.",
+            "sourceName": "vo_chiori_dialog_annoyed_01.wem"
+        },
+        "be0403b20126a91c": {
+            "hash": "be0403b20126a91c",
+            "directory": "External23",
+            "voiceContent": "I am Chiori, the owner of Chioriya Boutique. Feel free to find me if you'd like to commission any tailor-made outfits. As for any other requests, it all depends on whether you have enough to offer in exchange. Just the rules of the business — you scratch my back, and I'll scratch yours. Also, smoking, drinking, and causing a ruckus are all strictly prohibited within the Boutique. That whole the customer is king concept doesn't fly here... And even when royalty does come into the shop, if they don't adhere to the rules, they'll find themselves being tossed out and kissing the pavement just like anyone else.",
+            "sourceName": "vo_chiori_draw_appear_01.wem"
+        },
+        "1a3a163cbc548675": {
+            "hash": "1a3a163cbc548675",
+            "directory": "External3",
+            "voiceContent": "Because I was born in Inazuma, the people of Fontaine have dubbed me The Thundering Seamstress. If that's what they want to call me, then that's what they can call me. I have no lingering affection for my homeland. After all, everything, including my Vision, only came to me after I decided to leave Inazuma.Oh, but that's not to say that I actively dislike those islands where fabric never fully dries. It's just that I haven't found any reason to go back.",
+            "sourceName": "vo_chiori_dialog_pendant_01.wem"
+        },
+        "5d7786d921d60406": {
+            "hash": "5d7786d921d60406",
+            "directory": "External11",
+            "voiceContent": "Oh? So you do know a trick or two.",
+            "sourceName": "vo_card_chiori_inGame_easy_02.wem"
+        },
+        "b10b1ac9eb535c64": {
+            "hash": "b10b1ac9eb535c64",
+            "directory": "External22",
+            "voiceContent": "I'm feeling inspired.",
+            "sourceName": "vo_card_chiori_inGame_easy_04.wem"
+        },
+        "7eefa7e2a5f29814": {
+            "hash": "7eefa7e2a5f29814",
+            "directory": "External15",
+            "voiceContent": "It's not over yet. I'm still in this.",
+            "sourceName": "vo_card_chiori_inGame_hard_03.wem"
+        },
+        "2cf561db9e3294e5": {
+            "hash": "2cf561db9e3294e5",
+            "directory": "External5",
+            "voiceContent": "Need to focus...",
+            "sourceName": "vo_card_chiori_inGame_hard_02.wem"
+        },
+        "d92ab5ead485d1df": {
+            "hash": "d92ab5ead485d1df",
+            "directory": "External27",
+            "voiceContent": "Let's button things up.",
+            "sourceName": "vo_card_chiori_inGame_hard_04.wem"
+        },
+        "d28343d36f6ffdc2": {
+            "hash": "d28343d36f6ffdc2",
+            "directory": "External26",
+            "voiceContent": "Distracted much?",
+            "sourceName": "vo_card_chiori_inGame_hard_01.wem"
+        },
+        "df34e8d0de762fef": {
+            "hash": "df34e8d0de762fef",
+            "directory": "External27",
+            "voiceContent": "...What a mess.",
+            "sourceName": "vo_card_chiori_inGame_easy_03.wem"
+        },
+        "cdbbb4e1ee224a69": {
+            "hash": "cdbbb4e1ee224a69",
+            "directory": "External25",
+            "voiceContent": "Time to rethink tactics, perhaps?",
+            "sourceName": "vo_card_chiori_inGame_easy_01.wem"
+        }
+    }
+}

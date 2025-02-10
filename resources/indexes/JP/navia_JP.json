@@ -1,0 +1,517 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "6c5cc5e635e62fab": {
+            "hash": "6c5cc5e635e62fab",
+            "directory": "External13",
+            "voiceContent": "あっ！見つけたよ！",
+            "sourceName": "vo_CLLQ003_11_navia_01.wem"
+        },
+        "16cf61aeca3d91f6": {
+            "hash": "16cf61aeca3d91f6",
+            "directory": "External2",
+            "voiceContent": "この…！待ちなさい！",
+            "sourceName": "vo_NVLQ002_3_navia_01.wem"
+        },
+        "f39927cbfa9e347a": {
+            "hash": "f39927cbfa9e347a",
+            "directory": "External30",
+            "voiceContent": "待って…橋の様子が…！走って！",
+            "sourceName": "vo_FDAQ302_2_navia_07.wem"
+        }
+    },
+    "Gameplay": {
+        "1796dd94a0bef63b": {
+            "hash": "1796dd94a0bef63b",
+            "directory": "External2",
+            "voiceContent": "気を付けなさい～！",
+            "sourceName": "vo_navia_battle_skill1_01.wem"
+        },
+        "420f0fac1a727544": {
+            "hash": "420f0fac1a727544",
+            "directory": "External8",
+            "voiceContent": "堂々不意打ち！",
+            "sourceName": "vo_navia_battle_skill1_02.wem"
+        },
+        "c40349a3d7419ed5": {
+            "hash": "c40349a3d7419ed5",
+            "directory": "External24",
+            "voiceContent": "やっほー！",
+            "sourceName": "vo_navia_battle_skill1_03.wem"
+        },
+        "4338fbbdc4f47366": {
+            "hash": "4338fbbdc4f47366",
+            "directory": "External8",
+            "voiceContent": "避けられる？",
+            "sourceName": "vo_navia_battle_skill1_04.wem"
+        },
+        "c4f65db581949e4f": {
+            "hash": "c4f65db581949e4f",
+            "directory": "External24",
+            "voiceContent": "あと何発でしょー？",
+            "sourceName": "vo_navia_battle_skill1_05.wem"
+        },
+        "05ad8fcd992e8208": {
+            "hash": "05ad8fcd992e8208",
+            "directory": "External0",
+            "voiceContent": "これって…「傘弾銃」？",
+            "sourceName": "vo_navia_battle_skill1_06.wem"
+        },
+        "015bf471d73b0679": {
+            "hash": "015bf471d73b0679",
+            "directory": "External0",
+            "voiceContent": "ファイアー！ま、岩元素なんだけどね。",
+            "sourceName": "vo_navia_battle_skill3_01.wem"
+        },
+        "9117c6690aeec016": {
+            "hash": "9117c6690aeec016",
+            "directory": "External18",
+            "voiceContent": "ローズクラッカー！「棘薔薇の会」特注版よ。",
+            "sourceName": "vo_navia_battle_skill3_02.wem"
+        },
+        "3ee72862030097ff": {
+            "hash": "3ee72862030097ff",
+            "directory": "External7",
+            "voiceContent": "撃ち続けて～！うんうん、イイ感じ！",
+            "sourceName": "vo_navia_battle_skill3_03.wem"
+        },
+        "edee12e9d46a47b0": {
+            "hash": "edee12e9d46a47b0",
+            "directory": "External29",
+            "voiceContent": "わーお！ラッキー！",
+            "sourceName": "vo_navia_chest_open_01.wem"
+        },
+        "6e8180cfe6886717": {
+            "hash": "6e8180cfe6886717",
+            "directory": "External13",
+            "voiceContent": "さ、早くしまって！",
+            "sourceName": "vo_navia_chest_open_02.wem"
+        },
+        "ecc41ed829e83c0e": {
+            "hash": "ecc41ed829e83c0e",
+            "directory": "External29",
+            "voiceContent": "お宝探し、大成功～！",
+            "sourceName": "vo_navia_chest_open_03.wem"
+        },
+        "ebf25d6ab55ae398": {
+            "hash": "ebf25d6ab55ae398",
+            "directory": "External29",
+            "voiceContent": "会長に任せなさい！",
+            "sourceName": "vo_navia_life_less30_teammate_01.wem"
+        },
+        "567d6b5029c13d1f": {
+            "hash": "567d6b5029c13d1f",
+            "directory": "External10",
+            "voiceContent": "援軍のお出ましよ！",
+            "sourceName": "vo_navia_life_less30_teammate_02.wem"
+        },
+        "01b60823d7c0819d": {
+            "hash": "01b60823d7c0819d",
+            "directory": "External0",
+            "voiceContent": "家に…帰ったって思えば…",
+            "sourceName": "vo_navia_life_die_01.wem"
+        },
+        "a44aea1ba677939a": {
+            "hash": "a44aea1ba677939a",
+            "directory": "External20",
+            "voiceContent": "あたしのせい、なのかな…",
+            "sourceName": "vo_navia_life_die_02.wem"
+        },
+        "547662fece9a16b9": {
+            "hash": "547662fece9a16b9",
+            "directory": "External10",
+            "voiceContent": "思い立ったが吉日。",
+            "sourceName": "vo_navia_teamJoin_01.wem"
+        },
+        "e43234f6024dd156": {
+            "hash": "e43234f6024dd156",
+            "directory": "External28",
+            "voiceContent": "棘薔薇の会の出番よ！",
+            "sourceName": "vo_navia_teamJoin_02.wem"
+        },
+        "920196eefa5fa83f": {
+            "hash": "920196eefa5fa83f",
+            "directory": "External18",
+            "voiceContent": "今日はあたしが案内してあげる！",
+            "sourceName": "vo_navia_teamJoin_03.wem"
+        },
+        "9d4c01083d8a90ca": {
+            "hash": "9d4c01083d8a90ca",
+            "directory": "External19",
+            "voiceContent": "あ～、旅行に行きたい——！どこに行くかなんてどうでもよくて、ただ友達と遊びたいだけなんだけどね、えへへ。",
+            "sourceName": "vo_navia_character_idle_01.wem"
+        },
+        "23631f11a76201cd": {
+            "hash": "23631f11a76201cd",
+            "directory": "External4",
+            "voiceContent": "長年ギャングをやって来た経験から言わせてもらうと——使い慣れない武器を手元に置いとくのって、丸腰でいるより遥かに危険なの。",
+            "sourceName": "vo_navia_character_idle_02.wem"
+        },
+        "b47f051a85c58d3c": {
+            "hash": "b47f051a85c58d3c",
+            "directory": "External22",
+            "voiceContent": "棘薔薇の会のロゴマークはママがデザインしたんだよ。あたし、すごく気に入ってるの。ほら、まるで心臓みたいな形でしょ。",
+            "sourceName": "vo_navia_character_idle_03.wem"
+        },
+        "d8c8e1faeee19e0c": {
+            "hash": "d8c8e1faeee19e0c",
+            "directory": "External27",
+            "voiceContent": "あ～あ…また雨か…",
+            "sourceName": "vo_navia_weather_heavyRain_01.wem"
+        },
+        "f59f468f508803ef": {
+            "hash": "f59f468f508803ef",
+            "directory": "External30",
+            "voiceContent": "ひゃっ…！さっき光るのが見えた瞬間、耳をふさげばよかった…！",
+            "sourceName": "vo_navia_weather_thunder_01.wem"
+        },
+        "e17bb058e843b8c9": {
+            "hash": "e17bb058e843b8c9",
+            "directory": "External28",
+            "voiceContent": "やった！雨が止んだ！",
+            "sourceName": "vo_navia_weather_afterRain_01.wem"
+        },
+        "e9df117de5431033": {
+            "hash": "e9df117de5431033",
+            "directory": "External29",
+            "voiceContent": "帽子を外して、雪が頬に落ちてくる感触を感じたほうがいいかも？きっとさっぱりするでしょ。",
+            "sourceName": "vo_navia_weather_snowy_01.wem"
+        },
+        "d2affc84d598b7ae": {
+            "hash": "d2affc84d598b7ae",
+            "directory": "External26",
+            "voiceContent": "ねえねえほらほら！見て！上！空のお日様が、炎みたいに明るいでしょ！これが何を意味してるか分かる？そう…今すぐ一緒に一番大きいサイズのウルトラアイスクリームを買ってきて、どっちが溶ける前に食べ切れるか勝負するの！",
+            "sourceName": "vo_navia_weather_sunny_01.wem"
+        },
+        "1b0650df89533e1e": {
+            "hash": "1b0650df89533e1e",
+            "directory": "External3",
+            "voiceContent": "おっはよー！今日の予定は決まった？まだなら、あたしと一緒にいない？",
+            "sourceName": "vo_navia_dialog_greetingMorning.wem"
+        },
+        "13ab2a511f79a6fa": {
+            "hash": "13ab2a511f79a6fa",
+            "directory": "External2",
+            "voiceContent": "最近、新しい味のラザニアが売れてるみたいだけど、あんたは興味ある？まずいんじゃないかなって気もするけど、やっぱり試してみたくって！",
+            "sourceName": "vo_navia_dialog_greetingNoon.wem"
+        },
+        "c9fe3c9abaa15324": {
+            "hash": "c9fe3c9abaa15324",
+            "directory": "External25",
+            "voiceContent": "夜のニュースをお伝えいたします。本日も、「棘薔薇の会」会長は相棒と最高の一日を過ごしました。——やったね！",
+            "sourceName": "vo_navia_dialog_greetingNight.wem"
+        },
+        "91486c931d37b46c": {
+            "hash": "91486c931d37b46c",
+            "directory": "External18",
+            "voiceContent": "よし、じゃあ頭を空っぽにして…よく眠れますように！また明日ね～",
+            "sourceName": "vo_navia_dialog_greetingNight2.wem"
+        },
+        "be22692e626575e3": {
+            "hash": "be22692e626575e3",
+            "directory": "External23",
+            "voiceContent": "盲目的な楽観はダメよ。幸せな人生は、自分の手で勝ち取るの！だからほら、あたしの両手を握って。そうそう、んで、左右に揺らしてみて——どう？楽しいでしょ？",
+            "sourceName": "vo_navia_dialog_idle.wem"
+        },
+        "1c71807924ba8bfd": {
+            "hash": "1c71807924ba8bfd",
+            "directory": "External3",
+            "voiceContent": "過去を知ってる人からしたら、あたしって運が悪いって思われちゃうかもね。でも、あたしはそうは思ってないよ。だって、あれほど沢山の愛をもらえたんだもん。それって人生で一番幸せなことに違いないよ。",
+            "sourceName": "vo_navia_dialog_idle2.wem"
+        },
+        "667412ceb034a14c": {
+            "hash": "667412ceb034a14c",
+            "directory": "External12",
+            "voiceContent": "秘密は口に出してしまえば秘密じゃなくなるって言う人もいるけど、友達とシェアできる秘密のほうがもっと貴重だと思わない？…いやいや、別に脅かしてるわけじゃないってば！棘薔薇の会の会長として、人に秘密を守ってもらう方法ならいっぱい知ってるけど…あんたに使ったりしないから安心して。",
+            "sourceName": "vo_navia_dialog_close1.wem"
+        },
+        "aa24e3cc3ef25a41": {
+            "hash": "aa24e3cc3ef25a41",
+            "directory": "External21",
+            "voiceContent": "ボスって呼ばれることもあれば、お嬢様って呼ばれることもある。あたしはどっちでも気にしないけどね。でも、一番嬉しいのはやっぱり、あんたが「相棒」って呼んでくれることよ。だからもっともっと呼んで、あたしの虚栄心を満たしてね？",
+            "sourceName": "vo_navia_dialog_close.wem"
+        },
+        "59c1f6daef6c2b39": {
+            "hash": "59c1f6daef6c2b39",
+            "directory": "External11",
+            "voiceContent": "ほら、これがあたしの神の目！キラキラしてて、この服にもぴったりでしょ？でも、やっぱあんたのすごさには適わないわね。あんたって、神の目なしでも色んな元素力が使えるでしょ。あれって練習でどうにかなるもんじゃないよね？",
+            "sourceName": "vo_navia_dialog_pendant_01.wem"
+        },
+        "1da4259ea279adfc": {
+            "hash": "1da4259ea279adfc",
+            "directory": "External3",
+            "voiceContent": "全部の犬種の中だったら…あたしは栃栗ハウンドが一番好きかな。ほら、目の上にある模様が、眉毛に見えるでしょ？いつも大人しくて真面目そうな顔だなあって思うんだよね。あ、でもこれについては内緒よ。他のワンちゃんには絶対に教えないでね！",
+            "sourceName": "vo_navia_dialog_share_01.wem"
+        },
+        "d0089b3cc04218d6": {
+            "hash": "d0089b3cc04218d6",
+            "directory": "External26",
+            "voiceContent": "プリュイロータスって色が綺麗だよね。しかもあの花が咲くのは、長い雨季がやっと終わったってサインなの。",
+            "sourceName": "vo_navia_pref_gift_01.wem"
+        },
+        "37de12adcb3ab6f5": {
+            "hash": "37de12adcb3ab6f5",
+            "directory": "External6",
+            "voiceContent": "普段は無口で、表情も少ないけど、喜怒哀楽くらいは分かるのよ。前は、パパのこともあったし、その…わだかまりがちょっとあって。でもあの頃は、あのやけに気を遣ってる接し方が気に入らなかったんだよね…やっぱり、今のほうがいいと思う。",
+            "sourceName": "vo_navia_teammate_clorinde_01.wem"
+        },
+        "4dc879c19734b393": {
+            "hash": "4dc879c19734b393",
+            "directory": "External9",
+            "voiceContent": "ニュースを追いかけてるときの熱意とスピード感よりも感心しちゃうのが、シャルロットの撮影スキルよ。この前、他の用事のついでにポートレートを撮ってもらったんだけど、光の写り具合がまるで丹念に描かれた油絵みたいでね。思いがけない記事を書けるだけじゃなくて、パッと目を惹く最高の写真まで撮れるなんて、まさに記者をやるために生まれてきたって感じ。",
+            "sourceName": "vo_navia_teammate_charlotte_01.wem"
+        },
+        "f34169c6c599d2f1": {
+            "hash": "f34169c6c599d2f1",
+            "directory": "External30",
+            "voiceContent": "彼女はフォンテーヌのファッション界に異国の風をもたらしたファッションデザイナーなんだけど、裏で棘薔薇の会のこともかなり助けてくれたの。あたしの斬新な発想にかなりのインスピレーションをもらった、って言ってくれたこともあるんだから。あたしの彼女への理解からすると、あれはお世辞なんかじゃなかったはず。でも、十メートルもあるシルクハットを作ってって頼んだときは、きっぱり断られちゃったんだよね。はぁ…お店の前に飾ったらすごく目立つ宣伝になると思ったのに！",
+            "sourceName": "vo_navia_teammate_chiori_01.wem"
+        },
+        "698f209aa47f87f1": {
+            "hash": "698f209aa47f87f1",
+            "directory": "External13",
+            "voiceContent": "彼女は威厳ある優しいリーダーよ。「一家の主」って風格を感じるよね。でも、ファデュイの執行官まで上り詰めた人なわけだから、きっとそれなりに非情な一面もあると思う…だから安心して。ポワソン町を助けてくれたご恩は永遠に胸に刻んでおくけど、他の場面ではちゃんと用心しておくつもり。",
+            "sourceName": "vo_navia_teammate_arlecchino_01.wem"
+        },
+        "79314d37ecab44fa": {
+            "hash": "79314d37ecab44fa",
+            "directory": "External15",
+            "voiceContent": "大魔術師の言葉遣いがちょっと大げさだってのは知ってるよ。でも、周りの親友たちに対して、リネが真摯な気持ちで接してるってことも分かるんだ。たまに、あの年齢に似合わないくらい強い責任感が表情から垣間見えるしね…あっ、そうだ。この前、リネが無料でポワソン町の子供たちにマジックを見せてくれたの！今度機会があったら、マカロンを食べに来てってリネとリネットを誘ってみよっと。リネットってよくマジックでカップを出してお茶を飲んでるし、デザートだって嫌いなはずないよね？",
+            "sourceName": "vo_navia_teammate_lyney_01.wem"
+        },
+        "7f2af33b49260c92": {
+            "hash": "7f2af33b49260c92",
+            "directory": "External15",
+            "voiceContent": "子供の頃、一度だけフリーナ様が出演したチャリティー公演の歌劇を観る機会に恵まれたの。ほんとに人気で、当時はチケットを手に入れるのがすごく大変だったのよ！あの時、他の人物を演じてるはずなのに、彼女の振る舞いはかえって、いつもの高いところからの演説よりも自然な感じがした…今思えば、あれは錯覚なんかじゃなかったのね。",
+            "sourceName": "vo_navia_teammate_furina_01.wem"
+        },
+        "3241851a76e802bc": {
+            "hash": "3241851a76e802bc",
+            "directory": "External6",
+            "voiceContent": "ヌヴィレットさんね。複雑だけど簡単。何ていうか…海にある岩礁みたいに、一見通りにくい道なんだけど、パターンさえ把握できたら、まったく観測できないわけでもないって感じかな。",
+            "sourceName": "vo_navia_teammate_neuvillette_01.wem"
+        },
+        "5585f44fe7e510f2": {
+            "hash": "5585f44fe7e510f2",
+            "directory": "External10",
+            "voiceContent": "あの人とまともに会話しようと思ったら、かなり大変よ。クロリンデが言うには、何らかの契約を結んでる前提なら安心して一緒に仕事してもいいけど、あの人の言葉は絶対に一言も信じちゃいけないんだって。確かに考えてみたら、パパも水の下のことには一度も関与しなかったもんね。念のため、やっぱ今まで通りで行きましょ。",
+            "sourceName": "vo_navia_teammate_wriothesley_01.wem"
+        },
+        "af99a2a5f94ce3be": {
+            "hash": "af99a2a5f94ce3be",
+            "directory": "External21",
+            "voiceContent": "棘薔薇の会の仕事？まあ、「何でもござれ」ってとこかな。でもどれも、みんなの面倒事を色々と解決するためにやってることなの。あっ、「面倒事」っていうのはトラブルそのものを指したんであって、解決が面倒だなんて思ってないからね。むしろ、みんなの力になれるのって気分爽快よ。",
+            "sourceName": "vo_navia_friendship_01.wem"
+        },
+        "09d4b0ae27e01d61": {
+            "hash": "09d4b0ae27e01d61",
+            "directory": "External1",
+            "voiceContent": "人間、やっぱロマンを解する心がないとね。春の花、夏の海、それに友達の笑顔。どれも見逃せない景色なんだから。",
+            "sourceName": "vo_navia_friendship_02.wem"
+        },
+        "5c0556b52fce53e0": {
+            "hash": "5c0556b52fce53e0",
+            "directory": "External11",
+            "voiceContent": "時々、誰もいない野外に行って、並べた物をターゲットに射撃練習したりするの。すっごくストレス発散になるから、試してみない？手取り足取り教えてあげる。生徒一号ってことになるけど、あたし、いい先生になれる自信があるよ。だってパパとブラッカリおばあちゃんが教えてくれたこと、全部覚えてるもん！",
+            "sourceName": "vo_navia_friendship_03.wem"
+        },
+        "6d81647c370188b3": {
+            "hash": "6d81647c370188b3",
+            "directory": "External13",
+            "voiceContent": "あたしはパパみたいにはならないよ。棘薔薇の会に昔からいる幹部の中には、あたしがますますパパに似てきてるって思ってる人もいるみたいだけど、それって単なるちょっとした傾向だと思うんだよね。だって一部の問題を解決するには、限られた方法の中から選ぶしかないから。棘薔薇の会は、もう昔とは違う。だから会長だっておんなじなはずないのよ。",
+            "sourceName": "vo_navia_friendship_04.wem"
+        },
+        "e894328477ac15aa": {
+            "hash": "e894328477ac15aa",
+            "directory": "External29",
+            "voiceContent": "ママと同じような人になることもないと思う。性格が似てるってよく言われるし、ママが採った色んな選択の理由も大体思いつくけど、でもやっぱり…はぁ、急にクレメンタイン線に乗りたくなっちゃった。今から行こうよ、付き合ってくれる？別にこれといった目的はないよ。フォンテーヌ廷の街を一緒にぶらぶらしようっていうお誘い…ってことならいい？",
+            "sourceName": "vo_navia_friendship_05.wem"
+        },
+        "7ef8b420ae7b087a": {
+            "hash": "7ef8b420ae7b087a",
+            "directory": "External15",
+            "voiceContent": "小さい頃からお菓子作りが好きだったの。バラバラの食材を決まった割合で混ぜて焼くと、少しずつ膨らんで形を成して、香ばしくなる…すごく不思議でしょ？そうだ、機会があったら一緒にジンジャーブレッドを焼いてみない？どっちがより高さのある綺麗なヘクセンハウスを作れるか勝負しましょ！",
+            "sourceName": "vo_navia_pref_hobby.wem"
+        },
+        "d78292b3f19fec9d": {
+            "hash": "d78292b3f19fec9d",
+            "directory": "External26",
+            "voiceContent": "サプライズをくれる食べ物が好きよ。あっ、でも味覚は疑わないでね。ただ、その中に込められてる創造的なアイデアが気に入ってるだけ。まあ、そういう食べ物の大半が不味いって事実は変わらないけどね。",
+            "sourceName": "vo_navia_pref_foodLike.wem"
+        },
+        "81995ad678b92bbf": {
+            "hash": "81995ad678b92bbf",
+            "directory": "External16",
+            "voiceContent": "ずっと保存されてる食べ残しは苦手かな。何だか、新鮮な食材の一生を無駄にされた気分になるんだもん…",
+            "sourceName": "vo_navia_pref_foodDislike.wem"
+        },
+        "e2578d8aee2f482a": {
+            "hash": "e2578d8aee2f482a",
+            "directory": "External28",
+            "voiceContent": "すっごい腕ね！あんたと一緒にお出かけするなら、食材とか調理器具を運ぶ係に徹するべきなのはあたしのほうかも。",
+            "sourceName": "vo_navia_spice_pref_01.wem"
+        },
+        "12a8fdc8fe10b3f0": {
+            "hash": "12a8fdc8fe10b3f0",
+            "directory": "External2",
+            "voiceContent": "なかなか美味しいじゃない。あたしの芸術的盛り付けセンスが加わったら、もっと完璧になるはずよ。",
+            "sourceName": "vo_navia_spice_normal_01.wem"
+        },
+        "cab8d5e93790a0e4": {
+            "hash": "cab8d5e93790a0e4",
+            "directory": "External25",
+            "voiceContent": "気を落とさないで。世界にはこういう、大胆に創造する精神だって必要なんだから。",
+            "sourceName": "vo_navia_spice_dislike_01.wem"
+        },
+        "e6540c464e14d9a9": {
+            "hash": "e6540c464e14d9a9",
+            "directory": "External28",
+            "voiceContent": "願いの叶うおまじないって信じる？泉の中にモラを一枚投げて、好運が降りかかるのを待つってやつ。思うんだけどさ、あれって投げたモラの数さえ十分あれば、そのうちいくつかは実現できることなんじゃない？だから、そんなランダムなイベントに運を任せるより、一袋のモラであんたの今日の願いを叶えてあげようと思うの。このナヴィアの力が及ぶ範囲でなら、何でも叶えてあげる！",
+            "sourceName": "vo_navia_pref_birthday_01.wem"
+        },
+        "bfa1114fd6b3cb49": {
+            "hash": "bfa1114fd6b3cb49",
+            "directory": "External23",
+            "voiceContent": "この気分…まるでレモンチーズケーキみたい！",
+            "sourceName": "vo_navia_starUp_01.wem"
+        },
+        "4f5ce3470a6785e6": {
+            "hash": "4f5ce3470a6785e6",
+            "directory": "External9",
+            "voiceContent": "クリームが舌に溶けるのと一緒に、ストレスも消えてっちゃった。",
+            "sourceName": "vo_navia_starUp_02.wem"
+        },
+        "d11a453ec707b0cf": {
+            "hash": "d11a453ec707b0cf",
+            "directory": "External26",
+            "voiceContent": "弾丸の形をしたチョコレートキャンディがあるって知ってる？全身から力がみなぎってくる甘さなの！あたしの今の気分とおんなじ！",
+            "sourceName": "vo_navia_starUp_03.wem"
+        },
+        "4e32f7355fe587c4": {
+            "hash": "4e32f7355fe587c4",
+            "directory": "External9",
+            "voiceContent": "仕上げにほっとするミルクティーを用意できたら、あたしとあんただけのティータイムを過ごせるね。でも、これだけやってくれたのに、感謝の気持ちがお茶とデザートだけっていうのは、やっぱ不十分だと思う。今後フォンテーヌで何か助けが必要になったら、遠慮なく棘薔薇の会に来て！",
+            "sourceName": "vo_navia_starUp_04.wem"
+        },
+        "1aa24dca7c930da1": {
+            "hash": "1aa24dca7c930da1",
+            "directory": "External3",
+            "voiceContent": "も…もうちょっと踏ん張るから！",
+            "sourceName": "vo_navia_life_less30_01.wem"
+        },
+        "c0673fc24dffd4fe": {
+            "hash": "c0673fc24dffd4fe",
+            "directory": "External24",
+            "voiceContent": "…責任を果たさなくちゃ！",
+            "sourceName": "vo_navia_life_less30_02.wem"
+        },
+        "197961b8d212c287": {
+            "hash": "197961b8d212c287",
+            "directory": "External3",
+            "voiceContent": "集中集中！",
+            "sourceName": "vo_navia_life_less30_03.wem"
+        },
+        "51e39c149e5ab0e3": {
+            "hash": "51e39c149e5ab0e3",
+            "directory": "External10",
+            "voiceContent": "あたしの番…なのね…",
+            "sourceName": "vo_navia_life_die_03.wem"
+        },
+        "a661748b0e4e7d75": {
+            "hash": "a661748b0e4e7d75",
+            "directory": "External20",
+            "voiceContent": "い、いつの間に！？",
+            "sourceName": "vo_navia_battle_hit_H_01.wem"
+        },
+        "1fde1681a41b8012": {
+            "hash": "1fde1681a41b8012",
+            "directory": "External3",
+            "voiceContent": "ッ…どうってことない！",
+            "sourceName": "vo_navia_battle_hit_H_02.wem"
+        },
+        "bc904be4b0cece0a": {
+            "hash": "bc904be4b0cece0a",
+            "directory": "External23",
+            "voiceContent": "もう、帽子とスカート…どっちを抑えたらいいの！",
+            "sourceName": "vo_navia_weather_gale_01.wem"
+        },
+        "87f8538416b0fa93": {
+            "hash": "87f8538416b0fa93",
+            "directory": "External16",
+            "voiceContent": "サーンドル河に行ったことがあるなら、フォンテーヌにはギャングが他にも色々いるって分かるはずよ。彼らの目的はそれぞれ違うし、みんながみんな棘薔薇の会みたいに親切なわけじゃないから、そこは気を付けてね。必要なら、バーテンダーのテトローさんに助けを求めて。もし友好的にお話ができないような相手に出会ったら…そうね、その時は頼もしい白手袋さんのお出ましよ。",
+            "sourceName": "vo_navia_dialog_share_02.wem"
+        },
+        "7a67dd17eaf4e2ce": {
+            "hash": "7a67dd17eaf4e2ce",
+            "directory": "External15",
+            "voiceContent": "なになに？",
+            "sourceName": "vo_navia_battle_hit_L_02.wem"
+        },
+        "9b736f7394ee4b3d": {
+            "hash": "9b736f7394ee4b3d",
+            "directory": "External19",
+            "voiceContent": "うぅ…ケーキを焼いた後、あちこちに散らばってる小麦粉を片付けるのって、すごく大変なんだよね。それに、容器の中にくっついてる卵白とクリームも…す、すぐ助っ人を呼んで来るから待ってて！",
+            "sourceName": "vo_navia_dialog_annoyed_01.wem"
+        },
+        "71a110b60bab4e68": {
+            "hash": "71a110b60bab4e68",
+            "directory": "External14",
+            "voiceContent": "かの有名な「棘薔薇の会」の現会長であり、リーダーで、司令塔で、取締役で、ボスのナヴィアよ。あんたに出会えたこと…本当に嬉しく思ってる！あんたって、才能も容姿も申し分ないうえに、オーラもあるでしょ。見てると、何だか予感がしてくるんだよね。あたしたちの縁は、さっきの肩書きくらい長くなりそうって予感がさ。",
+            "sourceName": "vo_navia_draw_appear_01.wem"
+        },
+        "b746ef0f2df4bd48": {
+            "hash": "b746ef0f2df4bd48",
+            "directory": "External22",
+            "voiceContent": "サングラスがあれば、砂粒が目に入るのを心配しなくて済む！でも、日が暮れると前が見えなくなるんだよね…",
+            "sourceName": "vo_navia_weather_desert_01.wem"
+        },
+        "c2dc85169c3f730d": {
+            "hash": "c2dc85169c3f730d",
+            "directory": "External24",
+            "voiceContent": "べ、別に何ともないよ！",
+            "sourceName": "vo_card_navia_inGame_hard_02.wem"
+        },
+        "575e6b1f7d86287c": {
+            "hash": "575e6b1f7d86287c",
+            "directory": "External10",
+            "voiceContent": "どういうこと？",
+            "sourceName": "vo_card_navia_inGame_hard_03.wem"
+        },
+        "bd2f06830e4e5391": {
+            "hash": "bd2f06830e4e5391",
+            "directory": "External23",
+            "voiceContent": "よそ見しないの！",
+            "sourceName": "vo_card_navia_inGame_easy_01.wem"
+        },
+        "3cc6670d3269b50a": {
+            "hash": "3cc6670d3269b50a",
+            "directory": "External7",
+            "voiceContent": "もっと気を付けないと。",
+            "sourceName": "vo_card_navia_inGame_hard_01.wem"
+        },
+        "8a764c6a6dc80ccc": {
+            "hash": "8a764c6a6dc80ccc",
+            "directory": "External17",
+            "voiceContent": "正々堂々行くよ！",
+            "sourceName": "vo_card_navia_inGame_easy_04.wem"
+        },
+        "10c39a73d7cd5ef7": {
+            "hash": "10c39a73d7cd5ef7",
+            "directory": "External2",
+            "voiceContent": "いけない！",
+            "sourceName": "vo_card_navia_inGame_easy_03.wem"
+        },
+        "8ba0387c184a0aee": {
+            "hash": "8ba0387c184a0aee",
+            "directory": "External17",
+            "voiceContent": "へぇ、なかなかやるじゃない。",
+            "sourceName": "vo_card_navia_inGame_easy_02.wem"
+        },
+        "b1997927ac196127": {
+            "hash": "b1997927ac196127",
+            "directory": "External22",
+            "voiceContent": "ごめんあそばせ！",
+            "sourceName": "vo_card_navia_inGame_hard_04.wem"
+        }
+    }
+}

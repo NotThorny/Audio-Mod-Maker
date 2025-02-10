@@ -1,0 +1,517 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "f7f25ee65b33f8b6": {
+            "hash": "f7f25ee65b33f8b6",
+            "directory": "External30",
+            "voiceContent": "앗! 나 하나 찾았어!",
+            "sourceName": "vo_CLLQ003_11_navia_01.wem"
+        },
+        "f1bcf1da8d222851": {
+            "hash": "f1bcf1da8d222851",
+            "directory": "External30",
+            "voiceContent": "거기 서!",
+            "sourceName": "vo_NVLQ002_3_navia_01.wem"
+        },
+        "5310c76f48a83f51": {
+            "hash": "5310c76f48a83f51",
+            "directory": "External10",
+            "voiceContent": "잠깐… 이 다리에 문제가 있어! 뛰어!",
+            "sourceName": "vo_FDAQ302_2_navia_07.wem"
+        }
+    },
+    "Gameplay": {
+        "a34ce3ef756bd9ec": {
+            "hash": "a34ce3ef756bd9ec",
+            "directory": "External20",
+            "voiceContent": "조심해!",
+            "sourceName": "vo_navia_battle_skill1_01.wem"
+        },
+        "0da111d4e9a32683": {
+            "hash": "0da111d4e9a32683",
+            "directory": "External1",
+            "voiceContent": "정면 기습이다!",
+            "sourceName": "vo_navia_battle_skill1_02.wem"
+        },
+        "b4c5dfde65bf5fba": {
+            "hash": "b4c5dfde65bf5fba",
+            "directory": "External22",
+            "voiceContent": "거기 안녕!",
+            "sourceName": "vo_navia_battle_skill1_03.wem"
+        },
+        "d6059e0815f220b1": {
+            "hash": "d6059e0815f220b1",
+            "directory": "External26",
+            "voiceContent": "피할 수 있겠어?",
+            "sourceName": "vo_navia_battle_skill1_04.wem"
+        },
+        "50e24410566eda30": {
+            "hash": "50e24410566eda30",
+            "directory": "External10",
+            "voiceContent": "몇 발 남았게?",
+            "sourceName": "vo_navia_battle_skill1_05.wem"
+        },
+        "d175b1f6688cf997": {
+            "hash": "d175b1f6688cf997",
+            "directory": "External26",
+            "voiceContent": "이건… 우산탄?",
+            "sourceName": "vo_navia_battle_skill1_06.wem"
+        },
+        "4fafebc671d961d2": {
+            "hash": "4fafebc671d961d2",
+            "directory": "External9",
+            "voiceContent": "발포! 바위 원소긴 하지만",
+            "sourceName": "vo_navia_battle_skill3_01.wem"
+        },
+        "d2cd49cfd9293535": {
+            "hash": "d2cd49cfd9293535",
+            "directory": "External26",
+            "voiceContent": "장미 축포! 가시 장미회 특별 제작 버전이야",
+            "sourceName": "vo_navia_battle_skill3_02.wem"
+        },
+        "50d90fd81c5a0ba4": {
+            "hash": "50d90fd81c5a0ba4",
+            "directory": "External10",
+            "voiceContent": "계속 공격해! 응~ 바로 그거야",
+            "sourceName": "vo_navia_battle_skill3_03.wem"
+        },
+        "1d2e8c73c61e38ed": {
+            "hash": "1d2e8c73c61e38ed",
+            "directory": "External3",
+            "voiceContent": "우와~ 행운이 끊이질 않네!",
+            "sourceName": "vo_navia_chest_open_01.wem"
+        },
+        "ef3bee6cd32af96a": {
+            "hash": "ef3bee6cd32af96a",
+            "directory": "External29",
+            "voiceContent": "얼, 얼른 챙겨!",
+            "sourceName": "vo_navia_chest_open_02.wem"
+        },
+        "70c320648f9d4373": {
+            "hash": "70c320648f9d4373",
+            "directory": "External14",
+            "voiceContent": "보물찾기 대성공!",
+            "sourceName": "vo_navia_chest_open_03.wem"
+        },
+        "0921215d2e918a61": {
+            "hash": "0921215d2e918a61",
+            "directory": "External1",
+            "voiceContent": "이 회장님한테 맡겨둬!",
+            "sourceName": "vo_navia_life_less30_teammate_01.wem"
+        },
+        "aee61354fffe50be": {
+            "hash": "aee61354fffe50be",
+            "directory": "External21",
+            "voiceContent": "지원군 등장!",
+            "sourceName": "vo_navia_life_less30_teammate_02.wem"
+        },
+        "acd551f1c6a9b9f0": {
+            "hash": "acd551f1c6a9b9f0",
+            "directory": "External21",
+            "voiceContent": "집에 가는 셈… 치지 뭐…",
+            "sourceName": "vo_navia_life_die_01.wem"
+        },
+        "2d68bfd7d8c7d957": {
+            "hash": "2d68bfd7d8c7d957",
+            "directory": "External5",
+            "voiceContent": "내… 잘못…인가…?",
+            "sourceName": "vo_navia_life_die_02.wem"
+        },
+        "9f72ced453f0bb62": {
+            "hash": "9f72ced453f0bb62",
+            "directory": "External19",
+            "voiceContent": "당장 출발하자",
+            "sourceName": "vo_navia_teamJoin_01.wem"
+        },
+        "f9e4ecdc82b35185": {
+            "hash": "f9e4ecdc82b35185",
+            "directory": "External31",
+            "voiceContent": "가시 장미회가 나설 시간이군!",
+            "sourceName": "vo_navia_teamJoin_02.wem"
+        },
+        "a09cb2e5fe72ab34": {
+            "hash": "a09cb2e5fe72ab34",
+            "directory": "External20",
+            "voiceContent": "오늘은 나만 따라와!",
+            "sourceName": "vo_navia_teamJoin_03.wem"
+        },
+        "861cc30fc67a6fbf": {
+            "hash": "861cc30fc67a6fbf",
+            "directory": "External16",
+            "voiceContent": "여행 가고 싶다~ 친구들이랑 같이 놀 수만 있다면 어디든 좋아, 헤헤",
+            "sourceName": "vo_navia_character_idle_01.wem"
+        },
+        "c36e3527db3197b8": {
+            "hash": "c36e3527db3197b8",
+            "directory": "External24",
+            "voiceContent": "몇 년 동안 조직에 몸담은 경험으로 볼 때, 자기한테 맞지 않는 무기를 쓰는 건 무기가 없는 것보다 더 위험한 일이야",
+            "sourceName": "vo_navia_character_idle_02.wem"
+        },
+        "48918f1f9ab4de39": {
+            "hash": "48918f1f9ab4de39",
+            "directory": "External9",
+            "voiceContent": "가시 장미회의 마크는 어머니가 디자인하셨어. 봐, 꼭 심장처럼 생겨서 마음에 들어",
+            "sourceName": "vo_navia_character_idle_03.wem"
+        },
+        "217c12cad681fe3f": {
+            "hash": "217c12cad681fe3f",
+            "directory": "External4",
+            "voiceContent": "아… 또 비네…",
+            "sourceName": "vo_navia_weather_heavyRain_01.wem"
+        },
+        "cb2908ffdf428b1c": {
+            "hash": "cb2908ffdf428b1c",
+            "directory": "External25",
+            "voiceContent": "으앗! 방금 번개를 봤을 때 얼른 귀 막을걸!",
+            "sourceName": "vo_navia_weather_thunder_01.wem"
+        },
+        "3b475c825afea486": {
+            "hash": "3b475c825afea486",
+            "directory": "External7",
+            "voiceContent": "다행이다, 비가 그쳤어!",
+            "sourceName": "vo_navia_weather_afterRain_01.wem"
+        },
+        "13ccbb86665d869c": {
+            "hash": "13ccbb86665d869c",
+            "directory": "External2",
+            "voiceContent": "모자를 벗고 얼굴에 떨어지는 눈송이를 느껴볼까? 분명 엄청 시원할 거야",
+            "sourceName": "vo_navia_weather_snowy_01.wem"
+        },
+        "cfbf88355cb59299": {
+            "hash": "cfbf88355cb59299",
+            "directory": "External25",
+            "voiceContent": "지금이야! 어서 고개를 들어봐! 불덩이처럼 뜨겁게 타오르는 태양이 보이지? 저게 뭘 의미하는지 알아?지금 당장 가장 큰 사이즈의 아이스크림을 사서 누가 가장 빨리 먹어 치우는지 시합하라는 계시라고!",
+            "sourceName": "vo_navia_weather_sunny_01.wem"
+        },
+        "6c7e4a5b4b5ec0d5": {
+            "hash": "6c7e4a5b4b5ec0d5",
+            "directory": "External13",
+            "voiceContent": "좋은 아침! 오늘 뭘 할지 생각해 뒀어? 아직 결정 못 했으면 나랑 같이 갈래?",
+            "sourceName": "vo_navia_dialog_greetingMorning.wem"
+        },
+        "dafcb57daec44fb3": {
+            "hash": "dafcb57daec44fb3",
+            "directory": "External27",
+            "voiceContent": "요즘 새로운 맛의 라자냐가 출시됐다던데, 관심 있어? 맛은 없을 것 같은데, 한번 시도해 보고 싶어!",
+            "sourceName": "vo_navia_dialog_greetingNoon.wem"
+        },
+        "2d9fbf451c0366ab": {
+            "hash": "2d9fbf451c0366ab",
+            "directory": "External5",
+            "voiceContent": "저녁 뉴스를 보도합니다. 「오늘도 가시 장미회 회장은 파트너와 함께 완벽한 하루를 보냈습니다」 아주 좋아!",
+            "sourceName": "vo_navia_dialog_greetingNight.wem"
+        },
+        "a1409090d987c955": {
+            "hash": "a1409090d987c955",
+            "directory": "External20",
+            "voiceContent": "머리에 든 고민은 전부 비우고 얼른 푹 자! 그럼 내일 보자",
+            "sourceName": "vo_navia_dialog_greetingNight2.wem"
+        },
+        "bb33c2a6dcba539a": {
+            "hash": "bb33c2a6dcba539a",
+            "directory": "External23",
+            "voiceContent": "맹목적인 낙천주의는 금물이야. 행복은 스스로 쟁취해야 하거든! 그러니까 여기, 내 두 손을 잡고 좌우로 흔들어 봐. 어때? 기분 좋아졌지?",
+            "sourceName": "vo_navia_dialog_idle.wem"
+        },
+        "25f77027302dcc2a": {
+            "hash": "25f77027302dcc2a",
+            "directory": "External4",
+            "voiceContent": "내 과거를 아는 사람이라면 내가 운이 나쁘다고 생각할지도 몰라. 근데 난 그렇게 생각 안 해.이렇게 많은 사랑을 받을 수 있는 건 내 삶에 있어서 최대의 행운이니까",
+            "sourceName": "vo_navia_dialog_idle2.wem"
+        },
+        "ce0e4fb2a4c34aad": {
+            "hash": "ce0e4fb2a4c34aad",
+            "directory": "External25",
+            "voiceContent": "비밀은 말하는 순간 비밀이 아니랬어. 하지만 친구와 공유할 수 있는 비밀이야말로 정말 소중한 거 아닐까?…뭐야, 협박하는 거 아니거든! 물론 가시 장미회 회장으로서 비밀을 지키게 만드는 방법은 수도 없이 알지만, 그걸 너한테 쓰진 않을 테니 걱정 마",
+            "sourceName": "vo_navia_dialog_close1.wem"
+        },
+        "ba8640be1e57e49a": {
+            "hash": "ba8640be1e57e49a",
+            "directory": "External23",
+            "voiceContent": "날 보스라고 부르는 사람도 있고 아가씨라고 부르는 사람도 있는데, 난 딱히 신경 안 써. 그래도 역시 네가 날 「파트너」라고 불러줄 때가 제일 좋더라! 그러니까 내 허영심을 만족시키기 위해서라도 자주 그렇게 불러줘!",
+            "sourceName": "vo_navia_dialog_close.wem"
+        },
+        "9f996e0356cec3dc": {
+            "hash": "9f996e0356cec3dc",
+            "directory": "External19",
+            "voiceContent": "봐, 이게 내 신의 눈이야! 엄청 반짝거리고 색도 내 옷이랑 잘 어울리지?근데 나보단 네가 훨씬 대단한 것 같아. 신의 눈 없이도 여러 가지 원소를 다룰 수 있잖아. 연습만으로는 안 되는 일이겠지?",
+            "sourceName": "vo_navia_dialog_pendant_01.wem"
+        },
+        "dc98e3bf0ae242c9": {
+            "hash": "dc98e3bf0ae242c9",
+            "directory": "External27",
+            "voiceContent": "난 강아지 중에서 밤색 사냥개가 제일 좋아. 눈 위의 무늬가 꼭 눈썹 같지 않아? 그래서 항상 순박하고 성실해 보여.대신 이건 비밀로 해줘. 다른 강아지들한테 얘기하면 안 돼!",
+            "sourceName": "vo_navia_dialog_share_01.wem"
+        },
+        "fdb2e8e8751bf4b5": {
+            "hash": "fdb2e8e8751bf4b5",
+            "directory": "External31",
+            "voiceContent": "장마 연꽃은 색이 참 예뻐. 하나둘 꽃이 피면 기나긴 장마가 드디어 끝났다는 걸 의미하지",
+            "sourceName": "vo_navia_pref_gift_01.wem"
+        },
+        "3bd3541e0f5a5626": {
+            "hash": "3bd3541e0f5a5626",
+            "directory": "External7",
+            "voiceContent": "전에 아버지 일 때문에, 음… 약간 서먹서먹했었는데, 그때 그 조심스러워하던 태도는 정말 마음에 안 들었어…. 평소에 말수도 적고 표정도 거의 없지만, 그래도 감정 변화는 나름 드러나는 편이거든. 역시 지금 같은 모습이 좋아",
+            "sourceName": "vo_navia_teammate_clorinde_01.wem"
+        },
+        "b14980915856f76a": {
+            "hash": "b14980915856f76a",
+            "directory": "External22",
+            "voiceContent": "난 샤를로트가 취재하러 다닐 때의 열정과 속도보다 그 애의 촬영 기술에 더 놀랐어. 전에 내 상반신 사진을 찍어준 적이 있는데, 조명 효과가 꼭 정성껏 그린 유화 같았다니까. 뻔하지 않은 기사를 쓸 뿐만 아니라 사람들의 시선을 확 잡아끄는 사진도 찍을 줄 알다니, 샤를로트는 꼭 기자가 되려고 태어난 사람 같아",
+            "sourceName": "vo_navia_teammate_charlotte_01.wem"
+        },
+        "67211b40d49ec766": {
+            "hash": "67211b40d49ec766",
+            "directory": "External12",
+            "voiceContent": "폰타인 패션계에 이국적인 느낌을 불어넣어 준 그 패션 디자이너는 사적으로 가시 장미회를 여러 번 도운 적이 있어. 내 기발한 아이디어 덕분에 창작 영감이 많이 떠올랐다고 하더라. 내가 알고 있는 치오리라면, 빈말을 한 건 아닐 거야. 근데 전에 10미터 높이의 모자를 만들어 달라고 했더니 엄청 단호하게 거절한 거 있지? 휴, 가게 앞에 두면 분명 아주 눈에 띄는 홍보 효과를 볼 수 있을 텐데!",
+            "sourceName": "vo_navia_teammate_chiori_01.wem"
+        },
+        "52c417766ed0c29e": {
+            "hash": "52c417766ed0c29e",
+            "directory": "External10",
+            "voiceContent": "그분은 카리스마 있으면서도 자애로운 리더야. 한 집의 「가장」 같은 느낌이랄까. 하지만 우인단 집행관 자리에 있는 이상, 분명 무자비한 면도 있겠지.그러니까 걱정 마. 「아를레키노」 씨가 푸아송 마을을 도운 은혜는 기억해도 다른 일에서는 조심할게",
+            "sourceName": "vo_navia_teammate_arlecchino_01.wem"
+        },
+        "1aaea149829a4dab": {
+            "hash": "1aaea149829a4dab",
+            "directory": "External3",
+            "voiceContent": "마술사가 과장된 말투를 사용한다는 건 알지만, 리니가 친구들을 진심으로 대한다는 건 알겠더라. 가끔 그가 보여주는 책임감은 그의 나이보다 훨씬 성숙한 것 같아….아 참, 전에 리니가 푸아송 마을 아이들에게 무료로 마술을 보여준 적이 있어! 나중에 기회 되면 리니랑 리넷을 초대해서 같이 마카롱 먹자. 리넷은 종종 마술로 찻잔을 만들어서 차를 마시니까, 분명 디저트도 좋아하겠지?",
+            "sourceName": "vo_navia_teammate_lyney_01.wem"
+        },
+        "0c58405359c1b041": {
+            "hash": "0c58405359c1b041",
+            "directory": "External1",
+            "voiceContent": "어릴 때 그분이 자선 공연 형식으로 참여하신 오페라를 관람한 적이 있어. 표를 구하기가 정말 힘들었다구! 그땐 다른 등장인물을 연기하셨지만, 높은 곳에서 연설할 때보다 더 자연스러워 보이셨어…. 지금 생각해 보면 그게 내 착각이 아니었나 봐",
+            "sourceName": "vo_navia_teammate_furina_01.wem"
+        },
+        "dd8151598201064d": {
+            "hash": "dd8151598201064d",
+            "directory": "External27",
+            "voiceContent": "느비예트 씨는… 복잡하면서도 단순해. 뭐랄까… 바닷속 암초처럼 울퉁불퉁하지만, 그 안의 규칙을 이해하면 아예 예측할 수 없는 것도 아니야",
+            "sourceName": "vo_navia_teammate_neuvillette_01.wem"
+        },
+        "c90ecf6543c76947": {
+            "hash": "c90ecf6543c76947",
+            "directory": "External25",
+            "voiceContent": "그 사람이랑 대화 한번 하려면 정말 힘이 든다니까. 이미 계약을 한 상황이라면 안심하고 협력해도 되지만, 그가 하는 말은 단 한 마디도 믿지 말라고 클로린드가 그랬어. 그래서 아버지가 물 아래 일에는 절대 관여하지 않으셨었나 봐. 혹시 모르니까 지금 상태를 쭉 유지하는 게 좋을 것 같네",
+            "sourceName": "vo_navia_teammate_wriothesley_01.wem"
+        },
+        "deb5a900e004fd9f": {
+            "hash": "deb5a900e004fd9f",
+            "directory": "External27",
+            "voiceContent": "가시 장미회의 업무는 아주 잡다하지만, 우리의 가장 중요한 목적은 사람들의 성가신 문제를 해결해 주는 거야. 성가시다는 건 단순히 문제 자체가 그렇다는 거지, 내가 그 일들 때문에 귀찮다는 건 아니야. 오히려 모두를 도울 수 있어서 기분이 상쾌한걸",
+            "sourceName": "vo_navia_friendship_01.wem"
+        },
+        "742a9b1b6b9ea418": {
+            "hash": "742a9b1b6b9ea418",
+            "directory": "External14",
+            "voiceContent": "사람은 역시 낭만을 품고 살아야 해. 봄날의 꽃, 여름날의 바다, 그리고 친구의 웃음! 모두 지나쳐서는 안 되는 풍경이지",
+            "sourceName": "vo_navia_friendship_02.wem"
+        },
+        "f5e7f513283ec199": {
+            "hash": "f5e7f513283ec199",
+            "directory": "External30",
+            "voiceContent": "가끔은 인적이 드문 야외에서 이런저런 물건을 과녁 삼아 사격 연습을 해.그러면 스트레스가 확 풀리거든! 너도 해볼래? 내가 차근차근 가르쳐 줄게. 누군가를 가르치는 건 처음이지만, 난 분명 좋은 선생님이 될 거야. 아버지와 브라카리 할머니가 가르쳐 주신 것들을 아직 기억하고 있거든!",
+            "sourceName": "vo_navia_friendship_03.wem"
+        },
+        "d4a836e9780c0082": {
+            "hash": "d4a836e9780c0082",
+            "directory": "External26",
+            "voiceContent": "난 아버지 같은 사람이 되지 않을 거야. 가시 장미회의 일부 오래된 간부들은 내가 점점 아버지를 닮아간다고 하지만, 난 그게 아주 작은 경향에 불과하다고 봐. 어떤 문제들은 제한된 방법으로만 해결할 수 있으니까. 지금의 가시 장미회가 그때와 다른 것처럼, 회장도 달라지는 게 당연해",
+            "sourceName": "vo_navia_friendship_04.wem"
+        },
+        "2df028dffc4c2d4b": {
+            "hash": "2df028dffc4c2d4b",
+            "directory": "External5",
+            "voiceContent": "난 어머니 같은 사람이 되지도 않을 것 같아. 다들 내 성격이 어머니랑 닮았다고 하고, 그때 당시 어머니가 하신 여러 선택의 이유도 어렴풋이 알 것 같지만…하아, 갑자기 클레멘타인선을 타고 싶어졌어. 지금 바로 같이 가줄 수 있을까? 딱히 특별한 목적 같은 건 없어. 그냥 같이 시내 구경하러 간다고 생각해 줄래?",
+            "sourceName": "vo_navia_friendship_05.wem"
+        },
+        "53de08a56b69fc79": {
+            "hash": "53de08a56b69fc79",
+            "directory": "External10",
+            "voiceContent": "난 어릴 때부터 베이킹을 좋아했어. 흩어져 있는 재료들을 비율에 따라 섞은 다음, 오븐에 넣어 굽는 과정에서 조금씩 부풀어 오르면, 모양이 잡힌 향긋한 디저트가 된다는 게 신기하지 않아?참, 나중에 기회 되면 같이 생강 쿠키 구울래? 누가 더 높고 예쁜 쿠키 집을 만드는지 대결하는 거야!",
+            "sourceName": "vo_navia_pref_hobby.wem"
+        },
+        "a9cb555403748a20": {
+            "hash": "a9cb555403748a20",
+            "directory": "External21",
+            "voiceContent": "난 뻔하지 않은 참신한 음식이 좋아. 그렇다고 내 미각을 의심하진 마. 난 그냥 음식에 담긴 기발함을 높이 사는 것뿐이거든. 물론 창의적인 요리가 대부분 맛이 없다는 사실은 바뀌지 않지만",
+            "sourceName": "vo_navia_pref_foodLike.wem"
+        },
+        "cdb8ee0c015e6c1c": {
+            "hash": "cdb8ee0c015e6c1c",
+            "directory": "External25",
+            "voiceContent": "오랫동안 보관한 음식은 별로야. 신선한 식자재의 일생을 낭비해 버린 것 같은 느낌이 든달까…",
+            "sourceName": "vo_navia_pref_foodDislike.wem"
+        },
+        "92f19c8cef4c4653": {
+            "hash": "92f19c8cef4c4653",
+            "directory": "External18",
+            "voiceContent": "놀라운 요리 실력이야! 너랑 외출하게 되면 식자재와 조리도구는 내가 챙길게",
+            "sourceName": "vo_navia_spice_pref_01.wem"
+        },
+        "45faf92abc19c0ad": {
+            "hash": "45faf92abc19c0ad",
+            "directory": "External8",
+            "voiceContent": "맛 좋은데? 내 데코레이션 스킬까지 더하면 더 완벽할 것 같아",
+            "sourceName": "vo_navia_spice_normal_01.wem"
+        },
+        "eb1a530a13f132cb": {
+            "hash": "eb1a530a13f132cb",
+            "directory": "External29",
+            "voiceContent": "낙담하지 마. 세상엔 이런 참신한 요리도 필요한 법이니까",
+            "sourceName": "vo_navia_spice_dislike_01.wem"
+        },
+        "6ff7037c452fd492": {
+            "hash": "6ff7037c452fd492",
+            "directory": "External13",
+            "voiceContent": "넌 소원을 빌면 이뤄질 거라고 믿어? 샘물에 모라를 던지고, 행운이 찾아오길 기다리는 그런 거 말이야. 모라를 많이 던진다면 그중 하나는 이루어지지 않을까?그런 불확실한 일에 희망을 걸기보단, 오늘은 모라 한 주머니로 너의 소원을 들어줄게. 이 나비아가 할 수 있는 일이라면 뭐든지 말이야!",
+            "sourceName": "vo_navia_pref_birthday_01.wem"
+        },
+        "79c57a6974b557c4": {
+            "hash": "79c57a6974b557c4",
+            "directory": "External15",
+            "voiceContent": "이 느낌은… 꼭 레몬 치즈케이크 같아!",
+            "sourceName": "vo_navia_starUp_01.wem"
+        },
+        "4f4d4851fb01d8bb": {
+            "hash": "4f4d4851fb01d8bb",
+            "directory": "External9",
+            "voiceContent": "크림이 혀끝에서 녹으면 스트레스도 같이 녹아버리지",
+            "sourceName": "vo_navia_starUp_02.wem"
+        },
+        "c9f3d65a3b50da72": {
+            "hash": "c9f3d65a3b50da72",
+            "directory": "External25",
+            "voiceContent": "그거 알아? 총알 모양의 초콜릿 사탕이 있는데, 아주 달아서 먹는 순간 온몸에 힘이 넘쳐. 꼭 지금 내 기분처럼!",
+            "sourceName": "vo_navia_starUp_03.wem"
+        },
+        "eb339483eb839b49": {
+            "hash": "eb339483eb839b49",
+            "directory": "External29",
+            "voiceContent": "마지막으로 속이 편안해지는 밀크티를 준비한 다음 우리만의 티타임을 시작하는 거야. 넌 나에게 아주 많은 도움을 줬으니까, 고작 디저트 따위로 퉁칠 순 없지. 앞으로 폰타인에서 도움이 필요할 땐 언제든 가시 장미회를 찾아와!",
+            "sourceName": "vo_navia_starUp_04.wem"
+        },
+        "d404ada5de66941e": {
+            "hash": "d404ada5de66941e",
+            "directory": "External26",
+            "voiceContent": "좀 더… 버텨보자!",
+            "sourceName": "vo_navia_life_less30_01.wem"
+        },
+        "2e3fbbae0cf9cdc1": {
+            "hash": "2e3fbbae0cf9cdc1",
+            "directory": "External5",
+            "voiceContent": "…내 책임을 다해야 해!",
+            "sourceName": "vo_navia_life_less30_02.wem"
+        },
+        "d52de1b788e759c0": {
+            "hash": "d52de1b788e759c0",
+            "directory": "External26",
+            "voiceContent": "집중, 집중!",
+            "sourceName": "vo_navia_life_less30_03.wem"
+        },
+        "abab5de01c27ae4e": {
+            "hash": "abab5de01c27ae4e",
+            "directory": "External21",
+            "voiceContent": "결국, 나까지…",
+            "sourceName": "vo_navia_life_die_03.wem"
+        },
+        "7499abd7ea2869ec": {
+            "hash": "7499abd7ea2869ec",
+            "directory": "External14",
+            "voiceContent": "어디서 튀어나온 거야?!",
+            "sourceName": "vo_navia_battle_hit_H_01.wem"
+        },
+        "deedd9bd5e5fb683": {
+            "hash": "deedd9bd5e5fb683",
+            "directory": "External27",
+            "voiceContent": "칫… 별거 아냐!",
+            "sourceName": "vo_navia_battle_hit_H_02.wem"
+        },
+        "deda6c4af6b585cb": {
+            "hash": "deda6c4af6b585cb",
+            "directory": "External27",
+            "voiceContent": "모자랑 드레스… 둘 다 포기할 수 없어!",
+            "sourceName": "vo_navia_weather_gale_01.wem"
+        },
+        "6c54b5b63e95fd66": {
+            "hash": "6c54b5b63e95fd66",
+            "directory": "External13",
+            "voiceContent": "잿빛의 강에서 한동안 지내다 보면, 폰타인에 다른 조직도 꽤 많다는 걸 알게 될 거야. 다들 목적이 달라서 가시 장미회처럼 우호적이진 않으니까 꼭 조심해야 해. 도움이 필요할 땐 바텐더 테토를 찾아가 봐. 상대방이 순순히 대화해 주지 않으면, 우리의 든든한 흰 장갑 씨가 나설 수밖에",
+            "sourceName": "vo_navia_dialog_share_02.wem"
+        },
+        "12c88e161966cddf": {
+            "hash": "12c88e161966cddf",
+            "directory": "External2",
+            "voiceContent": "뭐야?",
+            "sourceName": "vo_navia_battle_hit_L_02.wem"
+        },
+        "81d4f89c49415df4": {
+            "hash": "81d4f89c49415df4",
+            "directory": "External16",
+            "voiceContent": "흐아, 케이크를 굽고 나서 흩어진 밀가루는 치우기가 정말 번거로운 것 같아. 그리고 베이킹 용기에 붙은 달걀흰자와 크림도…. 으으, 도와줄 사람을 불러올게!",
+            "sourceName": "vo_navia_dialog_annoyed_01.wem"
+        },
+        "818d7e35e4445357": {
+            "hash": "818d7e35e4445357",
+            "directory": "External16",
+            "voiceContent": "난 명성이 자자한 가시 장미회의 현임 회장, 리더, 통솔자, 책임자, 그리고 보스인 나비아야. 만나서 반가워! 넌 외모도 재능도 출중하고, 기질이 범상치 않은 걸 보니, 우리의 인연이 내 호칭처럼 길 것 같다는 예감이 들어!",
+            "sourceName": "vo_navia_draw_appear_01.wem"
+        },
+        "efca322b8982c0a9": {
+            "hash": "efca322b8982c0a9",
+            "directory": "External29",
+            "voiceContent": "선글라스를 쓰면 모래가 눈에 들어가는 걸 막을 수 있어! 날이 어두울 땐 앞이 좀 안 보이긴 하지만…",
+            "sourceName": "vo_navia_weather_desert_01.wem"
+        },
+        "21bc9984ac6d9e24": {
+            "hash": "21bc9984ac6d9e24",
+            "directory": "External4",
+            "voiceContent": "이, 이 정도는 별거 아냐!",
+            "sourceName": "vo_card_navia_inGame_hard_02.wem"
+        },
+        "a3b0d37c693cc7b5": {
+            "hash": "a3b0d37c693cc7b5",
+            "directory": "External20",
+            "voiceContent": "어떻게 된 거지?",
+            "sourceName": "vo_card_navia_inGame_hard_03.wem"
+        },
+        "2d0da630e5c42bfc": {
+            "hash": "2d0da630e5c42bfc",
+            "directory": "External5",
+            "voiceContent": "내 실력도 맛보시지!",
+            "sourceName": "vo_card_navia_inGame_easy_01.wem"
+        },
+        "a286e76abebac99b": {
+            "hash": "a286e76abebac99b",
+            "directory": "External20",
+            "voiceContent": "조심해",
+            "sourceName": "vo_card_navia_inGame_hard_01.wem"
+        },
+        "33b520484ada0d41": {
+            "hash": "33b520484ada0d41",
+            "directory": "External6",
+            "voiceContent": "정정당당하게 간다!",
+            "sourceName": "vo_card_navia_inGame_easy_04.wem"
+        },
+        "1275a21e9aa7b88a": {
+            "hash": "1275a21e9aa7b88a",
+            "directory": "External2",
+            "voiceContent": "큰일났다!",
+            "sourceName": "vo_card_navia_inGame_easy_03.wem"
+        },
+        "9761d41659fb7893": {
+            "hash": "9761d41659fb7893",
+            "directory": "External18",
+            "voiceContent": "오, 제법인데",
+            "sourceName": "vo_card_navia_inGame_easy_02.wem"
+        },
+        "ce290593e2f046c6": {
+            "hash": "ce290593e2f046c6",
+            "directory": "External25",
+            "voiceContent": "큰 거 간다!",
+            "sourceName": "vo_card_navia_inGame_hard_04.wem"
+        }
+    }
+}
