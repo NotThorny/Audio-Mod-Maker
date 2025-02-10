@@ -3,6 +3,8 @@
 Hoyo Audio Mod Maker (HAMM) is a tool for quickly and easily making audio mods for hoyo games. Currently only supporting Genshin Impact.
 Mods can be saved separately to be used/shared, and can be immediately automatically applied to the game. The idea is to make it as simple as possible for anyone to make audio mods without needing any understanding or tedium.
 
+The option to mute lines comes by default in the dropdown for selecting a replacement. You can click the "Add Sounds" button and then close the popup without adding any if you only wish to mute lines.
+
 Mods stack - if your audio is already modded when you apply a new one through the app, the new one will be added on top of the old one (sounds for the same voice lines will be overwritten).
 
 ## Installation
@@ -18,7 +20,7 @@ Steps 2 and 3 are done only for first time opening the app.
 
 **1.** Open Audio Mod Maker.
 
-**2.** You will be prompted to download WWise. Click OK. This is **required** to convert audio for the game.
+**2.** You will be prompted to download WWise. Click OK. This is **required** to convert audio for the game. The download and setup will happen in the background, so you can forget about it and continue.
 
 **3.** Select your game executable and in-game voice over language.
 
