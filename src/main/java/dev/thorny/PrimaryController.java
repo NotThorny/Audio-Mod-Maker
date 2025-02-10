@@ -557,7 +557,7 @@ public class PrimaryController implements Initializable {
         if (source.getId().equals("github")) {
             url.append("https://www.github.com/NotThorny/Audio-Mod-Maker");
         } else if (source.getId().equals("gamebanana")) {
-            url.append("https://gamebanana.com/members/3210319");
+            url.append("https://gamebanana.com/tools/19103");
         }
         Desktop.getDesktop().browse(new URI(url.toString()));
     }
