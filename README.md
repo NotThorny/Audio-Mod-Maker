@@ -15,6 +15,7 @@ Mods stack - if your audio is already modded when you apply a new one through th
 
 ## Setup & Usage
 Steps 2 and 3 are done only for first time opening the app.
+
 **1.** Open Audio Mod Maker.
 
 **2.** You will be prompted to download WWise. Click OK. This is **required** to convert audio for the game.
