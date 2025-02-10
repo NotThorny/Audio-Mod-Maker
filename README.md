@@ -7,7 +7,7 @@ Mods stack - if your audio is already modded when you apply a new one through th
 
 ## Installation
 **<ins>Installer:</ins>** 
-- Get latest Audio-Mod-Maker_Installer.exe release from [releases](/releases).
+- Get latest Audio-Mod-Maker_Installer.exe release from [releases](https://github.com/NotThorny/Audio-Mod-Maker/releases).
 - Run the installer and go through to the end.
 - HAMM is now installed on your PC
 
@@ -64,3 +64,4 @@ You can find the result in the target folder.
 - [Brainless Hero](https://gamebanana.com/members/2413509): Sorting scripts for indexes
 - [FFmpeg](https://github.com/FFmpeg/FFmpeg): Audio converting
 - [WWise](https://www.audiokinetic.com/en/wwise/overview/): Audio converting
+- [OpenJDK](https://openjdk.org/) - Java runtime
