@@ -11,18 +11,30 @@ Mods stack - if your audio is already modded when you apply a new one through th
 - Run the installer and go through to the end.
 - HAMM is now installed on your PC
 
+![javaw_eEqHkHuyFU](https://github.com/user-attachments/assets/dc75b5d6-7bed-4dd3-9808-fdbb36f8698a)
+
 ## Setup & Usage
 Steps 2 and 3 are done only for first time opening the app.
 **1.** Open Audio Mod Maker.
+
 **2.** You will be prompted to download WWise. Click OK. This is **required** to convert audio for the game.
+
 **3.** Select your game executable and in-game voice over language.
+
 **4.** In the top left, select "**Add Sounds**"
+
 **5.** Select your choice of audio files, as many as you want to add to the game.
+
 **6.** In the center, pick a character and the voice line you want to replace.
+
 **7.** A dropdown will appear on the voice line you choose, select it and pick the sound.
+
 **8.** Repeat steps 6-7 until you have selected all the replacements you want
+
 **9.** Click "**Make Mod**" in the bottom right. If you have not made a backup already, you will be prompted to do so.
+
 **10.** If you have selected to save separately, choose a name in the popup.
+
 **11.** Your mod is now created. If you have selected to auto apply it to game, it is already applied to your game.
 
 You can find all mods you have created in your mods folder, access it by going to the **Top left -> File -> Open mods folder**.
