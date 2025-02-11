@@ -491,6 +491,8 @@ public class PrimaryController implements Initializable {
 
                     // Copy existing wavs to wavs folder
                     if (!FileIO.copyFile(file, "./wavs/" + fileName)) {
+                        // Unable to move
+                        onExitEarly();
                         return;
                     }
 
@@ -553,6 +555,13 @@ public class PrimaryController implements Initializable {
             changeTextFlowVisibility();
             clearTextFlow();
         }).start();
+    }
+
+    private void onExitEarly() {
+        makeModButton.setDisable(false);
+        makeModButton.setText("Make Mod");
+        changeTextFlowVisibility();
+        clearTextFlow();
     }
 
     @FXML
