@@ -1,7 +1,7 @@
 package dev.thorny.data;
 
 public enum Languages {
-    EN("English (US)"),
+    EN("English(US)"),
     JP("Japanese"),
     CHS("Chinese"),
     KR("Korean");
