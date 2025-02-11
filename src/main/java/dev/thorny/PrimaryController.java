@@ -476,7 +476,7 @@ public class PrimaryController implements Initializable {
                 String ext = FilenameUtils.getExtension(fileName);
 
                 // No need to convert to wav when the file already is
-                if (!ext.equals("wav")) {
+                if (!ext.equals("wav") && !ext.equals("wem")) {
                     // Check if file exists in wav folder already
                     if (!new File("./wavs/" + FilenameUtils.getBaseName(fileName) + ".wav").isFile()) {
                         // File has not already been converted
@@ -486,12 +486,17 @@ public class PrimaryController implements Initializable {
                         file = AudioConverter.convertToWav(file, "");
                         addTextToFlow("Converted file to wav.");
                     }
-                } else {
+                } else if (ext.equals("wav")) {
                     addTextToFlow(String.format("Moving existing wav: %s", fileName));
 
                     // Copy existing wavs to wavs folder
-                    FileIO.copyFile(file.toPath(), "./wavs/" + fileName);
+                    if (!FileIO.copyFile(file, "./wavs/" + fileName)) {
+                        return;
+                    }
+
                     file = new File("./wavs/" + fileName);
+                } else {
+                    // Already a wem, skip handling
                 }
 
                 // Add to converted files map

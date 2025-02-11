@@ -7,8 +7,6 @@ import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.nio.charset.StandardCharsets;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -24,6 +22,7 @@ import dev.thorny.data.Avatar;
 import dev.thorny.data.Languages;
 import dev.thorny.user.Preferences;
 import dev.thorny.user.User;
+import javafx.application.Platform;
 import net.lingala.zip4j.ZipFile;
 import net.lingala.zip4j.exception.ZipException;
 
@@ -120,16 +119,18 @@ public class FileIO {
      * @param destination The path to copy the file to
      * @return True if the file was copied, otherwise false
      */
-    public static boolean copyFile(Path source, String destination) {
+    public static boolean copyFile(File source, String destination) {
         try {
-            Files.copy(source, new File(destination).toPath(), StandardCopyOption.REPLACE_EXISTING);
+            FileUtils.copyFile(source, new File(destination));
             return true;
         } catch (Exception e) {
-            App.displayError(
+            Platform.runLater(() -> {
+                App.displayError(
                     new StringBuilder("Unable to copy file ")
                             .append(source).append(" to ").append(destination)
                             .append("\n\n").append(e.getMessage())
                             .toString());
+            });
             return false;
         }
     }
