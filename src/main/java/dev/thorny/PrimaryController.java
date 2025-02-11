@@ -466,7 +466,7 @@ public class PrimaryController implements Initializable {
 
         // Create new thread
         new Thread(() -> {
-            
+
             final HashMap<AudioDetails, File> convertedFiles = new HashMap<>();
             final HashMap<AudioDetails, File> convertedWemFiles = new HashMap<>();
 
@@ -607,7 +607,7 @@ public class PrimaryController implements Initializable {
                 var tempAudio = new Audio(details, new UserAudio("", new File(".")));
                 var tempTreeItem = new TreeItem<Audio>(tempAudio);
                 tempTreeItem.setGraphic(null);
-                
+
                 treeAudioItem.getChildren().add(tempTreeItem);
             });
 

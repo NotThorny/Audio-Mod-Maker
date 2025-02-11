@@ -12,6 +12,7 @@ import dev.thorny.user.User;
 import dev.thorny.utils.FileIO;
 import dev.thorny.utils.WWiseHandler;
 import javafx.application.Application;
+import javafx.application.Platform;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -170,6 +171,12 @@ public class App extends Application {
     public static void setGamePathInPrefs(String path) {
         prefs.setGamePath(path);
         FileIO.savePreferences(prefs);
+    }
+
+    public static void displayErrorOnFXThread(String message) {
+        Platform.runLater(() -> {
+            displayError(message);
+        });
     }
 
 }

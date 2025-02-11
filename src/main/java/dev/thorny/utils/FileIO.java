@@ -124,13 +124,11 @@ public class FileIO {
             FileUtils.copyFile(source, new File(destination));
             return true;
         } catch (Exception e) {
-            Platform.runLater(() -> {
-                App.displayError(
+                App.displayErrorOnFXThread(
                     new StringBuilder("Unable to copy file ")
                             .append(source).append(" to ").append(destination)
                             .append("\n\n").append(e.getMessage())
                             .toString());
-            });
             return false;
         }
     }
@@ -148,7 +146,7 @@ public class FileIO {
             FileUtils.copyFile(file, dest, StandardCopyOption.REPLACE_EXISTING);
         } catch (IOException e) {
             e.printStackTrace();
-            App.displayError(String.format("Error copying file %s to %s \n\n %s", file.toPath(), dest, e.getCause()));
+            App.displayErrorOnFXThread(String.format("Error copying file %s to %s \n\n %s", file.toPath(), dest, e.getCause()));
         }
     }
 
@@ -161,7 +159,7 @@ public class FileIO {
             FileUtils.deleteDirectory(new File(folder));
         } catch (IOException e) {
             e.printStackTrace();
-            App.displayError("Failed to delete folder: " + folder);
+            App.displayErrorOnFXThread("Failed to delete folder: " + folder);
         }
     }
 
@@ -172,7 +170,7 @@ public class FileIO {
             return true;
         } catch (IOException e) {
             e.printStackTrace();
-            App.displayError(String.format("Failed to delete file %s", path));
+            App.displayErrorOnFXThread(String.format("Failed to delete file %s", path));
             return false;
         }
     }
@@ -223,7 +221,7 @@ public class FileIO {
             return true;
         } catch (IOException | URISyntaxException e) {
             e.printStackTrace();
-            App.displayError(String.format("Failed to download file! %s :: %s", e.getCause(), e.getMessage()));
+            App.displayErrorOnFXThread(String.format("Failed to download file! %s :: %s", e.getCause(), e.getMessage()));
             return false;
         }
     }
@@ -240,7 +238,7 @@ public class FileIO {
             return true;
         } catch (ZipException e) {
             e.printStackTrace();
-            App.displayError(String.format("Error extracting zip file: %s \n\n %s \n %s", file.getName(), e.getMessage(), e.getCause()));
+            App.displayErrorOnFXThread(String.format("Error extracting zip file: %s \n\n %s \n %s", file.getName(), e.getMessage(), e.getCause()));
             return false;
         }
     }
