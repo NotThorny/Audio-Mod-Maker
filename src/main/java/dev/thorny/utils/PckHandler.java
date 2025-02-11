@@ -26,10 +26,17 @@ public class PckHandler {
             return;
         }
 
-        var source = getRootAudioFolder();
+        // Check persistent first
+        var source = getPersistentAudioFolder();
+
+        // If no audio, get from streaming
+        if (!(new File(source.getPath() + "/External0.pck")).isFile()) {
+
+            source = getStreamingAudioFolder();
+        }
 
         try {
-            FileUtils.copyDirectory(source, new File("./resources/backup/" + gameName + "/"), externalFilter);
+            FileUtils.copyDirectory(source, new File("./resources/backup/" + gameName + "/" + App.getCurrentLang().getName() + "/"), externalFilter);
         } catch (IOException e) {
             e.printStackTrace();
             App.displayError("Failed to create backup! Is a valid game set? \n" + e.getMessage() + "\n" + e.getCause());
@@ -48,7 +55,7 @@ public class PckHandler {
         try {
             var dirs = backup.listFiles();
             for (File file : dirs) {
-                var gameFile = new File(getRootAudioFolder() + "/" + file.getName());
+                var gameFile = new File(getPersistentAudioFolder() + "/" + file.getName());
                 gameFile.setWritable(true);
             }
         } catch (Exception e) {
@@ -57,17 +64,25 @@ public class PckHandler {
 
         // Copy all backup files into the game audio folder
         try {
-            FileUtils.copyDirectory(backup, getRootAudioFolder(), externalFilter, false, StandardCopyOption.REPLACE_EXISTING);
+            FileUtils.copyDirectory(backup, getPersistentAudioFolder(), externalFilter, false, StandardCopyOption.REPLACE_EXISTING);
         } catch (IOException e) {
             e.printStackTrace();
             App.displayError("Unable to restore backup!");
         }
     }
 
-    private static File getRootAudioFolder() {
+    private static File getPersistentAudioFolder() {
         var gamePath = App.getPrefs().getGamePath();
         String gameName = FilenameUtils.getBaseName(gamePath);
         String rootAudioFolder = FilenameUtils.getFullPath(gamePath) + "/" + gameName + "_Data/Persistent/AudioAssets/" + App.getCurrentLang().getName() + "/";
+
+        return new File(rootAudioFolder);
+    }
+
+    private static File getStreamingAudioFolder() {
+        var gamePath = App.getPrefs().getGamePath();
+        String gameName = FilenameUtils.getBaseName(gamePath);
+        String rootAudioFolder = FilenameUtils.getFullPath(gamePath) + "/" + gameName + "_Data/StreamingAssets/AudioAssets/" + App.getCurrentLang().getName() + "/";
 
         return new File(rootAudioFolder);
     }
@@ -88,6 +103,11 @@ public class PckHandler {
         File outputDest = new File("./resources/repacking/output_pck/");
 
         copyWemsToRepack(name, wemDest);
+
+        // If persistent doesn't have audio yet, move the files over
+        if (!(new File(getPersistentAudioFolder().getPath() + "/External0.pck").isFile())) {
+            copyStreamingToPersistent();
+        }
 
         movePcksToRepack(wemDest);
 
@@ -114,7 +134,7 @@ public class PckHandler {
             var dirs = wemDest.listFiles();
             for (File file : dirs) {
                 Files.move(
-                        new File(getRootAudioFolder() + "/" + file.getName() + ".pck").toPath(),
+                        new File(getPersistentAudioFolder() + "/" + file.getName() + ".pck").toPath(),
                         Path.of(new File("resources/repacking/input_pck" + "/" + file.getName() + ".pck").getAbsolutePath()),
                         StandardCopyOption.REPLACE_EXISTING);
             }
@@ -123,10 +143,19 @@ public class PckHandler {
         }
     }
 
+    private static void copyStreamingToPersistent() {
+        try {
+            FileUtils.copyDirectory(getStreamingAudioFolder(), getPersistentAudioFolder(), externalFilter, false, StandardCopyOption.REPLACE_EXISTING);
+        } catch (IOException e) {
+            e.printStackTrace();
+            App.displayError("Failed to copy output pcks to game folder.");
+        }
+    }
+
     // Move to game folder
     private static void movePcksToGameFolder(File outputDest) {
         try {
-            FileUtils.copyDirectory(outputDest, getRootAudioFolder(), externalFilter, false, StandardCopyOption.REPLACE_EXISTING);
+            FileUtils.copyDirectory(outputDest, getPersistentAudioFolder(), externalFilter, false, StandardCopyOption.REPLACE_EXISTING);
         } catch (IOException e) {
             e.printStackTrace();
             App.displayError("Failed to copy output pcks to game folder.");

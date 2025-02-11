@@ -179,11 +179,17 @@ public class FileIO {
     public static boolean backupExists() {
         var gameName = FilenameUtils.getBaseName(App.getPrefs().getGamePath());
 
-        return FileUtils.isDirectory(new File("./resources/backup/" + gameName));
+        return (new File("./resources/backup/" + gameName + "/" + App.getCurrentLang().getName() + "/External0.pck")).isFile();
     }
 
     // Get backup folder
     public static File getBackup() {
+        var gameName = FilenameUtils.getBaseName(App.getPrefs().getGamePath());
+
+        return new File("./resources/backup/" + gameName + "/" + App.getCurrentLang().getName());
+    }
+
+    public static File getBackupDirectory() {
         var gameName = FilenameUtils.getBaseName(App.getPrefs().getGamePath());
 
         return new File("./resources/backup/" + gameName);
