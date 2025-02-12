@@ -1,5 +1,17 @@
 {
     "Teapot": {
+        "0b67f3bf8653f070": {
+            "hash": "0b67f3bf8653f070",
+            "directory": "External1",
+            "voiceContent": "#좋은 아침이에요, {NICKNAME}",
+            "sourceName": "vo_noelle_mimitomo_morning_01.wem"
+        },
+        "0b9360cf187b7146": {
+            "hash": "0b9360cf187b7146",
+            "directory": "External1",
+            "voiceContent": "바깥은 넓고 쾌적하고, 실내 장식도 우아하죠",
+            "sourceName": "vo_noelle_mimitomo_friendship1_02.wem"
+        },
         "104eac03bb2c6207": {
             "hash": "104eac03bb2c6207",
             "directory": "External2",
@@ -12,23 +24,65 @@
             "voiceContent": "이런 시설이 있으니 무기 수리가 편해지겠어요",
             "sourceName": "vo_mimiTomo_md_noel_blacksmith_01.wem"
         },
-        "e6d69cfbc693222c": {
-            "hash": "e6d69cfbc693222c",
-            "directory": "External28",
-            "voiceContent": "제가 일찍 와서 도왔어야 하는데, 메이드로서 실격이네요",
-            "sourceName": "vo_mimiTomo_md_noel_bedroom_02.wem"
+        "1cc762ab58ffb582": {
+            "hash": "1cc762ab58ffb582",
+            "directory": "External3",
+            "voiceContent": "#편히 쉬세요, {NICKNAME}",
+            "sourceName": "vo_noelle_mimitomo_night_01.wem"
         },
-        "55bab6f2e82f96fd": {
-            "hash": "55bab6f2e82f96fd",
-            "directory": "External10",
-            "voiceContent": "많이 피곤하시죠? 제가 차와 간식을 준비할 테니… 푹 쉬세요",
-            "sourceName": "vo_mimiTomo_md_noel_bedroom_03.wem"
+        "2b61d0c9e42825b8": {
+            "hash": "2b61d0c9e42825b8",
+            "directory": "External5",
+            "voiceContent": "어… 음…",
+            "sourceName": "vo_noelle_mimitomo_friendship3_06.wem"
         },
-        "b73c8a0d3719747e": {
-            "hash": "b73c8a0d3719747e",
-            "directory": "External22",
-            "voiceContent": "모두를 지키려면 항상 전투 준비가 돼 있어야 하니까요!",
-            "sourceName": "vo_mimiTomo_md_noel_blacksmith_02.wem"
+        "2ce5b14dbed47d83": {
+            "hash": "2ce5b14dbed47d83",
+            "directory": "External5",
+            "voiceContent": "최선을 다해서 주인들을 찾고 있죠! 하지만 주인이 나타나지 않으면, 기사단에 남겨질 거예요",
+            "sourceName": "vo_noelle_mimitomo_friendship2_08b.wem"
+        },
+        "3027dcdb91bb12ea": {
+            "hash": "3027dcdb91bb12ea",
+            "directory": "External6",
+            "voiceContent": "하지만, 이건 티바트 대륙에서 가장 행복한 분주함일 거예요",
+            "sourceName": "vo_noelle_mimitomo_friendship3_08.wem"
+        },
+        "322e4a6d85618bdc": {
+            "hash": "322e4a6d85618bdc",
+            "directory": "External6",
+            "voiceContent": "최선을 다했거든요! 기사단이나 다른 어떤 곳을 청소할 때보다 기뻤어요",
+            "sourceName": "vo_noelle_mimitomo_friendship2_12.wem"
+        },
+        "3d4ade90ebb82d6b": {
+            "hash": "3d4ade90ebb82d6b",
+            "directory": "External7",
+            "voiceContent": "네? 저한테 물어보시면…",
+            "sourceName": "vo_noelle_mimitomo_friendship3_01.wem"
+        },
+        "3e551e5adedb2648": {
+            "hash": "3e551e5adedb2648",
+            "directory": "External7",
+            "voiceContent": "네, 저야 영광이죠",
+            "sourceName": "vo_noelle_mimitomo_friendship2_01.wem"
+        },
+        "4040fcb8d75f26d6": {
+            "hash": "4040fcb8d75f26d6",
+            "directory": "External8",
+            "voiceContent": "당신이 평소에 제가 만든 옷을 입어준다면…",
+            "sourceName": "vo_noelle_mimitomo_friendship3_04.wem"
+        },
+        "4cd76c21e386be7b": {
+            "hash": "4cd76c21e386be7b",
+            "directory": "External9",
+            "voiceContent": "나무 덤불에서 고양이가 물어온 공 같은 것들이요",
+            "sourceName": "vo_noelle_mimitomo_friendship2_06.wem"
+        },
+        "4fc7c93a299cfeef": {
+            "hash": "4fc7c93a299cfeef",
+            "directory": "External9",
+            "voiceContent": "아, 아니에요. 그냥 청소하다보니 나와서…",
+            "sourceName": "vo_noelle_mimitomo_friendship2_04b.wem"
         },
         "512acae13aca6fc3": {
             "hash": "512acae13aca6fc3",
@@ -36,17 +90,11 @@
             "voiceContent": "이걸 전부 직접 준비하신 거예요?",
             "sourceName": "vo_mimiTomo_md_noel_bedroom_01.wem"
         },
-        "dbd18e9e7a3a6430": {
-            "hash": "dbd18e9e7a3a6430",
-            "directory": "External27",
-            "voiceContent": "그건 그렇고",
-            "sourceName": "vo_noelle_mimitomo_friendship2_09.wem"
-        },
-        "90b6c2c6d7fec52f": {
-            "hash": "90b6c2c6d7fec52f",
-            "directory": "External18",
-            "voiceContent": "지금까지 본 장원 중에서 제일 좋은 것 같아요",
-            "sourceName": "vo_noelle_mimitomo_friendship1_03.wem"
+        "55bab6f2e82f96fd": {
+            "hash": "55bab6f2e82f96fd",
+            "directory": "External10",
+            "voiceContent": "많이 피곤하시죠? 제가 차와 간식을 준비할 테니… 푹 쉬세요",
+            "sourceName": "vo_mimiTomo_md_noel_bedroom_03.wem"
         },
         "5a963aee5f8b02cb": {
             "hash": "5a963aee5f8b02cb",
@@ -60,155 +108,11 @@
             "voiceContent": "유일한 단점이라면…",
             "sourceName": "vo_noelle_mimitomo_friendship1_04.wem"
         },
-        "906e50a99df8e8f4": {
-            "hash": "906e50a99df8e8f4",
-            "directory": "External18",
-            "voiceContent": "저… 전 당신의 키와 치수를 재서, 당신을 위한 옷을 만들고 싶어요",
-            "sourceName": "vo_noelle_mimitomo_friendship3_02.wem"
-        },
-        "ee105eb1cf70fdbf": {
-            "hash": "ee105eb1cf70fdbf",
-            "directory": "External29",
-            "voiceContent": "분명 아주아주 행복할 거예요…",
-            "sourceName": "vo_noelle_mimitomo_friendship3_05.wem"
-        },
-        "2b61d0c9e42825b8": {
-            "hash": "2b61d0c9e42825b8",
-            "directory": "External5",
-            "voiceContent": "어… 음…",
-            "sourceName": "vo_noelle_mimitomo_friendship3_06.wem"
-        },
-        "e53c7b54b5363828": {
-            "hash": "e53c7b54b5363828",
-            "directory": "External28",
-            "voiceContent": "청소하다보면 발견하는 것들 있잖아요",
-            "sourceName": "vo_noelle_mimitomo_friendship2_04a.wem"
-        },
-        "f140f8556d99e1f3": {
-            "hash": "f140f8556d99e1f3",
-            "directory": "External30",
-            "voiceContent": "감사해요…",
-            "sourceName": "vo_noelle_mimitomo_friendship2_11.wem"
-        },
-        "9dac6464a41ad76d": {
-            "hash": "9dac6464a41ad76d",
-            "directory": "External19",
-            "voiceContent": "왜냐면… 여긴 당신의 집이니까요",
-            "sourceName": "vo_noelle_mimitomo_friendship2_13.wem"
-        },
-        "3027dcdb91bb12ea": {
-            "hash": "3027dcdb91bb12ea",
-            "directory": "External6",
-            "voiceContent": "하지만, 이건 티바트 대륙에서 가장 행복한 분주함일 거예요",
-            "sourceName": "vo_noelle_mimitomo_friendship3_08.wem"
-        },
-        "2ce5b14dbed47d83": {
-            "hash": "2ce5b14dbed47d83",
-            "directory": "External5",
-            "voiceContent": "최선을 다해서 주인들을 찾고 있죠! 하지만 주인이 나타나지 않으면, 기사단에 남겨질 거예요",
-            "sourceName": "vo_noelle_mimitomo_friendship2_08b.wem"
-        },
-        "4fc7c93a299cfeef": {
-            "hash": "4fc7c93a299cfeef",
-            "directory": "External9",
-            "voiceContent": "아, 아니에요. 그냥 청소하다보니 나와서…",
-            "sourceName": "vo_noelle_mimitomo_friendship2_04b.wem"
-        },
-        "0b9360cf187b7146": {
-            "hash": "0b9360cf187b7146",
-            "directory": "External1",
-            "voiceContent": "바깥은 넓고 쾌적하고, 실내 장식도 우아하죠",
-            "sourceName": "vo_noelle_mimitomo_friendship1_02.wem"
-        },
-        "7bd78ed7e4c7b6a9": {
-            "hash": "7bd78ed7e4c7b6a9",
-            "directory": "External15",
-            "voiceContent": "그럼요~ 무척 맘에 들어요",
-            "sourceName": "vo_noelle_mimitomo_friendship1_01.wem"
-        },
-        "3d4ade90ebb82d6b": {
-            "hash": "3d4ade90ebb82d6b",
-            "directory": "External7",
-            "voiceContent": "네? 저한테 물어보시면…",
-            "sourceName": "vo_noelle_mimitomo_friendship3_01.wem"
-        },
-        "e11b2eb79ec7f235": {
-            "hash": "e11b2eb79ec7f235",
-            "directory": "External28",
-            "voiceContent": "너무 한가한 느낌이랄까요…",
-            "sourceName": "vo_noelle_mimitomo_friendship1_05.wem"
-        },
-        "77509e395d3bef84": {
-            "hash": "77509e395d3bef84",
-            "directory": "External14",
-            "voiceContent": "예를 들어… 장롱 아래의 색이 바래버린 머리띠나",
-            "sourceName": "vo_noelle_mimitomo_friendship2_05.wem"
-        },
-        "c29183684a9d30ec": {
-            "hash": "c29183684a9d30ec",
-            "directory": "External24",
-            "voiceContent": "아니요! 저한텐 영광인 걸요",
-            "sourceName": "vo_noelle_mimitomo_friendship2_08a.wem"
-        },
-        "ffc60be4784045bf": {
-            "hash": "ffc60be4784045bf",
-            "directory": "External31",
-            "voiceContent": "다, 당연하죠…. 전 어쨌든 「만능 메이드」잖아요",
-            "sourceName": "vo_noelle_mimitomo_friendship3_03b.wem"
-        },
-        "b0852ac1a3ab6c39": {
-            "hash": "b0852ac1a3ab6c39",
-            "directory": "External22",
-            "voiceContent": "좋네요! 이제 다시 바빠지겠어요!",
-            "sourceName": "vo_noelle_mimitomo_friendship3_07.wem"
-        },
         "6fb9c65db12797ea": {
             "hash": "6fb9c65db12797ea",
             "directory": "External13",
             "voiceContent": "이 집, 정말 깨끗하네요",
             "sourceName": "vo_noelle_mimitomo_friendship2_10.wem"
-        },
-        "4040fcb8d75f26d6": {
-            "hash": "4040fcb8d75f26d6",
-            "directory": "External8",
-            "voiceContent": "당신이 평소에 제가 만든 옷을 입어준다면…",
-            "sourceName": "vo_noelle_mimitomo_friendship3_04.wem"
-        },
-        "3e551e5adedb2648": {
-            "hash": "3e551e5adedb2648",
-            "directory": "External7",
-            "voiceContent": "네, 저야 영광이죠",
-            "sourceName": "vo_noelle_mimitomo_friendship2_01.wem"
-        },
-        "c4fd032a9409d5d3": {
-            "hash": "c4fd032a9409d5d3",
-            "directory": "External24",
-            "voiceContent": "여긴 몬드성에 비해 메이드가 해야 할 일이 너무 적어요",
-            "sourceName": "vo_noelle_mimitomo_friendship1_04a.wem"
-        },
-        "4cd76c21e386be7b": {
-            "hash": "4cd76c21e386be7b",
-            "directory": "External9",
-            "voiceContent": "나무 덤불에서 고양이가 물어온 공 같은 것들이요",
-            "sourceName": "vo_noelle_mimitomo_friendship2_06.wem"
-        },
-        "cae3fa2a26b8e832": {
-            "hash": "cae3fa2a26b8e832",
-            "directory": "External25",
-            "voiceContent": "또 도서관 구석에 있던 책갈피나, 길가에 떨어져있는 열쇠, 성당 문틈에 껴있는 이름 없는 반성문도 있고…",
-            "sourceName": "vo_noelle_mimitomo_friendship2_07.wem"
-        },
-        "322e4a6d85618bdc": {
-            "hash": "322e4a6d85618bdc",
-            "directory": "External6",
-            "voiceContent": "최선을 다했거든요! 기사단이나 다른 어떤 곳을 청소할 때보다 기뻤어요",
-            "sourceName": "vo_noelle_mimitomo_friendship2_12.wem"
-        },
-        "8bfb61a598720fd7": {
-            "hash": "8bfb61a598720fd7",
-            "directory": "External17",
-            "voiceContent": "요즘 일교차가 크니까 감기 조심하세요",
-            "sourceName": "vo_noelle_mimitomo_morning_02.wem"
         },
         "773880b387c099a5": {
             "hash": "773880b387c099a5",
@@ -216,157 +120,145 @@
             "voiceContent": "따뜻한 우유나, 자장가가 필요하시면 불러주세요. 전 여기 있을게요",
             "sourceName": "vo_noelle_mimitomo_night_02.wem"
         },
-        "fd9cec42c73f8e8f": {
-            "hash": "fd9cec42c73f8e8f",
-            "directory": "External31",
-            "voiceContent": "음… 여기에 오니까, 정체불명의 분실물을 주운 지도 오래됐네요",
-            "sourceName": "vo_noelle_mimitomo_friendship2_02.wem"
+        "77509e395d3bef84": {
+            "hash": "77509e395d3bef84",
+            "directory": "External14",
+            "voiceContent": "예를 들어… 장롱 아래의 색이 바래버린 머리띠나",
+            "sourceName": "vo_noelle_mimitomo_friendship2_05.wem"
+        },
+        "7bd78ed7e4c7b6a9": {
+            "hash": "7bd78ed7e4c7b6a9",
+            "directory": "External15",
+            "voiceContent": "그럼요~ 무척 맘에 들어요",
+            "sourceName": "vo_noelle_mimitomo_friendship1_01.wem"
         },
         "7bdf8a4b0a9f63a6": {
             "hash": "7bdf8a4b0a9f63a6",
             "directory": "External15",
             "voiceContent": "뭔가 좀 어색해요",
             "sourceName": "vo_noelle_mimitomo_friendship2_03.wem"
+        },
+        "8bfb61a598720fd7": {
+            "hash": "8bfb61a598720fd7",
+            "directory": "External17",
+            "voiceContent": "요즘 일교차가 크니까 감기 조심하세요",
+            "sourceName": "vo_noelle_mimitomo_morning_02.wem"
+        },
+        "906e50a99df8e8f4": {
+            "hash": "906e50a99df8e8f4",
+            "directory": "External18",
+            "voiceContent": "저… 전 당신의 키와 치수를 재서, 당신을 위한 옷을 만들고 싶어요",
+            "sourceName": "vo_noelle_mimitomo_friendship3_02.wem"
+        },
+        "90b6c2c6d7fec52f": {
+            "hash": "90b6c2c6d7fec52f",
+            "directory": "External18",
+            "voiceContent": "지금까지 본 장원 중에서 제일 좋은 것 같아요",
+            "sourceName": "vo_noelle_mimitomo_friendship1_03.wem"
+        },
+        "9dac6464a41ad76d": {
+            "hash": "9dac6464a41ad76d",
+            "directory": "External19",
+            "voiceContent": "왜냐면… 여긴 당신의 집이니까요",
+            "sourceName": "vo_noelle_mimitomo_friendship2_13.wem"
+        },
+        "b0852ac1a3ab6c39": {
+            "hash": "b0852ac1a3ab6c39",
+            "directory": "External22",
+            "voiceContent": "좋네요! 이제 다시 바빠지겠어요!",
+            "sourceName": "vo_noelle_mimitomo_friendship3_07.wem"
+        },
+        "b120ad0714b09a54": {
+            "hash": "b120ad0714b09a54",
+            "directory": "External22",
+            "voiceContent": "#안녕하세요, {NICKNAME}. 다시 만나서 반가워요",
+            "sourceName": "vo_noelle_mimitomo_hello_01.wem"
+        },
+        "b73c8a0d3719747e": {
+            "hash": "b73c8a0d3719747e",
+            "directory": "External22",
+            "voiceContent": "모두를 지키려면 항상 전투 준비가 돼 있어야 하니까요!",
+            "sourceName": "vo_mimiTomo_md_noel_blacksmith_02.wem"
+        },
+        "c29183684a9d30ec": {
+            "hash": "c29183684a9d30ec",
+            "directory": "External24",
+            "voiceContent": "아니요! 저한텐 영광인 걸요",
+            "sourceName": "vo_noelle_mimitomo_friendship2_08a.wem"
+        },
+        "c4fd032a9409d5d3": {
+            "hash": "c4fd032a9409d5d3",
+            "directory": "External24",
+            "voiceContent": "여긴 몬드성에 비해 메이드가 해야 할 일이 너무 적어요",
+            "sourceName": "vo_noelle_mimitomo_friendship1_04a.wem"
+        },
+        "cae3fa2a26b8e832": {
+            "hash": "cae3fa2a26b8e832",
+            "directory": "External25",
+            "voiceContent": "또 도서관 구석에 있던 책갈피나, 길가에 떨어져있는 열쇠, 성당 문틈에 껴있는 이름 없는 반성문도 있고…",
+            "sourceName": "vo_noelle_mimitomo_friendship2_07.wem"
+        },
+        "dbd18e9e7a3a6430": {
+            "hash": "dbd18e9e7a3a6430",
+            "directory": "External27",
+            "voiceContent": "그건 그렇고",
+            "sourceName": "vo_noelle_mimitomo_friendship2_09.wem"
+        },
+        "e11b2eb79ec7f235": {
+            "hash": "e11b2eb79ec7f235",
+            "directory": "External28",
+            "voiceContent": "너무 한가한 느낌이랄까요…",
+            "sourceName": "vo_noelle_mimitomo_friendship1_05.wem"
+        },
+        "e53c7b54b5363828": {
+            "hash": "e53c7b54b5363828",
+            "directory": "External28",
+            "voiceContent": "청소하다보면 발견하는 것들 있잖아요",
+            "sourceName": "vo_noelle_mimitomo_friendship2_04a.wem"
+        },
+        "e6d69cfbc693222c": {
+            "hash": "e6d69cfbc693222c",
+            "directory": "External28",
+            "voiceContent": "제가 일찍 와서 도왔어야 하는데, 메이드로서 실격이네요",
+            "sourceName": "vo_mimiTomo_md_noel_bedroom_02.wem"
+        },
+        "ee105eb1cf70fdbf": {
+            "hash": "ee105eb1cf70fdbf",
+            "directory": "External29",
+            "voiceContent": "분명 아주아주 행복할 거예요…",
+            "sourceName": "vo_noelle_mimitomo_friendship3_05.wem"
+        },
+        "f140f8556d99e1f3": {
+            "hash": "f140f8556d99e1f3",
+            "directory": "External30",
+            "voiceContent": "감사해요…",
+            "sourceName": "vo_noelle_mimitomo_friendship2_11.wem"
+        },
+        "fd9cec42c73f8e8f": {
+            "hash": "fd9cec42c73f8e8f",
+            "directory": "External31",
+            "voiceContent": "음… 여기에 오니까, 정체불명의 분실물을 주운 지도 오래됐네요",
+            "sourceName": "vo_noelle_mimitomo_friendship2_02.wem"
+        },
+        "ffc60be4784045bf": {
+            "hash": "ffc60be4784045bf",
+            "directory": "External31",
+            "voiceContent": "다, 당연하죠…. 전 어쨌든 「만능 메이드」잖아요",
+            "sourceName": "vo_noelle_mimitomo_friendship3_03b.wem"
         }
     },
     "Quests": {
-        "679176dfa1b1ff8d": {
-            "hash": "679176dfa1b1ff8d",
-            "directory": "External12",
-            "voiceContent": "명예 기사 선배님, 혹시 「축하장」을 예쁘게 만드는 법 아시나요?",
-            "sourceName": "vo_HDJHK005_3_noelle_01.wem"
-        },
-        "b8204a1696380820": {
-            "hash": "b8204a1696380820",
-            "directory": "External23",
-            "voiceContent": "다음에 몬드에서 「윈드블룸 축제」가 열리면 꼭 와주세요!",
-            "sourceName": "vo_HDJHK005_4_noelle_03.wem"
-        },
-        "084d96075cd1bcfe": {
-            "hash": "084d96075cd1bcfe",
-            "directory": "External1",
-            "voiceContent": "이렇게 하는 거군요… 역시 선배님! 모르는 게 없으시네요!",
-            "sourceName": "vo_HDJHK005_4_noelle_01.wem"
-        },
-        "6288a40f8b64f5a1": {
-            "hash": "6288a40f8b64f5a1",
-            "directory": "External12",
-            "voiceContent": "가르침을 주셔서 감사해요. 이 「축하장」은 소중히 간직할게요",
-            "sourceName": "vo_HDJHK005_4_noelle_02.wem"
-        },
-        "c63657dd9a8814f3": {
-            "hash": "c63657dd9a8814f3",
-            "directory": "External24",
-            "voiceContent": "그때 저도 이 축하장만큼 예쁜 카드를 써 드릴게요",
-            "sourceName": "vo_HDJHK005_4_noelle_04.wem"
-        },
-        "2bb582ed36ce50e0": {
-            "hash": "2bb582ed36ce50e0",
-            "directory": "External5",
-            "voiceContent": "명예 기사 선배님, 여기서 뵙네요!",
-            "sourceName": "vo_HDJHK005_2_noelle_01.wem"
-        },
-        "7ab9e2cc52e7b99c": {
-            "hash": "7ab9e2cc52e7b99c",
-            "directory": "External15",
-            "voiceContent": "명예 기사 선배님, 혹시 「축하장」을 예쁘게 만드는 법 아시나요?",
-            "sourceName": "vo_HDJHK005_2_noelle_05.wem"
-        },
-        "e99dfcc374842e2d": {
-            "hash": "e99dfcc374842e2d",
-            "directory": "External29",
-            "voiceContent": "그래서 저도 예쁜 「축하장」을 써서 주려고 했는데, 어떻게 해도 별로 예쁘지가 않더라고요…",
-            "sourceName": "vo_HDJHK005_2_noelle_04.wem"
-        },
-        "d4f4f0d4817af347": {
-            "hash": "d4f4f0d4817af347",
-            "directory": "External26",
-            "voiceContent": "네, 모처럼 휴가를 얻어서 리월항에 왔다가, 기사단 사람들에게 줄 선물을 사 가려고 보고 있었거든요",
-            "sourceName": "vo_HDJHK005_2_noelle_02.wem"
-        },
-        "7f49cede004ce0be": {
-            "hash": "7f49cede004ce0be",
-            "directory": "External15",
-            "voiceContent": "그러다 해등절에 리월 사람들이 선물을 주고받을 때 「축하장」을 써서 넣는다는 걸 알게 됐어요…",
-            "sourceName": "vo_HDJHK005_2_noelle_03.wem"
-        },
-        "e562ae7bd64e5415": {
-            "hash": "e562ae7bd64e5415",
-            "directory": "External28",
-            "voiceContent": "꽤 강해 보이는데…. 최대한 깔끔하게 해결해 볼게요!",
-            "sourceName": "vo_NOECOP001_1906601_noelle_02.wem"
-        },
-        "60097484169db484": {
-            "hash": "60097484169db484",
-            "directory": "External12",
-            "voiceContent": "죄송해요…. 알겠어요! 제 뒤에 서서 함께 들어가요",
-            "sourceName": "vo_NOECOP001_1906601_noelle_03.wem"
-        },
-        "b39cd074e01aad32": {
-            "hash": "b39cd074e01aad32",
-            "directory": "External22",
-            "voiceContent": "몬스터를 처치하는 것도… 광석 캐기의 일환인가요? 저에게 맡겨주세요!",
-            "sourceName": "vo_NOECOP001_1906601_noelle_01.wem"
-        },
-        "c233d69f15d013a7": {
-            "hash": "c233d69f15d013a7",
-            "directory": "External24",
-            "voiceContent": "괜찮은 각도를 찾아 사진 좀 찍어보세요!",
-            "sourceName": "vo_NOECOP001_1906903_noelle_05.wem"
-        },
-        "e153e63e9a3d3faf": {
-            "hash": "e153e63e9a3d3faf",
-            "directory": "External28",
-            "voiceContent": "죄… 죄송해요. 베아 씨의 데이트 장소를 찾으러 온 건데…",
-            "sourceName": "vo_NOECOP001_1906903_noelle_12.wem"
-        },
         "04a0d44374becc42": {
             "hash": "04a0d44374becc42",
             "directory": "External0",
             "voiceContent": "이번엔 산꼭대기의 풍경을 찍어보세요",
             "sourceName": "vo_NOECOP001_1906903_noelle_08.wem"
         },
-        "76c9985925d82ce8": {
-            "hash": "76c9985925d82ce8",
-            "directory": "External14",
-            "voiceContent": "보세요, 대영웅 바네사를 상징하는 「바람이 시작되는 곳」의 나무예요!",
-            "sourceName": "vo_NOECOP001_1906903_noelle_11.wem"
-        },
         "146534a61dbf829e": {
             "hash": "146534a61dbf829e",
             "directory": "External2",
             "voiceContent": "아, 여기서 매의 해안도 보여요! 시야가 탁 트였네요!",
             "sourceName": "vo_NOECOP001_1906903_noelle_04.wem"
-        },
-        "6bb1d459a343da0a": {
-            "hash": "6bb1d459a343da0a",
-            "directory": "External13",
-            "voiceContent": "누구 목소리죠? 금방 갈게요!",
-            "sourceName": "vo_NOECOP001_1906502_noelle_01.wem"
-        },
-        "c85d2909ad088036": {
-            "hash": "c85d2909ad088036",
-            "directory": "External25",
-            "voiceContent": "이 목소리는? 금방 갈게요!",
-            "sourceName": "vo_NOECOP001_1906103_noelle_04.wem"
-        },
-        "bffb169186b35cb2": {
-            "hash": "bffb169186b35cb2",
-            "directory": "External23",
-            "voiceContent": "다음 목표는… 역시 「광풍의 핵」인가요!",
-            "sourceName": "vo_NOECOP001_1906501_noelle_02.wem"
-        },
-        "41ee8889438132fb": {
-            "hash": "41ee8889438132fb",
-            "directory": "External8",
-            "voiceContent": "안 돼요… 「광풍의 핵」이 도망가려 해요!",
-            "sourceName": "vo_NOECOP001_1906501_noelle_03.wem"
-        },
-        "f1c0f4987ce70395": {
-            "hash": "f1c0f4987ce70395",
-            "directory": "External30",
-            "voiceContent": "그렇군요…. 명심할게요!",
-            "sourceName": "vo_NOECOP001_1906501_noelle_01.wem"
         },
         "153a4211f9ed4831": {
             "hash": "153a4211f9ed4831",
@@ -380,331 +272,97 @@
             "voiceContent": "츄츄 바위왕만 해치우면 계속 광석을 캘 수 있겠죠? 그렇다면 제게 맡기세요!",
             "sourceName": "vo_NOECOP001_1906602_noelle_02.wem"
         },
-        "72d45095b2a5137d": {
-            "hash": "72d45095b2a5137d",
-            "directory": "External14",
-            "voiceContent": "——덩치는 크지만, 힘으로는 제가 밀리지 않아요",
-            "sourceName": "vo_NOECOP001_1906602_noelle_01.wem"
+        "41ee8889438132fb": {
+            "hash": "41ee8889438132fb",
+            "directory": "External8",
+            "voiceContent": "안 돼요… 「광풍의 핵」이 도망가려 해요!",
+            "sourceName": "vo_NOECOP001_1906501_noelle_03.wem"
+        },
+        "60097484169db484": {
+            "hash": "60097484169db484",
+            "directory": "External12",
+            "voiceContent": "죄송해요…. 알겠어요! 제 뒤에 서서 함께 들어가요",
+            "sourceName": "vo_NOECOP001_1906601_noelle_03.wem"
+        },
+        "6bb1d459a343da0a": {
+            "hash": "6bb1d459a343da0a",
+            "directory": "External13",
+            "voiceContent": "누구 목소리죠? 금방 갈게요!",
+            "sourceName": "vo_NOECOP001_1906502_noelle_01.wem"
         },
         "6e446484053fec43": {
             "hash": "6e446484053fec43",
             "directory": "External13",
             "voiceContent": "하나, 둘, 셋, 넷… 이렇게 많은 「수행 목표」가 있다니…",
             "sourceName": "vo_NOECOP001_1906602_noelle_03.wem"
+        },
+        "72d45095b2a5137d": {
+            "hash": "72d45095b2a5137d",
+            "directory": "External14",
+            "voiceContent": "——덩치는 크지만, 힘으로는 제가 밀리지 않아요",
+            "sourceName": "vo_NOECOP001_1906602_noelle_01.wem"
+        },
+        "76c9985925d82ce8": {
+            "hash": "76c9985925d82ce8",
+            "directory": "External14",
+            "voiceContent": "보세요, 대영웅 바네사를 상징하는 「바람이 시작되는 곳」의 나무예요!",
+            "sourceName": "vo_NOECOP001_1906903_noelle_11.wem"
+        },
+        "b39cd074e01aad32": {
+            "hash": "b39cd074e01aad32",
+            "directory": "External22",
+            "voiceContent": "몬스터를 처치하는 것도… 광석 캐기의 일환인가요? 저에게 맡겨주세요!",
+            "sourceName": "vo_NOECOP001_1906601_noelle_01.wem"
+        },
+        "bffb169186b35cb2": {
+            "hash": "bffb169186b35cb2",
+            "directory": "External23",
+            "voiceContent": "다음 목표는… 역시 「광풍의 핵」인가요!",
+            "sourceName": "vo_NOECOP001_1906501_noelle_02.wem"
+        },
+        "c233d69f15d013a7": {
+            "hash": "c233d69f15d013a7",
+            "directory": "External24",
+            "voiceContent": "괜찮은 각도를 찾아 사진 좀 찍어보세요!",
+            "sourceName": "vo_NOECOP001_1906903_noelle_05.wem"
+        },
+        "c85d2909ad088036": {
+            "hash": "c85d2909ad088036",
+            "directory": "External25",
+            "voiceContent": "이 목소리는? 금방 갈게요!",
+            "sourceName": "vo_NOECOP001_1906103_noelle_04.wem"
+        },
+        "e153e63e9a3d3faf": {
+            "hash": "e153e63e9a3d3faf",
+            "directory": "External28",
+            "voiceContent": "죄… 죄송해요. 베아 씨의 데이트 장소를 찾으러 온 건데…",
+            "sourceName": "vo_NOECOP001_1906903_noelle_12.wem"
+        },
+        "e562ae7bd64e5415": {
+            "hash": "e562ae7bd64e5415",
+            "directory": "External28",
+            "voiceContent": "꽤 강해 보이는데…. 최대한 깔끔하게 해결해 볼게요!",
+            "sourceName": "vo_NOECOP001_1906601_noelle_02.wem"
+        },
+        "f1c0f4987ce70395": {
+            "hash": "f1c0f4987ce70395",
+            "directory": "External30",
+            "voiceContent": "그렇군요…. 명심할게요!",
+            "sourceName": "vo_NOECOP001_1906501_noelle_01.wem"
         }
     },
     "Gameplay": {
-        "e7e832ef54df403e": {
-            "hash": "e7e832ef54df403e",
-            "directory": "External28",
-            "voiceContent": "바위의 무게는 사람을 안심시켜요",
-            "sourceName": "vo_noel_battle_skill1_01.wem"
-        },
-        "422340f7837279e1": {
-            "hash": "422340f7837279e1",
-            "directory": "External8",
-            "voiceContent": "깔끔하게 처리해야 돼",
-            "sourceName": "vo_noel_battle_skill1_02.wem"
-        },
-        "9453e6fe8b60b060": {
-            "hash": "9453e6fe8b60b060",
-            "directory": "External18",
-            "voiceContent": "제게 맡기세요",
-            "sourceName": "vo_noel_battle_skill1_03.wem"
-        },
-        "5a5f9298ae3f2b88": {
-            "hash": "5a5f9298ae3f2b88",
-            "directory": "External11",
-            "voiceContent": "전장을 청소해야겠군요",
-            "sourceName": "vo_noel_battle_skill3_01.wem"
-        },
-        "19a8608096a547cf": {
-            "hash": "19a8608096a547cf",
-            "directory": "External3",
-            "voiceContent": "기사의 품격에 주의하겠습니다",
-            "sourceName": "vo_noel_battle_skill3_02.wem"
-        },
-        "97eafe88da051ce6": {
-            "hash": "97eafe88da051ce6",
-            "directory": "External18",
-            "voiceContent": "메이드의 예절에 주의하겠습니다",
-            "sourceName": "vo_noel_battle_skill3_03.wem"
-        },
-        "fbbca08c934fa40f": {
-            "hash": "fbbca08c934fa40f",
-            "directory": "External31",
-            "voiceContent": "만족해요",
-            "sourceName": "vo_noel_chest_open_01.wem"
-        },
-        "3c74d2a4aaeb3bc8": {
-            "hash": "3c74d2a4aaeb3bc8",
-            "directory": "External7",
-            "voiceContent": "정말 기뻐요…",
-            "sourceName": "vo_noel_chest_open_02.wem"
-        },
-        "ea436c9da2fbbe89": {
-            "hash": "ea436c9da2fbbe89",
-            "directory": "External29",
-            "voiceContent": "보물에 먼지가 쌓였어요. 좀 닦을게요!",
-            "sourceName": "vo_noel_chest_open_03.wem"
-        },
-        "ebb62fcef596f72f": {
-            "hash": "ebb62fcef596f72f",
-            "directory": "External29",
-            "voiceContent": "제가 치료해 드릴 테니 움직이지 마세요!",
-            "sourceName": "vo_noel_life_less30_teammate_01.wem"
-        },
-        "812be1e98131e468": {
-            "hash": "812be1e98131e468",
-            "directory": "External16",
-            "voiceContent": "제게 맡기세요! 제가 할게요!",
-            "sourceName": "vo_noel_life_less30_teammate_02.wem"
-        },
-        "f9c85d7e5c48c41e": {
-            "hash": "f9c85d7e5c48c41e",
-            "directory": "External31",
-            "voiceContent": "기사단에… 먹칠을 했네요…",
-            "sourceName": "vo_noel_life_die_01.wem"
-        },
-        "54036b868adbfdc1": {
-            "hash": "54036b868adbfdc1",
-            "directory": "External10",
-            "voiceContent": "전… 모두를 지키고 싶어요…",
-            "sourceName": "vo_noel_life_die_02.wem"
-        },
-        "ece91d50aacc064d": {
-            "hash": "ece91d50aacc064d",
-            "directory": "External29",
-            "voiceContent": "정말 기뻐요…. 아, 음",
-            "sourceName": "vo_noel_teamJoin_01.wem"
-        },
-        "66d1ff4740f4954a": {
-            "hash": "66d1ff4740f4954a",
-            "directory": "External12",
-            "voiceContent": "제가 지켜줄게요",
-            "sourceName": "vo_noel_teamJoin_02.wem"
-        },
-        "e859313efd66df53": {
-            "hash": "e859313efd66df53",
-            "directory": "External29",
-            "voiceContent": "당신이 바라는 대로",
-            "sourceName": "vo_noel_teamJoin_03.wem"
-        },
-        "7afdf52ad55694ab": {
-            "hash": "7afdf52ad55694ab",
-            "directory": "External15",
-            "voiceContent": "전 노엘이라고 해요. 페보니우스 기사단의 메이드죠. 오늘부터 당신과 함께 모험을 떠날 거예요. 곤란하거나 귀찮은 일이 생겨도 걱정 마세요. 제가 최선을 다해 해결해드릴게요. 네, 지금도 가능하답니다",
-            "sourceName": "vo_noel_draw_appear.wem"
-        },
-        "b11014591bd21799": {
-            "hash": "b11014591bd21799",
-            "directory": "External22",
-            "voiceContent": "제게 맡기세요! 뭐든지 맡겨만 주세요!——아, 맞다. 무슨 부탁을 하셨죠? 잘 못 들었어요…",
-            "sourceName": "vo_noel_explore_idle_01.wem"
-        },
-        "40cbe6504f85d236": {
-            "hash": "40cbe6504f85d236",
-            "directory": "External8",
-            "voiceContent": "피곤하세요? 그럼 여기서 좀 쉬세요. 제가 차를 내올 테니… 설탕은 몇 개 넣으시겠어요?",
-            "sourceName": "vo_noel_explore_idle_02.wem"
-        },
-        "99ddc846d398539f": {
-            "hash": "99ddc846d398539f",
-            "directory": "External19",
-            "voiceContent": "제가 필요하시면 언제든지 당신 곁에 나타날게요",
-            "sourceName": "vo_noel_explore_idle_03.wem"
-        },
-        "b6327d038307dd41": {
-            "hash": "b6327d038307dd41",
-            "directory": "External22",
-            "voiceContent": "이런, 아직 안 걷은 빨래가 있는데! 혹시 지금 걷으러 가도 될까요?",
-            "sourceName": "vo_noel_weather_heavyRain_01.wem"
-        },
-        "eb71a91c8b2b713a": {
-            "hash": "eb71a91c8b2b713a",
-            "directory": "External29",
-            "voiceContent": "번개 치는 날엔 실내에 있는 게 좋아요. 반드시 외출해야 한다면 저한테 맡겨주세요",
-            "sourceName": "vo_noel_weather_thunder_01.wem"
-        },
-        "87c6bf5222ca4ba3": {
-            "hash": "87c6bf5222ca4ba3",
-            "directory": "External16",
-            "voiceContent": "날씨가 화창하니 「햇빛」과 관련된 일을 하는 게 좋겠어요. 네? 구체적으로요…? 당신의 마음을 화창하게 해줄 수 있는 일이라면 다 좋아요",
-            "sourceName": "vo_noel_weather_sunny_01.wem"
-        },
-        "9695a3a1b9692fd9": {
-            "hash": "9695a3a1b9692fd9",
-            "directory": "External18",
-            "voiceContent": "들리세요? 바람 신의 소리예요. 마음이 복잡할 때마다 바람 소리를 들으면 평온해져요",
-            "sourceName": "vo_noel_weather_breezy_01.wem"
-        },
-        "e706429cd1ef168b": {
-            "hash": "e706429cd1ef168b",
-            "directory": "External28",
-            "voiceContent": "좋은 아침이에요. 아침 식사가 준비됐어요. 옆에 있을 테니 입맛에 안 맞으면 언제든 말씀하세요",
-            "sourceName": "vo_noel_dialog_greetingMorning.wem"
-        },
-        "6ba62c83e317dfd9": {
-            "hash": "6ba62c83e317dfd9",
-            "directory": "External13",
-            "voiceContent": "앉아서 차 한잔 하실래요? 제가 준비해드릴게요. 맞다, 하는 김에 장원 팬케이크도 만들어 봤어요. 자신 있는 요리니 꼭 드셔보세요",
-            "sourceName": "vo_noel_dialog_greetingNoon.wem"
-        },
-        "dfdfea09ed8ce7cd": {
-            "hash": "dfdfea09ed8ce7cd",
-            "directory": "External27",
-            "voiceContent": "저녁은 모두가 쉬는 시간이자 제가 가장 바쁜 시간이기도 하죠…. 엠버 씨의 리본은 어디에 뒀는지, 케이아 씨의 새로 산 안대는 총 몇 개인지, 모두 기억하고 있답니다. 이건 메이드가 해야 할 일이니까요",
-            "sourceName": "vo_noel_dialog_greetingNight.wem"
-        },
-        "cdd056bc5d001327": {
-            "hash": "cdd056bc5d001327",
-            "directory": "External25",
-            "voiceContent": "오늘도 고생하셨어요. 푹 쉬세요. 저는 기사단으로 돌아가 봐야 해요…. 네? 잠들 때까지 있어 달라고요? 음… 문제 될 건 없지만… 절 놀리시는 건 아니죠?",
-            "sourceName": "vo_noel_dialog_greetingNight2.wem"
-        },
-        "6ba710aae5b8e208": {
-            "hash": "6ba710aae5b8e208",
-            "directory": "External13",
-            "voiceContent": "전 매일 같은 일을 하는 것 뿐이에요. 진정한 기사들에 비해 아직 멀었죠…. 하지만 이건 기사가 되기 위한 수행이에요. 수행은 말로만 하는 게 아니죠",
-            "sourceName": "vo_noel_dialog_idle.wem"
-        },
-        "6d93dfcd96c2f3c7": {
-            "hash": "6d93dfcd96c2f3c7",
-            "directory": "External13",
-            "voiceContent": "아무리 급해도 하루 세끼를 대충 때우면 안 돼요. 의심스러운 음식을 먹거나 야채는 안 먹고 고기만 먹는다거나 하시면 안 돼요. 맞다, 그리고 위장에 안 좋으니 찬물은 되도록 마시지 마세요. 음, 「귀찮으니 노엘에게 맡겨야지」라고 생각하는 건 아니겠죠? 음… 정말 그렇게 생각한다면… 좋아요, 제게 맡기세요!",
-            "sourceName": "vo_noel_dialog_close1.wem"
-        },
-        "c45471e64c165160": {
-            "hash": "c45471e64c165160",
-            "directory": "External24",
-            "voiceContent": "당신이 페보니우스 기사단의 명예 기사가 되었다고 들었어요. 정말 부러워요…. 그럼 앞으로 제 선배시겠네요. 맞다, 그럼 환영회를 열어야죠! 바로 준비할게요!",
-            "sourceName": "vo_noel_dialog_close2.wem"
-        },
-        "ce6896be8d2fc138": {
-            "hash": "ce6896be8d2fc138",
-            "directory": "External25",
-            "voiceContent": "전 다른 사람과 논쟁을 잘 못해요. 대부분 논리적으로 반박을 못 해서 오히려 상대의 화만 돋우죠. 그래서 그냥 제 생각대로 행동했더니 또 「고집」스럽다는 말을 들어요…. 전 그저 결과로 설득하고 싶은 것뿐인데 이것도 「고집」인가요?",
-            "sourceName": "vo_noel_dialog_idle2.wem"
-        },
-        "4978743466cf51a0": {
-            "hash": "4978743466cf51a0",
-            "directory": "External9",
-            "voiceContent": "저의 헌신은 자유로부터 나왔죠. 「메이드」는 제가 봤을 때 가장 자유로운 직업이에요. 요리사가 될 수도 있고, 정원사가 될 수도 있고, 또 전사가 될 수도 있죠. 당신이 필요하면 뭐든 될 수 있어요!",
-            "sourceName": "vo_noel_dialog_close.wem"
-        },
-        "57c10b775037e0ea": {
-            "hash": "57c10b775037e0ea",
-            "directory": "External10",
-            "voiceContent": "사실 좀 실망했어요…. 이 「신의 눈」이 저에 대한 신의 인정을 상징하긴 하지만, 왜 하필 「바람」의 성질과 가장 다른 「바위」일까요? 페보니우스 기사단에 가장 적합한 원소는 역시…",
-            "sourceName": "vo_noel_dialog_pendant.wem"
-        },
-        "c25cfdac973cd8ad": {
-            "hash": "c25cfdac973cd8ad",
-            "directory": "External24",
-            "voiceContent": "술의 냄새를 좋아하지만 아직 술을 마실 수 있는 나이가 안 됐어요…. 몰래 맛볼 기회가 여러 번 있었지만 참았죠. 역시 성인이 되는 날까지 아껴두고 싶어요",
-            "sourceName": "vo_noel_dialog_share.wem"
-        },
-        "fc3d8068bfcc25cd": {
-            "hash": "fc3d8068bfcc25cd",
-            "directory": "External31",
-            "voiceContent": "메이드는 반드시 비밀을 엄수해야 하죠. 그래서 전 장미를 좋아해요. 장미는 몬드에서 「비밀」을 지키는 것을 뜻해요. 장미는 언제나 제게… 네? 당신의 고향에서 장미는 「사랑」을 뜻한다고요? …그, 그렇게 열정적인 뜻이 담겨 있었다니…",
-            "sourceName": "vo_noel_pref_gift.wem"
-        },
-        "8eb39042bae3d279": {
-            "hash": "8eb39042bae3d279",
-            "directory": "External17",
-            "voiceContent": "그녀는 제가 아주 존경하는 선배예요. 실력도 좋고 사람들에게도 정말 친절하죠. 제게 「토끼 백작」 만드는 법도 가르쳐줬어요. 보세요, 이렇게 부적처럼 가지고 다녀요. 잘 만들었죠? 아, 걱정 마세요! 터지진 않으니까요",
-            "sourceName": "vo_noel_teammate_ambor_01.wem"
-        },
-        "9c99f5e2fcfeb9d7": {
-            "hash": "9c99f5e2fcfeb9d7",
-            "directory": "External19",
-            "voiceContent": "계속 궁금했던 건데, 그렇게 어린데 어떻게 정식 기사가 됐을까요? 한번은 그녀에게 경험을 공유해 달라고 했는데, 말이 끝나기도 전에 절 기사단 밖으로 끌고 가더니 폭탄 놀이를 하더군요…. 무슨 수행인 줄 알았는데, 나중에 진 단장님에게 들켜 같이 감금실에 갇혀 버렸죠…",
-            "sourceName": "vo_noel_teammate_klee_01.wem"
-        },
-        "f4332dc487610358": {
-            "hash": "f4332dc487610358",
-            "directory": "External30",
-            "voiceContent": "전 진 단장님처럼 되고 싶어요. 저의 실력과 노력 모두 그분과 비교할 게 못 되죠. 그녀는 다른 사람에게도 자신에게처럼 엄격하니, 언젠가 그녀의 인정을 받게 된다면 제 노력에 대한 최고의 인정이겠죠. 그때까지 절대 긴장을 풀지 않을 거예요!",
-            "sourceName": "vo_noel_teammate_qin_01.wem"
-        },
-        "d0dfe2565c6e25ad": {
-            "hash": "d0dfe2565c6e25ad",
-            "directory": "External26",
-            "voiceContent": "예전에 도서관을 청소할 때 《피슬 황녀의 야화》라는 책이 있었어요. 판타지 소설인 줄만 알았는데… 주인공이 실제로 존재할 줄이야! 개인 전집이 있다니 정말 대단한 사람인가 봐요",
-            "sourceName": "vo_noel_teammate_fischl_01.wem"
-        },
-        "9f86444f66960a2a": {
-            "hash": "9f86444f66960a2a",
-            "directory": "External19",
-            "voiceContent": "그녀는 다른 세상에서 왔다고 들은 것 같은데, 다른 건 잘 모르겠어요…. 그러고 보니 그녀는 기사단의 도서관을 아주 좋아하는 것 같더라구요. 항상 거기서 책을 보고 있거든요. 청소할 때 가끔 따뜻한 다과를 드리면 매번 감사 인사를 해요. 그리고… 알아들을 수 없는 과장된 말을 하죠…",
-            "sourceName": "vo_noel_teammate_fischl_02.wem"
-        },
-        "76d983a47c7f94b1": {
-            "hash": "76d983a47c7f94b1",
-            "directory": "External14",
-            "voiceContent": "우린 종종 같이 차를 마셔요. 가끔 그녀는 듣기 좋은 멜로디를 흥얼거리며 영감을 찾죠. 그녀에게 음악적인 도움은 줄 수 없지만… 바바라와 이런 시간을 같이 보낼 수 있어서 정말 기뻐요!",
-            "sourceName": "vo_noel_teammate_barbara_01.wem"
-        },
-        "648e88de108f7851": {
-            "hash": "648e88de108f7851",
-            "directory": "External12",
-            "voiceContent": "원래 대단장님을 따라 모험을 떠나서 메이드 업무를 수행하려고 했는데, 대단장님은 제가 몬드에 남아 있어야 안심이 된다고 하셨어요…. 대단장님이 절 이렇게 신임하시니 정말 기뻤죠! 나중에 대단장님에게 그 말을 들은 게 저뿐만이 아니라는 걸 들었지만… 어쨌든 신임받은 거니까요",
-            "sourceName": "vo_noel_teammate_varka_01.wem"
-        },
-        "71288591ddac69d1": {
-            "hash": "71288591ddac69d1",
-            "directory": "External14",
-            "voiceContent": "그는 그림자처럼 왔다가 바람처럼 사라지는 신비로운 사람이에요. 매일 중요한 임무들을 처리하죠. 가끔 마치 제가 그의 팀원인 것처럼 작은 임무도 맡겨요. …심부름 아니냐고요? 아니에요, 심부름이긴 하지만 제겐 중요한 일이라구요!",
-            "sourceName": "vo_noel_teammate_kaeya_01.wem"
-        },
-        "e9b09d9a3997f970": {
-            "hash": "e9b09d9a3997f970",
-            "directory": "External29",
-            "voiceContent": "그는 저에게 모험가 길드에 들어오라고 여러 차례 초청했어요. 기사단보다 모험가 길드가 제게 더 맞다면서… 당연히 그를 도와 평범한 모험가처럼 그의 아버지들을 돌볼 수는 있지만… 기사단은 제게 아주 특별한 의미가 있어요. 그리고 전, 포기하고 싶지 않은걸요. 역시 그의 제안을 받아들일 수 없어요",
-            "sourceName": "vo_noel_teammate_bennett_01.wem"
-        },
-        "c5ad6d3b64d370f5": {
-            "hash": "c5ad6d3b64d370f5",
-            "directory": "External24",
-            "voiceContent": "제 도움이 필요하세요? 아… 저와 이야기를 나누고 싶다고요? 좋아요, 그게 도움이 된다면 얼마든지요",
-            "sourceName": "vo_noel_friendship_01.wem"
-        },
-        "3f2a0f31faa07392": {
-            "hash": "3f2a0f31faa07392",
-            "directory": "External7",
-            "voiceContent": "괜찮아요, 어떤 일이든 제게 맡겨주세요. 제 기분은 신경 쓰실 필요 없어요. …네? 그건 「메이드」가 아니라 「도구」라고요? 음… 도구도 일을 많이 하면 기쁘지 않겠죠. 하지만 당신을 위한 일이라면 전 뿌듯하답니다",
-            "sourceName": "vo_noel_friendship_02.wem"
-        },
-        "c11e8129b76ffcdb": {
-            "hash": "c11e8129b76ffcdb",
-            "directory": "External24",
-            "voiceContent": "이, 이 간식들을 제게 주시는 건가요? 아, 아니에요. 이걸 어떻게 받아요! 그렇다면 저도 간식을 많이 만들어 드릴게요! 지금 바로요! 30분… 아, 아니… 1시간이면 돼요. 다른 일 먼저 하고 계시면 따끈따끈한 차와 간식을 준비해 놓을게요!",
-            "sourceName": "vo_noel_friendship_03.wem"
-        },
         "0758b36526c20728": {
             "hash": "0758b36526c20728",
             "directory": "External0",
             "voiceContent": "제가 매일 하는 일은 자질구레한 것들이지만, 당신의 모험과 생활에 도움이 된다면 정말 기쁘답니다…. 당신의 감사 인사에 이 일들에도 소소한 의미가 부여되거든요",
             "sourceName": "vo_noel_friendship_04.wem"
         },
-        "606acd5baad4e869": {
-            "hash": "606acd5baad4e869",
-            "directory": "External12",
-            "voiceContent": "저는 기사단을 위해 봉사하는 메이드예요. 항상 더 많은 사람을 돕고 싶었죠. 그런데 어느새 당신에게 쓰는 시간이 점점 많아졌네요…. 하, 이렇게 이기적으로 행동하는 건, 역시… 나쁜 거겠죠?",
-            "sourceName": "vo_noel_friendship_05.wem"
-        },
-        "6f0ef27c94c2e3af": {
-            "hash": "6f0ef27c94c2e3af",
-            "directory": "External13",
-            "voiceContent": "취미요? 전 청소하는 걸 좋아해요. 세탁, 바닥 청소, 창문 닦기 같은 거요. 더러운 걸 깨끗하게 만들고 나면 정말 뿌듯하죠. …네? 「휴식할 때 취미」요? 글쎄요? 음… 역시 청소가 좋아요!",
-            "sourceName": "vo_noel_pref_hobby.wem"
-        },
-        "2e63ccfa5f678156": {
-            "hash": "2e63ccfa5f678156",
-            "directory": "External5",
-            "voiceContent": "어떻게 해야 최소의 예산으로 최고의 물건을 많이 살 수 있을지가 고민이에요…. 혼자 리월에 가서 모든 상점의 가격을 비교하고, 다시 혼자서 모든 물건을 들고 온 적이 있는데… 그때 시간이 너무 오래 걸려서 진 단장님은 제가 풍마룡에게 잡아먹힌 줄 아셨대요…",
-            "sourceName": "vo_noel_dialog_annoyed.wem"
+        "0bf129b32fa67d32": {
+            "hash": "0bf129b32fa67d32",
+            "directory": "External1",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackMid_01.wem"
         },
         "0fc6664b9c8f1b76": {
             "hash": "0fc6664b9c8f1b76",
@@ -712,17 +370,59 @@
             "voiceContent": "당연히 「만족 샐러드」죠. 몬드의 자연을 한 접시에 담아, 영양가도 있고 칼로리도 낮아요…. 안 질리냐고요? 당연하죠, 엄청 맛있어요! 벌써 10년 넘게 먹어온걸요",
             "sourceName": "vo_noel_pref_foodLike.wem"
         },
-        "c85596c6020fd882": {
-            "hash": "c85596c6020fd882",
-            "directory": "External25",
-            "voiceContent": "전 편식은 안 해요! 하지만 골치 아픈 상황은 있죠…. 메이드로서 연회에 모든 음식을 전부 맛봐야 하는데, 이렇게 한 입씩 먹다 보면… 휴, 이건 정말 죄악이에요",
-            "sourceName": "vo_noel_pref_foodDislike.wem"
+        "0fca28e68ed149a3": {
+            "hash": "0fca28e68ed149a3",
+            "directory": "External1",
+            "voiceContent": "저에게 맡기세요! 준비됐어요",
+            "sourceName": "vo_card_noelle_invite_hard_01.wem"
         },
-        "ad246a787bdc09ed": {
-            "hash": "ad246a787bdc09ed",
-            "directory": "External21",
-            "voiceContent": "평범한 요리를 이렇게 맛있게 만드시다니, 선배님을 더 존경하게 됐어요!",
-            "sourceName": "vo_noel_spice_pref_01.wem"
+        "1678d212f419829f": {
+            "hash": "1678d212f419829f",
+            "directory": "External2",
+            "voiceContent": "괜… 괜찮아요, 약간의 손실일 뿐이에요…",
+            "sourceName": "vo_card_noelle_inGame_easy_02.wem"
+        },
+        "16be173417eb6ffc": {
+            "hash": "16be173417eb6ffc",
+            "directory": "External2",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackLight_01.wem"
+        },
+        "19a8608096a547cf": {
+            "hash": "19a8608096a547cf",
+            "directory": "External3",
+            "voiceContent": "기사의 품격에 주의하겠습니다",
+            "sourceName": "vo_noel_battle_skill3_02.wem"
+        },
+        "1d65914b7d015141": {
+            "hash": "1d65914b7d015141",
+            "directory": "External3",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackLight_04.wem"
+        },
+        "1fcbec2dcc4fa6ac": {
+            "hash": "1fcbec2dcc4fa6ac",
+            "directory": "External3",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_jump_04.wem"
+        },
+        "231d4133bf6c920e": {
+            "hash": "231d4133bf6c920e",
+            "directory": "External4",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_climb_03.wem"
+        },
+        "2447354569ee9db0": {
+            "hash": "2447354569ee9db0",
+            "directory": "External4",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_climb_01.wem"
+        },
+        "2992f23d1af11438": {
+            "hash": "2992f23d1af11438",
+            "directory": "External5",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_H_03.wem"
         },
         "29943b2e84463a53": {
             "hash": "29943b2e84463a53",
@@ -730,125 +430,59 @@
             "voiceContent": "정말 맛있네요. 저도 배우고 싶어요! 이것도 메이드의 일이니까요…",
             "sourceName": "vo_noel_spice_normal_01.wem"
         },
-        "e37806976376abc9": {
-            "hash": "e37806976376abc9",
-            "directory": "External28",
-            "voiceContent": "칼로리가… 이미 하루치를 초과한 것 같아요…",
-            "sourceName": "vo_noel_spice_dislike_01.wem"
+        "2e63ccfa5f678156": {
+            "hash": "2e63ccfa5f678156",
+            "directory": "External5",
+            "voiceContent": "어떻게 해야 최소의 예산으로 최고의 물건을 많이 살 수 있을지가 고민이에요…. 혼자 리월에 가서 모든 상점의 가격을 비교하고, 다시 혼자서 모든 물건을 들고 온 적이 있는데… 그때 시간이 너무 오래 걸려서 진 단장님은 제가 풍마룡에게 잡아먹힌 줄 아셨대요…",
+            "sourceName": "vo_noel_dialog_annoyed.wem"
         },
-        "a83dadc0edf7e254": {
-            "hash": "a83dadc0edf7e254",
-            "directory": "External21",
-            "voiceContent": "매일 모험하느라 바빠서, 아직 처리하지 못한 번거로운 일들이 쌓였나요? 오늘은 제가 당신의 전속 메이드니 전부 저한테 맡겨주세요! 그리고… 이 최고의 날에 태어난 당신의 생일을 축하해요!",
-            "sourceName": "vo_noel_pref_birthday.wem"
+        "3b7c000422811beb": {
+            "hash": "3b7c000422811beb",
+            "directory": "External7",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_H_04.wem"
         },
-        "e554ad3898e1b51a": {
-            "hash": "e554ad3898e1b51a",
-            "directory": "External28",
-            "voiceContent": "이게 바로… 새로운 힘? 고마워요, 이제 더 많은 사람을 도울 수 있겠어요",
-            "sourceName": "vo_noel_starUp_01.wem"
+        "3c74d2a4aaeb3bc8": {
+            "hash": "3c74d2a4aaeb3bc8",
+            "directory": "External7",
+            "voiceContent": "정말 기뻐요…",
+            "sourceName": "vo_noel_chest_open_02.wem"
         },
-        "42bfcb40ca2aa31d": {
-            "hash": "42bfcb40ca2aa31d",
-            "directory": "External8",
-            "voiceContent": "이 정도로 만족할 순 없어요. 정식으로 페보니우스 기사가 되기 전까지 더 노력할 거예요",
-            "sourceName": "vo_noel_starUp_02.wem"
+        "3d3d9b9789f6eb63": {
+            "hash": "3d3d9b9789f6eb63",
+            "directory": "External7",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_climb_breath_03.wem"
         },
-        "d3dbb149a88e2f4c": {
-            "hash": "d3dbb149a88e2f4c",
-            "directory": "External26",
-            "voiceContent": "당신과 함께 모험한 덕분에 이렇게 많이 성장했어요. 메이드로서 당신의 근심을 덜어줘야 하는데, 오히려 저 때문에 당신이 고생했네요…",
-            "sourceName": "vo_noel_starUp_03.wem"
+        "3db707ba25da2415": {
+            "hash": "3db707ba25da2415",
+            "directory": "External7",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackMid_02.wem"
         },
-        "5a28ff5312938177": {
-            "hash": "5a28ff5312938177",
-            "directory": "External11",
-            "voiceContent": "몬드성의 모두가 제가 전보다 훨씬 듬직해졌으니 곧 정식으로 페보니우스 기사가 될 수 있을 거라고 하네요. 하지만 사실 전… 네? 당신도 그렇게 생각한다고요? …그렇게 말해줘서 고마워요. 최고의 칭찬이네요!",
-            "sourceName": "vo_noel_starUp_04.wem"
+        "3dd1ddeb597c00fa": {
+            "hash": "3dd1ddeb597c00fa",
+            "directory": "External7",
+            "voiceContent": "지금 이 순간 승부를 가리는 거예요!",
+            "sourceName": "vo_card_noelle_inGame_hard_04.wem"
         },
-        "9eef4d18b9632044": {
-            "hash": "9eef4d18b9632044",
-            "directory": "External19",
-            "voiceContent": "괜찮아요, 가벼운 부상일 뿐이에요",
-            "sourceName": "vo_noel_life_less30_01.wem"
+        "3e721e2c0e281556": {
+            "hash": "3e721e2c0e281556",
+            "directory": "External7",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_H_01.wem"
         },
-        "74771b013fafa13b": {
-            "hash": "74771b013fafa13b",
-            "directory": "External14",
-            "voiceContent": "아, 옷이 다 더러워졌네요…",
-            "sourceName": "vo_noel_life_less30_02.wem"
+        "3eaa1bcbd02d238f": {
+            "hash": "3eaa1bcbd02d238f",
+            "directory": "External7",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackMid_04.wem"
         },
-        "ef1da9097ffea2f2": {
-            "hash": "ef1da9097ffea2f2",
-            "directory": "External29",
-            "voiceContent": "물러서지 않을 겁니다",
-            "sourceName": "vo_noel_life_less30_03.wem"
-        },
-        "faf1919006c989c0": {
-            "hash": "faf1919006c989c0",
-            "directory": "External31",
-            "voiceContent": "안녕히 계세요… 주인님…",
-            "sourceName": "vo_noel_life_die_03.wem"
-        },
-        "aeb64c34da745ab9": {
-            "hash": "aeb64c34da745ab9",
-            "directory": "External21",
-            "voiceContent": "으… 추태를 보였군요",
-            "sourceName": "vo_noel_battle_hit_H_02.wem"
-        },
-        "c2fbf251f09bb3ea": {
-            "hash": "c2fbf251f09bb3ea",
-            "directory": "External24",
-            "voiceContent": "따라잡을 수 있어요",
-            "sourceName": "vo_noel_explore_sprint_start_01.wem"
-        },
-        "f0ee9058e38ef36d": {
-            "hash": "f0ee9058e38ef36d",
-            "directory": "External30",
-            "voiceContent": "아직 제 도움이 필요한 사람이 있어요",
-            "sourceName": "vo_noel_explore_sprint_start_02.wem"
-        },
-        "6f93dd7c7589c995": {
-            "hash": "6f93dd7c7589c995",
-            "directory": "External13",
-            "voiceContent": "평범한 요리를 이렇게 맛있게 만드시다니, 선배님을 더 존경하게 됐어요!",
-            "sourceName": "vo_noelle_spice_event_pref_01.wem"
-        },
-        "5c9f97eb118e4b5b": {
-            "hash": "5c9f97eb118e4b5b",
-            "directory": "External11",
-            "voiceContent": "정말 맛있네요. 저도 배우고 싶어요! 이것도 메이드의 일이니까요…",
-            "sourceName": "vo_noelle_spice_event_normal_01.wem"
-        },
-        "dd6fcdd8d80c50c1": {
-            "hash": "dd6fcdd8d80c50c1",
-            "directory": "External27",
-            "voiceContent": "칼로리가… 이미 하루 치를 초과한 것 같아요…",
-            "sourceName": "vo_noelle_spice_event_dislike_01.wem"
-        },
-        "4d517afea3b5ca8c": {
-            "hash": "4d517afea3b5ca8c",
-            "directory": "External9",
-            "voiceContent": "이제 안심할 수 있겠네요…",
-            "sourceName": "vo_card_noelle_invite_hard_02.wem"
-        },
-        "583aacd533bdbfb3": {
-            "hash": "583aacd533bdbfb3",
-            "directory": "External11",
-            "voiceContent": "여긴 청소가 좀 필요해 보여요… 제가 도와줄게요!",
-            "sourceName": "vo_card_noelle_leave_01.wem"
-        },
-        "bd4e75afe765bd12": {
-            "hash": "bd4e75afe765bd12",
-            "directory": "External23",
-            "voiceContent": "으으… 졌네요… 더 실력을 키워야겠어요!",
-            "sourceName": "vo_card_noelle_invite_easy_03.wem"
-        },
-        "bc3594f5c5523f5d": {
-            "hash": "bc3594f5c5523f5d",
-            "directory": "External23",
-            "voiceContent": "제가… 카드를 너무 마음대로 낸 걸까요…",
-            "sourceName": "vo_card_noelle_invite_hard_03.wem"
+        "3f2a0f31faa07392": {
+            "hash": "3f2a0f31faa07392",
+            "directory": "External7",
+            "voiceContent": "괜찮아요, 어떤 일이든 제게 맡겨주세요. 제 기분은 신경 쓰실 필요 없어요. …네? 그건 「메이드」가 아니라 「도구」라고요? 음… 도구도 일을 많이 하면 기쁘지 않겠죠. 하지만 당신을 위한 일이라면 전 뿌듯하답니다",
+            "sourceName": "vo_noel_friendship_02.wem"
         },
         "3f42e7a7a435465b": {
             "hash": "3f42e7a7a435465b",
@@ -856,41 +490,89 @@
             "voiceContent": "이겼다… 앗! 테이블 정리는 제가 할게요",
             "sourceName": "vo_card_noelle_invite_easy_02.wem"
         },
-        "0fca28e68ed149a3": {
-            "hash": "0fca28e68ed149a3",
-            "directory": "External1",
-            "voiceContent": "저에게 맡기세요! 준비됐어요",
-            "sourceName": "vo_card_noelle_invite_hard_01.wem"
+        "40cbe6504f85d236": {
+            "hash": "40cbe6504f85d236",
+            "directory": "External8",
+            "voiceContent": "피곤하세요? 그럼 여기서 좀 쉬세요. 제가 차를 내올 테니… 설탕은 몇 개 넣으시겠어요?",
+            "sourceName": "vo_noel_explore_idle_02.wem"
         },
-        "c1de99c194cb43e4": {
-            "hash": "c1de99c194cb43e4",
-            "directory": "External24",
-            "voiceContent": "좋아요. 제대로 해볼게요!",
-            "sourceName": "vo_card_noelle_invite_easy_01.wem"
+        "422340f7837279e1": {
+            "hash": "422340f7837279e1",
+            "directory": "External8",
+            "voiceContent": "깔끔하게 처리해야 돼",
+            "sourceName": "vo_noel_battle_skill1_02.wem"
         },
-        "91a03d7792da6137": {
-            "hash": "91a03d7792da6137",
-            "directory": "External18",
-            "voiceContent": "「품위 있는 승리」라고 할 수 있을까요?",
-            "sourceName": "vo_card_noelle_endOfGame_win_01.wem"
+        "42bfcb40ca2aa31d": {
+            "hash": "42bfcb40ca2aa31d",
+            "directory": "External8",
+            "voiceContent": "이 정도로 만족할 순 없어요. 정식으로 페보니우스 기사가 되기 전까지 더 노력할 거예요",
+            "sourceName": "vo_noel_starUp_02.wem"
         },
-        "c11e5254ed477251": {
-            "hash": "c11e5254ed477251",
-            "directory": "External24",
-            "voiceContent": "다음 판엔… 최선을 다할 거예요!",
-            "sourceName": "vo_card_noelle_endOfGame_fail_01.wem"
+        "45f27a54ec89d7ec": {
+            "hash": "45f27a54ec89d7ec",
+            "directory": "External8",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_L_03.wem"
         },
-        "b9552a4e7b4c94d6": {
-            "hash": "b9552a4e7b4c94d6",
-            "directory": "External23",
-            "voiceContent": "페보니우스 기사들 사이에서 「일곱 성인의 소환」이 엄청 인기 있다고 들어서… 저도 해보고 싶어요…",
-            "sourceName": "vo_card_noelle_freetalk_01.wem"
+        "4978743466cf51a0": {
+            "hash": "4978743466cf51a0",
+            "directory": "External9",
+            "voiceContent": "저의 헌신은 자유로부터 나왔죠. 「메이드」는 제가 봤을 때 가장 자유로운 직업이에요. 요리사가 될 수도 있고, 정원사가 될 수도 있고, 또 전사가 될 수도 있죠. 당신이 필요하면 뭐든 될 수 있어요!",
+            "sourceName": "vo_noel_dialog_close.wem"
         },
-        "1678d212f419829f": {
-            "hash": "1678d212f419829f",
-            "directory": "External2",
-            "voiceContent": "괜… 괜찮아요, 약간의 손실일 뿐이에요…",
-            "sourceName": "vo_card_noelle_inGame_easy_02.wem"
+        "4d517afea3b5ca8c": {
+            "hash": "4d517afea3b5ca8c",
+            "directory": "External9",
+            "voiceContent": "이제 안심할 수 있겠네요…",
+            "sourceName": "vo_card_noelle_invite_hard_02.wem"
+        },
+        "515bba34c255a357": {
+            "hash": "515bba34c255a357",
+            "directory": "External10",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_jump_03.wem"
+        },
+        "5285a6466cd7a171": {
+            "hash": "5285a6466cd7a171",
+            "directory": "External10",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_jump_01.wem"
+        },
+        "54036b868adbfdc1": {
+            "hash": "54036b868adbfdc1",
+            "directory": "External10",
+            "voiceContent": "전… 모두를 지키고 싶어요…",
+            "sourceName": "vo_noel_life_die_02.wem"
+        },
+        "576b7643dcdd5dba": {
+            "hash": "576b7643dcdd5dba",
+            "directory": "External10",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_L_01.wem"
+        },
+        "57c10b775037e0ea": {
+            "hash": "57c10b775037e0ea",
+            "directory": "External10",
+            "voiceContent": "사실 좀 실망했어요…. 이 「신의 눈」이 저에 대한 신의 인정을 상징하긴 하지만, 왜 하필 「바람」의 성질과 가장 다른 「바위」일까요? 페보니우스 기사단에 가장 적합한 원소는 역시…",
+            "sourceName": "vo_noel_dialog_pendant.wem"
+        },
+        "583aacd533bdbfb3": {
+            "hash": "583aacd533bdbfb3",
+            "directory": "External11",
+            "voiceContent": "여긴 청소가 좀 필요해 보여요… 제가 도와줄게요!",
+            "sourceName": "vo_card_noelle_leave_01.wem"
+        },
+        "5a28ff5312938177": {
+            "hash": "5a28ff5312938177",
+            "directory": "External11",
+            "voiceContent": "몬드성의 모두가 제가 전보다 훨씬 듬직해졌으니 곧 정식으로 페보니우스 기사가 될 수 있을 거라고 하네요. 하지만 사실 전… 네? 당신도 그렇게 생각한다고요? …그렇게 말해줘서 고마워요. 최고의 칭찬이네요!",
+            "sourceName": "vo_noel_starUp_04.wem"
+        },
+        "5a5f9298ae3f2b88": {
+            "hash": "5a5f9298ae3f2b88",
+            "directory": "External11",
+            "voiceContent": "전장을 청소해야겠군요",
+            "sourceName": "vo_noel_battle_skill3_01.wem"
         },
         "5a82b0035c4b4dd7": {
             "hash": "5a82b0035c4b4dd7",
@@ -904,23 +586,41 @@
             "voiceContent": "음… 반격을 해야 하는데…",
             "sourceName": "vo_card_noelle_inGame_hard_03.wem"
         },
-        "bd66f01c70070136": {
-            "hash": "bd66f01c70070136",
-            "directory": "External23",
-            "voiceContent": "아직 기회가 있을 거예요!",
-            "sourceName": "vo_card_noelle_inGame_easy_03.wem"
+        "5c9f97eb118e4b5b": {
+            "hash": "5c9f97eb118e4b5b",
+            "directory": "External11",
+            "voiceContent": "정말 맛있네요. 저도 배우고 싶어요! 이것도 메이드의 일이니까요…",
+            "sourceName": "vo_noelle_spice_event_normal_01.wem"
         },
-        "abedc42d7fb32918": {
-            "hash": "abedc42d7fb32918",
-            "directory": "External21",
-            "voiceContent": "이 카드는 이제 빼주세요",
-            "sourceName": "vo_card_noelle_inGame_easy_01.wem"
+        "5f0f847afbe49f5b": {
+            "hash": "5f0f847afbe49f5b",
+            "directory": "External11",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_idle_01.wem"
         },
-        "d9ef421d4a2d2e70": {
-            "hash": "d9ef421d4a2d2e70",
-            "directory": "External27",
-            "voiceContent": "이렇게나 빨리…",
-            "sourceName": "vo_card_noelle_inGame_hard_02.wem"
+        "606acd5baad4e869": {
+            "hash": "606acd5baad4e869",
+            "directory": "External12",
+            "voiceContent": "저는 기사단을 위해 봉사하는 메이드예요. 항상 더 많은 사람을 돕고 싶었죠. 그런데 어느새 당신에게 쓰는 시간이 점점 많아졌네요…. 하, 이렇게 이기적으로 행동하는 건, 역시… 나쁜 거겠죠?",
+            "sourceName": "vo_noel_friendship_05.wem"
+        },
+        "639e708ca9481375": {
+            "hash": "639e708ca9481375",
+            "directory": "External12",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_idle_03.wem"
+        },
+        "648e88de108f7851": {
+            "hash": "648e88de108f7851",
+            "directory": "External12",
+            "voiceContent": "원래 대단장님을 따라 모험을 떠나서 메이드 업무를 수행하려고 했는데, 대단장님은 제가 몬드에 남아 있어야 안심이 된다고 하셨어요…. 대단장님이 절 이렇게 신임하시니 정말 기뻤죠! 나중에 대단장님에게 그 말을 들은 게 저뿐만이 아니라는 걸 들었지만… 어쨌든 신임받은 거니까요",
+            "sourceName": "vo_noel_teammate_varka_01.wem"
+        },
+        "66d1ff4740f4954a": {
+            "hash": "66d1ff4740f4954a",
+            "directory": "External12",
+            "voiceContent": "제가 지켜줄게요",
+            "sourceName": "vo_noel_teamJoin_02.wem"
         },
         "66dc7e03bae169a5": {
             "hash": "66dc7e03bae169a5",
@@ -928,11 +628,533 @@
             "voiceContent": "더 이상 기다릴 수 없어요!",
             "sourceName": "vo_card_noelle_inGame_easy_04.wem"
         },
-        "3dd1ddeb597c00fa": {
-            "hash": "3dd1ddeb597c00fa",
-            "directory": "External7",
-            "voiceContent": "지금 이 순간 승부를 가리는 거예요!",
-            "sourceName": "vo_card_noelle_inGame_hard_04.wem"
+        "6ba62c83e317dfd9": {
+            "hash": "6ba62c83e317dfd9",
+            "directory": "External13",
+            "voiceContent": "앉아서 차 한잔 하실래요? 제가 준비해드릴게요. 맞다, 하는 김에 장원 팬케이크도 만들어 봤어요. 자신 있는 요리니 꼭 드셔보세요",
+            "sourceName": "vo_noel_dialog_greetingNoon.wem"
+        },
+        "6ba710aae5b8e208": {
+            "hash": "6ba710aae5b8e208",
+            "directory": "External13",
+            "voiceContent": "전 매일 같은 일을 하는 것 뿐이에요. 진정한 기사들에 비해 아직 멀었죠…. 하지만 이건 기사가 되기 위한 수행이에요. 수행은 말로만 하는 게 아니죠",
+            "sourceName": "vo_noel_dialog_idle.wem"
+        },
+        "6d93dfcd96c2f3c7": {
+            "hash": "6d93dfcd96c2f3c7",
+            "directory": "External13",
+            "voiceContent": "아무리 급해도 하루 세끼를 대충 때우면 안 돼요. 의심스러운 음식을 먹거나 야채는 안 먹고 고기만 먹는다거나 하시면 안 돼요. 맞다, 그리고 위장에 안 좋으니 찬물은 되도록 마시지 마세요. 음, 「귀찮으니 노엘에게 맡겨야지」라고 생각하는 건 아니겠죠? 음… 정말 그렇게 생각한다면… 좋아요, 제게 맡기세요!",
+            "sourceName": "vo_noel_dialog_close1.wem"
+        },
+        "6f0ef27c94c2e3af": {
+            "hash": "6f0ef27c94c2e3af",
+            "directory": "External13",
+            "voiceContent": "취미요? 전 청소하는 걸 좋아해요. 세탁, 바닥 청소, 창문 닦기 같은 거요. 더러운 걸 깨끗하게 만들고 나면 정말 뿌듯하죠. …네? 「휴식할 때 취미」요? 글쎄요? 음… 역시 청소가 좋아요!",
+            "sourceName": "vo_noel_pref_hobby.wem"
+        },
+        "6f93dd7c7589c995": {
+            "hash": "6f93dd7c7589c995",
+            "directory": "External13",
+            "voiceContent": "평범한 요리를 이렇게 맛있게 만드시다니, 선배님을 더 존경하게 됐어요!",
+            "sourceName": "vo_noelle_spice_event_pref_01.wem"
+        },
+        "70f9253c467ea8a7": {
+            "hash": "70f9253c467ea8a7",
+            "directory": "External14",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackLight_06.wem"
+        },
+        "71288591ddac69d1": {
+            "hash": "71288591ddac69d1",
+            "directory": "External14",
+            "voiceContent": "그는 그림자처럼 왔다가 바람처럼 사라지는 신비로운 사람이에요. 매일 중요한 임무들을 처리하죠. 가끔 마치 제가 그의 팀원인 것처럼 작은 임무도 맡겨요. …심부름 아니냐고요? 아니에요, 심부름이긴 하지만 제겐 중요한 일이라구요!",
+            "sourceName": "vo_noel_teammate_kaeya_01.wem"
+        },
+        "713e7fbcf9398cdb": {
+            "hash": "713e7fbcf9398cdb",
+            "directory": "External14",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackHeavy_01.wem"
+        },
+        "741b485bdfaaf797": {
+            "hash": "741b485bdfaaf797",
+            "directory": "External14",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_L_04.wem"
+        },
+        "74771b013fafa13b": {
+            "hash": "74771b013fafa13b",
+            "directory": "External14",
+            "voiceContent": "아, 옷이 다 더러워졌네요…",
+            "sourceName": "vo_noel_life_less30_02.wem"
+        },
+        "75cd6bcea69d00f5": {
+            "hash": "75cd6bcea69d00f5",
+            "directory": "External14",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackHeavy_03.wem"
+        },
+        "76d983a47c7f94b1": {
+            "hash": "76d983a47c7f94b1",
+            "directory": "External14",
+            "voiceContent": "우린 종종 같이 차를 마셔요. 가끔 그녀는 듣기 좋은 멜로디를 흥얼거리며 영감을 찾죠. 그녀에게 음악적인 도움은 줄 수 없지만… 바바라와 이런 시간을 같이 보낼 수 있어서 정말 기뻐요!",
+            "sourceName": "vo_noel_teammate_barbara_01.wem"
+        },
+        "78ab346d8d101eb1": {
+            "hash": "78ab346d8d101eb1",
+            "directory": "External15",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_L_06.wem"
+        },
+        "7afdf52ad55694ab": {
+            "hash": "7afdf52ad55694ab",
+            "directory": "External15",
+            "voiceContent": "전 노엘이라고 해요. 페보니우스 기사단의 메이드죠. 오늘부터 당신과 함께 모험을 떠날 거예요. 곤란하거나 귀찮은 일이 생겨도 걱정 마세요. 제가 최선을 다해 해결해드릴게요. 네, 지금도 가능하답니다",
+            "sourceName": "vo_noel_draw_appear.wem"
+        },
+        "811245198c22bc93": {
+            "hash": "811245198c22bc93",
+            "directory": "External16",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackLight_02.wem"
+        },
+        "812be1e98131e468": {
+            "hash": "812be1e98131e468",
+            "directory": "External16",
+            "voiceContent": "제게 맡기세요! 제가 할게요!",
+            "sourceName": "vo_noel_life_less30_teammate_02.wem"
+        },
+        "85707661c4d5a7dc": {
+            "hash": "85707661c4d5a7dc",
+            "directory": "External16",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_sprint_start_03.wem"
+        },
+        "87c6bf5222ca4ba3": {
+            "hash": "87c6bf5222ca4ba3",
+            "directory": "External16",
+            "voiceContent": "날씨가 화창하니 「햇빛」과 관련된 일을 하는 게 좋겠어요. 네? 구체적으로요…? 당신의 마음을 화창하게 해줄 수 있는 일이라면 다 좋아요",
+            "sourceName": "vo_noel_weather_sunny_01.wem"
+        },
+        "8d768e0b2a4199a2": {
+            "hash": "8d768e0b2a4199a2",
+            "directory": "External17",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_H_05.wem"
+        },
+        "8eb00624edec1b7d": {
+            "hash": "8eb00624edec1b7d",
+            "directory": "External17",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_jump_05.wem"
+        },
+        "8eb39042bae3d279": {
+            "hash": "8eb39042bae3d279",
+            "directory": "External17",
+            "voiceContent": "그녀는 제가 아주 존경하는 선배예요. 실력도 좋고 사람들에게도 정말 친절하죠. 제게 「토끼 백작」 만드는 법도 가르쳐줬어요. 보세요, 이렇게 부적처럼 가지고 다녀요. 잘 만들었죠? 아, 걱정 마세요! 터지진 않으니까요",
+            "sourceName": "vo_noel_teammate_ambor_01.wem"
+        },
+        "8fa4e99e9213ce1a": {
+            "hash": "8fa4e99e9213ce1a",
+            "directory": "External17",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_climb_breath_02.wem"
+        },
+        "91a03d7792da6137": {
+            "hash": "91a03d7792da6137",
+            "directory": "External18",
+            "voiceContent": "「품위 있는 승리」라고 할 수 있을까요?",
+            "sourceName": "vo_card_noelle_endOfGame_win_01.wem"
+        },
+        "9453e6fe8b60b060": {
+            "hash": "9453e6fe8b60b060",
+            "directory": "External18",
+            "voiceContent": "제게 맡기세요",
+            "sourceName": "vo_noel_battle_skill1_03.wem"
+        },
+        "9695a3a1b9692fd9": {
+            "hash": "9695a3a1b9692fd9",
+            "directory": "External18",
+            "voiceContent": "들리세요? 바람 신의 소리예요. 마음이 복잡할 때마다 바람 소리를 들으면 평온해져요",
+            "sourceName": "vo_noel_weather_breezy_01.wem"
+        },
+        "97eafe88da051ce6": {
+            "hash": "97eafe88da051ce6",
+            "directory": "External18",
+            "voiceContent": "메이드의 예절에 주의하겠습니다",
+            "sourceName": "vo_noel_battle_skill3_03.wem"
+        },
+        "99ddc846d398539f": {
+            "hash": "99ddc846d398539f",
+            "directory": "External19",
+            "voiceContent": "제가 필요하시면 언제든지 당신 곁에 나타날게요",
+            "sourceName": "vo_noel_explore_idle_03.wem"
+        },
+        "9acffac1ce27440b": {
+            "hash": "9acffac1ce27440b",
+            "directory": "External19",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_fly_start_01.wem"
+        },
+        "9bfa26d378a9af65": {
+            "hash": "9bfa26d378a9af65",
+            "directory": "External19",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_fly_start_03.wem"
+        },
+        "9c99f5e2fcfeb9d7": {
+            "hash": "9c99f5e2fcfeb9d7",
+            "directory": "External19",
+            "voiceContent": "계속 궁금했던 건데, 그렇게 어린데 어떻게 정식 기사가 됐을까요? 한번은 그녀에게 경험을 공유해 달라고 했는데, 말이 끝나기도 전에 절 기사단 밖으로 끌고 가더니 폭탄 놀이를 하더군요…. 무슨 수행인 줄 알았는데, 나중에 진 단장님에게 들켜 같이 감금실에 갇혀 버렸죠…",
+            "sourceName": "vo_noel_teammate_klee_01.wem"
+        },
+        "9eef4d18b9632044": {
+            "hash": "9eef4d18b9632044",
+            "directory": "External19",
+            "voiceContent": "괜찮아요, 가벼운 부상일 뿐이에요",
+            "sourceName": "vo_noel_life_less30_01.wem"
+        },
+        "9f86444f66960a2a": {
+            "hash": "9f86444f66960a2a",
+            "directory": "External19",
+            "voiceContent": "그녀는 다른 세상에서 왔다고 들은 것 같은데, 다른 건 잘 모르겠어요…. 그러고 보니 그녀는 기사단의 도서관을 아주 좋아하는 것 같더라구요. 항상 거기서 책을 보고 있거든요. 청소할 때 가끔 따뜻한 다과를 드리면 매번 감사 인사를 해요. 그리고… 알아들을 수 없는 과장된 말을 하죠…",
+            "sourceName": "vo_noel_teammate_fischl_02.wem"
+        },
+        "a4daa32b7c0cbd17": {
+            "hash": "a4daa32b7c0cbd17",
+            "directory": "External20",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_climb_02.wem"
+        },
+        "a83dadc0edf7e254": {
+            "hash": "a83dadc0edf7e254",
+            "directory": "External21",
+            "voiceContent": "매일 모험하느라 바빠서, 아직 처리하지 못한 번거로운 일들이 쌓였나요? 오늘은 제가 당신의 전속 메이드니 전부 저한테 맡겨주세요! 그리고… 이 최고의 날에 태어난 당신의 생일을 축하해요!",
+            "sourceName": "vo_noel_pref_birthday.wem"
+        },
+        "abedc42d7fb32918": {
+            "hash": "abedc42d7fb32918",
+            "directory": "External21",
+            "voiceContent": "이 카드는 이제 빼주세요",
+            "sourceName": "vo_card_noelle_inGame_easy_01.wem"
+        },
+        "ad246a787bdc09ed": {
+            "hash": "ad246a787bdc09ed",
+            "directory": "External21",
+            "voiceContent": "평범한 요리를 이렇게 맛있게 만드시다니, 선배님을 더 존경하게 됐어요!",
+            "sourceName": "vo_noel_spice_pref_01.wem"
+        },
+        "aeb64c34da745ab9": {
+            "hash": "aeb64c34da745ab9",
+            "directory": "External21",
+            "voiceContent": "으… 추태를 보였군요",
+            "sourceName": "vo_noel_battle_hit_H_02.wem"
+        },
+        "b11014591bd21799": {
+            "hash": "b11014591bd21799",
+            "directory": "External22",
+            "voiceContent": "제게 맡기세요! 뭐든지 맡겨만 주세요!——아, 맞다. 무슨 부탁을 하셨죠? 잘 못 들었어요…",
+            "sourceName": "vo_noel_explore_idle_01.wem"
+        },
+        "b170944c0b4322bd": {
+            "hash": "b170944c0b4322bd",
+            "directory": "External22",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_L_02.wem"
+        },
+        "b6327d038307dd41": {
+            "hash": "b6327d038307dd41",
+            "directory": "External22",
+            "voiceContent": "이런, 아직 안 걷은 빨래가 있는데! 혹시 지금 걷으러 가도 될까요?",
+            "sourceName": "vo_noel_weather_heavyRain_01.wem"
+        },
+        "b85dcdc266298484": {
+            "hash": "b85dcdc266298484",
+            "directory": "External23",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackMid_03.wem"
+        },
+        "b9552a4e7b4c94d6": {
+            "hash": "b9552a4e7b4c94d6",
+            "directory": "External23",
+            "voiceContent": "페보니우스 기사들 사이에서 「일곱 성인의 소환」이 엄청 인기 있다고 들어서… 저도 해보고 싶어요…",
+            "sourceName": "vo_card_noelle_freetalk_01.wem"
+        },
+        "bc3594f5c5523f5d": {
+            "hash": "bc3594f5c5523f5d",
+            "directory": "External23",
+            "voiceContent": "제가… 카드를 너무 마음대로 낸 걸까요…",
+            "sourceName": "vo_card_noelle_invite_hard_03.wem"
+        },
+        "bd4e75afe765bd12": {
+            "hash": "bd4e75afe765bd12",
+            "directory": "External23",
+            "voiceContent": "으으… 졌네요… 더 실력을 키워야겠어요!",
+            "sourceName": "vo_card_noelle_invite_easy_03.wem"
+        },
+        "bd66f01c70070136": {
+            "hash": "bd66f01c70070136",
+            "directory": "External23",
+            "voiceContent": "아직 기회가 있을 거예요!",
+            "sourceName": "vo_card_noelle_inGame_easy_03.wem"
+        },
+        "c11e5254ed477251": {
+            "hash": "c11e5254ed477251",
+            "directory": "External24",
+            "voiceContent": "다음 판엔… 최선을 다할 거예요!",
+            "sourceName": "vo_card_noelle_endOfGame_fail_01.wem"
+        },
+        "c11e8129b76ffcdb": {
+            "hash": "c11e8129b76ffcdb",
+            "directory": "External24",
+            "voiceContent": "이, 이 간식들을 제게 주시는 건가요? 아, 아니에요. 이걸 어떻게 받아요! 그렇다면 저도 간식을 많이 만들어 드릴게요! 지금 바로요! 30분… 아, 아니… 1시간이면 돼요. 다른 일 먼저 하고 계시면 따끈따끈한 차와 간식을 준비해 놓을게요!",
+            "sourceName": "vo_noel_friendship_03.wem"
+        },
+        "c1de99c194cb43e4": {
+            "hash": "c1de99c194cb43e4",
+            "directory": "External24",
+            "voiceContent": "좋아요. 제대로 해볼게요!",
+            "sourceName": "vo_card_noelle_invite_easy_01.wem"
+        },
+        "c25cfdac973cd8ad": {
+            "hash": "c25cfdac973cd8ad",
+            "directory": "External24",
+            "voiceContent": "술의 냄새를 좋아하지만 아직 술을 마실 수 있는 나이가 안 됐어요…. 몰래 맛볼 기회가 여러 번 있었지만 참았죠. 역시 성인이 되는 날까지 아껴두고 싶어요",
+            "sourceName": "vo_noel_dialog_share.wem"
+        },
+        "c2fbf251f09bb3ea": {
+            "hash": "c2fbf251f09bb3ea",
+            "directory": "External24",
+            "voiceContent": "따라잡을 수 있어요",
+            "sourceName": "vo_noel_explore_sprint_start_01.wem"
+        },
+        "c32a83434e6e179e": {
+            "hash": "c32a83434e6e179e",
+            "directory": "External24",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackLight_07.wem"
+        },
+        "c453b754f8eedd40": {
+            "hash": "c453b754f8eedd40",
+            "directory": "External24",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackLight_05.wem"
+        },
+        "c45471e64c165160": {
+            "hash": "c45471e64c165160",
+            "directory": "External24",
+            "voiceContent": "당신이 페보니우스 기사단의 명예 기사가 되었다고 들었어요. 정말 부러워요…. 그럼 앞으로 제 선배시겠네요. 맞다, 그럼 환영회를 열어야죠! 바로 준비할게요!",
+            "sourceName": "vo_noel_dialog_close2.wem"
+        },
+        "c5ad6d3b64d370f5": {
+            "hash": "c5ad6d3b64d370f5",
+            "directory": "External24",
+            "voiceContent": "제 도움이 필요하세요? 아… 저와 이야기를 나누고 싶다고요? 좋아요, 그게 도움이 된다면 얼마든지요",
+            "sourceName": "vo_noel_friendship_01.wem"
+        },
+        "c85596c6020fd882": {
+            "hash": "c85596c6020fd882",
+            "directory": "External25",
+            "voiceContent": "전 편식은 안 해요! 하지만 골치 아픈 상황은 있죠…. 메이드로서 연회에 모든 음식을 전부 맛봐야 하는데, 이렇게 한 입씩 먹다 보면… 휴, 이건 정말 죄악이에요",
+            "sourceName": "vo_noel_pref_foodDislike.wem"
+        },
+        "cdd056bc5d001327": {
+            "hash": "cdd056bc5d001327",
+            "directory": "External25",
+            "voiceContent": "오늘도 고생하셨어요. 푹 쉬세요. 저는 기사단으로 돌아가 봐야 해요…. 네? 잠들 때까지 있어 달라고요? 음… 문제 될 건 없지만… 절 놀리시는 건 아니죠?",
+            "sourceName": "vo_noel_dialog_greetingNight2.wem"
+        },
+        "ce6896be8d2fc138": {
+            "hash": "ce6896be8d2fc138",
+            "directory": "External25",
+            "voiceContent": "전 다른 사람과 논쟁을 잘 못해요. 대부분 논리적으로 반박을 못 해서 오히려 상대의 화만 돋우죠. 그래서 그냥 제 생각대로 행동했더니 또 「고집」스럽다는 말을 들어요…. 전 그저 결과로 설득하고 싶은 것뿐인데 이것도 「고집」인가요?",
+            "sourceName": "vo_noel_dialog_idle2.wem"
+        },
+        "cf9e583d05b5784e": {
+            "hash": "cf9e583d05b5784e",
+            "directory": "External25",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_jump_02.wem"
+        },
+        "d0dfe2565c6e25ad": {
+            "hash": "d0dfe2565c6e25ad",
+            "directory": "External26",
+            "voiceContent": "예전에 도서관을 청소할 때 《피슬 황녀의 야화》라는 책이 있었어요. 판타지 소설인 줄만 알았는데… 주인공이 실제로 존재할 줄이야! 개인 전집이 있다니 정말 대단한 사람인가 봐요",
+            "sourceName": "vo_noel_teammate_fischl_01.wem"
+        },
+        "d3dbb149a88e2f4c": {
+            "hash": "d3dbb149a88e2f4c",
+            "directory": "External26",
+            "voiceContent": "당신과 함께 모험한 덕분에 이렇게 많이 성장했어요. 메이드로서 당신의 근심을 덜어줘야 하는데, 오히려 저 때문에 당신이 고생했네요…",
+            "sourceName": "vo_noel_starUp_03.wem"
+        },
+        "d9ef421d4a2d2e70": {
+            "hash": "d9ef421d4a2d2e70",
+            "directory": "External27",
+            "voiceContent": "이렇게나 빨리…",
+            "sourceName": "vo_card_noelle_inGame_hard_02.wem"
+        },
+        "dd6fcdd8d80c50c1": {
+            "hash": "dd6fcdd8d80c50c1",
+            "directory": "External27",
+            "voiceContent": "칼로리가… 이미 하루 치를 초과한 것 같아요…",
+            "sourceName": "vo_noelle_spice_event_dislike_01.wem"
+        },
+        "dfac8469f36a9387": {
+            "hash": "dfac8469f36a9387",
+            "directory": "External27",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_sprint_start_04.wem"
+        },
+        "dfdfea09ed8ce7cd": {
+            "hash": "dfdfea09ed8ce7cd",
+            "directory": "External27",
+            "voiceContent": "저녁은 모두가 쉬는 시간이자 제가 가장 바쁜 시간이기도 하죠…. 엠버 씨의 리본은 어디에 뒀는지, 케이아 씨의 새로 산 안대는 총 몇 개인지, 모두 기억하고 있답니다. 이건 메이드가 해야 할 일이니까요",
+            "sourceName": "vo_noel_dialog_greetingNight.wem"
+        },
+        "e1ab3694ec7a9ce4": {
+            "hash": "e1ab3694ec7a9ce4",
+            "directory": "External28",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_idle_02.wem"
+        },
+        "e37806976376abc9": {
+            "hash": "e37806976376abc9",
+            "directory": "External28",
+            "voiceContent": "칼로리가… 이미 하루치를 초과한 것 같아요…",
+            "sourceName": "vo_noel_spice_dislike_01.wem"
+        },
+        "e554ad3898e1b51a": {
+            "hash": "e554ad3898e1b51a",
+            "directory": "External28",
+            "voiceContent": "이게 바로… 새로운 힘? 고마워요, 이제 더 많은 사람을 도울 수 있겠어요",
+            "sourceName": "vo_noel_starUp_01.wem"
+        },
+        "e706429cd1ef168b": {
+            "hash": "e706429cd1ef168b",
+            "directory": "External28",
+            "voiceContent": "좋은 아침이에요. 아침 식사가 준비됐어요. 옆에 있을 테니 입맛에 안 맞으면 언제든 말씀하세요",
+            "sourceName": "vo_noel_dialog_greetingMorning.wem"
+        },
+        "e7e7ac1359027dc5": {
+            "hash": "e7e7ac1359027dc5",
+            "directory": "External28",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_H_06.wem"
+        },
+        "e7e832ef54df403e": {
+            "hash": "e7e832ef54df403e",
+            "directory": "External28",
+            "voiceContent": "바위의 무게는 사람을 안심시켜요",
+            "sourceName": "vo_noel_battle_skill1_01.wem"
+        },
+        "e859313efd66df53": {
+            "hash": "e859313efd66df53",
+            "directory": "External29",
+            "voiceContent": "당신이 바라는 대로",
+            "sourceName": "vo_noel_teamJoin_03.wem"
+        },
+        "e9b09d9a3997f970": {
+            "hash": "e9b09d9a3997f970",
+            "directory": "External29",
+            "voiceContent": "그는 저에게 모험가 길드에 들어오라고 여러 차례 초청했어요. 기사단보다 모험가 길드가 제게 더 맞다면서… 당연히 그를 도와 평범한 모험가처럼 그의 아버지들을 돌볼 수는 있지만… 기사단은 제게 아주 특별한 의미가 있어요. 그리고 전, 포기하고 싶지 않은걸요. 역시 그의 제안을 받아들일 수 없어요",
+            "sourceName": "vo_noel_teammate_bennett_01.wem"
+        },
+        "ea436c9da2fbbe89": {
+            "hash": "ea436c9da2fbbe89",
+            "directory": "External29",
+            "voiceContent": "보물에 먼지가 쌓였어요. 좀 닦을게요!",
+            "sourceName": "vo_noel_chest_open_03.wem"
+        },
+        "eb71a91c8b2b713a": {
+            "hash": "eb71a91c8b2b713a",
+            "directory": "External29",
+            "voiceContent": "번개 치는 날엔 실내에 있는 게 좋아요. 반드시 외출해야 한다면 저한테 맡겨주세요",
+            "sourceName": "vo_noel_weather_thunder_01.wem"
+        },
+        "ebb62fcef596f72f": {
+            "hash": "ebb62fcef596f72f",
+            "directory": "External29",
+            "voiceContent": "제가 치료해 드릴 테니 움직이지 마세요!",
+            "sourceName": "vo_noel_life_less30_teammate_01.wem"
+        },
+        "ece91d50aacc064d": {
+            "hash": "ece91d50aacc064d",
+            "directory": "External29",
+            "voiceContent": "정말 기뻐요…. 아, 음",
+            "sourceName": "vo_noel_teamJoin_01.wem"
+        },
+        "ed1007a6c35cbc1d": {
+            "hash": "ed1007a6c35cbc1d",
+            "directory": "External29",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_climb_breath_01.wem"
+        },
+        "edf46cda8069b294": {
+            "hash": "edf46cda8069b294",
+            "directory": "External29",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_explore_fly_start_02.wem"
+        },
+        "ef1da9097ffea2f2": {
+            "hash": "ef1da9097ffea2f2",
+            "directory": "External29",
+            "voiceContent": "물러서지 않을 겁니다",
+            "sourceName": "vo_noel_life_less30_03.wem"
+        },
+        "f0ee9058e38ef36d": {
+            "hash": "f0ee9058e38ef36d",
+            "directory": "External30",
+            "voiceContent": "아직 제 도움이 필요한 사람이 있어요",
+            "sourceName": "vo_noel_explore_sprint_start_02.wem"
+        },
+        "f25de664230acc8e": {
+            "hash": "f25de664230acc8e",
+            "directory": "External30",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_hit_L_05.wem"
+        },
+        "f3da31d6e9cf8a64": {
+            "hash": "f3da31d6e9cf8a64",
+            "directory": "External30",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackHeavy_02.wem"
+        },
+        "f4332dc487610358": {
+            "hash": "f4332dc487610358",
+            "directory": "External30",
+            "voiceContent": "전 진 단장님처럼 되고 싶어요. 저의 실력과 노력 모두 그분과 비교할 게 못 되죠. 그녀는 다른 사람에게도 자신에게처럼 엄격하니, 언젠가 그녀의 인정을 받게 된다면 제 노력에 대한 최고의 인정이겠죠. 그때까지 절대 긴장을 풀지 않을 거예요!",
+            "sourceName": "vo_noel_teammate_qin_01.wem"
+        },
+        "f9c85d7e5c48c41e": {
+            "hash": "f9c85d7e5c48c41e",
+            "directory": "External31",
+            "voiceContent": "기사단에… 먹칠을 했네요…",
+            "sourceName": "vo_noel_life_die_01.wem"
+        },
+        "faf1919006c989c0": {
+            "hash": "faf1919006c989c0",
+            "directory": "External31",
+            "voiceContent": "안녕히 계세요… 주인님…",
+            "sourceName": "vo_noel_life_die_03.wem"
+        },
+        "fbbca08c934fa40f": {
+            "hash": "fbbca08c934fa40f",
+            "directory": "External31",
+            "voiceContent": "만족해요",
+            "sourceName": "vo_noel_chest_open_01.wem"
+        },
+        "fc261321cccefc8a": {
+            "hash": "fc261321cccefc8a",
+            "directory": "External31",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_noel_battle_attackLight_03.wem"
+        },
+        "fc3d8068bfcc25cd": {
+            "hash": "fc3d8068bfcc25cd",
+            "directory": "External31",
+            "voiceContent": "메이드는 반드시 비밀을 엄수해야 하죠. 그래서 전 장미를 좋아해요. 장미는 몬드에서 「비밀」을 지키는 것을 뜻해요. 장미는 언제나 제게… 네? 당신의 고향에서 장미는 「사랑」을 뜻한다고요? …그, 그렇게 열정적인 뜻이 담겨 있었다니…",
+            "sourceName": "vo_noel_pref_gift.wem"
         }
     }
 }

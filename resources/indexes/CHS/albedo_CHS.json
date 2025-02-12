@@ -1,811 +1,991 @@
 {
-    "Teapot": {
-        "f5347e75d2a28b45": {
-            "hash": "f5347e75d2a28b45",
-            "directory": "External30",
-            "voiceContent": "有趣的摹本，照顾了各项细节，还有亲临野外探索才能找到的荒野气息。",
-            "sourceName": "vo_mimiTomo_md_albedo_adventure_01.wem"
-        },
-        "a9787d5c9143baf2": {
-            "hash": "a9787d5c9143baf2",
-            "directory": "External21",
-            "voiceContent": "不错的工坊，看来在这里我也能继续研究了。",
-            "sourceName": "vo_mimiTomo_md_albedo_alchemy_01.wem"
-        },
-        "594a216bcaa83844": {
-            "hash": "594a216bcaa83844",
-            "directory": "External11",
-            "voiceContent": "不介意的话我想和你进一步做些探讨，也许能给你带来帮助。",
-            "sourceName": "vo_mimiTomo_md_albedo_alchemy_03.wem"
-        },
-        "db3e5b63877761d5": {
-            "hash": "db3e5b63877761d5",
-            "directory": "External27",
-            "voiceContent": "我想，你是得到了某种秘术，能将现存于世的事物「描摹」下来吧？",
-            "sourceName": "vo_mimiTomo_md_albedo_alchemy_02.wem"
-        },
-        "48c8d2669c21296b": {
-            "hash": "48c8d2669c21296b",
-            "directory": "External9",
-            "voiceContent": "不知…你是否愿意成为我描摹的对象呢？",
-            "sourceName": "vo_mimiTomo_md_albedo_adventure_03.wem"
-        },
-        "9ac3606da3e1a722": {
-            "hash": "9ac3606da3e1a722",
-            "directory": "External19",
-            "voiceContent": "好，现在就来画一张写生吧。",
-            "sourceName": "vo_mimiTomo_md_albedo_adventure_02.wem"
-        },
-        "8b23aedc907ef761": {
-            "hash": "8b23aedc907ef761",
-            "directory": "External17",
-            "voiceContent": "晚安，愿你有个好梦。",
-            "sourceName": "vo_albedo_mimitomo_night_01.wem"
-        },
-        "75eb5e08f59fd7ac": {
-            "hash": "75eb5e08f59fd7ac",
-            "directory": "External14",
-            "voiceContent": "说来…以前我时常觉得，人际交往很浪费时间。",
-            "sourceName": "vo_albedo_mimitomo_friendship3_05.wem"
-        },
-        "3b984828a053fc26": {
-            "hash": "3b984828a053fc26",
-            "directory": "External7",
-            "voiceContent": "嗯，我想，书中说的「世外桃源」，大概就是这样的地方。",
-            "sourceName": "vo_albedo_mimitomo_friendship1_01.wem"
-        },
-        "ad535745a0df1fc7": {
-            "hash": "ad535745a0df1fc7",
-            "directory": "External21",
-            "voiceContent": "我们已经很默契了，不是吗？",
-            "sourceName": "vo_albedo_mimitomo_friendship3_09b_2.wem"
-        },
-        "e4cf7800173c4c7d": {
-            "hash": "e4cf7800173c4c7d",
-            "directory": "External28",
-            "voiceContent": "除开这些之外，还有很多。",
-            "sourceName": "vo_albedo_mimitomo_friendship3_04.wem"
-        },
-        "0413e95e56327d60": {
-            "hash": "0413e95e56327d60",
-            "directory": "External0",
-            "voiceContent": "谢谢。我会确保好你的安全，就像往常一样。",
-            "sourceName": "vo_albedo_mimitomo_friendship3_09b_1.wem"
-        },
-        "a77b2c0feba5d457": {
-            "hash": "a77b2c0feba5d457",
-            "directory": "External20",
-            "voiceContent": "有你的陪伴，灵感总是源源不断。",
-            "sourceName": "vo_albedo_mimitomo_friendship3_02.wem"
-        },
-        "9094c5a5ea8d6702": {
-            "hash": "9094c5a5ea8d6702",
-            "directory": "External18",
-            "voiceContent": "这是为什么呢？再给我多一些时间，我肯定能研究明白的。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_08.wem"
-        },
-        "6e09a3a64948911c": {
-            "hash": "6e09a3a64948911c",
-            "directory": "External13",
-            "voiceContent": "嗯，那是当然的。",
-            "sourceName": "vo_albedo_mimitomo_friendship1_03a_2.wem"
-        },
-        "4e27c8018b9eaf67": {
-            "hash": "4e27c8018b9eaf67",
-            "directory": "External9",
-            "voiceContent": "大概是你吧。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_05.wem"
-        },
-        "0f815a65fa23db65": {
-            "hash": "0f815a65fa23db65",
-            "directory": "External1",
-            "voiceContent": "后来，就试着学习了绘画。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_03a_4.wem"
-        },
-        "8aca59f7e8d6877a": {
-            "hash": "8aca59f7e8d6877a",
-            "directory": "External17",
-            "voiceContent": "这是一种很独特的现象，我想我大概能理解它的原因。",
-            "sourceName": "vo_albedo_mimitomo_friendship3_07.wem"
-        },
-        "e03f8bee69d72543": {
-            "hash": "e03f8bee69d72543",
-            "directory": "External28",
-            "voiceContent": "但在遇见你之后，比起其他事项，我更愿意把时间花在你身上。",
-            "sourceName": "vo_albedo_mimitomo_friendship3_06.wem"
-        },
-        "512ca08fbc1271d8": {
-            "hash": "512ca08fbc1271d8",
-            "directory": "External10",
-            "voiceContent": "嗯，这是很久以前养成的习惯了。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_03a_1.wem"
-        },
-        "8a9cb807bc6d80b2": {
-            "hash": "8a9cb807bc6d80b2",
-            "directory": "External17",
-            "voiceContent": "…谢谢你。",
-            "sourceName": "vo_albedo_mimitomo_friendship1_05.wem"
-        },
-        "a0582608938c6b5e": {
-            "hash": "a0582608938c6b5e",
-            "directory": "External20",
-            "voiceContent": "唔，除此之外的话…",
-            "sourceName": "vo_albedo_mimitomo_friendship2_04.wem"
-        },
-        "f3ecb9f95d0b75bc": {
-            "hash": "f3ecb9f95d0b75bc",
-            "directory": "External30",
-            "voiceContent": "啊…话题就交给你来决定吧。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_02.wem"
-        },
-        "25bdca182f05a94e": {
-            "hash": "25bdca182f05a94e",
-            "directory": "External4",
-            "voiceContent": "不管是画画也好，还是实验也好。",
-            "sourceName": "vo_albedo_mimitomo_friendship3_03.wem"
-        },
-        "bbb6ae753077185f": {
-            "hash": "bbb6ae753077185f",
-            "directory": "External23",
-            "voiceContent": "最初为了研究需要，我尝试过将事物用类似拓印的手法复现在纸上。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_03a_2.wem"
-        },
-        "43e0cfa20e89b3f3": {
-            "hash": "43e0cfa20e89b3f3",
-            "directory": "External8",
-            "voiceContent": "谢谢。那今天的题材——",
-            "sourceName": "vo_albedo_mimitomo_friendship3_09a_1.wem"
-        },
-        "fdfa3410c5048001": {
-            "hash": "fdfa3410c5048001",
-            "directory": "External31",
-            "voiceContent": "但现在…似乎不止是这样子。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_07.wem"
-        },
-        "26e7be29d987b4f0": {
-            "hash": "26e7be29d987b4f0",
-            "directory": "External4",
-            "voiceContent": "嗯，细说的话有不少。",
-            "sourceName": "vo_albedo_mimitomo_friendship3_01.wem"
-        },
-        "dcedbd9d6ae505ad": {
-            "hash": "dcedbd9d6ae505ad",
-            "directory": "External27",
-            "voiceContent": "哦，对了…",
-            "sourceName": "vo_albedo_mimitomo_friendship1_03a_3.wem"
-        },
-        "933278e9b5eb0954": {
-            "hash": "933278e9b5eb0954",
-            "directory": "External18",
-            "voiceContent": "在实验中研究各种各样的课题…",
-            "sourceName": "vo_albedo_mimitomo_friendship2_03b_2.wem"
-        },
-        "3081518e34625d33": {
-            "hash": "3081518e34625d33",
-            "directory": "External6",
-            "voiceContent": "……",
-            "sourceName": "vo_albedo_mimitomo_friendship1_03a_1.wem"
-        },
-        "84ce21ba26515ddc": {
-            "hash": "84ce21ba26515ddc",
-            "directory": "External16",
-            "voiceContent": "就画「你与洞天」吧。",
-            "sourceName": "vo_albedo_mimitomo_friendship3_09a_2.wem"
-        },
-        "30e8a0d461ebbdbe": {
-            "hash": "30e8a0d461ebbdbe",
-            "directory": "External6",
-            "voiceContent": "…应该不需要我给你读睡前故事吧？",
-            "sourceName": "vo_albedo_mimitomo_night_02.wem"
-        },
-        "3dd132e2ab462925": {
-            "hash": "3dd132e2ab462925",
-            "directory": "External7",
-            "voiceContent": "亲手揭开未知的秘密，最后掌握新的知识。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_03b_3.wem"
-        },
-        "3ca806d100c571cb": {
-            "hash": "3ca806d100c571cb",
-            "directory": "External7",
-            "voiceContent": "嗯，对我来说，世界是一座没有边界的书库。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_03b_1.wem"
-        },
-        "617ba06d01e3de94": {
-            "hash": "617ba06d01e3de94",
-            "directory": "External12",
-            "voiceContent": "掌握绘画技巧的同时，不知不觉已经沉浸其中了。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_03a_5.wem"
-        },
-        "4024b6b6dfd82a28": {
-            "hash": "4024b6b6dfd82a28",
-            "directory": "External8",
-            "voiceContent": "嗯…尽情发挥你的创意就好。",
-            "sourceName": "vo_albedo_mimitomo_friendship1_03b.wem"
-        },
-        "660bcc7eaf4972f6": {
-            "hash": "660bcc7eaf4972f6",
-            "directory": "External12",
-            "voiceContent": "不过那样效果不好，也缺乏灵魂。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_03a_3.wem"
-        },
-        "33d3e7df3355d0c9": {
-            "hash": "33d3e7df3355d0c9",
-            "directory": "External6",
-            "voiceContent": "所以，你也可以多给我一些…你的时间吗？",
-            "sourceName": "vo_albedo_mimitomo_friendship3_08.wem"
-        },
-        "5e40e7ded142c353": {
-            "hash": "5e40e7ded142c353",
-            "directory": "External11",
-            "voiceContent": "当然。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_01.wem"
-        },
-        "40b0494c629dc832": {
-            "hash": "40b0494c629dc832",
-            "directory": "External8",
-            "voiceContent": "另外，结束之后，我能有幸邀请你一起去吃个甜点吗？",
-            "sourceName": "vo_albedo_mimitomo_friendship3_10.wem"
-        },
-        "ee3a2b7fc121a2a4": {
-            "hash": "ee3a2b7fc121a2a4",
-            "directory": "External29",
-            "voiceContent": "远远听到了脚步声，嗯，果然是你。",
-            "sourceName": "vo_albedo_mimitomo_hello_02.wem"
-        },
-        "945ba4fb606bc0b6": {
-            "hash": "945ba4fb606bc0b6",
-            "directory": "External18",
-            "voiceContent": "这种感觉，令人着迷。",
-            "sourceName": "vo_albedo_mimitomo_friendship2_03b_4.wem"
-        },
-        "c2a3bb441f6b9e7b": {
-            "hash": "c2a3bb441f6b9e7b",
-            "directory": "External24",
-            "voiceContent": "作为意义的延续，还有对你陪伴的感谢。",
-            "sourceName": "vo_albedo_mimitomo_friendship3_11.wem"
-        },
-        "abdc76316ca04189": {
-            "hash": "abdc76316ca04189",
-            "directory": "External21",
-            "voiceContent": "幽静又安逸，全身心投入实验之后，甚至能够忘记时间。",
-            "sourceName": "vo_albedo_mimitomo_friendship1_02.wem"
-        },
-        "0c9029ff793b56fb": {
-            "hash": "0c9029ff793b56fb",
-            "directory": "External1",
-            "voiceContent": "有时我会随处写生，你在「洞天」之内的布设，也是我的灵感源泉。",
-            "sourceName": "vo_albedo_mimitomo_friendship1_04.wem"
-        },
-        "a4e85a1a40f20c00": {
-            "hash": "a4e85a1a40f20c00",
-            "directory": "External20",
-            "voiceContent": "一开始是因为你身上星海的气息…",
-            "sourceName": "vo_albedo_mimitomo_friendship2_06.wem"
-        },
-        "f793c5df2a0477fc": {
-            "hash": "f793c5df2a0477fc",
-            "directory": "External30",
-            "voiceContent": "不过如果你另有安排的话，我并不介意改变计划。",
-            "sourceName": "vo_albedo_mimitomo_morning_02.wem"
-        }
+    "Gameplay": {
+      "00aae199ea73b609": {
+        "directory": "External0",
+        "hash": "00aae199ea73b609",
+        "sourceName": "vo_albedo_life_die_01.wem",
+        "voiceContent": "尘归尘，土归土…"
+      },
+      "0412593dbd81529d": {
+        "directory": "External0",
+        "hash": "0412593dbd81529d",
+        "sourceName": "vo_albedo_dialog_idle2.wem",
+        "voiceContent": "与人交往…很麻烦。一旦开始就要不断维持，如果联系中断了，想再重新恢复，就得消耗更多的时间。"
+      },
+      "046e722d55bbfceb": {
+        "directory": "External0",
+        "hash": "046e722d55bbfceb",
+        "sourceName": "vo_albedo_battle_skill3_03.wem",
+        "voiceContent": "见证伟业吧。"
+      },
+      "0cc76b2287f409d8": {
+        "directory": "External1",
+        "hash": "0cc76b2287f409d8",
+        "sourceName": "vo_albedo_battle_attackLight_06.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "12241588dac79b8f": {
+        "directory": "External2",
+        "hash": "12241588dac79b8f",
+        "sourceName": "vo_albedo_life_die_03.wem",
+        "voiceContent": "我的研究，结束了…"
+      },
+      "1853a2480c8d506c": {
+        "directory": "External3",
+        "hash": "1853a2480c8d506c",
+        "sourceName": "vo_albedo_dialog_close1.wem",
+        "voiceContent": "能麻烦你当我的助手吗？鉴于你旁观了那么多次，想必早就熟练了吧。放心，我在你旁边。就算是第一次实际操作，也不会有问题的。我相信我的指导能力，更相信你的天赋。"
+      },
+      "1c093139cccb481e": {
+        "directory": "External3",
+        "hash": "1c093139cccb481e",
+        "sourceName": "vo_albedo_explore_jump_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "1d166affcdc57694": {
+        "directory": "External3",
+        "hash": "1d166affcdc57694",
+        "sourceName": "vo_albedo_battle_attackLight_02.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "1d32654b774c0dc0": {
+        "directory": "External3",
+        "hash": "1d32654b774c0dc0",
+        "sourceName": "vo_albedo_explore_jump_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "1e27770de8a8bcd3": {
+        "directory": "External3",
+        "hash": "1e27770de8a8bcd3",
+        "sourceName": "vo_albedo_friendship_04.wem",
+        "voiceContent": "除了画画和研究之外的生活…我偶尔会去看稻妻和璃月的小说吧，能看到很多很有趣的想法，有时也会为创作提供意想不到的灵感。"
+      },
+      "1e40d4f50c4dff90": {
+        "directory": "External3",
+        "hash": "1e40d4f50c4dff90",
+        "sourceName": "vo_albedo_spice_event_pref_01.wem",
+        "voiceContent": "味觉仿佛折射出了色彩…我想它是金色的。"
+      },
+      "2095a9e6b38ebfac": {
+        "directory": "External4",
+        "hash": "2095a9e6b38ebfac",
+        "sourceName": "vo_albedo_chest_open_01.wem",
+        "voiceContent": "大地的秘宝。"
+      },
+      "21a697117b2b0af6": {
+        "directory": "External4",
+        "hash": "21a697117b2b0af6",
+        "sourceName": "vo_albedo_battle_attackLight_04.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "270eb321b3c35d34": {
+        "directory": "External4",
+        "hash": "270eb321b3c35d34",
+        "sourceName": "vo_albedo_explore_climb_04.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "2d55e395a8237ce9": {
+        "directory": "External5",
+        "hash": "2d55e395a8237ce9",
+        "sourceName": "vo_albedo_explore_idle_02.wem",
+        "voiceContent": "「世界的真相」…究竟是什么呢？"
+      },
+      "2daf350d744f53aa": {
+        "directory": "External5",
+        "hash": "2daf350d744f53aa",
+        "sourceName": "vo_albedo_teammate_sucrose_02.wem",
+        "voiceContent": "虽然在学术方面的合作非常愉快，但课题以外的部分，砂糖也有很多她自己的坚持。比如我告诉她我们是平辈，叫我阿贝多就好，她却坚持要用尊称。…只好随她去了。"
+      },
+      "2fe7838b68d2b0e0": {
+        "directory": "External5",
+        "hash": "2fe7838b68d2b0e0",
+        "sourceName": "vo_albedo_battle_hit_L_04.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "30a558ffefec9335": {
+        "directory": "External6",
+        "hash": "30a558ffefec9335",
+        "sourceName": "vo_albedo_battle_hit_H_05.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "3246209a2dd710b0": {
+        "directory": "External6",
+        "hash": "3246209a2dd710b0",
+        "sourceName": "vo_albedo_teamJoin_02.wem",
+        "voiceContent": "是拓展课题吗？"
+      },
+      "3359ccfb5092fe86": {
+        "directory": "External6",
+        "hash": "3359ccfb5092fe86",
+        "sourceName": "vo_albedo_starUp_02.wem",
+        "voiceContent": "「白垩」，即是变化的开始。抽离了杂质，准备好接受一切知识。要和我一起去探索世界吗？"
+      },
+      "35591fdc794d8b8c": {
+        "directory": "External6",
+        "hash": "35591fdc794d8b8c",
+        "sourceName": "vo_albedo_dialog_greetingNight2.wem",
+        "voiceContent": "晚安，你先去休息吧，我打算把最后一个实验做完。既然你那么感兴趣…明日再会时，我再与你一起探讨实验结果吧。"
+      },
+      "3574a5d5a6c56f7a": {
+        "directory": "External6",
+        "hash": "3574a5d5a6c56f7a",
+        "sourceName": "vo_albedo_chest_open_03.wem",
+        "voiceContent": "虽无法比拟「黄金」，但终有价值。"
+      },
+      "361b1b9fa10bfb5e": {
+        "directory": "External6",
+        "hash": "361b1b9fa10bfb5e",
+        "sourceName": "vo_albedo_battle_attackHeavy_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "3aab4fb14e719c00": {
+        "directory": "External7",
+        "hash": "3aab4fb14e719c00",
+        "sourceName": "vo_albedo_battle_attackHeavy_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "3b457e04cd509378": {
+        "directory": "External7",
+        "hash": "3b457e04cd509378",
+        "sourceName": "vo_albedo_explore_fly_start_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "416391527005e5b3": {
+        "directory": "External8",
+        "hash": "416391527005e5b3",
+        "sourceName": "vo_albedo_battle_hit_L_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "435a3a918574c492": {
+        "directory": "External8",
+        "hash": "435a3a918574c492",
+        "sourceName": "vo_albedo_life_less30_02.wem",
+        "voiceContent": "需要重新评估…"
+      },
+      "438282b91ea360da": {
+        "directory": "External8",
+        "hash": "438282b91ea360da",
+        "sourceName": "vo_albedo_pref_gift.wem",
+        "voiceContent": "想知道更多石化古树的事情？唔…你在附近秘境里观测到的那些，其实不算古老。稍微成熟一些的树，一般能长到两三公里高；在树的根部，常常聚集着一种大蜘蛛。那种蜘蛛啊，用地栀子和香茅草捆紧，抹上白豆蔻，熏烤上几个小时，那香味，是真的很…令我难忘。"
+      },
+      "43be8d39b6910579": {
+        "directory": "External8",
+        "hash": "43be8d39b6910579",
+        "sourceName": "vo_albedo_explore_climb_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "449d01e54657240f": {
+        "directory": "External8",
+        "hash": "449d01e54657240f",
+        "sourceName": "vo_albedo_dialog_annoyed.wem",
+        "voiceContent": "时间真是不够用啊，即使把大部分麻烦的事情都推掉还是会觉得时间不够。"
+      },
+      "4cbea9f3bda46a96": {
+        "directory": "External9",
+        "hash": "4cbea9f3bda46a96",
+        "sourceName": "vo_albedo_explore_fly_start_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "54a8a117372eed62": {
+        "directory": "External10",
+        "hash": "54a8a117372eed62",
+        "sourceName": "vo_albedo_teammate_relatives_01.wem",
+        "voiceContent": "亲人吗？虽然艾莉丝总希望我喊她妈妈…唔，但在我心里，谈起亲人第一时间想到的还是师父吧。我从记事起就和她在一起探险了，她教会了我炼金术和无数世间的知识。或许…「亲人」或者「师父」，这些词汇都不足以描绘出她对我来说的意义吧。"
+      },
+      "5504c1184b2c2d0a": {
+        "directory": "External10",
+        "hash": "5504c1184b2c2d0a",
+        "sourceName": "vo_albedo_explore_jump_05.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "55c3c7b010b7aaa0": {
+        "directory": "External10",
+        "hash": "55c3c7b010b7aaa0",
+        "sourceName": "vo_albedo_teammate_lisa_01.wem",
+        "voiceContent": "丽莎吗？和她讨论总会得到很有价值的观点。如此有才华却满足于图书管理员一职，想必背后藏着与那才华等重的因缘吧。"
+      },
+      "566900345d7c7aa2": {
+        "directory": "External10",
+        "hash": "566900345d7c7aa2",
+        "sourceName": "vo_albedo_battle_skill3_02.wem",
+        "voiceContent": "冥古，于此显生。"
+      },
+      "56b6e12a699fde01": {
+        "directory": "External10",
+        "hash": "56b6e12a699fde01",
+        "sourceName": "vo_albedo_battle_skill1_03.wem",
+        "voiceContent": "创生之法。"
+      },
+      "5b1d8b1769a01246": {
+        "directory": "External11",
+        "hash": "5b1d8b1769a01246",
+        "sourceName": "vo_albedo_battle_hit_H_02.wem",
+        "voiceContent": "失算了…"
+      },
+      "5e435aef55b116a1": {
+        "directory": "External11",
+        "hash": "5e435aef55b116a1",
+        "sourceName": "vo_standbyShow_albedo_02.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "5f08d3146a276f2d": {
+        "directory": "External11",
+        "hash": "5f08d3146a276f2d",
+        "sourceName": "vo_albedo_teammate_sucrose_01.wem",
+        "voiceContent": "砂糖吗？我大概能理解她一心专攻「生物炼金」的理由…不管怎样，看到她的研究越来越顺利，我也为她感到高兴。"
+      },
+      "5fe173d443112bd4": {
+        "directory": "External11",
+        "hash": "5fe173d443112bd4",
+        "sourceName": "vo_albedo_draw_appear.wem",
+        "voiceContent": "我是阿贝多，西风骑士团首席炼金术士。我对你身上星海的气息很感兴趣，想要就近观察研究。相信以后我们会有很多独处的机会。"
+      },
+      "603eb537aaf264de": {
+        "directory": "External12",
+        "hash": "603eb537aaf264de",
+        "sourceName": "vo_albedo_friendship_01.wem",
+        "voiceContent": "有问题想问我？请说吧。啊，冒昧地问一句，应该不会花费太长时间吧？手头的研究马上要进入最后一个阶段了。"
+      },
+      "64cee94958580580": {
+        "directory": "External12",
+        "hash": "64cee94958580580",
+        "sourceName": "vo_albedo_friendship_03.wem",
+        "voiceContent": "人物画的耗时主要和心情有关。有时候霍夫曼我也能画半天，有时候凯亚都只需要三笔——这个圆是脸，这个是眼罩的带子…这个是眼罩。"
+      },
+      "67de55c23f81fe7e": {
+        "directory": "External12",
+        "hash": "67de55c23f81fe7e",
+        "sourceName": "vo_albedo_battle_attackMid_02.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "6a53a10bf1e6bcfc": {
+        "directory": "External13",
+        "hash": "6a53a10bf1e6bcfc",
+        "sourceName": "vo_albedo_life_less30_teammate_01.wem",
+        "voiceContent": "交给我吧。"
+      },
+      "6f50427d8b8c29b5": {
+        "directory": "External13",
+        "hash": "6f50427d8b8c29b5",
+        "sourceName": "vo_albedo_explore_climb_breath_02.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "70c2c1282f438ba3": {
+        "directory": "External14",
+        "hash": "70c2c1282f438ba3",
+        "sourceName": "vo_albedo_explore_idle_02.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "73ae09116b2c1926": {
+        "directory": "External14",
+        "hash": "73ae09116b2c1926",
+        "sourceName": "vo_albedo_explore_sprint_start_02.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "75be6f7db3a3b483": {
+        "directory": "External14",
+        "hash": "75be6f7db3a3b483",
+        "sourceName": "vo_albedo_dialog_idle.wem",
+        "voiceContent": "天才？…不少人这么称呼我。其实，我不这样认为。"
+      },
+      "76443f41fb5e81c1": {
+        "directory": "External14",
+        "hash": "76443f41fb5e81c1",
+        "sourceName": "vo_albedo_explore_jump_02.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "7684f5613f8cdbca": {
+        "directory": "External14",
+        "hash": "7684f5613f8cdbca",
+        "sourceName": "vo_albedo_spice_event_normal_01.wem",
+        "voiceContent": "你似乎很愿意花时间在做菜上，所以才能做出这样的味道。"
+      },
+      "77517907fc58b05f": {
+        "directory": "External14",
+        "hash": "77517907fc58b05f",
+        "sourceName": "vo_albedo_battle_attackLight_05.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "79d01ad36955c10a": {
+        "directory": "External15",
+        "hash": "79d01ad36955c10a",
+        "sourceName": "vo_albedo_spice_pref_01.wem",
+        "voiceContent": "味觉仿佛折射出了色彩…我想它是金色的。"
+      },
+      "8056ed1838040385": {
+        "directory": "External16",
+        "hash": "8056ed1838040385",
+        "sourceName": "vo_albedo_explore_climb_05.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "8149c129e25696ff": {
+        "directory": "External16",
+        "hash": "8149c129e25696ff",
+        "sourceName": "vo_albedo_explore_climb_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "82a65bac64bce750": {
+        "directory": "External16",
+        "hash": "82a65bac64bce750",
+        "sourceName": "vo_albedo_spice_normal_01.wem",
+        "voiceContent": "你似乎很愿意花时间在做菜上，所以才能做出这样的味道。"
+      },
+      "837bcf7c325140be": {
+        "directory": "External16",
+        "hash": "837bcf7c325140be",
+        "sourceName": "vo_albedo_battle_hit_L_06.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "839c75c0c39b658e": {
+        "directory": "External16",
+        "hash": "839c75c0c39b658e",
+        "sourceName": "vo_albedo_teammate_klee_01.wem",
+        "voiceContent": "我的确把可莉当作亲妹妹一样看，所以每次当这位妹妹惹出麻烦的时候，我都只能安慰自己，至少她现在的破坏力，还不及艾莉丝女士的零头。"
+      },
+      "86a8aec00610883b": {
+        "directory": "External16",
+        "hash": "86a8aec00610883b",
+        "sourceName": "vo_albedo_teammate_qin_01.wem",
+        "voiceContent": "琴吗？她是一位正直的代理团长，甚至可以说比那位团长大人更为可靠。可能大家心中都在期待着她成为正式团长的那一天吧。"
+      },
+      "86ed60ec1a1056e4": {
+        "directory": "External16",
+        "hash": "86ed60ec1a1056e4",
+        "sourceName": "vo_albedo_starUp_04.wem",
+        "voiceContent": "「黄金」，炼金术最后的阶段。无价值的事物终于找到了自己的意义，变化成了黄金。我，也找到了意义。"
+      },
+      "87f2cf7ab9c0badc": {
+        "directory": "External16",
+        "hash": "87f2cf7ab9c0badc",
+        "sourceName": "vo_albedo_dialog_share_01.wem",
+        "voiceContent": "一直有些难以开口，因为假设被你拒绝的话，我可能会失落吧…n嗯…我对你身边那个飞着的小家伙很感兴趣，方便让我拿去研究一下吗？"
+      },
+      "8ae9d7cc27c60d43": {
+        "directory": "External17",
+        "hash": "8ae9d7cc27c60d43",
+        "sourceName": "vo_albedo_chest_open_02.wem",
+        "voiceContent": "无言的叙事。"
+      },
+      "8e84c51a44942759": {
+        "directory": "External17",
+        "hash": "8e84c51a44942759",
+        "sourceName": "vo_albedo_battle_attackLight_07.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "9066b3911e2770a6": {
+        "directory": "External18",
+        "hash": "9066b3911e2770a6",
+        "sourceName": "vo_albedo_life_die_02.wem",
+        "voiceContent": "实验失败了吗？"
+      },
+      "9ca045162c3672ca": {
+        "directory": "External19",
+        "hash": "9ca045162c3672ca",
+        "sourceName": "vo_albedo_friendship_05.wem",
+        "voiceContent": "即便到了现在，师父传授给我的「黑土之术」仍是充满了谜团，师父到底想要用这个技术创造出什么呢？…研究之期还远未到尽头，得麻烦你和我一起继续探索了。"
+      },
+      "a2a5dc224278b444": {
+        "directory": "External20",
+        "hash": "a2a5dc224278b444",
+        "sourceName": "vo_albedo_dialog_greetingNight.wem",
+        "voiceContent": "外面安静下来了，呼。"
+      },
+      "a39dfb041cdf44e9": {
+        "directory": "External20",
+        "hash": "a39dfb041cdf44e9",
+        "sourceName": "vo_albedo_starUp_01.wem",
+        "voiceContent": "「黑土」，是炼金术的词源，也是最初的状态。活在这个世界上，我等俗类必须寻找意义。"
+      },
+      "a6e4751b303a0d67": {
+        "directory": "External20",
+        "hash": "a6e4751b303a0d67",
+        "sourceName": "vo_albedo_battle_skill1_01.wem",
+        "voiceContent": "绽放吧。"
+      },
+      "abc2c9cf4557be3d": {
+        "directory": "External21",
+        "hash": "abc2c9cf4557be3d",
+        "sourceName": "vo_albedo_pref_foodLike.wem",
+        "voiceContent": "我挺喜欢甜点的。怎么说呢…在体力和精力同时消耗殆尽的时候，高能量的物质会提供原始而高效的支持吧。"
+      },
+      "ad87faf6889cbfd2": {
+        "directory": "External21",
+        "hash": "ad87faf6889cbfd2",
+        "sourceName": "vo_albedo_battle_hit_H_06.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "ae4a134044280c8c": {
+        "directory": "External21",
+        "hash": "ae4a134044280c8c",
+        "sourceName": "vo_albedo_explore_idle_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "aeb11f08331d69a4": {
+        "directory": "External21",
+        "hash": "aeb11f08331d69a4",
+        "sourceName": "vo_albedo_battle_hit_H_04.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "aee838c414a1b193": {
+        "directory": "External21",
+        "hash": "aee838c414a1b193",
+        "sourceName": "vo_albedo_weather_snowy_01.wem",
+        "voiceContent": "师父…"
+      },
+      "b0da1e3c8c3d5ec5": {
+        "directory": "External22",
+        "hash": "b0da1e3c8c3d5ec5",
+        "sourceName": "vo_albedo_battle_skill3_01.wem",
+        "voiceContent": "此即，诞生之刻。"
+      },
+      "b2d98e803ff53017": {
+        "directory": "External22",
+        "hash": "b2d98e803ff53017",
+        "sourceName": "vo_albedo_teamJoin_01.wem",
+        "voiceContent": "了解。"
+      },
+      "b5172ef30d332a6f": {
+        "directory": "External22",
+        "hash": "b5172ef30d332a6f",
+        "sourceName": "vo_albedo_starUp_03.wem",
+        "voiceContent": "「赤成」，炼金术中的意思是，情感的炼化。我的赤色好像来自于你。"
+      },
+      "b7697a91ed5a5731": {
+        "directory": "External22",
+        "hash": "b7697a91ed5a5731",
+        "sourceName": "vo_albedo_teamJoin_03.wem",
+        "voiceContent": "一起探索吧。"
+      },
+      "bc765f5ab0b072aa": {
+        "directory": "External23",
+        "hash": "bc765f5ab0b072aa",
+        "sourceName": "vo_albedo_battle_hit_L_02.wem",
+        "voiceContent": "阈值以内…"
+      },
+      "bd02d7fc89f0b0f9": {
+        "directory": "External23",
+        "hash": "bd02d7fc89f0b0f9",
+        "sourceName": "vo_albedo_explore_fly_start_02.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "bd11b58cdbd73686": {
+        "directory": "External23",
+        "hash": "bd11b58cdbd73686",
+        "sourceName": "vo_albedo_explore_idle_01.wem",
+        "voiceContent": "风景不错，趁着休息，就把这一幕画下来吧。"
+      },
+      "bda8dbb091ff88ec": {
+        "directory": "External23",
+        "hash": "bda8dbb091ff88ec",
+        "sourceName": "vo_albedo_weather_heavyRain_01.wem",
+        "voiceContent": "土壤湿润，适合采集爆爆瓜的根。没事，我来动手就可以。"
+      },
+      "bde0c33fdc6a7981": {
+        "directory": "External23",
+        "hash": "bde0c33fdc6a7981",
+        "sourceName": "vo_albedo_friendship_02.wem",
+        "voiceContent": "啊，只是随口一提。不人为介入的话，黄金需要杀死一个八倍大的太阳才能自然生成。"
+      },
+      "bfeed605867a5fd6": {
+        "directory": "External23",
+        "hash": "bfeed605867a5fd6",
+        "sourceName": "vo_albedo_teammate_barbara_01.wem",
+        "voiceContent": "芭芭拉吗？她是一位认真的牧师，说来以前碰巧有机会给她画过速写…你问画哪儿去了？嗯…我拒绝了艾伯特的开价，直接把画送给了代理团长。人际交往…真是耗费精力啊。"
+      },
+      "c0f077b8c394ec07": {
+        "directory": "External24",
+        "hash": "c0f077b8c394ec07",
+        "sourceName": "vo_albedo_battle_attackMid_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "c1da1bab1e96ed96": {
+        "directory": "External24",
+        "hash": "c1da1bab1e96ed96",
+        "sourceName": "vo_albedo_teammate_xingqiu_01.wem",
+        "voiceContent": "行秋吗？他写的小说挺有趣的。稻妻那边的「八重堂」一直在旁敲侧击希望让我和别的作者合作，说这样版税收入也会更好。哼，我缺这点钱吗？"
+      },
+      "c21963ca6e153721": {
+        "directory": "External24",
+        "hash": "c21963ca6e153721",
+        "sourceName": "vo_albedo_battle_attackMid_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "c32a0f2f37606f5a": {
+        "directory": "External24",
+        "hash": "c32a0f2f37606f5a",
+        "sourceName": "vo_albedo_explore_idle_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "c54eac8942444ddb": {
+        "directory": "External24",
+        "hash": "c54eac8942444ddb",
+        "sourceName": "vo_albedo_life_less30_03.wem",
+        "voiceContent": "必须改变策略。"
+      },
+      "c9dd989aefa7c1f5": {
+        "directory": "External25",
+        "hash": "c9dd989aefa7c1f5",
+        "sourceName": "vo_albedo_life_less30_01.wem",
+        "voiceContent": "计算失误…"
+      },
+      "c9f1f8e71b83080b": {
+        "directory": "External25",
+        "hash": "c9f1f8e71b83080b",
+        "sourceName": "vo_albedo_battle_attackLight_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "cb1c24f8c6057365": {
+        "directory": "External25",
+        "hash": "cb1c24f8c6057365",
+        "sourceName": "vo_albedo_battle_attackLight_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "cb61b92035ec57a9": {
+        "directory": "External25",
+        "hash": "cb61b92035ec57a9",
+        "sourceName": "vo_albedo_battle_hit_H_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "cd68fe79e8c12a3b": {
+        "directory": "External25",
+        "hash": "cd68fe79e8c12a3b",
+        "sourceName": "vo_albedo_dialog_pendant.wem",
+        "voiceContent": "「神之眼」？不过就是个实验用的工具罢了，和烧杯、坩埚没什么不同。唯一让我感兴趣的，就是它的原理…我总有一天会研究明白的，这只是时间问题。"
+      },
+      "d37a5f30ea44bf16": {
+        "directory": "External26",
+        "hash": "d37a5f30ea44bf16",
+        "sourceName": "vo_albedo_explore_climb_02.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "d443c99f24109ba8": {
+        "directory": "External26",
+        "hash": "d443c99f24109ba8",
+        "sourceName": "vo_albedo_explore_idle_03.wem",
+        "voiceContent": "用自己的双脚丈量土地，将「未知」变为知识。…这种感觉，真怀念啊。"
+      },
+      "d4a7cef1661e0993": {
+        "directory": "External26",
+        "hash": "d4a7cef1661e0993",
+        "sourceName": "vo_albedo_life_less30_teammate_02.wem",
+        "voiceContent": "换人，对你来说太危险了。"
+      },
+      "d8c2da774b6a169a": {
+        "directory": "External27",
+        "hash": "d8c2da774b6a169a",
+        "sourceName": "vo_albedo_dialog_greetingNoon.wem",
+        "voiceContent": "午安，我听到了你的脚步声。工坊之外真是热闹啊。"
+      },
+      "d9f0f3100a7fed13": {
+        "directory": "External27",
+        "hash": "d9f0f3100a7fed13",
+        "sourceName": "vo_albedo_explore_jump_04.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "ddb6dd8460e47a61": {
+        "directory": "External27",
+        "hash": "ddb6dd8460e47a61",
+        "sourceName": "vo_albedo_battle_hit_L_05.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "df977175734b7f5f": {
+        "directory": "External27",
+        "hash": "df977175734b7f5f",
+        "sourceName": "vo_albedo_pref_foodDislike.wem",
+        "voiceContent": "讨厌的食物？餐馆里分量比较大的肉吧。我的胃口吃不了多少，只会面临「浪费」或者「失去风味」的结局。后来我就干脆不去餐馆了，虽然这也意味着要花更多时间在做菜上…"
+      },
+      "e040ed0f2923662f": {
+        "directory": "External28",
+        "hash": "e040ed0f2923662f",
+        "sourceName": "vo_albedo_battle_hit_H_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "e3d940be6696bfe1": {
+        "directory": "External28",
+        "hash": "e3d940be6696bfe1",
+        "sourceName": "vo_albedo_dialog_close.wem",
+        "voiceContent": "你…这是准备陪我做实验吗？呼，真荣幸。n啊，不用紧张。我的实验虽然危险，通常不会伤及无辜。"
+      },
+      "e3eabd98991e3f67": {
+        "directory": "External28",
+        "hash": "e3eabd98991e3f67",
+        "sourceName": "vo_albedo_battle_attackHeavy_02.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "e3f2371a37785e89": {
+        "directory": "External28",
+        "hash": "e3f2371a37785e89",
+        "sourceName": "vo_albedo_explore_sprint_start_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "e70d805dce0a646b": {
+        "directory": "External28",
+        "hash": "e70d805dce0a646b",
+        "sourceName": "vo_albedo_pref_birthday.wem",
+        "voiceContent": "生日快乐。你看起来很高兴，可以将你的样子画下来吗？大脑的容量是有限的，人总会不断忘记。如果画在纸上，那么这些画就成了记忆的延伸，在未来重新看到这些画面时，一定能回想起当时的感觉吧。"
+      },
+      "e93e8177fbaaa5a6": {
+        "directory": "External29",
+        "hash": "e93e8177fbaaa5a6",
+        "sourceName": "vo_albedo_spice_event_dislike_01.wem",
+        "voiceContent": "量有点大…要一起分享吗？"
+      },
+      "eaaa05089230cac4": {
+        "directory": "External29",
+        "hash": "eaaa05089230cac4",
+        "sourceName": "vo_albedo_spice_dislike_01.wem",
+        "voiceContent": "量有点大…要一起分享吗？"
+      },
+      "ec32e474243c5652": {
+        "directory": "External29",
+        "hash": "ec32e474243c5652",
+        "sourceName": "vo_albedo_explore_climb_breath_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "ed5c0885cebd0024": {
+        "directory": "External29",
+        "hash": "ed5c0885cebd0024",
+        "sourceName": "vo_albedo_explore_climb_breath_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "edcffd61a6888e2d": {
+        "directory": "External29",
+        "hash": "edcffd61a6888e2d",
+        "sourceName": "vo_albedo_battle_hit_L_01.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "f56b6b0927cc440f": {
+        "directory": "External30",
+        "hash": "f56b6b0927cc440f",
+        "sourceName": "vo_albedo_explore_sprint_start_03.wem",
+        "voiceContent": "AnimatorEven"
+      },
+      "f909773c077c9d1a": {
+        "directory": "External31",
+        "hash": "f909773c077c9d1a",
+        "sourceName": "vo_albedo_pref_hobby.wem",
+        "voiceContent": "嗯…研究之外我最愿意花时间去做的应该是画画吧。一开始只是为了理解物体与材料的构成，便于研究开展，不过到了后来就变成了爱好。嗯，也是一种很好的放松方式。"
+      },
+      "fa0b80023841618e": {
+        "directory": "External31",
+        "hash": "fa0b80023841618e",
+        "sourceName": "vo_albedo_weather_sunny_01.wem",
+        "voiceContent": "光线充足，生物行为活跃，嗯，很适合写生。"
+      },
+      "fae7aff5afe6cabe": {
+        "directory": "External31",
+        "hash": "fae7aff5afe6cabe",
+        "sourceName": "vo_albedo_dialog_greetingMorning.wem",
+        "voiceContent": "早安，是准备出门寻找古代遗物吗？"
+      },
+      "fda50733e58d6a00": {
+        "directory": "External31",
+        "hash": "fda50733e58d6a00",
+        "sourceName": "vo_albedo_battle_skill1_02.wem",
+        "voiceContent": "拟造阳华。"
+      }
     },
     "Quests": {},
-    "Gameplay": {
-        "a6e4751b303a0d67": {
-            "hash": "a6e4751b303a0d67",
-            "directory": "External20",
-            "voiceContent": "绽放吧。",
-            "sourceName": "vo_albedo_battle_skill1_01.wem"
-        },
-        "fda50733e58d6a00": {
-            "hash": "fda50733e58d6a00",
-            "directory": "External31",
-            "voiceContent": "拟造阳华。",
-            "sourceName": "vo_albedo_battle_skill1_02.wem"
-        },
-        "56b6e12a699fde01": {
-            "hash": "56b6e12a699fde01",
-            "directory": "External10",
-            "voiceContent": "创生之法。",
-            "sourceName": "vo_albedo_battle_skill1_03.wem"
-        },
-        "b0da1e3c8c3d5ec5": {
-            "hash": "b0da1e3c8c3d5ec5",
-            "directory": "External22",
-            "voiceContent": "此即，诞生之刻。",
-            "sourceName": "vo_albedo_battle_skill3_01.wem"
-        },
-        "566900345d7c7aa2": {
-            "hash": "566900345d7c7aa2",
-            "directory": "External10",
-            "voiceContent": "冥古，于此显生。",
-            "sourceName": "vo_albedo_battle_skill3_02.wem"
-        },
-        "046e722d55bbfceb": {
-            "hash": "046e722d55bbfceb",
-            "directory": "External0",
-            "voiceContent": "见证伟业吧。",
-            "sourceName": "vo_albedo_battle_skill3_03.wem"
-        },
-        "2095a9e6b38ebfac": {
-            "hash": "2095a9e6b38ebfac",
-            "directory": "External4",
-            "voiceContent": "大地的秘宝。",
-            "sourceName": "vo_albedo_chest_open_01.wem"
-        },
-        "8ae9d7cc27c60d43": {
-            "hash": "8ae9d7cc27c60d43",
-            "directory": "External17",
-            "voiceContent": "无言的叙事。",
-            "sourceName": "vo_albedo_chest_open_02.wem"
-        },
-        "3574a5d5a6c56f7a": {
-            "hash": "3574a5d5a6c56f7a",
-            "directory": "External6",
-            "voiceContent": "虽无法比拟「黄金」，但终有价值。",
-            "sourceName": "vo_albedo_chest_open_03.wem"
-        },
-        "6a53a10bf1e6bcfc": {
-            "hash": "6a53a10bf1e6bcfc",
-            "directory": "External13",
-            "voiceContent": "交给我吧。",
-            "sourceName": "vo_albedo_life_less30_teammate_01.wem"
-        },
-        "d4a7cef1661e0993": {
-            "hash": "d4a7cef1661e0993",
-            "directory": "External26",
-            "voiceContent": "换人，对你来说太危险了。",
-            "sourceName": "vo_albedo_life_less30_teammate_02.wem"
-        },
-        "00aae199ea73b609": {
-            "hash": "00aae199ea73b609",
-            "directory": "External0",
-            "voiceContent": "尘归尘，土归土…",
-            "sourceName": "vo_albedo_life_die_01.wem"
-        },
-        "9066b3911e2770a6": {
-            "hash": "9066b3911e2770a6",
-            "directory": "External18",
-            "voiceContent": "实验失败了吗？",
-            "sourceName": "vo_albedo_life_die_02.wem"
-        },
-        "b2d98e803ff53017": {
-            "hash": "b2d98e803ff53017",
-            "directory": "External22",
-            "voiceContent": "了解。",
-            "sourceName": "vo_albedo_teamJoin_01.wem"
-        },
-        "3246209a2dd710b0": {
-            "hash": "3246209a2dd710b0",
-            "directory": "External6",
-            "voiceContent": "是拓展课题吗？",
-            "sourceName": "vo_albedo_teamJoin_02.wem"
-        },
-        "b7697a91ed5a5731": {
-            "hash": "b7697a91ed5a5731",
-            "directory": "External22",
-            "voiceContent": "一起探索吧。",
-            "sourceName": "vo_albedo_teamJoin_03.wem"
-        },
-        "5fe173d443112bd4": {
-            "hash": "5fe173d443112bd4",
-            "directory": "External11",
-            "voiceContent": "我是阿贝多，西风骑士团首席炼金术士。我对你身上星海的气息很感兴趣，想要就近观察研究。相信以后我们会有很多独处的机会。",
-            "sourceName": "vo_albedo_draw_appear.wem"
-        },
-        "bd11b58cdbd73686": {
-            "hash": "bd11b58cdbd73686",
-            "directory": "External23",
-            "voiceContent": "风景不错，趁着休息，就把这一幕画下来吧。",
-            "sourceName": "vo_albedo_explore_idle_01.wem"
-        },
-        "2d55e395a8237ce9": {
-            "hash": "2d55e395a8237ce9",
-            "directory": "External5",
-            "voiceContent": "「世界的真相」…究竟是什么呢？",
-            "sourceName": "vo_albedo_explore_idle_02.wem"
-        },
-        "d443c99f24109ba8": {
-            "hash": "d443c99f24109ba8",
-            "directory": "External26",
-            "voiceContent": "用自己的双脚丈量土地，将「未知」变为知识。…这种感觉，真怀念啊。",
-            "sourceName": "vo_albedo_explore_idle_03.wem"
-        },
-        "bda8dbb091ff88ec": {
-            "hash": "bda8dbb091ff88ec",
-            "directory": "External23",
-            "voiceContent": "土壤湿润，适合采集爆爆瓜的根。没事，我来动手就可以。",
-            "sourceName": "vo_albedo_weather_heavyRain_01.wem"
-        },
-        "aee838c414a1b193": {
-            "hash": "aee838c414a1b193",
-            "directory": "External21",
-            "voiceContent": "师父…",
-            "sourceName": "vo_albedo_weather_snowy_01.wem"
-        },
-        "fa0b80023841618e": {
-            "hash": "fa0b80023841618e",
-            "directory": "External31",
-            "voiceContent": "光线充足，生物行为活跃，嗯，很适合写生。",
-            "sourceName": "vo_albedo_weather_sunny_01.wem"
-        },
-        "fae7aff5afe6cabe": {
-            "hash": "fae7aff5afe6cabe",
-            "directory": "External31",
-            "voiceContent": "早安，是准备出门寻找古代遗物吗？",
-            "sourceName": "vo_albedo_dialog_greetingMorning.wem"
-        },
-        "d8c2da774b6a169a": {
-            "hash": "d8c2da774b6a169a",
-            "directory": "External27",
-            "voiceContent": "午安，我听到了你的脚步声。工坊之外真是热闹啊。",
-            "sourceName": "vo_albedo_dialog_greetingNoon.wem"
-        },
-        "a2a5dc224278b444": {
-            "hash": "a2a5dc224278b444",
-            "directory": "External20",
-            "voiceContent": "外面安静下来了，呼。",
-            "sourceName": "vo_albedo_dialog_greetingNight.wem"
-        },
-        "35591fdc794d8b8c": {
-            "hash": "35591fdc794d8b8c",
-            "directory": "External6",
-            "voiceContent": "晚安，你先去休息吧，我打算把最后一个实验做完。既然你那么感兴趣…明日再会时，我再与你一起探讨实验结果吧。",
-            "sourceName": "vo_albedo_dialog_greetingNight2.wem"
-        },
-        "75be6f7db3a3b483": {
-            "hash": "75be6f7db3a3b483",
-            "directory": "External14",
-            "voiceContent": "天才？…不少人这么称呼我。其实，我不这样认为。",
-            "sourceName": "vo_albedo_dialog_idle.wem"
-        },
-        "1853a2480c8d506c": {
-            "hash": "1853a2480c8d506c",
-            "directory": "External3",
-            "voiceContent": "能麻烦你当我的助手吗？鉴于你旁观了那么多次，想必早就熟练了吧。放心，我在你旁边。就算是第一次实际操作，也不会有问题的。我相信我的指导能力，更相信你的天赋。",
-            "sourceName": "vo_albedo_dialog_close1.wem"
-        },
-        "0412593dbd81529d": {
-            "hash": "0412593dbd81529d",
-            "directory": "External0",
-            "voiceContent": "与人交往…很麻烦。一旦开始就要不断维持，如果联系中断了，想再重新恢复，就得消耗更多的时间。",
-            "sourceName": "vo_albedo_dialog_idle2.wem"
-        },
-        "e3d940be6696bfe1": {
-            "hash": "e3d940be6696bfe1",
-            "directory": "External28",
-            "voiceContent": "你…这是准备陪我做实验吗？呼，真荣幸。啊，不用紧张。我的实验虽然危险，通常不会伤及无辜。",
-            "sourceName": "vo_albedo_dialog_close.wem"
-        },
-        "cd68fe79e8c12a3b": {
-            "hash": "cd68fe79e8c12a3b",
-            "directory": "External25",
-            "voiceContent": "「神之眼」？不过就是个实验用的工具罢了，和烧杯、坩埚没什么不同。唯一让我感兴趣的，就是它的原理…我总有一天会研究明白的，这只是时间问题。",
-            "sourceName": "vo_albedo_dialog_pendant.wem"
-        },
-        "87f2cf7ab9c0badc": {
-            "hash": "87f2cf7ab9c0badc",
-            "directory": "External16",
-            "voiceContent": "一直有些难以开口，因为假设被你拒绝的话，我可能会失落吧…嗯…我对你身边那个飞着的小家伙很感兴趣，方便让我拿去研究一下吗？",
-            "sourceName": "vo_albedo_dialog_share_01.wem"
-        },
-        "438282b91ea360da": {
-            "hash": "438282b91ea360da",
-            "directory": "External8",
-            "voiceContent": "想知道更多石化古树的事情？唔…你在附近秘境里观测到的那些，其实不算古老。稍微成熟一些的树，一般能长到两三公里高；在树的根部，常常聚集着一种大蜘蛛。那种蜘蛛啊，用地栀子和香茅草捆紧，抹上白豆蔻，熏烤上几个小时，那香味，是真的很…令我难忘。",
-            "sourceName": "vo_albedo_pref_gift.wem"
-        },
-        "54a8a117372eed62": {
-            "hash": "54a8a117372eed62",
-            "directory": "External10",
-            "voiceContent": "亲人吗？虽然艾莉丝总希望我喊她妈妈…唔，但在我心里，谈起亲人第一时间想到的还是师父吧。我从记事起就和她在一起探险了，她教会了我炼金术和无数世间的知识。或许…「亲人」或者「师父」，这些词汇都不足以描绘出她对我来说的意义吧。",
-            "sourceName": "vo_albedo_teammate_relatives_01.wem"
-        },
-        "5f08d3146a276f2d": {
-            "hash": "5f08d3146a276f2d",
-            "directory": "External11",
-            "voiceContent": "砂糖吗？我大概能理解她一心专攻「生物炼金」的理由…不管怎样，看到她的研究越来越顺利，我也为她感到高兴。",
-            "sourceName": "vo_albedo_teammate_sucrose_01.wem"
-        },
-        "2daf350d744f53aa": {
-            "hash": "2daf350d744f53aa",
-            "directory": "External5",
-            "voiceContent": "虽然在学术方面的合作非常愉快，但课题以外的部分，砂糖也有很多她自己的坚持。比如我告诉她我们是平辈，叫我阿贝多就好，她却坚持要用尊称。…只好随她去了。",
-            "sourceName": "vo_albedo_teammate_sucrose_02.wem"
-        },
-        "c1da1bab1e96ed96": {
-            "hash": "c1da1bab1e96ed96",
-            "directory": "External24",
-            "voiceContent": "行秋吗？他写的小说挺有趣的。稻妻那边的「八重堂」一直在旁敲侧击希望让我和别的作者合作，说这样版税收入也会更好。哼，我缺这点钱吗？",
-            "sourceName": "vo_albedo_teammate_xingqiu_01.wem"
-        },
-        "bfeed605867a5fd6": {
-            "hash": "bfeed605867a5fd6",
-            "directory": "External23",
-            "voiceContent": "芭芭拉吗？她是一位认真的牧师，说来以前碰巧有机会给她画过速写…你问画哪儿去了？嗯…我拒绝了艾伯特的开价，直接把画送给了代理团长。人际交往…真是耗费精力啊。",
-            "sourceName": "vo_albedo_teammate_barbara_01.wem"
-        },
-        "55c3c7b010b7aaa0": {
-            "hash": "55c3c7b010b7aaa0",
-            "directory": "External10",
-            "voiceContent": "丽莎吗？和她讨论总会得到很有价值的观点。如此有才华却满足于图书管理员一职，想必背后藏着与那才华等重的因缘吧。",
-            "sourceName": "vo_albedo_teammate_lisa_01.wem"
-        },
-        "839c75c0c39b658e": {
-            "hash": "839c75c0c39b658e",
-            "directory": "External16",
-            "voiceContent": "我的确把可莉当作亲妹妹一样看，所以每次当这位妹妹惹出麻烦的时候，我都只能安慰自己，至少她现在的破坏力，还不及艾莉丝女士的零头。",
-            "sourceName": "vo_albedo_teammate_klee_01.wem"
-        },
-        "86a8aec00610883b": {
-            "hash": "86a8aec00610883b",
-            "directory": "External16",
-            "voiceContent": "琴吗？她是一位正直的代理团长，甚至可以说比那位团长大人更为可靠。可能大家心中都在期待着她成为正式团长的那一天吧。",
-            "sourceName": "vo_albedo_teammate_qin_01.wem"
-        },
-        "603eb537aaf264de": {
-            "hash": "603eb537aaf264de",
-            "directory": "External12",
-            "voiceContent": "有问题想问我？请说吧。啊，冒昧地问一句，应该不会花费太长时间吧？手头的研究马上要进入最后一个阶段了。",
-            "sourceName": "vo_albedo_friendship_01.wem"
-        },
-        "bde0c33fdc6a7981": {
-            "hash": "bde0c33fdc6a7981",
-            "directory": "External23",
-            "voiceContent": "啊，只是随口一提。不人为介入的话，黄金需要杀死一个八倍大的太阳才能自然生成。",
-            "sourceName": "vo_albedo_friendship_02.wem"
-        },
-        "64cee94958580580": {
-            "hash": "64cee94958580580",
-            "directory": "External12",
-            "voiceContent": "人物画的耗时主要和心情有关。有时候霍夫曼我也能画半天，有时候凯亚都只需要三笔——这个圆是脸，这个是眼罩的带子…这个是眼罩。",
-            "sourceName": "vo_albedo_friendship_03.wem"
-        },
-        "1e27770de8a8bcd3": {
-            "hash": "1e27770de8a8bcd3",
-            "directory": "External3",
-            "voiceContent": "除了画画和研究之外的生活…我偶尔会去看稻妻和璃月的小说吧，能看到很多很有趣的想法，有时也会为创作提供意想不到的灵感。",
-            "sourceName": "vo_albedo_friendship_04.wem"
-        },
-        "9ca045162c3672ca": {
-            "hash": "9ca045162c3672ca",
-            "directory": "External19",
-            "voiceContent": "即便到了现在，师父传授给我的「黑土之术」仍是充满了谜团，师父到底想要用这个技术创造出什么呢？…研究之期还远未到尽头，得麻烦你和我一起继续探索了。",
-            "sourceName": "vo_albedo_friendship_05.wem"
-        },
-        "f909773c077c9d1a": {
-            "hash": "f909773c077c9d1a",
-            "directory": "External31",
-            "voiceContent": "嗯…研究之外我最愿意花时间去做的应该是画画吧。一开始只是为了理解物体与材料的构成，便于研究开展，不过到了后来就变成了爱好。嗯，也是一种很好的放松方式。",
-            "sourceName": "vo_albedo_pref_hobby.wem"
-        },
-        "449d01e54657240f": {
-            "hash": "449d01e54657240f",
-            "directory": "External8",
-            "voiceContent": "时间真是不够用啊，即使把大部分麻烦的事情都推掉还是会觉得时间不够。",
-            "sourceName": "vo_albedo_dialog_annoyed.wem"
-        },
-        "abc2c9cf4557be3d": {
-            "hash": "abc2c9cf4557be3d",
-            "directory": "External21",
-            "voiceContent": "我挺喜欢甜点的。怎么说呢…在体力和精力同时消耗殆尽的时候，高能量的物质会提供原始而高效的支持吧。",
-            "sourceName": "vo_albedo_pref_foodLike.wem"
-        },
-        "df977175734b7f5f": {
-            "hash": "df977175734b7f5f",
-            "directory": "External27",
-            "voiceContent": "讨厌的食物？餐馆里分量比较大的肉吧。我的胃口吃不了多少，只会面临「浪费」或者「失去风味」的结局。后来我就干脆不去餐馆了，虽然这也意味着要花更多时间在做菜上…",
-            "sourceName": "vo_albedo_pref_foodDislike.wem"
-        },
-        "79d01ad36955c10a": {
-            "hash": "79d01ad36955c10a",
-            "directory": "External15",
-            "voiceContent": "味觉仿佛折射出了色彩…我想它是金色的。",
-            "sourceName": "vo_albedo_spice_pref_01.wem"
-        },
-        "82a65bac64bce750": {
-            "hash": "82a65bac64bce750",
-            "directory": "External16",
-            "voiceContent": "你似乎很愿意花时间在做菜上，所以才能做出这样的味道。",
-            "sourceName": "vo_albedo_spice_normal_01.wem"
-        },
-        "eaaa05089230cac4": {
-            "hash": "eaaa05089230cac4",
-            "directory": "External29",
-            "voiceContent": "量有点大…要一起分享吗？",
-            "sourceName": "vo_albedo_spice_dislike_01.wem"
-        },
-        "e70d805dce0a646b": {
-            "hash": "e70d805dce0a646b",
-            "directory": "External28",
-            "voiceContent": "生日快乐。你看起来很高兴，可以将你的样子画下来吗？大脑的容量是有限的，人总会不断忘记。如果画在纸上，那么这些画就成了记忆的延伸，在未来重新看到这些画面时，一定能回想起当时的感觉吧。",
-            "sourceName": "vo_albedo_pref_birthday.wem"
-        },
-        "a39dfb041cdf44e9": {
-            "hash": "a39dfb041cdf44e9",
-            "directory": "External20",
-            "voiceContent": "「黑土」，是炼金术的词源，也是最初的状态。活在这个世界上，我等俗类必须寻找意义。",
-            "sourceName": "vo_albedo_starUp_01.wem"
-        },
-        "3359ccfb5092fe86": {
-            "hash": "3359ccfb5092fe86",
-            "directory": "External6",
-            "voiceContent": "「白垩」，即是变化的开始。抽离了杂质，准备好接受一切知识。要和我一起去探索世界吗？",
-            "sourceName": "vo_albedo_starUp_02.wem"
-        },
-        "b5172ef30d332a6f": {
-            "hash": "b5172ef30d332a6f",
-            "directory": "External22",
-            "voiceContent": "「赤成」，炼金术中的意思是，情感的炼化。我的赤色好像来自于你。",
-            "sourceName": "vo_albedo_starUp_03.wem"
-        },
-        "86ed60ec1a1056e4": {
-            "hash": "86ed60ec1a1056e4",
-            "directory": "External16",
-            "voiceContent": "「黄金」，炼金术最后的阶段。无价值的事物终于找到了自己的意义，变化成了黄金。我，也找到了意义。",
-            "sourceName": "vo_albedo_starUp_04.wem"
-        },
-        "c9dd989aefa7c1f5": {
-            "hash": "c9dd989aefa7c1f5",
-            "directory": "External25",
-            "voiceContent": "计算失误…",
-            "sourceName": "vo_albedo_life_less30_01.wem"
-        },
-        "435a3a918574c492": {
-            "hash": "435a3a918574c492",
-            "directory": "External8",
-            "voiceContent": "需要重新评估…",
-            "sourceName": "vo_albedo_life_less30_02.wem"
-        },
-        "c54eac8942444ddb": {
-            "hash": "c54eac8942444ddb",
-            "directory": "External24",
-            "voiceContent": "必须改变策略。",
-            "sourceName": "vo_albedo_life_less30_03.wem"
-        },
-        "12241588dac79b8f": {
-            "hash": "12241588dac79b8f",
-            "directory": "External2",
-            "voiceContent": "我的研究，结束了…",
-            "sourceName": "vo_albedo_life_die_03.wem"
-        },
-        "5b1d8b1769a01246": {
-            "hash": "5b1d8b1769a01246",
-            "directory": "External11",
-            "voiceContent": "失算了…",
-            "sourceName": "vo_albedo_battle_hit_H_02.wem"
-        },
-        "bc765f5ab0b072aa": {
-            "hash": "bc765f5ab0b072aa",
-            "directory": "External23",
-            "voiceContent": "阈值以内…",
-            "sourceName": "vo_albedo_battle_hit_L_02.wem"
-        },
-        "e93e8177fbaaa5a6": {
-            "hash": "e93e8177fbaaa5a6",
-            "directory": "External29",
-            "voiceContent": "量有点大…要一起分享吗？",
-            "sourceName": "vo_albedo_spice_event_dislike_01.wem"
-        },
-        "7684f5613f8cdbca": {
-            "hash": "7684f5613f8cdbca",
-            "directory": "External14",
-            "voiceContent": "你似乎很愿意花时间在做菜上，所以才能做出这样的味道。",
-            "sourceName": "vo_albedo_spice_event_normal_01.wem"
-        },
-        "1e40d4f50c4dff90": {
-            "hash": "1e40d4f50c4dff90",
-            "directory": "External3",
-            "voiceContent": "味觉仿佛折射出了色彩…我想它是金色的。",
-            "sourceName": "vo_albedo_spice_event_pref_01.wem"
-        },
-        "fbf83676de3870c1": {
-            "hash": "fbf83676de3870c1",
-            "directory": "External31",
-            "voiceContent": "这点程度的考验果然难不倒你。",
-            "sourceName": "vo_card_albedo_invite_easy_03.wem"
-        },
-        "e519d1d7c435a837": {
-            "hash": "e519d1d7c435a837",
-            "directory": "External28",
-            "voiceContent": "不错，达成了预期目标。下一个目标的话…",
-            "sourceName": "vo_card_albedo_invite_hard_02.wem"
-        },
-        "a2e65c805a25fcc0": {
-            "hash": "a2e65c805a25fcc0",
-            "directory": "External20",
-            "voiceContent": "不需沮丧。你只是需要改变一下思路。",
-            "sourceName": "vo_card_albedo_invite_easy_02.wem"
-        },
-        "0fc8e3ef3e183350": {
-            "hash": "0fc8e3ef3e183350",
-            "directory": "External1",
-            "voiceContent": "这种卡牌游戏我已旁观过几局，也略有些想法…正好来陪我做些实验吧。",
-            "sourceName": "vo_card_albedo_invite_hard_01.wem"
-        },
-        "635c6fe007957d2e": {
-            "hash": "635c6fe007957d2e",
-            "directory": "External12",
-            "voiceContent": "获得了预期之外的结论…我很满意。",
-            "sourceName": "vo_card_albedo_invite_hard_03.wem"
-        },
-        "9844eb2a165d01b8": {
-            "hash": "9844eb2a165d01b8",
-            "directory": "External19",
-            "voiceContent": "不错的对局，刚好适合放松心情。",
-            "sourceName": "vo_card_albedo_endOfGame_win_01.wem"
-        },
-        "e6c90b3fb0827524": {
-            "hash": "e6c90b3fb0827524",
-            "directory": "External28",
-            "voiceContent": "你赢了，恭喜。看来我也得重新评估一下自己的出牌思路了。",
-            "sourceName": "vo_card_albedo_endOfGame_fail_01.wem"
-        },
-        "dffde06796c5bec3": {
-            "hash": "dffde06796c5bec3",
-            "directory": "External27",
-            "voiceContent": "这里可真是热闹。究竟是什么原因让人们这么喜欢卡牌游戏呢？",
-            "sourceName": "vo_card_albedo_freetalk_01.wem"
-        },
-        "82fc8ea4ccd4e1c0": {
-            "hash": "82fc8ea4ccd4e1c0",
-            "directory": "External16",
-            "voiceContent": "嗯，先去休息吧。我稍后也要回去继续工作了。",
-            "sourceName": "vo_card_albedo_leave_01.wem"
-        },
-        "4f8bca67a7b5c827": {
-            "hash": "4f8bca67a7b5c827",
-            "directory": "External9",
-            "voiceContent": "既然你这么感兴趣，那我们就来玩一场吧。",
-            "sourceName": "vo_card_albedo_invite_easy_01.wem"
-        },
-        "806e54f018e797a1": {
-            "hash": "806e54f018e797a1",
-            "directory": "External16",
-            "voiceContent": "增添些挑战吧。",
-            "sourceName": "vo_card_albedo_inGame_hard_04.wem"
-        },
-        "2e36fbcdfeb300dc": {
-            "hash": "2e36fbcdfeb300dc",
-            "directory": "External5",
-            "voiceContent": "尚可接受…",
-            "sourceName": "vo_card_albedo_inGame_easy_02.wem"
-        },
-        "6294d6c66b986cea": {
-            "hash": "6294d6c66b986cea",
-            "directory": "External12",
-            "voiceContent": "看来我陷入苦战了。",
-            "sourceName": "vo_card_albedo_inGame_hard_03.wem"
-        },
-        "e41c08be280ab6f3": {
-            "hash": "e41c08be280ab6f3",
-            "directory": "External28",
-            "voiceContent": "做得不错。",
-            "sourceName": "vo_card_albedo_inGame_hard_02.wem"
-        },
-        "99b515c51d6c4c6d": {
-            "hash": "99b515c51d6c4c6d",
-            "directory": "External19",
-            "voiceContent": "值得认可的表现。",
-            "sourceName": "vo_card_albedo_inGame_easy_03.wem"
-        },
-        "25095ad63fd260dc": {
-            "hash": "25095ad63fd260dc",
-            "directory": "External4",
-            "voiceContent": "策略生效了。",
-            "sourceName": "vo_card_albedo_inGame_hard_01.wem"
-        },
-        "2f60e7dfa934fefe": {
-            "hash": "2f60e7dfa934fefe",
-            "directory": "External5",
-            "voiceContent": "看看成果如何。",
-            "sourceName": "vo_card_albedo_inGame_easy_04.wem"
-        },
-        "ed49a9b5e6eb56f3": {
-            "hash": "ed49a9b5e6eb56f3",
-            "directory": "External29",
-            "voiceContent": "我的假设成立了。",
-            "sourceName": "vo_card_albedo_inGame_easy_01.wem"
-        }
+    "Teapot": {
+      "0413e95e56327d60": {
+        "directory": "External0",
+        "hash": "0413e95e56327d60",
+        "sourceName": "vo_albedo_mimitomo_friendship3_09b_1.wem",
+        "voiceContent": "谢谢。我会确保好你的安全，就像往常一样。"
+      },
+      "0c9029ff793b56fb": {
+        "directory": "External1",
+        "hash": "0c9029ff793b56fb",
+        "sourceName": "vo_albedo_mimitomo_friendship1_04.wem",
+        "voiceContent": "有时我会随处写生，你在「洞天」之内的布设，也是我的灵感源泉。"
+      },
+      "0f815a65fa23db65": {
+        "directory": "External1",
+        "hash": "0f815a65fa23db65",
+        "sourceName": "vo_albedo_mimitomo_friendship2_03a_4.wem",
+        "voiceContent": "后来，就试着学习了绘画。"
+      },
+      "25bdca182f05a94e": {
+        "directory": "External4",
+        "hash": "25bdca182f05a94e",
+        "sourceName": "vo_albedo_mimitomo_friendship3_03.wem",
+        "voiceContent": "不管是画画也好，还是实验也好。"
+      },
+      "26e7be29d987b4f0": {
+        "directory": "External4",
+        "hash": "26e7be29d987b4f0",
+        "sourceName": "vo_albedo_mimitomo_friendship3_01.wem",
+        "voiceContent": "嗯，细说的话有不少。"
+      },
+      "3081518e34625d33": {
+        "directory": "External6",
+        "hash": "3081518e34625d33",
+        "sourceName": "vo_albedo_mimitomo_friendship1_03a_1.wem",
+        "voiceContent": "……"
+      },
+      "30e8a0d461ebbdbe": {
+        "directory": "External6",
+        "hash": "30e8a0d461ebbdbe",
+        "sourceName": "vo_albedo_mimitomo_night_02.wem",
+        "voiceContent": "…应该不需要我给你读睡前故事吧？"
+      },
+      "33d3e7df3355d0c9": {
+        "directory": "External6",
+        "hash": "33d3e7df3355d0c9",
+        "sourceName": "vo_albedo_mimitomo_friendship3_08.wem",
+        "voiceContent": "所以，你也可以多给我一些…你的时间吗？"
+      },
+      "3b984828a053fc26": {
+        "directory": "External7",
+        "hash": "3b984828a053fc26",
+        "sourceName": "vo_albedo_mimitomo_friendship1_01.wem",
+        "voiceContent": "嗯，我想，书中说的「世外桃源」，大概就是这样的地方。"
+      },
+      "3ca806d100c571cb": {
+        "directory": "External7",
+        "hash": "3ca806d100c571cb",
+        "sourceName": "vo_albedo_mimitomo_friendship2_03b_1.wem",
+        "voiceContent": "嗯，对我来说，世界是一座没有边界的书库。"
+      },
+      "3dd132e2ab462925": {
+        "directory": "External7",
+        "hash": "3dd132e2ab462925",
+        "sourceName": "vo_albedo_mimitomo_friendship2_03b_3.wem",
+        "voiceContent": "亲手揭开未知的秘密，最后掌握新的知识。"
+      },
+      "4024b6b6dfd82a28": {
+        "directory": "External8",
+        "hash": "4024b6b6dfd82a28",
+        "sourceName": "vo_albedo_mimitomo_friendship1_03b.wem",
+        "voiceContent": "嗯…尽情发挥你的创意就好。"
+      },
+      "40b0494c629dc832": {
+        "directory": "External8",
+        "hash": "40b0494c629dc832",
+        "sourceName": "vo_albedo_mimitomo_friendship3_10.wem",
+        "voiceContent": "另外，结束之后，我能有幸邀请你一起去吃个甜点吗？"
+      },
+      "43e0cfa20e89b3f3": {
+        "directory": "External8",
+        "hash": "43e0cfa20e89b3f3",
+        "sourceName": "vo_albedo_mimitomo_friendship3_09a_1.wem",
+        "voiceContent": "谢谢。那今天的题材——"
+      },
+      "48c8d2669c21296b": {
+        "directory": "External9",
+        "hash": "48c8d2669c21296b",
+        "sourceName": "vo_mimiTomo_md_albedo_adventure_03.wem",
+        "voiceContent": "不知…你是否愿意成为我描摹的对象呢？"
+      },
+      "4e27c8018b9eaf67": {
+        "directory": "External9",
+        "hash": "4e27c8018b9eaf67",
+        "sourceName": "vo_albedo_mimitomo_friendship2_05.wem",
+        "voiceContent": "大概是你吧。"
+      },
+      "512ca08fbc1271d8": {
+        "directory": "External10",
+        "hash": "512ca08fbc1271d8",
+        "sourceName": "vo_albedo_mimitomo_friendship2_03a_1.wem",
+        "voiceContent": "嗯，这是很久以前养成的习惯了。"
+      },
+      "594a216bcaa83844": {
+        "directory": "External11",
+        "hash": "594a216bcaa83844",
+        "sourceName": "vo_mimiTomo_md_albedo_alchemy_03.wem",
+        "voiceContent": "不介意的话我想和你进一步做些探讨，也许能给你带来帮助。"
+      },
+      "5e40e7ded142c353": {
+        "directory": "External11",
+        "hash": "5e40e7ded142c353",
+        "sourceName": "vo_albedo_mimitomo_friendship2_01.wem",
+        "voiceContent": "当然。"
+      },
+      "617ba06d01e3de94": {
+        "directory": "External12",
+        "hash": "617ba06d01e3de94",
+        "sourceName": "vo_albedo_mimitomo_friendship2_03a_5.wem",
+        "voiceContent": "掌握绘画技巧的同时，不知不觉已经沉浸其中了。"
+      },
+      "61e7f3c49e3bc493": {
+        "directory": "External12",
+        "hash": "61e7f3c49e3bc493",
+        "sourceName": "vo_albedo_mimitomo_morning_01.wem",
+        "voiceContent": "#早，{NICKNAME}。下一阶段的研究目标，我已经梳理好了。"
+      },
+      "660bcc7eaf4972f6": {
+        "directory": "External12",
+        "hash": "660bcc7eaf4972f6",
+        "sourceName": "vo_albedo_mimitomo_friendship2_03a_3.wem",
+        "voiceContent": "不过那样效果不好，也缺乏灵魂。"
+      },
+      "6e09a3a64948911c": {
+        "directory": "External13",
+        "hash": "6e09a3a64948911c",
+        "sourceName": "vo_albedo_mimitomo_friendship1_03a_2.wem",
+        "voiceContent": "嗯，那是当然的。"
+      },
+      "6f047965d36ece1b": {
+        "directory": "External13",
+        "hash": "6f047965d36ece1b",
+        "sourceName": "vo_albedo_mimitomo_hello_01.wem",
+        "voiceContent": "#你好，{NICKNAME}。"
+      },
+      "75eb5e08f59fd7ac": {
+        "directory": "External14",
+        "hash": "75eb5e08f59fd7ac",
+        "sourceName": "vo_albedo_mimitomo_friendship3_05.wem",
+        "voiceContent": "说来…以前我时常觉得，人际交往很浪费时间。"
+      },
+      "84ce21ba26515ddc": {
+        "directory": "External16",
+        "hash": "84ce21ba26515ddc",
+        "sourceName": "vo_albedo_mimitomo_friendship3_09a_2.wem",
+        "voiceContent": "就画「你与洞天」吧。"
+      },
+      "8a9cb807bc6d80b2": {
+        "directory": "External17",
+        "hash": "8a9cb807bc6d80b2",
+        "sourceName": "vo_albedo_mimitomo_friendship1_05.wem",
+        "voiceContent": "…谢谢你。"
+      },
+      "8aca59f7e8d6877a": {
+        "directory": "External17",
+        "hash": "8aca59f7e8d6877a",
+        "sourceName": "vo_albedo_mimitomo_friendship3_07.wem",
+        "voiceContent": "这是一种很独特的现象，我想我大概能理解它的原因。"
+      },
+      "8b23aedc907ef761": {
+        "directory": "External17",
+        "hash": "8b23aedc907ef761",
+        "sourceName": "vo_albedo_mimitomo_night_01.wem",
+        "voiceContent": "晚安，愿你有个好梦。"
+      },
+      "9094c5a5ea8d6702": {
+        "directory": "External18",
+        "hash": "9094c5a5ea8d6702",
+        "sourceName": "vo_albedo_mimitomo_friendship2_08.wem",
+        "voiceContent": "这是为什么呢？再给我多一些时间，我肯定能研究明白的。"
+      },
+      "933278e9b5eb0954": {
+        "directory": "External18",
+        "hash": "933278e9b5eb0954",
+        "sourceName": "vo_albedo_mimitomo_friendship2_03b_2.wem",
+        "voiceContent": "在实验中研究各种各样的课题…"
+      },
+      "945ba4fb606bc0b6": {
+        "directory": "External18",
+        "hash": "945ba4fb606bc0b6",
+        "sourceName": "vo_albedo_mimitomo_friendship2_03b_4.wem",
+        "voiceContent": "这种感觉，令人着迷。"
+      },
+      "9ac3606da3e1a722": {
+        "directory": "External19",
+        "hash": "9ac3606da3e1a722",
+        "sourceName": "vo_mimiTomo_md_albedo_adventure_02.wem",
+        "voiceContent": "好，现在就来画一张写生吧。"
+      },
+      "a0582608938c6b5e": {
+        "directory": "External20",
+        "hash": "a0582608938c6b5e",
+        "sourceName": "vo_albedo_mimitomo_friendship2_04.wem",
+        "voiceContent": "唔，除此之外的话…"
+      },
+      "a4e85a1a40f20c00": {
+        "directory": "External20",
+        "hash": "a4e85a1a40f20c00",
+        "sourceName": "vo_albedo_mimitomo_friendship2_06.wem",
+        "voiceContent": "一开始是因为你身上星海的气息…"
+      },
+      "a77b2c0feba5d457": {
+        "directory": "External20",
+        "hash": "a77b2c0feba5d457",
+        "sourceName": "vo_albedo_mimitomo_friendship3_02.wem",
+        "voiceContent": "有你的陪伴，灵感总是源源不断。"
+      },
+      "a9787d5c9143baf2": {
+        "directory": "External21",
+        "hash": "a9787d5c9143baf2",
+        "sourceName": "vo_mimiTomo_md_albedo_alchemy_01.wem",
+        "voiceContent": "不错的工坊，看来在这里我也能继续研究了。"
+      },
+      "abdc76316ca04189": {
+        "directory": "External21",
+        "hash": "abdc76316ca04189",
+        "sourceName": "vo_albedo_mimitomo_friendship1_02.wem",
+        "voiceContent": "幽静又安逸，全身心投入实验之后，甚至能够忘记时间。"
+      },
+      "ad535745a0df1fc7": {
+        "directory": "External21",
+        "hash": "ad535745a0df1fc7",
+        "sourceName": "vo_albedo_mimitomo_friendship3_09b_2.wem",
+        "voiceContent": "我们已经很默契了，不是吗？"
+      },
+      "bbb6ae753077185f": {
+        "directory": "External23",
+        "hash": "bbb6ae753077185f",
+        "sourceName": "vo_albedo_mimitomo_friendship2_03a_2.wem",
+        "voiceContent": "最初为了研究需要，我尝试过将事物用类似拓印的手法复现在纸上。"
+      },
+      "c2a3bb441f6b9e7b": {
+        "directory": "External24",
+        "hash": "c2a3bb441f6b9e7b",
+        "sourceName": "vo_albedo_mimitomo_friendship3_11.wem",
+        "voiceContent": "作为意义的延续，还有对你陪伴的感谢。"
+      },
+      "db3e5b63877761d5": {
+        "directory": "External27",
+        "hash": "db3e5b63877761d5",
+        "sourceName": "vo_mimiTomo_md_albedo_alchemy_02.wem",
+        "voiceContent": "我想，你是得到了某种秘术，能将现存于世的事物「描摹」下来吧？"
+      },
+      "dcedbd9d6ae505ad": {
+        "directory": "External27",
+        "hash": "dcedbd9d6ae505ad",
+        "sourceName": "vo_albedo_mimitomo_friendship1_03a_3.wem",
+        "voiceContent": "哦，对了…"
+      },
+      "e03f8bee69d72543": {
+        "directory": "External28",
+        "hash": "e03f8bee69d72543",
+        "sourceName": "vo_albedo_mimitomo_friendship3_06.wem",
+        "voiceContent": "但在遇见你之后，比起其他事项，我更愿意把时间花在你身上。"
+      },
+      "e4cf7800173c4c7d": {
+        "directory": "External28",
+        "hash": "e4cf7800173c4c7d",
+        "sourceName": "vo_albedo_mimitomo_friendship3_04.wem",
+        "voiceContent": "除开这些之外，还有很多。"
+      },
+      "ee3a2b7fc121a2a4": {
+        "directory": "External29",
+        "hash": "ee3a2b7fc121a2a4",
+        "sourceName": "vo_albedo_mimitomo_hello_02.wem",
+        "voiceContent": "远远听到了脚步声，嗯，果然是你。"
+      },
+      "f3ecb9f95d0b75bc": {
+        "directory": "External30",
+        "hash": "f3ecb9f95d0b75bc",
+        "sourceName": "vo_albedo_mimitomo_friendship2_02.wem",
+        "voiceContent": "啊…话题就交给你来决定吧。"
+      },
+      "f5347e75d2a28b45": {
+        "directory": "External30",
+        "hash": "f5347e75d2a28b45",
+        "sourceName": "vo_mimiTomo_md_albedo_adventure_01.wem",
+        "voiceContent": "有趣的摹本，照顾了各项细节，还有亲临野外探索才能找到的荒野气息。"
+      },
+      "f793c5df2a0477fc": {
+        "directory": "External30",
+        "hash": "f793c5df2a0477fc",
+        "sourceName": "vo_albedo_mimitomo_morning_02.wem",
+        "voiceContent": "不过如果你另有安排的话，我并不介意改变计划。"
+      },
+      "fdfa3410c5048001": {
+        "directory": "External31",
+        "hash": "fdfa3410c5048001",
+        "sourceName": "vo_albedo_mimitomo_friendship2_07.wem",
+        "voiceContent": "但现在…似乎不止是这样子。"
+      }
     }
-}
+  }
