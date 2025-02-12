@@ -2,197 +2,185 @@
     "Teapot": {},
     "Quests": {},
     "Gameplay": {
-        "a4b5b5ccb9f59249": {
-            "hash": "a4b5b5ccb9f59249",
-            "directory": "External20",
-            "voiceContent": "Hold still.",
-            "sourceName": "vo_sigewinne_battle_skill1_01.wem"
-        },
-        "347187c3eda94ce6": {
-            "hash": "347187c3eda94ce6",
-            "directory": "External6",
-            "voiceContent": "Let's see...",
-            "sourceName": "vo_sigewinne_battle_skill1_02.wem"
-        },
-        "b62ee9bbaa4977cf": {
-            "hash": "b62ee9bbaa4977cf",
-            "directory": "External22",
-            "voiceContent": "Calm down.",
-            "sourceName": "vo_sigewinne_battle_skill1_03.wem"
-        },
-        "33479bb243274ec4": {
-            "hash": "33479bb243274ec4",
-            "directory": "External6",
-            "voiceContent": "Let's blow bubbles.",
-            "sourceName": "vo_sigewinne_battle_skill1_04.wem"
-        },
-        "b53bd5a9fff67855": {
-            "hash": "b53bd5a9fff67855",
-            "directory": "External22",
-            "voiceContent": "Wibbly-wobbly~",
-            "sourceName": "vo_sigewinne_battle_skill1_05.wem"
-        },
-        "8375f7a309c2d172": {
-            "hash": "8375f7a309c2d172",
-            "directory": "External16",
-            "voiceContent": "Floaty-woaty~",
-            "sourceName": "vo_sigewinne_battle_skill1_06.wem"
-        },
-        "b40e3438ed7d4d8b": {
-            "hash": "b40e3438ed7d4d8b",
-            "directory": "External22",
-            "voiceContent": "I swear, it's for medical research.",
-            "sourceName": "vo_sigewinne_battle_skill3_01.wem"
-        },
-        "0732a6519fbfbc14": {
-            "hash": "0732a6519fbfbc14",
+        "00882c07ee371a64": {
+            "hash": "00882c07ee371a64",
             "directory": "External0",
-            "voiceContent": "Don't be nervous! Just relax.",
-            "sourceName": "vo_sigewinne_battle_skill3_02.wem"
-        },
-        "b538604a97ffb8e5": {
-            "hash": "b538604a97ffb8e5",
-            "directory": "External22",
-            "voiceContent": "You might feel a little prick.",
-            "sourceName": "vo_sigewinne_battle_skill3_03.wem"
-        },
-        "62c5e86bf6f01aa6": {
-            "hash": "62c5e86bf6f01aa6",
-            "directory": "External12",
-            "voiceContent": "Don't smile too much, or your face'll get tired.",
-            "sourceName": "vo_sigewinne_chest_open_01.wem"
-        },
-        "d30a1674c33c6009": {
-            "hash": "d30a1674c33c6009",
-            "directory": "External26",
-            "voiceContent": "If there's any mechanical parts, could I have them please?",
-            "sourceName": "vo_sigewinne_chest_open_02.wem"
-        },
-        "253b7c7bcb2bdd48": {
-            "hash": "253b7c7bcb2bdd48",
-            "directory": "External4",
-            "voiceContent": "A very nice treasure for a very lovely person.",
-            "sourceName": "vo_sigewinne_chest_open_03.wem"
-        },
-        "aba772a109a09ea2": {
-            "hash": "aba772a109a09ea2",
-            "directory": "External21",
-            "voiceContent": "It's time for some aggressive treatment...",
-            "sourceName": "vo_sigewinne_life_less30_teammate_01.wem"
-        },
-        "061890a9386182c5": {
-            "hash": "061890a9386182c5",
-            "directory": "External0",
-            "voiceContent": "Help is here!",
-            "sourceName": "vo_sigewinne_life_less30_teammate_02.wem"
-        },
-        "63a9b85d3b3c4b5f": {
-            "hash": "63a9b85d3b3c4b5f",
-            "directory": "External12",
-            "voiceContent": "But my patients need me...",
-            "sourceName": "vo_sigewinne_life_die_01.wem"
-        },
-        "f91faa77c6d7a4d8": {
-            "hash": "f91faa77c6d7a4d8",
-            "directory": "External31",
-            "voiceContent": "So cold... It hurts...",
-            "sourceName": "vo_sigewinne_life_die_02.wem"
-        },
-        "96e7eb5548f5548f": {
-            "hash": "96e7eb5548f5548f",
-            "directory": "External18",
-            "voiceContent": "Anyone need a health checkup?",
-            "sourceName": "vo_sigewinne_teamJoin_01.wem"
-        },
-        "d7a01d6d6090ec48": {
-            "hash": "d7a01d6d6090ec48",
-            "directory": "External26",
-            "voiceContent": "Anesthetics... check.",
-            "sourceName": "vo_sigewinne_teamJoin_02.wem"
-        },
-        "856eb76658a16f09": {
-            "hash": "856eb76658a16f09",
-            "directory": "External16",
-            "voiceContent": "Excuse me~",
-            "sourceName": "vo_sigewinne_teamJoin_03.wem"
-        },
-        "fe6ea208cd183a54": {
-            "hash": "fe6ea208cd183a54",
-            "directory": "External31",
-            "voiceContent": "No... I didn't put a sticker on your back.",
-            "sourceName": "vo_sigewinne_character_idle_01.wem"
-        },
-        "a7e42ff017f2a2cb": {
-            "hash": "a7e42ff017f2a2cb",
-            "directory": "External20",
-            "voiceContent": "Oh no! Did you bump into something? Well, if it hurts, just let me know.",
-            "sourceName": "vo_sigewinne_character_idle_02.wem"
-        },
-        "4e9c3df993b27602": {
-            "hash": "4e9c3df993b27602",
-            "directory": "External9",
-            "voiceContent": "You only get one body, so you gotta take care of it. But it's just as important to take care of your mind.",
-            "sourceName": "vo_sigewinne_character_idle_03.wem"
-        },
-        "eb32b1f7b9cca8b6": {
-            "hash": "eb32b1f7b9cca8b6",
-            "directory": "External29",
-            "voiceContent": "Oh... I wonder what's on Monsieur Neuvillette's mind right now...",
-            "sourceName": "vo_sigewinne_weather_heavyRain_01.wem"
-        },
-        "bba212b203c9ff6d": {
-            "hash": "bba212b203c9ff6d",
-            "directory": "External23",
-            "voiceContent": "What an amazing sound... You only ever get to hear it up here above the water.",
-            "sourceName": "vo_sigewinne_weather_thunder_01.wem"
-        },
-        "5b8dd59c7a6168fa": {
-            "hash": "5b8dd59c7a6168fa",
-            "directory": "External11",
-            "voiceContent": "Make sure to stay hydrated. Monsieur Neuvillette loves drinking water. It's a very healthy habit.",
-            "sourceName": "vo_sigewinne_weather_desert_01.wem"
-        },
-        "a0e35648fb7c2a69": {
-            "hash": "a0e35648fb7c2a69",
-            "directory": "External20",
-            "voiceContent": "I bought a pair of mittens to keep my hands warm. Look, my Melusine round hands came back.",
-            "sourceName": "vo_sigewinne_weather_snowy_01.wem"
+            "voiceContent": "Nothing to stress about",
+            "sourceName": "vo_card_sigewinne_inGame_hard_01.wem"
         },
         "02617149a4bfbc38": {
             "hash": "02617149a4bfbc38",
             "directory": "External0",
-            "voiceContent": "Ding-dong, Romaritime Flower here with a little tip for anyone planning on going outside and enjoying this lovely sunny weather Please apply sun lotion to protect your skin.",
+            "voiceContent": "Ding-dong, Romaritime Flower here with a little tip for anyone planning on going outside and enjoying this lovely sunny weather Please apply sun lotion to protect your skin",
             "sourceName": "vo_sigewinne_weather_sunny_01.wem"
         },
-        "f5112aebe27123bc": {
-            "hash": "f5112aebe27123bc",
-            "directory": "External30",
-            "voiceContent": "Good morning! Did you sleep well? Make sure to use warm water when you wash your face, it's kinder on your skin.",
-            "sourceName": "vo_sigewinne_dialog_greetingMorning.wem"
+        "0335922c48fe5244": {
+            "hash": "0335922c48fe5244",
+            "directory": "External0",
+            "voiceContent": "That wasn't very nice",
+            "sourceName": "vo_sigewinne_battle_hit_H_02.wem"
         },
-        "c886adbde9429a98": {
-            "hash": "c886adbde9429a98",
-            "directory": "External25",
-            "voiceContent": "Oh gosh, it's almost lunchtime. I gotta leave for a minute... Shh, keep it a secret.",
-            "sourceName": "vo_sigewinne_dialog_greetingNoon.wem"
+        "045f7e3df3805066": {
+            "hash": "045f7e3df3805066",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_hit_h_04.wem"
         },
-        "63cb63976652cf36": {
-            "hash": "63cb63976652cf36",
-            "directory": "External12",
-            "voiceContent": "What time is it? I've been living underwater so long that I still have to check the clock to tell whether it's daytime or nighttime... No, I don't find it depressing at all. It's not even that I've gotten used to it. I just... kinda prefer being in the dark.",
-            "sourceName": "vo_sigewinne_dialog_greetingNight.wem"
+        "061890a9386182c5": {
+            "hash": "061890a9386182c5",
+            "directory": "External0",
+            "voiceContent": "Help is here",
+            "sourceName": "vo_sigewinne_life_less30_teammate_02.wem"
         },
-        "e44185213cddce9e": {
-            "hash": "e44185213cddce9e",
-            "directory": "External28",
-            "voiceContent": "You're having some trouble getting to sleep, huh? Hmm... Well, it doesn't seem to be a physical condition... Oh, I know. Talk to me, tell me what's on your mind. Whatever's preventing you from getting a good night's sleep, we'll get to the bottom of it together.",
-            "sourceName": "vo_sigewinne_dialog_greetingNight2.wem"
+        "0732a6519fbfbc14": {
+            "hash": "0732a6519fbfbc14",
+            "directory": "External0",
+            "voiceContent": "Don't be nervous! Just relax",
+            "sourceName": "vo_sigewinne_battle_skill3_02.wem"
         },
-        "fbfe224a91487301": {
-            "hash": "fbfe224a91487301",
-            "directory": "External31",
-            "voiceContent": "I love human hands, they're really handy for handling things. They make cutting bandages and picking up needles so much easier, and they fit my Tranquilizer Gun like a glove.",
-            "sourceName": "vo_sigewinne_dialog_idle.wem"
+        "09fc2d22c781ddd9": {
+            "hash": "09fc2d22c781ddd9",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_hit_l_03.wem"
+        },
+        "10513e3c90db2582": {
+            "hash": "10513e3c90db2582",
+            "directory": "External2",
+            "voiceContent": "Maybe humans and Melusines see the world differently, but I've always believed that we share the same feelings of friendship. That's something that transcends race. Take my hand — can you feel that? It's the warmth straight from my heart",
+            "sourceName": "vo_sigewinne_starUp_04.wem"
+        },
+        "11d0496a7924c4f8": {
+            "hash": "11d0496a7924c4f8",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attackmid_02.wem"
+        },
+        "11ff5056dade65e7": {
+            "hash": "11ff5056dade65e7",
+            "directory": "External2",
+            "voiceContent": "Happy Birthday! From what I've observed, you're always going from one place to the next. So, I made a special skincare set just for you that's portable and practical. Come on, lay down and close your eyes, I'll show you how to use it. First, I'm gonna apply a wet compress to your face — but you can just splash some water on there if you're ever in a hurry... Next, we squeeze out a small amount of foam cleanser, gently massaging it in with a circular motion, following the muscle, before rinsing and drying... And lastly, we apply some moisturizer with Tidalga extract... And, we're done! You look radiant, and now it's time for lovely little you to go and enjoy your special day to the fullest",
+            "sourceName": "vo_sigewinne_pref_birthday_01.wem"
+        },
+        "135a1814c16e574a": {
+            "hash": "135a1814c16e574a",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attacklight_02.wem"
+        },
+        "17c897761d93c855": {
+            "hash": "17c897761d93c855",
+            "directory": "External2",
+            "voiceContent": "I'll be fine..",
+            "sourceName": "vo_sigewinne_life_less30_03.wem"
+        },
+        "1a5eb053f8d4229f": {
+            "hash": "1a5eb053f8d4229f",
+            "directory": "External3",
+            "voiceContent": "Your job today is to carry on being cute. But don't worry, I'll help",
+            "sourceName": "vo_sigewinne_starUp_01.wem"
+        },
+        "1aaca99adf071ccc": {
+            "hash": "1aaca99adf071ccc",
+            "directory": "External3",
+            "voiceContent": "The Duke has the highest pain tolerance of anyone I've ever met. He wasn't always big and strong like he is now, but even in the beginning, he'd always refuse an anesthetic injection when he came to the infirmary to get stitches. He'd say something about wanting to keep a sharp mind, or something. I thought to myself, wow, what an impressive little grown-up he is. He's gone on to become an equally impressive big grown-up, too",
+            "sourceName": "vo_sigewinne_teammate_wriothesley_01.wem"
+        },
+        "1b892f16ff93c133": {
+            "hash": "1b892f16ff93c133",
+            "directory": "External3",
+            "voiceContent": "Don't slip and fall",
+            "sourceName": "vo_sigewinne_explore_sprint_start_01.wem"
+        },
+        "1c0d42e78a39d8ee": {
+            "hash": "1c0d42e78a39d8ee",
+            "directory": "External3",
+            "voiceContent": "If Wolsey had a kitchen assistant like you, there'd be lots more tasty dishes to go 'round",
+            "sourceName": "vo_sigewinne_spice_normal_01.wem"
+        },
+        "1d38c61ff1060869": {
+            "hash": "1d38c61ff1060869",
+            "directory": "External3",
+            "voiceContent": "Gotta concentrate",
+            "sourceName": "vo_card_sigewinne_inGame_hard_04.wem"
+        },
+        "1e5562ab4230d532": {
+            "hash": "1e5562ab4230d532",
+            "directory": "External3",
+            "voiceContent": "The Fontaine Beauty Association holds regular meetings, and I really appreciate getting the chance to chat with everyone there. Most people, when I compliment them, just blush, lower their head, and try to brush it off. But Navia's different — she's always very happy to receive praise, and then she comes to shake my hand and take a photo with me as a souvenir. She's like a shining yellow rose who lights up the world around her, and whether it's daytime or nighttime, sunny or gloomy, she always looks dazzling",
+            "sourceName": "vo_sigewinne_teammate_navia_01.wem"
+        },
+        "1fa281a3513fa095": {
+            "hash": "1fa281a3513fa095",
+            "directory": "External3",
+            "voiceContent": "Keep calm and carry on..",
+            "sourceName": "vo_card_sigewinne_inGame_easy_03.wem"
+        },
+        "246e6e563721ca44": {
+            "hash": "246e6e563721ca44",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_fly_start_01.wem"
+        },
+        "253b7c7bcb2bdd48": {
+            "hash": "253b7c7bcb2bdd48",
+            "directory": "External4",
+            "voiceContent": "A very nice treasure for a very lovely person",
+            "sourceName": "vo_sigewinne_chest_open_03.wem"
+        },
+        "2a142796542677ee": {
+            "hash": "2a142796542677ee",
+            "directory": "External5",
+            "voiceContent": "Humans become very vulnerable when they get sick. I've seen lots of huge guys who boast about their skills in the Pankration Ring suddenly look at me like a frightened Blubberbeast when they find out they need an injection. I always make sure to bring plenty of candies and stickers to make them feel better when the waterworks start. It's really effective — a little treat always wipes the doom and gloom away",
+            "sourceName": "vo_sigewinne_dialog_share_01.wem"
+        },
+        "2baf145703adfb20": {
+            "hash": "2baf145703adfb20",
+            "directory": "External5",
+            "voiceContent": "My teacher's golden rule was A doctor's duty is to treat whatever ailments they can. Doctors aren't gods, I know that — even the best doctors will come up against incurable diseases in their time. But that's okay. We Melusines have very long lives, so as long as I never stop studying medicine, the range of illnesses I can cure can only keep increasing, and the amount of suffering can only keep decreasing. I'll always follow my teacher's example, doing everything in my power to save the people I can reach... As long as it will help, and as long as I'm not harming anyone in the process, I'm willing to use any means necessary to treat my patients, whatever the risk to myself",
+            "sourceName": "vo_sigewinne_friendship_05.wem"
+        },
+        "2e781aff874b33c8": {
+            "hash": "2e781aff874b33c8",
+            "directory": "External5",
+            "voiceContent": "I still feel sorry for firing that tranquilizer shot at Mr. Lyney... It was an emergency situation, and that was the least harmful way of incapacitating him... Thankfully, he was okay with letting me take care of Mr. Freminet once he understood that I bore them no ill will",
+            "sourceName": "vo_sigewinne_teammate_lyney_01.wem"
+        },
+        "3190fc66410de699": {
+            "hash": "3190fc66410de699",
+            "directory": "External6",
+            "voiceContent": "Oh wow... My Tranquilizer Gun feels much steadier in my hands now. I wanna see if I can shoot it with just one hand... Shall we go out for some target practice",
+            "sourceName": "vo_sigewinne_starUp_03.wem"
+        },
+        "33479bb243274ec4": {
+            "hash": "33479bb243274ec4",
+            "directory": "External6",
+            "voiceContent": "Let's blow bubbles",
+            "sourceName": "vo_sigewinne_battle_skill1_04.wem"
+        },
+        "347187c3eda94ce6": {
+            "hash": "347187c3eda94ce6",
+            "directory": "External6",
+            "voiceContent": "Let's see..",
+            "sourceName": "vo_sigewinne_battle_skill1_02.wem"
+        },
+        "349a963e71a25e01": {
+            "hash": "349a963e71a25e01",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attacklight_05.wem"
+        },
+        "3706455ebfd71cdb": {
+            "hash": "3706455ebfd71cdb",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_jump_02.wem"
+        },
+        "39c5221e07fe07f3": {
+            "hash": "39c5221e07fe07f3",
+            "directory": "External7",
+            "voiceContent": "A lot of illnesses are things that build up over a long time, that's why it's so important to take good care of yourself day to day. Sadly, not a lot of people seem to understand that. Why do they force themselves to keep working in the production zone, when it's obvious that they're so tired they can barely keep their eyes open? I always sneak them some extra food, but beyond a point, if they aren't gonna do what's good for them and get some proper rest, they leave me with no choice. I have to resort to more extreme therapeutic measures, like my Tranquilizer Gun. *sigh* There's more to life than Credit Coupons... People need to learn to go easier on themselves",
+            "sourceName": "vo_sigewinne_friendship_02.wem"
         },
         "3b07315a0cb9afa3": {
             "hash": "3b07315a0cb9afa3",
@@ -200,299 +188,557 @@
             "voiceContent": "Romaritime Flower is the pen name I use for writing in Beautes en fleurs. It was actually chosen by a vote. My Melusine friends and I put our heads together and came up with three options, then we put them up on the bulletin board and got everyone to vote on them. So that was proof that by human standards, Romaritime Flower fits better with a beauty and skincare theme than um, Sternshield Crab or Bubbler Seahorse.",
             "sourceName": "vo_sigewinne_dialog_idle2.wem"
         },
-        "6bb4fb9be91c330e": {
-            "hash": "6bb4fb9be91c330e",
-            "directory": "External13",
-            "voiceContent": "I remember that you once hid a potion and didn't drink it because it was too bitter. Later, I gave you a box of candies... that had some pills mixed in, and a recipe change so they wouldn't taste too strong. ...Oh, they were still bitter? You could tell right away, huh... Well, you still took them, so thank you for trusting me. I'll keep looking out for your health in the future. Just keep being a good patient, and take your medicine when you're told to.",
-            "sourceName": "vo_sigewinne_dialog_close1.wem"
+        "43d389241f4ddf9f": {
+            "hash": "43d389241f4ddf9f",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_climb_breath_02.wem"
         },
-        "5777e074f43958ff": {
-            "hash": "5777e074f43958ff",
-            "directory": "External10",
-            "voiceContent": "Hihi~ Hmm? You're getting deja vu? Hee-hee, I guess you've met some other Melusines before, huh? That's right, you lean a little bit forwards, quickly wave your hand... and then greet the other person in a friendly tone hello, hello~",
-            "sourceName": "vo_sigewinne_dialog_close.wem"
-        },
-        "2a142796542677ee": {
-            "hash": "2a142796542677ee",
-            "directory": "External5",
-            "voiceContent": "Humans become very vulnerable when they get sick. I've seen lots of huge guys who boast about their skills in the Pankration Ring suddenly look at me like a frightened Blubberbeast when they find out they need an injection. I always make sure to bring plenty of candies and stickers to make them feel better when the waterworks start. It's really effective — a little treat always wipes the doom and gloom away.",
-            "sourceName": "vo_sigewinne_dialog_share_01.wem"
-        },
-        "75b55a461b49f16c": {
-            "hash": "75b55a461b49f16c",
-            "directory": "External14",
-            "voiceContent": "Do you like going swimming? It's really nice around the Fortress of Meropide, so dark and murky. I bet you'd love it too... Wait, your eyebrow muscles are contracting, which means you're feeling uncomfortable... Okay, got it — let's go diving at the Salacia Plain instead! It's been so long since I saw the Leisurely Otters playing. I could watch them all day. But please make sure you don't harm them, and don't steal their shells.",
-            "sourceName": "vo_sigewinne_pref_gift_01.wem"
+        "456960ef9e70be8b": {
+            "hash": "456960ef9e70be8b",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_hit_l_05.wem"
         },
         "47ebb472796c9a66": {
             "hash": "47ebb472796c9a66",
             "directory": "External8",
-            "voiceContent": "Monsieur Neuvillette was the one who brought the Melusines to the Court of Fontaine and found jobs for us to do. Together, we integrated into Fontaine society and learned about the wonders of humanity. I have huge respect for him, and I really like humans too. Hmm? Who would I save first if Monsieur Neuvillette and a human fell into the water? Well, that's easy. He'd definitely help me bring the human safely to shore.",
+            "voiceContent": "Monsieur Neuvillette was the one who brought the Melusines to the Court of Fontaine and found jobs for us to do. Together, we integrated into Fontaine society and learned about the wonders of humanity. I have huge respect for him, and I really like humans too. Hmm? Who would I save first if Monsieur Neuvillette and a human fell into the water? Well, that's easy. He'd definitely help me bring the human safely to shore",
             "sourceName": "vo_sigewinne_teammate_neuvillette_01.wem"
         },
-        "b82fe27b45b8dfc9": {
-            "hash": "b82fe27b45b8dfc9",
-            "directory": "External23",
-            "voiceContent": "We Melusines are Monsieur Neuvillette's familiars, but that doesn't mean he shows us any favor beyond what is fair and legal. I willingly accepted when he put me on trial, and I fully agreed with his verdict. I remember the day I left for the Fortress of Meropide, it was raining really hard. But I didn't feel like the raindrops were cold at all. They were warm and gentle, just like the way Monsieur Neuvillette looks at me...",
-            "sourceName": "vo_sigewinne_teammate_neuvillette_02.wem"
+        "4cba649cc2d5def1": {
+            "hash": "4cba649cc2d5def1",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_idle_02.wem"
         },
-        "1aaca99adf071ccc": {
-            "hash": "1aaca99adf071ccc",
-            "directory": "External3",
-            "voiceContent": "The Duke has the highest pain tolerance of anyone I've ever met. He wasn't always big and strong like he is now, but even in the beginning, he'd always refuse an anesthetic injection when he came to the infirmary to get stitches. He'd say something about wanting to keep a sharp mind, or something. I thought to myself, wow, what an impressive little grown-up he is. He's gone on to become an equally impressive big grown-up, too.",
-            "sourceName": "vo_sigewinne_teammate_wriothesley_01.wem"
+        "4e9c3df993b27602": {
+            "hash": "4e9c3df993b27602",
+            "directory": "External9",
+            "voiceContent": "You only get one body, so you gotta take care of it. But it's just as important to take care of your mind",
+            "sourceName": "vo_sigewinne_character_idle_03.wem"
         },
-        "2e781aff874b33c8": {
-            "hash": "2e781aff874b33c8",
-            "directory": "External5",
-            "voiceContent": "I still feel sorry for firing that tranquilizer shot at Mr. Lyney... It was an emergency situation, and that was the least harmful way of incapacitating him... Thankfully, he was okay with letting me take care of Mr. Freminet once he understood that I bore them no ill will.",
-            "sourceName": "vo_sigewinne_teammate_lyney_01.wem"
+        "51cfa29eaa6f3a8d": {
+            "hash": "51cfa29eaa6f3a8d",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attackheavy_02.wem"
+        },
+        "531229203c1fc800": {
+            "hash": "531229203c1fc800",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_climb_02.wem"
+        },
+        "5777e074f43958ff": {
+            "hash": "5777e074f43958ff",
+            "directory": "External10",
+            "voiceContent": "Hihi~ Hmm? You're getting deja vu? Hee-hee, I guess you've met some other Melusines before, huh? That's right, you lean a little bit forwards, quickly wave your hand... and then greet the other person in a friendly tone hello, hello",
+            "sourceName": "vo_sigewinne_dialog_close.wem"
         },
         "58e2327bc6940174": {
             "hash": "58e2327bc6940174",
             "directory": "External11",
-            "voiceContent": "Lynette is cute two times over human-being-cute, and kitty-cute! After observing her a little bit, I noticed that her ears lean forward when she's having tea and cake. Hee-hee, I just wanna stroke her on the head... You too? Why don't we ask her for permission next time?",
+            "voiceContent": "Lynette is cute two times over human-being-cute, and kitty-cute! After observing her a little bit, I noticed that her ears lean forward when she's having tea and cake. Hee-hee, I just wanna stroke her on the head... You too? Why don't we ask her for permission next time",
             "sourceName": "vo_sigewinne_teammate_lynette_01.wem"
+        },
+        "5911812f1479f51c": {
+            "hash": "5911812f1479f51c",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_sprint_start_02.wem"
         },
         "5a75adc698bc1eb9": {
             "hash": "5a75adc698bc1eb9",
             "directory": "External11",
-            "voiceContent": "He made a point of coming to thank me after he recovered — what a lovely boy. He speaks so quietly, though... He probably doesn't go out of his way to talk to other people much. But I could tell that he has a rich and detailed inner world, because he looked so captivated as he was looking through some Melusines' paintings.",
+            "voiceContent": "He made a point of coming to thank me after he recovered — what a lovely boy. He speaks so quietly, though... He probably doesn't go out of his way to talk to other people much. But I could tell that he has a rich and detailed inner world, because he looked so captivated as he was looking through some Melusines' paintings",
             "sourceName": "vo_sigewinne_teammate_freminet_01.wem"
         },
-        "c80e5b5fab111abb": {
-            "hash": "c80e5b5fab111abb",
-            "directory": "External25",
-            "voiceContent": "Miss Clorinde doesn't make a lot of facial expressions when she talks. It's pretty difficult to tell what mood she's in from what her face is doing... She used the lipstick I gave her? Really? Hee-hee, I'm so glad she likes it! I knew that color would go great on her!",
-            "sourceName": "vo_sigewinne_teammate_clorinde_01.wem"
+        "5b8dd59c7a6168fa": {
+            "hash": "5b8dd59c7a6168fa",
+            "directory": "External11",
+            "voiceContent": "Make sure to stay hydrated. Monsieur Neuvillette loves drinking water. It's a very healthy habit",
+            "sourceName": "vo_sigewinne_weather_desert_01.wem"
         },
-        "1e5562ab4230d532": {
-            "hash": "1e5562ab4230d532",
-            "directory": "External3",
-            "voiceContent": "The Fontaine Beauty Association holds regular meetings, and I really appreciate getting the chance to chat with everyone there. Most people, when I compliment them, just blush, lower their head, and try to brush it off. But Navia's different — she's always very happy to receive praise, and then she comes to shake my hand and take a photo with me as a souvenir. She's like a shining yellow rose who lights up the world around her, and whether it's daytime or nighttime, sunny or gloomy, she always looks dazzling.",
-            "sourceName": "vo_sigewinne_teammate_navia_01.wem"
+        "62c5e86bf6f01aa6": {
+            "hash": "62c5e86bf6f01aa6",
+            "directory": "External12",
+            "voiceContent": "Don't smile too much, or your face'll get tired",
+            "sourceName": "vo_sigewinne_chest_open_01.wem"
         },
-        "8f136dfd06879e51": {
-            "hash": "8f136dfd06879e51",
-            "directory": "External17",
-            "voiceContent": "I love looking at Charlotte's photos. You get to see what everyone's facial muscles do in all sorts of different situations tensed up, relaxed, stretching up, drooping down... Hehe, I remember them all very fondly.",
-            "sourceName": "vo_sigewinne_teammate_charlotte_01.wem"
+        "63a9b85d3b3c4b5f": {
+            "hash": "63a9b85d3b3c4b5f",
+            "directory": "External12",
+            "voiceContent": "But my patients need me..",
+            "sourceName": "vo_sigewinne_life_die_01.wem"
         },
-        "7ab274361fc5b1dc": {
-            "hash": "7ab274361fc5b1dc",
-            "directory": "External15",
-            "voiceContent": "In my infirmary, I don't see criminals who deserve to suffer — I see patients who deserve a sickbed. Because whoever you are, you have to get healthy so you can serve your sentence and pay for your crimes, right?",
-            "sourceName": "vo_sigewinne_friendship_01.wem"
-        },
-        "39c5221e07fe07f3": {
-            "hash": "39c5221e07fe07f3",
-            "directory": "External7",
-            "voiceContent": "A lot of illnesses are things that build up over a long time, that's why it's so important to take good care of yourself day to day. Sadly, not a lot of people seem to understand that. Why do they force themselves to keep working in the production zone, when it's obvious that they're so tired they can barely keep their eyes open? I always sneak them some extra food, but beyond a point, if they aren't gonna do what's good for them and get some proper rest, they leave me with no choice. I have to resort to more extreme therapeutic measures, like my Tranquilizer Gun. *sigh* There's more to life than Credit Coupons... People need to learn to go easier on themselves.",
-            "sourceName": "vo_sigewinne_friendship_02.wem"
-        },
-        "b83df0264b8bbdea": {
-            "hash": "b83df0264b8bbdea",
-            "directory": "External23",
-            "voiceContent": "When work's not so busy, I invite Ottnit and Menthe to the infirmary for tea. Sometimes we talk about recent criminal cases, other times we discuss the latest skincare products recommended in the magazines, but most of the time we do painting together. We paint things that we find cute, turn them into stickers, and then give the stickers to people that we also think are cute. ...Oh, wait a moment, I have one here for you.",
-            "sourceName": "vo_sigewinne_friendship_03.wem"
-        },
-        "d6176e4ff8dae8a1": {
-            "hash": "d6176e4ff8dae8a1",
-            "directory": "External26",
-            "voiceContent": "Once upon a time in Fontaine, humans and Melusines didn't get along like they do today. Some people feared and hated us because they heard that we were born from the body of Elynas... Others didn't trust Monsieur Neuvillette, and by extension they didn't trust us Melusines either... And maybe some of them were just subconsciously wary of us because we looked different... Back then, it was really difficult to make human friends. So I really treasured that one little girl who knew I was a Melusine but was still willing to hold my little round hand...",
-            "sourceName": "vo_sigewinne_friendship_04.wem"
-        },
-        "2baf145703adfb20": {
-            "hash": "2baf145703adfb20",
-            "directory": "External5",
-            "voiceContent": "My teacher's golden rule was A doctor's duty is to treat whatever ailments they can. Doctors aren't gods, I know that — even the best doctors will come up against incurable diseases in their time. But that's okay. We Melusines have very long lives, so as long as I never stop studying medicine, the range of illnesses I can cure can only keep increasing, and the amount of suffering can only keep decreasing. I'll always follow my teacher's example, doing everything in my power to save the people I can reach... As long as it will help, and as long as I'm not harming anyone in the process, I'm willing to use any means necessary to treat my patients, whatever the risk to myself.",
-            "sourceName": "vo_sigewinne_friendship_05.wem"
-        },
-        "d0461c97ea274530": {
-            "hash": "d0461c97ea274530",
-            "directory": "External26",
-            "voiceContent": "Out of all the books I've ever read, The Meaning of Laughter is my favorite. Not only is it a fun read, it also helps me when I diagnose patients. Like, when someone comes out of the Pankration Ring and they're laughing with their mouth but the rest of their facial muscles are all contorted, it means that they're doing it to cover up the pain from taking a beating. If you ever meet someone doing that, you should subtly hint for them to come to me and get patched up. But remember, the subtlety is important. Otherwise, it takes away the meaning of their laughter, hehe.",
-            "sourceName": "vo_sigewinne_pref_hobby.wem"
-        },
-        "81c2d2a1dd7ac1eb": {
-            "hash": "81c2d2a1dd7ac1eb",
-            "directory": "External16",
-            "voiceContent": "There are so many good ingredients, all with their own nutritional benefits... And I found a great way to combine them all into one meal. Wanna try my special-edition nutritious shake?",
-            "sourceName": "vo_sigewinne_pref_foodLike.wem"
-        },
-        "817fce09d6dc7b55": {
-            "hash": "817fce09d6dc7b55",
-            "directory": "External16",
-            "voiceContent": "Tea is great, but if you drink too much, it does your health more harm than good. *sigh* I've lost count of how many times I've told the Duke that...",
-            "sourceName": "vo_sigewinne_pref_foodDislike.wem"
-        },
-        "70c81a0719581974": {
-            "hash": "70c81a0719581974",
-            "directory": "External14",
-            "voiceContent": "I can tell you used lots of fresh ingredients... Mm, I wonder if I could blend this up and add it to a nutritious shake...",
-            "sourceName": "vo_sigewinne_spice_pref_01.wem"
-        },
-        "1c0d42e78a39d8ee": {
-            "hash": "1c0d42e78a39d8ee",
-            "directory": "External3",
-            "voiceContent": "If Wolsey had a kitchen assistant like you, there'd be lots more tasty dishes to go 'round.",
-            "sourceName": "vo_sigewinne_spice_normal_01.wem"
-        },
-        "e3de56a9c1678b1a": {
-            "hash": "e3de56a9c1678b1a",
-            "directory": "External28",
-            "voiceContent": "You think I should eat more, huh? Thank you very much. Would you like to split it with me?",
-            "sourceName": "vo_sigewinne_spice_dislike_01.wem"
-        },
-        "11ff5056dade65e7": {
-            "hash": "11ff5056dade65e7",
-            "directory": "External2",
-            "voiceContent": "Happy Birthday! From what I've observed, you're always going from one place to the next. So, I made a special skincare set just for you that's portable and practical. Come on, lay down and close your eyes, I'll show you how to use it. First, I'm gonna apply a wet compress to your face — but you can just splash some water on there if you're ever in a hurry... Next, we squeeze out a small amount of foam cleanser, gently massaging it in with a circular motion, following the muscle, before rinsing and drying... And lastly, we apply some moisturizer with Tidalga extract... And, we're done! You look radiant, and now it's time for lovely little you to go and enjoy your special day to the fullest!",
-            "sourceName": "vo_sigewinne_pref_birthday_01.wem"
-        },
-        "1a5eb053f8d4229f": {
-            "hash": "1a5eb053f8d4229f",
-            "directory": "External3",
-            "voiceContent": "Your job today is to carry on being cute. But don't worry, I'll help.",
-            "sourceName": "vo_sigewinne_starUp_01.wem"
-        },
-        "afd3a26e846dc918": {
-            "hash": "afd3a26e846dc918",
-            "directory": "External21",
-            "voiceContent": "Yep, you saw it. Melusines give their tails a swish and a swoosh when they feel really satisfied. Thank you so, so much for everything you've given me.",
-            "sourceName": "vo_sigewinne_starUp_02.wem"
-        },
-        "3190fc66410de699": {
-            "hash": "3190fc66410de699",
-            "directory": "External6",
-            "voiceContent": "Oh wow... My Tranquilizer Gun feels much steadier in my hands now. I wanna see if I can shoot it with just one hand... Shall we go out for some target practice?",
-            "sourceName": "vo_sigewinne_starUp_03.wem"
-        },
-        "10513e3c90db2582": {
-            "hash": "10513e3c90db2582",
-            "directory": "External2",
-            "voiceContent": "Maybe humans and Melusines see the world differently, but I've always believed that we share the same feelings of friendship. That's something that transcends race. Take my hand — can you feel that? It's the warmth straight from my heart.",
-            "sourceName": "vo_sigewinne_starUp_04.wem"
+        "63cb63976652cf36": {
+            "hash": "63cb63976652cf36",
+            "directory": "External12",
+            "voiceContent": "What time is it? I've been living underwater so long that I still have to check the clock to tell whether it's daytime or nighttime... No, I don't find it depressing at all. It's not even that I've gotten used to it. I just... kinda prefer being in the dark",
+            "sourceName": "vo_sigewinne_dialog_greetingNight.wem"
         },
         "6b5c2b66e7111fbb": {
             "hash": "6b5c2b66e7111fbb",
             "directory": "External13",
-            "voiceContent": "I can treat that...",
+            "voiceContent": "I can treat that..",
             "sourceName": "vo_sigewinne_life_less30_01.wem"
         },
-        "95d45d7e60c49ec4": {
-            "hash": "95d45d7e60c49ec4",
-            "directory": "External18",
-            "voiceContent": "Time for a painkiller.",
-            "sourceName": "vo_sigewinne_life_less30_02.wem"
+        "6bb4fb9be91c330e": {
+            "hash": "6bb4fb9be91c330e",
+            "directory": "External13",
+            "voiceContent": "I remember that you once hid a potion and didn't drink it because it was too bitter. Later, I gave you a box of candies... that had some pills mixed in, and a recipe change so they wouldn't taste too strong. ...Oh, they were still bitter? You could tell right away, huh... Well, you still took them, so thank you for trusting me. I'll keep looking out for your health in the future. Just keep being a good patient, and take your medicine when you're told to",
+            "sourceName": "vo_sigewinne_dialog_close1.wem"
         },
-        "17c897761d93c855": {
-            "hash": "17c897761d93c855",
-            "directory": "External2",
-            "voiceContent": "I'll be fine...",
-            "sourceName": "vo_sigewinne_life_less30_03.wem"
+        "6fd0159417d9cffb": {
+            "hash": "6fd0159417d9cffb",
+            "directory": "External13",
+            "voiceContent": "No pressure, okay",
+            "sourceName": "vo_card_sigewinne_inGame_easy_01.wem"
+        },
+        "70c81a0719581974": {
+            "hash": "70c81a0719581974",
+            "directory": "External14",
+            "voiceContent": "I can tell you used lots of fresh ingredients... Mm, I wonder if I could blend this up and add it to a nutritious shake..",
+            "sourceName": "vo_sigewinne_spice_pref_01.wem"
+        },
+        "749cca46fdbd4cf2": {
+            "hash": "749cca46fdbd4cf2",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_fly_start_03.wem"
+        },
+        "75b55a461b49f16c": {
+            "hash": "75b55a461b49f16c",
+            "directory": "External14",
+            "voiceContent": "Do you like going swimming? It's really nice around the Fortress of Meropide, so dark and murky. I bet you'd love it too... Wait, your eyebrow muscles are contracting, which means you're feeling uncomfortable... Okay, got it — let's go diving at the Salacia Plain instead! It's been so long since I saw the Leisurely Otters playing. I could watch them all day. But please make sure you don't harm them, and don't steal their shells",
+            "sourceName": "vo_sigewinne_pref_gift_01.wem"
+        },
+        "7ab274361fc5b1dc": {
+            "hash": "7ab274361fc5b1dc",
+            "directory": "External15",
+            "voiceContent": "In my infirmary, I don't see criminals who deserve to suffer — I see patients who deserve a sickbed. Because whoever you are, you have to get healthy so you can serve your sentence and pay for your crimes, right",
+            "sourceName": "vo_sigewinne_friendship_01.wem"
         },
         "7add046f8377c259": {
             "hash": "7add046f8377c259",
             "directory": "External15",
-            "voiceContent": "My wounds are incurable...",
+            "voiceContent": "My wounds are incurable..",
             "sourceName": "vo_sigewinne_life_die_03.wem"
         },
-        "d8bd6014cf4ad33b": {
-            "hash": "d8bd6014cf4ad33b",
-            "directory": "External27",
-            "voiceContent": "Now I'm mad!",
-            "sourceName": "vo_sigewinne_battle_hit_H_01.wem"
+        "7d40779a2f292728": {
+            "hash": "7d40779a2f292728",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_jump_05.wem"
         },
-        "0335922c48fe5244": {
-            "hash": "0335922c48fe5244",
-            "directory": "External0",
-            "voiceContent": "That wasn't very nice!",
-            "sourceName": "vo_sigewinne_battle_hit_H_02.wem"
+        "7dec79edfda11cdb": {
+            "hash": "7dec79edfda11cdb",
+            "directory": "External15",
+            "voiceContent": "What was I thinking...",
+            "sourceName": "vo_card_sigewinne_inGame_hard_02.wem"
         },
-        "ee3112ce6c50a023": {
-            "hash": "ee3112ce6c50a023",
-            "directory": "External29",
-            "voiceContent": "Melusines have different bodies than human beings, so it's hard to find clothes that fit. Even for me — I never know what to do with my tail when I'm trying on human clothes... But luckily, Chiori offers a Melusine tailoring service, so now all my Melusine friends have the chance to wear the pretty clothes they love.",
-            "sourceName": "vo_sigewinne_teammate_chiori_01.wem"
+        "817fce09d6dc7b55": {
+            "hash": "817fce09d6dc7b55",
+            "directory": "External16",
+            "voiceContent": "Tea is great, but if you drink too much, it does your health more harm than good. *sigh* I've lost count of how many times I've told the Duke that..",
+            "sourceName": "vo_sigewinne_pref_foodDislike.wem"
         },
-        "1b892f16ff93c133": {
-            "hash": "1b892f16ff93c133",
-            "directory": "External3",
-            "voiceContent": "Don't slip and fall.",
-            "sourceName": "vo_sigewinne_explore_sprint_start_01.wem"
+        "81c2d2a1dd7ac1eb": {
+            "hash": "81c2d2a1dd7ac1eb",
+            "directory": "External16",
+            "voiceContent": "There are so many good ingredients, all with their own nutritional benefits... And I found a great way to combine them all into one meal. Wanna try my special-edition nutritious shake",
+            "sourceName": "vo_sigewinne_pref_foodLike.wem"
+        },
+        "8375f7a309c2d172": {
+            "hash": "8375f7a309c2d172",
+            "directory": "External16",
+            "voiceContent": "Floaty-woaty",
+            "sourceName": "vo_sigewinne_battle_skill1_06.wem"
+        },
+        "84c82a2f383c8d67": {
+            "hash": "84c82a2f383c8d67",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attacklight_07.wem"
+        },
+        "8529cc2405cd7bd5": {
+            "hash": "8529cc2405cd7bd5",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_hit_h_03.wem"
+        },
+        "856eb76658a16f09": {
+            "hash": "856eb76658a16f09",
+            "directory": "External16",
+            "voiceContent": "Excuse me",
+            "sourceName": "vo_sigewinne_teamJoin_03.wem"
+        },
+        "861ce035b0207b4f": {
+            "hash": "861ce035b0207b4f",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_hit_h_05.wem"
         },
         "883ed32b0ae1c058": {
             "hash": "883ed32b0ae1c058",
             "directory": "External17",
-            "voiceContent": "No.",
+            "voiceContent": "No",
             "sourceName": "vo_sigewinne_battle_hit_L_02.wem"
+        },
+        "8f136dfd06879e51": {
+            "hash": "8f136dfd06879e51",
+            "directory": "External17",
+            "voiceContent": "I love looking at Charlotte's photos. You get to see what everyone's facial muscles do in all sorts of different situations tensed up, relaxed, stretching up, drooping down... Hehe, I remember them all very fondly",
+            "sourceName": "vo_sigewinne_teammate_charlotte_01.wem"
+        },
+        "938da36235c4e279": {
+            "hash": "938da36235c4e279",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attackmid_03.wem"
+        },
+        "94e14a0c7de0a153": {
+            "hash": "94e14a0c7de0a153",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attacklight_03.wem"
+        },
+        "95d45d7e60c49ec4": {
+            "hash": "95d45d7e60c49ec4",
+            "directory": "External18",
+            "voiceContent": "Time for a painkiller",
+            "sourceName": "vo_sigewinne_life_less30_02.wem"
+        },
+        "96e7eb5548f5548f": {
+            "hash": "96e7eb5548f5548f",
+            "directory": "External18",
+            "voiceContent": "Anyone need a health checkup",
+            "sourceName": "vo_sigewinne_teamJoin_01.wem"
+        },
+        "97f5b05875b2dde3": {
+            "hash": "97f5b05875b2dde3",
+            "directory": "External18",
+            "voiceContent": "Having a Vision helps me remove obstacles getting in the way of my work, which frees up valuable time to look after my patients. What kind of obstacles? Well, in my experience... sometimes, I get nasty characters trying to stop me from treating someone. And other times, it's the patients themselves — some people can be really uncooperative... But those are extreme cases. Most of the time, I prefer using my Vision to make lots of floaty, colorful bubbles. They always cheer me up, and they liven up the atmosphere — I have loads of great photos of me and my Melusine friends surrounded by bubbles",
+            "sourceName": "vo_sigewinne_dialog_pendant_01.wem"
+        },
+        "988dd30850b32d14": {
+            "hash": "988dd30850b32d14",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_hit_l_06.wem"
+        },
+        "9971361e2b45c84d": {
+            "hash": "9971361e2b45c84d",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attacklight_01.wem"
+        },
+        "9a4947ab918f0104": {
+            "hash": "9a4947ab918f0104",
+            "directory": "External19",
+            "voiceContent": "Uhh... Huh",
+            "sourceName": "vo_card_sigewinne_inGame_easy_02.wem"
+        },
+        "9ed833bd3ef27526": {
+            "hash": "9ed833bd3ef27526",
+            "directory": "External19",
+            "voiceContent": "Poor thing, let me take a look at that..",
+            "sourceName": "vo_card_sigewinne_inGame_easy_04.wem"
+        },
+        "a0e35648fb7c2a69": {
+            "hash": "a0e35648fb7c2a69",
+            "directory": "External20",
+            "voiceContent": "I bought a pair of mittens to keep my hands warm. Look, my Melusine round hands came back",
+            "sourceName": "vo_sigewinne_weather_snowy_01.wem"
+        },
+        "a4b5b5ccb9f59249": {
+            "hash": "a4b5b5ccb9f59249",
+            "directory": "External20",
+            "voiceContent": "Hold still",
+            "sourceName": "vo_sigewinne_battle_skill1_01.wem"
+        },
+        "a7e42ff017f2a2cb": {
+            "hash": "a7e42ff017f2a2cb",
+            "directory": "External20",
+            "voiceContent": "Oh no! Did you bump into something? Well, if it hurts, just let me know",
+            "sourceName": "vo_sigewinne_character_idle_02.wem"
+        },
+        "aba772a109a09ea2": {
+            "hash": "aba772a109a09ea2",
+            "directory": "External21",
+            "voiceContent": "It's time for some aggressive treatment..",
+            "sourceName": "vo_sigewinne_life_less30_teammate_01.wem"
+        },
+        "ac240316c0323c01": {
+            "hash": "ac240316c0323c01",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_climb_03.wem"
+        },
+        "afd3a26e846dc918": {
+            "hash": "afd3a26e846dc918",
+            "directory": "External21",
+            "voiceContent": "Yep, you saw it. Melusines give their tails a swish and a swoosh when they feel really satisfied. Thank you so, so much for everything you've given me",
+            "sourceName": "vo_sigewinne_starUp_02.wem"
+        },
+        "b40e3438ed7d4d8b": {
+            "hash": "b40e3438ed7d4d8b",
+            "directory": "External22",
+            "voiceContent": "I swear, it's for medical research",
+            "sourceName": "vo_sigewinne_battle_skill3_01.wem"
+        },
+        "b511d36703079392": {
+            "hash": "b511d36703079392",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_jump_03.wem"
+        },
+        "b538604a97ffb8e5": {
+            "hash": "b538604a97ffb8e5",
+            "directory": "External22",
+            "voiceContent": "You might feel a little prick",
+            "sourceName": "vo_sigewinne_battle_skill3_03.wem"
+        },
+        "b53bd5a9fff67855": {
+            "hash": "b53bd5a9fff67855",
+            "directory": "External22",
+            "voiceContent": "Wibbly-wobbly",
+            "sourceName": "vo_sigewinne_battle_skill1_05.wem"
+        },
+        "b62ee9bbaa4977cf": {
+            "hash": "b62ee9bbaa4977cf",
+            "directory": "External22",
+            "voiceContent": "Calm down",
+            "sourceName": "vo_sigewinne_battle_skill1_03.wem"
+        },
+        "b82fe27b45b8dfc9": {
+            "hash": "b82fe27b45b8dfc9",
+            "directory": "External23",
+            "voiceContent": "We Melusines are Monsieur Neuvillette's familiars, but that doesn't mean he shows us any favor beyond what is fair and legal. I willingly accepted when he put me on trial, and I fully agreed with his verdict. I remember the day I left for the Fortress of Meropide, it was raining really hard. But I didn't feel like the raindrops were cold at all. They were warm and gentle, just like the way Monsieur Neuvillette looks at me..",
+            "sourceName": "vo_sigewinne_teammate_neuvillette_02.wem"
+        },
+        "b83df0264b8bbdea": {
+            "hash": "b83df0264b8bbdea",
+            "directory": "External23",
+            "voiceContent": "When work's not so busy, I invite Ottnit and Menthe to the infirmary for tea. Sometimes we talk about recent criminal cases, other times we discuss the latest skincare products recommended in the magazines, but most of the time we do painting together. We paint things that we find cute, turn them into stickers, and then give the stickers to people that we also think are cute. ...Oh, wait a moment, I have one here for you",
+            "sourceName": "vo_sigewinne_friendship_03.wem"
+        },
+        "b9a1f778b06d1a64": {
+            "hash": "b9a1f778b06d1a64",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_jump_01.wem"
+        },
+        "bba212b203c9ff6d": {
+            "hash": "bba212b203c9ff6d",
+            "directory": "External23",
+            "voiceContent": "What an amazing sound... You only ever get to hear it up here above the water",
+            "sourceName": "vo_sigewinne_weather_thunder_01.wem"
+        },
+        "c6d4124dc7ba5f08": {
+            "hash": "c6d4124dc7ba5f08",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_hit_h_06.wem"
+        },
+        "c7f59b26361669ad": {
+            "hash": "c7f59b26361669ad",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_sprint_start_03.wem"
+        },
+        "c80e5b5fab111abb": {
+            "hash": "c80e5b5fab111abb",
+            "directory": "External25",
+            "voiceContent": "Miss Clorinde doesn't make a lot of facial expressions when she talks. It's pretty difficult to tell what mood she's in from what her face is doing... She used the lipstick I gave her? Really? Hee-hee, I'm so glad she likes it! I knew that color would go great on her",
+            "sourceName": "vo_sigewinne_teammate_clorinde_01.wem"
+        },
+        "c886adbde9429a98": {
+            "hash": "c886adbde9429a98",
+            "directory": "External25",
+            "voiceContent": "Oh gosh, it's almost lunchtime. I gotta leave for a minute... Shh, keep it a secret",
+            "sourceName": "vo_sigewinne_dialog_greetingNoon.wem"
+        },
+        "c9d316935bb3b5ce": {
+            "hash": "c9d316935bb3b5ce",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_idle_01.wem"
+        },
+        "cafd0aa50635c170": {
+            "hash": "cafd0aa50635c170",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_idle_03.wem"
+        },
+        "cbb9849540997c8a": {
+            "hash": "cbb9849540997c8a",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attackheavy_01.wem"
+        },
+        "d0461c97ea274530": {
+            "hash": "d0461c97ea274530",
+            "directory": "External26",
+            "voiceContent": "Out of all the books I've ever read, The Meaning of Laughter is my favorite. Not only is it a fun read, it also helps me when I diagnose patients. Like, when someone comes out of the Pankration Ring and they're laughing with their mouth but the rest of their facial muscles are all contorted, it means that they're doing it to cover up the pain from taking a beating. If you ever meet someone doing that, you should subtly hint for them to come to me and get patched up. But remember, the subtlety is important. Otherwise, it takes away the meaning of their laughter, hehe",
+            "sourceName": "vo_sigewinne_pref_hobby.wem"
+        },
+        "d118d752618a73ff": {
+            "hash": "d118d752618a73ff",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attackmid_01.wem"
+        },
+        "d30a1674c33c6009": {
+            "hash": "d30a1674c33c6009",
+            "directory": "External26",
+            "voiceContent": "If there's any mechanical parts, could I have them please",
+            "sourceName": "vo_sigewinne_chest_open_02.wem"
+        },
+        "d6176e4ff8dae8a1": {
+            "hash": "d6176e4ff8dae8a1",
+            "directory": "External26",
+            "voiceContent": "Once upon a time in Fontaine, humans and Melusines didn't get along like they do today. Some people feared and hated us because they heard that we were born from the body of Elynas... Others didn't trust Monsieur Neuvillette, and by extension they didn't trust us Melusines either... And maybe some of them were just subconsciously wary of us because we looked different... Back then, it was really difficult to make human friends. So I really treasured that one little girl who knew I was a Melusine but was still willing to hold my little round hand..",
+            "sourceName": "vo_sigewinne_friendship_04.wem"
+        },
+        "d6529190b33c0869": {
+            "hash": "d6529190b33c0869",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_jump_04.wem"
+        },
+        "d6f88836402a495e": {
+            "hash": "d6f88836402a495e",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attacklight_06.wem"
+        },
+        "d7a01d6d6090ec48": {
+            "hash": "d7a01d6d6090ec48",
+            "directory": "External26",
+            "voiceContent": "Anesthetics... check",
+            "sourceName": "vo_sigewinne_teamJoin_02.wem"
+        },
+        "d8bd6014cf4ad33b": {
+            "hash": "d8bd6014cf4ad33b",
+            "directory": "External27",
+            "voiceContent": "Now I'm mad",
+            "sourceName": "vo_sigewinne_battle_hit_H_01.wem"
+        },
+        "d9487b3eaae78618": {
+            "hash": "d9487b3eaae78618",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_climb_breath_01.wem"
+        },
+        "db88bc47ed8fea00": {
+            "hash": "db88bc47ed8fea00",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attacklight_04.wem"
+        },
+        "e3de56a9c1678b1a": {
+            "hash": "e3de56a9c1678b1a",
+            "directory": "External28",
+            "voiceContent": "You think I should eat more, huh? Thank you very much. Would you like to split it with me",
+            "sourceName": "vo_sigewinne_spice_dislike_01.wem"
+        },
+        "e44185213cddce9e": {
+            "hash": "e44185213cddce9e",
+            "directory": "External28",
+            "voiceContent": "You're having some trouble getting to sleep, huh? Hmm... Well, it doesn't seem to be a physical condition... Oh, I know. Talk to me, tell me what's on your mind. Whatever's preventing you from getting a good night's sleep, we'll get to the bottom of it together",
+            "sourceName": "vo_sigewinne_dialog_greetingNight2.wem"
+        },
+        "e65188a78bb5effc": {
+            "hash": "e65188a78bb5effc",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_attackheavy_03.wem"
+        },
+        "eac1a72d9b3b5e36": {
+            "hash": "eac1a72d9b3b5e36",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_climb_breath_03.wem"
+        },
+        "eb32b1f7b9cca8b6": {
+            "hash": "eb32b1f7b9cca8b6",
+            "directory": "External29",
+            "voiceContent": "Oh... I wonder what's on Monsieur Neuvillette's mind right now..",
+            "sourceName": "vo_sigewinne_weather_heavyRain_01.wem"
+        },
+        "ec216ef91a3092c2": {
+            "hash": "ec216ef91a3092c2",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_hit_l_04.wem"
+        },
+        "ee3112ce6c50a023": {
+            "hash": "ee3112ce6c50a023",
+            "directory": "External29",
+            "voiceContent": "Melusines have different bodies than human beings, so it's hard to find clothes that fit. Even for me — I never know what to do with my tail when I'm trying on human clothes... But luckily, Chiori offers a Melusine tailoring service, so now all my Melusine friends have the chance to wear the pretty clothes they love",
+            "sourceName": "vo_sigewinne_teammate_chiori_01.wem"
         },
         "eec44bacd39f69db": {
             "hash": "eec44bacd39f69db",
             "directory": "External29",
-            "voiceContent": "How strange. My storage room is running out of space — soon, I won't be able to fit any more mechanical parts in there. I thought I was pretty good at storing things... Hmm, yeah, looks like I need to talk to the Duke some time about expanding the capacity.",
+            "voiceContent": "How strange. My storage room is running out of space — soon, I won't be able to fit any more mechanical parts in there. I thought I was pretty good at storing things... Hmm, yeah, looks like I need to talk to the Duke some time about expanding the capacity",
             "sourceName": "vo_sigewinne_dialog_annoyed_01.wem"
         },
         "f1202371b9475062": {
             "hash": "f1202371b9475062",
             "directory": "External30",
-            "voiceContent": "What's wrong? Don't be nervous, I'm Nurse Sigewinne from the Fortress of Meropide. Lemme take a look at you... Any pain here? What about here? ...Oh, you're not here for a checkup? Well, that's great news, phew... You're so adorable, make sure you take good care of yourself, okay? We don't want anything happening to you.",
+            "voiceContent": "What's wrong? Don't be nervous, I'm Nurse Sigewinne from the Fortress of Meropide. Lemme take a look at you... Any pain here? What about here? ...Oh, you're not here for a checkup? Well, that's great news, phew... You're so adorable, make sure you take good care of yourself, okay? We don't want anything happening to you",
             "sourceName": "vo_sigewinne_draw_appear_01.wem"
         },
-        "97f5b05875b2dde3": {
-            "hash": "97f5b05875b2dde3",
-            "directory": "External18",
-            "voiceContent": "Having a Vision helps me remove obstacles getting in the way of my work, which frees up valuable time to look after my patients. What kind of obstacles? Well, in my experience... sometimes, I get nasty characters trying to stop me from treating someone. And other times, it's the patients themselves — some people can be really uncooperative... But those are extreme cases. Most of the time, I prefer using my Vision to make lots of floaty, colorful bubbles. They always cheer me up, and they liven up the atmosphere — I have loads of great photos of me and my Melusine friends surrounded by bubbles.",
-            "sourceName": "vo_sigewinne_dialog_pendant_01.wem"
+        "f2c8e1107f4666df": {
+            "hash": "f2c8e1107f4666df",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_battle_hit_l_01.wem"
         },
-        "7dec79edfda11cdb": {
-            "hash": "7dec79edfda11cdb",
-            "directory": "External15",
-            "voiceContent": "What was I thinking...?",
-            "sourceName": "vo_card_sigewinne_inGame_hard_02.wem"
+        "f5112aebe27123bc": {
+            "hash": "f5112aebe27123bc",
+            "directory": "External30",
+            "voiceContent": "Good morning! Did you sleep well? Make sure to use warm water when you wash your face, it's kinder on your skin",
+            "sourceName": "vo_sigewinne_dialog_greetingMorning.wem"
         },
-        "9ed833bd3ef27526": {
-            "hash": "9ed833bd3ef27526",
-            "directory": "External19",
-            "voiceContent": "Poor thing, let me take a look at that...",
-            "sourceName": "vo_card_sigewinne_inGame_easy_04.wem"
+        "f91faa77c6d7a4d8": {
+            "hash": "f91faa77c6d7a4d8",
+            "directory": "External31",
+            "voiceContent": "So cold... It hurts..",
+            "sourceName": "vo_sigewinne_life_die_02.wem"
         },
-        "1fa281a3513fa095": {
-            "hash": "1fa281a3513fa095",
-            "directory": "External3",
-            "voiceContent": "Keep calm and carry on...",
-            "sourceName": "vo_card_sigewinne_inGame_easy_03.wem"
-        },
-        "9a4947ab918f0104": {
-            "hash": "9a4947ab918f0104",
-            "directory": "External19",
-            "voiceContent": "Uhh... Huh?",
-            "sourceName": "vo_card_sigewinne_inGame_easy_02.wem"
+        "f9f63c3ebd6e4b3b": {
+            "hash": "f9f63c3ebd6e4b3b",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_fly_start_02.wem"
         },
         "fbf807f640d19392": {
             "hash": "fbf807f640d19392",
             "directory": "External31",
-            "voiceContent": "...Maybe it's nerves?",
+            "voiceContent": "...Maybe it's nerves",
             "sourceName": "vo_card_sigewinne_inGame_hard_03.wem"
         },
-        "00882c07ee371a64": {
-            "hash": "00882c07ee371a64",
-            "directory": "External0",
-            "voiceContent": "Nothing to stress about.",
-            "sourceName": "vo_card_sigewinne_inGame_hard_01.wem"
+        "fbfe224a91487301": {
+            "hash": "fbfe224a91487301",
+            "directory": "External31",
+            "voiceContent": "I love human hands, they're really handy for handling things. They make cutting bandages and picking up needles so much easier, and they fit my Tranquilizer Gun like a glove",
+            "sourceName": "vo_sigewinne_dialog_idle.wem"
         },
-        "6fd0159417d9cffb": {
-            "hash": "6fd0159417d9cffb",
-            "directory": "External13",
-            "voiceContent": "No pressure, okay?",
-            "sourceName": "vo_card_sigewinne_inGame_easy_01.wem"
+        "fc51970786cc6b67": {
+            "hash": "fc51970786cc6b67",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_sigewinne_explore_climb_01.wem"
         },
-        "1d38c61ff1060869": {
-            "hash": "1d38c61ff1060869",
-            "directory": "External3",
-            "voiceContent": "Gotta concentrate.",
-            "sourceName": "vo_card_sigewinne_inGame_hard_04.wem"
+        "fe6ea208cd183a54": {
+            "hash": "fe6ea208cd183a54",
+            "directory": "External31",
+            "voiceContent": "No... I didn't put a sticker on your back",
+            "sourceName": "vo_sigewinne_character_idle_01.wem"
         }
     }
 }

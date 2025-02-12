@@ -1,589 +1,871 @@
 {
     "Teapot": {},
     "Quests": {
-        "303e51a7ea5f87bd": {
-            "hash": "303e51a7ea5f87bd",
-            "directory": "External6",
-            "voiceContent": "원래는 엄마 아빠도 내가 춤을 배우길 바라셨지만, 난 훌륭한 전사가 되고 싶어!",
-            "sourceName": "vo_NTAQ001_4_kachina_05.wem"
-        },
-        "f778f1c96c2c83b1": {
-            "hash": "f778f1c96c2c83b1",
-            "directory": "External30",
-            "voiceContent": "하하하, 괜찮아. 우리 부족은 항상 돌을 상대하거든. 그게 우리의 상징 중 하나야",
-            "sourceName": "vo_NTAQ001_4_kachina_01.wem"
-        },
-        "712ba3c00227318e": {
-            "hash": "712ba3c00227318e",
-            "directory": "External14",
-            "voiceContent": "게다가 잘 고정되어 있으니까 안심해!",
-            "sourceName": "vo_NTAQ001_4_kachina_02.wem"
-        },
-        "f2e905b7bec75c97": {
-            "hash": "f2e905b7bec75c97",
-            "directory": "External30",
-            "voiceContent": "우리 부족엔 음악과 춤을 좋아하는 사람이 많아. 다들 리듬감도 뛰어나지",
-            "sourceName": "vo_NTAQ001_4_kachina_03.wem"
-        },
-        "c4c037b0cba63cec": {
-            "hash": "c4c037b0cba63cec",
-            "directory": "External24",
-            "voiceContent": "일부러 여기까지 찾아와서 교류하고 배워간 외국인도 있었어",
-            "sourceName": "vo_NTAQ001_4_kachina_04.wem"
-        },
-        "72a7ed0885c0b8f6": {
-            "hash": "72a7ed0885c0b8f6",
-            "directory": "External14",
-            "voiceContent": "아냐, 괜찮아. 너도 알잖아, 내가 얼마나 튼튼한지",
-            "sourceName": "vo_NTAQ007_7_kachina_12.wem"
-        },
-        "d0d08b47e26b0cc8": {
-            "hash": "d0d08b47e26b0cc8",
-            "directory": "External26",
-            "voiceContent": "(주먹만 세다고 이기는 건 아니니까!)",
-            "sourceName": "vo_NTAQ002_6_kachina_07.wem"
-        },
-        "f539aab7c2895e08": {
-            "hash": "f539aab7c2895e08",
-            "directory": "External30",
-            "voiceContent": "헤헤, 도움이 됐다니 다행이야",
-            "sourceName": "vo_NTAQ002_4_kachina_05.wem"
-        },
-        "a30944b0ba9b94c9": {
-            "hash": "a30944b0ba9b94c9",
-            "directory": "External20",
-            "voiceContent": "괜찮아, 나한테 맡겨. 내가 데려다줄게!",
-            "sourceName": "vo_NTAQ002_4_kachina_04.wem"
-        },
-        "997ccae626a60362": {
-            "hash": "997ccae626a60362",
-            "directory": "External19",
-            "voiceContent": "엄청 급해 보여, 대체 무슨 일이지…",
-            "sourceName": "vo_NTAQ301_22_kachina_05.wem"
-        },
-        "e1cd4b83283858e1": {
-            "hash": "e1cd4b83283858e1",
-            "directory": "External28",
-            "voiceContent": "돌이 떨어지고 있어!",
-            "sourceName": "vo_NTAQ007_9_kachina_13.wem"
-        },
-        "2b0bc95010fe9703": {
-            "hash": "2b0bc95010fe9703",
-            "directory": "External5",
-            "voiceContent": "위험했어…",
-            "sourceName": "vo_NTAQ002_6_kachina_08.wem"
+        "0722f87eca19d23b": {
+            "hash": "0722f87eca19d23b",
+            "directory": "External0",
+            "voiceContent": "마물이 경기장 안까지 들어오다니",
+            "sourceName": "vo_NTAQ002_4_kachina_02.wem"
         },
         "0e5af7380e2f4a26": {
             "hash": "0e5af7380e2f4a26",
             "directory": "External1",
-            "voiceContent": "(잠깐, 돌기둥 위에 올라가면 어떨까? 그럼 잡을 수 있을지도 몰라!)",
+            "voiceContent": "(잠깐, 돌기둥 위에 올라가면 어떨까? 그럼 잡을 수 있을지도 몰라!",
             "sourceName": "vo_NTAQ002_6_kachina_05.wem"
         },
-        "9018592fcacf750f": {
-            "hash": "9018592fcacf750f",
-            "directory": "External18",
-            "voiceContent": "(이대로는 안 되겠어…)",
-            "sourceName": "vo_NTAQ002_6_kachina_04.wem"
+        "13c0122dcdef1307": {
+            "hash": "13c0122dcdef1307",
+            "directory": "External2",
+            "voiceContent": "우리라면… 어, 나?! 맞아! 지금 우린 무적이야",
+            "sourceName": "vo_NTAQ108_4_kachina_03.wem"
         },
-        "81c986870a68d3f2": {
-            "hash": "81c986870a68d3f2",
-            "directory": "External16",
-            "voiceContent": "우리가 이 전설적인 선수를 이기다니…",
-            "sourceName": "vo_NTAQ002_4_kachina_03.wem"
+        "14e8fe3f786f5e21": {
+            "hash": "14e8fe3f786f5e21",
+            "directory": "External2",
+            "voiceContent": "으아아——「흐르는 영혼길」만큼 짜릿해",
+            "sourceName": "vo_NTAQ108_4_kachina_01.wem"
         },
-        "36b77297da79e396": {
-            "hash": "36b77297da79e396",
+        "253e46a8ea260c78": {
+            "hash": "253e46a8ea260c78",
+            "directory": "External4",
+            "voiceContent": "나, 꼭 이기고 싶어. 「불이 돌아온 밤의 순례」에서 이겨서, 진정한 전사가 될 거야",
+            "sourceName": "vo_NTAQ002_4_kachina_12.wem"
+        },
+        "25db41cc2987d667": {
+            "hash": "25db41cc2987d667",
+            "directory": "External4",
+            "voiceContent": "#얘들아 날뛰지 마, {NICKNAME}의 길을 막으면 안 돼",
+            "sourceName": "vo_NTAQ303_10_kachina_01b.wem"
+        },
+        "2b0bc95010fe9703": {
+            "hash": "2b0bc95010fe9703",
+            "directory": "External5",
+            "voiceContent": "위험했어",
+            "sourceName": "vo_NTAQ002_6_kachina_08.wem"
+        },
+        "303e51a7ea5f87bd": {
+            "hash": "303e51a7ea5f87bd",
             "directory": "External6",
-            "voiceContent": "괜찮아. 전에 너랑 타 본 적이 있어서 지금은 별로 안 무서워",
-            "sourceName": "vo_NTAQ002_4_kachina_10.wem"
-        },
-        "e486d490d28bbb7f": {
-            "hash": "e486d490d28bbb7f",
-            "directory": "External28",
-            "voiceContent": "응. 안 그래도 그날 훈련이 잘 안 풀려서 기분이 안 좋았는데, 덕분에 기운을 차릴 수 있었어",
-            "sourceName": "vo_NTAQ002_4_kachina_11.wem"
-        },
-        "e520bada7ce59bac": {
-            "hash": "e520bada7ce59bac",
-            "directory": "External28",
-            "voiceContent": "고마워, 말라니",
-            "sourceName": "vo_NTAQ002_4_kachina_09.wem"
+            "voiceContent": "원래는 엄마 아빠도 내가 춤을 배우길 바라셨지만, 난 훌륭한 전사가 되고 싶어",
+            "sourceName": "vo_NTAQ001_4_kachina_05.wem"
         },
         "319b2a9643cd5144": {
             "hash": "319b2a9643cd5144",
             "directory": "External6",
-            "voiceContent": "이, 이겼다!",
+            "voiceContent": "이, 이겼다",
             "sourceName": "vo_NTAQ002_4_kachina_01.wem"
         },
         "32c516a7ee4f4f66": {
             "hash": "32c516a7ee4f4f66",
             "directory": "External6",
-            "voiceContent": "후우… 난 괜찮아. 빨리, 빨리 성화 경기장으로 돌아가자",
+            "voiceContent": "후우… 난 괜찮아. 빨리, 빨리 성화 경기장으로 돌아가",
             "sourceName": "vo_NTAQ002_4_kachina_07.wem"
         },
-        "253e46a8ea260c78": {
-            "hash": "253e46a8ea260c78",
-            "directory": "External4",
-            "voiceContent": "나, 꼭 이기고 싶어. 「불이 돌아온 밤의 순례」에서 이겨서, 진정한 전사가 될 거야!",
-            "sourceName": "vo_NTAQ002_4_kachina_12.wem"
+        "36b77297da79e396": {
+            "hash": "36b77297da79e396",
+            "directory": "External6",
+            "voiceContent": "괜찮아. 전에 너랑 타 본 적이 있어서 지금은 별로 안 무서",
+            "sourceName": "vo_NTAQ002_4_kachina_10.wem"
         },
         "5404d4d19e82107d": {
             "hash": "5404d4d19e82107d",
             "directory": "External10",
-            "voiceContent": "헉… 헉…",
+            "voiceContent": "헉… 헉",
             "sourceName": "vo_NTAQ002_4_kachina_08.wem"
         },
-        "0722f87eca19d23b": {
-            "hash": "0722f87eca19d23b",
-            "directory": "External0",
-            "voiceContent": "마물이 경기장 안까지 들어오다니…",
-            "sourceName": "vo_NTAQ002_4_kachina_02.wem"
+        "712ba3c00227318e": {
+            "hash": "712ba3c00227318e",
+            "directory": "External14",
+            "voiceContent": "게다가 잘 고정되어 있으니까 안심해",
+            "sourceName": "vo_NTAQ001_4_kachina_02.wem"
+        },
+        "72a7ed0885c0b8f6": {
+            "hash": "72a7ed0885c0b8f6",
+            "directory": "External14",
+            "voiceContent": "아냐, 괜찮아. 너도 알잖아, 내가 얼마나 튼튼한",
+            "sourceName": "vo_NTAQ007_7_kachina_12.wem"
+        },
+        "7c9bd3e4dedb3300": {
+            "hash": "7c9bd3e4dedb3300",
+            "directory": "External15",
+            "voiceContent": "#얘들아 날뛰지 마, {NICKNAME}의 길을 막으면 안 돼",
+            "sourceName": "vo_NTAQ303_10_kachina_01a.wem"
+        },
+        "7e9f2540da7b8f89": {
+            "hash": "7e9f2540da7b8f89",
+            "directory": "External15",
+            "voiceContent": "#(강한 상대야. 이럴 땐 조급해하면 안 돼. {NICKNAME}이(가) 말한 대로, 상대를 관찰하면서 기회를 엿보는 거야…",
+            "sourceName": "vo_NTAQ002_6_kachina_06.wem"
+        },
+        "81c986870a68d3f2": {
+            "hash": "81c986870a68d3f2",
+            "directory": "External16",
+            "voiceContent": "우리가 이 전설적인 선수를 이기다니",
+            "sourceName": "vo_NTAQ002_4_kachina_03.wem"
+        },
+        "9018592fcacf750f": {
+            "hash": "9018592fcacf750f",
+            "directory": "External18",
+            "voiceContent": "(이대로는 안 되겠어…",
+            "sourceName": "vo_NTAQ002_6_kachina_04.wem"
+        },
+        "997ccae626a60362": {
+            "hash": "997ccae626a60362",
+            "directory": "External19",
+            "voiceContent": "엄청 급해 보여, 대체 무슨 일이지",
+            "sourceName": "vo_NTAQ301_22_kachina_05.wem"
+        },
+        "a30944b0ba9b94c9": {
+            "hash": "a30944b0ba9b94c9",
+            "directory": "External20",
+            "voiceContent": "괜찮아, 나한테 맡겨. 내가 데려다줄게",
+            "sourceName": "vo_NTAQ002_4_kachina_04.wem"
         },
         "b482789faaef7a4f": {
             "hash": "b482789faaef7a4f",
             "directory": "External22",
-            "voiceContent": "저쪽에서 싸우고 있는 것 같아. 말라니, 어떡하지?",
+            "voiceContent": "저쪽에서 싸우고 있는 것 같아. 말라니, 어떡하지",
             "sourceName": "vo_NTAQ002_4_kachina_06.wem"
-        },
-        "14e8fe3f786f5e21": {
-            "hash": "14e8fe3f786f5e21",
-            "directory": "External2",
-            "voiceContent": "으아아——「흐르는 영혼길」만큼 짜릿해!",
-            "sourceName": "vo_NTAQ108_4_kachina_01.wem"
         },
         "baadf03749dc257e": {
             "hash": "baadf03749dc257e",
             "directory": "External23",
-            "voiceContent": "내 차례다, 가라 쌩쌩이!",
+            "voiceContent": "내 차례다, 가라 쌩쌩이",
             "sourceName": "vo_NTAQ108_4_kachina_02.wem"
         },
-        "13c0122dcdef1307": {
-            "hash": "13c0122dcdef1307",
-            "directory": "External2",
-            "voiceContent": "우리라면… 어, 나?! 맞아! 지금 우린 무적이야!",
-            "sourceName": "vo_NTAQ108_4_kachina_03.wem"
+        "c4c037b0cba63cec": {
+            "hash": "c4c037b0cba63cec",
+            "directory": "External24",
+            "voiceContent": "일부러 여기까지 찾아와서 교류하고 배워간 외국인도 있었",
+            "sourceName": "vo_NTAQ001_4_kachina_04.wem"
+        },
+        "c9922fe81596ae42": {
+            "hash": "c9922fe81596ae42",
+            "directory": "External25",
+            "voiceContent": "#{NICKNAME}, 여기 좀 봐봐",
+            "sourceName": "vo_NTAQ303_18_iansan_01.wem"
+        },
+        "d0d08b47e26b0cc8": {
+            "hash": "d0d08b47e26b0cc8",
+            "directory": "External26",
+            "voiceContent": "(주먹만 세다고 이기는 건 아니니까!",
+            "sourceName": "vo_NTAQ002_6_kachina_07.wem"
+        },
+        "e1cd4b83283858e1": {
+            "hash": "e1cd4b83283858e1",
+            "directory": "External28",
+            "voiceContent": "돌이 떨어지고 있어",
+            "sourceName": "vo_NTAQ007_9_kachina_13.wem"
+        },
+        "e486d490d28bbb7f": {
+            "hash": "e486d490d28bbb7f",
+            "directory": "External28",
+            "voiceContent": "응. 안 그래도 그날 훈련이 잘 안 풀려서 기분이 안 좋았는데, 덕분에 기운을 차릴 수 있었",
+            "sourceName": "vo_NTAQ002_4_kachina_11.wem"
+        },
+        "e520bada7ce59bac": {
+            "hash": "e520bada7ce59bac",
+            "directory": "External28",
+            "voiceContent": "고마워, 말라",
+            "sourceName": "vo_NTAQ002_4_kachina_09.wem"
+        },
+        "f2e905b7bec75c97": {
+            "hash": "f2e905b7bec75c97",
+            "directory": "External30",
+            "voiceContent": "우리 부족엔 음악과 춤을 좋아하는 사람이 많아. 다들 리듬감도 뛰어나",
+            "sourceName": "vo_NTAQ001_4_kachina_03.wem"
+        },
+        "f539aab7c2895e08": {
+            "hash": "f539aab7c2895e08",
+            "directory": "External30",
+            "voiceContent": "헤헤, 도움이 됐다니 다행이",
+            "sourceName": "vo_NTAQ002_4_kachina_05.wem"
+        },
+        "f778f1c96c2c83b1": {
+            "hash": "f778f1c96c2c83b1",
+            "directory": "External30",
+            "voiceContent": "하하하, 괜찮아. 우리 부족은 항상 돌을 상대하거든. 그게 우리의 상징 중 하나",
+            "sourceName": "vo_NTAQ001_4_kachina_01.wem"
         }
     },
     "Gameplay": {
-        "603b0ccd7164387c": {
-            "hash": "603b0ccd7164387c",
-            "directory": "External12",
-            "voiceContent": "돌아라!",
-            "sourceName": "vo_kachina_battle_skill1_01.wem"
-        },
-        "ca8f3ab2e59b8513": {
-            "hash": "ca8f3ab2e59b8513",
-            "directory": "External25",
-            "voiceContent": "잇——차!",
-            "sourceName": "vo_kachina_battle_skill1_02.wem"
-        },
-        "45a308bb2647c50a": {
-            "hash": "45a308bb2647c50a",
-            "directory": "External8",
-            "voiceContent": "간다!",
-            "sourceName": "vo_kachina_battle_skill1_03.wem"
-        },
-        "66e286e4d67a19c1": {
-            "hash": "66e286e4d67a19c1",
-            "directory": "External12",
-            "voiceContent": "빙글빙글!",
-            "sourceName": "vo_kachina_battle_skill1_04.wem"
-        },
-        "0dd0acee5267a5c0": {
-            "hash": "0dd0acee5267a5c0",
-            "directory": "External1",
-            "voiceContent": "충격파!",
-            "sourceName": "vo_kachina_battle_skill1_05.wem"
-        },
-        "ba761ad59ff77127": {
-            "hash": "ba761ad59ff77127",
-            "directory": "External23",
-            "voiceContent": "쌩쌩이, 출발!",
-            "sourceName": "vo_kachina_battle_skill1_06.wem"
-        },
-        "8de132aa483ab222": {
-            "hash": "8de132aa483ab222",
-            "directory": "External17",
-            "voiceContent": "물리친다!",
-            "sourceName": "vo_kachina_battle_skill3_01.wem"
-        },
-        "e85250b276fb9645": {
-            "hash": "e85250b276fb9645",
-            "directory": "External29",
-            "voiceContent": "광석 채집!",
-            "sourceName": "vo_kachina_battle_skill3_02.wem"
-        },
-        "8f0a16bbf2baeff4": {
-            "hash": "8f0a16bbf2baeff4",
-            "directory": "External17",
-            "voiceContent": "가까이 오지 마",
-            "sourceName": "vo_kachina_battle_skill3_03.wem"
-        },
-        "69515d351ae6087d": {
-            "hash": "69515d351ae6087d",
-            "directory": "External13",
-            "voiceContent": "우와, 반짝이는 돌멩이가 있어!",
-            "sourceName": "vo_kachina_chest_open_01.wem"
-        },
-        "0f4c3f2cec80437a": {
-            "hash": "0f4c3f2cec80437a",
-            "directory": "External1",
-            "voiceContent": "너도 돌멩이 수집하는 거 좋아해? 알아 알아, 돌멩이는 정말 예쁘지~",
-            "sourceName": "vo_kachina_chest_open_02.wem"
-        },
-        "64c171236d80e143": {
-            "hash": "64c171236d80e143",
-            "directory": "External12",
-            "voiceContent": "정리하는 거 도와줄까? 나 정리 잘해!",
-            "sourceName": "vo_kachina_chest_open_03.wem"
-        },
-        "5602e11d24a2c231": {
-            "hash": "5602e11d24a2c231",
-            "directory": "External10",
-            "voiceContent": "나도 있다는 거 잊지 마!",
-            "sourceName": "vo_kachina_life_less30_teammate_01.wem"
-        },
-        "cfb59313ba9d700e": {
-            "hash": "cfb59313ba9d700e",
-            "directory": "External25",
-            "voiceContent": "나 여깄어! 나한테 맡겨줘!",
-            "sourceName": "vo_kachina_life_less30_teammate_02.wem"
-        },
-        "300b490f9d36ac20": {
-            "hash": "300b490f9d36ac20",
-            "directory": "External6",
-            "voiceContent": "미안해… 무리였나 봐…",
-            "sourceName": "vo_kachina_life_die_01.wem"
-        },
-        "d94ab6f6e7e34e87": {
-            "hash": "d94ab6f6e7e34e87",
-            "directory": "External27",
-            "voiceContent": "난… 「우사비티」인데…",
-            "sourceName": "vo_kachina_life_die_02.wem"
-        },
-        "45715499e7ec6572": {
-            "hash": "45715499e7ec6572",
-            "directory": "External8",
-            "voiceContent": "으앗? 나 껴도 돼?",
-            "sourceName": "vo_kachina_teamJoin_01.wem"
-        },
-        "773732a0de200c55": {
-            "hash": "773732a0de200c55",
-            "directory": "External14",
-            "voiceContent": "잘됐다! 우리 같이 가자",
-            "sourceName": "vo_kachina_teamJoin_02.wem"
-        },
-        "f542f8a92150e2c4": {
-            "hash": "f542f8a92150e2c4",
-            "directory": "External30",
-            "voiceContent": "또 너한테서 전투 기술을 배울 수 있겠네",
-            "sourceName": "vo_kachina_teamJoin_03.wem"
-        },
-        "85095e4f25cb4967": {
-            "hash": "85095e4f25cb4967",
-            "directory": "External16",
-            "voiceContent": "아… 방금 안 가지런한 벽돌을 발견했어. 어떡하지? 작은 용 한 마리가 내 마음을 간지럽히는 느낌이야",
-            "sourceName": "vo_kachina_character_idle_01.wem"
-        },
-        "dbc9f067db1ea600": {
-            "hash": "dbc9f067db1ea600",
-            "directory": "External27",
-            "voiceContent": "할 수 있다, 못 한다. 할 수 있다, 못 한다… 으음, 괜찮아, 할 수 있어. 문제없을 거야… 그치?",
-            "sourceName": "vo_kachina_character_idle_02.wem"
-        },
-        "34dbca5e5f311a01": {
-            "hash": "34dbca5e5f311a01",
-            "directory": "External6",
-            "voiceContent": "심심하면 내 가방에 있는 소장품 구경해 볼래? 마음에 드는 물건이 있으면 가져가도 돼",
-            "sourceName": "vo_kachina_character_idle_03.wem"
-        },
-        "c7f0c9659c932377": {
-            "hash": "c7f0c9659c932377",
-            "directory": "External24",
-            "voiceContent": "빗물은 흙을 푹신푹신하게 만들어서, 비 오는 날에 광석을 채집하려면 평소보다 더 조심해야 해",
-            "sourceName": "vo_kachina_weather_heavyRain_01.wem"
-        },
-        "775159466d8d9ad4": {
-            "hash": "775159466d8d9ad4",
-            "directory": "External14",
-            "voiceContent": "꺄악——아… 무, 무서운 게 아니라, 그냥 좀 놀란 것뿐이야",
-            "sourceName": "vo_kachina_weather_thunder_01.wem"
-        },
-        "3e7545778f2f79d1": {
-            "hash": "3e7545778f2f79d1",
-            "directory": "External7",
-            "voiceContent": "이 아래에 반짝이는 광석이 숨겨져 있진 않을까? 우리 한번 파볼래?",
-            "sourceName": "vo_kachina_weather_desert_01.wem"
-        },
-        "0deadd521f7ed644": {
-            "hash": "0deadd521f7ed644",
-            "directory": "External1",
-            "voiceContent": "우리 같이 눈밭에서 뒹굴뒹굴하자, 헤헤. 걱정 마, 뇽뇽이처럼 너 놀라게 하려고 눈 속에서 갑자기 튀어나오진 않을게",
-            "sourceName": "vo_kachina_weather_snowy_01.wem"
-        },
-        "0fd41f5e85933981": {
-            "hash": "0fd41f5e85933981",
-            "directory": "External1",
-            "voiceContent": "이 보석 좀 봐! 햇빛을 받으니까 꼭 무지개가 담긴 것 같아",
-            "sourceName": "vo_kachina_weather_sunny_01.wem"
-        },
-        "641e0b8eb1b200ed": {
-            "hash": "641e0b8eb1b200ed",
-            "directory": "External12",
-            "voiceContent": "좋은 아침이야. 가방 정리는 다 끝냈어. 언제든지 출발해도 돼",
-            "sourceName": "vo_kachina_dialog_greetingMorning.wem"
-        },
-        "cdf3c10ae3cb4b4b": {
-            "hash": "cdf3c10ae3cb4b4b",
-            "directory": "External25",
-            "voiceContent": "난 안 졸려, 낮잠 자고 싶으면 내가 망봐줄게. 잘 못하는 일이 많지만… 그래도 귀는 밝은 편이거든. 멀리 바람에 흔들리는 풀도 전부 느낄 수 있어",
-            "sourceName": "vo_kachina_dialog_greetingNoon.wem"
-        },
-        "54c88f0c744dbb63": {
-            "hash": "54c88f0c744dbb63",
-            "directory": "External10",
-            "voiceContent": "말라니가 밤에 담력 시험 하러 동굴에 가쟤. 나, 나 너무 떨리는데 어떡해? 친구의 제안을 거절하고 싶진 않아서… 눈 꼭 감고 승낙해 버렸어…. 무, 무슨 일이 벌어지든 말라니랑 같이 이겨낼 거야. 어? 너도 같이 가줄 거야? 다, 다행이다! 흑…",
-            "sourceName": "vo_kachina_dialog_greetingNight.wem"
-        },
         "010958d19268a47d": {
             "hash": "010958d19268a47d",
             "directory": "External0",
-            "voiceContent": "으헝, 오늘 또 일을 망쳐버렸어… 어떡하지? 울기 싫은데 눈물이 안 멈춰, 흐엥…. 힉—— 바, 방금 자러 간다고 하지 않았어? 그래도… 위로해 줘서 고마워…",
+            "voiceContent": "으헝, 오늘 또 일을 망쳐버렸어… 어떡하지? 울기 싫은데 눈물이 안 멈춰, 흐엥…. 힉—— 바, 방금 자러 간다고 하지 않았어? 그래도… 위로해 줘서 고마워",
             "sourceName": "vo_kachina_dialog_greetingNight2.wem"
         },
-        "44c71d4a1116ea92": {
-            "hash": "44c71d4a1116ea92",
-            "directory": "External8",
-            "voiceContent": "쌩쌩이라는 이름은 나랑 뇽뇽이가 같이 지은 거야. 쌩쌩 달리는 뇽뇽이의 동작과 내 작명 아이디어가 합쳐진 거지. 난 종종 쌩쌩이를 타고 뇽뇽이랑 달리기 시합을 하는데, 이기기도 하고 지기도 해",
-            "sourceName": "vo_kachina_dialog_idle.wem"
-        },
-        "9532cbfd0689dad2": {
-            "hash": "9532cbfd0689dad2",
-            "directory": "External18",
-            "voiceContent": "「밤 순찰자 전쟁」에서 죽을 수 있는 건 나타 전사에겐 엄청난 영광이야. 나타의 일원인 내게도 예외는 아니지…. 근데 사실 그때 나 엄청 무서웠어…. 너희가 위험을 무릅쓰고 밤의 신의 나라로 날 구하러 와줘서 정말 기뻤어! 훌쩍, 다들 너무 고마워…",
-            "sourceName": "vo_kachina_dialog_idle2.wem"
-        },
-        "8599ae47ae5c47e5": {
-            "hash": "8599ae47ae5c47e5",
-            "directory": "External16",
-            "voiceContent": "마음에 드는 걸 골라봐! 친구가 된 기념으로 선물할게. 내가 수집한 것 중에 가장 예쁘고 반짝이는 광석들은 다 여기 있어. 네가 받아준다면 정말 기쁠 거야!",
-            "sourceName": "vo_kachina_dialog_close1.wem"
-        },
-        "77b736b7b533d6c2": {
-            "hash": "77b736b7b533d6c2",
-            "directory": "External14",
-            "voiceContent": "나타에는 수많은 영웅의 전설이 전해지고 있어. 그중 내가 제일 좋아하는 건 트라오레 님의 이야기야. 피와 살로 이뤄진 육신으로 심연을 지하에 봉인하다니, 정말 대단하셔! 맞다, 넌 많은 나라를 여행했으니까 아는 전설 이야기가 많지? 궁금해서 그러는데… 시간 될 때 얘기해 줄 수 있을까?",
-            "sourceName": "vo_kachina_dialog_close.wem"
-        },
-        "e2c3d0125337e481": {
-            "hash": "e2c3d0125337e481",
-            "directory": "External28",
-            "voiceContent": "뇽뇽이는 내 소중한 파트너야. 지금은 얌전해 보이지만, 어렸을 땐 좋아하는 마음을 박치기로 표현하곤 했지. 힘이 얼마나 센지 가끔은 부딪혀서 넘어질 때도 있었다니까? 그래도 어쩌겠어, 산룡은 사람을 엄청 좋아하는 용이거든. 어휴, 박치기 좀 그만해, 뇽뇽아. 그래그래. 너 안 좋은 얘기 안 할게",
-            "sourceName": "vo_kachina_dialog_share_01.wem"
-        },
-        "f16af22844da11ad": {
-            "hash": "f16af22844da11ad",
-            "directory": "External30",
-            "voiceContent": "수정 열매는 꼭 보석처럼 생겼어. 보석처럼 오래 보관할 수 있으면 좋을 텐데…",
-            "sourceName": "vo_kachina_pref_gift_01.wem"
-        },
-        "cae6c502d5fb21e1": {
-            "hash": "cae6c502d5fb21e1",
-            "directory": "External25",
-            "voiceContent": "말라니는 내 첫 친구야. 말라니를 만나기 전까진 세상에 이렇게 좋은 사람이 있다는 것도, 재밌는 일이 이렇게 많다는 것도 몰랐어. 봐, 말라니랑 같이 찍은 사진이야. 말라니가 같이 사진 찍을 때 점프하자고 해서…. 동작이 좀 뻣뻣해 보여? 헤헤… 들켰네…. 주변에 보는 사람이 많아서 좀 긴장했거든…",
-            "sourceName": "vo_kachina_teammate_mualani_01.wem"
-        },
-        "757dbde8a0b4f7ae": {
-            "hash": "757dbde8a0b4f7ae",
-            "directory": "External14",
-            "voiceContent": "키니치 오빠는 말라니의 소개로 알게 됐는데, 솔직히 처음에는 좀 무서웠어. 뭐랄까, 눈빛이 좀… 날카로웠거든. 나중에 알게 된 건데, 키니치 오빠가 날 해코지한 나쁜 놈들을 몰래 혼내줬대. 근데 답례를 하니까 한사코 거절하더라고. 보수는 이미 충분히 받았다나…",
-            "sourceName": "vo_kachina_teammate_kinich_01.wem"
-        },
-        "83585436481a5daf": {
-            "hash": "83585436481a5daf",
-            "directory": "External16",
-            "voiceContent": "차스카 언니는 나타에서 유명한 「중재자」야. 어떤 싸움도 손쉽게 해결한대. 아마 차스카 언니도 나처럼 사람들이 충돌하는 게 싫어서 그러는 거 아닐까 싶어…",
-            "sourceName": "vo_kachina_teammate_chasca_01.wem"
-        },
-        "d6b5e3886abea974": {
-            "hash": "d6b5e3886abea974",
-            "directory": "External26",
-            "voiceContent": "불의 신님한테서 「나타의 영웅」이라고 인정받는 날이 올 줄은 상상도 못 했어. 불의 신님은 모든 나타 전사의 우상이야. 그런 내가… 내가 우상의… 흐윽… 생각만 해도 너무 감동적이야, 흐엥… 미안, 진짜 미안해. 이럴 때 울면 안 되는데…",
-            "sourceName": "vo_kachina_teammate_mavuika_01.wem"
-        },
-        "190d3827e6656ff8": {
-            "hash": "190d3827e6656ff8",
-            "directory": "External3",
-            "voiceContent": "이파 오빠는 엄청 대단한 용 의사야! 오빠한테 진찰받고 온 꼬마 용들은 생활도 규칙적으로 하고 막 돌아다니지도 않고 더 아프지도 않아. 그래서 다들 용의 상태가 안 좋아 보이면 제일 먼저 오빠가 날아와서 봐주길 바라지",
-            "sourceName": "vo_kachina_teammate_ifa_01.wem"
-        },
-        "80aae2e0bf2a5326": {
-            "hash": "80aae2e0bf2a5326",
-            "directory": "External16",
-            "voiceContent": "전에 강해지고 싶어서 얀사 언니한테 훈련을 부탁했었어. 다양한 고강도 단련 방법을 준비해 줬는데, 이를 악물고 버텨서 겨우 완수할 수 있었지. 다행히도 매번 훈련량을 알맞게 정해줘서, 훈련이 끝날 때마다 딱 집에 걸어갈 수 있을 정도의 체력이 남더라…. 아무튼 얀사 언니한테는 정말 고마워",
-            "sourceName": "vo_kachina_teammate_iansan_01.wem"
-        },
-        "89360bdf918c224e": {
-            "hash": "89360bdf918c224e",
-            "directory": "External17",
-            "voiceContent": "말라니가 그러는데 너희가 날 구해준 건 시틀라리 할머니의 발명품 덕분이라면서? 「영혼 소통석」이 망가진 건 나도 책임이 있으니까… 나중에 용기를 내서 사과드리러 갔어. 내가 소장한 돌멩이 중에 몇 개를 드리려고 했는데, 할머니가 머리를 긁적이면서 이러시더라. 「어, 아무것도 안 고르면 네가 난감할 거고, 대충 아무거나 고를 테니까 그걸로 퉁치자?」 그러곤 가장 볼품없어 보이는 흑요석을 고르시더니 손을 휙휙 내저으면서 가라고 하셨어. 있잖아, 내가 뭐라도 더 드려야 하지 않을까? 혹시 할머니가 뭘 좋아하시는지 알아?",
-            "sourceName": "vo_kachina_teammate_citlali_01.wem"
-        },
-        "e8f5fff921c97059": {
-            "hash": "e8f5fff921c97059",
-            "directory": "External29",
-            "voiceContent": "내가 고대 이름을 얻은 뒤에, 파칼 아저씨가 나랑 같이 실로닌 언니한테 가서 쌩쌩이 제작을 의뢰해 줬어. 실로닌 언니의 솜씨는 정말 굉장했어.나중에 우린 보석 소장이랑 보관법에 대해서 이야기를 나누고 서로의 보물도 구경했는데, 실로닌 언니의 소장품은 보관 상태가 좋은 게, 엄청 세심하게 관리한 거 같더라. 반면 실로닌 언니의 생활은… 좀 더 자유로운 느낌이랄까? 한 번은 실로닌 언니를 한참 찾았는데, 나중에 보니까 큰 나무 위에서 햇볕을 쬐면서 자고 있더라고…",
-            "sourceName": "vo_kachina_teammate_xilonen_01.wem"
-        },
-        "2a7f8be4d2ee1447": {
-            "hash": "2a7f8be4d2ee1447",
-            "directory": "External5",
-            "voiceContent": "「우사비티」는 내 고대 이름이야, 강인하다는 뜻이지. 휴, 난 왜 나한테 이 고대 이름이 주어진 건지 모르겠어. 난 힘도 약하고, 집에서든 부족에서든 존재감이 별로 없는데…. 주변에 대단한 사람이 그렇게 많은데 내가 이 이름을 가질 자격이 있을까?",
-            "sourceName": "vo_kachina_friendship_01.wem"
-        },
-        "81401dfd884171e0": {
-            "hash": "81401dfd884171e0",
-            "directory": "External16",
-            "voiceContent": "우리 집에서… 난 둘째야. 아빠는 언니한테 기대를 걸고 있고, 엄마는 어린 여동생을 돌보셔야 하지. 그리고 우리 집은 형편이 좋은 편은 아니라서, 내 일은 내가 책임져야 해. 빨리 어른이 돼서… 엄마 아빠 걱정을 덜어드릴 거야",
-            "sourceName": "vo_kachina_friendship_02.wem"
-        },
-        "2f0f77f680533b61": {
-            "hash": "2f0f77f680533b61",
-            "directory": "External5",
-            "voiceContent": "파칼 아저씨는 나한테 엄청 잘해줘. 부족의 다른 사람들이 나에 대해 안 좋게 얘기할 때도 늘 나서주지. 근데 사실… 그게 오히려 더 신경 쓰여. 내 실력으로 당당하게 사람들한테 인정받아야 할 텐데…",
-            "sourceName": "vo_kachina_friendship_03.wem"
+        "0aa2418e2e68918f": {
+            "hash": "0aa2418e2e68918f",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_sprint_start_02.wem"
         },
         "0dcef9ccd01f33aa": {
             "hash": "0dcef9ccd01f33aa",
             "directory": "External1",
-            "voiceContent": "운다고 문제가 해결되지 않는다는 건 알고 있어. 전설 속 영웅이 사람들 앞에서 울음을 터뜨린 경우는 없으니까. 나도 정말 눈물을 꾹 참고 싶어. 근데 매번 그게 안 돼…. 어? 괜찮아? 우는 것도 좋은 해소 방법이라고? 저… 정말 그렇게 생각해? 흐잉, 고마워. 으아… 나 왜 또 우는 거야",
+            "voiceContent": "운다고 문제가 해결되지 않는다는 건 알고 있어. 전설 속 영웅이 사람들 앞에서 울음을 터뜨린 경우는 없으니까. 나도 정말 눈물을 꾹 참고 싶어. 근데 매번 그게 안 돼…. 어? 괜찮아? 우는 것도 좋은 해소 방법이라고? 저… 정말 그렇게 생각해? 흐잉, 고마워. 으아… 나 왜 또 우는 거",
             "sourceName": "vo_kachina_friendship_04.wem"
         },
-        "92bc2bc48f74a6b3": {
-            "hash": "92bc2bc48f74a6b3",
-            "directory": "External18",
-            "voiceContent": "지금까진 내가 나약하니까 무시당하는 것도 당연한 일이라고 생각했는데… 대영혼님의 말씀을 들은 뒤로 생각을 바꾸게 됐어. 내 고대 이름은 「우사비티」잖아? 나… 더 나은 「내」가 될래. 세상엔 분명 나만이 할 수 있는 일이 있을 거야! 그러니까… 계속 노력할래. 난 이 흑요석이 언젠가 내 업적을 기록해서… 더 찬란한 보석이 됐으면 좋겠어",
-            "sourceName": "vo_kachina_friendship_05.wem"
+        "0dd0acee5267a5c0": {
+            "hash": "0dd0acee5267a5c0",
+            "directory": "External1",
+            "voiceContent": "충격파",
+            "sourceName": "vo_kachina_battle_skill1_05.wem"
         },
-        "79043663e92201e1": {
-            "hash": "79043663e92201e1",
-            "directory": "External15",
-            "voiceContent": "이건 내가 처음으로 발굴한 보석이야. 푸르고 영롱한 게 엄청 예쁘지? 원래 한 쌍이었는데, 하나는 말라니한테 선물했어. 봐봐, 무늬가 꼭 흐르는 물 같지 않아? 아, 이 보석도 있어. 검은색이지만 햇빛을 받으면 알록달록해져…. 다 내가 하나하나씩 모은 거야, 헤헤",
-            "sourceName": "vo_kachina_pref_hobby.wem"
+        "0deadd521f7ed644": {
+            "hash": "0deadd521f7ed644",
+            "directory": "External1",
+            "voiceContent": "우리 같이 눈밭에서 뒹굴뒹굴하자, 헤헤. 걱정 마, 뇽뇽이처럼 너 놀라게 하려고 눈 속에서 갑자기 튀어나오진 않을",
+            "sourceName": "vo_kachina_weather_snowy_01.wem"
         },
-        "af9996730d9463d8": {
-            "hash": "af9996730d9463d8",
-            "directory": "External21",
-            "voiceContent": "알갱이 칩을 제일 좋아해. 그걸 차곡차곡 쌓아놓으면 더 좋고",
-            "sourceName": "vo_kachina_pref_foodLike.wem"
+        "0f4c3f2cec80437a": {
+            "hash": "0f4c3f2cec80437a",
+            "directory": "External1",
+            "voiceContent": "너도 돌멩이 수집하는 거 좋아해? 알아 알아, 돌멩이는 정말 예쁘지",
+            "sourceName": "vo_kachina_chest_open_02.wem"
         },
-        "c65e8aebb8b086d4": {
-            "hash": "c65e8aebb8b086d4",
-            "directory": "External24",
-            "voiceContent": "어? 양이 이렇게 많아? 그, 그치만 다 못 먹으면 요리사의 노력과 결실을 낭비하는 건데…. 으으, 괘… 괜찮아… 나 다 먹을 수 있어! 조금씩 천천히 먹으면 돼…",
-            "sourceName": "vo_kachina_pref_foodDislike.wem"
+        "0fd41f5e85933981": {
+            "hash": "0fd41f5e85933981",
+            "directory": "External1",
+            "voiceContent": "이 보석 좀 봐! 햇빛을 받으니까 꼭 무지개가 담긴 것 같",
+            "sourceName": "vo_kachina_weather_sunny_01.wem"
         },
-        "38af4563778ca69b": {
-            "hash": "38af4563778ca69b",
-            "directory": "External7",
-            "voiceContent": "우와——진짜 나 주는 거야? 정말 맛있어! 천천히 먹으면서 오래 음미해야겠다",
-            "sourceName": "vo_kachina_spice_pref_01.wem"
-        },
-        "24174e000e8d1415": {
-            "hash": "24174e000e8d1415",
-            "directory": "External4",
-            "voiceContent": "냄새도 좋고 맛도 좋아, 플레이팅도 정말 정교해. 「요리 전쟁」이 있다면 승자는 분명 너일 거야!",
-            "sourceName": "vo_kachina_spice_normal_01.wem"
-        },
-        "f68ec92125a44123": {
-            "hash": "f68ec92125a44123",
-            "directory": "External30",
-            "voiceContent": "날 위해 시간을 내줘서 고마워! 꼭, 꼭 다 먹을게. 시간을 조금만 더 줄 수 있을까?",
-            "sourceName": "vo_kachina_spice_dislike_01.wem"
-        },
-        "52d26f7f35a7ff6a": {
-            "hash": "52d26f7f35a7ff6a",
-            "directory": "External10",
-            "voiceContent": "생일 축하해! 자, 선물. 무지개석으로 만든 우는토끼야. 무지개석은 촉감이 곱지만, 지하에선 눈에 잘 안 띄어서 못 보고 놓치기 쉬워…. 그래도 오래 지닐수록 광택이 점점 예뻐져서 내가 제일 좋아하는 보석 중에 하나야. 너도 좋아했으면 좋겠어",
-            "sourceName": "vo_kachina_pref_birthday_01.wem"
-        },
-        "e189d80e8d86062c": {
-            "hash": "e189d80e8d86062c",
-            "directory": "External28",
-            "voiceContent": "나 혹시 귀 떨려? 긴장한 건 아니고… 기뻐서 그래. 미안, 너무 좋아서 귀가 자제가 안 돼. 자… 잡고 있어야겠다…",
-            "sourceName": "vo_kachina_starUp_01.wem"
-        },
-        "4bde05f401bd53c3": {
-            "hash": "4bde05f401bd53c3",
-            "directory": "External9",
-            "voiceContent": "정말 날 중요하게 생각해 주는구나…. 훌쩍… 앗, 울려는 게 아니라, 너무 감동해서 그만…",
-            "sourceName": "vo_kachina_starUp_02.wem"
-        },
-        "f668d3fd80bcb5fa": {
-            "hash": "f668d3fd80bcb5fa",
-            "directory": "External30",
-            "voiceContent": "「왕궁은 불탔지만 불꽃은 꺼지지 않았다. 내일 아침이면 불꽃은 다시금 피어올라 어제보다 더 밝게 빛날 것이다」 트라오레 님이 하신 말씀 중에 제일 좋아하는 말이야. 난, 난 더 노력해야 해…",
-            "sourceName": "vo_kachina_starUp_03.wem"
+        "13e89fafcad152a0": {
+            "hash": "13e89fafcad152a0",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_hit_h_05.wem"
         },
         "144392272e0e00f1": {
             "hash": "144392272e0e00f1",
             "directory": "External2",
-            "voiceContent": "네가 보여준 여러 신기한 것들 덕분에 많이 성장했어. 어떻게 보답해야 할지 모르겠네…. 그치만 이번에는 스스로 답을 찾고 싶어. 앞으로는 내가 널 지키는 영웅이 될 거야!",
+            "voiceContent": "네가 보여준 여러 신기한 것들 덕분에 많이 성장했어. 어떻게 보답해야 할지 모르겠네…. 그치만 이번에는 스스로 답을 찾고 싶어. 앞으로는 내가 널 지키는 영웅이 될 거야",
             "sourceName": "vo_kachina_starUp_04.wem"
         },
-        "3eb9b1fa0554412e": {
-            "hash": "3eb9b1fa0554412e",
-            "directory": "External7",
-            "voiceContent": "괜찮아, 별거 아냐",
-            "sourceName": "vo_kachina_life_less30_01.wem"
+        "1812d68e6fa7ee02": {
+            "hash": "1812d68e6fa7ee02",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attackmid_03.wem"
         },
-        "6ce38000f87714d1": {
-            "hash": "6ce38000f87714d1",
-            "directory": "External13",
-            "voiceContent": "힘을… 내야 해",
-            "sourceName": "vo_kachina_life_less30_02.wem"
+        "18ce6bf2de43e07b": {
+            "hash": "18ce6bf2de43e07b",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_fly_start_03.wem"
         },
-        "eb2626093bd6f750": {
-            "hash": "eb2626093bd6f750",
-            "directory": "External29",
-            "voiceContent": "나, 난 할 수 있어!",
-            "sourceName": "vo_kachina_life_less30_03.wem"
+        "190d3827e6656ff8": {
+            "hash": "190d3827e6656ff8",
+            "directory": "External3",
+            "voiceContent": "이파 오빠는 엄청 대단한 용 의사야! 오빠한테 진찰받고 온 꼬마 용들은 생활도 규칙적으로 하고 막 돌아다니지도 않고 더 아프지도 않아. 그래서 다들 용의 상태가 안 좋아 보이면 제일 먼저 오빠가 날아와서 봐주길 바라",
+            "sourceName": "vo_kachina_teammate_ifa_01.wem"
         },
-        "8038950063d060fe": {
-            "hash": "8038950063d060fe",
-            "directory": "External16",
-            "voiceContent": "흑… 또 망쳐버렸어…",
-            "sourceName": "vo_kachina_life_die_03.wem"
+        "197732194ddd6c14": {
+            "hash": "197732194ddd6c14",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_climb_03.wem"
+        },
+        "1d42fa7cf5104c50": {
+            "hash": "1d42fa7cf5104c50",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attacklight_07.wem"
         },
         "21fead76cf215f73": {
             "hash": "21fead76cf215f73",
             "directory": "External4",
-            "voiceContent": "난 괜찮아",
+            "voiceContent": "난 괜찮",
             "sourceName": "vo_kachina_battle_hit_H_02.wem"
         },
-        "e416ffc831233b0f": {
-            "hash": "e416ffc831233b0f",
-            "directory": "External28",
-            "voiceContent": "그냥 긁힌 거야",
-            "sourceName": "vo_kachina_battle_hit_L_02.wem"
+        "24174e000e8d1415": {
+            "hash": "24174e000e8d1415",
+            "directory": "External4",
+            "voiceContent": "냄새도 좋고 맛도 좋아, 플레이팅도 정말 정교해. 「요리 전쟁」이 있다면 승자는 분명 너일 거야",
+            "sourceName": "vo_kachina_spice_normal_01.wem"
         },
-        "463304b44b58d45c": {
-            "hash": "463304b44b58d45c",
-            "directory": "External8",
-            "voiceContent": "전에 말라니가 엄청 큰 모자를 선물해 줬어. 엄청 멋지고 햇빛까지 완벽하게 가려줘서 정말 좋아했지. 근데 계속 쓰다 보니까 털모자가 되어버린 거야…. 그래서 결국 털이 잘 안 묻는 모자로 바꿨어",
-            "sourceName": "vo_kachina_dialog_annoyed_01.wem"
+        "24cf31e048bed2c8": {
+            "hash": "24cf31e048bed2c8",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_hit_l_01.wem"
         },
-        "52b60e9f32fba7bf": {
-            "hash": "52b60e9f32fba7bf",
-            "directory": "External10",
-            "voiceContent": "안녕, 난 「메아리 아이」의 카치나라고 해. 알갱이 열매를 좋아하고, 강해지고 싶지만 싸움은 잘 못해. 앗… 그런 얘기를 할 때가 아니라고? 그, 그럼… 어디 가보고 싶어? 이 일대는 꽤 익숙하니까 내가 안내할게",
-            "sourceName": "vo_kachina_draw_appear_01.wem"
+        "27500f10d2962873": {
+            "hash": "27500f10d2962873",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_jump_01.wem"
+        },
+        "2a7f8be4d2ee1447": {
+            "hash": "2a7f8be4d2ee1447",
+            "directory": "External5",
+            "voiceContent": "「우사비티」는 내 고대 이름이야, 강인하다는 뜻이지. 휴, 난 왜 나한테 이 고대 이름이 주어진 건지 모르겠어. 난 힘도 약하고, 집에서든 부족에서든 존재감이 별로 없는데…. 주변에 대단한 사람이 그렇게 많은데 내가 이 이름을 가질 자격이 있을까",
+            "sourceName": "vo_kachina_friendship_01.wem"
         },
         "2da979b4fb4cec64": {
             "hash": "2da979b4fb4cec64",
             "directory": "External5",
-            "voiceContent": "이 반짝이는 신의 눈을 처음 봤을 땐 내가 잘못 본 줄 알았어. 그건 내가 본 그 어떤 돌멩이보다 반짝였지. 전설 속 영웅들에 비하면 난 아직도 많이 부족하지만, 언젠가 내 이야기도 누군가에게 동기부여가 된다면, 단 한 사람뿐이라고 해도 나에겐 가장 큰 행복이 될 거야…",
+            "voiceContent": "이 반짝이는 신의 눈을 처음 봤을 땐 내가 잘못 본 줄 알았어. 그건 내가 본 그 어떤 돌멩이보다 반짝였지. 전설 속 영웅들에 비하면 난 아직도 많이 부족하지만, 언젠가 내 이야기도 누군가에게 동기부여가 된다면, 단 한 사람뿐이라고 해도 나에겐 가장 큰 행복이 될 거야",
             "sourceName": "vo_kachina_dialog_pendant_01.wem"
+        },
+        "2f0f77f680533b61": {
+            "hash": "2f0f77f680533b61",
+            "directory": "External5",
+            "voiceContent": "파칼 아저씨는 나한테 엄청 잘해줘. 부족의 다른 사람들이 나에 대해 안 좋게 얘기할 때도 늘 나서주지. 근데 사실… 그게 오히려 더 신경 쓰여. 내 실력으로 당당하게 사람들한테 인정받아야 할 텐데",
+            "sourceName": "vo_kachina_friendship_03.wem"
+        },
+        "300b490f9d36ac20": {
+            "hash": "300b490f9d36ac20",
+            "directory": "External6",
+            "voiceContent": "미안해… 무리였나 봐",
+            "sourceName": "vo_kachina_life_die_01.wem"
+        },
+        "33517fa74d6a6afb": {
+            "hash": "33517fa74d6a6afb",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_hit_l_06.wem"
+        },
+        "34dbca5e5f311a01": {
+            "hash": "34dbca5e5f311a01",
+            "directory": "External6",
+            "voiceContent": "심심하면 내 가방에 있는 소장품 구경해 볼래? 마음에 드는 물건이 있으면 가져가도",
+            "sourceName": "vo_kachina_character_idle_03.wem"
+        },
+        "38af4563778ca69b": {
+            "hash": "38af4563778ca69b",
+            "directory": "External7",
+            "voiceContent": "우와——진짜 나 주는 거야? 정말 맛있어! 천천히 먹으면서 오래 음미해야겠",
+            "sourceName": "vo_kachina_spice_pref_01.wem"
+        },
+        "3c28b439e3361aa6": {
+            "hash": "3c28b439e3361aa6",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_idle_02.wem"
+        },
+        "3e7545778f2f79d1": {
+            "hash": "3e7545778f2f79d1",
+            "directory": "External7",
+            "voiceContent": "이 아래에 반짝이는 광석이 숨겨져 있진 않을까? 우리 한번 파볼래",
+            "sourceName": "vo_kachina_weather_desert_01.wem"
+        },
+        "3eb9b1fa0554412e": {
+            "hash": "3eb9b1fa0554412e",
+            "directory": "External7",
+            "voiceContent": "괜찮아, 별거 아",
+            "sourceName": "vo_kachina_life_less30_01.wem"
+        },
+        "44c71d4a1116ea92": {
+            "hash": "44c71d4a1116ea92",
+            "directory": "External8",
+            "voiceContent": "쌩쌩이라는 이름은 나랑 뇽뇽이가 같이 지은 거야. 쌩쌩 달리는 뇽뇽이의 동작과 내 작명 아이디어가 합쳐진 거지. 난 종종 쌩쌩이를 타고 뇽뇽이랑 달리기 시합을 하는데, 이기기도 하고 지기도",
+            "sourceName": "vo_kachina_dialog_idle.wem"
+        },
+        "45715499e7ec6572": {
+            "hash": "45715499e7ec6572",
+            "directory": "External8",
+            "voiceContent": "으앗? 나 껴도 돼",
+            "sourceName": "vo_kachina_teamJoin_01.wem"
+        },
+        "45a308bb2647c50a": {
+            "hash": "45a308bb2647c50a",
+            "directory": "External8",
+            "voiceContent": "간다",
+            "sourceName": "vo_kachina_battle_skill1_03.wem"
+        },
+        "463304b44b58d45c": {
+            "hash": "463304b44b58d45c",
+            "directory": "External8",
+            "voiceContent": "전에 말라니가 엄청 큰 모자를 선물해 줬어. 엄청 멋지고 햇빛까지 완벽하게 가려줘서 정말 좋아했지. 근데 계속 쓰다 보니까 털모자가 되어버린 거야…. 그래서 결국 털이 잘 안 묻는 모자로 바꿨",
+            "sourceName": "vo_kachina_dialog_annoyed_01.wem"
+        },
+        "4b5a73a646042948": {
+            "hash": "4b5a73a646042948",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_sprint_start_01.wem"
+        },
+        "4bde05f401bd53c3": {
+            "hash": "4bde05f401bd53c3",
+            "directory": "External9",
+            "voiceContent": "정말 날 중요하게 생각해 주는구나…. 훌쩍… 앗, 울려는 게 아니라, 너무 감동해서 그만",
+            "sourceName": "vo_kachina_starUp_02.wem"
+        },
+        "52b60e9f32fba7bf": {
+            "hash": "52b60e9f32fba7bf",
+            "directory": "External10",
+            "voiceContent": "안녕, 난 「메아리 아이」의 카치나라고 해. 알갱이 열매를 좋아하고, 강해지고 싶지만 싸움은 잘 못해. 앗… 그런 얘기를 할 때가 아니라고? 그, 그럼… 어디 가보고 싶어? 이 일대는 꽤 익숙하니까 내가 안내할",
+            "sourceName": "vo_kachina_draw_appear_01.wem"
+        },
+        "52d26f7f35a7ff6a": {
+            "hash": "52d26f7f35a7ff6a",
+            "directory": "External10",
+            "voiceContent": "생일 축하해! 자, 선물. 무지개석으로 만든 우는토끼야. 무지개석은 촉감이 곱지만, 지하에선 눈에 잘 안 띄어서 못 보고 놓치기 쉬워…. 그래도 오래 지닐수록 광택이 점점 예뻐져서 내가 제일 좋아하는 보석 중에 하나야. 너도 좋아했으면 좋겠",
+            "sourceName": "vo_kachina_pref_birthday_01.wem"
+        },
+        "54c88f0c744dbb63": {
+            "hash": "54c88f0c744dbb63",
+            "directory": "External10",
+            "voiceContent": "말라니가 밤에 담력 시험 하러 동굴에 가쟤. 나, 나 너무 떨리는데 어떡해? 친구의 제안을 거절하고 싶진 않아서… 눈 꼭 감고 승낙해 버렸어…. 무, 무슨 일이 벌어지든 말라니랑 같이 이겨낼 거야. 어? 너도 같이 가줄 거야? 다, 다행이다! 흑",
+            "sourceName": "vo_kachina_dialog_greetingNight.wem"
+        },
+        "5602e11d24a2c231": {
+            "hash": "5602e11d24a2c231",
+            "directory": "External10",
+            "voiceContent": "나도 있다는 거 잊지 마",
+            "sourceName": "vo_kachina_life_less30_teammate_01.wem"
+        },
+        "5dcab1bec71f9c04": {
+            "hash": "5dcab1bec71f9c04",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_hit_l_05.wem"
+        },
+        "603b0ccd7164387c": {
+            "hash": "603b0ccd7164387c",
+            "directory": "External12",
+            "voiceContent": "돌아라",
+            "sourceName": "vo_kachina_battle_skill1_01.wem"
+        },
+        "62599dd074831026": {
+            "hash": "62599dd074831026",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_hit_l_03.wem"
+        },
+        "62ebff8ee6e9095c": {
+            "hash": "62ebff8ee6e9095c",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_hit_h_01.wem"
+        },
+        "641e0b8eb1b200ed": {
+            "hash": "641e0b8eb1b200ed",
+            "directory": "External12",
+            "voiceContent": "좋은 아침이야. 가방 정리는 다 끝냈어. 언제든지 출발해도",
+            "sourceName": "vo_kachina_dialog_greetingMorning.wem"
+        },
+        "64c171236d80e143": {
+            "hash": "64c171236d80e143",
+            "directory": "External12",
+            "voiceContent": "정리하는 거 도와줄까? 나 정리 잘해",
+            "sourceName": "vo_kachina_chest_open_03.wem"
+        },
+        "66e286e4d67a19c1": {
+            "hash": "66e286e4d67a19c1",
+            "directory": "External12",
+            "voiceContent": "빙글빙글",
+            "sourceName": "vo_kachina_battle_skill1_04.wem"
+        },
+        "683d6128ea5dd25c": {
+            "hash": "683d6128ea5dd25c",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_jump_02.wem"
+        },
+        "69515d351ae6087d": {
+            "hash": "69515d351ae6087d",
+            "directory": "External13",
+            "voiceContent": "우와, 반짝이는 돌멩이가 있어",
+            "sourceName": "vo_kachina_chest_open_01.wem"
+        },
+        "69674d3a94dfd07e": {
+            "hash": "69674d3a94dfd07e",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_jump_04.wem"
+        },
+        "6c469a5c11286f0c": {
+            "hash": "6c469a5c11286f0c",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attacklight_03.wem"
+        },
+        "6ce38000f87714d1": {
+            "hash": "6ce38000f87714d1",
+            "directory": "External13",
+            "voiceContent": "힘을… 내야",
+            "sourceName": "vo_kachina_life_less30_02.wem"
+        },
+        "6d0ace0a175ad1c2": {
+            "hash": "6d0ace0a175ad1c2",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_climb_01.wem"
+        },
+        "70d6866dbe8d962e": {
+            "hash": "70d6866dbe8d962e",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attacklight_05.wem"
+        },
+        "715ac884f3e81acb": {
+            "hash": "715ac884f3e81acb",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attackmid_02.wem"
+        },
+        "757dbde8a0b4f7ae": {
+            "hash": "757dbde8a0b4f7ae",
+            "directory": "External14",
+            "voiceContent": "키니치 오빠는 말라니의 소개로 알게 됐는데, 솔직히 처음에는 좀 무서웠어. 뭐랄까, 눈빛이 좀… 날카로웠거든. 나중에 알게 된 건데, 키니치 오빠가 날 해코지한 나쁜 놈들을 몰래 혼내줬대. 근데 답례를 하니까 한사코 거절하더라고. 보수는 이미 충분히 받았다나",
+            "sourceName": "vo_kachina_teammate_kinich_01.wem"
+        },
+        "773732a0de200c55": {
+            "hash": "773732a0de200c55",
+            "directory": "External14",
+            "voiceContent": "잘됐다! 우리 같이 가",
+            "sourceName": "vo_kachina_teamJoin_02.wem"
+        },
+        "775159466d8d9ad4": {
+            "hash": "775159466d8d9ad4",
+            "directory": "External14",
+            "voiceContent": "꺄악——아… 무, 무서운 게 아니라, 그냥 좀 놀란 것뿐이",
+            "sourceName": "vo_kachina_weather_thunder_01.wem"
+        },
+        "77b736b7b533d6c2": {
+            "hash": "77b736b7b533d6c2",
+            "directory": "External14",
+            "voiceContent": "나타에는 수많은 영웅의 전설이 전해지고 있어. 그중 내가 제일 좋아하는 건 트라오레 님의 이야기야. 피와 살로 이뤄진 육신으로 심연을 지하에 봉인하다니, 정말 대단하셔! 맞다, 넌 많은 나라를 여행했으니까 아는 전설 이야기가 많지? 궁금해서 그러는데… 시간 될 때 얘기해 줄 수 있을까",
+            "sourceName": "vo_kachina_dialog_close.wem"
+        },
+        "79043663e92201e1": {
+            "hash": "79043663e92201e1",
+            "directory": "External15",
+            "voiceContent": "이건 내가 처음으로 발굴한 보석이야. 푸르고 영롱한 게 엄청 예쁘지? 원래 한 쌍이었는데, 하나는 말라니한테 선물했어. 봐봐, 무늬가 꼭 흐르는 물 같지 않아? 아, 이 보석도 있어. 검은색이지만 햇빛을 받으면 알록달록해져…. 다 내가 하나하나씩 모은 거야, 헤",
+            "sourceName": "vo_kachina_pref_hobby.wem"
+        },
+        "8038950063d060fe": {
+            "hash": "8038950063d060fe",
+            "directory": "External16",
+            "voiceContent": "흑… 또 망쳐버렸어",
+            "sourceName": "vo_kachina_life_die_03.wem"
+        },
+        "80aae2e0bf2a5326": {
+            "hash": "80aae2e0bf2a5326",
+            "directory": "External16",
+            "voiceContent": "전에 강해지고 싶어서 얀사 언니한테 훈련을 부탁했었어. 다양한 고강도 단련 방법을 준비해 줬는데, 이를 악물고 버텨서 겨우 완수할 수 있었지. 다행히도 매번 훈련량을 알맞게 정해줘서, 훈련이 끝날 때마다 딱 집에 걸어갈 수 있을 정도의 체력이 남더라…. 아무튼 얀사 언니한테는 정말 고마",
+            "sourceName": "vo_kachina_teammate_iansan_01.wem"
+        },
+        "8126964b0460d1da": {
+            "hash": "8126964b0460d1da",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attacklight_01.wem"
+        },
+        "81401dfd884171e0": {
+            "hash": "81401dfd884171e0",
+            "directory": "External16",
+            "voiceContent": "우리 집에서… 난 둘째야. 아빠는 언니한테 기대를 걸고 있고, 엄마는 어린 여동생을 돌보셔야 하지. 그리고 우리 집은 형편이 좋은 편은 아니라서, 내 일은 내가 책임져야 해. 빨리 어른이 돼서… 엄마 아빠 걱정을 덜어드릴 거",
+            "sourceName": "vo_kachina_friendship_02.wem"
+        },
+        "83585436481a5daf": {
+            "hash": "83585436481a5daf",
+            "directory": "External16",
+            "voiceContent": "차스카 언니는 나타에서 유명한 「중재자」야. 어떤 싸움도 손쉽게 해결한대. 아마 차스카 언니도 나처럼 사람들이 충돌하는 게 싫어서 그러는 거 아닐까 싶어",
+            "sourceName": "vo_kachina_teammate_chasca_01.wem"
+        },
+        "85095e4f25cb4967": {
+            "hash": "85095e4f25cb4967",
+            "directory": "External16",
+            "voiceContent": "아… 방금 안 가지런한 벽돌을 발견했어. 어떡하지? 작은 용 한 마리가 내 마음을 간지럽히는 느낌이",
+            "sourceName": "vo_kachina_character_idle_01.wem"
+        },
+        "8599ae47ae5c47e5": {
+            "hash": "8599ae47ae5c47e5",
+            "directory": "External16",
+            "voiceContent": "마음에 드는 걸 골라봐! 친구가 된 기념으로 선물할게. 내가 수집한 것 중에 가장 예쁘고 반짝이는 광석들은 다 여기 있어. 네가 받아준다면 정말 기쁠 거야",
+            "sourceName": "vo_kachina_dialog_close1.wem"
+        },
+        "88e4df9671c866a6": {
+            "hash": "88e4df9671c866a6",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_sprint_start_03.wem"
+        },
+        "89360bdf918c224e": {
+            "hash": "89360bdf918c224e",
+            "directory": "External17",
+            "voiceContent": "말라니가 그러는데 너희가 날 구해준 건 시틀라리 할머니의 발명품 덕분이라면서? 「영혼 소통석」이 망가진 건 나도 책임이 있으니까… 나중에 용기를 내서 사과드리러 갔어. 내가 소장한 돌멩이 중에 몇 개를 드리려고 했는데, 할머니가 머리를 긁적이면서 이러시더라. 「어, 아무것도 안 고르면 네가 난감할 거고, 대충 아무거나 고를 테니까 그걸로 퉁치자?」 그러곤 가장 볼품없어 보이는 흑요석을 고르시더니 손을 휙휙 내저으면서 가라고 하셨어. 있잖아, 내가 뭐라도 더 드려야 하지 않을까? 혹시 할머니가 뭘 좋아하시는지 알아",
+            "sourceName": "vo_kachina_teammate_citlali_01.wem"
+        },
+        "8de132aa483ab222": {
+            "hash": "8de132aa483ab222",
+            "directory": "External17",
+            "voiceContent": "물리친다",
+            "sourceName": "vo_kachina_battle_skill3_01.wem"
+        },
+        "8f0a16bbf2baeff4": {
+            "hash": "8f0a16bbf2baeff4",
+            "directory": "External17",
+            "voiceContent": "가까이 오지",
+            "sourceName": "vo_kachina_battle_skill3_03.wem"
+        },
+        "92bc2bc48f74a6b3": {
+            "hash": "92bc2bc48f74a6b3",
+            "directory": "External18",
+            "voiceContent": "지금까진 내가 나약하니까 무시당하는 것도 당연한 일이라고 생각했는데… 대영혼님의 말씀을 들은 뒤로 생각을 바꾸게 됐어. 내 고대 이름은 「우사비티」잖아? 나… 더 나은 「내」가 될래. 세상엔 분명 나만이 할 수 있는 일이 있을 거야! 그러니까… 계속 노력할래. 난 이 흑요석이 언젠가 내 업적을 기록해서… 더 찬란한 보석이 됐으면 좋겠",
+            "sourceName": "vo_kachina_friendship_05.wem"
+        },
+        "94ea1952e9843a7e": {
+            "hash": "94ea1952e9843a7e",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attackheavy_02.wem"
+        },
+        "9532cbfd0689dad2": {
+            "hash": "9532cbfd0689dad2",
+            "directory": "External18",
+            "voiceContent": "「밤 순찰자 전쟁」에서 죽을 수 있는 건 나타 전사에겐 엄청난 영광이야. 나타의 일원인 내게도 예외는 아니지…. 근데 사실 그때 나 엄청 무서웠어…. 너희가 위험을 무릅쓰고 밤의 신의 나라로 날 구하러 와줘서 정말 기뻤어! 훌쩍, 다들 너무 고마워",
+            "sourceName": "vo_kachina_dialog_idle2.wem"
+        },
+        "96daf9fb21760a32": {
+            "hash": "96daf9fb21760a32",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_fly_start_02.wem"
+        },
+        "9f005474b1b069d1": {
+            "hash": "9f005474b1b069d1",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attacklight_06.wem"
+        },
+        "a071d9cf215a04c9": {
+            "hash": "a071d9cf215a04c9",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_climb_breath_03.wem"
+        },
+        "a0777b7f12af156a": {
+            "hash": "a0777b7f12af156a",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_hit_h_03.wem"
+        },
+        "ac6ce242af826009": {
+            "hash": "ac6ce242af826009",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_idle_01.wem"
+        },
+        "af9996730d9463d8": {
+            "hash": "af9996730d9463d8",
+            "directory": "External21",
+            "voiceContent": "알갱이 칩을 제일 좋아해. 그걸 차곡차곡 쌓아놓으면 더 좋",
+            "sourceName": "vo_kachina_pref_foodLike.wem"
+        },
+        "b1eb0dbe11adea4f": {
+            "hash": "b1eb0dbe11adea4f",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_climb_breath_01.wem"
+        },
+        "ba761ad59ff77127": {
+            "hash": "ba761ad59ff77127",
+            "directory": "External23",
+            "voiceContent": "쌩쌩이, 출발",
+            "sourceName": "vo_kachina_battle_skill1_06.wem"
+        },
+        "bd280d97157df507": {
+            "hash": "bd280d97157df507",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_hit_h_06.wem"
+        },
+        "bde616319fd6458f": {
+            "hash": "bde616319fd6458f",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_idle_03.wem"
+        },
+        "be50f9a8bffe4021": {
+            "hash": "be50f9a8bffe4021",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_hit_h_04.wem"
+        },
+        "c2796f3118f2be07": {
+            "hash": "c2796f3118f2be07",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_jump_05.wem"
+        },
+        "c65e8aebb8b086d4": {
+            "hash": "c65e8aebb8b086d4",
+            "directory": "External24",
+            "voiceContent": "어? 양이 이렇게 많아? 그, 그치만 다 못 먹으면 요리사의 노력과 결실을 낭비하는 건데…. 으으, 괘… 괜찮아… 나 다 먹을 수 있어! 조금씩 천천히 먹으면 돼",
+            "sourceName": "vo_kachina_pref_foodDislike.wem"
+        },
+        "c77cec12461d68e5": {
+            "hash": "c77cec12461d68e5",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_climb_02.wem"
+        },
+        "c7e53a9da90db254": {
+            "hash": "c7e53a9da90db254",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attackmid_01.wem"
+        },
+        "c7f0c9659c932377": {
+            "hash": "c7f0c9659c932377",
+            "directory": "External24",
+            "voiceContent": "빗물은 흙을 푹신푹신하게 만들어서, 비 오는 날에 광석을 채집하려면 평소보다 더 조심해야",
+            "sourceName": "vo_kachina_weather_heavyRain_01.wem"
+        },
+        "c8a0d80217a9b115": {
+            "hash": "c8a0d80217a9b115",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_fly_start_01.wem"
+        },
+        "ca8f3ab2e59b8513": {
+            "hash": "ca8f3ab2e59b8513",
+            "directory": "External25",
+            "voiceContent": "잇——차",
+            "sourceName": "vo_kachina_battle_skill1_02.wem"
+        },
+        "cae6c502d5fb21e1": {
+            "hash": "cae6c502d5fb21e1",
+            "directory": "External25",
+            "voiceContent": "말라니는 내 첫 친구야. 말라니를 만나기 전까진 세상에 이렇게 좋은 사람이 있다는 것도, 재밌는 일이 이렇게 많다는 것도 몰랐어. 봐, 말라니랑 같이 찍은 사진이야. 말라니가 같이 사진 찍을 때 점프하자고 해서…. 동작이 좀 뻣뻣해 보여? 헤헤… 들켰네…. 주변에 보는 사람이 많아서 좀 긴장했거든",
+            "sourceName": "vo_kachina_teammate_mualani_01.wem"
+        },
+        "cdf3c10ae3cb4b4b": {
+            "hash": "cdf3c10ae3cb4b4b",
+            "directory": "External25",
+            "voiceContent": "난 안 졸려, 낮잠 자고 싶으면 내가 망봐줄게. 잘 못하는 일이 많지만… 그래도 귀는 밝은 편이거든. 멀리 바람에 흔들리는 풀도 전부 느낄 수 있",
+            "sourceName": "vo_kachina_dialog_greetingNoon.wem"
+        },
+        "cfb59313ba9d700e": {
+            "hash": "cfb59313ba9d700e",
+            "directory": "External25",
+            "voiceContent": "나 여깄어! 나한테 맡겨줘",
+            "sourceName": "vo_kachina_life_less30_teammate_02.wem"
+        },
+        "d3bb7b2009171ded": {
+            "hash": "d3bb7b2009171ded",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_jump_03.wem"
+        },
+        "d6b5e3886abea974": {
+            "hash": "d6b5e3886abea974",
+            "directory": "External26",
+            "voiceContent": "불의 신님한테서 「나타의 영웅」이라고 인정받는 날이 올 줄은 상상도 못 했어. 불의 신님은 모든 나타 전사의 우상이야. 그런 내가… 내가 우상의… 흐윽… 생각만 해도 너무 감동적이야, 흐엥… 미안, 진짜 미안해. 이럴 때 울면 안 되는데",
+            "sourceName": "vo_kachina_teammate_mavuika_01.wem"
+        },
+        "d94ab6f6e7e34e87": {
+            "hash": "d94ab6f6e7e34e87",
+            "directory": "External27",
+            "voiceContent": "난… 「우사비티」인데",
+            "sourceName": "vo_kachina_life_die_02.wem"
+        },
+        "db2ab45332c4e3dd": {
+            "hash": "db2ab45332c4e3dd",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attacklight_02.wem"
+        },
+        "dbc9f067db1ea600": {
+            "hash": "dbc9f067db1ea600",
+            "directory": "External27",
+            "voiceContent": "할 수 있다, 못 한다. 할 수 있다, 못 한다… 으음, 괜찮아, 할 수 있어. 문제없을 거야… 그치",
+            "sourceName": "vo_kachina_character_idle_02.wem"
+        },
+        "e189d80e8d86062c": {
+            "hash": "e189d80e8d86062c",
+            "directory": "External28",
+            "voiceContent": "나 혹시 귀 떨려? 긴장한 건 아니고… 기뻐서 그래. 미안, 너무 좋아서 귀가 자제가 안 돼. 자… 잡고 있어야겠다",
+            "sourceName": "vo_kachina_starUp_01.wem"
+        },
+        "e2c3d0125337e481": {
+            "hash": "e2c3d0125337e481",
+            "directory": "External28",
+            "voiceContent": "뇽뇽이는 내 소중한 파트너야. 지금은 얌전해 보이지만, 어렸을 땐 좋아하는 마음을 박치기로 표현하곤 했지. 힘이 얼마나 센지 가끔은 부딪혀서 넘어질 때도 있었다니까? 그래도 어쩌겠어, 산룡은 사람을 엄청 좋아하는 용이거든. 어휴, 박치기 좀 그만해, 뇽뇽아. 그래그래. 너 안 좋은 얘기 안 할",
+            "sourceName": "vo_kachina_dialog_share_01.wem"
+        },
+        "e323ebb686d03b95": {
+            "hash": "e323ebb686d03b95",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_hit_l_04.wem"
+        },
+        "e416ffc831233b0f": {
+            "hash": "e416ffc831233b0f",
+            "directory": "External28",
+            "voiceContent": "그냥 긁힌 거",
+            "sourceName": "vo_kachina_battle_hit_L_02.wem"
+        },
+        "e85250b276fb9645": {
+            "hash": "e85250b276fb9645",
+            "directory": "External29",
+            "voiceContent": "광석 채집",
+            "sourceName": "vo_kachina_battle_skill3_02.wem"
+        },
+        "e8f5fff921c97059": {
+            "hash": "e8f5fff921c97059",
+            "directory": "External29",
+            "voiceContent": "내가 고대 이름을 얻은 뒤에, 파칼 아저씨가 나랑 같이 실로닌 언니한테 가서 쌩쌩이 제작을 의뢰해 줬어. 실로닌 언니의 솜씨는 정말 굉장했어.나중에 우린 보석 소장이랑 보관법에 대해서 이야기를 나누고 서로의 보물도 구경했는데, 실로닌 언니의 소장품은 보관 상태가 좋은 게, 엄청 세심하게 관리한 거 같더라. 반면 실로닌 언니의 생활은… 좀 더 자유로운 느낌이랄까? 한 번은 실로닌 언니를 한참 찾았는데, 나중에 보니까 큰 나무 위에서 햇볕을 쬐면서 자고 있더라고",
+            "sourceName": "vo_kachina_teammate_xilonen_01.wem"
+        },
+        "eb2626093bd6f750": {
+            "hash": "eb2626093bd6f750",
+            "directory": "External29",
+            "voiceContent": "나, 난 할 수 있어",
+            "sourceName": "vo_kachina_life_less30_03.wem"
+        },
+        "edfc3b496d972807": {
+            "hash": "edfc3b496d972807",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attackheavy_03.wem"
+        },
+        "ef25275b18177321": {
+            "hash": "ef25275b18177321",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attackheavy_01.wem"
+        },
+        "f16af22844da11ad": {
+            "hash": "f16af22844da11ad",
+            "directory": "External30",
+            "voiceContent": "수정 열매는 꼭 보석처럼 생겼어. 보석처럼 오래 보관할 수 있으면 좋을 텐데",
+            "sourceName": "vo_kachina_pref_gift_01.wem"
+        },
+        "f293e8657b2dc137": {
+            "hash": "f293e8657b2dc137",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_battle_attacklight_04.wem"
+        },
+        "f2a23fd62947ce08": {
+            "hash": "f2a23fd62947ce08",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_kachina_explore_climb_breath_02.wem"
+        },
+        "f542f8a92150e2c4": {
+            "hash": "f542f8a92150e2c4",
+            "directory": "External30",
+            "voiceContent": "또 너한테서 전투 기술을 배울 수 있겠",
+            "sourceName": "vo_kachina_teamJoin_03.wem"
+        },
+        "f668d3fd80bcb5fa": {
+            "hash": "f668d3fd80bcb5fa",
+            "directory": "External30",
+            "voiceContent": "「왕궁은 불탔지만 불꽃은 꺼지지 않았다. 내일 아침이면 불꽃은 다시금 피어올라 어제보다 더 밝게 빛날 것이다」 트라오레 님이 하신 말씀 중에 제일 좋아하는 말이야. 난, 난 더 노력해야 해",
+            "sourceName": "vo_kachina_starUp_03.wem"
+        },
+        "f68ec92125a44123": {
+            "hash": "f68ec92125a44123",
+            "directory": "External30",
+            "voiceContent": "날 위해 시간을 내줘서 고마워! 꼭, 꼭 다 먹을게. 시간을 조금만 더 줄 수 있을까",
+            "sourceName": "vo_kachina_spice_dislike_01.wem"
         }
     }
 }

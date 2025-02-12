@@ -68,6 +68,9 @@ public class App extends Application {
         if(!WWiseHandler.isWwiseInstalled()) {
             displayWwiseConfirmation();
         }
+
+        // Generate new hashes
+        // FileIO.generateCombatHashesInIndexRoots();
     }
 
     static void setRoot(String fxml) throws IOException {

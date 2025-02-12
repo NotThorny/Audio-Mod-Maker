@@ -1,277 +1,241 @@
 {
     "Teapot": {},
     "Quests": {
-        "ed7792034fc7f1ec": {
-            "hash": "ed7792034fc7f1ec",
-            "directory": "External29",
-            "voiceContent": "The next battle round begins... now.",
-            "sourceName": "vo_CLLQ002_19_clorinde_01.wem"
-        },
         "eaa108410b39cff3": {
             "hash": "eaa108410b39cff3",
             "directory": "External29",
-            "voiceContent": "It doesn't seem like there's any information to be gained from the area up ahead. You conclude that this area is best left unexplored at this time.",
+            "voiceContent": "It doesn't seem like there's any information to be gained from the area up ahead. You conclude that this area is best left unexplored at this time",
             "sourceName": "vo_CLLQ002_23_clorinde_01.wem"
+        },
+        "ed7792034fc7f1ec": {
+            "hash": "ed7792034fc7f1ec",
+            "directory": "External29",
+            "voiceContent": "The next battle round begins... now",
+            "sourceName": "vo_CLLQ002_19_clorinde_01.wem"
         }
     },
     "Gameplay": {
-        "d4423a2c287aa2c7": {
-            "hash": "d4423a2c287aa2c7",
-            "directory": "External26",
-            "voiceContent": "Ready.",
-            "sourceName": "vo_clorinde_battle_skill1_01.wem"
-        },
-        "2b02cc44ddce0060": {
-            "hash": "2b02cc44ddce0060",
-            "directory": "External5",
-            "voiceContent": "Loaded.",
-            "sourceName": "vo_clorinde_battle_skill1_02.wem"
-        },
-        "d8d2263dd5dfc9e1": {
-            "hash": "d8d2263dd5dfc9e1",
-            "directory": "External27",
-            "voiceContent": "Into the shadows!",
-            "sourceName": "vo_clorinde_battle_skill1_03.wem"
-        },
-        "d2ef1630b3f3e025": {
-            "hash": "d2ef1630b3f3e025",
-            "directory": "External26",
-            "voiceContent": "Hunt them down!",
-            "sourceName": "vo_clorinde_battle_skill3_01.wem"
-        },
-        "787df8288532fc02": {
-            "hash": "787df8288532fc02",
-            "directory": "External15",
-            "voiceContent": "Time to testify.",
-            "sourceName": "vo_clorinde_battle_skill3_02.wem"
-        },
-        "d1c5ea1f097328cb": {
-            "hash": "d1c5ea1f097328cb",
-            "directory": "External26",
-            "voiceContent": "Where evil lurks, shoot on sight!",
-            "sourceName": "vo_clorinde_battle_skill3_03.wem"
-        },
-        "d4833132477a288c": {
-            "hash": "d4833132477a288c",
-            "directory": "External26",
-            "voiceContent": "A stroke of good luck. And a very welcome one.",
-            "sourceName": "vo_clorinde_chest_open_01.wem"
-        },
-        "96fbdf1a3295a7a3": {
-            "hash": "96fbdf1a3295a7a3",
-            "directory": "External18",
-            "voiceContent": "If these items are unclaimed, we may take them without controversy.",
-            "sourceName": "vo_clorinde_chest_open_02.wem"
-        },
-        "e9632d213ab28b5a": {
-            "hash": "e9632d213ab28b5a",
-            "directory": "External29",
-            "voiceContent": "First to find gets to stake their claim. Seems fair.",
-            "sourceName": "vo_clorinde_chest_open_03.wem"
-        },
-        "3950fde982b9ca9c": {
-            "hash": "3950fde982b9ca9c",
-            "directory": "External7",
-            "voiceContent": "Retreat!",
-            "sourceName": "vo_clorinde_life_less30_teammate_01.wem"
-        },
-        "fbc8abd16dd396b3": {
-            "hash": "fbc8abd16dd396b3",
-            "directory": "External31",
-            "voiceContent": "I'll take over. Get to safety.",
-            "sourceName": "vo_clorinde_life_less30_teammate_02.wem"
-        },
-        "f64a247e69a8d7e9": {
-            "hash": "f64a247e69a8d7e9",
-            "directory": "External30",
-            "voiceContent": "The victor... is declared...",
-            "sourceName": "vo_clorinde_life_die_01.wem"
-        },
-        "8605f6759d5c9186": {
-            "hash": "8605f6759d5c9186",
-            "directory": "External16",
-            "voiceContent": "I am... defeated...",
-            "sourceName": "vo_clorinde_life_die_02.wem"
-        },
-        "362c5f510a6f2c6e": {
-            "hash": "362c5f510a6f2c6e",
-            "directory": "External6",
-            "voiceContent": "Per your wishes.",
-            "sourceName": "vo_clorinde_teamJoin_01.wem"
-        },
-        "67bb2d5800737511": {
-            "hash": "67bb2d5800737511",
-            "directory": "External12",
-            "voiceContent": "Need to hire a duelist?",
-            "sourceName": "vo_clorinde_teamJoin_02.wem"
-        },
-        "e5fdd36043d35790": {
-            "hash": "e5fdd36043d35790",
-            "directory": "External28",
-            "voiceContent": "My blade will lead us through the shadows.",
-            "sourceName": "vo_clorinde_teamJoin_03.wem"
+        "01f347735653eab8": {
+            "hash": "01f347735653eab8",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_06.wem"
         },
         "037bf233ec8c9262": {
             "hash": "037bf233ec8c9262",
             "directory": "External0",
-            "voiceContent": "I've faced many opponents in my duels. Most of them, I defeated. The rest surrendered. ...Hm? No. I have never lost a duel.",
+            "voiceContent": "I've faced many opponents in my duels. Most of them, I defeated. The rest surrendered. ...Hm? No. I have never lost a duel",
             "sourceName": "vo_clorinde_character_idle_01.wem"
-        },
-        "5dee103c1b4f2885": {
-            "hash": "5dee103c1b4f2885",
-            "directory": "External11",
-            "voiceContent": "In my role as Champion Duelist, my opinions do not matter. For when I draw my blade, I am but an instrument of Fontaine's law.",
-            "sourceName": "vo_clorinde_character_idle_02.wem"
         },
         "04a5d645970e8234": {
             "hash": "04a5d645970e8234",
             "directory": "External0",
-            "voiceContent": "A duel is a battle of wills, and the sword an extension of the duelist's spirit. If your heart recoils in fear, then your sword may as well be in its scabbard, because you will not wield it effectively against your foe.",
+            "voiceContent": "A duel is a battle of wills, and the sword an extension of the duelist's spirit. If your heart recoils in fear, then your sword may as well be in its scabbard, because you will not wield it effectively against your foe",
             "sourceName": "vo_clorinde_character_idle_03.wem"
         },
-        "e3f2577696edb674": {
-            "hash": "e3f2577696edb674",
-            "directory": "External28",
-            "voiceContent": "Prey will usually rest on rainy days. But not the hunter.",
-            "sourceName": "vo_clorinde_weather_heavyRain_01.wem"
+        "07c3586d59fcbd6f": {
+            "hash": "07c3586d59fcbd6f",
+            "directory": "External0",
+            "voiceContent": "You've cleared your name..",
+            "sourceName": "vo_clorinde_life_die_03.wem"
         },
-        "c894bda34a842f11": {
-            "hash": "c894bda34a842f11",
-            "directory": "External25",
-            "voiceContent": "The battle between wind and rain appears to have reached its end.",
-            "sourceName": "vo_clorinde_weather_afterRain_01.wem"
-        },
-        "5f6d0cb657a0e9a0": {
-            "hash": "5f6d0cb657a0e9a0",
-            "directory": "External11",
-            "voiceContent": "...I have never missed Fontaine so much in all my life.",
-            "sourceName": "vo_clorinde_weather_desert_01.wem"
-        },
-        "164e4f010b6d5cd7": {
-            "hash": "164e4f010b6d5cd7",
-            "directory": "External2",
-            "voiceContent": "Hopefully, that was the sound of one more villain being removed from the world.",
-            "sourceName": "vo_clorinde_weather_thunder_01.wem"
-        },
-        "0f17ff15056d7ceb": {
-            "hash": "0f17ff15056d7ceb",
+        "089313176b68dd29": {
+            "hash": "089313176b68dd29",
             "directory": "External1",
-            "voiceContent": "This is a new sight for me. A rather bleak one, I must say.",
-            "sourceName": "vo_clorinde_weather_snowy_01.wem"
-        },
-        "906329b48c0a3146": {
-            "hash": "906329b48c0a3146",
-            "directory": "External18",
-            "voiceContent": "Good morning. I'm going for coffee shortly, would you like to join me? I brought coffee cups — you can borrow one if you need.",
-            "sourceName": "vo_clorinde_dialog_greetingMorning.wem"
-        },
-        "f67a5336b9d2e982": {
-            "hash": "f67a5336b9d2e982",
-            "directory": "External30",
-            "voiceContent": "Apologies, I don't get off work till later. Here, take this sandwich. It'll keep the wolf from the door.",
-            "sourceName": "vo_clorinde_dialog_greetingNoon.wem"
-        },
-        "39d8bf24fa0508cc": {
-            "hash": "39d8bf24fa0508cc",
-            "directory": "External7",
-            "voiceContent": "I'm afraid I'm unable to share any wine recommendations with you. But I can recommend a few lesser-known restaurants that are well worth a visit.",
-            "sourceName": "vo_clorinde_dialog_greetingNight.wem"
-        },
-        "62ddc4f682414524": {
-            "hash": "62ddc4f682414524",
-            "directory": "External12",
-            "voiceContent": "Goodnight. I'll be heading to bed as soon as I've completed my nightly weapon maintenance.",
-            "sourceName": "vo_clorinde_dialog_greetingNight2.wem"
-        },
-        "8431a89cd3ee75ab": {
-            "hash": "8431a89cd3ee75ab",
-            "directory": "External16",
-            "voiceContent": "Every newspaper is plagued by reporting that is neither particularly fair, nor remotely just. Some writers allow their views to be swayed by personal connections and promises of Mora.If you want to find out the truth of a situation, the best way is to go to the people directly involved. Ask your own questions, and come to your own conclusions.At the very least, don't let other people's deceitful tongues serve as a substitute for your own brain.",
-            "sourceName": "vo_clorinde_dialog_idle.wem"
-        },
-        "a63f109e5df24655": {
-            "hash": "a63f109e5df24655",
-            "directory": "External20",
-            "voiceContent": "My choice of weapons follows the Marechaussee Hunter tradition. A Musket to chase away my prey, and a sword to deliver it a fatal strike.In duels, of course, I typically only use my sword. Once you set foot in the Duelists' Ring, there is nowhere to run, and therefore no need to chase you away.",
-            "sourceName": "vo_clorinde_dialog_idle2.wem"
-        },
-        "5bd34cc587268ef4": {
-            "hash": "5bd34cc587268ef4",
-            "directory": "External11",
-            "voiceContent": "Many of my habits are customs I've adopted from the Marechaussee Hunter tradition. They fought against monsters, while I fight against lawbreakers. But monsters are evil by nature, it is all they know. The same cannot be said for the corrupt of humanity, who have the ability and opportunity to do good, yet willingly choose the path of evil.And you? What is your reason for carrying a blade?",
-            "sourceName": "vo_clorinde_dialog_close1.wem"
-        },
-        "66ec7a1879c1e939": {
-            "hash": "66ec7a1879c1e939",
-            "directory": "External12",
-            "voiceContent": "Before every duel, I wipe my sword down with a cloth soaked in a special cleaning liquid. It's partly to keep it in good working order, but it also helps me to remain calm and rid my mind of any intrusive thoughts.You're a fellow sword-wielder. Do you have any similar rituals?",
-            "sourceName": "vo_clorinde_dialog_close.wem"
-        },
-        "b2199642fdfbde24": {
-            "hash": "b2199642fdfbde24",
-            "directory": "External22",
-            "voiceContent": "I've seen many people get into a dispute over the most trivial thing, take it as a grave affront to their personal dignity, and end up bringing the matter to court. As if that's not already ridiculous enough, they then opt for a duel.As a Champion Duelist, I have no qualms about settling matters of honor with a duel. Still... How can I put this? For the average citizen of Fontaine, I would have thought that questions like whether Marcotte really belongs in coffee are not so crucial to resolve that they warrant the drawing of swords...",
-            "sourceName": "vo_clorinde_dialog_share_01.wem"
-        },
-        "5f07219491e5683e": {
-            "hash": "5f07219491e5683e",
-            "directory": "External11",
-            "voiceContent": "You've seen Bloatty Floatties before, yes? It's hard to predict where they will fly to and how fast, which makes them good for target practice. Or rather, they would be, if you didn't have to go out into the wild to find one... If only someone out there was willing to cultivate them domestically.",
-            "sourceName": "vo_clorinde_pref_gift_01.wem"
-        },
-        "dd745c10173fa34b": {
-            "hash": "dd745c10173fa34b",
-            "directory": "External27",
-            "voiceContent": "Charlotte is one of the more tactful journalists out there. I don't have anything negative to say about her.Unlike some, she doesn't ambush me with her Kamera on my way to work, or follow me to the coffee shop to report on what I'm drinking today... And most commendably of all, she is well aware that I do not do interviews and doesn't nag me about it continuously.",
-            "sourceName": "vo_clorinde_teammate_charlotte_01.wem"
-        },
-        "9bac0f0464190d8a": {
-            "hash": "9bac0f0464190d8a",
-            "directory": "External19",
-            "voiceContent": "In the past, I always stood behind her at tea parties, sword at the ready. But now, I get to sit at the table and enjoy the tea and treats along with her.I'm now beginning to understand why she complains all the time about how hard it is to maintain her physique.",
-            "sourceName": "vo_clorinde_teammate_furina_01.wem"
-        },
-        "957f855b984635a0": {
-            "hash": "957f855b984635a0",
-            "directory": "External18",
-            "voiceContent": "Navia's been in a good mood lately. It seems like every other day she's asking me to join her at Tabletop Troupe for a new script.The story is always so different. Save for the few times when I've taken the role of Game Master, I often play in character and join her on the adventure. But I do try to avoid playing any characters from the court, so as not to make the atmosphere too serious...",
-            "sourceName": "vo_clorinde_teammate_navia_01.wem"
-        },
-        "7e010617bfd2780f": {
-            "hash": "7e010617bfd2780f",
-            "directory": "External15",
-            "voiceContent": "One day, I received a parcel containing a miniature mechanical toy and a thank-you card. The toy was exquisitely made. I must thank Mr. Freminet in person when I get the opportunity... Hm? The opportunity may be hard to come by, you say? Very well, then I too shall write a thank-you card. Please pass it on to him for me.",
-            "sourceName": "vo_clorinde_teammate_freminet_01.wem"
-        },
-        "37bd19517d966bc9": {
-            "hash": "37bd19517d966bc9",
-            "directory": "External6",
-            "voiceContent": "I've bought clothes from her store before. They're good quality. But most of the time, I prefer to wear my work uniform. Partly because it serves to clearly communicate my identity, and partly because I like things that are familiar. Just like my sword, this uniform is familiar and functional — I have no desire to change it.",
-            "sourceName": "vo_clorinde_teammate_chiori_01.wem"
-        },
-        "0d01298311cf908a": {
-            "hash": "0d01298311cf908a",
-            "directory": "External1",
-            "voiceContent": "Managing the Fortress of Meropide is no mean feat. Wriothesley is undoubtedly a highly capable person if he can maintain relative stability in a place like that.I highly suspect that he keeps quiet about some of the methods he uses, but there's no way we can know.",
-            "sourceName": "vo_clorinde_teammate_wriothesley_01.wem"
-        },
-        "3561dd4982fe4464": {
-            "hash": "3561dd4982fe4464",
-            "directory": "External6",
-            "voiceContent": "No one is in any doubt as to the Iudex's authority. He always delivers a fair verdict — and when necessary, I will reiterate the fairness of this verdict with my sword.",
-            "sourceName": "vo_clorinde_teammate_neuvillette_01.wem"
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_sprint_start_01.wem"
         },
         "0af068f74663f6bb": {
             "hash": "0af068f74663f6bb",
             "directory": "External1",
-            "voiceContent": "Ah yes, Captain Chevreuse. That's a name I've heard before. She has been landed with lawsuits on several occasions, after being accused of using excessive force when arresting culprits. She refuted the allegations just as forcefully during her testimony, leaving the plaintiff speechless. I think she's outstanding.",
+            "voiceContent": "Ah yes, Captain Chevreuse. That's a name I've heard before. She has been landed with lawsuits on several occasions, after being accused of using excessive force when arresting culprits. She refuted the allegations just as forcefully during her testimony, leaving the plaintiff speechless. I think she's outstanding",
             "sourceName": "vo_clorinde_teammate_chevreuse_01.wem"
+        },
+        "0cd7f3981035b46c": {
+            "hash": "0cd7f3981035b46c",
+            "directory": "External1",
+            "voiceContent": "Let's wrap this up",
+            "sourceName": "vo_card_clorinde_inGame_easy_04.wem"
+        },
+        "0d01298311cf908a": {
+            "hash": "0d01298311cf908a",
+            "directory": "External1",
+            "voiceContent": "Managing the Fortress of Meropide is no mean feat. Wriothesley is undoubtedly a highly capable person if he can maintain relative stability in a place like that.I highly suspect that he keeps quiet about some of the methods he uses, but there's no way we can know",
+            "sourceName": "vo_clorinde_teammate_wriothesley_01.wem"
+        },
+        "0f17ff15056d7ceb": {
+            "hash": "0f17ff15056d7ceb",
+            "directory": "External1",
+            "voiceContent": "This is a new sight for me. A rather bleak one, I must say",
+            "sourceName": "vo_clorinde_weather_snowy_01.wem"
+        },
+        "13dc553a5de3f26b": {
+            "hash": "13dc553a5de3f26b",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_01.wem"
+        },
+        "164e4f010b6d5cd7": {
+            "hash": "164e4f010b6d5cd7",
+            "directory": "External2",
+            "voiceContent": "Hopefully, that was the sound of one more villain being removed from the world",
+            "sourceName": "vo_clorinde_weather_thunder_01.wem"
+        },
+        "16d27362498aebd6": {
+            "hash": "16d27362498aebd6",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_04.wem"
         },
         "1796cd87ac2f5442": {
             "hash": "1796cd87ac2f5442",
             "directory": "External2",
-            "voiceContent": "I have to applaud the great magician for the level of professionalism he displays in his craft. If I ever have the time, I would very much like to enjoy one of his shows as a regular audience member.",
+            "voiceContent": "I have to applaud the great magician for the level of professionalism he displays in his craft. If I ever have the time, I would very much like to enjoy one of his shows as a regular audience member",
             "sourceName": "vo_clorinde_teammate_lyney_01.wem"
+        },
+        "1acf68b28369da21": {
+            "hash": "1acf68b28369da21",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_jump_02.wem"
+        },
+        "1d7247065e9febaf": {
+            "hash": "1d7247065e9febaf",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_sprint_start_03.wem"
+        },
+        "21842e022cd4275e": {
+            "hash": "21842e022cd4275e",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackmid_02.wem"
+        },
+        "24236646ed4169aa": {
+            "hash": "24236646ed4169aa",
+            "directory": "External4",
+            "voiceContent": "You were exposed",
+            "sourceName": "vo_card_clorinde_inGame_hard_01.wem"
+        },
+        "2845224dc9021e00": {
+            "hash": "2845224dc9021e00",
+            "directory": "External5",
+            "voiceContent": "Greetings. I am Clorinde, a Champion Duelist of the Court of Fontaine. If you wish to hire my services, please state the nature of your dispute... You may leave out any extraneous details, those are no concern of mine",
+            "sourceName": "vo_clorinde_draw_appear_01.wem"
+        },
+        "2b02cc44ddce0060": {
+            "hash": "2b02cc44ddce0060",
+            "directory": "External5",
+            "voiceContent": "Loaded",
+            "sourceName": "vo_clorinde_battle_skill1_02.wem"
+        },
+        "2c80b6fd8d160d67": {
+            "hash": "2c80b6fd8d160d67",
+            "directory": "External5",
+            "voiceContent": "I feel like my eyesight just improved... Let me do a test-shot on that leaf over there",
+            "sourceName": "vo_clorinde_starUp_03.wem"
+        },
+        "2e7e6061a8685932": {
+            "hash": "2e7e6061a8685932",
+            "directory": "External5",
+            "voiceContent": "Unlike my work as a duelist, being a Game Master in Tabletop Troupe gives me the freedom to stay outside of the story itself. and observe people's reactions without getting personally involved in all the drama. I create and control the world in which they operate... Hmm? Like watching a caged animal caught on a hunt? That's an interesting angle... I'd never thought of it like that before. But I would never give the players a hard time — I just want them to enjoy the story. So it's quite different from hunting",
+            "sourceName": "vo_clorinde_pref_hobby.wem"
+        },
+        "2ebc9f7106a5f847": {
+            "hash": "2ebc9f7106a5f847",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackheavy_02.wem"
+        },
+        "2fbe40bf86767199": {
+            "hash": "2fbe40bf86767199",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_fly_start_02.wem"
+        },
+        "329c9a34585abcb8": {
+            "hash": "329c9a34585abcb8",
+            "directory": "External6",
+            "voiceContent": "I've lost count of how many times I've had people surrender right before the duel begins. When someone lacks the courage even to draw their weapon, I'm inclined to think that whatever grievance and claims of reputational damage brought them to this point are just the skewed opinions of a self-serving individual.Long before they face me, they are the architects of their own defeat. I needn't make a move when someone is a prisoner of their own soul",
+            "sourceName": "vo_clorinde_friendship_03.wem"
+        },
+        "3561dd4982fe4464": {
+            "hash": "3561dd4982fe4464",
+            "directory": "External6",
+            "voiceContent": "No one is in any doubt as to the Iudex's authority. He always delivers a fair verdict — and when necessary, I will reiterate the fairness of this verdict with my sword",
+            "sourceName": "vo_clorinde_teammate_neuvillette_01.wem"
+        },
+        "361c4578f3d0615e": {
+            "hash": "361c4578f3d0615e",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_l_06.wem"
+        },
+        "362c5f510a6f2c6e": {
+            "hash": "362c5f510a6f2c6e",
+            "directory": "External6",
+            "voiceContent": "Per your wishes",
+            "sourceName": "vo_clorinde_teamJoin_01.wem"
+        },
+        "36855b961691a3c4": {
+            "hash": "36855b961691a3c4",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_breath_03.wem"
+        },
+        "37bd19517d966bc9": {
+            "hash": "37bd19517d966bc9",
+            "directory": "External6",
+            "voiceContent": "I've bought clothes from her store before. They're good quality. But most of the time, I prefer to wear my work uniform. Partly because it serves to clearly communicate my identity, and partly because I like things that are familiar. Just like my sword, this uniform is familiar and functional — I have no desire to change it",
+            "sourceName": "vo_clorinde_teammate_chiori_01.wem"
+        },
+        "387347c79067dc3b": {
+            "hash": "387347c79067dc3b",
+            "directory": "External7",
+            "voiceContent": "...What a disgrace",
+            "sourceName": "vo_clorinde_life_less30_03.wem"
+        },
+        "3950fde982b9ca9c": {
+            "hash": "3950fde982b9ca9c",
+            "directory": "External7",
+            "voiceContent": "Retreat",
+            "sourceName": "vo_clorinde_life_less30_teammate_01.wem"
+        },
+        "39d8bf24fa0508cc": {
+            "hash": "39d8bf24fa0508cc",
+            "directory": "External7",
+            "voiceContent": "I'm afraid I'm unable to share any wine recommendations with you. But I can recommend a few lesser-known restaurants that are well worth a visit",
+            "sourceName": "vo_clorinde_dialog_greetingNight.wem"
+        },
+        "3aac798aa1360200": {
+            "hash": "3aac798aa1360200",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_l_04.wem"
+        },
+        "3b00c19f0356d417": {
+            "hash": "3b00c19f0356d417",
+            "directory": "External7",
+            "voiceContent": "...I got complacent",
+            "sourceName": "vo_card_clorinde_inGame_easy_03.wem"
+        },
+        "3f90adb0b0bbfb31": {
+            "hash": "3f90adb0b0bbfb31",
+            "directory": "External7",
+            "voiceContent": "Shouldn't let your guard down",
+            "sourceName": "vo_card_clorinde_inGame_easy_01.wem"
+        },
+        "40d3f85ef0104a47": {
+            "hash": "40d3f85ef0104a47",
+            "directory": "External8",
+            "voiceContent": "Now, it's my turn",
+            "sourceName": "vo_card_clorinde_inGame_hard_04.wem"
+        },
+        "4485a7fb5feac46b": {
+            "hash": "4485a7fb5feac46b",
+            "directory": "External8",
+            "voiceContent": "Have you ever seen a guilty person on trial? In my experience, they always twist the truth in an effort to protest their innocence. Violence is explained away as virtue, and evil as good... But whatever their excuse, it always ends the same way It was a momentary lapse of judgement, but anyone else in my position would have done the same thing, so don't single me out for punishment.They seek to hide their own foulness by smearing it on everyone else too.Their lies must be demolished, and the court cleansed of their filth. And that is exactly why I became a Champion Duelist",
+            "sourceName": "vo_clorinde_friendship_04.wem"
         },
         "477bc6234b91bdd6": {
             "hash": "477bc6234b91bdd6",
@@ -279,197 +243,497 @@
             "voiceContent": "A Champion Duelist's job is not that complicated. In fact, you could say it's one of the simplest jobs there is. Defeat your opponent, as requested by the Trial Court. That's all there is to it....Perhaps that's why some people colloquially refer to me as an executioner.",
             "sourceName": "vo_clorinde_friendship_01.wem"
         },
-        "b7bff42c17de0339": {
-            "hash": "b7bff42c17de0339",
-            "directory": "External22",
-            "voiceContent": "I always do what I can to ensure every duel is a fair fight. If my opponent has impaired vision, I cover my eyes. If their mobility is limited, I restrict my range of movement. Whatever happens, every duel I participate in must be fair.",
-            "sourceName": "vo_clorinde_friendship_02.wem"
-        },
-        "329c9a34585abcb8": {
-            "hash": "329c9a34585abcb8",
-            "directory": "External6",
-            "voiceContent": "I've lost count of how many times I've had people surrender right before the duel begins. When someone lacks the courage even to draw their weapon, I'm inclined to think that whatever grievance and claims of reputational damage brought them to this point are just the skewed opinions of a self-serving individual.Long before they face me, they are the architects of their own defeat. I needn't make a move when someone is a prisoner of their own soul.",
-            "sourceName": "vo_clorinde_friendship_03.wem"
-        },
-        "4485a7fb5feac46b": {
-            "hash": "4485a7fb5feac46b",
-            "directory": "External8",
-            "voiceContent": "Have you ever seen a guilty person on trial? In my experience, they always twist the truth in an effort to protest their innocence. Violence is explained away as virtue, and evil as good... But whatever their excuse, it always ends the same way It was a momentary lapse of judgement, but anyone else in my position would have done the same thing, so don't single me out for punishment.They seek to hide their own foulness by smearing it on everyone else too.Their lies must be demolished, and the court cleansed of their filth. And that is exactly why I became a Champion Duelist.",
-            "sourceName": "vo_clorinde_friendship_04.wem"
-        },
-        "9680360267ab4222": {
-            "hash": "9680360267ab4222",
-            "directory": "External18",
-            "voiceContent": "I've seen many people seek compassion from the court. No disrespect to them, but they're looking in the wrong place.The court is a place of impartial justice. And justice... must always remain indifferent, or it cannot prevail.Justice is too easily led astray once human emotion enters the mix. If impartial judgment were to give way to vindictive punishment, vindictiveness at the hand of the court would be every bit as cruel as the crimes perpetrated by lawbreakers.",
-            "sourceName": "vo_clorinde_friendship_05.wem"
-        },
-        "2e7e6061a8685932": {
-            "hash": "2e7e6061a8685932",
-            "directory": "External5",
-            "voiceContent": "Unlike my work as a duelist, being a Game Master in Tabletop Troupe gives me the freedom to stay outside of the story itself. and observe people's reactions without getting personally involved in all the drama. I create and control the world in which they operate... Hmm? Like watching a caged animal caught on a hunt? That's an interesting angle... I'd never thought of it like that before. But I would never give the players a hard time — I just want them to enjoy the story. So it's quite different from hunting.",
-            "sourceName": "vo_clorinde_pref_hobby.wem"
-        },
-        "a2b217db9ad1ae85": {
-            "hash": "a2b217db9ad1ae85",
-            "directory": "External20",
-            "voiceContent": "I like meaty dishes in general, but only if the meat is fresh. There's nothing like the flavor of freshly hunted meat cooked over the grill with a little salt to taste and a portion of sour fruits on the side. You should come hunting with me some time, I'll cook for you.",
-            "sourceName": "vo_clorinde_pref_foodLike.wem"
-        },
-        "fb81668f2a7fb2a7": {
-            "hash": "fb81668f2a7fb2a7",
-            "directory": "External31",
-            "voiceContent": "I don't enjoy fish. There's too many bones, and I can't stand the smell... Maybe it's because I had my fill of fish as a child.",
-            "sourceName": "vo_clorinde_pref_foodDislike.wem"
-        },
-        "5d6192b448d11c62": {
-            "hash": "5d6192b448d11c62",
-            "directory": "External11",
-            "voiceContent": "The flavor is perfect. Exactly how I like it. Don't let the journalists or gourmets in on this though — they only know how to appreciate food through the lens of a Kamera or the words of a newspaper article.",
-            "sourceName": "vo_clorinde_spice_pref_01.wem"
-        },
-        "bf84cb359b029f68": {
-            "hash": "bf84cb359b029f68",
-            "directory": "External23",
-            "voiceContent": "Mm, this is fine food. I'll enjoy it slowly so it lasts longer.",
-            "sourceName": "vo_clorinde_spice_normal_01.wem"
-        },
-        "64eee54cf686e3ec": {
-            "hash": "64eee54cf686e3ec",
-            "directory": "External12",
-            "voiceContent": "...You're lucky this wasn't served in a restaurant, or the diners would be complaining to the chef.",
-            "sourceName": "vo_clorinde_spice_dislike_01.wem"
-        },
-        "dc53230cc67bde01": {
-            "hash": "dc53230cc67bde01",
-            "directory": "External27",
-            "voiceContent": "Interesting... This is certainly an improvement.",
-            "sourceName": "vo_clorinde_starUp_01.wem"
-        },
-        "7eb115049503c95e": {
-            "hash": "7eb115049503c95e",
-            "directory": "External15",
-            "voiceContent": "Even my sword feels more at home in my hand now. Like an extension of my own body.",
-            "sourceName": "vo_clorinde_starUp_02.wem"
-        },
-        "2c80b6fd8d160d67": {
-            "hash": "2c80b6fd8d160d67",
-            "directory": "External5",
-            "voiceContent": "I feel like my eyesight just improved... Let me do a test-shot on that leaf over there.",
-            "sourceName": "vo_clorinde_starUp_03.wem"
-        },
-        "d245a8f55e82d3bc": {
-            "hash": "d245a8f55e82d3bc",
-            "directory": "External26",
-            "voiceContent": "As a warrior yourself, I don't believe you require my help. But should you ever wish to borrow my strength, I will fight for you with everything I have. As always.",
-            "sourceName": "vo_clorinde_starUp_04.wem"
-        },
-        "e4dfb3d6c6ea84d5": {
-            "hash": "e4dfb3d6c6ea84d5",
-            "directory": "External28",
-            "voiceContent": "Time to finish this.",
-            "sourceName": "vo_clorinde_life_less30_01.wem"
-        },
-        "b319d5cfd0b6ddf2": {
-            "hash": "b319d5cfd0b6ddf2",
-            "directory": "External22",
-            "voiceContent": "This is sheer anarchy...",
-            "sourceName": "vo_clorinde_life_less30_02.wem"
-        },
-        "387347c79067dc3b": {
-            "hash": "387347c79067dc3b",
-            "directory": "External7",
-            "voiceContent": "...What a disgrace.",
-            "sourceName": "vo_clorinde_life_less30_03.wem"
-        },
-        "07c3586d59fcbd6f": {
-            "hash": "07c3586d59fcbd6f",
-            "directory": "External0",
-            "voiceContent": "You've cleared your name...",
-            "sourceName": "vo_clorinde_life_die_03.wem"
-        },
-        "780cb8ea0887f9e6": {
-            "hash": "780cb8ea0887f9e6",
-            "directory": "External15",
-            "voiceContent": "Enough!",
-            "sourceName": "vo_clorinde_battle_hit_H_02.wem"
-        },
-        "f3fe9e5836dce71c": {
-            "hash": "f3fe9e5836dce71c",
-            "directory": "External30",
-            "voiceContent": "Miss Sigewinne is an excellent nurse, equally adept at treating the injured and comforting the distressed. I'm sure that her kind and loving nature brings out what little good there may be even in the vilest offenders of the Fortress of Meropide.And maybe that just might serve as enough of a motivation for them to change their ways.",
-            "sourceName": "vo_clorinde_teammate_sigewinne_01.wem"
-        },
-        "727dd55775146f4a": {
-            "hash": "727dd55775146f4a",
-            "directory": "External14",
-            "voiceContent": "A sharp shooter.",
-            "sourceName": "vo_clorinde_battle_hit_L_02.wem"
-        },
-        "93625d8239f0a755": {
-            "hash": "93625d8239f0a755",
-            "directory": "External18",
-            "voiceContent": "I do hope those journalists stop harassing me while I'm just trying to enjoy a cup of coffee, buy a bunch of flowers, or read a book. Otherwise, I may have to file a lawsuit to make an example of one or two of them. If they request a duel, I'll make them bring their Kamera, and in the interest of fairness, I too will bring only a Kamera.",
-            "sourceName": "vo_clorinde_dialog_annoyed_01.wem"
-        },
-        "2845224dc9021e00": {
-            "hash": "2845224dc9021e00",
-            "directory": "External5",
-            "voiceContent": "Greetings. I am Clorinde, a Champion Duelist of the Court of Fontaine. If you wish to hire my services, please state the nature of your dispute... You may leave out any extraneous details, those are no concern of mine.",
-            "sourceName": "vo_clorinde_draw_appear_01.wem"
-        },
-        "a73ba20346030c11": {
-            "hash": "a73ba20346030c11",
-            "directory": "External20",
-            "voiceContent": "After I received my Vision, the amount of people surrendering to me in duels went up substantially. Some duelists even think I use it as an intimidation tactic.I always thought my undefeated track record was enough of an intimidation tactic. Perhaps I should aim to win more dramatically in future duels.",
-            "sourceName": "vo_clorinde_dialog_pendant_01.wem"
-        },
-        "e698ea56c17d109c": {
-            "hash": "e698ea56c17d109c",
-            "directory": "External28",
-            "voiceContent": "...I really need to focus.",
-            "sourceName": "vo_card_clorinde_inGame_hard_03.wem"
-        },
-        "b9435fa746b6a90e": {
-            "hash": "b9435fa746b6a90e",
-            "directory": "External23",
-            "voiceContent": "Hmm...",
-            "sourceName": "vo_card_clorinde_inGame_easy_02.wem"
-        },
-        "24236646ed4169aa": {
-            "hash": "24236646ed4169aa",
-            "directory": "External4",
-            "voiceContent": "You were exposed.",
-            "sourceName": "vo_card_clorinde_inGame_hard_01.wem"
-        },
-        "3f90adb0b0bbfb31": {
-            "hash": "3f90adb0b0bbfb31",
-            "directory": "External7",
-            "voiceContent": "Shouldn't let your guard down.",
-            "sourceName": "vo_card_clorinde_inGame_easy_01.wem"
-        },
-        "0cd7f3981035b46c": {
-            "hash": "0cd7f3981035b46c",
-            "directory": "External1",
-            "voiceContent": "Let's wrap this up.",
-            "sourceName": "vo_card_clorinde_inGame_easy_04.wem"
-        },
-        "40d3f85ef0104a47": {
-            "hash": "40d3f85ef0104a47",
-            "directory": "External8",
-            "voiceContent": "Now, it's my turn.",
-            "sourceName": "vo_card_clorinde_inGame_hard_04.wem"
+        "49a698ba7dd66176": {
+            "hash": "49a698ba7dd66176",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_02.wem"
         },
         "557d044de319852d": {
             "hash": "557d044de319852d",
             "directory": "External10",
-            "voiceContent": "Miscalculated...",
+            "voiceContent": "Miscalculated..",
             "sourceName": "vo_card_clorinde_inGame_hard_02.wem"
         },
-        "3b00c19f0356d417": {
-            "hash": "3b00c19f0356d417",
-            "directory": "External7",
-            "voiceContent": "...I got complacent.",
-            "sourceName": "vo_card_clorinde_inGame_easy_03.wem"
+        "58cb37d0faac696c": {
+            "hash": "58cb37d0faac696c",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_idle_01.wem"
+        },
+        "5bd34cc587268ef4": {
+            "hash": "5bd34cc587268ef4",
+            "directory": "External11",
+            "voiceContent": "Many of my habits are customs I've adopted from the Marechaussee Hunter tradition. They fought against monsters, while I fight against lawbreakers. But monsters are evil by nature, it is all they know. The same cannot be said for the corrupt of humanity, who have the ability and opportunity to do good, yet willingly choose the path of evil.And you? What is your reason for carrying a blade",
+            "sourceName": "vo_clorinde_dialog_close1.wem"
+        },
+        "5d6192b448d11c62": {
+            "hash": "5d6192b448d11c62",
+            "directory": "External11",
+            "voiceContent": "The flavor is perfect. Exactly how I like it. Don't let the journalists or gourmets in on this though — they only know how to appreciate food through the lens of a Kamera or the words of a newspaper article",
+            "sourceName": "vo_clorinde_spice_pref_01.wem"
+        },
+        "5dee103c1b4f2885": {
+            "hash": "5dee103c1b4f2885",
+            "directory": "External11",
+            "voiceContent": "In my role as Champion Duelist, my opinions do not matter. For when I draw my blade, I am but an instrument of Fontaine's law",
+            "sourceName": "vo_clorinde_character_idle_02.wem"
+        },
+        "5f07219491e5683e": {
+            "hash": "5f07219491e5683e",
+            "directory": "External11",
+            "voiceContent": "You've seen Bloatty Floatties before, yes? It's hard to predict where they will fly to and how fast, which makes them good for target practice. Or rather, they would be, if you didn't have to go out into the wild to find one... If only someone out there was willing to cultivate them domestically",
+            "sourceName": "vo_clorinde_pref_gift_01.wem"
+        },
+        "5f6d0cb657a0e9a0": {
+            "hash": "5f6d0cb657a0e9a0",
+            "directory": "External11",
+            "voiceContent": "...I have never missed Fontaine so much in all my life",
+            "sourceName": "vo_clorinde_weather_desert_01.wem"
+        },
+        "62ddc4f682414524": {
+            "hash": "62ddc4f682414524",
+            "directory": "External12",
+            "voiceContent": "Goodnight. I'll be heading to bed as soon as I've completed my nightly weapon maintenance",
+            "sourceName": "vo_clorinde_dialog_greetingNight2.wem"
+        },
+        "64eee54cf686e3ec": {
+            "hash": "64eee54cf686e3ec",
+            "directory": "External12",
+            "voiceContent": "...You're lucky this wasn't served in a restaurant, or the diners would be complaining to the chef",
+            "sourceName": "vo_clorinde_spice_dislike_01.wem"
+        },
+        "66ec7a1879c1e939": {
+            "hash": "66ec7a1879c1e939",
+            "directory": "External12",
+            "voiceContent": "Before every duel, I wipe my sword down with a cloth soaked in a special cleaning liquid. It's partly to keep it in good working order, but it also helps me to remain calm and rid my mind of any intrusive thoughts.You're a fellow sword-wielder. Do you have any similar rituals",
+            "sourceName": "vo_clorinde_dialog_close.wem"
+        },
+        "66ffc7531024adf4": {
+            "hash": "66ffc7531024adf4",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_02.wem"
+        },
+        "67bb2d5800737511": {
+            "hash": "67bb2d5800737511",
+            "directory": "External12",
+            "voiceContent": "Need to hire a duelist",
+            "sourceName": "vo_clorinde_teamJoin_02.wem"
+        },
+        "6a4433bfeaffef3a": {
+            "hash": "6a4433bfeaffef3a",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_idle_03.wem"
+        },
+        "70670eb98e3ceca0": {
+            "hash": "70670eb98e3ceca0",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_jump_03.wem"
+        },
+        "727dd55775146f4a": {
+            "hash": "727dd55775146f4a",
+            "directory": "External14",
+            "voiceContent": "A sharp shooter",
+            "sourceName": "vo_clorinde_battle_hit_L_02.wem"
+        },
+        "76e2ccd85e05fbc4": {
+            "hash": "76e2ccd85e05fbc4",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_h_04.wem"
+        },
+        "780cb8ea0887f9e6": {
+            "hash": "780cb8ea0887f9e6",
+            "directory": "External15",
+            "voiceContent": "Enough",
+            "sourceName": "vo_clorinde_battle_hit_H_02.wem"
+        },
+        "787df8288532fc02": {
+            "hash": "787df8288532fc02",
+            "directory": "External15",
+            "voiceContent": "Time to testify",
+            "sourceName": "vo_clorinde_battle_skill3_02.wem"
+        },
+        "7e010617bfd2780f": {
+            "hash": "7e010617bfd2780f",
+            "directory": "External15",
+            "voiceContent": "One day, I received a parcel containing a miniature mechanical toy and a thank-you card. The toy was exquisitely made. I must thank Mr. Freminet in person when I get the opportunity... Hm? The opportunity may be hard to come by, you say? Very well, then I too shall write a thank-you card. Please pass it on to him for me",
+            "sourceName": "vo_clorinde_teammate_freminet_01.wem"
+        },
+        "7e7d1c80928cf973": {
+            "hash": "7e7d1c80928cf973",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_jump_04.wem"
+        },
+        "7eb115049503c95e": {
+            "hash": "7eb115049503c95e",
+            "directory": "External15",
+            "voiceContent": "Even my sword feels more at home in my hand now. Like an extension of my own body",
+            "sourceName": "vo_clorinde_starUp_02.wem"
+        },
+        "7f263c0a5e4c3c01": {
+            "hash": "7f263c0a5e4c3c01",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackmid_01.wem"
+        },
+        "8431a89cd3ee75ab": {
+            "hash": "8431a89cd3ee75ab",
+            "directory": "External16",
+            "voiceContent": "Every newspaper is plagued by reporting that is neither particularly fair, nor remotely just. Some writers allow their views to be swayed by personal connections and promises of Mora.If you want to find out the truth of a situation, the best way is to go to the people directly involved. Ask your own questions, and come to your own conclusions.At the very least, don't let other people's deceitful tongues serve as a substitute for your own brain",
+            "sourceName": "vo_clorinde_dialog_idle.wem"
+        },
+        "857d3189bbf955e0": {
+            "hash": "857d3189bbf955e0",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackheavy_01.wem"
+        },
+        "8605f6759d5c9186": {
+            "hash": "8605f6759d5c9186",
+            "directory": "External16",
+            "voiceContent": "I am... defeated..",
+            "sourceName": "vo_clorinde_life_die_02.wem"
+        },
+        "86b3b786dd2d2672": {
+            "hash": "86b3b786dd2d2672",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_breath_01.wem"
+        },
+        "8716a16b15d73139": {
+            "hash": "8716a16b15d73139",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_07.wem"
+        },
+        "906329b48c0a3146": {
+            "hash": "906329b48c0a3146",
+            "directory": "External18",
+            "voiceContent": "Good morning. I'm going for coffee shortly, would you like to join me? I brought coffee cups — you can borrow one if you need",
+            "sourceName": "vo_clorinde_dialog_greetingMorning.wem"
+        },
+        "93625d8239f0a755": {
+            "hash": "93625d8239f0a755",
+            "directory": "External18",
+            "voiceContent": "I do hope those journalists stop harassing me while I'm just trying to enjoy a cup of coffee, buy a bunch of flowers, or read a book. Otherwise, I may have to file a lawsuit to make an example of one or two of them. If they request a duel, I'll make them bring their Kamera, and in the interest of fairness, I too will bring only a Kamera",
+            "sourceName": "vo_clorinde_dialog_annoyed_01.wem"
+        },
+        "93be538125487601": {
+            "hash": "93be538125487601",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_l_05.wem"
+        },
+        "957f855b984635a0": {
+            "hash": "957f855b984635a0",
+            "directory": "External18",
+            "voiceContent": "Navia's been in a good mood lately. It seems like every other day she's asking me to join her at Tabletop Troupe for a new script.The story is always so different. Save for the few times when I've taken the role of Game Master, I often play in character and join her on the adventure. But I do try to avoid playing any characters from the court, so as not to make the atmosphere too serious..",
+            "sourceName": "vo_clorinde_teammate_navia_01.wem"
+        },
+        "9680360267ab4222": {
+            "hash": "9680360267ab4222",
+            "directory": "External18",
+            "voiceContent": "I've seen many people seek compassion from the court. No disrespect to them, but they're looking in the wrong place.The court is a place of impartial justice. And justice... must always remain indifferent, or it cannot prevail.Justice is too easily led astray once human emotion enters the mix. If impartial judgment were to give way to vindictive punishment, vindictiveness at the hand of the court would be every bit as cruel as the crimes perpetrated by lawbreakers",
+            "sourceName": "vo_clorinde_friendship_05.wem"
+        },
+        "96fbdf1a3295a7a3": {
+            "hash": "96fbdf1a3295a7a3",
+            "directory": "External18",
+            "voiceContent": "If these items are unclaimed, we may take them without controversy",
+            "sourceName": "vo_clorinde_chest_open_02.wem"
+        },
+        "984ee50e9f1c97c6": {
+            "hash": "984ee50e9f1c97c6",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_sprint_start_02.wem"
+        },
+        "9bac0f0464190d8a": {
+            "hash": "9bac0f0464190d8a",
+            "directory": "External19",
+            "voiceContent": "In the past, I always stood behind her at tea parties, sword at the ready. But now, I get to sit at the table and enjoy the tea and treats along with her.I'm now beginning to understand why she complains all the time about how hard it is to maintain her physique",
+            "sourceName": "vo_clorinde_teammate_furina_01.wem"
+        },
+        "9f517ab0ff0406df": {
+            "hash": "9f517ab0ff0406df",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_03.wem"
+        },
+        "a2b217db9ad1ae85": {
+            "hash": "a2b217db9ad1ae85",
+            "directory": "External20",
+            "voiceContent": "I like meaty dishes in general, but only if the meat is fresh. There's nothing like the flavor of freshly hunted meat cooked over the grill with a little salt to taste and a portion of sour fruits on the side. You should come hunting with me some time, I'll cook for you",
+            "sourceName": "vo_clorinde_pref_foodLike.wem"
+        },
+        "a63f109e5df24655": {
+            "hash": "a63f109e5df24655",
+            "directory": "External20",
+            "voiceContent": "My choice of weapons follows the Marechaussee Hunter tradition. A Musket to chase away my prey, and a sword to deliver it a fatal strike.In duels, of course, I typically only use my sword. Once you set foot in the Duelists' Ring, there is nowhere to run, and therefore no need to chase you away",
+            "sourceName": "vo_clorinde_dialog_idle2.wem"
+        },
+        "a73ba20346030c11": {
+            "hash": "a73ba20346030c11",
+            "directory": "External20",
+            "voiceContent": "After I received my Vision, the amount of people surrendering to me in duels went up substantially. Some duelists even think I use it as an intimidation tactic.I always thought my undefeated track record was enough of an intimidation tactic. Perhaps I should aim to win more dramatically in future duels",
+            "sourceName": "vo_clorinde_dialog_pendant_01.wem"
+        },
+        "ae00e6c7c9d65418": {
+            "hash": "ae00e6c7c9d65418",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_fly_start_03.wem"
+        },
+        "b2199642fdfbde24": {
+            "hash": "b2199642fdfbde24",
+            "directory": "External22",
+            "voiceContent": "I've seen many people get into a dispute over the most trivial thing, take it as a grave affront to their personal dignity, and end up bringing the matter to court. As if that's not already ridiculous enough, they then opt for a duel.As a Champion Duelist, I have no qualms about settling matters of honor with a duel. Still... How can I put this? For the average citizen of Fontaine, I would have thought that questions like whether Marcotte really belongs in coffee are not so crucial to resolve that they warrant the drawing of swords..",
+            "sourceName": "vo_clorinde_dialog_share_01.wem"
+        },
+        "b319d5cfd0b6ddf2": {
+            "hash": "b319d5cfd0b6ddf2",
+            "directory": "External22",
+            "voiceContent": "This is sheer anarchy..",
+            "sourceName": "vo_clorinde_life_less30_02.wem"
+        },
+        "b684c6c3473f7dd9": {
+            "hash": "b684c6c3473f7dd9",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_01.wem"
+        },
+        "b7bff42c17de0339": {
+            "hash": "b7bff42c17de0339",
+            "directory": "External22",
+            "voiceContent": "I always do what I can to ensure every duel is a fair fight. If my opponent has impaired vision, I cover my eyes. If their mobility is limited, I restrict my range of movement. Whatever happens, every duel I participate in must be fair",
+            "sourceName": "vo_clorinde_friendship_02.wem"
+        },
+        "b879958dd360cd55": {
+            "hash": "b879958dd360cd55",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_breath_02.wem"
+        },
+        "b9435fa746b6a90e": {
+            "hash": "b9435fa746b6a90e",
+            "directory": "External23",
+            "voiceContent": "Hmm..",
+            "sourceName": "vo_card_clorinde_inGame_easy_02.wem"
+        },
+        "bf7a12b6ba2a2c36": {
+            "hash": "bf7a12b6ba2a2c36",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_fly_start_01.wem"
+        },
+        "bf84cb359b029f68": {
+            "hash": "bf84cb359b029f68",
+            "directory": "External23",
+            "voiceContent": "Mm, this is fine food. I'll enjoy it slowly so it lasts longer",
+            "sourceName": "vo_clorinde_spice_normal_01.wem"
+        },
+        "c048014994655445": {
+            "hash": "c048014994655445",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_03.wem"
+        },
+        "c0945aaa54d6a17e": {
+            "hash": "c0945aaa54d6a17e",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_jump_01.wem"
+        },
+        "c31f65b66ee3b603": {
+            "hash": "c31f65b66ee3b603",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_idle_02.wem"
+        },
+        "c4a1d55b419cc2bf": {
+            "hash": "c4a1d55b419cc2bf",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_05.wem"
+        },
+        "c71128c924a17e72": {
+            "hash": "c71128c924a17e72",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_h_06.wem"
+        },
+        "c894bda34a842f11": {
+            "hash": "c894bda34a842f11",
+            "directory": "External25",
+            "voiceContent": "The battle between wind and rain appears to have reached its end",
+            "sourceName": "vo_clorinde_weather_afterRain_01.wem"
+        },
+        "cf53cffb24e66b67": {
+            "hash": "cf53cffb24e66b67",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackmid_03.wem"
+        },
+        "d1c5ea1f097328cb": {
+            "hash": "d1c5ea1f097328cb",
+            "directory": "External26",
+            "voiceContent": "Where evil lurks, shoot on sight",
+            "sourceName": "vo_clorinde_battle_skill3_03.wem"
+        },
+        "d245a8f55e82d3bc": {
+            "hash": "d245a8f55e82d3bc",
+            "directory": "External26",
+            "voiceContent": "As a warrior yourself, I don't believe you require my help. But should you ever wish to borrow my strength, I will fight for you with everything I have. As always",
+            "sourceName": "vo_clorinde_starUp_04.wem"
+        },
+        "d2d3427fb2c7bdec": {
+            "hash": "d2d3427fb2c7bdec",
+            "directory": "External26",
+            "voiceContent": "#Happy Birthday. I have a gift for you — it's a short-sword necklace that I made myself.In the Marechaussee Hunters' tradition, on a new member's first birthday as a hunter, {M#his}{F#her} mentor will make {M#him}{F#her} a short-sword necklace with {M#his}{F#her} name engraved, to be worn with the sword hanging over the chest. This is to symbolize interrogating {M#his}{F#her} own heart at swordpoint Will I tread the path of treachery, is there doubt in my heart, or am I resolved to eradicate all evil?Though you're not a Marechaussee Hunter, I believe that you're committed, like I am, to fighting the good fight.Why a sword, and not a musket? Because guns can misfire. Also, there's something a little inelegant about interrogating your heart at gunpoint",
+            "sourceName": "vo_clorinde_pref_birthday_01a.wem"
+        },
+        "d2ef1630b3f3e025": {
+            "hash": "d2ef1630b3f3e025",
+            "directory": "External26",
+            "voiceContent": "Hunt them down",
+            "sourceName": "vo_clorinde_battle_skill3_01.wem"
+        },
+        "d4423a2c287aa2c7": {
+            "hash": "d4423a2c287aa2c7",
+            "directory": "External26",
+            "voiceContent": "Ready",
+            "sourceName": "vo_clorinde_battle_skill1_01.wem"
+        },
+        "d4833132477a288c": {
+            "hash": "d4833132477a288c",
+            "directory": "External26",
+            "voiceContent": "A stroke of good luck. And a very welcome one",
+            "sourceName": "vo_clorinde_chest_open_01.wem"
+        },
+        "d8d2263dd5dfc9e1": {
+            "hash": "d8d2263dd5dfc9e1",
+            "directory": "External27",
+            "voiceContent": "Into the shadows",
+            "sourceName": "vo_clorinde_battle_skill1_03.wem"
+        },
+        "d9117d7a8577e5be": {
+            "hash": "d9117d7a8577e5be",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackheavy_03.wem"
+        },
+        "dc53230cc67bde01": {
+            "hash": "dc53230cc67bde01",
+            "directory": "External27",
+            "voiceContent": "Interesting... This is certainly an improvement",
+            "sourceName": "vo_clorinde_starUp_01.wem"
+        },
+        "dd745c10173fa34b": {
+            "hash": "dd745c10173fa34b",
+            "directory": "External27",
+            "voiceContent": "Charlotte is one of the more tactful journalists out there. I don't have anything negative to say about her.Unlike some, she doesn't ambush me with her Kamera on my way to work, or follow me to the coffee shop to report on what I'm drinking today... And most commendably of all, she is well aware that I do not do interviews and doesn't nag me about it continuously",
+            "sourceName": "vo_clorinde_teammate_charlotte_01.wem"
+        },
+        "e3f2577696edb674": {
+            "hash": "e3f2577696edb674",
+            "directory": "External28",
+            "voiceContent": "Prey will usually rest on rainy days. But not the hunter",
+            "sourceName": "vo_clorinde_weather_heavyRain_01.wem"
+        },
+        "e4dfb3d6c6ea84d5": {
+            "hash": "e4dfb3d6c6ea84d5",
+            "directory": "External28",
+            "voiceContent": "Time to finish this",
+            "sourceName": "vo_clorinde_life_less30_01.wem"
+        },
+        "e5fdd36043d35790": {
+            "hash": "e5fdd36043d35790",
+            "directory": "External28",
+            "voiceContent": "My blade will lead us through the shadows",
+            "sourceName": "vo_clorinde_teamJoin_03.wem"
+        },
+        "e698ea56c17d109c": {
+            "hash": "e698ea56c17d109c",
+            "directory": "External28",
+            "voiceContent": "...I really need to focus",
+            "sourceName": "vo_card_clorinde_inGame_hard_03.wem"
+        },
+        "e850e6f2d4d43f49": {
+            "hash": "e850e6f2d4d43f49",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_h_01.wem"
+        },
+        "e9632d213ab28b5a": {
+            "hash": "e9632d213ab28b5a",
+            "directory": "External29",
+            "voiceContent": "First to find gets to stake their claim. Seems fair",
+            "sourceName": "vo_clorinde_chest_open_03.wem"
+        },
+        "f3fe9e5836dce71c": {
+            "hash": "f3fe9e5836dce71c",
+            "directory": "External30",
+            "voiceContent": "Miss Sigewinne is an excellent nurse, equally adept at treating the injured and comforting the distressed. I'm sure that her kind and loving nature brings out what little good there may be even in the vilest offenders of the Fortress of Meropide.And maybe that just might serve as enough of a motivation for them to change their ways",
+            "sourceName": "vo_clorinde_teammate_sigewinne_01.wem"
+        },
+        "f405074f3186b953": {
+            "hash": "f405074f3186b953",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_l_03.wem"
+        },
+        "f64a247e69a8d7e9": {
+            "hash": "f64a247e69a8d7e9",
+            "directory": "External30",
+            "voiceContent": "The victor... is declared..",
+            "sourceName": "vo_clorinde_life_die_01.wem"
+        },
+        "f67a5336b9d2e982": {
+            "hash": "f67a5336b9d2e982",
+            "directory": "External30",
+            "voiceContent": "Apologies, I don't get off work till later. Here, take this sandwich. It'll keep the wolf from the door",
+            "sourceName": "vo_clorinde_dialog_greetingNoon.wem"
+        },
+        "f894f360deebe04d": {
+            "hash": "f894f360deebe04d",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_l_01.wem"
+        },
+        "f8d706d01ad52555": {
+            "hash": "f8d706d01ad52555",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_h_05.wem"
+        },
+        "f9ca1ae1c52824cf": {
+            "hash": "f9ca1ae1c52824cf",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_h_03.wem"
+        },
+        "fb81668f2a7fb2a7": {
+            "hash": "fb81668f2a7fb2a7",
+            "directory": "External31",
+            "voiceContent": "I don't enjoy fish. There's too many bones, and I can't stand the smell... Maybe it's because I had my fill of fish as a child",
+            "sourceName": "vo_clorinde_pref_foodDislike.wem"
+        },
+        "fbc8abd16dd396b3": {
+            "hash": "fbc8abd16dd396b3",
+            "directory": "External31",
+            "voiceContent": "I'll take over. Get to safety",
+            "sourceName": "vo_clorinde_life_less30_teammate_02.wem"
+        },
+        "fcf5ea88d61aaf6a": {
+            "hash": "fcf5ea88d61aaf6a",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_jump_05.wem"
         }
     }
 }

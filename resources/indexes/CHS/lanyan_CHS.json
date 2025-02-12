@@ -1,1045 +1,1357 @@
 {
     "Teapot": {},
     "Quests": {
-        "c04fa4437c13095c": {
-            "hash": "c04fa4437c13095c",
-            "directory": "External24",
-            "voiceContent": "所以啦，为了准确无误地布下阵法，就必须重新推演一次才行。",
-            "sourceName": "vo_dialog_EQHDJ403_lanyan_07.wem"
-        },
-        "451b4920cdf072ab": {
-            "hash": "451b4920cdf072ab",
-            "directory": "External8",
-            "voiceContent": "希望能快点收到回信。",
-            "sourceName": "vo_dialog_EQHDJ402_lanyan_01.wem"
-        },
-        "fddb2033a7d9156a": {
-            "hash": "fddb2033a7d9156a",
-            "directory": "External31",
-            "voiceContent": "因此，八门的位置并不是一成不变的。",
-            "sourceName": "vo_dialog_EQHDJ403_lanyan_05.wem"
-        },
-        "1bb49e5d55284021": {
-            "hash": "1bb49e5d55284021",
-            "directory": "External3",
-            "voiceContent": "哦？想知道八门的事啊？就跟之前说的一样，八门是璃月地脉中的八个关键节点。",
-            "sourceName": "vo_dialog_EQHDJ403_lanyan_02.wem"
-        },
-        "2bcdbe3a9acc54ed": {
-            "hash": "2bcdbe3a9acc54ed",
-            "directory": "External5",
-            "voiceContent": "爷爷说，沉玉谷的祖先还生活在层岩巨渊附近的时候，那里还是生门呢，如今却已经成为伤门了。",
-            "sourceName": "vo_dialog_EQHDJ403_lanyan_06.wem"
-        },
-        "7f62522b644b5f73": {
-            "hash": "7f62522b644b5f73",
-            "directory": "External15",
-            "voiceContent": "其实奇门术里主张，人类的生活与地脉息息相关，反过来，人类的活动也会影响到地脉。",
-            "sourceName": "vo_dialog_EQHDJ403_lanyan_04.wem"
-        },
-        "714c44645ffb52a0": {
-            "hash": "714c44645ffb52a0",
-            "directory": "External14",
-            "voiceContent": "不过你可能在想为什么需要总务司来推演八门的位置吧？",
-            "sourceName": "vo_dialog_EQHDJ403_lanyan_03.wem"
-        },
         "0139bbe8444c39a4": {
             "hash": "0139bbe8444c39a4",
             "directory": "External0",
-            "voiceContent": "天权大人，开门已就绪，没有问题了。",
+            "voiceContent": "天权大人，开门已就绪，没有问题了",
             "sourceName": "vo_EQHDJ403_19_lanyan_01.wem"
         },
-        "5267ff3bc9a74ef6": {
-            "hash": "5267ff3bc9a74ef6",
-            "directory": "External10",
-            "voiceContent": "我们在讨论八奇里谁比较厉害。",
-            "sourceName": "vo_EQHDJ404_2_lanyan_02.wem"
-        },
-        "bf462d4493106b59": {
-            "hash": "bf462d4493106b59",
-            "directory": "External23",
-            "voiceContent": "嗯！我也投我祖宗爷爷一票。再加上玄燕仙子！",
-            "sourceName": "vo_EQHDJ404_2_lanyan_01.wem"
-        },
-        "fa55393fe843314b": {
-            "hash": "fa55393fe843314b",
-            "directory": "External31",
-            "voiceContent": "七七姑娘似乎不是一般人，她居然能吸收死气，要是我这么干一定已经…",
-            "sourceName": "vo_EQHDJ402_12_lanyan_02.wem"
-        },
-        "50dfab589d68c8d4": {
-            "hash": "50dfab589d68c8d4",
-            "directory": "External10",
-            "voiceContent": "这位就是传说中的降魔大圣吗？",
-            "sourceName": "vo_EQHDJ402_12_lanyan_01.wem"
-        },
-        "39e8a84a6b4f06ec": {
-            "hash": "39e8a84a6b4f06ec",
-            "directory": "External7",
-            "voiceContent": "没想到居然到了你这里，哈哈，看来是缘分啊，不嫌弃的话，你就留着吧。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_11.wem"
+        "028b92772856a877": {
+            "hash": "028b92772856a877",
+            "directory": "External0",
+            "voiceContent": "#{NICKNAME}和{M#他}{F#她}的伙伴派蒙，还有香菱，你们好",
+            "sourceName": "vo_EQHDJ401_4_lanyan_06b.wem"
         },
         "03a731e2e516e5a5": {
             "hash": "03a731e2e516e5a5",
             "directory": "External0",
-            "voiceContent": "那次做法事的人，是上两代往生堂堂主，胡堂主的爷爷和父亲。",
+            "voiceContent": "那次做法事的人，是上两代往生堂堂主，胡堂主的爷爷和父亲",
             "sourceName": "vo_EQHDJ402_15_lanyan_25.wem"
-        },
-        "590877e9efbbc5d4": {
-            "hash": "590877e9efbbc5d4",
-            "directory": "External11",
-            "voiceContent": "我还听本家的姐姐说过，那次往生堂有在无妄坡设坛，我原以为是奠事，但现在看，也有可能是某种针对边界的法事。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_24.wem"
-        },
-        "394ec200c0f525bf": {
-            "hash": "394ec200c0f525bf",
-            "directory": "External7",
-            "voiceContent": "现在看来，可能是这样，现在所有生者都面临着死的威胁，但只有我们这些人知道。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_09.wem"
-        },
-        "eed7645b3b617820": {
-            "hash": "eed7645b3b617820",
-            "directory": "External29",
-            "voiceContent": "话说，你们是不是都以为我会什么厉害的法术，预测到了边界的危机？",
-            "sourceName": "vo_EQHDJ402_15_lanyan_02.wem"
-        },
-        "e6541459a1cffb8e": {
-            "hash": "e6541459a1cffb8e",
-            "directory": "External28",
-            "voiceContent": "可惜死气实在太多了，不仅烧不完，还把我们进去的口子遮住了，我们就这样被困在了里面。多亏后来你们来了！",
-            "sourceName": "vo_EQHDJ402_15_lanyan_17.wem"
-        },
-        "48b8780ca9e8a518": {
-            "hash": "48b8780ca9e8a518",
-            "directory": "External9",
-            "voiceContent": "嗯…我当然也希望是这样，但还是有些不安。我和胡堂主虽然才认识不久，但我感觉…她是一个喜欢藏心事的人。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_20.wem"
-        },
-        "085651fdef043215": {
-            "hash": "085651fdef043215",
-            "directory": "External1",
-            "voiceContent": "那其实和小藤人一样，是我跟一位宗家的姐姐学的啦。她自小修习奇门要术，我写信回去，也是有问题想要问她。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_18.wem"
-        },
-        "b34385f21e4efe9f": {
-            "hash": "b34385f21e4efe9f",
-            "directory": "External22",
-            "voiceContent": "我以前只知道有洪水，但考虑现在的情况，说不定也和边界有关，这更能解释无妄坡现在的诡异天气。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_23.wem"
-        },
-        "a958de3176327a6d": {
-            "hash": "a958de3176327a6d",
-            "directory": "External21",
-            "voiceContent": "为了避免被客人打骂，爷爷索性收摊回家，关起门来，日算夜算，最后只算出了三个字：往生堂。可他也不知道这是什么意思。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_07.wem"
-        },
-        "3ddac43a57792edc": {
-            "hash": "3ddac43a57792edc",
-            "directory": "External7",
-            "voiceContent": "其实是前段时间，爷爷的卜卦出问题了，姻缘卦、事业卦倒还好，偏偏寿数卦，无论算谁，一概是短命，可把爷爷吓坏了。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_06.wem"
-        },
-        "681176515e702697": {
-            "hash": "681176515e702697",
-            "directory": "External13",
-            "voiceContent": "后来我们在边界乱转，遇见了胡堂主，她点了香，还拿一根烧火棍四处烧死气。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_16.wem"
-        },
-        "82fd18062f539284": {
-            "hash": "82fd18062f539284",
-            "directory": "External16",
-            "voiceContent": "这你都猜得到？没错，我就是想确认，八门七门大阵究竟是不是必须要隐去一人，也许我姐姐会知道。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_19.wem"
-        },
-        "4b61a4395ba28cba": {
-            "hash": "4b61a4395ba28cba",
-            "directory": "External9",
-            "voiceContent": "之后在蒂玛乌斯那，我也感觉到同样的气息，就又做了个藤人，留在了春香窑。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_13.wem"
-        },
-        "a566c2418a0851bd": {
-            "hash": "a566c2418a0851bd",
-            "directory": "External20",
-            "voiceContent": "欸？这不是我留在莺儿小姐店里的吗？这其实是正宗的奇门术法，上面刻了降魔古印，可以吸收阴邪之气，替人挡灾。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_10.wem"
-        },
-        "fced72223fb184f3": {
-            "hash": "fced72223fb184f3",
-            "directory": "External31",
-            "voiceContent": "说直接一点，他就是在遗珑埠给人卜卦算命为生的，赚的还没我做手工品多呢。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_05.wem"
-        },
-        "5a31a3fb9a3c7d36": {
-            "hash": "5a31a3fb9a3c7d36",
-            "directory": "External11",
-            "voiceContent": "倒也不是骗…不过你们还记得刚才天权大人提到十多年前无妄坡的事吗？",
-            "sourceName": "vo_EQHDJ402_15_lanyan_22.wem"
-        },
-        "a43cd62fdf865383": {
-            "hash": "a43cd62fdf865383",
-            "directory": "External20",
-            "voiceContent": "初来璃月港时，我路过一家大宅，感觉阴冷得很，就做了这个藤人，交给了那家的少爷。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_12.wem"
-        },
-        "7b66402a833f3aea": {
-            "hash": "7b66402a833f3aea",
-            "directory": "External15",
-            "voiceContent": "但我们早就从宗家分出来啦，祖先的奇门术在我爷爷这里，已经几乎算是江湖把戏了。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_04.wem"
-        },
-        "a93613dab6560182": {
-            "hash": "a93613dab6560182",
-            "directory": "External21",
-            "voiceContent": "嗯…可刚才连天权大人问话，胡堂主都不说…我跟她认识才两天，就更不好说什么了。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_26.wem"
-        },
-        "993fbe54308e65a1": {
-            "hash": "993fbe54308e65a1",
-            "directory": "External19",
-            "voiceContent": "唉，你们都误会啦，蓝氏确实有奇门术传承，族谱里记载的祖宗，也确实有那位万象风角灵官。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_03.wem"
-        },
-        "6ca162630bd54db1": {
-            "hash": "6ca162630bd54db1",
-            "directory": "External13",
-            "voiceContent": "再之后我追着胡堂主来到无妄坡，她却消失不见了，我四处转转，发现了七七姑娘，她正挤在一个山缝缝里，好像堵住了什么。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_14.wem"
-        },
-        "8b7f6007c8e34ed6": {
-            "hash": "8b7f6007c8e34ed6",
-            "directory": "External17",
-            "voiceContent": "恰好那时，我被总务司邀请来筹办街会，就想着不如顺道来往生堂看看，也许胡堂主会知道些什么。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_08.wem"
-        },
-        "e77e086b4c520730": {
-            "hash": "e77e086b4c520730",
-            "directory": "External28",
-            "voiceContent": "我去拉她，没拉出来，反而和她一起掉进了个十分阴冷的地方，现在你们知道了，那里就是边界。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_15.wem"
-        },
-        "ca75d2046688c299": {
-            "hash": "ca75d2046688c299",
-            "directory": "External25",
-            "voiceContent": "别看她话不少，好听的也说，不好听的也说，但她几乎不说她在想什么，好像已经把所有事都安排好了一样。",
-            "sourceName": "vo_EQHDJ402_15_lanyan_21.wem"
-        },
-        "f1b4c0b1e7766673": {
-            "hash": "f1b4c0b1e7766673",
-            "directory": "External30",
-            "voiceContent": "玉衡大人抬爱啦！我家这一脉，早就从蓝氏分枝散叶，算不上真正的宗家望族了。",
-            "sourceName": "vo_EQHDJ401_4_lanyan_04.wem"
-        },
-        "8046ae9770a83056": {
-            "hash": "8046ae9770a83056",
-            "directory": "External16",
-            "voiceContent": "叫我蓝砚就好啦，我只是个手工艺人，不算什么大师。",
-            "sourceName": "vo_EQHDJ401_4_lanyan_09.wem"
-        },
-        "2e16109068ba073f": {
-            "hash": "2e16109068ba073f",
-            "directory": "External5",
-            "voiceContent": "哎呀，我来璃月港的第一顿就在万民堂，香菱让我的味蕾也很激动呢！",
-            "sourceName": "vo_EQHDJ401_4_lanyan_08.wem"
-        },
-        "33cbfedba9c00e7e": {
-            "hash": "33cbfedba9c00e7e",
-            "directory": "External6",
-            "voiceContent": "这些也是祝柬的一部分吗？好像跟普通摩拉不一样…",
-            "sourceName": "vo_EQHDJ401_4_lanyan_01.wem"
-        },
-        "8e070ce3d8534721": {
-            "hash": "8e070ce3d8534721",
-            "directory": "External17",
-            "voiceContent": "兜跋毗沙纹！原为降魔古印，在术法中多有妙用，现有消灾福德之意，不少商贾店家也会使用，图个平安。",
-            "sourceName": "vo_EQHDJ401_4_lanyan_02.wem"
-        },
-        "e39eb2eae32659a0": {
-            "hash": "e39eb2eae32659a0",
-            "directory": "External28",
-            "voiceContent": "啊！抱歉，我见猎心喜了，嘿嘿，玉衡大人见谅。",
-            "sourceName": "vo_EQHDJ401_4_lanyan_03.wem"
-        },
-        "32a212c9ff3e105c": {
-            "hash": "32a212c9ff3e105c",
-            "directory": "External6",
-            "voiceContent": "啊！不好意思…嘿嘿，因为我早就听过一些几位的事迹，没想到能见到真人，有点激动。",
-            "sourceName": "vo_EQHDJ401_4_lanyan_07.wem"
-        },
-        "702d8eba2b041c6a": {
-            "hash": "702d8eba2b041c6a",
-            "directory": "External14",
-            "voiceContent": "嘿嘿，那我可就真不谦虚了哦？没问题，只要玉衡大人用得上，我一定不推辞。",
-            "sourceName": "vo_EQHDJ401_4_lanyan_05.wem"
-        },
-        "69ff0fc69a4cc259": {
-            "hash": "69ff0fc69a4cc259",
-            "directory": "External13",
-            "voiceContent": "没错没错，等你和胡堂主办完事了我们再说这个。",
-            "sourceName": "vo_EQHDJ403_2_lanyan_02.wem"
-        },
-        "fd20e1bdd0e3a5f6": {
-            "hash": "fd20e1bdd0e3a5f6",
-            "directory": "External31",
-            "voiceContent": "姐姐的回信里也说，遗珑埠也开始有人生病了。",
-            "sourceName": "vo_EQHDJ403_2_lanyan_01.wem"
-        },
-        "2282edb5d8161cd4": {
-            "hash": "2282edb5d8161cd4",
-            "directory": "External4",
-            "voiceContent": "是什么自然灾害吧？那边原来好像有村子的，后来山洪还是什么，死了一些人，剩下的也就都搬走了。",
-            "sourceName": "vo_EQHDJ402_13_lanyan_04.wem"
-        },
-        "72b089a69eb05882": {
-            "hash": "72b089a69eb05882",
-            "directory": "External14",
-            "voiceContent": "好，没事的话，那我也先走一步啦。",
-            "sourceName": "vo_EQHDJ402_13_lanyan_06.wem"
-        },
-        "93f047d04ee31999": {
-            "hash": "93f047d04ee31999",
-            "directory": "External18",
-            "voiceContent": "欸？这种事不止一次了吗？我都没听说过。",
-            "sourceName": "vo_EQHDJ402_13_lanyan_01.wem"
-        },
-        "cbf87b9d22f0854b": {
-            "hash": "cbf87b9d22f0854b",
-            "directory": "External25",
-            "voiceContent": "哈哈，这个啊？我该早点跟你们说的，要不等会来冒险家协会找我吧？我想先写封信，给家里报个平安，再问点事情。",
-            "sourceName": "vo_EQHDJ402_13_lanyan_07.wem"
-        },
-        "7cbdfbbe06a9559f": {
-            "hash": "7cbdfbbe06a9559f",
-            "directory": "External15",
-            "voiceContent": "就是连同邪恶一起隐于地脉，不现人世了。",
-            "sourceName": "vo_EQHDJ402_13_lanyan_03.wem"
-        },
-        "cd21a7aecd713ca5": {
-            "hash": "cd21a7aecd713ca5",
-            "directory": "External25",
-            "voiceContent": "啊…不过这倒解释不了，为什么无妄坡会变成今天这种不见天日的模样，难道…其中还有隐情？",
-            "sourceName": "vo_EQHDJ402_13_lanyan_05.wem"
-        },
-        "23ac19c78296d436": {
-            "hash": "23ac19c78296d436",
-            "directory": "External4",
-            "voiceContent": "那我们现在该怎么办？",
-            "sourceName": "vo_EQHDJ402_13_lanyan_02.wem"
-        },
-        "ba2529931185f0bb": {
-            "hash": "ba2529931185f0bb",
-            "directory": "External23",
-            "voiceContent": "…我不知道，我还是第一次碰见这种情况…虽然可以再写信问一问姐姐，但可能已经来不及了…",
-            "sourceName": "vo_EQHDJ403_17_lanyan_13.wem"
-        },
-        "b742bb8e48be7914": {
-            "hash": "b742bb8e48be7914",
-            "directory": "External22",
-            "voiceContent": "但考虑到八门七门大阵借助的是地脉之力，她推测，隐去一人，或许是山岩与大地的规则。",
-            "sourceName": "vo_EQHDJ403_17_lanyan_03.wem"
-        },
-        "28b115a8bf8d29d9": {
-            "hash": "28b115a8bf8d29d9",
-            "directory": "External5",
-            "voiceContent": "我用家姐的法门，把很多个藤人链接到了大阵里。如此一来，胡堂主受到的死气冲击就会被大阵里的其他人平摊。",
-            "sourceName": "vo_EQHDJ403_17_lanyan_06.wem"
-        },
-        "34cbb79b51d4f272": {
-            "hash": "34cbb79b51d4f272",
-            "directory": "External6",
-            "voiceContent": "这种原因我听都没听过！",
-            "sourceName": "vo_EQHDJ403_17_lanyan_12.wem"
-        },
-        "539647c0399d7a0a": {
-            "hash": "539647c0399d7a0a",
-            "directory": "External10",
-            "voiceContent": "欸？怎么回事…不对不对…",
-            "sourceName": "vo_EQHDJ403_17_lanyan_09.wem"
-        },
-        "bbd2e79ff6240d76": {
-            "hash": "bbd2e79ff6240d76",
-            "directory": "External23",
-            "voiceContent": "请看这个，这是我给胡堂主做的藤人，有很多个。你们还记得它的作用吧？它能吸收阴邪之气，替人挡灾。",
-            "sourceName": "vo_EQHDJ403_17_lanyan_05.wem"
-        },
-        "6548758740fe75e5": {
-            "hash": "6548758740fe75e5",
-            "directory": "External12",
-            "voiceContent": "真惭愧，家姐反复查阅了家中古籍，也不敢打包票。",
-            "sourceName": "vo_EQHDJ403_17_lanyan_02.wem"
-        },
-        "0ad6577f123bdec2": {
-            "hash": "0ad6577f123bdec2",
-            "directory": "External1",
-            "voiceContent": "我不是前两天寄信回家询问关于阵法的事了吗？有回信了。",
-            "sourceName": "vo_EQHDJ403_17_lanyan_01.wem"
-        },
-        "117dc9967751b2df": {
-            "hash": "117dc9967751b2df",
-            "directory": "External2",
-            "voiceContent": "也还只是家姐的推测啦，所以她也提供了一个法门，也许能帮到胡堂主。",
-            "sourceName": "vo_EQHDJ403_17_lanyan_04.wem"
-        },
-        "303b42acf0f36c41": {
-            "hash": "303b42acf0f36c41",
-            "directory": "External6",
-            "voiceContent": "欸？客人怎么知道？",
-            "sourceName": "vo_EQHDJ401_15_lanyan_06.wem"
-        },
-        "d72968b66ce0f840": {
-            "hash": "d72968b66ce0f840",
-            "directory": "External26",
-            "voiceContent": "这…请问您是？",
-            "sourceName": "vo_EQHDJ401_15_lanyan_07.wem"
         },
         "0484c8d2af5d34f0": {
             "hash": "0484c8d2af5d34f0",
             "directory": "External0",
-            "voiceContent": "莺儿小姐，我有事要先走了。麻烦帮我和大家打声招呼。",
+            "voiceContent": "莺儿小姐，我有事要先走了。麻烦帮我和大家打声招呼",
             "sourceName": "vo_EQHDJ401_15_lanyan_14.wem"
         },
-        "bddc96973faca543": {
-            "hash": "bddc96973faca543",
-            "directory": "External23",
-            "voiceContent": "糟了，原来她就是胡堂主。",
-            "sourceName": "vo_EQHDJ401_15_lanyan_13.wem"
-        },
-        "c26c82a8ed11cc7d": {
-            "hash": "c26c82a8ed11cc7d",
-            "directory": "External24",
-            "voiceContent": "莺儿小姐，刚才跟你打招呼的那位是…？",
-            "sourceName": "vo_EQHDJ401_15_lanyan_11.wem"
-        },
-        "83ced69dba70c3a7": {
-            "hash": "83ced69dba70c3a7",
-            "directory": "External16",
-            "voiceContent": "客人看看，是这个吗？我没记错的话，这是一种祭祀专门香。",
-            "sourceName": "vo_EQHDJ401_15_lanyan_04.wem"
-        },
-        "d60034a4c260329e": {
-            "hash": "d60034a4c260329e",
-            "directory": "External26",
-            "voiceContent": "哈哈，我帮您包好。",
-            "sourceName": "vo_EQHDJ401_15_lanyan_05.wem"
-        },
-        "0efbc48340c1178a": {
-            "hash": "0efbc48340c1178a",
+        "085651fdef043215": {
+            "hash": "085651fdef043215",
             "directory": "External1",
-            "voiceContent": "客人说笑啦，莺儿小姐有事去了，我临时帮她看会铺子。",
-            "sourceName": "vo_EQHDJ401_15_lanyan_01.wem"
+            "voiceContent": "那其实和小藤人一样，是我跟一位宗家的姐姐学的啦。她自小修习奇门要术，我写信回去，也是有问题想要问她",
+            "sourceName": "vo_EQHDJ402_15_lanyan_18.wem"
         },
-        "9511e28caa96d58d": {
-            "hash": "9511e28caa96d58d",
-            "directory": "External18",
-            "voiceContent": "云岫红尘香？这名字我有印象，好像不是小姐们用的香膏？",
-            "sourceName": "vo_EQHDJ401_15_lanyan_02.wem"
-        },
-        "c63bd442195f7c42": {
-            "hash": "c63bd442195f7c42",
-            "directory": "External24",
-            "voiceContent": "爷爷说得对，璃月港里果然藏龙卧虎，随便一位买香的客人都如此不一般…",
-            "sourceName": "vo_EQHDJ401_15_lanyan_09.wem"
-        },
-        "686764a0beac077a": {
-            "hash": "686764a0beac077a",
-            "directory": "External13",
-            "voiceContent": "欸？胡堂主不是穿着往生堂仪服，戴乾坤泰卦帽的吗？",
-            "sourceName": "vo_EQHDJ401_15_lanyan_12.wem"
-        },
-        "2993c8958bdd8afc": {
-            "hash": "2993c8958bdd8afc",
-            "directory": "External5",
-            "voiceContent": "请稍等。",
-            "sourceName": "vo_EQHDJ401_15_lanyan_03.wem"
-        },
-        "1f83c6389d9fa80b": {
-            "hash": "1f83c6389d9fa80b",
-            "directory": "External3",
-            "voiceContent": "欸？",
-            "sourceName": "vo_EQHDJ401_15_lanyan_08.wem"
-        },
-        "538868b1cb7557ac": {
-            "hash": "538868b1cb7557ac",
-            "directory": "External10",
-            "voiceContent": "胡…胡堂主？",
-            "sourceName": "vo_EQHDJ401_15_lanyan_10.wem"
-        },
-        "69b94c25b6a01639": {
-            "hash": "69b94c25b6a01639",
-            "directory": "External13",
-            "voiceContent": "吓死我了，还以为连魔物都能破我的幻阵。你们怎么找过来的？",
-            "sourceName": "vo_EQHDJ402_11_lanyan_07.wem"
-        },
-        "e495f22df71ccfb8": {
-            "hash": "e495f22df71ccfb8",
-            "directory": "External28",
-            "voiceContent": "别害怕七七，我们保护你。",
-            "sourceName": "vo_EQHDJ402_11_lanyan_06.wem"
-        },
-        "e95bfe3fa4afbcea": {
-            "hash": "e95bfe3fa4afbcea",
-            "directory": "External29",
-            "voiceContent": "可这里的空间一直在变化，胡堂主好几次发现了出口，但没等我们赶到就关上了。",
-            "sourceName": "vo_EQHDJ402_11_lanyan_08.wem"
-        },
-        "f67efff4feacd76b": {
-            "hash": "f67efff4feacd76b",
-            "directory": "External30",
-            "voiceContent": "听我说，七七，你一点也不困，你是世界第一清醒，就算所有人都睡着了，你也是清醒的。",
-            "sourceName": "vo_EQHDJ402_11_lanyan_01.wem"
-        },
-        "a2eaac04352e3945": {
-            "hash": "a2eaac04352e3945",
-            "directory": "External20",
-            "voiceContent": "七七…加油啊！",
-            "sourceName": "vo_EQHDJ402_11_lanyan_03.wem"
-        },
-        "6ae33037612206f3": {
-            "hash": "6ae33037612206f3",
-            "directory": "External13",
-            "voiceContent": "糟了，它们一定是感知到这里有死气的出口。",
-            "sourceName": "vo_EQHDJ402_11_lanyan_09.wem"
-        },
-        "49a2720db0ed92f4": {
-            "hash": "49a2720db0ed92f4",
-            "directory": "External9",
-            "voiceContent": "但这样下去也不是办法…",
-            "sourceName": "vo_EQHDJ402_11_lanyan_02.wem"
-        },
-        "a7448015e265a7bf": {
-            "hash": "a7448015e265a7bf",
-            "directory": "External20",
-            "voiceContent": "糟了，胡堂主，我布下的幻阵被破了！",
-            "sourceName": "vo_EQHDJ402_11_lanyan_05.wem"
-        },
-        "f9751e1cea53d0d6": {
-            "hash": "f9751e1cea53d0d6",
-            "directory": "External31",
-            "voiceContent": "嗯？",
-            "sourceName": "vo_EQHDJ402_11_lanyan_04.wem"
-        },
-        "b19865d44d528b59": {
-            "hash": "b19865d44d528b59",
-            "directory": "External22",
-            "voiceContent": "胡堂主…藤人损坏了，我也感觉不到胡堂主的气息了…",
-            "sourceName": "vo_EQHDJ403_21_lanyan_01.wem"
-        },
-        "ca69042b1708b151": {
-            "hash": "ca69042b1708b151",
-            "directory": "External25",
-            "voiceContent": "那我来帮忙看店吧？我正好稍微懂一点香膏。",
-            "sourceName": "vo_EQHDJ401_11_lanyan_02.wem"
-        },
-        "9c3f362423e5ddae": {
-            "hash": "9c3f362423e5ddae",
-            "directory": "External19",
-            "voiceContent": "这气息…",
-            "sourceName": "vo_EQHDJ401_11_lanyan_01.wem"
-        },
-        "b76db7a7511b79ab": {
-            "hash": "b76db7a7511b79ab",
-            "directory": "External22",
-            "voiceContent": "在我老家，现在还有「你死后过不去桃都山」这种话呢。不过你们可不要学，是用来骂人的。",
-            "sourceName": "vo_EQHDJ401_5_lanyan_01.wem"
-        },
-        "674063b68a81b785": {
-            "hash": "674063b68a81b785",
-            "directory": "External12",
-            "voiceContent": "传说是这样啦，真实性就不能保证了。",
-            "sourceName": "vo_EQHDJ401_5_lanyan_03.wem"
-        },
-        "f305ba8bd2a90d20": {
-            "hash": "f305ba8bd2a90d20",
-            "directory": "External30",
-            "voiceContent": "怎么会？我高兴还来不及！",
-            "sourceName": "vo_EQHDJ401_5_lanyan_11.wem"
-        },
-        "a8eaa9e04c6e9bf8": {
-            "hash": "a8eaa9e04c6e9bf8",
-            "directory": "External21",
-            "voiceContent": "族志中是有相关记载，不过奇门术之类的法子，我只学了个皮毛而已。",
-            "sourceName": "vo_EQHDJ401_5_lanyan_06.wem"
-        },
-        "ba63d5cf3cc27316": {
-            "hash": "ba63d5cf3cc27316",
-            "directory": "External23",
-            "voiceContent": "不仅不是仙人，甚至大多是人类呢！",
-            "sourceName": "vo_EQHDJ401_5_lanyan_04.wem"
-        },
-        "2aa803d8090eb979": {
-            "hash": "2aa803d8090eb979",
-            "directory": "External5",
-            "voiceContent": "所以往生堂真有某种秘法？",
-            "sourceName": "vo_EQHDJ401_5_lanyan_07.wem"
-        },
-        "aa4ab5f1f71e5f2a": {
-            "hash": "aa4ab5f1f71e5f2a",
-            "directory": "External21",
-            "voiceContent": "堂主大名我有所耳闻，但还没机会一见。",
-            "sourceName": "vo_EQHDJ401_5_lanyan_08.wem"
-        },
-        "9d6e1484c7d5faa1": {
-            "hash": "9d6e1484c7d5faa1",
-            "directory": "External19",
-            "voiceContent": "说起来，其实我也有点私事，要去往生堂一趟。",
-            "sourceName": "vo_EQHDJ401_5_lanyan_10.wem"
-        },
-        "2f37e7e9b673d233": {
-            "hash": "2f37e7e9b673d233",
-            "directory": "External5",
-            "voiceContent": "我听说石门南边的深山有一座密宫，据传就是他们留下的道场。",
-            "sourceName": "vo_EQHDJ401_5_lanyan_09.wem"
-        },
-        "683337c834d44aff": {
-            "hash": "683337c834d44aff",
-            "directory": "External13",
-            "voiceContent": "嗯，归藏三隐、连山二贤、桃都三怪，合称八奇。主流的说法里，归藏三隐与连山二贤都是人类。",
-            "sourceName": "vo_EQHDJ401_5_lanyan_05.wem"
+        "0ad6577f123bdec2": {
+            "hash": "0ad6577f123bdec2",
+            "directory": "External1",
+            "voiceContent": "我不是前两天寄信回家询问关于阵法的事了吗？有回信了",
+            "sourceName": "vo_EQHDJ403_17_lanyan_01.wem"
         },
         "0df829c006411134": {
             "hash": "0df829c006411134",
             "directory": "External1",
-            "voiceContent": "后来就有了「八奇炼桃都」啦！他们横空出世，布下大阵，共同炼化了魔神「桃都」。",
+            "voiceContent": "后来就有了「八奇炼桃都」啦！他们横空出世，布下大阵，共同炼化了魔神「桃都」",
             "sourceName": "vo_EQHDJ401_5_lanyan_02.wem"
         },
-        "55a467a92dff0914": {
-            "hash": "55a467a92dff0914",
-            "directory": "External10",
-            "voiceContent": "玉衡大人说是吉语钱，可以摸摸哦，据说会获得各种好福气。",
-            "sourceName": "vo_EQHDJ401_6_lanyan_01.wem"
+        "0efbc48340c1178a": {
+            "hash": "0efbc48340c1178a",
+            "directory": "External1",
+            "voiceContent": "客人说笑啦，莺儿小姐有事去了，我临时帮她看会铺子",
+            "sourceName": "vo_EQHDJ401_15_lanyan_01.wem"
         },
-        "4edcc5dd1b51d875": {
-            "hash": "4edcc5dd1b51d875",
+        "117dc9967751b2df": {
+            "hash": "117dc9967751b2df",
+            "directory": "External2",
+            "voiceContent": "也还只是家姐的推测啦，所以她也提供了一个法门，也许能帮到胡堂主",
+            "sourceName": "vo_EQHDJ403_17_lanyan_04.wem"
+        },
+        "1bb49e5d55284021": {
+            "hash": "1bb49e5d55284021",
+            "directory": "External3",
+            "voiceContent": "哦？想知道八门的事啊？就跟之前说的一样，八门是璃月地脉中的八个关键节点",
+            "sourceName": "vo_dialog_EQHDJ403_lanyan_02.wem"
+        },
+        "1f83c6389d9fa80b": {
+            "hash": "1f83c6389d9fa80b",
+            "directory": "External3",
+            "voiceContent": "欸",
+            "sourceName": "vo_EQHDJ401_15_lanyan_08.wem"
+        },
+        "2282edb5d8161cd4": {
+            "hash": "2282edb5d8161cd4",
+            "directory": "External4",
+            "voiceContent": "是什么自然灾害吧？那边原来好像有村子的，后来山洪还是什么，死了一些人，剩下的也就都搬走了",
+            "sourceName": "vo_EQHDJ402_13_lanyan_04.wem"
+        },
+        "23ac19c78296d436": {
+            "hash": "23ac19c78296d436",
+            "directory": "External4",
+            "voiceContent": "那我们现在该怎么办",
+            "sourceName": "vo_EQHDJ402_13_lanyan_02.wem"
+        },
+        "28b115a8bf8d29d9": {
+            "hash": "28b115a8bf8d29d9",
+            "directory": "External5",
+            "voiceContent": "我用家姐的法门，把很多个藤人链接到了大阵里。如此一来，胡堂主受到的死气冲击就会被大阵里的其他人平摊",
+            "sourceName": "vo_EQHDJ403_17_lanyan_06.wem"
+        },
+        "2993c8958bdd8afc": {
+            "hash": "2993c8958bdd8afc",
+            "directory": "External5",
+            "voiceContent": "请稍等",
+            "sourceName": "vo_EQHDJ401_15_lanyan_03.wem"
+        },
+        "2aa803d8090eb979": {
+            "hash": "2aa803d8090eb979",
+            "directory": "External5",
+            "voiceContent": "所以往生堂真有某种秘法",
+            "sourceName": "vo_EQHDJ401_5_lanyan_07.wem"
+        },
+        "2bcdbe3a9acc54ed": {
+            "hash": "2bcdbe3a9acc54ed",
+            "directory": "External5",
+            "voiceContent": "爷爷说，沉玉谷的祖先还生活在层岩巨渊附近的时候，那里还是生门呢，如今却已经成为伤门了",
+            "sourceName": "vo_dialog_EQHDJ403_lanyan_06.wem"
+        },
+        "2d39a48ea2377f90": {
+            "hash": "2d39a48ea2377f90",
+            "directory": "External5",
+            "voiceContent": "#{NICKNAME}和{M#他}{F#她}的伙伴派蒙，还有香菱，你们好",
+            "sourceName": "vo_EQHDJ401_4_lanyan_06a.wem"
+        },
+        "2e16109068ba073f": {
+            "hash": "2e16109068ba073f",
+            "directory": "External5",
+            "voiceContent": "哎呀，我来璃月港的第一顿就在万民堂，香菱让我的味蕾也很激动呢",
+            "sourceName": "vo_EQHDJ401_4_lanyan_08.wem"
+        },
+        "2f37e7e9b673d233": {
+            "hash": "2f37e7e9b673d233",
+            "directory": "External5",
+            "voiceContent": "我听说石门南边的深山有一座密宫，据传就是他们留下的道场",
+            "sourceName": "vo_EQHDJ401_5_lanyan_09.wem"
+        },
+        "303b42acf0f36c41": {
+            "hash": "303b42acf0f36c41",
+            "directory": "External6",
+            "voiceContent": "欸？客人怎么知道",
+            "sourceName": "vo_EQHDJ401_15_lanyan_06.wem"
+        },
+        "32a212c9ff3e105c": {
+            "hash": "32a212c9ff3e105c",
+            "directory": "External6",
+            "voiceContent": "啊！不好意思…嘿嘿，因为我早就听过一些几位的事迹，没想到能见到真人，有点激动",
+            "sourceName": "vo_EQHDJ401_4_lanyan_07.wem"
+        },
+        "33cbfedba9c00e7e": {
+            "hash": "33cbfedba9c00e7e",
+            "directory": "External6",
+            "voiceContent": "这些也是祝柬的一部分吗？好像跟普通摩拉不一样",
+            "sourceName": "vo_EQHDJ401_4_lanyan_01.wem"
+        },
+        "34cbb79b51d4f272": {
+            "hash": "34cbb79b51d4f272",
+            "directory": "External6",
+            "voiceContent": "这种原因我听都没听过",
+            "sourceName": "vo_EQHDJ403_17_lanyan_12.wem"
+        },
+        "394ec200c0f525bf": {
+            "hash": "394ec200c0f525bf",
+            "directory": "External7",
+            "voiceContent": "现在看来，可能是这样，现在所有生者都面临着死的威胁，但只有我们这些人知道",
+            "sourceName": "vo_EQHDJ402_15_lanyan_09.wem"
+        },
+        "39e8a84a6b4f06ec": {
+            "hash": "39e8a84a6b4f06ec",
+            "directory": "External7",
+            "voiceContent": "没想到居然到了你这里，哈哈，看来是缘分啊，不嫌弃的话，你就留着吧",
+            "sourceName": "vo_EQHDJ402_15_lanyan_11.wem"
+        },
+        "3ddac43a57792edc": {
+            "hash": "3ddac43a57792edc",
+            "directory": "External7",
+            "voiceContent": "其实是前段时间，爷爷的卜卦出问题了，姻缘卦、事业卦倒还好，偏偏寿数卦，无论算谁，一概是短命，可把爷爷吓坏了",
+            "sourceName": "vo_EQHDJ402_15_lanyan_06.wem"
+        },
+        "451b4920cdf072ab": {
+            "hash": "451b4920cdf072ab",
+            "directory": "External8",
+            "voiceContent": "希望能快点收到回信",
+            "sourceName": "vo_dialog_EQHDJ402_lanyan_01.wem"
+        },
+        "482126ce84b94168": {
+            "hash": "482126ce84b94168",
             "directory": "External9",
-            "voiceContent": "……",
-            "sourceName": "vo_EQHDJ401_10_lanyan_03.wem"
+            "voiceContent": "#这个法门和大阵一样，也是借助地脉之力，但地脉无法响应{NICKNAME}，就好像地脉认为{M#他}{F#她}不存在一样",
+            "sourceName": "vo_EQHDJ403_17_lanyan_11a.wem"
+        },
+        "48b8780ca9e8a518": {
+            "hash": "48b8780ca9e8a518",
+            "directory": "External9",
+            "voiceContent": "嗯…我当然也希望是这样，但还是有些不安。我和胡堂主虽然才认识不久，但我感觉…她是一个喜欢藏心事的人",
+            "sourceName": "vo_EQHDJ402_15_lanyan_20.wem"
+        },
+        "49a2720db0ed92f4": {
+            "hash": "49a2720db0ed92f4",
+            "directory": "External9",
+            "voiceContent": "但这样下去也不是办法",
+            "sourceName": "vo_EQHDJ402_11_lanyan_02.wem"
         },
         "4a4dd9cb6dee645b": {
             "hash": "4a4dd9cb6dee645b",
             "directory": "External9",
-            "voiceContent": "那…不知她什么时候返回？",
+            "voiceContent": "那…不知她什么时候返回",
             "sourceName": "vo_EQHDJ401_10_lanyan_01.wem"
+        },
+        "4b61a4395ba28cba": {
+            "hash": "4b61a4395ba28cba",
+            "directory": "External9",
+            "voiceContent": "之后在蒂玛乌斯那，我也感觉到同样的气息，就又做了个藤人，留在了春香窑",
+            "sourceName": "vo_EQHDJ402_15_lanyan_13.wem"
+        },
+        "4edcc5dd1b51d875": {
+            "hash": "4edcc5dd1b51d875",
+            "directory": "External9",
+            "voiceContent": "…",
+            "sourceName": "vo_EQHDJ401_10_lanyan_03.wem"
+        },
+        "50dfab589d68c8d4": {
+            "hash": "50dfab589d68c8d4",
+            "directory": "External10",
+            "voiceContent": "这位就是传说中的降魔大圣吗",
+            "sourceName": "vo_EQHDJ402_12_lanyan_01.wem"
+        },
+        "5267ff3bc9a74ef6": {
+            "hash": "5267ff3bc9a74ef6",
+            "directory": "External10",
+            "voiceContent": "我们在讨论八奇里谁比较厉害",
+            "sourceName": "vo_EQHDJ404_2_lanyan_02.wem"
+        },
+        "538868b1cb7557ac": {
+            "hash": "538868b1cb7557ac",
+            "directory": "External10",
+            "voiceContent": "胡…胡堂主",
+            "sourceName": "vo_EQHDJ401_15_lanyan_10.wem"
+        },
+        "539647c0399d7a0a": {
+            "hash": "539647c0399d7a0a",
+            "directory": "External10",
+            "voiceContent": "欸？怎么回事…不对不对",
+            "sourceName": "vo_EQHDJ403_17_lanyan_09.wem"
+        },
+        "55a467a92dff0914": {
+            "hash": "55a467a92dff0914",
+            "directory": "External10",
+            "voiceContent": "玉衡大人说是吉语钱，可以摸摸哦，据说会获得各种好福气",
+            "sourceName": "vo_EQHDJ401_6_lanyan_01.wem"
+        },
+        "590877e9efbbc5d4": {
+            "hash": "590877e9efbbc5d4",
+            "directory": "External11",
+            "voiceContent": "我还听本家的姐姐说过，那次往生堂有在无妄坡设坛，我原以为是奠事，但现在看，也有可能是某种针对边界的法事",
+            "sourceName": "vo_EQHDJ402_15_lanyan_24.wem"
+        },
+        "5a31a3fb9a3c7d36": {
+            "hash": "5a31a3fb9a3c7d36",
+            "directory": "External11",
+            "voiceContent": "倒也不是骗…不过你们还记得刚才天权大人提到十多年前无妄坡的事吗",
+            "sourceName": "vo_EQHDJ402_15_lanyan_22.wem"
+        },
+        "6548758740fe75e5": {
+            "hash": "6548758740fe75e5",
+            "directory": "External12",
+            "voiceContent": "真惭愧，家姐反复查阅了家中古籍，也不敢打包票",
+            "sourceName": "vo_EQHDJ403_17_lanyan_02.wem"
+        },
+        "674063b68a81b785": {
+            "hash": "674063b68a81b785",
+            "directory": "External12",
+            "voiceContent": "传说是这样啦，真实性就不能保证了",
+            "sourceName": "vo_EQHDJ401_5_lanyan_03.wem"
+        },
+        "681176515e702697": {
+            "hash": "681176515e702697",
+            "directory": "External13",
+            "voiceContent": "后来我们在边界乱转，遇见了胡堂主，她点了香，还拿一根烧火棍四处烧死气",
+            "sourceName": "vo_EQHDJ402_15_lanyan_16.wem"
+        },
+        "683337c834d44aff": {
+            "hash": "683337c834d44aff",
+            "directory": "External13",
+            "voiceContent": "嗯，归藏三隐、连山二贤、桃都三怪，合称八奇。主流的说法里，归藏三隐与连山二贤都是人类",
+            "sourceName": "vo_EQHDJ401_5_lanyan_05.wem"
+        },
+        "686764a0beac077a": {
+            "hash": "686764a0beac077a",
+            "directory": "External13",
+            "voiceContent": "欸？胡堂主不是穿着往生堂仪服，戴乾坤泰卦帽的吗",
+            "sourceName": "vo_EQHDJ401_15_lanyan_12.wem"
+        },
+        "69b94c25b6a01639": {
+            "hash": "69b94c25b6a01639",
+            "directory": "External13",
+            "voiceContent": "吓死我了，还以为连魔物都能破我的幻阵。你们怎么找过来的",
+            "sourceName": "vo_EQHDJ402_11_lanyan_07.wem"
+        },
+        "69ff0fc69a4cc259": {
+            "hash": "69ff0fc69a4cc259",
+            "directory": "External13",
+            "voiceContent": "没错没错，等你和胡堂主办完事了我们再说这个",
+            "sourceName": "vo_EQHDJ403_2_lanyan_02.wem"
+        },
+        "6ae33037612206f3": {
+            "hash": "6ae33037612206f3",
+            "directory": "External13",
+            "voiceContent": "糟了，它们一定是感知到这里有死气的出口",
+            "sourceName": "vo_EQHDJ402_11_lanyan_09.wem"
+        },
+        "6ca162630bd54db1": {
+            "hash": "6ca162630bd54db1",
+            "directory": "External13",
+            "voiceContent": "再之后我追着胡堂主来到无妄坡，她却消失不见了，我四处转转，发现了七七姑娘，她正挤在一个山缝缝里，好像堵住了什么",
+            "sourceName": "vo_EQHDJ402_15_lanyan_14.wem"
+        },
+        "702d8eba2b041c6a": {
+            "hash": "702d8eba2b041c6a",
+            "directory": "External14",
+            "voiceContent": "嘿嘿，那我可就真不谦虚了哦？没问题，只要玉衡大人用得上，我一定不推辞",
+            "sourceName": "vo_EQHDJ401_4_lanyan_05.wem"
+        },
+        "714c44645ffb52a0": {
+            "hash": "714c44645ffb52a0",
+            "directory": "External14",
+            "voiceContent": "不过你可能在想为什么需要总务司来推演八门的位置吧",
+            "sourceName": "vo_dialog_EQHDJ403_lanyan_03.wem"
+        },
+        "72b089a69eb05882": {
+            "hash": "72b089a69eb05882",
+            "directory": "External14",
+            "voiceContent": "好，没事的话，那我也先走一步啦",
+            "sourceName": "vo_EQHDJ402_13_lanyan_06.wem"
         },
         "7955f7f495070986": {
             "hash": "7955f7f495070986",
             "directory": "External15",
-            "voiceContent": "啊！不好意思，走神了…我听你们的。",
+            "voiceContent": "啊！不好意思，走神了…我听你们的",
             "sourceName": "vo_EQHDJ401_10_lanyan_04.wem"
+        },
+        "7b66402a833f3aea": {
+            "hash": "7b66402a833f3aea",
+            "directory": "External15",
+            "voiceContent": "但我们早就从宗家分出来啦，祖先的奇门术在我爷爷这里，已经几乎算是江湖把戏了",
+            "sourceName": "vo_EQHDJ402_15_lanyan_04.wem"
+        },
+        "7cbdfbbe06a9559f": {
+            "hash": "7cbdfbbe06a9559f",
+            "directory": "External15",
+            "voiceContent": "就是连同邪恶一起隐于地脉，不现人世了",
+            "sourceName": "vo_EQHDJ402_13_lanyan_03.wem"
+        },
+        "7f62522b644b5f73": {
+            "hash": "7f62522b644b5f73",
+            "directory": "External15",
+            "voiceContent": "其实奇门术里主张，人类的生活与地脉息息相关，反过来，人类的活动也会影响到地脉",
+            "sourceName": "vo_dialog_EQHDJ403_lanyan_04.wem"
+        },
+        "8046ae9770a83056": {
+            "hash": "8046ae9770a83056",
+            "directory": "External16",
+            "voiceContent": "叫我蓝砚就好啦，我只是个手工艺人，不算什么大师",
+            "sourceName": "vo_EQHDJ401_4_lanyan_09.wem"
+        },
+        "82fd18062f539284": {
+            "hash": "82fd18062f539284",
+            "directory": "External16",
+            "voiceContent": "这你都猜得到？没错，我就是想确认，八门七门大阵究竟是不是必须要隐去一人，也许我姐姐会知道",
+            "sourceName": "vo_EQHDJ402_15_lanyan_19.wem"
+        },
+        "83ced69dba70c3a7": {
+            "hash": "83ced69dba70c3a7",
+            "directory": "External16",
+            "voiceContent": "客人看看，是这个吗？我没记错的话，这是一种祭祀专门香",
+            "sourceName": "vo_EQHDJ401_15_lanyan_04.wem"
+        },
+        "8b7f6007c8e34ed6": {
+            "hash": "8b7f6007c8e34ed6",
+            "directory": "External17",
+            "voiceContent": "恰好那时，我被总务司邀请来筹办街会，就想着不如顺道来往生堂看看，也许胡堂主会知道些什么",
+            "sourceName": "vo_EQHDJ402_15_lanyan_08.wem"
+        },
+        "8e070ce3d8534721": {
+            "hash": "8e070ce3d8534721",
+            "directory": "External17",
+            "voiceContent": "兜跋毗沙纹！原为降魔古印，在术法中多有妙用，现有消灾福德之意，不少商贾店家也会使用，图个平安",
+            "sourceName": "vo_EQHDJ401_4_lanyan_02.wem"
+        },
+        "93f047d04ee31999": {
+            "hash": "93f047d04ee31999",
+            "directory": "External18",
+            "voiceContent": "欸？这种事不止一次了吗？我都没听说过",
+            "sourceName": "vo_EQHDJ402_13_lanyan_01.wem"
+        },
+        "9511e28caa96d58d": {
+            "hash": "9511e28caa96d58d",
+            "directory": "External18",
+            "voiceContent": "云岫红尘香？这名字我有印象，好像不是小姐们用的香膏",
+            "sourceName": "vo_EQHDJ401_15_lanyan_02.wem"
+        },
+        "9816d242860e1a87": {
+            "hash": "9816d242860e1a87",
+            "directory": "External19",
+            "voiceContent": "#{NICKNAME}，派蒙！这边这边！你们来的正是时候，我刚把信寄回去",
+            "sourceName": "vo_EQHDJ402_15_lanyan_01.wem"
+        },
+        "993fbe54308e65a1": {
+            "hash": "993fbe54308e65a1",
+            "directory": "External19",
+            "voiceContent": "唉，你们都误会啦，蓝氏确实有奇门术传承，族谱里记载的祖宗，也确实有那位万象风角灵官",
+            "sourceName": "vo_EQHDJ402_15_lanyan_03.wem"
+        },
+        "9c3f362423e5ddae": {
+            "hash": "9c3f362423e5ddae",
+            "directory": "External19",
+            "voiceContent": "这气息",
+            "sourceName": "vo_EQHDJ401_11_lanyan_01.wem"
+        },
+        "9d6e1484c7d5faa1": {
+            "hash": "9d6e1484c7d5faa1",
+            "directory": "External19",
+            "voiceContent": "说起来，其实我也有点私事，要去往生堂一趟",
+            "sourceName": "vo_EQHDJ401_5_lanyan_10.wem"
+        },
+        "a2eaac04352e3945": {
+            "hash": "a2eaac04352e3945",
+            "directory": "External20",
+            "voiceContent": "七七…加油啊",
+            "sourceName": "vo_EQHDJ402_11_lanyan_03.wem"
+        },
+        "a43cd62fdf865383": {
+            "hash": "a43cd62fdf865383",
+            "directory": "External20",
+            "voiceContent": "初来璃月港时，我路过一家大宅，感觉阴冷得很，就做了这个藤人，交给了那家的少爷",
+            "sourceName": "vo_EQHDJ402_15_lanyan_12.wem"
+        },
+        "a566c2418a0851bd": {
+            "hash": "a566c2418a0851bd",
+            "directory": "External20",
+            "voiceContent": "欸？这不是我留在莺儿小姐店里的吗？这其实是正宗的奇门术法，上面刻了降魔古印，可以吸收阴邪之气，替人挡灾",
+            "sourceName": "vo_EQHDJ402_15_lanyan_10.wem"
+        },
+        "a6f3bbb102ed0c58": {
+            "hash": "a6f3bbb102ed0c58",
+            "directory": "External20",
+            "voiceContent": "#我就说吧！{NICKNAME}百分之百会帮忙的",
+            "sourceName": "vo_EQHDJ403_17_lanyan_07.wem"
+        },
+        "a7448015e265a7bf": {
+            "hash": "a7448015e265a7bf",
+            "directory": "External20",
+            "voiceContent": "糟了，胡堂主，我布下的幻阵被破了",
+            "sourceName": "vo_EQHDJ402_11_lanyan_05.wem"
+        },
+        "a8eaa9e04c6e9bf8": {
+            "hash": "a8eaa9e04c6e9bf8",
+            "directory": "External21",
+            "voiceContent": "族志中是有相关记载，不过奇门术之类的法子，我只学了个皮毛而已",
+            "sourceName": "vo_EQHDJ401_5_lanyan_06.wem"
+        },
+        "a93613dab6560182": {
+            "hash": "a93613dab6560182",
+            "directory": "External21",
+            "voiceContent": "嗯…可刚才连天权大人问话，胡堂主都不说…我跟她认识才两天，就更不好说什么了",
+            "sourceName": "vo_EQHDJ402_15_lanyan_26.wem"
+        },
+        "a958de3176327a6d": {
+            "hash": "a958de3176327a6d",
+            "directory": "External21",
+            "voiceContent": "为了避免被客人打骂，爷爷索性收摊回家，关起门来，日算夜算，最后只算出了三个字：往生堂。可他也不知道这是什么意思",
+            "sourceName": "vo_EQHDJ402_15_lanyan_07.wem"
+        },
+        "aa4ab5f1f71e5f2a": {
+            "hash": "aa4ab5f1f71e5f2a",
+            "directory": "External21",
+            "voiceContent": "堂主大名我有所耳闻，但还没机会一见",
+            "sourceName": "vo_EQHDJ401_5_lanyan_08.wem"
+        },
+        "b19865d44d528b59": {
+            "hash": "b19865d44d528b59",
+            "directory": "External22",
+            "voiceContent": "胡堂主…藤人损坏了，我也感觉不到胡堂主的气息了",
+            "sourceName": "vo_EQHDJ403_21_lanyan_01.wem"
+        },
+        "b2ab74b3f91e542f": {
+            "hash": "b2ab74b3f91e542f",
+            "directory": "External22",
+            "voiceContent": "#这个法门和大阵一样，也是借助地脉之力，但地脉无法响应{NICKNAME}，就好像地脉认为{M#他}{F#她}不存在一样",
+            "sourceName": "vo_EQHDJ403_17_lanyan_11b.wem"
+        },
+        "b34385f21e4efe9f": {
+            "hash": "b34385f21e4efe9f",
+            "directory": "External22",
+            "voiceContent": "我以前只知道有洪水，但考虑现在的情况，说不定也和边界有关，这更能解释无妄坡现在的诡异天气",
+            "sourceName": "vo_EQHDJ402_15_lanyan_23.wem"
+        },
+        "b742bb8e48be7914": {
+            "hash": "b742bb8e48be7914",
+            "directory": "External22",
+            "voiceContent": "但考虑到八门七门大阵借助的是地脉之力，她推测，隐去一人，或许是山岩与大地的规则",
+            "sourceName": "vo_EQHDJ403_17_lanyan_03.wem"
+        },
+        "b76db7a7511b79ab": {
+            "hash": "b76db7a7511b79ab",
+            "directory": "External22",
+            "voiceContent": "在我老家，现在还有「你死后过不去桃都山」这种话呢。不过你们可不要学，是用来骂人的",
+            "sourceName": "vo_EQHDJ401_5_lanyan_01.wem"
+        },
+        "ba2529931185f0bb": {
+            "hash": "ba2529931185f0bb",
+            "directory": "External23",
+            "voiceContent": "…我不知道，我还是第一次碰见这种情况…虽然可以再写信问一问姐姐，但可能已经来不及了",
+            "sourceName": "vo_EQHDJ403_17_lanyan_13.wem"
+        },
+        "ba63d5cf3cc27316": {
+            "hash": "ba63d5cf3cc27316",
+            "directory": "External23",
+            "voiceContent": "不仅不是仙人，甚至大多是人类呢",
+            "sourceName": "vo_EQHDJ401_5_lanyan_04.wem"
+        },
+        "bbd2e79ff6240d76": {
+            "hash": "bbd2e79ff6240d76",
+            "directory": "External23",
+            "voiceContent": "请看这个，这是我给胡堂主做的藤人，有很多个。你们还记得它的作用吧？它能吸收阴邪之气，替人挡灾",
+            "sourceName": "vo_EQHDJ403_17_lanyan_05.wem"
+        },
+        "bddc96973faca543": {
+            "hash": "bddc96973faca543",
+            "directory": "External23",
+            "voiceContent": "糟了，原来她就是胡堂主",
+            "sourceName": "vo_EQHDJ401_15_lanyan_13.wem"
+        },
+        "bf462d4493106b59": {
+            "hash": "bf462d4493106b59",
+            "directory": "External23",
+            "voiceContent": "嗯！我也投我祖宗爷爷一票。再加上玄燕仙子",
+            "sourceName": "vo_EQHDJ404_2_lanyan_01.wem"
+        },
+        "c04fa4437c13095c": {
+            "hash": "c04fa4437c13095c",
+            "directory": "External24",
+            "voiceContent": "所以啦，为了准确无误地布下阵法，就必须重新推演一次才行",
+            "sourceName": "vo_dialog_EQHDJ403_lanyan_07.wem"
+        },
+        "c17990552695077e": {
+            "hash": "c17990552695077e",
+            "directory": "External24",
+            "voiceContent": "#快去快回哦，{NICKNAME}",
+            "sourceName": "vo_dialog_EQHDJ403_lanyan_01.wem"
+        },
+        "c26c82a8ed11cc7d": {
+            "hash": "c26c82a8ed11cc7d",
+            "directory": "External24",
+            "voiceContent": "莺儿小姐，刚才跟你打招呼的那位是…",
+            "sourceName": "vo_EQHDJ401_15_lanyan_11.wem"
+        },
+        "c63bd442195f7c42": {
+            "hash": "c63bd442195f7c42",
+            "directory": "External24",
+            "voiceContent": "爷爷说得对，璃月港里果然藏龙卧虎，随便一位买香的客人都如此不一般",
+            "sourceName": "vo_EQHDJ401_15_lanyan_09.wem"
+        },
+        "ca69042b1708b151": {
+            "hash": "ca69042b1708b151",
+            "directory": "External25",
+            "voiceContent": "那我来帮忙看店吧？我正好稍微懂一点香膏",
+            "sourceName": "vo_EQHDJ401_11_lanyan_02.wem"
+        },
+        "ca75d2046688c299": {
+            "hash": "ca75d2046688c299",
+            "directory": "External25",
+            "voiceContent": "别看她话不少，好听的也说，不好听的也说，但她几乎不说她在想什么，好像已经把所有事都安排好了一样",
+            "sourceName": "vo_EQHDJ402_15_lanyan_21.wem"
+        },
+        "cbf87b9d22f0854b": {
+            "hash": "cbf87b9d22f0854b",
+            "directory": "External25",
+            "voiceContent": "哈哈，这个啊？我该早点跟你们说的，要不等会来冒险家协会找我吧？我想先写封信，给家里报个平安，再问点事情",
+            "sourceName": "vo_EQHDJ402_13_lanyan_07.wem"
         },
         "cce98be55e8461e4": {
             "hash": "cce98be55e8461e4",
             "directory": "External25",
-            "voiceContent": "这…倒没有那么急…",
+            "voiceContent": "这…倒没有那么急",
             "sourceName": "vo_EQHDJ401_10_lanyan_02.wem"
+        },
+        "cd21a7aecd713ca5": {
+            "hash": "cd21a7aecd713ca5",
+            "directory": "External25",
+            "voiceContent": "啊…不过这倒解释不了，为什么无妄坡会变成今天这种不见天日的模样，难道…其中还有隐情",
+            "sourceName": "vo_EQHDJ402_13_lanyan_05.wem"
+        },
+        "d60034a4c260329e": {
+            "hash": "d60034a4c260329e",
+            "directory": "External26",
+            "voiceContent": "哈哈，我帮您包好",
+            "sourceName": "vo_EQHDJ401_15_lanyan_05.wem"
+        },
+        "d72968b66ce0f840": {
+            "hash": "d72968b66ce0f840",
+            "directory": "External26",
+            "voiceContent": "这…请问您是",
+            "sourceName": "vo_EQHDJ401_15_lanyan_07.wem"
+        },
+        "d88279b7f8f13a13": {
+            "hash": "d88279b7f8f13a13",
+            "directory": "External27",
+            "voiceContent": "#那{NICKNAME}，你拿着这个胡堂主的藤人，我现在就把你链接到大阵里",
+            "sourceName": "vo_EQHDJ403_17_lanyan_08.wem"
+        },
+        "e39eb2eae32659a0": {
+            "hash": "e39eb2eae32659a0",
+            "directory": "External28",
+            "voiceContent": "啊！抱歉，我见猎心喜了，嘿嘿，玉衡大人见谅",
+            "sourceName": "vo_EQHDJ401_4_lanyan_03.wem"
+        },
+        "e495f22df71ccfb8": {
+            "hash": "e495f22df71ccfb8",
+            "directory": "External28",
+            "voiceContent": "别害怕七七，我们保护你",
+            "sourceName": "vo_EQHDJ402_11_lanyan_06.wem"
+        },
+        "e49d5baa8b396fc4": {
+            "hash": "e49d5baa8b396fc4",
+            "directory": "External28",
+            "voiceContent": "#我…我应该没弄错啊…我没法把{NICKNAME}链接到大阵里",
+            "sourceName": "vo_EQHDJ403_17_lanyan_10.wem"
+        },
+        "e6541459a1cffb8e": {
+            "hash": "e6541459a1cffb8e",
+            "directory": "External28",
+            "voiceContent": "可惜死气实在太多了，不仅烧不完，还把我们进去的口子遮住了，我们就这样被困在了里面。多亏后来你们来了",
+            "sourceName": "vo_EQHDJ402_15_lanyan_17.wem"
+        },
+        "e77e086b4c520730": {
+            "hash": "e77e086b4c520730",
+            "directory": "External28",
+            "voiceContent": "我去拉她，没拉出来，反而和她一起掉进了个十分阴冷的地方，现在你们知道了，那里就是边界",
+            "sourceName": "vo_EQHDJ402_15_lanyan_15.wem"
+        },
+        "e95bfe3fa4afbcea": {
+            "hash": "e95bfe3fa4afbcea",
+            "directory": "External29",
+            "voiceContent": "可这里的空间一直在变化，胡堂主好几次发现了出口，但没等我们赶到就关上了",
+            "sourceName": "vo_EQHDJ402_11_lanyan_08.wem"
         },
         "ea27f385e2a1a53f": {
             "hash": "ea27f385e2a1a53f",
             "directory": "External29",
-            "voiceContent": "看，四个图案一样会有大烟花欸！",
+            "voiceContent": "看，四个图案一样会有大烟花欸",
             "sourceName": "vo_EQHDJ401_9_lanyan_01.wem"
+        },
+        "eed7645b3b617820": {
+            "hash": "eed7645b3b617820",
+            "directory": "External29",
+            "voiceContent": "话说，你们是不是都以为我会什么厉害的法术，预测到了边界的危机",
+            "sourceName": "vo_EQHDJ402_15_lanyan_02.wem"
+        },
+        "f1b4c0b1e7766673": {
+            "hash": "f1b4c0b1e7766673",
+            "directory": "External30",
+            "voiceContent": "玉衡大人抬爱啦！我家这一脉，早就从蓝氏分枝散叶，算不上真正的宗家望族了",
+            "sourceName": "vo_EQHDJ401_4_lanyan_04.wem"
+        },
+        "f305ba8bd2a90d20": {
+            "hash": "f305ba8bd2a90d20",
+            "directory": "External30",
+            "voiceContent": "怎么会？我高兴还来不及",
+            "sourceName": "vo_EQHDJ401_5_lanyan_11.wem"
+        },
+        "f67efff4feacd76b": {
+            "hash": "f67efff4feacd76b",
+            "directory": "External30",
+            "voiceContent": "听我说，七七，你一点也不困，你是世界第一清醒，就算所有人都睡着了，你也是清醒的",
+            "sourceName": "vo_EQHDJ402_11_lanyan_01.wem"
+        },
+        "f9751e1cea53d0d6": {
+            "hash": "f9751e1cea53d0d6",
+            "directory": "External31",
+            "voiceContent": "嗯",
+            "sourceName": "vo_EQHDJ402_11_lanyan_04.wem"
+        },
+        "fa55393fe843314b": {
+            "hash": "fa55393fe843314b",
+            "directory": "External31",
+            "voiceContent": "七七姑娘似乎不是一般人，她居然能吸收死气，要是我这么干一定已经",
+            "sourceName": "vo_EQHDJ402_12_lanyan_02.wem"
+        },
+        "fced72223fb184f3": {
+            "hash": "fced72223fb184f3",
+            "directory": "External31",
+            "voiceContent": "说直接一点，他就是在遗珑埠给人卜卦算命为生的，赚的还没我做手工品多呢",
+            "sourceName": "vo_EQHDJ402_15_lanyan_05.wem"
+        },
+        "fd20e1bdd0e3a5f6": {
+            "hash": "fd20e1bdd0e3a5f6",
+            "directory": "External31",
+            "voiceContent": "姐姐的回信里也说，遗珑埠也开始有人生病了",
+            "sourceName": "vo_EQHDJ403_2_lanyan_01.wem"
+        },
+        "fddb2033a7d9156a": {
+            "hash": "fddb2033a7d9156a",
+            "directory": "External31",
+            "voiceContent": "因此，八门的位置并不是一成不变的",
+            "sourceName": "vo_dialog_EQHDJ403_lanyan_05.wem"
         }
     },
     "Gameplay": {
-        "4a31dffc299a865a": {
-            "hash": "4a31dffc299a865a",
-            "directory": "External9",
-            "voiceContent": "翻飞。",
-            "sourceName": "vo_lanyan_battle_skill1_04.wem"
-        },
-        "f7ca91f5217da2a3": {
-            "hash": "f7ca91f5217da2a3",
-            "directory": "External30",
-            "voiceContent": "穿织。",
-            "sourceName": "vo_lanyan_battle_skill1_05.wem"
-        },
-        "3551e40d3662238c": {
-            "hash": "3551e40d3662238c",
-            "directory": "External6",
-            "voiceContent": "跃风。",
-            "sourceName": "vo_lanyan_battle_skill1_06.wem"
-        },
-        "658f4e18b7e2a455": {
-            "hash": "658f4e18b7e2a455",
-            "directory": "External12",
-            "voiceContent": "搬疾运厄。",
-            "sourceName": "vo_lanyan_battle_skill3_01.wem"
-        },
-        "33c97011c1aefd72": {
-            "hash": "33c97011c1aefd72",
-            "directory": "External6",
-            "voiceContent": "玄燕传喜。",
-            "sourceName": "vo_lanyan_battle_skill3_02.wem"
-        },
-        "b922e209815ffbbb": {
-            "hash": "b922e209815ffbbb",
-            "directory": "External23",
-            "voiceContent": "漫卷翩翩。",
-            "sourceName": "vo_lanyan_battle_skill3_03.wem"
-        },
-        "8d25a24d27752dfc": {
-            "hash": "8d25a24d27752dfc",
-            "directory": "External17",
-            "voiceContent": "可以分我一些吗？沾沾喜气。",
-            "sourceName": "vo_lanyan_chest_open_01.wem"
-        },
-        "f779d0329bac7a93": {
-            "hash": "f779d0329bac7a93",
-            "directory": "External30",
-            "voiceContent": "好消息！你快看里面有什么？",
-            "sourceName": "vo_lanyan_chest_open_02.wem"
-        },
-        "728d9e3adc58ba8a": {
-            "hash": "728d9e3adc58ba8a",
-            "directory": "External14",
-            "voiceContent": "别急，我来数数…",
-            "sourceName": "vo_lanyan_chest_open_03.wem"
-        },
-        "c56b185c93164c0c": {
-            "hash": "c56b185c93164c0c",
-            "directory": "External24",
-            "voiceContent": "不能硬撑了，快撤下来！",
-            "sourceName": "vo_lanyan_life_less30_teammate_01.wem"
-        },
-        "87e3c6447e31cb23": {
-            "hash": "87e3c6447e31cb23",
-            "directory": "External16",
-            "voiceContent": "换我来吧，它们抓不住我。",
-            "sourceName": "vo_lanyan_life_less30_teammate_02.wem"
-        },
-        "98634ec3f9b04779": {
-            "hash": "98634ec3f9b04779",
-            "directory": "External19",
-            "voiceContent": "唯独现在…不能倒下…",
-            "sourceName": "vo_lanyan_life_die_01.wem"
-        },
-        "281f20bb2d640116": {
-            "hash": "281f20bb2d640116",
-            "directory": "External5",
-            "voiceContent": "银铃…不响了…",
-            "sourceName": "vo_lanyan_life_die_02.wem"
-        },
-        "50747a698cbe9437": {
-            "hash": "50747a698cbe9437",
-            "directory": "External10",
-            "voiceContent": "去哪都行，不去也行。",
-            "sourceName": "vo_lanyan_teamJoin_01.wem"
-        },
-        "7b238c8106a11f50": {
-            "hash": "7b238c8106a11f50",
-            "directory": "External15",
-            "voiceContent": "赶街子去喽。",
-            "sourceName": "vo_lanyan_teamJoin_02.wem"
-        },
-        "fce0e678c3413cd1": {
-            "hash": "fce0e678c3413cd1",
-            "directory": "External31",
-            "voiceContent": "来啦来啦。",
-            "sourceName": "vo_lanyan_teamJoin_03.wem"
-        },
-        "ed6273866099fe12": {
-            "hash": "ed6273866099fe12",
-            "directory": "External29",
-            "voiceContent": "今天的计划？嗯…听随当下的心意而动。明天也是，每天都是，嘻嘻。",
-            "sourceName": "vo_lanyan_character_idle_01.wem"
-        },
-        "73e5d18fcaccfb75": {
-            "hash": "73e5d18fcaccfb75",
-            "directory": "External14",
-            "voiceContent": "好的藤器经篾薄如绸，纬条细若丝，经久不坏…说它能跟银器一样当传家宝一点都不夸张。",
-            "sourceName": "vo_lanyan_character_idle_02.wem"
-        },
-        "f1f297980dff84e4": {
-            "hash": "f1f297980dff84e4",
-            "directory": "External30",
-            "voiceContent": "天暖燕子么搭窝窝，升雷扯闪么我家躲。",
-            "sourceName": "vo_lanyan_character_idle_03.wem"
-        },
         "02d5ce71ad40bfe4": {
             "hash": "02d5ce71ad40bfe4",
             "directory": "External0",
-            "voiceContent": "赶不及躲雨了，那——安心淋雨吧，还省了跑步的力气。",
+            "voiceContent": "赶不及躲雨了，那——安心淋雨吧，还省了跑步的力气",
             "sourceName": "vo_lanyan_weather_heavyRain_01.wem"
         },
-        "09b746d6613dd0c7": {
-            "hash": "09b746d6613dd0c7",
-            "directory": "External1",
-            "voiceContent": "呜哇！借、借你手握一会！",
-            "sourceName": "vo_lanyan_weather_thunder_01.wem"
+        "042bca634f334469": {
+            "hash": "042bca634f334469",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_climb_01.wem"
         },
-        "bcd0756f7353f1c2": {
-            "hash": "bcd0756f7353f1c2",
-            "directory": "External23",
-            "voiceContent": "叮叮叮叮叮——风有点生气了啊。",
-            "sourceName": "vo_lanyan_weather_gale_01.wem"
+        "04de437d4ebfe802": {
+            "hash": "04de437d4ebfe802",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_climb_breath_01.wem"
         },
-        "5552afa3a1a45636": {
-            "hash": "5552afa3a1a45636",
-            "directory": "External10",
-            "voiceContent": "看，阳光扫到的地方都镀上了一层金欸",
-            "sourceName": "vo_lanyan_weather_sunny_01.wem"
-        },
-        "dc51779c17101176": {
-            "hash": "dc51779c17101176",
-            "directory": "External27",
-            "voiceContent": "听见吗？我头上的银饰叮铃…叮铃…风很温柔呢！",
-            "sourceName": "vo_lanyan_weather_breezy_01.wem"
-        },
-        "52b9d2d693e751b6": {
-            "hash": "52b9d2d693e751b6",
-            "directory": "External10",
-            "voiceContent": "被鸟叫吵醒了？哈哈，我去跟它们商量商量，但不一定奏效哦，它们有时也不听我的话。",
-            "sourceName": "vo_lanyan_dialog_greetingMorning.wem"
-        },
-        "62e935aa6d870432": {
-            "hash": "62e935aa6d870432",
-            "directory": "External12",
-            "voiceContent": "采了些很新鲜的花，我这就带回去给妈妈做好吃的…你也来嘛，我家里人见到你肯定高兴！",
-            "sourceName": "vo_lanyan_dialog_greetingNoon.wem"
-        },
-        "6bf5722450df65fc": {
-            "hash": "6bf5722450df65fc",
-            "directory": "External13",
-            "voiceContent": "夜市里有碳烤小昆虫！想一起去尝尝吗？",
-            "sourceName": "vo_lanyan_dialog_greetingNight.wem"
-        },
-        "fb297bc93ff34594": {
-            "hash": "fb297bc93ff34594",
-            "directory": "External31",
-            "voiceContent": "我好困…先睡了先睡了，就不陪你熬夜了。",
-            "sourceName": "vo_lanyan_dialog_greetingNight2.wem"
-        },
-        "e9fd57ee8df47d9b": {
-            "hash": "e9fd57ee8df47d9b",
-            "directory": "External29",
-            "voiceContent": "幸福感就是…每一口都细嚼慢咽直到吃完碗里最后一粒米，躺在草地上听着耳边的呼呼风声睡午觉，不被打扰地看完整整十册的志怪连载小说！",
-            "sourceName": "vo_lanyan_dialog_idle.wem"
-        },
-        "67c4c770d9904c85": {
-            "hash": "67c4c770d9904c85",
-            "directory": "External12",
-            "voiceContent": "那位万象风角灵官在蓝氏的族谱中确有记载，可我家这一脉早已从宗家分枝散叶了。奇门术法纷繁复杂，我也只是学了个皮毛而已，有很多难题我还要向前辈们请教呢…但唯独扎藤人的手艺就连爷爷都要向我看齐，哈哈…这能算一种「独当一面」吗？",
-            "sourceName": "vo_lanyan_dialog_idle2.wem"
-        },
-        "b67925ea48f6b0a4": {
-            "hash": "b67925ea48f6b0a4",
-            "directory": "External22",
-            "voiceContent": "来呀，握个手，抱一个吧。嗯…？来握手呀？哈哈，这回真的是我想要跟你握手的意思啦！好朋友之间不是这样相互鼓励的吗？对不起哦，怪我没有事先说清楚。但也没关系，我会多去找你玩，这样自然你也懂我我也懂你啦。",
-            "sourceName": "vo_lanyan_dialog_close1.wem"
-        },
-        "c0bc173ec96bd5e9": {
-            "hash": "c0bc173ec96bd5e9",
-            "directory": "External24",
-            "voiceContent": "坐好。朋友。握手~啊不不，我是让小动物们看我，不是叫你坐下啦！快请起来…这句话的意思是「大家看过来哦，今天有一位新朋友跟我们一起玩！」有点难懂吗？唔…「坐好」可以是「先别动」或者「听我说」，也可以是「停下来」…规律吗？哎呀总之你多来山里跟我们玩，自然就懂啦。",
-            "sourceName": "vo_lanyan_dialog_close.wem"
-        },
-        "f2db94f49b51a9b4": {
-            "hash": "f2db94f49b51a9b4",
-            "directory": "External30",
-            "voiceContent": "想吃野蕈真的不能马虎，许多有毒的蕈子根本吃不得。另一些，则必须在处理的时候加工到位，用油炒熟！如果一顿吃不完，第二顿也要再次炒熟炒透，很多人就是在第二次中的招！如果吃两口后看到家里的鸡来找你借火，或者院子里的狗喊你去收衣服了，那么不要犹豫，赶快叫它们带你去看医生吧。",
-            "sourceName": "vo_lanyan_dialog_share_01.wem"
-        },
-        "51554468de8d334e": {
-            "hash": "51554468de8d334e",
-            "directory": "External10",
-            "voiceContent": "有一回，我坐在树上编小摆件，伸个懒腰的功夫，刚编的藤制松果就被小松鼠全偷走了！还好后来我用双倍数量的真松果跟它们换回来了…东西被拿走是小事，但破坏小松鼠一天的好心情就不好了！忙活了一天采松果，回家发现是假的！唔…说不定还会被别的小松鼠嘲笑呢…",
-            "sourceName": "vo_lanyan_pref_gift_01.wem"
-        },
-        "9b499fc20af6c79a": {
-            "hash": "9b499fc20af6c79a",
-            "directory": "External19",
-            "voiceContent": "都说第一印象很重要，在万民堂吃过在璃月港的第一顿饭后，我就后悔了。后悔怎么没有早点来璃月港，这样说不定能早点认识香菱！她听说我老家山里有许多罕见食材后，忙不迭就开始计划来沉玉谷的行程了，到时我一定得让她满载而归。",
-            "sourceName": "vo_lanyan_teammate_xiangling_01.wem"
-        },
-        "a3908034e2d1caee": {
-            "hash": "a3908034e2d1caee",
-            "directory": "External20",
-            "voiceContent": "胡堂主给人感觉总是嘻嘻哈哈的，哪怕在危急的困境中她都没有忘记说玩笑话来安抚我…我跟她认识的时间不长，她一直都这样乐观积极吗？嗯…不管怎样，至少从今天开始，祝愿她笑的时候是真的很开心，而不是为了不让身边的人担心。",
-            "sourceName": "vo_lanyan_teammate_hutao_01.wem"
-        },
-        "3900144167ee6366": {
-            "hash": "3900144167ee6366",
-            "directory": "External7",
-            "voiceContent": "玉衡大人什么时候能闲下来呢？海灯节期间看她东奔西跑忙个不停，也没能找到机会请她吃顿饭，好好感谢她的招待…我还想拜托她帮我梳一对跟她一样的猫猫耳朵呢…会不会很僭越？但直觉告诉我她不会介意欸…",
-            "sourceName": "vo_lanyan_teammate_keqing_01.wem"
-        },
-        "e299d7760556196f": {
-            "hash": "e299d7760556196f",
-            "directory": "External28",
-            "voiceContent": "七七姑娘喜欢小团雀对吗？想用藤皮编一只送给她…你知道她喜欢什么颜色吗？",
-            "sourceName": "vo_lanyan_teammate_qiqi_01.wem"
-        },
-        "e09c26b01ca1c74e": {
-            "hash": "e09c26b01ca1c74e",
-            "directory": "External28",
-            "voiceContent": "我曾在山林里偶遇过行秋少爷几回，他身边没有飞云商会的伙计跟着，看起来不像在办公事…在那以后他时不时会给我送几本最新出版的志怪小说，请我帮他保守秘密。完了…我是不是不小心说出来了…这下请你帮我们俩都保守住秘密啊！",
-            "sourceName": "vo_lanyan_teammate_xingqiu_01.wem"
-        },
-        "22730627d0d5018a": {
-            "hash": "22730627d0d5018a",
-            "directory": "External4",
-            "voiceContent": "有一次我跟着爷爷上门占卦，正巧碰到他从事主家中沮丧离开…我本以为屋里头的情况不容乐观，就连他也无计可施了。可我进屋后并没有感受到任何不妙的气息，爷爷这边得出的也是吉卦…兴许是他费了大功夫，累到没力气说话了。你说他很可能什么都没做？那我就更不懂了…",
-            "sourceName": "vo_lanyan_teammate_chongyun_01.wem"
-        },
-        "a3c8ac289ab90e72": {
-            "hash": "a3c8ac289ab90e72",
-            "directory": "External20",
-            "voiceContent": "我跟嘉明从小就认识，还记得他小时候是家喻户晓的淘气大魔王，现在完全看不出来？哈哈，也许这就是成长吧，我也跟小时候不太一样呢。但有一点他始终没变——就是走到哪总会带点好吃的在身上，每次回来都不会忘记给家乡朋友带些外地的点心。当然，更不会忘记打包一堆家乡小吃带走…",
-            "sourceName": "vo_lanyan_teammate_gaming_01.wem"
-        },
-        "f7b32bab9fdcd4a6": {
-            "hash": "f7b32bab9fdcd4a6",
-            "directory": "External30",
-            "voiceContent": "先别说话！稍等一下…马上…编完这个把手就好…呼…搞定！嘻嘻别见怪，我脑筋比较简单，一时只能干一件事。但现在可以专心跟你聊天啦。",
-            "sourceName": "vo_lanyan_friendship_01.wem"
-        },
-        "67f759b46c291a09": {
-            "hash": "67f759b46c291a09",
-            "directory": "External12",
-            "voiceContent": "要来山里面玩吗？可以和柔柔羊玩躲避头槌，或者让朱喙鹈鹕扮演大嘴巴强盗，在限定时间内从它嘴里解救可怜的玉玉心羽鲈…想玩风行迷踪？你当猎手？哼哼，很自信嘛。好吧，要是你急得打转，我会摇响银铃给你提示的，摸到我的发尖就算你赢，我也是很自信的哦。",
-            "sourceName": "vo_lanyan_friendship_02.wem"
-        },
-        "ba28bfbb74189748": {
-            "hash": "ba28bfbb74189748",
-            "directory": "External23",
-            "voiceContent": "我头上的银饰是「银翎翦玉玄鸟」，是家中祖传的宝贝。银簪、银项圈、胸兜坠是爸爸妈妈给我的庆生礼物…噢，银手镯是有一年海灯节爷爷送的，银耳坠好像是逐月节的礼物…还有庆祝我学会用风之翼送的、庆祝我拿到神之眼送的、庆祝我吃了满满三大碗米饭送的…呵呵，在我们家族的传统里，银器有避邪解毒，护佑平安的作用，所以家人们总会想着法子给我添置…一套行头下来确实很沉呢…是沉甸甸又令人安心的爱哦。",
-            "sourceName": "vo_lanyan_friendship_03.wem"
-        },
-        "c8ab0d8278c42f7b": {
-            "hash": "c8ab0d8278c42f7b",
-            "directory": "External25",
-            "voiceContent": "小时候，家里放的藤人常常让我发怵，该怎么描述好呢…黑黑灰灰的枯草随便一扎，是小孩子看了就会做噩梦的程度！当时我觉得爷爷一定是中邪了，才把我送去跟宗家的姐姐学害人的法术呢！于是半夜壮着胆子，把能找到的藤人统统烧掉了。好在吸收了病气的藤人本来就是要被焚毁的，算是没捅大篓子…从那时我就开始思考，如果把藤人做得可爱一些，是不是就不容易被人误解成歪门邪术了呢？",
-            "sourceName": "vo_lanyan_friendship_04.wem"
-        },
-        "46b79b8abbf65932": {
-            "hash": "46b79b8abbf65932",
-            "directory": "External8",
-            "voiceContent": "藤编不难的，我真没骗你！再怎么复杂精妙的工艺，也离不开最简单的一行一竖，一经一纬，只要稍微有点耐心都能编出东西来！比起手艺，更难的是「细心」，再难一些，是要有「恒心」…但在我看来这些都不是最关键的，要我说，最最重要的，是「开心」。要是做起来不开心，什么事情都做不好的，我讲的不止是藤编…总之，要开心呀！我也是，你也是！",
-            "sourceName": "vo_lanyan_friendship_05.wem"
-        },
-        "8deb98346d16b8e2": {
-            "hash": "8deb98346d16b8e2",
-            "directory": "External17",
-            "voiceContent": "之前我特别想要求证溺鬼的传说，就用棍子伸进闹水鬼的湖里…结果棍子真的被拽住了！水下面全是水草！要是下去游泳不被缠住才怪了…我还听说，日落后不要吃日落果，半夜时分不能对着镜子削苹果，这里头到底有什么依据呢…唔…",
-            "sourceName": "vo_lanyan_pref_hobby.wem"
-        },
-        "f12501cf735ae475": {
-            "hash": "f12501cf735ae475",
-            "directory": "External30",
-            "voiceContent": "新鲜的花不仅好看好闻，做成糕饼还很好吃！清新不甜腻，再泡上一壶花茶…唔…走吧，一起去采花？不用找花篮啦，去到山里我现编一个。",
-            "sourceName": "vo_lanyan_pref_foodLike.wem"
-        },
-        "49d62b8c55565957": {
-            "hash": "49d62b8c55565957",
-            "directory": "External9",
-            "voiceContent": "「糖也只在开心的时候吃才甜」，没心情的话吃什么都觉得差点意思…嘻嘻，好在这种情况很少发生。",
-            "sourceName": "vo_lanyan_pref_foodDislike.wem"
-        },
-        "f1e38a0df69aaff2": {
-            "hash": "f1e38a0df69aaff2",
-            "directory": "External30",
-            "voiceContent": "好吃欸！稍等，我去把珍藏的纯银餐具拿出来，这才配得上这道菜嘛！",
-            "sourceName": "vo_lanyan_spice_pref_01.wem"
-        },
-        "a4f6e37b593d5898": {
-            "hash": "a4f6e37b593d5898",
-            "directory": "External20",
-            "voiceContent": "噢，谢谢。这里有蘸水哦，蘸着吃更美味。",
-            "sourceName": "vo_lanyan_spice_normal_01.wem"
-        },
-        "5fe3ae9c0df3b4fc": {
-            "hash": "5fe3ae9c0df3b4fc",
-            "directory": "External11",
-            "voiceContent": "你尝过了？肚子疼吗？眼前有小人在打转吗？",
-            "sourceName": "vo_lanyan_spice_dislike_01.wem"
-        },
-        "7497227b46082b51": {
-            "hash": "7497227b46082b51",
-            "directory": "External14",
-            "voiceContent": "等等，我才编了两个结你怎么就…是你太快了还是我太慢了呢…",
-            "sourceName": "vo_lanyan_starUp_01.wem"
-        },
-        "466d547452e557ae": {
-            "hash": "466d547452e557ae",
-            "directory": "External8",
-            "voiceContent": "银器要时常擦拭才能焕发光亮，人果然也要不断磨练才能「身轻如燕」呀。",
-            "sourceName": "vo_lanyan_starUp_02.wem"
-        },
-        "c82ab66c0f8582b7": {
-            "hash": "c82ab66c0f8582b7",
-            "directory": "External25",
-            "voiceContent": "握手~握手~握手~还记得吗？意思是表示开心，表示感谢，表示一切好的事情好的心情。",
-            "sourceName": "vo_lanyan_starUp_03.wem"
-        },
-        "41dd6862a580308c": {
-            "hash": "41dd6862a580308c",
-            "directory": "External8",
-            "voiceContent": "「燕衔泥，莫与齐」…别小瞧我哟，我的实力一路增长，如今要保护你也算绰绰有余了吧。哎呀，我知道这有不少你的功劳在里头…很感谢你！",
-            "sourceName": "vo_lanyan_starUp_04.wem"
-        },
-        "71ccf4d93e6ec885": {
-            "hash": "71ccf4d93e6ec885",
-            "directory": "External14",
-            "voiceContent": "给我点时间…",
-            "sourceName": "vo_lanyan_life_less30_01.wem"
-        },
-        "175ad6d10fac3262": {
-            "hash": "175ad6d10fac3262",
-            "directory": "External2",
-            "voiceContent": "有人帮忙吗？",
-            "sourceName": "vo_lanyan_life_less30_02.wem"
-        },
-        "c1fa48ca05088aab": {
-            "hash": "c1fa48ca05088aab",
-            "directory": "External24",
-            "voiceContent": "难办了…",
-            "sourceName": "vo_lanyan_life_less30_03.wem"
-        },
-        "d5ee82b42575d8ff": {
-            "hash": "d5ee82b42575d8ff",
-            "directory": "External26",
-            "voiceContent": "飞不起来…",
-            "sourceName": "vo_lanyan_life_die_03.wem"
-        },
-        "f56315bda86d87d9": {
-            "hash": "f56315bda86d87d9",
-            "directory": "External30",
-            "voiceContent": "不对头！",
-            "sourceName": "vo_lanyan_battle_hit_H_01.wem"
-        },
-        "8884e7b4df046b76": {
-            "hash": "8884e7b4df046b76",
-            "directory": "External17",
-            "voiceContent": "脾气真差！",
-            "sourceName": "vo_lanyan_battle_hit_H_02.wem"
-        },
-        "2dd5799a52c7d570": {
-            "hash": "2dd5799a52c7d570",
-            "directory": "External5",
-            "voiceContent": "喝点水吗？尝尝我瓶子里的吧，泡薄荷叶子果然是明智的选择呢。",
-            "sourceName": "vo_lanyan_weather_desert_01.wem"
-        },
-        "e92b913456e7119a": {
-            "hash": "e92b913456e7119a",
-            "directory": "External29",
-            "voiceContent": "别。",
-            "sourceName": "vo_lanyan_battle_hit_L_02.wem"
-        },
-        "195a57d8f506dd85": {
-            "hash": "195a57d8f506dd85",
-            "directory": "External3",
-            "voiceContent": "剪毛刺可真累人啊，既费眼睛又费手…把我十个指头都扎了个遍…呜。",
-            "sourceName": "vo_lanyan_dialog_annoyed_01.wem"
+        "0528668f776973e8": {
+            "hash": "0528668f776973e8",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_fly_start_03.wem"
         },
         "08bdb6982d9e3b90": {
             "hash": "08bdb6982d9e3b90",
             "directory": "External1",
-            "voiceContent": "你好，我是沉玉谷手工艺工会的蓝砚。是想做点摆件、篮子还是花瓶、家具之类的呢？呃，备用的藤枝藤条不多了，得先去山里采一趟…你也想帮忙？嘻嘻，你人真好，我多送你一顶藤编遮阳帽可好？",
+            "voiceContent": "你好，我是沉玉谷手工艺工会的蓝砚。是想做点摆件、篮子还是花瓶、家具之类的呢？呃，备用的藤枝藤条不多了，得先去山里采一趟…你也想帮忙？嘻嘻，你人真好，我多送你一顶藤编遮阳帽可好",
             "sourceName": "vo_lanyan_draw_appear_01.wem"
+        },
+        "09b746d6613dd0c7": {
+            "hash": "09b746d6613dd0c7",
+            "directory": "External1",
+            "voiceContent": "呜哇！借、借你手握一会",
+            "sourceName": "vo_lanyan_weather_thunder_01.wem"
+        },
+        "0a6b4f5e0719d291": {
+            "hash": "0a6b4f5e0719d291",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_hit_l_05.wem"
+        },
+        "0b436fb77eeec8ae": {
+            "hash": "0b436fb77eeec8ae",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_jump_01.wem"
+        },
+        "0f03f54c0fa7509b": {
+            "hash": "0f03f54c0fa7509b",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attacklight_01.wem"
+        },
+        "0f7055d94057bef3": {
+            "hash": "0f7055d94057bef3",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_idle_02.wem"
+        },
+        "102de15dba294eb5": {
+            "hash": "102de15dba294eb5",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attacklight_03.wem"
+        },
+        "15a4fe523f8729ef": {
+            "hash": "15a4fe523f8729ef",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_climb_03.wem"
+        },
+        "175ad6d10fac3262": {
+            "hash": "175ad6d10fac3262",
+            "directory": "External2",
+            "voiceContent": "有人帮忙吗",
+            "sourceName": "vo_lanyan_life_less30_02.wem"
+        },
+        "195a57d8f506dd85": {
+            "hash": "195a57d8f506dd85",
+            "directory": "External3",
+            "voiceContent": "剪毛刺可真累人啊，既费眼睛又费手…把我十个指头都扎了个遍…呜",
+            "sourceName": "vo_lanyan_dialog_annoyed_01.wem"
+        },
+        "1b937f94c4c2045a": {
+            "hash": "1b937f94c4c2045a",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_jump_05.wem"
+        },
+        "20dc8c3259a239d7": {
+            "hash": "20dc8c3259a239d7",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attackheavy_02.wem"
+        },
+        "22730627d0d5018a": {
+            "hash": "22730627d0d5018a",
+            "directory": "External4",
+            "voiceContent": "有一次我跟着爷爷上门占卦，正巧碰到他从事主家中沮丧离开…我本以为屋里头的情况不容乐观，就连他也无计可施了。可我进屋后并没有感受到任何不妙的气息，爷爷这边得出的也是吉卦…兴许是他费了大功夫，累到没力气说话了。你说他很可能什么都没做？那我就更不懂了",
+            "sourceName": "vo_lanyan_teammate_chongyun_01.wem"
+        },
+        "27d8088c377fd9dc": {
+            "hash": "27d8088c377fd9dc",
+            "directory": "External4",
+            "voiceContent": "#按照家里的传统，生日嘛，总得收点银器傍傍身的。喏，这两个小藤人送你，头上有银燕的是我，{M#拿着小银剑的是你}{F#戴着花的是你}，嘻嘻，像不像？藤草我提前熏制过，挂在背包上可以帮你驱蚊除虫。小银饰样式也是我自己设计的，从银匠师傅手里拿回来后又仔细打磨了边角，绝对不会刮手。那么，祝你生辰快乐，愿福气运气常伴你左右",
+            "sourceName": "vo_lanyan_pref_birthday_01a.wem"
+        },
+        "281f20bb2d640116": {
+            "hash": "281f20bb2d640116",
+            "directory": "External5",
+            "voiceContent": "银铃…不响了",
+            "sourceName": "vo_lanyan_life_die_02.wem"
+        },
+        "2dd5799a52c7d570": {
+            "hash": "2dd5799a52c7d570",
+            "directory": "External5",
+            "voiceContent": "喝点水吗？尝尝我瓶子里的吧，泡薄荷叶子果然是明智的选择呢",
+            "sourceName": "vo_lanyan_weather_desert_01.wem"
+        },
+        "31fa759c29ded3e5": {
+            "hash": "31fa759c29ded3e5",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_hit_h_05.wem"
+        },
+        "33c97011c1aefd72": {
+            "hash": "33c97011c1aefd72",
+            "directory": "External6",
+            "voiceContent": "玄燕传喜",
+            "sourceName": "vo_lanyan_battle_skill3_02.wem"
+        },
+        "3551e40d3662238c": {
+            "hash": "3551e40d3662238c",
+            "directory": "External6",
+            "voiceContent": "跃风",
+            "sourceName": "vo_lanyan_battle_skill1_06.wem"
+        },
+        "3900144167ee6366": {
+            "hash": "3900144167ee6366",
+            "directory": "External7",
+            "voiceContent": "玉衡大人什么时候能闲下来呢？海灯节期间看她东奔西跑忙个不停，也没能找到机会请她吃顿饭，好好感谢她的招待…我还想拜托她帮我梳一对跟她一样的猫猫耳朵呢…会不会很僭越？但直觉告诉我她不会介意欸",
+            "sourceName": "vo_lanyan_teammate_keqing_01.wem"
+        },
+        "396d3dbe72119c51": {
+            "hash": "396d3dbe72119c51",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_jump_02.wem"
+        },
+        "3aa6137533dccdc6": {
+            "hash": "3aa6137533dccdc6",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attacklight_04.wem"
+        },
+        "41dd6862a580308c": {
+            "hash": "41dd6862a580308c",
+            "directory": "External8",
+            "voiceContent": "「燕衔泥，莫与齐」…别小瞧我哟，我的实力一路增长，如今要保护你也算绰绰有余了吧。哎呀，我知道这有不少你的功劳在里头…很感谢你",
+            "sourceName": "vo_lanyan_starUp_04.wem"
+        },
+        "466d547452e557ae": {
+            "hash": "466d547452e557ae",
+            "directory": "External8",
+            "voiceContent": "银器要时常擦拭才能焕发光亮，人果然也要不断磨练才能「身轻如燕」呀",
+            "sourceName": "vo_lanyan_starUp_02.wem"
+        },
+        "4696af3c882fff9d": {
+            "hash": "4696af3c882fff9d",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_hit_l_01.wem"
+        },
+        "46b79b8abbf65932": {
+            "hash": "46b79b8abbf65932",
+            "directory": "External8",
+            "voiceContent": "藤编不难的，我真没骗你！再怎么复杂精妙的工艺，也离不开最简单的一行一竖，一经一纬，只要稍微有点耐心都能编出东西来！比起手艺，更难的是「细心」，再难一些，是要有「恒心」…但在我看来这些都不是最关键的，要我说，最最重要的，是「开心」。要是做起来不开心，什么事情都做不好的，我讲的不止是藤编…总之，要开心呀！我也是，你也是",
+            "sourceName": "vo_lanyan_friendship_05.wem"
+        },
+        "47df5e33dffb4eae": {
+            "hash": "47df5e33dffb4eae",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attackmid_02.wem"
+        },
+        "49d62b8c55565957": {
+            "hash": "49d62b8c55565957",
+            "directory": "External9",
+            "voiceContent": "「糖也只在开心的时候吃才甜」，没心情的话吃什么都觉得差点意思…嘻嘻，好在这种情况很少发生",
+            "sourceName": "vo_lanyan_pref_foodDislike.wem"
+        },
+        "4a31dffc299a865a": {
+            "hash": "4a31dffc299a865a",
+            "directory": "External9",
+            "voiceContent": "翻飞",
+            "sourceName": "vo_lanyan_battle_skill1_04.wem"
+        },
+        "50405b08b7b66a96": {
+            "hash": "50405b08b7b66a96",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_sprint_start_02.wem"
+        },
+        "505da7f1581f68dc": {
+            "hash": "505da7f1581f68dc",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_idle_01.wem"
+        },
+        "50747a698cbe9437": {
+            "hash": "50747a698cbe9437",
+            "directory": "External10",
+            "voiceContent": "去哪都行，不去也行",
+            "sourceName": "vo_lanyan_teamJoin_01.wem"
+        },
+        "51554468de8d334e": {
+            "hash": "51554468de8d334e",
+            "directory": "External10",
+            "voiceContent": "有一回，我坐在树上编小摆件，伸个懒腰的功夫，刚编的藤制松果就被小松鼠全偷走了！还好后来我用双倍数量的真松果跟它们换回来了…东西被拿走是小事，但破坏小松鼠一天的好心情就不好了！忙活了一天采松果，回家发现是假的！唔…说不定还会被别的小松鼠嘲笑呢",
+            "sourceName": "vo_lanyan_pref_gift_01.wem"
+        },
+        "52b9d2d693e751b6": {
+            "hash": "52b9d2d693e751b6",
+            "directory": "External10",
+            "voiceContent": "被鸟叫吵醒了？哈哈，我去跟它们商量商量，但不一定奏效哦，它们有时也不听我的话",
+            "sourceName": "vo_lanyan_dialog_greetingMorning.wem"
+        },
+        "553f27877efb0ee8": {
+            "hash": "553f27877efb0ee8",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attacklight_06.wem"
+        },
+        "5552afa3a1a45636": {
+            "hash": "5552afa3a1a45636",
+            "directory": "External10",
+            "voiceContent": "看，阳光扫到的地方都镀上了一层金",
+            "sourceName": "vo_lanyan_weather_sunny_01.wem"
+        },
+        "5ad38085f8977829": {
+            "hash": "5ad38085f8977829",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_fly_start_02.wem"
+        },
+        "5f4f61857d80cc25": {
+            "hash": "5f4f61857d80cc25",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_climb_breath_02.wem"
+        },
+        "5fe3ae9c0df3b4fc": {
+            "hash": "5fe3ae9c0df3b4fc",
+            "directory": "External11",
+            "voiceContent": "你尝过了？肚子疼吗？眼前有小人在打转吗",
+            "sourceName": "vo_lanyan_spice_dislike_01.wem"
+        },
+        "62e935aa6d870432": {
+            "hash": "62e935aa6d870432",
+            "directory": "External12",
+            "voiceContent": "采了些很新鲜的花，我这就带回去给妈妈做好吃的…你也来嘛，我家里人见到你肯定高兴",
+            "sourceName": "vo_lanyan_dialog_greetingNoon.wem"
+        },
+        "658f4e18b7e2a455": {
+            "hash": "658f4e18b7e2a455",
+            "directory": "External12",
+            "voiceContent": "搬疾运厄",
+            "sourceName": "vo_lanyan_battle_skill3_01.wem"
+        },
+        "67c4c770d9904c85": {
+            "hash": "67c4c770d9904c85",
+            "directory": "External12",
+            "voiceContent": "那位万象风角灵官在蓝氏的族谱中确有记载，可我家这一脉早已从宗家分枝散叶了。奇门术法纷繁复杂，我也只是学了个皮毛而已，有很多难题我还要向前辈们请教呢…但唯独扎藤人的手艺就连爷爷都要向我看齐，哈哈…这能算一种「独当一面」吗",
+            "sourceName": "vo_lanyan_dialog_idle2.wem"
+        },
+        "67f759b46c291a09": {
+            "hash": "67f759b46c291a09",
+            "directory": "External12",
+            "voiceContent": "要来山里面玩吗？可以和柔柔羊玩躲避头槌，或者让朱喙鹈鹕扮演大嘴巴强盗，在限定时间内从它嘴里解救可怜的玉玉心羽鲈…想玩风行迷踪？你当猎手？哼哼，很自信嘛。好吧，要是你急得打转，我会摇响银铃给你提示的，摸到我的发尖就算你赢，我也是很自信的哦",
+            "sourceName": "vo_lanyan_friendship_02.wem"
+        },
+        "6bf5722450df65fc": {
+            "hash": "6bf5722450df65fc",
+            "directory": "External13",
+            "voiceContent": "夜市里有碳烤小昆虫！想一起去尝尝吗",
+            "sourceName": "vo_lanyan_dialog_greetingNight.wem"
+        },
+        "71ccf4d93e6ec885": {
+            "hash": "71ccf4d93e6ec885",
+            "directory": "External14",
+            "voiceContent": "给我点时间",
+            "sourceName": "vo_lanyan_life_less30_01.wem"
+        },
+        "728d9e3adc58ba8a": {
+            "hash": "728d9e3adc58ba8a",
+            "directory": "External14",
+            "voiceContent": "别急，我来数数",
+            "sourceName": "vo_lanyan_chest_open_03.wem"
+        },
+        "73e5d18fcaccfb75": {
+            "hash": "73e5d18fcaccfb75",
+            "directory": "External14",
+            "voiceContent": "好的藤器经篾薄如绸，纬条细若丝，经久不坏…说它能跟银器一样当传家宝一点都不夸张",
+            "sourceName": "vo_lanyan_character_idle_02.wem"
+        },
+        "7497227b46082b51": {
+            "hash": "7497227b46082b51",
+            "directory": "External14",
+            "voiceContent": "等等，我才编了两个结你怎么就…是你太快了还是我太慢了呢",
+            "sourceName": "vo_lanyan_starUp_01.wem"
+        },
+        "76092c3ad31e2251": {
+            "hash": "76092c3ad31e2251",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attackmid_01.wem"
+        },
+        "7b238c8106a11f50": {
+            "hash": "7b238c8106a11f50",
+            "directory": "External15",
+            "voiceContent": "赶街子去喽",
+            "sourceName": "vo_lanyan_teamJoin_02.wem"
+        },
+        "83f4bba3319ed714": {
+            "hash": "83f4bba3319ed714",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_hit_h_04.wem"
+        },
+        "87e3c6447e31cb23": {
+            "hash": "87e3c6447e31cb23",
+            "directory": "External16",
+            "voiceContent": "换我来吧，它们抓不住我",
+            "sourceName": "vo_lanyan_life_less30_teammate_02.wem"
+        },
+        "8884e7b4df046b76": {
+            "hash": "8884e7b4df046b76",
+            "directory": "External17",
+            "voiceContent": "脾气真差",
+            "sourceName": "vo_lanyan_battle_hit_H_02.wem"
+        },
+        "88adf5664a79b510": {
+            "hash": "88adf5664a79b510",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_hit_l_04.wem"
+        },
+        "8d25a24d27752dfc": {
+            "hash": "8d25a24d27752dfc",
+            "directory": "External17",
+            "voiceContent": "可以分我一些吗？沾沾喜气",
+            "sourceName": "vo_lanyan_chest_open_01.wem"
+        },
+        "8de923e183e574ea": {
+            "hash": "8de923e183e574ea",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_idle_03.wem"
+        },
+        "8deb98346d16b8e2": {
+            "hash": "8deb98346d16b8e2",
+            "directory": "External17",
+            "voiceContent": "之前我特别想要求证溺鬼的传说，就用棍子伸进闹水鬼的湖里…结果棍子真的被拽住了！水下面全是水草！要是下去游泳不被缠住才怪了…我还听说，日落后不要吃日落果，半夜时分不能对着镜子削苹果，这里头到底有什么依据呢…唔",
+            "sourceName": "vo_lanyan_pref_hobby.wem"
+        },
+        "8e39a765fd5a2524": {
+            "hash": "8e39a765fd5a2524",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attacklight_02.wem"
+        },
+        "93e79c5a82e6fe06": {
+            "hash": "93e79c5a82e6fe06",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_climb_02.wem"
+        },
+        "96c4432d4eca2ee3": {
+            "hash": "96c4432d4eca2ee3",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_hit_l_03.wem"
+        },
+        "98634ec3f9b04779": {
+            "hash": "98634ec3f9b04779",
+            "directory": "External19",
+            "voiceContent": "唯独现在…不能倒下",
+            "sourceName": "vo_lanyan_life_die_01.wem"
+        },
+        "9b499fc20af6c79a": {
+            "hash": "9b499fc20af6c79a",
+            "directory": "External19",
+            "voiceContent": "都说第一印象很重要，在万民堂吃过在璃月港的第一顿饭后，我就后悔了。后悔怎么没有早点来璃月港，这样说不定能早点认识香菱！她听说我老家山里有许多罕见食材后，忙不迭就开始计划来沉玉谷的行程了，到时我一定得让她满载而归",
+            "sourceName": "vo_lanyan_teammate_xiangling_01.wem"
+        },
+        "9f1f2a3a9d020ece": {
+            "hash": "9f1f2a3a9d020ece",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attackheavy_03.wem"
+        },
+        "a0491e4c47841a70": {
+            "hash": "a0491e4c47841a70",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attackheavy_01.wem"
+        },
+        "a3908034e2d1caee": {
+            "hash": "a3908034e2d1caee",
+            "directory": "External20",
+            "voiceContent": "胡堂主给人感觉总是嘻嘻哈哈的，哪怕在危急的困境中她都没有忘记说玩笑话来安抚我…我跟她认识的时间不长，她一直都这样乐观积极吗？嗯…不管怎样，至少从今天开始，祝愿她笑的时候是真的很开心，而不是为了不让身边的人担心",
+            "sourceName": "vo_lanyan_teammate_hutao_01.wem"
+        },
+        "a3c8ac289ab90e72": {
+            "hash": "a3c8ac289ab90e72",
+            "directory": "External20",
+            "voiceContent": "我跟嘉明从小就认识，还记得他小时候是家喻户晓的淘气大魔王，现在完全看不出来？哈哈，也许这就是成长吧，我也跟小时候不太一样呢。但有一点他始终没变——就是走到哪总会带点好吃的在身上，每次回来都不会忘记给家乡朋友带些外地的点心。当然，更不会忘记打包一堆家乡小吃带走",
+            "sourceName": "vo_lanyan_teammate_gaming_01.wem"
+        },
+        "a4f6e37b593d5898": {
+            "hash": "a4f6e37b593d5898",
+            "directory": "External20",
+            "voiceContent": "噢，谢谢。这里有蘸水哦，蘸着吃更美味",
+            "sourceName": "vo_lanyan_spice_normal_01.wem"
+        },
+        "aaea417e00291329": {
+            "hash": "aaea417e00291329",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attacklight_07.wem"
+        },
+        "b4b0a78c8825ac54": {
+            "hash": "b4b0a78c8825ac54",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_climb_breath_03.wem"
+        },
+        "b67925ea48f6b0a4": {
+            "hash": "b67925ea48f6b0a4",
+            "directory": "External22",
+            "voiceContent": "来呀，握个手，抱一个吧。嗯…？来握手呀？哈哈，这回真的是我想要跟你握手的意思啦！好朋友之间不是这样相互鼓励的吗？对不起哦，怪我没有事先说清楚。但也没关系，我会多去找你玩，这样自然你也懂我我也懂你啦",
+            "sourceName": "vo_lanyan_dialog_close1.wem"
+        },
+        "b7afe3c6b5717ed0": {
+            "hash": "b7afe3c6b5717ed0",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_jump_03.wem"
+        },
+        "b922e209815ffbbb": {
+            "hash": "b922e209815ffbbb",
+            "directory": "External23",
+            "voiceContent": "漫卷翩翩",
+            "sourceName": "vo_lanyan_battle_skill3_03.wem"
+        },
+        "ba28bfbb74189748": {
+            "hash": "ba28bfbb74189748",
+            "directory": "External23",
+            "voiceContent": "我头上的银饰是「银翎翦玉玄鸟」，是家中祖传的宝贝。银簪、银项圈、胸兜坠是爸爸妈妈给我的庆生礼物…噢，银手镯是有一年海灯节爷爷送的，银耳坠好像是逐月节的礼物…还有庆祝我学会用风之翼送的、庆祝我拿到神之眼送的、庆祝我吃了满满三大碗米饭送的…呵呵，在我们家族的传统里，银器有避邪解毒，护佑平安的作用，所以家人们总会想着法子给我添置…一套行头下来确实很沉呢…是沉甸甸又令人安心的爱哦",
+            "sourceName": "vo_lanyan_friendship_03.wem"
+        },
+        "bcd0756f7353f1c2": {
+            "hash": "bcd0756f7353f1c2",
+            "directory": "External23",
+            "voiceContent": "叮叮叮叮叮——风有点生气了啊",
+            "sourceName": "vo_lanyan_weather_gale_01.wem"
+        },
+        "bfc9756cf36021af": {
+            "hash": "bfc9756cf36021af",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attacklight_05.wem"
+        },
+        "c08489118402b0f9": {
+            "hash": "c08489118402b0f9",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_sprint_start_01.wem"
+        },
+        "c0bc173ec96bd5e9": {
+            "hash": "c0bc173ec96bd5e9",
+            "directory": "External24",
+            "voiceContent": "坐好。朋友。握手~啊不不，我是让小动物们看我，不是叫你坐下啦！快请起来…这句话的意思是「大家看过来哦，今天有一位新朋友跟我们一起玩！」有点难懂吗？唔…「坐好」可以是「先别动」或者「听我说」，也可以是「停下来」…规律吗？哎呀总之你多来山里跟我们玩，自然就懂啦",
+            "sourceName": "vo_lanyan_dialog_close.wem"
+        },
+        "c1fa48ca05088aab": {
+            "hash": "c1fa48ca05088aab",
+            "directory": "External24",
+            "voiceContent": "难办了",
+            "sourceName": "vo_lanyan_life_less30_03.wem"
         },
         "c49b2a072fee5a61": {
             "hash": "c49b2a072fee5a61",
             "directory": "External24",
-            "voiceContent": "感谢神之眼的助力，我居然能毫不费力地将环刃抛起又稳稳接住…啊，环刃非常锋利，小朋友切勿模仿！但如果是你…要上手试试吗？身要定，臂要稳，手要疾，你的话一定能做到！",
+            "voiceContent": "感谢神之眼的助力，我居然能毫不费力地将环刃抛起又稳稳接住…啊，环刃非常锋利，小朋友切勿模仿！但如果是你…要上手试试吗？身要定，臂要稳，手要疾，你的话一定能做到",
             "sourceName": "vo_lanyan_dialog_pendant_01.wem"
+        },
+        "c56b185c93164c0c": {
+            "hash": "c56b185c93164c0c",
+            "directory": "External24",
+            "voiceContent": "不能硬撑了，快撤下来",
+            "sourceName": "vo_lanyan_life_less30_teammate_01.wem"
+        },
+        "c82ab66c0f8582b7": {
+            "hash": "c82ab66c0f8582b7",
+            "directory": "External25",
+            "voiceContent": "握手~握手~握手~还记得吗？意思是表示开心，表示感谢，表示一切好的事情好的心情",
+            "sourceName": "vo_lanyan_starUp_03.wem"
+        },
+        "c8ab0d8278c42f7b": {
+            "hash": "c8ab0d8278c42f7b",
+            "directory": "External25",
+            "voiceContent": "小时候，家里放的藤人常常让我发怵，该怎么描述好呢…黑黑灰灰的枯草随便一扎，是小孩子看了就会做噩梦的程度！当时我觉得爷爷一定是中邪了，才把我送去跟宗家的姐姐学害人的法术呢！于是半夜壮着胆子，把能找到的藤人统统烧掉了。好在吸收了病气的藤人本来就是要被焚毁的，算是没捅大篓子…从那时我就开始思考，如果把藤人做得可爱一些，是不是就不容易被人误解成歪门邪术了呢",
+            "sourceName": "vo_lanyan_friendship_04.wem"
+        },
+        "c92c318dbca520a3": {
+            "hash": "c92c318dbca520a3",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_jump_04.wem"
+        },
+        "c99cc02b9c9b79b7": {
+            "hash": "c99cc02b9c9b79b7",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_attackmid_03.wem"
+        },
+        "d5ee82b42575d8ff": {
+            "hash": "d5ee82b42575d8ff",
+            "directory": "External26",
+            "voiceContent": "飞不起来",
+            "sourceName": "vo_lanyan_life_die_03.wem"
+        },
+        "d7885793fb1c3cc2": {
+            "hash": "d7885793fb1c3cc2",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_hit_h_06.wem"
+        },
+        "d8dc8157111589ee": {
+            "hash": "d8dc8157111589ee",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_hit_l_06.wem"
+        },
+        "dc51779c17101176": {
+            "hash": "dc51779c17101176",
+            "directory": "External27",
+            "voiceContent": "听见吗？我头上的银饰叮铃…叮铃…风很温柔呢",
+            "sourceName": "vo_lanyan_weather_breezy_01.wem"
+        },
+        "de2fc9ab603210df": {
+            "hash": "de2fc9ab603210df",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_battle_hit_h_03.wem"
+        },
+        "e09c26b01ca1c74e": {
+            "hash": "e09c26b01ca1c74e",
+            "directory": "External28",
+            "voiceContent": "我曾在山林里偶遇过行秋少爷几回，他身边没有飞云商会的伙计跟着，看起来不像在办公事…在那以后他时不时会给我送几本最新出版的志怪小说，请我帮他保守秘密。完了…我是不是不小心说出来了…这下请你帮我们俩都保守住秘密啊",
+            "sourceName": "vo_lanyan_teammate_xingqiu_01.wem"
+        },
+        "e299d7760556196f": {
+            "hash": "e299d7760556196f",
+            "directory": "External28",
+            "voiceContent": "七七姑娘喜欢小团雀对吗？想用藤皮编一只送给她…你知道她喜欢什么颜色吗",
+            "sourceName": "vo_lanyan_teammate_qiqi_01.wem"
+        },
+        "e92b913456e7119a": {
+            "hash": "e92b913456e7119a",
+            "directory": "External29",
+            "voiceContent": "别",
+            "sourceName": "vo_lanyan_battle_hit_L_02.wem"
+        },
+        "e9fd57ee8df47d9b": {
+            "hash": "e9fd57ee8df47d9b",
+            "directory": "External29",
+            "voiceContent": "幸福感就是…每一口都细嚼慢咽直到吃完碗里最后一粒米，躺在草地上听着耳边的呼呼风声睡午觉，不被打扰地看完整整十册的志怪连载小说",
+            "sourceName": "vo_lanyan_dialog_idle.wem"
+        },
+        "ea8f527d2c4b32c6": {
+            "hash": "ea8f527d2c4b32c6",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_fly_start_01.wem"
+        },
+        "ed6273866099fe12": {
+            "hash": "ed6273866099fe12",
+            "directory": "External29",
+            "voiceContent": "今天的计划？嗯…听随当下的心意而动。明天也是，每天都是，嘻嘻",
+            "sourceName": "vo_lanyan_character_idle_01.wem"
+        },
+        "f12501cf735ae475": {
+            "hash": "f12501cf735ae475",
+            "directory": "External30",
+            "voiceContent": "新鲜的花不仅好看好闻，做成糕饼还很好吃！清新不甜腻，再泡上一壶花茶…唔…走吧，一起去采花？不用找花篮啦，去到山里我现编一个",
+            "sourceName": "vo_lanyan_pref_foodLike.wem"
+        },
+        "f1e38a0df69aaff2": {
+            "hash": "f1e38a0df69aaff2",
+            "directory": "External30",
+            "voiceContent": "好吃欸！稍等，我去把珍藏的纯银餐具拿出来，这才配得上这道菜嘛",
+            "sourceName": "vo_lanyan_spice_pref_01.wem"
+        },
+        "f1f297980dff84e4": {
+            "hash": "f1f297980dff84e4",
+            "directory": "External30",
+            "voiceContent": "天暖燕子么搭窝窝，升雷扯闪么我家躲",
+            "sourceName": "vo_lanyan_character_idle_03.wem"
+        },
+        "f2db94f49b51a9b4": {
+            "hash": "f2db94f49b51a9b4",
+            "directory": "External30",
+            "voiceContent": "想吃野蕈真的不能马虎，许多有毒的蕈子根本吃不得。另一些，则必须在处理的时候加工到位，用油炒熟！如果一顿吃不完，第二顿也要再次炒熟炒透，很多人就是在第二次中的招！如果吃两口后看到家里的鸡来找你借火，或者院子里的狗喊你去收衣服了，那么不要犹豫，赶快叫它们带你去看医生吧",
+            "sourceName": "vo_lanyan_dialog_share_01.wem"
+        },
+        "f56315bda86d87d9": {
+            "hash": "f56315bda86d87d9",
+            "directory": "External30",
+            "voiceContent": "不对头",
+            "sourceName": "vo_lanyan_battle_hit_H_01.wem"
+        },
+        "f779d0329bac7a93": {
+            "hash": "f779d0329bac7a93",
+            "directory": "External30",
+            "voiceContent": "好消息！你快看里面有什么",
+            "sourceName": "vo_lanyan_chest_open_02.wem"
+        },
+        "f7b32bab9fdcd4a6": {
+            "hash": "f7b32bab9fdcd4a6",
+            "directory": "External30",
+            "voiceContent": "先别说话！稍等一下…马上…编完这个把手就好…呼…搞定！嘻嘻别见怪，我脑筋比较简单，一时只能干一件事。但现在可以专心跟你聊天啦",
+            "sourceName": "vo_lanyan_friendship_01.wem"
+        },
+        "f7ca91f5217da2a3": {
+            "hash": "f7ca91f5217da2a3",
+            "directory": "External30",
+            "voiceContent": "穿织",
+            "sourceName": "vo_lanyan_battle_skill1_05.wem"
+        },
+        "fb297bc93ff34594": {
+            "hash": "fb297bc93ff34594",
+            "directory": "External31",
+            "voiceContent": "我好困…先睡了先睡了，就不陪你熬夜了",
+            "sourceName": "vo_lanyan_dialog_greetingNight2.wem"
+        },
+        "fce0e678c3413cd1": {
+            "hash": "fce0e678c3413cd1",
+            "directory": "External31",
+            "voiceContent": "来啦来啦",
+            "sourceName": "vo_lanyan_teamJoin_03.wem"
+        },
+        "fe0fbd01afc8427f": {
+            "hash": "fe0fbd01afc8427f",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_lanyan_explore_sprint_start_03.wem"
         }
     }
 }

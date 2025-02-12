@@ -1,59 +1,11 @@
 {
     "Teapot": {},
     "Quests": {
-        "3d5b78615e6acd33": {
-            "hash": "3d5b78615e6acd33",
-            "directory": "External7",
-            "voiceContent": "Watch out for the fruits he's spitting out. I can use those against him.",
-            "sourceName": "vo_JNQLQ005_12_kinich_02.wem"
-        },
-        "b86e46699f155a2a": {
-            "hash": "b86e46699f155a2a",
-            "directory": "External23",
-            "voiceContent": "Yeah, that's it!",
-            "sourceName": "vo_JNQLQ005_12_kinich_03.wem"
-        },
-        "2483ba351ecd1324": {
-            "hash": "2483ba351ecd1324",
-            "directory": "External4",
-            "voiceContent": "The latest battle report's here.",
-            "sourceName": "vo_NTAQ106_28_kinich_01.wem"
-        },
-        "a97817f6ab312d0d": {
-            "hash": "a97817f6ab312d0d",
-            "directory": "External21",
-            "voiceContent": "That's not gonna work. You have to do them in order, and there's no going back. You'd better start again.",
-            "sourceName": "vo_JNQLQ005_10_kinich_06.wem"
-        },
-        "080a8159b0f4c6c8": {
-            "hash": "080a8159b0f4c6c8",
-            "directory": "External1",
-            "voiceContent": "They'll tear you to pieces given half the chance, so be careful.",
-            "sourceName": "vo_JNQLQ004_15_kinich_01.wem"
-        },
-        "70cc0e985f843f09": {
-            "hash": "70cc0e985f843f09",
-            "directory": "External14",
-            "voiceContent": "The Abyss has amassed a large army, but we have the manpower to take them on. Plus, we can use the power of the Night Kingdom to communicate directly and mobilize our forces on the fly.",
-            "sourceName": "vo_NTAQ108_1_kinich_01.wem"
-        },
         "0087e08f9337f9a6": {
             "hash": "0087e08f9337f9a6",
             "directory": "External0",
-            "voiceContent": "There's no rush. Slow and steady does it.",
+            "voiceContent": "There's no rush. Slow and steady does it",
             "sourceName": "vo_NTAQ108_1_kinich_02.wem"
-        },
-        "b01617535f09a1ab": {
-            "hash": "b01617535f09a1ab",
-            "directory": "External22",
-            "voiceContent": "Just thought I'd pass that on. Ajaw's currently venting his anger on the Abyss monsters.",
-            "sourceName": "vo_NTAQ108_4_kinich_02.wem"
-        },
-        "217ecdc328d9015a": {
-            "hash": "217ecdc328d9015a",
-            "directory": "External4",
-            "voiceContent": "How dare you! You insolent, contemptuous—",
-            "sourceName": "vo_NTAQ108_4_ajaw_02.wem"
         },
         "06a0896c142f3934": {
             "hash": "06a0896c142f3934",
@@ -61,463 +13,763 @@
             "voiceContent": "How dare Mavuika prevent Natlan's warriors from hearing the deafening battle-cries of the Almighty Dragonlord, K'uhul Ajaw!?",
             "sourceName": "vo_NTAQ108_4_kinich_01.wem"
         },
+        "080a8159b0f4c6c8": {
+            "hash": "080a8159b0f4c6c8",
+            "directory": "External1",
+            "voiceContent": "They'll tear you to pieces given half the chance, so be careful",
+            "sourceName": "vo_JNQLQ004_15_kinich_01.wem"
+        },
+        "217ecdc328d9015a": {
+            "hash": "217ecdc328d9015a",
+            "directory": "External4",
+            "voiceContent": "How dare you! You insolent, contemptuous",
+            "sourceName": "vo_NTAQ108_4_ajaw_02.wem"
+        },
+        "2483ba351ecd1324": {
+            "hash": "2483ba351ecd1324",
+            "directory": "External4",
+            "voiceContent": "The latest battle report's here",
+            "sourceName": "vo_NTAQ106_28_kinich_01.wem"
+        },
+        "3d5b78615e6acd33": {
+            "hash": "3d5b78615e6acd33",
+            "directory": "External7",
+            "voiceContent": "Watch out for the fruits he's spitting out. I can use those against him",
+            "sourceName": "vo_JNQLQ005_12_kinich_02.wem"
+        },
+        "70cc0e985f843f09": {
+            "hash": "70cc0e985f843f09",
+            "directory": "External14",
+            "voiceContent": "The Abyss has amassed a large army, but we have the manpower to take them on. Plus, we can use the power of the Night Kingdom to communicate directly and mobilize our forces on the fly",
+            "sourceName": "vo_NTAQ108_1_kinich_01.wem"
+        },
         "7b82ebcb573d135d": {
             "hash": "7b82ebcb573d135d",
             "directory": "External15",
-            "voiceContent": "Miserable dregs of the Abyss, kneel before the Almighty Dragonlord, K'uhul Ajaw!",
+            "voiceContent": "Miserable dregs of the Abyss, kneel before the Almighty Dragonlord, K'uhul Ajaw",
             "sourceName": "vo_NTAQ108_4_ajaw_01.wem"
+        },
+        "a97817f6ab312d0d": {
+            "hash": "a97817f6ab312d0d",
+            "directory": "External21",
+            "voiceContent": "That's not gonna work. You have to do them in order, and there's no going back. You'd better start again",
+            "sourceName": "vo_JNQLQ005_10_kinich_06.wem"
+        },
+        "b01617535f09a1ab": {
+            "hash": "b01617535f09a1ab",
+            "directory": "External22",
+            "voiceContent": "Just thought I'd pass that on. Ajaw's currently venting his anger on the Abyss monsters",
+            "sourceName": "vo_NTAQ108_4_kinich_02.wem"
+        },
+        "b86e46699f155a2a": {
+            "hash": "b86e46699f155a2a",
+            "directory": "External23",
+            "voiceContent": "Yeah, that's it",
+            "sourceName": "vo_JNQLQ005_12_kinich_03.wem"
         },
         "fc362c498042e1c2": {
             "hash": "fc362c498042e1c2",
             "directory": "External31",
-            "voiceContent": "These rascals are playing dirty! Strength in numbers is the lowest form of strength!",
+            "voiceContent": "These rascals are playing dirty! Strength in numbers is the lowest form of strength",
             "sourceName": "vo_NTAQ106_30_ajaw_01.wem"
         }
     },
     "Gameplay": {
-        "b7892618324c1746": {
-            "hash": "b7892618324c1746",
-            "directory": "External22",
-            "voiceContent": "Locked on.",
-            "sourceName": "vo_kinich_battle_skill1_04.wem"
+        "0381de9b51e3ca8c": {
+            "hash": "0381de9b51e3ca8c",
+            "directory": "External0",
+            "voiceContent": "I've seen how she handles her work. Our methods of conflict-resolution are quite different. I tend to get one party to shut up, but she silences both. By the time they wake up in their sick beds, they have nothing further to say, because they've forgotten whatever it was they were fighting about",
+            "sourceName": "vo_kinich_teammate_chasca_01.wem"
         },
-        "3cac880ff1cf6b2f": {
-            "hash": "3cac880ff1cf6b2f",
-            "directory": "External7",
-            "voiceContent": "Target acquired.",
-            "sourceName": "vo_kinich_battle_skill1_05.wem"
+        "060592bb728548c0": {
+            "hash": "060592bb728548c0",
+            "directory": "External0",
+            "voiceContent": "Ajaw Ours is a glory to which none can compare!Ajaw Especially not when I'm in a bad mood.Ajaw Measly insects, now you must pay",
+            "sourceName": "vo_kinich_battle_skill3_08.wem"
         },
-        "d2223a2a7d6a5868": {
-            "hash": "d2223a2a7d6a5868",
-            "directory": "External26",
-            "voiceContent": "I got 'em cornered.",
-            "sourceName": "vo_kinich_battle_skill1_06.wem"
+        "102861efe0630f09": {
+            "hash": "102861efe0630f09",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_h_05.wem"
         },
         "12f2bc70cc5517d9": {
             "hash": "12f2bc70cc5517d9",
             "directory": "External2",
-            "voiceContent": "For the Lord of the Night.",
+            "voiceContent": "For the Lord of the Night",
             "sourceName": "vo_kinich_battle_skill3_01.wem"
         },
-        "a6148e6802ebfb76": {
-            "hash": "a6148e6802ebfb76",
-            "directory": "External20",
-            "voiceContent": "Claim these souls.",
-            "sourceName": "vo_kinich_battle_skill3_02.wem"
-        },
-        "fbbf705e8419a0df": {
-            "hash": "fbbf705e8419a0df",
-            "directory": "External31",
-            "voiceContent": "Shadow of the past, mine to command.",
-            "sourceName": "vo_kinich_battle_skill3_03.wem"
+        "14341bbd8d653e18": {
+            "hash": "14341bbd8d653e18",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_breath_03.wem"
         },
         "15969b8a23776e10": {
             "hash": "15969b8a23776e10",
             "directory": "External2",
-            "voiceContent": "Kinich Do I get a share?Ajaw You actually want this trash?",
+            "voiceContent": "Kinich Do I get a share?Ajaw You actually want this trash",
             "sourceName": "vo_kinich_chest_open_01.wem"
         },
-        "eae88972a99696f7": {
-            "hash": "eae88972a99696f7",
-            "directory": "External29",
-            "voiceContent": "Kinich Everything has its use.Ajaw Were you not given toys to play with as a child? Is that it?",
-            "sourceName": "vo_kinich_chest_open_02.wem"
+        "1793acb1525f152e": {
+            "hash": "1793acb1525f152e",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_idle_03.wem"
         },
-        "65c5277aea1342ee": {
-            "hash": "65c5277aea1342ee",
-            "directory": "External12",
-            "voiceContent": "Ajaw Tch, worthless pile of garbage.Kinich Stop yapping. Just take it or leave it.",
-            "sourceName": "vo_kinich_chest_open_03.wem"
+        "188e08364c104c95": {
+            "hash": "188e08364c104c95",
+            "directory": "External3",
+            "voiceContent": "Kinich If you ever need my help with some of your commissions from the Adventurers' Guild, just let me know.Ajaw Oh, yes please! Give him the most dangerous, most difficult commissions you can find! The higher the risk of fatality, the better",
+            "sourceName": "vo_kinich_dialog_close.wem"
         },
-        "35b6fe926d589e38": {
-            "hash": "35b6fe926d589e38",
-            "directory": "External6",
-            "voiceContent": "You know you're on the brink, right?",
-            "sourceName": "vo_kinich_life_less30_teammate_01.wem"
+        "1bf3164a1249b55d": {
+            "hash": "1bf3164a1249b55d",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackmid_01.wem"
         },
-        "f8658c7a58a1763f": {
-            "hash": "f8658c7a58a1763f",
-            "directory": "External31",
-            "voiceContent": "Wanna make me an offer?",
-            "sourceName": "vo_kinich_life_less30_teammate_02.wem"
-        },
-        "b60582b2488aa7fd": {
-            "hash": "b60582b2488aa7fd",
-            "directory": "External22",
-            "voiceContent": "Don't... turn back...",
-            "sourceName": "vo_kinich_life_die_01.wem"
-        },
-        "5c0064aa1a24e2fa": {
-            "hash": "5c0064aa1a24e2fa",
-            "directory": "External11",
-            "voiceContent": "Everything... has a price...",
-            "sourceName": "vo_kinich_life_die_02.wem"
-        },
-        "f21c6b9a8fd92bea": {
-            "hash": "f21c6b9a8fd92bea",
-            "directory": "External30",
-            "voiceContent": "Deal. I'm in.",
-            "sourceName": "vo_kinich_teamJoin_01.wem"
+        "1ef783f6bf983b41": {
+            "hash": "1ef783f6bf983b41",
+            "directory": "External3",
+            "voiceContent": "Being a Saurian hunter is an unusual occupation, and not everyone approves of it. But sometimes, a conflict emerges where there's no pleasing both sides, and someone has to step up and get their hands dirty. I have no problem being that person, as long as the price is right",
+            "sourceName": "vo_kinich_dialog_idle2.wem"
         },
         "200f09a182cc6b6d": {
             "hash": "200f09a182cc6b6d",
             "directory": "External4",
-            "voiceContent": "It's as good as done.",
+            "voiceContent": "It's as good as done",
             "sourceName": "vo_kinich_teamJoin_02.wem"
         },
-        "b490efaa64131fdc": {
-            "hash": "b490efaa64131fdc",
-            "directory": "External22",
-            "voiceContent": "Glad to be working with you.",
-            "sourceName": "vo_kinich_teamJoin_03.wem"
+        "20ae81cd2663f515": {
+            "hash": "20ae81cd2663f515",
+            "directory": "External4",
+            "voiceContent": "My mistake",
+            "sourceName": "vo_kinich_battle_hit_H_01.wem"
         },
-        "495afc243e6e33fe": {
-            "hash": "495afc243e6e33fe",
-            "directory": "External9",
-            "voiceContent": "Kinich Ajaw loves being antagonistic. Just ignore him when he's mouthing off, don't let him get under your skin.Ajaw Kiniiiiiich! I dare you to release me and say that to my face!",
-            "sourceName": "vo_kinich_character_idle_01.wem"
+        "20d05366d70cde84": {
+            "hash": "20d05366d70cde84",
+            "directory": "External4",
+            "voiceContent": "I saw a strange job posting once while passing by the Children of Echoes' territory. The requester was looking for a hardy plant that wouldn't take much maintenance, so I brought over some Saurian claw succulent seeds, along with a pot and some fertilizer. It grows well all over Natlan, even in the most barren areas. But when I went to collect my payment, I saw that not a single seedling had sprouted from the pot.I paid the price for overestimating Xilonen's gardening skills. This was one of the few failed jobs on my record",
+            "sourceName": "vo_kinich_teammate_xilonen_01.wem"
         },
-        "a3960a2c6d016ca1": {
-            "hash": "a3960a2c6d016ca1",
-            "directory": "External20",
-            "voiceContent": "I'm not the friend to come to for words of comfort or encouragement. But, when it comes to weighing the costs of your actions, ask away.",
-            "sourceName": "vo_kinich_character_idle_02.wem"
+        "22801a1934d8a984": {
+            "hash": "22801a1934d8a984",
+            "directory": "External4",
+            "voiceContent": "I saw a job posting about her once. Some lowlifes from her tribe got jealous that she'd received an ancient name, and basically tried to order a hit on her Saurian companion... They paid the price, I made sure of that",
+            "sourceName": "vo_kinich_teammate_kachina_01.wem"
         },
-        "f92db03377d47f20": {
-            "hash": "f92db03377d47f20",
-            "directory": "External31",
-            "voiceContent": "Here's how I allocate my energy on a job Seventy percent goes to investigating, ten percent to making a final decision, and the remainder for execution.",
-            "sourceName": "vo_kinich_character_idle_03.wem"
+        "237b7a8b9edd52b4": {
+            "hash": "237b7a8b9edd52b4",
+            "directory": "External4",
+            "voiceContent": "Don't forget to stay hydrated",
+            "sourceName": "vo_kinich_weather_desert_01.wem"
         },
-        "9ffb421e532c58ad": {
-            "hash": "9ffb421e532c58ad",
-            "directory": "External19",
-            "voiceContent": "Tch. The hems of my pants are still dripping...",
-            "sourceName": "vo_kinich_weather_afterRain_01.wem"
+        "2536e86b526da8cc": {
+            "hash": "2536e86b526da8cc",
+            "directory": "External4",
+            "voiceContent": "Ajaw You really are a one-trick pony, you know..",
+            "sourceName": "vo_ajaw_battle_skill1_03.wem"
+        },
+        "25ad47ac7db91636": {
+            "hash": "25ad47ac7db91636",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_breath_01.wem"
+        },
+        "299bcb0f310da9f1": {
+            "hash": "299bcb0f310da9f1",
+            "directory": "External5",
+            "voiceContent": "Kinich Out in the wild, I eat for convenience. Meat and fruits are always my preference, of course.Ajaw Ha, look at you, pretending you're not a picky eater. How come I never see you picking any grainfruits, hmm?Kinich Too heavy. I travel light",
+            "sourceName": "vo_kinich_pref_foodLike.wem"
+        },
+        "2dabbec33f057052": {
+            "hash": "2dabbec33f057052",
+            "directory": "External5",
+            "voiceContent": "I am a Saurian hunter. When there's no Saurians to hunt, I take on other jobs too. I guess that means we're in the same line of work",
+            "sourceName": "vo_kinich_friendship_01.wem"
+        },
+        "2dcbf3f015f0ed12": {
+            "hash": "2dcbf3f015f0ed12",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_04.wem"
+        },
+        "2e78c0fc3a84dcde": {
+            "hash": "2e78c0fc3a84dcde",
+            "directory": "External5",
+            "voiceContent": "Kinich This is quite delicious. I should offer you some cash in return, or some kind of gift if you'd prefer.Ajaw Spit it out, you greedy snake! Some of that was meant for me",
+            "sourceName": "vo_kinich_spice_pref_01.wem"
+        },
+        "2ed4e2d4e9861a24": {
+            "hash": "2ed4e2d4e9861a24",
+            "directory": "External5",
+            "voiceContent": "I did weeks of preparation for my first Saurian hunt. I spent several days just observing, stalking, and lying in wait, created three different traps, no less, and made detailed notes of its daily routine and feeding habits...A lot of that effort was wasted, but it was a necessary waste",
+            "sourceName": "vo_kinich_friendship_03.wem"
+        },
+        "2f3ec27b4d9af381": {
+            "hash": "2f3ec27b4d9af381",
+            "directory": "External5",
+            "voiceContent": "Time for you to pay the price",
+            "sourceName": "vo_kinich_life_less30_01.wem"
+        },
+        "325c1801c35673e4": {
+            "hash": "325c1801c35673e4",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_06.wem"
         },
         "33cfa08d5e4fe80b": {
             "hash": "33cfa08d5e4fe80b",
             "directory": "External6",
-            "voiceContent": "Ajaw You call that a lightning strike? It looked more like a puny bug with a glowing butt fell out of the sky.Kinich There's still more light in that insect's butt than in your entire soul.Ajaw You take that back!",
+            "voiceContent": "Ajaw You call that a lightning strike? It looked more like a puny bug with a glowing butt fell out of the sky.Kinich There's still more light in that insect's butt than in your entire soul.Ajaw You take that back",
             "sourceName": "vo_kinich_weather_thunder_01.wem"
+        },
+        "35121d8fffe64b03": {
+            "hash": "35121d8fffe64b03",
+            "directory": "External6",
+            "voiceContent": "As you can probably guess, I've taken jobs from her before. I helped her purchase a heavy stack of paper-based reading material from an Inazuman merchant. Not to pry into my clients' private affairs, but... don't the Masters of the Night-Wind use woven fabric instead of paper",
+            "sourceName": "vo_kinich_teammate_citlali_01.wem"
+        },
+        "359603c45bfb0002": {
+            "hash": "359603c45bfb0002",
+            "directory": "External6",
+            "voiceContent": "Kinich When picking Quenepa Berries, you should always check to make sure there are no pesky Saurians nearby.Ajaw You stingy little lizard-brain! You slimy, slithering, miserly worm! You're a selfish butthole! I only gave those festering fruits a second look because I was starved half to death!Kinich Suit yourself, more for me.Ajaw Gahhh! My fury cannot be contained",
+            "sourceName": "vo_kinich_pref_gift_01.wem"
+        },
+        "35b6fe926d589e38": {
+            "hash": "35b6fe926d589e38",
+            "directory": "External6",
+            "voiceContent": "You know you're on the brink, right",
+            "sourceName": "vo_kinich_life_less30_teammate_01.wem"
+        },
+        "3b4cfe57fff42c4c": {
+            "hash": "3b4cfe57fff42c4c",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_04.wem"
+        },
+        "3c2024be3252f6f2": {
+            "hash": "3c2024be3252f6f2",
+            "directory": "External7",
+            "voiceContent": "Morning. I'm about to head out, and I won't be back until tomorrow morning. Don't wait up for me",
+            "sourceName": "vo_kinich_dialog_greetingMorning.wem"
+        },
+        "3c76ea69aa762a6e": {
+            "hash": "3c76ea69aa762a6e",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_02.wem"
+        },
+        "3cac880ff1cf6b2f": {
+            "hash": "3cac880ff1cf6b2f",
+            "directory": "External7",
+            "voiceContent": "Target acquired",
+            "sourceName": "vo_kinich_battle_skill1_05.wem"
+        },
+        "3ee373ae8d5103dc": {
+            "hash": "3ee373ae8d5103dc",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_jump_03.wem"
+        },
+        "3fcf46d5a11752fd": {
+            "hash": "3fcf46d5a11752fd",
+            "directory": "External7",
+            "voiceContent": "Kinich Ajaw?Ajaw Alright, alright. Tch, you love bossing people around almost as much as you enjoy taking people's money. Next time, get your own pair of wings and you do the flying... You, yes you. Don't just stand there, climb up onto my back already. A ride through the skies on the back of the Almighty Dragonlord, K'uhul Ajaw is a once-in-a-lifetime honor.Kinich Don't worry, it's just a gentle cruise through the forest. Just follow me. I planned out a route in advance and I promise it's safe.Ajaw Don't forget what you promised me in return!Kinich Alright, now hop on... Happy birthday",
+            "sourceName": "vo_kinich_pref_birthday_01.wem"
+        },
+        "400d5fc037d301fe": {
+            "hash": "400d5fc037d301fe",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_jump_05.wem"
+        },
+        "42c595b2bf60e1f8": {
+            "hash": "42c595b2bf60e1f8",
+            "directory": "External8",
+            "voiceContent": "Ajaw has his own reasons for putting me in harm's way, but really, I don't mind taking risks to lend you a hand. For all my talk about everything having its price, I believe some things in this world are worth doing whatever the cost",
+            "sourceName": "vo_kinich_dialog_close1.wem"
+        },
+        "43a9dd707f78e61a": {
+            "hash": "43a9dd707f78e61a",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_02.wem"
+        },
+        "43ee371ad77e6964": {
+            "hash": "43ee371ad77e6964",
+            "directory": "External8",
+            "voiceContent": "Kinich Very nice. That had more flavor than I was expecting.Ajaw Hear that? He's mocking you! He thinks you can't cook to save your life",
+            "sourceName": "vo_kinich_spice_normal_01.wem"
+        },
+        "495afc243e6e33fe": {
+            "hash": "495afc243e6e33fe",
+            "directory": "External9",
+            "voiceContent": "Kinich Ajaw loves being antagonistic. Just ignore him when he's mouthing off, don't let him get under your skin.Ajaw Kiniiiiiich! I dare you to release me and say that to my face",
+            "sourceName": "vo_kinich_character_idle_01.wem"
+        },
+        "4bac55c2cac06f13": {
+            "hash": "4bac55c2cac06f13",
+            "directory": "External9",
+            "voiceContent": "Ajaw Cold or spicy food defaces the sacred temple that is our body, and steaming hot oil is a noxious gas that we avoid like the plague. Nothing too hard, as it is laborious to chew — nor too soft, for it lacks flavor...Kinich So tell me. What do you want?Ajaw To feast on your soul! Muahahaha",
+            "sourceName": "vo_kinich_pref_foodDislike.wem"
+        },
+        "4cc5fa46f047b21a": {
+            "hash": "4cc5fa46f047b21a",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_06.wem"
+        },
+        "4e5ff03da343f88b": {
+            "hash": "4e5ff03da343f88b",
+            "directory": "External9",
+            "voiceContent": "Ajaw Submit your souls in sacrifice.Ajaw Hah? Scared speechless?Ajaw Then forever hold your peace",
+            "sourceName": "vo_kinich_battle_skill3_07.wem"
+        },
+        "4f0cb219c62561e9": {
+            "hash": "4f0cb219c62561e9",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_03.wem"
+        },
+        "4f8a1c4f4dc663e5": {
+            "hash": "4f8a1c4f4dc663e5",
+            "directory": "External9",
+            "voiceContent": "Ajaw Full glory",
+            "sourceName": "vo_kinich_battle_skill3_05.wem"
+        },
+        "516bb3c1ab9943cf": {
+            "hash": "516bb3c1ab9943cf",
+            "directory": "External10",
+            "voiceContent": "Ajaw Kinich, have you ever wondered why you're not surrounded by adoring followers? Be honest, it keeps you up at night, doesn't it? Tossing and turning in the moonlight, wondering why you don't have any friends... But take heart, for the wisdom of the Almighty Dragonlord, K'uhul Ajaw, is right here within your grasp. Prostrate yourself before us, beg for our words of guidance, and we may yet deign to show you the way.Kinich Oh, 'cause you're so popular yourself? The only following you have is a long list of people who want to slap you in the face",
+            "sourceName": "vo_kinich_dialog_idle.wem"
+        },
+        "526e6117ac1229c3": {
+            "hash": "526e6117ac1229c3",
+            "directory": "External10",
+            "voiceContent": "Before I head out, I tighten my head scarf and remind myself to stay calm and alert",
+            "sourceName": "vo_kinich_starUp_03.wem"
+        },
+        "56da8c0411e73338": {
+            "hash": "56da8c0411e73338",
+            "directory": "External10",
+            "voiceContent": "The day is almost gone. What is done cannot be changed, whether I am satisfied with it or not... Instead, I should look ahead, and pick up my pace",
+            "sourceName": "vo_kinich_dialog_greetingNight.wem"
+        },
+        "56fe4d29597750fd": {
+            "hash": "56fe4d29597750fd",
+            "directory": "External10",
+            "voiceContent": "A knife just needs to be two things sturdy, and sharp",
+            "sourceName": "vo_kinich_starUp_01.wem"
+        },
+        "5c0064aa1a24e2fa": {
+            "hash": "5c0064aa1a24e2fa",
+            "directory": "External11",
+            "voiceContent": "Everything... has a price..",
+            "sourceName": "vo_kinich_life_die_02.wem"
+        },
+        "6064b0dbdf8c16af": {
+            "hash": "6064b0dbdf8c16af",
+            "directory": "External12",
+            "voiceContent": "Kinich Ajaw used to be sealed in an ancient ruin, up until I signed a contract with him and let him out.Ajaw I took him for a reckless moron who'd be dead in a ditch within days, but nooooo! Somehow, he's still here, alive and kicking... Ugh, rise above it, rise above it. I am the sovereign ruler of the nation of flame, and I have the virtue and dignity to match.Kinich Your virtue and dignity is what makes you hope I kick the bucket every day?Ajaw I meant time and patience!Kinich ...Anyway, as long as you know how to keep them under your thumb, even the most vile and wretched beings have their utility.Ajaw Get stuffed, Kinich! Just you wait, I'll find someone to beat you to death before the day is through",
+            "sourceName": "vo_kinich_friendship_04.wem"
+        },
+        "6085e608b679476f": {
+            "hash": "6085e608b679476f",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_01.wem"
+        },
+        "61dcd178ccdb8c93": {
+            "hash": "61dcd178ccdb8c93",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_sprint_start_03.wem"
+        },
+        "6259c7f6e8528c48": {
+            "hash": "6259c7f6e8528c48",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_h_04.wem"
+        },
+        "6306bd8a775d8a8d": {
+            "hash": "6306bd8a775d8a8d",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_sprint_start_01.wem"
+        },
+        "65c5277aea1342ee": {
+            "hash": "65c5277aea1342ee",
+            "directory": "External12",
+            "voiceContent": "Ajaw Tch, worthless pile of garbage.Kinich Stop yapping. Just take it or leave it",
+            "sourceName": "vo_kinich_chest_open_03.wem"
+        },
+        "69447d2b9ee1ba73": {
+            "hash": "69447d2b9ee1ba73",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackheavy_02.wem"
+        },
+        "6e05b870a07a7311": {
+            "hash": "6e05b870a07a7311",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_01.wem"
+        },
+        "6f87aa3adbc8bfa3": {
+            "hash": "6f87aa3adbc8bfa3",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackmid_03.wem"
+        },
+        "70dc15bdecfe247b": {
+            "hash": "70dc15bdecfe247b",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_h_03.wem"
+        },
+        "7613d55ad5209c61": {
+            "hash": "7613d55ad5209c61",
+            "directory": "External14",
+            "voiceContent": "For most of my life, I've been getting others to pay a price. Then, the Pyro Archon used the Ode of Resurrection to bring me back from the Night Kingdom, and suddenly I was the one paying the price... Only then did I finally understand it from both sides. To the stronger party, the price is a bargaining chip, and to the weaker party, it's a sign of what's at stake. What matters is whether you have the courage to make the gamble",
+            "sourceName": "vo_kinich_teammate_mavuika_01.wem"
         },
         "7a46ab6666cd4d8e": {
             "hash": "7a46ab6666cd4d8e",
             "directory": "External15",
-            "voiceContent": "Kinich Bad weather can make extreme sports more challenging.Ajaw Well go on then, go do a bungee jump! Break a leg! Or better yet, break your neck, hehehe.",
+            "voiceContent": "Kinich Bad weather can make extreme sports more challenging.Ajaw Well go on then, go do a bungee jump! Break a leg! Or better yet, break your neck, hehehe",
             "sourceName": "vo_kinich_weather_gale_01.wem"
+        },
+        "7c6eef9eb9170fea": {
+            "hash": "7c6eef9eb9170fea",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_jump_01.wem"
+        },
+        "7f6c566c143522e7": {
+            "hash": "7f6c566c143522e7",
+            "directory": "External15",
+            "voiceContent": "Ajaw You're done, Kinich! You're so done",
+            "sourceName": "vo_kinich_life_less30_03.wem"
+        },
+        "8e7e48548eabdeae": {
+            "hash": "8e7e48548eabdeae",
+            "directory": "External17",
+            "voiceContent": "I've tried my hand at all kinds of extreme sports. When I get bored of one thing, I move onto the next. It's a good way to hone your skills while learning to control your fear... First, you face your fear, then you learn to tolerate it, and finally, you conquer it",
+            "sourceName": "vo_kinich_pref_hobby.wem"
+        },
+        "95f175b54a055b99": {
+            "hash": "95f175b54a055b99",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_breath_02.wem"
+        },
+        "964cca17e71b2ee2": {
+            "hash": "964cca17e71b2ee2",
+            "directory": "External18",
+            "voiceContent": "...Is this really necessary",
+            "sourceName": "vo_kinich_explore_fly_start_01.wem"
+        },
+        "9776ae29919d1eb4": {
+            "hash": "9776ae29919d1eb4",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_fly_start_03.wem"
+        },
+        "991693531bc2b970": {
+            "hash": "991693531bc2b970",
+            "directory": "External19",
+            "voiceContent": "You've done a lot for me, and I don't take it for granted. You can either name your price, or accept what I offer you in return... I swear on the Malipo name that no matter which you pick, you won't be shortchanged",
+            "sourceName": "vo_kinich_starUp_04.wem"
+        },
+        "991f81b6bbe5ef87": {
+            "hash": "991f81b6bbe5ef87",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_jump_04.wem"
+        },
+        "99510ea90eff4037": {
+            "hash": "99510ea90eff4037",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_idle_02.wem"
+        },
+        "9fe433e71416c9a6": {
+            "hash": "9fe433e71416c9a6",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_h_06.wem"
+        },
+        "9ffb421e532c58ad": {
+            "hash": "9ffb421e532c58ad",
+            "directory": "External19",
+            "voiceContent": "Tch. The hems of my pants are still dripping..",
+            "sourceName": "vo_kinich_weather_afterRain_01.wem"
+        },
+        "a114fb78b0c1d41d": {
+            "hash": "a114fb78b0c1d41d",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_01.wem"
+        },
+        "a184625655866714": {
+            "hash": "a184625655866714",
+            "directory": "External20",
+            "voiceContent": "Ajaw Bow before your King",
+            "sourceName": "vo_kinich_battle_skill3_04.wem"
+        },
+        "a3960a2c6d016ca1": {
+            "hash": "a3960a2c6d016ca1",
+            "directory": "External20",
+            "voiceContent": "I'm not the friend to come to for words of comfort or encouragement. But, when it comes to weighing the costs of your actions, ask away",
+            "sourceName": "vo_kinich_character_idle_02.wem"
+        },
+        "a39a2a1b537c8d2e": {
+            "hash": "a39a2a1b537c8d2e",
+            "directory": "External20",
+            "voiceContent": "Since you're here, shall we grab a bite before you go? Here, wipe your hands with this",
+            "sourceName": "vo_kinich_dialog_greetingNoon.wem"
+        },
+        "a6148e6802ebfb76": {
+            "hash": "a6148e6802ebfb76",
+            "directory": "External20",
+            "voiceContent": "Claim these souls",
+            "sourceName": "vo_kinich_battle_skill3_02.wem"
+        },
+        "aa31184f2190a01d": {
+            "hash": "aa31184f2190a01d",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_05.wem"
+        },
+        "aa31cf43b6a9645c": {
+            "hash": "aa31cf43b6a9645c",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackheavy_01.wem"
+        },
+        "aa618da5ac0a4f6d": {
+            "hash": "aa618da5ac0a4f6d",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_jump_02.wem"
+        },
+        "afc065e7d2c0765b": {
+            "hash": "afc065e7d2c0765b",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_05.wem"
+        },
+        "b0c91ccca65543b5": {
+            "hash": "b0c91ccca65543b5",
+            "directory": "External22",
+            "voiceContent": "Back when I was a messenger, people would always ask me to lend them a quick hand with something after I showed up with their message. So then the question is, what does a quick hand cost? Most of the time, as soon as I named my price, they suddenly didn't need my help anymore",
+            "sourceName": "vo_kinich_friendship_02.wem"
+        },
+        "b17596a09b2580c3": {
+            "hash": "b17596a09b2580c3",
+            "directory": "External22",
+            "voiceContent": "Ajaw Hehe, pleasure doing business with you..",
+            "sourceName": "vo_kinich_life_die_03.wem"
+        },
+        "b44f51f98023ea75": {
+            "hash": "b44f51f98023ea75",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_07.wem"
+        },
+        "b490efaa64131fdc": {
+            "hash": "b490efaa64131fdc",
+            "directory": "External22",
+            "voiceContent": "Glad to be working with you",
+            "sourceName": "vo_kinich_teamJoin_03.wem"
+        },
+        "b60582b2488aa7fd": {
+            "hash": "b60582b2488aa7fd",
+            "directory": "External22",
+            "voiceContent": "Don't... turn back..",
+            "sourceName": "vo_kinich_life_die_01.wem"
+        },
+        "b7892618324c1746": {
+            "hash": "b7892618324c1746",
+            "directory": "External22",
+            "voiceContent": "Locked on",
+            "sourceName": "vo_kinich_battle_skill1_04.wem"
+        },
+        "be3826c116f4a3ec": {
+            "hash": "be3826c116f4a3ec",
+            "directory": "External23",
+            "voiceContent": "I've taken jobs from her before. She offered to pay me to act as a battle advisor, and the Mora was good, so I accepted. After working with her a few times, though, I noticed she's not exactly a pushover. When I pressed her about it, she eventually admitted that battle advisor was just code for mentoring Kachina in wilderness survival...So a battle against nature, then. Hmm, I'd probably just call that life.Anyway, that business is concluded, and I now have two new acquaintances",
+            "sourceName": "vo_kinich_teammate_mualani_01.wem"
+        },
+        "c19a4c6169f97e77": {
+            "hash": "c19a4c6169f97e77",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_03.wem"
+        },
+        "c1eef841e3e5a35a": {
+            "hash": "c1eef841e3e5a35a",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackmid_02.wem"
+        },
+        "c40020c088e1cb50": {
+            "hash": "c40020c088e1cb50",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_idle_01.wem"
         },
         "c4163348455e0bca": {
             "hash": "c4163348455e0bca",
             "directory": "External24",
-            "voiceContent": "Ajaw Bet you're jealous of my sunglasses now! And no, you can't borrow them.",
+            "voiceContent": "Ajaw Bet you're jealous of my sunglasses now! And no, you can't borrow them",
             "sourceName": "vo_kinich_weather_sunny_01.wem"
         },
         "c83d5c189054ed3a": {
             "hash": "c83d5c189054ed3a",
             "directory": "External25",
-            "voiceContent": "Ajaw Once the clouds descend upon the soil, and darkness swallows the land, we shall summon the howling winds, and set the whole world ablaze!Kinich Uh-huh, you keep telling yourself that.",
+            "voiceContent": "Ajaw Once the clouds descend upon the soil, and darkness swallows the land, we shall summon the howling winds, and set the whole world ablaze!Kinich Uh-huh, you keep telling yourself that",
             "sourceName": "vo_kinich_weather_breezy_01.wem"
-        },
-        "3c2024be3252f6f2": {
-            "hash": "3c2024be3252f6f2",
-            "directory": "External7",
-            "voiceContent": "Morning. I'm about to head out, and I won't be back until tomorrow morning. Don't wait up for me.",
-            "sourceName": "vo_kinich_dialog_greetingMorning.wem"
-        },
-        "a39a2a1b537c8d2e": {
-            "hash": "a39a2a1b537c8d2e",
-            "directory": "External20",
-            "voiceContent": "Since you're here, shall we grab a bite before you go? Here, wipe your hands with this.",
-            "sourceName": "vo_kinich_dialog_greetingNoon.wem"
-        },
-        "56da8c0411e73338": {
-            "hash": "56da8c0411e73338",
-            "directory": "External10",
-            "voiceContent": "The day is almost gone. What is done cannot be changed, whether I am satisfied with it or not... Instead, I should look ahead, and pick up my pace.",
-            "sourceName": "vo_kinich_dialog_greetingNight.wem"
-        },
-        "e55e40513eaff7e8": {
-            "hash": "e55e40513eaff7e8",
-            "directory": "External28",
-            "voiceContent": "Is the smoke from the bonfire getting in your throat? One moment... Alright, you should be able to sleep now.",
-            "sourceName": "vo_kinich_dialog_greetingNight2.wem"
-        },
-        "516bb3c1ab9943cf": {
-            "hash": "516bb3c1ab9943cf",
-            "directory": "External10",
-            "voiceContent": "Ajaw Kinich, have you ever wondered why you're not surrounded by adoring followers? Be honest, it keeps you up at night, doesn't it? Tossing and turning in the moonlight, wondering why you don't have any friends... But take heart, for the wisdom of the Almighty Dragonlord, K'uhul Ajaw, is right here within your grasp. Prostrate yourself before us, beg for our words of guidance, and we may yet deign to show you the way.Kinich Oh, 'cause you're so popular yourself? The only following you have is a long list of people who want to slap you in the face.",
-            "sourceName": "vo_kinich_dialog_idle.wem"
-        },
-        "1ef783f6bf983b41": {
-            "hash": "1ef783f6bf983b41",
-            "directory": "External3",
-            "voiceContent": "Being a Saurian hunter is an unusual occupation, and not everyone approves of it. But sometimes, a conflict emerges where there's no pleasing both sides, and someone has to step up and get their hands dirty. I have no problem being that person, as long as the price is right.",
-            "sourceName": "vo_kinich_dialog_idle2.wem"
-        },
-        "42c595b2bf60e1f8": {
-            "hash": "42c595b2bf60e1f8",
-            "directory": "External8",
-            "voiceContent": "Ajaw has his own reasons for putting me in harm's way, but really, I don't mind taking risks to lend you a hand. For all my talk about everything having its price, I believe some things in this world are worth doing whatever the cost.",
-            "sourceName": "vo_kinich_dialog_close1.wem"
-        },
-        "188e08364c104c95": {
-            "hash": "188e08364c104c95",
-            "directory": "External3",
-            "voiceContent": "Kinich If you ever need my help with some of your commissions from the Adventurers' Guild, just let me know.Ajaw Oh, yes please! Give him the most dangerous, most difficult commissions you can find! The higher the risk of fatality, the better!",
-            "sourceName": "vo_kinich_dialog_close.wem"
-        },
-        "eef542ea7e07c820": {
-            "hash": "eef542ea7e07c820",
-            "directory": "External29",
-            "voiceContent": "My people are strong believers in absolute freedom. They think the bond between human and Saurian should be built on mutual trust and support, not a binding contract that ties them down. Guess I'm the odd one out.",
-            "sourceName": "vo_kinich_dialog_share_01.wem"
-        },
-        "359603c45bfb0002": {
-            "hash": "359603c45bfb0002",
-            "directory": "External6",
-            "voiceContent": "Kinich When picking Quenepa Berries, you should always check to make sure there are no pesky Saurians nearby.Ajaw You stingy little lizard-brain! You slimy, slithering, miserly worm! You're a selfish butthole! I only gave those festering fruits a second look because I was starved half to death!Kinich Suit yourself, more for me.Ajaw Gahhh! My fury cannot be contained!",
-            "sourceName": "vo_kinich_pref_gift_01.wem"
-        },
-        "7613d55ad5209c61": {
-            "hash": "7613d55ad5209c61",
-            "directory": "External14",
-            "voiceContent": "For most of my life, I've been getting others to pay a price. Then, the Pyro Archon used the Ode of Resurrection to bring me back from the Night Kingdom, and suddenly I was the one paying the price... Only then did I finally understand it from both sides. To the stronger party, the price is a bargaining chip, and to the weaker party, it's a sign of what's at stake. What matters is whether you have the courage to make the gamble.",
-            "sourceName": "vo_kinich_teammate_mavuika_01.wem"
-        },
-        "be3826c116f4a3ec": {
-            "hash": "be3826c116f4a3ec",
-            "directory": "External23",
-            "voiceContent": "I've taken jobs from her before. She offered to pay me to act as a battle advisor, and the Mora was good, so I accepted. After working with her a few times, though, I noticed she's not exactly a pushover. When I pressed her about it, she eventually admitted that battle advisor was just code for mentoring Kachina in wilderness survival...So a battle against nature, then. Hmm, I'd probably just call that life.Anyway, that business is concluded, and I now have two new acquaintances.",
-            "sourceName": "vo_kinich_teammate_mualani_01.wem"
-        },
-        "22801a1934d8a984": {
-            "hash": "22801a1934d8a984",
-            "directory": "External4",
-            "voiceContent": "I saw a job posting about her once. Some lowlifes from her tribe got jealous that she'd received an ancient name, and basically tried to order a hit on her Saurian companion... They paid the price, I made sure of that.",
-            "sourceName": "vo_kinich_teammate_kachina_01.wem"
-        },
-        "35121d8fffe64b03": {
-            "hash": "35121d8fffe64b03",
-            "directory": "External6",
-            "voiceContent": "As you can probably guess, I've taken jobs from her before. I helped her purchase a heavy stack of paper-based reading material from an Inazuman merchant. Not to pry into my clients' private affairs, but... don't the Masters of the Night-Wind use woven fabric instead of paper?",
-            "sourceName": "vo_kinich_teammate_citlali_01.wem"
-        },
-        "f6653d03692c2765": {
-            "hash": "f6653d03692c2765",
-            "directory": "External30",
-            "voiceContent": "Kinich I've enlisted his services before. It was when Ajaw said he was ill... Whatever it was, he was ranting and crying incessantly. So, I figured it only made sense to take him to the best sauro-vet I could find. And he really is a pro. Ajaw wasn't inside for long, but when Ifa brought him out, he was cured.Ajaw Gah... What do you know about medicine! He's not even a real doctor, he's a quack! A charlatan! ...You weren't even there, you don't know what he said! Ugh.",
-            "sourceName": "vo_kinich_teammate_ifa_01.wem"
-        },
-        "0381de9b51e3ca8c": {
-            "hash": "0381de9b51e3ca8c",
-            "directory": "External0",
-            "voiceContent": "I've seen how she handles her work. Our methods of conflict-resolution are quite different. I tend to get one party to shut up, but she silences both. By the time they wake up in their sick beds, they have nothing further to say, because they've forgotten whatever it was they were fighting about.",
-            "sourceName": "vo_kinich_teammate_chasca_01.wem"
-        },
-        "20d05366d70cde84": {
-            "hash": "20d05366d70cde84",
-            "directory": "External4",
-            "voiceContent": "I saw a strange job posting once while passing by the Children of Echoes' territory. The requester was looking for a hardy plant that wouldn't take much maintenance, so I brought over some Saurian claw succulent seeds, along with a pot and some fertilizer. It grows well all over Natlan, even in the most barren areas. But when I went to collect my payment, I saw that not a single seedling had sprouted from the pot.I paid the price for overestimating Xilonen's gardening skills. This was one of the few failed jobs on my record.",
-            "sourceName": "vo_kinich_teammate_xilonen_01.wem"
-        },
-        "f8bba8454af3a591": {
-            "hash": "f8bba8454af3a591",
-            "directory": "External31",
-            "voiceContent": "Kinich I've taken jobs from her before. More of a long-term collaboration, really... She makes fitness meals for her personal-training students, with everything measured out to the exact calorie. To keep this up, she needs a steady supply of fruits that meet her strict quality standards and size requirements. A single bruise or bug bite, and she'll reject the entire batch. Most people find this impossible to work with, but I've got a good eye for these things... plus a reliable means of disposal for fruits that don't make the grade.Ajaw Wait, what? ...THAT'S what you make my juice from!?",
-            "sourceName": "vo_kinich_teammate_iansan_01.wem"
-        },
-        "2dabbec33f057052": {
-            "hash": "2dabbec33f057052",
-            "directory": "External5",
-            "voiceContent": "I am a Saurian hunter. When there's no Saurians to hunt, I take on other jobs too. I guess that means we're in the same line of work.",
-            "sourceName": "vo_kinich_friendship_01.wem"
-        },
-        "b0c91ccca65543b5": {
-            "hash": "b0c91ccca65543b5",
-            "directory": "External22",
-            "voiceContent": "Back when I was a messenger, people would always ask me to lend them a quick hand with something after I showed up with their message. So then the question is, what does a quick hand cost? Most of the time, as soon as I named my price, they suddenly didn't need my help anymore.",
-            "sourceName": "vo_kinich_friendship_02.wem"
-        },
-        "2ed4e2d4e9861a24": {
-            "hash": "2ed4e2d4e9861a24",
-            "directory": "External5",
-            "voiceContent": "I did weeks of preparation for my first Saurian hunt. I spent several days just observing, stalking, and lying in wait, created three different traps, no less, and made detailed notes of its daily routine and feeding habits...A lot of that effort was wasted, but it was a necessary waste.",
-            "sourceName": "vo_kinich_friendship_03.wem"
-        },
-        "6064b0dbdf8c16af": {
-            "hash": "6064b0dbdf8c16af",
-            "directory": "External12",
-            "voiceContent": "Kinich Ajaw used to be sealed in an ancient ruin, up until I signed a contract with him and let him out.Ajaw I took him for a reckless moron who'd be dead in a ditch within days, but nooooo! Somehow, he's still here, alive and kicking... Ugh, rise above it, rise above it. I am the sovereign ruler of the nation of flame, and I have the virtue and dignity to match.Kinich Your virtue and dignity is what makes you hope I kick the bucket every day?Ajaw I meant time and patience!Kinich ...Anyway, as long as you know how to keep them under your thumb, even the most vile and wretched beings have their utility.Ajaw Get stuffed, Kinich! Just you wait, I'll find someone to beat you to death before the day is through!",
-            "sourceName": "vo_kinich_friendship_04.wem"
-        },
-        "db414ee42008c2c6": {
-            "hash": "db414ee42008c2c6",
-            "directory": "External27",
-            "voiceContent": "I've always dealt with things in terms of costs, so it came as no surprise to me when the Wayob granted me the Ancient Name of Malipo, or Turnfire.Value comes from surviving, so I don't look forward to the day my life will come to an end. But I'm also the bearer of the Turnfire legacy, and I'm prepared to face the flames when that day comes.Let the Turnfire judge how I have spent my life. I know I won't have anything to regret.",
-            "sourceName": "vo_kinich_friendship_05.wem"
-        },
-        "8e7e48548eabdeae": {
-            "hash": "8e7e48548eabdeae",
-            "directory": "External17",
-            "voiceContent": "I've tried my hand at all kinds of extreme sports. When I get bored of one thing, I move onto the next. It's a good way to hone your skills while learning to control your fear... First, you face your fear, then you learn to tolerate it, and finally, you conquer it.",
-            "sourceName": "vo_kinich_pref_hobby.wem"
-        },
-        "299bcb0f310da9f1": {
-            "hash": "299bcb0f310da9f1",
-            "directory": "External5",
-            "voiceContent": "Kinich Out in the wild, I eat for convenience. Meat and fruits are always my preference, of course.Ajaw Ha, look at you, pretending you're not a picky eater. How come I never see you picking any grainfruits, hmm?Kinich Too heavy. I travel light.",
-            "sourceName": "vo_kinich_pref_foodLike.wem"
-        },
-        "4bac55c2cac06f13": {
-            "hash": "4bac55c2cac06f13",
-            "directory": "External9",
-            "voiceContent": "Ajaw Cold or spicy food defaces the sacred temple that is our body, and steaming hot oil is a noxious gas that we avoid like the plague. Nothing too hard, as it is laborious to chew — nor too soft, for it lacks flavor...Kinich So tell me. What do you want?Ajaw To feast on your soul! Muahahaha!",
-            "sourceName": "vo_kinich_pref_foodDislike.wem"
-        },
-        "2e78c0fc3a84dcde": {
-            "hash": "2e78c0fc3a84dcde",
-            "directory": "External5",
-            "voiceContent": "Kinich This is quite delicious. I should offer you some cash in return, or some kind of gift if you'd prefer.Ajaw Spit it out, you greedy snake! Some of that was meant for me!",
-            "sourceName": "vo_kinich_spice_pref_01.wem"
-        },
-        "43ee371ad77e6964": {
-            "hash": "43ee371ad77e6964",
-            "directory": "External8",
-            "voiceContent": "Kinich Very nice. That had more flavor than I was expecting.Ajaw Hear that? He's mocking you! He thinks you can't cook to save your life!",
-            "sourceName": "vo_kinich_spice_normal_01.wem"
-        },
-        "dca3552efb5ce9e8": {
-            "hash": "dca3552efb5ce9e8",
-            "directory": "External27",
-            "voiceContent": "Kinich ...Any chance I can return this to the kitchen?Ajaw Hey, hold your stinkin' horses! I haven't even tried it yet!",
-            "sourceName": "vo_kinich_spice_dislike_01.wem"
-        },
-        "3fcf46d5a11752fd": {
-            "hash": "3fcf46d5a11752fd",
-            "directory": "External7",
-            "voiceContent": "Kinich Ajaw?Ajaw Alright, alright. Tch, you love bossing people around almost as much as you enjoy taking people's money. Next time, get your own pair of wings and you do the flying... You, yes you. Don't just stand there, climb up onto my back already. A ride through the skies on the back of the Almighty Dragonlord, K'uhul Ajaw is a once-in-a-lifetime honor.Kinich Don't worry, it's just a gentle cruise through the forest. Just follow me. I planned out a route in advance and I promise it's safe.Ajaw Don't forget what you promised me in return!Kinich Alright, now hop on... Happy birthday.",
-            "sourceName": "vo_kinich_pref_birthday_01.wem"
-        },
-        "56fe4d29597750fd": {
-            "hash": "56fe4d29597750fd",
-            "directory": "External10",
-            "voiceContent": "A knife just needs to be two things sturdy, and sharp.",
-            "sourceName": "vo_kinich_starUp_01.wem"
-        },
-        "fcf92f212b118bfa": {
-            "hash": "fcf92f212b118bfa",
-            "directory": "External31",
-            "voiceContent": "Try to pack light. Avoid large and unwieldy items... like this umbrella, for example.",
-            "sourceName": "vo_kinich_starUp_02.wem"
-        },
-        "526e6117ac1229c3": {
-            "hash": "526e6117ac1229c3",
-            "directory": "External10",
-            "voiceContent": "Before I head out, I tighten my head scarf and remind myself to stay calm and alert.",
-            "sourceName": "vo_kinich_starUp_03.wem"
-        },
-        "991693531bc2b970": {
-            "hash": "991693531bc2b970",
-            "directory": "External19",
-            "voiceContent": "You've done a lot for me, and I don't take it for granted. You can either name your price, or accept what I offer you in return... I swear on the Malipo name that no matter which you pick, you won't be shortchanged.",
-            "sourceName": "vo_kinich_starUp_04.wem"
-        },
-        "2f3ec27b4d9af381": {
-            "hash": "2f3ec27b4d9af381",
-            "directory": "External5",
-            "voiceContent": "Time for you to pay the price.",
-            "sourceName": "vo_kinich_life_less30_01.wem"
         },
         "d19cb4731c22dede": {
             "hash": "d19cb4731c22dede",
             "directory": "External26",
-            "voiceContent": "Two can play at that game...",
+            "voiceContent": "Two can play at that game..",
             "sourceName": "vo_kinich_life_less30_02.wem"
         },
-        "7f6c566c143522e7": {
-            "hash": "7f6c566c143522e7",
-            "directory": "External15",
-            "voiceContent": "Ajaw You're done, Kinich! You're so done!",
-            "sourceName": "vo_kinich_life_less30_03.wem"
-        },
-        "b17596a09b2580c3": {
-            "hash": "b17596a09b2580c3",
-            "directory": "External22",
-            "voiceContent": "Ajaw Hehe, pleasure doing business with you...",
-            "sourceName": "vo_kinich_life_die_03.wem"
-        },
-        "20ae81cd2663f515": {
-            "hash": "20ae81cd2663f515",
-            "directory": "External4",
-            "voiceContent": "My mistake.",
-            "sourceName": "vo_kinich_battle_hit_H_01.wem"
-        },
-        "eee8a3c630304e32": {
-            "hash": "eee8a3c630304e32",
-            "directory": "External29",
-            "voiceContent": "That was unexpected...",
-            "sourceName": "vo_kinich_battle_hit_H_02.wem"
-        },
-        "964cca17e71b2ee2": {
-            "hash": "964cca17e71b2ee2",
-            "directory": "External18",
-            "voiceContent": "...Is this really necessary?",
-            "sourceName": "vo_kinich_explore_fly_start_01.wem"
-        },
-        "237b7a8b9edd52b4": {
-            "hash": "237b7a8b9edd52b4",
-            "directory": "External4",
-            "voiceContent": "Don't forget to stay hydrated.",
-            "sourceName": "vo_kinich_weather_desert_01.wem"
-        },
-        "f03ac051ef5b9371": {
-            "hash": "f03ac051ef5b9371",
-            "directory": "External30",
-            "voiceContent": "Most worriers I've met either think too much or too little. I'm always looking to my next destination and goal, so I never have the time to worry.",
-            "sourceName": "vo_kinich_dialog_annoyed_01.wem"
+        "d2223a2a7d6a5868": {
+            "hash": "d2223a2a7d6a5868",
+            "directory": "External26",
+            "voiceContent": "I got 'em cornered",
+            "sourceName": "vo_kinich_battle_skill1_06.wem"
         },
         "d708c9486b8083b4": {
             "hash": "d708c9486b8083b4",
             "directory": "External26",
-            "voiceContent": "Kinich Malipo Kinich. I don't believe we've met. If you'd like to request my services, please brief me on the job and state what you're willing to pay.Ajaw ...That's your pitch? Come on, man! You're killing me! You're supposed to tell 'em what a pro you are, play up your past experience, set their expectations high! Then you say And that's why I charge a higher price than most! Don't you know anything about doing business?Ajaw Ugh, how did the Almighty Dragonlord, K'uhul Ajaw end up stuck in a contract with such a clueless moron... Oh, the humiliation!!!",
+            "voiceContent": "Kinich Malipo Kinich. I don't believe we've met. If you'd like to request my services, please brief me on the job and state what you're willing to pay.Ajaw ...That's your pitch? Come on, man! You're killing me! You're supposed to tell 'em what a pro you are, play up your past experience, set their expectations high! Then you say And that's why I charge a higher price than most! Don't you know anything about doing business?Ajaw Ugh, how did the Almighty Dragonlord, K'uhul Ajaw end up stuck in a contract with such a clueless moron... Oh, the humiliation!!",
             "sourceName": "vo_kinich_draw_appear_01.wem"
+        },
+        "db414ee42008c2c6": {
+            "hash": "db414ee42008c2c6",
+            "directory": "External27",
+            "voiceContent": "I've always dealt with things in terms of costs, so it came as no surprise to me when the Wayob granted me the Ancient Name of Malipo, or Turnfire.Value comes from surviving, so I don't look forward to the day my life will come to an end. But I'm also the bearer of the Turnfire legacy, and I'm prepared to face the flames when that day comes.Let the Turnfire judge how I have spent my life. I know I won't have anything to regret",
+            "sourceName": "vo_kinich_friendship_05.wem"
+        },
+        "dca3552efb5ce9e8": {
+            "hash": "dca3552efb5ce9e8",
+            "directory": "External27",
+            "voiceContent": "Kinich ...Any chance I can return this to the kitchen?Ajaw Hey, hold your stinkin' horses! I haven't even tried it yet",
+            "sourceName": "vo_kinich_spice_dislike_01.wem"
+        },
+        "dcf09f810d87cc8a": {
+            "hash": "dcf09f810d87cc8a",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_sprint_start_02.wem"
         },
         "e3879111e6788ccd": {
             "hash": "e3879111e6788ccd",
             "directory": "External28",
-            "voiceContent": "There is no cost to using a Vision. But it's often the hidden costs that end up being the heaviest to bear when the time comes to pay.",
+            "voiceContent": "There is no cost to using a Vision. But it's often the hidden costs that end up being the heaviest to bear when the time comes to pay",
             "sourceName": "vo_kinich_dialog_pendant_01.wem"
         },
-        "2536e86b526da8cc": {
-            "hash": "2536e86b526da8cc",
-            "directory": "External4",
-            "voiceContent": "Ajaw You really are a one-trick pony, you know...",
-            "sourceName": "vo_ajaw_battle_skill1_03.wem"
+        "e55e40513eaff7e8": {
+            "hash": "e55e40513eaff7e8",
+            "directory": "External28",
+            "voiceContent": "Is the smoke from the bonfire getting in your throat? One moment... Alright, you should be able to sleep now",
+            "sourceName": "vo_kinich_dialog_greetingNight2.wem"
         },
-        "a184625655866714": {
-            "hash": "a184625655866714",
-            "directory": "External20",
-            "voiceContent": "Ajaw Bow before your King!",
-            "sourceName": "vo_kinich_battle_skill3_04.wem"
+        "e7bd4b33e26f706a": {
+            "hash": "e7bd4b33e26f706a",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackheavy_03.wem"
         },
-        "4f8a1c4f4dc663e5": {
-            "hash": "4f8a1c4f4dc663e5",
-            "directory": "External9",
-            "voiceContent": "Ajaw Full glory!",
-            "sourceName": "vo_kinich_battle_skill3_05.wem"
+        "eae88972a99696f7": {
+            "hash": "eae88972a99696f7",
+            "directory": "External29",
+            "voiceContent": "Kinich Everything has its use.Ajaw Were you not given toys to play with as a child? Is that it",
+            "sourceName": "vo_kinich_chest_open_02.wem"
         },
-        "4e5ff03da343f88b": {
-            "hash": "4e5ff03da343f88b",
-            "directory": "External9",
-            "voiceContent": "Ajaw Submit your souls in sacrifice.Ajaw Hah? Scared speechless?Ajaw Then forever hold your peace!",
-            "sourceName": "vo_kinich_battle_skill3_07.wem"
+        "eee8a3c630304e32": {
+            "hash": "eee8a3c630304e32",
+            "directory": "External29",
+            "voiceContent": "That was unexpected..",
+            "sourceName": "vo_kinich_battle_hit_H_02.wem"
         },
-        "060592bb728548c0": {
-            "hash": "060592bb728548c0",
-            "directory": "External0",
-            "voiceContent": "Ajaw Ours is a glory to which none can compare!Ajaw Especially not when I'm in a bad mood.Ajaw Measly insects, now you must pay!",
-            "sourceName": "vo_kinich_battle_skill3_08.wem"
+        "eef542ea7e07c820": {
+            "hash": "eef542ea7e07c820",
+            "directory": "External29",
+            "voiceContent": "My people are strong believers in absolute freedom. They think the bond between human and Saurian should be built on mutual trust and support, not a binding contract that ties them down. Guess I'm the odd one out",
+            "sourceName": "vo_kinich_dialog_share_01.wem"
+        },
+        "f03ac051ef5b9371": {
+            "hash": "f03ac051ef5b9371",
+            "directory": "External30",
+            "voiceContent": "Most worriers I've met either think too much or too little. I'm always looking to my next destination and goal, so I never have the time to worry",
+            "sourceName": "vo_kinich_dialog_annoyed_01.wem"
+        },
+        "f0bee82015ddc505": {
+            "hash": "f0bee82015ddc505",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_fly_start_02.wem"
+        },
+        "f1428f69775c0363": {
+            "hash": "f1428f69775c0363",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_03.wem"
+        },
+        "f21c6b9a8fd92bea": {
+            "hash": "f21c6b9a8fd92bea",
+            "directory": "External30",
+            "voiceContent": "Deal. I'm in",
+            "sourceName": "vo_kinich_teamJoin_01.wem"
+        },
+        "f5fa9823421280a8": {
+            "hash": "f5fa9823421280a8",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_02.wem"
+        },
+        "f6653d03692c2765": {
+            "hash": "f6653d03692c2765",
+            "directory": "External30",
+            "voiceContent": "Kinich I've enlisted his services before. It was when Ajaw said he was ill... Whatever it was, he was ranting and crying incessantly. So, I figured it only made sense to take him to the best sauro-vet I could find. And he really is a pro. Ajaw wasn't inside for long, but when Ifa brought him out, he was cured.Ajaw Gah... What do you know about medicine! He's not even a real doctor, he's a quack! A charlatan! ...You weren't even there, you don't know what he said! Ugh",
+            "sourceName": "vo_kinich_teammate_ifa_01.wem"
+        },
+        "f8658c7a58a1763f": {
+            "hash": "f8658c7a58a1763f",
+            "directory": "External31",
+            "voiceContent": "Wanna make me an offer",
+            "sourceName": "vo_kinich_life_less30_teammate_02.wem"
+        },
+        "f8bba8454af3a591": {
+            "hash": "f8bba8454af3a591",
+            "directory": "External31",
+            "voiceContent": "Kinich I've taken jobs from her before. More of a long-term collaboration, really... She makes fitness meals for her personal-training students, with everything measured out to the exact calorie. To keep this up, she needs a steady supply of fruits that meet her strict quality standards and size requirements. A single bruise or bug bite, and she'll reject the entire batch. Most people find this impossible to work with, but I've got a good eye for these things... plus a reliable means of disposal for fruits that don't make the grade.Ajaw Wait, what? ...THAT'S what you make my juice from!",
+            "sourceName": "vo_kinich_teammate_iansan_01.wem"
+        },
+        "f92db03377d47f20": {
+            "hash": "f92db03377d47f20",
+            "directory": "External31",
+            "voiceContent": "Here's how I allocate my energy on a job Seventy percent goes to investigating, ten percent to making a final decision, and the remainder for execution",
+            "sourceName": "vo_kinich_character_idle_03.wem"
+        },
+        "fbbf705e8419a0df": {
+            "hash": "fbbf705e8419a0df",
+            "directory": "External31",
+            "voiceContent": "Shadow of the past, mine to command",
+            "sourceName": "vo_kinich_battle_skill3_03.wem"
+        },
+        "fcf92f212b118bfa": {
+            "hash": "fcf92f212b118bfa",
+            "directory": "External31",
+            "voiceContent": "Try to pack light. Avoid large and unwieldy items... like this umbrella, for example",
+            "sourceName": "vo_kinich_starUp_02.wem"
         }
     }
 }

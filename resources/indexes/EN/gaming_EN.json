@@ -1,505 +1,769 @@
 {
     "Teapot": {},
     "Quests": {
-        "aba7d77c4666a1c3": {
-            "hash": "aba7d77c4666a1c3",
-            "directory": "External21",
-            "voiceContent": "Alright, well I'd better get moving. Next time, we're going for dim sum!",
-            "sourceName": "vo_EQHDJ402_2_gaming_09.wem"
-        },
-        "ff3c336d0fe54d49": {
-            "hash": "ff3c336d0fe54d49",
-            "directory": "External31",
-            "voiceContent": "I guess they're hoping for the best and planning for the worst. So don't worry, there's still hope.",
-            "sourceName": "vo_EQHDJ402_2_gaming_07.wem"
-        },
-        "8ef80564439907e6": {
-            "hash": "8ef80564439907e6",
-            "directory": "External17",
-            "voiceContent": "Whew, you scared me there for a second! I thought we'd sprung a leak, and on the one job that we were specifically told has to be extremely hush-hush... But it sounds like you found out from another source, so we're all good.",
-            "sourceName": "vo_EQHDJ402_2_gaming_04.wem"
-        },
-        "516c997417d31688": {
-            "hash": "516c997417d31688",
-            "directory": "External10",
-            "voiceContent": "Oh. The Baizhu part is news to me... but anyway, the master from the Feiyun Commerce Guild said they just wanna ship some items back home to get ahead of the situation.",
-            "sourceName": "vo_EQHDJ402_2_gaming_06.wem"
-        },
-        "8dce1952991709c4": {
-            "hash": "8dce1952991709c4",
-            "directory": "External17",
-            "voiceContent": "I gotta make a delivery to Chenyu Vale. It works out nicely, 'cause my dad's eager for me to get home for the holidays anyway. So, two birds with one stone.",
-            "sourceName": "vo_EQHDJ402_2_gaming_02.wem"
-        },
-        "5632a585c56603fa": {
-            "hash": "5632a585c56603fa",
-            "directory": "External10",
-            "voiceContent": "Uh, before you run off on a wild goose chase... Master Xingqiu's already back home in Chenyu Vale. He and his brother made the trip together — something about checking if any repairs are needed at the family home.",
-            "sourceName": "vo_EQHDJ402_2_gaming_08.wem"
+        "0fc2534a55e63355": {
+            "hash": "0fc2534a55e63355",
+            "directory": "External1",
+            "voiceContent": "...Wait, what? Have you been learning fortune-telling, or something? How could you know that",
+            "sourceName": "vo_EQHDJ402_2_gaming_03.wem"
         },
         "10b5675c003932cf": {
             "hash": "10b5675c003932cf",
             "directory": "External2",
-            "voiceContent": "Miss Undertaker, is everything ready to be loaded up? If so, I'll do a quick inventory count and then we'll be on our way.",
+            "voiceContent": "Miss Undertaker, is everything ready to be loaded up? If so, I'll do a quick inventory count and then we'll be on our way",
             "sourceName": "vo_EQHDJ402_2_gaming_05.wem"
-        },
-        "0fc2534a55e63355": {
-            "hash": "0fc2534a55e63355",
-            "directory": "External1",
-            "voiceContent": "...Wait, what? Have you been learning fortune-telling, or something? How could you know that?",
-            "sourceName": "vo_EQHDJ402_2_gaming_03.wem"
-        },
-        "df81c6abc10e308d": {
-            "hash": "df81c6abc10e308d",
-            "directory": "External27",
-            "voiceContent": "In that case, I'd have to nominate the Two Sages of Lianshan. It's always the ones who live in seclusion and never show their skill who turn out to be the most powerful of all. Well, in the books, anyway. What do you think?",
-            "sourceName": "vo_EQHDJ404_2_gaming_01.wem"
         },
         "21994cd583585340": {
             "hash": "21994cd583585340",
             "directory": "External4",
-            "voiceContent": "Whoa, Paimon, you can't stumble through a motto you live by! It's bad luck! It'll make your life full of stumbling blocks too. Come on, you can do it! One more time, from the top!",
+            "voiceContent": "Whoa, Paimon, you can't stumble through a motto you live by! It's bad luck! It'll make your life full of stumbling blocks too. Come on, you can do it! One more time, from the top",
             "sourceName": "vo_EQHDJ404_2_gaming_04.wem"
+        },
+        "516c997417d31688": {
+            "hash": "516c997417d31688",
+            "directory": "External10",
+            "voiceContent": "Oh. The Baizhu part is news to me... but anyway, the master from the Feiyun Commerce Guild said they just wanna ship some items back home to get ahead of the situation",
+            "sourceName": "vo_EQHDJ402_2_gaming_06.wem"
+        },
+        "5632a585c56603fa": {
+            "hash": "5632a585c56603fa",
+            "directory": "External10",
+            "voiceContent": "Uh, before you run off on a wild goose chase... Master Xingqiu's already back home in Chenyu Vale. He and his brother made the trip together — something about checking if any repairs are needed at the family home",
+            "sourceName": "vo_EQHDJ402_2_gaming_08.wem"
         },
         "596ba8a25738728a": {
             "hash": "596ba8a25738728a",
             "directory": "External11",
-            "voiceContent": "Yeah, so they say... But I mean, fishing? Just seems kinda lame in this context...",
+            "voiceContent": "Yeah, so they say... But I mean, fishing? Just seems kinda lame in this context..",
             "sourceName": "vo_EQHDJ404_2_gaming_02.wem"
+        },
+        "6355e73b1f638abb": {
+            "hash": "6355e73b1f638abb",
+            "directory": "External12",
+            "voiceContent": "#Hey hey! I spy {NICKNAME} and a Paimon! Man, how long's it been? Happy Lantern Rite",
+            "sourceName": "vo_EQHDJ402_2_gaming_01.wem"
+        },
+        "8dce1952991709c4": {
+            "hash": "8dce1952991709c4",
+            "directory": "External17",
+            "voiceContent": "I gotta make a delivery to Chenyu Vale. It works out nicely, 'cause my dad's eager for me to get home for the holidays anyway. So, two birds with one stone",
+            "sourceName": "vo_EQHDJ402_2_gaming_02.wem"
+        },
+        "8ef80564439907e6": {
+            "hash": "8ef80564439907e6",
+            "directory": "External17",
+            "voiceContent": "Whew, you scared me there for a second! I thought we'd sprung a leak, and on the one job that we were specifically told has to be extremely hush-hush... But it sounds like you found out from another source, so we're all good",
+            "sourceName": "vo_EQHDJ402_2_gaming_04.wem"
+        },
+        "aba7d77c4666a1c3": {
+            "hash": "aba7d77c4666a1c3",
+            "directory": "External21",
+            "voiceContent": "Alright, well I'd better get moving. Next time, we're going for dim sum",
+            "sourceName": "vo_EQHDJ402_2_gaming_09.wem"
         },
         "de57da9a168c3293": {
             "hash": "de57da9a168c3293",
             "directory": "External27",
-            "voiceContent": "Hahaha, well kind of. An open-ended debate, maybe. We're just shooting the breeze really.",
+            "voiceContent": "Hahaha, well kind of. An open-ended debate, maybe. We're just shooting the breeze really",
             "sourceName": "vo_EQHDJ404_2_gaming_03.wem"
+        },
+        "df81c6abc10e308d": {
+            "hash": "df81c6abc10e308d",
+            "directory": "External27",
+            "voiceContent": "In that case, I'd have to nominate the Two Sages of Lianshan. It's always the ones who live in seclusion and never show their skill who turn out to be the most powerful of all. Well, in the books, anyway. What do you think",
+            "sourceName": "vo_EQHDJ404_2_gaming_01.wem"
+        },
+        "ff3c336d0fe54d49": {
+            "hash": "ff3c336d0fe54d49",
+            "directory": "External31",
+            "voiceContent": "I guess they're hoping for the best and planning for the worst. So don't worry, there's still hope",
+            "sourceName": "vo_EQHDJ402_2_gaming_07.wem"
         }
     },
     "Gameplay": {
-        "491a4d41d888ef7b": {
-            "hash": "491a4d41d888ef7b",
-            "directory": "External9",
-            "voiceContent": "Sorry, pal.",
-            "sourceName": "vo_gaming_battle_skill1_01.wem"
-        },
-        "73937f59523e2084": {
-            "hash": "73937f59523e2084",
-            "directory": "External14",
-            "voiceContent": "Alley-oop!",
-            "sourceName": "vo_gaming_battle_skill1_02.wem"
-        },
-        "f8ecb95111eec015": {
-            "hash": "f8ecb95111eec015",
-            "directory": "External31",
-            "voiceContent": "Congratulations!",
-            "sourceName": "vo_gaming_battle_skill1_03.wem"
-        },
-        "3646641f11e9dab9": {
-            "hash": "3646641f11e9dab9",
-            "directory": "External6",
-            "voiceContent": "Many happy returns.",
-            "sourceName": "vo_gaming_battle_skill3_01.wem"
-        },
-        "c6023616459d9556": {
-            "hash": "c6023616459d9556",
-            "directory": "External24",
-            "voiceContent": "Hop to it, Man Chai!",
-            "sourceName": "vo_gaming_battle_skill3_02.wem"
-        },
-        "73d1980f3daf6c3f": {
-            "hash": "73d1980f3daf6c3f",
-            "directory": "External14",
-            "voiceContent": "Mighty mythical beast!",
-            "sourceName": "vo_gaming_battle_skill3_03.wem"
-        },
-        "427c968b4cdbbc70": {
-            "hash": "427c968b4cdbbc70",
-            "directory": "External8",
-            "voiceContent": "Oh, cool! This stuff looks dope!",
-            "sourceName": "vo_gaming_chest_open_01.wem"
-        },
-        "c31004715ef9dbd7": {
-            "hash": "c31004715ef9dbd7",
-            "directory": "External24",
-            "voiceContent": "Where do you want this stuff delivered to, Boss?",
-            "sourceName": "vo_gaming_chest_open_02.wem"
-        },
-        "4152a279a259b0ce": {
-            "hash": "4152a279a259b0ce",
-            "directory": "External8",
-            "voiceContent": "Good things come to those who wait!",
-            "sourceName": "vo_gaming_chest_open_03.wem"
-        },
-        "434fedd5a7203f58": {
-            "hash": "434fedd5a7203f58",
-            "directory": "External8",
-            "voiceContent": "Take five, I've got this!",
-            "sourceName": "vo_gaming_life_less30_teammate_01.wem"
-        },
-        "add9fbbb1b84e5df": {
-            "hash": "add9fbbb1b84e5df",
-            "directory": "External21",
-            "voiceContent": "Hey, don't push yourself!",
-            "sourceName": "vo_gaming_life_less30_teammate_02.wem"
-        },
-        "14a3167723ffe05d": {
-            "hash": "14a3167723ffe05d",
-            "directory": "External2",
-            "voiceContent": "I gotta... run...",
-            "sourceName": "vo_gaming_life_die_01.wem"
-        },
-        "ba9ef86ef59bce5a": {
-            "hash": "ba9ef86ef59bce5a",
-            "directory": "External23",
-            "voiceContent": "Show's over, folks...",
-            "sourceName": "vo_gaming_life_die_02.wem"
-        },
         "01239562d7925a43": {
             "hash": "01239562d7925a43",
             "directory": "External0",
-            "voiceContent": "Ready to rumble!",
+            "voiceContent": "Ready to rumble",
             "sourceName": "vo_gaming_teamJoin_01.wem"
-        },
-        "96cf677d635b0cac": {
-            "hash": "96cf677d635b0cac",
-            "directory": "External18",
-            "voiceContent": "Got it! I'll start my warm-up routine!",
-            "sourceName": "vo_gaming_teamJoin_02.wem"
-        },
-        "05b3817484f7817d": {
-            "hash": "05b3817484f7817d",
-            "directory": "External0",
-            "voiceContent": "Is there time to sneak in some dim sum first?",
-            "sourceName": "vo_gaming_teamJoin_03.wem"
-        },
-        "bb3bc4404030da96": {
-            "hash": "bb3bc4404030da96",
-            "directory": "External23",
-            "voiceContent": "Boom-boom tsh, and eyes! And boom-boom tsh, and mouth! And... hmm... I need to tighten up that part.",
-            "sourceName": "vo_gaming_character_idle_01.wem"
-        },
-        "2b7ff2490c7d20f9": {
-            "hash": "2b7ff2490c7d20f9",
-            "directory": "External5",
-            "voiceContent": "Whether it takes me uphill, downhill, or out to the sticks, I get the goods from A to B — I'll even take 'em across the sea if needed. So don't worry, you're in safe hands. They don't call me the Gold-Standard Guard for nothing!",
-            "sourceName": "vo_gaming_character_idle_02.wem"
-        },
-        "a9c298514fdd0378": {
-            "hash": "a9c298514fdd0378",
-            "directory": "External21",
-            "voiceContent": "A pot of tea with a couple of nibbles, some seasonal greens, and a piping-hot bowl of fresh congee... Ahh, that's a dope breakfast right there! The perfect way to start your day.",
-            "sourceName": "vo_gaming_character_idle_03.wem"
-        },
-        "3ff4de12fcf71df0": {
-            "hash": "3ff4de12fcf71df0",
-            "directory": "External7",
-            "voiceContent": "Rain! Oh man, I hope I brought the laundry in!",
-            "sourceName": "vo_gaming_weather_heavyRain_01.wem"
-        },
-        "277ebfcc9b639793": {
-            "hash": "277ebfcc9b639793",
-            "directory": "External4",
-            "voiceContent": "Hey, you hear that? Someone just got wrecked! If you're gonna swear on high heaven, don't make an oath you can't keep.",
-            "sourceName": "vo_gaming_weather_thunder_01.wem"
-        },
-        "394d480be636926c": {
-            "hash": "394d480be636926c",
-            "directory": "External7",
-            "voiceContent": "Dang, I bet water costs an arm and a leg around here? Good thing I brought my own.",
-            "sourceName": "vo_gaming_weather_desert_01.wem"
-        },
-        "a0844c4325d33b77": {
-            "hash": "a0844c4325d33b77",
-            "directory": "External20",
-            "voiceContent": "Ahhh... Eh? Why can't I catch any in my mouth?",
-            "sourceName": "vo_gaming_weather_snowy_01.wem"
-        },
-        "6e3bee55631c5842": {
-            "hash": "6e3bee55631c5842",
-            "directory": "External13",
-            "voiceContent": "Great, sun's out! 'Bout time we had some dry heat. It's been so muggy lately.",
-            "sourceName": "vo_gaming_weather_sunny_01.wem"
-        },
-        "488f22898a702d5a": {
-            "hash": "488f22898a702d5a",
-            "directory": "External9",
-            "voiceContent": "Just finished my kung-fu practice. I'm about to go for dim sum, you wanna join?",
-            "sourceName": "vo_gaming_dialog_greetingMorning.wem"
-        },
-        "3ac87d735db6dcf6": {
-            "hash": "3ac87d735db6dcf6",
-            "directory": "External7",
-            "voiceContent": "You know my favorite thing to have for lunch? Breakfast. Join me for dim sum?",
-            "sourceName": "vo_gaming_dialog_greetingNoon.wem"
-        },
-        "0a4a10c2a307d000": {
-            "hash": "0a4a10c2a307d000",
-            "directory": "External1",
-            "voiceContent": "I managed to book this cool place for dinner! They only do evening service, and it's invite-only. Since you're here with me, wanna come with? Use it or snooze it. C'mon, let's go!",
-            "sourceName": "vo_gaming_dialog_greetingNight.wem"
-        },
-        "f5bd5799141463c0": {
-            "hash": "f5bd5799141463c0",
-            "directory": "External30",
-            "voiceContent": "Hittin' the hay? No? ...You hungry? Wanna grab a bite?",
-            "sourceName": "vo_gaming_dialog_greetingNight2.wem"
-        },
-        "288bd1882cb5ed17": {
-            "hash": "288bd1882cb5ed17",
-            "directory": "External5",
-            "voiceContent": "Ever been to Qiaoying Village? I grew up there. It's a big tea-growing region — Sunglo and Single-Origin Yauwan both come from there. You know what, no time like the present — I got a box of totally dope Single-Origin here, let's get to a teahouse and brew us a pot right now! I'll get some nibbles too, my treat!",
-            "sourceName": "vo_gaming_dialog_idle.wem"
-        },
-        "3e3783be7285e479": {
-            "hash": "3e3783be7285e479",
-            "directory": "External7",
-            "voiceContent": "The fact that I'm able to put food on my plate, and still have the time and energy to focus on my Wushou Dancing, in this day and age... it's all thanks to the folks who've supported me along the way. So I owe it to them to put a hundred and ten percent into this job. Of course, no one's complaining if I still manage to find time to do them the occasional favor and take them for dim sum, haha!",
-            "sourceName": "vo_gaming_dialog_idle2.wem"
-        },
-        "9a8b60f4e47f34e0": {
-            "hash": "9a8b60f4e47f34e0",
-            "directory": "External19",
-            "voiceContent": "Always remember that you can rely on your friends. When the going gets tough, don't soldier on alone — just get in touch and I'll be there! Oh — but hopefully it won't come to that, knock on wood! Here's hoping that next time you get in touch, everything's peaches and cream, and you just need a dim sum buddy!",
-            "sourceName": "vo_gaming_dialog_close1.wem"
-        },
-        "a40498bbb963cfed": {
-            "hash": "a40498bbb963cfed",
-            "directory": "External20",
-            "voiceContent": "When I'm not on a delivery run, I do wushou dancing on the streets of Liyue Harbor. Do you think you could come along and watch sometime to support me? No, no, it's completely free. As long as people are entertained, I'm a happy guy.",
-            "sourceName": "vo_gaming_dialog_close.wem"
-        },
-        "f649e8719a0ea385": {
-            "hash": "f649e8719a0ea385",
-            "directory": "External30",
-            "voiceContent": "Some martial arts novels say that the key to becoming a kung-fu master is tapping into the body's yin-yang energy reserves, hidden in the governor and conception vessels. Well, that's what getting a Vision felt like! ...Haha, just kidding. I'm no kung-fu master — just a good neighbor, thanks to the extra energy it gives me. But that's just me — now imagine if you had a Vision... I mean, looking at everything you can already do without one... Man, that'd be something.",
-            "sourceName": "vo_gaming_dialog_pendant_01.wem"
-        },
-        "8341bcd5cd1644e8": {
-            "hash": "8341bcd5cd1644e8",
-            "directory": "External16",
-            "voiceContent": "Man Chai's such a little rascal! I gave him the name 'cause it means well-behaved, hoping it would rub off on him. Heh... whole lot of good that did! But it's no biggie, all that hyperactive energy makes for a more exciting wushou dance. Also, I feel like watching Man Chai has helped me get a better handle on how suanni look in action. Soon as I put my Wushou head on, I'm right in the zone, roar!",
-            "sourceName": "vo_gaming_dialog_share_01.wem"
-        },
-        "c64611f6355a4f8a": {
-            "hash": "c64611f6355a4f8a",
-            "directory": "External24",
-            "voiceContent": "With a lot of herbs, flowers, and even the twigs and bark of certain trees, if you dry them out then boil them in water, it makes a really refreshing drink with a ton of health benefits! Cools you down, calms the mind, and so on. Granny and Aunty tell me that drinking one of these herbal teas before and after eating fried foods helps clear your system and reduce heatiness.",
-            "sourceName": "vo_gaming_pref_gift_01.wem"
-        },
-        "196d4b21d55f2abe": {
-            "hash": "196d4b21d55f2abe",
-            "directory": "External3",
-            "voiceContent": "Pretty much everything Chef Xiangling cooks is a winner, but my favorite has to be her Black-Back Perch Stew. I always try to rinse off the molten lava sauce before each bite, but I'm still like ss, ah, ss, ah trying to cool my mouth down, hahaha! Worth every bite though, and they do generous portions — you can see why it's Wanmin's signature dish. I'll be back for my next fix soon!",
-            "sourceName": "vo_gaming_teammate_xiangling_01.wem"
-        },
-        "c8c5b7775ed974f2": {
-            "hash": "c8c5b7775ed974f2",
-            "directory": "External25",
-            "voiceContent": "The Feiyun Commerce Guild's a longtime client of the Secure Transport Agency. The older brother's the one who usually takes care of business with us, but there was one time when Xingqiu piped up with a question for me. So I start rambling away, giving him all the routes and delivery dates for all their recent orders... Turns out all he wanted to know was when the Wanwen Bookhouse is getting their next delivery in, hahaha...",
-            "sourceName": "vo_gaming_teammate_xingqiu_01.wem"
-        },
-        "b19e8d86dc273e56": {
-            "hash": "b19e8d86dc273e56",
-            "directory": "External22",
-            "voiceContent": "I heard that guy's got a pure-yang spirit? Where I'm from, we call that heatiness. Dude needs to drink more herbal teas, for real.",
-            "sourceName": "vo_gaming_teammate_chongyun_01.wem"
-        },
-        "8c15629d69360386": {
-            "hash": "8c15629d69360386",
-            "directory": "External17",
-            "voiceContent": "Yun Jin's a huge inspiration to me! Everyone agrees that she's a fantastic singer, from the experts to the casual listener. Incredible. If the Mighty Mythical Beasts ever get half as successful as the Yun-Han Opera Troupe... don't pinch me, 'cause I won't wanna wake up!",
-            "sourceName": "vo_gaming_teammate_yunjin_01.wem"
-        },
-        "179257d9cc884492": {
-            "hash": "179257d9cc884492",
-            "directory": "External2",
-            "voiceContent": "Xinyan's music is fire! No pun intended. Man Chai goes crazy for it — always gets him moshing away like a mad gremlin. I'd love to do a joint show together one day. Roaring Beasts A Rock 'N' Roll Wushou Dance. Whaddya think, has it got legs?",
-            "sourceName": "vo_gaming_teammate_xinyan_01.wem"
-        },
-        "bbbc5376926b52cf": {
-            "hash": "bbbc5376926b52cf",
-            "directory": "External23",
-            "voiceContent": "Aunty Xianyun always has my back. Once, she saw that my Wushou head was looking a little worse for wear, and instantly said she could make, like, ten more for me, all twice my size. She was pretty insistent — it took me forever to talk her down to just remodeling the one I already had... And boy, is this an improvement! It looks way more impressive, it's much lighter, and the lion blanket constantly rustles in the air like there's an adeptal wind making it dance. I couldn't be happier with it!",
-            "sourceName": "vo_gaming_teammate_xianyun_01.wem"
-        },
-        "13eabf5ef43b85a2": {
-            "hash": "13eabf5ef43b85a2",
-            "directory": "External2",
-            "voiceContent": "It's all thanks to the Yuheng that we don't get so many bandits on the road between Liyue Harbor and Yilong Wharf anymore. She's the one who spearheaded the crackdown on all that. ...You think my job's at risk, huh? Haha, they ain't gonna get rid of me that easily. Sure, maybe there's no more bandits to fight, but you're always gonna need a strong pair of arms to lug the cargo around.",
-            "sourceName": "vo_gaming_teammate_keqing_01.wem"
-        },
-        "6453f09b1e8be986": {
-            "hash": "6453f09b1e8be986",
-            "directory": "External12",
-            "voiceContent": "Working as a guard and doing Wushou Dancing means I have a pretty injury-prone lifestyle. Good thing is, Dr. Baizhu's medicine is always there to save the day. Seriously, it's like the one thing people should pack before going on a long journey or family vacation. My workmates at the Secure Transport Agency always get me to bring some back for them when I come to Liyue Harbor.",
-            "sourceName": "vo_gaming_teammate_baizhu_01.wem"
-        },
-        "62ea6a98b2e5d813": {
-            "hash": "62ea6a98b2e5d813",
-            "directory": "External12",
-            "voiceContent": "Ah, Qiqi, the lovable munchkin. She's convinced that all my accidents are due to stiff joints, so whenever I'm at Bubu Pharmacy stocking up on medicine, she makes me do some stretches with her to limber me up, haha. It's easy, wanna try? Ok, after me One, two three, four; two, two, three, four...",
-            "sourceName": "vo_gaming_teammate_qiqi_01.wem"
-        },
-        "aec704cd7573ebaa": {
-            "hash": "aec704cd7573ebaa",
-            "directory": "External21",
-            "voiceContent": "I'm the best wushou-dancer in the Secure Transport Agency, and the busiest guard in the wushou-dancing community, how 'bout that? That do anything for ya?",
-            "sourceName": "vo_gaming_friendship_01.wem"
-        },
-        "e020a2d46b4c072d": {
-            "hash": "e020a2d46b4c072d",
-            "directory": "External28",
-            "voiceContent": "You can tell if someone's a pushover just by looking at their basic kung fu skills horse stance, kicks, splits, jumps, tumbling... If you can't even hack those, hoo boy. Best-case scenario, you might fall off a high pole during a wushou dance and be bedridden for a couple of weeks. Worst-case scenario, you run into bandits on a delivery run and you can't fight 'em off. Definitely lose the cargo, probably your life too... Scary thought, huh? Yeah, I thought so too — that's why I said it to the other guys in the agency to persuade them to train with me! Hahaha.",
-            "sourceName": "vo_gaming_friendship_02.wem"
-        },
-        "713c88dd49af929c": {
-            "hash": "713c88dd49af929c",
-            "directory": "External14",
-            "voiceContent": "They're delicate y'know — the wushou head and blanket, the drums, the cymbals — and I practice a lot, so they deteriorate pretty quickly. You gotta be diligent about maintaining that stuff, and it costs a lot of Mora. Then there's the meals out with friends, gift-shopping for birthdays and festivals, spotting my buddies a few Mora when they're strapped for cash... It all adds up. And that's how I blow through pretty much my whole salary every month.",
-            "sourceName": "vo_gaming_friendship_03.wem"
-        },
-        "cb7796e57842cc47": {
-            "hash": "cb7796e57842cc47",
-            "directory": "External25",
-            "voiceContent": "My dad keeps hoping I'll come 'round to the idea of him teaching me how to do business one day. He doesn't seem to realize that the whole reason I left my hometown in the first place is 'cause I've already figured out what's best for me. Firstly, I wanna show him that my wushou dancing isn't just a phase — I'm gonna make a name for myself or die trying! Secondly... I'm done clashing with him all the time. I don't hate the guy, I mean, he's still my dad and everything, it's just... every time he opens his mouth, it's a verbal assault, and I'd rather stay out of his line of fire!",
-            "sourceName": "vo_gaming_friendship_04.wem"
-        },
-        "75cc74eef714b9be": {
-            "hash": "75cc74eef714b9be",
-            "directory": "External14",
-            "voiceContent": "This bruise here's a fresh one, got it when I was practicing my kicks the other day... And this bump showed up after I took a knock during a somersault. That was last month, and it's almost healed now. This scar right here, though, that was a doozie and a half. I had a bad fall the first time I was practicing on the high pole — cut myself up pretty bad. There was so much blood, I thought my wushou dancing career was over before it began... I've had some near misses since then, but thankfully nothing serious. I'm still up to it... Just gotta keep at it...",
-            "sourceName": "vo_gaming_friendship_05.wem"
-        },
-        "2a91ec756cb22406": {
-            "hash": "2a91ec756cb22406",
-            "directory": "External5",
-            "voiceContent": "When you go for tea but stay for the dim sum, we call that yum cha. What you wanna do is get some sweet dim sum and some savory dim sum — gotta make it a balanced meal — and order a mix of ready-made dim sum and made-to-order dim sum, so that you can snack on dim sum while you're waiting on your other dim sum... Funnily enough, I never need lunch on a dim sum day. Lemme know when you're free, I'll take you some time! And don't be afraid to order a bit of everything, you can always pack up the leftovers and take them home.",
-            "sourceName": "vo_gaming_pref_hobby.wem"
-        },
-        "22d4844cda36d779": {
-            "hash": "22d4844cda36d779",
-            "directory": "External4",
-            "voiceContent": "I was a little monster when I was a kid. I'd get into trouble, then refuse to apologize, and my exasperated mom would say I wish I'd given birth to a chunk of char siu instead of you! Now every time I eat char siu, it makes me think of her...",
-            "sourceName": "vo_gaming_pref_foodLike.wem"
-        },
-        "b088ed8151bfdc9b": {
-            "hash": "b088ed8151bfdc9b",
-            "directory": "External22",
-            "voiceContent": "Everyone says I have weird taste... Call me crazy, but all I want is for my fowl to taste like fowl, and my fish to taste like fish.",
-            "sourceName": "vo_gaming_pref_foodDislike.wem"
-        },
-        "3617581501bdd0b6": {
-            "hash": "3617581501bdd0b6",
-            "directory": "External6",
-            "voiceContent": "Dang, are you secretly a god? Because this tastes like heaven! No joke. I'm calling you kitchen god from now on.",
-            "sourceName": "vo_gaming_spice_pref_01.wem"
-        },
-        "c63d29198d9426dc": {
-            "hash": "c63d29198d9426dc",
-            "directory": "External24",
-            "voiceContent": "You made this yourself? Wow. You're too good to me! Seriously, you are an amazing cook.",
-            "sourceName": "vo_gaming_spice_normal_01.wem"
-        },
-        "9d45e5e3415f7510": {
-            "hash": "9d45e5e3415f7510",
-            "directory": "External19",
-            "voiceContent": "I'm a big believer in owning your mistakes and taking criticism on the chin... So next time I upset you, there's no need to go to all this trouble — you can just smack me in the face instead!",
-            "sourceName": "vo_gaming_spice_dislike_01.wem"
-        },
-        "a6967c1ffb220845": {
-            "hash": "a6967c1ffb220845",
-            "directory": "External20",
-            "voiceContent": "So a little birdie told me that it's your birthday today... When were you planning on telling me? Tsk... Anyway, I went ahead and made a reservation at Xinyue Kiosk. Eight dishes, a soup, and as much rice as you can eat, with Longevity Buns and Tong Sui for dessert. Plus I invited all your friends along. Uh, and I also put together a little birthday wushou dance for you — nothing extravagant, just a bit of fun really — but yeah, I hope you like it!",
-            "sourceName": "vo_gaming_pref_birthday_01.wem"
         },
         "01db6583b1d47315": {
             "hash": "01db6583b1d47315",
             "directory": "External0",
-            "voiceContent": "Whoa, is this all for me? Dang, how much did this put you out? You shouldn't have...",
+            "voiceContent": "Whoa, is this all for me? Dang, how much did this put you out? You shouldn't have..",
             "sourceName": "vo_gaming_starUp_01.wem"
         },
-        "d015877cbba0cc32": {
-            "hash": "d015877cbba0cc32",
-            "directory": "External26",
-            "voiceContent": "Oh man, you're trusting me with a lot of power here. But I promise you, it's in good hands. I'm gonna ramp up my kung fu training and hustle hard, watch me!",
-            "sourceName": "vo_gaming_starUp_02.wem"
+        "05b3817484f7817d": {
+            "hash": "05b3817484f7817d",
+            "directory": "External0",
+            "voiceContent": "Is there time to sneak in some dim sum first",
+            "sourceName": "vo_gaming_teamJoin_03.wem"
         },
-        "5208f974786ea27b": {
-            "hash": "5208f974786ea27b",
-            "directory": "External10",
-            "voiceContent": "If I can guard shipments, I can guard people. Since you seem to trust me, how 'bout I be your bodyguard from now on?",
-            "sourceName": "vo_gaming_starUp_03.wem"
+        "08c72d4556350233": {
+            "hash": "08c72d4556350233",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_sprint_start_03.wem"
         },
-        "4386abad73c30a48": {
-            "hash": "4386abad73c30a48",
-            "directory": "External8",
-            "voiceContent": "Thanks for doing the lion's share of the work to get me this far. I know better than to promise I can guarantee your safety in your future travels, but you'd better believe I'll bust a gut trying to help you achieve your dreams!",
-            "sourceName": "vo_gaming_starUp_04.wem"
+        "0a4a10c2a307d000": {
+            "hash": "0a4a10c2a307d000",
+            "directory": "External1",
+            "voiceContent": "I managed to book this cool place for dinner! They only do evening service, and it's invite-only. Since you're here with me, wanna come with? Use it or snooze it. C'mon, let's go",
+            "sourceName": "vo_gaming_dialog_greetingNight.wem"
         },
-        "79c2429d13138761": {
-            "hash": "79c2429d13138761",
-            "directory": "External15",
-            "voiceContent": "No pain, no gain...",
-            "sourceName": "vo_gaming_life_less30_01.wem"
+        "0d72639e7d12b683": {
+            "hash": "0d72639e7d12b683",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackmid_03.wem"
+        },
+        "0e9c4fb02794b4bd": {
+            "hash": "0e9c4fb02794b4bd",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackmid_01.wem"
+        },
+        "10e7a6a449412f54": {
+            "hash": "10e7a6a449412f54",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_fly_start_03.wem"
+        },
+        "13cc632dbb09e7ec": {
+            "hash": "13cc632dbb09e7ec",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_04.wem"
+        },
+        "13eabf5ef43b85a2": {
+            "hash": "13eabf5ef43b85a2",
+            "directory": "External2",
+            "voiceContent": "It's all thanks to the Yuheng that we don't get so many bandits on the road between Liyue Harbor and Yilong Wharf anymore. She's the one who spearheaded the crackdown on all that. ...You think my job's at risk, huh? Haha, they ain't gonna get rid of me that easily. Sure, maybe there's no more bandits to fight, but you're always gonna need a strong pair of arms to lug the cargo around",
+            "sourceName": "vo_gaming_teammate_keqing_01.wem"
+        },
+        "14a3167723ffe05d": {
+            "hash": "14a3167723ffe05d",
+            "directory": "External2",
+            "voiceContent": "I gotta... run..",
+            "sourceName": "vo_gaming_life_die_01.wem"
+        },
+        "16aa98c78e99a946": {
+            "hash": "16aa98c78e99a946",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_h_06.wem"
+        },
+        "1739340d90d8f7b9": {
+            "hash": "1739340d90d8f7b9",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_breath_02.wem"
+        },
+        "179257d9cc884492": {
+            "hash": "179257d9cc884492",
+            "directory": "External2",
+            "voiceContent": "Xinyan's music is fire! No pun intended. Man Chai goes crazy for it — always gets him moshing away like a mad gremlin. I'd love to do a joint show together one day. Roaring Beasts A Rock 'N' Roll Wushou Dance. Whaddya think, has it got legs",
+            "sourceName": "vo_gaming_teammate_xinyan_01.wem"
+        },
+        "196d4b21d55f2abe": {
+            "hash": "196d4b21d55f2abe",
+            "directory": "External3",
+            "voiceContent": "Pretty much everything Chef Xiangling cooks is a winner, but my favorite has to be her Black-Back Perch Stew. I always try to rinse off the molten lava sauce before each bite, but I'm still like ss, ah, ss, ah trying to cool my mouth down, hahaha! Worth every bite though, and they do generous portions — you can see why it's Wanmin's signature dish. I'll be back for my next fix soon",
+            "sourceName": "vo_gaming_teammate_xiangling_01.wem"
         },
         "1f873494e4804dbe": {
             "hash": "1f873494e4804dbe",
             "directory": "External3",
-            "voiceContent": "The feeling is mutual...",
+            "voiceContent": "The feeling is mutual..",
             "sourceName": "vo_gaming_life_less30_02.wem"
         },
-        "7532568b65ae6047": {
-            "hash": "7532568b65ae6047",
-            "directory": "External14",
-            "voiceContent": "Still breathing!",
-            "sourceName": "vo_gaming_life_less30_03.wem"
+        "2210b4849ee550d3": {
+            "hash": "2210b4849ee550d3",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackheavy_02.wem"
         },
-        "6837aa67ed7eeaa3": {
-            "hash": "6837aa67ed7eeaa3",
-            "directory": "External13",
-            "voiceContent": "Forget about me, just go...",
-            "sourceName": "vo_gaming_life_die_03.wem"
+        "22d4844cda36d779": {
+            "hash": "22d4844cda36d779",
+            "directory": "External4",
+            "voiceContent": "I was a little monster when I was a kid. I'd get into trouble, then refuse to apologize, and my exasperated mom would say I wish I'd given birth to a chunk of char siu instead of you! Now every time I eat char siu, it makes me think of her..",
+            "sourceName": "vo_gaming_pref_foodLike.wem"
         },
-        "ec3266b014e62a35": {
-            "hash": "ec3266b014e62a35",
-            "directory": "External29",
-            "voiceContent": "Hey, what gives!?",
-            "sourceName": "vo_gaming_battle_hit_H_01.wem"
+        "25455f1cab5d6dba": {
+            "hash": "25455f1cab5d6dba",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_06.wem"
         },
-        "691508a6ad9656d2": {
-            "hash": "691508a6ad9656d2",
-            "directory": "External13",
-            "voiceContent": "Stop it now!",
-            "sourceName": "vo_gaming_battle_hit_H_02.wem"
+        "277ebfcc9b639793": {
+            "hash": "277ebfcc9b639793",
+            "directory": "External4",
+            "voiceContent": "Hey, you hear that? Someone just got wrecked! If you're gonna swear on high heaven, don't make an oath you can't keep",
+            "sourceName": "vo_gaming_weather_thunder_01.wem"
         },
-        "58fe542f074e7a20": {
-            "hash": "58fe542f074e7a20",
-            "directory": "External11",
-            "voiceContent": "Mr. Zhongli seems like the kind of guy who had an expensive education. Seems like whenever I make a delivery to a teahouse or opera house, he's always there drinking tea, listening to the storyteller, and looking like the smartest guy in the room. Dude, I once overheard him talking to someone about tea — I was like, man, if he ever got talking to my dad, that conversation would go on all night...",
-            "sourceName": "vo_gaming_teammate_zhongli_01.wem"
+        "288bd1882cb5ed17": {
+            "hash": "288bd1882cb5ed17",
+            "directory": "External5",
+            "voiceContent": "Ever been to Qiaoying Village? I grew up there. It's a big tea-growing region — Sunglo and Single-Origin Yauwan both come from there. You know what, no time like the present — I got a box of totally dope Single-Origin here, let's get to a teahouse and brew us a pot right now! I'll get some nibbles too, my treat",
+            "sourceName": "vo_gaming_dialog_idle.wem"
         },
-        "93859b1284a8760f": {
-            "hash": "93859b1284a8760f",
-            "directory": "External18",
-            "voiceContent": "Oh, yeah, yeah, the journalist, I know who you mean! All the Fontainians in Yilong Wharf read The Steambird, and sometimes I take a peekski too. Seems like all the best articles have her name on them. Wait! And you were on the front page once! That was you, right?",
-            "sourceName": "vo_gaming_teammate_charlotte_01.wem"
+        "2a91ec756cb22406": {
+            "hash": "2a91ec756cb22406",
+            "directory": "External5",
+            "voiceContent": "When you go for tea but stay for the dim sum, we call that yum cha. What you wanna do is get some sweet dim sum and some savory dim sum — gotta make it a balanced meal — and order a mix of ready-made dim sum and made-to-order dim sum, so that you can snack on dim sum while you're waiting on your other dim sum... Funnily enough, I never need lunch on a dim sum day. Lemme know when you're free, I'll take you some time! And don't be afraid to order a bit of everything, you can always pack up the leftovers and take them home",
+            "sourceName": "vo_gaming_pref_hobby.wem"
         },
-        "e4af23928777dba6": {
-            "hash": "e4af23928777dba6",
-            "directory": "External28",
-            "voiceContent": "Being friends with Lan Yan is a food-lover's dream! You've gotta ask her to take you into the mountains to try the local dishes. There's even a place where you can bring your own ingredients. Just tell her Gaming told you about it, and she'll know the one. The mountain roads are hard to navigate, so you'll definitely need her to lead the way. Don't want you getting lost out there! Anyway, eat as much as you want, okay? The boss is my friend, so just put it on my tab and call it a day!",
-            "sourceName": "vo_gaming_teammate_lanyan_01.wem"
+        "2b7ff2490c7d20f9": {
+            "hash": "2b7ff2490c7d20f9",
+            "directory": "External5",
+            "voiceContent": "Whether it takes me uphill, downhill, or out to the sticks, I get the goods from A to B — I'll even take 'em across the sea if needed. So don't worry, you're in safe hands. They don't call me the Gold-Standard Guard for nothing",
+            "sourceName": "vo_gaming_character_idle_02.wem"
+        },
+        "3143acd9d9b7ea68": {
+            "hash": "3143acd9d9b7ea68",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_h_04.wem"
+        },
+        "324c4e04c5e0d417": {
+            "hash": "324c4e04c5e0d417",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_idle_02.wem"
+        },
+        "358b480a6c5b4ffa": {
+            "hash": "358b480a6c5b4ffa",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_02.wem"
+        },
+        "3617581501bdd0b6": {
+            "hash": "3617581501bdd0b6",
+            "directory": "External6",
+            "voiceContent": "Dang, are you secretly a god? Because this tastes like heaven! No joke. I'm calling you kitchen god from now on",
+            "sourceName": "vo_gaming_spice_pref_01.wem"
+        },
+        "3646641f11e9dab9": {
+            "hash": "3646641f11e9dab9",
+            "directory": "External6",
+            "voiceContent": "Many happy returns",
+            "sourceName": "vo_gaming_battle_skill3_01.wem"
+        },
+        "394d480be636926c": {
+            "hash": "394d480be636926c",
+            "directory": "External7",
+            "voiceContent": "Dang, I bet water costs an arm and a leg around here? Good thing I brought my own",
+            "sourceName": "vo_gaming_weather_desert_01.wem"
+        },
+        "3ac87d735db6dcf6": {
+            "hash": "3ac87d735db6dcf6",
+            "directory": "External7",
+            "voiceContent": "You know my favorite thing to have for lunch? Breakfast. Join me for dim sum",
+            "sourceName": "vo_gaming_dialog_greetingNoon.wem"
+        },
+        "3e20b5b3e0ebb872": {
+            "hash": "3e20b5b3e0ebb872",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_04.wem"
+        },
+        "3e3783be7285e479": {
+            "hash": "3e3783be7285e479",
+            "directory": "External7",
+            "voiceContent": "The fact that I'm able to put food on my plate, and still have the time and energy to focus on my Wushou Dancing, in this day and age... it's all thanks to the folks who've supported me along the way. So I owe it to them to put a hundred and ten percent into this job. Of course, no one's complaining if I still manage to find time to do them the occasional favor and take them for dim sum, haha",
+            "sourceName": "vo_gaming_dialog_idle2.wem"
+        },
+        "3ff4de12fcf71df0": {
+            "hash": "3ff4de12fcf71df0",
+            "directory": "External7",
+            "voiceContent": "Rain! Oh man, I hope I brought the laundry in",
+            "sourceName": "vo_gaming_weather_heavyRain_01.wem"
+        },
+        "4152a279a259b0ce": {
+            "hash": "4152a279a259b0ce",
+            "directory": "External8",
+            "voiceContent": "Good things come to those who wait",
+            "sourceName": "vo_gaming_chest_open_03.wem"
+        },
+        "41f53134ae2b0797": {
+            "hash": "41f53134ae2b0797",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_03.wem"
+        },
+        "427c968b4cdbbc70": {
+            "hash": "427c968b4cdbbc70",
+            "directory": "External8",
+            "voiceContent": "Oh, cool! This stuff looks dope",
+            "sourceName": "vo_gaming_chest_open_01.wem"
+        },
+        "434fedd5a7203f58": {
+            "hash": "434fedd5a7203f58",
+            "directory": "External8",
+            "voiceContent": "Take five, I've got this",
+            "sourceName": "vo_gaming_life_less30_teammate_01.wem"
+        },
+        "4386abad73c30a48": {
+            "hash": "4386abad73c30a48",
+            "directory": "External8",
+            "voiceContent": "Thanks for doing the lion's share of the work to get me this far. I know better than to promise I can guarantee your safety in your future travels, but you'd better believe I'll bust a gut trying to help you achieve your dreams",
+            "sourceName": "vo_gaming_starUp_04.wem"
+        },
+        "46851d465b902eb1": {
+            "hash": "46851d465b902eb1",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_01.wem"
+        },
+        "488f22898a702d5a": {
+            "hash": "488f22898a702d5a",
+            "directory": "External9",
+            "voiceContent": "Just finished my kung-fu practice. I'm about to go for dim sum, you wanna join",
+            "sourceName": "vo_gaming_dialog_greetingMorning.wem"
+        },
+        "491a4d41d888ef7b": {
+            "hash": "491a4d41d888ef7b",
+            "directory": "External9",
+            "voiceContent": "Sorry, pal",
+            "sourceName": "vo_gaming_battle_skill1_01.wem"
         },
         "4ae52b0614147649": {
             "hash": "4ae52b0614147649",
             "directory": "External9",
-            "voiceContent": "How much!? ...Alright fine, I'll bite the bullet on the service charge, but I'm not paying extra for a few wet wipes, okay? Matter of fact, I brought my own, so you can keep 'em!",
+            "voiceContent": "How much!? ...Alright fine, I'll bite the bullet on the service charge, but I'm not paying extra for a few wet wipes, okay? Matter of fact, I brought my own, so you can keep 'em",
             "sourceName": "vo_gaming_dialog_annoyed_01.wem"
+        },
+        "4e89eff3e1249ee7": {
+            "hash": "4e89eff3e1249ee7",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_jump_04.wem"
+        },
+        "5208f974786ea27b": {
+            "hash": "5208f974786ea27b",
+            "directory": "External10",
+            "voiceContent": "If I can guard shipments, I can guard people. Since you seem to trust me, how 'bout I be your bodyguard from now on",
+            "sourceName": "vo_gaming_starUp_03.wem"
+        },
+        "58fe542f074e7a20": {
+            "hash": "58fe542f074e7a20",
+            "directory": "External11",
+            "voiceContent": "Mr. Zhongli seems like the kind of guy who had an expensive education. Seems like whenever I make a delivery to a teahouse or opera house, he's always there drinking tea, listening to the storyteller, and looking like the smartest guy in the room. Dude, I once overheard him talking to someone about tea — I was like, man, if he ever got talking to my dad, that conversation would go on all night..",
+            "sourceName": "vo_gaming_teammate_zhongli_01.wem"
+        },
+        "5f6073dd911e7949": {
+            "hash": "5f6073dd911e7949",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_03.wem"
+        },
+        "611542950fdb6b02": {
+            "hash": "611542950fdb6b02",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_fly_start_01.wem"
+        },
+        "62ea6a98b2e5d813": {
+            "hash": "62ea6a98b2e5d813",
+            "directory": "External12",
+            "voiceContent": "Ah, Qiqi, the lovable munchkin. She's convinced that all my accidents are due to stiff joints, so whenever I'm at Bubu Pharmacy stocking up on medicine, she makes me do some stretches with her to limber me up, haha. It's easy, wanna try? Ok, after me One, two three, four; two, two, three, four..",
+            "sourceName": "vo_gaming_teammate_qiqi_01.wem"
+        },
+        "6332fbe2d42dd9cd": {
+            "hash": "6332fbe2d42dd9cd",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_jump_02.wem"
+        },
+        "6453f09b1e8be986": {
+            "hash": "6453f09b1e8be986",
+            "directory": "External12",
+            "voiceContent": "Working as a guard and doing Wushou Dancing means I have a pretty injury-prone lifestyle. Good thing is, Dr. Baizhu's medicine is always there to save the day. Seriously, it's like the one thing people should pack before going on a long journey or family vacation. My workmates at the Secure Transport Agency always get me to bring some back for them when I come to Liyue Harbor",
+            "sourceName": "vo_gaming_teammate_baizhu_01.wem"
+        },
+        "6837aa67ed7eeaa3": {
+            "hash": "6837aa67ed7eeaa3",
+            "directory": "External13",
+            "voiceContent": "Forget about me, just go..",
+            "sourceName": "vo_gaming_life_die_03.wem"
+        },
+        "691508a6ad9656d2": {
+            "hash": "691508a6ad9656d2",
+            "directory": "External13",
+            "voiceContent": "Stop it now",
+            "sourceName": "vo_gaming_battle_hit_H_02.wem"
         },
         "6d61a43c347e05ec": {
             "hash": "6d61a43c347e05ec",
             "directory": "External13",
-            "voiceContent": "Hey, Boss! The name's Gaming — I'm a guard from the Communications Office. So, all this needs shipping, right? No, no, you grab a seat and have some tea — I'll get these packed up for you, no problem. It'll only take me a minute, then we can get the delivery scheduled. Oh! And if you ever wanna book a Wushou Dance, me and my crew are available in a heartbeat! The troupe's called the Mighty Mythical Beasts, and I'm the head, hehe, not to brag or anything.",
+            "voiceContent": "Hey, Boss! The name's Gaming — I'm a guard from the Communications Office. So, all this needs shipping, right? No, no, you grab a seat and have some tea — I'll get these packed up for you, no problem. It'll only take me a minute, then we can get the delivery scheduled. Oh! And if you ever wanna book a Wushou Dance, me and my crew are available in a heartbeat! The troupe's called the Mighty Mythical Beasts, and I'm the head, hehe, not to brag or anything",
             "sourceName": "vo_gaming_draw_appear_01.wem"
+        },
+        "6e3bee55631c5842": {
+            "hash": "6e3bee55631c5842",
+            "directory": "External13",
+            "voiceContent": "Great, sun's out! 'Bout time we had some dry heat. It's been so muggy lately",
+            "sourceName": "vo_gaming_weather_sunny_01.wem"
+        },
+        "6fe693bad71f5f55": {
+            "hash": "6fe693bad71f5f55",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_07.wem"
+        },
+        "70d9a7cc81725ecf": {
+            "hash": "70d9a7cc81725ecf",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_01.wem"
+        },
+        "713c88dd49af929c": {
+            "hash": "713c88dd49af929c",
+            "directory": "External14",
+            "voiceContent": "They're delicate y'know — the wushou head and blanket, the drums, the cymbals — and I practice a lot, so they deteriorate pretty quickly. You gotta be diligent about maintaining that stuff, and it costs a lot of Mora. Then there's the meals out with friends, gift-shopping for birthdays and festivals, spotting my buddies a few Mora when they're strapped for cash... It all adds up. And that's how I blow through pretty much my whole salary every month",
+            "sourceName": "vo_gaming_friendship_03.wem"
+        },
+        "73937f59523e2084": {
+            "hash": "73937f59523e2084",
+            "directory": "External14",
+            "voiceContent": "Alley-oop",
+            "sourceName": "vo_gaming_battle_skill1_02.wem"
+        },
+        "73d1980f3daf6c3f": {
+            "hash": "73d1980f3daf6c3f",
+            "directory": "External14",
+            "voiceContent": "Mighty mythical beast",
+            "sourceName": "vo_gaming_battle_skill3_03.wem"
+        },
+        "7532568b65ae6047": {
+            "hash": "7532568b65ae6047",
+            "directory": "External14",
+            "voiceContent": "Still breathing",
+            "sourceName": "vo_gaming_life_less30_03.wem"
+        },
+        "75cc74eef714b9be": {
+            "hash": "75cc74eef714b9be",
+            "directory": "External14",
+            "voiceContent": "This bruise here's a fresh one, got it when I was practicing my kicks the other day... And this bump showed up after I took a knock during a somersault. That was last month, and it's almost healed now. This scar right here, though, that was a doozie and a half. I had a bad fall the first time I was practicing on the high pole — cut myself up pretty bad. There was so much blood, I thought my wushou dancing career was over before it began... I've had some near misses since then, but thankfully nothing serious. I'm still up to it... Just gotta keep at it..",
+            "sourceName": "vo_gaming_friendship_05.wem"
+        },
+        "79c2429d13138761": {
+            "hash": "79c2429d13138761",
+            "directory": "External15",
+            "voiceContent": "No pain, no gain..",
+            "sourceName": "vo_gaming_life_less30_01.wem"
+        },
+        "7f4a7d24d9c332bd": {
+            "hash": "7f4a7d24d9c332bd",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_05.wem"
+        },
+        "8341bcd5cd1644e8": {
+            "hash": "8341bcd5cd1644e8",
+            "directory": "External16",
+            "voiceContent": "Man Chai's such a little rascal! I gave him the name 'cause it means well-behaved, hoping it would rub off on him. Heh... whole lot of good that did! But it's no biggie, all that hyperactive energy makes for a more exciting wushou dance. Also, I feel like watching Man Chai has helped me get a better handle on how suanni look in action. Soon as I put my Wushou head on, I'm right in the zone, roar",
+            "sourceName": "vo_gaming_dialog_share_01.wem"
+        },
+        "83d9fb4d96df8f2a": {
+            "hash": "83d9fb4d96df8f2a",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_sprint_start_02.wem"
+        },
+        "86eec6d05ae5eea9": {
+            "hash": "86eec6d05ae5eea9",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_h_05.wem"
+        },
+        "8b007a00ed5bedc3": {
+            "hash": "8b007a00ed5bedc3",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_03.wem"
+        },
+        "8c15629d69360386": {
+            "hash": "8c15629d69360386",
+            "directory": "External17",
+            "voiceContent": "Yun Jin's a huge inspiration to me! Everyone agrees that she's a fantastic singer, from the experts to the casual listener. Incredible. If the Mighty Mythical Beasts ever get half as successful as the Yun-Han Opera Troupe... don't pinch me, 'cause I won't wanna wake up",
+            "sourceName": "vo_gaming_teammate_yunjin_01.wem"
+        },
+        "8f9066129ac114fd": {
+            "hash": "8f9066129ac114fd",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_01.wem"
+        },
+        "9215da15d155b138": {
+            "hash": "9215da15d155b138",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_breath_03.wem"
+        },
+        "93859b1284a8760f": {
+            "hash": "93859b1284a8760f",
+            "directory": "External18",
+            "voiceContent": "Oh, yeah, yeah, the journalist, I know who you mean! All the Fontainians in Yilong Wharf read The Steambird, and sometimes I take a peekski too. Seems like all the best articles have her name on them. Wait! And you were on the front page once! That was you, right",
+            "sourceName": "vo_gaming_teammate_charlotte_01.wem"
+        },
+        "96cf677d635b0cac": {
+            "hash": "96cf677d635b0cac",
+            "directory": "External18",
+            "voiceContent": "Got it! I'll start my warm-up routine",
+            "sourceName": "vo_gaming_teamJoin_02.wem"
+        },
+        "9a8b60f4e47f34e0": {
+            "hash": "9a8b60f4e47f34e0",
+            "directory": "External19",
+            "voiceContent": "Always remember that you can rely on your friends. When the going gets tough, don't soldier on alone — just get in touch and I'll be there! Oh — but hopefully it won't come to that, knock on wood! Here's hoping that next time you get in touch, everything's peaches and cream, and you just need a dim sum buddy",
+            "sourceName": "vo_gaming_dialog_close1.wem"
+        },
+        "9d45e5e3415f7510": {
+            "hash": "9d45e5e3415f7510",
+            "directory": "External19",
+            "voiceContent": "I'm a big believer in owning your mistakes and taking criticism on the chin... So next time I upset you, there's no need to go to all this trouble — you can just smack me in the face instead",
+            "sourceName": "vo_gaming_spice_dislike_01.wem"
+        },
+        "a0844c4325d33b77": {
+            "hash": "a0844c4325d33b77",
+            "directory": "External20",
+            "voiceContent": "Ahhh... Eh? Why can't I catch any in my mouth",
+            "sourceName": "vo_gaming_weather_snowy_01.wem"
+        },
+        "a089828ce27306ca": {
+            "hash": "a089828ce27306ca",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackheavy_03.wem"
+        },
+        "a0ba4dfae9125ade": {
+            "hash": "a0ba4dfae9125ade",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_jump_05.wem"
+        },
+        "a40498bbb963cfed": {
+            "hash": "a40498bbb963cfed",
+            "directory": "External20",
+            "voiceContent": "When I'm not on a delivery run, I do wushou dancing on the streets of Liyue Harbor. Do you think you could come along and watch sometime to support me? No, no, it's completely free. As long as people are entertained, I'm a happy guy",
+            "sourceName": "vo_gaming_dialog_close.wem"
+        },
+        "a6967c1ffb220845": {
+            "hash": "a6967c1ffb220845",
+            "directory": "External20",
+            "voiceContent": "So a little birdie told me that it's your birthday today... When were you planning on telling me? Tsk... Anyway, I went ahead and made a reservation at Xinyue Kiosk. Eight dishes, a soup, and as much rice as you can eat, with Longevity Buns and Tong Sui for dessert. Plus I invited all your friends along. Uh, and I also put together a little birthday wushou dance for you — nothing extravagant, just a bit of fun really — but yeah, I hope you like it",
+            "sourceName": "vo_gaming_pref_birthday_01.wem"
+        },
+        "a6f50604c48cb256": {
+            "hash": "a6f50604c48cb256",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_breath_01.wem"
+        },
+        "a9c298514fdd0378": {
+            "hash": "a9c298514fdd0378",
+            "directory": "External21",
+            "voiceContent": "A pot of tea with a couple of nibbles, some seasonal greens, and a piping-hot bowl of fresh congee... Ahh, that's a dope breakfast right there! The perfect way to start your day",
+            "sourceName": "vo_gaming_character_idle_03.wem"
+        },
+        "add9fbbb1b84e5df": {
+            "hash": "add9fbbb1b84e5df",
+            "directory": "External21",
+            "voiceContent": "Hey, don't push yourself",
+            "sourceName": "vo_gaming_life_less30_teammate_02.wem"
+        },
+        "aec704cd7573ebaa": {
+            "hash": "aec704cd7573ebaa",
+            "directory": "External21",
+            "voiceContent": "I'm the best wushou-dancer in the Secure Transport Agency, and the busiest guard in the wushou-dancing community, how 'bout that? That do anything for ya",
+            "sourceName": "vo_gaming_friendship_01.wem"
+        },
+        "b088ed8151bfdc9b": {
+            "hash": "b088ed8151bfdc9b",
+            "directory": "External22",
+            "voiceContent": "Everyone says I have weird taste... Call me crazy, but all I want is for my fowl to taste like fowl, and my fish to taste like fish",
+            "sourceName": "vo_gaming_pref_foodDislike.wem"
+        },
+        "b08eec0d0940a90e": {
+            "hash": "b08eec0d0940a90e",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_idle_03.wem"
+        },
+        "b190d9e4990c4288": {
+            "hash": "b190d9e4990c4288",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_02.wem"
+        },
+        "b19e8d86dc273e56": {
+            "hash": "b19e8d86dc273e56",
+            "directory": "External22",
+            "voiceContent": "I heard that guy's got a pure-yang spirit? Where I'm from, we call that heatiness. Dude needs to drink more herbal teas, for real",
+            "sourceName": "vo_gaming_teammate_chongyun_01.wem"
+        },
+        "b1b8e01eb3c2b4b0": {
+            "hash": "b1b8e01eb3c2b4b0",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_idle_01.wem"
+        },
+        "b49731a7f92eefba": {
+            "hash": "b49731a7f92eefba",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackmid_02.wem"
+        },
+        "b53399548cb7aaad": {
+            "hash": "b53399548cb7aaad",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_sprint_start_01.wem"
+        },
+        "b7bc869f2aae033c": {
+            "hash": "b7bc869f2aae033c",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackheavy_01.wem"
+        },
+        "ba9ef86ef59bce5a": {
+            "hash": "ba9ef86ef59bce5a",
+            "directory": "External23",
+            "voiceContent": "Show's over, folks..",
+            "sourceName": "vo_gaming_life_die_02.wem"
+        },
+        "bb3bc4404030da96": {
+            "hash": "bb3bc4404030da96",
+            "directory": "External23",
+            "voiceContent": "Boom-boom tsh, and eyes! And boom-boom tsh, and mouth! And... hmm... I need to tighten up that part",
+            "sourceName": "vo_gaming_character_idle_01.wem"
+        },
+        "bb86609d3e9c4f25": {
+            "hash": "bb86609d3e9c4f25",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_fly_start_02.wem"
+        },
+        "bbbc5376926b52cf": {
+            "hash": "bbbc5376926b52cf",
+            "directory": "External23",
+            "voiceContent": "Aunty Xianyun always has my back. Once, she saw that my Wushou head was looking a little worse for wear, and instantly said she could make, like, ten more for me, all twice my size. She was pretty insistent — it took me forever to talk her down to just remodeling the one I already had... And boy, is this an improvement! It looks way more impressive, it's much lighter, and the lion blanket constantly rustles in the air like there's an adeptal wind making it dance. I couldn't be happier with it",
+            "sourceName": "vo_gaming_teammate_xianyun_01.wem"
+        },
+        "c037cf3cf18adc8e": {
+            "hash": "c037cf3cf18adc8e",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_02.wem"
+        },
+        "c31004715ef9dbd7": {
+            "hash": "c31004715ef9dbd7",
+            "directory": "External24",
+            "voiceContent": "Where do you want this stuff delivered to, Boss",
+            "sourceName": "vo_gaming_chest_open_02.wem"
+        },
+        "c37a27aba09cb6bb": {
+            "hash": "c37a27aba09cb6bb",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_05.wem"
+        },
+        "c6023616459d9556": {
+            "hash": "c6023616459d9556",
+            "directory": "External24",
+            "voiceContent": "Hop to it, Man Chai",
+            "sourceName": "vo_gaming_battle_skill3_02.wem"
+        },
+        "c63d29198d9426dc": {
+            "hash": "c63d29198d9426dc",
+            "directory": "External24",
+            "voiceContent": "You made this yourself? Wow. You're too good to me! Seriously, you are an amazing cook",
+            "sourceName": "vo_gaming_spice_normal_01.wem"
+        },
+        "c64611f6355a4f8a": {
+            "hash": "c64611f6355a4f8a",
+            "directory": "External24",
+            "voiceContent": "With a lot of herbs, flowers, and even the twigs and bark of certain trees, if you dry them out then boil them in water, it makes a really refreshing drink with a ton of health benefits! Cools you down, calms the mind, and so on. Granny and Aunty tell me that drinking one of these herbal teas before and after eating fried foods helps clear your system and reduce heatiness",
+            "sourceName": "vo_gaming_pref_gift_01.wem"
+        },
+        "c8c5b7775ed974f2": {
+            "hash": "c8c5b7775ed974f2",
+            "directory": "External25",
+            "voiceContent": "The Feiyun Commerce Guild's a longtime client of the Secure Transport Agency. The older brother's the one who usually takes care of business with us, but there was one time when Xingqiu piped up with a question for me. So I start rambling away, giving him all the routes and delivery dates for all their recent orders... Turns out all he wanted to know was when the Wanwen Bookhouse is getting their next delivery in, hahaha..",
+            "sourceName": "vo_gaming_teammate_xingqiu_01.wem"
+        },
+        "cb7796e57842cc47": {
+            "hash": "cb7796e57842cc47",
+            "directory": "External25",
+            "voiceContent": "My dad keeps hoping I'll come 'round to the idea of him teaching me how to do business one day. He doesn't seem to realize that the whole reason I left my hometown in the first place is 'cause I've already figured out what's best for me. Firstly, I wanna show him that my wushou dancing isn't just a phase — I'm gonna make a name for myself or die trying! Secondly... I'm done clashing with him all the time. I don't hate the guy, I mean, he's still my dad and everything, it's just... every time he opens his mouth, it's a verbal assault, and I'd rather stay out of his line of fire",
+            "sourceName": "vo_gaming_friendship_04.wem"
+        },
+        "d015877cbba0cc32": {
+            "hash": "d015877cbba0cc32",
+            "directory": "External26",
+            "voiceContent": "Oh man, you're trusting me with a lot of power here. But I promise you, it's in good hands. I'm gonna ramp up my kung fu training and hustle hard, watch me",
+            "sourceName": "vo_gaming_starUp_02.wem"
+        },
+        "dd1bddd96a5668ca": {
+            "hash": "dd1bddd96a5668ca",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_jump_01.wem"
+        },
+        "e020a2d46b4c072d": {
+            "hash": "e020a2d46b4c072d",
+            "directory": "External28",
+            "voiceContent": "You can tell if someone's a pushover just by looking at their basic kung fu skills horse stance, kicks, splits, jumps, tumbling... If you can't even hack those, hoo boy. Best-case scenario, you might fall off a high pole during a wushou dance and be bedridden for a couple of weeks. Worst-case scenario, you run into bandits on a delivery run and you can't fight 'em off. Definitely lose the cargo, probably your life too... Scary thought, huh? Yeah, I thought so too — that's why I said it to the other guys in the agency to persuade them to train with me! Hahaha",
+            "sourceName": "vo_gaming_friendship_02.wem"
+        },
+        "e4af23928777dba6": {
+            "hash": "e4af23928777dba6",
+            "directory": "External28",
+            "voiceContent": "Being friends with Lan Yan is a food-lover's dream! You've gotta ask her to take you into the mountains to try the local dishes. There's even a place where you can bring your own ingredients. Just tell her Gaming told you about it, and she'll know the one. The mountain roads are hard to navigate, so you'll definitely need her to lead the way. Don't want you getting lost out there! Anyway, eat as much as you want, okay? The boss is my friend, so just put it on my tab and call it a day",
+            "sourceName": "vo_gaming_teammate_lanyan_01.wem"
+        },
+        "eb087a9e6a642c1b": {
+            "hash": "eb087a9e6a642c1b",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_h_03.wem"
+        },
+        "ec3266b014e62a35": {
+            "hash": "ec3266b014e62a35",
+            "directory": "External29",
+            "voiceContent": "Hey, what gives!",
+            "sourceName": "vo_gaming_battle_hit_H_01.wem"
+        },
+        "edf259c31a5035c4": {
+            "hash": "edf259c31a5035c4",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_06.wem"
+        },
+        "f44ee1ebb291653c": {
+            "hash": "f44ee1ebb291653c",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_jump_03.wem"
+        },
+        "f5bd5799141463c0": {
+            "hash": "f5bd5799141463c0",
+            "directory": "External30",
+            "voiceContent": "Hittin' the hay? No? ...You hungry? Wanna grab a bite",
+            "sourceName": "vo_gaming_dialog_greetingNight2.wem"
+        },
+        "f649e8719a0ea385": {
+            "hash": "f649e8719a0ea385",
+            "directory": "External30",
+            "voiceContent": "Some martial arts novels say that the key to becoming a kung-fu master is tapping into the body's yin-yang energy reserves, hidden in the governor and conception vessels. Well, that's what getting a Vision felt like! ...Haha, just kidding. I'm no kung-fu master — just a good neighbor, thanks to the extra energy it gives me. But that's just me — now imagine if you had a Vision... I mean, looking at everything you can already do without one... Man, that'd be something",
+            "sourceName": "vo_gaming_dialog_pendant_01.wem"
+        },
+        "f8ecb95111eec015": {
+            "hash": "f8ecb95111eec015",
+            "directory": "External31",
+            "voiceContent": "Congratulations",
+            "sourceName": "vo_gaming_battle_skill1_03.wem"
         }
     }
 }

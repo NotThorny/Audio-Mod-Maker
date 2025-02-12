@@ -1,511 +1,769 @@
 {
     "Teapot": {},
     "Quests": {
+        "0009ea9d9f58e0c3": {
+            "hash": "0009ea9d9f58e0c3",
+            "directory": "External0",
+            "voiceContent": "하마터면 나비아라는 소중한 친구를 잃을 뻔했어. 생각만 해도 정말 끔찍",
+            "sourceName": "vo_FDAQ308_11_charlotte_07.wem"
+        },
+        "0499d6af4cbe07fd": {
+            "hash": "0499d6af4cbe07fd",
+            "directory": "External0",
+            "voiceContent": "메로피드 요새가 하루아침에 무너질 뻔했어…. 현장을 직접 보도하지 못한 건 기자로서 평생의 아쉬움으로 남을 거",
+            "sourceName": "vo_FDAQ308_11_charlotte_05.wem"
+        },
         "458828c7648764ce": {
             "hash": "458828c7648764ce",
             "directory": "External8",
-            "voiceContent": "내가 오랫동안 추적해 온 미제 사건이 너희 손에서 해결될 줄이야. 이것도 인연이겠지?",
+            "voiceContent": "내가 오랫동안 추적해 온 미제 사건이 너희 손에서 해결될 줄이야. 이것도 인연이겠지",
             "sourceName": "vo_FDAQ308_11_charlotte_02.wem"
+        },
+        "95b5bcb82b21932c": {
+            "hash": "95b5bcb82b21932c",
+            "directory": "External18",
+            "voiceContent": "우인단의 집행관, 예사롭지 않은 인물이야. 그 사람의 판단이라면 가치가 있겠",
+            "sourceName": "vo_FDAQ308_11_charlotte_04.wem"
         },
         "a5ceac9570c55588": {
             "hash": "a5ceac9570c55588",
             "directory": "External20",
-            "voiceContent": "마녀 같은 인물이 한 말은 아마 훗날 그 일을 직접 겪은 후에야 이해할 수 있을 거야",
+            "voiceContent": "마녀 같은 인물이 한 말은 아마 훗날 그 일을 직접 겪은 후에야 이해할 수 있을 거",
             "sourceName": "vo_FDAQ308_11_charlotte_08.wem"
         },
         "aa94b8a71e5842fa": {
             "hash": "aa94b8a71e5842fa",
             "directory": "External21",
-            "voiceContent": "느비예트 님의 말에 따르면, 그때 「타르탈리아」와 고래 모두 원시 모태 바다 안에 있었다고 해",
+            "voiceContent": "느비예트 님의 말에 따르면, 그때 「타르탈리아」와 고래 모두 원시 모태 바다 안에 있었다고",
             "sourceName": "vo_FDAQ308_11_charlotte_06.wem"
-        },
-        "95b5bcb82b21932c": {
-            "hash": "95b5bcb82b21932c",
-            "directory": "External18",
-            "voiceContent": "우인단의 집행관, 예사롭지 않은 인물이야. 그 사람의 판단이라면 가치가 있겠지",
-            "sourceName": "vo_FDAQ308_11_charlotte_04.wem"
-        },
-        "0499d6af4cbe07fd": {
-            "hash": "0499d6af4cbe07fd",
-            "directory": "External0",
-            "voiceContent": "메로피드 요새가 하루아침에 무너질 뻔했어…. 현장을 직접 보도하지 못한 건 기자로서 평생의 아쉬움으로 남을 거야",
-            "sourceName": "vo_FDAQ308_11_charlotte_05.wem"
         },
         "c7458abf21278fd7": {
             "hash": "c7458abf21278fd7",
             "directory": "External24",
-            "voiceContent": "느비예트 님이 처음으로 계시 판결 장치와 의견이 엇갈리셨어. 이 일은 물의 신 님조차 원인을 모르시지",
+            "voiceContent": "느비예트 님이 처음으로 계시 판결 장치와 의견이 엇갈리셨어. 이 일은 물의 신 님조차 원인을 모르시",
             "sourceName": "vo_FDAQ308_11_charlotte_03.wem"
         },
         "c86f76d0cba98df1": {
             "hash": "c86f76d0cba98df1",
             "directory": "External25",
-            "voiceContent": "너흰 오페라 하우스에서 참여한 첫 번째 법정 대결에서 물의 신님을 이겼어. 정말 축하하고 기념할 만한 일이지",
+            "voiceContent": "너흰 오페라 하우스에서 참여한 첫 번째 법정 대결에서 물의 신님을 이겼어. 정말 축하하고 기념할 만한 일이",
             "sourceName": "vo_FDAQ308_11_charlotte_01.wem"
-        },
-        "0009ea9d9f58e0c3": {
-            "hash": "0009ea9d9f58e0c3",
-            "directory": "External0",
-            "voiceContent": "하마터면 나비아라는 소중한 친구를 잃을 뻔했어. 생각만 해도 정말 끔찍해",
-            "sourceName": "vo_FDAQ308_11_charlotte_07.wem"
         }
     },
     "Gameplay": {
-        "e9a76491195c91e6": {
-            "hash": "e9a76491195c91e6",
-            "directory": "External29",
-            "voiceContent": "여길 봐!",
-            "sourceName": "vo_charlotte_battle_skill1_01.wem"
-        },
-        "59eb9299e5a8d749": {
-            "hash": "59eb9299e5a8d749",
-            "directory": "External11",
-            "voiceContent": "치즈~",
-            "sourceName": "vo_charlotte_battle_skill1_02.wem"
-        },
-        "ac1bf8a0ed96a088": {
-            "hash": "ac1bf8a0ed96a088",
-            "directory": "External21",
-            "voiceContent": "멋진 포즈 부탁해!",
-            "sourceName": "vo_charlotte_battle_skill1_03.wem"
-        },
-        "d4f5da92528e96b0": {
-            "hash": "d4f5da92528e96b0",
-            "directory": "External26",
-            "voiceContent": "진실을 위하여!",
-            "sourceName": "vo_charlotte_battle_skill3_01.wem"
-        },
-        "5589487864acb617": {
-            "hash": "5589487864acb617",
-            "directory": "External10",
-            "voiceContent": "특종이야!",
-            "sourceName": "vo_charlotte_battle_skill3_02.wem"
-        },
-        "d3cbe680a80c8b0e": {
-            "hash": "d3cbe680a80c8b0e",
-            "directory": "External26",
-            "voiceContent": "샤를로트가 전해드립니다!",
-            "sourceName": "vo_charlotte_battle_skill3_03.wem"
-        },
-        "8b46586b0fff7147": {
-            "hash": "8b46586b0fff7147",
-            "directory": "External17",
-            "voiceContent": "오! 괜찮아 보이네",
-            "sourceName": "vo_charlotte_chest_open_01.wem"
-        },
-        "e206ea83c552cee0": {
-            "hash": "e206ea83c552cee0",
-            "directory": "External28",
-            "voiceContent": "누가 상자를 여기에 뒀는지 한번 인터뷰해 보고 싶네",
-            "sourceName": "vo_charlotte_chest_open_02.wem"
-        },
-        "8fd6447cbd649861": {
-            "hash": "8fd6447cbd649861",
-            "directory": "External17",
-            "voiceContent": "이 물건은 분실물 리스트에 없겠지?",
-            "sourceName": "vo_charlotte_chest_open_03.wem"
-        },
-        "1f6be58622845e37": {
-            "hash": "1f6be58622845e37",
-            "directory": "External3",
-            "voiceContent": "조심해!",
-            "sourceName": "vo_charlotte_life_less30_teammate_01.wem"
-        },
-        "4a1af79d9c66e950": {
-            "hash": "4a1af79d9c66e950",
-            "directory": "External9",
-            "voiceContent": "이봐! 부고를 내고 싶진 않다고!",
-            "sourceName": "vo_charlotte_life_less30_teammate_02.wem"
-        },
-        "ac7b98dcb7785236": {
-            "hash": "ac7b98dcb7785236",
-            "directory": "External21",
-            "voiceContent": "보도를… 신문사로 가져다줘…",
-            "sourceName": "vo_charlotte_life_die_01.wem"
-        },
-        "1cbfc6e583c49799": {
-            "hash": "1cbfc6e583c49799",
-            "directory": "External3",
-            "voiceContent": "적어도… 기록은 남겼으니…",
-            "sourceName": "vo_charlotte_life_die_02.wem"
-        },
-        "658c6aaecd81ca47": {
-            "hash": "658c6aaecd81ca47",
-            "directory": "External12",
-            "voiceContent": "취재를 시작하자!",
-            "sourceName": "vo_charlotte_teamJoin_01.wem"
-        },
-        "bc4cfcc782d527e0": {
-            "hash": "bc4cfcc782d527e0",
-            "directory": "External23",
-            "voiceContent": "기삿거리 없어?",
-            "sourceName": "vo_charlotte_teamJoin_02.wem"
-        },
-        "6a1c56c07ae6f161": {
-            "hash": "6a1c56c07ae6f161",
-            "directory": "External13",
-            "voiceContent": "현장에 다가갈수록 보도는 진실에 더 가까워지지",
-            "sourceName": "vo_charlotte_teamJoin_03.wem"
-        },
-        "929f708ca03bdf99": {
-            "hash": "929f708ca03bdf99",
-            "directory": "External18",
-            "voiceContent": "날카로운 눈빛과 명석한 두뇌만 있다면 매일 좋은 기삿거리를 찾을 수 있어",
-            "sourceName": "vo_charlotte_character_idle_01.wem"
-        },
-        "225b4283d3ef9a36": {
-            "hash": "225b4283d3ef9a36",
-            "directory": "External4",
-            "voiceContent": "폰타인성에는 수많은 기자들이 있지만 모두가 충분한 자질을 가진 건 아냐. 인터뷰를 하고 싶다면… 날 찾는 게 좋을걸",
-            "sourceName": "vo_charlotte_character_idle_02.wem"
-        },
-        "7b6d247a58021b9f": {
-            "hash": "7b6d247a58021b9f",
-            "directory": "External15",
-            "voiceContent": "《스팀버드》는 훌륭한 신문사야. 깨어 있는 편집장님과 뛰어난 기자들이 있거든. 그리고 가장 중요한 건 원고료 입금이 빠르다는 거지",
-            "sourceName": "vo_charlotte_character_idle_03.wem"
-        },
-        "2ebccf5afae1f689": {
-            "hash": "2ebccf5afae1f689",
-            "directory": "External5",
-            "voiceContent": "물이 렌즈에 들어가면 안 돼!",
-            "sourceName": "vo_charlotte_weather_heavyRain_01.wem"
-        },
-        "54ebc15ef00a4a82": {
-            "hash": "54ebc15ef00a4a82",
-            "directory": "External10",
-            "voiceContent": "앗! 아쉽다, 번개 사진을 또 못 찍었네…",
-            "sourceName": "vo_charlotte_weather_thunder_01.wem"
-        },
-        "be1e0750f2e34e52": {
-            "hash": "be1e0750f2e34e52",
-            "directory": "External23",
-            "voiceContent": "…정말 춥네, 손이 얼어서 셔터를 못 누르겠어",
-            "sourceName": "vo_charlotte_weather_snowy_01.wem"
-        },
-        "411ffae618e30d9b": {
-            "hash": "411ffae618e30d9b",
-            "directory": "External8",
-            "voiceContent": "햇살 참 좋네! 자, 어서 포즈를 취해봐, 내가 사진을 찍어 줄게!",
-            "sourceName": "vo_charlotte_weather_sunny_01.wem"
-        },
-        "26274fb49add5673": {
-            "hash": "26274fb49add5673",
-            "directory": "External4",
-            "voiceContent": "좋은 아침이야, 오늘 신문 봤어? 아직 안 봤다고? 그럼 내가 읽어줄게…",
-            "sourceName": "vo_charlotte_dialog_greetingMorning.wem"
-        },
-        "65ef54d0dc278f41": {
-            "hash": "65ef54d0dc278f41",
-            "directory": "External12",
-            "voiceContent": "점심시간이네, 괜찮은 식당을 알고 있으니까 날 따라와",
-            "sourceName": "vo_charlotte_dialog_greetingNoon.wem"
-        },
-        "f4e88eb5b3f949b5": {
-            "hash": "f4e88eb5b3f949b5",
-            "directory": "External30",
-            "voiceContent": "밤에는 속마음을 나누기 좋지. 들려주고 싶은 이야기가 있어? 걱정 마, 네 허락 없이는 신문에 싣지 않겠다고 약속할게",
-            "sourceName": "vo_charlotte_dialog_greetingNight.wem"
-        },
-        "ad9b4e1aacac031f": {
-            "hash": "ad9b4e1aacac031f",
-            "directory": "External21",
-            "voiceContent": "어서 쉬어. 난 신문사에 가서 원고를 감수해야 하거든, 내일 보자~",
-            "sourceName": "vo_charlotte_dialog_greetingNight2.wem"
-        },
-        "f2535644066d22b0": {
-            "hash": "f2535644066d22b0",
-            "directory": "External30",
-            "voiceContent": "사람들은 기자를 좋아하지 않아. 거짓은 둥글고, 진실은 각졌으니까",
-            "sourceName": "vo_charlotte_dialog_idle.wem"
-        },
-        "0c804382d15306b0": {
-            "hash": "0c804382d15306b0",
-            "directory": "External1",
-            "voiceContent": "난 흥미 있는 것을 촬영할 때만 좋은 사진을 찍을 수 있어. 흥미 없는 대상을 찍을 때는… 셔터를 누르는 것조차 엄청난 인내심이 필요하다구",
-            "sourceName": "vo_charlotte_dialog_idle2.wem"
-        },
-        "114bed7f2daa0f0f": {
-            "hash": "114bed7f2daa0f0f",
-            "directory": "External2",
-            "voiceContent": "좋은 소식이야! 드디어 외프라지 씨를 설득했어. 다음 《스팀버드》의 「표지 인물」은 바로 너희야. 거기에 내가 직접 쓴 칼럼까지… 어… 필요 없다고? 내가 얼마나 오랫동안 설득했는데! 한 번만 더 생각해 봐! 내… 내가 맛있는 거 사줄게!",
-            "sourceName": "vo_charlotte_dialog_close1.wem"
-        },
-        "e509beeb86632098": {
-            "hash": "e509beeb86632098",
-            "directory": "External28",
-            "voiceContent": "hi~ 특별 인터뷰에 응하고 최고의 스타가 될 준비 됐어? 자, 내 지시에 따라 멋진 포즈를 취해봐. 페이몬, 너도 예쁘게 날아보라구!",
-            "sourceName": "vo_charlotte_dialog_close.wem"
-        },
-        "28dcfdf2dd1ab65e": {
-            "hash": "28dcfdf2dd1ab65e",
-            "directory": "External5",
-            "voiceContent": "실은… 난 「바람 원소」 신의 눈을 갖고 싶었어. 바람의 힘으로 여기저기 날아다니며 인터뷰를 할 수 있으니까. 물론 이 「얼음 원소」 신의 눈도 나쁘지 않아. 덕분에 사진기가 과열될 일은 없거든",
-            "sourceName": "vo_charlotte_dialog_pendant_01.wem"
-        },
-        "e897caf44e8529fb": {
-            "hash": "e897caf44e8529fb",
-            "directory": "External29",
-            "voiceContent": "진실 추구와 훌륭한 스토리. 이게 바로 내 업무 원칙이야. 음? 뭐가 중점이냐고? 당연히 「진실성」이지. 「스토리성」은 뉴스 이해에 도움을 주는 방법일 뿐이야. 하지만 관찰한 결과… 독자는 「진실」보다 「스토리」에 돈을 더 많이 쓰더라",
-            "sourceName": "vo_charlotte_dialog_share_01.wem"
-        },
-        "d122d8fc312c3b7b": {
-            "hash": "d122d8fc312c3b7b",
-            "directory": "External26",
-            "voiceContent": "내 최고의 파트너이자, 조수를 소개할게. 단 하나밖에 없는 사진기 「베리떼 씨」야. 이 모자와 넥타이 좀 봐. 특별히 치오리 씨를 찾아가 주문 제작했어. 멋지지? 다양한 인터뷰를 위해 여러 가지 스타일의 옷을 잔뜩 주문했다구",
-            "sourceName": "vo_charlotte_pref_gift_01.wem"
-        },
-        "bec199c9a81384af": {
-            "hash": "bec199c9a81384af",
-            "directory": "External23",
-            "voiceContent": "아버지가 누명을 벗고 「소녀 연쇄 실종 사건」도 종결이 되었으니까, 나비아도 조금이나마 마음을 놓을 수 있겠지. 그런데 어째서인지 요즘 나비아는 각종 나쁜 뉴스에 휩싸이고 있어. 그래도 다행인 건, 나비아 관련 기사 내용은 내가 최대한 통제하고 있다는 거야.비록… 그것 때문에 외프라지 씨에게 많이 혼났지만 나비아를 돕기 위해, 그리고 약속받은 단독 심층 인터뷰를 위해… 그 정도쯤은 괜찮아!",
-            "sourceName": "vo_charlotte_teammate_navia_01.wem"
+        "039063baf8ba2819": {
+            "hash": "039063baf8ba2819",
+            "directory": "External0",
+            "voiceContent": "너 최근 그 「공작」을 만났지? 약속대로 관련 정보를 알아봤어? 특별 허가 쿠폰, 특별 허가 식당… 「일하지 않는 자, 먹지도 말라」… 이런 흔한 정보는 됐고. 혹시 「공작」의 개인사는 없어? 뭐, 비밀이라고… 왜 너도 입이 무거운 거야?! 내가 사준 음식 다 뱉어 내! 이 사기꾼! 다시 요새에나 들어가 버려",
+            "sourceName": "vo_charlotte_teammate_wriothesley_01.wem"
         },
         "04d856891e51b981": {
             "hash": "04d856891e51b981",
             "directory": "External0",
-            "voiceContent": "후우, 리니가 또 인터뷰를 거절했어. 이번이 몇 번째지… 괜찮아! 리니가 날 거절하는 건, 그만큼 엄청난 이야기가 숨겨져 있다는 뜻이야. 분명히 전례 없는 특종이겠지. 반드시 알아내야만 해!",
+            "voiceContent": "후우, 리니가 또 인터뷰를 거절했어. 이번이 몇 번째지… 괜찮아! 리니가 날 거절하는 건, 그만큼 엄청난 이야기가 숨겨져 있다는 뜻이야. 분명히 전례 없는 특종이겠지. 반드시 알아내야만 해",
             "sourceName": "vo_charlotte_teammate_lyney_01.wem"
-        },
-        "fb740238599f59cd": {
-            "hash": "fb740238599f59cd",
-            "directory": "External31",
-            "voiceContent": "리넷은 무엇을 물어보든 무표정인 채로 시선을 내리깔지. 그 모습은 마치… 태엽 인형 같아. 《마술의 비결——천재 마술사의 「인형 조수」》라는 보도를 쓰고 싶은 마음이 굴뚝같지만! 리넷은 그 보도를 봐도 아무런 반응이 없을 것 같아…",
-            "sourceName": "vo_charlotte_teammate_lynette_01.wem"
-        },
-        "8c5212ea3e93c5b8": {
-            "hash": "8c5212ea3e93c5b8",
-            "directory": "External17",
-            "voiceContent": "난 「치오리 부티크」를 자세히 관찰한 적이 있어. 부티크에는 폰타인 귀부인과 명성을 듣고 찾아온 외국 여행객뿐만 아니라, 무서운 사람들도 자주 방문해! 얼굴에 흉터가 있는 덩치나 칼을 품은 복면인 등등 말이야… 어찌 됐든 그들은 대부분 선물 같은 걸 들고 있고 태도도 공손해. 음… 태도가 불량한 사람은 붕 뜬 채로 쫓겨나곤 하는데. 그 순간을 찍은 사진도 있어!",
-            "sourceName": "vo_charlotte_teammate_chiori_01.wem"
-        },
-        "e5e37c082faffa66": {
-            "hash": "e5e37c082faffa66",
-            "directory": "External28",
-            "voiceContent": "그 뒤로 프레미네를 몇 번 더 만났어. 내 사진기 조수 「베리떼 씨」에 흥미를 보이더니 렌즈도 개량해 줬지. 사실… 「베리떼 씨」를 순식간에 해체했을 때 심장이 멎는 줄 알았어… 의외로 조립이 깔끔하고 능숙하더라고. 그래서 폰타인 과학원 출신인 줄 알았는데 아니라더라",
-            "sourceName": "vo_charlotte_teammate_freminet_01.wem"
-        },
-        "d0952dde2b7cd157": {
-            "hash": "d0952dde2b7cd157",
-            "directory": "External26",
-            "voiceContent": "「최고 심판관」을 인터뷰하려면 미리 인터뷰 내용을 정하고 원고를 멜모니아궁 관련 부서에 보내 심사를 받아야 해. 그리고 심사를 통과한 내용으로만 인터뷰를 진행할 수 있지… 인터뷰 사고를 방지하기 위해서긴한데, 과정이 너무 복잡해서 생각만 해도 벌써 힘이 빠진다니깐",
-            "sourceName": "vo_charlotte_teammate_neuvillette_01.wem"
-        },
-        "860e254781e4835c": {
-            "hash": "860e254781e4835c",
-            "directory": "External16",
-            "voiceContent": "클로린드 씨는 폰타인에서 가장 유명하고 신비로운 「결투 대리인」이야. 개인 루트를 통해 알게 된 건데, 신비한 의식으로 자신의 무기를 관리한대. 아마 그게 바로 무패의 비결이겠지? 하지만 클로린드 씨는 공식적으로 인터뷰를 받지 않는다고 선언해서… 직접 물어볼 수는 없어",
-            "sourceName": "vo_charlotte_teammate_clorinde_01.wem"
-        },
-        "039063baf8ba2819": {
-            "hash": "039063baf8ba2819",
-            "directory": "External0",
-            "voiceContent": "너 최근 그 「공작」을 만났지? 약속대로 관련 정보를 알아봤어? 특별 허가 쿠폰, 특별 허가 식당… 「일하지 않는 자, 먹지도 말라」… 이런 흔한 정보는 됐고. 혹시 「공작」의 개인사는 없어? 뭐, 비밀이라고… 왜 너도 입이 무거운 거야?! 내가 사준 음식 다 뱉어 내! 이 사기꾼! 다시 요새에나 들어가 버려!",
-            "sourceName": "vo_charlotte_teammate_wriothesley_01.wem"
-        },
-        "6a97d3cd1e5b039f": {
-            "hash": "6a97d3cd1e5b039f",
-            "directory": "External13",
-            "voiceContent": "에밀리 씨의 향수는 폰타인 최고야! 며칠 전에 방충과 땀멎이 그리고 땀내 방지 효과가 있는 향수를 추천받았는데, 나처럼 자주 외근하는 사람한테 정말 필수품이라니까. 오늘도 손목에 살짝 뿌렸는데… 자, 맡아봐, 엄청 향기로워",
-            "sourceName": "vo_charlotte_teammate_emilie_01.wem"
-        },
-        "e37420f774a7502d": {
-            "hash": "e37420f774a7502d",
-            "directory": "External28",
-            "voiceContent": "「진실」 추구에는 리스크가 잇따르는 걸 난 잘 알고 있어. 하지만 「독점 진실」은 「특종」을 의미하기 때문에 절대 놓치지 않을 거야… 크흠! 내 말은… 기자의 책임을 이행할 기회를 절대 놓치지 않겠다는 뜻이야. 난 가장 흥미롭고 힘 있으며 진실된 특종을 모든 사람들에게 선사하고 싶어!",
-            "sourceName": "vo_charlotte_friendship_01.wem"
-        },
-        "b21a82f07ecf34aa": {
-            "hash": "b21a82f07ecf34aa",
-            "directory": "External22",
-            "voiceContent": "막 기자가 되었을 때 보도 작성에 대해 아는 게 없어서 다른 보도를 읽으면서 공부했어. 《스팀버드》 외에도 소량으로 발행하는 개인 간행물, 예를 들면 폰타인 연예인 가십을 보도하는 《엿보기 신문》이나 엔터테인먼트와 시합을 보도하는 《레저 주간》, 미식을 평론하는 《주방장》, 헛소문이나 퍼뜨리는 《경이로움!》 등등이 있었지.이 신문들을 보고 나서 난… 음, 다양한 글쓰기 스타일을 익혔어",
-            "sourceName": "vo_charlotte_friendship_02.wem"
-        },
-        "3707b4e83e24a7b3": {
-            "hash": "3707b4e83e24a7b3",
-            "directory": "External6",
-            "voiceContent": "난 진실을 밝히기 위해 부랑자인 척하고 불량 식료품상 주방에 잠입한 적이 있어. 6개월 동안 잡일을 하면서 수집한 자료로 녀석들이 저지른 짓을 신문에 폭로했지.반응은 뜨거웠고 불량 식료품상도 처벌됐지만, 바로 녀석들의 보복이 들어온 거야. 집에 돌아갈 때마다 협박 편지가 침대맡에 놓여 있었고 신문사 입구에는 늘 진흙이 뿌려져 있었어…그래서 신문사는 경찰에 신고했고, 난 몬드로 파견되어 「일곱 성인의 소환」을 보도하게 됐어. 한참 후에야 폰타인으로 돌아올 수 있었지.이런 일들이 여러 번 있었는데 외프라지 씨는 그때마다 어떻게 해결했는지 모르겠네…",
-            "sourceName": "vo_charlotte_friendship_03.wem"
-        },
-        "258ba72136f172e0": {
-            "hash": "258ba72136f172e0",
-            "directory": "External4",
-            "voiceContent": "어린 시절부터 호기심이 왕성했던 난, 기자가 되기 전부터 모든 사물과 사건에는 비밀이 숨겨져 있다고 생각했어.나에게 이 세상은 거대한 보물섬과도 같았고, 그속엔 사람들이 알지 못하는 수많은 이야기가 숨겨져 있다고 생각했거든. 그래서 수상한 사물을 볼 때마다 사진을 찍어 앨범에 수록했어.이 사진들은 나만의 「보물지도」야… 난 온갖 방법을 동원해서 사진 속에 숨겨진 「진실」을 해석해 왔어",
-            "sourceName": "vo_charlotte_friendship_04.wem"
-        },
-        "d35b011a2f033c61": {
-            "hash": "d35b011a2f033c61",
-            "directory": "External26",
-            "voiceContent": "난 「진실」이 얼마나 가치가 있는지, 무엇을 의미하는지, 또는 어떤 일과 관련이 있는지 신경 쓰지 않아… 단지 그것들을 밝혀내고 싶을 뿐이야. 모험가로 빗대자면, 난… 보물찾기 과정을 즐기는 사람이라고 볼 수 있어. 보물은 그리 중요하게 생각하지 않지.난 진실을 탐구하는 과정에서 수많은 사람들을 사귀었어. 폰타인 친구들, 나한테 기자의 재능이 있다고 알려준 외프라지 씨, 그리고 나와 함께 「진실」을 탐구하는 너까지. 모두의 도움이 없었다면 난 그저 이곳저곳 돌아다니며 사진을 찍는 말괄량이 소녀였을 거야.아무튼… 네 「특별 인터뷰」를 받게 돼서 정말 즐거웠어",
-            "sourceName": "vo_charlotte_friendship_05.wem"
-        },
-        "f83b81bfcbb33447": {
-            "hash": "f83b81bfcbb33447",
-            "directory": "External31",
-            "voiceContent": "내 취미는 사진기 렌즈 수집이야. 어떤 렌즈는 줌인 성능이 뛰어나고, 어떤 렌즈는 넓은 시야를 가지고 있지. 맞다, 사진을 찍으면 특수효과가 나타나는 렌즈도 있어. 이 렌즈를 봐, 이걸로 사람을 찍으면 얼굴이 통통하게 나오거든… 자! 한 장 찍어줄게, 페이몬도 같이 찍자!",
-            "sourceName": "vo_charlotte_pref_hobby.wem"
-        },
-        "8750937bbde6225e": {
-            "hash": "8750937bbde6225e",
-            "directory": "External16",
-            "voiceContent": "헤헤, 난 달콤한 음식이 제일 좋아. 주식을 아무리 많이 먹어도 디저트는 먹을 수 있어. 어머니께서 말씀하셨지… 디저트 배는 따로 있다고 말이야",
-            "sourceName": "vo_charlotte_pref_foodLike.wem"
-        },
-        "253cc752dbfeff4a": {
-            "hash": "253cc752dbfeff4a",
-            "directory": "External4",
-            "voiceContent": "난 매운 음식은 못 먹어. 위 속에 매운맛을 탐지하는 엄~청 민감한 장치가 있는지, 조금만 먹어도 배탈이 나거든… 그것도 하루 종일 말이야, 흑…",
-            "sourceName": "vo_charlotte_pref_foodDislike.wem"
-        },
-        "6e0f7830cd151aa5": {
-            "hash": "6e0f7830cd151aa5",
-            "directory": "External13",
-            "voiceContent": "솜씨가 정말 훌륭하네! 요리 칼럼을 써볼 생각 없어? 내가 지면 배치도 다 생각해 뒀다구",
-            "sourceName": "vo_charlotte_spice_pref_01.wem"
-        },
-        "fff625cefad8cf4b": {
-            "hash": "fff625cefad8cf4b",
-            "directory": "External31",
-            "voiceContent": "맛있다! 시간 나면… 요리 좀 가르쳐 줄래?",
-            "sourceName": "vo_charlotte_spice_normal_01.wem"
-        },
-        "af691e70f8acac11": {
-            "hash": "af691e70f8acac11",
-            "directory": "External21",
-            "voiceContent": "휴… 이 요리의 맛과… 용케 이 요리를 맛본 나도… 충분히 신문에 실릴만하겠네…",
-            "sourceName": "vo_charlotte_spice_dislike_01.wem"
-        },
-        "29fa9712d8bf87b0": {
-            "hash": "29fa9712d8bf87b0",
-            "directory": "External5",
-            "voiceContent": "생일 축하해! 오늘 자 《스팀버드》 혹시 읽어봤어? 너에게 보낸 축전이 거기에 실렸거든… 어, 안 샀다고? 괜찮아, 내가 신문사에서 나오는 길에 하나 가지고 왔거든. 이것 좀 봐, 여기야, 내가 따낼 수 있는 최고의 지면에 실어 놨다구",
-            "sourceName": "vo_charlotte_pref_birthday_01.wem"
-        },
-        "4e1b7ef867d64e52": {
-            "hash": "4e1b7ef867d64e52",
-            "directory": "External9",
-            "voiceContent": "정말 기묘한 느낌이네. 기록해 둬야겠어…",
-            "sourceName": "vo_charlotte_starUp_01.wem"
-        },
-        "d138dd01cf2621b5": {
-            "hash": "d138dd01cf2621b5",
-            "directory": "External26",
-            "voiceContent": "이게 정말 성장에 도움이 된다고? 들어보기만 했지 직접 체험하게 될 줄은 몰랐네",
-            "sourceName": "vo_charlotte_starUp_02.wem"
-        },
-        "4f44a30a1256f824": {
-            "hash": "4f44a30a1256f824",
-            "directory": "External9",
-            "voiceContent": "이런 방식으로 다른 사람을 도와준 적 있어? 그때는 재료가 다르지 않았고? 그리고… 아, 미안, 또 직업병이 도졌네",
-            "sourceName": "vo_charlotte_starUp_03.wem"
-        },
-        "80d47111085cf4af": {
-            "hash": "80d47111085cf4af",
-            "directory": "External16",
-            "voiceContent": "와! 두뇌 회전이 빨라지고 온몸에서 힘이 느껴져… 더 많은 특종을 찾을 수 있을 거 같아! 하지만 그 전에, 이 아름다운 순간을 기념하기 위해 같이 사진을 찍자",
-            "sourceName": "vo_charlotte_starUp_04.wem"
-        },
-        "f79bcc8c6f31dd0c": {
-            "hash": "f79bcc8c6f31dd0c",
-            "directory": "External30",
-            "voiceContent": "나, 난 더 기록할 수 있어…",
-            "sourceName": "vo_charlotte_life_less30_01.wem"
-        },
-        "ba147a745a4d5c23": {
-            "hash": "ba147a745a4d5c23",
-            "directory": "External23",
-            "voiceContent": "보도해야 할 기사가 있다고!",
-            "sourceName": "vo_charlotte_life_less30_02.wem"
         },
         "0c7bc87b626a3fda": {
             "hash": "0c7bc87b626a3fda",
             "directory": "External1",
-            "voiceContent": "사진기는 아직 멀쩡해!",
+            "voiceContent": "사진기는 아직 멀쩡해",
             "sourceName": "vo_charlotte_life_less30_03.wem"
         },
-        "9b026cedc7247a18": {
-            "hash": "9b026cedc7247a18",
-            "directory": "External19",
-            "voiceContent": "기사 제목을… 못 정했는데…",
-            "sourceName": "vo_charlotte_life_die_03.wem"
+        "0c804382d15306b0": {
+            "hash": "0c804382d15306b0",
+            "directory": "External1",
+            "voiceContent": "난 흥미 있는 것을 촬영할 때만 좋은 사진을 찍을 수 있어. 흥미 없는 대상을 찍을 때는… 셔터를 누르는 것조차 엄청난 인내심이 필요하다",
+            "sourceName": "vo_charlotte_dialog_idle2.wem"
         },
-        "94daef155ee8ae51": {
-            "hash": "94daef155ee8ae51",
-            "directory": "External18",
-            "voiceContent": "아, 내 사진기!",
-            "sourceName": "vo_charlotte_battle_hit_H_02.wem"
+        "0e63e0089abf6d2f": {
+            "hash": "0e63e0089abf6d2f",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_02.wem"
         },
-        "f01047baeaf4c10b": {
-            "hash": "f01047baeaf4c10b",
-            "directory": "External30",
-            "voiceContent": "물의 신 푸리나 님은 언행이 정말 매력적이셔. 정말이지 타고난 슈퍼스타라니까. 전에 외프라지 씨가 그분을 인터뷰할 기자를 지정했는데, 그는 얼마 지나지 않아 사임했어.사임한 이유는… 사진을 찍을 때마다 푸리나 님이 만족하실 때까지 다시 찍어야 했기 때문이래. 한번은 같은 포즈를 127번이나 다시 찍었다는 소문도 있어",
-            "sourceName": "vo_charlotte_teammate_furina_01.wem"
+        "114bed7f2daa0f0f": {
+            "hash": "114bed7f2daa0f0f",
+            "directory": "External2",
+            "voiceContent": "좋은 소식이야! 드디어 외프라지 씨를 설득했어. 다음 《스팀버드》의 「표지 인물」은 바로 너희야. 거기에 내가 직접 쓴 칼럼까지… 어… 필요 없다고? 내가 얼마나 오랫동안 설득했는데! 한 번만 더 생각해 봐! 내… 내가 맛있는 거 사줄게",
+            "sourceName": "vo_charlotte_dialog_close1.wem"
         },
-        "cc2b9677c21c2b15": {
-            "hash": "cc2b9677c21c2b15",
-            "directory": "External25",
-            "voiceContent": "실례잖아",
-            "sourceName": "vo_charlotte_battle_hit_L_02.wem"
+        "131d951da24890d0": {
+            "hash": "131d951da24890d0",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_h_03.wem"
         },
-        "72907348ded3c73a": {
-            "hash": "72907348ded3c73a",
-            "directory": "External14",
-            "voiceContent": "가끔은 내가 너무… 집요하게 질문해서, 어떤 사람들은 나에 대한 인상이 좋지 않나 봐. 매번 인터뷰하러 갈 때마다 날 피하는 거 같아… 후, 하지만 일부 인터뷰 대상에게는 집요하게 물어볼 수밖에 없단 말이야…",
-            "sourceName": "vo_charlotte_dialog_annoyed_01.wem"
+        "1cbfc6e583c49799": {
+            "hash": "1cbfc6e583c49799",
+            "directory": "External3",
+            "voiceContent": "적어도… 기록은 남겼으니",
+            "sourceName": "vo_charlotte_life_die_02.wem"
         },
-        "ea2675fc43aaf7c1": {
-            "hash": "ea2675fc43aaf7c1",
-            "directory": "External29",
-            "voiceContent": "만나서 반가워. 난 《스팀버드》의 기자 샤를로트야. 혹시 특별 인터뷰에 응해줄 시간 있어? 너한테서 특종 냄새가 나거든, 기자의 직감이야!",
-            "sourceName": "vo_charlotte_draw_appear_01.wem"
+        "1d19d84a0240546d": {
+            "hash": "1d19d84a0240546d",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_idle_03.wem"
         },
-        "97fc39ec494aa0fd": {
-            "hash": "97fc39ec494aa0fd",
-            "directory": "External18",
-            "voiceContent": "난 아직 숨겨둔 카드가 많다구",
-            "sourceName": "vo_card_charlotte_inGame_easy_04.wem"
+        "1f6be58622845e37": {
+            "hash": "1f6be58622845e37",
+            "directory": "External3",
+            "voiceContent": "조심해",
+            "sourceName": "vo_charlotte_life_less30_teammate_01.wem"
         },
-        "e57764df47e1bec8": {
-            "hash": "e57764df47e1bec8",
-            "directory": "External28",
-            "voiceContent": "어?! 이, 이게 뭐야…",
-            "sourceName": "vo_card_charlotte_inGame_hard_02.wem"
+        "225b4283d3ef9a36": {
+            "hash": "225b4283d3ef9a36",
+            "directory": "External4",
+            "voiceContent": "폰타인성에는 수많은 기자들이 있지만 모두가 충분한 자질을 가진 건 아냐. 인터뷰를 하고 싶다면… 날 찾는 게 좋을",
+            "sourceName": "vo_charlotte_character_idle_02.wem"
         },
-        "da1480160b960970": {
-            "hash": "da1480160b960970",
-            "directory": "External27",
-            "voiceContent": "역시 효과가 있네",
-            "sourceName": "vo_card_charlotte_inGame_easy_01.wem"
+        "2499e2e4a97c32a3": {
+            "hash": "2499e2e4a97c32a3",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_h_04.wem"
         },
-        "a4bf32c73046270f": {
-            "hash": "a4bf32c73046270f",
-            "directory": "External20",
-            "voiceContent": "저번에 본 잡지가 도움이 됐네",
-            "sourceName": "vo_card_charlotte_inGame_hard_01.wem"
+        "253cc752dbfeff4a": {
+            "hash": "253cc752dbfeff4a",
+            "directory": "External4",
+            "voiceContent": "난 매운 음식은 못 먹어. 위 속에 매운맛을 탐지하는 엄~청 민감한 장치가 있는지, 조금만 먹어도 배탈이 나거든… 그것도 하루 종일 말이야, 흑",
+            "sourceName": "vo_charlotte_pref_foodDislike.wem"
         },
-        "9345fed83ff24189": {
-            "hash": "9345fed83ff24189",
-            "directory": "External18",
-            "voiceContent": "저번엔 어떻게 대처했더라…",
-            "sourceName": "vo_card_charlotte_inGame_hard_03.wem"
+        "258ba72136f172e0": {
+            "hash": "258ba72136f172e0",
+            "directory": "External4",
+            "voiceContent": "어린 시절부터 호기심이 왕성했던 난, 기자가 되기 전부터 모든 사물과 사건에는 비밀이 숨겨져 있다고 생각했어.나에게 이 세상은 거대한 보물섬과도 같았고, 그속엔 사람들이 알지 못하는 수많은 이야기가 숨겨져 있다고 생각했거든. 그래서 수상한 사물을 볼 때마다 사진을 찍어 앨범에 수록했어.이 사진들은 나만의 「보물지도」야… 난 온갖 방법을 동원해서 사진 속에 숨겨진 「진실」을 해석해 왔",
+            "sourceName": "vo_charlotte_friendship_04.wem"
+        },
+        "26274fb49add5673": {
+            "hash": "26274fb49add5673",
+            "directory": "External4",
+            "voiceContent": "좋은 아침이야, 오늘 신문 봤어? 아직 안 봤다고? 그럼 내가 읽어줄게",
+            "sourceName": "vo_charlotte_dialog_greetingMorning.wem"
+        },
+        "28dcfdf2dd1ab65e": {
+            "hash": "28dcfdf2dd1ab65e",
+            "directory": "External5",
+            "voiceContent": "실은… 난 「바람 원소」 신의 눈을 갖고 싶었어. 바람의 힘으로 여기저기 날아다니며 인터뷰를 할 수 있으니까. 물론 이 「얼음 원소」 신의 눈도 나쁘지 않아. 덕분에 사진기가 과열될 일은 없거",
+            "sourceName": "vo_charlotte_dialog_pendant_01.wem"
+        },
+        "29fa9712d8bf87b0": {
+            "hash": "29fa9712d8bf87b0",
+            "directory": "External5",
+            "voiceContent": "생일 축하해! 오늘 자 《스팀버드》 혹시 읽어봤어? 너에게 보낸 축전이 거기에 실렸거든… 어, 안 샀다고? 괜찮아, 내가 신문사에서 나오는 길에 하나 가지고 왔거든. 이것 좀 봐, 여기야, 내가 따낼 수 있는 최고의 지면에 실어 놨다",
+            "sourceName": "vo_charlotte_pref_birthday_01.wem"
+        },
+        "2a89e12254ee0322": {
+            "hash": "2a89e12254ee0322",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_03.wem"
+        },
+        "2bb2c533ff6e40f4": {
+            "hash": "2bb2c533ff6e40f4",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_01.wem"
+        },
+        "2ebccf5afae1f689": {
+            "hash": "2ebccf5afae1f689",
+            "directory": "External5",
+            "voiceContent": "물이 렌즈에 들어가면 안 돼",
+            "sourceName": "vo_charlotte_weather_heavyRain_01.wem"
+        },
+        "305e2b4721f603dd": {
+            "hash": "305e2b4721f603dd",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_fly_start_03.wem"
+        },
+        "307664d94ac49515": {
+            "hash": "307664d94ac49515",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_sprint_start_02.wem"
+        },
+        "36f008feaffe564b": {
+            "hash": "36f008feaffe564b",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_breath_03.wem"
+        },
+        "3707b4e83e24a7b3": {
+            "hash": "3707b4e83e24a7b3",
+            "directory": "External6",
+            "voiceContent": "난 진실을 밝히기 위해 부랑자인 척하고 불량 식료품상 주방에 잠입한 적이 있어. 6개월 동안 잡일을 하면서 수집한 자료로 녀석들이 저지른 짓을 신문에 폭로했지.반응은 뜨거웠고 불량 식료품상도 처벌됐지만, 바로 녀석들의 보복이 들어온 거야. 집에 돌아갈 때마다 협박 편지가 침대맡에 놓여 있었고 신문사 입구에는 늘 진흙이 뿌려져 있었어…그래서 신문사는 경찰에 신고했고, 난 몬드로 파견되어 「일곱 성인의 소환」을 보도하게 됐어. 한참 후에야 폰타인으로 돌아올 수 있었지.이런 일들이 여러 번 있었는데 외프라지 씨는 그때마다 어떻게 해결했는지 모르겠네",
+            "sourceName": "vo_charlotte_friendship_03.wem"
+        },
+        "381935105a7f0da5": {
+            "hash": "381935105a7f0da5",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_breath_01.wem"
+        },
+        "411ffae618e30d9b": {
+            "hash": "411ffae618e30d9b",
+            "directory": "External8",
+            "voiceContent": "햇살 참 좋네! 자, 어서 포즈를 취해봐, 내가 사진을 찍어 줄게",
+            "sourceName": "vo_charlotte_weather_sunny_01.wem"
+        },
+        "46d25c80026b8b84": {
+            "hash": "46d25c80026b8b84",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_l_03.wem"
+        },
+        "4a1af79d9c66e950": {
+            "hash": "4a1af79d9c66e950",
+            "directory": "External9",
+            "voiceContent": "이봐! 부고를 내고 싶진 않다고",
+            "sourceName": "vo_charlotte_life_less30_teammate_02.wem"
+        },
+        "4b614891afceffa6": {
+            "hash": "4b614891afceffa6",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_l_05.wem"
+        },
+        "4bc99f4c0520c439": {
+            "hash": "4bc99f4c0520c439",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_04.wem"
+        },
+        "4d8f0650e2665e49": {
+            "hash": "4d8f0650e2665e49",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_jump_01.wem"
+        },
+        "4e1b7ef867d64e52": {
+            "hash": "4e1b7ef867d64e52",
+            "directory": "External9",
+            "voiceContent": "정말 기묘한 느낌이네. 기록해 둬야겠어",
+            "sourceName": "vo_charlotte_starUp_01.wem"
+        },
+        "4f44a30a1256f824": {
+            "hash": "4f44a30a1256f824",
+            "directory": "External9",
+            "voiceContent": "이런 방식으로 다른 사람을 도와준 적 있어? 그때는 재료가 다르지 않았고? 그리고… 아, 미안, 또 직업병이 도졌",
+            "sourceName": "vo_charlotte_starUp_03.wem"
+        },
+        "502060fd8953c07d": {
+            "hash": "502060fd8953c07d",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackmid_02.wem"
+        },
+        "53c0cc5f8bacc35d": {
+            "hash": "53c0cc5f8bacc35d",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackheavy_03.wem"
+        },
+        "54ebc15ef00a4a82": {
+            "hash": "54ebc15ef00a4a82",
+            "directory": "External10",
+            "voiceContent": "앗! 아쉽다, 번개 사진을 또 못 찍었네",
+            "sourceName": "vo_charlotte_weather_thunder_01.wem"
+        },
+        "5589487864acb617": {
+            "hash": "5589487864acb617",
+            "directory": "External10",
+            "voiceContent": "특종이야",
+            "sourceName": "vo_charlotte_battle_skill3_02.wem"
+        },
+        "59eb9299e5a8d749": {
+            "hash": "59eb9299e5a8d749",
+            "directory": "External11",
+            "voiceContent": "치즈",
+            "sourceName": "vo_charlotte_battle_skill1_02.wem"
         },
         "5aa7edfc1db428d7": {
             "hash": "5aa7edfc1db428d7",
             "directory": "External11",
-            "voiceContent": "아니지, 아니지. 이렇게 내면 안 돼…",
+            "voiceContent": "아니지, 아니지. 이렇게 내면 안 돼",
             "sourceName": "vo_card_charlotte_inGame_easy_02.wem"
+        },
+        "5e15262e28674455": {
+            "hash": "5e15262e28674455",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_jump_05.wem"
+        },
+        "5f083a3fd2ba43cf": {
+            "hash": "5f083a3fd2ba43cf",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_jump_03.wem"
+        },
+        "658c6aaecd81ca47": {
+            "hash": "658c6aaecd81ca47",
+            "directory": "External12",
+            "voiceContent": "취재를 시작하자",
+            "sourceName": "vo_charlotte_teamJoin_01.wem"
+        },
+        "65ef54d0dc278f41": {
+            "hash": "65ef54d0dc278f41",
+            "directory": "External12",
+            "voiceContent": "점심시간이네, 괜찮은 식당을 알고 있으니까 날 따라",
+            "sourceName": "vo_charlotte_dialog_greetingNoon.wem"
+        },
+        "66b1210e6bc5daae": {
+            "hash": "66b1210e6bc5daae",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_h_01.wem"
+        },
+        "6a1c56c07ae6f161": {
+            "hash": "6a1c56c07ae6f161",
+            "directory": "External13",
+            "voiceContent": "현장에 다가갈수록 보도는 진실에 더 가까워지",
+            "sourceName": "vo_charlotte_teamJoin_03.wem"
+        },
+        "6a97d3cd1e5b039f": {
+            "hash": "6a97d3cd1e5b039f",
+            "directory": "External13",
+            "voiceContent": "에밀리 씨의 향수는 폰타인 최고야! 며칠 전에 방충과 땀멎이 그리고 땀내 방지 효과가 있는 향수를 추천받았는데, 나처럼 자주 외근하는 사람한테 정말 필수품이라니까. 오늘도 손목에 살짝 뿌렸는데… 자, 맡아봐, 엄청 향기로",
+            "sourceName": "vo_charlotte_teammate_emilie_01.wem"
+        },
+        "6e0f7830cd151aa5": {
+            "hash": "6e0f7830cd151aa5",
+            "directory": "External13",
+            "voiceContent": "솜씨가 정말 훌륭하네! 요리 칼럼을 써볼 생각 없어? 내가 지면 배치도 다 생각해 뒀다",
+            "sourceName": "vo_charlotte_spice_pref_01.wem"
+        },
+        "70ae6c3acbbf5ef3": {
+            "hash": "70ae6c3acbbf5ef3",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_idle_01.wem"
         },
         "720640ae8fbf80b2": {
             "hash": "720640ae8fbf80b2",
             "directory": "External14",
-            "voiceContent": "비장의 한 수를 준비해 뒀다구",
+            "voiceContent": "비장의 한 수를 준비해 뒀다",
             "sourceName": "vo_card_charlotte_inGame_hard_04.wem"
+        },
+        "72907348ded3c73a": {
+            "hash": "72907348ded3c73a",
+            "directory": "External14",
+            "voiceContent": "가끔은 내가 너무… 집요하게 질문해서, 어떤 사람들은 나에 대한 인상이 좋지 않나 봐. 매번 인터뷰하러 갈 때마다 날 피하는 거 같아… 후, 하지만 일부 인터뷰 대상에게는 집요하게 물어볼 수밖에 없단 말이야",
+            "sourceName": "vo_charlotte_dialog_annoyed_01.wem"
+        },
+        "770130ebb199165a": {
+            "hash": "770130ebb199165a",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_h_05.wem"
+        },
+        "7b6d247a58021b9f": {
+            "hash": "7b6d247a58021b9f",
+            "directory": "External15",
+            "voiceContent": "《스팀버드》는 훌륭한 신문사야. 깨어 있는 편집장님과 뛰어난 기자들이 있거든. 그리고 가장 중요한 건 원고료 입금이 빠르다는 거",
+            "sourceName": "vo_charlotte_character_idle_03.wem"
+        },
+        "80d47111085cf4af": {
+            "hash": "80d47111085cf4af",
+            "directory": "External16",
+            "voiceContent": "와! 두뇌 회전이 빨라지고 온몸에서 힘이 느껴져… 더 많은 특종을 찾을 수 있을 거 같아! 하지만 그 전에, 이 아름다운 순간을 기념하기 위해 같이 사진을 찍",
+            "sourceName": "vo_charlotte_starUp_04.wem"
+        },
+        "83f2bf37eb750e23": {
+            "hash": "83f2bf37eb750e23",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_fly_start_01.wem"
+        },
+        "860e254781e4835c": {
+            "hash": "860e254781e4835c",
+            "directory": "External16",
+            "voiceContent": "클로린드 씨는 폰타인에서 가장 유명하고 신비로운 「결투 대리인」이야. 개인 루트를 통해 알게 된 건데, 신비한 의식으로 자신의 무기를 관리한대. 아마 그게 바로 무패의 비결이겠지? 하지만 클로린드 씨는 공식적으로 인터뷰를 받지 않는다고 선언해서… 직접 물어볼 수는 없",
+            "sourceName": "vo_charlotte_teammate_clorinde_01.wem"
+        },
+        "8750937bbde6225e": {
+            "hash": "8750937bbde6225e",
+            "directory": "External16",
+            "voiceContent": "헤헤, 난 달콤한 음식이 제일 좋아. 주식을 아무리 많이 먹어도 디저트는 먹을 수 있어. 어머니께서 말씀하셨지… 디저트 배는 따로 있다고 말이",
+            "sourceName": "vo_charlotte_pref_foodLike.wem"
+        },
+        "89407e10db3c1946": {
+            "hash": "89407e10db3c1946",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_03.wem"
+        },
+        "8954d33c30e655bf": {
+            "hash": "8954d33c30e655bf",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_06.wem"
+        },
+        "8b46586b0fff7147": {
+            "hash": "8b46586b0fff7147",
+            "directory": "External17",
+            "voiceContent": "오! 괜찮아 보이",
+            "sourceName": "vo_charlotte_chest_open_01.wem"
+        },
+        "8c5212ea3e93c5b8": {
+            "hash": "8c5212ea3e93c5b8",
+            "directory": "External17",
+            "voiceContent": "난 「치오리 부티크」를 자세히 관찰한 적이 있어. 부티크에는 폰타인 귀부인과 명성을 듣고 찾아온 외국 여행객뿐만 아니라, 무서운 사람들도 자주 방문해! 얼굴에 흉터가 있는 덩치나 칼을 품은 복면인 등등 말이야… 어찌 됐든 그들은 대부분 선물 같은 걸 들고 있고 태도도 공손해. 음… 태도가 불량한 사람은 붕 뜬 채로 쫓겨나곤 하는데. 그 순간을 찍은 사진도 있어",
+            "sourceName": "vo_charlotte_teammate_chiori_01.wem"
+        },
+        "8fd6447cbd649861": {
+            "hash": "8fd6447cbd649861",
+            "directory": "External17",
+            "voiceContent": "이 물건은 분실물 리스트에 없겠지",
+            "sourceName": "vo_charlotte_chest_open_03.wem"
+        },
+        "929f708ca03bdf99": {
+            "hash": "929f708ca03bdf99",
+            "directory": "External18",
+            "voiceContent": "날카로운 눈빛과 명석한 두뇌만 있다면 매일 좋은 기삿거리를 찾을 수 있",
+            "sourceName": "vo_charlotte_character_idle_01.wem"
+        },
+        "9345fed83ff24189": {
+            "hash": "9345fed83ff24189",
+            "directory": "External18",
+            "voiceContent": "저번엔 어떻게 대처했더라",
+            "sourceName": "vo_card_charlotte_inGame_hard_03.wem"
+        },
+        "94daef155ee8ae51": {
+            "hash": "94daef155ee8ae51",
+            "directory": "External18",
+            "voiceContent": "아, 내 사진기",
+            "sourceName": "vo_charlotte_battle_hit_H_02.wem"
+        },
+        "97fc39ec494aa0fd": {
+            "hash": "97fc39ec494aa0fd",
+            "directory": "External18",
+            "voiceContent": "난 아직 숨겨둔 카드가 많다",
+            "sourceName": "vo_card_charlotte_inGame_easy_04.wem"
+        },
+        "9a65b870cbe88432": {
+            "hash": "9a65b870cbe88432",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_l_01.wem"
+        },
+        "9b026cedc7247a18": {
+            "hash": "9b026cedc7247a18",
+            "directory": "External19",
+            "voiceContent": "기사 제목을… 못 정했는데",
+            "sourceName": "vo_charlotte_life_die_03.wem"
+        },
+        "a3d99223265a5a68": {
+            "hash": "a3d99223265a5a68",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_01.wem"
+        },
+        "a4bf32c73046270f": {
+            "hash": "a4bf32c73046270f",
+            "directory": "External20",
+            "voiceContent": "저번에 본 잡지가 도움이 됐",
+            "sourceName": "vo_card_charlotte_inGame_hard_01.wem"
+        },
+        "a7556050552bcda3": {
+            "hash": "a7556050552bcda3",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackheavy_01.wem"
+        },
+        "ab1d2ae18b13f584": {
+            "hash": "ab1d2ae18b13f584",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_sprint_start_03.wem"
+        },
+        "ac1bf8a0ed96a088": {
+            "hash": "ac1bf8a0ed96a088",
+            "directory": "External21",
+            "voiceContent": "멋진 포즈 부탁해",
+            "sourceName": "vo_charlotte_battle_skill1_03.wem"
+        },
+        "ac7b98dcb7785236": {
+            "hash": "ac7b98dcb7785236",
+            "directory": "External21",
+            "voiceContent": "보도를… 신문사로 가져다줘",
+            "sourceName": "vo_charlotte_life_die_01.wem"
+        },
+        "ad9b4e1aacac031f": {
+            "hash": "ad9b4e1aacac031f",
+            "directory": "External21",
+            "voiceContent": "어서 쉬어. 난 신문사에 가서 원고를 감수해야 하거든, 내일 보자",
+            "sourceName": "vo_charlotte_dialog_greetingNight2.wem"
+        },
+        "af691e70f8acac11": {
+            "hash": "af691e70f8acac11",
+            "directory": "External21",
+            "voiceContent": "휴… 이 요리의 맛과… 용케 이 요리를 맛본 나도… 충분히 신문에 실릴만하겠네",
+            "sourceName": "vo_charlotte_spice_dislike_01.wem"
+        },
+        "b19bbe52e38708dc": {
+            "hash": "b19bbe52e38708dc",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_idle_02.wem"
+        },
+        "b21a82f07ecf34aa": {
+            "hash": "b21a82f07ecf34aa",
+            "directory": "External22",
+            "voiceContent": "막 기자가 되었을 때 보도 작성에 대해 아는 게 없어서 다른 보도를 읽으면서 공부했어. 《스팀버드》 외에도 소량으로 발행하는 개인 간행물, 예를 들면 폰타인 연예인 가십을 보도하는 《엿보기 신문》이나 엔터테인먼트와 시합을 보도하는 《레저 주간》, 미식을 평론하는 《주방장》, 헛소문이나 퍼뜨리는 《경이로움!》 등등이 있었지.이 신문들을 보고 나서 난… 음, 다양한 글쓰기 스타일을 익혔",
+            "sourceName": "vo_charlotte_friendship_02.wem"
+        },
+        "ba147a745a4d5c23": {
+            "hash": "ba147a745a4d5c23",
+            "directory": "External23",
+            "voiceContent": "보도해야 할 기사가 있다고",
+            "sourceName": "vo_charlotte_life_less30_02.wem"
+        },
+        "bba5769a7c1b4509": {
+            "hash": "bba5769a7c1b4509",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_l_06.wem"
+        },
+        "bc4cfcc782d527e0": {
+            "hash": "bc4cfcc782d527e0",
+            "directory": "External23",
+            "voiceContent": "기삿거리 없어",
+            "sourceName": "vo_charlotte_teamJoin_02.wem"
+        },
+        "be1e0750f2e34e52": {
+            "hash": "be1e0750f2e34e52",
+            "directory": "External23",
+            "voiceContent": "…정말 춥네, 손이 얼어서 셔터를 못 누르겠",
+            "sourceName": "vo_charlotte_weather_snowy_01.wem"
+        },
+        "bec199c9a81384af": {
+            "hash": "bec199c9a81384af",
+            "directory": "External23",
+            "voiceContent": "아버지가 누명을 벗고 「소녀 연쇄 실종 사건」도 종결이 되었으니까, 나비아도 조금이나마 마음을 놓을 수 있겠지. 그런데 어째서인지 요즘 나비아는 각종 나쁜 뉴스에 휩싸이고 있어. 그래도 다행인 건, 나비아 관련 기사 내용은 내가 최대한 통제하고 있다는 거야.비록… 그것 때문에 외프라지 씨에게 많이 혼났지만 나비아를 돕기 위해, 그리고 약속받은 단독 심층 인터뷰를 위해… 그 정도쯤은 괜찮아",
+            "sourceName": "vo_charlotte_teammate_navia_01.wem"
+        },
+        "c17a115000598f0c": {
+            "hash": "c17a115000598f0c",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_fly_start_02.wem"
+        },
+        "c6a64554459d7db8": {
+            "hash": "c6a64554459d7db8",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_05.wem"
+        },
+        "cc2b9677c21c2b15": {
+            "hash": "cc2b9677c21c2b15",
+            "directory": "External25",
+            "voiceContent": "실례잖",
+            "sourceName": "vo_charlotte_battle_hit_L_02.wem"
+        },
+        "cd1eaa896c6f2a8f": {
+            "hash": "cd1eaa896c6f2a8f",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_l_04.wem"
+        },
+        "d0952dde2b7cd157": {
+            "hash": "d0952dde2b7cd157",
+            "directory": "External26",
+            "voiceContent": "「최고 심판관」을 인터뷰하려면 미리 인터뷰 내용을 정하고 원고를 멜모니아궁 관련 부서에 보내 심사를 받아야 해. 그리고 심사를 통과한 내용으로만 인터뷰를 진행할 수 있지… 인터뷰 사고를 방지하기 위해서긴한데, 과정이 너무 복잡해서 생각만 해도 벌써 힘이 빠진다니",
+            "sourceName": "vo_charlotte_teammate_neuvillette_01.wem"
+        },
+        "d1054ef3dffd285d": {
+            "hash": "d1054ef3dffd285d",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_h_06.wem"
+        },
+        "d122d8fc312c3b7b": {
+            "hash": "d122d8fc312c3b7b",
+            "directory": "External26",
+            "voiceContent": "내 최고의 파트너이자, 조수를 소개할게. 단 하나밖에 없는 사진기 「베리떼 씨」야. 이 모자와 넥타이 좀 봐. 특별히 치오리 씨를 찾아가 주문 제작했어. 멋지지? 다양한 인터뷰를 위해 여러 가지 스타일의 옷을 잔뜩 주문했다",
+            "sourceName": "vo_charlotte_pref_gift_01.wem"
+        },
+        "d138dd01cf2621b5": {
+            "hash": "d138dd01cf2621b5",
+            "directory": "External26",
+            "voiceContent": "이게 정말 성장에 도움이 된다고? 들어보기만 했지 직접 체험하게 될 줄은 몰랐",
+            "sourceName": "vo_charlotte_starUp_02.wem"
+        },
+        "d35b011a2f033c61": {
+            "hash": "d35b011a2f033c61",
+            "directory": "External26",
+            "voiceContent": "난 「진실」이 얼마나 가치가 있는지, 무엇을 의미하는지, 또는 어떤 일과 관련이 있는지 신경 쓰지 않아… 단지 그것들을 밝혀내고 싶을 뿐이야. 모험가로 빗대자면, 난… 보물찾기 과정을 즐기는 사람이라고 볼 수 있어. 보물은 그리 중요하게 생각하지 않지.난 진실을 탐구하는 과정에서 수많은 사람들을 사귀었어. 폰타인 친구들, 나한테 기자의 재능이 있다고 알려준 외프라지 씨, 그리고 나와 함께 「진실」을 탐구하는 너까지. 모두의 도움이 없었다면 난 그저 이곳저곳 돌아다니며 사진을 찍는 말괄량이 소녀였을 거야.아무튼… 네 「특별 인터뷰」를 받게 돼서 정말 즐거웠",
+            "sourceName": "vo_charlotte_friendship_05.wem"
+        },
+        "d3cbe680a80c8b0e": {
+            "hash": "d3cbe680a80c8b0e",
+            "directory": "External26",
+            "voiceContent": "샤를로트가 전해드립니다",
+            "sourceName": "vo_charlotte_battle_skill3_03.wem"
+        },
+        "d4f5da92528e96b0": {
+            "hash": "d4f5da92528e96b0",
+            "directory": "External26",
+            "voiceContent": "진실을 위하여",
+            "sourceName": "vo_charlotte_battle_skill3_01.wem"
+        },
+        "d88f531b4d2d856b": {
+            "hash": "d88f531b4d2d856b",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_02.wem"
         },
         "d8ea8c046113fdce": {
             "hash": "d8ea8c046113fdce",
             "directory": "External27",
-            "voiceContent": "잘 생각해 보자, 잘…",
+            "voiceContent": "잘 생각해 보자, 잘",
             "sourceName": "vo_card_charlotte_inGame_easy_03.wem"
+        },
+        "da1480160b960970": {
+            "hash": "da1480160b960970",
+            "directory": "External27",
+            "voiceContent": "역시 효과가 있",
+            "sourceName": "vo_card_charlotte_inGame_easy_01.wem"
+        },
+        "db85714338d47ed6": {
+            "hash": "db85714338d47ed6",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_07.wem"
+        },
+        "dc20ec366b981ac4": {
+            "hash": "dc20ec366b981ac4",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_jump_04.wem"
+        },
+        "dd4ad848161a18e6": {
+            "hash": "dd4ad848161a18e6",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_jump_02.wem"
+        },
+        "dda817082bbe2982": {
+            "hash": "dda817082bbe2982",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_breath_02.wem"
+        },
+        "e13c470667b74bac": {
+            "hash": "e13c470667b74bac",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackmid_03.wem"
+        },
+        "e206ea83c552cee0": {
+            "hash": "e206ea83c552cee0",
+            "directory": "External28",
+            "voiceContent": "누가 상자를 여기에 뒀는지 한번 인터뷰해 보고 싶",
+            "sourceName": "vo_charlotte_chest_open_02.wem"
+        },
+        "e37420f774a7502d": {
+            "hash": "e37420f774a7502d",
+            "directory": "External28",
+            "voiceContent": "「진실」 추구에는 리스크가 잇따르는 걸 난 잘 알고 있어. 하지만 「독점 진실」은 「특종」을 의미하기 때문에 절대 놓치지 않을 거야… 크흠! 내 말은… 기자의 책임을 이행할 기회를 절대 놓치지 않겠다는 뜻이야. 난 가장 흥미롭고 힘 있으며 진실된 특종을 모든 사람들에게 선사하고 싶어",
+            "sourceName": "vo_charlotte_friendship_01.wem"
+        },
+        "e4dcb2686a104e8c": {
+            "hash": "e4dcb2686a104e8c",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackheavy_02.wem"
+        },
+        "e509beeb86632098": {
+            "hash": "e509beeb86632098",
+            "directory": "External28",
+            "voiceContent": "hi~ 특별 인터뷰에 응하고 최고의 스타가 될 준비 됐어? 자, 내 지시에 따라 멋진 포즈를 취해봐. 페이몬, 너도 예쁘게 날아보라구",
+            "sourceName": "vo_charlotte_dialog_close.wem"
+        },
+        "e57764df47e1bec8": {
+            "hash": "e57764df47e1bec8",
+            "directory": "External28",
+            "voiceContent": "어?! 이, 이게 뭐야",
+            "sourceName": "vo_card_charlotte_inGame_hard_02.wem"
+        },
+        "e5e37c082faffa66": {
+            "hash": "e5e37c082faffa66",
+            "directory": "External28",
+            "voiceContent": "그 뒤로 프레미네를 몇 번 더 만났어. 내 사진기 조수 「베리떼 씨」에 흥미를 보이더니 렌즈도 개량해 줬지. 사실… 「베리떼 씨」를 순식간에 해체했을 때 심장이 멎는 줄 알았어… 의외로 조립이 깔끔하고 능숙하더라고. 그래서 폰타인 과학원 출신인 줄 알았는데 아니라더",
+            "sourceName": "vo_charlotte_teammate_freminet_01.wem"
+        },
+        "e897caf44e8529fb": {
+            "hash": "e897caf44e8529fb",
+            "directory": "External29",
+            "voiceContent": "진실 추구와 훌륭한 스토리. 이게 바로 내 업무 원칙이야. 음? 뭐가 중점이냐고? 당연히 「진실성」이지. 「스토리성」은 뉴스 이해에 도움을 주는 방법일 뿐이야. 하지만 관찰한 결과… 독자는 「진실」보다 「스토리」에 돈을 더 많이 쓰더",
+            "sourceName": "vo_charlotte_dialog_share_01.wem"
+        },
+        "e9a76491195c91e6": {
+            "hash": "e9a76491195c91e6",
+            "directory": "External29",
+            "voiceContent": "여길 봐",
+            "sourceName": "vo_charlotte_battle_skill1_01.wem"
+        },
+        "ea2675fc43aaf7c1": {
+            "hash": "ea2675fc43aaf7c1",
+            "directory": "External29",
+            "voiceContent": "만나서 반가워. 난 《스팀버드》의 기자 샤를로트야. 혹시 특별 인터뷰에 응해줄 시간 있어? 너한테서 특종 냄새가 나거든, 기자의 직감이야",
+            "sourceName": "vo_charlotte_draw_appear_01.wem"
+        },
+        "f01047baeaf4c10b": {
+            "hash": "f01047baeaf4c10b",
+            "directory": "External30",
+            "voiceContent": "물의 신 푸리나 님은 언행이 정말 매력적이셔. 정말이지 타고난 슈퍼스타라니까. 전에 외프라지 씨가 그분을 인터뷰할 기자를 지정했는데, 그는 얼마 지나지 않아 사임했어.사임한 이유는… 사진을 찍을 때마다 푸리나 님이 만족하실 때까지 다시 찍어야 했기 때문이래. 한번은 같은 포즈를 127번이나 다시 찍었다는 소문도 있",
+            "sourceName": "vo_charlotte_teammate_furina_01.wem"
+        },
+        "f2535644066d22b0": {
+            "hash": "f2535644066d22b0",
+            "directory": "External30",
+            "voiceContent": "사람들은 기자를 좋아하지 않아. 거짓은 둥글고, 진실은 각졌으니",
+            "sourceName": "vo_charlotte_dialog_idle.wem"
+        },
+        "f4e88eb5b3f949b5": {
+            "hash": "f4e88eb5b3f949b5",
+            "directory": "External30",
+            "voiceContent": "밤에는 속마음을 나누기 좋지. 들려주고 싶은 이야기가 있어? 걱정 마, 네 허락 없이는 신문에 싣지 않겠다고 약속할",
+            "sourceName": "vo_charlotte_dialog_greetingNight.wem"
+        },
+        "f61b42f55aedfb7a": {
+            "hash": "f61b42f55aedfb7a",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackmid_01.wem"
+        },
+        "f79bcc8c6f31dd0c": {
+            "hash": "f79bcc8c6f31dd0c",
+            "directory": "External30",
+            "voiceContent": "나, 난 더 기록할 수 있어",
+            "sourceName": "vo_charlotte_life_less30_01.wem"
+        },
+        "f83b81bfcbb33447": {
+            "hash": "f83b81bfcbb33447",
+            "directory": "External31",
+            "voiceContent": "내 취미는 사진기 렌즈 수집이야. 어떤 렌즈는 줌인 성능이 뛰어나고, 어떤 렌즈는 넓은 시야를 가지고 있지. 맞다, 사진을 찍으면 특수효과가 나타나는 렌즈도 있어. 이 렌즈를 봐, 이걸로 사람을 찍으면 얼굴이 통통하게 나오거든… 자! 한 장 찍어줄게, 페이몬도 같이 찍자",
+            "sourceName": "vo_charlotte_pref_hobby.wem"
+        },
+        "fb740238599f59cd": {
+            "hash": "fb740238599f59cd",
+            "directory": "External31",
+            "voiceContent": "리넷은 무엇을 물어보든 무표정인 채로 시선을 내리깔지. 그 모습은 마치… 태엽 인형 같아. 《마술의 비결——천재 마술사의 「인형 조수」》라는 보도를 쓰고 싶은 마음이 굴뚝같지만! 리넷은 그 보도를 봐도 아무런 반응이 없을 것 같아",
+            "sourceName": "vo_charlotte_teammate_lynette_01.wem"
+        },
+        "feb086d25490ee32": {
+            "hash": "feb086d25490ee32",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_sprint_start_01.wem"
+        },
+        "fff625cefad8cf4b": {
+            "hash": "fff625cefad8cf4b",
+            "directory": "External31",
+            "voiceContent": "맛있다! 시간 나면… 요리 좀 가르쳐 줄래",
+            "sourceName": "vo_charlotte_spice_normal_01.wem"
         }
     }
 }

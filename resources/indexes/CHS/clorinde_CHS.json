@@ -1,475 +1,739 @@
 {
     "Teapot": {},
     "Quests": {
-        "673ade51e098d324": {
-            "hash": "673ade51e098d324",
-            "directory": "External12",
-            "voiceContent": "开始下一回合战斗——",
-            "sourceName": "vo_CLLQ002_19_clorinde_01.wem"
-        },
         "1a7c0832b2c61d5b": {
             "hash": "1a7c0832b2c61d5b",
             "directory": "External3",
-            "voiceContent": "你们似乎无法在前方得到更多的情报。逐影猎人们意识到，那里不是他们现在该去的地方。",
+            "voiceContent": "你们似乎无法在前方得到更多的情报。逐影猎人们意识到，那里不是他们现在该去的地方",
             "sourceName": "vo_CLLQ002_23_clorinde_01.wem"
+        },
+        "673ade51e098d324": {
+            "hash": "673ade51e098d324",
+            "directory": "External12",
+            "voiceContent": "开始下一回合战斗—",
+            "sourceName": "vo_CLLQ002_19_clorinde_01.wem"
         }
     },
     "Gameplay": {
-        "1523baa337fc81af": {
-            "hash": "1523baa337fc81af",
-            "directory": "External2",
-            "voiceContent": "预备。",
-            "sourceName": "vo_clorinde_battle_skill1_01.wem"
-        },
-        "aa996cbdc3976ee8": {
-            "hash": "aa996cbdc3976ee8",
-            "directory": "External21",
-            "voiceContent": "上膛。",
-            "sourceName": "vo_clorinde_battle_skill1_02.wem"
-        },
         "004486b444c57329": {
             "hash": "004486b444c57329",
             "directory": "External0",
-            "voiceContent": "猎影！",
+            "voiceContent": "猎影",
             "sourceName": "vo_clorinde_battle_skill1_03.wem"
         },
-        "5d72a175ac57350d": {
-            "hash": "5d72a175ac57350d",
-            "directory": "External11",
-            "voiceContent": "射猎邪魔！",
-            "sourceName": "vo_clorinde_battle_skill3_01.wem"
-        },
-        "d75c836c4281770a": {
-            "hash": "d75c836c4281770a",
-            "directory": "External26",
-            "voiceContent": "你的自证时刻。",
-            "sourceName": "vo_clorinde_battle_skill3_02.wem"
-        },
-        "5c48b56401d53713": {
-            "hash": "5c48b56401d53713",
-            "directory": "External11",
-            "voiceContent": "洞见恶孽，逐灭鬼影！",
-            "sourceName": "vo_clorinde_battle_skill3_03.wem"
-        },
-        "0f38766a656606e4": {
-            "hash": "0f38766a656606e4",
-            "directory": "External1",
-            "voiceContent": "路遇好运，不错。",
-            "sourceName": "vo_clorinde_chest_open_01.wem"
-        },
-        "8c9cc45074d0095b": {
-            "hash": "8c9cc45074d0095b",
-            "directory": "External17",
-            "voiceContent": "没有归属的物品，不会引发纠纷。",
-            "sourceName": "vo_clorinde_chest_open_02.wem"
-        },
-        "0aa85258b8008012": {
-            "hash": "0aa85258b8008012",
-            "directory": "External1",
-            "voiceContent": "先到者得，合理。",
-            "sourceName": "vo_clorinde_chest_open_03.wem"
-        },
-        "1991eb7ab4e99744": {
-            "hash": "1991eb7ab4e99744",
-            "directory": "External3",
-            "voiceContent": "退场！",
-            "sourceName": "vo_clorinde_life_less30_teammate_01.wem"
-        },
-        "ef19b9633b36183b": {
-            "hash": "ef19b9633b36183b",
-            "directory": "External29",
-            "voiceContent": "由我接手，后退。",
-            "sourceName": "vo_clorinde_life_less30_teammate_02.wem"
-        },
-        "ccb23470a4f2e841": {
-            "hash": "ccb23470a4f2e841",
-            "directory": "External25",
-            "voiceContent": "胜负…已分…",
-            "sourceName": "vo_clorinde_life_die_01.wem"
-        },
-        "72772668765fae9e": {
-            "hash": "72772668765fae9e",
-            "directory": "External14",
-            "voiceContent": "败者…当如此…",
-            "sourceName": "vo_clorinde_life_die_02.wem"
-        },
-        "4f4c7d21241092e6": {
-            "hash": "4f4c7d21241092e6",
-            "directory": "External9",
-            "voiceContent": "如你所邀。",
-            "sourceName": "vo_clorinde_teamJoin_01.wem"
-        },
-        "bf90ab29f05cd849": {
-            "hash": "bf90ab29f05cd849",
-            "directory": "External23",
-            "voiceContent": "需要我为你代理决斗吗？",
-            "sourceName": "vo_clorinde_teamJoin_02.wem"
-        },
-        "11c11130f84aa188": {
-            "hash": "11c11130f84aa188",
-            "directory": "External2",
-            "voiceContent": "剑锋，直指暗影。",
-            "sourceName": "vo_clorinde_teamJoin_03.wem"
-        },
-        "9ed238fcb7900a4a": {
-            "hash": "9ed238fcb7900a4a",
-            "directory": "External19",
-            "voiceContent": "我在决斗中遇见过不少对手，他们大部分都落败了，剩下的则主动投降…我有没有输过？没有。",
-            "sourceName": "vo_clorinde_character_idle_01.wem"
-        },
-        "24e9570621677b4d": {
-            "hash": "24e9570621677b4d",
-            "directory": "External4",
-            "voiceContent": "决斗代理人是我的职业，我怎么想并不重要。因为握紧长剑之时，我代表的是枫丹的律法与规则。",
-            "sourceName": "vo_clorinde_character_idle_02.wem"
-        },
-        "b6053d0effcb06bc": {
-            "hash": "b6053d0effcb06bc",
-            "directory": "External22",
-            "voiceContent": "决斗是意志的对战，剑则是决斗者心灵的延伸。如果你的心已然畏缩，那你的剑也会如同裹鞘一般，无法斩败任何人。",
-            "sourceName": "vo_clorinde_character_idle_03.wem"
-        },
-        "2f5784308196c68c": {
-            "hash": "2f5784308196c68c",
-            "directory": "External5",
-            "voiceContent": "猎物会在雨天休息，但猎人不能。",
-            "sourceName": "vo_clorinde_weather_heavyRain_01.wem"
-        },
-        "380a528e7af8e149": {
-            "hash": "380a528e7af8e149",
-            "directory": "External7",
-            "voiceContent": "看来风和云的对决分出胜负了。",
-            "sourceName": "vo_clorinde_weather_afterRain_01.wem"
-        },
-        "b8cd2703a7fa36c8": {
-            "hash": "b8cd2703a7fa36c8",
-            "directory": "External23",
-            "voiceContent": "我从来没这么想念过枫丹。",
-            "sourceName": "vo_clorinde_weather_desert_01.wem"
-        },
-        "9229dafaa7d5786f": {
-            "hash": "9229dafaa7d5786f",
-            "directory": "External18",
-            "voiceContent": "希望世界上能少个恶徒。",
-            "sourceName": "vo_clorinde_weather_thunder_01.wem"
+        "02ac694e5bdd853e": {
+            "hash": "02ac694e5bdd853e",
+            "directory": "External0",
+            "voiceContent": "决斗代理人的工作并不繁杂，甚至可以说十分简单。遵循审判庭的要求，击败对手就好。除此之外，无需多想。…也许这就是外面有些人把我称为「刽子手」的原因",
+            "sourceName": "vo_clorinde_friendship_01.wem"
         },
         "071888caf69bf0b3": {
             "hash": "071888caf69bf0b3",
             "directory": "External0",
-            "voiceContent": "真新奇。但也够冷清的。",
+            "voiceContent": "真新奇。但也够冷清的",
             "sourceName": "vo_clorinde_weather_snowy_01.wem"
+        },
+        "0aa85258b8008012": {
+            "hash": "0aa85258b8008012",
+            "directory": "External1",
+            "voiceContent": "先到者得，合理",
+            "sourceName": "vo_clorinde_chest_open_03.wem"
+        },
+        "0e55b58cf190dec2": {
+            "hash": "0e55b58cf190dec2",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_jump_05.wem"
+        },
+        "0f38766a656606e4": {
+            "hash": "0f38766a656606e4",
+            "directory": "External1",
+            "voiceContent": "路遇好运，不错",
+            "sourceName": "vo_clorinde_chest_open_01.wem"
+        },
+        "11c11130f84aa188": {
+            "hash": "11c11130f84aa188",
+            "directory": "External2",
+            "voiceContent": "剑锋，直指暗影",
+            "sourceName": "vo_clorinde_teamJoin_03.wem"
+        },
+        "127549dbb082d144": {
+            "hash": "127549dbb082d144",
+            "directory": "External2",
+            "voiceContent": "在武力层面，我并不认为你会需要我的帮助。但倘若你希望借助我的力量，我会尽我所能，一如既往",
+            "sourceName": "vo_clorinde_starUp_04.wem"
+        },
+        "139f35ed5b04cf66": {
+            "hash": "139f35ed5b04cf66",
+            "directory": "External2",
+            "voiceContent": "剑挥舞时的手感更好了，完全能适应",
+            "sourceName": "vo_clorinde_starUp_02.wem"
+        },
+        "1426a523c48157f1": {
+            "hash": "1426a523c48157f1",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_fly_start_02.wem"
+        },
+        "1523baa337fc81af": {
+            "hash": "1523baa337fc81af",
+            "directory": "External2",
+            "voiceContent": "预备",
+            "sourceName": "vo_clorinde_battle_skill1_01.wem"
+        },
+        "174e9ac9e1088513": {
+            "hash": "174e9ac9e1088513",
+            "directory": "External2",
+            "voiceContent": "夏洛蒂小姐是一位识趣的记者，我对她没什么坏印象。毕竟，夏洛蒂小姐既不会在上班的路上堵截拍摄我，也不会跟踪我去咖啡馆，记录我今天喝了什么咖啡。最值得称赞的是，她明确地知道，我不接受记者采访，所以不会来自讨没趣",
+            "sourceName": "vo_clorinde_teammate_charlotte_01.wem"
+        },
+        "181fefc95a2fe8bb": {
+            "hash": "181fefc95a2fe8bb",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_idle_02.wem"
+        },
+        "18afd763f29d3879": {
+            "hash": "18afd763f29d3879",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_l_05.wem"
+        },
+        "18fbe348496f1170": {
+            "hash": "18fbe348496f1170",
+            "directory": "External3",
+            "voiceContent": "嗯，不错的美食，很适合慢慢品尝",
+            "sourceName": "vo_clorinde_spice_normal_01.wem"
+        },
+        "1991eb7ab4e99744": {
+            "hash": "1991eb7ab4e99744",
+            "directory": "External3",
+            "voiceContent": "退场",
+            "sourceName": "vo_clorinde_life_less30_teammate_01.wem"
+        },
+        "1bb587a6a0738112": {
+            "hash": "1bb587a6a0738112",
+            "directory": "External3",
+            "voiceContent": "从前参加茶会的时候，我总是扶着剑站在她背后，现在我却能在长桌对面就座，与她分享茶点。位置变化之后，我开始理解为什么她会成天念叨着「控制体态」了",
+            "sourceName": "vo_clorinde_teammate_furina_01.wem"
+        },
+        "1d108604c8a5c81a": {
+            "hash": "1d108604c8a5c81a",
+            "directory": "External3",
+            "voiceContent": "骄纵轻狂",
+            "sourceName": "vo_clorinde_life_less30_02.wem"
+        },
+        "2045c8616e703fa7": {
+            "hash": "2045c8616e703fa7",
+            "directory": "External4",
+            "voiceContent": "你已证明了名誉",
+            "sourceName": "vo_clorinde_life_die_03.wem"
+        },
+        "208cded04d567ba4": {
+            "hash": "208cded04d567ba4",
+            "directory": "External4",
+            "voiceContent": "很抱歉不能和你分享品酒心得，但我可以向你推荐几家颇具特色的冷门餐馆",
+            "sourceName": "vo_clorinde_dialog_greetingNight.wem"
+        },
+        "232b9e43e5e62817": {
+            "hash": "232b9e43e5e62817",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_03.wem"
+        },
+        "23f70b1dedd80b7c": {
+            "hash": "23f70b1dedd80b7c",
+            "directory": "External4",
+            "voiceContent": "我曾多次见证某些矛盾琐事，被当事人基于纯粹的感性反复咀嚼，最终演变成一桩事关人身尊严，不可退让的惊天耻辱，闹上审判庭，甚至引发一场荒诞的决斗。作为决斗代理人，我对于用决斗来维护名誉这件事没有意见。但是…怎么说呢，从一个普通的枫丹市民角度来看，咖啡里到底该不该加茉洁草，实在不见得是一件非要用剑来论证的事情",
+            "sourceName": "vo_clorinde_dialog_share_01.wem"
+        },
+        "249b9355bfd23654": {
+            "hash": "249b9355bfd23654",
+            "directory": "External4",
+            "voiceContent": "速决胜负吧",
+            "sourceName": "vo_card_clorinde_inGame_easy_04.wem"
+        },
+        "24e9570621677b4d": {
+            "hash": "24e9570621677b4d",
+            "directory": "External4",
+            "voiceContent": "决斗代理人是我的职业，我怎么想并不重要。因为握紧长剑之时，我代表的是枫丹的律法与规则",
+            "sourceName": "vo_clorinde_character_idle_02.wem"
+        },
+        "25c4bf676a52edb6": {
+            "hash": "25c4bf676a52edb6",
+            "directory": "External4",
+            "voiceContent": "唔",
+            "sourceName": "vo_card_clorinde_inGame_easy_02.wem"
+        },
+        "27bb8a55934b4f31": {
+            "hash": "27bb8a55934b4f31",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_01.wem"
+        },
+        "2920c08756c2bb63": {
+            "hash": "2920c08756c2bb63",
+            "directory": "External5",
+            "voiceContent": "报纸上总是存在着一些谈不上公正，也绝不算正义的报道。撰写它们的人都被人情与摩拉带偏了心。如果你想知道某件事的真相，最好的方法是去找相关的人，用你自己的嘴发问，用你自己的心去理解。至少，别让其他人的舌头代替你的头脑",
+            "sourceName": "vo_clorinde_dialog_idle.wem"
+        },
+        "2a95595c54308e1d": {
+            "hash": "2a95595c54308e1d",
+            "directory": "External5",
+            "voiceContent": "用肉类做的菜肴都不错，但肉一定要新鲜。刚猎下的肉用盐简单调味后烤制，旁边搭配上微酸的水果，味道十分不错。下次有机会的话，随我去打猎，我做给你尝尝",
+            "sourceName": "vo_clorinde_pref_foodLike.wem"
+        },
+        "2aad13150b5f705e": {
+            "hash": "2aad13150b5f705e",
+            "directory": "External5",
+            "voiceContent": "够了",
+            "sourceName": "vo_clorinde_battle_hit_H_02.wem"
+        },
+        "2b2a20d5876dbae8": {
+            "hash": "2b2a20d5876dbae8",
+            "directory": "External5",
+            "voiceContent": "枫丹廷决斗代理人，克洛琳德，向你致意。如需雇佣我进行代理决斗，请先陈述你所陷之纠纷…无需赘述人情，这与我无关",
+            "sourceName": "vo_clorinde_draw_appear_01.wem"
+        },
+        "2c3073b69ee229d9": {
+            "hash": "2c3073b69ee229d9",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_jump_02.wem"
+        },
+        "2f5784308196c68c": {
+            "hash": "2f5784308196c68c",
+            "directory": "External5",
+            "voiceContent": "猎物会在雨天休息，但猎人不能",
+            "sourceName": "vo_clorinde_weather_heavyRain_01.wem"
+        },
+        "32b063d52e1d5926": {
+            "hash": "32b063d52e1d5926",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackheavy_03.wem"
+        },
+        "33c7325687af892c": {
+            "hash": "33c7325687af892c",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_02.wem"
+        },
+        "356a543350bfe9aa": {
+            "hash": "356a543350bfe9aa",
+            "directory": "External6",
+            "voiceContent": "完美的味道，很合我口味。别让记者和美食家发现，他们只会用镜头和报纸享受美食",
+            "sourceName": "vo_clorinde_spice_pref_01.wem"
+        },
+        "380a528e7af8e149": {
+            "hash": "380a528e7af8e149",
+            "directory": "External7",
+            "voiceContent": "看来风和云的对决分出胜负了",
+            "sourceName": "vo_clorinde_weather_afterRain_01.wem"
+        },
+        "3ae6d213e59d4012": {
+            "hash": "3ae6d213e59d4012",
+            "directory": "External7",
+            "voiceContent": "你有破绽",
+            "sourceName": "vo_card_clorinde_inGame_hard_01.wem"
+        },
+        "3ba6f92cda3cb72a": {
+            "hash": "3ba6f92cda3cb72a",
+            "directory": "External7",
+            "voiceContent": "我见过许多想要在审判庭上寻求温和人情的人。我并无不敬，但他们来错了地方。审判庭是昭示公理正义的场所，而正义总是…也必须冷漠，否则它就无从延续。如果正义掺杂了人情，那么它有时候就容易被误导偏折，让基于公理执行的「审判」变为由人情驱使的「私刑」。而审判庭中的「私刑」，与那些违律的凶恶暴行无异",
+            "sourceName": "vo_clorinde_friendship_05.wem"
+        },
+        "3f76f6259302c6e4": {
+            "hash": "3f76f6259302c6e4",
+            "directory": "External7",
+            "voiceContent": "…要排除杂念",
+            "sourceName": "vo_card_clorinde_inGame_hard_03.wem"
+        },
+        "40868e557f66f363": {
+            "hash": "40868e557f66f363",
+            "directory": "External8",
+            "voiceContent": "夏沃蕾队长，我听说过她的大名。她曾经因为抓捕凶犯时的手段太过强硬，而遭到过几次起诉。她应诉时态度依然十分强硬，将对方驳得哑口无言，实在出色",
+            "sourceName": "vo_clorinde_teammate_chevreuse_01.wem"
+        },
+        "429821e0d3e367c4": {
+            "hash": "429821e0d3e367c4",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_idle_01.wem"
+        },
+        "47e56ca05f37a47d": {
+            "hash": "47e56ca05f37a47d",
+            "directory": "External8",
+            "voiceContent": "我的武器装备遵循逐影猎人的传统制式。铳枪用来驱赶猎物，长剑给予它们致命一击。当然，代理决斗时我一般只用长剑，踏上决斗场的人已经无路可逃，用不着再做驱赶",
+            "sourceName": "vo_clorinde_dialog_idle2.wem"
+        },
+        "4f4c7d21241092e6": {
+            "hash": "4f4c7d21241092e6",
+            "directory": "External9",
+            "voiceContent": "如你所邀",
+            "sourceName": "vo_clorinde_teamJoin_01.wem"
+        },
+        "52da47a220dfe67d": {
+            "hash": "52da47a220dfe67d",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_breath_02.wem"
+        },
+        "5548374274103685": {
+            "hash": "5548374274103685",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_l_01.wem"
+        },
+        "5ace8d9b670b85ec": {
+            "hash": "5ace8d9b670b85ec",
+            "directory": "External11",
+            "voiceContent": "晚安。我维护好武器后也会休息",
+            "sourceName": "vo_clorinde_dialog_greetingNight2.wem"
+        },
+        "5b482ecf6971a4b9": {
+            "hash": "5b482ecf6971a4b9",
+            "directory": "External11",
+            "voiceContent": "在我获得「神之眼」后，在决斗中向我投降的人数明显增加了不少。有的代理人说，这枚「神之眼」是我进行决斗时的「震慑手段」。我还以为我从未败北的决斗战绩才是「震慑手段」，或许我以后的决斗应该赢得更有表现力一些",
+            "sourceName": "vo_clorinde_dialog_pendant_01.wem"
+        },
+        "5c48b56401d53713": {
+            "hash": "5c48b56401d53713",
+            "directory": "External11",
+            "voiceContent": "洞见恶孽，逐灭鬼影",
+            "sourceName": "vo_clorinde_battle_skill3_03.wem"
+        },
+        "5ce777568a70bee1": {
+            "hash": "5ce777568a70bee1",
+            "directory": "External11",
+            "voiceContent": "进行代理决斗时，我会尽可能保证与对手公平较量。如果对手有眼疾，我就会蒙住眼睛，如果对手腿脚不便，我则会限定自己的移动范围。无论如何，我所参与的必须是一场公平的决斗",
+            "sourceName": "vo_clorinde_friendship_02.wem"
+        },
+        "5d72a175ac57350d": {
+            "hash": "5d72a175ac57350d",
+            "directory": "External11",
+            "voiceContent": "射猎邪魔",
+            "sourceName": "vo_clorinde_battle_skill3_01.wem"
         },
         "5dc1f1f4fc403a9e": {
             "hash": "5dc1f1f4fc403a9e",
             "directory": "External11",
-            "voiceContent": "早上好。我正准备去喝杯咖啡，一起吗？我自带咖啡杯，如果你需要，我可以借你一个。",
+            "voiceContent": "早上好。我正准备去喝杯咖啡，一起吗？我自带咖啡杯，如果你需要，我可以借你一个",
             "sourceName": "vo_clorinde_dialog_greetingMorning.wem"
         },
         "6099dcb678169c7a": {
             "hash": "6099dcb678169c7a",
             "directory": "External12",
-            "voiceContent": "抱歉，现在还是我的工作时间。这份三明治给你，先吃点垫垫吧。",
+            "voiceContent": "抱歉，现在还是我的工作时间。这份三明治给你，先吃点垫垫吧",
             "sourceName": "vo_clorinde_dialog_greetingNoon.wem"
         },
-        "208cded04d567ba4": {
-            "hash": "208cded04d567ba4",
-            "directory": "External4",
-            "voiceContent": "很抱歉不能和你分享品酒心得，但我可以向你推荐几家颇具特色的冷门餐馆。",
-            "sourceName": "vo_clorinde_dialog_greetingNight.wem"
+        "6557005d7db585d7": {
+            "hash": "6557005d7db585d7",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_05.wem"
         },
-        "5ace8d9b670b85ec": {
-            "hash": "5ace8d9b670b85ec",
-            "directory": "External11",
-            "voiceContent": "晚安。我维护好武器后也会休息。",
-            "sourceName": "vo_clorinde_dialog_greetingNight2.wem"
+        "6680ec6f283783f1": {
+            "hash": "6680ec6f283783f1",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_07.wem"
         },
-        "2920c08756c2bb63": {
-            "hash": "2920c08756c2bb63",
-            "directory": "External5",
-            "voiceContent": "报纸上总是存在着一些谈不上公正，也绝不算正义的报道。撰写它们的人都被人情与摩拉带偏了心。如果你想知道某件事的真相，最好的方法是去找相关的人，用你自己的嘴发问，用你自己的心去理解。至少，别让其他人的舌头代替你的头脑。",
-            "sourceName": "vo_clorinde_dialog_idle.wem"
+        "670ea2f38ca37e4a": {
+            "hash": "670ea2f38ca37e4a",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_h_06.wem"
         },
-        "47e56ca05f37a47d": {
-            "hash": "47e56ca05f37a47d",
-            "directory": "External8",
-            "voiceContent": "我的武器装备遵循逐影猎人的传统制式。铳枪用来驱赶猎物，长剑给予它们致命一击。当然，代理决斗时我一般只用长剑，踏上决斗场的人已经无路可逃，用不着再做驱赶。",
-            "sourceName": "vo_clorinde_dialog_idle2.wem"
+        "678724dd456a6646": {
+            "hash": "678724dd456a6646",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackmid_02.wem"
         },
-        "b986d97712c542cc": {
-            "hash": "b986d97712c542cc",
-            "directory": "External23",
-            "voiceContent": "我的许多习惯都承袭自逐影猎人的传统。他们对抗的是邪恶魔物，而我对抗的则是不法凶徒。但魔物本就生来邪毒，这是它们的本能，那些堕落的人本来有行善的能力与机会，但他们却自寻恶孽。你呢？你持剑的理由是什么？",
-            "sourceName": "vo_clorinde_dialog_close1.wem"
-        },
-        "d598cff3796f72c1": {
-            "hash": "d598cff3796f72c1",
-            "directory": "External26",
-            "voiceContent": "在每次决斗开始前，我会用浸了特制药水的软布擦拭武器，一方面是为了保养，另一方面是为了让自己保持沉静，排除杂念。作为执剑者，你应该也有自己的仪式吧？",
-            "sourceName": "vo_clorinde_dialog_close.wem"
-        },
-        "23f70b1dedd80b7c": {
-            "hash": "23f70b1dedd80b7c",
-            "directory": "External4",
-            "voiceContent": "我曾多次见证某些矛盾琐事，被当事人基于纯粹的感性反复咀嚼，最终演变成一桩事关人身尊严，不可退让的惊天耻辱，闹上审判庭，甚至引发一场荒诞的决斗。作为决斗代理人，我对于用决斗来维护名誉这件事没有意见。但是…怎么说呢，从一个普通的枫丹市民角度来看，咖啡里到底该不该加茉洁草，实在不见得是一件非要用剑来论证的事情…",
-            "sourceName": "vo_clorinde_dialog_share_01.wem"
-        },
-        "fb7c8763fabf3156": {
-            "hash": "fb7c8763fabf3156",
-            "directory": "External31",
-            "voiceContent": "见过蓬蓬果吧？它们飘飞的速度和位置不易捉摸，很适合作为枪靶练习射击。但是，去野外找蓬蓬果很不方便，要是有人愿意人工培育蓬蓬果就好了…",
-            "sourceName": "vo_clorinde_pref_gift_01.wem"
-        },
-        "174e9ac9e1088513": {
-            "hash": "174e9ac9e1088513",
-            "directory": "External2",
-            "voiceContent": "夏洛蒂小姐是一位识趣的记者，我对她没什么坏印象。毕竟，夏洛蒂小姐既不会在上班的路上堵截拍摄我，也不会跟踪我去咖啡馆，记录我今天喝了什么咖啡。最值得称赞的是，她明确地知道，我不接受记者采访，所以不会来自讨没趣。",
-            "sourceName": "vo_clorinde_teammate_charlotte_01.wem"
-        },
-        "1bb587a6a0738112": {
-            "hash": "1bb587a6a0738112",
-            "directory": "External3",
-            "voiceContent": "从前参加茶会的时候，我总是扶着剑站在她背后，现在我却能在长桌对面就座，与她分享茶点。位置变化之后，我开始理解为什么她会成天念叨着「控制体态」了。",
-            "sourceName": "vo_clorinde_teammate_furina_01.wem"
-        },
-        "a07d34eaaccb15f8": {
-            "hash": "a07d34eaaccb15f8",
-            "directory": "External20",
-            "voiceContent": "娜维娅最近心情很好，隔几天就会拉我去「桌上剧团」玩新剧本。选材五花八门。除了担任了几次剧本主持人，我也作为玩家和她共同参与了几场冒险。但我会尽量避免扮演和审判庭有关的角色，防止气氛变得太过严肃…",
-            "sourceName": "vo_clorinde_teammate_navia_01.wem"
-        },
-        "bfe21388646397e7": {
-            "hash": "bfe21388646397e7",
-            "directory": "External23",
-            "voiceContent": "有天我收到了一个包裹，装着迷你机械玩具和表达谢意的卡片。那份玩具十分精致，下次有机会，我会对菲米尼先生当面表达一下感谢…最好不要当面？好吧，那我也写份卡片，请你帮我带给他。",
-            "sourceName": "vo_clorinde_teammate_freminet_01.wem"
-        },
-        "8fcbfe321ce74771": {
-            "hash": "8fcbfe321ce74771",
-            "directory": "External17",
-            "voiceContent": "我买过她家的衣服，质量不错。但平时，我更习惯穿现在这套工作制服，一方面它可以明确地阐述出我的身份，另一方面是因为我喜欢熟悉的事物。这套制服就像是我的剑，熟悉且适用，不必多做更换。",
-            "sourceName": "vo_clorinde_teammate_chiori_01.wem"
-        },
-        "a7552bc230961e72": {
-            "hash": "a7552bc230961e72",
-            "directory": "External20",
-            "voiceContent": "梅洛彼得堡并不是一处好打理的地方。能让那个地方保持相对的稳定，莱欧斯利的手腕无可置疑。其中应该不乏一些不能明说的手段，这就不是我们能知道的了。",
-            "sourceName": "vo_clorinde_teammate_wriothesley_01.wem"
-        },
-        "8410bc8cbf99103c": {
-            "hash": "8410bc8cbf99103c",
-            "directory": "External16",
-            "voiceContent": "最高审判官的权威无可置疑，他总是能做出最公正的判决。必要的时候，我也会用剑再次强调判决的公正性。",
-            "sourceName": "vo_clorinde_teammate_neuvillette_01.wem"
-        },
-        "40868e557f66f363": {
-            "hash": "40868e557f66f363",
-            "directory": "External8",
-            "voiceContent": "夏沃蕾队长，我听说过她的大名。她曾经因为抓捕凶犯时的手段太过强硬，而遭到过几次起诉。她应诉时态度依然十分强硬，将对方驳得哑口无言，实在出色。",
-            "sourceName": "vo_clorinde_teammate_chevreuse_01.wem"
-        },
-        "7ab7852c66b0be7a": {
-            "hash": "7ab7852c66b0be7a",
-            "directory": "External15",
-            "voiceContent": "这位大魔术师的职业素养值得称赞。如果有空的话，我会以观众的身份享受他的魔术表演。",
-            "sourceName": "vo_clorinde_teammate_lyney_01.wem"
-        },
-        "02ac694e5bdd853e": {
-            "hash": "02ac694e5bdd853e",
-            "directory": "External0",
-            "voiceContent": "决斗代理人的工作并不繁杂，甚至可以说十分简单。遵循审判庭的要求，击败对手就好。除此之外，无需多想。…也许这就是外面有些人把我称为「刽子手」的原因。",
-            "sourceName": "vo_clorinde_friendship_01.wem"
-        },
-        "5ce777568a70bee1": {
-            "hash": "5ce777568a70bee1",
-            "directory": "External11",
-            "voiceContent": "进行代理决斗时，我会尽可能保证与对手公平较量。如果对手有眼疾，我就会蒙住眼睛，如果对手腿脚不便，我则会限定自己的移动范围。无论如何，我所参与的必须是一场公平的决斗。",
-            "sourceName": "vo_clorinde_friendship_02.wem"
-        },
-        "af181d5d925ef560": {
-            "hash": "af181d5d925ef560",
-            "directory": "External21",
-            "voiceContent": "我见过太多人临阵投降。连拔出武器的勇气都没有，所谓的冤屈和名誉受损，想必也只是自私的一家之言罢了。他们早已被自己击败，无需我动手，就自愿变成了心灵的囚徒。",
-            "sourceName": "vo_clorinde_friendship_03.wem"
-        },
-        "c0942b2499922a33": {
-            "hash": "c0942b2499922a33",
-            "directory": "External24",
-            "voiceContent": "你见过审判庭上的罪人吗？在我所经历过的审判里，罪人们总会强词夺理，将自己伪装成好人。在他们口中，暴行变成义举，罪恶变为正义…但他们狡辩的终点却总是一句话——自己虽然一时糊涂，但这罪过人人都会犯，实在无可指责。他们掩盖自身污秽的方法，就是污染整片水源。而击碎这群罪人们的谎言，为正义之廷激浊扬清，正是我成为决斗代理人的理由。",
-            "sourceName": "vo_clorinde_friendship_04.wem"
-        },
-        "3ba6f92cda3cb72a": {
-            "hash": "3ba6f92cda3cb72a",
-            "directory": "External7",
-            "voiceContent": "我见过许多想要在审判庭上寻求温和人情的人。我并无不敬，但他们来错了地方。审判庭是昭示公理正义的场所，而正义总是…也必须冷漠，否则它就无从延续。如果正义掺杂了人情，那么它有时候就容易被误导偏折，让基于公理执行的「审判」变为由人情驱使的「私刑」。而审判庭中的「私刑」，与那些违律的凶恶暴行无异。",
-            "sourceName": "vo_clorinde_friendship_05.wem"
-        },
-        "98f4a4bba9beecfa": {
-            "hash": "98f4a4bba9beecfa",
-            "directory": "External19",
-            "voiceContent": "与代理决斗不同，「桌上剧团」主持人的身份，能够让我游离于故事之外，在不卷入人情冷暖的情况下观察人们的种种反应，为他们搭建出一个受我掌控的世界。嗯？你说听起来像看着笼子里的猎物？有道理…是我没有思考过的角度，不过我从来不会为难玩家，尽量都让他们开心地体验故事，这点和打猎还是很不一样的。",
-            "sourceName": "vo_clorinde_pref_hobby.wem"
-        },
-        "2a95595c54308e1d": {
-            "hash": "2a95595c54308e1d",
-            "directory": "External5",
-            "voiceContent": "用肉类做的菜肴都不错，但肉一定要新鲜。刚猎下的肉用盐简单调味后烤制，旁边搭配上微酸的水果，味道十分不错。下次有机会的话，随我去打猎，我做给你尝尝。",
-            "sourceName": "vo_clorinde_pref_foodLike.wem"
-        },
-        "9ed2d2238a120c3f": {
-            "hash": "9ed2d2238a120c3f",
-            "directory": "External19",
-            "voiceContent": "鱼类不合我的胃口，一方面是刺太多，另一方面则是有一股腥味…或许我在儿时已经吃够了。",
-            "sourceName": "vo_clorinde_pref_foodDislike.wem"
-        },
-        "356a543350bfe9aa": {
-            "hash": "356a543350bfe9aa",
-            "directory": "External6",
-            "voiceContent": "完美的味道，很合我口味。别让记者和美食家发现，他们只会用镜头和报纸享受美食。",
-            "sourceName": "vo_clorinde_spice_pref_01.wem"
-        },
-        "18fbe348496f1170": {
-            "hash": "18fbe348496f1170",
-            "directory": "External3",
-            "voiceContent": "嗯，不错的美食，很适合慢慢品尝。",
-            "sourceName": "vo_clorinde_spice_normal_01.wem"
-        },
-        "e7f24d3648e98164": {
-            "hash": "e7f24d3648e98164",
-            "directory": "External28",
-            "voiceContent": "…幸好这道菜并非出自餐馆，避免了一些厨师和食客之间的矛盾。",
-            "sourceName": "vo_clorinde_spice_dislike_01.wem"
-        },
-        "83e363f6275114c9": {
-            "hash": "83e363f6275114c9",
-            "directory": "External16",
-            "voiceContent": "原来如此，的确有所长进。",
-            "sourceName": "vo_clorinde_starUp_01.wem"
-        },
-        "139f35ed5b04cf66": {
-            "hash": "139f35ed5b04cf66",
-            "directory": "External2",
-            "voiceContent": "剑挥舞时的手感更好了，完全能适应。",
-            "sourceName": "vo_clorinde_starUp_02.wem"
-        },
-        "955c97e517a4fa4f": {
-            "hash": "955c97e517a4fa4f",
-            "directory": "External18",
-            "voiceContent": "眼力有所提升？让我朝那片落叶试射一下。",
-            "sourceName": "vo_clorinde_starUp_03.wem"
-        },
-        "127549dbb082d144": {
-            "hash": "127549dbb082d144",
-            "directory": "External2",
-            "voiceContent": "在武力层面，我并不认为你会需要我的帮助。但倘若你希望借助我的力量，我会尽我所能，一如既往。",
-            "sourceName": "vo_clorinde_starUp_04.wem"
-        },
-        "7a7ba40cf9eeb61d": {
-            "hash": "7a7ba40cf9eeb61d",
-            "directory": "External15",
-            "voiceContent": "…速决胜负。",
-            "sourceName": "vo_clorinde_life_less30_01.wem"
-        },
-        "1d108604c8a5c81a": {
-            "hash": "1d108604c8a5c81a",
-            "directory": "External3",
-            "voiceContent": "骄纵轻狂。",
-            "sourceName": "vo_clorinde_life_less30_02.wem"
-        },
-        "caa937fdc088e563": {
-            "hash": "caa937fdc088e563",
-            "directory": "External25",
-            "voiceContent": "…可笑。",
-            "sourceName": "vo_clorinde_life_less30_03.wem"
-        },
-        "2045c8616e703fa7": {
-            "hash": "2045c8616e703fa7",
-            "directory": "External4",
-            "voiceContent": "你已证明了名誉…",
-            "sourceName": "vo_clorinde_life_die_03.wem"
-        },
-        "2aad13150b5f705e": {
-            "hash": "2aad13150b5f705e",
-            "directory": "External5",
-            "voiceContent": "够了！",
-            "sourceName": "vo_clorinde_battle_hit_H_02.wem"
-        },
-        "b6bc70df34adec54": {
-            "hash": "b6bc70df34adec54",
-            "directory": "External22",
-            "voiceContent": "希格雯小姐是一位优秀的护士，既擅长治疗身体的伤痛，又懂得如何疗愈人的内心。即使是梅洛彼得堡里的那些心怀恶孽的凶徒，想必也会被她的美德和善心感动，内心涌起一丝善念。这一丝善念，或许就能成为他们踏上改邪归正之路的契机。",
-            "sourceName": "vo_clorinde_teammate_sigewinne_01.wem"
-        },
-        "fad6193a454da062": {
-            "hash": "fad6193a454da062",
-            "directory": "External31",
-            "voiceContent": "还算精准。",
-            "sourceName": "vo_clorinde_battle_hit_L_02.wem"
-        },
-        "9cf9a7680ef3c4bd": {
-            "hash": "9cf9a7680ef3c4bd",
-            "directory": "External19",
-            "voiceContent": "希望那些记者不要再打扰我喝咖啡、买花和看书。否则我会考虑抓两个典型向审判庭起诉。如果他们申请代理决斗，我会让他们带着留影机上场的。公平起见，我也会只带留影机。",
-            "sourceName": "vo_clorinde_dialog_annoyed_01.wem"
-        },
-        "2b2a20d5876dbae8": {
-            "hash": "2b2a20d5876dbae8",
-            "directory": "External5",
-            "voiceContent": "枫丹廷决斗代理人，克洛琳德，向你致意。如需雇佣我进行代理决斗，请先陈述你所陷之纠纷…无需赘述人情，这与我无关。",
-            "sourceName": "vo_clorinde_draw_appear_01.wem"
-        },
-        "5b482ecf6971a4b9": {
-            "hash": "5b482ecf6971a4b9",
-            "directory": "External11",
-            "voiceContent": "在我获得「神之眼」后，在决斗中向我投降的人数明显增加了不少。有的代理人说，这枚「神之眼」是我进行决斗时的「震慑手段」。我还以为我从未败北的决斗战绩才是「震慑手段」，或许我以后的决斗应该赢得更有表现力一些。",
-            "sourceName": "vo_clorinde_dialog_pendant_01.wem"
-        },
-        "3f76f6259302c6e4": {
-            "hash": "3f76f6259302c6e4",
-            "directory": "External7",
-            "voiceContent": "…要排除杂念。",
-            "sourceName": "vo_card_clorinde_inGame_hard_03.wem"
-        },
-        "25c4bf676a52edb6": {
-            "hash": "25c4bf676a52edb6",
-            "directory": "External4",
-            "voiceContent": "唔…",
-            "sourceName": "vo_card_clorinde_inGame_easy_02.wem"
-        },
-        "3ae6d213e59d4012": {
-            "hash": "3ae6d213e59d4012",
-            "directory": "External7",
-            "voiceContent": "你有破绽。",
-            "sourceName": "vo_card_clorinde_inGame_hard_01.wem"
-        },
-        "9608ed70369f3319": {
-            "hash": "9608ed70369f3319",
-            "directory": "External18",
-            "voiceContent": "你大意了。",
-            "sourceName": "vo_card_clorinde_inGame_easy_01.wem"
-        },
-        "249b9355bfd23654": {
-            "hash": "249b9355bfd23654",
-            "directory": "External4",
-            "voiceContent": "速决胜负吧。",
-            "sourceName": "vo_card_clorinde_inGame_easy_04.wem"
+        "679da78375d10a8b": {
+            "hash": "679da78375d10a8b",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_jump_04.wem"
         },
         "6da0c42c86259a6f": {
             "hash": "6da0c42c86259a6f",
             "directory": "External13",
-            "voiceContent": "轮到我的回合了。",
+            "voiceContent": "轮到我的回合了",
             "sourceName": "vo_card_clorinde_inGame_hard_04.wem"
         },
-        "c16a301d4fd03d75": {
-            "hash": "c16a301d4fd03d75",
-            "directory": "External24",
-            "voiceContent": "有所差池…",
-            "sourceName": "vo_card_clorinde_inGame_hard_02.wem"
+        "72772668765fae9e": {
+            "hash": "72772668765fae9e",
+            "directory": "External14",
+            "voiceContent": "败者…当如此",
+            "sourceName": "vo_clorinde_life_die_02.wem"
+        },
+        "77b08894d520376e": {
+            "hash": "77b08894d520376e",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_sprint_start_02.wem"
+        },
+        "7a7ba40cf9eeb61d": {
+            "hash": "7a7ba40cf9eeb61d",
+            "directory": "External15",
+            "voiceContent": "…速决胜负",
+            "sourceName": "vo_clorinde_life_less30_01.wem"
+        },
+        "7ab7852c66b0be7a": {
+            "hash": "7ab7852c66b0be7a",
+            "directory": "External15",
+            "voiceContent": "这位大魔术师的职业素养值得称赞。如果有空的话，我会以观众的身份享受他的魔术表演",
+            "sourceName": "vo_clorinde_teammate_lyney_01.wem"
+        },
+        "7e41a705d4de7abc": {
+            "hash": "7e41a705d4de7abc",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_h_04.wem"
         },
         "7ed6a15dee656f1f": {
             "hash": "7ed6a15dee656f1f",
             "directory": "External15",
-            "voiceContent": "…是我轻敌了。",
+            "voiceContent": "…是我轻敌了",
             "sourceName": "vo_card_clorinde_inGame_easy_03.wem"
+        },
+        "83e363f6275114c9": {
+            "hash": "83e363f6275114c9",
+            "directory": "External16",
+            "voiceContent": "原来如此，的确有所长进",
+            "sourceName": "vo_clorinde_starUp_01.wem"
+        },
+        "8410bc8cbf99103c": {
+            "hash": "8410bc8cbf99103c",
+            "directory": "External16",
+            "voiceContent": "最高审判官的权威无可置疑，他总是能做出最公正的判决。必要的时候，我也会用剑再次强调判决的公正性",
+            "sourceName": "vo_clorinde_teammate_neuvillette_01.wem"
+        },
+        "884f211d3cd78501": {
+            "hash": "884f211d3cd78501",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_h_01.wem"
+        },
+        "8c9cc45074d0095b": {
+            "hash": "8c9cc45074d0095b",
+            "directory": "External17",
+            "voiceContent": "没有归属的物品，不会引发纠纷",
+            "sourceName": "vo_clorinde_chest_open_02.wem"
+        },
+        "8fcbfe321ce74771": {
+            "hash": "8fcbfe321ce74771",
+            "directory": "External17",
+            "voiceContent": "我买过她家的衣服，质量不错。但平时，我更习惯穿现在这套工作制服，一方面它可以明确地阐述出我的身份，另一方面是因为我喜欢熟悉的事物。这套制服就像是我的剑，熟悉且适用，不必多做更换",
+            "sourceName": "vo_clorinde_teammate_chiori_01.wem"
+        },
+        "913f571a5d5f2ece": {
+            "hash": "913f571a5d5f2ece",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_fly_start_01.wem"
+        },
+        "9229dafaa7d5786f": {
+            "hash": "9229dafaa7d5786f",
+            "directory": "External18",
+            "voiceContent": "希望世界上能少个恶徒",
+            "sourceName": "vo_clorinde_weather_thunder_01.wem"
+        },
+        "92694b2c07e13a70": {
+            "hash": "92694b2c07e13a70",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_fly_start_03.wem"
+        },
+        "92c67dd19a7eea72": {
+            "hash": "92c67dd19a7eea72",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_idle_03.wem"
+        },
+        "955c97e517a4fa4f": {
+            "hash": "955c97e517a4fa4f",
+            "directory": "External18",
+            "voiceContent": "眼力有所提升？让我朝那片落叶试射一下",
+            "sourceName": "vo_clorinde_starUp_03.wem"
+        },
+        "9608ed70369f3319": {
+            "hash": "9608ed70369f3319",
+            "directory": "External18",
+            "voiceContent": "你大意了",
+            "sourceName": "vo_card_clorinde_inGame_easy_01.wem"
+        },
+        "96f27d6c35fd1af8": {
+            "hash": "96f27d6c35fd1af8",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_l_04.wem"
+        },
+        "9816fb37ce0fe6b4": {
+            "hash": "9816fb37ce0fe6b4",
+            "directory": "External19",
+            "voiceContent": "#生日快乐。这短剑样式的项链由我亲手打造，送给你作为礼物。按照逐影猎人的传统，在新成员作为逐影猎人度过第一次生日时，教导这位猎人的导师会为{M#他}{F#她}亲手打造一柄刻有姓名的短剑项链，并让{M#他}{F#她}把它时刻挂在胸口。这象征着用剑锋指问自己的内心，是否涉足恶孽，是否心有旁骛，是否有决心逐灭邪魔。虽然你不是逐影猎人，但我相信你和我们一样，有着惩恶扬善的决心。为什么样式不是铳枪？因为铳枪会走火，指问内心的手段太直接了也不行",
+            "sourceName": "vo_clorinde_pref_birthday_01a.wem"
+        },
+        "98f4a4bba9beecfa": {
+            "hash": "98f4a4bba9beecfa",
+            "directory": "External19",
+            "voiceContent": "与代理决斗不同，「桌上剧团」主持人的身份，能够让我游离于故事之外，在不卷入人情冷暖的情况下观察人们的种种反应，为他们搭建出一个受我掌控的世界。嗯？你说听起来像看着笼子里的猎物？有道理…是我没有思考过的角度，不过我从来不会为难玩家，尽量都让他们开心地体验故事，这点和打猎还是很不一样的",
+            "sourceName": "vo_clorinde_pref_hobby.wem"
+        },
+        "9cf9a7680ef3c4bd": {
+            "hash": "9cf9a7680ef3c4bd",
+            "directory": "External19",
+            "voiceContent": "希望那些记者不要再打扰我喝咖啡、买花和看书。否则我会考虑抓两个典型向审判庭起诉。如果他们申请代理决斗，我会让他们带着留影机上场的。公平起见，我也会只带留影机",
+            "sourceName": "vo_clorinde_dialog_annoyed_01.wem"
+        },
+        "9e1b603bfbe6d6c3": {
+            "hash": "9e1b603bfbe6d6c3",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_01.wem"
+        },
+        "9ed238fcb7900a4a": {
+            "hash": "9ed238fcb7900a4a",
+            "directory": "External19",
+            "voiceContent": "我在决斗中遇见过不少对手，他们大部分都落败了，剩下的则主动投降…我有没有输过？没有",
+            "sourceName": "vo_clorinde_character_idle_01.wem"
+        },
+        "9ed2d2238a120c3f": {
+            "hash": "9ed2d2238a120c3f",
+            "directory": "External19",
+            "voiceContent": "鱼类不合我的胃口，一方面是刺太多，另一方面则是有一股腥味…或许我在儿时已经吃够了",
+            "sourceName": "vo_clorinde_pref_foodDislike.wem"
+        },
+        "a07d34eaaccb15f8": {
+            "hash": "a07d34eaaccb15f8",
+            "directory": "External20",
+            "voiceContent": "娜维娅最近心情很好，隔几天就会拉我去「桌上剧团」玩新剧本。选材五花八门。除了担任了几次剧本主持人，我也作为玩家和她共同参与了几场冒险。但我会尽量避免扮演和审判庭有关的角色，防止气氛变得太过严肃",
+            "sourceName": "vo_clorinde_teammate_navia_01.wem"
+        },
+        "a16e3c4c2945fd0e": {
+            "hash": "a16e3c4c2945fd0e",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_02.wem"
+        },
+        "a2ab4c4da94bfdfd": {
+            "hash": "a2ab4c4da94bfdfd",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_03.wem"
+        },
+        "a5758b333aa9f8ab": {
+            "hash": "a5758b333aa9f8ab",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_l_03.wem"
+        },
+        "a7552bc230961e72": {
+            "hash": "a7552bc230961e72",
+            "directory": "External20",
+            "voiceContent": "梅洛彼得堡并不是一处好打理的地方。能让那个地方保持相对的稳定，莱欧斯利的手腕无可置疑。其中应该不乏一些不能明说的手段，这就不是我们能知道的了",
+            "sourceName": "vo_clorinde_teammate_wriothesley_01.wem"
+        },
+        "a86ba95b2650f216": {
+            "hash": "a86ba95b2650f216",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_l_06.wem"
+        },
+        "a93f569bcb248011": {
+            "hash": "a93f569bcb248011",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_sprint_start_01.wem"
+        },
+        "aa7319bee2420c58": {
+            "hash": "aa7319bee2420c58",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_jump_03.wem"
+        },
+        "aa996cbdc3976ee8": {
+            "hash": "aa996cbdc3976ee8",
+            "directory": "External21",
+            "voiceContent": "上膛",
+            "sourceName": "vo_clorinde_battle_skill1_02.wem"
+        },
+        "af181d5d925ef560": {
+            "hash": "af181d5d925ef560",
+            "directory": "External21",
+            "voiceContent": "我见过太多人临阵投降。连拔出武器的勇气都没有，所谓的冤屈和名誉受损，想必也只是自私的一家之言罢了。他们早已被自己击败，无需我动手，就自愿变成了心灵的囚徒",
+            "sourceName": "vo_clorinde_friendship_03.wem"
+        },
+        "b46dc5cceabd840f": {
+            "hash": "b46dc5cceabd840f",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackheavy_02.wem"
+        },
+        "b6053d0effcb06bc": {
+            "hash": "b6053d0effcb06bc",
+            "directory": "External22",
+            "voiceContent": "决斗是意志的对战，剑则是决斗者心灵的延伸。如果你的心已然畏缩，那你的剑也会如同裹鞘一般，无法斩败任何人",
+            "sourceName": "vo_clorinde_character_idle_03.wem"
+        },
+        "b6bc70df34adec54": {
+            "hash": "b6bc70df34adec54",
+            "directory": "External22",
+            "voiceContent": "希格雯小姐是一位优秀的护士，既擅长治疗身体的伤痛，又懂得如何疗愈人的内心。即使是梅洛彼得堡里的那些心怀恶孽的凶徒，想必也会被她的美德和善心感动，内心涌起一丝善念。这一丝善念，或许就能成为他们踏上改邪归正之路的契机",
+            "sourceName": "vo_clorinde_teammate_sigewinne_01.wem"
+        },
+        "b8cd2703a7fa36c8": {
+            "hash": "b8cd2703a7fa36c8",
+            "directory": "External23",
+            "voiceContent": "我从来没这么想念过枫丹",
+            "sourceName": "vo_clorinde_weather_desert_01.wem"
+        },
+        "b986d97712c542cc": {
+            "hash": "b986d97712c542cc",
+            "directory": "External23",
+            "voiceContent": "我的许多习惯都承袭自逐影猎人的传统。他们对抗的是邪恶魔物，而我对抗的则是不法凶徒。但魔物本就生来邪毒，这是它们的本能，那些堕落的人本来有行善的能力与机会，但他们却自寻恶孽。你呢？你持剑的理由是什么",
+            "sourceName": "vo_clorinde_dialog_close1.wem"
+        },
+        "bf5245add5790d76": {
+            "hash": "bf5245add5790d76",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_jump_01.wem"
+        },
+        "bf90ab29f05cd849": {
+            "hash": "bf90ab29f05cd849",
+            "directory": "External23",
+            "voiceContent": "需要我为你代理决斗吗",
+            "sourceName": "vo_clorinde_teamJoin_02.wem"
+        },
+        "bfe21388646397e7": {
+            "hash": "bfe21388646397e7",
+            "directory": "External23",
+            "voiceContent": "有天我收到了一个包裹，装着迷你机械玩具和表达谢意的卡片。那份玩具十分精致，下次有机会，我会对菲米尼先生当面表达一下感谢…最好不要当面？好吧，那我也写份卡片，请你帮我带给他",
+            "sourceName": "vo_clorinde_teammate_freminet_01.wem"
+        },
+        "c0942b2499922a33": {
+            "hash": "c0942b2499922a33",
+            "directory": "External24",
+            "voiceContent": "你见过审判庭上的罪人吗？在我所经历过的审判里，罪人们总会强词夺理，将自己伪装成好人。在他们口中，暴行变成义举，罪恶变为正义…但他们狡辩的终点却总是一句话——自己虽然一时糊涂，但这罪过人人都会犯，实在无可指责。他们掩盖自身污秽的方法，就是污染整片水源。而击碎这群罪人们的谎言，为正义之廷激浊扬清，正是我成为决斗代理人的理由",
+            "sourceName": "vo_clorinde_friendship_04.wem"
+        },
+        "c16a301d4fd03d75": {
+            "hash": "c16a301d4fd03d75",
+            "directory": "External24",
+            "voiceContent": "有所差池",
+            "sourceName": "vo_card_clorinde_inGame_hard_02.wem"
+        },
+        "caa937fdc088e563": {
+            "hash": "caa937fdc088e563",
+            "directory": "External25",
+            "voiceContent": "…可笑",
+            "sourceName": "vo_clorinde_life_less30_03.wem"
+        },
+        "ccb23470a4f2e841": {
+            "hash": "ccb23470a4f2e841",
+            "directory": "External25",
+            "voiceContent": "胜负…已分",
+            "sourceName": "vo_clorinde_life_die_01.wem"
+        },
+        "d598cff3796f72c1": {
+            "hash": "d598cff3796f72c1",
+            "directory": "External26",
+            "voiceContent": "在每次决斗开始前，我会用浸了特制药水的软布擦拭武器，一方面是为了保养，另一方面是为了让自己保持沉静，排除杂念。作为执剑者，你应该也有自己的仪式吧",
+            "sourceName": "vo_clorinde_dialog_close.wem"
+        },
+        "d75c836c4281770a": {
+            "hash": "d75c836c4281770a",
+            "directory": "External26",
+            "voiceContent": "你的自证时刻",
+            "sourceName": "vo_clorinde_battle_skill3_02.wem"
+        },
+        "d7cb52e611b6aba9": {
+            "hash": "d7cb52e611b6aba9",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackmid_01.wem"
+        },
+        "d87cb50e0371b467": {
+            "hash": "d87cb50e0371b467",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_h_03.wem"
+        },
+        "e3999e65c1155ace": {
+            "hash": "e3999e65c1155ace",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_04.wem"
+        },
+        "e3f62daaff4371ac": {
+            "hash": "e3f62daaff4371ac",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_breath_03.wem"
+        },
+        "e4c392776b976670": {
+            "hash": "e4c392776b976670",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attacklight_06.wem"
+        },
+        "e7f24d3648e98164": {
+            "hash": "e7f24d3648e98164",
+            "directory": "External28",
+            "voiceContent": "…幸好这道菜并非出自餐馆，避免了一些厨师和食客之间的矛盾",
+            "sourceName": "vo_clorinde_spice_dislike_01.wem"
+        },
+        "ecaa86d504edba2f": {
+            "hash": "ecaa86d504edba2f",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackmid_03.wem"
+        },
+        "ed25c0fcf67aef4d": {
+            "hash": "ed25c0fcf67aef4d",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_hit_h_05.wem"
+        },
+        "ef19b9633b36183b": {
+            "hash": "ef19b9633b36183b",
+            "directory": "External29",
+            "voiceContent": "由我接手，后退",
+            "sourceName": "vo_clorinde_life_less30_teammate_02.wem"
+        },
+        "f525f7e502591bc8": {
+            "hash": "f525f7e502591bc8",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_battle_attackheavy_01.wem"
+        },
+        "f8d52999f27a217a": {
+            "hash": "f8d52999f27a217a",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_climb_breath_01.wem"
+        },
+        "fad6193a454da062": {
+            "hash": "fad6193a454da062",
+            "directory": "External31",
+            "voiceContent": "还算精准",
+            "sourceName": "vo_clorinde_battle_hit_L_02.wem"
+        },
+        "fb7c8763fabf3156": {
+            "hash": "fb7c8763fabf3156",
+            "directory": "External31",
+            "voiceContent": "见过蓬蓬果吧？它们飘飞的速度和位置不易捉摸，很适合作为枪靶练习射击。但是，去野外找蓬蓬果很不方便，要是有人愿意人工培育蓬蓬果就好了",
+            "sourceName": "vo_clorinde_pref_gift_01.wem"
+        },
+        "fcd3ea8c94a38b77": {
+            "hash": "fcd3ea8c94a38b77",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_clorinde_explore_sprint_start_03.wem"
         }
     }
 }

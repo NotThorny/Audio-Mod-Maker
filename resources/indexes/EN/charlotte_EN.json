@@ -1,511 +1,769 @@
 {
     "Teapot": {},
     "Quests": {
-        "baebcf8733774f11": {
-            "hash": "baebcf8733774f11",
-            "directory": "External23",
-            "voiceContent": "I didn't think that you'd wind up getting to the bottom of the case I'd been following all this time. I guess you could also see this as a happy coincidence...?",
-            "sourceName": "vo_FDAQ308_11_charlotte_02.wem"
-        },
-        "5794d333c0fae6ef": {
-            "hash": "5794d333c0fae6ef",
-            "directory": "External10",
-            "voiceContent": "The words of someone as extraordinary as a witch can probably only be truly understood when something surreal happens to you.",
-            "sourceName": "vo_FDAQ308_11_charlotte_08.wem"
-        },
-        "f7172f65b48d7c1d": {
-            "hash": "f7172f65b48d7c1d",
-            "directory": "External30",
-            "voiceContent": "According to Monsieur Neuvillette, both Childe and that whale should have been in the Primordial Sea at that time.",
-            "sourceName": "vo_FDAQ308_11_charlotte_06.wem"
+        "392e758f76d73190": {
+            "hash": "392e758f76d73190",
+            "directory": "External7",
+            "voiceContent": "This is the first time Monsieur Neuvillette's had a difference of opinion with the Oratrice. Even the Hydro Archon can't figure it out",
+            "sourceName": "vo_FDAQ308_11_charlotte_03.wem"
         },
         "4744c3567b27ab63": {
             "hash": "4744c3567b27ab63",
             "directory": "External8",
-            "voiceContent": "A Fatui Harbinger... She's an extraordinary person. Her instinct must mean something.",
+            "voiceContent": "A Fatui Harbinger... She's an extraordinary person. Her instinct must mean something",
             "sourceName": "vo_FDAQ308_11_charlotte_04.wem"
         },
-        "99ac115d83448e1a": {
-            "hash": "99ac115d83448e1a",
-            "directory": "External19",
-            "voiceContent": "The Fortress of Meropide was almost destroyed in a single day... That I didn't witness that scene personally will always be source of a professional regret, I think.",
-            "sourceName": "vo_FDAQ308_11_charlotte_05.wem"
-        },
-        "392e758f76d73190": {
-            "hash": "392e758f76d73190",
-            "directory": "External7",
-            "voiceContent": "This is the first time Monsieur Neuvillette's had a difference of opinion with the Oratrice. Even the Hydro Archon can't figure it out.",
-            "sourceName": "vo_FDAQ308_11_charlotte_03.wem"
-        },
-        "895d01803d73066e": {
-            "hash": "895d01803d73066e",
-            "directory": "External17",
-            "voiceContent": "You defeated the Hydro Archon in the very first duel you took part in at the opera house. That's one for the history books, alright!",
-            "sourceName": "vo_FDAQ308_11_charlotte_01.wem"
+        "5794d333c0fae6ef": {
+            "hash": "5794d333c0fae6ef",
+            "directory": "External10",
+            "voiceContent": "The words of someone as extraordinary as a witch can probably only be truly understood when something surreal happens to you",
+            "sourceName": "vo_FDAQ308_11_charlotte_08.wem"
         },
         "8833156e92f1084c": {
             "hash": "8833156e92f1084c",
             "directory": "External17",
-            "voiceContent": "I nearly lost my awesome friend Navia... To be honest, that still gives me the shivers.",
+            "voiceContent": "I nearly lost my awesome friend Navia... To be honest, that still gives me the shivers",
             "sourceName": "vo_FDAQ308_11_charlotte_07.wem"
+        },
+        "895d01803d73066e": {
+            "hash": "895d01803d73066e",
+            "directory": "External17",
+            "voiceContent": "You defeated the Hydro Archon in the very first duel you took part in at the opera house. That's one for the history books, alright",
+            "sourceName": "vo_FDAQ308_11_charlotte_01.wem"
+        },
+        "99ac115d83448e1a": {
+            "hash": "99ac115d83448e1a",
+            "directory": "External19",
+            "voiceContent": "The Fortress of Meropide was almost destroyed in a single day... That I didn't witness that scene personally will always be source of a professional regret, I think",
+            "sourceName": "vo_FDAQ308_11_charlotte_05.wem"
+        },
+        "baebcf8733774f11": {
+            "hash": "baebcf8733774f11",
+            "directory": "External23",
+            "voiceContent": "I didn't think that you'd wind up getting to the bottom of the case I'd been following all this time. I guess you could also see this as a happy coincidence...",
+            "sourceName": "vo_FDAQ308_11_charlotte_02.wem"
+        },
+        "f7172f65b48d7c1d": {
+            "hash": "f7172f65b48d7c1d",
+            "directory": "External30",
+            "voiceContent": "According to Monsieur Neuvillette, both Childe and that whale should have been in the Primordial Sea at that time",
+            "sourceName": "vo_FDAQ308_11_charlotte_06.wem"
         }
     },
     "Gameplay": {
-        "3e185c8fba3c1a87": {
-            "hash": "3e185c8fba3c1a87",
-            "directory": "External7",
-            "voiceContent": "Say cheese!",
-            "sourceName": "vo_charlotte_battle_skill1_01.wem"
-        },
-        "94d8eea86f8f7820": {
-            "hash": "94d8eea86f8f7820",
-            "directory": "External18",
-            "voiceContent": "Smile!",
-            "sourceName": "vo_charlotte_battle_skill1_02.wem"
-        },
-        "3f4148a164bc65a1": {
-            "hash": "3f4148a164bc65a1",
-            "directory": "External7",
-            "voiceContent": "Hold that pose!",
-            "sourceName": "vo_charlotte_battle_skill1_03.wem"
-        },
-        "3cc5389445b558e5": {
-            "hash": "3cc5389445b558e5",
-            "directory": "External7",
-            "voiceContent": "Truth bomb!",
-            "sourceName": "vo_charlotte_battle_skill3_01.wem"
-        },
-        "e2531a8c16f2c1c2": {
-            "hash": "e2531a8c16f2c1c2",
-            "directory": "External28",
-            "voiceContent": "Breaking news!",
-            "sourceName": "vo_charlotte_battle_skill3_02.wem"
-        },
-        "3b9b0c829b32ed8b": {
-            "hash": "3b9b0c829b32ed8b",
-            "directory": "External7",
-            "voiceContent": "Hard-hitting exclusive!",
-            "sourceName": "vo_charlotte_battle_skill3_03.wem"
-        },
-        "46416b021e3137cc": {
-            "hash": "46416b021e3137cc",
-            "directory": "External8",
-            "voiceContent": "Ooh! This looks alright.",
-            "sourceName": "vo_charlotte_chest_open_01.wem"
-        },
-        "055318ea0667dae3": {
-            "hash": "055318ea0667dae3",
+        "0085c7d8f41cfd79": {
+            "hash": "0085c7d8f41cfd79",
             "directory": "External0",
-            "voiceContent": "I wish I could interview whoever left this stuff here.",
-            "sourceName": "vo_charlotte_chest_open_02.wem"
-        },
-        "57ba66f10e84bd9a": {
-            "hash": "57ba66f10e84bd9a",
-            "directory": "External10",
-            "voiceContent": "I doubt anyone's still looking for these...",
-            "sourceName": "vo_charlotte_chest_open_03.wem"
-        },
-        "02f3643cc43599dc": {
-            "hash": "02f3643cc43599dc",
-            "directory": "External0",
-            "voiceContent": "Careful!",
-            "sourceName": "vo_charlotte_life_less30_teammate_01.wem"
-        },
-        "c2061224ac6deff3": {
-            "hash": "c2061224ac6deff3",
-            "directory": "External24",
-            "voiceContent": "I'm not writing your obituary!",
-            "sourceName": "vo_charlotte_life_less30_teammate_02.wem"
-        },
-        "718df73739a01b29": {
-            "hash": "718df73739a01b29",
-            "directory": "External14",
-            "voiceContent": "Take these photos to The Steambird...",
-            "sourceName": "vo_charlotte_life_die_01.wem"
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_07.wem"
         },
         "0149c92e6d53d5c6": {
             "hash": "0149c92e6d53d5c6",
             "directory": "External0",
-            "voiceContent": "At least I documented everything...",
+            "voiceContent": "At least I documented everything..",
             "sourceName": "vo_charlotte_life_die_02.wem"
         },
-        "ce69f938441109fa": {
-            "hash": "ce69f938441109fa",
-            "directory": "External25",
-            "voiceContent": "Let's get this interview started!",
-            "sourceName": "vo_charlotte_teamJoin_01.wem"
-        },
-        "286f17407276cefd": {
-            "hash": "286f17407276cefd",
-            "directory": "External5",
-            "voiceContent": "What's the news?",
-            "sourceName": "vo_charlotte_teamJoin_02.wem"
-        },
-        "b98afd4950da5a2c": {
-            "hash": "b98afd4950da5a2c",
-            "directory": "External23",
-            "voiceContent": "Nearer to the action is closer to the truth!",
-            "sourceName": "vo_charlotte_teamJoin_03.wem"
-        },
-        "dbeb3151e90ce3ba": {
-            "hash": "dbeb3151e90ce3ba",
-            "directory": "External27",
-            "voiceContent": "If you keep your eyes peeled and your mind engaged, you'll find there's always a news story nearby just waiting to be discovered.",
-            "sourceName": "vo_charlotte_character_idle_01.wem"
-        },
-        "35f04f5a1772a8bd": {
-            "hash": "35f04f5a1772a8bd",
-            "directory": "External6",
-            "voiceContent": "There are lots of journalists in the Court of Fontaine, but not all of them hold themselves to a high professional standard. If you're ever looking to do an interview... I'm your best choice.",
-            "sourceName": "vo_charlotte_character_idle_02.wem"
-        },
-        "ca723562f8b95dec": {
-            "hash": "ca723562f8b95dec",
-            "directory": "External25",
-            "voiceContent": "The Steambird is an excellent publication. They have many outstanding journalists and the Editor-in-Chief is always open to new ideas. But most importantly, they pay their writers on time.",
-            "sourceName": "vo_charlotte_character_idle_03.wem"
-        },
-        "18282cc18448293c": {
-            "hash": "18282cc18448293c",
-            "directory": "External3",
-            "voiceContent": "Uh-oh, I better find a way to keep my Kamera dry!",
-            "sourceName": "vo_charlotte_weather_heavyRain_01.wem"
-        },
-        "10bea1b4b8349f5f": {
-            "hash": "10bea1b4b8349f5f",
-            "directory": "External2",
-            "voiceContent": "Drat! Missed it again. I never quite manage to get a shot of the lightning strike...",
-            "sourceName": "vo_charlotte_weather_thunder_01.wem"
-        },
-        "515e2bceb1abe6e3": {
-            "hash": "515e2bceb1abe6e3",
-            "directory": "External10",
-            "voiceContent": "Brrr! My fingers are frozen stiff. I can barely manage to press the shutter button.",
-            "sourceName": "vo_charlotte_weather_snowy_01.wem"
-        },
-        "8420dd67f115491e": {
-            "hash": "8420dd67f115491e",
-            "directory": "External16",
-            "voiceContent": "Perfect lighting for a photo! C'mon, strike a pose. Don't forget to smile!",
-            "sourceName": "vo_charlotte_weather_sunny_01.wem"
-        },
-        "213cf3dbc5a5620e": {
-            "hash": "213cf3dbc5a5620e",
-            "directory": "External4",
-            "voiceContent": "Morning! Did you read the paper yet? No? ...No worries, I'll read it for you...",
-            "sourceName": "vo_charlotte_dialog_greetingMorning.wem"
-        },
-        "2e25d78bd63e162a": {
-            "hash": "2e25d78bd63e162a",
-            "directory": "External5",
-            "voiceContent": "Lunch time! Come with me — I know a great place!",
-            "sourceName": "vo_charlotte_dialog_greetingNoon.wem"
-        },
-        "ffdbecc3f82b8f94": {
-            "hash": "ffdbecc3f82b8f94",
-            "directory": "External31",
-            "voiceContent": "Time for an evening chat. Any stories you're willing to share? I'd love to hear them. ...Oh, don't worry, I won't print any of them without your permission. You have my word.",
-            "sourceName": "vo_charlotte_dialog_greetingNight.wem"
-        },
-        "8bb9119b48de3a9c": {
-            "hash": "8bb9119b48de3a9c",
-            "directory": "External17",
-            "voiceContent": "Good night. You go get some rest — I gotta head to The Steambird offices to do some final proofreading of some articles. See you tomorrow!",
-            "sourceName": "vo_charlotte_dialog_greetingNight2.wem"
-        },
-        "a36ed4b413e305d3": {
-            "hash": "a36ed4b413e305d3",
-            "directory": "External20",
-            "voiceContent": "People aren't always very fond of journalists. You know what they say — lies are soft and malleable, but the truth is sharp and inflexible.",
-            "sourceName": "vo_charlotte_dialog_idle.wem"
-        },
-        "235e039a56d7f56d": {
-            "hash": "235e039a56d7f56d",
-            "directory": "External4",
-            "voiceContent": "I can't take a good photograph without an interesting subject. I really have to force myself to press the shutter button if I'm not excited by what I'm snapping.",
-            "sourceName": "vo_charlotte_dialog_idle2.wem"
-        },
-        "a088deb31e54df7c": {
-            "hash": "a088deb31e54df7c",
-            "directory": "External20",
-            "voiceContent": "Good news — I've convinced Euphrasie to make you the next headliners of The Steambird! You'll be right up there on the front cover, there'll be a whole feature about you that I wrote myself, and— Huh? What do you mean, no need? C'mon, I've been pushing Euphrasie for ages on this! Can't you reconsider? I'll make it up to you, I promise! I'll treat you to a huge meal, pleeease?",
-            "sourceName": "vo_charlotte_dialog_close1.wem"
-        },
-        "c071f8891d07a971": {
-            "hash": "c071f8891d07a971",
-            "directory": "External24",
-            "voiceContent": "Alright, the time has come for your interview. Ready to be a star? Just follow my lead and try to look good for the Kamera! You too, Paimon — you have the power of flight! Could you try to make it look a little more exciting?",
-            "sourceName": "vo_charlotte_dialog_close.wem"
-        },
-        "bf41ff73639999c9": {
-            "hash": "bf41ff73639999c9",
-            "directory": "External23",
-            "voiceContent": "To be honest... I'd prefer to have an Anemo Vision. Being able to fly around freely would make getting to interviews sooo much easier! A Cryo Vision's not too bad, though. At least I don't need to worry about my Kamera overheating.",
-            "sourceName": "vo_charlotte_dialog_pendant_01.wem"
-        },
-        "463fefb8bfe9d10c": {
-            "hash": "463fefb8bfe9d10c",
-            "directory": "External8",
-            "voiceContent": "Your credible source of the unbelievable truth! That's my journalistic motto. Hmm? ...Haha, yep, exactly — credible and incredible at the same time! What's that? ...Oh, if I had to choose, then obviously being credible is much more important! But most readers would sooner pay money for sensational stories than mundane facts... So we have to focus on the most incredible true stories to keep our readers engaged.",
-            "sourceName": "vo_charlotte_dialog_share_01.wem"
-        },
-        "fa56e076bc91b3a6": {
-            "hash": "fa56e076bc91b3a6",
-            "directory": "External31",
-            "voiceContent": "Allow me to introduce the one and only Monsieur Verite. He's not just any Kamera — he's my trusty companion and assistant. See his little hat and bow tie? I had those custom made by Chiori. Pretty neat, huh? I've got loads of other outfits for him too, all in different styles. He comes dressed to impress for every interview, whatever the occasion!",
-            "sourceName": "vo_charlotte_pref_gift_01.wem"
-        },
-        "9d52b10051de7be8": {
-            "hash": "9d52b10051de7be8",
-            "directory": "External19",
-            "voiceContent": "Now that her father's name's been cleared, and the case of the serial disappearances of young women is resolved, I guess Navia must be able to finally breathe a little easier. I don't know why, but somehow, she's found herself at the epicenter of all sorts of bad news lately... Luckily for her, I've been snatching up all the articles that mention her and doing whatever damage control I can before they get published. Heh, and uh... then getting told off constantly by Euphrasie for interfering... But y'know, I think Navia deserves a break, so I'm happy to take one for the team. Also, she agreed to do an in-depth exclusive interview, which definitely sweetens the deal!",
-            "sourceName": "vo_charlotte_teammate_navia_01.wem"
-        },
-        "7245165bb8f2b34a": {
-            "hash": "7245165bb8f2b34a",
-            "directory": "External14",
-            "voiceContent": "Surprise, surprise — Lyney refused an interview with me once again. Do you know how many times that is now? ...Uh, actually, I've lost count. But never mind! Evading me only further confirms my suspicion that he's hiding the news story of a lifetime! As long as I keep digging, I'll find it — and when I do, it will shake the world like no other news report in history!",
-            "sourceName": "vo_charlotte_teammate_lyney_01.wem"
-        },
-        "1b9c7b9b2c1bcd76": {
-            "hash": "1b9c7b9b2c1bcd76",
-            "directory": "External3",
-            "voiceContent": "No matter what question you pose to her, Lynette just calmly lowers her eyes with an expressionless look on her face. It's like she's some sort of... clockwork doll. I'm really tempted to write an article titled something like The Genius Magician's Puppet Assistant Magic's Best-Kept Secret... but I have a sneaking suspicion that even that wouldn't get a reaction out of her.",
-            "sourceName": "vo_charlotte_teammate_lynette_01.wem"
-        },
-        "ef42a259517cfa01": {
-            "hash": "ef42a259517cfa01",
-            "directory": "External29",
-            "voiceContent": "I did a little snooping around at Chioriya Boutique once. Aside from the wealthy housewives of Fontaine and the box-ticking tourists from overseas, some of the regular customers there look like really rough characters! Big muscly types with scars on their face, guys in masks and hats with their swords drawn... But they always come bearing gifts and acting like humble servants. Uh... Well, mostly. Anyone with a bad attitude is literally sent flying back out the door. Seriously! I snapped a photo of a guy being thrown out once, he was like four feet in the air!",
-            "sourceName": "vo_charlotte_teammate_chiori_01.wem"
-        },
-        "b8c52060296c2897": {
-            "hash": "b8c52060296c2897",
-            "directory": "External23",
-            "voiceContent": "I've met Freminet a few times since being introduced. He quickly took an interest in Monsieur Verite — that's my Kamera-slash-assistant — and even made a few improvements to my lenses. I gotta say, though, my heart was in my mouth watching him completely dismantle Monsieur Verite in a matter of seconds... Amazing he managed to reassemble it just as swiftly. He seems very experienced — I was convinced he must have graduated from the Fontaine Research Institute, but he denied it.",
-            "sourceName": "vo_charlotte_teammate_freminet_01.wem"
-        },
-        "ed02d7d45918768c": {
-            "hash": "ed02d7d45918768c",
-            "directory": "External29",
-            "voiceContent": "If you want to interview the Iudex, you have to provide all the interview questions in advance and get them reviewed by the relevant department at the Palais Mermonia, who decide which questions to approve and which ones you're not allowed to ask... It's their way of making sure the interview goes off without a hitch. It's such a rigmarole. I'm losing the will to live just talking about it.",
-            "sourceName": "vo_charlotte_teammate_neuvillette_01.wem"
-        },
-        "32bc7b4b69ab3a85": {
-            "hash": "32bc7b4b69ab3a85",
-            "directory": "External6",
-            "voiceContent": "Clorinde is the most well-known Champion Duelist in Fontaine, but she's also the most mysterious. I have a source who tells me that she uses some sort of mystical ritual to keep her weapon as good as new... Could this be the secret behind her famously undefeated track record in the Duelists' Ring? Ah, I'd love to spring that question on her one day... but I don't think I'll get the chance. She's publicly stated that she doesn't accept interviews.",
-            "sourceName": "vo_charlotte_teammate_clorinde_01.wem"
-        },
-        "b6f39d7316df9da2": {
-            "hash": "b6f39d7316df9da2",
-            "directory": "External22",
-            "voiceContent": "So... Did you get to meet the Duke in person? Yeah? Any nuggets of information that I should know about? Never mind the Credit Coupons, the Coupon Cafeteria, If a man will not work, he shall not eat... That's all just generic filler. I'm talking about personal anecdotes about the man of Meropide himself... What do you mean, confidentiality? Aw, not you, too! We had a deal! That does it — remember that gigantic feast I treated you to? I want my money back! Get your butts back to prison and do your time, you swindlers, you!",
-            "sourceName": "vo_charlotte_teammate_wriothesley_01.wem"
-        },
-        "d441b8ad8b68492a": {
-            "hash": "d441b8ad8b68492a",
-            "directory": "External26",
-            "voiceContent": "Emilie makes the best perfume in the whole Court of Fontaine. She introduced me to this amazing one the other day that works as an insect repellent, anti-perspirant, and deodorant all in one! It's a total life-saver for someone like me who spends so much time zooming around all over the place. I actually sprayed some on my wrist today... Go on, take a whiff, it's heavenly!",
-            "sourceName": "vo_charlotte_teammate_emilie_01.wem"
-        },
-        "3c37336247a0244e": {
-            "hash": "3c37336247a0244e",
-            "directory": "External7",
-            "voiceContent": "I'm well aware that following the truth wherever it leads is risky business. But buried truths make exclusive news, so good luck trying to keep secrets from me when we need a good story... telling journalist like me in this world with a strong sense of journalistic integrity! Ahem! I make it my goal to provide the public with only the best exclusive news, through powerful, engaging, and honest reporting!",
-            "sourceName": "vo_charlotte_friendship_01.wem"
-        },
-        "bf1e816baec24d71": {
-            "hash": "bf1e816baec24d71",
-            "directory": "External23",
-            "voiceContent": "When I first started working as a journalist, I didn't know anything about how to write the news, so I had to figure it all out for myself by reading articles by other people. As well as The Steambird, I also looked at some other independent publications out there, which tend to be more specialized. For example, there's The Observer for celebrity gossip, Leisure Weekly, which focuses on competitive sport and other entertainment news, Top Chef for those who like to read... all the food critiques in one place, and Bedazzled! which is just sort of a glorified rumor and speculation mill. I learned a whole lot from reading all those papers. Or... Well, I at least learned how to master a bunch of different writing styles.",
-            "sourceName": "vo_charlotte_friendship_02.wem"
-        },
-        "3d612773f2222ff0": {
-            "hash": "3d612773f2222ff0",
-            "directory": "External7",
-            "voiceContent": "I once spent six months working undercover for an exposé piece about a merchant who was selling shoddy food products. I disguised myself as a vagrant, infiltrated the back kitchen, took a job as a kitchen hand, and stuck around until I'd gathered enough solid evidence about their misdeeds. Then, I put it all in an article and had it published in the paper. The backlash was intense. They were punished for their crimes, sure, but that didn't stop them from launching a vicious campaign of vengeance against me almost immediately. I was coming home to threat letters sitting on my bedside table on a daily basis, and we'd also find mud slung on the front door to our office... The Steambird quickly filed a report to the Gardes, and I was sent to Mondstadt to report on Genius Invokation TCG. It took a while before I could safely return to Fontaine. These kind of things happen all the time. I honestly don't know Euphrasie deals with it...",
-            "sourceName": "vo_charlotte_friendship_03.wem"
-        },
-        "f6b8f5388271a043": {
-            "hash": "f6b8f5388271a043",
-            "directory": "External30",
-            "voiceContent": "I've always been a very curious person. Even as a kid, long before I ever thought about going into journalism, I was always convinced that secrets and mysteries were lurking in every corner... To me, the world is a giant hoard of hidden treasure, with countless stories waiting to be uncovered. Every time I see something where I think a secret might be hiding, I snap a photo with my Kamera and add it to my collection. These photos are like my own personal treasure map... and I'm constantly going back to them, trying new ways to decipher them and expose the truth.",
-            "sourceName": "vo_charlotte_friendship_04.wem"
-        },
-        "a143c3420171027a": {
-            "hash": "a143c3420171027a",
-            "directory": "External20",
-            "voiceContent": "I don't really care whether these hidden truths are significant, what they mean, or what the wider ramifications are... I just want to bring them into the light of day. To put it in adventurer terms, I guess for me... it's all about the thrill of the chase, and not the treasure at the end. I've also met a lot of people along the way all my Fontaine friends, Euphrasie, who believes I was born to be a journalist, and people like you, who join me in the search for the truth. Without everyone's help, I'd probably still be that nosy kid who runs around furiously snapping photos like a lunatic... Anywho... It's not often that I get to be the interviewee, but... this has been a real pleasure.",
-            "sourceName": "vo_charlotte_friendship_05.wem"
-        },
-        "1f8084d3b849f1aa": {
-            "hash": "1f8084d3b849f1aa",
-            "directory": "External3",
-            "voiceContent": "I love collecting different Kamera lenses. They all have different strengths — some might have an incredible range of focal lengths, others might have a really wide field of view. Oh, and there's also more novelty ones that can apply special effects to the image. Take this one, for example — when you take a portrait photo with this, it turns their face all chubby... C'mon, I'll take one of you! And you, Paimon!",
-            "sourceName": "vo_charlotte_pref_hobby.wem"
-        },
-        "bf3f552ef0f831cd": {
-            "hash": "bf3f552ef0f831cd",
-            "directory": "External23",
-            "voiceContent": "Hehe, sweet things are my weakness. However big the main meal, I can always manage a dessert or several. Or as my mother puts it... There's always a special place reserved in my stomach for dessert!",
-            "sourceName": "vo_charlotte_pref_foodLike.wem"
-        },
-        "e0789641ef34ffaf": {
-            "hash": "e0789641ef34ffaf",
-            "directory": "External28",
-            "voiceContent": "Spicy food doesn't agree with me at all. It's like my stomach is fitted with a super-sensitive spice detector or something, 'cause even the mildest hint of chili will set it off. One small bite and the stomachache begins... and it always lasts for like an entire day, ugh...",
-            "sourceName": "vo_charlotte_pref_foodDislike.wem"
-        },
-        "b9b330e23f28197a": {
-            "hash": "b9b330e23f28197a",
-            "directory": "External23",
-            "voiceContent": "You're a good chef! Any interest in starting a culinary column in our paper? I know just how we could slot you in.",
-            "sourceName": "vo_charlotte_spice_pref_01.wem"
-        },
-        "07fb8c6039772c60": {
-            "hash": "07fb8c6039772c60",
+        "02f3643cc43599dc": {
+            "hash": "02f3643cc43599dc",
             "directory": "External0",
-            "voiceContent": "Hey, not bad... Would you mind teaching me to make this some time?",
-            "sourceName": "vo_charlotte_spice_normal_01.wem"
-        },
-        "c94636bab9112ff4": {
-            "hash": "c94636bab9112ff4",
-            "directory": "External25",
-            "voiceContent": "Whewee... This is uh, a juicy news story... with a gut-wrenching conclusion...",
-            "sourceName": "vo_charlotte_spice_dislike_01.wem"
-        },
-        "5c7440096c4dedf9": {
-            "hash": "5c7440096c4dedf9",
-            "directory": "External11",
-            "voiceContent": "Happy Birthday! Did you read today's Steambird yet? I put a birthday greeting in there for you, hehe... Wait, you still haven't bought a copy? No problem, I picked one up before leaving the office. Look — here it is! I fought pretty hard to get it on this page.",
-            "sourceName": "vo_charlotte_pref_birthday_01.wem"
-        },
-        "16e34b6a5fe50cd9": {
-            "hash": "16e34b6a5fe50cd9",
-            "directory": "External2",
-            "voiceContent": "What a strange and wonderful feeling... I've gotta write this down for my records.",
-            "sourceName": "vo_charlotte_starUp_01.wem"
-        },
-        "aa051d61967bf076": {
-            "hash": "aa051d61967bf076",
-            "directory": "External21",
-            "voiceContent": "So this stuff really does boost people's strength, huh? I thought it was all rumors, but now here I am, experiencing it for myself...",
-            "sourceName": "vo_charlotte_starUp_02.wem"
-        },
-        "ffafff5817a995df": {
-            "hash": "ffafff5817a995df",
-            "directory": "External31",
-            "voiceContent": "Have you done this for other people in the past, too? Were the materials you used different, and if so, how? Also, I'm wondering... Uh, sorry. Force of habit.",
-            "sourceName": "vo_charlotte_starUp_03.wem"
-        },
-        "a574f14fe9165c14": {
-            "hash": "a574f14fe9165c14",
-            "directory": "External20",
-            "voiceContent": "Holy smokes! My mind can think faster, my body has more energy... There's not a news story out there that can escape me now! But first things first — let's take a photo to commemorate this beautiful moment.",
-            "sourceName": "vo_charlotte_starUp_04.wem"
-        },
-        "c2569d1c794a0a15": {
-            "hash": "c2569d1c794a0a15",
-            "directory": "External24",
-            "voiceContent": "I'm getting this all on Kamera...",
-            "sourceName": "vo_charlotte_life_less30_01.wem"
-        },
-        "9090bf1583166332": {
-            "hash": "9090bf1583166332",
-            "directory": "External18",
-            "voiceContent": "There's still news to report!",
-            "sourceName": "vo_charlotte_life_less30_02.wem"
-        },
-        "1284310d3fe4397b": {
-            "hash": "1284310d3fe4397b",
-            "directory": "External2",
-            "voiceContent": "My Kamera's still working!",
-            "sourceName": "vo_charlotte_life_less30_03.wem"
-        },
-        "866d2b262cd729af": {
-            "hash": "866d2b262cd729af",
-            "directory": "External16",
-            "voiceContent": "Headline... Still needs a headline...",
-            "sourceName": "vo_charlotte_life_die_03.wem"
-        },
-        "a86e10299b022f26": {
-            "hash": "a86e10299b022f26",
-            "directory": "External21",
-            "voiceContent": "My Kamera!",
-            "sourceName": "vo_charlotte_battle_hit_H_02.wem"
-        },
-        "071e33db95c0c202": {
-            "hash": "071e33db95c0c202",
-            "directory": "External0",
-            "voiceContent": "Lady Furina has a very captivating presence. She was born to be a star. Euphrasie once assigned a journalist to shadow her, but he quit not long into the assignment... From what I've heard, the reason he left was that Furina insisted on seeing every photo he took of her right away, and she'd make him redo it if she wasn't happy with how it turned out. Apparently, she was so picky that the poor guy once had to take 127 shots of her in the same pose before she was content...",
-            "sourceName": "vo_charlotte_teammate_furina_01.wem"
-        },
-        "0915f9a912e6f58a": {
-            "hash": "0915f9a912e6f58a",
-            "directory": "External1",
-            "voiceContent": "How rude!",
-            "sourceName": "vo_charlotte_battle_hit_L_02.wem"
-        },
-        "fd474083e4827a2d": {
-            "hash": "fd474083e4827a2d",
-            "directory": "External31",
-            "voiceContent": "I've ended up with a less-than-favorable reputation in some people's eyes — I think it's because I can sometimes be a little bit, um... intense in interviews. Now, whenever I show up to interview someone, they're always really wary of me... *sigh* But in my defense, with some people, you really have to put the pressure on or they won't open up...",
-            "sourceName": "vo_charlotte_dialog_annoyed_01.wem"
-        },
-        "f28756805a05e638": {
-            "hash": "f28756805a05e638",
-            "directory": "External30",
-            "voiceContent": "Hi there! I'm Charlotte, a journalist with The Steambird. It's a pleasure to meet you. If you've got time, would you be open to doing an exclusive interview? My journalistic instincts tell me that there's a treasure trove of news in you just bursting to get out!",
-            "sourceName": "vo_charlotte_draw_appear_01.wem"
-        },
-        "990e2ed22e9f9a7e": {
-            "hash": "990e2ed22e9f9a7e",
-            "directory": "External19",
-            "voiceContent": "There's plenty more where this came from.",
-            "sourceName": "vo_card_charlotte_inGame_easy_04.wem"
-        },
-        "4dc94fb0ad755273": {
-            "hash": "4dc94fb0ad755273",
-            "directory": "External9",
-            "voiceContent": "Wait, how'd that happen!?",
-            "sourceName": "vo_card_charlotte_inGame_hard_02.wem"
-        },
-        "56f6f0a86c55f273": {
-            "hash": "56f6f0a86c55f273",
-            "directory": "External10",
-            "voiceContent": "I knew that would come in handy.",
-            "sourceName": "vo_card_charlotte_inGame_easy_01.wem"
-        },
-        "8eb6a1c8c53cfc5c": {
-            "hash": "8eb6a1c8c53cfc5c",
-            "directory": "External17",
-            "voiceContent": "Guess that magazine I read came in handy.",
-            "sourceName": "vo_card_charlotte_inGame_hard_01.wem"
-        },
-        "cc421db8f103086a": {
-            "hash": "cc421db8f103086a",
-            "directory": "External25",
-            "voiceContent": "How do you play this again...",
-            "sourceName": "vo_card_charlotte_inGame_hard_03.wem"
-        },
-        "97e442c0841d9c5c": {
-            "hash": "97e442c0841d9c5c",
-            "directory": "External18",
-            "voiceContent": "Wait, that wasn't right...",
-            "sourceName": "vo_card_charlotte_inGame_easy_02.wem"
-        },
-        "ea1b9be29e523321": {
-            "hash": "ea1b9be29e523321",
-            "directory": "External29",
-            "voiceContent": "Here comes the highlight of the match!",
-            "sourceName": "vo_card_charlotte_inGame_hard_04.wem"
+            "voiceContent": "Careful",
+            "sourceName": "vo_charlotte_life_less30_teammate_01.wem"
         },
         "03625cb7a2d6e7ed": {
             "hash": "03625cb7a2d6e7ed",
             "directory": "External0",
-            "voiceContent": "C'mon... Think, gotta think...",
+            "voiceContent": "C'mon... Think, gotta think..",
             "sourceName": "vo_card_charlotte_inGame_easy_03.wem"
+        },
+        "055318ea0667dae3": {
+            "hash": "055318ea0667dae3",
+            "directory": "External0",
+            "voiceContent": "I wish I could interview whoever left this stuff here",
+            "sourceName": "vo_charlotte_chest_open_02.wem"
+        },
+        "071e33db95c0c202": {
+            "hash": "071e33db95c0c202",
+            "directory": "External0",
+            "voiceContent": "Lady Furina has a very captivating presence. She was born to be a star. Euphrasie once assigned a journalist to shadow her, but he quit not long into the assignment... From what I've heard, the reason he left was that Furina insisted on seeing every photo he took of her right away, and she'd make him redo it if she wasn't happy with how it turned out. Apparently, she was so picky that the poor guy once had to take 127 shots of her in the same pose before she was content..",
+            "sourceName": "vo_charlotte_teammate_furina_01.wem"
+        },
+        "078c4eecadd9dc20": {
+            "hash": "078c4eecadd9dc20",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackheavy_01.wem"
+        },
+        "07fb8c6039772c60": {
+            "hash": "07fb8c6039772c60",
+            "directory": "External0",
+            "voiceContent": "Hey, not bad... Would you mind teaching me to make this some time",
+            "sourceName": "vo_charlotte_spice_normal_01.wem"
+        },
+        "0915f9a912e6f58a": {
+            "hash": "0915f9a912e6f58a",
+            "directory": "External1",
+            "voiceContent": "How rude",
+            "sourceName": "vo_charlotte_battle_hit_L_02.wem"
+        },
+        "10bea1b4b8349f5f": {
+            "hash": "10bea1b4b8349f5f",
+            "directory": "External2",
+            "voiceContent": "Drat! Missed it again. I never quite manage to get a shot of the lightning strike..",
+            "sourceName": "vo_charlotte_weather_thunder_01.wem"
+        },
+        "1284310d3fe4397b": {
+            "hash": "1284310d3fe4397b",
+            "directory": "External2",
+            "voiceContent": "My Kamera's still working",
+            "sourceName": "vo_charlotte_life_less30_03.wem"
+        },
+        "152d19aa31d7c4e0": {
+            "hash": "152d19aa31d7c4e0",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_jump_03.wem"
+        },
+        "16e34b6a5fe50cd9": {
+            "hash": "16e34b6a5fe50cd9",
+            "directory": "External2",
+            "voiceContent": "What a strange and wonderful feeling... I've gotta write this down for my records",
+            "sourceName": "vo_charlotte_starUp_01.wem"
+        },
+        "18282cc18448293c": {
+            "hash": "18282cc18448293c",
+            "directory": "External3",
+            "voiceContent": "Uh-oh, I better find a way to keep my Kamera dry",
+            "sourceName": "vo_charlotte_weather_heavyRain_01.wem"
+        },
+        "18b23e32674e7489": {
+            "hash": "18b23e32674e7489",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_h_01.wem"
+        },
+        "1b9c7b9b2c1bcd76": {
+            "hash": "1b9c7b9b2c1bcd76",
+            "directory": "External3",
+            "voiceContent": "No matter what question you pose to her, Lynette just calmly lowers her eyes with an expressionless look on her face. It's like she's some sort of... clockwork doll. I'm really tempted to write an article titled something like The Genius Magician's Puppet Assistant Magic's Best-Kept Secret... but I have a sneaking suspicion that even that wouldn't get a reaction out of her",
+            "sourceName": "vo_charlotte_teammate_lynette_01.wem"
+        },
+        "1f8084d3b849f1aa": {
+            "hash": "1f8084d3b849f1aa",
+            "directory": "External3",
+            "voiceContent": "I love collecting different Kamera lenses. They all have different strengths — some might have an incredible range of focal lengths, others might have a really wide field of view. Oh, and there's also more novelty ones that can apply special effects to the image. Take this one, for example — when you take a portrait photo with this, it turns their face all chubby... C'mon, I'll take one of you! And you, Paimon",
+            "sourceName": "vo_charlotte_pref_hobby.wem"
+        },
+        "213cf3dbc5a5620e": {
+            "hash": "213cf3dbc5a5620e",
+            "directory": "External4",
+            "voiceContent": "Morning! Did you read the paper yet? No? ...No worries, I'll read it for you..",
+            "sourceName": "vo_charlotte_dialog_greetingMorning.wem"
+        },
+        "235e039a56d7f56d": {
+            "hash": "235e039a56d7f56d",
+            "directory": "External4",
+            "voiceContent": "I can't take a good photograph without an interesting subject. I really have to force myself to press the shutter button if I'm not excited by what I'm snapping",
+            "sourceName": "vo_charlotte_dialog_idle2.wem"
+        },
+        "24788b9cb35e3cb2": {
+            "hash": "24788b9cb35e3cb2",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_breath_01.wem"
+        },
+        "26a92771390af9b3": {
+            "hash": "26a92771390af9b3",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_jump_04.wem"
+        },
+        "286f17407276cefd": {
+            "hash": "286f17407276cefd",
+            "directory": "External5",
+            "voiceContent": "What's the news",
+            "sourceName": "vo_charlotte_teamJoin_02.wem"
+        },
+        "29385e0fad4f5a95": {
+            "hash": "29385e0fad4f5a95",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_h_05.wem"
+        },
+        "2a2b722157a25a0f": {
+            "hash": "2a2b722157a25a0f",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_h_03.wem"
+        },
+        "2a5577d2c3194a41": {
+            "hash": "2a5577d2c3194a41",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_l_05.wem"
+        },
+        "2e25d78bd63e162a": {
+            "hash": "2e25d78bd63e162a",
+            "directory": "External5",
+            "voiceContent": "Lunch time! Come with me — I know a great place",
+            "sourceName": "vo_charlotte_dialog_greetingNoon.wem"
+        },
+        "32bc7b4b69ab3a85": {
+            "hash": "32bc7b4b69ab3a85",
+            "directory": "External6",
+            "voiceContent": "Clorinde is the most well-known Champion Duelist in Fontaine, but she's also the most mysterious. I have a source who tells me that she uses some sort of mystical ritual to keep her weapon as good as new... Could this be the secret behind her famously undefeated track record in the Duelists' Ring? Ah, I'd love to spring that question on her one day... but I don't think I'll get the chance. She's publicly stated that she doesn't accept interviews",
+            "sourceName": "vo_charlotte_teammate_clorinde_01.wem"
+        },
+        "3429570a9208811f": {
+            "hash": "3429570a9208811f",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_03.wem"
+        },
+        "35f04f5a1772a8bd": {
+            "hash": "35f04f5a1772a8bd",
+            "directory": "External6",
+            "voiceContent": "There are lots of journalists in the Court of Fontaine, but not all of them hold themselves to a high professional standard. If you're ever looking to do an interview... I'm your best choice",
+            "sourceName": "vo_charlotte_character_idle_02.wem"
+        },
+        "3b9b0c829b32ed8b": {
+            "hash": "3b9b0c829b32ed8b",
+            "directory": "External7",
+            "voiceContent": "Hard-hitting exclusive",
+            "sourceName": "vo_charlotte_battle_skill3_03.wem"
+        },
+        "3c37336247a0244e": {
+            "hash": "3c37336247a0244e",
+            "directory": "External7",
+            "voiceContent": "I'm well aware that following the truth wherever it leads is risky business. But buried truths make exclusive news, so good luck trying to keep secrets from me when we need a good story... telling journalist like me in this world with a strong sense of journalistic integrity! Ahem! I make it my goal to provide the public with only the best exclusive news, through powerful, engaging, and honest reporting",
+            "sourceName": "vo_charlotte_friendship_01.wem"
+        },
+        "3cc5389445b558e5": {
+            "hash": "3cc5389445b558e5",
+            "directory": "External7",
+            "voiceContent": "Truth bomb",
+            "sourceName": "vo_charlotte_battle_skill3_01.wem"
+        },
+        "3d1e27b7758ffb85": {
+            "hash": "3d1e27b7758ffb85",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_03.wem"
+        },
+        "3d612773f2222ff0": {
+            "hash": "3d612773f2222ff0",
+            "directory": "External7",
+            "voiceContent": "I once spent six months working undercover for an exposé piece about a merchant who was selling shoddy food products. I disguised myself as a vagrant, infiltrated the back kitchen, took a job as a kitchen hand, and stuck around until I'd gathered enough solid evidence about their misdeeds. Then, I put it all in an article and had it published in the paper. The backlash was intense. They were punished for their crimes, sure, but that didn't stop them from launching a vicious campaign of vengeance against me almost immediately. I was coming home to threat letters sitting on my bedside table on a daily basis, and we'd also find mud slung on the front door to our office... The Steambird quickly filed a report to the Gardes, and I was sent to Mondstadt to report on Genius Invokation TCG. It took a while before I could safely return to Fontaine. These kind of things happen all the time. I honestly don't know Euphrasie deals with it..",
+            "sourceName": "vo_charlotte_friendship_03.wem"
+        },
+        "3e10fbc91fe28eff": {
+            "hash": "3e10fbc91fe28eff",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_05.wem"
+        },
+        "3e185c8fba3c1a87": {
+            "hash": "3e185c8fba3c1a87",
+            "directory": "External7",
+            "voiceContent": "Say cheese",
+            "sourceName": "vo_charlotte_battle_skill1_01.wem"
+        },
+        "3f4148a164bc65a1": {
+            "hash": "3f4148a164bc65a1",
+            "directory": "External7",
+            "voiceContent": "Hold that pose",
+            "sourceName": "vo_charlotte_battle_skill1_03.wem"
+        },
+        "463fefb8bfe9d10c": {
+            "hash": "463fefb8bfe9d10c",
+            "directory": "External8",
+            "voiceContent": "Your credible source of the unbelievable truth! That's my journalistic motto. Hmm? ...Haha, yep, exactly — credible and incredible at the same time! What's that? ...Oh, if I had to choose, then obviously being credible is much more important! But most readers would sooner pay money for sensational stories than mundane facts... So we have to focus on the most incredible true stories to keep our readers engaged",
+            "sourceName": "vo_charlotte_dialog_share_01.wem"
+        },
+        "46416b021e3137cc": {
+            "hash": "46416b021e3137cc",
+            "directory": "External8",
+            "voiceContent": "Ooh! This looks alright",
+            "sourceName": "vo_charlotte_chest_open_01.wem"
+        },
+        "4b5ba31cda424519": {
+            "hash": "4b5ba31cda424519",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_01.wem"
+        },
+        "4dc94fb0ad755273": {
+            "hash": "4dc94fb0ad755273",
+            "directory": "External9",
+            "voiceContent": "Wait, how'd that happen!",
+            "sourceName": "vo_card_charlotte_inGame_hard_02.wem"
+        },
+        "515e2bceb1abe6e3": {
+            "hash": "515e2bceb1abe6e3",
+            "directory": "External10",
+            "voiceContent": "Brrr! My fingers are frozen stiff. I can barely manage to press the shutter button",
+            "sourceName": "vo_charlotte_weather_snowy_01.wem"
+        },
+        "54119b50151aac41": {
+            "hash": "54119b50151aac41",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackmid_01.wem"
+        },
+        "563e69a3a991e395": {
+            "hash": "563e69a3a991e395",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_breath_02.wem"
+        },
+        "56f6f0a86c55f273": {
+            "hash": "56f6f0a86c55f273",
+            "directory": "External10",
+            "voiceContent": "I knew that would come in handy",
+            "sourceName": "vo_card_charlotte_inGame_easy_01.wem"
+        },
+        "57b99add747390fe": {
+            "hash": "57b99add747390fe",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackheavy_03.wem"
+        },
+        "57ba66f10e84bd9a": {
+            "hash": "57ba66f10e84bd9a",
+            "directory": "External10",
+            "voiceContent": "I doubt anyone's still looking for these..",
+            "sourceName": "vo_charlotte_chest_open_03.wem"
+        },
+        "5b713eba28febad9": {
+            "hash": "5b713eba28febad9",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_fly_start_02.wem"
+        },
+        "5c7440096c4dedf9": {
+            "hash": "5c7440096c4dedf9",
+            "directory": "External11",
+            "voiceContent": "Happy Birthday! Did you read today's Steambird yet? I put a birthday greeting in there for you, hehe... Wait, you still haven't bought a copy? No problem, I picked one up before leaving the office. Look — here it is! I fought pretty hard to get it on this page",
+            "sourceName": "vo_charlotte_pref_birthday_01.wem"
+        },
+        "68c1659afb5654be": {
+            "hash": "68c1659afb5654be",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_jump_01.wem"
+        },
+        "718df73739a01b29": {
+            "hash": "718df73739a01b29",
+            "directory": "External14",
+            "voiceContent": "Take these photos to The Steambird..",
+            "sourceName": "vo_charlotte_life_die_01.wem"
+        },
+        "7245165bb8f2b34a": {
+            "hash": "7245165bb8f2b34a",
+            "directory": "External14",
+            "voiceContent": "Surprise, surprise — Lyney refused an interview with me once again. Do you know how many times that is now? ...Uh, actually, I've lost count. But never mind! Evading me only further confirms my suspicion that he's hiding the news story of a lifetime! As long as I keep digging, I'll find it — and when I do, it will shake the world like no other news report in history",
+            "sourceName": "vo_charlotte_teammate_lyney_01.wem"
+        },
+        "7943d13e06867306": {
+            "hash": "7943d13e06867306",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_sprint_start_02.wem"
+        },
+        "7ec86de1377cdff8": {
+            "hash": "7ec86de1377cdff8",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_06.wem"
+        },
+        "8420dd67f115491e": {
+            "hash": "8420dd67f115491e",
+            "directory": "External16",
+            "voiceContent": "Perfect lighting for a photo! C'mon, strike a pose. Don't forget to smile",
+            "sourceName": "vo_charlotte_weather_sunny_01.wem"
+        },
+        "866d2b262cd729af": {
+            "hash": "866d2b262cd729af",
+            "directory": "External16",
+            "voiceContent": "Headline... Still needs a headline..",
+            "sourceName": "vo_charlotte_life_die_03.wem"
+        },
+        "8bb9119b48de3a9c": {
+            "hash": "8bb9119b48de3a9c",
+            "directory": "External17",
+            "voiceContent": "Good night. You go get some rest — I gotta head to The Steambird offices to do some final proofreading of some articles. See you tomorrow",
+            "sourceName": "vo_charlotte_dialog_greetingNight2.wem"
+        },
+        "8d4b7ba83c29bdab": {
+            "hash": "8d4b7ba83c29bdab",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_01.wem"
+        },
+        "8e022ba0d23ab593": {
+            "hash": "8e022ba0d23ab593",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_l_03.wem"
+        },
+        "8eb6a1c8c53cfc5c": {
+            "hash": "8eb6a1c8c53cfc5c",
+            "directory": "External17",
+            "voiceContent": "Guess that magazine I read came in handy",
+            "sourceName": "vo_card_charlotte_inGame_hard_01.wem"
+        },
+        "8f2c17b27cbcb38d": {
+            "hash": "8f2c17b27cbcb38d",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_l_01.wem"
+        },
+        "904199d027d0b716": {
+            "hash": "904199d027d0b716",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_04.wem"
+        },
+        "9090bf1583166332": {
+            "hash": "9090bf1583166332",
+            "directory": "External18",
+            "voiceContent": "There's still news to report",
+            "sourceName": "vo_charlotte_life_less30_02.wem"
+        },
+        "933be52d03512dac": {
+            "hash": "933be52d03512dac",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_idle_01.wem"
+        },
+        "94d8eea86f8f7820": {
+            "hash": "94d8eea86f8f7820",
+            "directory": "External18",
+            "voiceContent": "Smile",
+            "sourceName": "vo_charlotte_battle_skill1_02.wem"
+        },
+        "97e442c0841d9c5c": {
+            "hash": "97e442c0841d9c5c",
+            "directory": "External18",
+            "voiceContent": "Wait, that wasn't right..",
+            "sourceName": "vo_card_charlotte_inGame_easy_02.wem"
+        },
+        "990e2ed22e9f9a7e": {
+            "hash": "990e2ed22e9f9a7e",
+            "directory": "External19",
+            "voiceContent": "There's plenty more where this came from",
+            "sourceName": "vo_card_charlotte_inGame_easy_04.wem"
+        },
+        "9d52b10051de7be8": {
+            "hash": "9d52b10051de7be8",
+            "directory": "External19",
+            "voiceContent": "Now that her father's name's been cleared, and the case of the serial disappearances of young women is resolved, I guess Navia must be able to finally breathe a little easier. I don't know why, but somehow, she's found herself at the epicenter of all sorts of bad news lately... Luckily for her, I've been snatching up all the articles that mention her and doing whatever damage control I can before they get published. Heh, and uh... then getting told off constantly by Euphrasie for interfering... But y'know, I think Navia deserves a break, so I'm happy to take one for the team. Also, she agreed to do an in-depth exclusive interview, which definitely sweetens the deal",
+            "sourceName": "vo_charlotte_teammate_navia_01.wem"
+        },
+        "a088deb31e54df7c": {
+            "hash": "a088deb31e54df7c",
+            "directory": "External20",
+            "voiceContent": "Good news — I've convinced Euphrasie to make you the next headliners of The Steambird! You'll be right up there on the front cover, there'll be a whole feature about you that I wrote myself, and— Huh? What do you mean, no need? C'mon, I've been pushing Euphrasie for ages on this! Can't you reconsider? I'll make it up to you, I promise! I'll treat you to a huge meal, pleeease",
+            "sourceName": "vo_charlotte_dialog_close1.wem"
+        },
+        "a143c3420171027a": {
+            "hash": "a143c3420171027a",
+            "directory": "External20",
+            "voiceContent": "I don't really care whether these hidden truths are significant, what they mean, or what the wider ramifications are... I just want to bring them into the light of day. To put it in adventurer terms, I guess for me... it's all about the thrill of the chase, and not the treasure at the end. I've also met a lot of people along the way all my Fontaine friends, Euphrasie, who believes I was born to be a journalist, and people like you, who join me in the search for the truth. Without everyone's help, I'd probably still be that nosy kid who runs around furiously snapping photos like a lunatic... Anywho... It's not often that I get to be the interviewee, but... this has been a real pleasure",
+            "sourceName": "vo_charlotte_friendship_05.wem"
+        },
+        "a1bbf57979b586aa": {
+            "hash": "a1bbf57979b586aa",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_jump_05.wem"
+        },
+        "a36ed4b413e305d3": {
+            "hash": "a36ed4b413e305d3",
+            "directory": "External20",
+            "voiceContent": "People aren't always very fond of journalists. You know what they say — lies are soft and malleable, but the truth is sharp and inflexible",
+            "sourceName": "vo_charlotte_dialog_idle.wem"
+        },
+        "a3df2417ed9ebb04": {
+            "hash": "a3df2417ed9ebb04",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_h_04.wem"
+        },
+        "a574f14fe9165c14": {
+            "hash": "a574f14fe9165c14",
+            "directory": "External20",
+            "voiceContent": "Holy smokes! My mind can think faster, my body has more energy... There's not a news story out there that can escape me now! But first things first — let's take a photo to commemorate this beautiful moment",
+            "sourceName": "vo_charlotte_starUp_04.wem"
+        },
+        "a7a52f40de9803a7": {
+            "hash": "a7a52f40de9803a7",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackmid_03.wem"
+        },
+        "a81ae11bf687dd7a": {
+            "hash": "a81ae11bf687dd7a",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_idle_03.wem"
+        },
+        "a86e10299b022f26": {
+            "hash": "a86e10299b022f26",
+            "directory": "External21",
+            "voiceContent": "My Kamera",
+            "sourceName": "vo_charlotte_battle_hit_H_02.wem"
+        },
+        "aa051d61967bf076": {
+            "hash": "aa051d61967bf076",
+            "directory": "External21",
+            "voiceContent": "So this stuff really does boost people's strength, huh? I thought it was all rumors, but now here I am, experiencing it for myself..",
+            "sourceName": "vo_charlotte_starUp_02.wem"
+        },
+        "b0cbbcd3f8867e87": {
+            "hash": "b0cbbcd3f8867e87",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackheavy_02.wem"
+        },
+        "b6f39d7316df9da2": {
+            "hash": "b6f39d7316df9da2",
+            "directory": "External22",
+            "voiceContent": "So... Did you get to meet the Duke in person? Yeah? Any nuggets of information that I should know about? Never mind the Credit Coupons, the Coupon Cafeteria, If a man will not work, he shall not eat... That's all just generic filler. I'm talking about personal anecdotes about the man of Meropide himself... What do you mean, confidentiality? Aw, not you, too! We had a deal! That does it — remember that gigantic feast I treated you to? I want my money back! Get your butts back to prison and do your time, you swindlers, you",
+            "sourceName": "vo_charlotte_teammate_wriothesley_01.wem"
+        },
+        "b8c52060296c2897": {
+            "hash": "b8c52060296c2897",
+            "directory": "External23",
+            "voiceContent": "I've met Freminet a few times since being introduced. He quickly took an interest in Monsieur Verite — that's my Kamera-slash-assistant — and even made a few improvements to my lenses. I gotta say, though, my heart was in my mouth watching him completely dismantle Monsieur Verite in a matter of seconds... Amazing he managed to reassemble it just as swiftly. He seems very experienced — I was convinced he must have graduated from the Fontaine Research Institute, but he denied it",
+            "sourceName": "vo_charlotte_teammate_freminet_01.wem"
+        },
+        "b98afd4950da5a2c": {
+            "hash": "b98afd4950da5a2c",
+            "directory": "External23",
+            "voiceContent": "Nearer to the action is closer to the truth",
+            "sourceName": "vo_charlotte_teamJoin_03.wem"
+        },
+        "b9b330e23f28197a": {
+            "hash": "b9b330e23f28197a",
+            "directory": "External23",
+            "voiceContent": "You're a good chef! Any interest in starting a culinary column in our paper? I know just how we could slot you in",
+            "sourceName": "vo_charlotte_spice_pref_01.wem"
+        },
+        "bf1e816baec24d71": {
+            "hash": "bf1e816baec24d71",
+            "directory": "External23",
+            "voiceContent": "When I first started working as a journalist, I didn't know anything about how to write the news, so I had to figure it all out for myself by reading articles by other people. As well as The Steambird, I also looked at some other independent publications out there, which tend to be more specialized. For example, there's The Observer for celebrity gossip, Leisure Weekly, which focuses on competitive sport and other entertainment news, Top Chef for those who like to read... all the food critiques in one place, and Bedazzled! which is just sort of a glorified rumor and speculation mill. I learned a whole lot from reading all those papers. Or... Well, I at least learned how to master a bunch of different writing styles",
+            "sourceName": "vo_charlotte_friendship_02.wem"
+        },
+        "bf3f552ef0f831cd": {
+            "hash": "bf3f552ef0f831cd",
+            "directory": "External23",
+            "voiceContent": "Hehe, sweet things are my weakness. However big the main meal, I can always manage a dessert or several. Or as my mother puts it... There's always a special place reserved in my stomach for dessert",
+            "sourceName": "vo_charlotte_pref_foodLike.wem"
+        },
+        "bf41ff73639999c9": {
+            "hash": "bf41ff73639999c9",
+            "directory": "External23",
+            "voiceContent": "To be honest... I'd prefer to have an Anemo Vision. Being able to fly around freely would make getting to interviews sooo much easier! A Cryo Vision's not too bad, though. At least I don't need to worry about my Kamera overheating",
+            "sourceName": "vo_charlotte_dialog_pendant_01.wem"
+        },
+        "c071f8891d07a971": {
+            "hash": "c071f8891d07a971",
+            "directory": "External24",
+            "voiceContent": "Alright, the time has come for your interview. Ready to be a star? Just follow my lead and try to look good for the Kamera! You too, Paimon — you have the power of flight! Could you try to make it look a little more exciting",
+            "sourceName": "vo_charlotte_dialog_close.wem"
+        },
+        "c2061224ac6deff3": {
+            "hash": "c2061224ac6deff3",
+            "directory": "External24",
+            "voiceContent": "I'm not writing your obituary",
+            "sourceName": "vo_charlotte_life_less30_teammate_02.wem"
+        },
+        "c2569d1c794a0a15": {
+            "hash": "c2569d1c794a0a15",
+            "directory": "External24",
+            "voiceContent": "I'm getting this all on Kamera..",
+            "sourceName": "vo_charlotte_life_less30_01.wem"
+        },
+        "c2fc73a329e98e61": {
+            "hash": "c2fc73a329e98e61",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_jump_02.wem"
+        },
+        "c94636bab9112ff4": {
+            "hash": "c94636bab9112ff4",
+            "directory": "External25",
+            "voiceContent": "Whewee... This is uh, a juicy news story... with a gut-wrenching conclusion..",
+            "sourceName": "vo_charlotte_spice_dislike_01.wem"
+        },
+        "ca723562f8b95dec": {
+            "hash": "ca723562f8b95dec",
+            "directory": "External25",
+            "voiceContent": "The Steambird is an excellent publication. They have many outstanding journalists and the Editor-in-Chief is always open to new ideas. But most importantly, they pay their writers on time",
+            "sourceName": "vo_charlotte_character_idle_03.wem"
+        },
+        "cc421db8f103086a": {
+            "hash": "cc421db8f103086a",
+            "directory": "External25",
+            "voiceContent": "How do you play this again..",
+            "sourceName": "vo_card_charlotte_inGame_hard_03.wem"
+        },
+        "ce69f938441109fa": {
+            "hash": "ce69f938441109fa",
+            "directory": "External25",
+            "voiceContent": "Let's get this interview started",
+            "sourceName": "vo_charlotte_teamJoin_01.wem"
+        },
+        "d01a69ca9486109e": {
+            "hash": "d01a69ca9486109e",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_l_06.wem"
+        },
+        "d0e52fabe9e14404": {
+            "hash": "d0e52fabe9e14404",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_breath_03.wem"
+        },
+        "d1439ddc3f06d640": {
+            "hash": "d1439ddc3f06d640",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_l_04.wem"
+        },
+        "d441b8ad8b68492a": {
+            "hash": "d441b8ad8b68492a",
+            "directory": "External26",
+            "voiceContent": "Emilie makes the best perfume in the whole Court of Fontaine. She introduced me to this amazing one the other day that works as an insect repellent, anti-perspirant, and deodorant all in one! It's a total life-saver for someone like me who spends so much time zooming around all over the place. I actually sprayed some on my wrist today... Go on, take a whiff, it's heavenly",
+            "sourceName": "vo_charlotte_teammate_emilie_01.wem"
+        },
+        "d9b3e4c26c5e9d58": {
+            "hash": "d9b3e4c26c5e9d58",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_fly_start_03.wem"
+        },
+        "db1775140df5ffb6": {
+            "hash": "db1775140df5ffb6",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_climb_02.wem"
+        },
+        "dbeb3151e90ce3ba": {
+            "hash": "dbeb3151e90ce3ba",
+            "directory": "External27",
+            "voiceContent": "If you keep your eyes peeled and your mind engaged, you'll find there's always a news story nearby just waiting to be discovered",
+            "sourceName": "vo_charlotte_character_idle_01.wem"
+        },
+        "e0789641ef34ffaf": {
+            "hash": "e0789641ef34ffaf",
+            "directory": "External28",
+            "voiceContent": "Spicy food doesn't agree with me at all. It's like my stomach is fitted with a super-sensitive spice detector or something, 'cause even the mildest hint of chili will set it off. One small bite and the stomachache begins... and it always lasts for like an entire day, ugh..",
+            "sourceName": "vo_charlotte_pref_foodDislike.wem"
+        },
+        "e2531a8c16f2c1c2": {
+            "hash": "e2531a8c16f2c1c2",
+            "directory": "External28",
+            "voiceContent": "Breaking news",
+            "sourceName": "vo_charlotte_battle_skill3_02.wem"
+        },
+        "e3d5edc0f14f5534": {
+            "hash": "e3d5edc0f14f5534",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attacklight_02.wem"
+        },
+        "e987ff46d2d2b969": {
+            "hash": "e987ff46d2d2b969",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_sprint_start_01.wem"
+        },
+        "ea1b9be29e523321": {
+            "hash": "ea1b9be29e523321",
+            "directory": "External29",
+            "voiceContent": "Here comes the highlight of the match",
+            "sourceName": "vo_card_charlotte_inGame_hard_04.wem"
+        },
+        "ed02d7d45918768c": {
+            "hash": "ed02d7d45918768c",
+            "directory": "External29",
+            "voiceContent": "If you want to interview the Iudex, you have to provide all the interview questions in advance and get them reviewed by the relevant department at the Palais Mermonia, who decide which questions to approve and which ones you're not allowed to ask... It's their way of making sure the interview goes off without a hitch. It's such a rigmarole. I'm losing the will to live just talking about it",
+            "sourceName": "vo_charlotte_teammate_neuvillette_01.wem"
+        },
+        "ee9310b15f959e76": {
+            "hash": "ee9310b15f959e76",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_fly_start_01.wem"
+        },
+        "ef42a259517cfa01": {
+            "hash": "ef42a259517cfa01",
+            "directory": "External29",
+            "voiceContent": "I did a little snooping around at Chioriya Boutique once. Aside from the wealthy housewives of Fontaine and the box-ticking tourists from overseas, some of the regular customers there look like really rough characters! Big muscly types with scars on their face, guys in masks and hats with their swords drawn... But they always come bearing gifts and acting like humble servants. Uh... Well, mostly. Anyone with a bad attitude is literally sent flying back out the door. Seriously! I snapped a photo of a guy being thrown out once, he was like four feet in the air",
+            "sourceName": "vo_charlotte_teammate_chiori_01.wem"
+        },
+        "f28756805a05e638": {
+            "hash": "f28756805a05e638",
+            "directory": "External30",
+            "voiceContent": "Hi there! I'm Charlotte, a journalist with The Steambird. It's a pleasure to meet you. If you've got time, would you be open to doing an exclusive interview? My journalistic instincts tell me that there's a treasure trove of news in you just bursting to get out",
+            "sourceName": "vo_charlotte_draw_appear_01.wem"
+        },
+        "f6b8f5388271a043": {
+            "hash": "f6b8f5388271a043",
+            "directory": "External30",
+            "voiceContent": "I've always been a very curious person. Even as a kid, long before I ever thought about going into journalism, I was always convinced that secrets and mysteries were lurking in every corner... To me, the world is a giant hoard of hidden treasure, with countless stories waiting to be uncovered. Every time I see something where I think a secret might be hiding, I snap a photo with my Kamera and add it to my collection. These photos are like my own personal treasure map... and I'm constantly going back to them, trying new ways to decipher them and expose the truth",
+            "sourceName": "vo_charlotte_friendship_04.wem"
+        },
+        "f7728008b71bb3b2": {
+            "hash": "f7728008b71bb3b2",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_hit_h_06.wem"
+        },
+        "f9d68d47e687729e": {
+            "hash": "f9d68d47e687729e",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_battle_attackmid_02.wem"
+        },
+        "fa56e076bc91b3a6": {
+            "hash": "fa56e076bc91b3a6",
+            "directory": "External31",
+            "voiceContent": "Allow me to introduce the one and only Monsieur Verite. He's not just any Kamera — he's my trusty companion and assistant. See his little hat and bow tie? I had those custom made by Chiori. Pretty neat, huh? I've got loads of other outfits for him too, all in different styles. He comes dressed to impress for every interview, whatever the occasion",
+            "sourceName": "vo_charlotte_pref_gift_01.wem"
+        },
+        "fb013335c3269eef": {
+            "hash": "fb013335c3269eef",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_sprint_start_03.wem"
+        },
+        "fd474083e4827a2d": {
+            "hash": "fd474083e4827a2d",
+            "directory": "External31",
+            "voiceContent": "I've ended up with a less-than-favorable reputation in some people's eyes — I think it's because I can sometimes be a little bit, um... intense in interviews. Now, whenever I show up to interview someone, they're always really wary of me... *sigh* But in my defense, with some people, you really have to put the pressure on or they won't open up..",
+            "sourceName": "vo_charlotte_dialog_annoyed_01.wem"
+        },
+        "fd90131277887b43": {
+            "hash": "fd90131277887b43",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_charlotte_explore_idle_02.wem"
+        },
+        "ffafff5817a995df": {
+            "hash": "ffafff5817a995df",
+            "directory": "External31",
+            "voiceContent": "Have you done this for other people in the past, too? Were the materials you used different, and if so, how? Also, I'm wondering... Uh, sorry. Force of habit",
+            "sourceName": "vo_charlotte_starUp_03.wem"
+        },
+        "ffdbecc3f82b8f94": {
+            "hash": "ffdbecc3f82b8f94",
+            "directory": "External31",
+            "voiceContent": "Time for an evening chat. Any stories you're willing to share? I'd love to hear them. ...Oh, don't worry, I won't print any of them without your permission. You have my word",
+            "sourceName": "vo_charlotte_dialog_greetingNight.wem"
         }
     }
 }

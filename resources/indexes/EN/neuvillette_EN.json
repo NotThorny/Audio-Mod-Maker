@@ -1,223 +1,607 @@
 {
     "Teapot": {},
     "Quests": {
-        "a8e3c424150b52bf": {
-            "hash": "a8e3c424150b52bf",
-            "directory": "External21",
-            "voiceContent": "This eruption was just a small warning of the things to come. We must find the root cause of the disaster...",
-            "sourceName": "vo_FDAQ308_7_neuvillette_01.wem"
-        },
-        "85d01d5ff6c952b7": {
-            "hash": "85d01d5ff6c952b7",
-            "directory": "External16",
-            "voiceContent": "I can feel its sorrow turning into hostility.",
-            "sourceName": "vo_FDAQ306_12_neuvillette_10.wem"
+        "0412bb683a2927ae": {
+            "hash": "0412bb683a2927ae",
+            "directory": "External0",
+            "voiceContent": "The All-Devouring Narwhal cannot resist its instinct to devour. Continue to trigger its hostility, and a chance will present itself..",
+            "sourceName": "vo_FDAQ306_12_neuvillette_11.wem"
         },
         "323c896f2d4bfb51": {
             "hash": "323c896f2d4bfb51",
             "directory": "External6",
-            "voiceContent": "I have granted you my protection. Do not fear. Seize the moment and use my power to suppress its root from within.",
+            "voiceContent": "I have granted you my protection. Do not fear. Seize the moment and use my power to suppress its root from within",
             "sourceName": "vo_FDAQ306_12_neuvillette_12.wem"
+        },
+        "85d01d5ff6c952b7": {
+            "hash": "85d01d5ff6c952b7",
+            "directory": "External16",
+            "voiceContent": "I can feel its sorrow turning into hostility",
+            "sourceName": "vo_FDAQ306_12_neuvillette_10.wem"
+        },
+        "a8e3c424150b52bf": {
+            "hash": "a8e3c424150b52bf",
+            "directory": "External21",
+            "voiceContent": "This eruption was just a small warning of the things to come. We must find the root cause of the disaster..",
+            "sourceName": "vo_FDAQ308_7_neuvillette_01.wem"
         },
         "b07f2f7770abddd0": {
             "hash": "b07f2f7770abddd0",
             "directory": "External22",
-            "voiceContent": "Manifest the authority of the ancient dragons. Witness the might of the Primordial Sea.",
+            "voiceContent": "Manifest the authority of the ancient dragons. Witness the might of the Primordial Sea",
             "sourceName": "vo_FDAQ306_12_neuvillette_13.wem"
-        },
-        "0412bb683a2927ae": {
-            "hash": "0412bb683a2927ae",
-            "directory": "External0",
-            "voiceContent": "The All-Devouring Narwhal cannot resist its instinct to devour. Continue to trigger its hostility, and a chance will present itself...",
-            "sourceName": "vo_FDAQ306_12_neuvillette_11.wem"
         }
     },
     "Gameplay": {
-        "11b42c469b734559": {
-            "hash": "11b42c469b734559",
-            "directory": "External2",
-            "voiceContent": "Silence!",
-            "sourceName": "vo_neuvillette_battle_skill1_01.wem"
+        "03f87814b3eed2ef": {
+            "hash": "03f87814b3eed2ef",
+            "directory": "External0",
+            "voiceContent": "I'm a little more familiar with you now. I can match your movements",
+            "sourceName": "vo_neuvillette_starUp_01.wem"
         },
-        "a4d5fe3dd20a28f6": {
-            "hash": "a4d5fe3dd20a28f6",
-            "directory": "External20",
-            "voiceContent": "Bow your head.",
-            "sourceName": "vo_neuvillette_battle_skill1_02.wem"
+        "0636422d2b46ad94": {
+            "hash": "0636422d2b46ad94",
+            "directory": "External0",
+            "voiceContent": "The risk is growing, but it poses no threat to me",
+            "sourceName": "vo_neuvillette_life_less30_02.wem"
         },
-        "fa80e0345337ce5f": {
-            "hash": "fa80e0345337ce5f",
-            "directory": "External31",
-            "voiceContent": "Settle down.",
-            "sourceName": "vo_neuvillette_battle_skill1_03.wem"
-        },
-        "8aa877c4dd34c79b": {
-            "hash": "8aa877c4dd34c79b",
-            "directory": "External17",
-            "voiceContent": "The tides beckon.",
-            "sourceName": "vo_neuvillette_battle_skill3_01.wem"
+        "06ce8a5cf317f17e": {
+            "hash": "06ce8a5cf317f17e",
+            "directory": "External0",
+            "voiceContent": "Fontaine does have some rather intriguing laws on its books. For instance, it is forbidden to release any flying objects during the first three days of each month, during the dry season, all bivalves that wash ashore belong to the Hydro Archon, while other mollusks belong to the people, no domestic pets shall be named after Furina, tomato ketchup is to be consumed in restaurants only as a condiment, never on its own, and, finally, Melusines are to be addressed using she/her pronouns, never the impersonal it/its... That last one was my personal contribution",
+            "sourceName": "vo_neuvillette_dialog_share_01.wem"
         },
         "09de29decae79c24": {
             "hash": "09de29decae79c24",
             "directory": "External1",
-            "voiceContent": "Be sanctified.",
+            "voiceContent": "Be sanctified",
             "sourceName": "vo_neuvillette_battle_skill3_02.wem"
         },
-        "8bd263d687b6c5b5": {
-            "hash": "8bd263d687b6c5b5",
-            "directory": "External17",
-            "voiceContent": "Let the mighty be humbled.",
-            "sourceName": "vo_neuvillette_battle_skill3_03.wem"
-        },
-        "ea873ed63b849136": {
-            "hash": "ea873ed63b849136",
-            "directory": "External29",
-            "voiceContent": "Abandoned property belongs to whoever finds it first. So it's legally yours now.",
-            "sourceName": "vo_neuvillette_chest_open_01.wem"
-        },
-        "5acb6cdf07d0d699": {
-            "hash": "5acb6cdf07d0d699",
-            "directory": "External11",
-            "voiceContent": "Is it what you wished to find? Hopefully, the excitement of opening a treasure chest has at least made it a worthwhile experience.",
-            "sourceName": "vo_neuvillette_chest_open_02.wem"
-        },
-        "d90e12e74b30b918": {
-            "hash": "d90e12e74b30b918",
-            "directory": "External27",
-            "voiceContent": "Let the record show that I verbally consent to relinquishing these items into your possession.",
-            "sourceName": "vo_neuvillette_chest_open_03.wem"
-        },
-        "0c9b30cfa6f75332": {
-            "hash": "0c9b30cfa6f75332",
+        "0a12f3c48ef3d62c": {
+            "hash": "0a12f3c48ef3d62c",
             "directory": "External1",
-            "voiceContent": "Allow me to intervene.",
-            "sourceName": "vo_neuvillette_life_less30_teammate_01.wem"
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attackheavy_03.wem"
         },
-        "3e610ed69d2afa15": {
-            "hash": "3e610ed69d2afa15",
-            "directory": "External7",
-            "voiceContent": "Take a moment to rest.",
-            "sourceName": "vo_neuvillette_life_less30_teammate_02.wem"
-        },
-        "5f476367556f3e8f": {
-            "hash": "5f476367556f3e8f",
-            "directory": "External11",
-            "voiceContent": "When the tide comes in, I shall return...",
-            "sourceName": "vo_neuvillette_life_die_01.wem"
-        },
-        "9fff957f6d0ad648": {
-            "hash": "9fff957f6d0ad648",
-            "directory": "External19",
-            "voiceContent": "I see the temperate waters of eons past...",
-            "sourceName": "vo_neuvillette_life_die_02.wem"
-        },
-        "e038be591e26fd3b": {
-            "hash": "e038be591e26fd3b",
-            "directory": "External28",
-            "voiceContent": "Thank you for permitting— No, inviting me to join you.",
-            "sourceName": "vo_neuvillette_teamJoin_01.wem"
+        "0a320e10654711e8": {
+            "hash": "0a320e10654711e8",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attackmid_02.wem"
         },
         "0ab0f07097da7c44": {
             "hash": "0ab0f07097da7c44",
             "directory": "External1",
-            "voiceContent": "The pleasure is all mine.",
+            "voiceContent": "The pleasure is all mine",
             "sourceName": "vo_neuvillette_teamJoin_02.wem"
         },
-        "8ca52a6854a9a5d5": {
-            "hash": "8ca52a6854a9a5d5",
-            "directory": "External17",
-            "voiceContent": "Perhaps we could take a walk by a riverbank or somewhere similarly fluvial.",
-            "sourceName": "vo_neuvillette_teamJoin_03.wem"
+        "0c9b30cfa6f75332": {
+            "hash": "0c9b30cfa6f75332",
+            "directory": "External1",
+            "voiceContent": "Allow me to intervene",
+            "sourceName": "vo_neuvillette_life_less30_teammate_01.wem"
         },
-        "7f1ca280e31e5544": {
-            "hash": "7f1ca280e31e5544",
-            "directory": "External15",
-            "voiceContent": "I see the value in my own work, but I also see the meaning in all the endeavors of the people of Fontaine. I believe I will continue to take pride in fulfilling my duties.",
-            "sourceName": "vo_neuvillette_character_idle_01.wem"
+        "0d770262d4d41a03": {
+            "hash": "0d770262d4d41a03",
+            "directory": "External1",
+            "voiceContent": "This is something that I can only say in private — I could never publicly share my views on this matter It positively baffles me that Fonta has managed to become such a popular drink. Though, I suppose its appeal to humans is not beyond comprehension. One can both rehydrate and replenish blood sugar in one gulp, and at an exceptionally cheap price",
+            "sourceName": "vo_neuvillette_friendship_02.wem"
         },
-        "54a47069696ad63b": {
-            "hash": "54a47069696ad63b",
-            "directory": "External10",
-            "voiceContent": "Water comes in many flavors to the discerning palate. Mondstadt's water is crisp and pure, while water from Liyue has an enduring aftertaste. In Inazuma, the water possesses a depth of flavor unlike any other. Sumeru's water, meanwhile, has a rich and complex flavor profile, but it must be savored patiently to fully appreciate it.",
-            "sourceName": "vo_neuvillette_character_idle_02.wem"
+        "0e5dcb9350d0234c": {
+            "hash": "0e5dcb9350d0234c",
+            "directory": "External1",
+            "voiceContent": "As a survivor of the dragon race who has regained my full dragonhood, I must fulfill my oaths and obligations even if it means returning all the water in the oceans back to the heavens. In taking the Authority of Electro, the Narukami placed herself on the list of the usurpers, she will... Oh, you say she has isolated herself in the Plane of Euthymia, and now rarely appears in public? Then I shall pay her a visit in another few centuries",
+            "sourceName": "vo_neuvillette_teammate_raidenShogun_01.wem"
         },
-        "cf4afe71a9b9d7f2": {
-            "hash": "cf4afe71a9b9d7f2",
-            "directory": "External25",
-            "voiceContent": "Melusines are beautiful creatures. They are the pride of Fontaine. Be sure to befriend them, and cause them no harm.",
-            "sourceName": "vo_neuvillette_character_idle_03.wem"
+        "0edf628844a9789a": {
+            "hash": "0edf628844a9789a",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attacklight_02.wem"
         },
-        "49397ad7f3c3b026": {
-            "hash": "49397ad7f3c3b026",
-            "directory": "External9",
-            "voiceContent": "Ah, my apologies. This heavy rain must be quite an inconvenience for you.",
-            "sourceName": "vo_neuvillette_weather_heavyRain_01.wem"
-        },
-        "8e74b353d6c9abcf": {
-            "hash": "8e74b353d6c9abcf",
-            "directory": "External17",
-            "voiceContent": "It's over...",
-            "sourceName": "vo_neuvillette_weather_afterRain_01.wem"
-        },
-        "3d3a89dde72c6728": {
-            "hash": "3d3a89dde72c6728",
-            "directory": "External7",
-            "voiceContent": "I find that the, um... beauty of bright sunlight is best appreciated from the indoors through a window.",
-            "sourceName": "vo_neuvillette_weather_sunny_01.wem"
-        },
-        "fdcda3b8c4defa1d": {
-            "hash": "fdcda3b8c4defa1d",
-            "directory": "External31",
-            "voiceContent": "What's that saying again... A bolt from the blue? Yes, yes, I believe that captures how it feels to me.",
-            "sourceName": "vo_neuvillette_weather_thunder_01.wem"
-        },
-        "fbf0eaf840e29d19": {
-            "hash": "fbf0eaf840e29d19",
-            "directory": "External31",
-            "voiceContent": "Snow is in fact one of water's natural self-cleansing mechanisms. But human activity tends to reduce snow's purity, so do not consume it.",
-            "sourceName": "vo_neuvillette_weather_snowy_01.wem"
-        },
-        "c4e2f432cc4422ac": {
-            "hash": "c4e2f432cc4422ac",
-            "directory": "External24",
-            "voiceContent": "Good morning. I hope you have a wonderful day.",
-            "sourceName": "vo_neuvillette_dialog_greetingMorning.wem"
+        "11b42c469b734559": {
+            "hash": "11b42c469b734559",
+            "directory": "External2",
+            "voiceContent": "Silence",
+            "sourceName": "vo_neuvillette_battle_skill1_01.wem"
         },
         "139171b6ce9a5f48": {
             "hash": "139171b6ce9a5f48",
             "directory": "External2",
-            "voiceContent": "Ah, it's past noon. You must be looking forward to your afternoon tea or coffee break? I certainly am.",
+            "voiceContent": "Ah, it's past noon. You must be looking forward to your afternoon tea or coffee break? I certainly am",
             "sourceName": "vo_neuvillette_dialog_greetingNoon.wem"
         },
-        "ffa7a12359f15966": {
-            "hash": "ffa7a12359f15966",
-            "directory": "External31",
-            "voiceContent": "Good evening. I hope you have not encountered any unpleasantness today.",
-            "sourceName": "vo_neuvillette_dialog_greetingNight.wem"
+        "1479697f981c1226": {
+            "hash": "1479697f981c1226",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_climb_breath_03.wem"
+        },
+        "1e3cf1d18b25bda0": {
+            "hash": "1e3cf1d18b25bda0",
+            "directory": "External3",
+            "voiceContent": "Water tasting is a rather sophisticated discipline. Pyro-heated water has the standard au naturel flavor found ubiquitously in the natural world, while water boiled using charcoal has distinctly rustic notes. Similarly, while Cryo-chilled water is cold but otherwise unremarkable, the frozen rivers of Snezhnaya, when melted, produce a water with an entirely different flavor profile altogether",
+            "sourceName": "vo_neuvillette_pref_hobby.wem"
+        },
+        "1ef1efb3822a85fa": {
+            "hash": "1ef1efb3822a85fa",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attackheavy_01.wem"
+        },
+        "21721f0a72279ed7": {
+            "hash": "21721f0a72279ed7",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_climb_01.wem"
+        },
+        "229c0b1c1ca99cf1": {
+            "hash": "229c0b1c1ca99cf1",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_climb_03.wem"
+        },
+        "25eb883b21ccd9f8": {
+            "hash": "25eb883b21ccd9f8",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_jump_05.wem"
+        },
+        "301f20b1f4dc3991": {
+            "hash": "301f20b1f4dc3991",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attacklight_05.wem"
+        },
+        "3080849c9a1ad58a": {
+            "hash": "3080849c9a1ad58a",
+            "directory": "External6",
+            "voiceContent": "This is a topic that has been discussed ad nauseum... I don't mean to condescend to humanity, but it is quite clear to me that society's concepts of justice, fairness, equality, and rule of law are not equivalent, and never can be. Now of course, water always seeks its own level, and it was in this spirit that the previous Hydro Archon, Egeria, hoped to achieve universal equality by connecting all things with love. Her successor chose instead to seek equality by means of the law. Ultimately, due to various external factors, this unfortunately manifested itself in the distorted form of trials for the sake of trials. Nevertheless, there are reasons for everything. I suppose I should refrain from criticizing her",
+            "sourceName": "vo_neuvillette_dialog_idle3.wem"
+        },
+        "3301364cc5fe4bc5": {
+            "hash": "3301364cc5fe4bc5",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_hit_h_03.wem"
+        },
+        "33e00e44363c8e0b": {
+            "hash": "33e00e44363c8e0b",
+            "directory": "External6",
+            "voiceContent": "Clorinde's peerless skills have made her the most powerful Champion Duelist in our nation. As a successor to the Marechaussee Hunters of old, she plays a vital role in ensuring the fairness and impartiality of the courtroom. Also, she's actually not as stoic as she might appear",
+            "sourceName": "vo_neuvillette_teammate_clorinde_01.wem"
+        },
+        "346e96022679b7ab": {
+            "hash": "346e96022679b7ab",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_jump_02.wem"
+        },
+        "34cf7b9cb0559c44": {
+            "hash": "34cf7b9cb0559c44",
+            "directory": "External6",
+            "voiceContent": "Delicious. An abundance of juices, and the ingredients have been cooked to perfection",
+            "sourceName": "vo_neuvillette_spice_pref_01.wem"
+        },
+        "369ccfd100781018": {
+            "hash": "369ccfd100781018",
+            "directory": "External6",
+            "voiceContent": "My apologies",
+            "sourceName": "vo_card_neuvillette_inGame_hard_01.wem"
+        },
+        "375b0a5e7335ba3f": {
+            "hash": "375b0a5e7335ba3f",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_hit_h_05.wem"
+        },
+        "3874e6790c5acdde": {
+            "hash": "3874e6790c5acdde",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_idle_01.wem"
+        },
+        "39d4eed5332e1b6b": {
+            "hash": "39d4eed5332e1b6b",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_fly_start_02.wem"
+        },
+        "3ae5ca00d7346408": {
+            "hash": "3ae5ca00d7346408",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_hit_l_02.wem"
+        },
+        "3d051a8ab9c06e80": {
+            "hash": "3d051a8ab9c06e80",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_idle_03.wem"
+        },
+        "3d3a89dde72c6728": {
+            "hash": "3d3a89dde72c6728",
+            "directory": "External7",
+            "voiceContent": "I find that the, um... beauty of bright sunlight is best appreciated from the indoors through a window",
+            "sourceName": "vo_neuvillette_weather_sunny_01.wem"
+        },
+        "3db21167104d885f": {
+            "hash": "3db21167104d885f",
+            "directory": "External7",
+            "voiceContent": "The Pyro Archon triumphed over the Abyss by leveraging rules and legacy — a truly commendable feat. Yet, holding an Authority seized from the dragons remains an unpardonable sin. I recognize, however, that Natlan has experienced great suffering, so I am in no hurry to act. Hm? You claim that historical records describe the battle against Xbalanque as a formal duel, and the victim's family was treated fairly? Complicated indeed, but a worthwhile consideration nonetheless..",
+            "sourceName": "vo_neuvillette_teammate_mavuika_01.wem"
+        },
+        "3e610ed69d2afa15": {
+            "hash": "3e610ed69d2afa15",
+            "directory": "External7",
+            "voiceContent": "Take a moment to rest",
+            "sourceName": "vo_neuvillette_life_less30_teammate_02.wem"
+        },
+        "433bca6df56b8bce": {
+            "hash": "433bca6df56b8bce",
+            "directory": "External8",
+            "voiceContent": "Nothing will stop me from rendering judgment on each of The Seven. As the Archon who won the Authority of Geo, Deus Auri must be called to trial. If one does not wish to see us on opposite sides of a conflict, they need not worry, for I intend to stay in Fontaine for the foreseeable future, which could well mean another four hundred years. As another point of consolation, even when the trial eventually takes place, it is still not a given that the judgment will lead to a physical confrontation",
+            "sourceName": "vo_neuvillette_teammate_zhongli_01.wem"
+        },
+        "4815fbbff0cbe836": {
+            "hash": "4815fbbff0cbe836",
+            "directory": "External9",
+            "voiceContent": "...A grave oversight",
+            "sourceName": "vo_card_neuvillette_inGame_hard_03.wem"
+        },
+        "49397ad7f3c3b026": {
+            "hash": "49397ad7f3c3b026",
+            "directory": "External9",
+            "voiceContent": "Ah, my apologies. This heavy rain must be quite an inconvenience for you",
+            "sourceName": "vo_neuvillette_weather_heavyRain_01.wem"
+        },
+        "4ccf17c7dec4d83b": {
+            "hash": "4ccf17c7dec4d83b",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_hit_l_05.wem"
+        },
+        "4dce2f78651b5909": {
+            "hash": "4dce2f78651b5909",
+            "directory": "External9",
+            "voiceContent": "A silence fills the air..",
+            "sourceName": "vo_neuvillette_life_die_03.wem"
+        },
+        "50b8349e419fcdb0": {
+            "hash": "50b8349e419fcdb0",
+            "directory": "External10",
+            "voiceContent": "I have to say, my daily life is not without its inconveniences. For instance, I often find myself stepping on my robes as I sit down, or squashing my coiffure against the chair. And if I lean my head too far back, sometimes my hair even gets caught in the ornamentation. Nevertheless, I must wear these garments to maintain the dignity of a Chief Justice, and endure whatever inconveniences this entails. Incidentally, the world at large appears to operate on this general principle, too. Everyone is faced with an identity that they must accept, endure, understand, and eventually learn to co-exist with. This has been my experience all along",
+            "sourceName": "vo_neuvillette_friendship_05.wem"
+        },
+        "545d97fd4ae99cdd": {
+            "hash": "545d97fd4ae99cdd",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_sprint_start_03.wem"
+        },
+        "54a47069696ad63b": {
+            "hash": "54a47069696ad63b",
+            "directory": "External10",
+            "voiceContent": "Water comes in many flavors to the discerning palate. Mondstadt's water is crisp and pure, while water from Liyue has an enduring aftertaste. In Inazuma, the water possesses a depth of flavor unlike any other. Sumeru's water, meanwhile, has a rich and complex flavor profile, but it must be savored patiently to fully appreciate it",
+            "sourceName": "vo_neuvillette_character_idle_02.wem"
+        },
+        "5acb6cdf07d0d699": {
+            "hash": "5acb6cdf07d0d699",
+            "directory": "External11",
+            "voiceContent": "Is it what you wished to find? Hopefully, the excitement of opening a treasure chest has at least made it a worthwhile experience",
+            "sourceName": "vo_neuvillette_chest_open_02.wem"
+        },
+        "5f476367556f3e8f": {
+            "hash": "5f476367556f3e8f",
+            "directory": "External11",
+            "voiceContent": "When the tide comes in, I shall return..",
+            "sourceName": "vo_neuvillette_life_die_01.wem"
+        },
+        "5fdd2806e6751629": {
+            "hash": "5fdd2806e6751629",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attackmid_03.wem"
+        },
+        "6109986521ab2a21": {
+            "hash": "6109986521ab2a21",
+            "directory": "External12",
+            "voiceContent": "Some days, my mind wanders, and I fantasize about walking into the rain... *sigh* Ah, but don't worry, my flights of fancy don't distract me from my work",
+            "sourceName": "vo_neuvillette_dialog_share_02.wem"
+        },
+        "6b4aca5948a9ffb3": {
+            "hash": "6b4aca5948a9ffb3",
+            "directory": "External13",
+            "voiceContent": "I was once advised to wear a counterfeit Vision, so that I might more easily intervene during moments of crisis. To be quite frank, I was not enamored by this suggestion, nor the implication that one must only exercise the power that is rightfully theirs under false pretenses. With that said, however, I have developed a newfound appreciation for the value of human yearning and determination having spent considerable time around Vision-bearing humans",
+            "sourceName": "vo_neuvillette_dialog_pendant_01.wem"
+        },
+        "6c4a809075f2669d": {
+            "hash": "6c4a809075f2669d",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attacklight_01.wem"
         },
         "6ef96afb975591ce": {
             "hash": "6ef96afb975591ce",
             "directory": "External13",
-            "voiceContent": "Good night. I am quite fond of the image of a perfectly still body of water, and it is on this note that I would like to wish you a peaceful, undisturbed sleep. May no waves of emotional distress ripple through your dreams tonight.",
+            "voiceContent": "Good night. I am quite fond of the image of a perfectly still body of water, and it is on this note that I would like to wish you a peaceful, undisturbed sleep. May no waves of emotional distress ripple through your dreams tonight",
             "sourceName": "vo_neuvillette_dialog_greetingNight2.wem"
         },
-        "ef37ed735437d9f1": {
-            "hash": "ef37ed735437d9f1",
-            "directory": "External29",
-            "voiceContent": "I am no rabid fan of trials. I preside over them only out of duty, for this is the task that has been entrusted to me.",
-            "sourceName": "vo_neuvillette_dialog_idle.wem"
+        "71f500b5cc8a77fc": {
+            "hash": "71f500b5cc8a77fc",
+            "directory": "External14",
+            "voiceContent": "The Vishaps' ancestry can be traced directly back to the Fontemer, which is why they are so adept at evolution. I am reminded of an old custom that the dragons once observed We would take a sip of our perished young brethren's blood. Whenever the tides are disrupted by the motion of the moon and stars, the water within the bodies of us Hydro organisms surges up towards our heads, reminding us that our deceased kin will soon be revived",
+            "sourceName": "vo_neuvillette_pref_gift_01.wem"
         },
-        "b56cb694596e9593": {
-            "hash": "b56cb694596e9593",
-            "directory": "External22",
-            "voiceContent": "So you have heard of that local legend as well? *sigh* Who told you about that? Or more pertinently, who was responsible for spreading it in the first place... Well, never mind. I don't think that the Hydro Dragon would weep, per se. I think he just finds himself a little stirred when he gets a taste of the tears that have been shed on this land, on account of all the emotions they contain.",
-            "sourceName": "vo_neuvillette_dialog_idle2.wem"
+        "74ac7c7687ece238": {
+            "hash": "74ac7c7687ece238",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_hit_h_06.wem"
+        },
+        "74bc5bf5d9ac24af": {
+            "hash": "74bc5bf5d9ac24af",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attackmid_01.wem"
+        },
+        "774749df58785744": {
+            "hash": "774749df58785744",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_hit_l_06.wem"
+        },
+        "78f70dbbb0904afd": {
+            "hash": "78f70dbbb0904afd",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attackheavy_02.wem"
+        },
+        "7bd5f256f2d62a4b": {
+            "hash": "7bd5f256f2d62a4b",
+            "directory": "External15",
+            "voiceContent": "People seem to respond to the sight of a man in the rain without an umbrella as if it were some sort of strange spectacle",
+            "sourceName": "vo_neuvillette_dialog_annoyed_01.wem"
+        },
+        "7cee191a73055105": {
+            "hash": "7cee191a73055105",
+            "directory": "External15",
+            "voiceContent": "How can people bring themselves to consume deep-fried foods? Or grilled food with no sauce? The worst culprits in my view are those Charcoal-Baked Ajilenakh Cakes. Surely, even eating a dehumidifying agent would be kinder on the stomach",
+            "sourceName": "vo_neuvillette_pref_foodDislike.wem"
+        },
+        "7f1ca280e31e5544": {
+            "hash": "7f1ca280e31e5544",
+            "directory": "External15",
+            "voiceContent": "I see the value in my own work, but I also see the meaning in all the endeavors of the people of Fontaine. I believe I will continue to take pride in fulfilling my duties",
+            "sourceName": "vo_neuvillette_character_idle_01.wem"
+        },
+        "83b3b4a2be5b44f7": {
+            "hash": "83b3b4a2be5b44f7",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attacklight_07.wem"
+        },
+        "86958a3d8f7ce9eb": {
+            "hash": "86958a3d8f7ce9eb",
+            "directory": "External16",
+            "voiceContent": "Justice is blindsided..",
+            "sourceName": "vo_neuvillette_battle_hit_H_01.wem"
+        },
+        "898ba8657b23e356": {
+            "hash": "898ba8657b23e356",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_hit_h_04.wem"
+        },
+        "89cf2409311d5f62": {
+            "hash": "89cf2409311d5f62",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_jump_03.wem"
+        },
+        "8aa877c4dd34c79b": {
+            "hash": "8aa877c4dd34c79b",
+            "directory": "External17",
+            "voiceContent": "The tides beckon",
+            "sourceName": "vo_neuvillette_battle_skill3_01.wem"
+        },
+        "8af9081adb9f4f34": {
+            "hash": "8af9081adb9f4f34",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_jump_01.wem"
+        },
+        "8bcf7cdc3aee9922": {
+            "hash": "8bcf7cdc3aee9922",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_fly_start_03.wem"
+        },
+        "8bd263d687b6c5b5": {
+            "hash": "8bd263d687b6c5b5",
+            "directory": "External17",
+            "voiceContent": "Let the mighty be humbled",
+            "sourceName": "vo_neuvillette_battle_skill3_03.wem"
+        },
+        "8ca52a6854a9a5d5": {
+            "hash": "8ca52a6854a9a5d5",
+            "directory": "External17",
+            "voiceContent": "Perhaps we could take a walk by a riverbank or somewhere similarly fluvial",
+            "sourceName": "vo_neuvillette_teamJoin_03.wem"
+        },
+        "8cf860ede56ed6f4": {
+            "hash": "8cf860ede56ed6f4",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_fly_start_01.wem"
+        },
+        "8e74b353d6c9abcf": {
+            "hash": "8e74b353d6c9abcf",
+            "directory": "External17",
+            "voiceContent": "It's over..",
+            "sourceName": "vo_neuvillette_weather_afterRain_01.wem"
+        },
+        "8e80104b3b73077f": {
+            "hash": "8e80104b3b73077f",
+            "directory": "External17",
+            "voiceContent": "I shall fulfill my vow to judge all of The Seven in turn, even if the sky should fall and the ground give way. As the recipient of the Authority of Anemo, the God of Breeze and Hope must also stand trial. ...Hmm? He spends most of his time being a harmless drunkard? Well, even so, I must meet him for myself and proceed from there",
+            "sourceName": "vo_neuvillette_teammate_venti_01.wem"
+        },
+        "93f00eeea4126728": {
+            "hash": "93f00eeea4126728",
+            "directory": "External18",
+            "voiceContent": "Hmm, no matter",
+            "sourceName": "vo_card_neuvillette_inGame_easy_02.wem"
         },
         "94fb44ea7c97c4fe": {
             "hash": "94fb44ea7c97c4fe",
             "directory": "External18",
-            "voiceContent": "The time that I have spent living among the citizens of Fontaine, and traveling with you, has transformed my views. Even though before this I had pardoned the sins of humanity long ago, I can promise you that my future judgments will not cause any harm to the common folk. That being said, my grievances with the usurpers have yet to be settled... They owe a debt of blood that shall not be forgotten.",
+            "voiceContent": "The time that I have spent living among the citizens of Fontaine, and traveling with you, has transformed my views. Even though before this I had pardoned the sins of humanity long ago, I can promise you that my future judgments will not cause any harm to the common folk. That being said, my grievances with the usurpers have yet to be settled... They owe a debt of blood that shall not be forgotten",
             "sourceName": "vo_neuvillette_dialog_close1.wem"
+        },
+        "9616f4813dd2e281": {
+            "hash": "9616f4813dd2e281",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_idle_02.wem"
+        },
+        "9636cb7754bc3d0f": {
+            "hash": "9636cb7754bc3d0f",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_climb_breath_02.wem"
+        },
+        "996d2a2f3f880c28": {
+            "hash": "996d2a2f3f880c28",
+            "directory": "External19",
+            "voiceContent": "Apparently, I'll have to show a little more of my true capabilities. I did not realize that you had such a penchant for getting into dangerous situations",
+            "sourceName": "vo_neuvillette_starUp_02.wem"
+        },
+        "9fff957f6d0ad648": {
+            "hash": "9fff957f6d0ad648",
+            "directory": "External19",
+            "voiceContent": "I see the temperate waters of eons past..",
+            "sourceName": "vo_neuvillette_life_die_02.wem"
+        },
+        "a0deb12460097f70": {
+            "hash": "a0deb12460097f70",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_climb_02.wem"
+        },
+        "a127ddb674de699f": {
+            "hash": "a127ddb674de699f",
+            "directory": "External20",
+            "voiceContent": "Hmm, this is still far from over",
+            "sourceName": "vo_card_neuvillette_inGame_hard_02.wem"
+        },
+        "a322d47d609ccd6c": {
+            "hash": "a322d47d609ccd6c",
+            "directory": "External20",
+            "voiceContent": "I usually do my best to avoid forming personal relationships, or even collaborating with others outside of established procedures. But you have shown yourself to be trustworthy, and you have no problematic entanglements with Fontaine's local factions. Therefore, I would be pleased to journey with you",
+            "sourceName": "vo_neuvillette_friendship_01.wem"
+        },
+        "a4d5fe3dd20a28f6": {
+            "hash": "a4d5fe3dd20a28f6",
+            "directory": "External20",
+            "voiceContent": "Bow your head",
+            "sourceName": "vo_neuvillette_battle_skill1_02.wem"
+        },
+        "a6512975a883d06c": {
+            "hash": "a6512975a883d06c",
+            "directory": "External20",
+            "voiceContent": "Though the day will come when I put her on trial, I must commend the God of Verdure on her sense of responsibility. Few things are without flaws in this world, but the devotion and benevolence she displays are a testament to her commitment to continued progress. I felt enormous regret when I learned of the mistreatment she has endured over the past five hundred years",
+            "sourceName": "vo_neuvillette_teammate_nahida_01.wem"
+        },
+        "a7a7dbc9271feff2": {
+            "hash": "a7a7dbc9271feff2",
+            "directory": "External20",
+            "voiceContent": "Greetings. I am the Chief Justice, or Iudex of Fontaine, but you may simply address me by using my surname, Neuvillette. Not because I wish to keep my distance from you... No, I am merely conscious that being overly familiar may bring the impartiality of the judiciary into question in some people's eyes.If you have any requests or concerns, then — to the extent permissible by law, at least — we can sit down and discuss them together as we partake of some imported water from Qiaoying Village",
+            "sourceName": "vo_neuvillette_draw_appear_01.wem"
+        },
+        "a7a8e232de6cf779": {
+            "hash": "a7a8e232de6cf779",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_jump_04.wem"
+        },
+        "a7f22bee1468a723": {
+            "hash": "a7f22bee1468a723",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_sprint_start_01.wem"
+        },
+        "a8d31c715d90339c": {
+            "hash": "a8d31c715d90339c",
+            "directory": "External21",
+            "voiceContent": "Excuse me? You're saying even some members of The Seven don a counterfeit Vision before mingling with their people? Ha... My apologies — I was just caught off guard by the absurdity of the situation",
+            "sourceName": "vo_neuvillette_dialog_pendant_02.wem"
+        },
+        "ab0a43ef301d6177": {
+            "hash": "ab0a43ef301d6177",
+            "directory": "External21",
+            "voiceContent": "Ah, so it's your birthday. Happy birthday. I do not know if rain is in the forecast today, but let me see what I can do",
+            "sourceName": "vo_neuvillette_pref_birthday_01.wem"
+        },
+        "ae61c6ba383c1c10": {
+            "hash": "ae61c6ba383c1c10",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attacklight_04.wem"
+        },
+        "b10a3ba68183ccde": {
+            "hash": "b10a3ba68183ccde",
+            "directory": "External22",
+            "voiceContent": "A fine effort indeed. My only advice would be to increase the liquid content and reduce the amount of fat",
+            "sourceName": "vo_neuvillette_spice_normal_01.wem"
+        },
+        "b311d01479043f0b": {
+            "hash": "b311d01479043f0b",
+            "directory": "External22",
+            "voiceContent": "Be not perturbed. I am unscathed",
+            "sourceName": "vo_neuvillette_life_less30_01.wem"
+        },
+        "b34be03ae68e191b": {
+            "hash": "b34be03ae68e191b",
+            "directory": "External22",
+            "voiceContent": "Animals can survive for weeks without food, but merely a few days without water. There is no dish that could ever compare to pure, unadulterated water. With that in mind, food items that contain plenty of liquid are the next best thing",
+            "sourceName": "vo_neuvillette_pref_foodLike.wem"
+        },
+        "b43bfc262386aa65": {
+            "hash": "b43bfc262386aa65",
+            "directory": "External22",
+            "voiceContent": "Hmph... There's a tear in my robe",
+            "sourceName": "vo_neuvillette_life_less30_03.wem"
+        },
+        "b49bd06c50f0533a": {
+            "hash": "b49bd06c50f0533a",
+            "directory": "External22",
+            "voiceContent": "I went to see an opera recently. It was about a lady whose personal charm and manipulative schemes allowed her to continue to dominate the affairs of the grand mansion where she lived even after her death, like a ghost that refused to be exorcised. The acting was impeccable, and the story exceptional. It also reminded me of the current state of affairs in the real world",
+            "sourceName": "vo_neuvillette_friendship_03.wem"
+        },
+        "b4bd3f40592c62ca": {
+            "hash": "b4bd3f40592c62ca",
+            "directory": "External22",
+            "voiceContent": "I cannot help but feel that you bringing me here is some sort of an assassination attempt..",
+            "sourceName": "vo_neuvillette_weather_desert_01.wem"
+        },
+        "b4d55a630da9baa3": {
+            "hash": "b4d55a630da9baa3",
+            "directory": "External22",
+            "voiceContent": "Their performances are just fascinating, don't you think? They draw you into a magical world where, on one hand, everything that takes place is part of an elaborate deception — but on the other, all manner of miracles are possible if you are only willing to believe",
+            "sourceName": "vo_neuvillette_teammate_lyney&lynette_01.wem"
+        },
+        "b56cb694596e9593": {
+            "hash": "b56cb694596e9593",
+            "directory": "External22",
+            "voiceContent": "So you have heard of that local legend as well? *sigh* Who told you about that? Or more pertinently, who was responsible for spreading it in the first place... Well, never mind. I don't think that the Hydro Dragon would weep, per se. I think he just finds himself a little stirred when he gets a taste of the tears that have been shed on this land, on account of all the emotions they contain",
+            "sourceName": "vo_neuvillette_dialog_idle2.wem"
+        },
+        "bc7814813c8c95e3": {
+            "hash": "bc7814813c8c95e3",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attacklight_03.wem"
         },
         "c1549d5aad957b2f": {
             "hash": "c1549d5aad957b2f",
@@ -225,311 +609,185 @@
             "voiceContent": "Since you hail from beyond the stars, I invite you to be my witness as I judge this upended world. This realm dismantled was of the Formidable Father himself, but what now reigns here is a cluster of filthy feathers. Though we live in a world of disarray, I shall undertake to restore all that has been broken.",
             "sourceName": "vo_neuvillette_dialog_close.wem"
         },
-        "6b4aca5948a9ffb3": {
-            "hash": "6b4aca5948a9ffb3",
-            "directory": "External13",
-            "voiceContent": "I was once advised to wear a counterfeit Vision, so that I might more easily intervene during moments of crisis. To be quite frank, I was not enamored by this suggestion, nor the implication that one must only exercise the power that is rightfully theirs under false pretenses. With that said, however, I have developed a newfound appreciation for the value of human yearning and determination having spent considerable time around Vision-bearing humans.",
-            "sourceName": "vo_neuvillette_dialog_pendant_01.wem"
+        "c4e2f432cc4422ac": {
+            "hash": "c4e2f432cc4422ac",
+            "directory": "External24",
+            "voiceContent": "Good morning. I hope you have a wonderful day",
+            "sourceName": "vo_neuvillette_dialog_greetingMorning.wem"
         },
-        "06ce8a5cf317f17e": {
-            "hash": "06ce8a5cf317f17e",
-            "directory": "External0",
-            "voiceContent": "Fontaine does have some rather intriguing laws on its books. For instance, it is forbidden to release any flying objects during the first three days of each month, during the dry season, all bivalves that wash ashore belong to the Hydro Archon, while other mollusks belong to the people, no domestic pets shall be named after Furina, tomato ketchup is to be consumed in restaurants only as a condiment, never on its own, and, finally, Melusines are to be addressed using she/her pronouns, never the impersonal it/its... That last one was my personal contribution.",
-            "sourceName": "vo_neuvillette_dialog_share_01.wem"
-        },
-        "71f500b5cc8a77fc": {
-            "hash": "71f500b5cc8a77fc",
-            "directory": "External14",
-            "voiceContent": "The Vishaps' ancestry can be traced directly back to the Fontemer, which is why they are so adept at evolution. I am reminded of an old custom that the dragons once observed We would take a sip of our perished young brethren's blood. Whenever the tides are disrupted by the motion of the moon and stars, the water within the bodies of us Hydro organisms surges up towards our heads, reminding us that our deceased kin will soon be revived.",
-            "sourceName": "vo_neuvillette_pref_gift_01.wem"
-        },
-        "433bca6df56b8bce": {
-            "hash": "433bca6df56b8bce",
-            "directory": "External8",
-            "voiceContent": "Nothing will stop me from rendering judgment on each of The Seven. As the Archon who won the Authority of Geo, Deus Auri must be called to trial. If one does not wish to see us on opposite sides of a conflict, they need not worry, for I intend to stay in Fontaine for the foreseeable future, which could well mean another four hundred years. As another point of consolation, even when the trial eventually takes place, it is still not a given that the judgment will lead to a physical confrontation.",
-            "sourceName": "vo_neuvillette_teammate_zhongli_01.wem"
-        },
-        "8e80104b3b73077f": {
-            "hash": "8e80104b3b73077f",
-            "directory": "External17",
-            "voiceContent": "I shall fulfill my vow to judge all of The Seven in turn, even if the sky should fall and the ground give way. As the recipient of the Authority of Anemo, the God of Breeze and Hope must also stand trial. ...Hmm? He spends most of his time being a harmless drunkard? Well, even so, I must meet him for myself and proceed from there.",
-            "sourceName": "vo_neuvillette_teammate_venti_01.wem"
-        },
-        "0e5dcb9350d0234c": {
-            "hash": "0e5dcb9350d0234c",
-            "directory": "External1",
-            "voiceContent": "As a survivor of the dragon race who has regained my full dragonhood, I must fulfill my oaths and obligations even if it means returning all the water in the oceans back to the heavens. In taking the Authority of Electro, the Narukami placed herself on the list of the usurpers, she will... Oh, you say she has isolated herself in the Plane of Euthymia, and now rarely appears in public? Then I shall pay her a visit in another few centuries.",
-            "sourceName": "vo_neuvillette_teammate_raidenShogun_01.wem"
-        },
-        "b4d55a630da9baa3": {
-            "hash": "b4d55a630da9baa3",
-            "directory": "External22",
-            "voiceContent": "Their performances are just fascinating, don't you think? They draw you into a magical world where, on one hand, everything that takes place is part of an elaborate deception — but on the other, all manner of miracles are possible if you are only willing to believe.",
-            "sourceName": "vo_neuvillette_teammate_lyney&lynette_01.wem"
-        },
-        "fe8795cf790b0582": {
-            "hash": "fe8795cf790b0582",
-            "directory": "External31",
-            "voiceContent": "I don't know how Sigewinne is faring these days. But if I hear so much as the whiff of a rumor that she's being bullied, I shall summon Wriothesley here and demand an explanation. She's so kind and vulnerable... She brought me some Kamera film the last time she visited, and asked to listen to more of my commentary on the water of Natlan... How long is it until her next vacation?",
-            "sourceName": "vo_neuvillette_teammate_sigewinne_01.wem"
-        },
-        "da1eb22e1463f924": {
-            "hash": "da1eb22e1463f924",
-            "directory": "External27",
-            "voiceContent": "Now, the curtain has finally fallen on her performance... The character she portrayed was an imaginary one, yet in playing that role she fulfilled her duties... Though she is meek and full of doubt by nature, she was able to use madness to stiffen her resolve and see her duty through to its conclusion. The work that she has done over the centuries is truly immense. If she were to ever make a return to the stage, I should personally attend the performance and give her my heartfelt applause... Yes, I must do so when the opportunity arises.",
-            "sourceName": "vo_neuvillette_teammate_furina_01.wem"
-        },
-        "a6512975a883d06c": {
-            "hash": "a6512975a883d06c",
-            "directory": "External20",
-            "voiceContent": "Though the day will come when I put her on trial, I must commend the God of Verdure on her sense of responsibility. Few things are without flaws in this world, but the devotion and benevolence she displays are a testament to her commitment to continued progress. I felt enormous regret when I learned of the mistreatment she has endured over the past five hundred years.",
-            "sourceName": "vo_neuvillette_teammate_nahida_01.wem"
-        },
-        "e05c56c2f4b633bc": {
-            "hash": "e05c56c2f4b633bc",
-            "directory": "External28",
-            "voiceContent": "Wriothesley is a trustworthy man. I fought hard for the title and reputation he now has. I expect you to think that I've simply been duped by his flattery and appearance of loyalty... But to that, I would quote the Inazuman proverb The words unspoken are the flower. Which means, some things are best left unsaid.",
-            "sourceName": "vo_neuvillette_teammate_wriothesley_01.wem"
-        },
-        "33e00e44363c8e0b": {
-            "hash": "33e00e44363c8e0b",
-            "directory": "External6",
-            "voiceContent": "Clorinde's peerless skills have made her the most powerful Champion Duelist in our nation. As a successor to the Marechaussee Hunters of old, she plays a vital role in ensuring the fairness and impartiality of the courtroom. Also, she's actually not as stoic as she might appear.",
-            "sourceName": "vo_neuvillette_teammate_clorinde_01.wem"
-        },
-        "a322d47d609ccd6c": {
-            "hash": "a322d47d609ccd6c",
-            "directory": "External20",
-            "voiceContent": "I usually do my best to avoid forming personal relationships, or even collaborating with others outside of established procedures. But you have shown yourself to be trustworthy, and you have no problematic entanglements with Fontaine's local factions. Therefore, I would be pleased to journey with you.",
-            "sourceName": "vo_neuvillette_friendship_01.wem"
-        },
-        "0d770262d4d41a03": {
-            "hash": "0d770262d4d41a03",
-            "directory": "External1",
-            "voiceContent": "This is something that I can only say in private — I could never publicly share my views on this matter It positively baffles me that Fonta has managed to become such a popular drink. Though, I suppose its appeal to humans is not beyond comprehension. One can both rehydrate and replenish blood sugar in one gulp, and at an exceptionally cheap price.",
-            "sourceName": "vo_neuvillette_friendship_02.wem"
-        },
-        "b49bd06c50f0533a": {
-            "hash": "b49bd06c50f0533a",
-            "directory": "External22",
-            "voiceContent": "I went to see an opera recently. It was about a lady whose personal charm and manipulative schemes allowed her to continue to dominate the affairs of the grand mansion where she lived even after her death, like a ghost that refused to be exorcised. The acting was impeccable, and the story exceptional. It also reminded me of the current state of affairs in the real world.",
-            "sourceName": "vo_neuvillette_friendship_03.wem"
-        },
-        "d5db8e9601231431": {
-            "hash": "d5db8e9601231431",
-            "directory": "External26",
-            "voiceContent": "For a number of reasons, I rarely leave Fontaine. As a result, though I enjoy tasting spring water from all over the world, I always have it delivered to me here, rather than collecting it myself. And yes, subtle as the flavor differences between samples of different regions may be, I am perfectly capable of distinguishing between them. Do you still doubt me? I am the Iudex. I do not lie.",
-            "sourceName": "vo_neuvillette_friendship_04.wem"
-        },
-        "50b8349e419fcdb0": {
-            "hash": "50b8349e419fcdb0",
-            "directory": "External10",
-            "voiceContent": "I have to say, my daily life is not without its inconveniences. For instance, I often find myself stepping on my robes as I sit down, or squashing my coiffure against the chair. And if I lean my head too far back, sometimes my hair even gets caught in the ornamentation. Nevertheless, I must wear these garments to maintain the dignity of a Chief Justice, and endure whatever inconveniences this entails. Incidentally, the world at large appears to operate on this general principle, too. Everyone is faced with an identity that they must accept, endure, understand, and eventually learn to co-exist with. This has been my experience all along.",
-            "sourceName": "vo_neuvillette_friendship_05.wem"
-        },
-        "1e3cf1d18b25bda0": {
-            "hash": "1e3cf1d18b25bda0",
-            "directory": "External3",
-            "voiceContent": "Water tasting is a rather sophisticated discipline. Pyro-heated water has the standard au naturel flavor found ubiquitously in the natural world, while water boiled using charcoal has distinctly rustic notes. Similarly, while Cryo-chilled water is cold but otherwise unremarkable, the frozen rivers of Snezhnaya, when melted, produce a water with an entirely different flavor profile altogether.",
-            "sourceName": "vo_neuvillette_pref_hobby.wem"
-        },
-        "b34be03ae68e191b": {
-            "hash": "b34be03ae68e191b",
-            "directory": "External22",
-            "voiceContent": "Animals can survive for weeks without food, but merely a few days without water. There is no dish that could ever compare to pure, unadulterated water. With that in mind, food items that contain plenty of liquid are the next best thing.",
-            "sourceName": "vo_neuvillette_pref_foodLike.wem"
-        },
-        "7cee191a73055105": {
-            "hash": "7cee191a73055105",
-            "directory": "External15",
-            "voiceContent": "How can people bring themselves to consume deep-fried foods? Or grilled food with no sauce? The worst culprits in my view are those Charcoal-Baked Ajilenakh Cakes. Surely, even eating a dehumidifying agent would be kinder on the stomach?",
-            "sourceName": "vo_neuvillette_pref_foodDislike.wem"
-        },
-        "34cf7b9cb0559c44": {
-            "hash": "34cf7b9cb0559c44",
-            "directory": "External6",
-            "voiceContent": "Delicious. An abundance of juices, and the ingredients have been cooked to perfection.",
-            "sourceName": "vo_neuvillette_spice_pref_01.wem"
-        },
-        "b10a3ba68183ccde": {
-            "hash": "b10a3ba68183ccde",
-            "directory": "External22",
-            "voiceContent": "A fine effort indeed. My only advice would be to increase the liquid content and reduce the amount of fat.",
-            "sourceName": "vo_neuvillette_spice_normal_01.wem"
-        },
-        "f9f960c647bf366a": {
-            "hash": "f9f960c647bf366a",
-            "directory": "External31",
-            "voiceContent": "Too dry. A dish devoid of moisture has no way to convey the intentions of the chef.",
-            "sourceName": "vo_neuvillette_spice_dislike_01.wem"
-        },
-        "ab0a43ef301d6177": {
-            "hash": "ab0a43ef301d6177",
-            "directory": "External21",
-            "voiceContent": "Ah, so it's your birthday. Happy birthday. I do not know if rain is in the forecast today, but let me see what I can do.",
-            "sourceName": "vo_neuvillette_pref_birthday_01.wem"
-        },
-        "03f87814b3eed2ef": {
-            "hash": "03f87814b3eed2ef",
-            "directory": "External0",
-            "voiceContent": "I'm a little more familiar with you now. I can match your movements.",
-            "sourceName": "vo_neuvillette_starUp_01.wem"
-        },
-        "996d2a2f3f880c28": {
-            "hash": "996d2a2f3f880c28",
-            "directory": "External19",
-            "voiceContent": "Apparently, I'll have to show a little more of my true capabilities. I did not realize that you had such a penchant for getting into dangerous situations.",
-            "sourceName": "vo_neuvillette_starUp_02.wem"
-        },
-        "f27f4425c39aed69": {
-            "hash": "f27f4425c39aed69",
-            "directory": "External30",
-            "voiceContent": "So this is what you're truly capable of? Then I shall have to get serious if I wish to catch up with you.",
-            "sourceName": "vo_neuvillette_starUp_03.wem"
-        },
-        "d13e85fc13667892": {
-            "hash": "d13e85fc13667892",
-            "directory": "External26",
-            "voiceContent": "Now that I have reclaimed one of the Seven Authorities from the hands of the usurpers, I have regained my true form. I am now a fully fledged dragon, powerful enough to judge the rest of the gods. My final destiny is to judge the Usurper-King in the heavens above. But until that time comes, I will lend my power to you.",
-            "sourceName": "vo_neuvillette_starUp_04.wem"
-        },
-        "b311d01479043f0b": {
-            "hash": "b311d01479043f0b",
-            "directory": "External22",
-            "voiceContent": "Be not perturbed. I am unscathed.",
-            "sourceName": "vo_neuvillette_life_less30_01.wem"
-        },
-        "0636422d2b46ad94": {
-            "hash": "0636422d2b46ad94",
-            "directory": "External0",
-            "voiceContent": "The risk is growing, but it poses no threat to me.",
-            "sourceName": "vo_neuvillette_life_less30_02.wem"
-        },
-        "b43bfc262386aa65": {
-            "hash": "b43bfc262386aa65",
-            "directory": "External22",
-            "voiceContent": "Hmph... There's a tear in my robe.",
-            "sourceName": "vo_neuvillette_life_less30_03.wem"
-        },
-        "4dce2f78651b5909": {
-            "hash": "4dce2f78651b5909",
-            "directory": "External9",
-            "voiceContent": "A silence fills the air...",
-            "sourceName": "vo_neuvillette_life_die_03.wem"
-        },
-        "86958a3d8f7ce9eb": {
-            "hash": "86958a3d8f7ce9eb",
-            "directory": "External16",
-            "voiceContent": "Justice is blindsided...",
-            "sourceName": "vo_neuvillette_battle_hit_H_01.wem"
-        },
-        "d9b8fc5641bda574": {
-            "hash": "d9b8fc5641bda574",
-            "directory": "External27",
-            "voiceContent": "An oversight on my part.",
-            "sourceName": "vo_neuvillette_battle_hit_H_02.wem"
-        },
-        "d9948d1b98a20162": {
-            "hash": "d9948d1b98a20162",
-            "directory": "External27",
-            "voiceContent": "I regret to say that after my various interactions with her — such as when I inadvertently angered her, and when I accepted her apology — and even now, in spite of the guilt I continue to feel over what happened to her father, I feel... very distant from her, as if I'm observing the starry sky from the bottom of a deep lake. It is by no means intentional, and I also know it is not something that I can easily make up for. Unlike water, emotion does not settle quickly once agitated, nor is it naturally inclined towards equilibrium.",
-            "sourceName": "vo_neuvillette_teammate_navia_01.wem"
-        },
-        "b4bd3f40592c62ca": {
-            "hash": "b4bd3f40592c62ca",
-            "directory": "External22",
-            "voiceContent": "I cannot help but feel that you bringing me here is some sort of an assassination attempt...",
-            "sourceName": "vo_neuvillette_weather_desert_01.wem"
-        },
-        "3db21167104d885f": {
-            "hash": "3db21167104d885f",
-            "directory": "External7",
-            "voiceContent": "The Pyro Archon triumphed over the Abyss by leveraging rules and legacy — a truly commendable feat. Yet, holding an Authority seized from the dragons remains an unpardonable sin. I recognize, however, that Natlan has experienced great suffering, so I am in no hurry to act. Hm? You claim that historical records describe the battle against Xbalanque as a formal duel, and the victim's family was treated fairly? Complicated indeed, but a worthwhile consideration nonetheless...",
-            "sourceName": "vo_neuvillette_teammate_mavuika_01.wem"
-        },
-        "dc492e9b40c1c493": {
-            "hash": "dc492e9b40c1c493",
-            "directory": "External27",
-            "voiceContent": "From my observations, humans have a tendency to view themselves as being in opposition with nature. And whenever this point is raised, someone is always quick to respond by declaring that humans are in fact a part of nature, like any other organism. To someone like me, however, who knows an inkling of the truth, what would be most beneficial is if human civilization and the natural world of this planet could seek ways to co-exist with one another.",
-            "sourceName": "vo_neuvillette_pref_gift_02.wem"
-        },
-        "3080849c9a1ad58a": {
-            "hash": "3080849c9a1ad58a",
-            "directory": "External6",
-            "voiceContent": "This is a topic that has been discussed ad nauseum... I don't mean to condescend to humanity, but it is quite clear to me that society's concepts of justice, fairness, equality, and rule of law are not equivalent, and never can be. Now of course, water always seeks its own level, and it was in this spirit that the previous Hydro Archon, Egeria, hoped to achieve universal equality by connecting all things with love. Her successor chose instead to seek equality by means of the law. Ultimately, due to various external factors, this unfortunately manifested itself in the distorted form of trials for the sake of trials. Nevertheless, there are reasons for everything. I suppose I should refrain from criticizing her.",
-            "sourceName": "vo_neuvillette_dialog_idle3.wem"
-        },
-        "6109986521ab2a21": {
-            "hash": "6109986521ab2a21",
-            "directory": "External12",
-            "voiceContent": "Some days, my mind wanders, and I fantasize about walking into the rain... *sigh* Ah, but don't worry, my flights of fancy don't distract me from my work.",
-            "sourceName": "vo_neuvillette_dialog_share_02.wem"
-        },
-        "7bd5f256f2d62a4b": {
-            "hash": "7bd5f256f2d62a4b",
-            "directory": "External15",
-            "voiceContent": "People seem to respond to the sight of a man in the rain without an umbrella as if it were some sort of strange spectacle.",
-            "sourceName": "vo_neuvillette_dialog_annoyed_01.wem"
-        },
-        "a7a7dbc9271feff2": {
-            "hash": "a7a7dbc9271feff2",
-            "directory": "External20",
-            "voiceContent": "Greetings. I am the Chief Justice, or Iudex of Fontaine, but you may simply address me by using my surname, Neuvillette. Not because I wish to keep my distance from you... No, I am merely conscious that being overly familiar may bring the impartiality of the judiciary into question in some people's eyes.If you have any requests or concerns, then — to the extent permissible by law, at least — we can sit down and discuss them together as we partake of some imported water from Qiaoying Village.",
-            "sourceName": "vo_neuvillette_draw_appear_01.wem"
-        },
-        "a8d31c715d90339c": {
-            "hash": "a8d31c715d90339c",
-            "directory": "External21",
-            "voiceContent": "Excuse me? You're saying even some members of The Seven don a counterfeit Vision before mingling with their people? Ha... My apologies — I was just caught off guard by the absurdity of the situation.",
-            "sourceName": "vo_neuvillette_dialog_pendant_02.wem"
-        },
-        "93f00eeea4126728": {
-            "hash": "93f00eeea4126728",
-            "directory": "External18",
-            "voiceContent": "Hmm, no matter.",
-            "sourceName": "vo_card_neuvillette_inGame_easy_02.wem"
-        },
-        "ed0228e528254869": {
-            "hash": "ed0228e528254869",
-            "directory": "External29",
-            "voiceContent": "Perhaps a bit more thought is in order.",
-            "sourceName": "vo_card_neuvillette_inGame_easy_03.wem"
-        },
-        "f18b89a73ba650a5": {
-            "hash": "f18b89a73ba650a5",
-            "directory": "External30",
-            "voiceContent": "Time for a brief cross examination.",
-            "sourceName": "vo_card_neuvillette_inGame_hard_04.wem"
-        },
-        "a127ddb674de699f": {
-            "hash": "a127ddb674de699f",
-            "directory": "External20",
-            "voiceContent": "Hmm, this is still far from over.",
-            "sourceName": "vo_card_neuvillette_inGame_hard_02.wem"
-        },
-        "fe7b5cd418792def": {
-            "hash": "fe7b5cd418792def",
-            "directory": "External31",
-            "voiceContent": "Forgive me.",
-            "sourceName": "vo_card_neuvillette_inGame_easy_01.wem"
-        },
-        "4815fbbff0cbe836": {
-            "hash": "4815fbbff0cbe836",
-            "directory": "External9",
-            "voiceContent": "...A grave oversight.",
-            "sourceName": "vo_card_neuvillette_inGame_hard_03.wem"
+        "c775a5d01f13d9f2": {
+            "hash": "c775a5d01f13d9f2",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_hit_l_04.wem"
         },
         "cbc16abb77f0d392": {
             "hash": "cbc16abb77f0d392",
             "directory": "External25",
-            "voiceContent": "I believe the floor is now mine.",
+            "voiceContent": "I believe the floor is now mine",
             "sourceName": "vo_card_neuvillette_inGame_easy_04.wem"
         },
-        "369ccfd100781018": {
-            "hash": "369ccfd100781018",
-            "directory": "External6",
-            "voiceContent": "My apologies.",
-            "sourceName": "vo_card_neuvillette_inGame_hard_01.wem"
+        "cf4afe71a9b9d7f2": {
+            "hash": "cf4afe71a9b9d7f2",
+            "directory": "External25",
+            "voiceContent": "Melusines are beautiful creatures. They are the pride of Fontaine. Be sure to befriend them, and cause them no harm",
+            "sourceName": "vo_neuvillette_character_idle_03.wem"
+        },
+        "d13e85fc13667892": {
+            "hash": "d13e85fc13667892",
+            "directory": "External26",
+            "voiceContent": "Now that I have reclaimed one of the Seven Authorities from the hands of the usurpers, I have regained my true form. I am now a fully fledged dragon, powerful enough to judge the rest of the gods. My final destiny is to judge the Usurper-King in the heavens above. But until that time comes, I will lend my power to you",
+            "sourceName": "vo_neuvillette_starUp_04.wem"
+        },
+        "d5db8e9601231431": {
+            "hash": "d5db8e9601231431",
+            "directory": "External26",
+            "voiceContent": "For a number of reasons, I rarely leave Fontaine. As a result, though I enjoy tasting spring water from all over the world, I always have it delivered to me here, rather than collecting it myself. And yes, subtle as the flavor differences between samples of different regions may be, I am perfectly capable of distinguishing between them. Do you still doubt me? I am the Iudex. I do not lie",
+            "sourceName": "vo_neuvillette_friendship_04.wem"
+        },
+        "d6eefd8f6c57d4c8": {
+            "hash": "d6eefd8f6c57d4c8",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_climb_breath_01.wem"
+        },
+        "d90e12e74b30b918": {
+            "hash": "d90e12e74b30b918",
+            "directory": "External27",
+            "voiceContent": "Let the record show that I verbally consent to relinquishing these items into your possession",
+            "sourceName": "vo_neuvillette_chest_open_03.wem"
+        },
+        "d9948d1b98a20162": {
+            "hash": "d9948d1b98a20162",
+            "directory": "External27",
+            "voiceContent": "I regret to say that after my various interactions with her — such as when I inadvertently angered her, and when I accepted her apology — and even now, in spite of the guilt I continue to feel over what happened to her father, I feel... very distant from her, as if I'm observing the starry sky from the bottom of a deep lake. It is by no means intentional, and I also know it is not something that I can easily make up for. Unlike water, emotion does not settle quickly once agitated, nor is it naturally inclined towards equilibrium",
+            "sourceName": "vo_neuvillette_teammate_navia_01.wem"
+        },
+        "d9b8fc5641bda574": {
+            "hash": "d9b8fc5641bda574",
+            "directory": "External27",
+            "voiceContent": "An oversight on my part",
+            "sourceName": "vo_neuvillette_battle_hit_H_02.wem"
+        },
+        "da1eb22e1463f924": {
+            "hash": "da1eb22e1463f924",
+            "directory": "External27",
+            "voiceContent": "Now, the curtain has finally fallen on her performance... The character she portrayed was an imaginary one, yet in playing that role she fulfilled her duties... Though she is meek and full of doubt by nature, she was able to use madness to stiffen her resolve and see her duty through to its conclusion. The work that she has done over the centuries is truly immense. If she were to ever make a return to the stage, I should personally attend the performance and give her my heartfelt applause... Yes, I must do so when the opportunity arises",
+            "sourceName": "vo_neuvillette_teammate_furina_01.wem"
+        },
+        "dc492e9b40c1c493": {
+            "hash": "dc492e9b40c1c493",
+            "directory": "External27",
+            "voiceContent": "From my observations, humans have a tendency to view themselves as being in opposition with nature. And whenever this point is raised, someone is always quick to respond by declaring that humans are in fact a part of nature, like any other organism. To someone like me, however, who knows an inkling of the truth, what would be most beneficial is if human civilization and the natural world of this planet could seek ways to co-exist with one another",
+            "sourceName": "vo_neuvillette_pref_gift_02.wem"
+        },
+        "e038be591e26fd3b": {
+            "hash": "e038be591e26fd3b",
+            "directory": "External28",
+            "voiceContent": "Thank you for permitting— No, inviting me to join you",
+            "sourceName": "vo_neuvillette_teamJoin_01.wem"
+        },
+        "e05c56c2f4b633bc": {
+            "hash": "e05c56c2f4b633bc",
+            "directory": "External28",
+            "voiceContent": "Wriothesley is a trustworthy man. I fought hard for the title and reputation he now has. I expect you to think that I've simply been duped by his flattery and appearance of loyalty... But to that, I would quote the Inazuman proverb The words unspoken are the flower. Which means, some things are best left unsaid",
+            "sourceName": "vo_neuvillette_teammate_wriothesley_01.wem"
+        },
+        "e5797e06294d280c": {
+            "hash": "e5797e06294d280c",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_explore_sprint_start_02.wem"
+        },
+        "e8b563f9cf469ac9": {
+            "hash": "e8b563f9cf469ac9",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_hit_l_03.wem"
+        },
+        "ea873ed63b849136": {
+            "hash": "ea873ed63b849136",
+            "directory": "External29",
+            "voiceContent": "Abandoned property belongs to whoever finds it first. So it's legally yours now",
+            "sourceName": "vo_neuvillette_chest_open_01.wem"
+        },
+        "ed0228e528254869": {
+            "hash": "ed0228e528254869",
+            "directory": "External29",
+            "voiceContent": "Perhaps a bit more thought is in order",
+            "sourceName": "vo_card_neuvillette_inGame_easy_03.wem"
+        },
+        "ef37ed735437d9f1": {
+            "hash": "ef37ed735437d9f1",
+            "directory": "External29",
+            "voiceContent": "I am no rabid fan of trials. I preside over them only out of duty, for this is the task that has been entrusted to me",
+            "sourceName": "vo_neuvillette_dialog_idle.wem"
+        },
+        "f18b89a73ba650a5": {
+            "hash": "f18b89a73ba650a5",
+            "directory": "External30",
+            "voiceContent": "Time for a brief cross examination",
+            "sourceName": "vo_card_neuvillette_inGame_hard_04.wem"
+        },
+        "f27f4425c39aed69": {
+            "hash": "f27f4425c39aed69",
+            "directory": "External30",
+            "voiceContent": "So this is what you're truly capable of? Then I shall have to get serious if I wish to catch up with you",
+            "sourceName": "vo_neuvillette_starUp_03.wem"
+        },
+        "f9f960c647bf366a": {
+            "hash": "f9f960c647bf366a",
+            "directory": "External31",
+            "voiceContent": "Too dry. A dish devoid of moisture has no way to convey the intentions of the chef",
+            "sourceName": "vo_neuvillette_spice_dislike_01.wem"
+        },
+        "fa2e97e8bf9a804f": {
+            "hash": "fa2e97e8bf9a804f",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_hit_l_01.wem"
+        },
+        "fa80e0345337ce5f": {
+            "hash": "fa80e0345337ce5f",
+            "directory": "External31",
+            "voiceContent": "Settle down",
+            "sourceName": "vo_neuvillette_battle_skill1_03.wem"
+        },
+        "fbf0eaf840e29d19": {
+            "hash": "fbf0eaf840e29d19",
+            "directory": "External31",
+            "voiceContent": "Snow is in fact one of water's natural self-cleansing mechanisms. But human activity tends to reduce snow's purity, so do not consume it",
+            "sourceName": "vo_neuvillette_weather_snowy_01.wem"
+        },
+        "fdcda3b8c4defa1d": {
+            "hash": "fdcda3b8c4defa1d",
+            "directory": "External31",
+            "voiceContent": "What's that saying again... A bolt from the blue? Yes, yes, I believe that captures how it feels to me",
+            "sourceName": "vo_neuvillette_weather_thunder_01.wem"
+        },
+        "fe7b5cd418792def": {
+            "hash": "fe7b5cd418792def",
+            "directory": "External31",
+            "voiceContent": "Forgive me",
+            "sourceName": "vo_card_neuvillette_inGame_easy_01.wem"
+        },
+        "fe8795cf790b0582": {
+            "hash": "fe8795cf790b0582",
+            "directory": "External31",
+            "voiceContent": "I don't know how Sigewinne is faring these days. But if I hear so much as the whiff of a rumor that she's being bullied, I shall summon Wriothesley here and demand an explanation. She's so kind and vulnerable... She brought me some Kamera film the last time she visited, and asked to listen to more of my commentary on the water of Natlan... How long is it until her next vacation",
+            "sourceName": "vo_neuvillette_teammate_sigewinne_01.wem"
+        },
+        "fe9052aafed7f0ee": {
+            "hash": "fe9052aafed7f0ee",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_neuvillette_battle_attacklight_06.wem"
+        },
+        "ffa7a12359f15966": {
+            "hash": "ffa7a12359f15966",
+            "directory": "External31",
+            "voiceContent": "Good evening. I hope you have not encountered any unpleasantness today",
+            "sourceName": "vo_neuvillette_dialog_greetingNight.wem"
         }
     }
 }

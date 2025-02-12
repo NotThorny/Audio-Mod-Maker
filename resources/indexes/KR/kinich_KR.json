@@ -1,517 +1,775 @@
 {
     "Teapot": {},
     "Quests": {
-        "b6821aceb3e32ad6": {
-            "hash": "b6821aceb3e32ad6",
-            "directory": "External22",
-            "voiceContent": "산왕이 토해낸 열매를 조심해. 내가 그걸로 산왕을 상대할게",
-            "sourceName": "vo_JNQLQ005_12_kinich_02.wem"
-        },
-        "64517cc7abf501bf": {
-            "hash": "64517cc7abf501bf",
-            "directory": "External12",
-            "voiceContent": "바로 그거야!",
-            "sourceName": "vo_JNQLQ005_12_kinich_03.wem"
-        },
-        "a33ade10f2729270": {
-            "hash": "a33ade10f2729270",
-            "directory": "External20",
-            "voiceContent": "순서대로 해야지, 되돌아가면 안 돼. 다시 해봐",
-            "sourceName": "vo_JNQLQ005_10_kinich_06.wem"
-        },
-        "1c61c5775f0133f9": {
-            "hash": "1c61c5775f0133f9",
-            "directory": "External3",
-            "voiceContent": "왔군. 놈들에게 상처 입지 않도록 조심해",
-            "sourceName": "vo_JNQLQ004_15_kinich_01.wem"
-        },
-        "341ac0c4e3fb3544": {
-            "hash": "341ac0c4e3fb3544",
-            "directory": "External6",
-            "voiceContent": "심연 마물의 수가 많지만, 이쪽도 전력은 충분해. 밤의 신의 나라의 힘으로 정보를 전해서 인력을 즉시 조정할 수도 있고",
-            "sourceName": "vo_NTAQ108_1_kinich_01.wem"
-        },
         "09a28ead6a47b63b": {
             "hash": "09a28ead6a47b63b",
             "directory": "External1",
-            "voiceContent": "그러니까 서두를 거 없이, 침착하게 싸워",
+            "voiceContent": "그러니까 서두를 거 없이, 침착하게 싸",
             "sourceName": "vo_NTAQ108_1_kinich_02.wem"
         },
         "10cc54240dc0ecf6": {
             "hash": "10cc54240dc0ecf6",
             "directory": "External2",
-            "voiceContent": "아쥬는 이렇게 말하면서 마물한테 화풀이 중이야",
+            "voiceContent": "아쥬는 이렇게 말하면서 마물한테 화풀이 중이",
             "sourceName": "vo_NTAQ108_4_kinich_02.wem"
         },
-        "8598c4817f735363": {
-            "hash": "8598c4817f735363",
-            "directory": "External16",
-            "voiceContent": "불경하구나, 네놈들——",
-            "sourceName": "vo_NTAQ108_4_ajaw_02.wem"
+        "1c61c5775f0133f9": {
+            "hash": "1c61c5775f0133f9",
+            "directory": "External3",
+            "voiceContent": "왔군. 놈들에게 상처 입지 않도록 조심",
+            "sourceName": "vo_JNQLQ004_15_kinich_01.wem"
+        },
+        "341ac0c4e3fb3544": {
+            "hash": "341ac0c4e3fb3544",
+            "directory": "External6",
+            "voiceContent": "심연 마물의 수가 많지만, 이쪽도 전력은 충분해. 밤의 신의 나라의 힘으로 정보를 전해서 인력을 즉시 조정할 수도 있",
+            "sourceName": "vo_NTAQ108_1_kinich_01.wem"
+        },
+        "64517cc7abf501bf": {
+            "hash": "64517cc7abf501bf",
+            "directory": "External12",
+            "voiceContent": "바로 그거야",
+            "sourceName": "vo_JNQLQ005_12_kinich_03.wem"
         },
         "7daa822cd72a0959": {
             "hash": "7daa822cd72a0959",
             "directory": "External15",
-            "voiceContent": "「마비카 이 자식, 왜 나타의 전사들이 위대한 이 몸의 전율 돋는 포효를 못 듣게 하는 거냐!」",
+            "voiceContent": "「마비카 이 자식, 왜 나타의 전사들이 위대한 이 몸의 전율 돋는 포효를 못 듣게 하는 거냐!",
             "sourceName": "vo_NTAQ108_4_kinich_01.wem"
         },
-        "c6871699973cb04c": {
-            "hash": "c6871699973cb04c",
-            "directory": "External24",
-            "voiceContent": "미천한 심연이여, 이 쿠훌 아쥬 님 앞에 무릎 꿇거라!",
-            "sourceName": "vo_NTAQ108_4_ajaw_01.wem"
+        "8598c4817f735363": {
+            "hash": "8598c4817f735363",
+            "directory": "External16",
+            "voiceContent": "불경하구나, 네놈들—",
+            "sourceName": "vo_NTAQ108_4_ajaw_02.wem"
+        },
+        "a33ade10f2729270": {
+            "hash": "a33ade10f2729270",
+            "directory": "External20",
+            "voiceContent": "순서대로 해야지, 되돌아가면 안 돼. 다시 해",
+            "sourceName": "vo_JNQLQ005_10_kinich_06.wem"
+        },
+        "b6821aceb3e32ad6": {
+            "hash": "b6821aceb3e32ad6",
+            "directory": "External22",
+            "voiceContent": "산왕이 토해낸 열매를 조심해. 내가 그걸로 산왕을 상대할",
+            "sourceName": "vo_JNQLQ005_12_kinich_02.wem"
         },
         "b79abeeebc31c691": {
             "hash": "b79abeeebc31c691",
             "directory": "External22",
-            "voiceContent": "이 비열하고 교활한 놈들, 실력이 안 되니까 물량 공세냐!",
+            "voiceContent": "이 비열하고 교활한 놈들, 실력이 안 되니까 물량 공세냐",
             "sourceName": "vo_NTAQ106_30_ajaw_01.wem"
+        },
+        "c6871699973cb04c": {
+            "hash": "c6871699973cb04c",
+            "directory": "External24",
+            "voiceContent": "미천한 심연이여, 이 쿠훌 아쥬 님 앞에 무릎 꿇거라",
+            "sourceName": "vo_NTAQ108_4_ajaw_01.wem"
+        },
+        "e76faa4a58400d17": {
+            "hash": "e76faa4a58400d17",
+            "directory": "External28",
+            "voiceContent": "#{NICKNAME}, 새로운 소식이 들어왔",
+            "sourceName": "vo_NTAQ106_28_kinich_01.wem"
         }
     },
     "Gameplay": {
-        "d6fe6a92e49d2507": {
-            "hash": "d6fe6a92e49d2507",
-            "directory": "External26",
-            "voiceContent": "목표가 걸렸어",
-            "sourceName": "vo_kinich_battle_skill1_04.wem"
-        },
-        "7dec489c608a377e": {
-            "hash": "7dec489c608a377e",
-            "directory": "External15",
-            "voiceContent": "사냥감 발견",
-            "sourceName": "vo_kinich_battle_skill1_05.wem"
-        },
-        "d82756a48f1d7021": {
-            "hash": "d82756a48f1d7021",
-            "directory": "External27",
-            "voiceContent": "퇴로 봉쇄",
-            "sourceName": "vo_kinich_battle_skill1_06.wem"
-        },
-        "2cc628243b2fc804": {
-            "hash": "2cc628243b2fc804",
-            "directory": "External5",
-            "voiceContent": "밤의 신에게 보답을",
-            "sourceName": "vo_kinich_battle_skill3_01.wem"
+        "002dec609752835b": {
+            "hash": "002dec609752835b",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_jump_03.wem"
         },
         "024cf60cc17a96fb": {
             "hash": "024cf60cc17a96fb",
             "directory": "External0",
-            "voiceContent": "저세상으로 보내주지",
+            "voiceContent": "저세상으로 보내주",
             "sourceName": "vo_kinich_battle_skill3_02.wem"
         },
-        "8059841504acc0b2": {
-            "hash": "8059841504acc0b2",
-            "directory": "External16",
-            "voiceContent": "과거의 그림자여, 내 명을 받들라",
-            "sourceName": "vo_kinich_battle_skill3_03.wem"
-        },
-        "c4dc65b6fc88f2db": {
-            "hash": "c4dc65b6fc88f2db",
-            "directory": "External24",
-            "voiceContent": "키니치 몫을 나눠야겠지?아쥬 이딴 쓰레기가 갖고 싶어?",
-            "sourceName": "vo_kinich_chest_open_01.wem"
-        },
-        "477817d0ed1ef064": {
-            "hash": "477817d0ed1ef064",
-            "directory": "External8",
-            "voiceContent": "키니치 뭐든 나름의 쓸모가 있는 법이지.아쥬 어릴 때 제대로 못 먹고 자랐냐?",
-            "sourceName": "vo_kinich_chest_open_02.wem"
-        },
-        "c96b51c8a9ec66f5": {
-            "hash": "c96b51c8a9ec66f5",
-            "directory": "External25",
-            "voiceContent": "아쥬 칫, 별 볼 일 없는 물건들이군.키니치 그럼 그냥 가든가, 말 많네",
-            "sourceName": "vo_kinich_chest_open_03.wem"
+        "04bcd87244b5f775": {
+            "hash": "04bcd87244b5f775",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_jump_01.wem"
         },
         "071303fab6e36d23": {
             "hash": "071303fab6e36d23",
             "directory": "External0",
-            "voiceContent": "네 상황이 안 좋다는 건 너도 알지?",
+            "voiceContent": "네 상황이 안 좋다는 건 너도 알지",
             "sourceName": "vo_kinich_life_less30_teammate_01.wem"
-        },
-        "449a5612cbc7ee0c": {
-            "hash": "449a5612cbc7ee0c",
-            "directory": "External8",
-            "voiceContent": "가격을 논해볼까?",
-            "sourceName": "vo_kinich_life_less30_teammate_02.wem"
-        },
-        "fd55003b09fdcdba": {
-            "hash": "fd55003b09fdcdba",
-            "directory": "External31",
-            "voiceContent": "돌아보지… 마…",
-            "sourceName": "vo_kinich_life_die_01.wem"
-        },
-        "575a1e43386392bd": {
-            "hash": "575a1e43386392bd",
-            "directory": "External10",
-            "voiceContent": "모든 일엔 대가가 있어…",
-            "sourceName": "vo_kinich_life_die_02.wem"
-        },
-        "be049bd11ea1e7b5": {
-            "hash": "be049bd11ea1e7b5",
-            "directory": "External23",
-            "voiceContent": "좋아, 거래를 수락할게",
-            "sourceName": "vo_kinich_teamJoin_01.wem"
-        },
-        "3ae73dc7b7521452": {
-            "hash": "3ae73dc7b7521452",
-            "directory": "External7",
-            "voiceContent": "내가 처리할게",
-            "sourceName": "vo_kinich_teamJoin_02.wem"
-        },
-        "bcdaafbf741fe99b": {
-            "hash": "bcdaafbf741fe99b",
-            "directory": "External23",
-            "voiceContent": "앞으로 잘 부탁해",
-            "sourceName": "vo_kinich_teamJoin_03.wem"
-        },
-        "8fd336c136f374e5": {
-            "hash": "8fd336c136f374e5",
-            "directory": "External17",
-            "voiceContent": "키니치 아쥬는 성격이 괴팍해서, 무슨 말을 하든 대부분 무시하면 돼.아쥬 키니치 자식아!! 그렇게 잘났으면 날 내보내 줘——!",
-            "sourceName": "vo_kinich_character_idle_01.wem"
-        },
-        "356118b90830ddc2": {
-            "hash": "356118b90830ddc2",
-            "directory": "External6",
-            "voiceContent": "격려나 위로는 다른 사람들이 잘하지. 내 방식은 「대가」를 계산하는 거야",
-            "sourceName": "vo_kinich_character_idle_02.wem"
-        },
-        "8ea90aaf8c71098b": {
-            "hash": "8ea90aaf8c71098b",
-            "directory": "External17",
-            "voiceContent": "70%는 조사에, 10%는 판단에, 그리고 나머지는 공격에. 난 이렇게 에너지를 분배해",
-            "sourceName": "vo_kinich_character_idle_03.wem"
-        },
-        "d28cde5364514b88": {
-            "hash": "d28cde5364514b88",
-            "directory": "External26",
-            "voiceContent": "흥… 바짓단에서 아직도 물이 떨어져…",
-            "sourceName": "vo_kinich_weather_afterRain_01.wem"
-        },
-        "1eeeb8b939b73b36": {
-            "hash": "1eeeb8b939b73b36",
-            "directory": "External3",
-            "voiceContent": "아쥬 엉덩이를 빛내는 벌레가 하늘에서 떨어지기라도 했나? 별로 밝지도 않구만?키니치 넌 그 벌레보다도 어두운 것 같은데.아쥬 뭐 이 자식아?!",
-            "sourceName": "vo_kinich_weather_thunder_01.wem"
-        },
-        "e8e02fd45fab8de5": {
-            "hash": "e8e02fd45fab8de5",
-            "directory": "External29",
-            "voiceContent": "키니치 이런 날씨는 익스트림 스포츠의 도전성을 높여주지.아쥬 얼른 뛰어 봐…. 결과가 무척이나 기대되네, 크흐흐흐",
-            "sourceName": "vo_kinich_weather_gale_01.wem"
-        },
-        "cc3ed733725ee23f": {
-            "hash": "cc3ed733725ee23f",
-            "directory": "External25",
-            "voiceContent": "아쥬 난 선글라스 있지롱~ 근데 아무도 안 빌려줄 거야~",
-            "sourceName": "vo_kinich_weather_sunny_01.wem"
-        },
-        "74394f3479bc4c25": {
-            "hash": "74394f3479bc4c25",
-            "directory": "External14",
-            "voiceContent": "아쥬 대지가 구름과 만나고 어둠이 광야를 집어삼킬 때, 이 몸은 휘몰아치는 광풍으로 속세를 불태우리라!키니치 광풍이 아니라 「허풍」이겠지",
-            "sourceName": "vo_kinich_weather_breezy_01.wem"
-        },
-        "cd7dac2a305f8cbf": {
-            "hash": "cd7dac2a305f8cbf",
-            "directory": "External25",
-            "voiceContent": "안녕, 난 마침 나가려던 참이야. 날 밝기 전까진 안 돌아오니까 기다리지 마",
-            "sourceName": "vo_kinich_dialog_greetingMorning.wem"
-        },
-        "4266bc4b19adfd3d": {
-            "hash": "4266bc4b19adfd3d",
-            "directory": "External8",
-            "voiceContent": "기왕 왔으니까 뭐 좀 먹고 갈래? 자, 이걸로 손부터 닦아",
-            "sourceName": "vo_kinich_dialog_greetingNoon.wem"
-        },
-        "07e5dbbddf70c0b1": {
-            "hash": "07e5dbbddf70c0b1",
-            "directory": "External0",
-            "voiceContent": "「오늘」이 곧 지나가네. 내가 성과에 만족하든 안 하든 사실은 변하지 않지…. 이제부턴 더 서둘러야겠어",
-            "sourceName": "vo_kinich_dialog_greetingNight.wem"
-        },
-        "8922df3c77210bd3": {
-            "hash": "8922df3c77210bd3",
-            "directory": "External17",
-            "voiceContent": "모닥불 연기가 너무 매캐해? 잠시만… 다 됐어. 이제 쉬어",
-            "sourceName": "vo_kinich_dialog_greetingNight2.wem"
-        },
-        "3b16d71c9c158574": {
-            "hash": "3b16d71c9c158574",
-            "directory": "External7",
-            "voiceContent": "아쥬 야, 키니치, 너 사람들이 왜 널 안 좋아하는지 되돌아본 적 없어? 달을 보며 잠 못 이뤄 뒤척일 때 마음이 착잡하지 않든? 지금 지혜롭고 신성한 용 쿠훌 아쥬 님께서 네 앞에 있잖냐. 왜 바짝 엎드리고 머리를 조아리며 방황하는 너에게 가르침을 내려달라 간청하지 않는 거야?키니치 그러는 넌 처세를 너무 잘해서 추종자들이 널 두들겨 패고 싶어 하나 보구나",
-            "sourceName": "vo_kinich_dialog_idle.wem"
-        },
-        "72eda63c464bd27c": {
-            "hash": "72eda63c464bd27c",
-            "directory": "External14",
-            "voiceContent": "용 사냥꾼이라는 직업 특성상 모두의 이해를 받을 순 없어. 하지만 모순이 해결되지 않고 완벽한 해결책이 환상 속에만 존재할 땐 누군가가 나서서 두 손을 더럽혀야 하지. 가격만 맞다면 난 그게 나여도 상관없어",
-            "sourceName": "vo_kinich_dialog_idle2.wem"
-        },
-        "c5284412a292e7f3": {
-            "hash": "c5284412a292e7f3",
-            "directory": "External24",
-            "voiceContent": "아쥬에게 다른 의도가 있다는 건 알지만, 널 위해서라면 기꺼이 위험을 감수할 수 있어. 모든 일엔 대가가 있다는 말을 입에 달고 살긴 하지만, 세상엔 그 어떤 대가보다 중요한 일도 있으니까",
-            "sourceName": "vo_kinich_dialog_close1.wem"
-        },
-        "d672a2c57b589354": {
-            "hash": "d672a2c57b589354",
-            "directory": "External26",
-            "voiceContent": "키니치 필요하다면 내가 모험가 길드의 의뢰를 분담해 줄게.아쥬 반드시 가장 까다롭고 곤란하고 위험한 임무로 줘!",
-            "sourceName": "vo_kinich_dialog_close.wem"
-        },
-        "7175c1fbdaf410e7": {
-            "hash": "7175c1fbdaf410e7",
-            "directory": "External14",
-            "voiceContent": "「나무살이」는 구속받지 않는 절대적인 자유를 추구해. 사람과 용은 서로 인정하고 돕는 사이고, 계약 관계는 존재하지 않아. 난 예외지만",
-            "sourceName": "vo_kinich_dialog_share_01.wem"
-        },
-        "41f1ca327ad9356f": {
-            "hash": "41f1ca327ad9356f",
-            "directory": "External8",
-            "voiceContent": "키니치 마몬치요를 딸 땐 주변에 방해되는 용이 없는지 꼭 확인해.아쥬 이 쪼잔한 초록 도마뱀, 좀스러운 짠돌이 파충류 자식아! 뱃가죽이 등에 달라붙을 정도로 배고픈 게 아니었으면 그 비루한 과일 따위 내가 거들떠나 봤을 것 같냐!키니치 그럼 내가 먹는다.아쥬 크아악——화가 난다악!!",
-            "sourceName": "vo_kinich_pref_gift_01.wem"
-        },
-        "1a7171e4b7882582": {
-            "hash": "1a7171e4b7882582",
-            "directory": "External3",
-            "voiceContent": "지금까지 누군가에게 대가를 요구하는 쪽은 나였어. 불의 신님이 「환혼시」로 날 밤의 신의 나라에서 귀환시켜 주시기 전까진 말이야. 「대가」를 지불하는 입장이 되어서야… 그 의미를 완전히 이해할 수 있었지. 대가는 강자에겐 칩이고, 약자에겐 판돈이야. 가장 중요한 건 너한테 베팅할 배짱이 있느냐지",
-            "sourceName": "vo_kinich_teammate_mavuika_01.wem"
-        },
-        "cf3f03a35fb699cb": {
-            "hash": "cf3f03a35fb699cb",
-            "directory": "External25",
-            "voiceContent": "「전투 고문」을 맡아달라는 말라니의 의뢰를 받은 적이 있어. 보수가 꽤 괜찮아서 승낙했지. 근데 몇 번 협력해 보니까 말라니의 실력이 상당하더라고. 그래서 거듭 물어보니까, 카치나에게 야외 생존 기술을 전수해 주려고 「전투 고문」을 고용한 거였더라….「자연」과의 전투라니, 음… 내게 이건 「생활」인데 말이지.어찌 됐든 의뢰를 마친 후 단골 고객이 두 명 더 생겼어",
-            "sourceName": "vo_kinich_teammate_mualani_01.wem"
         },
         "078cce57ad9bd3fb": {
             "hash": "078cce57ad9bd3fb",
             "directory": "External0",
-            "voiceContent": "카치나에 관한 의뢰를 본 적이 있어. 카치나의 「고대 이름」을 시기한 몇몇 「메아리 아이」의 악질들이 괜한 핑계를 대며 카치나의 용 동료를 해칠 사람을 찾더라고. 그래서 녀석들이 대가를 치르게 했지",
+            "voiceContent": "카치나에 관한 의뢰를 본 적이 있어. 카치나의 「고대 이름」을 시기한 몇몇 「메아리 아이」의 악질들이 괜한 핑계를 대며 카치나의 용 동료를 해칠 사람을 찾더라고. 그래서 녀석들이 대가를 치르게 했",
             "sourceName": "vo_kinich_teammate_kachina_01.wem"
         },
-        "8598fb61aaa349a0": {
-            "hash": "8598fb61aaa349a0",
-            "directory": "External16",
-            "voiceContent": "이미 눈치챘을지도 모르지만, 시틀라리의 의뢰를 받고 이나즈마 상인에게 묵직한 종이 서적을 구입한 적이 있어. 의뢰인의 프라이버시를 캘 생각은 없지만, 「연기 주인」의 서적은 직물에 짜는 거 아니었나?",
-            "sourceName": "vo_kinich_teammate_citlali_01.wem"
+        "07e5dbbddf70c0b1": {
+            "hash": "07e5dbbddf70c0b1",
+            "directory": "External0",
+            "voiceContent": "「오늘」이 곧 지나가네. 내가 성과에 만족하든 안 하든 사실은 변하지 않지…. 이제부턴 더 서둘러야겠",
+            "sourceName": "vo_kinich_dialog_greetingNight.wem"
         },
-        "740ad11fbfb28cda": {
-            "hash": "740ad11fbfb28cda",
-            "directory": "External14",
-            "voiceContent": "키니치 의뢰를 맡겨본 적 있어. 한 번은 아쥬가 「아프다」고 울고불고 난리를 치길래, 기왕 이렇게 된 거 제일 뛰어난 용 의사에게 데려가 보자 싶었지. 실력이 확실히 대단했어. 아쥬가 진료소에 들어간지 얼마 지나지도 않았는데 싹 나아서 나오더라고.아쥬 니… 니가 뭘 알아! 그놈은 돌팔이야, 돌팔이! …그놈이 뭐라고 했는지도 모르면서!",
-            "sourceName": "vo_kinich_teammate_ifa_01.wem"
+        "0867bc3ac16d5952": {
+            "hash": "0867bc3ac16d5952",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_07.wem"
         },
-        "fda59a7d489e12cd": {
-            "hash": "fda59a7d489e12cd",
-            "directory": "External31",
-            "voiceContent": "차스카가 의뢰를 처리하는 걸 본 적이 있어. 우린 분쟁을 해결하는 수단에 대한 의견이 달랐지. 난 보통 한쪽의 입을 완전히 다물게 하는 편인데, 차스카는 양쪽 다 말을 못 하게 하더라. 양쪽이 마침내 병상에서 입을 열 수 있게 됐을 땐, 다툰 이유를 이미 잊은 상태였지",
-            "sourceName": "vo_kinich_teammate_chasca_01.wem"
-        },
-        "96c2f725ed493d5b": {
-            "hash": "96c2f725ed493d5b",
-            "directory": "External18",
-            "voiceContent": "「메아리 아이」를 지나치다 이상한 의뢰를 봤어. 키우기 쉬운 식물을 구하는 의뢰길래 뚱룡장의 씨앗과 화분, 비료를 가져다줬지. 뚱룡장은 널리 퍼져있는 데다 황야에서도 잘 자라는 식물이니까. 근데 나중에 보수를 받으러 가서 보니까, 화분에 새싹조차 안 자라 있더라.난 실로닌의 원예 능력을 과대평가한 대가를 치러야 했어. 내가 실패한 몇 안 되는 의뢰 중 하나지",
-            "sourceName": "vo_kinich_teammate_xilonen_01.wem"
-        },
-        "7a13e74a4051712c": {
-            "hash": "7a13e74a4051712c",
-            "directory": "External15",
-            "voiceContent": "키니치 얀사에게 의뢰를 받은 적이 있어. 아니, 협력이라고 해야 하나…. 그 운동 코치는 칼로리를 한 자릿수까지 정확하게 계산해서 수강생들의 건강 식단을 만들거든. 그러려면 품질과 크기 모두 정확하게 부합하는 열매를 구해야 해. 반점이나 좀먹은 부분이 조금만 있어도 못 쓰지. 다른 사람들은 의뢰 내용이 너무 까다롭다고 여겼지만, 난 마침 눈썰미도 좋고, 불량품을 소모할 안정적인 루트도 갖고 있어서 괜찮았어.아쥬 잠깐만? 그거 설마… 내 주스 얘기냐?",
-            "sourceName": "vo_kinich_teammate_iansan_01.wem"
-        },
-        "f15e1f14483f2e99": {
-            "hash": "f15e1f14483f2e99",
-            "directory": "External30",
-            "voiceContent": "난 용 사냥꾼이야. 사냥할 용이 없을 땐 다른 의뢰를 받기도 하지. 어떻게 보면 너랑 동종 업계 사람인 셈이야",
-            "sourceName": "vo_kinich_friendship_01.wem"
-        },
-        "8119f10b7bf2e936": {
-            "hash": "8119f10b7bf2e936",
-            "directory": "External16",
-            "voiceContent": "예전에 편지 심부름을 할 때, 수취인이 「겸사겸사 뭐 하나만 도와달라」고 할 때가 있었어. 「겸사겸사」의 가격은 얼마일까? 그래서 가격을 제시하면 굳이 돕지 않아도 되더라",
-            "sourceName": "vo_kinich_friendship_02.wem"
-        },
-        "da2bd30200056a9f": {
-            "hash": "da2bd30200056a9f",
-            "directory": "External27",
-            "voiceContent": "처음 용을 사냥할 땐 몇 주 동안 준비를 했어. 관찰과 추적, 잠복 정찰에만 며칠이 걸렸지. 세 종류의 함정을 만들고 목표의 생활 패턴과 음식 취향까지 기록했어….노력이 헛수고가 될 때도 많지만, 그 헛수고는 꼭 필요한 일이야",
-            "sourceName": "vo_kinich_friendship_03.wem"
-        },
-        "7ff0c4f9d17231d4": {
-            "hash": "7ff0c4f9d17231d4",
-            "directory": "External15",
-            "voiceContent": "키니치 아쥬는 오래된 유적에 봉인되어 있었어. 난 아쥬와 계약을 맺고 녀석을 봉인에서 풀어줬지.아쥬 금방이라도 시궁창에 꼬라박을 것 같던 녀석이 지금까지 살아남을 줄 누가 알았겠냐고…. 뭐, 어쩌겠어. 이 열화의 나라의 지고한 영주께선 지위에 걸맞은 미덕과 교양을 갖췄으니 말이야.키니치 그 미덕과 교양이란 건 매일 내가 죽기만을 바라는 심보인가?아쥬 인내심이랑 시간을 말하는 거잖아!키니치 …아무튼, 약점만 잡으면 사악한 생물도 얼마든지 이용할 수 있어.아쥬 이 빌어먹을 키니치 자식! 오늘이야말로 차도살인하고 말 테다!",
-            "sourceName": "vo_kinich_friendship_04.wem"
-        },
-        "2a8f7ef2c6cd51a5": {
-            "hash": "2a8f7ef2c6cd51a5",
-            "directory": "External5",
-            "voiceContent": "늘 「대가」와 함께 해온 만큼, 대영혼에게 「회고의 불」, 그러니까 「말리포」라는 고대 이름을 받게 된 건 놀랄 일도 아니야.살아남아야만 가치를 창출할 수 있고, 난 모든 게 종말로 향하는 그날을 기대하지 않아. 하지만 「회고의 불」의 소유자로서, 난 그 불꽃을 받아들일 준비도 되어 있어.내 삶을 얼마든지 지켜보라고 그래, 난 어떤 후회도 남기지 않을 테니까",
-            "sourceName": "vo_kinich_friendship_05.wem"
-        },
-        "4eefa5d07c3e56a3": {
-            "hash": "4eefa5d07c3e56a3",
-            "directory": "External9",
-            "voiceContent": "난 다양한 익스트림 스포츠를 시도해. 질리면 곧잘 다른 걸 시도하지. 기술을 갈고닦으면서 공포를 이겨내는 거야…. 「직시」하고, 「적응」해서, 끝내 「정복」하는 거지",
-            "sourceName": "vo_kinich_pref_hobby.wem"
-        },
-        "97989caa01dcd63a": {
-            "hash": "97989caa01dcd63a",
-            "directory": "External18",
-            "voiceContent": "키니치 야외에선 보통 편리한 대로 먹는 편이야. 가장 좋은 선택은 육류와 과일이지.아쥬 헹, 편식 안 하는 착한 어린이인 척하긴. 네가 알갱이 열매 따는 건 한 번도 못 봤거든?키니치 그건 메고 다니기 무거우니까",
-            "sourceName": "vo_kinich_pref_foodLike.wem"
-        },
-        "ebe5473f5d05d036": {
-            "hash": "ebe5473f5d05d036",
-            "directory": "External29",
-            "voiceContent": "아쥬 날것과 찬 것, 그리고 매운 것은 존귀하고 신성한 이 몸의 육신을 갉아 먹고, 뜨거운 기름과 탁한 향기는 오장육부를 해치지. 딱딱한 음식은 씹기 어렵고, 너무 흐물흐물한 음식은 맛이 느껴지질 않아….키니치 그래서 대체 뭘 먹고 싶은 건데?아쥬 그거야 당연히 네 영혼이지. 우후후후~",
-            "sourceName": "vo_kinich_pref_foodDislike.wem"
-        },
-        "4fd082aaa4841661": {
-            "hash": "4fd082aaa4841661",
-            "directory": "External9",
-            "voiceContent": "키니치 정말 맛있어. 상응하는 보수나 네가 원하는 답례를 줘야 할 것 같아.아쥬 당장 토해내! 이 욕심 많은 살모사야! 내 몫도 있었을 거라고!",
-            "sourceName": "vo_kinich_spice_pref_01.wem"
+        "0990e04c6bee0324": {
+            "hash": "0990e04c6bee0324",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_05.wem"
         },
         "0b5e91807fa65ce7": {
             "hash": "0b5e91807fa65ce7",
             "directory": "External1",
-            "voiceContent": "키니치 괜찮네, 생각했던 것보다 더 맛있어.아쥬 지금 비웃었지? 이 자식 속으로 널 요리도 못 하는 녀석이라고 생각할걸~",
+            "voiceContent": "키니치 괜찮네, 생각했던 것보다 더 맛있어.아쥬 지금 비웃었지? 이 자식 속으로 널 요리도 못 하는 녀석이라고 생각할걸",
             "sourceName": "vo_kinich_spice_normal_01.wem"
         },
-        "36c27ff5d9be344d": {
-            "hash": "36c27ff5d9be344d",
-            "directory": "External6",
-            "voiceContent": "키니치 …돈 안 내도 되지?아쥬 기다려 봐 이 자식아! 난 맛도 못 봤다구!",
-            "sourceName": "vo_kinich_spice_dislike_01.wem"
+        "0b6079f0780a477f": {
+            "hash": "0b6079f0780a477f",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_breath_03.wem"
         },
-        "52dc082c489f39dc": {
-            "hash": "52dc082c489f39dc",
-            "directory": "External10",
-            "voiceContent": "키니치 아쥬?아쥬 아, 알았어 알았어. 하여튼 일 시키는 건 꼭 돈 받듯이 적극적이라니까. 그렇게 잘났으면 네가 날개 달고 날아보시든가. 야, 너 말이야 너. 얼른 안 타? 위대하고 신성한 용 쿠훌 아쥬 님의 등에 타는 건 일생일대의 영광이라고.키니치 안심해, 그냥 가벼운 숲 여행이야. 코스는 미리 짜뒀으니까 나만 따라와. 안전은 걱정하지 말고.아쥬 주기로 한 보상 잊지 마라!키니치 자, 뛰어오르면 시작이야…. 생일 축하해",
-            "sourceName": "vo_kinich_pref_birthday_01.wem"
-        },
-        "3a246177d6f7828e": {
-            "hash": "3a246177d6f7828e",
-            "directory": "External7",
-            "voiceContent": "검은 튼튼하고 예리한 걸 고르면 돼",
-            "sourceName": "vo_kinich_starUp_01.wem"
-        },
-        "c071af8140fcd4b1": {
-            "hash": "c071af8140fcd4b1",
-            "directory": "External24",
-            "voiceContent": "배낭은 가볍고 간소하게 정리해야 해…. 이런 우산은 굳이 챙길 필요 없지",
-            "sourceName": "vo_kinich_starUp_02.wem"
-        },
-        "3b4e558981798e30": {
-            "hash": "3b4e558981798e30",
-            "directory": "External7",
-            "voiceContent": "행동하기 전에 냉정과 민첩함을 유지하기 위해 두건을 꽉 매곤 해",
-            "sourceName": "vo_kinich_starUp_03.wem"
-        },
-        "f80d234e14adda83": {
-            "hash": "f80d234e14adda83",
-            "directory": "External31",
-            "voiceContent": "네가 준 수많은 도움을 공짜로 받진 않을 거야. 원하는 가격을 제시하거나 내 보답을 받아줘…. 「말리포」의 이름으로 약속할게. 어떤 선택을 해도 손해는 아닐 거야",
-            "sourceName": "vo_kinich_starUp_04.wem"
-        },
-        "aeb8d82e78f9c5e8": {
-            "hash": "aeb8d82e78f9c5e8",
-            "directory": "External21",
-            "voiceContent": "이젠 네가 대가를 치를 차례야",
-            "sourceName": "vo_kinich_life_less30_01.wem"
-        },
-        "19432613ed5ed8af": {
-            "hash": "19432613ed5ed8af",
-            "directory": "External3",
-            "voiceContent": "계략에는 계략으로…",
-            "sourceName": "vo_kinich_life_less30_02.wem"
-        },
-        "941fc41c2ddb84c6": {
-            "hash": "941fc41c2ddb84c6",
-            "directory": "External18",
-            "voiceContent": "아쥬 키니치~ 죽어라~ 키니치~ 죽어라~",
-            "sourceName": "vo_kinich_life_less30_03.wem"
-        },
-        "ebdc044c19aa47ec": {
-            "hash": "ebdc044c19aa47ec",
-            "directory": "External29",
-            "voiceContent": "아쥬 후후… 괜찮은 거래로군…",
-            "sourceName": "vo_kinich_life_die_03.wem"
-        },
-        "718ef6cb5fe8681a": {
-            "hash": "718ef6cb5fe8681a",
-            "directory": "External14",
-            "voiceContent": "실수했군",
-            "sourceName": "vo_kinich_battle_hit_H_01.wem"
-        },
-        "cefa14d39131561d": {
-            "hash": "cefa14d39131561d",
-            "directory": "External25",
-            "voiceContent": "이런…",
-            "sourceName": "vo_kinich_battle_hit_H_02.wem"
-        },
-        "a07d7ae44852aebf": {
-            "hash": "a07d7ae44852aebf",
-            "directory": "External20",
-            "voiceContent": "…이걸 꼭 써야 돼?",
-            "sourceName": "vo_kinich_explore_fly_start_01.wem"
-        },
-        "b8bde6a62a73a187": {
-            "hash": "b8bde6a62a73a187",
-            "directory": "External23",
-            "voiceContent": "물 잘 챙겨 마셔",
-            "sourceName": "vo_kinich_weather_desert_01.wem"
-        },
-        "faf6941ba1cdab56": {
-            "hash": "faf6941ba1cdab56",
-            "directory": "External31",
-            "voiceContent": "고민에 빠진 사람들은 대부분 생각이 너무 많거나, 반대로 생각이 너무 없더라. 난 늘 스스로의 다음 목표와 도착점을 찾고 있어. 고민할 시간 따윈 없지",
-            "sourceName": "vo_kinich_dialog_annoyed_01.wem"
+        "0eadd5223d8aee19": {
+            "hash": "0eadd5223d8aee19",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_02.wem"
         },
         "14e049dcf9cb76a5": {
             "hash": "14e049dcf9cb76a5",
             "directory": "External2",
-            "voiceContent": "키니치 「말리포」의 키니치야, 만나서 반가워. 의뢰 내용을 전할 땐 가격을 제시해 줘.아쥬 …그게 다야? 아오, 속 터져! 야, 네가 일을 얼마나 빠르고 깔끔하게 처리하는지, 지금까지 얼마나 우수한 전적을 쌓았는지 얘기하면서 상대방의 기대감을 높여야 할 거 아냐. 그런 다음에 「나 정도 실력이면 가격을 더 쳐줘야 한다!」, 딱 이렇게 얘기해야지! 당최 말이야, 너 장사는 할 줄 아냐?아쥬 이 위대하고 신성한 용 쿠훌 아쥬가 너처럼 인상만 더러운 멍청이랑 계약하다니, 아이고 쪽팔려, 아이고 쪽팔려!",
+            "voiceContent": "키니치 「말리포」의 키니치야, 만나서 반가워. 의뢰 내용을 전할 땐 가격을 제시해 줘.아쥬 …그게 다야? 아오, 속 터져! 야, 네가 일을 얼마나 빠르고 깔끔하게 처리하는지, 지금까지 얼마나 우수한 전적을 쌓았는지 얘기하면서 상대방의 기대감을 높여야 할 거 아냐. 그런 다음에 「나 정도 실력이면 가격을 더 쳐줘야 한다!」, 딱 이렇게 얘기해야지! 당최 말이야, 너 장사는 할 줄 아냐?아쥬 이 위대하고 신성한 용 쿠훌 아쥬가 너처럼 인상만 더러운 멍청이랑 계약하다니, 아이고 쪽팔려, 아이고 쪽팔려",
             "sourceName": "vo_kinich_draw_appear_01.wem"
         },
-        "396bcdd8dcbabd9a": {
-            "hash": "396bcdd8dcbabd9a",
-            "directory": "External7",
-            "voiceContent": "「신의 눈」을 사용하는 덴 대가가 필요 없어. 하지만 공개되지 않은 가격일수록 마지막엔 비싼 값을 치러야 하지",
-            "sourceName": "vo_kinich_dialog_pendant_01.wem"
+        "19432613ed5ed8af": {
+            "hash": "19432613ed5ed8af",
+            "directory": "External3",
+            "voiceContent": "계략에는 계략으로",
+            "sourceName": "vo_kinich_life_less30_02.wem"
+        },
+        "1a7171e4b7882582": {
+            "hash": "1a7171e4b7882582",
+            "directory": "External3",
+            "voiceContent": "지금까지 누군가에게 대가를 요구하는 쪽은 나였어. 불의 신님이 「환혼시」로 날 밤의 신의 나라에서 귀환시켜 주시기 전까진 말이야. 「대가」를 지불하는 입장이 되어서야… 그 의미를 완전히 이해할 수 있었지. 대가는 강자에겐 칩이고, 약자에겐 판돈이야. 가장 중요한 건 너한테 베팅할 배짱이 있느냐",
+            "sourceName": "vo_kinich_teammate_mavuika_01.wem"
+        },
+        "1eeeb8b939b73b36": {
+            "hash": "1eeeb8b939b73b36",
+            "directory": "External3",
+            "voiceContent": "아쥬 엉덩이를 빛내는 벌레가 하늘에서 떨어지기라도 했나? 별로 밝지도 않구만?키니치 넌 그 벌레보다도 어두운 것 같은데.아쥬 뭐 이 자식아?",
+            "sourceName": "vo_kinich_weather_thunder_01.wem"
+        },
+        "272df3fa15e7d8e9": {
+            "hash": "272df3fa15e7d8e9",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackmid_02.wem"
         },
         "29018c942c048021": {
             "hash": "29018c942c048021",
             "directory": "External5",
-            "voiceContent": "아쥬 기술이 다 그게 그거구만…",
+            "voiceContent": "아쥬 기술이 다 그게 그거구만",
             "sourceName": "vo_ajaw_battle_skill1_03.wem"
         },
-        "a199423eb4df8189": {
-            "hash": "a199423eb4df8189",
-            "directory": "External20",
-            "voiceContent": "아쥬 신성한 용의 강림이다!",
-            "sourceName": "vo_kinich_battle_skill3_04.wem"
+        "2a8f7ef2c6cd51a5": {
+            "hash": "2a8f7ef2c6cd51a5",
+            "directory": "External5",
+            "voiceContent": "늘 「대가」와 함께 해온 만큼, 대영혼에게 「회고의 불」, 그러니까 「말리포」라는 고대 이름을 받게 된 건 놀랄 일도 아니야.살아남아야만 가치를 창출할 수 있고, 난 모든 게 종말로 향하는 그날을 기대하지 않아. 하지만 「회고의 불」의 소유자로서, 난 그 불꽃을 받아들일 준비도 되어 있어.내 삶을 얼마든지 지켜보라고 그래, 난 어떤 후회도 남기지 않을 테니",
+            "sourceName": "vo_kinich_friendship_05.wem"
         },
-        "f3caa845bccefec8": {
-            "hash": "f3caa845bccefec8",
-            "directory": "External30",
-            "voiceContent": "아쥬 이 몸 등장!",
-            "sourceName": "vo_kinich_battle_skill3_05.wem"
+        "2cc628243b2fc804": {
+            "hash": "2cc628243b2fc804",
+            "directory": "External5",
+            "voiceContent": "밤의 신에게 보답",
+            "sourceName": "vo_kinich_battle_skill3_01.wem"
+        },
+        "30c3dbe693b9f018": {
+            "hash": "30c3dbe693b9f018",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackheavy_02.wem"
         },
         "31551435e8933c26": {
             "hash": "31551435e8933c26",
             "directory": "External6",
-            "voiceContent": "아쥬 네 영혼을 이 몸께 바치거라.아쥬 하? 찍 소리도 못 내겠냐?아쥬 그럼 영원히 입 다물고 있어!",
+            "voiceContent": "아쥬 네 영혼을 이 몸께 바치거라.아쥬 하? 찍 소리도 못 내겠냐?아쥬 그럼 영원히 입 다물고 있어",
             "sourceName": "vo_kinich_battle_skill3_07.wem"
+        },
+        "356118b90830ddc2": {
+            "hash": "356118b90830ddc2",
+            "directory": "External6",
+            "voiceContent": "격려나 위로는 다른 사람들이 잘하지. 내 방식은 「대가」를 계산하는 거",
+            "sourceName": "vo_kinich_character_idle_02.wem"
+        },
+        "36c27ff5d9be344d": {
+            "hash": "36c27ff5d9be344d",
+            "directory": "External6",
+            "voiceContent": "키니치 …돈 안 내도 되지?아쥬 기다려 봐 이 자식아! 난 맛도 못 봤다구",
+            "sourceName": "vo_kinich_spice_dislike_01.wem"
+        },
+        "396bcdd8dcbabd9a": {
+            "hash": "396bcdd8dcbabd9a",
+            "directory": "External7",
+            "voiceContent": "「신의 눈」을 사용하는 덴 대가가 필요 없어. 하지만 공개되지 않은 가격일수록 마지막엔 비싼 값을 치러야 하",
+            "sourceName": "vo_kinich_dialog_pendant_01.wem"
+        },
+        "3a246177d6f7828e": {
+            "hash": "3a246177d6f7828e",
+            "directory": "External7",
+            "voiceContent": "검은 튼튼하고 예리한 걸 고르면",
+            "sourceName": "vo_kinich_starUp_01.wem"
+        },
+        "3ae73dc7b7521452": {
+            "hash": "3ae73dc7b7521452",
+            "directory": "External7",
+            "voiceContent": "내가 처리할",
+            "sourceName": "vo_kinich_teamJoin_02.wem"
+        },
+        "3b16d71c9c158574": {
+            "hash": "3b16d71c9c158574",
+            "directory": "External7",
+            "voiceContent": "아쥬 야, 키니치, 너 사람들이 왜 널 안 좋아하는지 되돌아본 적 없어? 달을 보며 잠 못 이뤄 뒤척일 때 마음이 착잡하지 않든? 지금 지혜롭고 신성한 용 쿠훌 아쥬 님께서 네 앞에 있잖냐. 왜 바짝 엎드리고 머리를 조아리며 방황하는 너에게 가르침을 내려달라 간청하지 않는 거야?키니치 그러는 넌 처세를 너무 잘해서 추종자들이 널 두들겨 패고 싶어 하나 보구",
+            "sourceName": "vo_kinich_dialog_idle.wem"
+        },
+        "3b20ae5361f3ffaf": {
+            "hash": "3b20ae5361f3ffaf",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_02.wem"
+        },
+        "3b4e558981798e30": {
+            "hash": "3b4e558981798e30",
+            "directory": "External7",
+            "voiceContent": "행동하기 전에 냉정과 민첩함을 유지하기 위해 두건을 꽉 매곤",
+            "sourceName": "vo_kinich_starUp_03.wem"
+        },
+        "41f1ca327ad9356f": {
+            "hash": "41f1ca327ad9356f",
+            "directory": "External8",
+            "voiceContent": "키니치 마몬치요를 딸 땐 주변에 방해되는 용이 없는지 꼭 확인해.아쥬 이 쪼잔한 초록 도마뱀, 좀스러운 짠돌이 파충류 자식아! 뱃가죽이 등에 달라붙을 정도로 배고픈 게 아니었으면 그 비루한 과일 따위 내가 거들떠나 봤을 것 같냐!키니치 그럼 내가 먹는다.아쥬 크아악——화가 난다악!",
+            "sourceName": "vo_kinich_pref_gift_01.wem"
+        },
+        "4266bc4b19adfd3d": {
+            "hash": "4266bc4b19adfd3d",
+            "directory": "External8",
+            "voiceContent": "기왕 왔으니까 뭐 좀 먹고 갈래? 자, 이걸로 손부터 닦",
+            "sourceName": "vo_kinich_dialog_greetingNoon.wem"
+        },
+        "449a5612cbc7ee0c": {
+            "hash": "449a5612cbc7ee0c",
+            "directory": "External8",
+            "voiceContent": "가격을 논해볼까",
+            "sourceName": "vo_kinich_life_less30_teammate_02.wem"
+        },
+        "46681e9c06a48da8": {
+            "hash": "46681e9c06a48da8",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_jump_04.wem"
+        },
+        "46b608ef119859cb": {
+            "hash": "46b608ef119859cb",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_04.wem"
+        },
+        "477817d0ed1ef064": {
+            "hash": "477817d0ed1ef064",
+            "directory": "External8",
+            "voiceContent": "키니치 뭐든 나름의 쓸모가 있는 법이지.아쥬 어릴 때 제대로 못 먹고 자랐냐",
+            "sourceName": "vo_kinich_chest_open_02.wem"
+        },
+        "47df3500bc191125": {
+            "hash": "47df3500bc191125",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_06.wem"
+        },
+        "4eefa5d07c3e56a3": {
+            "hash": "4eefa5d07c3e56a3",
+            "directory": "External9",
+            "voiceContent": "난 다양한 익스트림 스포츠를 시도해. 질리면 곧잘 다른 걸 시도하지. 기술을 갈고닦으면서 공포를 이겨내는 거야…. 「직시」하고, 「적응」해서, 끝내 「정복」하는 거",
+            "sourceName": "vo_kinich_pref_hobby.wem"
         },
         "4f2fd25f95e4873d": {
             "hash": "4f2fd25f95e4873d",
             "directory": "External9",
-            "voiceContent": "아쥬 이 몸의 위광을 따를 자, 그 누구냐!아쥬 난 지금 기분이 무척 안 좋으니.아쥬 대가를 치러라, 이 미천한 버러지야!",
+            "voiceContent": "아쥬 이 몸의 위광을 따를 자, 그 누구냐!아쥬 난 지금 기분이 무척 안 좋으니.아쥬 대가를 치러라, 이 미천한 버러지야",
             "sourceName": "vo_kinich_battle_skill3_08.wem"
+        },
+        "4fd082aaa4841661": {
+            "hash": "4fd082aaa4841661",
+            "directory": "External9",
+            "voiceContent": "키니치 정말 맛있어. 상응하는 보수나 네가 원하는 답례를 줘야 할 것 같아.아쥬 당장 토해내! 이 욕심 많은 살모사야! 내 몫도 있었을 거라고",
+            "sourceName": "vo_kinich_spice_pref_01.wem"
+        },
+        "507e4d4b48591f98": {
+            "hash": "507e4d4b48591f98",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_sprint_start_03.wem"
+        },
+        "52dc082c489f39dc": {
+            "hash": "52dc082c489f39dc",
+            "directory": "External10",
+            "voiceContent": "키니치 아쥬?아쥬 아, 알았어 알았어. 하여튼 일 시키는 건 꼭 돈 받듯이 적극적이라니까. 그렇게 잘났으면 네가 날개 달고 날아보시든가. 야, 너 말이야 너. 얼른 안 타? 위대하고 신성한 용 쿠훌 아쥬 님의 등에 타는 건 일생일대의 영광이라고.키니치 안심해, 그냥 가벼운 숲 여행이야. 코스는 미리 짜뒀으니까 나만 따라와. 안전은 걱정하지 말고.아쥬 주기로 한 보상 잊지 마라!키니치 자, 뛰어오르면 시작이야…. 생일 축하",
+            "sourceName": "vo_kinich_pref_birthday_01.wem"
+        },
+        "575a1e43386392bd": {
+            "hash": "575a1e43386392bd",
+            "directory": "External10",
+            "voiceContent": "모든 일엔 대가가 있어",
+            "sourceName": "vo_kinich_life_die_02.wem"
+        },
+        "5d9117f77ff86f96": {
+            "hash": "5d9117f77ff86f96",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_breath_02.wem"
+        },
+        "6015fadc6f94e24c": {
+            "hash": "6015fadc6f94e24c",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_h_03.wem"
+        },
+        "613fe6ee1a16e06e": {
+            "hash": "613fe6ee1a16e06e",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_h_05.wem"
+        },
+        "61f7793a38acf7b6": {
+            "hash": "61f7793a38acf7b6",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_sprint_start_01.wem"
+        },
+        "62a5ac6edd452d91": {
+            "hash": "62a5ac6edd452d91",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_idle_03.wem"
+        },
+        "62f246f41c8d1d39": {
+            "hash": "62f246f41c8d1d39",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_fly_start_03.wem"
+        },
+        "7175c1fbdaf410e7": {
+            "hash": "7175c1fbdaf410e7",
+            "directory": "External14",
+            "voiceContent": "「나무살이」는 구속받지 않는 절대적인 자유를 추구해. 사람과 용은 서로 인정하고 돕는 사이고, 계약 관계는 존재하지 않아. 난 예외지",
+            "sourceName": "vo_kinich_dialog_share_01.wem"
+        },
+        "718ef6cb5fe8681a": {
+            "hash": "718ef6cb5fe8681a",
+            "directory": "External14",
+            "voiceContent": "실수했",
+            "sourceName": "vo_kinich_battle_hit_H_01.wem"
+        },
+        "72eda63c464bd27c": {
+            "hash": "72eda63c464bd27c",
+            "directory": "External14",
+            "voiceContent": "용 사냥꾼이라는 직업 특성상 모두의 이해를 받을 순 없어. 하지만 모순이 해결되지 않고 완벽한 해결책이 환상 속에만 존재할 땐 누군가가 나서서 두 손을 더럽혀야 하지. 가격만 맞다면 난 그게 나여도 상관없",
+            "sourceName": "vo_kinich_dialog_idle2.wem"
+        },
+        "740ad11fbfb28cda": {
+            "hash": "740ad11fbfb28cda",
+            "directory": "External14",
+            "voiceContent": "키니치 의뢰를 맡겨본 적 있어. 한 번은 아쥬가 「아프다」고 울고불고 난리를 치길래, 기왕 이렇게 된 거 제일 뛰어난 용 의사에게 데려가 보자 싶었지. 실력이 확실히 대단했어. 아쥬가 진료소에 들어간지 얼마 지나지도 않았는데 싹 나아서 나오더라고.아쥬 니… 니가 뭘 알아! 그놈은 돌팔이야, 돌팔이! …그놈이 뭐라고 했는지도 모르면서",
+            "sourceName": "vo_kinich_teammate_ifa_01.wem"
+        },
+        "74394f3479bc4c25": {
+            "hash": "74394f3479bc4c25",
+            "directory": "External14",
+            "voiceContent": "아쥬 대지가 구름과 만나고 어둠이 광야를 집어삼킬 때, 이 몸은 휘몰아치는 광풍으로 속세를 불태우리라!키니치 광풍이 아니라 「허풍」이겠",
+            "sourceName": "vo_kinich_weather_breezy_01.wem"
+        },
+        "7a13e74a4051712c": {
+            "hash": "7a13e74a4051712c",
+            "directory": "External15",
+            "voiceContent": "키니치 얀사에게 의뢰를 받은 적이 있어. 아니, 협력이라고 해야 하나…. 그 운동 코치는 칼로리를 한 자릿수까지 정확하게 계산해서 수강생들의 건강 식단을 만들거든. 그러려면 품질과 크기 모두 정확하게 부합하는 열매를 구해야 해. 반점이나 좀먹은 부분이 조금만 있어도 못 쓰지. 다른 사람들은 의뢰 내용이 너무 까다롭다고 여겼지만, 난 마침 눈썰미도 좋고, 불량품을 소모할 안정적인 루트도 갖고 있어서 괜찮았어.아쥬 잠깐만? 그거 설마… 내 주스 얘기냐",
+            "sourceName": "vo_kinich_teammate_iansan_01.wem"
+        },
+        "7dec489c608a377e": {
+            "hash": "7dec489c608a377e",
+            "directory": "External15",
+            "voiceContent": "사냥감 발",
+            "sourceName": "vo_kinich_battle_skill1_05.wem"
+        },
+        "7e397a68da82fa12": {
+            "hash": "7e397a68da82fa12",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_jump_02.wem"
+        },
+        "7ff0c4f9d17231d4": {
+            "hash": "7ff0c4f9d17231d4",
+            "directory": "External15",
+            "voiceContent": "키니치 아쥬는 오래된 유적에 봉인되어 있었어. 난 아쥬와 계약을 맺고 녀석을 봉인에서 풀어줬지.아쥬 금방이라도 시궁창에 꼬라박을 것 같던 녀석이 지금까지 살아남을 줄 누가 알았겠냐고…. 뭐, 어쩌겠어. 이 열화의 나라의 지고한 영주께선 지위에 걸맞은 미덕과 교양을 갖췄으니 말이야.키니치 그 미덕과 교양이란 건 매일 내가 죽기만을 바라는 심보인가?아쥬 인내심이랑 시간을 말하는 거잖아!키니치 …아무튼, 약점만 잡으면 사악한 생물도 얼마든지 이용할 수 있어.아쥬 이 빌어먹을 키니치 자식! 오늘이야말로 차도살인하고 말 테다",
+            "sourceName": "vo_kinich_friendship_04.wem"
+        },
+        "8059841504acc0b2": {
+            "hash": "8059841504acc0b2",
+            "directory": "External16",
+            "voiceContent": "과거의 그림자여, 내 명을 받들",
+            "sourceName": "vo_kinich_battle_skill3_03.wem"
+        },
+        "8119f10b7bf2e936": {
+            "hash": "8119f10b7bf2e936",
+            "directory": "External16",
+            "voiceContent": "예전에 편지 심부름을 할 때, 수취인이 「겸사겸사 뭐 하나만 도와달라」고 할 때가 있었어. 「겸사겸사」의 가격은 얼마일까? 그래서 가격을 제시하면 굳이 돕지 않아도 되더",
+            "sourceName": "vo_kinich_friendship_02.wem"
+        },
+        "8598fb61aaa349a0": {
+            "hash": "8598fb61aaa349a0",
+            "directory": "External16",
+            "voiceContent": "이미 눈치챘을지도 모르지만, 시틀라리의 의뢰를 받고 이나즈마 상인에게 묵직한 종이 서적을 구입한 적이 있어. 의뢰인의 프라이버시를 캘 생각은 없지만, 「연기 주인」의 서적은 직물에 짜는 거 아니었나",
+            "sourceName": "vo_kinich_teammate_citlali_01.wem"
+        },
+        "8922df3c77210bd3": {
+            "hash": "8922df3c77210bd3",
+            "directory": "External17",
+            "voiceContent": "모닥불 연기가 너무 매캐해? 잠시만… 다 됐어. 이제 쉬",
+            "sourceName": "vo_kinich_dialog_greetingNight2.wem"
+        },
+        "8a5b2e327e3b2e9b": {
+            "hash": "8a5b2e327e3b2e9b",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_06.wem"
+        },
+        "8b851a4428bd2cb5": {
+            "hash": "8b851a4428bd2cb5",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_04.wem"
+        },
+        "8cf07b2a80ead098": {
+            "hash": "8cf07b2a80ead098",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_03.wem"
+        },
+        "8ea90aaf8c71098b": {
+            "hash": "8ea90aaf8c71098b",
+            "directory": "External17",
+            "voiceContent": "70%는 조사에, 10%는 판단에, 그리고 나머지는 공격에. 난 이렇게 에너지를 분배",
+            "sourceName": "vo_kinich_character_idle_03.wem"
+        },
+        "8fd336c136f374e5": {
+            "hash": "8fd336c136f374e5",
+            "directory": "External17",
+            "voiceContent": "키니치 아쥬는 성격이 괴팍해서, 무슨 말을 하든 대부분 무시하면 돼.아쥬 키니치 자식아!! 그렇게 잘났으면 날 내보내 줘——",
+            "sourceName": "vo_kinich_character_idle_01.wem"
+        },
+        "92ceb4f5101b2911": {
+            "hash": "92ceb4f5101b2911",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_h_06.wem"
+        },
+        "941fc41c2ddb84c6": {
+            "hash": "941fc41c2ddb84c6",
+            "directory": "External18",
+            "voiceContent": "아쥬 키니치~ 죽어라~ 키니치~ 죽어라",
+            "sourceName": "vo_kinich_life_less30_03.wem"
+        },
+        "96c2f725ed493d5b": {
+            "hash": "96c2f725ed493d5b",
+            "directory": "External18",
+            "voiceContent": "「메아리 아이」를 지나치다 이상한 의뢰를 봤어. 키우기 쉬운 식물을 구하는 의뢰길래 뚱룡장의 씨앗과 화분, 비료를 가져다줬지. 뚱룡장은 널리 퍼져있는 데다 황야에서도 잘 자라는 식물이니까. 근데 나중에 보수를 받으러 가서 보니까, 화분에 새싹조차 안 자라 있더라.난 실로닌의 원예 능력을 과대평가한 대가를 치러야 했어. 내가 실패한 몇 안 되는 의뢰 중 하나",
+            "sourceName": "vo_kinich_teammate_xilonen_01.wem"
+        },
+        "97989caa01dcd63a": {
+            "hash": "97989caa01dcd63a",
+            "directory": "External18",
+            "voiceContent": "키니치 야외에선 보통 편리한 대로 먹는 편이야. 가장 좋은 선택은 육류와 과일이지.아쥬 헹, 편식 안 하는 착한 어린이인 척하긴. 네가 알갱이 열매 따는 건 한 번도 못 봤거든?키니치 그건 메고 다니기 무거우니",
+            "sourceName": "vo_kinich_pref_foodLike.wem"
+        },
+        "9b4ee9cc0820499f": {
+            "hash": "9b4ee9cc0820499f",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackheavy_01.wem"
+        },
+        "9e69a719713ea8b6": {
+            "hash": "9e69a719713ea8b6",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_01.wem"
+        },
+        "9f7a38928ab76ee9": {
+            "hash": "9f7a38928ab76ee9",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_jump_05.wem"
+        },
+        "a07d7ae44852aebf": {
+            "hash": "a07d7ae44852aebf",
+            "directory": "External20",
+            "voiceContent": "…이걸 꼭 써야 돼",
+            "sourceName": "vo_kinich_explore_fly_start_01.wem"
+        },
+        "a199423eb4df8189": {
+            "hash": "a199423eb4df8189",
+            "directory": "External20",
+            "voiceContent": "아쥬 신성한 용의 강림이다",
+            "sourceName": "vo_kinich_battle_skill3_04.wem"
+        },
+        "a50cffaee7860da3": {
+            "hash": "a50cffaee7860da3",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_02.wem"
+        },
+        "aeb8d82e78f9c5e8": {
+            "hash": "aeb8d82e78f9c5e8",
+            "directory": "External21",
+            "voiceContent": "이젠 네가 대가를 치를 차례",
+            "sourceName": "vo_kinich_life_less30_01.wem"
+        },
+        "b28135de505a0d99": {
+            "hash": "b28135de505a0d99",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackheavy_03.wem"
+        },
+        "b5fd4c5ba270abc6": {
+            "hash": "b5fd4c5ba270abc6",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_03.wem"
+        },
+        "b63a405fa6c438f7": {
+            "hash": "b63a405fa6c438f7",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_idle_01.wem"
+        },
+        "b6e9c5f1499b9286": {
+            "hash": "b6e9c5f1499b9286",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackmid_01.wem"
+        },
+        "b8bde6a62a73a187": {
+            "hash": "b8bde6a62a73a187",
+            "directory": "External23",
+            "voiceContent": "물 잘 챙겨 마",
+            "sourceName": "vo_kinich_weather_desert_01.wem"
+        },
+        "bcdaafbf741fe99b": {
+            "hash": "bcdaafbf741fe99b",
+            "directory": "External23",
+            "voiceContent": "앞으로 잘 부탁",
+            "sourceName": "vo_kinich_teamJoin_03.wem"
+        },
+        "be049bd11ea1e7b5": {
+            "hash": "be049bd11ea1e7b5",
+            "directory": "External23",
+            "voiceContent": "좋아, 거래를 수락할",
+            "sourceName": "vo_kinich_teamJoin_01.wem"
+        },
+        "c071af8140fcd4b1": {
+            "hash": "c071af8140fcd4b1",
+            "directory": "External24",
+            "voiceContent": "배낭은 가볍고 간소하게 정리해야 해…. 이런 우산은 굳이 챙길 필요 없",
+            "sourceName": "vo_kinich_starUp_02.wem"
+        },
+        "c4dc65b6fc88f2db": {
+            "hash": "c4dc65b6fc88f2db",
+            "directory": "External24",
+            "voiceContent": "키니치 몫을 나눠야겠지?아쥬 이딴 쓰레기가 갖고 싶어",
+            "sourceName": "vo_kinich_chest_open_01.wem"
+        },
+        "c5284412a292e7f3": {
+            "hash": "c5284412a292e7f3",
+            "directory": "External24",
+            "voiceContent": "아쥬에게 다른 의도가 있다는 건 알지만, 널 위해서라면 기꺼이 위험을 감수할 수 있어. 모든 일엔 대가가 있다는 말을 입에 달고 살긴 하지만, 세상엔 그 어떤 대가보다 중요한 일도 있으니",
+            "sourceName": "vo_kinich_dialog_close1.wem"
+        },
+        "c96b51c8a9ec66f5": {
+            "hash": "c96b51c8a9ec66f5",
+            "directory": "External25",
+            "voiceContent": "아쥬 칫, 별 볼 일 없는 물건들이군.키니치 그럼 그냥 가든가, 말 많",
+            "sourceName": "vo_kinich_chest_open_03.wem"
+        },
+        "cc3ed733725ee23f": {
+            "hash": "cc3ed733725ee23f",
+            "directory": "External25",
+            "voiceContent": "아쥬 난 선글라스 있지롱~ 근데 아무도 안 빌려줄 거야",
+            "sourceName": "vo_kinich_weather_sunny_01.wem"
+        },
+        "cd7dac2a305f8cbf": {
+            "hash": "cd7dac2a305f8cbf",
+            "directory": "External25",
+            "voiceContent": "안녕, 난 마침 나가려던 참이야. 날 밝기 전까진 안 돌아오니까 기다리지",
+            "sourceName": "vo_kinich_dialog_greetingMorning.wem"
+        },
+        "cdd546004c44b5f9": {
+            "hash": "cdd546004c44b5f9",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_breath_01.wem"
+        },
+        "ce1bda0391d4f7a8": {
+            "hash": "ce1bda0391d4f7a8",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attackmid_03.wem"
+        },
+        "cefa14d39131561d": {
+            "hash": "cefa14d39131561d",
+            "directory": "External25",
+            "voiceContent": "이런",
+            "sourceName": "vo_kinich_battle_hit_H_02.wem"
+        },
+        "cf3f03a35fb699cb": {
+            "hash": "cf3f03a35fb699cb",
+            "directory": "External25",
+            "voiceContent": "「전투 고문」을 맡아달라는 말라니의 의뢰를 받은 적이 있어. 보수가 꽤 괜찮아서 승낙했지. 근데 몇 번 협력해 보니까 말라니의 실력이 상당하더라고. 그래서 거듭 물어보니까, 카치나에게 야외 생존 기술을 전수해 주려고 「전투 고문」을 고용한 거였더라….「자연」과의 전투라니, 음… 내게 이건 「생활」인데 말이지.어찌 됐든 의뢰를 마친 후 단골 고객이 두 명 더 생겼",
+            "sourceName": "vo_kinich_teammate_mualani_01.wem"
+        },
+        "d096606ded8eece8": {
+            "hash": "d096606ded8eece8",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_attacklight_01.wem"
+        },
+        "d23ba74304f93d19": {
+            "hash": "d23ba74304f93d19",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_sprint_start_02.wem"
+        },
+        "d28cde5364514b88": {
+            "hash": "d28cde5364514b88",
+            "directory": "External26",
+            "voiceContent": "흥… 바짓단에서 아직도 물이 떨어져",
+            "sourceName": "vo_kinich_weather_afterRain_01.wem"
+        },
+        "d672a2c57b589354": {
+            "hash": "d672a2c57b589354",
+            "directory": "External26",
+            "voiceContent": "키니치 필요하다면 내가 모험가 길드의 의뢰를 분담해 줄게.아쥬 반드시 가장 까다롭고 곤란하고 위험한 임무로 줘",
+            "sourceName": "vo_kinich_dialog_close.wem"
+        },
+        "d6fe6a92e49d2507": {
+            "hash": "d6fe6a92e49d2507",
+            "directory": "External26",
+            "voiceContent": "목표가 걸렸",
+            "sourceName": "vo_kinich_battle_skill1_04.wem"
+        },
+        "d82756a48f1d7021": {
+            "hash": "d82756a48f1d7021",
+            "directory": "External27",
+            "voiceContent": "퇴로 봉",
+            "sourceName": "vo_kinich_battle_skill1_06.wem"
+        },
+        "da2bd30200056a9f": {
+            "hash": "da2bd30200056a9f",
+            "directory": "External27",
+            "voiceContent": "처음 용을 사냥할 땐 몇 주 동안 준비를 했어. 관찰과 추적, 잠복 정찰에만 며칠이 걸렸지. 세 종류의 함정을 만들고 목표의 생활 패턴과 음식 취향까지 기록했어….노력이 헛수고가 될 때도 많지만, 그 헛수고는 꼭 필요한 일이",
+            "sourceName": "vo_kinich_friendship_03.wem"
+        },
+        "ddceecfc5d09d6b8": {
+            "hash": "ddceecfc5d09d6b8",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_fly_start_02.wem"
+        },
+        "e0e8527720a51010": {
+            "hash": "e0e8527720a51010",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_idle_02.wem"
+        },
+        "e29451c6fc6a8e8c": {
+            "hash": "e29451c6fc6a8e8c",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_01.wem"
+        },
+        "e66348e5d99a3477": {
+            "hash": "e66348e5d99a3477",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_h_04.wem"
+        },
+        "e8e02fd45fab8de5": {
+            "hash": "e8e02fd45fab8de5",
+            "directory": "External29",
+            "voiceContent": "키니치 이런 날씨는 익스트림 스포츠의 도전성을 높여주지.아쥬 얼른 뛰어 봐…. 결과가 무척이나 기대되네, 크흐흐",
+            "sourceName": "vo_kinich_weather_gale_01.wem"
+        },
+        "ebdc044c19aa47ec": {
+            "hash": "ebdc044c19aa47ec",
+            "directory": "External29",
+            "voiceContent": "아쥬 후후… 괜찮은 거래로군",
+            "sourceName": "vo_kinich_life_die_03.wem"
+        },
+        "ebe5473f5d05d036": {
+            "hash": "ebe5473f5d05d036",
+            "directory": "External29",
+            "voiceContent": "아쥬 날것과 찬 것, 그리고 매운 것은 존귀하고 신성한 이 몸의 육신을 갉아 먹고, 뜨거운 기름과 탁한 향기는 오장육부를 해치지. 딱딱한 음식은 씹기 어렵고, 너무 흐물흐물한 음식은 맛이 느껴지질 않아….키니치 그래서 대체 뭘 먹고 싶은 건데?아쥬 그거야 당연히 네 영혼이지. 우후후후",
+            "sourceName": "vo_kinich_pref_foodDislike.wem"
+        },
+        "ed6e16f88d582d02": {
+            "hash": "ed6e16f88d582d02",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_battle_hit_l_05.wem"
+        },
+        "f15e1f14483f2e99": {
+            "hash": "f15e1f14483f2e99",
+            "directory": "External30",
+            "voiceContent": "난 용 사냥꾼이야. 사냥할 용이 없을 땐 다른 의뢰를 받기도 하지. 어떻게 보면 너랑 동종 업계 사람인 셈이",
+            "sourceName": "vo_kinich_friendship_01.wem"
+        },
+        "f3caa845bccefec8": {
+            "hash": "f3caa845bccefec8",
+            "directory": "External30",
+            "voiceContent": "아쥬 이 몸 등장",
+            "sourceName": "vo_kinich_battle_skill3_05.wem"
+        },
+        "f7744db5efa2f15a": {
+            "hash": "f7744db5efa2f15a",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_kinich_explore_climb_03.wem"
+        },
+        "f80d234e14adda83": {
+            "hash": "f80d234e14adda83",
+            "directory": "External31",
+            "voiceContent": "네가 준 수많은 도움을 공짜로 받진 않을 거야. 원하는 가격을 제시하거나 내 보답을 받아줘…. 「말리포」의 이름으로 약속할게. 어떤 선택을 해도 손해는 아닐 거",
+            "sourceName": "vo_kinich_starUp_04.wem"
+        },
+        "faf6941ba1cdab56": {
+            "hash": "faf6941ba1cdab56",
+            "directory": "External31",
+            "voiceContent": "고민에 빠진 사람들은 대부분 생각이 너무 많거나, 반대로 생각이 너무 없더라. 난 늘 스스로의 다음 목표와 도착점을 찾고 있어. 고민할 시간 따윈 없",
+            "sourceName": "vo_kinich_dialog_annoyed_01.wem"
+        },
+        "fd55003b09fdcdba": {
+            "hash": "fd55003b09fdcdba",
+            "directory": "External31",
+            "voiceContent": "돌아보지… 마",
+            "sourceName": "vo_kinich_life_die_01.wem"
+        },
+        "fda59a7d489e12cd": {
+            "hash": "fda59a7d489e12cd",
+            "directory": "External31",
+            "voiceContent": "차스카가 의뢰를 처리하는 걸 본 적이 있어. 우린 분쟁을 해결하는 수단에 대한 의견이 달랐지. 난 보통 한쪽의 입을 완전히 다물게 하는 편인데, 차스카는 양쪽 다 말을 못 하게 하더라. 양쪽이 마침내 병상에서 입을 열 수 있게 됐을 땐, 다툰 이유를 이미 잊은 상태였",
+            "sourceName": "vo_kinich_teammate_chasca_01.wem"
         }
     }
 }

@@ -1,517 +1,811 @@
 {
     "Teapot": {},
     "Quests": {
-        "9cd32225cb79a198": {
-            "hash": "9cd32225cb79a198",
-            "directory": "External19",
-            "voiceContent": "ここはウチらに任せて、自分の安全を優先して！",
-            "sourceName": "vo_NTAQ103_5_xilonen_01.wem"
-        },
-        "b5e7e48af7f3c861": {
-            "hash": "b5e7e48af7f3c861",
-            "directory": "External22",
-            "voiceContent": "「中枢名刻」を分解するのはケッコー骨が折れるかも。",
-            "sourceName": "vo_XNNLQ004_1_xilonen_02.wem"
-        },
-        "5bacd682c9608ebe": {
-            "hash": "5bacd682c9608ebe",
-            "directory": "External11",
-            "voiceContent": "一旦集落に戻ろ。工房に寄って取ってきたいものがあるんだ。",
-            "sourceName": "vo_XNNLQ004_1_xilonen_01.wem"
-        },
-        "47e5f6d3e2c04006": {
-            "hash": "47e5f6d3e2c04006",
-            "directory": "External8",
-            "voiceContent": "どうやら、部族のみんなが騙されてたみたいだね。",
-            "sourceName": "vo_XNNLQ005_1_xilonen_02.wem"
-        },
-        "b82a24dcaf0c8669": {
-            "hash": "b82a24dcaf0c8669",
-            "directory": "External23",
-            "voiceContent": "ラゾーリおばちゃんの工房だよ。名鋳り師を辞めた後、ここを閉鎖したの。",
-            "sourceName": "vo_XNNLQ005_1_xilonen_01.wem"
-        },
-        "f4ff6246430660ed": {
-            "hash": "f4ff6246430660ed",
-            "directory": "External30",
-            "voiceContent": "…角度を二度調整、終了。",
-            "sourceName": "vo_XNNLQ004_4_xilonen_01.wem"
-        },
-        "3a7de87008355ea0": {
-            "hash": "3a7de87008355ea0",
-            "directory": "External7",
-            "voiceContent": "…リンク完了っと。",
-            "sourceName": "vo_XNNLQ004_4_xilonen_04.wem"
-        },
-        "4893f6370c856b73": {
-            "hash": "4893f6370c856b73",
-            "directory": "External9",
-            "voiceContent": "…スペースを少し残さないとか。じゃないとリンクを有効化した時に重複して刻印されちゃうな。",
-            "sourceName": "vo_XNNLQ004_4_xilonen_03.wem"
-        },
-        "c70cc43f5013216a": {
-            "hash": "c70cc43f5013216a",
-            "directory": "External24",
-            "voiceContent": "誤差は許容範囲内…念のため刻印パスを延長。",
-            "sourceName": "vo_XNNLQ004_4_xilonen_02.wem"
-        },
-        "77939317d4c7dabd": {
-            "hash": "77939317d4c7dabd",
-            "directory": "External14",
-            "voiceContent": "こっちは絶好調、心配いらないよ。ウチらがいれば、向かうところ敵ナシ。",
-            "sourceName": "vo_NTAQ108_4_xilonen_02.wem"
-        },
         "1d8e750fa66215ba": {
             "hash": "1d8e750fa66215ba",
             "directory": "External3",
-            "voiceContent": "こっちだよ、カチーナ。上まで送ったげる。そのほうが早いっしょ！",
+            "voiceContent": "こっちだよ、カチーナ。上まで送ったげる。そのほうが早いっしょ",
             "sourceName": "vo_NTAQ108_4_xilonen_01.wem"
-        },
-        "daef7a5fb487ceb6": {
-            "hash": "daef7a5fb487ceb6",
-            "directory": "External27",
-            "voiceContent": "全部オッケー。ふもとに行ってみよう。",
-            "sourceName": "vo_NTAQ104_4_xilonen_01.wem"
-        },
-        "4b33a86880d41419": {
-            "hash": "4b33a86880d41419",
-            "directory": "External9",
-            "voiceContent": "うん、こだまの子でもプロ並みのレベルだったよ。",
-            "sourceName": "vo_NTAQ104_4_xilonen_02.wem"
-        },
-        "e527e3117d6b3b2d": {
-            "hash": "e527e3117d6b3b2d",
-            "directory": "External28",
-            "voiceContent": "それに乗れば、先に進めるはず。",
-            "sourceName": "vo_XNNLQ005_2_xilonen_04.wem"
-        },
-        "7ad3b52c0933edbe": {
-            "hash": "7ad3b52c0933edbe",
-            "directory": "External15",
-            "voiceContent": "運送装置はまだ動いてるみたい。制御装置を探して、運送車を動かそ。",
-            "sourceName": "vo_XNNLQ005_2_xilonen_03.wem"
-        },
-        "d07ed7228a620047": {
-            "hash": "d07ed7228a620047",
-            "directory": "External26",
-            "voiceContent": "まとめてぶっ潰す！手加減はナシ！",
-            "sourceName": "vo_XNNLQ005_2_xilonen_02.wem"
         },
         "273f693b3fb55de0": {
             "hash": "273f693b3fb55de0",
             "directory": "External4",
-            "voiceContent": "…悪事を働くなら、悪い人を雇って協力してもらうのが定番でしょ。",
+            "voiceContent": "…悪事を働くなら、悪い人を雇って協力してもらうのが定番でしょ",
             "sourceName": "vo_XNNLQ005_2_xilonen_01.wem"
+        },
+        "3a7de87008355ea0": {
+            "hash": "3a7de87008355ea0",
+            "directory": "External7",
+            "voiceContent": "…リンク完了っと",
+            "sourceName": "vo_XNNLQ004_4_xilonen_04.wem"
+        },
+        "47e5f6d3e2c04006": {
+            "hash": "47e5f6d3e2c04006",
+            "directory": "External8",
+            "voiceContent": "どうやら、部族のみんなが騙されてたみたいだね",
+            "sourceName": "vo_XNNLQ005_1_xilonen_02.wem"
+        },
+        "4893f6370c856b73": {
+            "hash": "4893f6370c856b73",
+            "directory": "External9",
+            "voiceContent": "…スペースを少し残さないとか。じゃないとリンクを有効化した時に重複して刻印されちゃうな",
+            "sourceName": "vo_XNNLQ004_4_xilonen_03.wem"
+        },
+        "4b33a86880d41419": {
+            "hash": "4b33a86880d41419",
+            "directory": "External9",
+            "voiceContent": "うん、こだまの子でもプロ並みのレベルだったよ",
+            "sourceName": "vo_NTAQ104_4_xilonen_02.wem"
+        },
+        "5bacd682c9608ebe": {
+            "hash": "5bacd682c9608ebe",
+            "directory": "External11",
+            "voiceContent": "一旦集落に戻ろ。工房に寄って取ってきたいものがあるんだ",
+            "sourceName": "vo_XNNLQ004_1_xilonen_01.wem"
+        },
+        "77939317d4c7dabd": {
+            "hash": "77939317d4c7dabd",
+            "directory": "External14",
+            "voiceContent": "こっちは絶好調、心配いらないよ。ウチらがいれば、向かうところ敵ナシ",
+            "sourceName": "vo_NTAQ108_4_xilonen_02.wem"
+        },
+        "7ad3b52c0933edbe": {
+            "hash": "7ad3b52c0933edbe",
+            "directory": "External15",
+            "voiceContent": "運送装置はまだ動いてるみたい。制御装置を探して、運送車を動かそ",
+            "sourceName": "vo_XNNLQ005_2_xilonen_03.wem"
+        },
+        "9cd32225cb79a198": {
+            "hash": "9cd32225cb79a198",
+            "directory": "External19",
+            "voiceContent": "ここはウチらに任せて、自分の安全を優先して",
+            "sourceName": "vo_NTAQ103_5_xilonen_01.wem"
         },
         "b3ce450a87931faa": {
             "hash": "b3ce450a87931faa",
             "directory": "External22",
-            "voiceContent": "よし、先に進むよ。",
+            "voiceContent": "よし、先に進むよ",
             "sourceName": "vo_XNNLQ005_2_xilonen_07.wem"
+        },
+        "b5e7e48af7f3c861": {
+            "hash": "b5e7e48af7f3c861",
+            "directory": "External22",
+            "voiceContent": "「中枢名刻」を分解するのはケッコー骨が折れるかも",
+            "sourceName": "vo_XNNLQ004_1_xilonen_02.wem"
+        },
+        "b82a24dcaf0c8669": {
+            "hash": "b82a24dcaf0c8669",
+            "directory": "External23",
+            "voiceContent": "ラゾーリおばちゃんの工房だよ。名鋳り師を辞めた後、ここを閉鎖したの",
+            "sourceName": "vo_XNNLQ005_1_xilonen_01.wem"
+        },
+        "c70cc43f5013216a": {
+            "hash": "c70cc43f5013216a",
+            "directory": "External24",
+            "voiceContent": "誤差は許容範囲内…念のため刻印パスを延長",
+            "sourceName": "vo_XNNLQ004_4_xilonen_02.wem"
+        },
+        "d07ed7228a620047": {
+            "hash": "d07ed7228a620047",
+            "directory": "External26",
+            "voiceContent": "まとめてぶっ潰す！手加減はナシ",
+            "sourceName": "vo_XNNLQ005_2_xilonen_02.wem"
+        },
+        "daef7a5fb487ceb6": {
+            "hash": "daef7a5fb487ceb6",
+            "directory": "External27",
+            "voiceContent": "全部オッケー。ふもとに行ってみよう",
+            "sourceName": "vo_NTAQ104_4_xilonen_01.wem"
+        },
+        "e527e3117d6b3b2d": {
+            "hash": "e527e3117d6b3b2d",
+            "directory": "External28",
+            "voiceContent": "それに乗れば、先に進めるはず",
+            "sourceName": "vo_XNNLQ005_2_xilonen_04.wem"
+        },
+        "f4ff6246430660ed": {
+            "hash": "f4ff6246430660ed",
+            "directory": "External30",
+            "voiceContent": "…角度を二度調整、終了",
+            "sourceName": "vo_XNNLQ004_4_xilonen_01.wem"
         }
     },
     "Gameplay": {
-        "4860ab8b56cc61df": {
-            "hash": "4860ab8b56cc61df",
-            "directory": "External9",
-            "voiceContent": "んじゃ、行くよ。",
-            "sourceName": "vo_xilonen_battle_skill1_01.wem"
-        },
-        "ddd69da5e267bb58": {
-            "hash": "ddd69da5e267bb58",
-            "directory": "External27",
-            "voiceContent": "ふん。",
-            "sourceName": "vo_xilonen_battle_skill1_02.wem"
-        },
-        "5f93f79d9f07d8d9": {
-            "hash": "5f93f79d9f07d8d9",
-            "directory": "External11",
-            "voiceContent": "ハァ…",
-            "sourceName": "vo_xilonen_battle_skill1_03.wem"
-        },
-        "608ac9daa1564cbd": {
-            "hash": "608ac9daa1564cbd",
-            "directory": "External12",
-            "voiceContent": "響け、壑の音！",
-            "sourceName": "vo_xilonen_battle_skill3_01.wem"
-        },
-        "0685abd272f087ba": {
-            "hash": "0685abd272f087ba",
-            "directory": "External0",
-            "voiceContent": "沸け、山の血！",
-            "sourceName": "vo_xilonen_battle_skill3_02.wem"
-        },
-        "5f60ddc8f6d44e83": {
-            "hash": "5f60ddc8f6d44e83",
-            "directory": "External11",
-            "voiceContent": "響めく深壑、火淵を刻め。",
-            "sourceName": "vo_xilonen_battle_skill3_03.wem"
-        },
-        "8fb66996a0959014": {
-            "hash": "8fb66996a0959014",
-            "directory": "External17",
-            "voiceContent": "待ち伏せは——うん、いないね。ウチが見張っててあげるから安心して。",
-            "sourceName": "vo_xilonen_chest_open_01.wem"
-        },
-        "3c91f77dee53218b": {
-            "hash": "3c91f77dee53218b",
-            "directory": "External7",
-            "voiceContent": "いいものザックザク～、ウチにもちょうだい？冗談だってば、あんたが持ってていいよ。",
-            "sourceName": "vo_xilonen_chest_open_02.wem"
-        },
-        "e34a05876a12f5c2": {
-            "hash": "e34a05876a12f5c2",
-            "directory": "External28",
-            "voiceContent": "まー…多少はモラになるはず？さっさとしまっとこ。",
-            "sourceName": "vo_xilonen_chest_open_03.wem"
-        },
-        "4a4783a71acdb6f4": {
-            "hash": "4a4783a71acdb6f4",
-            "directory": "External9",
-            "voiceContent": "ウチが引き受けたげる。",
-            "sourceName": "vo_xilonen_life_less30_teammate_01.wem"
-        },
-        "f724118e688cfb6b": {
-            "hash": "f724118e688cfb6b",
-            "directory": "External30",
-            "voiceContent": "任せて。",
-            "sourceName": "vo_xilonen_life_less30_teammate_02.wem"
-        },
-        "f31e5222c8ecd111": {
-            "hash": "f31e5222c8ecd111",
-            "directory": "External30",
-            "voiceContent": "…燃え…尽きちゃった…",
-            "sourceName": "vo_xilonen_life_die_01.wem"
-        },
-        "c18f841bd2e8886e": {
-            "hash": "c18f841bd2e8886e",
-            "directory": "External24",
-            "voiceContent": "冷めちゃった…",
-            "sourceName": "vo_xilonen_life_die_02.wem"
-        },
-        "e56e43a310d48d1d": {
-            "hash": "e56e43a310d48d1d",
-            "directory": "External28",
-            "voiceContent": "出発するの？",
-            "sourceName": "vo_xilonen_teamJoin_01.wem"
-        },
-        "8803259adf8b9f1a": {
-            "hash": "8803259adf8b9f1a",
-            "directory": "External17",
-            "voiceContent": "さっさと片付けちゃお。",
-            "sourceName": "vo_xilonen_teamJoin_02.wem"
-        },
-        "359bd793d76ebc63": {
-            "hash": "359bd793d76ebc63",
-            "directory": "External6",
-            "voiceContent": "行こっか、ついてくよ。",
-            "sourceName": "vo_xilonen_teamJoin_03.wem"
-        },
-        "dbc7406ee6d10d6e": {
-            "hash": "dbc7406ee6d10d6e",
-            "directory": "External27",
-            "voiceContent": "あちゃー、ベランダの花がまた枯れてる。毎日水やりしてるのに…もしかして、逆にやり過ぎ？",
-            "sourceName": "vo_xilonen_character_idle_01.wem"
-        },
-        "0d560e75dcd55611": {
-            "hash": "0d560e75dcd55611",
-            "directory": "External1",
-            "voiceContent": "ずいぶん走り回ったし、そろそろ休も…座ってきゅーけい。",
-            "sourceName": "vo_xilonen_character_idle_02.wem"
-        },
-        "8b98b47e20353890": {
-            "hash": "8b98b47e20353890",
-            "directory": "External17",
-            "voiceContent": "…まだ終わってない鍛造依頼、あと何件あったっけ？ええと…一つ…二つ…そんな多くないみたいだし、明日から本気だそっと。",
-            "sourceName": "vo_xilonen_character_idle_03.wem"
-        },
-        "c2cec86ad65d1d38": {
-            "hash": "c2cec86ad65d1d38",
-            "directory": "External24",
-            "voiceContent": "雨の日は、部屋で寝るのにぴったし…",
-            "sourceName": "vo_xilonen_weather_heavyRain_01.wem"
-        },
-        "cf05ce9d4125ea4f": {
-            "hash": "cf05ce9d4125ea4f",
-            "directory": "External25",
-            "voiceContent": "ックション！…うぅ、眠気も吹っ飛んじゃった。",
-            "sourceName": "vo_xilonen_weather_snowy_01.wem"
-        },
-        "1fc3db94010ea07a": {
-            "hash": "1fc3db94010ea07a",
-            "directory": "External3",
-            "voiceContent": "ふわぁ～昼寝でもしよ。あれ？サングラスどこやったっけ…",
-            "sourceName": "vo_xilonen_weather_sunny_01.wem"
-        },
-        "5578e69eaaa8eac4": {
-            "hash": "5578e69eaaa8eac4",
-            "directory": "External10",
-            "voiceContent": "気温はちょうどいいけど…うーん、横になるのには向いてないね、ここ…",
-            "sourceName": "vo_xilonen_weather_desert_01.wem"
-        },
         "0298163881bc1ae2": {
             "hash": "0298163881bc1ae2",
             "directory": "External0",
-            "voiceContent": "おはよ、ゆうべはよく寝れた？はい、ジュースあげる。朝から甘いものを飲むと、一日中いい気分になれるんだよ。",
+            "voiceContent": "おはよ、ゆうべはよく寝れた？はい、ジュースあげる。朝から甘いものを飲むと、一日中いい気分になれるんだよ",
             "sourceName": "vo_xilonen_dialog_greetingMorning.wem"
-        },
-        "4bf2e188ebbd3f9e": {
-            "hash": "4bf2e188ebbd3f9e",
-            "directory": "External9",
-            "voiceContent": "ふわぁ～もう昼寝の時間か…ちょっと寝てくる。用があったら起こして…",
-            "sourceName": "vo_xilonen_dialog_greetingNoon.wem"
-        },
-        "92f63705230cdc28": {
-            "hash": "92f63705230cdc28",
-            "directory": "External18",
-            "voiceContent": "げぇっ、もうこんな時間？撤収撤収。さあ、今日の仕事が無事終わったお祝いに、一緒に美味しいもんでも食べに行こ。",
-            "sourceName": "vo_xilonen_dialog_greetingNight.wem"
-        },
-        "ede0e214c2e1c5d8": {
-            "hash": "ede0e214c2e1c5d8",
-            "directory": "External29",
-            "voiceContent": "おやすみ。枕を柔らかくほぐしてから寝るんだよ。じゃないと明日の朝、首が痛くなるから。",
-            "sourceName": "vo_xilonen_dialog_greetingNight2.wem"
-        },
-        "7c01420af0d8ceff": {
-            "hash": "7c01420af0d8ceff",
-            "directory": "External15",
-            "voiceContent": "どんなに忙しくても、休憩時間は作らないとね。仕事ばっかしてたら、頭も身体もストライキ起こしちゃう。そんな状態じゃ、いい結果が出るわけないっしょ？時間が作れない？じゃ、こう言ったらいいよ——ウチに呼ばれてるって。そしたら、ウチの工房で一休みできるじゃん？安心して、秘密は守るから。",
-            "sourceName": "vo_xilonen_dialog_idle.wem"
-        },
-        "a6e91b8196170731": {
-            "hash": "a6e91b8196170731",
-            "directory": "External20",
-            "voiceContent": "友達の何人かに、たまに鈍いし冷めてるって言われるんだよね。たとえば、友達んちでパーティーしたとき、結婚の話題になったんだけど、一人が「自分が結婚したらみんな泣く？」って聞いたの。で、ちょっと話したあとに、みんな泣きながらずっと友達でいようねとか言い出してさ…ウチにはまったく分かんなかった。だって、結婚ってめでたいことじゃん？別に大霊に会いに行くわけでもないし、時間があればまた会えるのに。えっ？もし結婚を迫られてて、嫌で泣いてたらどうするかって？ああ、それは考えたことあるよ。本当にそうだったら、結婚式場に乱入して友達を連れ戻すつもり。ウチって足速いし、問題ないっしょ。",
-            "sourceName": "vo_xilonen_dialog_idle2.wem"
-        },
-        "e4eec9867227dde8": {
-            "hash": "e4eec9867227dde8",
-            "directory": "External28",
-            "voiceContent": "ラゾーリおばちゃんが、プレゼントに「燃晶名刻」を作ってあげるって前に言ったんだよね？今の状況じゃ、そんな余裕ないだろうし、ウチが代わりに作ったげるよ。ニペカを助けてくれたお礼にね。ん？もうあんたたちのために「古名」を作ってくれたって？あははっ、それは違うよ。あの「古名」にはみんなからの「祝福」が込められてるけど、これから作る「名刻」にはウチ個人の「祝福」を込めるつもりだから。ってことで、受け取り拒否とかナシだかんね。完成したら教えるよ。そこに何を刻むかは…その時になったらあんたが決めてね。",
-            "sourceName": "vo_xilonen_dialog_close1.wem"
-        },
-        "18f995f98b66cc45": {
-            "hash": "18f995f98b66cc45",
-            "directory": "External3",
-            "voiceContent": "何を鍛造するにしても、炉の温度は一番大事でね。低すぎると材料を柔らかくしたり、溶かしたりできないし、不純物だって取り除けない。逆に高すぎると、材料は本来の持ち味を出せなくなる。そこで、職人たちは炉の火を調節する方法を考えたの。高すぎたら薪を引き抜いて、低すぎたら薪を足すってね。ウチは、よく燃素を含んだ宝石で炉の温度を調節してる。燃素を使って起こした火は、普通の火より断然強力だかんね…えっ？燃素を使い切った宝石はどうなるかって？どっかに積み上げるくらいしか使い道はないよ。燃素が空っぽになった以上、残された取柄は見栄えだけだからね。欲しいなら、いくつか好きに持ってっていーよ。",
-            "sourceName": "vo_xilonen_dialog_close.wem"
-        },
-        "a164bde913518030": {
-            "hash": "a164bde913518030",
-            "directory": "External20",
-            "voiceContent": "精密加工の能力を鍛えるために、よく複雑な形をした小さなアクセサリーを作ってるんだよねー。たとえば、網の形をしたペンダントとか、ウォーベンみたいなイヤリングとか。出来上がったら、それを友達やお隣さんにプレゼントするの。ん？指輪は作れるかって？モチのロンっしょ！何日か前にシャクギクの形をした指輪を作ったばっかだしね。まぁ設計図を描くだけで、だいぶ手間取ったけど…欲しい？いいよ。んじゃ、手を出して、指のサイズを測ったげる。すぐに作れると思うよ。",
-            "sourceName": "vo_xilonen_dialog_share_01.wem"
-        },
-        "f345eeb8d44ce912": {
-            "hash": "f345eeb8d44ce912",
-            "directory": "External30",
-            "voiceContent": "植物の育て方がよく分かんないんだよね…言われた通り、三日にいっぺん水やり、五日にいっぺん雑草を抜いて、週に二回肥料をあげてる上に、日を浴びさせる時間もきちんと守ってるのに…最後は例外なく、ぜんぶ枯れちゃって。はぁ…植物を育てるのも運に左右されるとか？",
-            "sourceName": "vo_xilonen_pref_gift_01.wem"
-        },
-        "6e64cf28cd99dc94": {
-            "hash": "6e64cf28cd99dc94",
-            "directory": "External13",
-            "voiceContent": "この前、カチーナに掘削マシンを作るよう頼まれてね。しかも掘削と跳躍、両方の機能を備えてほしいって注文つき。まぁ、そんなに複雑なもんじゃないし、さくっと作ろうと思ったんだけど、椅子の角度を調整するのに苦戦してね。結局、カチーナはウチの意見を聞き入れて、椅子を外すことにしたんだ。んで、代わりに掘削マシンの動力コアと連動したマニュアル操作装置を搭載したってわけ…えっと…どうしてカチーナが「ぐるぐるコマちゃん」を操縦するとき、自分も跳ねるのかって？それはあの子のリクエストによるもんだよ。掘削マシンを操縦するときの揺れが大好きだとか言って、一部の震動軽減システムを削るよう頼んできてさ。そだ、今度カチーナにマウスガードでも作ってあげよ。もしぴょんぴょんしてるときに舌でも噛んだら大変だからね…",
-            "sourceName": "vo_xilonen_teammate_kachina_01.wem"
-        },
-        "ecee20d28c242bdc": {
-            "hash": "ecee20d28c242bdc",
-            "directory": "External29",
-            "voiceContent": "ムアラニって、運動が大の得意なんだよね。サーフィンにしても、「スピリットウェイ」を滑走するにしても、あいつほど動きが滑らかで、表情をリラックスさせてる人は知らないよ。それに、これまでムアラニがミスしたところなんて見たことないし。もし人や竜が道を塞いでたら、どうするかって？うーん…あいつなら、たぶん相手をひょいっとつまみ上げて、滑走を続けるんじゃない？",
-            "sourceName": "vo_xilonen_teammate_mualani_01.wem"
-        },
-        "82f894d4dfb0d79c": {
-            "hash": "82f894d4dfb0d79c",
-            "directory": "External16",
-            "voiceContent": "空を飛ぶために、チャスカの「銃」にはかなりの労力を費やしてきたんだ。まず、高速機動中の銃本体の安定性を可能な限り確保しなければならないこと。次に、空中戦に適した通常弾薬と特殊弾薬をカスタマイズすること。最後に、空中での発射による反動と照準に関する問題を考えること…でもチャスカは「最後の二つは心配しなくていい。銃に基本的な機械式照準装置を取り付けさえすれば、残りは自分の力でどうにかする」って言ってね。実際、チャスカはあの「銃」をうまく扱ってる。さすがは「花翼の集」の空飛ぶエースって感じ。",
-            "sourceName": "vo_xilonen_teammate_chasca_01.wem"
-        },
-        "14eccd7c7dec8f75": {
-            "hash": "14eccd7c7dec8f75",
-            "directory": "External2",
-            "voiceContent": "イファならウチの部族に来て、テペトル竜を治療したことあるよ。いい腕だし、面倒見が良さそうな感じだった。どんなにやんちゃな小竜でも、あいつの前ではみんな大人しくなってね。ウチの作った竜専用注射器は、針がなくても、竜と人間に対してかなりの抑止力を持ってるってイファが言ってた。見てみたい？サンプルならあるよ。待っててね、一番デッカイ注射器を持って来るから…ちょ、なに後ずさりしてんの？注射針は付いてないし、超安全だよ。",
-            "sourceName": "vo_xilonen_teammate_ifa_01.wem"
-        },
-        "4e1d8b6a346bfb5e": {
-            "hash": "4e1d8b6a346bfb5e",
-            "directory": "External9",
-            "voiceContent": "マイナスかけるマイナスはプラスになる——この理屈でいけば、変人の中の変人は普通の人間ってことでしょ？でもオロルンは明らかに違う。まっ、そうは言ってもあいつはいいやつだよ。イファに頼んで、「こだまの子」に果物やミツをたくさん持ってきてくれたし。みんなに迷惑をかけたって思ってるんでしょ。それに、燃素ミツムシからこんなに甘いミツを採れるなんて知らなかった。あいつ、腕は確かみたい。…はぁ、なんでもうまく育てられる人っているもんなんだね…",
-            "sourceName": "vo_xilonen_teammate_olorun_01.wem"
-        },
-        "69daadf251b494a1": {
-            "hash": "69daadf251b494a1",
-            "directory": "External13",
-            "voiceContent": "昔、「豊穣の邦」の人たちのために、死ぬほど重い「バーベル・プレート」と「ケトルベル」を作ったことがあるんだよね。そいつらが受け取りに来たとき、イアンサが人を連れて検品してた。あいつ、素手で各器具を持ち上げて、重量を測ってから一つずつ荷台に積み込んでたよ。全部積み終わると、イアンサは少し息を切らしながら、顔をちょっち赤くしてるだけだった。正直、イアンサの部族の人が羨ましいよ。力持ちってだけじゃなく、農作業も得意だからね…",
-            "sourceName": "vo_xilonen_teammate_iansan_01.wem"
-        },
-        "238afb5382726031": {
-            "hash": "238afb5382726031",
-            "directory": "External4",
-            "voiceContent": "マーヴィカからはおかしな依頼をいくつも受けたことあるよ。たとえば、あいつの炎に耐えられるような耐熱性のある剣——力を出しても、手の中で溶けないやつを作って欲しいとか。それから特製のサングラスも頼まれたっけ。炎を操って戦うときも、周りの敵をはっきり見れるものが欲しいってね…中でも一番不可解なのは、あの双駆輪ってやつ。ある時、マーヴィカが毎日工房に来て、燃素で動く乗り物を作ってほしいって言ってきてさ。どっから持ってきたのか分かんない設計図を山ほどウチに渡してきたんだ…で、結局押し負けて、丸三ヶ月かけて双駆輪を作ってあげたの。聞いた話によると、毎日その双駆輪に乗って、外を走り回ってるとか。しかも、止められる人がいないっていう……それに比べたら、外から来た旅人のために「古名」を作ってあげるのなんて、まだ真っ当な仕事だよね。",
-            "sourceName": "vo_xilonen_teammate_mavuika_01.wem"
-        },
-        "505f3c9427560e99": {
-            "hash": "505f3c9427560e99",
-            "directory": "External10",
-            "voiceContent": "キィニチはいいやつだけど、あのアハウはねぇ、どうも好きになれなくって。って言うか、あいつどっから現れてんの？もし何かの機械から出てきてるんなら、永遠に大人しくさせることができるかも。うん、時間を見つけて、キィニチに相談してこよ…",
-            "sourceName": "vo_xilonen_teammate_kinich_01.wem"
-        },
-        "13a31dbeb41167f3": {
-            "hash": "13a31dbeb41167f3",
-            "directory": "External2",
-            "voiceContent": "シトラリはたまにウチの工房に鉱石を買いに来るんだ。あいつの話だと、一部の鉱石は粉にすると飲み薬になって、しかもそれが占いや祭祀に役立つんだって。ん？あいつに占ってもらったことはあるかって？ないよ、まだ起きてないことに興味ないし、今の仕事で手一杯。それに、占いの儀式っていっつも眠くなっちゃうんだよねぇ…",
-            "sourceName": "vo_xilonen_teammate_citlali_01.wem"
-        },
-        "944ee767a0822f62": {
-            "hash": "944ee767a0822f62",
-            "directory": "External18",
-            "voiceContent": "ウチは「名鋳り師」だけど、「古名」の鋳造はウチの本業じゃなくってね。部族内外の人のために道具や武器を鍛造するのが、ウチの主な仕事。何しろ珍しい「古名」と比べれば、みんなの鍛造依頼は後を絶たないからね…",
-            "sourceName": "vo_xilonen_friendship_01.wem"
-        },
-        "eec1056fcf44c585": {
-            "hash": "eec1056fcf44c585",
-            "directory": "External29",
-            "voiceContent": "鍛造の依頼を受けるとき、一番疲れるのは仕事そのものじゃなくて、一部の依頼人の曖昧な言葉なんだ。その人が何を考えてるのか整理するのを手伝わなきゃいけないし、どんなものを望んでるのかはっきりさせないといけないでしょ。鍛造を始める前から、めちゃくちゃ苦労させられるんだよね。そして、依頼人の何かを悟ったかのような喜びの表情を見るたびに、胃が少し痛くなる。無意識に食事の量を減らしちゃうほどね。",
-            "sourceName": "vo_xilonen_friendship_02.wem"
-        },
-        "9578cb794b041f34": {
-            "hash": "9578cb794b041f34",
-            "directory": "External18",
-            "voiceContent": "鍛造の依頼がないときは、ちょっとしたものを作ってることが多いよ。たとえば、いま履いてる靴は最新の燃素推進システムと、新型の合成金属を採用してて、軽くて丈夫なんだ。それとウチがつけてるイヤホンはレコードプレイヤーに繋げられて、音楽を聴きながら鍛造できるの…ちょっと複雑そう？まあ、多少ね。でも好きなものを作ってるときは、仕事してるときよりもずっと精が出るもんだから。",
-            "sourceName": "vo_xilonen_friendship_03.wem"
-        },
-        "efb3d981799758ff": {
-            "hash": "efb3d981799758ff",
-            "directory": "External29",
-            "voiceContent": "ウチが「名鋳り師」になったのは、父さんと母さん、それからウチの一族のほとんどが「名鋳り師」の道を歩んでたからだよ。小さい頃、父さんと母さんはウチにこう言った。「ナタの中で、我々一族だけが各部族のために『古名』を鋳造する重責を担える」ってね。ウチが大きくなったら、その跡を継ぎ、「古名」を鋳造し続けて欲しいってお願いされたの。そしてウチは頷いた、それだけ。",
-            "sourceName": "vo_xilonen_friendship_04.wem"
-        },
-        "41e4778881858116": {
-            "hash": "41e4778881858116",
-            "directory": "External8",
-            "voiceContent": "でも「名鋳り師」になる前は、このメンドーごとに足を踏み入れていいのか、真剣に考えたこともあってね。だって、楽な仕事はたくさんあるし、普通の職人でも「名鋳り師」よりかは何倍も楽っしょ？それにウチの腕なら、もっと稼ぐこともできるはずだから。けど…結局、ウチは「名鋳り師」を選んだ。「古名」の鋳造は、誰かが背負わないといけない重責で、ちょうどウチにはそれにふさわしい能力があった。だから、それを受け継ぐ義務があると思ってね。父さんがいつも言ってたように——「すべてのナタ人が自分の背負うべき責任を果たしていれば、ナタは永遠にこの地に存在し続ける」ことができる。このことは、個人的な好き嫌いと関係ナシに、ただの責任ってだけ。…それに、一族で「古名」の鋳造技術を学んでた人の中で、ウチは一番優秀だったしね。「名鋳り師」にならなかったら、ウチの代わりに他の誰かが鋳造しなきゃいけなくなる。あいつらは授業中にウチに質問したり、宿題を書き写したりしてたし、もし「古名」を作ることになったら、毎日邪魔しに来るに違いない。そんなのまっぴらごめんだから、ウチが「名鋳り師」になっちゃったほうが都合いいっしょ。ウチも本業以外のことで悩まされずに済むし。",
-            "sourceName": "vo_xilonen_friendship_05.wem"
-        },
-        "09abbc0cda02f15e": {
-            "hash": "09abbc0cda02f15e",
-            "directory": "External1",
-            "voiceContent": "寝たり、ぼーっとしたり、日向ぼっこしたり…仕事をしてないときは、真っ白な紙を見つめることさえ面白く感じるんだよね。",
-            "sourceName": "vo_xilonen_pref_hobby.wem"
-        },
-        "08db4e1bac1d14a1": {
-            "hash": "08db4e1bac1d14a1",
-            "directory": "External1",
-            "voiceContent": "キャンディ、チョコレート。ウチの仕事は鍛造だから、それをたくさん食べないとハンマーを振れないんだよねー",
-            "sourceName": "vo_xilonen_pref_foodLike.wem"
-        },
-        "10d0bdbe4a073143": {
-            "hash": "10d0bdbe4a073143",
-            "directory": "External2",
-            "voiceContent": "味のない水。はいはい、分かってるってば。綺麗な水が身体にいいのは知ってるよ。でも飲まない。せめて砂糖くらいは必要っしょ？何なら、レモンを少し搾っても…",
-            "sourceName": "vo_xilonen_pref_foodDislike.wem"
-        },
-        "7abe50ddcd955cee": {
-            "hash": "7abe50ddcd955cee",
-            "directory": "External15",
-            "voiceContent": "うんまい、まだある？…いつの間に食べたかって？たった今だよ、ウチ、食べるの早いから。と・く・に、美味しいものを前にしたらね。",
-            "sourceName": "vo_xilonen_spice_pref_01.wem"
-        },
-        "72fcf7dd40c50114": {
-            "hash": "72fcf7dd40c50114",
-            "directory": "External14",
-            "voiceContent": "うん、悪くないね、今度ウチもごはん作ったげるよ。",
-            "sourceName": "vo_xilonen_spice_normal_01.wem"
-        },
-        "a96b612746aca1f8": {
-            "hash": "a96b612746aca1f8",
-            "directory": "External21",
-            "voiceContent": "へっ…い、今はいいかな。食べ過ぎると眠くなるっしょ？",
-            "sourceName": "vo_xilonen_spice_dislike_01.wem"
         },
         "04a6c40c85534ecd": {
             "hash": "04a6c40c85534ecd",
             "directory": "External0",
-            "voiceContent": "誕生日おめでと。この「全サイズ対応マルチツールセット」をあげる。いろんなサイズのドリルやハンマーが入ってて、あとのこぎりが三本、特殊なナイフ型オープナーが五本入ってるの。野外で使うにはたぶん十分っしょ。そうそう、金属の糸と革の糸を混ぜたロープもあるよ。成体のテペトル竜を一匹吊るすほど強靭だから。ロープの結び方は分かる？分かんなかったら教えたげる。ほら、ロープの端をつまんで、こうやって回して…",
+            "voiceContent": "誕生日おめでと。この「全サイズ対応マルチツールセット」をあげる。いろんなサイズのドリルやハンマーが入ってて、あとのこぎりが三本、特殊なナイフ型オープナーが五本入ってるの。野外で使うにはたぶん十分っしょ。そうそう、金属の糸と革の糸を混ぜたロープもあるよ。成体のテペトル竜を一匹吊るすほど強靭だから。ロープの結び方は分かる？分かんなかったら教えたげる。ほら、ロープの端をつまんで、こうやって回して",
             "sourceName": "vo_xilonen_pref_birthday_01.wem"
         },
-        "78ec346d47f1b1cd": {
-            "hash": "78ec346d47f1b1cd",
-            "directory": "External15",
-            "voiceContent": "…ニャー？",
-            "sourceName": "vo_xilonen_starUp_01.wem"
+        "0685abd272f087ba": {
+            "hash": "0685abd272f087ba",
+            "directory": "External0",
+            "voiceContent": "沸け、山の血",
+            "sourceName": "vo_xilonen_battle_skill3_02.wem"
         },
-        "f2d51663de1a40ca": {
-            "hash": "f2d51663de1a40ca",
-            "directory": "External30",
-            "voiceContent": "うん、まだまだ鍛えないとね、サンキュー。",
-            "sourceName": "vo_xilonen_starUp_02.wem"
+        "08db4e1bac1d14a1": {
+            "hash": "08db4e1bac1d14a1",
+            "directory": "External1",
+            "voiceContent": "キャンディ、チョコレート。ウチの仕事は鍛造だから、それをたくさん食べないとハンマーを振れないんだよね",
+            "sourceName": "vo_xilonen_pref_foodLike.wem"
         },
-        "745c485b9a8c8ad3": {
-            "hash": "745c485b9a8c8ad3",
-            "directory": "External14",
-            "voiceContent": "観察する力が上がって、ハンマーを振る手もより強くなった気がする。ちょっと何かで試してみたいから、離れてて。",
-            "sourceName": "vo_xilonen_starUp_03.wem"
+        "09abbc0cda02f15e": {
+            "hash": "09abbc0cda02f15e",
+            "directory": "External1",
+            "voiceContent": "寝たり、ぼーっとしたり、日向ぼっこしたり…仕事をしてないときは、真っ白な紙を見つめることさえ面白く感じるんだよね",
+            "sourceName": "vo_xilonen_pref_hobby.wem"
         },
-        "bb03ba970a3bd380": {
-            "hash": "bb03ba970a3bd380",
-            "directory": "External23",
-            "voiceContent": "こんなに手伝ってもらったし、タダ働きさせるわけにはいかないよね。ほら、ウチの「名前」をこの宝石に刻んでおいたよ。これがあれば、いつでもウチに助けを求められるの。あんたのためにウチの炉の火を起こすことも、あんたと一緒に危険な地に足を踏み入れることも、なんだって応えてあげる。ウチの「名前」とこの宝石が風化するまで、約束はずっと有効だから。",
-            "sourceName": "vo_xilonen_starUp_04.wem"
+        "0d560e75dcd55611": {
+            "hash": "0d560e75dcd55611",
+            "directory": "External1",
+            "voiceContent": "ずいぶん走り回ったし、そろそろ休も…座ってきゅーけい",
+            "sourceName": "vo_xilonen_character_idle_02.wem"
         },
-        "831cdb6a8bb6fb0d": {
-            "hash": "831cdb6a8bb6fb0d",
-            "directory": "External16",
-            "voiceContent": "メンドくさ…",
-            "sourceName": "vo_xilonen_life_less30_01.wem"
+        "10bfa4283243c345": {
+            "hash": "10bfa4283243c345",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackmid_05.wem"
         },
-        "fd06bd6121e13d0a": {
-            "hash": "fd06bd6121e13d0a",
-            "directory": "External31",
-            "voiceContent": "勘弁してよ。",
-            "sourceName": "vo_xilonen_life_less30_02.wem"
+        "10d0bdbe4a073143": {
+            "hash": "10d0bdbe4a073143",
+            "directory": "External2",
+            "voiceContent": "味のない水。はいはい、分かってるってば。綺麗な水が身体にいいのは知ってるよ。でも飲まない。せめて砂糖くらいは必要っしょ？何なら、レモンを少し搾っても",
+            "sourceName": "vo_xilonen_pref_foodDislike.wem"
         },
-        "81f2ef58e134fd13": {
-            "hash": "81f2ef58e134fd13",
-            "directory": "External16",
-            "voiceContent": "…ふん！",
-            "sourceName": "vo_xilonen_life_less30_03.wem"
+        "13a31dbeb41167f3": {
+            "hash": "13a31dbeb41167f3",
+            "directory": "External2",
+            "voiceContent": "シトラリはたまにウチの工房に鉱石を買いに来るんだ。あいつの話だと、一部の鉱石は粉にすると飲み薬になって、しかもそれが占いや祭祀に役立つんだって。ん？あいつに占ってもらったことはあるかって？ないよ、まだ起きてないことに興味ないし、今の仕事で手一杯。それに、占いの儀式っていっつも眠くなっちゃうんだよねぇ",
+            "sourceName": "vo_xilonen_teammate_citlali_01.wem"
         },
-        "46b2e613926bdc77": {
-            "hash": "46b2e613926bdc77",
-            "directory": "External8",
-            "voiceContent": "ふぅ…もう寝る時間だね…",
-            "sourceName": "vo_xilonen_life_die_03.wem"
+        "14eccd7c7dec8f75": {
+            "hash": "14eccd7c7dec8f75",
+            "directory": "External2",
+            "voiceContent": "イファならウチの部族に来て、テペトル竜を治療したことあるよ。いい腕だし、面倒見が良さそうな感じだった。どんなにやんちゃな小竜でも、あいつの前ではみんな大人しくなってね。ウチの作った竜専用注射器は、針がなくても、竜と人間に対してかなりの抑止力を持ってるってイファが言ってた。見てみたい？サンプルならあるよ。待っててね、一番デッカイ注射器を持って来るから…ちょ、なに後ずさりしてんの？注射針は付いてないし、超安全だよ",
+            "sourceName": "vo_xilonen_teammate_ifa_01.wem"
         },
-        "ee9c5a5990f332ae": {
-            "hash": "ee9c5a5990f332ae",
-            "directory": "External29",
-            "voiceContent": "…うざったいな。",
-            "sourceName": "vo_xilonen_battle_hit_H_02.wem"
+        "15197839df7b31bf": {
+            "hash": "15197839df7b31bf",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackmid_03.wem"
         },
-        "340d46a405921a72": {
-            "hash": "340d46a405921a72",
-            "directory": "External6",
-            "voiceContent": "またトラブル…？",
-            "sourceName": "vo_xilonen_battle_hit_L_02.wem"
+        "18f995f98b66cc45": {
+            "hash": "18f995f98b66cc45",
+            "directory": "External3",
+            "voiceContent": "何を鍛造するにしても、炉の温度は一番大事でね。低すぎると材料を柔らかくしたり、溶かしたりできないし、不純物だって取り除けない。逆に高すぎると、材料は本来の持ち味を出せなくなる。そこで、職人たちは炉の火を調節する方法を考えたの。高すぎたら薪を引き抜いて、低すぎたら薪を足すってね。ウチは、よく燃素を含んだ宝石で炉の温度を調節してる。燃素を使って起こした火は、普通の火より断然強力だかんね…えっ？燃素を使い切った宝石はどうなるかって？どっかに積み上げるくらいしか使い道はないよ。燃素が空っぽになった以上、残された取柄は見栄えだけだからね。欲しいなら、いくつか好きに持ってっていーよ",
+            "sourceName": "vo_xilonen_dialog_close.wem"
+        },
+        "199e9aed19854ecb": {
+            "hash": "199e9aed19854ecb",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackheavy_06.wem"
+        },
+        "1ac7c6fec4060625": {
+            "hash": "1ac7c6fec4060625",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackheavy_04.wem"
+        },
+        "1cc6286084160651": {
+            "hash": "1cc6286084160651",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_hit_h_01.wem"
         },
         "1e91aece75b5eda1": {
             "hash": "1e91aece75b5eda1",
             "directory": "External3",
-            "voiceContent": "鍛造依頼の話をしてるときに「別に急ぎでも重要でもないから、そちらの都合に合わせて、できるだけ早くしてくれればいい」って言われるのが一番ヤなんだよね。ウチの仕事の経験上、それは「いつでも催促しに来る可能性があるよ」ってのと、ほぼおんなじだから。はぁ、考えただけで頭が痛くなってきた。もう少し寝よっと…",
+            "voiceContent": "鍛造依頼の話をしてるときに「別に急ぎでも重要でもないから、そちらの都合に合わせて、できるだけ早くしてくれればいい」って言われるのが一番ヤなんだよね。ウチの仕事の経験上、それは「いつでも催促しに来る可能性があるよ」ってのと、ほぼおんなじだから。はぁ、考えただけで頭が痛くなってきた。もう少し寝よっと",
             "sourceName": "vo_xilonen_dialog_annoyed_01.wem"
         },
-        "afbcb3bf44847d84": {
-            "hash": "afbcb3bf44847d84",
+        "1fc3db94010ea07a": {
+            "hash": "1fc3db94010ea07a",
+            "directory": "External3",
+            "voiceContent": "ふわぁ～昼寝でもしよ。あれ？サングラスどこやったっけ",
+            "sourceName": "vo_xilonen_weather_sunny_01.wem"
+        },
+        "2238a8c77ee9875c": {
+            "hash": "2238a8c77ee9875c",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attacklight_02.wem"
+        },
+        "236294d9296b857e": {
+            "hash": "236294d9296b857e",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attacklight_04.wem"
+        },
+        "238afb5382726031": {
+            "hash": "238afb5382726031",
+            "directory": "External4",
+            "voiceContent": "マーヴィカからはおかしな依頼をいくつも受けたことあるよ。たとえば、あいつの炎に耐えられるような耐熱性のある剣——力を出しても、手の中で溶けないやつを作って欲しいとか。それから特製のサングラスも頼まれたっけ。炎を操って戦うときも、周りの敵をはっきり見れるものが欲しいってね…中でも一番不可解なのは、あの双駆輪ってやつ。ある時、マーヴィカが毎日工房に来て、燃素で動く乗り物を作ってほしいって言ってきてさ。どっから持ってきたのか分かんない設計図を山ほどウチに渡してきたんだ…で、結局押し負けて、丸三ヶ月かけて双駆輪を作ってあげたの。聞いた話によると、毎日その双駆輪に乗って、外を走り回ってるとか。しかも、止められる人がいないっていう……それに比べたら、外から来た旅人のために「古名」を作ってあげるのなんて、まだ真っ当な仕事だよね",
+            "sourceName": "vo_xilonen_teammate_mavuika_01.wem"
+        },
+        "25f170dfea10191e": {
+            "hash": "25f170dfea10191e",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_fly_start_01.wem"
+        },
+        "268c12579683c101": {
+            "hash": "268c12579683c101",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_climb_01.wem"
+        },
+        "271aa4f19490dec0": {
+            "hash": "271aa4f19490dec0",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_fly_start_03.wem"
+        },
+        "340d46a405921a72": {
+            "hash": "340d46a405921a72",
+            "directory": "External6",
+            "voiceContent": "またトラブル…",
+            "sourceName": "vo_xilonen_battle_hit_L_02.wem"
+        },
+        "359bd793d76ebc63": {
+            "hash": "359bd793d76ebc63",
+            "directory": "External6",
+            "voiceContent": "行こっか、ついてくよ",
+            "sourceName": "vo_xilonen_teamJoin_03.wem"
+        },
+        "3c91f77dee53218b": {
+            "hash": "3c91f77dee53218b",
+            "directory": "External7",
+            "voiceContent": "いいものザックザク～、ウチにもちょうだい？冗談だってば、あんたが持ってていいよ",
+            "sourceName": "vo_xilonen_chest_open_02.wem"
+        },
+        "3f6791e4b6261472": {
+            "hash": "3f6791e4b6261472",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_jump_05.wem"
+        },
+        "41e4778881858116": {
+            "hash": "41e4778881858116",
+            "directory": "External8",
+            "voiceContent": "でも「名鋳り師」になる前は、このメンドーごとに足を踏み入れていいのか、真剣に考えたこともあってね。だって、楽な仕事はたくさんあるし、普通の職人でも「名鋳り師」よりかは何倍も楽っしょ？それにウチの腕なら、もっと稼ぐこともできるはずだから。けど…結局、ウチは「名鋳り師」を選んだ。「古名」の鋳造は、誰かが背負わないといけない重責で、ちょうどウチにはそれにふさわしい能力があった。だから、それを受け継ぐ義務があると思ってね。父さんがいつも言ってたように——「すべてのナタ人が自分の背負うべき責任を果たしていれば、ナタは永遠にこの地に存在し続ける」ことができる。このことは、個人的な好き嫌いと関係ナシに、ただの責任ってだけ。…それに、一族で「古名」の鋳造技術を学んでた人の中で、ウチは一番優秀だったしね。「名鋳り師」にならなかったら、ウチの代わりに他の誰かが鋳造しなきゃいけなくなる。あいつらは授業中にウチに質問したり、宿題を書き写したりしてたし、もし「古名」を作ることになったら、毎日邪魔しに来るに違いない。そんなのまっぴらごめんだから、ウチが「名鋳り師」になっちゃったほうが都合いいっしょ。ウチも本業以外のことで悩まされずに済むし",
+            "sourceName": "vo_xilonen_friendship_05.wem"
+        },
+        "46b2e613926bdc77": {
+            "hash": "46b2e613926bdc77",
+            "directory": "External8",
+            "voiceContent": "ふぅ…もう寝る時間だね",
+            "sourceName": "vo_xilonen_life_die_03.wem"
+        },
+        "4860ab8b56cc61df": {
+            "hash": "4860ab8b56cc61df",
+            "directory": "External9",
+            "voiceContent": "んじゃ、行くよ",
+            "sourceName": "vo_xilonen_battle_skill1_01.wem"
+        },
+        "4a4783a71acdb6f4": {
+            "hash": "4a4783a71acdb6f4",
+            "directory": "External9",
+            "voiceContent": "ウチが引き受けたげる",
+            "sourceName": "vo_xilonen_life_less30_teammate_01.wem"
+        },
+        "4bf2e188ebbd3f9e": {
+            "hash": "4bf2e188ebbd3f9e",
+            "directory": "External9",
+            "voiceContent": "ふわぁ～もう昼寝の時間か…ちょっと寝てくる。用があったら起こして",
+            "sourceName": "vo_xilonen_dialog_greetingNoon.wem"
+        },
+        "4e1d8b6a346bfb5e": {
+            "hash": "4e1d8b6a346bfb5e",
+            "directory": "External9",
+            "voiceContent": "マイナスかけるマイナスはプラスになる——この理屈でいけば、変人の中の変人は普通の人間ってことでしょ？でもオロルンは明らかに違う。まっ、そうは言ってもあいつはいいやつだよ。イファに頼んで、「こだまの子」に果物やミツをたくさん持ってきてくれたし。みんなに迷惑をかけたって思ってるんでしょ。それに、燃素ミツムシからこんなに甘いミツを採れるなんて知らなかった。あいつ、腕は確かみたい。…はぁ、なんでもうまく育てられる人っているもんなんだね",
+            "sourceName": "vo_xilonen_teammate_olorun_01.wem"
+        },
+        "505f3c9427560e99": {
+            "hash": "505f3c9427560e99",
+            "directory": "External10",
+            "voiceContent": "キィニチはいいやつだけど、あのアハウはねぇ、どうも好きになれなくって。って言うか、あいつどっから現れてんの？もし何かの機械から出てきてるんなら、永遠に大人しくさせることができるかも。うん、時間を見つけて、キィニチに相談してこよ",
+            "sourceName": "vo_xilonen_teammate_kinich_01.wem"
+        },
+        "546814af47f2caeb": {
+            "hash": "546814af47f2caeb",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_idle_02.wem"
+        },
+        "554d04cdb5c4db49": {
+            "hash": "554d04cdb5c4db49",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_hit_l_05.wem"
+        },
+        "5578e69eaaa8eac4": {
+            "hash": "5578e69eaaa8eac4",
+            "directory": "External10",
+            "voiceContent": "気温はちょうどいいけど…うーん、横になるのには向いてないね、ここ",
+            "sourceName": "vo_xilonen_weather_desert_01.wem"
+        },
+        "58f0883f052a805d": {
+            "hash": "58f0883f052a805d",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_hit_h_05.wem"
+        },
+        "5bb40aa9768c4f0a": {
+            "hash": "5bb40aa9768c4f0a",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_climb_breath_01.wem"
+        },
+        "5e13a16149f4f6fe": {
+            "hash": "5e13a16149f4f6fe",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_sprint_start_02.wem"
+        },
+        "5f60ddc8f6d44e83": {
+            "hash": "5f60ddc8f6d44e83",
+            "directory": "External11",
+            "voiceContent": "響めく深壑、火淵を刻め",
+            "sourceName": "vo_xilonen_battle_skill3_03.wem"
+        },
+        "5f93f79d9f07d8d9": {
+            "hash": "5f93f79d9f07d8d9",
+            "directory": "External11",
+            "voiceContent": "ハァ",
+            "sourceName": "vo_xilonen_battle_skill1_03.wem"
+        },
+        "5fd90d2888d7c598": {
+            "hash": "5fd90d2888d7c598",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackheavy_01.wem"
+        },
+        "608ac9daa1564cbd": {
+            "hash": "608ac9daa1564cbd",
+            "directory": "External12",
+            "voiceContent": "響け、壑の音",
+            "sourceName": "vo_xilonen_battle_skill3_01.wem"
+        },
+        "60a7500e6658d549": {
+            "hash": "60a7500e6658d549",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_jump_02.wem"
+        },
+        "65d324aafbc5c155": {
+            "hash": "65d324aafbc5c155",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_hit_l_01.wem"
+        },
+        "674a1640e7695ad6": {
+            "hash": "674a1640e7695ad6",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackmid_02.wem"
+        },
+        "69daadf251b494a1": {
+            "hash": "69daadf251b494a1",
+            "directory": "External13",
+            "voiceContent": "昔、「豊穣の邦」の人たちのために、死ぬほど重い「バーベル・プレート」と「ケトルベル」を作ったことがあるんだよね。そいつらが受け取りに来たとき、イアンサが人を連れて検品してた。あいつ、素手で各器具を持ち上げて、重量を測ってから一つずつ荷台に積み込んでたよ。全部積み終わると、イアンサは少し息を切らしながら、顔をちょっち赤くしてるだけだった。正直、イアンサの部族の人が羨ましいよ。力持ちってだけじゃなく、農作業も得意だからね",
+            "sourceName": "vo_xilonen_teammate_iansan_01.wem"
+        },
+        "6e64cf28cd99dc94": {
+            "hash": "6e64cf28cd99dc94",
+            "directory": "External13",
+            "voiceContent": "この前、カチーナに掘削マシンを作るよう頼まれてね。しかも掘削と跳躍、両方の機能を備えてほしいって注文つき。まぁ、そんなに複雑なもんじゃないし、さくっと作ろうと思ったんだけど、椅子の角度を調整するのに苦戦してね。結局、カチーナはウチの意見を聞き入れて、椅子を外すことにしたんだ。んで、代わりに掘削マシンの動力コアと連動したマニュアル操作装置を搭載したってわけ…えっと…どうしてカチーナが「ぐるぐるコマちゃん」を操縦するとき、自分も跳ねるのかって？それはあの子のリクエストによるもんだよ。掘削マシンを操縦するときの揺れが大好きだとか言って、一部の震動軽減システムを削るよう頼んできてさ。そだ、今度カチーナにマウスガードでも作ってあげよ。もしぴょんぴょんしてるときに舌でも噛んだら大変だからね",
+            "sourceName": "vo_xilonen_teammate_kachina_01.wem"
+        },
+        "70290d05ceaae654": {
+            "hash": "70290d05ceaae654",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackheavy_05.wem"
+        },
+        "7059bc514d935db7": {
+            "hash": "7059bc514d935db7",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_hit_h_03.wem"
+        },
+        "71523917792b9db6": {
+            "hash": "71523917792b9db6",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackheavy_03.wem"
+        },
+        "72fcf7dd40c50114": {
+            "hash": "72fcf7dd40c50114",
+            "directory": "External14",
+            "voiceContent": "うん、悪くないね、今度ウチもごはん作ったげるよ",
+            "sourceName": "vo_xilonen_spice_normal_01.wem"
+        },
+        "745c485b9a8c8ad3": {
+            "hash": "745c485b9a8c8ad3",
+            "directory": "External14",
+            "voiceContent": "観察する力が上がって、ハンマーを振る手もより強くなった気がする。ちょっと何かで試してみたいから、離れてて",
+            "sourceName": "vo_xilonen_starUp_03.wem"
+        },
+        "764c0ebbc1a8c27c": {
+            "hash": "764c0ebbc1a8c27c",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_climb_breath_03.wem"
+        },
+        "76b9a6485d1df067": {
+            "hash": "76b9a6485d1df067",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_climb_03.wem"
+        },
+        "78ec346d47f1b1cd": {
+            "hash": "78ec346d47f1b1cd",
+            "directory": "External15",
+            "voiceContent": "…ニャー",
+            "sourceName": "vo_xilonen_starUp_01.wem"
+        },
+        "7abe50ddcd955cee": {
+            "hash": "7abe50ddcd955cee",
+            "directory": "External15",
+            "voiceContent": "うんまい、まだある？…いつの間に食べたかって？たった今だよ、ウチ、食べるの早いから。と・く・に、美味しいものを前にしたらね",
+            "sourceName": "vo_xilonen_spice_pref_01.wem"
+        },
+        "7c01420af0d8ceff": {
+            "hash": "7c01420af0d8ceff",
+            "directory": "External15",
+            "voiceContent": "どんなに忙しくても、休憩時間は作らないとね。仕事ばっかしてたら、頭も身体もストライキ起こしちゃう。そんな状態じゃ、いい結果が出るわけないっしょ？時間が作れない？じゃ、こう言ったらいいよ——ウチに呼ばれてるって。そしたら、ウチの工房で一休みできるじゃん？安心して、秘密は守るから",
+            "sourceName": "vo_xilonen_dialog_idle.wem"
+        },
+        "7c74b6cfad7e7307": {
+            "hash": "7c74b6cfad7e7307",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attacklight_05.wem"
+        },
+        "7d9da2e157febe21": {
+            "hash": "7d9da2e157febe21",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attacklight_07.wem"
+        },
+        "802c7ee818a352c1": {
+            "hash": "802c7ee818a352c1",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_fly_start_02.wem"
+        },
+        "81f2ef58e134fd13": {
+            "hash": "81f2ef58e134fd13",
+            "directory": "External16",
+            "voiceContent": "…ふん",
+            "sourceName": "vo_xilonen_life_less30_03.wem"
+        },
+        "82f894d4dfb0d79c": {
+            "hash": "82f894d4dfb0d79c",
+            "directory": "External16",
+            "voiceContent": "空を飛ぶために、チャスカの「銃」にはかなりの労力を費やしてきたんだ。まず、高速機動中の銃本体の安定性を可能な限り確保しなければならないこと。次に、空中戦に適した通常弾薬と特殊弾薬をカスタマイズすること。最後に、空中での発射による反動と照準に関する問題を考えること…でもチャスカは「最後の二つは心配しなくていい。銃に基本的な機械式照準装置を取り付けさえすれば、残りは自分の力でどうにかする」って言ってね。実際、チャスカはあの「銃」をうまく扱ってる。さすがは「花翼の集」の空飛ぶエースって感じ",
+            "sourceName": "vo_xilonen_teammate_chasca_01.wem"
+        },
+        "831cdb6a8bb6fb0d": {
+            "hash": "831cdb6a8bb6fb0d",
+            "directory": "External16",
+            "voiceContent": "メンドくさ",
+            "sourceName": "vo_xilonen_life_less30_01.wem"
+        },
+        "8803259adf8b9f1a": {
+            "hash": "8803259adf8b9f1a",
+            "directory": "External17",
+            "voiceContent": "さっさと片付けちゃお",
+            "sourceName": "vo_xilonen_teamJoin_02.wem"
+        },
+        "8b98b47e20353890": {
+            "hash": "8b98b47e20353890",
+            "directory": "External17",
+            "voiceContent": "…まだ終わってない鍛造依頼、あと何件あったっけ？ええと…一つ…二つ…そんな多くないみたいだし、明日から本気だそっと",
+            "sourceName": "vo_xilonen_character_idle_03.wem"
+        },
+        "8db6c2be9da2d2ed": {
+            "hash": "8db6c2be9da2d2ed",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attacklight_03.wem"
+        },
+        "8fb66996a0959014": {
+            "hash": "8fb66996a0959014",
+            "directory": "External17",
+            "voiceContent": "待ち伏せは——うん、いないね。ウチが見張っててあげるから安心して",
+            "sourceName": "vo_xilonen_chest_open_01.wem"
+        },
+        "92f63705230cdc28": {
+            "hash": "92f63705230cdc28",
+            "directory": "External18",
+            "voiceContent": "げぇっ、もうこんな時間？撤収撤収。さあ、今日の仕事が無事終わったお祝いに、一緒に美味しいもんでも食べに行こ",
+            "sourceName": "vo_xilonen_dialog_greetingNight.wem"
+        },
+        "944ee767a0822f62": {
+            "hash": "944ee767a0822f62",
+            "directory": "External18",
+            "voiceContent": "ウチは「名鋳り師」だけど、「古名」の鋳造はウチの本業じゃなくってね。部族内外の人のために道具や武器を鍛造するのが、ウチの主な仕事。何しろ珍しい「古名」と比べれば、みんなの鍛造依頼は後を絶たないからね",
+            "sourceName": "vo_xilonen_friendship_01.wem"
+        },
+        "9578cb794b041f34": {
+            "hash": "9578cb794b041f34",
+            "directory": "External18",
+            "voiceContent": "鍛造の依頼がないときは、ちょっとしたものを作ってることが多いよ。たとえば、いま履いてる靴は最新の燃素推進システムと、新型の合成金属を採用してて、軽くて丈夫なんだ。それとウチがつけてるイヤホンはレコードプレイヤーに繋げられて、音楽を聴きながら鍛造できるの…ちょっと複雑そう？まあ、多少ね。でも好きなものを作ってるときは、仕事してるときよりもずっと精が出るもんだから",
+            "sourceName": "vo_xilonen_friendship_03.wem"
+        },
+        "a164bde913518030": {
+            "hash": "a164bde913518030",
+            "directory": "External20",
+            "voiceContent": "精密加工の能力を鍛えるために、よく複雑な形をした小さなアクセサリーを作ってるんだよねー。たとえば、網の形をしたペンダントとか、ウォーベンみたいなイヤリングとか。出来上がったら、それを友達やお隣さんにプレゼントするの。ん？指輪は作れるかって？モチのロンっしょ！何日か前にシャクギクの形をした指輪を作ったばっかだしね。まぁ設計図を描くだけで、だいぶ手間取ったけど…欲しい？いいよ。んじゃ、手を出して、指のサイズを測ったげる。すぐに作れると思うよ",
+            "sourceName": "vo_xilonen_dialog_share_01.wem"
+        },
+        "a662a2b64fb348a2": {
+            "hash": "a662a2b64fb348a2",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_idle_03.wem"
+        },
+        "a6e91b8196170731": {
+            "hash": "a6e91b8196170731",
+            "directory": "External20",
+            "voiceContent": "友達の何人かに、たまに鈍いし冷めてるって言われるんだよね。たとえば、友達んちでパーティーしたとき、結婚の話題になったんだけど、一人が「自分が結婚したらみんな泣く？」って聞いたの。で、ちょっと話したあとに、みんな泣きながらずっと友達でいようねとか言い出してさ…ウチにはまったく分かんなかった。だって、結婚ってめでたいことじゃん？別に大霊に会いに行くわけでもないし、時間があればまた会えるのに。えっ？もし結婚を迫られてて、嫌で泣いてたらどうするかって？ああ、それは考えたことあるよ。本当にそうだったら、結婚式場に乱入して友達を連れ戻すつもり。ウチって足速いし、問題ないっしょ",
+            "sourceName": "vo_xilonen_dialog_idle2.wem"
+        },
+        "a77d6ad4bdb2a488": {
+            "hash": "a77d6ad4bdb2a488",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_hit_l_04.wem"
+        },
+        "a78b86c7fa338674": {
+            "hash": "a78b86c7fa338674",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_idle_01.wem"
+        },
+        "a96b612746aca1f8": {
+            "hash": "a96b612746aca1f8",
             "directory": "External21",
-            "voiceContent": "ハロハロー、ウチは「こだまの子」のシロネン。道具の鍛造依頼なら、直接言ってね。まあ、手元にある注文が山積みで、今依頼を出されてもしばらく待ってもらうことになるけど。",
-            "sourceName": "vo_xilonen_draw_appear_01.wem"
+            "voiceContent": "へっ…い、今はいいかな。食べ過ぎると眠くなるっしょ",
+            "sourceName": "vo_xilonen_spice_dislike_01.wem"
         },
         "a99ff7bf05b012dd": {
             "hash": "a99ff7bf05b012dd",
             "directory": "External21",
-            "voiceContent": "「神の目」ね…けっこう役に立ってるよ。これのおかげで、鉱石の中の「岩」元素の含有量と分布をより正確に判断できるし、良質な鉱石とダメな鉱石を素早く選別できるようになったからね。意義？うーん…深く考えてないかな。役に立つならそれでオッケーだし、他は気にしないよ。",
+            "voiceContent": "「神の目」ね…けっこう役に立ってるよ。これのおかげで、鉱石の中の「岩」元素の含有量と分布をより正確に判断できるし、良質な鉱石とダメな鉱石を素早く選別できるようになったからね。意義？うーん…深く考えてないかな。役に立つならそれでオッケーだし、他は気にしないよ",
             "sourceName": "vo_xilonen_dialog_pendant_01.wem"
+        },
+        "afbcb3bf44847d84": {
+            "hash": "afbcb3bf44847d84",
+            "directory": "External21",
+            "voiceContent": "ハロハロー、ウチは「こだまの子」のシロネン。道具の鍛造依頼なら、直接言ってね。まあ、手元にある注文が山積みで、今依頼を出されてもしばらく待ってもらうことになるけど",
+            "sourceName": "vo_xilonen_draw_appear_01.wem"
+        },
+        "b2d7b6156e469e88": {
+            "hash": "b2d7b6156e469e88",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_jump_03.wem"
+        },
+        "b64e86200382df22": {
+            "hash": "b64e86200382df22",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackmid_06.wem"
+        },
+        "b725c357ce07e487": {
+            "hash": "b725c357ce07e487",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_sprint_start_03.wem"
+        },
+        "b7776a31ae031cf4": {
+            "hash": "b7776a31ae031cf4",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackmid_04.wem"
+        },
+        "b84eaf6978882fa1": {
+            "hash": "b84eaf6978882fa1",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_sprint_start_01.wem"
+        },
+        "b966b89bc54318bb": {
+            "hash": "b966b89bc54318bb",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_hit_l_03.wem"
+        },
+        "bb03ba970a3bd380": {
+            "hash": "bb03ba970a3bd380",
+            "directory": "External23",
+            "voiceContent": "こんなに手伝ってもらったし、タダ働きさせるわけにはいかないよね。ほら、ウチの「名前」をこの宝石に刻んでおいたよ。これがあれば、いつでもウチに助けを求められるの。あんたのためにウチの炉の火を起こすことも、あんたと一緒に危険な地に足を踏み入れることも、なんだって応えてあげる。ウチの「名前」とこの宝石が風化するまで、約束はずっと有効だから",
+            "sourceName": "vo_xilonen_starUp_04.wem"
+        },
+        "c18f841bd2e8886e": {
+            "hash": "c18f841bd2e8886e",
+            "directory": "External24",
+            "voiceContent": "冷めちゃった",
+            "sourceName": "vo_xilonen_life_die_02.wem"
+        },
+        "c2cec86ad65d1d38": {
+            "hash": "c2cec86ad65d1d38",
+            "directory": "External24",
+            "voiceContent": "雨の日は、部屋で寝るのにぴったし",
+            "sourceName": "vo_xilonen_weather_heavyRain_01.wem"
+        },
+        "c4c103dc75d712bb": {
+            "hash": "c4c103dc75d712bb",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_jump_04.wem"
+        },
+        "c8ea044f650bac5e": {
+            "hash": "c8ea044f650bac5e",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_climb_02.wem"
+        },
+        "ca641b0dfd3e1f1f": {
+            "hash": "ca641b0dfd3e1f1f",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackheavy_02.wem"
+        },
+        "cf05ce9d4125ea4f": {
+            "hash": "cf05ce9d4125ea4f",
+            "directory": "External25",
+            "voiceContent": "ックション！…うぅ、眠気も吹っ飛んじゃった",
+            "sourceName": "vo_xilonen_weather_snowy_01.wem"
+        },
+        "d33548e862d1d0a0": {
+            "hash": "d33548e862d1d0a0",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attacklight_06.wem"
+        },
+        "d78e4449b3b5a039": {
+            "hash": "d78e4449b3b5a039",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attackmid_01.wem"
+        },
+        "dbc7406ee6d10d6e": {
+            "hash": "dbc7406ee6d10d6e",
+            "directory": "External27",
+            "voiceContent": "あちゃー、ベランダの花がまた枯れてる。毎日水やりしてるのに…もしかして、逆にやり過ぎ",
+            "sourceName": "vo_xilonen_character_idle_01.wem"
+        },
+        "ddd69da5e267bb58": {
+            "hash": "ddd69da5e267bb58",
+            "directory": "External27",
+            "voiceContent": "ふん",
+            "sourceName": "vo_xilonen_battle_skill1_02.wem"
+        },
+        "e14b56af6721dd73": {
+            "hash": "e14b56af6721dd73",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_attacklight_01.wem"
+        },
+        "e1ca28b2e0620d0d": {
+            "hash": "e1ca28b2e0620d0d",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_climb_breath_02.wem"
+        },
+        "e34a05876a12f5c2": {
+            "hash": "e34a05876a12f5c2",
+            "directory": "External28",
+            "voiceContent": "まー…多少はモラになるはず？さっさとしまっとこ",
+            "sourceName": "vo_xilonen_chest_open_03.wem"
+        },
+        "e4eec9867227dde8": {
+            "hash": "e4eec9867227dde8",
+            "directory": "External28",
+            "voiceContent": "ラゾーリおばちゃんが、プレゼントに「燃晶名刻」を作ってあげるって前に言ったんだよね？今の状況じゃ、そんな余裕ないだろうし、ウチが代わりに作ったげるよ。ニペカを助けてくれたお礼にね。ん？もうあんたたちのために「古名」を作ってくれたって？あははっ、それは違うよ。あの「古名」にはみんなからの「祝福」が込められてるけど、これから作る「名刻」にはウチ個人の「祝福」を込めるつもりだから。ってことで、受け取り拒否とかナシだかんね。完成したら教えるよ。そこに何を刻むかは…その時になったらあんたが決めてね",
+            "sourceName": "vo_xilonen_dialog_close1.wem"
+        },
+        "e508d6c4e97895e6": {
+            "hash": "e508d6c4e97895e6",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_hit_l_06.wem"
+        },
+        "e56e43a310d48d1d": {
+            "hash": "e56e43a310d48d1d",
+            "directory": "External28",
+            "voiceContent": "出発するの",
+            "sourceName": "vo_xilonen_teamJoin_01.wem"
+        },
+        "ea0c6e47e38e0b8c": {
+            "hash": "ea0c6e47e38e0b8c",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_hit_h_04.wem"
+        },
+        "ecee20d28c242bdc": {
+            "hash": "ecee20d28c242bdc",
+            "directory": "External29",
+            "voiceContent": "ムアラニって、運動が大の得意なんだよね。サーフィンにしても、「スピリットウェイ」を滑走するにしても、あいつほど動きが滑らかで、表情をリラックスさせてる人は知らないよ。それに、これまでムアラニがミスしたところなんて見たことないし。もし人や竜が道を塞いでたら、どうするかって？うーん…あいつなら、たぶん相手をひょいっとつまみ上げて、滑走を続けるんじゃない",
+            "sourceName": "vo_xilonen_teammate_mualani_01.wem"
+        },
+        "ede0e214c2e1c5d8": {
+            "hash": "ede0e214c2e1c5d8",
+            "directory": "External29",
+            "voiceContent": "おやすみ。枕を柔らかくほぐしてから寝るんだよ。じゃないと明日の朝、首が痛くなるから",
+            "sourceName": "vo_xilonen_dialog_greetingNight2.wem"
+        },
+        "ee9c5a5990f332ae": {
+            "hash": "ee9c5a5990f332ae",
+            "directory": "External29",
+            "voiceContent": "…うざったいな",
+            "sourceName": "vo_xilonen_battle_hit_H_02.wem"
+        },
+        "eec1056fcf44c585": {
+            "hash": "eec1056fcf44c585",
+            "directory": "External29",
+            "voiceContent": "鍛造の依頼を受けるとき、一番疲れるのは仕事そのものじゃなくて、一部の依頼人の曖昧な言葉なんだ。その人が何を考えてるのか整理するのを手伝わなきゃいけないし、どんなものを望んでるのかはっきりさせないといけないでしょ。鍛造を始める前から、めちゃくちゃ苦労させられるんだよね。そして、依頼人の何かを悟ったかのような喜びの表情を見るたびに、胃が少し痛くなる。無意識に食事の量を減らしちゃうほどね",
+            "sourceName": "vo_xilonen_friendship_02.wem"
+        },
+        "efb3d981799758ff": {
+            "hash": "efb3d981799758ff",
+            "directory": "External29",
+            "voiceContent": "ウチが「名鋳り師」になったのは、父さんと母さん、それからウチの一族のほとんどが「名鋳り師」の道を歩んでたからだよ。小さい頃、父さんと母さんはウチにこう言った。「ナタの中で、我々一族だけが各部族のために『古名』を鋳造する重責を担える」ってね。ウチが大きくなったら、その跡を継ぎ、「古名」を鋳造し続けて欲しいってお願いされたの。そしてウチは頷いた、それだけ",
+            "sourceName": "vo_xilonen_friendship_04.wem"
+        },
+        "f06322059a0c8fe6": {
+            "hash": "f06322059a0c8fe6",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_explore_jump_01.wem"
+        },
+        "f2d51663de1a40ca": {
+            "hash": "f2d51663de1a40ca",
+            "directory": "External30",
+            "voiceContent": "うん、まだまだ鍛えないとね、サンキュー",
+            "sourceName": "vo_xilonen_starUp_02.wem"
+        },
+        "f31e5222c8ecd111": {
+            "hash": "f31e5222c8ecd111",
+            "directory": "External30",
+            "voiceContent": "…燃え…尽きちゃった",
+            "sourceName": "vo_xilonen_life_die_01.wem"
+        },
+        "f345eeb8d44ce912": {
+            "hash": "f345eeb8d44ce912",
+            "directory": "External30",
+            "voiceContent": "植物の育て方がよく分かんないんだよね…言われた通り、三日にいっぺん水やり、五日にいっぺん雑草を抜いて、週に二回肥料をあげてる上に、日を浴びさせる時間もきちんと守ってるのに…最後は例外なく、ぜんぶ枯れちゃって。はぁ…植物を育てるのも運に左右されるとか",
+            "sourceName": "vo_xilonen_pref_gift_01.wem"
+        },
+        "f724118e688cfb6b": {
+            "hash": "f724118e688cfb6b",
+            "directory": "External30",
+            "voiceContent": "任せて",
+            "sourceName": "vo_xilonen_life_less30_teammate_02.wem"
+        },
+        "fd06bd6121e13d0a": {
+            "hash": "fd06bd6121e13d0a",
+            "directory": "External31",
+            "voiceContent": "勘弁してよ",
+            "sourceName": "vo_xilonen_life_less30_02.wem"
+        },
+        "feec6a36d6c66e5a": {
+            "hash": "feec6a36d6c66e5a",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_xilonen_battle_hit_h_06.wem"
         }
     }
 }

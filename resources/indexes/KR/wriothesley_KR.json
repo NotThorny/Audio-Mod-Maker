@@ -4,454 +4,712 @@
         "57c7a9dcb464c837": {
             "hash": "57c7a9dcb464c837",
             "directory": "External10",
-            "voiceContent": "일단 저번처럼 눈앞의 장치부터 가동해 보자. 뭔가 바뀔 수도 있으니까",
+            "voiceContent": "일단 저번처럼 눈앞의 장치부터 가동해 보자. 뭔가 바뀔 수도 있으니",
             "sourceName": "vo_DYZLQ003_14_wriothesley_01.wem"
         }
     },
     "Gameplay": {
-        "8224c10eb51751b0": {
-            "hash": "8224c10eb51751b0",
-            "directory": "External16",
-            "voiceContent": "시작하지",
-            "sourceName": "vo_wriothesley_battle_skill1_01.wem"
-        },
         "02b82ef4c7357117": {
             "hash": "02b82ef4c7357117",
             "directory": "External0",
-            "voiceContent": "어딜 도망가",
+            "voiceContent": "어딜 도망",
             "sourceName": "vo_wriothesley_battle_skill1_02.wem"
         },
-        "80faccfd0a95460e": {
-            "hash": "80faccfd0a95460e",
-            "directory": "External16",
-            "voiceContent": "거기 잠깐 실례",
-            "sourceName": "vo_wriothesley_battle_skill1_03.wem"
-        },
-        "96d64b0d7be54ce6": {
-            "hash": "96d64b0d7be54ce6",
-            "directory": "External18",
-            "voiceContent": "잘 가라고",
-            "sourceName": "vo_wriothesley_battle_skill3_01.wem"
-        },
-        "071a791648319249": {
-            "hash": "071a791648319249",
+        "04a5936cae0d1d10": {
+            "hash": "04a5936cae0d1d10",
             "directory": "External0",
-            "voiceContent": "추위 조심해",
-            "sourceName": "vo_wriothesley_battle_skill3_02.wem"
-        },
-        "594adf1d501f5b88": {
-            "hash": "594adf1d501f5b88",
-            "directory": "External11",
-            "voiceContent": "네 죄를 마주해라",
-            "sourceName": "vo_wriothesley_battle_skill3_03.wem"
-        },
-        "b5d6bafd318905c1": {
-            "hash": "b5d6bafd318905c1",
-            "directory": "External22",
-            "voiceContent": "안 잠겨있어? 편리하네",
-            "sourceName": "vo_wriothesley_chest_open_01.wem"
-        },
-        "5b9bacf502f5cc1e": {
-            "hash": "5b9bacf502f5cc1e",
-            "directory": "External11",
-            "voiceContent": "일단 챙겨 둬. 어떻게든 쓰일 거야",
-            "sourceName": "vo_wriothesley_chest_open_02.wem"
-        },
-        "096a4eedfb065d27": {
-            "hash": "096a4eedfb065d27",
-            "directory": "External1",
-            "voiceContent": "주인 없는 물건은 공적 재산으로 회수해야겠지만… 여긴 아무것도 없잖아, 그치?",
-            "sourceName": "vo_wriothesley_chest_open_03.wem"
-        },
-        "a396f005c177eafd": {
-            "hash": "a396f005c177eafd",
-            "directory": "External20",
-            "voiceContent": "물러서",
-            "sourceName": "vo_wriothesley_life_less30_teammate_01.wem"
-        },
-        "4991d1fd931225fa": {
-            "hash": "4991d1fd931225fa",
-            "directory": "External9",
-            "voiceContent": "의무실에 가",
-            "sourceName": "vo_wriothesley_life_less30_teammate_02.wem"
-        },
-        "83a80e7b65dd4eb4": {
-            "hash": "83a80e7b65dd4eb4",
-            "directory": "External16",
-            "voiceContent": "미안, 지켜내지 못했어…",
-            "sourceName": "vo_wriothesley_life_die_01.wem"
-        },
-        "2d1d9c62b0b7b72b": {
-            "hash": "2d1d9c62b0b7b72b",
-            "directory": "External5",
-            "voiceContent": "모든 걸 건 결과가…",
-            "sourceName": "vo_wriothesley_life_die_02.wem"
-        },
-        "9ceb176c81712528": {
-            "hash": "9ceb176c81712528",
-            "directory": "External19",
-            "voiceContent": "시작하지",
-            "sourceName": "vo_wriothesley_teamJoin_01.wem"
-        },
-        "07766551f5d7ebef": {
-            "hash": "07766551f5d7ebef",
-            "directory": "External0",
-            "voiceContent": "외근 요청이야? 그것도 좋지",
-            "sourceName": "vo_wriothesley_teamJoin_02.wem"
-        },
-        "85b9035a3937c006": {
-            "hash": "85b9035a3937c006",
-            "directory": "External16",
-            "voiceContent": "최선을 다할게. 이긴다는 보장은 없지만",
-            "sourceName": "vo_wriothesley_teamJoin_03.wem"
-        },
-        "ee4e863253abc053": {
-            "hash": "ee4e863253abc053",
-            "directory": "External29",
-            "voiceContent": "혹시 내 등에 멜뤼진이 그린 스티커가 붙어있으면 꼭 떼어줘",
-            "sourceName": "vo_wriothesley_character_idle_01.wem"
-        },
-        "83fa584cdf7472bc": {
-            "hash": "83fa584cdf7472bc",
-            "directory": "External16",
-            "voiceContent": "사무실에 반려동물을 키울까 했는데, 강아지나 고양이가 햇빛도 못 보고 사는 건 너무 불쌍해서 관뒀어",
-            "sourceName": "vo_wriothesley_character_idle_02.wem"
-        },
-        "f2de72440110e74d": {
-            "hash": "f2de72440110e74d",
-            "directory": "External30",
-            "voiceContent": "법을 어기지 마. 그리고 또 어떤 조언을 해줄까나? 아 그렇지, 법은 어기지 마",
-            "sourceName": "vo_wriothesley_character_idle_03.wem"
+            "voiceContent": "훌륭",
+            "sourceName": "vo_card_wriothesley_inGame_hard_02.wem"
         },
         "04ed11a54726c9fb": {
             "hash": "04ed11a54726c9fb",
             "directory": "External0",
-            "voiceContent": "비가 온다고? 괜찮아. 메로피드 요새에 비가 새면 큰일이겠지만 말이야",
+            "voiceContent": "비가 온다고? 괜찮아. 메로피드 요새에 비가 새면 큰일이겠지만 말이",
             "sourceName": "vo_wriothesley_weather_heavyRain_01.wem"
         },
-        "81ef2a9d29a89248": {
-            "hash": "81ef2a9d29a89248",
-            "directory": "External16",
-            "voiceContent": "마음이 떳떳한 자는 이런 날씨에도 평온히 잠드는 법이지",
-            "sourceName": "vo_wriothesley_weather_thunder_01.wem"
+        "0610c739c0420f82": {
+            "hash": "0610c739c0420f82",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_jump_04.wem"
         },
-        "b2962b35b20abcf8": {
-            "hash": "b2962b35b20abcf8",
-            "directory": "External22",
-            "voiceContent": "흠… 물의 차가움이랑은 또 다르네",
-            "sourceName": "vo_wriothesley_weather_snowy_01.wem"
+        "071a791648319249": {
+            "hash": "071a791648319249",
+            "directory": "External0",
+            "voiceContent": "추위 조심",
+            "sourceName": "vo_wriothesley_battle_skill3_02.wem"
+        },
+        "075505f5908e7683": {
+            "hash": "075505f5908e7683",
+            "directory": "External0",
+            "voiceContent": "안녕, 여기 온 이유를 최대한 간략히 설명해 줄래? 응? 공적인 이유가 아니라고? 그게 오히려 더 긴장되는걸.앉아서 자세히 설명해 봐. 참, 난 「공작」이라고 불러줘. 다들 그렇게 불러서 익숙해졌거",
+            "sourceName": "vo_wriothesley_draw_appear_01.wem"
+        },
+        "07766551f5d7ebef": {
+            "hash": "07766551f5d7ebef",
+            "directory": "External0",
+            "voiceContent": "외근 요청이야? 그것도 좋",
+            "sourceName": "vo_wriothesley_teamJoin_02.wem"
+        },
+        "088e681513bd930a": {
+            "hash": "088e681513bd930a",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_hit_l_03.wem"
+        },
+        "096a4eedfb065d27": {
+            "hash": "096a4eedfb065d27",
+            "directory": "External1",
+            "voiceContent": "주인 없는 물건은 공적 재산으로 회수해야겠지만… 여긴 아무것도 없잖아, 그치",
+            "sourceName": "vo_wriothesley_chest_open_03.wem"
+        },
+        "0a144c842e23e127": {
+            "hash": "0a144c842e23e127",
+            "directory": "External1",
+            "voiceContent": "난 지금 생활도 괜찮다고 생각해. 하지만 내가 얻지 못한 것들, 예를 들어 평화롭고 행복한 어린 시절이나 쉽게 타인을 믿는 능력 같은 게 부러워. 이런 게 모순이라고 느끼는 사람도 있겠지만, 난 굳이 부정할 필요가 없다고 생각해. 자기 본심을 외면해서 뭐 하겠어",
+            "sourceName": "vo_wriothesley_friendship_05.wem"
+        },
+        "0eb442a99df7d8f5": {
+            "hash": "0eb442a99df7d8f5",
+            "directory": "External1",
+            "voiceContent": "메로피드 요새는 그녀의 서비스가 필요하지 않을 거야. 어떤 흔적은 「실패의 교훈」으로 남긴 거니까. …향기도 흔적 중 하나잖아, 안 그래",
+            "sourceName": "vo_wriothesley_teammate_emilie_01.wem"
+        },
+        "101e3951283b0c9f": {
+            "hash": "101e3951283b0c9f",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_jump_01.wem"
+        },
+        "150f0e8bf474907f": {
+            "hash": "150f0e8bf474907f",
+            "directory": "External2",
+            "voiceContent": "인정해. 「벽난로의 집」의 밀정을 제거한 건 일종의 도발이었어. 근데 겨우 애들 몇을 내려보내서 되려 난감했다니까? 정말 희생돼도 괜찮다고 생각한 건지, 아니면 내가 애들에게 손을 쓰지 못할 거란 걸 알고 있었던 건지… 하",
+            "sourceName": "vo_wriothesley_teammate_lyney_01.wem"
+        },
+        "1a2d6c6173c7f513": {
+            "hash": "1a2d6c6173c7f513",
+            "directory": "External3",
+            "voiceContent": "이론적으로, 나를 전혀 모르는 사람이 행복한 편이",
+            "sourceName": "vo_wriothesley_friendship_01.wem"
+        },
+        "1b5758731e49f30d": {
+            "hash": "1b5758731e49f30d",
+            "directory": "External3",
+            "voiceContent": "그거 알아? 수갑은 모델이 비슷하면 같은 열쇠로 열 수 있다는 거. 다만 내 건 다르",
+            "sourceName": "vo_wriothesley_friendship_03.wem"
+        },
+        "2196a1bb08ee0145": {
+            "hash": "2196a1bb08ee0145",
+            "directory": "External4",
+            "voiceContent": "모든 걸 걸기도 해봐야",
+            "sourceName": "vo_card_wriothesley_inGame_easy_04.wem"
+        },
+        "2276c703136d4fca": {
+            "hash": "2276c703136d4fca",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_sprint_start_03.wem"
+        },
+        "22af376e45bfa9dd": {
+            "hash": "22af376e45bfa9dd",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attackheavy_01.wem"
+        },
+        "23266c275eda067c": {
+            "hash": "23266c275eda067c",
+            "directory": "External4",
+            "voiceContent": "겸손하기",
+            "sourceName": "vo_wriothesley_battle_hit_L_01.wem"
         },
         "23a32977edc8b795": {
             "hash": "23a32977edc8b795",
             "directory": "External4",
-            "voiceContent": "태양 아래 새로운 건 없다지만, 그래도 피크닉 하긴 좋겠네",
+            "voiceContent": "태양 아래 새로운 건 없다지만, 그래도 피크닉 하긴 좋겠",
             "sourceName": "vo_wriothesley_weather_sunny_01.wem"
         },
-        "c1e330fcfb2333e9": {
-            "hash": "c1e330fcfb2333e9",
-            "directory": "External24",
-            "voiceContent": "좋은 아침. 오늘 날씨 예보는 봤어?",
-            "sourceName": "vo_wriothesley_dialog_greetingMorning.wem"
+        "25f075ccb6256fbf": {
+            "hash": "25f075ccb6256fbf",
+            "directory": "External4",
+            "voiceContent": "난 이견 없",
+            "sourceName": "vo_card_wriothesley_inGame_easy_02.wem"
         },
-        "bb82e3b57eae9257": {
-            "hash": "bb82e3b57eae9257",
-            "directory": "External23",
-            "voiceContent": "지금 특별 허가 식당엔 사람이 많으니까, 식사를 사무실로 보내달라고 할게",
-            "sourceName": "vo_wriothesley_dialog_greetingNoon.wem"
+        "275085637074d099": {
+            "hash": "275085637074d099",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_jump_03.wem"
+        },
+        "2799f4e76286fd23": {
+            "hash": "2799f4e76286fd23",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_idle_03.wem"
+        },
+        "29a8dd058ed9d3ad": {
+            "hash": "29a8dd058ed9d3ad",
+            "directory": "External5",
+            "voiceContent": "지원 안 부르게? 그러던",
+            "sourceName": "vo_wriothesley_life_less30_02.wem"
+        },
+        "29cde63ec3efe7c1": {
+            "hash": "29cde63ec3efe7c1",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_hit_l_04.wem"
+        },
+        "2a76d785ba1af846": {
+            "hash": "2a76d785ba1af846",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_hit_h_03.wem"
+        },
+        "2b890d8f5c72e38e": {
+            "hash": "2b890d8f5c72e38e",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attacklight_01.wem"
+        },
+        "2cb301a106f4ef30": {
+            "hash": "2cb301a106f4ef30",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attacklight_03.wem"
+        },
+        "2d1d9c62b0b7b72b": {
+            "hash": "2d1d9c62b0b7b72b",
+            "directory": "External5",
+            "voiceContent": "모든 걸 건 결과가",
+            "sourceName": "vo_wriothesley_life_die_02.wem"
         },
         "2dad73c29dd0b31f": {
             "hash": "2dad73c29dd0b31f",
             "directory": "External5",
-            "voiceContent": "벌써 시간이 이렇게 됐나? 좀 전에 오후 티타임을 가진 것 같았는데",
+            "voiceContent": "벌써 시간이 이렇게 됐나? 좀 전에 오후 티타임을 가진 것 같았는",
             "sourceName": "vo_wriothesley_dialog_greetingNight.wem"
         },
         "2e43369a086ede51": {
             "hash": "2e43369a086ede51",
             "directory": "External5",
-            "voiceContent": "굿나잇. 나는 조금 있다가 잘게. 이렇게 조용할 때 계산 좀 하려고 말이야",
+            "voiceContent": "굿나잇. 나는 조금 있다가 잘게. 이렇게 조용할 때 계산 좀 하려고 말이",
             "sourceName": "vo_wriothesley_dialog_greetingNight2.wem"
-        },
-        "edcfc72eae838306": {
-            "hash": "edcfc72eae838306",
-            "directory": "External29",
-            "voiceContent": "사람들은 나를 너무 무슨 신비로운 만능 인간으로 여겨. 나도 눈과 귀가 한 쌍뿐인데, 어떻게 메로피드 요새의 모든 곳을 관리하겠어?",
-            "sourceName": "vo_wriothesley_dialog_idle.wem"
-        },
-        "abf6b03c48d0d6ee": {
-            "hash": "abf6b03c48d0d6ee",
-            "directory": "External21",
-            "voiceContent": "나는 복역을 마친 자유로운 시민이니, 어디든 갈 수 있지.걱정할 거 없어. 내가 물 아래에 있어야만 메로피드 요새가 잘 돌아가면, 그건 너무 불건전하잖아",
-            "sourceName": "vo_wriothesley_dialog_idle2.wem"
-        },
-        "54b849b1b7f499d9": {
-            "hash": "54b849b1b7f499d9",
-            "directory": "External10",
-            "voiceContent": "이익에 얽히지 않아야 친구가 될 수 있다더라. 우리도 지금 시작하면 되겠어",
-            "sourceName": "vo_wriothesley_dialog_close1.wem"
-        },
-        "c3fd47bedb2b0f7e": {
-            "hash": "c3fd47bedb2b0f7e",
-            "directory": "External24",
-            "voiceContent": "난 사람들의 첫인상이 수감 등록에서부터 시작되던데, 너도 예외는 아닌가 보군",
-            "sourceName": "vo_wriothesley_dialog_close.wem"
-        },
-        "bade4ebb9f5d5a4c": {
-            "hash": "bade4ebb9f5d5a4c",
-            "directory": "External23",
-            "voiceContent": "전에 일부 수감자들한테 화학 약품으로 원소를 사용하는 법을 배웠거든. 근데 「신의 눈」을 배부하는 기관이 어딘지, 이런 주제넘는 짓을 신경도 안 쓰는 것 같더라",
-            "sourceName": "vo_wriothesley_dialog_pendant.wem"
-        },
-        "af49986a3d97af9d": {
-            "hash": "af49986a3d97af9d",
-            "directory": "External21",
-            "voiceContent": "경비대의 손에서 어떻게 쉽게 달아나는지 알아? 자신한테 길고 어려운 이름을 지어주는 거야. 그럼 「거기 아무개, 손 들어!」 할 때 버벅거리게 되거든",
-            "sourceName": "vo_wriothesley_dialog_share_01.wem"
         },
         "30a303b571cbced1": {
             "hash": "30a303b571cbced1",
             "directory": "External6",
-            "voiceContent": "「일하지 않는 자, 먹지도 말라」아주 오래 전부터 메로피드 요새 벽에 써있던 말이야. 누가 시작한 건진 모르지만 물 속에선 아주 유용하게 쓰이고 있지",
+            "voiceContent": "「일하지 않는 자, 먹지도 말라」아주 오래 전부터 메로피드 요새 벽에 써있던 말이야. 누가 시작한 건진 모르지만 물 속에선 아주 유용하게 쓰이고 있",
             "sourceName": "vo_wriothesley_pref_gift_01.wem"
         },
-        "9feb3dfb4a595d69": {
-            "hash": "9feb3dfb4a595d69",
-            "directory": "External19",
-            "voiceContent": "한번은 느비예트 씨가 불러서 올라간 적이 있는데, 멜모니아궁 입구 길가에서 비를 맞고 있더라고. 그래서 우산을 씌워주려 했더니 말은 고맙다고 하는데, 표정이 썩 부자연스럽더라. 아마 내가 뭔가를 방해한 모양이야",
-            "sourceName": "vo_wriothesley_teammate_neuvillette_01.wem"
+        "36cc55f3ddd02926": {
+            "hash": "36cc55f3ddd02926",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_climb_01.wem"
         },
-        "f7edf41fe040f3ed": {
-            "hash": "f7edf41fe040f3ed",
-            "directory": "External30",
-            "voiceContent": "그때 내가 너무 빨리 죄를 인정해서 그런지, 푸리나 님은 심판에 흥미를 잃고 자리를 훌쩍 떠나셨어. 물의 신님을 실망하게 하는 건 큰일이니, 앞으로도 좋은 찻잎을 잘 챙겨드려야겠지",
-            "sourceName": "vo_wriothesley_teammate_furina_01.wem"
+        "39a9cb155ba84c3c": {
+            "hash": "39a9cb155ba84c3c",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_sprint_start_01.wem"
         },
         "3bf438686adfdd41": {
             "hash": "3bf438686adfdd41",
             "directory": "External7",
-            "voiceContent": "수간호사 시그윈은 의료진으로서 갖춰야 하는 모든 미덕을 갖췄어. 동료들도 하나하나 챙겨주고 말이야.하지만 내 나쁜 버릇도 좀 배운 모양이야. 예를 들어 멜뤼진 친구들이랑 누가 내 물건에 더 많은 스티커를 붙일 수 있을지 내기를 하곤 하지. 응? 아니, 난 전혀 난감하지 않아",
+            "voiceContent": "수간호사 시그윈은 의료진으로서 갖춰야 하는 모든 미덕을 갖췄어. 동료들도 하나하나 챙겨주고 말이야.하지만 내 나쁜 버릇도 좀 배운 모양이야. 예를 들어 멜뤼진 친구들이랑 누가 내 물건에 더 많은 스티커를 붙일 수 있을지 내기를 하곤 하지. 응? 아니, 난 전혀 난감하지 않",
             "sourceName": "vo_wriothesley_teammate_sigewinne_01.wem"
         },
-        "0eb442a99df7d8f5": {
-            "hash": "0eb442a99df7d8f5",
-            "directory": "External1",
-            "voiceContent": "메로피드 요새는 그녀의 서비스가 필요하지 않을 거야. 어떤 흔적은 「실패의 교훈」으로 남긴 거니까. …향기도 흔적 중 하나잖아, 안 그래?",
-            "sourceName": "vo_wriothesley_teammate_emilie_01.wem"
+        "44eebff908864ce7": {
+            "hash": "44eebff908864ce7",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_fly_start_03.wem"
         },
-        "62e07b7de2afc616": {
-            "hash": "62e07b7de2afc616",
-            "directory": "External12",
-            "voiceContent": "특별 순찰대가 손봐준 수감자들은 대부분 온순하지. 여기 대장이 아주 큰 공을 세웠어",
-            "sourceName": "vo_wriothesley_teammate_chevreuse_01.wem"
+        "450feb9805393968": {
+            "hash": "450feb9805393968",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_hit_h_01.wem"
         },
-        "fa3e38584fc67f52": {
-            "hash": "fa3e38584fc67f52",
-            "directory": "External31",
-            "voiceContent": "클로린드 씨는 네가 찾을 수 있는 결투 대리인 중에 최고일 거야. 안 인정할 사람이 없을걸? 아, 난 단 한 번도 그 녀석이랑 겨뤄본 적 없어. 그럴 필요가 없지",
-            "sourceName": "vo_wriothesley_teammate_clorinde_01.wem"
+        "4991d1fd931225fa": {
+            "hash": "4991d1fd931225fa",
+            "directory": "External9",
+            "voiceContent": "의무실에",
+            "sourceName": "vo_wriothesley_life_less30_teammate_02.wem"
         },
-        "150f0e8bf474907f": {
-            "hash": "150f0e8bf474907f",
-            "directory": "External2",
-            "voiceContent": "인정해. 「벽난로의 집」의 밀정을 제거한 건 일종의 도발이었어. 근데 겨우 애들 몇을 내려보내서 되려 난감했다니까? 정말 희생돼도 괜찮다고 생각한 건지, 아니면 내가 애들에게 손을 쓰지 못할 거란 걸 알고 있었던 건지… 하아",
-            "sourceName": "vo_wriothesley_teammate_lyney_01.wem"
+        "54b849b1b7f499d9": {
+            "hash": "54b849b1b7f499d9",
+            "directory": "External10",
+            "voiceContent": "이익에 얽히지 않아야 친구가 될 수 있다더라. 우리도 지금 시작하면 되겠",
+            "sourceName": "vo_wriothesley_dialog_close1.wem"
         },
-        "68477f3353b81ed1": {
-            "hash": "68477f3353b81ed1",
-            "directory": "External13",
-            "voiceContent": "메로피드 요새와 가시 장미회는 물자적인 협력을 하긴 하지만, 그뿐이야. 나비아 씨를 못 믿는 게 아니라 오히려 완전 반대지만, 서로 간섭하지 않는 게 칼라스 씨와 약속한 규칙이거든. 약속은 지켜야지",
-            "sourceName": "vo_wriothesley_teammate_navia_01.wem"
+        "594adf1d501f5b88": {
+            "hash": "594adf1d501f5b88",
+            "directory": "External11",
+            "voiceContent": "네 죄를 마주해",
+            "sourceName": "vo_wriothesley_battle_skill3_03.wem"
         },
-        "1a2d6c6173c7f513": {
-            "hash": "1a2d6c6173c7f513",
-            "directory": "External3",
-            "voiceContent": "이론적으로, 나를 전혀 모르는 사람이 행복한 편이야",
-            "sourceName": "vo_wriothesley_friendship_01.wem"
-        },
-        "afd93e7bff90a87c": {
-            "hash": "afd93e7bff90a87c",
-            "directory": "External21",
-            "voiceContent": "내 몸의 흉터? 바다 괴물이 메로피드 요새를 점령하려고 들어서 그 괴물과 싸우다가 난 상처지. …당연히 가짜야, 뭘 믿고 그래",
-            "sourceName": "vo_wriothesley_friendship_02.wem"
-        },
-        "1b5758731e49f30d": {
-            "hash": "1b5758731e49f30d",
-            "directory": "External3",
-            "voiceContent": "그거 알아? 수갑은 모델이 비슷하면 같은 열쇠로 열 수 있다는 거. 다만 내 건 다르지",
-            "sourceName": "vo_wriothesley_friendship_03.wem"
+        "5b9bacf502f5cc1e": {
+            "hash": "5b9bacf502f5cc1e",
+            "directory": "External11",
+            "voiceContent": "일단 챙겨 둬. 어떻게든 쓰일 거",
+            "sourceName": "vo_wriothesley_chest_open_02.wem"
         },
         "5c45aa8b3613501e": {
             "hash": "5c45aa8b3613501e",
             "directory": "External11",
-            "voiceContent": "내 개인 능력은 사실 아주 한정적이야. 봐봐, 난 병을 고칠 줄도, 무언가를 발명할 줄도 몰라. 큰 배를 만드는 건 더 말할 것도 없지. 난 그냥 이런 일을 해줄 사람을 어디서 찾을지 알고, 그들도 마침 내 체면을 챙겨주는 것뿐이야",
+            "voiceContent": "내 개인 능력은 사실 아주 한정적이야. 봐봐, 난 병을 고칠 줄도, 무언가를 발명할 줄도 몰라. 큰 배를 만드는 건 더 말할 것도 없지. 난 그냥 이런 일을 해줄 사람을 어디서 찾을지 알고, 그들도 마침 내 체면을 챙겨주는 것뿐이",
             "sourceName": "vo_wriothesley_friendship_04.wem"
         },
-        "0a144c842e23e127": {
-            "hash": "0a144c842e23e127",
-            "directory": "External1",
-            "voiceContent": "난 지금 생활도 괜찮다고 생각해. 하지만 내가 얻지 못한 것들, 예를 들어 평화롭고 행복한 어린 시절이나 쉽게 타인을 믿는 능력 같은 게 부러워. 이런 게 모순이라고 느끼는 사람도 있겠지만, 난 굳이 부정할 필요가 없다고 생각해. 자기 본심을 외면해서 뭐 하겠어?",
-            "sourceName": "vo_wriothesley_friendship_05.wem"
+        "5cc8ea815a5b7fac": {
+            "hash": "5cc8ea815a5b7fac",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_climb_breath_02.wem"
         },
-        "97694268863f5fed": {
-            "hash": "97694268863f5fed",
-            "directory": "External18",
-            "voiceContent": "복싱… 정도가 취미랄까? 사는 데 필요해서 배운 거지만. 넌 뭐 추천해 줄 만한 거 없어?",
-            "sourceName": "vo_wriothesley_pref_hobby.wem"
+        "5f58b93044823c4b": {
+            "hash": "5f58b93044823c4b",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_jump_05.wem"
         },
-        "af9a02be78885464": {
-            "hash": "af9a02be78885464",
-            "directory": "External21",
-            "voiceContent": "커피 마실 때 우유를 넣는 걸 좋아해. 차에는 설탕 두 조각을 넣고",
-            "sourceName": "vo_wriothesley_pref_foodLike.wem"
-        },
-        "fed5b8c7b93024c0": {
-            "hash": "fed5b8c7b93024c0",
-            "directory": "External31",
-            "voiceContent": "수간호사가 만든 셰이크 마셔봤어? 거기선 「황폐」의 맛을… 느낄 수 있어",
-            "sourceName": "vo_wriothesley_pref_foodDislike.wem"
-        },
-        "ce4b4064d71c9f57": {
-            "hash": "ce4b4064d71c9f57",
-            "directory": "External25",
-            "voiceContent": "간이 완벽하네. 난 이런 걸 잘 못하겠더라",
-            "sourceName": "vo_wriothesley_spice_pref_01.wem"
-        },
-        "e11ecb6a97b5ef21": {
-            "hash": "e11ecb6a97b5ef21",
-            "directory": "External28",
-            "voiceContent": "맛있네. 다음엔 내가 사도록 하지",
-            "sourceName": "vo_wriothesley_spice_normal_01.wem"
-        },
-        "b8b8a07a740b113f": {
-            "hash": "b8b8a07a740b113f",
-            "directory": "External23",
-            "voiceContent": "나 차 한 잔 좀 우려올게",
-            "sourceName": "vo_wriothesley_spice_dislike_01.wem"
-        },
-        "803d6c3e63fa1136": {
-            "hash": "803d6c3e63fa1136",
-            "directory": "External16",
-            "voiceContent": "폰타인의 아이들은 부모의 소원과 축복 속에 태어나지. 나는 이 세상에 모든 사람들이 그랬으면 좋겠어. 그거에 비하면 내 소원은 조금 보잘것없을지도 모르지.아니, 네가 사고 치면 감형을 도와줄 순 없어. 그저 오늘 특별 메뉴를 준비해 줄 수 있을 뿐이지. 그러니 생일 기간에는 잠자코 있어. 그래야 물 위에서 축하해 줄 수 있으니까. 알았지?",
-            "sourceName": "vo_wriothesley_pref_birthday_01.wem"
-        },
-        "ae302b22ed892138": {
-            "hash": "ae302b22ed892138",
-            "directory": "External21",
-            "voiceContent": "신뢰를 얻어서 영광이야",
-            "sourceName": "vo_wriothesley_starUp_01.wem"
-        },
-        "70deb90ad8d1f93f": {
-            "hash": "70deb90ad8d1f93f",
-            "directory": "External14",
-            "voiceContent": "이번에 신세 진 건 꼭 갚을게",
-            "sourceName": "vo_wriothesley_starUp_02.wem"
-        },
-        "c30f5711e0c02256": {
-            "hash": "c30f5711e0c02256",
-            "directory": "External24",
-            "voiceContent": "하, 어째 네가 나보다 더 의기양양해 보이냐?",
-            "sourceName": "vo_wriothesley_starUp_03.wem"
-        },
-        "6c84e4f92b9a8ac5": {
-            "hash": "6c84e4f92b9a8ac5",
-            "directory": "External13",
-            "voiceContent": "난 힘과 희망의 신호가 좋아. 모든 게 잘될 거 같거든. 비관적인 게 아니라 사실을 말하는 거야. 현실은 늘 순조로울 수 없으니까. 그래도 좋은 소식은, 나쁜 일이 있을 때 우린 같은 편이라는 거야. 맞지?",
-            "sourceName": "vo_wriothesley_starUp_04.wem"
-        },
-        "f84f3efe9901b82a": {
-            "hash": "f84f3efe9901b82a",
-            "directory": "External31",
-            "voiceContent": "침착해",
-            "sourceName": "vo_wriothesley_life_less30_01.wem"
-        },
-        "29a8dd058ed9d3ad": {
-            "hash": "29a8dd058ed9d3ad",
-            "directory": "External5",
-            "voiceContent": "지원 안 부르게? 그러던가",
-            "sourceName": "vo_wriothesley_life_less30_02.wem"
-        },
-        "bac4c30e6d3d5f1c": {
-            "hash": "bac4c30e6d3d5f1c",
-            "directory": "External23",
-            "voiceContent": "기회를 봐서 움직이라고",
-            "sourceName": "vo_wriothesley_life_less30_03.wem"
-        },
-        "827e2a69bb5b5ee2": {
-            "hash": "827e2a69bb5b5ee2",
-            "directory": "External16",
-            "voiceContent": "난 이의 없어",
-            "sourceName": "vo_wriothesley_life_die_03.wem"
-        },
-        "af9a397d799e4c2f": {
-            "hash": "af9a397d799e4c2f",
-            "directory": "External21",
-            "voiceContent": "…나쁘지 않네",
-            "sourceName": "vo_wriothesley_battle_hit_H_02.wem"
-        },
-        "23266c275eda067c": {
-            "hash": "23266c275eda067c",
-            "directory": "External4",
-            "voiceContent": "겸손하기는",
-            "sourceName": "vo_wriothesley_battle_hit_L_01.wem"
-        },
-        "cc96f9d75ca171d8": {
-            "hash": "cc96f9d75ca171d8",
-            "directory": "External25",
-            "voiceContent": "내가 폰타인 사람처럼 생기긴 했지만, 백 프로 확신할 순 없어. 역시 원시 모태 바다의 물에 뛰어들어 봐야 하나?",
-            "sourceName": "vo_wriothesley_dialog_annoyed_01.wem"
-        },
-        "075505f5908e7683": {
-            "hash": "075505f5908e7683",
-            "directory": "External0",
-            "voiceContent": "안녕, 여기 온 이유를 최대한 간략히 설명해 줄래? 응? 공적인 이유가 아니라고? 그게 오히려 더 긴장되는걸.앉아서 자세히 설명해 봐. 참, 난 「공작」이라고 불러줘. 다들 그렇게 불러서 익숙해졌거든",
-            "sourceName": "vo_wriothesley_draw_appear_01.wem"
-        },
-        "782113d3be1398d6": {
-            "hash": "782113d3be1398d6",
-            "directory": "External15",
-            "voiceContent": "오…",
-            "sourceName": "vo_card_wriothesley_inGame_easy_03.wem"
-        },
-        "04a5936cae0d1d10": {
-            "hash": "04a5936cae0d1d10",
-            "directory": "External0",
-            "voiceContent": "훌륭해",
-            "sourceName": "vo_card_wriothesley_inGame_hard_02.wem"
+        "62e07b7de2afc616": {
+            "hash": "62e07b7de2afc616",
+            "directory": "External12",
+            "voiceContent": "특별 순찰대가 손봐준 수감자들은 대부분 온순하지. 여기 대장이 아주 큰 공을 세웠",
+            "sourceName": "vo_wriothesley_teammate_chevreuse_01.wem"
         },
         "6341e7e4cadc97b8": {
             "hash": "6341e7e4cadc97b8",
             "directory": "External12",
-            "voiceContent": "괜찮네",
+            "voiceContent": "괜찮",
             "sourceName": "vo_card_wriothesley_inGame_easy_01.wem"
-        },
-        "8662ed646aad3a91": {
-            "hash": "8662ed646aad3a91",
-            "directory": "External16",
-            "voiceContent": "아직은 수습할 만해",
-            "sourceName": "vo_card_wriothesley_inGame_hard_03.wem"
-        },
-        "25f075ccb6256fbf": {
-            "hash": "25f075ccb6256fbf",
-            "directory": "External4",
-            "voiceContent": "난 이견 없어",
-            "sourceName": "vo_card_wriothesley_inGame_easy_02.wem"
         },
         "65232f3aba7a799a": {
             "hash": "65232f3aba7a799a",
             "directory": "External12",
-            "voiceContent": "기회가 오면 움직여야지",
+            "voiceContent": "기회가 오면 움직여야",
             "sourceName": "vo_card_wriothesley_inGame_hard_04.wem"
         },
-        "2196a1bb08ee0145": {
-            "hash": "2196a1bb08ee0145",
-            "directory": "External4",
-            "voiceContent": "모든 걸 걸기도 해봐야지",
-            "sourceName": "vo_card_wriothesley_inGame_easy_04.wem"
+        "68477f3353b81ed1": {
+            "hash": "68477f3353b81ed1",
+            "directory": "External13",
+            "voiceContent": "메로피드 요새와 가시 장미회는 물자적인 협력을 하긴 하지만, 그뿐이야. 나비아 씨를 못 믿는 게 아니라 오히려 완전 반대지만, 서로 간섭하지 않는 게 칼라스 씨와 약속한 규칙이거든. 약속은 지켜야",
+            "sourceName": "vo_wriothesley_teammate_navia_01.wem"
+        },
+        "6c84e4f92b9a8ac5": {
+            "hash": "6c84e4f92b9a8ac5",
+            "directory": "External13",
+            "voiceContent": "난 힘과 희망의 신호가 좋아. 모든 게 잘될 거 같거든. 비관적인 게 아니라 사실을 말하는 거야. 현실은 늘 순조로울 수 없으니까. 그래도 좋은 소식은, 나쁜 일이 있을 때 우린 같은 편이라는 거야. 맞지",
+            "sourceName": "vo_wriothesley_starUp_04.wem"
+        },
+        "70deb90ad8d1f93f": {
+            "hash": "70deb90ad8d1f93f",
+            "directory": "External14",
+            "voiceContent": "이번에 신세 진 건 꼭 갚을",
+            "sourceName": "vo_wriothesley_starUp_02.wem"
+        },
+        "7576c619ba3f96b7": {
+            "hash": "7576c619ba3f96b7",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attackmid_02.wem"
+        },
+        "7643cb5f0f3eb423": {
+            "hash": "7643cb5f0f3eb423",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attackheavy_03.wem"
+        },
+        "782113d3be1398d6": {
+            "hash": "782113d3be1398d6",
+            "directory": "External15",
+            "voiceContent": "오",
+            "sourceName": "vo_card_wriothesley_inGame_easy_03.wem"
+        },
+        "7a0142ee6aa3e0da": {
+            "hash": "7a0142ee6aa3e0da",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_idle_02.wem"
+        },
+        "7d617a2f8d6d3f27": {
+            "hash": "7d617a2f8d6d3f27",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_hit_l_06.wem"
+        },
+        "7e0a6b7683984fa4": {
+            "hash": "7e0a6b7683984fa4",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_hit_h_05.wem"
+        },
+        "7f1da18025f1eeec": {
+            "hash": "7f1da18025f1eeec",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attacklight_07.wem"
+        },
+        "803d6c3e63fa1136": {
+            "hash": "803d6c3e63fa1136",
+            "directory": "External16",
+            "voiceContent": "폰타인의 아이들은 부모의 소원과 축복 속에 태어나지. 나는 이 세상에 모든 사람들이 그랬으면 좋겠어. 그거에 비하면 내 소원은 조금 보잘것없을지도 모르지.아니, 네가 사고 치면 감형을 도와줄 순 없어. 그저 오늘 특별 메뉴를 준비해 줄 수 있을 뿐이지. 그러니 생일 기간에는 잠자코 있어. 그래야 물 위에서 축하해 줄 수 있으니까. 알았지",
+            "sourceName": "vo_wriothesley_pref_birthday_01.wem"
+        },
+        "80faccfd0a95460e": {
+            "hash": "80faccfd0a95460e",
+            "directory": "External16",
+            "voiceContent": "거기 잠깐 실",
+            "sourceName": "vo_wriothesley_battle_skill1_03.wem"
+        },
+        "81ef2a9d29a89248": {
+            "hash": "81ef2a9d29a89248",
+            "directory": "External16",
+            "voiceContent": "마음이 떳떳한 자는 이런 날씨에도 평온히 잠드는 법이",
+            "sourceName": "vo_wriothesley_weather_thunder_01.wem"
+        },
+        "8224c10eb51751b0": {
+            "hash": "8224c10eb51751b0",
+            "directory": "External16",
+            "voiceContent": "시작하",
+            "sourceName": "vo_wriothesley_battle_skill1_01.wem"
+        },
+        "827e2a69bb5b5ee2": {
+            "hash": "827e2a69bb5b5ee2",
+            "directory": "External16",
+            "voiceContent": "난 이의 없",
+            "sourceName": "vo_wriothesley_life_die_03.wem"
+        },
+        "83a80e7b65dd4eb4": {
+            "hash": "83a80e7b65dd4eb4",
+            "directory": "External16",
+            "voiceContent": "미안, 지켜내지 못했어",
+            "sourceName": "vo_wriothesley_life_die_01.wem"
+        },
+        "83fa584cdf7472bc": {
+            "hash": "83fa584cdf7472bc",
+            "directory": "External16",
+            "voiceContent": "사무실에 반려동물을 키울까 했는데, 강아지나 고양이가 햇빛도 못 보고 사는 건 너무 불쌍해서 관뒀",
+            "sourceName": "vo_wriothesley_character_idle_02.wem"
+        },
+        "85b9035a3937c006": {
+            "hash": "85b9035a3937c006",
+            "directory": "External16",
+            "voiceContent": "최선을 다할게. 이긴다는 보장은 없지",
+            "sourceName": "vo_wriothesley_teamJoin_03.wem"
+        },
+        "8662ed646aad3a91": {
+            "hash": "8662ed646aad3a91",
+            "directory": "External16",
+            "voiceContent": "아직은 수습할 만",
+            "sourceName": "vo_card_wriothesley_inGame_hard_03.wem"
+        },
+        "8d7a9a0cd3115313": {
+            "hash": "8d7a9a0cd3115313",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_hit_l_02.wem"
+        },
+        "90969d6f164574ba": {
+            "hash": "90969d6f164574ba",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attacklight_05.wem"
+        },
+        "96d64b0d7be54ce6": {
+            "hash": "96d64b0d7be54ce6",
+            "directory": "External18",
+            "voiceContent": "잘 가라",
+            "sourceName": "vo_wriothesley_battle_skill3_01.wem"
+        },
+        "971f1e00107408de": {
+            "hash": "971f1e00107408de",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_fly_start_02.wem"
+        },
+        "97694268863f5fed": {
+            "hash": "97694268863f5fed",
+            "directory": "External18",
+            "voiceContent": "복싱… 정도가 취미랄까? 사는 데 필요해서 배운 거지만. 넌 뭐 추천해 줄 만한 거 없어",
+            "sourceName": "vo_wriothesley_pref_hobby.wem"
+        },
+        "9ceb176c81712528": {
+            "hash": "9ceb176c81712528",
+            "directory": "External19",
+            "voiceContent": "시작하",
+            "sourceName": "vo_wriothesley_teamJoin_01.wem"
+        },
+        "9feb3dfb4a595d69": {
+            "hash": "9feb3dfb4a595d69",
+            "directory": "External19",
+            "voiceContent": "한번은 느비예트 씨가 불러서 올라간 적이 있는데, 멜모니아궁 입구 길가에서 비를 맞고 있더라고. 그래서 우산을 씌워주려 했더니 말은 고맙다고 하는데, 표정이 썩 부자연스럽더라. 아마 내가 뭔가를 방해한 모양이",
+            "sourceName": "vo_wriothesley_teammate_neuvillette_01.wem"
+        },
+        "a025d831342221d0": {
+            "hash": "a025d831342221d0",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attackmid_01.wem"
+        },
+        "a396f005c177eafd": {
+            "hash": "a396f005c177eafd",
+            "directory": "External20",
+            "voiceContent": "물러",
+            "sourceName": "vo_wriothesley_life_less30_teammate_01.wem"
+        },
+        "a3fdf8facfdf99d3": {
+            "hash": "a3fdf8facfdf99d3",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_sprint_start_02.wem"
+        },
+        "a5932b6bb3d4b318": {
+            "hash": "a5932b6bb3d4b318",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_jump_02.wem"
+        },
+        "a71083fcaa1c6e89": {
+            "hash": "a71083fcaa1c6e89",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_climb_02.wem"
+        },
+        "abf6b03c48d0d6ee": {
+            "hash": "abf6b03c48d0d6ee",
+            "directory": "External21",
+            "voiceContent": "나는 복역을 마친 자유로운 시민이니, 어디든 갈 수 있지.걱정할 거 없어. 내가 물 아래에 있어야만 메로피드 요새가 잘 돌아가면, 그건 너무 불건전하잖",
+            "sourceName": "vo_wriothesley_dialog_idle2.wem"
+        },
+        "ae302b22ed892138": {
+            "hash": "ae302b22ed892138",
+            "directory": "External21",
+            "voiceContent": "신뢰를 얻어서 영광이",
+            "sourceName": "vo_wriothesley_starUp_01.wem"
+        },
+        "af49986a3d97af9d": {
+            "hash": "af49986a3d97af9d",
+            "directory": "External21",
+            "voiceContent": "경비대의 손에서 어떻게 쉽게 달아나는지 알아? 자신한테 길고 어려운 이름을 지어주는 거야. 그럼 「거기 아무개, 손 들어!」 할 때 버벅거리게 되거",
+            "sourceName": "vo_wriothesley_dialog_share_01.wem"
+        },
+        "af9a02be78885464": {
+            "hash": "af9a02be78885464",
+            "directory": "External21",
+            "voiceContent": "커피 마실 때 우유를 넣는 걸 좋아해. 차에는 설탕 두 조각을 넣",
+            "sourceName": "vo_wriothesley_pref_foodLike.wem"
+        },
+        "af9a397d799e4c2f": {
+            "hash": "af9a397d799e4c2f",
+            "directory": "External21",
+            "voiceContent": "…나쁘지 않",
+            "sourceName": "vo_wriothesley_battle_hit_H_02.wem"
+        },
+        "afd93e7bff90a87c": {
+            "hash": "afd93e7bff90a87c",
+            "directory": "External21",
+            "voiceContent": "내 몸의 흉터? 바다 괴물이 메로피드 요새를 점령하려고 들어서 그 괴물과 싸우다가 난 상처지. …당연히 가짜야, 뭘 믿고 그",
+            "sourceName": "vo_wriothesley_friendship_02.wem"
+        },
+        "b1d65b98c67835b1": {
+            "hash": "b1d65b98c67835b1",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attacklight_02.wem"
+        },
+        "b2962b35b20abcf8": {
+            "hash": "b2962b35b20abcf8",
+            "directory": "External22",
+            "voiceContent": "흠… 물의 차가움이랑은 또 다르",
+            "sourceName": "vo_wriothesley_weather_snowy_01.wem"
+        },
+        "b5d6bafd318905c1": {
+            "hash": "b5d6bafd318905c1",
+            "directory": "External22",
+            "voiceContent": "안 잠겨있어? 편리하",
+            "sourceName": "vo_wriothesley_chest_open_01.wem"
+        },
+        "b8b8a07a740b113f": {
+            "hash": "b8b8a07a740b113f",
+            "directory": "External23",
+            "voiceContent": "나 차 한 잔 좀 우려올",
+            "sourceName": "vo_wriothesley_spice_dislike_01.wem"
+        },
+        "bac4c30e6d3d5f1c": {
+            "hash": "bac4c30e6d3d5f1c",
+            "directory": "External23",
+            "voiceContent": "기회를 봐서 움직이라",
+            "sourceName": "vo_wriothesley_life_less30_03.wem"
+        },
+        "bade4ebb9f5d5a4c": {
+            "hash": "bade4ebb9f5d5a4c",
+            "directory": "External23",
+            "voiceContent": "전에 일부 수감자들한테 화학 약품으로 원소를 사용하는 법을 배웠거든. 근데 「신의 눈」을 배부하는 기관이 어딘지, 이런 주제넘는 짓을 신경도 안 쓰는 것 같더",
+            "sourceName": "vo_wriothesley_dialog_pendant.wem"
+        },
+        "bb82e3b57eae9257": {
+            "hash": "bb82e3b57eae9257",
+            "directory": "External23",
+            "voiceContent": "지금 특별 허가 식당엔 사람이 많으니까, 식사를 사무실로 보내달라고 할",
+            "sourceName": "vo_wriothesley_dialog_greetingNoon.wem"
+        },
+        "c1e330fcfb2333e9": {
+            "hash": "c1e330fcfb2333e9",
+            "directory": "External24",
+            "voiceContent": "좋은 아침. 오늘 날씨 예보는 봤어",
+            "sourceName": "vo_wriothesley_dialog_greetingMorning.wem"
+        },
+        "c30f5711e0c02256": {
+            "hash": "c30f5711e0c02256",
+            "directory": "External24",
+            "voiceContent": "하, 어째 네가 나보다 더 의기양양해 보이냐",
+            "sourceName": "vo_wriothesley_starUp_03.wem"
+        },
+        "c3fd47bedb2b0f7e": {
+            "hash": "c3fd47bedb2b0f7e",
+            "directory": "External24",
+            "voiceContent": "난 사람들의 첫인상이 수감 등록에서부터 시작되던데, 너도 예외는 아닌가 보",
+            "sourceName": "vo_wriothesley_dialog_close.wem"
+        },
+        "c71d1866ce92cd43": {
+            "hash": "c71d1866ce92cd43",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_climb_breath_01.wem"
+        },
+        "c8ab1966175b97da": {
+            "hash": "c8ab1966175b97da",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attackheavy_02.wem"
+        },
+        "cbad04787bf7f47d": {
+            "hash": "cbad04787bf7f47d",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_climb_breath_03.wem"
+        },
+        "cc96f9d75ca171d8": {
+            "hash": "cc96f9d75ca171d8",
+            "directory": "External25",
+            "voiceContent": "내가 폰타인 사람처럼 생기긴 했지만, 백 프로 확신할 순 없어. 역시 원시 모태 바다의 물에 뛰어들어 봐야 하나",
+            "sourceName": "vo_wriothesley_dialog_annoyed_01.wem"
+        },
+        "ce4b4064d71c9f57": {
+            "hash": "ce4b4064d71c9f57",
+            "directory": "External25",
+            "voiceContent": "간이 완벽하네. 난 이런 걸 잘 못하겠더",
+            "sourceName": "vo_wriothesley_spice_pref_01.wem"
+        },
+        "d0bc0c483fdd73c0": {
+            "hash": "d0bc0c483fdd73c0",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_hit_l_05.wem"
+        },
+        "d40560f69907f2dd": {
+            "hash": "d40560f69907f2dd",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_idle_01.wem"
         },
         "d9f78155342c45f7": {
             "hash": "d9f78155342c45f7",
             "directory": "External27",
-            "voiceContent": "아주 순조롭네",
+            "voiceContent": "아주 순조롭",
             "sourceName": "vo_card_wriothesley_inGame_hard_01.wem"
+        },
+        "e11ecb6a97b5ef21": {
+            "hash": "e11ecb6a97b5ef21",
+            "directory": "External28",
+            "voiceContent": "맛있네. 다음엔 내가 사도록 하",
+            "sourceName": "vo_wriothesley_spice_normal_01.wem"
+        },
+        "e971cf659a293b83": {
+            "hash": "e971cf659a293b83",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attacklight_04.wem"
+        },
+        "ea9bbb7744ab39bd": {
+            "hash": "ea9bbb7744ab39bd",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attacklight_06.wem"
+        },
+        "edcfc72eae838306": {
+            "hash": "edcfc72eae838306",
+            "directory": "External29",
+            "voiceContent": "사람들은 나를 너무 무슨 신비로운 만능 인간으로 여겨. 나도 눈과 귀가 한 쌍뿐인데, 어떻게 메로피드 요새의 모든 곳을 관리하겠어",
+            "sourceName": "vo_wriothesley_dialog_idle.wem"
+        },
+        "ee4e863253abc053": {
+            "hash": "ee4e863253abc053",
+            "directory": "External29",
+            "voiceContent": "혹시 내 등에 멜뤼진이 그린 스티커가 붙어있으면 꼭 떼어",
+            "sourceName": "vo_wriothesley_character_idle_01.wem"
+        },
+        "f2de72440110e74d": {
+            "hash": "f2de72440110e74d",
+            "directory": "External30",
+            "voiceContent": "법을 어기지 마. 그리고 또 어떤 조언을 해줄까나? 아 그렇지, 법은 어기지",
+            "sourceName": "vo_wriothesley_character_idle_03.wem"
+        },
+        "f3b96421fd9f6bae": {
+            "hash": "f3b96421fd9f6bae",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_attackmid_03.wem"
+        },
+        "f4c12c0841ec1d81": {
+            "hash": "f4c12c0841ec1d81",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_fly_start_01.wem"
+        },
+        "f7edf41fe040f3ed": {
+            "hash": "f7edf41fe040f3ed",
+            "directory": "External30",
+            "voiceContent": "그때 내가 너무 빨리 죄를 인정해서 그런지, 푸리나 님은 심판에 흥미를 잃고 자리를 훌쩍 떠나셨어. 물의 신님을 실망하게 하는 건 큰일이니, 앞으로도 좋은 찻잎을 잘 챙겨드려야겠",
+            "sourceName": "vo_wriothesley_teammate_furina_01.wem"
+        },
+        "f84f3efe9901b82a": {
+            "hash": "f84f3efe9901b82a",
+            "directory": "External31",
+            "voiceContent": "침착",
+            "sourceName": "vo_wriothesley_life_less30_01.wem"
+        },
+        "f941ea03b20bebc8": {
+            "hash": "f941ea03b20bebc8",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_explore_climb_03.wem"
+        },
+        "fa3e38584fc67f52": {
+            "hash": "fa3e38584fc67f52",
+            "directory": "External31",
+            "voiceContent": "클로린드 씨는 네가 찾을 수 있는 결투 대리인 중에 최고일 거야. 안 인정할 사람이 없을걸? 아, 난 단 한 번도 그 녀석이랑 겨뤄본 적 없어. 그럴 필요가 없",
+            "sourceName": "vo_wriothesley_teammate_clorinde_01.wem"
+        },
+        "fed4b95c95e57b1b": {
+            "hash": "fed4b95c95e57b1b",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_hit_h_06.wem"
+        },
+        "fed5b8c7b93024c0": {
+            "hash": "fed5b8c7b93024c0",
+            "directory": "External31",
+            "voiceContent": "수간호사가 만든 셰이크 마셔봤어? 거기선 「황폐」의 맛을… 느낄 수 있",
+            "sourceName": "vo_wriothesley_pref_foodDislike.wem"
+        },
+        "fffea56e40677935": {
+            "hash": "fffea56e40677935",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_wriothesley_battle_hit_h_04.wem"
         }
     }
 }

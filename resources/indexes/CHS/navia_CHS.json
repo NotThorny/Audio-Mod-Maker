@@ -1,517 +1,769 @@
 {
     "Teapot": {},
     "Quests": {
-        "60dc420bc62574f1": {
-            "hash": "60dc420bc62574f1",
-            "directory": "External12",
-            "voiceContent": "欸！我找到一个！",
-            "sourceName": "vo_CLLQ003_11_navia_01.wem"
-        },
         "3d774013c4e93fa8": {
             "hash": "3d774013c4e93fa8",
             "directory": "External7",
-            "voiceContent": "别跑，给我站住！",
+            "voiceContent": "别跑，给我站住",
             "sourceName": "vo_NVLQ002_3_navia_01.wem"
         },
         "4eaee007372dd1d8": {
             "hash": "4eaee007372dd1d8",
             "directory": "External9",
-            "voiceContent": "等等...这座桥有问题!跑!",
+            "voiceContent": "等等...这座桥有问题!跑",
             "sourceName": "vo_FDAQ302_2_navia_07.wem"
+        },
+        "60dc420bc62574f1": {
+            "hash": "60dc420bc62574f1",
+            "directory": "External12",
+            "voiceContent": "欸！我找到一个",
+            "sourceName": "vo_CLLQ003_11_navia_01.wem"
         }
     },
     "Gameplay": {
-        "70b5287ced0208ad": {
-            "hash": "70b5287ced0208ad",
-            "directory": "External14",
-            "voiceContent": "小心咯！",
-            "sourceName": "vo_navia_battle_skill1_01.wem"
-        },
-        "3f5b8a75f729ed2a": {
-            "hash": "3f5b8a75f729ed2a",
-            "directory": "External7",
-            "voiceContent": "正面偷袭！",
-            "sourceName": "vo_navia_battle_skill1_02.wem"
-        },
-        "c448bc6db67f6033": {
-            "hash": "c448bc6db67f6033",
-            "directory": "External24",
-            "voiceContent": "你好呀！",
-            "sourceName": "vo_navia_battle_skill1_03.wem"
-        },
-        "b2ccaea6af4c2b60": {
-            "hash": "b2ccaea6af4c2b60",
-            "directory": "External22",
-            "voiceContent": "试着躲躲看？",
-            "sourceName": "vo_navia_battle_skill1_04.wem"
-        },
-        "609c089fa75df4e1": {
-            "hash": "609c089fa75df4e1",
-            "directory": "External12",
-            "voiceContent": "猜我还有几颗子弹？",
-            "sourceName": "vo_navia_battle_skill1_05.wem"
+        "034620b08b00ef02": {
+            "hash": "034620b08b00ef02",
+            "directory": "External0",
+            "voiceContent": "啊…又是雨天",
+            "sourceName": "vo_navia_weather_heavyRain_01.wem"
         },
         "0660fa9778cabb3e": {
             "hash": "0660fa9778cabb3e",
             "directory": "External0",
-            "voiceContent": "是…伞弹枪？",
+            "voiceContent": "是…伞弹枪",
             "sourceName": "vo_navia_battle_skill1_06.wem"
         },
-        "8353419fb373df4f": {
-            "hash": "8353419fb373df4f",
-            "directory": "External16",
-            "voiceContent": "开火！虽然是岩元素啦。",
-            "sourceName": "vo_navia_battle_skill3_01.wem"
-        },
-        "c40a73b7cb0dc308": {
-            "hash": "c40a73b7cb0dc308",
-            "directory": "External24",
-            "voiceContent": "玫瑰礼花！刺玫会特别定制版。",
-            "sourceName": "vo_navia_battle_skill3_02.wem"
-        },
-        "71da0db0c31ff9c9": {
-            "hash": "71da0db0c31ff9c9",
-            "directory": "External14",
-            "voiceContent": "持续打击！嗯嗯，就是这样。",
-            "sourceName": "vo_navia_battle_skill3_03.wem"
-        },
-        "9f4a5eed021d56fa": {
-            "hash": "9f4a5eed021d56fa",
-            "directory": "External19",
-            "voiceContent": "喔！好运连连！",
-            "sourceName": "vo_navia_chest_open_01.wem"
-        },
-        "f94f7cf530831bfd": {
-            "hash": "f94f7cf530831bfd",
-            "directory": "External31",
-            "voiceContent": "快，快收好！",
-            "sourceName": "vo_navia_chest_open_02.wem"
-        },
-        "8a6b62fe0ee6a72c": {
-            "hash": "8a6b62fe0ee6a72c",
-            "directory": "External17",
-            "voiceContent": "寻宝大成功！",
-            "sourceName": "vo_navia_chest_open_03.wem"
-        },
-        "392d85e3932a940e": {
-            "hash": "392d85e3932a940e",
-            "directory": "External7",
-            "voiceContent": "交给会长吧！",
-            "sourceName": "vo_navia_life_less30_teammate_01.wem"
-        },
-        "bf7ad3ecfd2fe631": {
-            "hash": "bf7ad3ecfd2fe631",
-            "directory": "External23",
-            "voiceContent": "增援到了！",
-            "sourceName": "vo_navia_life_less30_teammate_02.wem"
-        },
-        "1b91a74b8b5af193": {
-            "hash": "1b91a74b8b5af193",
-            "directory": "External3",
-            "voiceContent": "就当是…回家了…",
-            "sourceName": "vo_navia_life_die_01.wem"
-        },
-        "b13d79661723a4fc": {
-            "hash": "b13d79661723a4fc",
-            "directory": "External22",
-            "voiceContent": "是我的错吗…",
-            "sourceName": "vo_navia_life_die_02.wem"
-        },
-        "38d22b06089c304b": {
-            "hash": "38d22b06089c304b",
-            "directory": "External7",
-            "voiceContent": "说走就走。",
-            "sourceName": "vo_navia_teamJoin_01.wem"
-        },
-        "8f5c9d1ebdc1c7d4": {
-            "hash": "8f5c9d1ebdc1c7d4",
-            "directory": "External17",
-            "voiceContent": "刺玫会出马！",
-            "sourceName": "vo_navia_teamJoin_02.wem"
-        },
-        "39fb5717b31ce7a5": {
-            "hash": "39fb5717b31ce7a5",
-            "directory": "External7",
-            "voiceContent": "今天我带路！",
-            "sourceName": "vo_navia_teamJoin_03.wem"
-        },
-        "278205bb71974c08": {
-            "hash": "278205bb71974c08",
-            "directory": "External4",
-            "voiceContent": "好想去旅游呀——！去哪无所谓啦，主要是想跟朋友们一起玩，嘿嘿。",
-            "sourceName": "vo_navia_character_idle_01.wem"
-        },
-        "e6cad3a359fd684f": {
-            "hash": "e6cad3a359fd684f",
-            "directory": "External28",
-            "voiceContent": "多年的帮派经验告诉我，身边有一把不称手的武器会比没有更危险。",
-            "sourceName": "vo_navia_character_idle_02.wem"
-        },
-        "650d71ab9d5d3d66": {
-            "hash": "650d71ab9d5d3d66",
-            "directory": "External12",
-            "voiceContent": "刺玫会的标志是母亲设计的，我非常喜欢。你看，轮廓像颗心脏一样呢。",
-            "sourceName": "vo_navia_character_idle_03.wem"
-        },
-        "034620b08b00ef02": {
-            "hash": "034620b08b00ef02",
-            "directory": "External0",
-            "voiceContent": "啊…又是雨天…",
-            "sourceName": "vo_navia_weather_heavyRain_01.wem"
-        },
-        "ce38d9a5c7402db9": {
-            "hash": "ce38d9a5c7402db9",
-            "directory": "External25",
-            "voiceContent": "哎呀！刚才看到闪电就该捂住耳朵的！",
-            "sourceName": "vo_navia_weather_thunder_01.wem"
-        },
-        "68e90f28b34bece3": {
-            "hash": "68e90f28b34bece3",
-            "directory": "External13",
-            "voiceContent": "太好了，雨停了！",
-            "sourceName": "vo_navia_weather_afterRain_01.wem"
-        },
-        "d793fa27d5d477e5": {
-            "hash": "d793fa27d5d477e5",
-            "directory": "External26",
-            "voiceContent": "是不是应该摘掉帽子，让雪花落在脸上？感觉一定很清爽。",
-            "sourceName": "vo_navia_weather_snowy_01.wem"
-        },
-        "52da7ff13a8539c4": {
-            "hash": "52da7ff13a8539c4",
-            "directory": "External10",
-            "voiceContent": "就是现在，立刻，马上，抬头！你看天上，是不是烈日炎炎，骄阳似火！知道这说明什么吗？说明我们现在应当立刻，马上，去买最大号的超级冰冰凉甜筒，然后比赛谁能在它融化前全部吃完！",
-            "sourceName": "vo_navia_weather_sunny_01.wem"
-        },
-        "fcb0a42060a78330": {
-            "hash": "fcb0a42060a78330",
-            "directory": "External31",
-            "voiceContent": "早上好！想好今天要做什么了吗？没想好的话，要不要跟我来？",
-            "sourceName": "vo_navia_dialog_greetingMorning.wem"
-        },
-        "5534663d44c890ec": {
-            "hash": "5534663d44c890ec",
-            "directory": "External10",
-            "voiceContent": "听说最近出了一种新口味的千层面，你有没有兴趣？感觉一定不会好吃，但我还是想去试试！",
-            "sourceName": "vo_navia_dialog_greetingNoon.wem"
-        },
-        "ce92051af79b75ba": {
-            "hash": "ce92051af79b75ba",
-            "directory": "External25",
-            "voiceContent": "晚间新闻播报：「今天的刺玫会会长也和她的好搭档度过了完美的一天。」真棒！",
-            "sourceName": "vo_navia_dialog_greetingNight.wem"
-        },
-        "9b86fb6e68bb734a": {
-            "hash": "9b86fb6e68bb734a",
-            "directory": "External19",
-            "voiceContent": "快，速速清空大脑，睡个好觉！明天见。",
-            "sourceName": "vo_navia_dialog_greetingNight2.wem"
-        },
-        "d6bf3b05ebfec46d": {
-            "hash": "d6bf3b05ebfec46d",
-            "directory": "External26",
-            "voiceContent": "盲目乐观可不行，幸福的生活要靠自己的双手去争取！所以，来，握住我的双手，左右摇晃几下——怎么样，是不是很开心？",
-            "sourceName": "vo_navia_dialog_idle.wem"
-        },
-        "11e112f02c794cc7": {
-            "hash": "11e112f02c794cc7",
-            "directory": "External2",
-            "voiceContent": "了解我经历的人可能会觉得我运气不好吧，但我不这么认为哦。能得到这么多的爱，是我一生最幸运的事情了吧。",
-            "sourceName": "vo_navia_dialog_idle2.wem"
-        },
-        "ad32cd232d0b609a": {
-            "hash": "ad32cd232d0b609a",
-            "directory": "External21",
-            "voiceContent": "有人说秘密一旦说出口就不是秘密了，但能和朋友分享的秘密不是更加珍贵吗？…什么啊，我不是在威胁你啦！虽然身为刺玫会的会长，我当然知道很多让人保守秘密的诀窍，但我是不会用在你身上的，安心啦。",
-            "sourceName": "vo_navia_dialog_close1.wem"
-        },
-        "c0794446edaec883": {
-            "hash": "c0794446edaec883",
-            "directory": "External24",
-            "voiceContent": "他们有人叫我老板，有人叫我大小姐，我都无所谓啦。最开心的还是你称呼我为「搭档」的时候，所以请多叫几次，满足我的虚荣心吧！",
-            "sourceName": "vo_navia_dialog_close.wem"
-        },
-        "9c201686d97d9fa7": {
-            "hash": "9c201686d97d9fa7",
-            "directory": "External19",
-            "voiceContent": "给你看，这就是我的神之眼！亮晶晶，很称我衣服的颜色吧？不过还是你比较厉害，不需要神之眼就能使用很多种元素，应该不是靠练习就能做到的吧？",
-            "sourceName": "vo_navia_dialog_pendant_01.wem"
-        },
-        "1e7569063a2d1432": {
-            "hash": "1e7569063a2d1432",
-            "directory": "External3",
-            "voiceContent": "在所有的品种里，我最喜欢深栗猎犬。你看它们眼睛上方的花纹，是不是很像眉毛？所以它们总是一副憨厚又认真的样子呢。不过这件事还请帮我保密，千万不要告诉别的狗狗！",
-            "sourceName": "vo_navia_dialog_share_01.wem"
-        },
-        "facf3018ce8b44f8": {
-            "hash": "facf3018ce8b44f8",
-            "directory": "External31",
-            "voiceContent": "久雨莲的颜色真好看啊。而且当你看到它们纷纷绽放的时候，就说明漫长的雨季终于过去了。",
-            "sourceName": "vo_navia_pref_gift_01.wem"
-        },
-        "ae16a37fb4a1b5b7": {
-            "hash": "ae16a37fb4a1b5b7",
-            "directory": "External21",
-            "voiceContent": "她平时话不多，表情也不多，但还是能看出来喜怒哀乐的。之前老爹的事卡在我们之间，唔…有些隔阂吧，就算是那段日子，我也不爱她小心翼翼的样子…还是现在这样比较好。",
-            "sourceName": "vo_navia_teammate_clorinde_01.wem"
-        },
-        "bc5c1ccc23acd525": {
-            "hash": "bc5c1ccc23acd525",
-            "directory": "External23",
-            "voiceContent": "比起跑新闻时的热情和速度，夏洛蒂的拍照技术更让我惊讶。她之前随手给我拍过一张半身照，光影效果好像精心绘制的油画一样。既能写出意想不到的报道，又能拍出最能抓人眼球的画片，她大概天生就是要做记者的吧。",
-            "sourceName": "vo_navia_teammate_charlotte_01.wem"
-        },
-        "ed81fee38b5ea9af": {
-            "hash": "ed81fee38b5ea9af",
-            "directory": "External29",
-            "voiceContent": "这位为枫丹时尚带来异国风情的服装设计师，私下里帮过刺玫会不少忙呢。她说我的奇思妙想给她提供了好多创作灵感，以我对她的了解来看，应该不是客气话。但当我请她做一个十米高的礼帽时，她却严词拒绝了。唉，要是能摆在店门前，应该是很惹眼的宣传手段呀！",
-            "sourceName": "vo_navia_teammate_chiori_01.wem"
-        },
-        "70d8bdf5853a8ec7": {
-            "hash": "70d8bdf5853a8ec7",
-            "directory": "External14",
-            "voiceContent": "她是一位威严却又慈爱的领导者，有「一家之主」的风范。不过能成为愚人众的执行官，她一定也有手段狠厉的一面。所以放心吧，我会永远记得她帮助过白淞镇的恩情，但在其他方面也会留心的。",
-            "sourceName": "vo_navia_teammate_arlecchino_01.wem"
-        },
-        "53d4d921c9d790fc": {
-            "hash": "53d4d921c9d790fc",
-            "directory": "External10",
-            "voiceContent": "我知道大魔术师说话总会有些浮夸啦，但能看出，林尼是真心对待身边亲友的。有时候他表现出的责任感，可比他的年纪大多了…哦对了，他之前免费给白淞镇的小朋友们变过魔术呢！有机会的话，下次也请他和琳妮特小姐一起来吃马卡龙吧。琳妮特小姐经常凭空变出茶杯来喝茶，那应该不会讨厌甜点吧？",
-            "sourceName": "vo_navia_teammate_lyney_01.wem"
-        },
-        "b2472406adbe8640": {
-            "hash": "b2472406adbe8640",
-            "directory": "External22",
-            "voiceContent": "小时候有幸观看过一次芙宁娜大人参与义演的歌剧，票可难买了！虽然扮演的是别的角色，但她看起来反而比平常站在高处演讲时更自然些…现在回想起来，竟然不是错觉。",
-            "sourceName": "vo_navia_teammate_furina_01.wem"
-        },
-        "924326f71fff74d2": {
-            "hash": "924326f71fff74d2",
-            "directory": "External18",
-            "voiceContent": "那维莱特先生啊，既复杂又简单。怎么说呢…就像海里的礁石，磕磕绊绊的，但假如理解了其中的规律，也不是完全没法观测。",
-            "sourceName": "vo_navia_teammate_neuvillette_01.wem"
-        },
-        "7b1ed510d0053b58": {
-            "hash": "7b1ed510d0053b58",
-            "directory": "External15",
-            "voiceContent": "想和他谈点东西可费劲了。克洛琳德说在既定的合约基础上可以放心与他合作，但千万不要相信他说的每一句话。怪不得老爹以前从不插手水下的事，保险起见，还是维持原样吧。",
-            "sourceName": "vo_navia_teammate_wriothesley_01.wem"
-        },
-        "a49cba29a2b20500": {
-            "hash": "a49cba29a2b20500",
-            "directory": "External20",
-            "voiceContent": "刺玫会的工作嘛，杂七杂八的什么都有吧，不过核心目的都是帮助大家解决各种麻烦。这里的「麻烦」只用来指代问题本身，不代表我觉得这些事情烦心哦。相反，能帮到大家会让我觉得神清气爽呢。",
-            "sourceName": "vo_navia_friendship_01.wem"
-        },
-        "4ddc2810ed5ea867": {
-            "hash": "4ddc2810ed5ea867",
-            "directory": "External9",
-            "voiceContent": "人还是要有些浪漫情怀才行。春天的花，夏天的海，还有朋友的笑容，都不该是被忽略的景色。",
-            "sourceName": "vo_navia_friendship_02.wem"
-        },
-        "a00c8617f54c645e": {
-            "hash": "a00c8617f54c645e",
-            "directory": "External20",
-            "voiceContent": "有时我会找个人迹罕至的野外，摆一些物件作为目标，然后练习打靶。很解压的！你想试试吗？我来手把手教你。虽然你是我的第一个学生，但我觉得我会成为一名好老师的。老爹还有布莱卡利奶奶教我的东西我都还没忘呢！",
-            "sourceName": "vo_navia_friendship_03.wem"
-        },
-        "628533ffe067e34d": {
-            "hash": "628533ffe067e34d",
-            "directory": "External12",
-            "voiceContent": "我不会变成和老爹一样的人。有刺玫会里的老干部觉得我和老爹越来越像了，但我认为那只是很小的倾斜，要归因为有些问题只能用固定的几种办法来解决。刺玫会已经不是当年的样子了，那么会长也不会相同。",
-            "sourceName": "vo_navia_friendship_04.wem"
-        },
-        "f3a11a08becb6ebc": {
-            "hash": "f3a11a08becb6ebc",
-            "directory": "External30",
-            "voiceContent": "我觉得我也不会变成和母亲一样的人。虽然很多人都说我性格和她很像，我也大约能想象到她当年做出很多选择的理由，但是…哎，突然很想去坐一次克莱门汀线。就现在，可以陪我吗？倒也没什么特别的目的，就当是我邀请你去城里闲逛吧？",
-            "sourceName": "vo_navia_friendship_05.wem"
+        "0c2893fbb9df6cee": {
+            "hash": "0c2893fbb9df6cee",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_fly_start_03.wem"
         },
         "1075ad6913878024": {
             "hash": "1075ad6913878024",
             "directory": "External2",
-            "voiceContent": "我从小就喜欢烘焙。看着一堆零散的食材按照比例融合在一起，就能在烘烤的过程中一点点膨胀、定型，变成香喷喷的样子，是不是很神奇？对了，有机会一起来烤姜饼吧？比比看谁能用饼干搭出最高最漂亮的小屋！",
+            "voiceContent": "我从小就喜欢烘焙。看着一堆零散的食材按照比例融合在一起，就能在烘烤的过程中一点点膨胀、定型，变成香喷喷的样子，是不是很神奇？对了，有机会一起来烤姜饼吧？比比看谁能用饼干搭出最高最漂亮的小屋",
             "sourceName": "vo_navia_pref_hobby.wem"
         },
-        "1b5a2413364c9a9f": {
-            "hash": "1b5a2413364c9a9f",
-            "directory": "External3",
-            "voiceContent": "我喜欢能带来惊喜的食物，但请不要怀疑我的味觉。我只是欣赏其中包含的创意，但这也不会改变很多菜品难吃的事实就是了。",
-            "sourceName": "vo_navia_pref_foodLike.wem"
-        },
-        "8a273a324be00b39": {
-            "hash": "8a273a324be00b39",
-            "directory": "External17",
-            "voiceContent": "我不喜欢存放了很久的剩菜，感觉辜负了新鲜食材的一生…",
-            "sourceName": "vo_navia_pref_foodDislike.wem"
-        },
-        "f25f6eee7458c6f8": {
-            "hash": "f25f6eee7458c6f8",
-            "directory": "External30",
-            "voiceContent": "惊人的厨艺！跟你出门的话，我才是应该带着食材和厨具的那个。",
-            "sourceName": "vo_navia_spice_pref_01.wem"
-        },
-        "d7cfe24ec70590f2": {
-            "hash": "d7cfe24ec70590f2",
-            "directory": "External26",
-            "voiceContent": "味道真不错，再让我加些摆盘艺术就更完美了。",
-            "sourceName": "vo_navia_spice_normal_01.wem"
-        },
-        "a6477dae40578c9e": {
-            "hash": "a6477dae40578c9e",
-            "directory": "External20",
-            "voiceContent": "不要气馁，世界需要这种创新精神。",
-            "sourceName": "vo_navia_spice_dislike_01.wem"
-        },
-        "c11481331de049db": {
-            "hash": "c11481331de049db",
-            "directory": "External24",
-            "voiceContent": "你相信许愿吗？向泉水中丢一枚摩拉，然后等待好运降临在头上。我想，只要摩拉丢得够多，其中总有一个愿望能够实现吧？所以与其寄希望于这样的随机事件，我决定直接用一袋摩拉为你实现今天的愿望。只要是我娜维娅力所能及的，一定都帮你办到！",
-            "sourceName": "vo_navia_pref_birthday_01.wem"
-        },
-        "d2ac39e855dd8ef3": {
-            "hash": "d2ac39e855dd8ef3",
-            "directory": "External26",
-            "voiceContent": "这种感觉…好像柠檬乳酪蛋糕！",
-            "sourceName": "vo_navia_starUp_01.wem"
+        "11e112f02c794cc7": {
+            "hash": "11e112f02c794cc7",
+            "directory": "External2",
+            "voiceContent": "了解我经历的人可能会觉得我运气不好吧，但我不这么认为哦。能得到这么多的爱，是我一生最幸运的事情了吧",
+            "sourceName": "vo_navia_dialog_idle2.wem"
         },
         "13998c006da538dc": {
             "hash": "13998c006da538dc",
             "directory": "External2",
-            "voiceContent": "奶油融化在舌尖，压力也跟着消散了。",
+            "voiceContent": "奶油融化在舌尖，压力也跟着消散了",
             "sourceName": "vo_navia_starUp_02.wem"
-        },
-        "7f17a5f78c5e846d": {
-            "hash": "7f17a5f78c5e846d",
-            "directory": "External15",
-            "voiceContent": "你知道有一种子弹形状的巧克力糖吗？它的甜度能瞬间让你全身充满力量，就像我现在的感受一样！",
-            "sourceName": "vo_navia_starUp_03.wem"
         },
         "14c37812182736fe": {
             "hash": "14c37812182736fe",
             "directory": "External2",
-            "voiceContent": "最后再来一壶熨帖的奶茶，属于你我的茶歇时间就可以开始了。不过你为我做了这么多，用一顿茶点作为感谢还是不太够呀。以后你在枫丹要是有什么需要帮忙的，就来找刺玫会吧！",
+            "voiceContent": "最后再来一壶熨帖的奶茶，属于你我的茶歇时间就可以开始了。不过你为我做了这么多，用一顿茶点作为感谢还是不太够呀。以后你在枫丹要是有什么需要帮忙的，就来找刺玫会吧",
             "sourceName": "vo_navia_starUp_04.wem"
-        },
-        "19d7f414cad25917": {
-            "hash": "19d7f414cad25917",
-            "directory": "External3",
-            "voiceContent": "再…再撑一会儿！",
-            "sourceName": "vo_navia_life_less30_01.wem"
-        },
-        "9944862eb8b439b0": {
-            "hash": "9944862eb8b439b0",
-            "directory": "External19",
-            "voiceContent": "…得尽到责任！",
-            "sourceName": "vo_navia_life_less30_02.wem"
-        },
-        "1e67e02678378031": {
-            "hash": "1e67e02678378031",
-            "directory": "External3",
-            "voiceContent": "注意力集中。",
-            "sourceName": "vo_navia_life_less30_03.wem"
-        },
-        "1cbb935d35dcef8d": {
-            "hash": "1cbb935d35dcef8d",
-            "directory": "External3",
-            "voiceContent": "就连我也…",
-            "sourceName": "vo_navia_life_die_03.wem"
-        },
-        "c2f7d6ad0ddc1b47": {
-            "hash": "c2f7d6ad0ddc1b47",
-            "directory": "External24",
-            "voiceContent": "哪来的？！",
-            "sourceName": "vo_navia_battle_hit_H_01.wem"
         },
         "19b868c5c32f78e0": {
             "hash": "19b868c5c32f78e0",
             "directory": "External3",
-            "voiceContent": "啊…不算什么！",
+            "voiceContent": "啊…不算什么",
             "sourceName": "vo_navia_battle_hit_H_02.wem"
         },
-        "d2adbc1c045f59d4": {
-            "hash": "d2adbc1c045f59d4",
-            "directory": "External26",
-            "voiceContent": "帽子和裙摆…好难取舍！",
-            "sourceName": "vo_navia_weather_gale_01.wem"
+        "19d7f414cad25917": {
+            "hash": "19d7f414cad25917",
+            "directory": "External3",
+            "voiceContent": "再…再撑一会儿",
+            "sourceName": "vo_navia_life_less30_01.wem"
         },
-        "503b470d3060bb15": {
-            "hash": "503b470d3060bb15",
-            "directory": "External10",
-            "voiceContent": "假如你在灰河待过一段时间，应该会发现枫丹还是有不少其他帮派的。他们的目的不一，并不都像刺玫会那样友善，你可要多加留心。如有必要，可以向酒保泰托先生求助。若是对方不愿意坐下来谈的话…嗯，那就只好请我们可靠的白手套先生出马咯。",
-            "sourceName": "vo_navia_dialog_share_02.wem"
+        "1af2e46cc19f51c5": {
+            "hash": "1af2e46cc19f51c5",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_03.wem"
         },
-        "f6a07e5d807a15ec": {
-            "hash": "f6a07e5d807a15ec",
-            "directory": "External30",
-            "voiceContent": "怎么了？",
-            "sourceName": "vo_navia_battle_hit_L_02.wem"
+        "1b4343ddc959e557": {
+            "hash": "1b4343ddc959e557",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_03.wem"
         },
-        "668ee8ad9390ef2f": {
-            "hash": "668ee8ad9390ef2f",
-            "directory": "External12",
-            "voiceContent": "呃，烤完蛋糕以后散落的面粉好难收拾啊，还有粘在容器里的蛋清和奶油…我、我去叫帮手来！",
-            "sourceName": "vo_navia_dialog_annoyed_01.wem"
+        "1b5a2413364c9a9f": {
+            "hash": "1b5a2413364c9a9f",
+            "directory": "External3",
+            "voiceContent": "我喜欢能带来惊喜的食物，但请不要怀疑我的味觉。我只是欣赏其中包含的创意，但这也不会改变很多菜品难吃的事实就是了",
+            "sourceName": "vo_navia_pref_foodLike.wem"
         },
-        "3c0b6959aa00139e": {
-            "hash": "3c0b6959aa00139e",
-            "directory": "External7",
-            "voiceContent": "大名鼎鼎的刺玫会现任会长、领导者、总指挥、话事人、老板娜维娅，很高兴认识你！看你才貌出众、气度不凡，我有种预感，我们的缘分会像我的名号一样长呢。",
-            "sourceName": "vo_navia_draw_appear_01.wem"
+        "1b91a74b8b5af193": {
+            "hash": "1b91a74b8b5af193",
+            "directory": "External3",
+            "voiceContent": "就当是…回家了",
+            "sourceName": "vo_navia_life_die_01.wem"
         },
-        "90d959f31bdf6b76": {
-            "hash": "90d959f31bdf6b76",
-            "directory": "External18",
-            "voiceContent": "戴上墨镜就不会被沙子迷住眼睛了！但天黑时会看不清路…",
-            "sourceName": "vo_navia_weather_desert_01.wem"
+        "1c6d2fef73dbe371": {
+            "hash": "1c6d2fef73dbe371",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_01.wem"
         },
-        "e7c9f9f71e2331df": {
-            "hash": "e7c9f9f71e2331df",
-            "directory": "External28",
-            "voiceContent": "不、不算什么！",
-            "sourceName": "vo_card_navia_inGame_hard_02.wem"
+        "1cbb935d35dcef8d": {
+            "hash": "1cbb935d35dcef8d",
+            "directory": "External3",
+            "voiceContent": "就连我也",
+            "sourceName": "vo_navia_life_die_03.wem"
         },
-        "921f18009cf58c76": {
-            "hash": "921f18009cf58c76",
-            "directory": "External18",
-            "voiceContent": "怎么了？",
-            "sourceName": "vo_card_navia_inGame_hard_03.wem"
+        "1e67e02678378031": {
+            "hash": "1e67e02678378031",
+            "directory": "External3",
+            "voiceContent": "注意力集中",
+            "sourceName": "vo_navia_life_less30_03.wem"
         },
-        "90eb8823668e0f2f": {
-            "hash": "90eb8823668e0f2f",
-            "directory": "External18",
-            "voiceContent": "也瞧瞧我的厉害！",
-            "sourceName": "vo_card_navia_inGame_easy_01.wem"
+        "1e7569063a2d1432": {
+            "hash": "1e7569063a2d1432",
+            "directory": "External3",
+            "voiceContent": "在所有的品种里，我最喜欢深栗猎犬。你看它们眼睛上方的花纹，是不是很像眉毛？所以它们总是一副憨厚又认真的样子呢。不过这件事还请帮我保密，千万不要告诉别的狗狗",
+            "sourceName": "vo_navia_dialog_share_01.wem"
         },
-        "7d3fec11a9be8b58": {
-            "hash": "7d3fec11a9be8b58",
-            "directory": "External15",
-            "voiceContent": "小心咯。",
-            "sourceName": "vo_card_navia_inGame_hard_01.wem"
-        },
-        "5e32960ac60768d2": {
-            "hash": "5e32960ac60768d2",
-            "directory": "External11",
-            "voiceContent": "堂堂正正地来喽！",
-            "sourceName": "vo_card_navia_inGame_easy_04.wem"
-        },
-        "7c0c5434735700a9": {
-            "hash": "7c0c5434735700a9",
-            "directory": "External15",
-            "voiceContent": "糟糕！",
-            "sourceName": "vo_card_navia_inGame_easy_03.wem"
+        "24c94c64739b3597": {
+            "hash": "24c94c64739b3597",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_l_05.wem"
         },
         "26613a3df228fc68": {
             "hash": "26613a3df228fc68",
             "directory": "External4",
-            "voiceContent": "哎，挺厉害呀。",
+            "voiceContent": "哎，挺厉害呀",
             "sourceName": "vo_card_navia_inGame_easy_02.wem"
+        },
+        "278205bb71974c08": {
+            "hash": "278205bb71974c08",
+            "directory": "External4",
+            "voiceContent": "好想去旅游呀——！去哪无所谓啦，主要是想跟朋友们一起玩，嘿嘿",
+            "sourceName": "vo_navia_character_idle_01.wem"
+        },
+        "2b34768cca62adb3": {
+            "hash": "2b34768cca62adb3",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_h_05.wem"
+        },
+        "33c028912b5e7447": {
+            "hash": "33c028912b5e7447",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_jump_02.wem"
+        },
+        "34d3fb2fe67ae2c8": {
+            "hash": "34d3fb2fe67ae2c8",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackheavy_03.wem"
+        },
+        "38d22b06089c304b": {
+            "hash": "38d22b06089c304b",
+            "directory": "External7",
+            "voiceContent": "说走就走",
+            "sourceName": "vo_navia_teamJoin_01.wem"
+        },
+        "392d85e3932a940e": {
+            "hash": "392d85e3932a940e",
+            "directory": "External7",
+            "voiceContent": "交给会长吧",
+            "sourceName": "vo_navia_life_less30_teammate_01.wem"
+        },
+        "39fb5717b31ce7a5": {
+            "hash": "39fb5717b31ce7a5",
+            "directory": "External7",
+            "voiceContent": "今天我带路",
+            "sourceName": "vo_navia_teamJoin_03.wem"
         },
         "3b94a5e7e7cff4e5": {
             "hash": "3b94a5e7e7cff4e5",
             "directory": "External7",
-            "voiceContent": "向你问好！",
+            "voiceContent": "向你问好",
             "sourceName": "vo_card_navia_inGame_hard_04.wem"
+        },
+        "3c0b6959aa00139e": {
+            "hash": "3c0b6959aa00139e",
+            "directory": "External7",
+            "voiceContent": "大名鼎鼎的刺玫会现任会长、领导者、总指挥、话事人、老板娜维娅，很高兴认识你！看你才貌出众、气度不凡，我有种预感，我们的缘分会像我的名号一样长呢",
+            "sourceName": "vo_navia_draw_appear_01.wem"
+        },
+        "3f5b8a75f729ed2a": {
+            "hash": "3f5b8a75f729ed2a",
+            "directory": "External7",
+            "voiceContent": "正面偷袭",
+            "sourceName": "vo_navia_battle_skill1_02.wem"
+        },
+        "486934801e67af2d": {
+            "hash": "486934801e67af2d",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_jump_04.wem"
+        },
+        "4bb985d8c852def7": {
+            "hash": "4bb985d8c852def7",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_sprint_start_01.wem"
+        },
+        "4ddc2810ed5ea867": {
+            "hash": "4ddc2810ed5ea867",
+            "directory": "External9",
+            "voiceContent": "人还是要有些浪漫情怀才行。春天的花，夏天的海，还有朋友的笑容，都不该是被忽略的景色",
+            "sourceName": "vo_navia_friendship_02.wem"
+        },
+        "503b470d3060bb15": {
+            "hash": "503b470d3060bb15",
+            "directory": "External10",
+            "voiceContent": "假如你在灰河待过一段时间，应该会发现枫丹还是有不少其他帮派的。他们的目的不一，并不都像刺玫会那样友善，你可要多加留心。如有必要，可以向酒保泰托先生求助。若是对方不愿意坐下来谈的话…嗯，那就只好请我们可靠的白手套先生出马咯",
+            "sourceName": "vo_navia_dialog_share_02.wem"
+        },
+        "52da7ff13a8539c4": {
+            "hash": "52da7ff13a8539c4",
+            "directory": "External10",
+            "voiceContent": "就是现在，立刻，马上，抬头！你看天上，是不是烈日炎炎，骄阳似火！知道这说明什么吗？说明我们现在应当立刻，马上，去买最大号的超级冰冰凉甜筒，然后比赛谁能在它融化前全部吃完",
+            "sourceName": "vo_navia_weather_sunny_01.wem"
+        },
+        "53d4d921c9d790fc": {
+            "hash": "53d4d921c9d790fc",
+            "directory": "External10",
+            "voiceContent": "我知道大魔术师说话总会有些浮夸啦，但能看出，林尼是真心对待身边亲友的。有时候他表现出的责任感，可比他的年纪大多了…哦对了，他之前免费给白淞镇的小朋友们变过魔术呢！有机会的话，下次也请他和琳妮特小姐一起来吃马卡龙吧。琳妮特小姐经常凭空变出茶杯来喝茶，那应该不会讨厌甜点吧",
+            "sourceName": "vo_navia_teammate_lyney_01.wem"
+        },
+        "5407a3bc478b3643": {
+            "hash": "5407a3bc478b3643",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_07.wem"
+        },
+        "5534663d44c890ec": {
+            "hash": "5534663d44c890ec",
+            "directory": "External10",
+            "voiceContent": "听说最近出了一种新口味的千层面，你有没有兴趣？感觉一定不会好吃，但我还是想去试试",
+            "sourceName": "vo_navia_dialog_greetingNoon.wem"
+        },
+        "58978fcdf4f05d7d": {
+            "hash": "58978fcdf4f05d7d",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_05.wem"
+        },
+        "5e32960ac60768d2": {
+            "hash": "5e32960ac60768d2",
+            "directory": "External11",
+            "voiceContent": "堂堂正正地来喽",
+            "sourceName": "vo_card_navia_inGame_easy_04.wem"
+        },
+        "609c089fa75df4e1": {
+            "hash": "609c089fa75df4e1",
+            "directory": "External12",
+            "voiceContent": "猜我还有几颗子弹",
+            "sourceName": "vo_navia_battle_skill1_05.wem"
+        },
+        "60f4ac42f4b16283": {
+            "hash": "60f4ac42f4b16283",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_l_01.wem"
+        },
+        "613d2986b5621e9b": {
+            "hash": "613d2986b5621e9b",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackmid_01.wem"
+        },
+        "621e98549f3360bd": {
+            "hash": "621e98549f3360bd",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_l_03.wem"
+        },
+        "626715985fe41cb5": {
+            "hash": "626715985fe41cb5",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackmid_03.wem"
+        },
+        "628533ffe067e34d": {
+            "hash": "628533ffe067e34d",
+            "directory": "External12",
+            "voiceContent": "我不会变成和老爹一样的人。有刺玫会里的老干部觉得我和老爹越来越像了，但我认为那只是很小的倾斜，要归因为有些问题只能用固定的几种办法来解决。刺玫会已经不是当年的样子了，那么会长也不会相同",
+            "sourceName": "vo_navia_friendship_04.wem"
+        },
+        "650d71ab9d5d3d66": {
+            "hash": "650d71ab9d5d3d66",
+            "directory": "External12",
+            "voiceContent": "刺玫会的标志是母亲设计的，我非常喜欢。你看，轮廓像颗心脏一样呢",
+            "sourceName": "vo_navia_character_idle_03.wem"
+        },
+        "668ee8ad9390ef2f": {
+            "hash": "668ee8ad9390ef2f",
+            "directory": "External12",
+            "voiceContent": "呃，烤完蛋糕以后散落的面粉好难收拾啊，还有粘在容器里的蛋清和奶油…我、我去叫帮手来",
+            "sourceName": "vo_navia_dialog_annoyed_01.wem"
+        },
+        "68bcc8a4df48e19c": {
+            "hash": "68bcc8a4df48e19c",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_h_06.wem"
+        },
+        "68e90f28b34bece3": {
+            "hash": "68e90f28b34bece3",
+            "directory": "External13",
+            "voiceContent": "太好了，雨停了",
+            "sourceName": "vo_navia_weather_afterRain_01.wem"
+        },
+        "6e87385d8b1defeb": {
+            "hash": "6e87385d8b1defeb",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_01.wem"
+        },
+        "70b5287ced0208ad": {
+            "hash": "70b5287ced0208ad",
+            "directory": "External14",
+            "voiceContent": "小心咯",
+            "sourceName": "vo_navia_battle_skill1_01.wem"
+        },
+        "70d8bdf5853a8ec7": {
+            "hash": "70d8bdf5853a8ec7",
+            "directory": "External14",
+            "voiceContent": "她是一位威严却又慈爱的领导者，有「一家之主」的风范。不过能成为愚人众的执行官，她一定也有手段狠厉的一面。所以放心吧，我会永远记得她帮助过白淞镇的恩情，但在其他方面也会留心的",
+            "sourceName": "vo_navia_teammate_arlecchino_01.wem"
+        },
+        "71da0db0c31ff9c9": {
+            "hash": "71da0db0c31ff9c9",
+            "directory": "External14",
+            "voiceContent": "持续打击！嗯嗯，就是这样",
+            "sourceName": "vo_navia_battle_skill3_03.wem"
+        },
+        "725e6720123f2026": {
+            "hash": "725e6720123f2026",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackheavy_01.wem"
+        },
+        "766797f04233b610": {
+            "hash": "766797f04233b610",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_sprint_start_02.wem"
+        },
+        "7b1ed510d0053b58": {
+            "hash": "7b1ed510d0053b58",
+            "directory": "External15",
+            "voiceContent": "想和他谈点东西可费劲了。克洛琳德说在既定的合约基础上可以放心与他合作，但千万不要相信他说的每一句话。怪不得老爹以前从不插手水下的事，保险起见，还是维持原样吧",
+            "sourceName": "vo_navia_teammate_wriothesley_01.wem"
+        },
+        "7b339959852c87a2": {
+            "hash": "7b339959852c87a2",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_idle_01.wem"
+        },
+        "7c0c5434735700a9": {
+            "hash": "7c0c5434735700a9",
+            "directory": "External15",
+            "voiceContent": "糟糕",
+            "sourceName": "vo_card_navia_inGame_easy_03.wem"
+        },
+        "7c5c7d6b2facc574": {
+            "hash": "7c5c7d6b2facc574",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_idle_03.wem"
+        },
+        "7d3fec11a9be8b58": {
+            "hash": "7d3fec11a9be8b58",
+            "directory": "External15",
+            "voiceContent": "小心咯",
+            "sourceName": "vo_card_navia_inGame_hard_01.wem"
+        },
+        "7f17a5f78c5e846d": {
+            "hash": "7f17a5f78c5e846d",
+            "directory": "External15",
+            "voiceContent": "你知道有一种子弹形状的巧克力糖吗？它的甜度能瞬间让你全身充满力量，就像我现在的感受一样",
+            "sourceName": "vo_navia_starUp_03.wem"
+        },
+        "8353419fb373df4f": {
+            "hash": "8353419fb373df4f",
+            "directory": "External16",
+            "voiceContent": "开火！虽然是岩元素啦",
+            "sourceName": "vo_navia_battle_skill3_01.wem"
+        },
+        "8a273a324be00b39": {
+            "hash": "8a273a324be00b39",
+            "directory": "External17",
+            "voiceContent": "我不喜欢存放了很久的剩菜，感觉辜负了新鲜食材的一生",
+            "sourceName": "vo_navia_pref_foodDislike.wem"
+        },
+        "8a6b62fe0ee6a72c": {
+            "hash": "8a6b62fe0ee6a72c",
+            "directory": "External17",
+            "voiceContent": "寻宝大成功",
+            "sourceName": "vo_navia_chest_open_03.wem"
+        },
+        "8a80baa9e0b1d1e0": {
+            "hash": "8a80baa9e0b1d1e0",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_jump_01.wem"
+        },
+        "8f5c9d1ebdc1c7d4": {
+            "hash": "8f5c9d1ebdc1c7d4",
+            "directory": "External17",
+            "voiceContent": "刺玫会出马",
+            "sourceName": "vo_navia_teamJoin_02.wem"
+        },
+        "90d959f31bdf6b76": {
+            "hash": "90d959f31bdf6b76",
+            "directory": "External18",
+            "voiceContent": "戴上墨镜就不会被沙子迷住眼睛了！但天黑时会看不清路",
+            "sourceName": "vo_navia_weather_desert_01.wem"
+        },
+        "90eb8823668e0f2f": {
+            "hash": "90eb8823668e0f2f",
+            "directory": "External18",
+            "voiceContent": "也瞧瞧我的厉害",
+            "sourceName": "vo_card_navia_inGame_easy_01.wem"
+        },
+        "914bf5f37962c0f7": {
+            "hash": "914bf5f37962c0f7",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_fly_start_02.wem"
+        },
+        "921f18009cf58c76": {
+            "hash": "921f18009cf58c76",
+            "directory": "External18",
+            "voiceContent": "怎么了",
+            "sourceName": "vo_card_navia_inGame_hard_03.wem"
+        },
+        "924326f71fff74d2": {
+            "hash": "924326f71fff74d2",
+            "directory": "External18",
+            "voiceContent": "那维莱特先生啊，既复杂又简单。怎么说呢…就像海里的礁石，磕磕绊绊的，但假如理解了其中的规律，也不是完全没法观测",
+            "sourceName": "vo_navia_teammate_neuvillette_01.wem"
+        },
+        "94b27549779918ec": {
+            "hash": "94b27549779918ec",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_breath_01.wem"
+        },
+        "9944862eb8b439b0": {
+            "hash": "9944862eb8b439b0",
+            "directory": "External19",
+            "voiceContent": "…得尽到责任",
+            "sourceName": "vo_navia_life_less30_02.wem"
+        },
+        "9985e1e60cb9ba4e": {
+            "hash": "9985e1e60cb9ba4e",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_02.wem"
+        },
+        "9b86fb6e68bb734a": {
+            "hash": "9b86fb6e68bb734a",
+            "directory": "External19",
+            "voiceContent": "快，速速清空大脑，睡个好觉！明天见",
+            "sourceName": "vo_navia_dialog_greetingNight2.wem"
+        },
+        "9c201686d97d9fa7": {
+            "hash": "9c201686d97d9fa7",
+            "directory": "External19",
+            "voiceContent": "给你看，这就是我的神之眼！亮晶晶，很称我衣服的颜色吧？不过还是你比较厉害，不需要神之眼就能使用很多种元素，应该不是靠练习就能做到的吧",
+            "sourceName": "vo_navia_dialog_pendant_01.wem"
+        },
+        "9f4a5eed021d56fa": {
+            "hash": "9f4a5eed021d56fa",
+            "directory": "External19",
+            "voiceContent": "喔！好运连连",
+            "sourceName": "vo_navia_chest_open_01.wem"
+        },
+        "a00c8617f54c645e": {
+            "hash": "a00c8617f54c645e",
+            "directory": "External20",
+            "voiceContent": "有时我会找个人迹罕至的野外，摆一些物件作为目标，然后练习打靶。很解压的！你想试试吗？我来手把手教你。虽然你是我的第一个学生，但我觉得我会成为一名好老师的。老爹还有布莱卡利奶奶教我的东西我都还没忘呢",
+            "sourceName": "vo_navia_friendship_03.wem"
+        },
+        "a30bea6cb6fb0a8e": {
+            "hash": "a30bea6cb6fb0a8e",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_l_04.wem"
+        },
+        "a435de7e617d1630": {
+            "hash": "a435de7e617d1630",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_l_06.wem"
+        },
+        "a49cba29a2b20500": {
+            "hash": "a49cba29a2b20500",
+            "directory": "External20",
+            "voiceContent": "刺玫会的工作嘛，杂七杂八的什么都有吧，不过核心目的都是帮助大家解决各种麻烦。这里的「麻烦」只用来指代问题本身，不代表我觉得这些事情烦心哦。相反，能帮到大家会让我觉得神清气爽呢",
+            "sourceName": "vo_navia_friendship_01.wem"
+        },
+        "a62b713867ec9eba": {
+            "hash": "a62b713867ec9eba",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_breath_03.wem"
+        },
+        "a64744950b0d3aaa": {
+            "hash": "a64744950b0d3aaa",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_h_04.wem"
+        },
+        "a6477dae40578c9e": {
+            "hash": "a6477dae40578c9e",
+            "directory": "External20",
+            "voiceContent": "不要气馁，世界需要这种创新精神",
+            "sourceName": "vo_navia_spice_dislike_01.wem"
+        },
+        "ad32cd232d0b609a": {
+            "hash": "ad32cd232d0b609a",
+            "directory": "External21",
+            "voiceContent": "有人说秘密一旦说出口就不是秘密了，但能和朋友分享的秘密不是更加珍贵吗？…什么啊，我不是在威胁你啦！虽然身为刺玫会的会长，我当然知道很多让人保守秘密的诀窍，但我是不会用在你身上的，安心啦",
+            "sourceName": "vo_navia_dialog_close1.wem"
+        },
+        "ae16a37fb4a1b5b7": {
+            "hash": "ae16a37fb4a1b5b7",
+            "directory": "External21",
+            "voiceContent": "她平时话不多，表情也不多，但还是能看出来喜怒哀乐的。之前老爹的事卡在我们之间，唔…有些隔阂吧，就算是那段日子，我也不爱她小心翼翼的样子…还是现在这样比较好",
+            "sourceName": "vo_navia_teammate_clorinde_01.wem"
+        },
+        "b13d79661723a4fc": {
+            "hash": "b13d79661723a4fc",
+            "directory": "External22",
+            "voiceContent": "是我的错吗",
+            "sourceName": "vo_navia_life_die_02.wem"
+        },
+        "b2472406adbe8640": {
+            "hash": "b2472406adbe8640",
+            "directory": "External22",
+            "voiceContent": "小时候有幸观看过一次芙宁娜大人参与义演的歌剧，票可难买了！虽然扮演的是别的角色，但她看起来反而比平常站在高处演讲时更自然些…现在回想起来，竟然不是错觉",
+            "sourceName": "vo_navia_teammate_furina_01.wem"
+        },
+        "b2ccaea6af4c2b60": {
+            "hash": "b2ccaea6af4c2b60",
+            "directory": "External22",
+            "voiceContent": "试着躲躲看",
+            "sourceName": "vo_navia_battle_skill1_04.wem"
+        },
+        "bbfa080af3439810": {
+            "hash": "bbfa080af3439810",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_fly_start_01.wem"
+        },
+        "bc5c1ccc23acd525": {
+            "hash": "bc5c1ccc23acd525",
+            "directory": "External23",
+            "voiceContent": "比起跑新闻时的热情和速度，夏洛蒂的拍照技术更让我惊讶。她之前随手给我拍过一张半身照，光影效果好像精心绘制的油画一样。既能写出意想不到的报道，又能拍出最能抓人眼球的画片，她大概天生就是要做记者的吧",
+            "sourceName": "vo_navia_teammate_charlotte_01.wem"
+        },
+        "bf7ad3ecfd2fe631": {
+            "hash": "bf7ad3ecfd2fe631",
+            "directory": "External23",
+            "voiceContent": "增援到了",
+            "sourceName": "vo_navia_life_less30_teammate_02.wem"
+        },
+        "c0794446edaec883": {
+            "hash": "c0794446edaec883",
+            "directory": "External24",
+            "voiceContent": "他们有人叫我老板，有人叫我大小姐，我都无所谓啦。最开心的还是你称呼我为「搭档」的时候，所以请多叫几次，满足我的虚荣心吧",
+            "sourceName": "vo_navia_dialog_close.wem"
+        },
+        "c11481331de049db": {
+            "hash": "c11481331de049db",
+            "directory": "External24",
+            "voiceContent": "你相信许愿吗？向泉水中丢一枚摩拉，然后等待好运降临在头上。我想，只要摩拉丢得够多，其中总有一个愿望能够实现吧？所以与其寄希望于这样的随机事件，我决定直接用一袋摩拉为你实现今天的愿望。只要是我娜维娅力所能及的，一定都帮你办到",
+            "sourceName": "vo_navia_pref_birthday_01.wem"
+        },
+        "c1aaaa763d5eab74": {
+            "hash": "c1aaaa763d5eab74",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_02.wem"
+        },
+        "c2f7d6ad0ddc1b47": {
+            "hash": "c2f7d6ad0ddc1b47",
+            "directory": "External24",
+            "voiceContent": "哪来的？",
+            "sourceName": "vo_navia_battle_hit_H_01.wem"
+        },
+        "c40a73b7cb0dc308": {
+            "hash": "c40a73b7cb0dc308",
+            "directory": "External24",
+            "voiceContent": "玫瑰礼花！刺玫会特别定制版",
+            "sourceName": "vo_navia_battle_skill3_02.wem"
+        },
+        "c448bc6db67f6033": {
+            "hash": "c448bc6db67f6033",
+            "directory": "External24",
+            "voiceContent": "你好呀",
+            "sourceName": "vo_navia_battle_skill1_03.wem"
+        },
+        "c787c2bebb414261": {
+            "hash": "c787c2bebb414261",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_h_03.wem"
+        },
+        "ce38d9a5c7402db9": {
+            "hash": "ce38d9a5c7402db9",
+            "directory": "External25",
+            "voiceContent": "哎呀！刚才看到闪电就该捂住耳朵的",
+            "sourceName": "vo_navia_weather_thunder_01.wem"
+        },
+        "ce92051af79b75ba": {
+            "hash": "ce92051af79b75ba",
+            "directory": "External25",
+            "voiceContent": "晚间新闻播报：「今天的刺玫会会长也和她的好搭档度过了完美的一天。」真棒",
+            "sourceName": "vo_navia_dialog_greetingNight.wem"
+        },
+        "d2ac39e855dd8ef3": {
+            "hash": "d2ac39e855dd8ef3",
+            "directory": "External26",
+            "voiceContent": "这种感觉…好像柠檬乳酪蛋糕",
+            "sourceName": "vo_navia_starUp_01.wem"
+        },
+        "d2adbc1c045f59d4": {
+            "hash": "d2adbc1c045f59d4",
+            "directory": "External26",
+            "voiceContent": "帽子和裙摆…好难取舍",
+            "sourceName": "vo_navia_weather_gale_01.wem"
+        },
+        "d5a4b761b3ed6bc5": {
+            "hash": "d5a4b761b3ed6bc5",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_idle_02.wem"
+        },
+        "d6bf3b05ebfec46d": {
+            "hash": "d6bf3b05ebfec46d",
+            "directory": "External26",
+            "voiceContent": "盲目乐观可不行，幸福的生活要靠自己的双手去争取！所以，来，握住我的双手，左右摇晃几下——怎么样，是不是很开心",
+            "sourceName": "vo_navia_dialog_idle.wem"
+        },
+        "d793fa27d5d477e5": {
+            "hash": "d793fa27d5d477e5",
+            "directory": "External26",
+            "voiceContent": "是不是应该摘掉帽子，让雪花落在脸上？感觉一定很清爽",
+            "sourceName": "vo_navia_weather_snowy_01.wem"
+        },
+        "d7cfe24ec70590f2": {
+            "hash": "d7cfe24ec70590f2",
+            "directory": "External26",
+            "voiceContent": "味道真不错，再让我加些摆盘艺术就更完美了",
+            "sourceName": "vo_navia_spice_normal_01.wem"
+        },
+        "d9851a88fccb3a9c": {
+            "hash": "d9851a88fccb3a9c",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_jump_05.wem"
+        },
+        "de15069aaa3061be": {
+            "hash": "de15069aaa3061be",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_jump_03.wem"
+        },
+        "e072dba0a314f324": {
+            "hash": "e072dba0a314f324",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackmid_02.wem"
+        },
+        "e2a29528de8b6589": {
+            "hash": "e2a29528de8b6589",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackheavy_02.wem"
+        },
+        "e6cad3a359fd684f": {
+            "hash": "e6cad3a359fd684f",
+            "directory": "External28",
+            "voiceContent": "多年的帮派经验告诉我，身边有一把不称手的武器会比没有更危险",
+            "sourceName": "vo_navia_character_idle_02.wem"
+        },
+        "e7c9f9f71e2331df": {
+            "hash": "e7c9f9f71e2331df",
+            "directory": "External28",
+            "voiceContent": "不、不算什么",
+            "sourceName": "vo_card_navia_inGame_hard_02.wem"
+        },
+        "e9b375d6d353e8ac": {
+            "hash": "e9b375d6d353e8ac",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_04.wem"
+        },
+        "ed81fee38b5ea9af": {
+            "hash": "ed81fee38b5ea9af",
+            "directory": "External29",
+            "voiceContent": "这位为枫丹时尚带来异国风情的服装设计师，私下里帮过刺玫会不少忙呢。她说我的奇思妙想给她提供了好多创作灵感，以我对她的了解来看，应该不是客气话。但当我请她做一个十米高的礼帽时，她却严词拒绝了。唉，要是能摆在店门前，应该是很惹眼的宣传手段呀",
+            "sourceName": "vo_navia_teammate_chiori_01.wem"
+        },
+        "f25f6eee7458c6f8": {
+            "hash": "f25f6eee7458c6f8",
+            "directory": "External30",
+            "voiceContent": "惊人的厨艺！跟你出门的话，我才是应该带着食材和厨具的那个",
+            "sourceName": "vo_navia_spice_pref_01.wem"
+        },
+        "f3a11a08becb6ebc": {
+            "hash": "f3a11a08becb6ebc",
+            "directory": "External30",
+            "voiceContent": "我觉得我也不会变成和母亲一样的人。虽然很多人都说我性格和她很像，我也大约能想象到她当年做出很多选择的理由，但是…哎，突然很想去坐一次克莱门汀线。就现在，可以陪我吗？倒也没什么特别的目的，就当是我邀请你去城里闲逛吧",
+            "sourceName": "vo_navia_friendship_05.wem"
+        },
+        "f6a07e5d807a15ec": {
+            "hash": "f6a07e5d807a15ec",
+            "directory": "External30",
+            "voiceContent": "怎么了",
+            "sourceName": "vo_navia_battle_hit_L_02.wem"
+        },
+        "f824f1e7fed3d391": {
+            "hash": "f824f1e7fed3d391",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_sprint_start_03.wem"
+        },
+        "f94f7cf530831bfd": {
+            "hash": "f94f7cf530831bfd",
+            "directory": "External31",
+            "voiceContent": "快，快收好",
+            "sourceName": "vo_navia_chest_open_02.wem"
+        },
+        "facf3018ce8b44f8": {
+            "hash": "facf3018ce8b44f8",
+            "directory": "External31",
+            "voiceContent": "久雨莲的颜色真好看啊。而且当你看到它们纷纷绽放的时候，就说明漫长的雨季终于过去了",
+            "sourceName": "vo_navia_pref_gift_01.wem"
+        },
+        "fcb0a42060a78330": {
+            "hash": "fcb0a42060a78330",
+            "directory": "External31",
+            "voiceContent": "早上好！想好今天要做什么了吗？没想好的话，要不要跟我来",
+            "sourceName": "vo_navia_dialog_greetingMorning.wem"
+        },
+        "fe9271c5c68a987a": {
+            "hash": "fe9271c5c68a987a",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_06.wem"
+        },
+        "ff06a32eebd06583": {
+            "hash": "ff06a32eebd06583",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_breath_02.wem"
         }
     }
 }

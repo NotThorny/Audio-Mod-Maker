@@ -22,7 +22,6 @@ import dev.thorny.data.Avatar;
 import dev.thorny.data.Languages;
 import dev.thorny.user.Preferences;
 import dev.thorny.user.User;
-import javafx.application.Platform;
 import net.lingala.zip4j.ZipFile;
 import net.lingala.zip4j.exception.ZipException;
 

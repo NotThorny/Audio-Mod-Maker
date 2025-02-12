@@ -2,443 +2,701 @@
     "Teapot": {},
     "Quests": {},
     "Gameplay": {
-        "b66b7b84b866ca01": {
-            "hash": "b66b7b84b866ca01",
-            "directory": "External22",
-            "voiceContent": "貫こう。",
-            "sourceName": "vo_arlecchino_battle_skill1_01.wem"
-        },
-        "58c96d7c86eeb55e": {
-            "hash": "58c96d7c86eeb55e",
-            "directory": "External11",
-            "voiceContent": "却下する。",
-            "sourceName": "vo_arlecchino_battle_skill1_02.wem"
-        },
-        "06990f757f00f967": {
-            "hash": "06990f757f00f967",
+        "01190a904150c342": {
+            "hash": "01190a904150c342",
             "directory": "External0",
-            "voiceContent": "顕現。",
-            "sourceName": "vo_arlecchino_battle_skill1_03.wem"
-        },
-        "16aeb9f35cae4de3": {
-            "hash": "16aeb9f35cae4de3",
-            "directory": "External2",
-            "voiceContent": "墜ちるがいい。",
-            "sourceName": "vo_arlecchino_battle_skill3_01.wem"
-        },
-        "579d0c0b7477aacc": {
-            "hash": "579d0c0b7477aacc",
-            "directory": "External10",
-            "voiceContent": "此処より昇る。",
-            "sourceName": "vo_arlecchino_battle_skill3_02.wem"
-        },
-        "c681260296141e9d": {
-            "hash": "c681260296141e9d",
-            "directory": "External24",
-            "voiceContent": "月のように永遠なれ。",
-            "sourceName": "vo_arlecchino_battle_skill3_03.wem"
-        },
-        "1fbca8cbc46e328e": {
-            "hash": "1fbca8cbc46e328e",
-            "directory": "External3",
-            "voiceContent": "予想外の事というのは楽しいものだ。",
-            "sourceName": "vo_arlecchino_chest_open_01.wem"
-        },
-        "a609f6d52e7384b1": {
-            "hash": "a609f6d52e7384b1",
-            "directory": "External20",
-            "voiceContent": "悪くない収穫だね。",
-            "sourceName": "vo_arlecchino_chest_open_02.wem"
-        },
-        "20e69cdd6ef03e30": {
-            "hash": "20e69cdd6ef03e30",
-            "directory": "External4",
-            "voiceContent": "この瞬間の喜びを覚えておこう。",
-            "sourceName": "vo_arlecchino_chest_open_03.wem"
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackheavy_01.wem"
         },
         "0487cf9d7d5b59ba": {
             "hash": "0487cf9d7d5b59ba",
             "directory": "External0",
-            "voiceContent": "下がれ。",
+            "voiceContent": "下がれ",
             "sourceName": "vo_arlecchino_life_less30_teammate_01.wem"
-        },
-        "5e8ceda5abc11ebd": {
-            "hash": "5e8ceda5abc11ebd",
-            "directory": "External11",
-            "voiceContent": "計画を変更する。",
-            "sourceName": "vo_arlecchino_life_less30_teammate_02.wem"
-        },
-        "9eb07f39281b8a27": {
-            "hash": "9eb07f39281b8a27",
-            "directory": "External19",
-            "voiceContent": "暖炉の火が…消えた…",
-            "sourceName": "vo_arlecchino_life_die_01.wem"
-        },
-        "f20b1151da8bbec0": {
-            "hash": "f20b1151da8bbec0",
-            "directory": "External30",
-            "voiceContent": "子供たちの歌声が…聞こえる…",
-            "sourceName": "vo_arlecchino_life_die_02.wem"
-        },
-        "0f624910b6622ea8": {
-            "hash": "0f624910b6622ea8",
-            "directory": "External1",
-            "voiceContent": "安心して任せたまえ。",
-            "sourceName": "vo_arlecchino_teamJoin_01.wem"
-        },
-        "79ed96f62ac8f56f": {
-            "hash": "79ed96f62ac8f56f",
-            "directory": "External15",
-            "voiceContent": "何か手を焼くことでもあったと見える。",
-            "sourceName": "vo_arlecchino_teamJoin_02.wem"
-        },
-        "f83034fe6e28c986": {
-            "hash": "f83034fe6e28c986",
-            "directory": "External31",
-            "voiceContent": "有意義な協力関係を築こう。",
-            "sourceName": "vo_arlecchino_teamJoin_03.wem"
-        },
-        "d97050ee192d7dd0": {
-            "hash": "d97050ee192d7dd0",
-            "directory": "External27",
-            "voiceContent": "そのように私の瞳をじっと見つめるのはやめたほうがいい。何を見てしまうとも…限らないからね。",
-            "sourceName": "vo_arlecchino_character_idle_01.wem"
-        },
-        "aec13ed69f4af2b7": {
-            "hash": "aec13ed69f4af2b7",
-            "directory": "External21",
-            "voiceContent": "子供たちは今頃どうしているだろうか——？まあ、好きにすればいい。",
-            "sourceName": "vo_arlecchino_character_idle_02.wem"
-        },
-        "2d03dcdee2aac7ae": {
-            "hash": "2d03dcdee2aac7ae",
-            "directory": "External5",
-            "voiceContent": "私に報告か？ふむ、聞こう。",
-            "sourceName": "vo_arlecchino_character_idle_03.wem"
-        },
-        "27aead18e28102b1": {
-            "hash": "27aead18e28102b1",
-            "directory": "External4",
-            "voiceContent": "怖がらなくていい。雷のほうが私たちを避けるはずだ。",
-            "sourceName": "vo_arlecchino_weather_thunder_01.wem"
-        },
-        "1650ab25a2393c6d": {
-            "hash": "1650ab25a2393c6d",
-            "directory": "External2",
-            "voiceContent": "寒さに見舞われて初めて、人は炎の温かさを懐かしむものだ。",
-            "sourceName": "vo_arlecchino_weather_snowy_01.wem"
-        },
-        "9bac61675edc50ac": {
-            "hash": "9bac61675edc50ac",
-            "directory": "External19",
-            "voiceContent": "こんな日は木陰にいるほうが良い。",
-            "sourceName": "vo_arlecchino_weather_sunny_01.wem"
-        },
-        "33c17ed54aa16fac": {
-            "hash": "33c17ed54aa16fac",
-            "directory": "External6",
-            "voiceContent": "うっかり秘密を口にしないよう気を付けることだ。風がそれをどこまで運んでゆくか、分からないからね。",
-            "sourceName": "vo_arlecchino_weather_gale_01.wem"
-        },
-        "59357acad4736588": {
-            "hash": "59357acad4736588",
-            "directory": "External11",
-            "voiceContent": "おはよう。今日の予定は？",
-            "sourceName": "vo_arlecchino_dialog_greetingMorning.wem"
-        },
-        "cdcd5c64191007c4": {
-            "hash": "cdcd5c64191007c4",
-            "directory": "External25",
-            "voiceContent": "お昼頃に家へ帰ると、子供たちはたいてい、床に横になってざこ寝をしている。確かに眠くなりやすい時間帯だ。君も少し休んでいってはどうだ？",
-            "sourceName": "vo_arlecchino_dialog_greetingNoon.wem"
-        },
-        "f9e3160abd0b5192": {
-            "hash": "f9e3160abd0b5192",
-            "directory": "External31",
-            "voiceContent": "こんな話を聞いたことがある——月はまるで人間界を見下ろす目のようだが、人々はその視線に慣れ過ぎてしまった…",
-            "sourceName": "vo_arlecchino_dialog_greetingNight.wem"
-        },
-        "48217b6136d4dfd2": {
-            "hash": "48217b6136d4dfd2",
-            "directory": "External9",
-            "voiceContent": "もう寝る時間だろう…眠れない？自分でなんとかすることを勧めるよ。おそらく私の案を君は気に入らないと思うからね。",
-            "sourceName": "vo_arlecchino_dialog_greetingNight2.wem"
-        },
-        "5ea8a658d0e50fc5": {
-            "hash": "5ea8a658d0e50fc5",
-            "directory": "External11",
-            "voiceContent": "自身を冷静に見つめることは容易ではない。まあ、世の中、それができない者のほうがかえって楽しく生きているものだがね。",
-            "sourceName": "vo_arlecchino_dialog_idle.wem"
-        },
-        "3635694efc19a32f": {
-            "hash": "3635694efc19a32f",
-            "directory": "External6",
-            "voiceContent": "私について、こんな噂が囁かれているのを耳にすることがある——冷淡で、残酷な手段を厭わない人間だと。弁明するつもりはさらさらない。偏見は真実を隠してくれる…これは、私にとっては好都合だ。だが、少しは彼らの期待に「応え」てあげないといけないだろう…？私の手から逃げられるほどの実力と地位を、彼らが持っていることを願うよ。",
-            "sourceName": "vo_arlecchino_dialog_idle2.wem"
-        },
-        "110c99447321dd72": {
-            "hash": "110c99447321dd72",
-            "directory": "External2",
-            "voiceContent": "子供たちは君から物語を聞くのが好きらしい。次はいつ来てくれるのかと、折に触れて訪ねてくるんだ。あの子たちの膨らんだ期待を水の泡にしてしまえば、それなりの埋め合わせも必要になる。それも含め、検討してくれないだろうか？",
-            "sourceName": "vo_arlecchino_dialog_close1.wem"
-        },
-        "b4f29021a3b33fab": {
-            "hash": "b4f29021a3b33fab",
-            "directory": "External22",
-            "voiceContent": "君の信条は私のものとは違う。肩を並べて行動するためには、互いに譲歩する必要があるということだ。私の秘密をいくつか共有しよう。まだ話せない部分については——知らないままでいたほうがいい…君のためにも。",
-            "sourceName": "vo_arlecchino_dialog_close.wem"
-        },
-        "8189cd979aac250a": {
-            "hash": "8189cd979aac250a",
-            "directory": "External16",
-            "voiceContent": "「躰巡る炎、血潮のごとし」…普通の者からすれば、ただの稚拙な詩にすぎまい。しかし、私にとっては変えようもない現実だ。",
-            "sourceName": "vo_arlecchino_dialog_share_01.wem"
-        },
-        "479efaf78cc00bf0": {
-            "hash": "479efaf78cc00bf0",
-            "directory": "External8",
-            "voiceContent": "スネージナヤのオーロラは実に美しかった。一見の価値がある。",
-            "sourceName": "vo_arlecchino_pref_gift_01.wem"
-        },
-        "2095dcb024402b54": {
-            "hash": "2095dcb024402b54",
-            "directory": "External4",
-            "voiceContent": "本当の「家」とは何か——そうクリーヴに聞かれたことがある。しかし私は答えられなかった。壁炉の家は、「身寄りのない」者が集まってできた家だからね。私は、家の不合理な部分を否定したいという思いからクルセビナを殺め、新しい規則を定めて子供たちの「お父様」になった。だが、それでもまだまだここが本当の家とは言えないことをよく知っている。…この課題は、次の主に引き継ぐことにした。リネが、いつか新しい答えを出してくれる日を楽しみに待つとしよう。",
-            "sourceName": "vo_arlecchino_teammate_lyney_01.wem"
-        },
-        "7784a8adf8ec1f28": {
-            "hash": "7784a8adf8ec1f28",
-            "directory": "External14",
-            "voiceContent": "静かで落ち着いた性格は、リネットの個性であり、長所でもある。聡明なあの子のことだから、本人もそれを認識しているのだろう。あの三きょうだいの中で、リネットはかけがえのない役割を担っているし、あの子自身もそれによって充足感を得ている。「お父様」として、私はあの子が伸び伸びと才能を開花させられるような環境を整えてやるつもりだ。",
-            "sourceName": "vo_arlecchino_teammate_lynette_01.wem"
-        },
-        "3d393c883bb272d5": {
-            "hash": "3d393c883bb272d5",
-            "directory": "External7",
-            "voiceContent": "フレミネは、心の中に様々な感情や葛藤を隠している。自身に関係のない問題までも、己のせいにして悲しむが、そんなあの子のことを理解してやれる子供は少ないだろう。君にもとても繊細な部分があるだろう——もしかしたら、あの子とウマが合うかもしれないな。",
-            "sourceName": "vo_arlecchino_teammate_freminet_01.wem"
         },
         "05f2801ad48e9314": {
             "hash": "05f2801ad48e9314",
             "directory": "External0",
-            "voiceContent": "最初の執行官である彼のすべては謎に包まれている。初めて会った時、彼は私の身の上を一目で見抜いたんだ。私のほうは、未だに彼について殆ど知らないのにね。",
+            "voiceContent": "最初の執行官である彼のすべては謎に包まれている。初めて会った時、彼は私の身の上を一目で見抜いたんだ。私のほうは、未だに彼について殆ど知らないのにね",
             "sourceName": "vo_arlecchino_teammate_jester_01.wem"
         },
-        "f1a0cc37962822ea": {
-            "hash": "f1a0cc37962822ea",
-            "directory": "External30",
-            "voiceContent": "手に入れた力によって、彼はそれ相応の大きな責任を背負うことになった。だが、たとえその力がなかったとしても、私にとって彼は尊敬に値する人だ。",
-            "sourceName": "vo_arlecchino_teammate_capitano_01.wem"
+        "06990f757f00f967": {
+            "hash": "06990f757f00f967",
+            "directory": "External0",
+            "voiceContent": "顕現",
+            "sourceName": "vo_arlecchino_battle_skill1_03.wem"
         },
-        "e19ccc0172decf56": {
-            "hash": "e19ccc0172decf56",
-            "directory": "External28",
-            "voiceContent": "壁炉の家を引き継いだ当初から、彼は様々な協力関係を提案してきていた。「淘汰される子供」を実験に使わせてくれれば、その実験の成果を享受させてやる…とね。先代「召使」との協力関係は相当愉快なものだったらしい。同じ執行官という立場でさえなければ、先代「召使」のところに送ってやりたいものだ。",
-            "sourceName": "vo_arlecchino_teammate_dottore_01.wem"
+        "070d9fa71c6e30b9": {
+            "hash": "070d9fa71c6e30b9",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_idle_02.wem"
         },
-        "8cf9d1cf3730a6ca": {
-            "hash": "8cf9d1cf3730a6ca",
-            "directory": "External17",
-            "voiceContent": "ヌヴィレット殿は、仕事でもプライベートでも、一定の距離感を保つことを意識しているようだ。そんな彼のことを「感情に疎い」と評価する人も少なくないが…私はその逆だと思っている。法の冷酷さは、民衆を守るための公平さから来るものだ。同様に彼のそういう一面も、ある種の特別な善性であると言うべきなのだろう。",
-            "sourceName": "vo_arlecchino_teammate_neuvillette_01.wem"
+        "0f624910b6622ea8": {
+            "hash": "0f624910b6622ea8",
+            "directory": "External1",
+            "voiceContent": "安心して任せたまえ",
+            "sourceName": "vo_arlecchino_teamJoin_01.wem"
         },
-        "db1417910c05c648": {
-            "hash": "db1417910c05c648",
-            "directory": "External27",
-            "voiceContent": "劇団員たちへの差し入れとして、リネにケーキを届けさせた。ケーキは子供たちの手作りなのだが、「大ファン」からの贈り物ということにしてある。彼女が気に入ってくれるといいのだが。",
-            "sourceName": "vo_arlecchino_teammate_furina_01.wem"
+        "110c99447321dd72": {
+            "hash": "110c99447321dd72",
+            "directory": "External2",
+            "voiceContent": "子供たちは君から物語を聞くのが好きらしい。次はいつ来てくれるのかと、折に触れて訪ねてくるんだ。あの子たちの膨らんだ期待を水の泡にしてしまえば、それなりの埋め合わせも必要になる。それも含め、検討してくれないだろうか",
+            "sourceName": "vo_arlecchino_dialog_close1.wem"
         },
-        "4b387397c99a94ee": {
-            "hash": "4b387397c99a94ee",
-            "directory": "External9",
-            "voiceContent": "投獄された時——女皇陛下は私の罪を赦し、執行官の身分を与えてくださった。耳ざわりのよい言葉ばかりを並ベ立てる空っぽの偽善者とはまったく違う…私は彼女に真の「慈愛」を見た。しかしその「慈愛」は、果てしなく広がる氷雪をも溶かせるものだろうか。その答えは誰にも分からないだろう。だが、これだけははっきり分かっている…もし、いつか女皇陛下と訣別すべき日が来たら、私は迷いなく彼女に向けて剣を振り下ろすだろう。それが、私の捧げられる最大限の敬意だ。",
-            "sourceName": "vo_arlecchino_teammate_tsaritsa_01.wem"
+        "1650ab25a2393c6d": {
+            "hash": "1650ab25a2393c6d",
+            "directory": "External2",
+            "voiceContent": "寒さに見舞われて初めて、人は炎の温かさを懐かしむものだ",
+            "sourceName": "vo_arlecchino_weather_snowy_01.wem"
         },
-        "7260654bfe17f388": {
-            "hash": "7260654bfe17f388",
-            "directory": "External14",
-            "voiceContent": "私について？無論構わない。互いを信頼し続けるための原則に基づいて、なるべく包み隠さず話そう。だが、覚悟はしておいたほうがいい。時に秘密は刃よりも鋭い武器となる…小さな好奇心が災いを招くこともあるのだから。",
-            "sourceName": "vo_arlecchino_friendship_01.wem"
-        },
-        "31a93333e67e0fcf": {
-            "hash": "31a93333e67e0fcf",
-            "directory": "External6",
-            "voiceContent": "手に握った刃を突き刺した瞬間、命の重みはそれぞれ異なるということに気付く。数多の栄誉を手に入れているように見えて、実は取るに足らない空っぽの人形に過ぎず、死に際で必死に命乞いする者もいれば、平凡に見えて、意外にもその魂は重い者もいる。だが、死はどんな者をも平等に扱う。残酷に聞こえるか？私はただ事実を話しただけだ。",
-            "sourceName": "vo_arlecchino_friendship_02.wem"
-        },
-        "afebd13c29dde4e6": {
-            "hash": "afebd13c29dde4e6",
-            "directory": "External21",
-            "voiceContent": "スネージヴィッチ、スネージヴナ…暗闇の中でも澄んだ眼差しを投げかけてくる子供たちや、焔の傍で舞い踊る勇気を持った子供たち…あの子たちに、私はできる限り人生との向き合い方を教えていきたいと思っている。壁炉の家では、他人に媚びを売る必要はない。私たちはただ、蜘蛛のように狩りをすればいいのだ。",
-            "sourceName": "vo_arlecchino_friendship_03.wem"
-        },
-        "30b61f223c2b1055": {
-            "hash": "30b61f223c2b1055",
-            "directory": "External6",
-            "voiceContent": "人は出自を選べない——何とも不公平な世の中だ。だが、かえって公平とも言える。運命に抗う権利はすべての者に与えられているからだ。子供たちを引き取ったのは、決して報われるためではない。家を離れたい者は、然るべき代償を払えば、新しい人生を追い求めることができる。",
-            "sourceName": "vo_arlecchino_friendship_04.wem"
-        },
-        "aec1e52a7f5be6c4": {
-            "hash": "aec1e52a7f5be6c4",
-            "directory": "External21",
-            "voiceContent": "運命とは実に不思議だ。幼い頃から、特別な力を操ることができたものでね…「お母様」はそんな私を贔屓した。その力の本質を、当時は誰も——私自身すら知らなかった。血筋に引き継がれた呪いだと思っていたのだ。その力は私に力を与え、同時に苦痛をもたらした。執行官になり、「道化」から初めて真相を告げられた。「赤月」の血筋はまだ途絶えてはいなかった…壁炉の家は回り回って、結局「赤月」の末裔の手に戻ったのだ——そう言った彼は、驚きを隠さなかった。果たして運命は私をどこへ導くのだろうか…その答えは、いつか運命が教えてくれるのだろう。だが私のほうも、それを切り裂く準備ならばできている。",
-            "sourceName": "vo_arlecchino_friendship_05.wem"
-        },
-        "b5848b617214c2ac": {
-            "hash": "b5848b617214c2ac",
-            "directory": "External22",
-            "voiceContent": "時間があるとき、独りで森に入って昆虫を観察することがある。昆虫たちのやり合いはなかなか興味深いものだ。捕食、競争、協力が絶えず繰り広げられる中で、一見強そうに見える個体が最後まで生き残るとは限らない。ちょっとした油断により命を落とすからだ。そんな場面に立ち会えたときは、死に際に藻掻く様子をじっくりと脳裏に刻んでおく。敗者たちの結末を胸に焼き付けてきたのと同じようにね。",
-            "sourceName": "vo_arlecchino_pref_hobby.wem"
-        },
-        "55ff8124bf4fd877": {
-            "hash": "55ff8124bf4fd877",
-            "directory": "External10",
-            "voiceContent": "家では時々バーベキューパーティーを開くんだ。食材は子供たちに用意させているよ。皆そのような場を喜ぶし、私もなかなか好きだ。次にパーティーをやるときは誰が欠席しているか…誰にも分からないからね。",
-            "sourceName": "vo_arlecchino_pref_foodLike.wem"
-        },
-        "ad794b047dc0a851": {
-            "hash": "ad794b047dc0a851",
-            "directory": "External21",
-            "voiceContent": "味付けが複雑な食べ物は嗅覚と味覚を鈍くするから、あまり好きではないな。食材本来の味を活かすことも、食材を尊重することだと言えるだろう。",
-            "sourceName": "vo_arlecchino_pref_foodDislike.wem"
+        "16aeb9f35cae4de3": {
+            "hash": "16aeb9f35cae4de3",
+            "directory": "External2",
+            "voiceContent": "墜ちるがいい",
+            "sourceName": "vo_arlecchino_battle_skill3_01.wem"
         },
         "1933d1827014fb20": {
             "hash": "1933d1827014fb20",
             "directory": "External3",
-            "voiceContent": "いい腕前だ。壁炉の家で料理の授業を開いてみる気はないか？",
+            "voiceContent": "いい腕前だ。壁炉の家で料理の授業を開いてみる気はないか",
             "sourceName": "vo_arlecchino_spice_pref_01.wem"
         },
-        "dca62045b6a480fa": {
-            "hash": "dca62045b6a480fa",
-            "directory": "External27",
-            "voiceContent": "悪くない。子供たちは好きかもしれないね。",
-            "sourceName": "vo_arlecchino_spice_normal_01.wem"
+        "1beb6dcd29140834": {
+            "hash": "1beb6dcd29140834",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_sprint_start_02.wem"
+        },
+        "1e58a8db6ba4ef8e": {
+            "hash": "1e58a8db6ba4ef8e",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_breath_03.wem"
+        },
+        "1f829ced1626fb30": {
+            "hash": "1f829ced1626fb30",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_breath_01.wem"
+        },
+        "1fbca8cbc46e328e": {
+            "hash": "1fbca8cbc46e328e",
+            "directory": "External3",
+            "voiceContent": "予想外の事というのは楽しいものだ",
+            "sourceName": "vo_arlecchino_chest_open_01.wem"
+        },
+        "2095dcb024402b54": {
+            "hash": "2095dcb024402b54",
+            "directory": "External4",
+            "voiceContent": "本当の「家」とは何か——そうクリーヴに聞かれたことがある。しかし私は答えられなかった。壁炉の家は、「身寄りのない」者が集まってできた家だからね。私は、家の不合理な部分を否定したいという思いからクルセビナを殺め、新しい規則を定めて子供たちの「お父様」になった。だが、それでもまだまだここが本当の家とは言えないことをよく知っている。…この課題は、次の主に引き継ぐことにした。リネが、いつか新しい答えを出してくれる日を楽しみに待つとしよう",
+            "sourceName": "vo_arlecchino_teammate_lyney_01.wem"
+        },
+        "20e69cdd6ef03e30": {
+            "hash": "20e69cdd6ef03e30",
+            "directory": "External4",
+            "voiceContent": "この瞬間の喜びを覚えておこう",
+            "sourceName": "vo_arlecchino_chest_open_03.wem"
         },
         "21e17f24d43045b6": {
             "hash": "21e17f24d43045b6",
             "directory": "External4",
-            "voiceContent": "気持ちはありがたいが、味に関してはまだまだ改善の余地がありそうだ。",
+            "voiceContent": "気持ちはありがたいが、味に関してはまだまだ改善の余地がありそうだ",
             "sourceName": "vo_arlecchino_spice_dislike_01.wem"
         },
-        "e779ed1412874153": {
-            "hash": "e779ed1412874153",
-            "directory": "External28",
-            "voiceContent": "メモを見たが——今日は君の誕生日だね？誕生日は賑やかなほうがいいだろう。どんな人にも、忙しさから抜け出す理由は必要だ。自分の…或いは他人の祝い事というのは、理由の一つになるだろう？壁炉の家でちょっとしたパーティーを用意した。子供たちが待っているから、ぜひ来てくれたまえ。",
-            "sourceName": "vo_arlecchino_pref_birthday_01.wem"
+        "27a4174bfa0b281d": {
+            "hash": "27a4174bfa0b281d",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_h_03.wem"
         },
-        "31581b9849010b5b": {
-            "hash": "31581b9849010b5b",
-            "directory": "External6",
-            "voiceContent": "歩みを止めるな。力量に囚われる必要などない。",
-            "sourceName": "vo_arlecchino_starUp_01.wem"
-        },
-        "b3f3cdb2399708e4": {
-            "hash": "b3f3cdb2399708e4",
-            "directory": "External22",
-            "voiceContent": "憤怒は衝動を引き起こし、感傷は躊躇いを生む。常に心の調整を忘れないことだ。",
-            "sourceName": "vo_arlecchino_starUp_02.wem"
-        },
-        "35e707a9f6647f75": {
-            "hash": "35e707a9f6647f75",
-            "directory": "External6",
-            "voiceContent": "私を厳しすぎると評価する者たちがいるが、私は自身に対しても同じようにしているつもりだ。",
-            "sourceName": "vo_arlecchino_starUp_03.wem"
-        },
-        "606039c17019b086": {
-            "hash": "606039c17019b086",
-            "directory": "External12",
-            "voiceContent": "君と過ごしている間、色々と学びがあった。君にとってもそうであったならいいのだが。これからも、この友好関係を保っていこう…いつか、一緒に厄介な面倒事を処理することになるかもしれないからね。",
-            "sourceName": "vo_arlecchino_starUp_04.wem"
-        },
-        "99e62c863353a613": {
-            "hash": "99e62c863353a613",
-            "directory": "External19",
-            "voiceContent": "悪くない攻撃だった。",
-            "sourceName": "vo_arlecchino_life_less30_01.wem"
-        },
-        "2f91fea0bf1c597c": {
-            "hash": "2f91fea0bf1c597c",
-            "directory": "External5",
-            "voiceContent": "さて、反撃の時間だ。",
-            "sourceName": "vo_arlecchino_life_less30_02.wem"
-        },
-        "9b101897ddd5a40d": {
-            "hash": "9b101897ddd5a40d",
-            "directory": "External19",
-            "voiceContent": "そろそろ始めようか——",
-            "sourceName": "vo_arlecchino_life_less30_03.wem"
-        },
-        "4b1ceb485e9e32c1": {
-            "hash": "4b1ceb485e9e32c1",
-            "directory": "External9",
-            "voiceContent": "こんな運命、認めはしない。",
-            "sourceName": "vo_arlecchino_life_die_03.wem"
-        },
-        "77d1ab3cc0a55763": {
-            "hash": "77d1ab3cc0a55763",
-            "directory": "External14",
-            "voiceContent": "凡庸だね。",
-            "sourceName": "vo_arlecchino_battle_hit_H_01.wem"
-        },
-        "b8bffd54d86eb44c": {
-            "hash": "b8bffd54d86eb44c",
-            "directory": "External23",
-            "voiceContent": "続きといこう。",
-            "sourceName": "vo_arlecchino_battle_hit_H_02.wem"
-        },
-        "cbfb53d96ad68d69": {
-            "hash": "cbfb53d96ad68d69",
-            "directory": "External25",
-            "voiceContent": "彼女は変わった執行官だ。彼女に質問を投げかけて、「予想通りの答え」が返ってくることはまずない。まず、「答え」になっているかどうかさえ…しかし、それが「面白い答え」であることは間違いないだろう。",
-            "sourceName": "vo_arlecchino_teammate_damselette_01.wem"
-        },
-        "9aac6cb92547c529": {
-            "hash": "9aac6cb92547c529",
-            "directory": "External19",
-            "voiceContent": "彼女にはあまり興味がない。研究に没頭していて、あまり公の場に姿を現さないから、彼女に会ったことすらないという士官も多い。数多の分身を作れないのは嘆かわしいとばかりに、世界中を走り回るやつを「極端」と評するなら、彼女はまた別の「極端」だろう。",
-            "sourceName": "vo_arlecchino_teammate_marionette_01.wem"
-        },
-        "b3e0c77338017ded": {
-            "hash": "b3e0c77338017ded",
-            "directory": "External22",
-            "voiceContent": "彼が優れた頭脳と手腕を併せ持つことは認めている。だが、「冷静さ」には欠けると私はみている。壮大な計画を立案し、無機質な経済を操る能力には長けているものの——彼を突き動かしているのは、依然として心の奥底に抑え込まれたままの憎しみと嫌悪だ。自らを理性的と言い張る者は、得てして己の感情をコントロールできていると思い込んでいるものだが…その自信こそが最大の弱点だと言える。",
-            "sourceName": "vo_arlecchino_teammate_pantalone_01.wem"
-        },
-        "b2522c8dbda67ba2": {
-            "hash": "b2522c8dbda67ba2",
-            "directory": "External22",
-            "voiceContent": "私が最初に知り合った執行官は、彼女とピエロだった。彼女が初めて壁炉の家を訪れたとき、高慢極まりない彼女に、子供たちが懐くはずもなかった。しかしその後、彼女は度々プレゼントを持ってくるようになり、「私を好きになってくれない子にはプレゼントをあげないわ」と平然と言い放ったんだ。プレゼントがほしい子供たちは、愛嬌をふりまいて彼女の好意を買う術を覚え…彼女もまんざらでもなさそうだった。きっと、子供たちに囲まれているのが嫌いではなかったんだろう。もしかすると、心の中に孤独を抱えていたからかもしれない…彼女の訃報については…心から残念に思う。死んだ恋人と再会できていることを願うばかりだ。",
-            "sourceName": "vo_arlecchino_teammate_signora_01.wem"
-        },
-        "c83268dd9ede2b57": {
-            "hash": "c83268dd9ede2b57",
-            "directory": "External25",
-            "voiceContent": "以前、「バンビ」という名の蜘蛛を飼っていた。なかなか興味深かったよ。猫や犬のようなペットと違って、蜘蛛は飼い主に懐くこともなければ、恩を返すこともない。だから、飼い主との感情が深まることもない。私にとってはちょうどいい関係だった。",
-            "sourceName": "vo_arlecchino_pref_gift_02.wem"
-        },
-        "f2346b0e7687cee0": {
-            "hash": "f2346b0e7687cee0",
-            "directory": "External30",
-            "voiceContent": "正直、彼は執行官に向いていないと思う。いつも他人の意図を善意として解釈し、人に利用されることもしばしばだ…無論、天賦の才に恵まれているということは確かだし、今なお成長し続けてもいる。彼に対する評価を急ぐ必要はないだろう。",
-            "sourceName": "vo_arlecchino_teammate_tartaglia_01.wem"
+        "27aead18e28102b1": {
+            "hash": "27aead18e28102b1",
+            "directory": "External4",
+            "voiceContent": "怖がらなくていい。雷のほうが私たちを避けるはずだ",
+            "sourceName": "vo_arlecchino_weather_thunder_01.wem"
         },
         "2c7a21f3d10eb357": {
             "hash": "2c7a21f3d10eb357",
             "directory": "External5",
-            "voiceContent": "子供たちは、よく自分たちにしか分からない流行り言葉を使う。任務実行中の合言葉にも似ているが…そうやって、安心できる空間を作りたいのだろう。私もよく分かってはいるつもりだ。",
+            "voiceContent": "子供たちは、よく自分たちにしか分からない流行り言葉を使う。任務実行中の合言葉にも似ているが…そうやって、安心できる空間を作りたいのだろう。私もよく分かってはいるつもりだ",
             "sourceName": "vo_arlecchino_dialog_annoyed_01.wem"
+        },
+        "2ccb8c79c76c9ad2": {
+            "hash": "2ccb8c79c76c9ad2",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_02.wem"
+        },
+        "2d03dcdee2aac7ae": {
+            "hash": "2d03dcdee2aac7ae",
+            "directory": "External5",
+            "voiceContent": "私に報告か？ふむ、聞こう",
+            "sourceName": "vo_arlecchino_character_idle_03.wem"
+        },
+        "2f91fea0bf1c597c": {
+            "hash": "2f91fea0bf1c597c",
+            "directory": "External5",
+            "voiceContent": "さて、反撃の時間だ",
+            "sourceName": "vo_arlecchino_life_less30_02.wem"
+        },
+        "30b61f223c2b1055": {
+            "hash": "30b61f223c2b1055",
+            "directory": "External6",
+            "voiceContent": "人は出自を選べない——何とも不公平な世の中だ。だが、かえって公平とも言える。運命に抗う権利はすべての者に与えられているからだ。子供たちを引き取ったのは、決して報われるためではない。家を離れたい者は、然るべき代償を払えば、新しい人生を追い求めることができる",
+            "sourceName": "vo_arlecchino_friendship_04.wem"
+        },
+        "31241dbc547396f0": {
+            "hash": "31241dbc547396f0",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_jump_05.wem"
+        },
+        "31581b9849010b5b": {
+            "hash": "31581b9849010b5b",
+            "directory": "External6",
+            "voiceContent": "歩みを止めるな。力量に囚われる必要などない",
+            "sourceName": "vo_arlecchino_starUp_01.wem"
+        },
+        "31a93333e67e0fcf": {
+            "hash": "31a93333e67e0fcf",
+            "directory": "External6",
+            "voiceContent": "手に握った刃を突き刺した瞬間、命の重みはそれぞれ異なるということに気付く。数多の栄誉を手に入れているように見えて、実は取るに足らない空っぽの人形に過ぎず、死に際で必死に命乞いする者もいれば、平凡に見えて、意外にもその魂は重い者もいる。だが、死はどんな者をも平等に扱う。残酷に聞こえるか？私はただ事実を話しただけだ",
+            "sourceName": "vo_arlecchino_friendship_02.wem"
+        },
+        "33c17ed54aa16fac": {
+            "hash": "33c17ed54aa16fac",
+            "directory": "External6",
+            "voiceContent": "うっかり秘密を口にしないよう気を付けることだ。風がそれをどこまで運んでゆくか、分からないからね",
+            "sourceName": "vo_arlecchino_weather_gale_01.wem"
+        },
+        "35e707a9f6647f75": {
+            "hash": "35e707a9f6647f75",
+            "directory": "External6",
+            "voiceContent": "私を厳しすぎると評価する者たちがいるが、私は自身に対しても同じようにしているつもりだ",
+            "sourceName": "vo_arlecchino_starUp_03.wem"
+        },
+        "3635694efc19a32f": {
+            "hash": "3635694efc19a32f",
+            "directory": "External6",
+            "voiceContent": "私について、こんな噂が囁かれているのを耳にすることがある——冷淡で、残酷な手段を厭わない人間だと。弁明するつもりはさらさらない。偏見は真実を隠してくれる…これは、私にとっては好都合だ。だが、少しは彼らの期待に「応え」てあげないといけないだろう…？私の手から逃げられるほどの実力と地位を、彼らが持っていることを願うよ",
+            "sourceName": "vo_arlecchino_dialog_idle2.wem"
+        },
+        "3d393c883bb272d5": {
+            "hash": "3d393c883bb272d5",
+            "directory": "External7",
+            "voiceContent": "フレミネは、心の中に様々な感情や葛藤を隠している。自身に関係のない問題までも、己のせいにして悲しむが、そんなあの子のことを理解してやれる子供は少ないだろう。君にもとても繊細な部分があるだろう——もしかしたら、あの子とウマが合うかもしれないな",
+            "sourceName": "vo_arlecchino_teammate_freminet_01.wem"
+        },
+        "3f0d4b5e42740677": {
+            "hash": "3f0d4b5e42740677",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_h_05.wem"
+        },
+        "442ca6e405cb47a7": {
+            "hash": "442ca6e405cb47a7",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_01.wem"
+        },
+        "479efaf78cc00bf0": {
+            "hash": "479efaf78cc00bf0",
+            "directory": "External8",
+            "voiceContent": "スネージナヤのオーロラは実に美しかった。一見の価値がある",
+            "sourceName": "vo_arlecchino_pref_gift_01.wem"
+        },
+        "48217b6136d4dfd2": {
+            "hash": "48217b6136d4dfd2",
+            "directory": "External9",
+            "voiceContent": "もう寝る時間だろう…眠れない？自分でなんとかすることを勧めるよ。おそらく私の案を君は気に入らないと思うからね",
+            "sourceName": "vo_arlecchino_dialog_greetingNight2.wem"
+        },
+        "4aa54aa374bc32a9": {
+            "hash": "4aa54aa374bc32a9",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_05.wem"
+        },
+        "4b1ceb485e9e32c1": {
+            "hash": "4b1ceb485e9e32c1",
+            "directory": "External9",
+            "voiceContent": "こんな運命、認めはしない",
+            "sourceName": "vo_arlecchino_life_die_03.wem"
+        },
+        "4b387397c99a94ee": {
+            "hash": "4b387397c99a94ee",
+            "directory": "External9",
+            "voiceContent": "投獄された時——女皇陛下は私の罪を赦し、執行官の身分を与えてくださった。耳ざわりのよい言葉ばかりを並ベ立てる空っぽの偽善者とはまったく違う…私は彼女に真の「慈愛」を見た。しかしその「慈愛」は、果てしなく広がる氷雪をも溶かせるものだろうか。その答えは誰にも分からないだろう。だが、これだけははっきり分かっている…もし、いつか女皇陛下と訣別すべき日が来たら、私は迷いなく彼女に向けて剣を振り下ろすだろう。それが、私の捧げられる最大限の敬意だ",
+            "sourceName": "vo_arlecchino_teammate_tsaritsa_01.wem"
+        },
+        "4e82dbdb28d49597": {
+            "hash": "4e82dbdb28d49597",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackmid_01.wem"
+        },
+        "5312c7ecd639bcb1": {
+            "hash": "5312c7ecd639bcb1",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackmid_03.wem"
+        },
+        "5445c6c14b6f5b93": {
+            "hash": "5445c6c14b6f5b93",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_05.wem"
+        },
+        "55ff8124bf4fd877": {
+            "hash": "55ff8124bf4fd877",
+            "directory": "External10",
+            "voiceContent": "家では時々バーベキューパーティーを開くんだ。食材は子供たちに用意させているよ。皆そのような場を喜ぶし、私もなかなか好きだ。次にパーティーをやるときは誰が欠席しているか…誰にも分からないからね",
+            "sourceName": "vo_arlecchino_pref_foodLike.wem"
+        },
+        "579d0c0b7477aacc": {
+            "hash": "579d0c0b7477aacc",
+            "directory": "External10",
+            "voiceContent": "此処より昇る",
+            "sourceName": "vo_arlecchino_battle_skill3_02.wem"
+        },
+        "58c96d7c86eeb55e": {
+            "hash": "58c96d7c86eeb55e",
+            "directory": "External11",
+            "voiceContent": "却下する",
+            "sourceName": "vo_arlecchino_battle_skill1_02.wem"
+        },
+        "59357acad4736588": {
+            "hash": "59357acad4736588",
+            "directory": "External11",
+            "voiceContent": "おはよう。今日の予定は",
+            "sourceName": "vo_arlecchino_dialog_greetingMorning.wem"
+        },
+        "5b8b289870135a65": {
+            "hash": "5b8b289870135a65",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackheavy_02.wem"
         },
         "5c3c0b350d3c37a6": {
             "hash": "5c3c0b350d3c37a6",
             "directory": "External11",
-            "voiceContent": "ファデュイ執行官第四位、「召使」アルレッキーノだ。壁炉の家の子供たちには「お父様」と呼ばれている。いい関係を築けることを願っているよ——難しいことではないだろう？まだ君と敵対する理由はないのだから…違うかな？",
+            "voiceContent": "ファデュイ執行官第四位、「召使」アルレッキーノだ。壁炉の家の子供たちには「お父様」と呼ばれている。いい関係を築けることを願っているよ——難しいことではないだろう？まだ君と敵対する理由はないのだから…違うかな",
             "sourceName": "vo_arlecchino_draw_appear_01.wem"
+        },
+        "5e8ceda5abc11ebd": {
+            "hash": "5e8ceda5abc11ebd",
+            "directory": "External11",
+            "voiceContent": "計画を変更する",
+            "sourceName": "vo_arlecchino_life_less30_teammate_02.wem"
+        },
+        "5ea8a658d0e50fc5": {
+            "hash": "5ea8a658d0e50fc5",
+            "directory": "External11",
+            "voiceContent": "自身を冷静に見つめることは容易ではない。まあ、世の中、それができない者のほうがかえって楽しく生きているものだがね",
+            "sourceName": "vo_arlecchino_dialog_idle.wem"
+        },
+        "5f847e9267f3412f": {
+            "hash": "5f847e9267f3412f",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_07.wem"
+        },
+        "606039c17019b086": {
+            "hash": "606039c17019b086",
+            "directory": "External12",
+            "voiceContent": "君と過ごしている間、色々と学びがあった。君にとってもそうであったならいいのだが。これからも、この友好関係を保っていこう…いつか、一緒に厄介な面倒事を処理することになるかもしれないからね",
+            "sourceName": "vo_arlecchino_starUp_04.wem"
+        },
+        "69bb5d75bc54dd90": {
+            "hash": "69bb5d75bc54dd90",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_h_06.wem"
+        },
+        "7260654bfe17f388": {
+            "hash": "7260654bfe17f388",
+            "directory": "External14",
+            "voiceContent": "私について？無論構わない。互いを信頼し続けるための原則に基づいて、なるべく包み隠さず話そう。だが、覚悟はしておいたほうがいい。時に秘密は刃よりも鋭い武器となる…小さな好奇心が災いを招くこともあるのだから",
+            "sourceName": "vo_arlecchino_friendship_01.wem"
+        },
+        "7533a7c3ad54ae85": {
+            "hash": "7533a7c3ad54ae85",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_sprint_start_03.wem"
+        },
+        "7784a8adf8ec1f28": {
+            "hash": "7784a8adf8ec1f28",
+            "directory": "External14",
+            "voiceContent": "静かで落ち着いた性格は、リネットの個性であり、長所でもある。聡明なあの子のことだから、本人もそれを認識しているのだろう。あの三きょうだいの中で、リネットはかけがえのない役割を担っているし、あの子自身もそれによって充足感を得ている。「お父様」として、私はあの子が伸び伸びと才能を開花させられるような環境を整えてやるつもりだ",
+            "sourceName": "vo_arlecchino_teammate_lynette_01.wem"
+        },
+        "77d1ab3cc0a55763": {
+            "hash": "77d1ab3cc0a55763",
+            "directory": "External14",
+            "voiceContent": "凡庸だね",
+            "sourceName": "vo_arlecchino_battle_hit_H_01.wem"
+        },
+        "79ed96f62ac8f56f": {
+            "hash": "79ed96f62ac8f56f",
+            "directory": "External15",
+            "voiceContent": "何か手を焼くことでもあったと見える",
+            "sourceName": "vo_arlecchino_teamJoin_02.wem"
+        },
+        "8009f492c8b58268": {
+            "hash": "8009f492c8b58268",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_02.wem"
+        },
+        "8027bd9b708bb9ac": {
+            "hash": "8027bd9b708bb9ac",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_jump_01.wem"
+        },
+        "8189cd979aac250a": {
+            "hash": "8189cd979aac250a",
+            "directory": "External16",
+            "voiceContent": "「躰巡る炎、血潮のごとし」…普通の者からすれば、ただの稚拙な詩にすぎまい。しかし、私にとっては変えようもない現実だ",
+            "sourceName": "vo_arlecchino_dialog_share_01.wem"
+        },
+        "81ea45af5ceaea38": {
+            "hash": "81ea45af5ceaea38",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_idle_03.wem"
+        },
+        "8cf9d1cf3730a6ca": {
+            "hash": "8cf9d1cf3730a6ca",
+            "directory": "External17",
+            "voiceContent": "ヌヴィレット殿は、仕事でもプライベートでも、一定の距離感を保つことを意識しているようだ。そんな彼のことを「感情に疎い」と評価する人も少なくないが…私はその逆だと思っている。法の冷酷さは、民衆を守るための公平さから来るものだ。同様に彼のそういう一面も、ある種の特別な善性であると言うべきなのだろう",
+            "sourceName": "vo_arlecchino_teammate_neuvillette_01.wem"
+        },
+        "9506b98a63c2697a": {
+            "hash": "9506b98a63c2697a",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_jump_03.wem"
+        },
+        "96c9719e5021eb56": {
+            "hash": "96c9719e5021eb56",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_idle_01.wem"
+        },
+        "978738fcb83b7c40": {
+            "hash": "978738fcb83b7c40",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_02.wem"
+        },
+        "99e62c863353a613": {
+            "hash": "99e62c863353a613",
+            "directory": "External19",
+            "voiceContent": "悪くない攻撃だった",
+            "sourceName": "vo_arlecchino_life_less30_01.wem"
+        },
+        "9aac6cb92547c529": {
+            "hash": "9aac6cb92547c529",
+            "directory": "External19",
+            "voiceContent": "彼女にはあまり興味がない。研究に没頭していて、あまり公の場に姿を現さないから、彼女に会ったことすらないという士官も多い。数多の分身を作れないのは嘆かわしいとばかりに、世界中を走り回るやつを「極端」と評するなら、彼女はまた別の「極端」だろう",
+            "sourceName": "vo_arlecchino_teammate_marionette_01.wem"
+        },
+        "9b101897ddd5a40d": {
+            "hash": "9b101897ddd5a40d",
+            "directory": "External19",
+            "voiceContent": "そろそろ始めようか—",
+            "sourceName": "vo_arlecchino_life_less30_03.wem"
+        },
+        "9bac61675edc50ac": {
+            "hash": "9bac61675edc50ac",
+            "directory": "External19",
+            "voiceContent": "こんな日は木陰にいるほうが良い",
+            "sourceName": "vo_arlecchino_weather_sunny_01.wem"
+        },
+        "9cf03ac1c60f5d63": {
+            "hash": "9cf03ac1c60f5d63",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_fly_start_02.wem"
+        },
+        "9eb07f39281b8a27": {
+            "hash": "9eb07f39281b8a27",
+            "directory": "External19",
+            "voiceContent": "暖炉の火が…消えた",
+            "sourceName": "vo_arlecchino_life_die_01.wem"
+        },
+        "a0160ad328451a97": {
+            "hash": "a0160ad328451a97",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_breath_02.wem"
+        },
+        "a609f6d52e7384b1": {
+            "hash": "a609f6d52e7384b1",
+            "directory": "External20",
+            "voiceContent": "悪くない収穫だね",
+            "sourceName": "vo_arlecchino_chest_open_02.wem"
+        },
+        "ad794b047dc0a851": {
+            "hash": "ad794b047dc0a851",
+            "directory": "External21",
+            "voiceContent": "味付けが複雑な食べ物は嗅覚と味覚を鈍くするから、あまり好きではないな。食材本来の味を活かすことも、食材を尊重することだと言えるだろう",
+            "sourceName": "vo_arlecchino_pref_foodDislike.wem"
+        },
+        "ad856e9f77d35d94": {
+            "hash": "ad856e9f77d35d94",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackheavy_03.wem"
+        },
+        "aebefe71843a701b": {
+            "hash": "aebefe71843a701b",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_03.wem"
+        },
+        "aec13ed69f4af2b7": {
+            "hash": "aec13ed69f4af2b7",
+            "directory": "External21",
+            "voiceContent": "子供たちは今頃どうしているだろうか——？まあ、好きにすればいい",
+            "sourceName": "vo_arlecchino_character_idle_02.wem"
+        },
+        "aec1e52a7f5be6c4": {
+            "hash": "aec1e52a7f5be6c4",
+            "directory": "External21",
+            "voiceContent": "運命とは実に不思議だ。幼い頃から、特別な力を操ることができたものでね…「お母様」はそんな私を贔屓した。その力の本質を、当時は誰も——私自身すら知らなかった。血筋に引き継がれた呪いだと思っていたのだ。その力は私に力を与え、同時に苦痛をもたらした。執行官になり、「道化」から初めて真相を告げられた。「赤月」の血筋はまだ途絶えてはいなかった…壁炉の家は回り回って、結局「赤月」の末裔の手に戻ったのだ——そう言った彼は、驚きを隠さなかった。果たして運命は私をどこへ導くのだろうか…その答えは、いつか運命が教えてくれるのだろう。だが私のほうも、それを切り裂く準備ならばできている",
+            "sourceName": "vo_arlecchino_friendship_05.wem"
+        },
+        "afe8ea832ebc6e35": {
+            "hash": "afe8ea832ebc6e35",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_01.wem"
+        },
+        "afebd13c29dde4e6": {
+            "hash": "afebd13c29dde4e6",
+            "directory": "External21",
+            "voiceContent": "スネージヴィッチ、スネージヴナ…暗闇の中でも澄んだ眼差しを投げかけてくる子供たちや、焔の傍で舞い踊る勇気を持った子供たち…あの子たちに、私はできる限り人生との向き合い方を教えていきたいと思っている。壁炉の家では、他人に媚びを売る必要はない。私たちはただ、蜘蛛のように狩りをすればいいのだ",
+            "sourceName": "vo_arlecchino_friendship_03.wem"
+        },
+        "b2522c8dbda67ba2": {
+            "hash": "b2522c8dbda67ba2",
+            "directory": "External22",
+            "voiceContent": "私が最初に知り合った執行官は、彼女とピエロだった。彼女が初めて壁炉の家を訪れたとき、高慢極まりない彼女に、子供たちが懐くはずもなかった。しかしその後、彼女は度々プレゼントを持ってくるようになり、「私を好きになってくれない子にはプレゼントをあげないわ」と平然と言い放ったんだ。プレゼントがほしい子供たちは、愛嬌をふりまいて彼女の好意を買う術を覚え…彼女もまんざらでもなさそうだった。きっと、子供たちに囲まれているのが嫌いではなかったんだろう。もしかすると、心の中に孤独を抱えていたからかもしれない…彼女の訃報については…心から残念に思う。死んだ恋人と再会できていることを願うばかりだ",
+            "sourceName": "vo_arlecchino_teammate_signora_01.wem"
+        },
+        "b2e177b41113b471": {
+            "hash": "b2e177b41113b471",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_jump_04.wem"
+        },
+        "b3e0c77338017ded": {
+            "hash": "b3e0c77338017ded",
+            "directory": "External22",
+            "voiceContent": "彼が優れた頭脳と手腕を併せ持つことは認めている。だが、「冷静さ」には欠けると私はみている。壮大な計画を立案し、無機質な経済を操る能力には長けているものの——彼を突き動かしているのは、依然として心の奥底に抑え込まれたままの憎しみと嫌悪だ。自らを理性的と言い張る者は、得てして己の感情をコントロールできていると思い込んでいるものだが…その自信こそが最大の弱点だと言える",
+            "sourceName": "vo_arlecchino_teammate_pantalone_01.wem"
+        },
+        "b3f3cdb2399708e4": {
+            "hash": "b3f3cdb2399708e4",
+            "directory": "External22",
+            "voiceContent": "憤怒は衝動を引き起こし、感傷は躊躇いを生む。常に心の調整を忘れないことだ",
+            "sourceName": "vo_arlecchino_starUp_02.wem"
+        },
+        "b4f29021a3b33fab": {
+            "hash": "b4f29021a3b33fab",
+            "directory": "External22",
+            "voiceContent": "君の信条は私のものとは違う。肩を並べて行動するためには、互いに譲歩する必要があるということだ。私の秘密をいくつか共有しよう。まだ話せない部分については——知らないままでいたほうがいい…君のためにも",
+            "sourceName": "vo_arlecchino_dialog_close.wem"
+        },
+        "b5848b617214c2ac": {
+            "hash": "b5848b617214c2ac",
+            "directory": "External22",
+            "voiceContent": "時間があるとき、独りで森に入って昆虫を観察することがある。昆虫たちのやり合いはなかなか興味深いものだ。捕食、競争、協力が絶えず繰り広げられる中で、一見強そうに見える個体が最後まで生き残るとは限らない。ちょっとした油断により命を落とすからだ。そんな場面に立ち会えたときは、死に際に藻掻く様子をじっくりと脳裏に刻んでおく。敗者たちの結末を胸に焼き付けてきたのと同じようにね",
+            "sourceName": "vo_arlecchino_pref_hobby.wem"
+        },
+        "b66b7b84b866ca01": {
+            "hash": "b66b7b84b866ca01",
+            "directory": "External22",
+            "voiceContent": "貫こう",
+            "sourceName": "vo_arlecchino_battle_skill1_01.wem"
+        },
+        "b8bffd54d86eb44c": {
+            "hash": "b8bffd54d86eb44c",
+            "directory": "External23",
+            "voiceContent": "続きといこう",
+            "sourceName": "vo_arlecchino_battle_hit_H_02.wem"
+        },
+        "b9e9e96682f0b26e": {
+            "hash": "b9e9e96682f0b26e",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_h_04.wem"
+        },
+        "c560fbb473ee70ab": {
+            "hash": "c560fbb473ee70ab",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_sprint_start_01.wem"
+        },
+        "c681260296141e9d": {
+            "hash": "c681260296141e9d",
+            "directory": "External24",
+            "voiceContent": "月のように永遠なれ",
+            "sourceName": "vo_arlecchino_battle_skill3_03.wem"
+        },
+        "c83268dd9ede2b57": {
+            "hash": "c83268dd9ede2b57",
+            "directory": "External25",
+            "voiceContent": "以前、「バンビ」という名の蜘蛛を飼っていた。なかなか興味深かったよ。猫や犬のようなペットと違って、蜘蛛は飼い主に懐くこともなければ、恩を返すこともない。だから、飼い主との感情が深まることもない。私にとってはちょうどいい関係だった",
+            "sourceName": "vo_arlecchino_pref_gift_02.wem"
+        },
+        "cbfb53d96ad68d69": {
+            "hash": "cbfb53d96ad68d69",
+            "directory": "External25",
+            "voiceContent": "彼女は変わった執行官だ。彼女に質問を投げかけて、「予想通りの答え」が返ってくることはまずない。まず、「答え」になっているかどうかさえ…しかし、それが「面白い答え」であることは間違いないだろう",
+            "sourceName": "vo_arlecchino_teammate_damselette_01.wem"
+        },
+        "cdcd5c64191007c4": {
+            "hash": "cdcd5c64191007c4",
+            "directory": "External25",
+            "voiceContent": "お昼頃に家へ帰ると、子供たちはたいてい、床に横になってざこ寝をしている。確かに眠くなりやすい時間帯だ。君も少し休んでいってはどうだ",
+            "sourceName": "vo_arlecchino_dialog_greetingNoon.wem"
+        },
+        "cdef6df516b67630": {
+            "hash": "cdef6df516b67630",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackmid_02.wem"
+        },
+        "cf5994c98c1b9b8a": {
+            "hash": "cf5994c98c1b9b8a",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_04.wem"
+        },
+        "d5b50e8949e386a9": {
+            "hash": "d5b50e8949e386a9",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_03.wem"
+        },
+        "d97050ee192d7dd0": {
+            "hash": "d97050ee192d7dd0",
+            "directory": "External27",
+            "voiceContent": "そのように私の瞳をじっと見つめるのはやめたほうがいい。何を見てしまうとも…限らないからね",
+            "sourceName": "vo_arlecchino_character_idle_01.wem"
+        },
+        "da611c9aa86fed46": {
+            "hash": "da611c9aa86fed46",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_06.wem"
+        },
+        "db1417910c05c648": {
+            "hash": "db1417910c05c648",
+            "directory": "External27",
+            "voiceContent": "劇団員たちへの差し入れとして、リネにケーキを届けさせた。ケーキは子供たちの手作りなのだが、「大ファン」からの贈り物ということにしてある。彼女が気に入ってくれるといいのだが",
+            "sourceName": "vo_arlecchino_teammate_furina_01.wem"
+        },
+        "dca62045b6a480fa": {
+            "hash": "dca62045b6a480fa",
+            "directory": "External27",
+            "voiceContent": "悪くない。子供たちは好きかもしれないね",
+            "sourceName": "vo_arlecchino_spice_normal_01.wem"
+        },
+        "ddde8cd9ddd8ba4c": {
+            "hash": "ddde8cd9ddd8ba4c",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_fly_start_01.wem"
+        },
+        "e19ccc0172decf56": {
+            "hash": "e19ccc0172decf56",
+            "directory": "External28",
+            "voiceContent": "壁炉の家を引き継いだ当初から、彼は様々な協力関係を提案してきていた。「淘汰される子供」を実験に使わせてくれれば、その実験の成果を享受させてやる…とね。先代「召使」との協力関係は相当愉快なものだったらしい。同じ執行官という立場でさえなければ、先代「召使」のところに送ってやりたいものだ",
+            "sourceName": "vo_arlecchino_teammate_dottore_01.wem"
+        },
+        "e779ed1412874153": {
+            "hash": "e779ed1412874153",
+            "directory": "External28",
+            "voiceContent": "メモを見たが——今日は君の誕生日だね？誕生日は賑やかなほうがいいだろう。どんな人にも、忙しさから抜け出す理由は必要だ。自分の…或いは他人の祝い事というのは、理由の一つになるだろう？壁炉の家でちょっとしたパーティーを用意した。子供たちが待っているから、ぜひ来てくれたまえ",
+            "sourceName": "vo_arlecchino_pref_birthday_01.wem"
+        },
+        "e9f198dbd7380efc": {
+            "hash": "e9f198dbd7380efc",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_06.wem"
+        },
+        "ea7beb80e4c30743": {
+            "hash": "ea7beb80e4c30743",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_jump_02.wem"
+        },
+        "ea9442783d1a952f": {
+            "hash": "ea9442783d1a952f",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_01.wem"
         },
         "edf3c3d2c236bcaf": {
             "hash": "edf3c3d2c236bcaf",
             "directory": "External29",
-            "voiceContent": "長い間、私は何かを願ったことなどなかった…「クルセビナを暗殺する」という考えが浮かぶまでは。だが、当時はばかばかしいとしか思えなかった。相手は名の知れた執行官…しかも、私の身に着けた殆どの武術は、他ならぬ彼女から学んだものだったのだから。しかしどうやら、強く願う者の元に神の目は訪れるらしい。私は神の目を授かり、然るべき代価を払って、その力を使いこなせるようになった。弟子が師匠を破るには、少々意表をついた手段を取る必要があるということだね。",
+            "voiceContent": "長い間、私は何かを願ったことなどなかった…「クルセビナを暗殺する」という考えが浮かぶまでは。だが、当時はばかばかしいとしか思えなかった。相手は名の知れた執行官…しかも、私の身に着けた殆どの武術は、他ならぬ彼女から学んだものだったのだから。しかしどうやら、強く願う者の元に神の目は訪れるらしい。私は神の目を授かり、然るべき代価を払って、その力を使いこなせるようになった。弟子が師匠を破るには、少々意表をついた手段を取る必要があるということだね",
             "sourceName": "vo_arlecchino_dialog_pendant_01.wem"
+        },
+        "ef5788c8ce2c401a": {
+            "hash": "ef5788c8ce2c401a",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_fly_start_03.wem"
+        },
+        "f09912f33c4df041": {
+            "hash": "f09912f33c4df041",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_03.wem"
+        },
+        "f1a0cc37962822ea": {
+            "hash": "f1a0cc37962822ea",
+            "directory": "External30",
+            "voiceContent": "手に入れた力によって、彼はそれ相応の大きな責任を背負うことになった。だが、たとえその力がなかったとしても、私にとって彼は尊敬に値する人だ",
+            "sourceName": "vo_arlecchino_teammate_capitano_01.wem"
+        },
+        "f20b1151da8bbec0": {
+            "hash": "f20b1151da8bbec0",
+            "directory": "External30",
+            "voiceContent": "子供たちの歌声が…聞こえる",
+            "sourceName": "vo_arlecchino_life_die_02.wem"
+        },
+        "f2346b0e7687cee0": {
+            "hash": "f2346b0e7687cee0",
+            "directory": "External30",
+            "voiceContent": "正直、彼は執行官に向いていないと思う。いつも他人の意図を善意として解釈し、人に利用されることもしばしばだ…無論、天賦の才に恵まれているということは確かだし、今なお成長し続けてもいる。彼に対する評価を急ぐ必要はないだろう",
+            "sourceName": "vo_arlecchino_teammate_tartaglia_01.wem"
+        },
+        "f4fa30acf38e2e68": {
+            "hash": "f4fa30acf38e2e68",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_04.wem"
+        },
+        "f83034fe6e28c986": {
+            "hash": "f83034fe6e28c986",
+            "directory": "External31",
+            "voiceContent": "有意義な協力関係を築こう",
+            "sourceName": "vo_arlecchino_teamJoin_03.wem"
+        },
+        "f9e3160abd0b5192": {
+            "hash": "f9e3160abd0b5192",
+            "directory": "External31",
+            "voiceContent": "こんな話を聞いたことがある——月はまるで人間界を見下ろす目のようだが、人々はその視線に慣れ過ぎてしまった",
+            "sourceName": "vo_arlecchino_dialog_greetingNight.wem"
         }
     }
 }

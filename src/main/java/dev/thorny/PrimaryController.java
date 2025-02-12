@@ -520,7 +520,13 @@ public class PrimaryController implements Initializable {
 
             addTextToFlow("Converting wavs to wem...");
             // Convert all selected files to wems
-            WWiseHandler.convertToWEM();
+            if (!WWiseHandler.convertToWEM()) {
+                Platform.runLater(() -> {
+                    onExitEarly();
+                });
+                return;
+            }
+
             addTextToFlow("Finished converting wavs to wem.");
 
             App.getUser().getModifiedSounds().putAll(convertedWemFiles);

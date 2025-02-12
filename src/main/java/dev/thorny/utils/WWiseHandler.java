@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 
 import dev.thorny.App;
+import javafx.application.Platform;
 
 public class WWiseHandler {
     /**
@@ -12,8 +13,10 @@ public class WWiseHandler {
      * the path [root]/wems to wem format.
      * No renaming is done, so files require further processing
      * to be used as intended.
+     * 
+     * @returns True if successful, false otherwise
      */
-    public static void convertToWEM() {
+    public static boolean convertToWEM() {
         // Get the root and replace slashes
         final var ROOT_DIR = FileIO.getRootDir().replace("\\", "/");
 
@@ -29,10 +32,14 @@ public class WWiseHandler {
                 "\"" + ROOT_DIR + "/wems/list.wsources\"",
                 "--output",
                 "\"" + ROOT_DIR + "/wems/\"")
-                .start().waitFor();
-        } catch (final IOException | InterruptedException e) {
-            App.displayError("Error 5003: Failed to convert file with WWise. " + e.getMessage() + " " + e.getCause());
+                .inheritIO().start().waitFor();
+        } catch (Exception e) {
+            Platform.runLater(() -> {
+                App.displayError("Error 5003: Failed to convert file with WWise. " + e.getMessage() + " " + e.getCause());
+            });
+            return false;
         }
+        return true;
     }
 
     // Returns whether or not the WWise folder exists
@@ -40,7 +47,10 @@ public class WWiseHandler {
         try {
             return new File("./resources/WWIse/Authoring/x64/Release/bin/WwiseConsole.exe").isFile();
         } catch (Exception e) {
-            App.displayError("Security exception in getting checking wwise install \n\n " + e.getMessage() + "  " + e.getCause());
+            Platform.runLater(() -> {
+                App.displayError("Security exception in getting checking wwise install \n\n " + e.getMessage() + "  " + e.getCause());
+            });
+
             return false;
         }
     }
@@ -77,7 +87,10 @@ public class WWiseHandler {
             }
             Files.writeString(wsources.toPath(), stringContent.toString());
         } catch (IOException e) {
-            App.displayError("Error 5002: Failed to write to list.wsources file.");
+            Platform.runLater(() -> {
+                App.displayError("Error 5002: Failed to write to list.wsources file.");
+            });
+
             return;
         }
     }

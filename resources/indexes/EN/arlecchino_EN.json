@@ -2,443 +2,701 @@
     "Teapot": {},
     "Quests": {},
     "Gameplay": {
-        "db99c6ba4e47dbfb": {
-            "hash": "db99c6ba4e47dbfb",
-            "directory": "External27",
-            "voiceContent": "Transfixed.",
-            "sourceName": "vo_arlecchino_battle_skill1_01.wem"
-        },
-        "0612f8d1c7fd0d04": {
-            "hash": "0612f8d1c7fd0d04",
+        "033ef2d857c9270b": {
+            "hash": "033ef2d857c9270b",
             "directory": "External0",
-            "voiceContent": "Overruled.",
-            "sourceName": "vo_arlecchino_battle_skill1_02.wem"
-        },
-        "8b6c32c987adac95": {
-            "hash": "8b6c32c987adac95",
-            "directory": "External17",
-            "voiceContent": "Laid bare.",
-            "sourceName": "vo_arlecchino_battle_skill1_03.wem"
-        },
-        "c8c5dd9787a8c739": {
-            "hash": "c8c5dd9787a8c739",
-            "directory": "External25",
-            "voiceContent": "This is where you fall.",
-            "sourceName": "vo_arlecchino_battle_skill3_01.wem"
-        },
-        "5881af8ebb5c81d6": {
-            "hash": "5881af8ebb5c81d6",
-            "directory": "External11",
-            "voiceContent": "Witness my rise.",
-            "sourceName": "vo_arlecchino_battle_skill3_02.wem"
-        },
-        "06511187b36e58bf": {
-            "hash": "06511187b36e58bf",
-            "directory": "External0",
-            "voiceContent": "Everlasting as the moon.",
-            "sourceName": "vo_arlecchino_battle_skill3_03.wem"
-        },
-        "62907f8b052e81f0": {
-            "hash": "62907f8b052e81f0",
-            "directory": "External12",
-            "voiceContent": "What greater pleasure is there than the unexpected?",
-            "sourceName": "vo_arlecchino_chest_open_01.wem"
-        },
-        "e323ed71174ca157": {
-            "hash": "e323ed71174ca157",
-            "directory": "External28",
-            "voiceContent": "An impressive bounty.",
-            "sourceName": "vo_arlecchino_chest_open_02.wem"
-        },
-        "61668b795aac764e": {
-            "hash": "61668b795aac764e",
-            "directory": "External12",
-            "voiceContent": "Ah, something with which to commemorate this occasion.",
-            "sourceName": "vo_arlecchino_chest_open_03.wem"
-        },
-        "d9191aaa6cf590d8": {
-            "hash": "d9191aaa6cf590d8",
-            "directory": "External27",
-            "voiceContent": "Step back.",
-            "sourceName": "vo_arlecchino_life_less30_teammate_01.wem"
-        },
-        "43a3288fe15a375f": {
-            "hash": "43a3288fe15a375f",
-            "directory": "External8",
-            "voiceContent": "New strategy.",
-            "sourceName": "vo_arlecchino_life_less30_teammate_02.wem"
-        },
-        "4a19f3384916a9dd": {
-            "hash": "4a19f3384916a9dd",
-            "directory": "External9",
-            "voiceContent": "The hearth is now... extinguished...",
-            "sourceName": "vo_arlecchino_life_die_01.wem"
-        },
-        "f015d5301ab297da": {
-            "hash": "f015d5301ab297da",
-            "directory": "External30",
-            "voiceContent": "I hear... the children singing...",
-            "sourceName": "vo_arlecchino_life_die_02.wem"
-        },
-        "16d629b4f03f81e2": {
-            "hash": "16d629b4f03f81e2",
-            "directory": "External2",
-            "voiceContent": "No need to fret. I shall handle this.",
-            "sourceName": "vo_arlecchino_teamJoin_01.wem"
-        },
-        "714847bd1f021805": {
-            "hash": "714847bd1f021805",
-            "directory": "External14",
-            "voiceContent": "An insurmountable problem, I presume?",
-            "sourceName": "vo_arlecchino_teamJoin_02.wem"
-        },
-        "18000dc69ac171b4": {
-            "hash": "18000dc69ac171b4",
-            "directory": "External3",
-            "voiceContent": "This will be a productive partnership, I hope.",
-            "sourceName": "vo_arlecchino_teamJoin_03.wem"
-        },
-        "732e24a18e711d46": {
-            "hash": "732e24a18e711d46",
-            "directory": "External14",
-            "voiceContent": "Staring into my eyes is ill-advised. I can't promise you'll like what you see...",
-            "sourceName": "vo_arlecchino_character_idle_01.wem"
-        },
-        "e37252aa5abd62a9": {
-            "hash": "e37252aa5abd62a9",
-            "directory": "External28",
-            "voiceContent": "What could the children be up to... Hmm. Never mind. Let them do as they please.",
-            "sourceName": "vo_arlecchino_character_idle_02.wem"
-        },
-        "8dc738b3d98f5e68": {
-            "hash": "8dc738b3d98f5e68",
-            "directory": "External17",
-            "voiceContent": "Something you wish to report? Go on. You have my undivided attention.",
-            "sourceName": "vo_arlecchino_character_idle_03.wem"
-        },
-        "2f67e405abc3ce43": {
-            "hash": "2f67e405abc3ce43",
-            "directory": "External5",
-            "voiceContent": "Fear not. What's a little thunder when even lightning wouldn't dare strike our path.",
-            "sourceName": "vo_arlecchino_weather_thunder_01.wem"
-        },
-        "eb45f53118f6b227": {
-            "hash": "eb45f53118f6b227",
-            "directory": "External29",
-            "voiceContent": "Only in the grip of winter do people truly appreciate the warmth of flames.",
-            "sourceName": "vo_arlecchino_weather_snowy_01.wem"
-        },
-        "a31fb8af6a69b232": {
-            "hash": "a31fb8af6a69b232",
-            "directory": "External20",
-            "voiceContent": "This kind of weather is more enjoyably spent under the cover of shade.",
-            "sourceName": "vo_arlecchino_weather_sunny_01.wem"
-        },
-        "3698861d0139f486": {
-            "hash": "3698861d0139f486",
-            "directory": "External6",
-            "voiceContent": "I would advise you to keep your secrets close to your chest. Divulge them too easily, and you never know where the wind might carry them.",
-            "sourceName": "vo_arlecchino_weather_gale_01.wem"
-        },
-        "e63f516dfe82094a": {
-            "hash": "e63f516dfe82094a",
-            "directory": "External28",
-            "voiceContent": "Good morning. Any plans for today?",
-            "sourceName": "vo_arlecchino_dialog_greetingMorning.wem"
-        },
-        "0c48306a45c28626": {
-            "hash": "0c48306a45c28626",
-            "directory": "External1",
-            "voiceContent": "Whenever I return home at midday, I often find the children sprawled across the ground in the midst of sleep. A certain level of fatigue is common at this hour. Perhaps you, too, should rest a bit before we head out.",
-            "sourceName": "vo_arlecchino_dialog_greetingNoon.wem"
-        },
-        "fcdcf0bb00845bf0": {
-            "hash": "fcdcf0bb00845bf0",
-            "directory": "External31",
-            "voiceContent": "It is said that the moon is like an eye gazing down upon the mortal plane. We have merely grown accustomed to its scrutiny.",
-            "sourceName": "vo_arlecchino_dialog_greetingNight.wem"
-        },
-        "b6cd7bab52c9f970": {
-            "hash": "b6cd7bab52c9f970",
-            "directory": "External22",
-            "voiceContent": "Time to retire for the night. Oh? Can't sleep, you say? Well, I'm afraid you'll have to figure something out for yourself. I have a certain suspicion my solution won't be to your liking.",
-            "sourceName": "vo_arlecchino_dialog_greetingNight2.wem"
-        },
-        "aaa2df28db460447": {
-            "hash": "aaa2df28db460447",
-            "directory": "External21",
-            "voiceContent": "Seeing yourself clearly is a difficult task indeed, perhaps even a thankless one. After all, they say those who lack adequate powers of self-perception often lead a happier existence.",
-            "sourceName": "vo_arlecchino_dialog_idle.wem"
-        },
-        "f06cbcd275718469": {
-            "hash": "f06cbcd275718469",
-            "directory": "External30",
-            "voiceContent": "On occasion, I hear others whisper in secret, calling me cold and cruel. People are free to believe as they wish, and I don't intend to clear up their misconceptions. Prejudice has a way of concealing the truth, and that is hardly to my disadvantage. Still, I believe the time has come for certain measures to be taken to live up to their expectations... Let's just hope those on the receiving end of these measures have enough power and status to escape with their lives.",
-            "sourceName": "vo_arlecchino_dialog_idle2.wem"
-        },
-        "7ba81d1eec07b090": {
-            "hash": "7ba81d1eec07b090",
-            "directory": "External15",
-            "voiceContent": "The children simply adore your stories. They often ask me when you're coming around again. I do hope you won't let them down. Betraying their expectations comes with a price... Perhaps that's something worth your consideration.",
-            "sourceName": "vo_arlecchino_dialog_close1.wem"
-        },
-        "3f904b97518bee1d": {
-            "hash": "3f904b97518bee1d",
-            "directory": "External7",
-            "voiceContent": "Our ideals are not entirely aligned. If we are to work together, we must be willing to compromise. To that end, I'm willing to share certain secrets with you. Information that I choose not to reveal, however, is best left unexplored... for your own good, of course.",
-            "sourceName": "vo_arlecchino_dialog_close.wem"
-        },
-        "a3b79b4f101079f8": {
-            "hash": "a3b79b4f101079f8",
-            "directory": "External20",
-            "voiceContent": "Flames course through my body like blood... This may be nothing but a figure of speech to some. But for me, it's the harsh reality of my existence.",
-            "sourceName": "vo_arlecchino_dialog_share_01.wem"
-        },
-        "134b861e4ce43d1a": {
-            "hash": "134b861e4ce43d1a",
-            "directory": "External2",
-            "voiceContent": "The aurora in Snezhnaya is quite beautiful. Certainly worth a visit.",
-            "sourceName": "vo_arlecchino_pref_gift_01.wem"
-        },
-        "c4a13bfffa27f306": {
-            "hash": "c4a13bfffa27f306",
-            "directory": "External24",
-            "voiceContent": "Clervie once asked me what a real home looks like, but I had no answer for her. How could any of us know the answer when the House of the Hearth is made up entirely of people who never had a place to call home.By killing Crucabena, I was able to assume the identity of Father and rebuild the House under a new set of rules. Still, I'm well aware that, even with these efforts, the House is far from that ideal. As for what a real home truly looks like, I suppose that question is best put to the side for now... Perhaps one day, Lyney will be able to give me a new answer.",
-            "sourceName": "vo_arlecchino_teammate_lyney_01.wem"
-        },
-        "3bdd3cee2d1d362a": {
-            "hash": "3bdd3cee2d1d362a",
-            "directory": "External7",
-            "voiceContent": "Lynette's uniquely calm personality is also her strength, and I believe she is more than clever enough to recognize that. She is an irreplaceable part of that little team of three, and I would imagine that role brings her much joy. As her Father, my duty is merely to give her the space to put those talents to good use.",
-            "sourceName": "vo_arlecchino_teammate_lynette_01.wem"
-        },
-        "c9bc2b371db7ed93": {
-            "hash": "c9bc2b371db7ed93",
-            "directory": "External25",
-            "voiceContent": "Freminet has a complex mind and often hides his emotions. He blames himself for things that aren't his doing and allows them to eat away at his conscience. I would imagine the other children might find it difficult to understand his manner of thinking, but you seem to share a similar delicate sensibility — perhaps you two would make good friends.",
-            "sourceName": "vo_arlecchino_teammate_freminet_01.wem"
-        },
-        "7b5be921cbcfd542": {
-            "hash": "7b5be921cbcfd542",
-            "directory": "External15",
-            "voiceContent": "As the original Harbinger, much about him remains a mystery. Upon our first meeting, he recognized my background with ease, yet to this day, I know little about him.",
-            "sourceName": "vo_arlecchino_teammate_jester_01.wem"
-        },
-        "55ecad4cc12b74d8": {
-            "hash": "55ecad4cc12b74d8",
-            "directory": "External10",
-            "voiceContent": "He is very powerful, and that power comes with a high level of responsibility. However, I believe him to be someone worthy of respect independent of the power he holds.",
-            "sourceName": "vo_arlecchino_teammate_capitano_01.wem"
-        },
-        "f0561594140d4e50": {
-            "hash": "f0561594140d4e50",
-            "directory": "External30",
-            "voiceContent": "When I first took over the House of the Hearth, he proposed a number of plans for us to work together. He wanted me to send any rejects to him. He planned to experiment on them and then share the results with me. I heard that he and the previous Knave had quite the professional rapport in that regard. All I can say is that, if he weren't one of my fellow Harbingers, I would have expedited their happy, little reunion long ago.",
-            "sourceName": "vo_arlecchino_teammate_dottore_01.wem"
-        },
-        "77f8ac5ec1567380": {
-            "hash": "77f8ac5ec1567380",
-            "directory": "External14",
-            "voiceContent": "Monsieur Neuvillette intentionally maintains a certain distance in professional and private settings. Many say this makes him cold and unfeeling, but I believe the truth is just the opposite. In order for all beings to be treated equally under the law, a certain level of emotional distance is expected. Maintaining that kind of indifference is, in itself, a demonstration of kindness.",
-            "sourceName": "vo_arlecchino_teammate_neuvillette_01.wem"
-        },
-        "4b54bdc6d1b3f566": {
-            "hash": "4b54bdc6d1b3f566",
-            "directory": "External9",
-            "voiceContent": "I asked Lyney to deliver an assortment of cakes for her theater troupe to enjoy during teatime. The children made the cakes themselves as a gesture to express the support and enthusiasm of her audience. I do hope she enjoys them.",
-            "sourceName": "vo_arlecchino_teammate_furina_01.wem"
-        },
-        "d661e00788809b7c": {
-            "hash": "d661e00788809b7c",
-            "directory": "External26",
-            "voiceContent": "When I was imprisoned, it was the Tsaritsa who pardoned me and gave me the title of Harbinger. I could sense she was a person of true sincerity and compassion, unlike all those pompous hypocrites with their posturing and rhetoric. Yet... It's difficult to say whether her compassion alone is enough to melt the ice and snow that permeates her land. All I can say is this... If we are forced to be at odds one day, I will raise my weapon against her without hesitation, because that is the greatest level of respect I am able to bestow.",
-            "sourceName": "vo_arlecchino_teammate_tsaritsa_01.wem"
-        },
-        "c82e403112506efa": {
-            "hash": "c82e403112506efa",
-            "directory": "External25",
-            "voiceContent": "You wish to know more about me? Why, of course. Our relationship is one of mutual trust. There's little need to keep things hidden... I would only inquire as to whether you're truly prepared for what you might learn. Secrets can be sharper than a knife. Innocent curiosity can lead to dangerous places.",
-            "sourceName": "vo_arlecchino_friendship_01.wem"
-        },
-        "22335e3940b633fd": {
-            "hash": "22335e3940b633fd",
-            "directory": "External4",
-            "voiceContent": "The moment you wield a blade, you realize that different lives carry different weights. Some people have an air of renown and distinction, yet grovel and plead for their lives when faced with death — their outward demeanor nothing more than a hollow facade. Others appear unremarkable, yet carry a heavy burden within. Despite the factors that differentiate us in life... death awaits us all — the great and final equalizer. Cruel, you say? I merely state the truth.",
-            "sourceName": "vo_arlecchino_friendship_02.wem"
-        },
-        "b34f44421f19bf2c": {
-            "hash": "b34f44421f19bf2c",
-            "directory": "External22",
-            "voiceContent": "My Snezheviches and Snezhevnas... those with the courage to walk through shadow even when the world gets dark, and the conviction to embrace the heat even at the risk of getting burned... I will do my utmost to teach them how to navigate life. The House of the Hearth begs favors from no one — like a spider, we hunt for what we want.",
-            "sourceName": "vo_arlecchino_friendship_03.wem"
-        },
-        "e4df1249151fbbd7": {
-            "hash": "e4df1249151fbbd7",
-            "directory": "External28",
-            "voiceContent": "No one has the power to choose where they come from, but we all have the right to fight for the life we want. In this sense, the world is both unfair and just in equal measure. I don't take in children out of a desire for recompense. In fact, should they so wish, the children are free to leave and pursue a life outside my organization... so long as they're willing to pay the price.",
-            "sourceName": "vo_arlecchino_friendship_04.wem"
-        },
-        "6321b051587f90ce": {
-            "hash": "6321b051587f90ce",
-            "directory": "External12",
-            "voiceContent": "Fate can be a peculiar thing. When I was young, Mother favored me due to the unusual set of abilities I possess. No one was able to discern their true nature, not even me. We could only speculate that they were the result of some sort of hereditary curse. Whatever the origin of my power, all I knew was that it was the source of my strength, and often the impetus for my suffering. It was only after I became a Harbinger that I finally learned the truth from The Jester. He expressed surprise that the Crimson Moon bloodline had not gone extinct, and that, in a strange twist of fate, the House of the Hearth had ended up in the hands of an orphan of that lineage once again.I cannot say what the future holds. I trust fate will give me an answer in time, and when it does, I'm prepared to do things my way, even if that means striking down fate with my own two hands.",
-            "sourceName": "vo_arlecchino_friendship_05.wem"
-        },
-        "99cc68cd29a9d1b6": {
-            "hash": "99cc68cd29a9d1b6",
-            "directory": "External19",
-            "voiceContent": "In my free time, I enjoy observing insects in the forest. The dynamics between them are fascinating — the way they hunt for food, compete with each other, even cooperate... Those that seem formidable aren't always the ones that make it until the end, and a single error can prove fatal. I observe their struggle as they near death, and slowly commit the image of their suffering to memory, much like I do for those that fall by my own hand.",
-            "sourceName": "vo_arlecchino_pref_hobby.wem"
-        },
-        "9e5d7a7b34b6b869": {
-            "hash": "9e5d7a7b34b6b869",
-            "directory": "External19",
-            "voiceContent": "On occasion, we hold barbecue dinners at the House, and the children prepare the ingredients themselves. They enjoy participating in activities like that, and the feeling is mutual. After all, it's always possible certain familiar faces will be missing from the crowd the next time a similar event rolls around.",
-            "sourceName": "vo_arlecchino_pref_foodLike.wem"
-        },
-        "1c011c1ef303870b": {
-            "hash": "1c011c1ef303870b",
-            "directory": "External3",
-            "voiceContent": "I dislike complex seasonings. They dull one's sense of smell and taste. Allowing the ingredients to maintain their original flavor is also a way to respect their integrity.",
-            "sourceName": "vo_arlecchino_pref_foodDislike.wem"
-        },
-        "e8a85c9d0f77fa86": {
-            "hash": "e8a85c9d0f77fa86",
-            "directory": "External29",
-            "voiceContent": "An impressive showing of culinary expertise. Perhaps you'd be interested in teaching a cooking class at the House of the Hearth?",
-            "sourceName": "vo_arlecchino_spice_pref_01.wem"
-        },
-        "1f4f910d1ac9b70c": {
-            "hash": "1f4f910d1ac9b70c",
-            "directory": "External3",
-            "voiceContent": "The taste is palatable. Perhaps the children will enjoy it.",
-            "sourceName": "vo_arlecchino_spice_normal_01.wem"
-        },
-        "cc9513c2c2cf86e0": {
-            "hash": "cc9513c2c2cf86e0",
-            "directory": "External25",
-            "voiceContent": "The intent is appreciated, but there is much room for improvement.",
-            "sourceName": "vo_arlecchino_spice_dislike_01.wem"
-        },
-        "385a2e1ad87e8415": {
-            "hash": "385a2e1ad87e8415",
-            "directory": "External7",
-            "voiceContent": "This memo states that today is your birthday. Is that true? Birthdays should be lively occasions. It's always nice to have an excuse to set formal matters aside every now and then, whether it's for the purpose of celebrating yourself or others. Come. I've prepared a feast for you at the House of the Hearth. Let's not keep the children waiting.",
-            "sourceName": "vo_arlecchino_pref_birthday_01.wem"
+            "voiceContent": "Some call me excessively strict. In truth, it is an approach I extend even to myself",
+            "sourceName": "vo_arlecchino_starUp_03.wem"
         },
         "04691eea024b9265": {
             "hash": "04691eea024b9265",
             "directory": "External0",
-            "voiceContent": "Always keep moving forward. Never let yourself be constrained by power.",
+            "voiceContent": "Always keep moving forward. Never let yourself be constrained by power",
             "sourceName": "vo_arlecchino_starUp_01.wem"
         },
-        "a9f700e1d388fb42": {
-            "hash": "a9f700e1d388fb42",
-            "directory": "External21",
-            "voiceContent": "Anger makes you impulsive, and sorrow causes you to waver. Always maintain control over your emotions.",
-            "sourceName": "vo_arlecchino_starUp_02.wem"
-        },
-        "033ef2d857c9270b": {
-            "hash": "033ef2d857c9270b",
+        "0612f8d1c7fd0d04": {
+            "hash": "0612f8d1c7fd0d04",
             "directory": "External0",
-            "voiceContent": "Some call me excessively strict. In truth, it is an approach I extend even to myself.",
-            "sourceName": "vo_arlecchino_starUp_03.wem"
+            "voiceContent": "Overruled",
+            "sourceName": "vo_arlecchino_battle_skill1_02.wem"
         },
-        "46146513c43a28d8": {
-            "hash": "46146513c43a28d8",
-            "directory": "External8",
-            "voiceContent": "I've learned much from you during this time, and I trust the sentiment is mutual. In fact, I believe maintaining this cordial relationship might prove advantageous for us both... Who knows what thorny issues the future holds. I imagine there may yet be many an occasion for us to join hands.",
-            "sourceName": "vo_arlecchino_starUp_04.wem"
+        "06511187b36e58bf": {
+            "hash": "06511187b36e58bf",
+            "directory": "External0",
+            "voiceContent": "Everlasting as the moon",
+            "sourceName": "vo_arlecchino_battle_skill3_03.wem"
         },
-        "4e5cad2347b91fe1": {
-            "hash": "4e5cad2347b91fe1",
-            "directory": "External9",
-            "voiceContent": "Commendable.",
-            "sourceName": "vo_arlecchino_life_less30_01.wem"
+        "073d107f2c92ab44": {
+            "hash": "073d107f2c92ab44",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_06.wem"
         },
-        "f4219f1b1925e63e": {
-            "hash": "f4219f1b1925e63e",
-            "directory": "External30",
-            "voiceContent": "My turn.",
-            "sourceName": "vo_arlecchino_life_less30_02.wem"
+        "0c48306a45c28626": {
+            "hash": "0c48306a45c28626",
+            "directory": "External1",
+            "voiceContent": "Whenever I return home at midday, I often find the children sprawled across the ground in the midst of sleep. A certain level of fatigue is common at this hour. Perhaps you, too, should rest a bit before we head out",
+            "sourceName": "vo_arlecchino_dialog_greetingNoon.wem"
         },
-        "49ccc1119a53f8c7": {
-            "hash": "49ccc1119a53f8c7",
-            "directory": "External9",
-            "voiceContent": "Wanted my full attention, did you?",
-            "sourceName": "vo_arlecchino_life_less30_03.wem"
+        "0d40e12820bf8f3a": {
+            "hash": "0d40e12820bf8f3a",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_06.wem"
         },
-        "9dae87291295b423": {
-            "hash": "9dae87291295b423",
-            "directory": "External19",
-            "voiceContent": "This shall not be my fate...",
-            "sourceName": "vo_arlecchino_life_die_03.wem"
+        "134b861e4ce43d1a": {
+            "hash": "134b861e4ce43d1a",
+            "directory": "External2",
+            "voiceContent": "The aurora in Snezhnaya is quite beautiful. Certainly worth a visit",
+            "sourceName": "vo_arlecchino_pref_gift_01.wem"
         },
-        "d42de8bb8a484bb5": {
-            "hash": "d42de8bb8a484bb5",
-            "directory": "External26",
-            "voiceContent": "Pitiful.",
-            "sourceName": "vo_arlecchino_battle_hit_H_01.wem"
-        },
-        "51108ab222f87852": {
-            "hash": "51108ab222f87852",
-            "directory": "External10",
-            "voiceContent": "Go on.",
-            "sourceName": "vo_arlecchino_battle_hit_H_02.wem"
-        },
-        "3dcd1224a12647a7": {
-            "hash": "3dcd1224a12647a7",
-            "directory": "External7",
-            "voiceContent": "She is a very special Harbinger. Pose her a question, and the answer you receive will be entirely unpredictable, if she sees fit to give a proper answer at all. Regardless, any answer you do receive is sure to be an interesting one.",
-            "sourceName": "vo_arlecchino_teammate_damselette_01.wem"
-        },
-        "375fb065e073c5d7": {
-            "hash": "375fb065e073c5d7",
-            "directory": "External6",
-            "voiceContent": "I have little interest in her. She is extremely... passionate about her research and does not appear in public often. In fact, many of our officers have yet to see her at all. Compared to, let's say, someone who would go so far as to create segments of themselves to better wander across the land, I suppose you could say she is at the other end of the extreme.",
-            "sourceName": "vo_arlecchino_teammate_marionette_01.wem"
+        "16d629b4f03f81e2": {
+            "hash": "16d629b4f03f81e2",
+            "directory": "External2",
+            "voiceContent": "No need to fret. I shall handle this",
+            "sourceName": "vo_arlecchino_teamJoin_01.wem"
         },
         "17d1effcc944c787": {
             "hash": "17d1effcc944c787",
             "directory": "External2",
-            "voiceContent": "I won't deny that he is a capable and imaginative individual, but he lacks clarity. He can formulate grand plans and manipulate the economy with ease, yet at the same time, he allows his actions to be governed by the vengeance and hatred locked in the depths of his heart. Rational people often believe themselves capable of controlling their emotions, but I believe that confidence is their greatest weakness.",
+            "voiceContent": "I won't deny that he is a capable and imaginative individual, but he lacks clarity. He can formulate grand plans and manipulate the economy with ease, yet at the same time, he allows his actions to be governed by the vengeance and hatred locked in the depths of his heart. Rational people often believe themselves capable of controlling their emotions, but I believe that confidence is their greatest weakness",
             "sourceName": "vo_arlecchino_teammate_pantalone_01.wem"
         },
-        "e45348c7d5efc6dc": {
-            "hash": "e45348c7d5efc6dc",
-            "directory": "External28",
-            "voiceContent": "She and Pierro were the first Harbingers I became acquainted with. Her prideful attitude when she first visited the House of the Hearth failed to earn her many friends among the children. Subsequent visits were accompanied by gifts and the stately claim that those who dislike me shall receive none. The children quickly learned how to play pretend, and she in turn basked in their attention, superficial though it may have been. I imagine she quite enjoyed being surrounded by children, perhaps due to the persistent loneliness that plagued her... I found her sacrifice to be a great shame. May she be reunited with her lover in death.",
-            "sourceName": "vo_arlecchino_teammate_signora_01.wem"
+        "18000dc69ac171b4": {
+            "hash": "18000dc69ac171b4",
+            "directory": "External3",
+            "voiceContent": "This will be a productive partnership, I hope",
+            "sourceName": "vo_arlecchino_teamJoin_03.wem"
         },
-        "70b6a4267e2d2b1d": {
-            "hash": "70b6a4267e2d2b1d",
-            "directory": "External14",
-            "voiceContent": "I once had a pet spider named Bambi. Raising spiders is quite fascinating. They cannot be domesticated like cats or dogs. Any affection bestowed upon them will not be returned, and they require little investment in terms of care. It's the kind of relationship that suits me perfectly.",
-            "sourceName": "vo_arlecchino_pref_gift_02.wem"
+        "193f2ee54f1a0be8": {
+            "hash": "193f2ee54f1a0be8",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_h_04.wem"
         },
-        "f6e834e5e5d41276": {
-            "hash": "f6e834e5e5d41276",
-            "directory": "External30",
-            "voiceContent": "Objectively speaking, his personality is ill-suited to that of a Harbinger. He often tries to think the best of others... and finds himself used by them as a result. Of course, he is very talented. With time, I'm sure he'll come into his own. I see no need to judge him too early.",
-            "sourceName": "vo_arlecchino_teammate_tartaglia_01.wem"
+        "19a328225cb4e0aa": {
+            "hash": "19a328225cb4e0aa",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_sprint_start_02.wem"
         },
-        "d7d63697045cbb39": {
-            "hash": "d7d63697045cbb39",
-            "directory": "External26",
-            "voiceContent": "The children often make use of words and phrases from popular vernacular that are only comprehensible among themselves, much like the codewords we use during missions. Of course, children often need their own space, and I fully understand that.",
-            "sourceName": "vo_arlecchino_dialog_annoyed_01.wem"
+        "1a47d0103b42f597": {
+            "hash": "1a47d0103b42f597",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_idle_02.wem"
+        },
+        "1c011c1ef303870b": {
+            "hash": "1c011c1ef303870b",
+            "directory": "External3",
+            "voiceContent": "I dislike complex seasonings. They dull one's sense of smell and taste. Allowing the ingredients to maintain their original flavor is also a way to respect their integrity",
+            "sourceName": "vo_arlecchino_pref_foodDislike.wem"
+        },
+        "1d7ff379631ada43": {
+            "hash": "1d7ff379631ada43",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_03.wem"
+        },
+        "1f4f910d1ac9b70c": {
+            "hash": "1f4f910d1ac9b70c",
+            "directory": "External3",
+            "voiceContent": "The taste is palatable. Perhaps the children will enjoy it",
+            "sourceName": "vo_arlecchino_spice_normal_01.wem"
+        },
+        "220fdf8b1080017d": {
+            "hash": "220fdf8b1080017d",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_01.wem"
+        },
+        "22335e3940b633fd": {
+            "hash": "22335e3940b633fd",
+            "directory": "External4",
+            "voiceContent": "The moment you wield a blade, you realize that different lives carry different weights. Some people have an air of renown and distinction, yet grovel and plead for their lives when faced with death — their outward demeanor nothing more than a hollow facade. Others appear unremarkable, yet carry a heavy burden within. Despite the factors that differentiate us in life... death awaits us all — the great and final equalizer. Cruel, you say? I merely state the truth",
+            "sourceName": "vo_arlecchino_friendship_02.wem"
+        },
+        "27df06ea972b02b8": {
+            "hash": "27df06ea972b02b8",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_breath_03.wem"
         },
         "29d2dd86c109cf7c": {
             "hash": "29d2dd86c109cf7c",
             "directory": "External5",
-            "voiceContent": "I am The Knave, Arlecchino, Fourth of the Fatui Harbingers. The children of the House of the Hearth call me Father. I do hope our partnership proves to be a pleasant one, although I would imagine that should be fairly easy. After all, there's no cause for contention between us at the moment... wouldn't you agree?",
+            "voiceContent": "I am The Knave, Arlecchino, Fourth of the Fatui Harbingers. The children of the House of the Hearth call me Father. I do hope our partnership proves to be a pleasant one, although I would imagine that should be fairly easy. After all, there's no cause for contention between us at the moment... wouldn't you agree",
             "sourceName": "vo_arlecchino_draw_appear_01.wem"
+        },
+        "29f0b340238d2917": {
+            "hash": "29f0b340238d2917",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_03.wem"
+        },
+        "2e809f51d0f25031": {
+            "hash": "2e809f51d0f25031",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_01.wem"
+        },
+        "2f67e405abc3ce43": {
+            "hash": "2f67e405abc3ce43",
+            "directory": "External5",
+            "voiceContent": "Fear not. What's a little thunder when even lightning wouldn't dare strike our path",
+            "sourceName": "vo_arlecchino_weather_thunder_01.wem"
         },
         "3116bde1c5a4ead5": {
             "hash": "3116bde1c5a4ead5",
             "directory": "External6",
-            "voiceContent": "For the longest time, there wasn't anything I desired, until the idea came to me to assassinate Crucabena. It was a ludicrous thought then. She was a Harbinger, famed and experienced, and nearly everything I knew about fighting was taught by her hand.However, it appears you need only desire something with sufficient intensity, and the gods will answer. In the end, I gained a Vision, and after making certain sacrifices, I mastered this power. Surpassing one's teacher often requires the pursuit of the unexpected.",
+            "voiceContent": "For the longest time, there wasn't anything I desired, until the idea came to me to assassinate Crucabena. It was a ludicrous thought then. She was a Harbinger, famed and experienced, and nearly everything I knew about fighting was taught by her hand.However, it appears you need only desire something with sufficient intensity, and the gods will answer. In the end, I gained a Vision, and after making certain sacrifices, I mastered this power. Surpassing one's teacher often requires the pursuit of the unexpected",
             "sourceName": "vo_arlecchino_dialog_pendant_01.wem"
+        },
+        "368571ff5686c067": {
+            "hash": "368571ff5686c067",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_jump_04.wem"
+        },
+        "3698861d0139f486": {
+            "hash": "3698861d0139f486",
+            "directory": "External6",
+            "voiceContent": "I would advise you to keep your secrets close to your chest. Divulge them too easily, and you never know where the wind might carry them",
+            "sourceName": "vo_arlecchino_weather_gale_01.wem"
+        },
+        "375fb065e073c5d7": {
+            "hash": "375fb065e073c5d7",
+            "directory": "External6",
+            "voiceContent": "I have little interest in her. She is extremely... passionate about her research and does not appear in public often. In fact, many of our officers have yet to see her at all. Compared to, let's say, someone who would go so far as to create segments of themselves to better wander across the land, I suppose you could say she is at the other end of the extreme",
+            "sourceName": "vo_arlecchino_teammate_marionette_01.wem"
+        },
+        "385a2e1ad87e8415": {
+            "hash": "385a2e1ad87e8415",
+            "directory": "External7",
+            "voiceContent": "This memo states that today is your birthday. Is that true? Birthdays should be lively occasions. It's always nice to have an excuse to set formal matters aside every now and then, whether it's for the purpose of celebrating yourself or others. Come. I've prepared a feast for you at the House of the Hearth. Let's not keep the children waiting",
+            "sourceName": "vo_arlecchino_pref_birthday_01.wem"
+        },
+        "3b5b6b40b127c653": {
+            "hash": "3b5b6b40b127c653",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackheavy_02.wem"
+        },
+        "3bdd3cee2d1d362a": {
+            "hash": "3bdd3cee2d1d362a",
+            "directory": "External7",
+            "voiceContent": "Lynette's uniquely calm personality is also her strength, and I believe she is more than clever enough to recognize that. She is an irreplaceable part of that little team of three, and I would imagine that role brings her much joy. As her Father, my duty is merely to give her the space to put those talents to good use",
+            "sourceName": "vo_arlecchino_teammate_lynette_01.wem"
+        },
+        "3cbe32d98a6203d6": {
+            "hash": "3cbe32d98a6203d6",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_breath_01.wem"
+        },
+        "3dcd1224a12647a7": {
+            "hash": "3dcd1224a12647a7",
+            "directory": "External7",
+            "voiceContent": "She is a very special Harbinger. Pose her a question, and the answer you receive will be entirely unpredictable, if she sees fit to give a proper answer at all. Regardless, any answer you do receive is sure to be an interesting one",
+            "sourceName": "vo_arlecchino_teammate_damselette_01.wem"
+        },
+        "3f904b97518bee1d": {
+            "hash": "3f904b97518bee1d",
+            "directory": "External7",
+            "voiceContent": "Our ideals are not entirely aligned. If we are to work together, we must be willing to compromise. To that end, I'm willing to share certain secrets with you. Information that I choose not to reveal, however, is best left unexplored... for your own good, of course",
+            "sourceName": "vo_arlecchino_dialog_close.wem"
+        },
+        "43a3288fe15a375f": {
+            "hash": "43a3288fe15a375f",
+            "directory": "External8",
+            "voiceContent": "New strategy",
+            "sourceName": "vo_arlecchino_life_less30_teammate_02.wem"
+        },
+        "46146513c43a28d8": {
+            "hash": "46146513c43a28d8",
+            "directory": "External8",
+            "voiceContent": "I've learned much from you during this time, and I trust the sentiment is mutual. In fact, I believe maintaining this cordial relationship might prove advantageous for us both... Who knows what thorny issues the future holds. I imagine there may yet be many an occasion for us to join hands",
+            "sourceName": "vo_arlecchino_starUp_04.wem"
+        },
+        "49ccc1119a53f8c7": {
+            "hash": "49ccc1119a53f8c7",
+            "directory": "External9",
+            "voiceContent": "Wanted my full attention, did you",
+            "sourceName": "vo_arlecchino_life_less30_03.wem"
+        },
+        "4a19f3384916a9dd": {
+            "hash": "4a19f3384916a9dd",
+            "directory": "External9",
+            "voiceContent": "The hearth is now... extinguished..",
+            "sourceName": "vo_arlecchino_life_die_01.wem"
+        },
+        "4afcc629528cfc2d": {
+            "hash": "4afcc629528cfc2d",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_sprint_start_01.wem"
+        },
+        "4b2e7dee498ffb4d": {
+            "hash": "4b2e7dee498ffb4d",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_jump_02.wem"
+        },
+        "4b54bdc6d1b3f566": {
+            "hash": "4b54bdc6d1b3f566",
+            "directory": "External9",
+            "voiceContent": "I asked Lyney to deliver an assortment of cakes for her theater troupe to enjoy during teatime. The children made the cakes themselves as a gesture to express the support and enthusiasm of her audience. I do hope she enjoys them",
+            "sourceName": "vo_arlecchino_teammate_furina_01.wem"
+        },
+        "4e5cad2347b91fe1": {
+            "hash": "4e5cad2347b91fe1",
+            "directory": "External9",
+            "voiceContent": "Commendable",
+            "sourceName": "vo_arlecchino_life_less30_01.wem"
+        },
+        "51108ab222f87852": {
+            "hash": "51108ab222f87852",
+            "directory": "External10",
+            "voiceContent": "Go on",
+            "sourceName": "vo_arlecchino_battle_hit_H_02.wem"
+        },
+        "55ecad4cc12b74d8": {
+            "hash": "55ecad4cc12b74d8",
+            "directory": "External10",
+            "voiceContent": "He is very powerful, and that power comes with a high level of responsibility. However, I believe him to be someone worthy of respect independent of the power he holds",
+            "sourceName": "vo_arlecchino_teammate_capitano_01.wem"
+        },
+        "576b6c6ff32e2df2": {
+            "hash": "576b6c6ff32e2df2",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_04.wem"
+        },
+        "5881af8ebb5c81d6": {
+            "hash": "5881af8ebb5c81d6",
+            "directory": "External11",
+            "voiceContent": "Witness my rise",
+            "sourceName": "vo_arlecchino_battle_skill3_02.wem"
+        },
+        "5a4a8c4a1bee43a5": {
+            "hash": "5a4a8c4a1bee43a5",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_fly_start_02.wem"
+        },
+        "61668b795aac764e": {
+            "hash": "61668b795aac764e",
+            "directory": "External12",
+            "voiceContent": "Ah, something with which to commemorate this occasion",
+            "sourceName": "vo_arlecchino_chest_open_03.wem"
+        },
+        "62907f8b052e81f0": {
+            "hash": "62907f8b052e81f0",
+            "directory": "External12",
+            "voiceContent": "What greater pleasure is there than the unexpected",
+            "sourceName": "vo_arlecchino_chest_open_01.wem"
+        },
+        "6321b051587f90ce": {
+            "hash": "6321b051587f90ce",
+            "directory": "External12",
+            "voiceContent": "Fate can be a peculiar thing. When I was young, Mother favored me due to the unusual set of abilities I possess. No one was able to discern their true nature, not even me. We could only speculate that they were the result of some sort of hereditary curse. Whatever the origin of my power, all I knew was that it was the source of my strength, and often the impetus for my suffering. It was only after I became a Harbinger that I finally learned the truth from The Jester. He expressed surprise that the Crimson Moon bloodline had not gone extinct, and that, in a strange twist of fate, the House of the Hearth had ended up in the hands of an orphan of that lineage once again.I cannot say what the future holds. I trust fate will give me an answer in time, and when it does, I'm prepared to do things my way, even if that means striking down fate with my own two hands",
+            "sourceName": "vo_arlecchino_friendship_05.wem"
+        },
+        "63ed94eb75dde93a": {
+            "hash": "63ed94eb75dde93a",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackmid_02.wem"
+        },
+        "6745ff304f25543d": {
+            "hash": "6745ff304f25543d",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_05.wem"
+        },
+        "6eea48dbd0481029": {
+            "hash": "6eea48dbd0481029",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_h_05.wem"
+        },
+        "70b6a4267e2d2b1d": {
+            "hash": "70b6a4267e2d2b1d",
+            "directory": "External14",
+            "voiceContent": "I once had a pet spider named Bambi. Raising spiders is quite fascinating. They cannot be domesticated like cats or dogs. Any affection bestowed upon them will not be returned, and they require little investment in terms of care. It's the kind of relationship that suits me perfectly",
+            "sourceName": "vo_arlecchino_pref_gift_02.wem"
+        },
+        "714847bd1f021805": {
+            "hash": "714847bd1f021805",
+            "directory": "External14",
+            "voiceContent": "An insurmountable problem, I presume",
+            "sourceName": "vo_arlecchino_teamJoin_02.wem"
+        },
+        "732e24a18e711d46": {
+            "hash": "732e24a18e711d46",
+            "directory": "External14",
+            "voiceContent": "Staring into my eyes is ill-advised. I can't promise you'll like what you see..",
+            "sourceName": "vo_arlecchino_character_idle_01.wem"
+        },
+        "77f8ac5ec1567380": {
+            "hash": "77f8ac5ec1567380",
+            "directory": "External14",
+            "voiceContent": "Monsieur Neuvillette intentionally maintains a certain distance in professional and private settings. Many say this makes him cold and unfeeling, but I believe the truth is just the opposite. In order for all beings to be treated equally under the law, a certain level of emotional distance is expected. Maintaining that kind of indifference is, in itself, a demonstration of kindness",
+            "sourceName": "vo_arlecchino_teammate_neuvillette_01.wem"
+        },
+        "78ab2a99a360eec9": {
+            "hash": "78ab2a99a360eec9",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_03.wem"
+        },
+        "7b5be921cbcfd542": {
+            "hash": "7b5be921cbcfd542",
+            "directory": "External15",
+            "voiceContent": "As the original Harbinger, much about him remains a mystery. Upon our first meeting, he recognized my background with ease, yet to this day, I know little about him",
+            "sourceName": "vo_arlecchino_teammate_jester_01.wem"
+        },
+        "7ba81d1eec07b090": {
+            "hash": "7ba81d1eec07b090",
+            "directory": "External15",
+            "voiceContent": "The children simply adore your stories. They often ask me when you're coming around again. I do hope you won't let them down. Betraying their expectations comes with a price... Perhaps that's something worth your consideration",
+            "sourceName": "vo_arlecchino_dialog_close1.wem"
+        },
+        "88b5d0065e747c5e": {
+            "hash": "88b5d0065e747c5e",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_jump_05.wem"
+        },
+        "89314a76e961d4d5": {
+            "hash": "89314a76e961d4d5",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_07.wem"
+        },
+        "8a245e8893b4d44f": {
+            "hash": "8a245e8893b4d44f",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_01.wem"
+        },
+        "8b6c32c987adac95": {
+            "hash": "8b6c32c987adac95",
+            "directory": "External17",
+            "voiceContent": "Laid bare",
+            "sourceName": "vo_arlecchino_battle_skill1_03.wem"
+        },
+        "8dc738b3d98f5e68": {
+            "hash": "8dc738b3d98f5e68",
+            "directory": "External17",
+            "voiceContent": "Something you wish to report? Go on. You have my undivided attention",
+            "sourceName": "vo_arlecchino_character_idle_03.wem"
+        },
+        "988a6e187ea2ca8e": {
+            "hash": "988a6e187ea2ca8e",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_idle_03.wem"
+        },
+        "99b4622a2924d630": {
+            "hash": "99b4622a2924d630",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_idle_01.wem"
+        },
+        "99cc68cd29a9d1b6": {
+            "hash": "99cc68cd29a9d1b6",
+            "directory": "External19",
+            "voiceContent": "In my free time, I enjoy observing insects in the forest. The dynamics between them are fascinating — the way they hunt for food, compete with each other, even cooperate... Those that seem formidable aren't always the ones that make it until the end, and a single error can prove fatal. I observe their struggle as they near death, and slowly commit the image of their suffering to memory, much like I do for those that fall by my own hand",
+            "sourceName": "vo_arlecchino_pref_hobby.wem"
+        },
+        "9dae87291295b423": {
+            "hash": "9dae87291295b423",
+            "directory": "External19",
+            "voiceContent": "This shall not be my fate..",
+            "sourceName": "vo_arlecchino_life_die_03.wem"
+        },
+        "9e5d7a7b34b6b869": {
+            "hash": "9e5d7a7b34b6b869",
+            "directory": "External19",
+            "voiceContent": "On occasion, we hold barbecue dinners at the House, and the children prepare the ingredients themselves. They enjoy participating in activities like that, and the feeling is mutual. After all, it's always possible certain familiar faces will be missing from the crowd the next time a similar event rolls around",
+            "sourceName": "vo_arlecchino_pref_foodLike.wem"
+        },
+        "9e905a1a1c0a53b3": {
+            "hash": "9e905a1a1c0a53b3",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_sprint_start_03.wem"
+        },
+        "a31fb8af6a69b232": {
+            "hash": "a31fb8af6a69b232",
+            "directory": "External20",
+            "voiceContent": "This kind of weather is more enjoyably spent under the cover of shade",
+            "sourceName": "vo_arlecchino_weather_sunny_01.wem"
+        },
+        "a3b79b4f101079f8": {
+            "hash": "a3b79b4f101079f8",
+            "directory": "External20",
+            "voiceContent": "Flames course through my body like blood... This may be nothing but a figure of speech to some. But for me, it's the harsh reality of my existence",
+            "sourceName": "vo_arlecchino_dialog_share_01.wem"
+        },
+        "a833514866ecfe0e": {
+            "hash": "a833514866ecfe0e",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_02.wem"
+        },
+        "a9f700e1d388fb42": {
+            "hash": "a9f700e1d388fb42",
+            "directory": "External21",
+            "voiceContent": "Anger makes you impulsive, and sorrow causes you to waver. Always maintain control over your emotions",
+            "sourceName": "vo_arlecchino_starUp_02.wem"
+        },
+        "aaa2df28db460447": {
+            "hash": "aaa2df28db460447",
+            "directory": "External21",
+            "voiceContent": "Seeing yourself clearly is a difficult task indeed, perhaps even a thankless one. After all, they say those who lack adequate powers of self-perception often lead a happier existence",
+            "sourceName": "vo_arlecchino_dialog_idle.wem"
+        },
+        "ad0260e256ae4939": {
+            "hash": "ad0260e256ae4939",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_breath_02.wem"
+        },
+        "afabd251269323d4": {
+            "hash": "afabd251269323d4",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_fly_start_03.wem"
+        },
+        "b34f44421f19bf2c": {
+            "hash": "b34f44421f19bf2c",
+            "directory": "External22",
+            "voiceContent": "My Snezheviches and Snezhevnas... those with the courage to walk through shadow even when the world gets dark, and the conviction to embrace the heat even at the risk of getting burned... I will do my utmost to teach them how to navigate life. The House of the Hearth begs favors from no one — like a spider, we hunt for what we want",
+            "sourceName": "vo_arlecchino_friendship_03.wem"
+        },
+        "b6cd7bab52c9f970": {
+            "hash": "b6cd7bab52c9f970",
+            "directory": "External22",
+            "voiceContent": "Time to retire for the night. Oh? Can't sleep, you say? Well, I'm afraid you'll have to figure something out for yourself. I have a certain suspicion my solution won't be to your liking",
+            "sourceName": "vo_arlecchino_dialog_greetingNight2.wem"
+        },
+        "b9d43948f4b57c4a": {
+            "hash": "b9d43948f4b57c4a",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackheavy_03.wem"
+        },
+        "bcc8c6e1f9c1b003": {
+            "hash": "bcc8c6e1f9c1b003",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackmid_03.wem"
+        },
+        "bdf2b2f3a443ae3d": {
+            "hash": "bdf2b2f3a443ae3d",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackmid_01.wem"
+        },
+        "c4a13bfffa27f306": {
+            "hash": "c4a13bfffa27f306",
+            "directory": "External24",
+            "voiceContent": "Clervie once asked me what a real home looks like, but I had no answer for her. How could any of us know the answer when the House of the Hearth is made up entirely of people who never had a place to call home.By killing Crucabena, I was able to assume the identity of Father and rebuild the House under a new set of rules. Still, I'm well aware that, even with these efforts, the House is far from that ideal. As for what a real home truly looks like, I suppose that question is best put to the side for now... Perhaps one day, Lyney will be able to give me a new answer",
+            "sourceName": "vo_arlecchino_teammate_lyney_01.wem"
+        },
+        "c5175fe4dfb88a4a": {
+            "hash": "c5175fe4dfb88a4a",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_jump_01.wem"
+        },
+        "c80ac182e21a3c7a": {
+            "hash": "c80ac182e21a3c7a",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_climb_02.wem"
+        },
+        "c82e403112506efa": {
+            "hash": "c82e403112506efa",
+            "directory": "External25",
+            "voiceContent": "You wish to know more about me? Why, of course. Our relationship is one of mutual trust. There's little need to keep things hidden... I would only inquire as to whether you're truly prepared for what you might learn. Secrets can be sharper than a knife. Innocent curiosity can lead to dangerous places",
+            "sourceName": "vo_arlecchino_friendship_01.wem"
+        },
+        "c8c5dd9787a8c739": {
+            "hash": "c8c5dd9787a8c739",
+            "directory": "External25",
+            "voiceContent": "This is where you fall",
+            "sourceName": "vo_arlecchino_battle_skill3_01.wem"
+        },
+        "c9bc2b371db7ed93": {
+            "hash": "c9bc2b371db7ed93",
+            "directory": "External25",
+            "voiceContent": "Freminet has a complex mind and often hides his emotions. He blames himself for things that aren't his doing and allows them to eat away at his conscience. I would imagine the other children might find it difficult to understand his manner of thinking, but you seem to share a similar delicate sensibility — perhaps you two would make good friends",
+            "sourceName": "vo_arlecchino_teammate_freminet_01.wem"
+        },
+        "cadb90a0ab4eb808": {
+            "hash": "cadb90a0ab4eb808",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_02.wem"
+        },
+        "cc9513c2c2cf86e0": {
+            "hash": "cc9513c2c2cf86e0",
+            "directory": "External25",
+            "voiceContent": "The intent is appreciated, but there is much room for improvement",
+            "sourceName": "vo_arlecchino_spice_dislike_01.wem"
+        },
+        "d1073d5b3cf078bc": {
+            "hash": "d1073d5b3cf078bc",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attackheavy_01.wem"
+        },
+        "d303fca9dfc64d9b": {
+            "hash": "d303fca9dfc64d9b",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_h_03.wem"
+        },
+        "d42de8bb8a484bb5": {
+            "hash": "d42de8bb8a484bb5",
+            "directory": "External26",
+            "voiceContent": "Pitiful",
+            "sourceName": "vo_arlecchino_battle_hit_H_01.wem"
+        },
+        "d661e00788809b7c": {
+            "hash": "d661e00788809b7c",
+            "directory": "External26",
+            "voiceContent": "When I was imprisoned, it was the Tsaritsa who pardoned me and gave me the title of Harbinger. I could sense she was a person of true sincerity and compassion, unlike all those pompous hypocrites with their posturing and rhetoric. Yet... It's difficult to say whether her compassion alone is enough to melt the ice and snow that permeates her land. All I can say is this... If we are forced to be at odds one day, I will raise my weapon against her without hesitation, because that is the greatest level of respect I am able to bestow",
+            "sourceName": "vo_arlecchino_teammate_tsaritsa_01.wem"
+        },
+        "d7d63697045cbb39": {
+            "hash": "d7d63697045cbb39",
+            "directory": "External26",
+            "voiceContent": "The children often make use of words and phrases from popular vernacular that are only comprehensible among themselves, much like the codewords we use during missions. Of course, children often need their own space, and I fully understand that",
+            "sourceName": "vo_arlecchino_dialog_annoyed_01.wem"
+        },
+        "d9191aaa6cf590d8": {
+            "hash": "d9191aaa6cf590d8",
+            "directory": "External27",
+            "voiceContent": "Step back",
+            "sourceName": "vo_arlecchino_life_less30_teammate_01.wem"
+        },
+        "db99c6ba4e47dbfb": {
+            "hash": "db99c6ba4e47dbfb",
+            "directory": "External27",
+            "voiceContent": "Transfixed",
+            "sourceName": "vo_arlecchino_battle_skill1_01.wem"
+        },
+        "dc4a63f727f386bc": {
+            "hash": "dc4a63f727f386bc",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_jump_03.wem"
+        },
+        "dcc4de67b2df2c3b": {
+            "hash": "dcc4de67b2df2c3b",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_attacklight_05.wem"
+        },
+        "e323ed71174ca157": {
+            "hash": "e323ed71174ca157",
+            "directory": "External28",
+            "voiceContent": "An impressive bounty",
+            "sourceName": "vo_arlecchino_chest_open_02.wem"
+        },
+        "e37252aa5abd62a9": {
+            "hash": "e37252aa5abd62a9",
+            "directory": "External28",
+            "voiceContent": "What could the children be up to... Hmm. Never mind. Let them do as they please",
+            "sourceName": "vo_arlecchino_character_idle_02.wem"
+        },
+        "e45348c7d5efc6dc": {
+            "hash": "e45348c7d5efc6dc",
+            "directory": "External28",
+            "voiceContent": "She and Pierro were the first Harbingers I became acquainted with. Her prideful attitude when she first visited the House of the Hearth failed to earn her many friends among the children. Subsequent visits were accompanied by gifts and the stately claim that those who dislike me shall receive none. The children quickly learned how to play pretend, and she in turn basked in their attention, superficial though it may have been. I imagine she quite enjoyed being surrounded by children, perhaps due to the persistent loneliness that plagued her... I found her sacrifice to be a great shame. May she be reunited with her lover in death",
+            "sourceName": "vo_arlecchino_teammate_signora_01.wem"
+        },
+        "e4df1249151fbbd7": {
+            "hash": "e4df1249151fbbd7",
+            "directory": "External28",
+            "voiceContent": "No one has the power to choose where they come from, but we all have the right to fight for the life we want. In this sense, the world is both unfair and just in equal measure. I don't take in children out of a desire for recompense. In fact, should they so wish, the children are free to leave and pursue a life outside my organization... so long as they're willing to pay the price",
+            "sourceName": "vo_arlecchino_friendship_04.wem"
+        },
+        "e63f516dfe82094a": {
+            "hash": "e63f516dfe82094a",
+            "directory": "External28",
+            "voiceContent": "Good morning. Any plans for today",
+            "sourceName": "vo_arlecchino_dialog_greetingMorning.wem"
+        },
+        "e8a85c9d0f77fa86": {
+            "hash": "e8a85c9d0f77fa86",
+            "directory": "External29",
+            "voiceContent": "An impressive showing of culinary expertise. Perhaps you'd be interested in teaching a cooking class at the House of the Hearth",
+            "sourceName": "vo_arlecchino_spice_pref_01.wem"
+        },
+        "eb45f53118f6b227": {
+            "hash": "eb45f53118f6b227",
+            "directory": "External29",
+            "voiceContent": "Only in the grip of winter do people truly appreciate the warmth of flames",
+            "sourceName": "vo_arlecchino_weather_snowy_01.wem"
+        },
+        "f015d5301ab297da": {
+            "hash": "f015d5301ab297da",
+            "directory": "External30",
+            "voiceContent": "I hear... the children singing..",
+            "sourceName": "vo_arlecchino_life_die_02.wem"
+        },
+        "f0561594140d4e50": {
+            "hash": "f0561594140d4e50",
+            "directory": "External30",
+            "voiceContent": "When I first took over the House of the Hearth, he proposed a number of plans for us to work together. He wanted me to send any rejects to him. He planned to experiment on them and then share the results with me. I heard that he and the previous Knave had quite the professional rapport in that regard. All I can say is that, if he weren't one of my fellow Harbingers, I would have expedited their happy, little reunion long ago",
+            "sourceName": "vo_arlecchino_teammate_dottore_01.wem"
+        },
+        "f06cbcd275718469": {
+            "hash": "f06cbcd275718469",
+            "directory": "External30",
+            "voiceContent": "On occasion, I hear others whisper in secret, calling me cold and cruel. People are free to believe as they wish, and I don't intend to clear up their misconceptions. Prejudice has a way of concealing the truth, and that is hardly to my disadvantage. Still, I believe the time has come for certain measures to be taken to live up to their expectations... Let's just hope those on the receiving end of these measures have enough power and status to escape with their lives",
+            "sourceName": "vo_arlecchino_dialog_idle2.wem"
+        },
+        "f4219f1b1925e63e": {
+            "hash": "f4219f1b1925e63e",
+            "directory": "External30",
+            "voiceContent": "My turn",
+            "sourceName": "vo_arlecchino_life_less30_02.wem"
+        },
+        "f6e834e5e5d41276": {
+            "hash": "f6e834e5e5d41276",
+            "directory": "External30",
+            "voiceContent": "Objectively speaking, his personality is ill-suited to that of a Harbinger. He often tries to think the best of others... and finds himself used by them as a result. Of course, he is very talented. With time, I'm sure he'll come into his own. I see no need to judge him too early",
+            "sourceName": "vo_arlecchino_teammate_tartaglia_01.wem"
+        },
+        "fbc7e539306c096c": {
+            "hash": "fbc7e539306c096c",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_l_04.wem"
+        },
+        "fcdcf0bb00845bf0": {
+            "hash": "fcdcf0bb00845bf0",
+            "directory": "External31",
+            "voiceContent": "It is said that the moon is like an eye gazing down upon the mortal plane. We have merely grown accustomed to its scrutiny",
+            "sourceName": "vo_arlecchino_dialog_greetingNight.wem"
+        },
+        "fea61ad303fbcac6": {
+            "hash": "fea61ad303fbcac6",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_battle_hit_h_06.wem"
+        },
+        "ffd96e41ed2d5f82": {
+            "hash": "ffd96e41ed2d5f82",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_arlecchino_explore_fly_start_01.wem"
         }
     }
 }

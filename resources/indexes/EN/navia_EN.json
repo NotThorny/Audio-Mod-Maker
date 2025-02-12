@@ -1,517 +1,769 @@
 {
     "Teapot": {},
     "Quests": {
+        "470264582b9f3ef0": {
+            "hash": "470264582b9f3ef0",
+            "directory": "External8",
+            "voiceContent": "Wait, there's something wrong with this bridge! Run for it",
+            "sourceName": "vo_FDAQ302_2_navia_07.wem"
+        },
         "cc0e49db45c4fdc9": {
             "hash": "cc0e49db45c4fdc9",
             "directory": "External25",
-            "voiceContent": "I found something!",
+            "voiceContent": "I found something",
             "sourceName": "vo_CLLQ003_11_navia_01.wem"
         },
         "e4b04afc965896b0": {
             "hash": "e4b04afc965896b0",
             "directory": "External28",
-            "voiceContent": "Stop right there!",
+            "voiceContent": "Stop right there",
             "sourceName": "vo_NVLQ002_3_navia_01.wem"
-        },
-        "470264582b9f3ef0": {
-            "hash": "470264582b9f3ef0",
-            "directory": "External8",
-            "voiceContent": "Wait, there's something wrong with this bridge! Run for it!",
-            "sourceName": "vo_FDAQ302_2_navia_07.wem"
         }
     },
     "Gameplay": {
-        "92f04b614ab1bc25": {
-            "hash": "92f04b614ab1bc25",
-            "directory": "External18",
-            "voiceContent": "Watch out~!",
-            "sourceName": "vo_navia_battle_skill1_01.wem"
-        },
-        "387f2d591bf0d802": {
-            "hash": "387f2d591bf0d802",
-            "directory": "External7",
-            "voiceContent": "Comin' at ya!",
-            "sourceName": "vo_navia_battle_skill1_02.wem"
-        },
-        "91c71f4fa03104cb": {
-            "hash": "91c71f4fa03104cb",
-            "directory": "External18",
-            "voiceContent": "Hey there!",
-            "sourceName": "vo_navia_battle_skill1_03.wem"
-        },
-        "d801918b0f837b98": {
-            "hash": "d801918b0f837b98",
-            "directory": "External27",
-            "voiceContent": "Feelin' lucky?",
-            "sourceName": "vo_navia_battle_skill1_04.wem"
-        },
-        "59beeb82cc239919": {
-            "hash": "59beeb82cc239919",
-            "directory": "External11",
-            "voiceContent": "This one's got your name on it!",
-            "sourceName": "vo_navia_battle_skill1_05.wem"
-        },
-        "e97abd79ffd753b6": {
-            "hash": "e97abd79ffd753b6",
-            "directory": "External29",
-            "voiceContent": "...Umbrella warfare, I guess?",
-            "sourceName": "vo_navia_battle_skill1_06.wem"
-        },
-        "94436f5cbf387ec7": {
-            "hash": "94436f5cbf387ec7",
-            "directory": "External18",
-            "voiceContent": "Fire!!! ...Well, with rocks.",
-            "sourceName": "vo_navia_battle_skill3_01.wem"
-        },
-        "eb040175748bdc60": {
-            "hash": "eb040175748bdc60",
-            "directory": "External29",
-            "voiceContent": "A proper sendoff! From the Spina, with love.",
-            "sourceName": "vo_navia_battle_skill3_02.wem"
-        },
-        "98d35b6e6c9da5e1": {
-            "hash": "98d35b6e6c9da5e1",
-            "directory": "External19",
-            "voiceContent": "Attack! Mm-hmm, that's the way.",
-            "sourceName": "vo_navia_battle_skill3_03.wem"
-        },
-        "daa0b3cace0d3862": {
-            "hash": "daa0b3cace0d3862",
-            "directory": "External27",
-            "voiceContent": "Whoa! What a stroke of good luck!",
-            "sourceName": "vo_navia_chest_open_01.wem"
-        },
-        "3512d1d2fccfce85": {
-            "hash": "3512d1d2fccfce85",
-            "directory": "External6",
-            "voiceContent": "Quick! Let's pack it up!",
-            "sourceName": "vo_navia_chest_open_02.wem"
-        },
-        "dbca97dc788f2834": {
-            "hash": "dbca97dc788f2834",
-            "directory": "External27",
-            "voiceContent": "I'm loving this treasure hunt~!",
-            "sourceName": "vo_navia_chest_open_03.wem"
-        },
-        "7c0175b2cbc27da6": {
-            "hash": "7c0175b2cbc27da6",
-            "directory": "External15",
-            "voiceContent": "Leave it to the president!",
-            "sourceName": "vo_navia_life_less30_teammate_01.wem"
-        },
-        "ec45a3bb980ec309": {
-            "hash": "ec45a3bb980ec309",
-            "directory": "External29",
-            "voiceContent": "Reinforcements are here!",
-            "sourceName": "vo_navia_life_less30_teammate_02.wem"
-        },
-        "62a3fc91bdce1e1b": {
-            "hash": "62a3fc91bdce1e1b",
-            "directory": "External12",
-            "voiceContent": "Guess I'm... going home...",
-            "sourceName": "vo_navia_life_die_01.wem"
-        },
-        "e1d9aeabab80f2a4": {
-            "hash": "e1d9aeabab80f2a4",
-            "directory": "External28",
-            "voiceContent": "Sorry, partner...",
-            "sourceName": "vo_navia_life_die_02.wem"
-        },
-        "7ea6c1baaa502f43": {
-            "hash": "7ea6c1baaa502f43",
-            "directory": "External15",
-            "voiceContent": "Count me in.",
-            "sourceName": "vo_navia_teamJoin_01.wem"
-        },
-        "145293d53618e1ac": {
-            "hash": "145293d53618e1ac",
-            "directory": "External2",
-            "voiceContent": "The Spina's on the case!",
-            "sourceName": "vo_navia_teamJoin_02.wem"
-        },
-        "8336adcc57b5567d": {
-            "hash": "8336adcc57b5567d",
-            "directory": "External16",
-            "voiceContent": "I'll take the lead today!",
-            "sourceName": "vo_navia_teamJoin_03.wem"
-        },
-        "a2a8791d1e081a00": {
-            "hash": "a2a8791d1e081a00",
-            "directory": "External20",
-            "voiceContent": "I really wanna go traveling! I don't mind where we go, as long as I have my friends with me, hehe.",
-            "sourceName": "vo_navia_character_idle_01.wem"
-        },
-        "4be7e70468b4bd67": {
-            "hash": "4be7e70468b4bd67",
-            "directory": "External9",
-            "voiceContent": "My time with the Spina has taught me that carrying an unreliable weapon is worse than not carrying one at all.",
-            "sourceName": "vo_navia_character_idle_02.wem"
-        },
-        "9e18450b70a2795e": {
-            "hash": "9e18450b70a2795e",
-            "directory": "External19",
-            "voiceContent": "I do love Spina di Rosula's logo. It was designed by my mother. Have you noticed how it's shaped like a heart?",
-            "sourceName": "vo_navia_character_idle_03.wem"
-        },
-        "51151d3a5361912a": {
-            "hash": "51151d3a5361912a",
-            "directory": "External10",
-            "voiceContent": "Ugh... It's raining again...",
-            "sourceName": "vo_navia_weather_heavyRain_01.wem"
-        },
-        "71ef9d74cf53a861": {
-            "hash": "71ef9d74cf53a861",
-            "directory": "External14",
-            "voiceContent": "Aaah! Ugh, I should have covered my ears when I saw the flash!",
-            "sourceName": "vo_navia_weather_thunder_01.wem"
-        },
-        "bc740447b90d658b": {
-            "hash": "bc740447b90d658b",
-            "directory": "External23",
-            "voiceContent": "Finally! The rain has stopped!",
-            "sourceName": "vo_navia_weather_afterRain_01.wem"
-        },
-        "b2e6346732bd771d": {
-            "hash": "b2e6346732bd771d",
-            "directory": "External22",
-            "voiceContent": "Maybe I should take off my hat, and let the snowflakes fall onto my face... I feel like that would be really refreshing.",
-            "sourceName": "vo_navia_weather_snowy_01.wem"
-        },
-        "9f7bcee44896535c": {
-            "hash": "9f7bcee44896535c",
-            "directory": "External19",
-            "voiceContent": "Quick, look! Up in the sky! Look at that scorching sun, it's like a blast furnace! You know what this means? It means we have to drop everything, right now, and make a run for the ice cream store! We need to get two of the biggest cones they sell, and then it's an all-out race to see who can finish before it melts!",
-            "sourceName": "vo_navia_weather_sunny_01.wem"
-        },
-        "647baf7d2ac08178": {
-            "hash": "647baf7d2ac08178",
-            "directory": "External12",
-            "voiceContent": "Morning! Any plans for the day yet? If not, why don't you hang out with me?",
-            "sourceName": "vo_navia_dialog_greetingMorning.wem"
-        },
-        "3a655b4a3273cb34": {
-            "hash": "3a655b4a3273cb34",
-            "directory": "External7",
-            "voiceContent": "I've heard about this weird new kind of lasagna that's just come out. You wanna try it together? Sounds like it'll taste pretty strange... but I still gotta try it!",
-            "sourceName": "vo_navia_dialog_greetingNoon.wem"
-        },
-        "1887cc0f63199e42": {
-            "hash": "1887cc0f63199e42",
-            "directory": "External3",
-            "voiceContent": "In the headlines tonight, President of Spina di Rosula in awesome mood after spending another fantastic day with her favorite partner!",
-            "sourceName": "vo_navia_dialog_greetingNight.wem"
-        },
-        "535cd43bfd0baf42": {
-            "hash": "535cd43bfd0baf42",
-            "directory": "External10",
-            "voiceContent": "Come on now, time to empty your mind and get a good night's sleep! I'll see you tomorrow~",
-            "sourceName": "vo_navia_dialog_greetingNight2.wem"
-        },
-        "06dccfe6eab153f5": {
-            "hash": "06dccfe6eab153f5",
+        "010b67184bc2131c": {
+            "hash": "010b67184bc2131c",
             "directory": "External0",
-            "voiceContent": "I always say that blind optimism isn't the answer — if you want a bright future, you have to go out and seize it with your own two hands! So, come over here... Now, take my hands in yours and give them a good shake. There! See, doesn't that feel good?",
-            "sourceName": "vo_navia_dialog_idle.wem"
-        },
-        "92f1d4b8336465df": {
-            "hash": "92f1d4b8336465df",
-            "directory": "External18",
-            "voiceContent": "People who know about my past might think I've suffered a lot of misfortune, but I don't see it like that at all.I count myself lucky to have received so much love in life.",
-            "sourceName": "vo_navia_dialog_idle2.wem"
-        },
-        "b38c6902dbf5bfa2": {
-            "hash": "b38c6902dbf5bfa2",
-            "directory": "External22",
-            "voiceContent": "People say that a secret shared is a secret no more, but I like to think that true friends keep each other's secrets. ...What? Veiled threat? No, of course not! Granted, as president of Spina di Rosula, I do have my ways of making people keep their mouths shut, but don't worry — I promise not to use those on you.",
-            "sourceName": "vo_navia_dialog_close1.wem"
-        },
-        "567c110416ee0b5b": {
-            "hash": "567c110416ee0b5b",
-            "directory": "External10",
-            "voiceContent": "Some people call me Boss, others Demoiselle, but none of that does anything for me. My favorite thing to be called is partner — but only by you, of course. So, just know that my vainer side would be over the moon if you could indulge me a little more often.",
-            "sourceName": "vo_navia_dialog_close.wem"
-        },
-        "9301cc5dc483247f": {
-            "hash": "9301cc5dc483247f",
-            "directory": "External18",
-            "voiceContent": "Here, take a look at my Vision! I love how shiny it is. Doesn't it go great with my dress?Still, it's nothing compared to using the elements without a Vision... And with no training or anything either, right? So cool.",
-            "sourceName": "vo_navia_dialog_pendant_01.wem"
-        },
-        "617f6cfc2d05f41a": {
-            "hash": "617f6cfc2d05f41a",
-            "directory": "External12",
-            "voiceContent": "My favorite dog breed of all is the chestnut hunting hound. You know how they have the little spots above their eyes? They look just like eyebrows, don't they? That's why they look so innocent and earnest all the time. Please keep this a secret for me, though — I don't wanna hurt the other dogs' feelings!",
-            "sourceName": "vo_navia_dialog_share_01.wem"
-        },
-        "a4c0b10ba34d5e00": {
-            "hash": "a4c0b10ba34d5e00",
-            "directory": "External20",
-            "voiceContent": "I really love the Pluie Lotus — it's such a beautiful color. Plus, when you see them in full bloom, it's a sure sign that the rainy season is finally over.",
-            "sourceName": "vo_navia_pref_gift_01.wem"
-        },
-        "18dec1cca26b992f": {
-            "hash": "18dec1cca26b992f",
-            "directory": "External3",
-            "voiceContent": "She might not say much, or show a lot of emotion, but I can tell that she feels deeply. After my father's death, I... well, it caused quite a rift between us for a long time. But even then, I never did like having her constantly walking on eggshells around me... I much prefer how things are now.",
-            "sourceName": "vo_navia_teammate_clorinde_01.wem"
-        },
-        "1206364355f9425d": {
-            "hash": "1206364355f9425d",
-            "directory": "External2",
-            "voiceContent": "Charlotte's known for her fast-and-furious reporting, but it's her photography skills that really impress me. She once snapped a quick photo of me, a waist-up shot, and the result was absolutely stunning — it was like looking at an oil painting. She seems to have a knack for writing extraordinary news stories and taking the most eye-catching photos. Guess she was born to be a journalist.",
-            "sourceName": "vo_navia_teammate_charlotte_01.wem"
-        },
-        "b6ad1e5377c157e7": {
-            "hash": "b6ad1e5377c157e7",
-            "directory": "External22",
-            "voiceContent": "Ah, the fashion designer who brought the coolest Inazuman trends to Fontaine? She's actually been a great help to the Spina behind the scenes. She says my unorthodox ideas always give her a lot of inspiration for her work, and from what I can tell, I think she means it. Still, she drew the line at my request for a ten-meter-tall top hat. *sigh* Missed opportunity, if you ask me... Imagine seeing one of those in front of the shop! It would be a great way to draw in customers.",
-            "sourceName": "vo_navia_teammate_chiori_01.wem"
-        },
-        "9295ddf01db65b4f": {
-            "hash": "9295ddf01db65b4f",
-            "directory": "External18",
-            "voiceContent": "She is a formidable but caring leader, and definitely comes across like a master of the house. But she's still a Fatui Harbinger, and that means she must have a more ruthless side. So don't worry — while I'll always appreciate what she did for Poisson, I'm not about to let my guard down around her completely.",
-            "sourceName": "vo_navia_teammate_arlecchino_01.wem"
-        },
-        "a609286cb9bbdf64": {
-            "hash": "a609286cb9bbdf64",
-            "directory": "External20",
-            "voiceContent": "I know magicians can often be all bravado and razzmatazz, but I can tell that Lyney is a sincere guy who cares deeply about his friends and family. He's so mature for his age, it catches me off guard sometimes... Oh, and how could I forget — it was so kind of him to try and cheer up the children in Poisson with an impromptu free magic show during the flood! I'll have to invite him and Lynette over for some macarons at my place when I get the chance. I know Lynette's always conjuring teacups out of thin air, so surely at least she's a fan of a proper tea break?",
-            "sourceName": "vo_navia_teammate_lyney_01.wem"
-        },
-        "73f399c40e0b6cf8": {
-            "hash": "73f399c40e0b6cf8",
-            "directory": "External14",
-            "voiceContent": "I was lucky enough to catch her in an opera when I was young. Even though it was a charity show, the tickets were nearly impossible to get! She was performing in character then, but I thought she seemed more in her element then than she ever did as an Archon, giving speeches up in the opera box... Looking back, I guess my intuition was right.",
-            "sourceName": "vo_navia_teammate_furina_01.wem"
-        },
-        "4c6e436fa66dbc5a": {
-            "hash": "4c6e436fa66dbc5a",
-            "directory": "External9",
-            "voiceContent": "Ah, how to describe Monsieur Neuvillette... He's... complex, in some ways — but very straightforward in others. I guess a good analogy would be rocky reefs in the sea Trying to navigate through obstacles you can't see makes for a bumpy ride, but if you can figure out how they work, you start to spot the signs.",
-            "sourceName": "vo_navia_teammate_neuvillette_01.wem"
-        },
-        "c166da0bca7d63d0": {
-            "hash": "c166da0bca7d63d0",
-            "directory": "External24",
-            "voiceContent": "Trying to discuss anything with that guy is an exhausting process. Clorinde says I needn't have any reservations about collaborating with him in the scope of our preexisting agreement, but I still shouldn't trust everything that comes out of his mouth. No wonder my father never tried to get involved with the affairs of the Fortress... I think I'll play it safe and keep things that way.",
-            "sourceName": "vo_navia_teammate_wriothesley_01.wem"
-        },
-        "7f9a5d825860a7d8": {
-            "hash": "7f9a5d825860a7d8",
-            "directory": "External15",
-            "voiceContent": "The Spina's work is basically... well, a little bit of everything, but the focus is always on solving other people's problems. ...That probably makes it sound worse than it is, though. Sure, I'm making other people's problems my own, but I always get a real boost out of being able to help people.",
-            "sourceName": "vo_navia_friendship_01.wem"
-        },
-        "ea246b67ccc54e5f": {
-            "hash": "ea246b67ccc54e5f",
-            "directory": "External29",
-            "voiceContent": "I've always thought that it's important to appreciate the beauty in the world. The blossoms in the spring, summers by the sea, the smiles on your friends' faces... You shouldn't take those things for granted.",
-            "sourceName": "vo_navia_friendship_02.wem"
-        },
-        "947989714b97a8f6": {
-            "hash": "947989714b97a8f6",
-            "directory": "External18",
-            "voiceContent": "Sometimes, I like to go out into the wild, find a quiet place with no one else around, and do some target practice.It's a great way to destress! Wanna try? I can walk you through it step by step. You'd be my first student, but I feel like I'd be a great teacher. I still remember everything that my father and Nanny Bracari ever taught me!",
-            "sourceName": "vo_navia_friendship_03.wem"
-        },
-        "3def175896721165": {
-            "hash": "3def175896721165",
-            "directory": "External7",
-            "voiceContent": "I won't become the same kind of person as my father was. Some veterans of the Spina think that I'm becoming more and more like him, but I think the trend they're referring to is a superficial one, born out of the simple fact that some problems only have so many solutions. Spina di Rosula has changed a lot since my father's day, and I intend to be the president for the Spina of today.",
-            "sourceName": "vo_navia_friendship_04.wem"
-        },
-        "8fe95d5f9e321494": {
-            "hash": "8fe95d5f9e321494",
-            "directory": "External17",
-            "voiceContent": "I also don't think I'm going to turn into my mother, either. People say we have similar personalities, and I can kind of understand her reasons for making the decisions she did back in the day, but even so...Huh, I have a sudden urge to take a trip on the Clementine Line. Could you come with me? I don't have a particular goal in mind, but... maybe we could take a walk around the city afterwards?",
-            "sourceName": "vo_navia_friendship_05.wem"
-        },
-        "8fa94dd8db54325c": {
-            "hash": "8fa94dd8db54325c",
-            "directory": "External17",
-            "voiceContent": "I've loved baking ever since I was a child. Don't you think it's magical? You throw a bunch of random ingredients together in the right amounts, put the mixture in the oven, and then just watch as it slowly balloons up and transforms into a delicious treat...Hey, do you wanna make gingerbread together sometime? We can make it into a fun little competition — see who can build the biggest, most beautiful gingerbread house!",
-            "sourceName": "vo_navia_pref_hobby.wem"
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackmid_02.wem"
         },
         "045cff2d34e1eea7": {
             "hash": "045cff2d34e1eea7",
             "directory": "External0",
-            "voiceContent": "I like trying new things, for the surprise factor. But before you question my sense of taste, let me clarify that just because I can appreciate the novelty in a dish doesn't mean I'm claiming it tastes amazing.",
+            "voiceContent": "I like trying new things, for the surprise factor. But before you question my sense of taste, let me clarify that just because I can appreciate the novelty in a dish doesn't mean I'm claiming it tastes amazing",
             "sourceName": "vo_navia_pref_foodLike.wem"
         },
-        "1a4411e639de9f01": {
-            "hash": "1a4411e639de9f01",
-            "directory": "External3",
-            "voiceContent": "I never enjoy leftovers that have been left too long. It just feels like sacrilege to neglect the poor food when it's fresh, then eat after it's gone stale...",
-            "sourceName": "vo_navia_pref_foodDislike.wem"
-        },
-        "cd7a7753e0f47ff0": {
-            "hash": "cd7a7753e0f47ff0",
-            "directory": "External25",
-            "voiceContent": "This is some incredible cooking! Next time we head out together, looks like I should carry the ingredients and cookware, and let you be the chef.",
-            "sourceName": "vo_navia_spice_pref_01.wem"
-        },
-        "5a91e86f6b2850aa": {
-            "hash": "5a91e86f6b2850aa",
-            "directory": "External11",
-            "voiceContent": "Not bad! Next time, you cook the food and I'll plate it. Then, it'll look as good as it tastes.",
-            "sourceName": "vo_navia_spice_normal_01.wem"
-        },
-        "9f4ba20948e80106": {
-            "hash": "9f4ba20948e80106",
-            "directory": "External19",
-            "voiceContent": "Don't feel discouraged! The world needs people who aren't afraid to innovate.",
-            "sourceName": "vo_navia_spice_dislike_01.wem"
-        },
-        "1429e53168a06a63": {
-            "hash": "1429e53168a06a63",
-            "directory": "External2",
-            "voiceContent": "Do you believe that wishes can come true? You know, like when you toss a coin into a fountain for good luck? As long as you throw enough coins in, one of your wishes is sure to come true, right?Well anyway, today's your birthday, so I'm not leaving anything to chance — I've got a whole bag of Mora here dedicated to making your birthday wish come true. Whatever you want, I'll do everything in my power to make it happen!",
-            "sourceName": "vo_navia_pref_birthday_01.wem"
-        },
-        "b100e57f4d207bab": {
-            "hash": "b100e57f4d207bab",
-            "directory": "External22",
-            "voiceContent": "This feeling, it's like... Like a lemon cheesecake!",
-            "sourceName": "vo_navia_starUp_01.wem"
+        "06dccfe6eab153f5": {
+            "hash": "06dccfe6eab153f5",
+            "directory": "External0",
+            "voiceContent": "I always say that blind optimism isn't the answer — if you want a bright future, you have to go out and seize it with your own two hands! So, come over here... Now, take my hands in yours and give them a good shake. There! See, doesn't that feel good",
+            "sourceName": "vo_navia_dialog_idle.wem"
         },
         "078b579802461334": {
             "hash": "078b579802461334",
             "directory": "External0",
-            "voiceContent": "As the cream melts on the tip of my tongue, all my stress fades away.",
+            "voiceContent": "As the cream melts on the tip of my tongue, all my stress fades away",
             "sourceName": "vo_navia_starUp_02.wem"
-        },
-        "60d3918e8686b985": {
-            "hash": "60d3918e8686b985",
-            "directory": "External12",
-            "voiceContent": "Do you know that chocolate candy that's made in the shape of a bullet? It's so sweet, it's like an instant shot of energy to your whole body. Well, that's what this feels like!",
-            "sourceName": "vo_navia_starUp_03.wem"
-        },
-        "b3f703a738c77516": {
-            "hash": "b3f703a738c77516",
-            "directory": "External22",
-            "voiceContent": "All I need now is a nice pot of soothing tea with a little milk, and our tea party can finally commence... But seriously, one tea party wouldn't begin to repay you after everything you've done for me. So if there's ever something you need in Fontaine, know that Spina di Rosula will always be happy to help you.",
-            "sourceName": "vo_navia_starUp_04.wem"
-        },
-        "5885fbafa6e2cd2f": {
-            "hash": "5885fbafa6e2cd2f",
-            "directory": "External11",
-            "voiceContent": "Just... a little longer!",
-            "sourceName": "vo_navia_life_less30_01.wem"
-        },
-        "edfbadca327dba68": {
-            "hash": "edfbadca327dba68",
-            "directory": "External29",
-            "voiceContent": "...I must do my duty!",
-            "sourceName": "vo_navia_life_less30_02.wem"
-        },
-        "43a6c7c0b3abbea9": {
-            "hash": "43a6c7c0b3abbea9",
-            "directory": "External8",
-            "voiceContent": "C'mon, Navia, focus!",
-            "sourceName": "vo_navia_life_less30_03.wem"
-        },
-        "63cde8a368501c35": {
-            "hash": "63cde8a368501c35",
-            "directory": "External12",
-            "voiceContent": "No... not me, too...",
-            "sourceName": "vo_navia_life_die_03.wem"
-        },
-        "ac56d12085a7b7cf": {
-            "hash": "ac56d12085a7b7cf",
-            "directory": "External21",
-            "voiceContent": "Where'd that come from!?",
-            "sourceName": "vo_navia_battle_hit_H_01.wem"
-        },
-        "ed0e03389d419b88": {
-            "hash": "ed0e03389d419b88",
-            "directory": "External29",
-            "voiceContent": "Ow... I'm fine!",
-            "sourceName": "vo_navia_battle_hit_H_02.wem"
-        },
-        "2e548002f570105c": {
-            "hash": "2e548002f570105c",
-            "directory": "External5",
-            "voiceContent": "*gasp* My hat! No, my skirt! Aah, don't make me choose!",
-            "sourceName": "vo_navia_weather_gale_01.wem"
-        },
-        "beea8b045e4ee21d": {
-            "hash": "beea8b045e4ee21d",
-            "directory": "External23",
-            "voiceContent": "If you've spent long enough in the Fleuve Cendre, you might have noticed that there are a lot of other groups in Fontaine besides the Spina di Rosula. Beware of them — they each have their own agenda, and they're not all friendly like us. If you ever find yourself in a tight spot, you can always ask Mr. Tetreaux at the bar for help. Unless you're dealing with someone who isn't in the mood to sit down and have a conversation, in which case... White Glove will sort things out. You can count on him.",
-            "sourceName": "vo_navia_dialog_share_02.wem"
-        },
-        "8be1358e07cadcf4": {
-            "hash": "8be1358e07cadcf4",
-            "directory": "External17",
-            "voiceContent": "What's your problem?",
-            "sourceName": "vo_navia_battle_hit_L_02.wem"
-        },
-        "94634697fc69b787": {
-            "hash": "94634697fc69b787",
-            "directory": "External18",
-            "voiceContent": "Ugh, cleaning up after baking a cake is a nightmare. The flour just gets everywhere, and the leftover egg whites and cream go all sticky and gross... I'll, um... I'll just go find a helper!",
-            "sourceName": "vo_navia_dialog_annoyed_01.wem"
         },
         "08879bbeab25df76": {
             "hash": "08879bbeab25df76",
             "directory": "External1",
-            "voiceContent": "Nice to meet you! I am Navia, the esteemed president, leader, commander-in-chief, executive director, and Boss of Spina di Rosula. You strike me as somebody special — a person of character. Something tells me that this is the beginning of a long partnership between us... perhaps even as long as all the titles in front of my name.",
+            "voiceContent": "Nice to meet you! I am Navia, the esteemed president, leader, commander-in-chief, executive director, and Boss of Spina di Rosula. You strike me as somebody special — a person of character. Something tells me that this is the beginning of a long partnership between us... perhaps even as long as all the titles in front of my name",
             "sourceName": "vo_navia_draw_appear_01.wem"
         },
-        "2c0bdcae9e75cfee": {
-            "hash": "2c0bdcae9e75cfee",
-            "directory": "External5",
-            "voiceContent": "Sunglasses are great at keeping the sand out of your eyes so you can see your way! Except at night... then you can't see anything at all...",
-            "sourceName": "vo_navia_weather_desert_01.wem"
+        "091a58a2d49cd9b5": {
+            "hash": "091a58a2d49cd9b5",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_jump_04.wem"
         },
-        "e3928fd31ffe1cd7": {
-            "hash": "e3928fd31ffe1cd7",
-            "directory": "External28",
-            "voiceContent": "Pff, it's... fine...!",
-            "sourceName": "vo_card_navia_inGame_hard_02.wem"
+        "1206364355f9425d": {
+            "hash": "1206364355f9425d",
+            "directory": "External2",
+            "voiceContent": "Charlotte's known for her fast-and-furious reporting, but it's her photography skills that really impress me. She once snapped a quick photo of me, a waist-up shot, and the result was absolutely stunning — it was like looking at an oil painting. She seems to have a knack for writing extraordinary news stories and taking the most eye-catching photos. Guess she was born to be a journalist",
+            "sourceName": "vo_navia_teammate_charlotte_01.wem"
         },
-        "61d52ddb635df1ce": {
-            "hash": "61d52ddb635df1ce",
-            "directory": "External12",
-            "voiceContent": "Ugh, what is going wrong?",
-            "sourceName": "vo_card_navia_inGame_hard_03.wem"
+        "1429e53168a06a63": {
+            "hash": "1429e53168a06a63",
+            "directory": "External2",
+            "voiceContent": "Do you believe that wishes can come true? You know, like when you toss a coin into a fountain for good luck? As long as you throw enough coins in, one of your wishes is sure to come true, right?Well anyway, today's your birthday, so I'm not leaving anything to chance — I've got a whole bag of Mora here dedicated to making your birthday wish come true. Whatever you want, I'll do everything in my power to make it happen",
+            "sourceName": "vo_navia_pref_birthday_01.wem"
         },
-        "8c3b21e72fcdd2c7": {
-            "hash": "8c3b21e72fcdd2c7",
-            "directory": "External17",
-            "voiceContent": "Okay, show-off, now it's my turn!",
-            "sourceName": "vo_card_navia_inGame_easy_01.wem"
+        "145293d53618e1ac": {
+            "hash": "145293d53618e1ac",
+            "directory": "External2",
+            "voiceContent": "The Spina's on the case",
+            "sourceName": "vo_navia_teamJoin_02.wem"
         },
-        "62ff21ed0ddffd70": {
-            "hash": "62ff21ed0ddffd70",
-            "directory": "External12",
-            "voiceContent": "Better be careful, now~",
-            "sourceName": "vo_card_navia_inGame_hard_01.wem"
+        "15b51a2ff42b935c": {
+            "hash": "15b51a2ff42b935c",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_idle_03.wem"
         },
-        "6f8a8fcf2cfef22a": {
-            "hash": "6f8a8fcf2cfef22a",
-            "directory": "External13",
-            "voiceContent": "Coming right atcha!",
-            "sourceName": "vo_card_navia_inGame_easy_04.wem"
+        "1703fab72f4c5e08": {
+            "hash": "1703fab72f4c5e08",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_sprint_start_02.wem"
         },
-        "90cb0df8dd32f9e1": {
-            "hash": "90cb0df8dd32f9e1",
-            "directory": "External18",
-            "voiceContent": "Oh, fudge!",
-            "sourceName": "vo_card_navia_inGame_easy_03.wem"
+        "1887cc0f63199e42": {
+            "hash": "1887cc0f63199e42",
+            "directory": "External3",
+            "voiceContent": "In the headlines tonight, President of Spina di Rosula in awesome mood after spending another fantastic day with her favorite partner",
+            "sourceName": "vo_navia_dialog_greetingNight.wem"
         },
-        "e2fbb3ffe5213060": {
-            "hash": "e2fbb3ffe5213060",
-            "directory": "External28",
-            "voiceContent": "Hey hey, go me!",
-            "sourceName": "vo_card_navia_inGame_easy_02.wem"
+        "18dec1cca26b992f": {
+            "hash": "18dec1cca26b992f",
+            "directory": "External3",
+            "voiceContent": "She might not say much, or show a lot of emotion, but I can tell that she feels deeply. After my father's death, I... well, it caused quite a rift between us for a long time. But even then, I never did like having her constantly walking on eggshells around me... I much prefer how things are now",
+            "sourceName": "vo_navia_teammate_clorinde_01.wem"
+        },
+        "1a4411e639de9f01": {
+            "hash": "1a4411e639de9f01",
+            "directory": "External3",
+            "voiceContent": "I never enjoy leftovers that have been left too long. It just feels like sacrilege to neglect the poor food when it's fresh, then eat after it's gone stale..",
+            "sourceName": "vo_navia_pref_foodDislike.wem"
         },
         "20e6dbc34b9494fd": {
             "hash": "20e6dbc34b9494fd",
             "directory": "External4",
-            "voiceContent": "With love!",
+            "voiceContent": "With love",
             "sourceName": "vo_card_navia_inGame_hard_04.wem"
+        },
+        "221f26aaacd63c61": {
+            "hash": "221f26aaacd63c61",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackheavy_02.wem"
+        },
+        "26d4b5ae4dfa19b8": {
+            "hash": "26d4b5ae4dfa19b8",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_l_06.wem"
+        },
+        "2891d06fa5534c72": {
+            "hash": "2891d06fa5534c72",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_breath_03.wem"
+        },
+        "296f83171e858ec4": {
+            "hash": "296f83171e858ec4",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_h_06.wem"
+        },
+        "2c0bdcae9e75cfee": {
+            "hash": "2c0bdcae9e75cfee",
+            "directory": "External5",
+            "voiceContent": "Sunglasses are great at keeping the sand out of your eyes so you can see your way! Except at night... then you can't see anything at all..",
+            "sourceName": "vo_navia_weather_desert_01.wem"
+        },
+        "2e548002f570105c": {
+            "hash": "2e548002f570105c",
+            "directory": "External5",
+            "voiceContent": "*gasp* My hat! No, my skirt! Aah, don't make me choose",
+            "sourceName": "vo_navia_weather_gale_01.wem"
+        },
+        "33928aba4e5058c6": {
+            "hash": "33928aba4e5058c6",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_jump_03.wem"
+        },
+        "3512d1d2fccfce85": {
+            "hash": "3512d1d2fccfce85",
+            "directory": "External6",
+            "voiceContent": "Quick! Let's pack it up",
+            "sourceName": "vo_navia_chest_open_02.wem"
+        },
+        "3764a4c30032ee62": {
+            "hash": "3764a4c30032ee62",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_06.wem"
+        },
+        "387f2d591bf0d802": {
+            "hash": "387f2d591bf0d802",
+            "directory": "External7",
+            "voiceContent": "Comin' at ya",
+            "sourceName": "vo_navia_battle_skill1_02.wem"
+        },
+        "388e88d4aab4de34": {
+            "hash": "388e88d4aab4de34",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_04.wem"
+        },
+        "38bdc375558a216b": {
+            "hash": "38bdc375558a216b",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_l_01.wem"
+        },
+        "3a655b4a3273cb34": {
+            "hash": "3a655b4a3273cb34",
+            "directory": "External7",
+            "voiceContent": "I've heard about this weird new kind of lasagna that's just come out. You wanna try it together? Sounds like it'll taste pretty strange... but I still gotta try it",
+            "sourceName": "vo_navia_dialog_greetingNoon.wem"
+        },
+        "3bb3e19d41311ad6": {
+            "hash": "3bb3e19d41311ad6",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_l_04.wem"
+        },
+        "3def175896721165": {
+            "hash": "3def175896721165",
+            "directory": "External7",
+            "voiceContent": "I won't become the same kind of person as my father was. Some veterans of the Spina think that I'm becoming more and more like him, but I think the trend they're referring to is a superficial one, born out of the simple fact that some problems only have so many solutions. Spina di Rosula has changed a lot since my father's day, and I intend to be the president for the Spina of today",
+            "sourceName": "vo_navia_friendship_04.wem"
+        },
+        "43a6c7c0b3abbea9": {
+            "hash": "43a6c7c0b3abbea9",
+            "directory": "External8",
+            "voiceContent": "C'mon, Navia, focus",
+            "sourceName": "vo_navia_life_less30_03.wem"
+        },
+        "4be7e70468b4bd67": {
+            "hash": "4be7e70468b4bd67",
+            "directory": "External9",
+            "voiceContent": "My time with the Spina has taught me that carrying an unreliable weapon is worse than not carrying one at all",
+            "sourceName": "vo_navia_character_idle_02.wem"
+        },
+        "4c6e436fa66dbc5a": {
+            "hash": "4c6e436fa66dbc5a",
+            "directory": "External9",
+            "voiceContent": "Ah, how to describe Monsieur Neuvillette... He's... complex, in some ways — but very straightforward in others. I guess a good analogy would be rocky reefs in the sea Trying to navigate through obstacles you can't see makes for a bumpy ride, but if you can figure out how they work, you start to spot the signs",
+            "sourceName": "vo_navia_teammate_neuvillette_01.wem"
+        },
+        "4e2b9ecc996e99e8": {
+            "hash": "4e2b9ecc996e99e8",
+            "directory": "External9",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_jump_01.wem"
+        },
+        "51151d3a5361912a": {
+            "hash": "51151d3a5361912a",
+            "directory": "External10",
+            "voiceContent": "Ugh... It's raining again..",
+            "sourceName": "vo_navia_weather_heavyRain_01.wem"
+        },
+        "534096201ff19f6a": {
+            "hash": "534096201ff19f6a",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_idle_01.wem"
+        },
+        "535cd43bfd0baf42": {
+            "hash": "535cd43bfd0baf42",
+            "directory": "External10",
+            "voiceContent": "Come on now, time to empty your mind and get a good night's sleep! I'll see you tomorrow",
+            "sourceName": "vo_navia_dialog_greetingNight2.wem"
+        },
+        "553e62ecad828679": {
+            "hash": "553e62ecad828679",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_01.wem"
+        },
+        "567c110416ee0b5b": {
+            "hash": "567c110416ee0b5b",
+            "directory": "External10",
+            "voiceContent": "Some people call me Boss, others Demoiselle, but none of that does anything for me. My favorite thing to be called is partner — but only by you, of course. So, just know that my vainer side would be over the moon if you could indulge me a little more often",
+            "sourceName": "vo_navia_dialog_close.wem"
+        },
+        "5885fbafa6e2cd2f": {
+            "hash": "5885fbafa6e2cd2f",
+            "directory": "External11",
+            "voiceContent": "Just... a little longer",
+            "sourceName": "vo_navia_life_less30_01.wem"
+        },
+        "59beeb82cc239919": {
+            "hash": "59beeb82cc239919",
+            "directory": "External11",
+            "voiceContent": "This one's got your name on it",
+            "sourceName": "vo_navia_battle_skill1_05.wem"
+        },
+        "5a91e86f6b2850aa": {
+            "hash": "5a91e86f6b2850aa",
+            "directory": "External11",
+            "voiceContent": "Not bad! Next time, you cook the food and I'll plate it. Then, it'll look as good as it tastes",
+            "sourceName": "vo_navia_spice_normal_01.wem"
+        },
+        "5eafb3f84ba513fc": {
+            "hash": "5eafb3f84ba513fc",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_02.wem"
+        },
+        "60d3918e8686b985": {
+            "hash": "60d3918e8686b985",
+            "directory": "External12",
+            "voiceContent": "Do you know that chocolate candy that's made in the shape of a bullet? It's so sweet, it's like an instant shot of energy to your whole body. Well, that's what this feels like",
+            "sourceName": "vo_navia_starUp_03.wem"
+        },
+        "617f6cfc2d05f41a": {
+            "hash": "617f6cfc2d05f41a",
+            "directory": "External12",
+            "voiceContent": "My favorite dog breed of all is the chestnut hunting hound. You know how they have the little spots above their eyes? They look just like eyebrows, don't they? That's why they look so innocent and earnest all the time. Please keep this a secret for me, though — I don't wanna hurt the other dogs' feelings",
+            "sourceName": "vo_navia_dialog_share_01.wem"
+        },
+        "61d52ddb635df1ce": {
+            "hash": "61d52ddb635df1ce",
+            "directory": "External12",
+            "voiceContent": "Ugh, what is going wrong",
+            "sourceName": "vo_card_navia_inGame_hard_03.wem"
+        },
+        "625a6863d0691998": {
+            "hash": "625a6863d0691998",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_fly_start_01.wem"
+        },
+        "62a3fc91bdce1e1b": {
+            "hash": "62a3fc91bdce1e1b",
+            "directory": "External12",
+            "voiceContent": "Guess I'm... going home..",
+            "sourceName": "vo_navia_life_die_01.wem"
+        },
+        "62ff21ed0ddffd70": {
+            "hash": "62ff21ed0ddffd70",
+            "directory": "External12",
+            "voiceContent": "Better be careful, now",
+            "sourceName": "vo_card_navia_inGame_hard_01.wem"
+        },
+        "63cde8a368501c35": {
+            "hash": "63cde8a368501c35",
+            "directory": "External12",
+            "voiceContent": "No... not me, too..",
+            "sourceName": "vo_navia_life_die_03.wem"
+        },
+        "647baf7d2ac08178": {
+            "hash": "647baf7d2ac08178",
+            "directory": "External12",
+            "voiceContent": "Morning! Any plans for the day yet? If not, why don't you hang out with me",
+            "sourceName": "vo_navia_dialog_greetingMorning.wem"
+        },
+        "6f8a8fcf2cfef22a": {
+            "hash": "6f8a8fcf2cfef22a",
+            "directory": "External13",
+            "voiceContent": "Coming right atcha",
+            "sourceName": "vo_card_navia_inGame_easy_04.wem"
+        },
+        "6fef810f6d5e87ad": {
+            "hash": "6fef810f6d5e87ad",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackmid_03.wem"
+        },
+        "71ef9d74cf53a861": {
+            "hash": "71ef9d74cf53a861",
+            "directory": "External14",
+            "voiceContent": "Aaah! Ugh, I should have covered my ears when I saw the flash",
+            "sourceName": "vo_navia_weather_thunder_01.wem"
+        },
+        "73d39452c0bcf1b6": {
+            "hash": "73d39452c0bcf1b6",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_fly_start_03.wem"
+        },
+        "73f399c40e0b6cf8": {
+            "hash": "73f399c40e0b6cf8",
+            "directory": "External14",
+            "voiceContent": "I was lucky enough to catch her in an opera when I was young. Even though it was a charity show, the tickets were nearly impossible to get! She was performing in character then, but I thought she seemed more in her element then than she ever did as an Archon, giving speeches up in the opera box... Looking back, I guess my intuition was right",
+            "sourceName": "vo_navia_teammate_furina_01.wem"
+        },
+        "744fccb1b4c472e0": {
+            "hash": "744fccb1b4c472e0",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackheavy_03.wem"
+        },
+        "799ddf07e5211172": {
+            "hash": "799ddf07e5211172",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_h_04.wem"
+        },
+        "7c0175b2cbc27da6": {
+            "hash": "7c0175b2cbc27da6",
+            "directory": "External15",
+            "voiceContent": "Leave it to the president",
+            "sourceName": "vo_navia_life_less30_teammate_01.wem"
+        },
+        "7ea6c1baaa502f43": {
+            "hash": "7ea6c1baaa502f43",
+            "directory": "External15",
+            "voiceContent": "Count me in",
+            "sourceName": "vo_navia_teamJoin_01.wem"
+        },
+        "7f9a5d825860a7d8": {
+            "hash": "7f9a5d825860a7d8",
+            "directory": "External15",
+            "voiceContent": "The Spina's work is basically... well, a little bit of everything, but the focus is always on solving other people's problems. ...That probably makes it sound worse than it is, though. Sure, I'm making other people's problems my own, but I always get a real boost out of being able to help people",
+            "sourceName": "vo_navia_friendship_01.wem"
+        },
+        "8133342712e4deed": {
+            "hash": "8133342712e4deed",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_idle_02.wem"
+        },
+        "8336adcc57b5567d": {
+            "hash": "8336adcc57b5567d",
+            "directory": "External16",
+            "voiceContent": "I'll take the lead today",
+            "sourceName": "vo_navia_teamJoin_03.wem"
+        },
+        "87261eab17cdb024": {
+            "hash": "87261eab17cdb024",
+            "directory": "External16",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_jump_05.wem"
+        },
+        "8be1358e07cadcf4": {
+            "hash": "8be1358e07cadcf4",
+            "directory": "External17",
+            "voiceContent": "What's your problem",
+            "sourceName": "vo_navia_battle_hit_L_02.wem"
+        },
+        "8c3b21e72fcdd2c7": {
+            "hash": "8c3b21e72fcdd2c7",
+            "directory": "External17",
+            "voiceContent": "Okay, show-off, now it's my turn",
+            "sourceName": "vo_card_navia_inGame_easy_01.wem"
+        },
+        "8fa94dd8db54325c": {
+            "hash": "8fa94dd8db54325c",
+            "directory": "External17",
+            "voiceContent": "I've loved baking ever since I was a child. Don't you think it's magical? You throw a bunch of random ingredients together in the right amounts, put the mixture in the oven, and then just watch as it slowly balloons up and transforms into a delicious treat...Hey, do you wanna make gingerbread together sometime? We can make it into a fun little competition — see who can build the biggest, most beautiful gingerbread house",
+            "sourceName": "vo_navia_pref_hobby.wem"
+        },
+        "8fe95d5f9e321494": {
+            "hash": "8fe95d5f9e321494",
+            "directory": "External17",
+            "voiceContent": "I also don't think I'm going to turn into my mother, either. People say we have similar personalities, and I can kind of understand her reasons for making the decisions she did back in the day, but even so...Huh, I have a sudden urge to take a trip on the Clementine Line. Could you come with me? I don't have a particular goal in mind, but... maybe we could take a walk around the city afterwards",
+            "sourceName": "vo_navia_friendship_05.wem"
+        },
+        "90cb0df8dd32f9e1": {
+            "hash": "90cb0df8dd32f9e1",
+            "directory": "External18",
+            "voiceContent": "Oh, fudge",
+            "sourceName": "vo_card_navia_inGame_easy_03.wem"
+        },
+        "91c71f4fa03104cb": {
+            "hash": "91c71f4fa03104cb",
+            "directory": "External18",
+            "voiceContent": "Hey there",
+            "sourceName": "vo_navia_battle_skill1_03.wem"
+        },
+        "91d6c2cb2ef58485": {
+            "hash": "91d6c2cb2ef58485",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_05.wem"
+        },
+        "9295ddf01db65b4f": {
+            "hash": "9295ddf01db65b4f",
+            "directory": "External18",
+            "voiceContent": "She is a formidable but caring leader, and definitely comes across like a master of the house. But she's still a Fatui Harbinger, and that means she must have a more ruthless side. So don't worry — while I'll always appreciate what she did for Poisson, I'm not about to let my guard down around her completely",
+            "sourceName": "vo_navia_teammate_arlecchino_01.wem"
+        },
+        "92c996dcd94817ff": {
+            "hash": "92c996dcd94817ff",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_03.wem"
+        },
+        "92f04b614ab1bc25": {
+            "hash": "92f04b614ab1bc25",
+            "directory": "External18",
+            "voiceContent": "Watch out~",
+            "sourceName": "vo_navia_battle_skill1_01.wem"
+        },
+        "92f1d4b8336465df": {
+            "hash": "92f1d4b8336465df",
+            "directory": "External18",
+            "voiceContent": "People who know about my past might think I've suffered a lot of misfortune, but I don't see it like that at all.I count myself lucky to have received so much love in life",
+            "sourceName": "vo_navia_dialog_idle2.wem"
+        },
+        "9301cc5dc483247f": {
+            "hash": "9301cc5dc483247f",
+            "directory": "External18",
+            "voiceContent": "Here, take a look at my Vision! I love how shiny it is. Doesn't it go great with my dress?Still, it's nothing compared to using the elements without a Vision... And with no training or anything either, right? So cool",
+            "sourceName": "vo_navia_dialog_pendant_01.wem"
+        },
+        "94436f5cbf387ec7": {
+            "hash": "94436f5cbf387ec7",
+            "directory": "External18",
+            "voiceContent": "Fire!!! ...Well, with rocks",
+            "sourceName": "vo_navia_battle_skill3_01.wem"
+        },
+        "94634697fc69b787": {
+            "hash": "94634697fc69b787",
+            "directory": "External18",
+            "voiceContent": "Ugh, cleaning up after baking a cake is a nightmare. The flour just gets everywhere, and the leftover egg whites and cream go all sticky and gross... I'll, um... I'll just go find a helper",
+            "sourceName": "vo_navia_dialog_annoyed_01.wem"
+        },
+        "947989714b97a8f6": {
+            "hash": "947989714b97a8f6",
+            "directory": "External18",
+            "voiceContent": "Sometimes, I like to go out into the wild, find a quiet place with no one else around, and do some target practice.It's a great way to destress! Wanna try? I can walk you through it step by step. You'd be my first student, but I feel like I'd be a great teacher. I still remember everything that my father and Nanny Bracari ever taught me",
+            "sourceName": "vo_navia_friendship_03.wem"
+        },
+        "98d35b6e6c9da5e1": {
+            "hash": "98d35b6e6c9da5e1",
+            "directory": "External19",
+            "voiceContent": "Attack! Mm-hmm, that's the way",
+            "sourceName": "vo_navia_battle_skill3_03.wem"
+        },
+        "9add9d319553d249": {
+            "hash": "9add9d319553d249",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_h_03.wem"
+        },
+        "9e18450b70a2795e": {
+            "hash": "9e18450b70a2795e",
+            "directory": "External19",
+            "voiceContent": "I do love Spina di Rosula's logo. It was designed by my mother. Have you noticed how it's shaped like a heart",
+            "sourceName": "vo_navia_character_idle_03.wem"
+        },
+        "9f4ba20948e80106": {
+            "hash": "9f4ba20948e80106",
+            "directory": "External19",
+            "voiceContent": "Don't feel discouraged! The world needs people who aren't afraid to innovate",
+            "sourceName": "vo_navia_spice_dislike_01.wem"
+        },
+        "9f7bcee44896535c": {
+            "hash": "9f7bcee44896535c",
+            "directory": "External19",
+            "voiceContent": "Quick, look! Up in the sky! Look at that scorching sun, it's like a blast furnace! You know what this means? It means we have to drop everything, right now, and make a run for the ice cream store! We need to get two of the biggest cones they sell, and then it's an all-out race to see who can finish before it melts",
+            "sourceName": "vo_navia_weather_sunny_01.wem"
+        },
+        "a2a8791d1e081a00": {
+            "hash": "a2a8791d1e081a00",
+            "directory": "External20",
+            "voiceContent": "I really wanna go traveling! I don't mind where we go, as long as I have my friends with me, hehe",
+            "sourceName": "vo_navia_character_idle_01.wem"
+        },
+        "a4c0b10ba34d5e00": {
+            "hash": "a4c0b10ba34d5e00",
+            "directory": "External20",
+            "voiceContent": "I really love the Pluie Lotus — it's such a beautiful color. Plus, when you see them in full bloom, it's a sure sign that the rainy season is finally over",
+            "sourceName": "vo_navia_pref_gift_01.wem"
+        },
+        "a609286cb9bbdf64": {
+            "hash": "a609286cb9bbdf64",
+            "directory": "External20",
+            "voiceContent": "I know magicians can often be all bravado and razzmatazz, but I can tell that Lyney is a sincere guy who cares deeply about his friends and family. He's so mature for his age, it catches me off guard sometimes... Oh, and how could I forget — it was so kind of him to try and cheer up the children in Poisson with an impromptu free magic show during the flood! I'll have to invite him and Lynette over for some macarons at my place when I get the chance. I know Lynette's always conjuring teacups out of thin air, so surely at least she's a fan of a proper tea break",
+            "sourceName": "vo_navia_teammate_lyney_01.wem"
+        },
+        "ac56d12085a7b7cf": {
+            "hash": "ac56d12085a7b7cf",
+            "directory": "External21",
+            "voiceContent": "Where'd that come from!",
+            "sourceName": "vo_navia_battle_hit_H_01.wem"
+        },
+        "adeb426765044abb": {
+            "hash": "adeb426765044abb",
+            "directory": "External21",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_breath_02.wem"
+        },
+        "b100e57f4d207bab": {
+            "hash": "b100e57f4d207bab",
+            "directory": "External22",
+            "voiceContent": "This feeling, it's like... Like a lemon cheesecake",
+            "sourceName": "vo_navia_starUp_01.wem"
+        },
+        "b2e6346732bd771d": {
+            "hash": "b2e6346732bd771d",
+            "directory": "External22",
+            "voiceContent": "Maybe I should take off my hat, and let the snowflakes fall onto my face... I feel like that would be really refreshing",
+            "sourceName": "vo_navia_weather_snowy_01.wem"
+        },
+        "b38c6902dbf5bfa2": {
+            "hash": "b38c6902dbf5bfa2",
+            "directory": "External22",
+            "voiceContent": "People say that a secret shared is a secret no more, but I like to think that true friends keep each other's secrets. ...What? Veiled threat? No, of course not! Granted, as president of Spina di Rosula, I do have my ways of making people keep their mouths shut, but don't worry — I promise not to use those on you",
+            "sourceName": "vo_navia_dialog_close1.wem"
+        },
+        "b3f703a738c77516": {
+            "hash": "b3f703a738c77516",
+            "directory": "External22",
+            "voiceContent": "All I need now is a nice pot of soothing tea with a little milk, and our tea party can finally commence... But seriously, one tea party wouldn't begin to repay you after everything you've done for me. So if there's ever something you need in Fontaine, know that Spina di Rosula will always be happy to help you",
+            "sourceName": "vo_navia_starUp_04.wem"
+        },
+        "b6ad1e5377c157e7": {
+            "hash": "b6ad1e5377c157e7",
+            "directory": "External22",
+            "voiceContent": "Ah, the fashion designer who brought the coolest Inazuman trends to Fontaine? She's actually been a great help to the Spina behind the scenes. She says my unorthodox ideas always give her a lot of inspiration for her work, and from what I can tell, I think she means it. Still, she drew the line at my request for a ten-meter-tall top hat. *sigh* Missed opportunity, if you ask me... Imagine seeing one of those in front of the shop! It would be a great way to draw in customers",
+            "sourceName": "vo_navia_teammate_chiori_01.wem"
+        },
+        "b8b5ecb20dd3acaf": {
+            "hash": "b8b5ecb20dd3acaf",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_jump_02.wem"
+        },
+        "bc740447b90d658b": {
+            "hash": "bc740447b90d658b",
+            "directory": "External23",
+            "voiceContent": "Finally! The rain has stopped",
+            "sourceName": "vo_navia_weather_afterRain_01.wem"
+        },
+        "beea8b045e4ee21d": {
+            "hash": "beea8b045e4ee21d",
+            "directory": "External23",
+            "voiceContent": "If you've spent long enough in the Fleuve Cendre, you might have noticed that there are a lot of other groups in Fontaine besides the Spina di Rosula. Beware of them — they each have their own agenda, and they're not all friendly like us. If you ever find yourself in a tight spot, you can always ask Mr. Tetreaux at the bar for help. Unless you're dealing with someone who isn't in the mood to sit down and have a conversation, in which case... White Glove will sort things out. You can count on him",
+            "sourceName": "vo_navia_dialog_share_02.wem"
+        },
+        "c166da0bca7d63d0": {
+            "hash": "c166da0bca7d63d0",
+            "directory": "External24",
+            "voiceContent": "Trying to discuss anything with that guy is an exhausting process. Clorinde says I needn't have any reservations about collaborating with him in the scope of our preexisting agreement, but I still shouldn't trust everything that comes out of his mouth. No wonder my father never tried to get involved with the affairs of the Fortress... I think I'll play it safe and keep things that way",
+            "sourceName": "vo_navia_teammate_wriothesley_01.wem"
+        },
+        "c383150036dbdf33": {
+            "hash": "c383150036dbdf33",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackmid_01.wem"
+        },
+        "c4d394b0275e94c9": {
+            "hash": "c4d394b0275e94c9",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_sprint_start_03.wem"
+        },
+        "c7e418a27e4302be": {
+            "hash": "c7e418a27e4302be",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attackheavy_01.wem"
+        },
+        "c903e1ddbfdc6093": {
+            "hash": "c903e1ddbfdc6093",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_01.wem"
+        },
+        "ca2dcdef6a5e5e8d": {
+            "hash": "ca2dcdef6a5e5e8d",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_03.wem"
+        },
+        "cce5764944cf731f": {
+            "hash": "cce5764944cf731f",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_fly_start_02.wem"
+        },
+        "cd7a7753e0f47ff0": {
+            "hash": "cd7a7753e0f47ff0",
+            "directory": "External25",
+            "voiceContent": "This is some incredible cooking! Next time we head out together, looks like I should carry the ingredients and cookware, and let you be the chef",
+            "sourceName": "vo_navia_spice_pref_01.wem"
+        },
+        "d64cc89f17b27a4f": {
+            "hash": "d64cc89f17b27a4f",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_sprint_start_01.wem"
+        },
+        "d801918b0f837b98": {
+            "hash": "d801918b0f837b98",
+            "directory": "External27",
+            "voiceContent": "Feelin' lucky",
+            "sourceName": "vo_navia_battle_skill1_04.wem"
+        },
+        "d863747edeb7c9c4": {
+            "hash": "d863747edeb7c9c4",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_explore_climb_breath_01.wem"
+        },
+        "daa0b3cace0d3862": {
+            "hash": "daa0b3cace0d3862",
+            "directory": "External27",
+            "voiceContent": "Whoa! What a stroke of good luck",
+            "sourceName": "vo_navia_chest_open_01.wem"
+        },
+        "dbca97dc788f2834": {
+            "hash": "dbca97dc788f2834",
+            "directory": "External27",
+            "voiceContent": "I'm loving this treasure hunt~",
+            "sourceName": "vo_navia_chest_open_03.wem"
+        },
+        "e1d9aeabab80f2a4": {
+            "hash": "e1d9aeabab80f2a4",
+            "directory": "External28",
+            "voiceContent": "Sorry, partner..",
+            "sourceName": "vo_navia_life_die_02.wem"
+        },
+        "e20416bbf58f46ab": {
+            "hash": "e20416bbf58f46ab",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_07.wem"
+        },
+        "e2fbb3ffe5213060": {
+            "hash": "e2fbb3ffe5213060",
+            "directory": "External28",
+            "voiceContent": "Hey hey, go me",
+            "sourceName": "vo_card_navia_inGame_easy_02.wem"
+        },
+        "e3928fd31ffe1cd7": {
+            "hash": "e3928fd31ffe1cd7",
+            "directory": "External28",
+            "voiceContent": "Pff, it's... fine...",
+            "sourceName": "vo_card_navia_inGame_hard_02.wem"
+        },
+        "e4fa34e3e1364016": {
+            "hash": "e4fa34e3e1364016",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_attacklight_02.wem"
+        },
+        "e5296f848c0b8345": {
+            "hash": "e5296f848c0b8345",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_l_03.wem"
+        },
+        "e97abd79ffd753b6": {
+            "hash": "e97abd79ffd753b6",
+            "directory": "External29",
+            "voiceContent": "...Umbrella warfare, I guess",
+            "sourceName": "vo_navia_battle_skill1_06.wem"
+        },
+        "e98343963942f1bf": {
+            "hash": "e98343963942f1bf",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_l_05.wem"
+        },
+        "ea246b67ccc54e5f": {
+            "hash": "ea246b67ccc54e5f",
+            "directory": "External29",
+            "voiceContent": "I've always thought that it's important to appreciate the beauty in the world. The blossoms in the spring, summers by the sea, the smiles on your friends' faces... You shouldn't take those things for granted",
+            "sourceName": "vo_navia_friendship_02.wem"
+        },
+        "eb040175748bdc60": {
+            "hash": "eb040175748bdc60",
+            "directory": "External29",
+            "voiceContent": "A proper sendoff! From the Spina, with love",
+            "sourceName": "vo_navia_battle_skill3_02.wem"
+        },
+        "ec45a3bb980ec309": {
+            "hash": "ec45a3bb980ec309",
+            "directory": "External29",
+            "voiceContent": "Reinforcements are here",
+            "sourceName": "vo_navia_life_less30_teammate_02.wem"
+        },
+        "ed0e03389d419b88": {
+            "hash": "ed0e03389d419b88",
+            "directory": "External29",
+            "voiceContent": "Ow... I'm fine",
+            "sourceName": "vo_navia_battle_hit_H_02.wem"
+        },
+        "edfbadca327dba68": {
+            "hash": "edfbadca327dba68",
+            "directory": "External29",
+            "voiceContent": "...I must do my duty",
+            "sourceName": "vo_navia_life_less30_02.wem"
+        },
+        "fef750ffa4d20fbb": {
+            "hash": "fef750ffa4d20fbb",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_navia_battle_hit_h_05.wem"
         }
     }
 }

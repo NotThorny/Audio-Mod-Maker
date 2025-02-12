@@ -1,505 +1,769 @@
 {
     "Teapot": {},
     "Quests": {
-        "e2f6302b1965149c": {
-            "hash": "e2f6302b1965149c",
-            "directory": "External28",
-            "voiceContent": "그럼 나도 일하러 가 볼게, 나중에 같이 차 한잔하자!",
-            "sourceName": "vo_EQHDJ402_2_gaming_09.wem"
-        },
-        "3099cbf88acd8196": {
-            "hash": "3099cbf88acd8196",
-            "directory": "External6",
-            "voiceContent": "그냥 다방면으로 준비하는 것 같으니까 너무 걱정하지 마, 아직 그 정도는 아닌 것 같아",
-            "sourceName": "vo_EQHDJ402_2_gaming_07.wem"
-        },
-        "a0ddfa015719c7f9": {
-            "hash": "a0ddfa015719c7f9",
-            "directory": "External20",
-            "voiceContent": "깜짝이야, 어디서 정보가 샜나 했네. 호송국이 이번 일은 조용히 처리하라 했거든…. 너희가 알고 있으면 더 숨길 필요는 없겠다, 야",
-            "sourceName": "vo_EQHDJ402_2_gaming_04.wem"
-        },
-        "de692df182df597f": {
-            "hash": "de692df182df597f",
-            "directory": "External27",
-            "voiceContent": "백 선생님 일은 나도 잘 모르겠어…. 근데 비운 상회의 큰 도련님이 오늘은 준비하기 좋게 미리 물건을 돌려보내는 거라시더라",
-            "sourceName": "vo_EQHDJ402_2_gaming_06.wem"
-        },
-        "2da3add09f26882b": {
-            "hash": "2da3add09f26882b",
-            "directory": "External5",
-            "voiceContent": "침옥 협곡으로 호송 갈 일이 생겼거든. 마침 아버지가 명절엔 꼭 집에 오라고 재촉하셔서, 겸사겸사 가보기로 했지",
-            "sourceName": "vo_EQHDJ402_2_gaming_02.wem"
-        },
-        "51da4a223b01892d": {
-            "hash": "51da4a223b01892d",
-            "directory": "External10",
-            "voiceContent": "행추? 이미 그쪽 형님이랑 같이 침옥 협곡에 갔어, 야. 조상님 집에 수리할 곳이 있나 없나 확인한다나…. 아마 헛수고일 거야",
-            "sourceName": "vo_EQHDJ402_2_gaming_08.wem"
+        "1ca6cf839f1f26aa": {
+            "hash": "1ca6cf839f1f26aa",
+            "directory": "External3",
+            "voiceContent": "그럼 나는 연산 이 현자를 택할래. 세외의 고수들은 항상 깊이 은거하는 법이지, 소설에는 다 그렇게 나오잖아. 안 그래",
+            "sourceName": "vo_EQHDJ404_2_gaming_01.wem"
         },
         "1f20a0099a79aa78": {
             "hash": "1f20a0099a79aa78",
             "directory": "External3",
-            "voiceContent": "장의사 누님, 물건은 다 준비됐죠? 수량 확인만 하고 문제없으면 바로 동료들을 부를게요",
+            "voiceContent": "장의사 누님, 물건은 다 준비됐죠? 수량 확인만 하고 문제없으면 바로 동료들을 부를게",
             "sourceName": "vo_EQHDJ402_2_gaming_05.wem"
         },
-        "83043bd7a9ca2fe2": {
-            "hash": "83043bd7a9ca2fe2",
-            "directory": "External16",
-            "voiceContent": "농담이지? 페이몬, 너 솔직히 말해, 어디서 점술이라도 배웠어? 어떻게 알았대?",
-            "sourceName": "vo_EQHDJ402_2_gaming_03.wem"
+        "2da3add09f26882b": {
+            "hash": "2da3add09f26882b",
+            "directory": "External5",
+            "voiceContent": "침옥 협곡으로 호송 갈 일이 생겼거든. 마침 아버지가 명절엔 꼭 집에 오라고 재촉하셔서, 겸사겸사 가보기로 했",
+            "sourceName": "vo_EQHDJ402_2_gaming_02.wem"
         },
-        "1ca6cf839f1f26aa": {
-            "hash": "1ca6cf839f1f26aa",
-            "directory": "External3",
-            "voiceContent": "그럼 나는 연산 이 현자를 택할래. 세외의 고수들은 항상 깊이 은거하는 법이지, 소설에는 다 그렇게 나오잖아. 안 그래?",
-            "sourceName": "vo_EQHDJ404_2_gaming_01.wem"
+        "3099cbf88acd8196": {
+            "hash": "3099cbf88acd8196",
+            "directory": "External6",
+            "voiceContent": "그냥 다방면으로 준비하는 것 같으니까 너무 걱정하지 마, 아직 그 정도는 아닌 것 같",
+            "sourceName": "vo_EQHDJ402_2_gaming_07.wem"
         },
         "3957619ba1ee0747": {
             "hash": "3957619ba1ee0747",
             "directory": "External7",
-            "voiceContent": "와, 페이몬, 자기 좌우명도 더듬는 거야? 그러다 인생도 더듬겠다, 야. 자, 힘내서! 크게 한 번 더 외쳐 봐!",
+            "voiceContent": "와, 페이몬, 자기 좌우명도 더듬는 거야? 그러다 인생도 더듬겠다, 야. 자, 힘내서! 크게 한 번 더 외쳐 봐",
             "sourceName": "vo_EQHDJ404_2_gaming_04.wem"
         },
         "4e006d8a94f7422d": {
             "hash": "4e006d8a94f7422d",
             "directory": "External9",
-            "voiceContent": "그렇다고는 해도… 등장 분량이 좀 작지 않아?",
+            "voiceContent": "그렇다고는 해도… 등장 분량이 좀 작지 않아",
             "sourceName": "vo_EQHDJ404_2_gaming_02.wem"
+        },
+        "51da4a223b01892d": {
+            "hash": "51da4a223b01892d",
+            "directory": "External10",
+            "voiceContent": "행추? 이미 그쪽 형님이랑 같이 침옥 협곡에 갔어, 야. 조상님 집에 수리할 곳이 있나 없나 확인한다나…. 아마 헛수고일 거",
+            "sourceName": "vo_EQHDJ402_2_gaming_08.wem"
+        },
+        "83043bd7a9ca2fe2": {
+            "hash": "83043bd7a9ca2fe2",
+            "directory": "External16",
+            "voiceContent": "농담이지? 페이몬, 너 솔직히 말해, 어디서 점술이라도 배웠어? 어떻게 알았대",
+            "sourceName": "vo_EQHDJ402_2_gaming_03.wem"
+        },
+        "842e1fe9544c1fb4": {
+            "hash": "842e1fe9544c1fb4",
+            "directory": "External16",
+            "voiceContent": "#이야! {NICKNAME}(이)랑 페이몬이잖아! 오랜만이다, 야! 해피 해등절",
+            "sourceName": "vo_EQHDJ402_2_gaming_01.wem"
+        },
+        "a0ddfa015719c7f9": {
+            "hash": "a0ddfa015719c7f9",
+            "directory": "External20",
+            "voiceContent": "깜짝이야, 어디서 정보가 샜나 했네. 호송국이 이번 일은 조용히 처리하라 했거든…. 너희가 알고 있으면 더 숨길 필요는 없겠다,",
+            "sourceName": "vo_EQHDJ402_2_gaming_04.wem"
+        },
+        "de692df182df597f": {
+            "hash": "de692df182df597f",
+            "directory": "External27",
+            "voiceContent": "백 선생님 일은 나도 잘 모르겠어…. 근데 비운 상회의 큰 도련님이 오늘은 준비하기 좋게 미리 물건을 돌려보내는 거라시더",
+            "sourceName": "vo_EQHDJ402_2_gaming_06.wem"
         },
         "df1c5393735acd9c": {
             "hash": "df1c5393735acd9c",
             "directory": "External27",
-            "voiceContent": "하하하, 그냥 서로 자기가 하고 싶은 말을 할 뿐이지, 뭐. 결론은 안 날걸",
+            "voiceContent": "하하하, 그냥 서로 자기가 하고 싶은 말을 할 뿐이지, 뭐. 결론은 안 날",
             "sourceName": "vo_EQHDJ404_2_gaming_03.wem"
+        },
+        "e2f6302b1965149c": {
+            "hash": "e2f6302b1965149c",
+            "directory": "External28",
+            "voiceContent": "그럼 나도 일하러 가 볼게, 나중에 같이 차 한잔하자",
+            "sourceName": "vo_EQHDJ402_2_gaming_09.wem"
         }
     },
     "Gameplay": {
+        "046307fd06fe35b9": {
+            "hash": "046307fd06fe35b9",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_sprint_start_02.wem"
+        },
+        "0bef2e94379ff1a2": {
+            "hash": "0bef2e94379ff1a2",
+            "directory": "External1",
+            "voiceContent": "무협 소설에선 임맥이랑 독맥을 뚫고 나면 고수가 된다더라. 신의 눈을 얻었을 때가 대충 그런 느낌이었지…. 하하, 농담이야! 내가 무슨 무림 고수도 아니고, 그냥 기력이 좀 늘어나긴 했어. 덕분에 주변 사람들을 돕기가 수월해졌지. 근데 넌 신의 눈이 없어도 이렇게 대단한데, 그게 생기면 대체 얼마나 대단해지는 거야",
+            "sourceName": "vo_gaming_dialog_pendant_01.wem"
+        },
+        "10afb6a5a4fac808": {
+            "hash": "10afb6a5a4fac808",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_jump_04.wem"
+        },
+        "1236cb9a43452dea": {
+            "hash": "1236cb9a43452dea",
+            "directory": "External2",
+            "voiceContent": "산길이든 물길이든, 호송하면서 어디든 안 가봤겠어 내가? 걱정 마, 야. 골드 등급 표사는 그냥 된 게 아니니",
+            "sourceName": "vo_gaming_character_idle_02.wem"
+        },
+        "13206e24dc1069d5": {
+            "hash": "13206e24dc1069d5",
+            "directory": "External2",
+            "voiceContent": "차분히 가다보면 재물이 따라오지",
+            "sourceName": "vo_gaming_chest_open_03.wem"
+        },
+        "151bdaacef841c49": {
+            "hash": "151bdaacef841c49",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackmid_02.wem"
+        },
+        "166d06a296bb6017": {
+            "hash": "166d06a296bb6017",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_h_04.wem"
+        },
+        "1afcf2b444208731": {
+            "hash": "1afcf2b444208731",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_h_06.wem"
+        },
+        "1b6571c9bada3f57": {
+            "hash": "1b6571c9bada3f57",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_idle_01.wem"
+        },
+        "1c8f5ddb655c3d71": {
+            "hash": "1c8f5ddb655c3d71",
+            "directory": "External3",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_idle_03.wem"
+        },
+        "1eecf822ea1c5ad1": {
+            "hash": "1eecf822ea1c5ad1",
+            "directory": "External3",
+            "voiceContent": "비운 상회는 우리 호송국의 단골손님이야. 그쪽은 항상 그 도련님이 이런저런 일을 결정하더라고. 한번은 행추 도련님이 직접 호송에 관한 걸 묻길래 최근 비운 상회의 화물 운반 경로랑 출발, 도착 일자까지 다 알려줬거든? 근데 알고 보니 만문집사에 신간이 언제 입고되는지가 궁금했던 거더라, 하하",
+            "sourceName": "vo_gaming_teammate_xingqiu_01.wem"
+        },
+        "1f702ed9fef956ce": {
+            "hash": "1f702ed9fef956ce",
+            "directory": "External3",
+            "voiceContent": "어어, 들려? 나쁜 놈이 맹세를 하면 하늘에서 벼락이 떨어진대",
+            "sourceName": "vo_gaming_weather_thunder_01.wem"
+        },
+        "2154184733121607": {
+            "hash": "2154184733121607",
+            "directory": "External4",
+            "voiceContent": "햇살 좋구나, 야. 습기도 날아가",
+            "sourceName": "vo_gaming_weather_sunny_01.wem"
+        },
+        "2299046cac8b3c3b": {
+            "hash": "2299046cac8b3c3b",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_jump_03.wem"
+        },
+        "22be0e1a846377f7": {
+            "hash": "22be0e1a846377f7",
+            "directory": "External4",
+            "voiceContent": "옥형성 님이 리월항과 유롱항 사이의 운송로를 정리해 주신 덕분에 요즘에는 도적 떼가 감히 얼씬거리질 못하지. 나 실업자 되는 거 아니냐고? 하하, 설마 설마. 도적과 싸울 필요는 없어도 힘쓸 사람은 항상 필요한 법이거",
+            "sourceName": "vo_gaming_teammate_keqing_01.wem"
+        },
+        "28e4caed281fb599": {
+            "hash": "28e4caed281fb599",
+            "directory": "External5",
+            "voiceContent": "하하, 이 정도로 날 챙겨주다니. 이거 엄청난 기술이라도 익혀두지 않으면 안 되겠는",
+            "sourceName": "vo_gaming_starUp_02.wem"
+        },
+        "2dff382107c33e1c": {
+            "hash": "2dff382107c33e1c",
+            "directory": "External5",
+            "voiceContent": "아버지는 내가 곁에서 장사를 배우기를 바라셨어. 생각을 안 해본 건 아니야 나도. 오히려 생각을 했으니까 집을 나온 거지. 먼저 난 짐승춤을 향한 내 열정이 잠깐의 치기가 아니라는 걸 증명하고 싶었어. 난 꼭 두각을 드러내고 말 거야! 그리고 둘째로는… 아버지랑 더 싸우기 싫었어. 아버지를 싫어하는 건 아니지만, 하는 말이 무슨 화약을 퍼붓는 거 같거든. 그래서 도망쳐 나온 것도 있지",
+            "sourceName": "vo_gaming_friendship_04.wem"
+        },
+        "2fc84c51e1520222": {
+            "hash": "2fc84c51e1520222",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_05.wem"
+        },
+        "30a03364e832ad49": {
+            "hash": "30a03364e832ad49",
+            "directory": "External6",
+            "voiceContent": "식당을 하나 예약했는데, 저녁에만 문을 열고 단골손님만 받는 곳이래. 그런 곳을 안 가면 손해잖아, 야. 그런 의미에서, 출발",
+            "sourceName": "vo_gaming_dialog_greetingNight.wem"
+        },
+        "327ce67b65e279ef": {
+            "hash": "327ce67b65e279ef",
+            "directory": "External6",
+            "voiceContent": "이런 곳에서는 물이 엄청 비싸겠지? 미리 챙겨와서 다행이",
+            "sourceName": "vo_gaming_weather_desert_01.wem"
+        },
+        "328f2432b528653e": {
+            "hash": "328f2432b528653e",
+            "directory": "External6",
+            "voiceContent": "초짜인지 고수인지는 기초만 봐도 알 수 있어. 기마 자세나 발차기, 다리 찢기, 뛰어오르기, 구르기… 이런 것도 못 하면 가볍게는 높은 곳에서 떨어져서 보름은 누워 있게 되거나, 심하게는 호송 일을 하다가 목숨까지 잃을 수 있거든…. 무시무시하지? 그럴 거야. 이런 식으로 호송국의 형제들을 설득해서 같이 훈련하고는 했거든, 하하",
+            "sourceName": "vo_gaming_friendship_02.wem"
+        },
+        "358149bb4bfa57f8": {
+            "hash": "358149bb4bfa57f8",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackheavy_02.wem"
+        },
         "3682a7a9ab51974a": {
             "hash": "3682a7a9ab51974a",
             "directory": "External6",
-            "voiceContent": "미안 미안",
+            "voiceContent": "미안 미",
             "sourceName": "vo_gaming_battle_skill1_01.wem"
         },
-        "bc99c5b31529084d": {
-            "hash": "bc99c5b31529084d",
-            "directory": "External23",
-            "voiceContent": "춤춰보자!",
-            "sourceName": "vo_gaming_battle_skill1_02.wem"
+        "378503355edc314c": {
+            "hash": "378503355edc314c",
+            "directory": "External6",
+            "voiceContent": "빨리 가… 난 신경 쓰지 말고",
+            "sourceName": "vo_gaming_life_die_03.wem"
+        },
+        "38f71cb1b08c8943": {
+            "hash": "38f71cb1b08c8943",
+            "directory": "External7",
+            "voiceContent": "나한테 맡기고 잠깐 쉬어",
+            "sourceName": "vo_gaming_life_less30_teammate_01.wem"
+        },
+        "397a342025abc783": {
+            "hash": "397a342025abc783",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_02.wem"
+        },
+        "3d0abbf150f835c7": {
+            "hash": "3d0abbf150f835c7",
+            "directory": "External7",
+            "voiceContent": "운근 선생님은 내 롤 모델이야! 문외한이든 전문가든 그분의 노래에 호평을 하지 않은 사람이 없다니까. 언젠가 「열혈단」의 영향력이 「운한사」의 절반 정도만 되면… 난 자다가도 웃게 될 거야",
+            "sourceName": "vo_gaming_teammate_yunjin_01.wem"
+        },
+        "3f9ddbd418c8e51f": {
+            "hash": "3f9ddbd418c8e51f",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_breath_03.wem"
+        },
+        "402969a136386d6d": {
+            "hash": "402969a136386d6d",
+            "directory": "External8",
+            "voiceContent": "두둥탁, 눈 부릅뜨기! 두두두둥탁, 수염 씻기! 으음… 이게 아니야. 아직 연습이 더 필요",
+            "sourceName": "vo_gaming_character_idle_01.wem"
+        },
+        "405ee592485ed595": {
+            "hash": "405ee592485ed595",
+            "directory": "External8",
+            "voiceContent": "아침 차라고는 하지만 점심에 마셔도 상관은 없지. 어떻게, 갈까",
+            "sourceName": "vo_gaming_dialog_greetingNoon.wem"
+        },
+        "407e7ee23392b52e": {
+            "hash": "407e7ee23392b52e",
+            "directory": "External8",
+            "voiceContent": "내 입맛이 까다롭다고들 하는데, 내가 바라는 건 단순해. 새고기는 새고기 맛이, 생선은 생선 맛이 나야 한다는 거지. 이게 유별난 거야",
+            "sourceName": "vo_gaming_pref_foodDislike.wem"
+        },
+        "43ead6c40253dd0f": {
+            "hash": "43ead6c40253dd0f",
+            "directory": "External8",
+            "voiceContent": "헷, 이 정도쯤이야",
+            "sourceName": "vo_gaming_life_less30_02.wem"
+        },
+        "454e6114772e46b2": {
+            "hash": "454e6114772e46b2",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_07.wem"
+        },
+        "48fdff244f2fb71a": {
+            "hash": "48fdff244f2fb71a",
+            "directory": "External9",
+            "voiceContent": "핫, 나 먼저 갈게",
+            "sourceName": "vo_gaming_life_die_01.wem"
+        },
+        "4a6a688fac34e692": {
+            "hash": "4a6a688fac34e692",
+            "directory": "External9",
+            "voiceContent": "열혈 짐승춤",
+            "sourceName": "vo_gaming_battle_skill3_03.wem"
+        },
+        "4bee1653938f7b45": {
+            "hash": "4bee1653938f7b45",
+            "directory": "External9",
+            "voiceContent": "잘못된 게 있으면 바로잡아야지! 내가 잘못한 게 있으면 차라리 그냥 한 대 쳐",
+            "sourceName": "vo_gaming_spice_dislike_01.wem"
         },
         "4db5abbbf38c93bc": {
             "hash": "4db5abbbf38c93bc",
             "directory": "External9",
-            "voiceContent": "일등상이다!",
+            "voiceContent": "일등상이다",
             "sourceName": "vo_gaming_battle_skill1_03.wem"
         },
         "4efa8ca1599a6d64": {
             "hash": "4efa8ca1599a6d64",
             "directory": "External9",
-            "voiceContent": "운수대통이구나~",
+            "voiceContent": "운수대통이구나",
             "sourceName": "vo_gaming_battle_skill3_01.wem"
-        },
-        "cc5eda8769046fdb": {
-            "hash": "cc5eda8769046fdb",
-            "directory": "External25",
-            "voiceContent": "문동아, 네 차례야!",
-            "sourceName": "vo_gaming_battle_skill3_02.wem"
-        },
-        "4a6a688fac34e692": {
-            "hash": "4a6a688fac34e692",
-            "directory": "External9",
-            "voiceContent": "열혈 짐승춤!",
-            "sourceName": "vo_gaming_battle_skill3_03.wem"
-        },
-        "66b40215a58dc13b": {
-            "hash": "66b40215a58dc13b",
-            "directory": "External12",
-            "voiceContent": "야, 끝내주는데 이거!",
-            "sourceName": "vo_gaming_chest_open_01.wem"
-        },
-        "912c342d1f414044": {
-            "hash": "912c342d1f414044",
-            "directory": "External18",
-            "voiceContent": "이건 어디로 호송해 줄까?",
-            "sourceName": "vo_gaming_chest_open_02.wem"
-        },
-        "13206e24dc1069d5": {
-            "hash": "13206e24dc1069d5",
-            "directory": "External2",
-            "voiceContent": "차분히 가다보면 재물이 따라오지~",
-            "sourceName": "vo_gaming_chest_open_03.wem"
-        },
-        "38f71cb1b08c8943": {
-            "hash": "38f71cb1b08c8943",
-            "directory": "External7",
-            "voiceContent": "나한테 맡기고 잠깐 쉬어!",
-            "sourceName": "vo_gaming_life_less30_teammate_01.wem"
-        },
-        "cea2eecc3c553bac": {
-            "hash": "cea2eecc3c553bac",
-            "directory": "External25",
-            "voiceContent": "이봐! 무리하지 마!",
-            "sourceName": "vo_gaming_life_less30_teammate_02.wem"
-        },
-        "48fdff244f2fb71a": {
-            "hash": "48fdff244f2fb71a",
-            "directory": "External9",
-            "voiceContent": "핫, 나 먼저 갈게…",
-            "sourceName": "vo_gaming_life_die_01.wem"
-        },
-        "a6691d2c8078a51d": {
-            "hash": "a6691d2c8078a51d",
-            "directory": "External20",
-            "voiceContent": "아직 춤을 다 못 췄는데…",
-            "sourceName": "vo_gaming_life_die_02.wem"
-        },
-        "719522c27efdf7a8": {
-            "hash": "719522c27efdf7a8",
-            "directory": "External14",
-            "voiceContent": "호송 가자",
-            "sourceName": "vo_gaming_teamJoin_01.wem"
-        },
-        "dc2070a7f364be6f": {
-            "hash": "dc2070a7f364be6f",
-            "directory": "External27",
-            "voiceContent": "좋았어, 가자!",
-            "sourceName": "vo_gaming_teamJoin_02.wem"
-        },
-        "5a630eb036c49286": {
-            "hash": "5a630eb036c49286",
-            "directory": "External11",
-            "voiceContent": "급해? 아니면 아침 차부터 마시지 않을래?",
-            "sourceName": "vo_gaming_teamJoin_03.wem"
-        },
-        "402969a136386d6d": {
-            "hash": "402969a136386d6d",
-            "directory": "External8",
-            "voiceContent": "두둥탁, 눈 부릅뜨기! 두두두둥탁, 수염 씻기! 으음… 이게 아니야. 아직 연습이 더 필요해",
-            "sourceName": "vo_gaming_character_idle_01.wem"
-        },
-        "1236cb9a43452dea": {
-            "hash": "1236cb9a43452dea",
-            "directory": "External2",
-            "voiceContent": "산길이든 물길이든, 호송하면서 어디든 안 가봤겠어 내가? 걱정 마, 야. 골드 등급 표사는 그냥 된 게 아니니까",
-            "sourceName": "vo_gaming_character_idle_02.wem"
-        },
-        "93bdfd91ffb777f3": {
-            "hash": "93bdfd91ffb777f3",
-            "directory": "External18",
-            "voiceContent": "차 한 잔과 간단한 식사거리, 거기에 야채 볶음과 생곤죽까지 더해지면, 음… 딱이야…",
-            "sourceName": "vo_gaming_character_idle_03.wem"
-        },
-        "f445d2a3beaeda35": {
-            "hash": "f445d2a3beaeda35",
-            "directory": "External30",
-            "voiceContent": "비 온다! 빨래 걷어!",
-            "sourceName": "vo_gaming_weather_heavyRain_01.wem"
-        },
-        "1f702ed9fef956ce": {
-            "hash": "1f702ed9fef956ce",
-            "directory": "External3",
-            "voiceContent": "어어, 들려? 나쁜 놈이 맹세를 하면 하늘에서 벼락이 떨어진대!",
-            "sourceName": "vo_gaming_weather_thunder_01.wem"
-        },
-        "327ce67b65e279ef": {
-            "hash": "327ce67b65e279ef",
-            "directory": "External6",
-            "voiceContent": "이런 곳에서는 물이 엄청 비싸겠지? 미리 챙겨와서 다행이네",
-            "sourceName": "vo_gaming_weather_desert_01.wem"
-        },
-        "f740af11f74891de": {
-            "hash": "f740af11f74891de",
-            "directory": "External30",
-            "voiceContent": "아——엥? 왜 입 안으로 안 들어오지?",
-            "sourceName": "vo_gaming_weather_snowy_01.wem"
-        },
-        "2154184733121607": {
-            "hash": "2154184733121607",
-            "directory": "External4",
-            "voiceContent": "햇살 좋구나, 야. 습기도 날아가고",
-            "sourceName": "vo_gaming_weather_sunny_01.wem"
-        },
-        "8cf34120bbbfaa17": {
-            "hash": "8cf34120bbbfaa17",
-            "directory": "External17",
-            "voiceContent": "훈련이 다 끝나서 아침 차 마실 건데, 같이 갈래?",
-            "sourceName": "vo_gaming_dialog_greetingMorning.wem"
-        },
-        "405ee592485ed595": {
-            "hash": "405ee592485ed595",
-            "directory": "External8",
-            "voiceContent": "아침 차라고는 하지만 점심에 마셔도 상관은 없지. 어떻게, 갈까?",
-            "sourceName": "vo_gaming_dialog_greetingNoon.wem"
-        },
-        "30a03364e832ad49": {
-            "hash": "30a03364e832ad49",
-            "directory": "External6",
-            "voiceContent": "식당을 하나 예약했는데, 저녁에만 문을 열고 단골손님만 받는 곳이래. 그런 곳을 안 가면 손해잖아, 야. 그런 의미에서, 출발?",
-            "sourceName": "vo_gaming_dialog_greetingNight.wem"
-        },
-        "737428991b232a7b": {
-            "hash": "737428991b232a7b",
-            "directory": "External14",
-            "voiceContent": "잘 거야? 안 출출해? 야식이나 먹을까?",
-            "sourceName": "vo_gaming_dialog_greetingNight2.wem"
-        },
-        "fb660d012775cd2c": {
-            "hash": "fb660d012775cd2c",
-            "directory": "External31",
-            "voiceContent": "교영 마을, 가봤어? 거기가 내 고향이야. 거기는 찻잎이 엄청 유명해. 「송라선아」도 있고 「유운단총」도 있지. 그래 그래, 쇠뿔도 단김에 빼랬다고, 여기 합정단총이 있으니까 지금 찻집에 가서 한 잔 끓여줄게. 가자 가자, 내가 살 테니까!",
-            "sourceName": "vo_gaming_dialog_idle.wem"
-        },
-        "b6be7217b8e0a704": {
-            "hash": "b6be7217b8e0a704",
-            "directory": "External22",
-            "voiceContent": "난 밥도 잘 먹고 다니고 짐승춤을 연구할 힘도 있어. 주변 사람들의 이해와 호의에 감사할 따름이지. 거기에 보답하기 위해서라도 120%의 힘을 다해 맡은 임무를 수행할 거야. 힘이 좀 남으면 의뢰도 더 받고, 친구랑 차도 마셔야지. 그런다고 손해 보는 건 아니니까, 하하",
-            "sourceName": "vo_gaming_dialog_idle2.wem"
-        },
-        "9a3c4b1c03ca0c0b": {
-            "hash": "9a3c4b1c03ca0c0b",
-            "directory": "External19",
-            "voiceContent": "명심해, 밖에서는 친구끼리 서로 의지하는 거야. 힘들 때는 혼자 끙끙 앓지 말고 내 도움이 필요하면 언제든 말해! 아아, 물론 안 좋은 소식을 안 듣는 게 제일 좋지. 집 밖에선 평안하게 지내는 게 제일 중요하니까, 느긋하게 차 한잔하자는 소식이 들리면 더 반가울 거야~",
-            "sourceName": "vo_gaming_dialog_close1.wem"
-        },
-        "59b526f6a8d4dcfc": {
-            "hash": "59b526f6a8d4dcfc",
-            "directory": "External11",
-            "voiceContent": "호송 일이 없을 땐 보통 리월항 거리에서 짐승춤 공연을 해. 와서 구경해볼래? 에이, 돈은 안 받아, 야. 친구들이 즐겁게 봐주면 난 그걸로 만족한다고",
-            "sourceName": "vo_gaming_dialog_close.wem"
-        },
-        "0bef2e94379ff1a2": {
-            "hash": "0bef2e94379ff1a2",
-            "directory": "External1",
-            "voiceContent": "무협 소설에선 임맥이랑 독맥을 뚫고 나면 고수가 된다더라. 신의 눈을 얻었을 때가 대충 그런 느낌이었지…. 하하, 농담이야! 내가 무슨 무림 고수도 아니고, 그냥 기력이 좀 늘어나긴 했어. 덕분에 주변 사람들을 돕기가 수월해졌지. 근데 넌 신의 눈이 없어도 이렇게 대단한데, 그게 생기면 대체 얼마나 대단해지는 거야?",
-            "sourceName": "vo_gaming_dialog_pendant_01.wem"
-        },
-        "5796f98f20d630ff": {
-            "hash": "5796f98f20d630ff",
-            "directory": "External10",
-            "voiceContent": "「문동이(文童)」는 정말 말썽꾸러기야. 원래는 좀 동글동글 얌전해지라고 이런 이름을 지었는데… 보다시피 전혀 효과가 없네, 하하. 뭐, 괜찮아, 야. 좀 사나운 맛도 있어야 짐승춤도 볼 만해지니까. 문동이를 보고 있으면 나도 산예가 되는 느낌이야. 짐승 탈을 쓰면 느낌이 확 오지… 어흥!",
-            "sourceName": "vo_gaming_dialog_share_01.wem"
-        },
-        "e2d672f1ee96b227": {
-            "hash": "e2d672f1ee96b227",
-            "directory": "External28",
-            "voiceContent": "꽃이나 풀, 나무껍질이나 나뭇가지는 말린 다음 끓여서 마시면 좋은 효능이 있는 것들이 많아. 할머니랑 숙모님이 그러셨는데, 튀긴 음식을 먹은 전후에 꼭 「냉차」를 마셔줘야 몸속의 열기를 가라앉힐 수 있다더라…",
-            "sourceName": "vo_gaming_pref_gift_01.wem"
-        },
-        "86ba8d26170cfac9": {
-            "hash": "86ba8d26170cfac9",
-            "directory": "External16",
-            "voiceContent": "향릉 숙수는 정말 많은 요리를 할 줄 알아. 난 그중에서 삶은 검정 농어가 제일 마음에 들어. 너무 매워서 물에 두 번씩 씻어 먹어도 「스읍——하아」 하게 되지만 말이야, 하하하. 누가 만민당의 간판스타 아니랄까 봐 조미료도 화끈하게 넣는다니까! 다음에 또 먹어야지!",
-            "sourceName": "vo_gaming_teammate_xiangling_01.wem"
-        },
-        "1eecf822ea1c5ad1": {
-            "hash": "1eecf822ea1c5ad1",
-            "directory": "External3",
-            "voiceContent": "비운 상회는 우리 호송국의 단골손님이야. 그쪽은 항상 그 도련님이 이런저런 일을 결정하더라고. 한번은 행추 도련님이 직접 호송에 관한 걸 묻길래 최근 비운 상회의 화물 운반 경로랑 출발, 도착 일자까지 다 알려줬거든? 근데 알고 보니 만문집사에 신간이 언제 입고되는지가 궁금했던 거더라, 하하하",
-            "sourceName": "vo_gaming_teammate_xingqiu_01.wem"
-        },
-        "b277f59bf5b6377f": {
-            "hash": "b277f59bf5b6377f",
-            "directory": "External22",
-            "voiceContent": "듣기로 그 친구는 「양의 체질」이라던데, 우리 식으로 말하자면 몸에 열이 왕성한 거거든. 그럴 땐 냉차를 많이 마셔줘야 해",
-            "sourceName": "vo_gaming_teammate_chongyun_01.wem"
-        },
-        "3d0abbf150f835c7": {
-            "hash": "3d0abbf150f835c7",
-            "directory": "External7",
-            "voiceContent": "운근 선생님은 내 롤 모델이야! 문외한이든 전문가든 그분의 노래에 호평을 하지 않은 사람이 없다니까. 언젠가 「열혈단」의 영향력이 「운한사」의 절반 정도만 되면… 난 자다가도 웃게 될 거야!",
-            "sourceName": "vo_gaming_teammate_yunjin_01.wem"
         },
         "50af1ae9686ee573": {
             "hash": "50af1ae9686ee573",
             "directory": "External10",
-            "voiceContent": "신염의 노래에는 감화력이 있어! 문동이는 그 노래를 들을 때 좋아서 머리까지 흔들흔들대더라니까? 언제 기회가 되면 같이 「광란의 로큰롤 짐승춤 공연」을 해보고 싶어. 아, 넌 견문이 넓지? 넌 어떻게 생각해?",
+            "voiceContent": "신염의 노래에는 감화력이 있어! 문동이는 그 노래를 들을 때 좋아서 머리까지 흔들흔들대더라니까? 언제 기회가 되면 같이 「광란의 로큰롤 짐승춤 공연」을 해보고 싶어. 아, 넌 견문이 넓지? 넌 어떻게 생각해",
             "sourceName": "vo_gaming_teammate_xinyan_01.wem"
         },
-        "d73455cdb28d01bc": {
-            "hash": "d73455cdb28d01bc",
-            "directory": "External26",
-            "voiceContent": "한운 이모는 날 정말 잘 챙겨주셔. 내 짐승 탈이 헤진 것을 보시고는 금방 내 키보다 큰 탈을 열댓 개씩 안겨 주시더라니까. 내가 침이 마르도록 설득하고 나서야 그 대신 내 원래 탈을 개량해 주셨지…. 덕분에 짐승 탈이 훨씬 가볍고 멋있어졌어. 짐승 망토도 언제든 바람에 휘날리는 게 꼭 무슨 선법을 쓰는 것 같아서 완전 마음에 들어!",
-            "sourceName": "vo_gaming_teammate_xianyun_01.wem"
-        },
-        "22be0e1a846377f7": {
-            "hash": "22be0e1a846377f7",
-            "directory": "External4",
-            "voiceContent": "옥형성 님이 리월항과 유롱항 사이의 운송로를 정리해 주신 덕분에 요즘에는 도적 떼가 감히 얼씬거리질 못하지. 나 실업자 되는 거 아니냐고? 하하, 설마 설마. 도적과 싸울 필요는 없어도 힘쓸 사람은 항상 필요한 법이거든",
-            "sourceName": "vo_gaming_teammate_keqing_01.wem"
-        },
-        "694c4d9bfd7d530f": {
-            "hash": "694c4d9bfd7d530f",
-            "directory": "External13",
-            "voiceContent": "호송 일을 하든 짐승춤을 추든, 다치는 건 다 예삿일이야. 그래서 백 선생님에게 더 감사해. 그분이 지어준 약은 여행용으로든 상비약으로든 안성맞춤이거든. 그래서 호송국 형제들은 리월항에 들를 때면 어떻게든 용을 써서 약을 지어 갈 정도지",
-            "sourceName": "vo_gaming_teammate_baizhu_01.wem"
-        },
-        "aeefc36fc51b4046": {
-            "hash": "aeefc36fc51b4046",
-            "directory": "External21",
-            "voiceContent": "치치는 정말 친절한 아이야. 내가 불복려에 갈 때마다 약을 잔뜩 쥐여 주거든. 몸이 뻣뻣해서 맨날 다치는 거라고 생각했는지 유연 체조도 가르쳐 주더라니까? 하하. 너도 해볼래? 엄청 쉬운데, 하나 둘 치 치, 둘 둘 치 치…",
-            "sourceName": "vo_gaming_teammate_qiqi_01.wem"
-        },
-        "8cca323ae3bb9ee1": {
-            "hash": "8cca323ae3bb9ee1",
-            "directory": "External17",
-            "voiceContent": "표사 중에서 짐승춤을 제일 잘 추고, 짐승춤꾼 중에서 호송 일을 제일 많이 하는 사람! 어때? 이런 소개라면 날 확실히 기억할 수 있겠지?",
-            "sourceName": "vo_gaming_friendship_01.wem"
-        },
-        "328f2432b528653e": {
-            "hash": "328f2432b528653e",
-            "directory": "External6",
-            "voiceContent": "초짜인지 고수인지는 기초만 봐도 알 수 있어. 기마 자세나 발차기, 다리 찢기, 뛰어오르기, 구르기… 이런 것도 못 하면 가볍게는 높은 곳에서 떨어져서 보름은 누워 있게 되거나, 심하게는 호송 일을 하다가 목숨까지 잃을 수 있거든…. 무시무시하지? 그럴 거야. 이런 식으로 호송국의 형제들을 설득해서 같이 훈련하고는 했거든, 하하하",
-            "sourceName": "vo_gaming_friendship_02.wem"
-        },
-        "883a4629365677c7": {
-            "hash": "883a4629365677c7",
-            "directory": "External17",
-            "voiceContent": "짐승 탈이랑 망토는 악기 같은 거야. 연습을 많이 하면 할수록 빨리 망가지기 때문에 자주 손을 봐줘야 하는데, 그러려면 돈이 적잖게 들지. 거기에 평소에 주변 사람들에게 밥이랑 차를 사주고, 명절에는 선물도 사주고, 돈 필요한 형제들에게 좀 꿔주고 하다 보면… 월급을 받아도 남는 게 거의 없어, 야…",
-            "sourceName": "vo_gaming_friendship_03.wem"
-        },
-        "2dff382107c33e1c": {
-            "hash": "2dff382107c33e1c",
-            "directory": "External5",
-            "voiceContent": "아버지는 내가 곁에서 장사를 배우기를 바라셨어. 생각을 안 해본 건 아니야 나도. 오히려 생각을 했으니까 집을 나온 거지. 먼저 난 짐승춤을 향한 내 열정이 잠깐의 치기가 아니라는 걸 증명하고 싶었어. 난 꼭 두각을 드러내고 말 거야! 그리고 둘째로는… 아버지랑 더 싸우기 싫었어. 아버지를 싫어하는 건 아니지만, 하는 말이 무슨 화약을 퍼붓는 거 같거든. 그래서 도망쳐 나온 것도 있지~",
-            "sourceName": "vo_gaming_friendship_04.wem"
-        },
-        "9ce35218295fb2ad": {
-            "hash": "9ce35218295fb2ad",
-            "directory": "External19",
-            "voiceContent": "봐봐, 여기, 요 며칠 발차기 수련을 했더니 멍이 들었어. 여기는 지난달에 구르기 연습을 하다가 부딪힌 건데, 지금은 거의 나았고~ 여기 이 흉터는 굉장하지? 처음 높은 기둥 위로 올라갔다가 떨어졌을 때 생긴 건데, 그때는 피가 막 엄청 났었거든. 하마터면 이제 막 시작한 짐승춤 생애가 곧바로 끝장날 뻔했다니까…. 그래도 다행 다행! 지금까지 이런저런 일은 있었지만 아직 계속하고 있으니까…. 응, 반드시 계속해야지…",
-            "sourceName": "vo_gaming_friendship_05.wem"
-        },
-        "d02d82c0f254114b": {
-            "hash": "d02d82c0f254114b",
-            "directory": "External26",
-            "voiceContent": "아침 차는 차만 말하는 게 아니야. 같이 나오는 간식까지 통틀어서 가리키는 거지. 미리 해놓는 것도 있고, 주문하면 만드는 것도 있고, 다 먹고 나면 점심을 먹을 필요가 없다니까~? 한가할 땐 날 불러. 내가 한턱낼 테니까! 먹고 싶은 게 있으면 말만 해. 다 못 먹겠다 싶으면 싸 가면 되는 거고",
-            "sourceName": "vo_gaming_pref_hobby.wem"
-        },
-        "ab69926a9a3b00b2": {
-            "hash": "ab69926a9a3b00b2",
-            "directory": "External21",
-            "voiceContent": "난 어렸을 때 엄청 말썽쟁이였어. 사고 칠 때마다 내가 훈계를 들은 척 만 척하면 엄마가 「널 낳느니 차사오를 낳고 말지!」라고 하시곤 했지. 매번 차사오를 먹을 때면 엄마 생각이 나…",
-            "sourceName": "vo_gaming_pref_foodLike.wem"
-        },
-        "407e7ee23392b52e": {
-            "hash": "407e7ee23392b52e",
-            "directory": "External8",
-            "voiceContent": "내 입맛이 까다롭다고들 하는데, 내가 바라는 건 단순해. 새고기는 새고기 맛이, 생선은 생선 맛이 나야 한다는 거지. 이게 유별난 거야?",
-            "sourceName": "vo_gaming_pref_foodDislike.wem"
-        },
-        "b138fc8228a0d049": {
-            "hash": "b138fc8228a0d049",
-            "directory": "External22",
-            "voiceContent": "이 맛은——설마 「신」이었어, 너? 맞지? 「요리의 신」!",
-            "sourceName": "vo_gaming_spice_pref_01.wem"
-        },
-        "888b10730082cdcf": {
-            "hash": "888b10730082cdcf",
-            "directory": "External17",
-            "voiceContent": "이걸 직접 했다고? 대단하네! 이런 요리 수준이면 고수라고 해도 되겠다, 야!",
-            "sourceName": "vo_gaming_spice_normal_01.wem"
-        },
-        "4bee1653938f7b45": {
-            "hash": "4bee1653938f7b45",
-            "directory": "External9",
-            "voiceContent": "잘못된 게 있으면 바로잡아야지! 내가 잘못한 게 있으면 차라리 그냥 한 대 쳐!",
-            "sourceName": "vo_gaming_spice_dislike_01.wem"
-        },
-        "e691f30137a259d4": {
-            "hash": "e691f30137a259d4",
-            "directory": "External28",
-            "voiceContent": "농담이지? 생일같이 좋은 날을 미리 안 알려준다고? 내가 미리 신월헌에 한상 거하게 차려달라고 주문해놨으니 망정이지. 팔첩반상에 달달한 간식이랑 음료까지 시켜놨으니까 친구들 불러서 파티나 열자. 아, 그리고 개인적으로 조촐하게 짐승춤 공연도 준비했어. 마음에 들었으면 좋겠다, 야",
-            "sourceName": "vo_gaming_pref_birthday_01.wem"
-        },
-        "b8a09ce45bd37036": {
-            "hash": "b8a09ce45bd37036",
-            "directory": "External23",
-            "voiceContent": "와, 이걸 전부 나한테 준다고? 이거 미안해서 어쩐대? 하하",
-            "sourceName": "vo_gaming_starUp_01.wem"
-        },
-        "28e4caed281fb599": {
-            "hash": "28e4caed281fb599",
-            "directory": "External5",
-            "voiceContent": "하하, 이 정도로 날 챙겨주다니. 이거 엄청난 기술이라도 익혀두지 않으면 안 되겠는걸",
-            "sourceName": "vo_gaming_starUp_02.wem"
-        },
-        "a72770f56b7f9818": {
-            "hash": "a72770f56b7f9818",
-            "directory": "External20",
-            "voiceContent": "호송도 표사의 일이지만, 경호도 마찬가지지. 너만 좋다면 앞으로 네 경호는 내가 맡을게?",
-            "sourceName": "vo_gaming_starUp_03.wem"
-        },
-        "60ecfeb9fc2d214b": {
-            "hash": "60ecfeb9fc2d214b",
-            "directory": "External12",
-            "voiceContent": "내 짐승 탈에 화룡점정을 해줬구나. 정말 고마워! 앞으로의 여정이 순탄할 거라고 장담은 못 하겠지만, 널 위해 최선을 다할게!",
-            "sourceName": "vo_gaming_starUp_04.wem"
-        },
-        "84a308dc19ef74c8": {
-            "hash": "84a308dc19ef74c8",
-            "directory": "External16",
-            "voiceContent": "약간의 고통은 격려나 다름없어…",
-            "sourceName": "vo_gaming_life_less30_01.wem"
-        },
-        "43ead6c40253dd0f": {
-            "hash": "43ead6c40253dd0f",
-            "directory": "External8",
-            "voiceContent": "헷, 이 정도쯤이야…",
-            "sourceName": "vo_gaming_life_less30_02.wem"
-        },
-        "c22d74cc45b3b226": {
-            "hash": "c22d74cc45b3b226",
-            "directory": "External24",
-            "voiceContent": "버틸 수 있어! 계속하자고!",
-            "sourceName": "vo_gaming_life_less30_03.wem"
-        },
-        "378503355edc314c": {
-            "hash": "378503355edc314c",
-            "directory": "External6",
-            "voiceContent": "빨리 가… 난 신경 쓰지 말고…",
-            "sourceName": "vo_gaming_life_die_03.wem"
-        },
-        "f9bd348a93edc63a": {
-            "hash": "f9bd348a93edc63a",
-            "directory": "External31",
-            "voiceContent": "이건 아니지!",
-            "sourceName": "vo_gaming_battle_hit_H_01.wem"
+        "51080a7b9184c339": {
+            "hash": "51080a7b9184c339",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_02.wem"
         },
         "53c25292c2538b3d": {
             "hash": "53c25292c2538b3d",
             "directory": "External10",
-            "voiceContent": "잠깐만!",
+            "voiceContent": "잠깐만",
             "sourceName": "vo_gaming_battle_hit_H_02.wem"
         },
-        "aed912528430e873": {
-            "hash": "aed912528430e873",
+        "56d027e66102a919": {
+            "hash": "56d027e66102a919",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_breath_01.wem"
+        },
+        "5796f98f20d630ff": {
+            "hash": "5796f98f20d630ff",
+            "directory": "External10",
+            "voiceContent": "「문동이(文童)」는 정말 말썽꾸러기야. 원래는 좀 동글동글 얌전해지라고 이런 이름을 지었는데… 보다시피 전혀 효과가 없네, 하하. 뭐, 괜찮아, 야. 좀 사나운 맛도 있어야 짐승춤도 볼 만해지니까. 문동이를 보고 있으면 나도 산예가 되는 느낌이야. 짐승 탈을 쓰면 느낌이 확 오지… 어흥",
+            "sourceName": "vo_gaming_dialog_share_01.wem"
+        },
+        "59b526f6a8d4dcfc": {
+            "hash": "59b526f6a8d4dcfc",
+            "directory": "External11",
+            "voiceContent": "호송 일이 없을 땐 보통 리월항 거리에서 짐승춤 공연을 해. 와서 구경해볼래? 에이, 돈은 안 받아, 야. 친구들이 즐겁게 봐주면 난 그걸로 만족한다",
+            "sourceName": "vo_gaming_dialog_close.wem"
+        },
+        "5a630eb036c49286": {
+            "hash": "5a630eb036c49286",
+            "directory": "External11",
+            "voiceContent": "급해? 아니면 아침 차부터 마시지 않을래",
+            "sourceName": "vo_gaming_teamJoin_03.wem"
+        },
+        "5e1d40e56c836758": {
+            "hash": "5e1d40e56c836758",
+            "directory": "External11",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_fly_start_02.wem"
+        },
+        "60ecfeb9fc2d214b": {
+            "hash": "60ecfeb9fc2d214b",
+            "directory": "External12",
+            "voiceContent": "내 짐승 탈에 화룡점정을 해줬구나. 정말 고마워! 앞으로의 여정이 순탄할 거라고 장담은 못 하겠지만, 널 위해 최선을 다할게",
+            "sourceName": "vo_gaming_starUp_04.wem"
+        },
+        "66b40215a58dc13b": {
+            "hash": "66b40215a58dc13b",
+            "directory": "External12",
+            "voiceContent": "야, 끝내주는데 이거",
+            "sourceName": "vo_gaming_chest_open_01.wem"
+        },
+        "674c40b3f771e588": {
+            "hash": "674c40b3f771e588",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackmid_03.wem"
+        },
+        "694c4d9bfd7d530f": {
+            "hash": "694c4d9bfd7d530f",
+            "directory": "External13",
+            "voiceContent": "호송 일을 하든 짐승춤을 추든, 다치는 건 다 예삿일이야. 그래서 백 선생님에게 더 감사해. 그분이 지어준 약은 여행용으로든 상비약으로든 안성맞춤이거든. 그래서 호송국 형제들은 리월항에 들를 때면 어떻게든 용을 써서 약을 지어 갈 정도",
+            "sourceName": "vo_gaming_teammate_baizhu_01.wem"
+        },
+        "719522c27efdf7a8": {
+            "hash": "719522c27efdf7a8",
+            "directory": "External14",
+            "voiceContent": "호송 가",
+            "sourceName": "vo_gaming_teamJoin_01.wem"
+        },
+        "737428991b232a7b": {
+            "hash": "737428991b232a7b",
+            "directory": "External14",
+            "voiceContent": "잘 거야? 안 출출해? 야식이나 먹을까",
+            "sourceName": "vo_gaming_dialog_greetingNight2.wem"
+        },
+        "77143f1b6d61ed95": {
+            "hash": "77143f1b6d61ed95",
+            "directory": "External14",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_04.wem"
+        },
+        "7807532d17b4ed0f": {
+            "hash": "7807532d17b4ed0f",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_02.wem"
+        },
+        "7f3fae05477aef38": {
+            "hash": "7f3fae05477aef38",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_sprint_start_03.wem"
+        },
+        "84a308dc19ef74c8": {
+            "hash": "84a308dc19ef74c8",
+            "directory": "External16",
+            "voiceContent": "약간의 고통은 격려나 다름없어",
+            "sourceName": "vo_gaming_life_less30_01.wem"
+        },
+        "86ba8d26170cfac9": {
+            "hash": "86ba8d26170cfac9",
+            "directory": "External16",
+            "voiceContent": "향릉 숙수는 정말 많은 요리를 할 줄 알아. 난 그중에서 삶은 검정 농어가 제일 마음에 들어. 너무 매워서 물에 두 번씩 씻어 먹어도 「스읍——하아」 하게 되지만 말이야, 하하하. 누가 만민당의 간판스타 아니랄까 봐 조미료도 화끈하게 넣는다니까! 다음에 또 먹어야지",
+            "sourceName": "vo_gaming_teammate_xiangling_01.wem"
+        },
+        "883a4629365677c7": {
+            "hash": "883a4629365677c7",
+            "directory": "External17",
+            "voiceContent": "짐승 탈이랑 망토는 악기 같은 거야. 연습을 많이 하면 할수록 빨리 망가지기 때문에 자주 손을 봐줘야 하는데, 그러려면 돈이 적잖게 들지. 거기에 평소에 주변 사람들에게 밥이랑 차를 사주고, 명절에는 선물도 사주고, 돈 필요한 형제들에게 좀 꿔주고 하다 보면… 월급을 받아도 남는 게 거의 없어, 야",
+            "sourceName": "vo_gaming_friendship_03.wem"
+        },
+        "888b10730082cdcf": {
+            "hash": "888b10730082cdcf",
+            "directory": "External17",
+            "voiceContent": "이걸 직접 했다고? 대단하네! 이런 요리 수준이면 고수라고 해도 되겠다, 야",
+            "sourceName": "vo_gaming_spice_normal_01.wem"
+        },
+        "8a396a5a1012e645": {
+            "hash": "8a396a5a1012e645",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_06.wem"
+        },
+        "8cca323ae3bb9ee1": {
+            "hash": "8cca323ae3bb9ee1",
+            "directory": "External17",
+            "voiceContent": "표사 중에서 짐승춤을 제일 잘 추고, 짐승춤꾼 중에서 호송 일을 제일 많이 하는 사람! 어때? 이런 소개라면 날 확실히 기억할 수 있겠지",
+            "sourceName": "vo_gaming_friendship_01.wem"
+        },
+        "8cf34120bbbfaa17": {
+            "hash": "8cf34120bbbfaa17",
+            "directory": "External17",
+            "voiceContent": "훈련이 다 끝나서 아침 차 마실 건데, 같이 갈래",
+            "sourceName": "vo_gaming_dialog_greetingMorning.wem"
+        },
+        "912c342d1f414044": {
+            "hash": "912c342d1f414044",
+            "directory": "External18",
+            "voiceContent": "이건 어디로 호송해 줄까",
+            "sourceName": "vo_gaming_chest_open_02.wem"
+        },
+        "93bdfd91ffb777f3": {
+            "hash": "93bdfd91ffb777f3",
+            "directory": "External18",
+            "voiceContent": "차 한 잔과 간단한 식사거리, 거기에 야채 볶음과 생곤죽까지 더해지면, 음… 딱이야",
+            "sourceName": "vo_gaming_character_idle_03.wem"
+        },
+        "941ed9f43ab1f056": {
+            "hash": "941ed9f43ab1f056",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_sprint_start_01.wem"
+        },
+        "94afa4aada1b350e": {
+            "hash": "94afa4aada1b350e",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_h_05.wem"
+        },
+        "9a3c4b1c03ca0c0b": {
+            "hash": "9a3c4b1c03ca0c0b",
+            "directory": "External19",
+            "voiceContent": "명심해, 밖에서는 친구끼리 서로 의지하는 거야. 힘들 때는 혼자 끙끙 앓지 말고 내 도움이 필요하면 언제든 말해! 아아, 물론 안 좋은 소식을 안 듣는 게 제일 좋지. 집 밖에선 평안하게 지내는 게 제일 중요하니까, 느긋하게 차 한잔하자는 소식이 들리면 더 반가울 거야",
+            "sourceName": "vo_gaming_dialog_close1.wem"
+        },
+        "9ad203e3a8bc1ff0": {
+            "hash": "9ad203e3a8bc1ff0",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_idle_02.wem"
+        },
+        "9ce35218295fb2ad": {
+            "hash": "9ce35218295fb2ad",
+            "directory": "External19",
+            "voiceContent": "봐봐, 여기, 요 며칠 발차기 수련을 했더니 멍이 들었어. 여기는 지난달에 구르기 연습을 하다가 부딪힌 건데, 지금은 거의 나았고~ 여기 이 흉터는 굉장하지? 처음 높은 기둥 위로 올라갔다가 떨어졌을 때 생긴 건데, 그때는 피가 막 엄청 났었거든. 하마터면 이제 막 시작한 짐승춤 생애가 곧바로 끝장날 뻔했다니까…. 그래도 다행 다행! 지금까지 이런저런 일은 있었지만 아직 계속하고 있으니까…. 응, 반드시 계속해야지",
+            "sourceName": "vo_gaming_friendship_05.wem"
+        },
+        "9d3f9274ecda3df2": {
+            "hash": "9d3f9274ecda3df2",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_jump_02.wem"
+        },
+        "a4d7aca42337d6e6": {
+            "hash": "a4d7aca42337d6e6",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackmid_01.wem"
+        },
+        "a6691d2c8078a51d": {
+            "hash": "a6691d2c8078a51d",
+            "directory": "External20",
+            "voiceContent": "아직 춤을 다 못 췄는데",
+            "sourceName": "vo_gaming_life_die_02.wem"
+        },
+        "a72770f56b7f9818": {
+            "hash": "a72770f56b7f9818",
+            "directory": "External20",
+            "voiceContent": "호송도 표사의 일이지만, 경호도 마찬가지지. 너만 좋다면 앞으로 네 경호는 내가 맡을게",
+            "sourceName": "vo_gaming_starUp_03.wem"
+        },
+        "ab69926a9a3b00b2": {
+            "hash": "ab69926a9a3b00b2",
             "directory": "External21",
-            "voiceContent": "그 종려라는 분은 부유한 집안 출신의 문인일 거 같아. 찻집이나 무대로 물건을 운반할 때마다 차를 마시거나 강담을 듣는 모습을 봤는데, 딱 봐도 아는 게 많아 보이더라고. 야, 한번은 어쩌다 다른 사람이랑 차에 대해 얘기하는 걸 들었는데, 우리 아버지랑 만나면 밤새도록 이야기할 수 있겠다 싶더라니까…",
-            "sourceName": "vo_gaming_teammate_zhongli_01.wem"
+            "voiceContent": "난 어렸을 때 엄청 말썽쟁이였어. 사고 칠 때마다 내가 훈계를 들은 척 만 척하면 엄마가 「널 낳느니 차사오를 낳고 말지!」라고 하시곤 했지. 매번 차사오를 먹을 때면 엄마 생각이 나",
+            "sourceName": "vo_gaming_pref_foodLike.wem"
         },
         "aec82173ce80660c": {
             "hash": "aec82173ce80660c",
             "directory": "External21",
-            "voiceContent": "아, 그 기자 아가씨? 나 알아! 유롱항에 있는 폰타인 사람들은 다들 스팀버드를 즐겨 보거든. 나도 자주 읽고는 해. 그 사람, 좋은 기사를 많이 썼던데? 아, 참! 그러고 보니 너도 헤드라인에 올랐잖아! 맞지?",
+            "voiceContent": "아, 그 기자 아가씨? 나 알아! 유롱항에 있는 폰타인 사람들은 다들 스팀버드를 즐겨 보거든. 나도 자주 읽고는 해. 그 사람, 좋은 기사를 많이 썼던데? 아, 참! 그러고 보니 너도 헤드라인에 올랐잖아! 맞지",
             "sourceName": "vo_gaming_teammate_charlotte_01.wem"
+        },
+        "aed912528430e873": {
+            "hash": "aed912528430e873",
+            "directory": "External21",
+            "voiceContent": "그 종려라는 분은 부유한 집안 출신의 문인일 거 같아. 찻집이나 무대로 물건을 운반할 때마다 차를 마시거나 강담을 듣는 모습을 봤는데, 딱 봐도 아는 게 많아 보이더라고. 야, 한번은 어쩌다 다른 사람이랑 차에 대해 얘기하는 걸 들었는데, 우리 아버지랑 만나면 밤새도록 이야기할 수 있겠다 싶더라니까",
+            "sourceName": "vo_gaming_teammate_zhongli_01.wem"
+        },
+        "aeefc36fc51b4046": {
+            "hash": "aeefc36fc51b4046",
+            "directory": "External21",
+            "voiceContent": "치치는 정말 친절한 아이야. 내가 불복려에 갈 때마다 약을 잔뜩 쥐여 주거든. 몸이 뻣뻣해서 맨날 다치는 거라고 생각했는지 유연 체조도 가르쳐 주더라니까? 하하. 너도 해볼래? 엄청 쉬운데, 하나 둘 치 치, 둘 둘 치 치",
+            "sourceName": "vo_gaming_teammate_qiqi_01.wem"
+        },
+        "b138fc8228a0d049": {
+            "hash": "b138fc8228a0d049",
+            "directory": "External22",
+            "voiceContent": "이 맛은——설마 「신」이었어, 너? 맞지? 「요리의 신」",
+            "sourceName": "vo_gaming_spice_pref_01.wem"
+        },
+        "b277f59bf5b6377f": {
+            "hash": "b277f59bf5b6377f",
+            "directory": "External22",
+            "voiceContent": "듣기로 그 친구는 「양의 체질」이라던데, 우리 식으로 말하자면 몸에 열이 왕성한 거거든. 그럴 땐 냉차를 많이 마셔줘야",
+            "sourceName": "vo_gaming_teammate_chongyun_01.wem"
+        },
+        "b6be7217b8e0a704": {
+            "hash": "b6be7217b8e0a704",
+            "directory": "External22",
+            "voiceContent": "난 밥도 잘 먹고 다니고 짐승춤을 연구할 힘도 있어. 주변 사람들의 이해와 호의에 감사할 따름이지. 거기에 보답하기 위해서라도 120%의 힘을 다해 맡은 임무를 수행할 거야. 힘이 좀 남으면 의뢰도 더 받고, 친구랑 차도 마셔야지. 그런다고 손해 보는 건 아니니까, 하",
+            "sourceName": "vo_gaming_dialog_idle2.wem"
+        },
+        "b73ea3b3089a7579": {
+            "hash": "b73ea3b3089a7579",
+            "directory": "External22",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackheavy_03.wem"
+        },
+        "b8a09ce45bd37036": {
+            "hash": "b8a09ce45bd37036",
+            "directory": "External23",
+            "voiceContent": "와, 이걸 전부 나한테 준다고? 이거 미안해서 어쩐대? 하",
+            "sourceName": "vo_gaming_starUp_01.wem"
+        },
+        "b8bf85452f5084c8": {
+            "hash": "b8bf85452f5084c8",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_01.wem"
+        },
+        "bc99c5b31529084d": {
+            "hash": "bc99c5b31529084d",
+            "directory": "External23",
+            "voiceContent": "춤춰보자",
+            "sourceName": "vo_gaming_battle_skill1_02.wem"
+        },
+        "be7f509e9d0cfec9": {
+            "hash": "be7f509e9d0cfec9",
+            "directory": "External23",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_jump_05.wem"
+        },
+        "c22d74cc45b3b226": {
+            "hash": "c22d74cc45b3b226",
+            "directory": "External24",
+            "voiceContent": "버틸 수 있어! 계속하자고",
+            "sourceName": "vo_gaming_life_less30_03.wem"
         },
         "c72535abc77cbd0f": {
             "hash": "c72535abc77cbd0f",
             "directory": "External24",
-            "voiceContent": "남연은 식신이나 다름없어, 야! 남연한테 산속 시골 요리 집에 데려가 달라고 해 봐. 식자재를 가져가서 요리할 수 있는 농장인데, 내가 가던 곳이라고 하면 바로 알 거야. 그 산길은 굉장히 험해서, 남연처럼 경험 많은 현지인이 없으면 아무리 너라도 날이 저물 때까지 길만 헤맬걸. 가게 되면 내 이름 대고 마음껏 먹어. 거기 사장님이랑 아는 사이거든, 계산은 나한테 달아 둬!",
+            "voiceContent": "남연은 식신이나 다름없어, 야! 남연한테 산속 시골 요리 집에 데려가 달라고 해 봐. 식자재를 가져가서 요리할 수 있는 농장인데, 내가 가던 곳이라고 하면 바로 알 거야. 그 산길은 굉장히 험해서, 남연처럼 경험 많은 현지인이 없으면 아무리 너라도 날이 저물 때까지 길만 헤맬걸. 가게 되면 내 이름 대고 마음껏 먹어. 거기 사장님이랑 아는 사이거든, 계산은 나한테 달아 둬",
             "sourceName": "vo_gaming_teammate_lanyan_01.wem"
         },
-        "ebfc9c4f58549b7e": {
-            "hash": "ebfc9c4f58549b7e",
-            "directory": "External29",
-            "voiceContent": "뭐어?! 자릿세까지는 그렇다 쳐도 휴지까지 추가 요금을 받는다고? 직접 챙겨오길 잘했네. 당장 반납하자, 야",
-            "sourceName": "vo_gaming_dialog_annoyed_01.wem"
+        "c741d30c33fc1cfb": {
+            "hash": "c741d30c33fc1cfb",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_06.wem"
+        },
+        "c8a74ecae0e80ddf": {
+            "hash": "c8a74ecae0e80ddf",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_fly_start_01.wem"
+        },
+        "cbe4b083d2017cb8": {
+            "hash": "cbe4b083d2017cb8",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_03.wem"
+        },
+        "cc5eda8769046fdb": {
+            "hash": "cc5eda8769046fdb",
+            "directory": "External25",
+            "voiceContent": "문동아, 네 차례야",
+            "sourceName": "vo_gaming_battle_skill3_02.wem"
+        },
+        "cea2eecc3c553bac": {
+            "hash": "cea2eecc3c553bac",
+            "directory": "External25",
+            "voiceContent": "이봐! 무리하지 마",
+            "sourceName": "vo_gaming_life_less30_teammate_02.wem"
+        },
+        "cf05707be30de4d5": {
+            "hash": "cf05707be30de4d5",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_jump_01.wem"
+        },
+        "cf26063ab1747aec": {
+            "hash": "cf26063ab1747aec",
+            "directory": "External25",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_01.wem"
+        },
+        "d02d82c0f254114b": {
+            "hash": "d02d82c0f254114b",
+            "directory": "External26",
+            "voiceContent": "아침 차는 차만 말하는 게 아니야. 같이 나오는 간식까지 통틀어서 가리키는 거지. 미리 해놓는 것도 있고, 주문하면 만드는 것도 있고, 다 먹고 나면 점심을 먹을 필요가 없다니까~? 한가할 땐 날 불러. 내가 한턱낼 테니까! 먹고 싶은 게 있으면 말만 해. 다 못 먹겠다 싶으면 싸 가면 되는 거",
+            "sourceName": "vo_gaming_pref_hobby.wem"
+        },
+        "d73455cdb28d01bc": {
+            "hash": "d73455cdb28d01bc",
+            "directory": "External26",
+            "voiceContent": "한운 이모는 날 정말 잘 챙겨주셔. 내 짐승 탈이 헤진 것을 보시고는 금방 내 키보다 큰 탈을 열댓 개씩 안겨 주시더라니까. 내가 침이 마르도록 설득하고 나서야 그 대신 내 원래 탈을 개량해 주셨지…. 덕분에 짐승 탈이 훨씬 가볍고 멋있어졌어. 짐승 망토도 언제든 바람에 휘날리는 게 꼭 무슨 선법을 쓰는 것 같아서 완전 마음에 들어",
+            "sourceName": "vo_gaming_teammate_xianyun_01.wem"
         },
         "da3c5c09d04882ed": {
             "hash": "da3c5c09d04882ed",
             "directory": "External27",
-            "voiceContent": "안녕, 난 화기청의 표사야. 가명이라고 불러 줘. 물건 호송하려고? 하하, 잘 왔어, 일단 차부터 한잔해. 짐부터 싸고 바로 일정 잡아서 출발할게! 아, 혹시 짐승춤 때문에 온 거면 언제든 출발할 수 있어! 「열혈 짐승춤꾼단」의 결정권자가 바로 나거든. 아차차, 이거 실례 실례",
+            "voiceContent": "안녕, 난 화기청의 표사야. 가명이라고 불러 줘. 물건 호송하려고? 하하, 잘 왔어, 일단 차부터 한잔해. 짐부터 싸고 바로 일정 잡아서 출발할게! 아, 혹시 짐승춤 때문에 온 거면 언제든 출발할 수 있어! 「열혈 짐승춤꾼단」의 결정권자가 바로 나거든. 아차차, 이거 실례 실",
             "sourceName": "vo_gaming_draw_appear_01.wem"
+        },
+        "dc2070a7f364be6f": {
+            "hash": "dc2070a7f364be6f",
+            "directory": "External27",
+            "voiceContent": "좋았어, 가자",
+            "sourceName": "vo_gaming_teamJoin_02.wem"
+        },
+        "ddcdbe4ad991846b": {
+            "hash": "ddcdbe4ad991846b",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_04.wem"
+        },
+        "dfda9add292384d9": {
+            "hash": "dfda9add292384d9",
+            "directory": "External27",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_fly_start_03.wem"
+        },
+        "e09f0229a1c800ba": {
+            "hash": "e09f0229a1c800ba",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_03.wem"
+        },
+        "e0c3dc72c5387dd6": {
+            "hash": "e0c3dc72c5387dd6",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_l_01.wem"
+        },
+        "e2d672f1ee96b227": {
+            "hash": "e2d672f1ee96b227",
+            "directory": "External28",
+            "voiceContent": "꽃이나 풀, 나무껍질이나 나뭇가지는 말린 다음 끓여서 마시면 좋은 효능이 있는 것들이 많아. 할머니랑 숙모님이 그러셨는데, 튀긴 음식을 먹은 전후에 꼭 「냉차」를 마셔줘야 몸속의 열기를 가라앉힐 수 있다더라",
+            "sourceName": "vo_gaming_pref_gift_01.wem"
+        },
+        "e68bf9dd94b663b6": {
+            "hash": "e68bf9dd94b663b6",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_explore_climb_breath_02.wem"
+        },
+        "e691f30137a259d4": {
+            "hash": "e691f30137a259d4",
+            "directory": "External28",
+            "voiceContent": "농담이지? 생일같이 좋은 날을 미리 안 알려준다고? 내가 미리 신월헌에 한상 거하게 차려달라고 주문해놨으니 망정이지. 팔첩반상에 달달한 간식이랑 음료까지 시켜놨으니까 친구들 불러서 파티나 열자. 아, 그리고 개인적으로 조촐하게 짐승춤 공연도 준비했어. 마음에 들었으면 좋겠다,",
+            "sourceName": "vo_gaming_pref_birthday_01.wem"
+        },
+        "e844389ba39a406c": {
+            "hash": "e844389ba39a406c",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_hit_h_03.wem"
+        },
+        "ebfc9c4f58549b7e": {
+            "hash": "ebfc9c4f58549b7e",
+            "directory": "External29",
+            "voiceContent": "뭐어?! 자릿세까지는 그렇다 쳐도 휴지까지 추가 요금을 받는다고? 직접 챙겨오길 잘했네. 당장 반납하자,",
+            "sourceName": "vo_gaming_dialog_annoyed_01.wem"
+        },
+        "f1bb0523adb14e04": {
+            "hash": "f1bb0523adb14e04",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_05.wem"
+        },
+        "f445d2a3beaeda35": {
+            "hash": "f445d2a3beaeda35",
+            "directory": "External30",
+            "voiceContent": "비 온다! 빨래 걷어",
+            "sourceName": "vo_gaming_weather_heavyRain_01.wem"
+        },
+        "f4c9d7a3346006ff": {
+            "hash": "f4c9d7a3346006ff",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attackheavy_01.wem"
+        },
+        "f649f1355b14c226": {
+            "hash": "f649f1355b14c226",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_gaming_battle_attacklight_03.wem"
+        },
+        "f740af11f74891de": {
+            "hash": "f740af11f74891de",
+            "directory": "External30",
+            "voiceContent": "아——엥? 왜 입 안으로 안 들어오지",
+            "sourceName": "vo_gaming_weather_snowy_01.wem"
+        },
+        "f9bd348a93edc63a": {
+            "hash": "f9bd348a93edc63a",
+            "directory": "External31",
+            "voiceContent": "이건 아니지",
+            "sourceName": "vo_gaming_battle_hit_H_01.wem"
+        },
+        "fb660d012775cd2c": {
+            "hash": "fb660d012775cd2c",
+            "directory": "External31",
+            "voiceContent": "교영 마을, 가봤어? 거기가 내 고향이야. 거기는 찻잎이 엄청 유명해. 「송라선아」도 있고 「유운단총」도 있지. 그래 그래, 쇠뿔도 단김에 빼랬다고, 여기 합정단총이 있으니까 지금 찻집에 가서 한 잔 끓여줄게. 가자 가자, 내가 살 테니까",
+            "sourceName": "vo_gaming_dialog_idle.wem"
         }
     }
 }

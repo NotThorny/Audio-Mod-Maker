@@ -1,607 +1,883 @@
 {
     "Teapot": {},
     "Quests": {
+        "009555e963ae6723": {
+            "hash": "009555e963ae6723",
+            "directory": "External0",
+            "voiceContent": "Lady Malikata gave her the Khvarena to protect the rainforest, and Lord Al-Ahmar gave her the Wedjat Eye to record the moments they shared together",
+            "sourceName": "vo_HSEQ003_14_sethos_11.wem"
+        },
+        "0b423199f53fa3c5": {
+            "hash": "0b423199f53fa3c5",
+            "directory": "External1",
+            "voiceContent": "By the way, Miss Candace, I noticed you're carrying the other half of the Wedjat Eye",
+            "sourceName": "vo_HSEQ003_14_sethos_04.wem"
+        },
+        "0f9c05aba277123f": {
+            "hash": "0f9c05aba277123f",
+            "directory": "External1",
+            "voiceContent": "I told Sorush the dancer was already decided, but she insisted on meeting Nilou in person",
+            "sourceName": "vo_HSEQ003_14_sethos_02.wem"
+        },
+        "1b424a3662a81183": {
+            "hash": "1b424a3662a81183",
+            "directory": "External3",
+            "voiceContent": "Uh, by bad guy... Do you mean me",
+            "sourceName": "vo_HSEQ003_10_sethos_02.wem"
+        },
+        "2a4b10aaa736c102": {
+            "hash": "2a4b10aaa736c102",
+            "directory": "External5",
+            "voiceContent": "Wait, I didn't hear anything. It's not like Hermanubis would call on you and not me..",
+            "sourceName": "vo_HSEQ003_18_sethos_03.wem"
+        },
+        "35009b052c6aea1a": {
+            "hash": "35009b052c6aea1a",
+            "directory": "External6",
+            "voiceContent": "Little bit too much chatter from the audience over there",
+            "sourceName": "vo_CNLQ104_5_sethos_01.wem"
+        },
+        "3e1ca8017892e80c": {
+            "hash": "3e1ca8017892e80c",
+            "directory": "External7",
+            "voiceContent": "I was definitely surprised it still has the power to record events after all this time",
+            "sourceName": "vo_HSEQ003_14_sethos_12.wem"
+        },
+        "42ac941325f80f2e": {
+            "hash": "42ac941325f80f2e",
+            "directory": "External8",
+            "voiceContent": "Despite the damage, it still holds many scenes from the past",
+            "sourceName": "vo_HSEQ003_14_sethos_14.wem"
+        },
+        "4b8aced457698219": {
+            "hash": "4b8aced457698219",
+            "directory": "External9",
+            "voiceContent": "*sigh* Genius Invokation this, and Genius Invokation that... When's Collei gonna give me an excuse to leave...",
+            "sourceName": "vo_HSEQ003_18_sethos_04.wem"
+        },
+        "4ced77c3b72e3a38": {
+            "hash": "4ced77c3b72e3a38",
+            "directory": "External9",
+            "voiceContent": "The two of us really hit it off after that, so I became her guide in Sumeru City",
+            "sourceName": "vo_HSEQ003_14_sethos_01.wem"
+        },
+        "52fca3f06bcb4ada": {
+            "hash": "52fca3f06bcb4ada",
+            "directory": "External10",
+            "voiceContent": "Together, the two extended their heartfelt wishes to their dear friend, and each bestowed upon her a precious gift..",
+            "sourceName": "vo_HSEQ003_14_sethos_10.wem"
+        },
+        "5e837c71cf73c530": {
+            "hash": "5e837c71cf73c530",
+            "directory": "External11",
+            "voiceContent": "Then, you can probably guess what really happened",
+            "sourceName": "vo_HSEQ003_10_sethos_05.wem"
+        },
+        "5ed6858abebe41eb": {
+            "hash": "5ed6858abebe41eb",
+            "directory": "External11",
+            "voiceContent": "I only bought the gem because it seemed like there was something special about it. The legend didn't come into play until I checked certain texts back at the Temple of Silence",
+            "sourceName": "vo_HSEQ003_14_sethos_06.wem"
+        },
+        "61cca3b2aa653b56": {
+            "hash": "61cca3b2aa653b56",
+            "directory": "External12",
+            "voiceContent": "Hold on, don't forget about the guys with the fireworks. You still haven't figured out what they were up to",
+            "sourceName": "vo_HSEQ003_14_sethos_03.wem"
+        },
+        "657271af575d379d": {
+            "hash": "657271af575d379d",
+            "directory": "External12",
+            "voiceContent": "Since you already destroyed their goods, I'd say you can stop here. These kinds of situations can easily get out of hand",
+            "sourceName": "vo_HSEQ003_13_sethos_03.wem"
+        },
+        "6a2a3b6542149627": {
+            "hash": "6a2a3b6542149627",
+            "directory": "External13",
+            "voiceContent": "You all go ahead. I'll stay here",
+            "sourceName": "vo_dialog_HSEQ003_sethos_01.wem"
+        },
+        "6f8d01ff12105221": {
+            "hash": "6f8d01ff12105221",
+            "directory": "External13",
+            "voiceContent": "They scattered candy along a path to lead her toward the site of the banquet",
+            "sourceName": "vo_HSEQ003_14_sethos_08.wem"
+        },
+        "839302a12b76edcb": {
+            "hash": "839302a12b76edcb",
+            "directory": "External16",
+            "voiceContent": "I've never really thought about it... It's kind of like an ancient palace, in a way. Not many people are going to break off a piece of the wall and send it for appraisal..",
+            "sourceName": "vo_HSEQ003_18_sethos_02.wem"
+        },
+        "ad00c1f89a2f5cdd": {
+            "hash": "ad00c1f89a2f5cdd",
+            "directory": "External21",
+            "voiceContent": "Its power seems to only resonate with the people of Al-Ahmar, also know as the descendants of King Deshret",
+            "sourceName": "vo_HSEQ003_14_sethos_13.wem"
+        },
+        "b0d11391c67ebfa2": {
+            "hash": "b0d11391c67ebfa2",
+            "directory": "External22",
+            "voiceContent": "Legend has it that King Deshret and the Goddess of Flowers, Lady Malikata, both prepared surprise gifts for Lesser Lord Kusanali during the first Sabzeruz Festival",
+            "sourceName": "vo_HSEQ003_14_sethos_07.wem"
+        },
         "b0ee1c50ee70c4ec": {
             "hash": "b0ee1c50ee70c4ec",
             "directory": "External22",
-            "voiceContent": "Wow, can't believe we've walked this far already...",
+            "voiceContent": "Wow, can't believe we've walked this far already..",
             "sourceName": "vo_HSEQ003_10_sethos_01.wem"
+        },
+        "b1f9f7a370fefd74": {
+            "hash": "b1f9f7a370fefd74",
+            "directory": "External22",
+            "voiceContent": "That's right. So you've read the legend, too",
+            "sourceName": "vo_HSEQ003_14_sethos_05.wem"
+        },
+        "b5a005a01df766e3": {
+            "hash": "b5a005a01df766e3",
+            "directory": "External22",
+            "voiceContent": "They've probably had enough, don't you think",
+            "sourceName": "vo_HSEQ003_13_sethos_01.wem"
+        },
+        "c267183fdec44aba": {
+            "hash": "c267183fdec44aba",
+            "directory": "External24",
+            "voiceContent": "Am I not supposed to be here",
+            "sourceName": "vo_HSEQ003_10_sethos_03.wem"
+        },
+        "c469f60ae2983a37": {
+            "hash": "c469f60ae2983a37",
+            "directory": "External24",
+            "voiceContent": "If you don't mind, I'd like to place them under the custody of the Temple of Silence",
+            "sourceName": "vo_HSEQ003_14_sethos_15.wem"
+        },
+        "c524a8061ce364a0": {
+            "hash": "c524a8061ce364a0",
+            "directory": "External24",
+            "voiceContent": "Eventually, she arrived at a lake, where she heard the sound of music. Lord Al-Ahmar was plucking the strings of an instrument while Lady Malikata performed a beautiful dance",
+            "sourceName": "vo_HSEQ003_14_sethos_09.wem"
+        },
+        "da1d74b9e09c8554": {
+            "hash": "da1d74b9e09c8554",
+            "directory": "External27",
+            "voiceContent": "You can borrow it for research, if you want",
+            "sourceName": "vo_HSEQ003_18_sethos_01.wem"
         },
         "df16ea57e191e497": {
             "hash": "df16ea57e191e497",
             "directory": "External27",
-            "voiceContent": "Well, that explanation starts with the first time I met Sorush.",
+            "voiceContent": "Well, that explanation starts with the first time I met Sorush",
             "sourceName": "vo_HSEQ003_10_sethos_06.wem"
         },
         "e3a6d6698ef70bb1": {
             "hash": "e3a6d6698ef70bb1",
             "directory": "External28",
-            "voiceContent": "Oh, you mean this cracked Wedjat Eye?",
+            "voiceContent": "Oh, you mean this cracked Wedjat Eye",
             "sourceName": "vo_HSEQ003_10_sethos_04.wem"
-        },
-        "1b424a3662a81183": {
-            "hash": "1b424a3662a81183",
-            "directory": "External3",
-            "voiceContent": "Uh, by bad guy... Do you mean me?",
-            "sourceName": "vo_HSEQ003_10_sethos_02.wem"
-        },
-        "c267183fdec44aba": {
-            "hash": "c267183fdec44aba",
-            "directory": "External24",
-            "voiceContent": "Am I not supposed to be here?",
-            "sourceName": "vo_HSEQ003_10_sethos_03.wem"
-        },
-        "5e837c71cf73c530": {
-            "hash": "5e837c71cf73c530",
-            "directory": "External11",
-            "voiceContent": "Then, you can probably guess what really happened.",
-            "sourceName": "vo_HSEQ003_10_sethos_05.wem"
-        },
-        "35009b052c6aea1a": {
-            "hash": "35009b052c6aea1a",
-            "directory": "External6",
-            "voiceContent": "Little bit too much chatter from the audience over there.",
-            "sourceName": "vo_CNLQ104_5_sethos_01.wem"
-        },
-        "6a2a3b6542149627": {
-            "hash": "6a2a3b6542149627",
-            "directory": "External13",
-            "voiceContent": "You all go ahead. I'll stay here.",
-            "sourceName": "vo_dialog_HSEQ003_sethos_01.wem"
-        },
-        "4b8aced457698219": {
-            "hash": "4b8aced457698219",
-            "directory": "External9",
-            "voiceContent": "*sigh* Genius Invokation this, and Genius Invokation that... When's Collei gonna give me an excuse to leave...?",
-            "sourceName": "vo_HSEQ003_18_sethos_04.wem"
-        },
-        "839302a12b76edcb": {
-            "hash": "839302a12b76edcb",
-            "directory": "External16",
-            "voiceContent": "I've never really thought about it... It's kind of like an ancient palace, in a way. Not many people are going to break off a piece of the wall and send it for appraisal...",
-            "sourceName": "vo_HSEQ003_18_sethos_02.wem"
-        },
-        "da1d74b9e09c8554": {
-            "hash": "da1d74b9e09c8554",
-            "directory": "External27",
-            "voiceContent": "You can borrow it for research, if you want.",
-            "sourceName": "vo_HSEQ003_18_sethos_01.wem"
-        },
-        "2a4b10aaa736c102": {
-            "hash": "2a4b10aaa736c102",
-            "directory": "External5",
-            "voiceContent": "Wait, I didn't hear anything. It's not like Hermanubis would call on you and not me...",
-            "sourceName": "vo_HSEQ003_18_sethos_03.wem"
-        },
-        "f7b843c9e042c1ee": {
-            "hash": "f7b843c9e042c1ee",
-            "directory": "External30",
-            "voiceContent": "The Bloomguard, Sorush — renowned among the Pari. All children of the desert know your name.",
-            "sourceName": "vo_HSEQ003_13_sethos_04.wem"
-        },
-        "f68e57b835c0c3cc": {
-            "hash": "f68e57b835c0c3cc",
-            "directory": "External30",
-            "voiceContent": "The name's Sethos. I was out for a walk when I heard the commotion, so I came to check it out.",
-            "sourceName": "vo_HSEQ003_13_sethos_02.wem"
-        },
-        "b5a005a01df766e3": {
-            "hash": "b5a005a01df766e3",
-            "directory": "External22",
-            "voiceContent": "They've probably had enough, don't you think?",
-            "sourceName": "vo_HSEQ003_13_sethos_01.wem"
-        },
-        "657271af575d379d": {
-            "hash": "657271af575d379d",
-            "directory": "External12",
-            "voiceContent": "Since you already destroyed their goods, I'd say you can stop here. These kinds of situations can easily get out of hand.",
-            "sourceName": "vo_HSEQ003_13_sethos_03.wem"
-        },
-        "b1f9f7a370fefd74": {
-            "hash": "b1f9f7a370fefd74",
-            "directory": "External22",
-            "voiceContent": "That's right. So you've read the legend, too.",
-            "sourceName": "vo_HSEQ003_14_sethos_05.wem"
-        },
-        "52fca3f06bcb4ada": {
-            "hash": "52fca3f06bcb4ada",
-            "directory": "External10",
-            "voiceContent": "Together, the two extended their heartfelt wishes to their dear friend, and each bestowed upon her a precious gift...",
-            "sourceName": "vo_HSEQ003_14_sethos_10.wem"
-        },
-        "ad00c1f89a2f5cdd": {
-            "hash": "ad00c1f89a2f5cdd",
-            "directory": "External21",
-            "voiceContent": "Its power seems to only resonate with the people of Al-Ahmar, also know as the descendants of King Deshret.",
-            "sourceName": "vo_HSEQ003_14_sethos_13.wem"
-        },
-        "4ced77c3b72e3a38": {
-            "hash": "4ced77c3b72e3a38",
-            "directory": "External9",
-            "voiceContent": "The two of us really hit it off after that, so I became her guide in Sumeru City.",
-            "sourceName": "vo_HSEQ003_14_sethos_01.wem"
-        },
-        "0b423199f53fa3c5": {
-            "hash": "0b423199f53fa3c5",
-            "directory": "External1",
-            "voiceContent": "By the way, Miss Candace, I noticed you're carrying the other half of the Wedjat Eye.",
-            "sourceName": "vo_HSEQ003_14_sethos_04.wem"
-        },
-        "b0d11391c67ebfa2": {
-            "hash": "b0d11391c67ebfa2",
-            "directory": "External22",
-            "voiceContent": "Legend has it that King Deshret and the Goddess of Flowers, Lady Malikata, both prepared surprise gifts for Lesser Lord Kusanali during the first Sabzeruz Festival.",
-            "sourceName": "vo_HSEQ003_14_sethos_07.wem"
         },
         "ef1908225c7ac550": {
             "hash": "ef1908225c7ac550",
             "directory": "External29",
-            "voiceContent": "Guess I'll stay here, then. There's a bunch of monsters nearby, so it's always good to have someone stand guard.",
+            "voiceContent": "Guess I'll stay here, then. There's a bunch of monsters nearby, so it's always good to have someone stand guard",
             "sourceName": "vo_HSEQ003_14_sethos_16.wem"
         },
-        "009555e963ae6723": {
-            "hash": "009555e963ae6723",
-            "directory": "External0",
-            "voiceContent": "Lady Malikata gave her the Khvarena to protect the rainforest, and Lord Al-Ahmar gave her the Wedjat Eye to record the moments they shared together.",
-            "sourceName": "vo_HSEQ003_14_sethos_11.wem"
+        "f68e57b835c0c3cc": {
+            "hash": "f68e57b835c0c3cc",
+            "directory": "External30",
+            "voiceContent": "The name's Sethos. I was out for a walk when I heard the commotion, so I came to check it out",
+            "sourceName": "vo_HSEQ003_13_sethos_02.wem"
         },
-        "3e1ca8017892e80c": {
-            "hash": "3e1ca8017892e80c",
-            "directory": "External7",
-            "voiceContent": "I was definitely surprised it still has the power to record events after all this time.",
-            "sourceName": "vo_HSEQ003_14_sethos_12.wem"
-        },
-        "6f8d01ff12105221": {
-            "hash": "6f8d01ff12105221",
-            "directory": "External13",
-            "voiceContent": "They scattered candy along a path to lead her toward the site of the banquet.",
-            "sourceName": "vo_HSEQ003_14_sethos_08.wem"
-        },
-        "61cca3b2aa653b56": {
-            "hash": "61cca3b2aa653b56",
-            "directory": "External12",
-            "voiceContent": "Hold on, don't forget about the guys with the fireworks. You still haven't figured out what they were up to.",
-            "sourceName": "vo_HSEQ003_14_sethos_03.wem"
-        },
-        "42ac941325f80f2e": {
-            "hash": "42ac941325f80f2e",
-            "directory": "External8",
-            "voiceContent": "Despite the damage, it still holds many scenes from the past.",
-            "sourceName": "vo_HSEQ003_14_sethos_14.wem"
-        },
-        "5ed6858abebe41eb": {
-            "hash": "5ed6858abebe41eb",
-            "directory": "External11",
-            "voiceContent": "I only bought the gem because it seemed like there was something special about it. The legend didn't come into play until I checked certain texts back at the Temple of Silence.",
-            "sourceName": "vo_HSEQ003_14_sethos_06.wem"
-        },
-        "0f9c05aba277123f": {
-            "hash": "0f9c05aba277123f",
-            "directory": "External1",
-            "voiceContent": "I told Sorush the dancer was already decided, but she insisted on meeting Nilou in person.",
-            "sourceName": "vo_HSEQ003_14_sethos_02.wem"
-        },
-        "c524a8061ce364a0": {
-            "hash": "c524a8061ce364a0",
-            "directory": "External24",
-            "voiceContent": "Eventually, she arrived at a lake, where she heard the sound of music. Lord Al-Ahmar was plucking the strings of an instrument while Lady Malikata performed a beautiful dance.",
-            "sourceName": "vo_HSEQ003_14_sethos_09.wem"
-        },
-        "c469f60ae2983a37": {
-            "hash": "c469f60ae2983a37",
-            "directory": "External24",
-            "voiceContent": "If you don't mind, I'd like to place them under the custody of the Temple of Silence.",
-            "sourceName": "vo_HSEQ003_14_sethos_15.wem"
+        "f7b843c9e042c1ee": {
+            "hash": "f7b843c9e042c1ee",
+            "directory": "External30",
+            "voiceContent": "The Bloomguard, Sorush — renowned among the Pari. All children of the desert know your name",
+            "sourceName": "vo_HSEQ003_13_sethos_04.wem"
         }
     },
     "Gameplay": {
-        "26d7b43830d3142b": {
-            "hash": "26d7b43830d3142b",
-            "directory": "External4",
-            "voiceContent": "Way ahead of ya.",
-            "sourceName": "vo_sethos_battle_skill1_01.wem"
+        "001d2a888e55cf45": {
+            "hash": "001d2a888e55cf45",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attacklight_07.wem"
         },
-        "7d622650e5f8abb4": {
-            "hash": "7d622650e5f8abb4",
-            "directory": "External15",
-            "voiceContent": "Excuse me!",
-            "sourceName": "vo_sethos_battle_skill1_02.wem"
+        "00cbef82c83e9797": {
+            "hash": "00cbef82c83e9797",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_jump_04.wem"
         },
-        "d6aa60476a395205": {
-            "hash": "d6aa60476a395205",
-            "directory": "External26",
-            "voiceContent": "Gimme some space.",
-            "sourceName": "vo_sethos_battle_skill1_03.wem"
+        "0194df8514b90a93": {
+            "hash": "0194df8514b90a93",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attackmid_03.wem"
         },
-        "68cb647f2cc77a69": {
-            "hash": "68cb647f2cc77a69",
-            "directory": "External13",
-            "voiceContent": "By the sages' wisdom.",
-            "sourceName": "vo_sethos_battle_skill3_01.wem"
+        "02becb96bf3b088d": {
+            "hash": "02becb96bf3b088d",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attackmid_01.wem"
         },
-        "f8873676607b3406": {
-            "hash": "f8873676607b3406",
-            "directory": "External31",
-            "voiceContent": "Glory to Al-Ahmar!",
-            "sourceName": "vo_sethos_battle_skill3_02.wem"
-        },
-        "7a44986e1d1b5fef": {
-            "hash": "7a44986e1d1b5fef",
-            "directory": "External15",
-            "voiceContent": "Move, or be moved!",
-            "sourceName": "vo_sethos_battle_skill3_03.wem"
-        },
-        "0f2a624ccb027360": {
-            "hash": "0f2a624ccb027360",
-            "directory": "External1",
-            "voiceContent": "Hey, check this out. See anything you like?",
-            "sourceName": "vo_sethos_chest_open_01.wem"
-        },
-        "b869d03415af15c7": {
-            "hash": "b869d03415af15c7",
-            "directory": "External23",
-            "voiceContent": "This is a nice surprise.",
-            "sourceName": "vo_sethos_chest_open_02.wem"
-        },
-        "62beae3d9481033e": {
-            "hash": "62beae3d9481033e",
-            "directory": "External12",
-            "voiceContent": "Aah! It's a monster! ...No dice? I'll get you next time.",
-            "sourceName": "vo_sethos_chest_open_03.wem"
-        },
-        "80fec1039261ac48": {
-            "hash": "80fec1039261ac48",
-            "directory": "External16",
-            "voiceContent": "Is it my turn yet?",
-            "sourceName": "vo_sethos_life_less30_teammate_01.wem"
-        },
-        "40468eeb7ac6148f": {
-            "hash": "40468eeb7ac6148f",
-            "directory": "External8",
-            "voiceContent": "Just say the word...",
-            "sourceName": "vo_sethos_life_less30_teammate_02.wem"
-        },
-        "97d433b31ce9d06d": {
-            "hash": "97d433b31ce9d06d",
-            "directory": "External18",
-            "voiceContent": "It was all... in vain...",
-            "sourceName": "vo_sethos_life_die_01.wem"
-        },
-        "69e195ac29f690ea": {
-            "hash": "69e195ac29f690ea",
-            "directory": "External13",
-            "voiceContent": "The sun sets... forever...",
-            "sourceName": "vo_sethos_life_die_02.wem"
-        },
-        "9fd9db27cb332ece": {
-            "hash": "9fd9db27cb332ece",
-            "directory": "External19",
-            "voiceContent": "Be right there.",
-            "sourceName": "vo_sethos_teamJoin_01.wem"
-        },
-        "22c12931325557f1": {
-            "hash": "22c12931325557f1",
-            "directory": "External4",
-            "voiceContent": "Cool cool cool, you're the boss.",
-            "sourceName": "vo_sethos_teamJoin_02.wem"
-        },
-        "a103cf3975b53a70": {
-            "hash": "a103cf3975b53a70",
-            "directory": "External20",
-            "voiceContent": "Bags packed and ready to roll.",
-            "sourceName": "vo_sethos_teamJoin_03.wem"
+        "0476fe9a3b8d3dbf": {
+            "hash": "0476fe9a3b8d3dbf",
+            "directory": "External0",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attacklight_01.wem"
         },
         "06c3328450d2afae": {
             "hash": "06c3328450d2afae",
             "directory": "External0",
-            "voiceContent": "If you're always asking Why?, you end up thinking yourself into a corner. Sometimes, it's better to let go.",
+            "voiceContent": "If you're always asking Why?, you end up thinking yourself into a corner. Sometimes, it's better to let go",
             "sourceName": "vo_sethos_character_idle_01.wem"
-        },
-        "34ed008b43f58351": {
-            "hash": "34ed008b43f58351",
-            "directory": "External6",
-            "voiceContent": "Do you hear that? Something's going on over there. I wanna go check it out — early bird gets the worm.",
-            "sourceName": "vo_sethos_character_idle_02.wem"
-        },
-        "b32fa693875565d0": {
-            "hash": "b32fa693875565d0",
-            "directory": "External22",
-            "voiceContent": "There's a lot of very fascinating people in the Akademiya... kinda makes me wanna go study there.",
-            "sourceName": "vo_sethos_character_idle_03.wem"
-        },
-        "2bb343f1dd7a8778": {
-            "hash": "2bb343f1dd7a8778",
-            "directory": "External5",
-            "voiceContent": "No umbrella for me, thanks. It hardly ever rains in the desert, so I'm gonna enjoy this while I can.",
-            "sourceName": "vo_sethos_weather_heavyRain_01.wem"
-        },
-        "6157ebac19ea0dfb": {
-            "hash": "6157ebac19ea0dfb",
-            "directory": "External12",
-            "voiceContent": "No no no... Quick, let's get to lower ground!",
-            "sourceName": "vo_sethos_weather_thunder_01.wem"
-        },
-        "666f747031f97304": {
-            "hash": "666f747031f97304",
-            "directory": "External12",
-            "voiceContent": "Have you ever tried drawing in the sand? From up high, it makes for an incredible sight! But you need to pick somewhere less exposed to the wind.",
-            "sourceName": "vo_sethos_weather_desert_01.wem"
-        },
-        "b53b334b78923b8f": {
-            "hash": "b53b334b78923b8f",
-            "directory": "External22",
-            "voiceContent": "*shudder* ...Quick quick quick, let's pick up the pace! Jogging will warm us up!",
-            "sourceName": "vo_sethos_weather_snowy_01.wem"
-        },
-        "983ee2ad9aa368ba": {
-            "hash": "983ee2ad9aa368ba",
-            "directory": "External19",
-            "voiceContent": "The weather's so perfect, it would be such a waste not to go camping. How does fishing in an oasis sound?",
-            "sourceName": "vo_sethos_weather_sunny_01.wem"
-        },
-        "b37fb6f0fd947b22": {
-            "hash": "b37fb6f0fd947b22",
-            "directory": "External22",
-            "voiceContent": "Goooood morning, wanna join me for breakfast? I'm gonna fix some Shawarma Wraps — I've been craving them since last night.",
-            "sourceName": "vo_sethos_dialog_greetingMorning.wem"
-        },
-        "deeaf877626907de": {
-            "hash": "deeaf877626907de",
-            "directory": "External27",
-            "voiceContent": "It's tempting to have a coffee at this hour, but it'll ruin your afternoon nap.",
-            "sourceName": "vo_sethos_dialog_greetingNoon.wem"
-        },
-        "4fc6f2665ab2e868": {
-            "hash": "4fc6f2665ab2e868",
-            "directory": "External9",
-            "voiceContent": "The desert's a pretty lifeless place during the day, but you can't beat the view of the stars at night.",
-            "sourceName": "vo_sethos_dialog_greetingNight.wem"
-        },
-        "15dd0843de078d98": {
-            "hash": "15dd0843de078d98",
-            "directory": "External2",
-            "voiceContent": "I'm gonna hit the hay. Wanna catch the sunrise tomorrow.",
-            "sourceName": "vo_sethos_dialog_greetingNight2.wem"
-        },
-        "7c28ed2a2a33273f": {
-            "hash": "7c28ed2a2a33273f",
-            "directory": "External15",
-            "voiceContent": "Some of my elders say I'm difficult to control, like a wild animal. I actually don't disagree with that, but don't you think it's kind of an issue that they'd want to control how other people think in the first place?",
-            "sourceName": "vo_sethos_dialog_idle.wem"
-        },
-        "ec86a18d93ba30f1": {
-            "hash": "ec86a18d93ba30f1",
-            "directory": "External29",
-            "voiceContent": "To be honest, being a leader is a little stressful, especially in the Temple of Silence. But after all the years I spent with Grandfather, I'm at least clear in my own mind about the areas where I cannot compromise. After the Rite of Duels, and having been given the chance to make so many new friends, I now know the direction I want to take the Temple of Silence in from here on out. Don't worry — I won't mess it up.",
-            "sourceName": "vo_sethos_dialog_idle2.wem"
-        },
-        "ce06ef795b0a54a8": {
-            "hash": "ce06ef795b0a54a8",
-            "directory": "External25",
-            "voiceContent": "Lighting a bonfire at night keeps you warm and keeps wild animals away. To me, you're just like a bonfire.Too abstract? Alright, let me put it more directly I think of you as a good friend.",
-            "sourceName": "vo_sethos_dialog_close1.wem"
-        },
-        "f5b7531e98919f85": {
-            "hash": "f5b7531e98919f85",
-            "directory": "External30",
-            "voiceContent": "When you approach someone while intending to ingratiate yourself with them, it often makes for a stilted conversation. It's much easier to build up a rapport by just hanging out and talking about whatever.",
-            "sourceName": "vo_sethos_dialog_close.wem"
-        },
-        "eb5215381a4b3670": {
-            "hash": "eb5215381a4b3670",
-            "directory": "External29",
-            "voiceContent": "If you're ever traveling in the desert, journeying by night is a good choice. It does get very cold, but you don't get as dehydrated as you would under the harsh sun. Putting on a few extra layers is way easier than spending half your journey time looking for a water source.",
-            "sourceName": "vo_sethos_dialog_share_01.wem"
-        },
-        "a9d5f69954ffd052": {
-            "hash": "a9d5f69954ffd052",
-            "directory": "External21",
-            "voiceContent": "I don't know where Mourning Flowers got their name, it's quite an evocative image though. Maybe somebody saw one wilting in the sunlight and thought it looked like a person hanging their head in sorrow.",
-            "sourceName": "vo_sethos_pref_gift_01.wem"
-        },
-        "1ad1a3c128a3d4dc": {
-            "hash": "1ad1a3c128a3d4dc",
-            "directory": "External3",
-            "voiceContent": "Cyno is truly outstanding — absolutely a worthy heir to Hermanubis's power. As General Mahamatra, he has the utmost reverence for knowledge and wisdom. If the Akademiya and the Temple of Silence do start working together again, I'll take comfort in the fact that he's there.Oh yeah, and another great thing about Cyno You know the way he talks? It's just... so funny.",
-            "sourceName": "vo_sethos_teammate_cyno_01.wem"
-        },
-        "5008e3f3f539cdcb": {
-            "hash": "5008e3f3f539cdcb",
-            "directory": "External10",
-            "voiceContent": "Tighnari's made of strong stuff. I only found out after the fact that he doesn't cope well with the desert climate — never would've guessed from how he performed in the Rite of Duels. I was also surprised when he sent me a letter inviting me to visit Gandharva Ville, saying it would be a good chance to meet some of Cyno's friends. Are those guys always such a hoot with their jokes? Dinner with them must be hilarious — I can't wait!",
-            "sourceName": "vo_sethos_teammate_tighnari_01.wem"
-        },
-        "be95aacde95d0d31": {
-            "hash": "be95aacde95d0d31",
-            "directory": "External23",
-            "voiceContent": "I saw those two at the tavern once. And another time at the cafe. ...Actually, I think I saw them once at the Grand Bazaar, too. The architect guy, he's always talking in a hushed tone — I guess he doesn't want people to hear, but uh... Okay, it's not like I purposely listen in, it's just... Something about those two guys hanging out together, you just can't look away.",
-            "sourceName": "vo_sethos_teammate_alhaitham&kaveh_01.wem"
-        },
-        "b6db3f00e512a11e": {
-            "hash": "b6db3f00e512a11e",
-            "directory": "External22",
-            "voiceContent": "It's so rare to meet someone even more chummy than me! One minute I was taking a stroll near the Akademiya, the next minute she'd taken me on as a student, and was insisting on giving me a tour. She gave me a real fright, though, because she said that if I joined Haravatat, I'd get the 20-tongues language-learning package, mastery of all 100% guaranteed... I asked around, and it seems like that's just an in-joke among Akademiya students — there is no 20-language graduation requirement after all. But I don't get it... how is that funny? It's only gonna put people off studying there.",
-            "sourceName": "vo_sethos_teammate_faruzan_01.wem"
-        },
-        "8c6fc106b39b367c": {
-            "hash": "8c6fc106b39b367c",
-            "directory": "External17",
-            "voiceContent": "I usually can't stay still for more than a few minutes, but Zubayr Theater is one place I don't mind just standing and watching while Nilou dances on the stage. It's a rare skill to be able to bring people such a sense of peace.",
-            "sourceName": "vo_sethos_teammate_nilou_01.wem"
-        },
-        "699a9bece030389d": {
-            "hash": "699a9bece030389d",
-            "directory": "External13",
-            "voiceContent": "Who is that guy, anyway? A foreign exchange student, or something? He has a pretty incredible hat, never seen anything like it. I tried to get a closer look once, but then I blinked and he was gone. Shame. I won't let him get away next time, though. I also hear he has some pretty interesting ideas... Gotta have a chat with him sometime!",
-            "sourceName": "vo_sethos_teammate_wanderer_01.wem"
-        },
-        "fd7c212a9660c288": {
-            "hash": "fd7c212a9660c288",
-            "directory": "External31",
-            "voiceContent": "Flame-Mane... everyone in the desert knows that name. The Eremites aren't exactly saints, as I'm sure you know, but Dehya's one of the few solid and dependable ones out there. If you ever want to explore the Great Red Sand, Dehya's the second-best guide you could ask for. First-best being me, obviously.",
-            "sourceName": "vo_sethos_teammate_dehya_01.wem"
-        },
-        "532857cd9c311aa6": {
-            "hash": "532857cd9c311aa6",
-            "directory": "External10",
-            "voiceContent": "Have you ever experienced Candace's hospitality? She cooks very generous portions — even I could barely finish. So long as you're on the receiving end of her hospitality and not her wrath, you'll live a long and happy life.",
-            "sourceName": "vo_sethos_teammate_candace_01.wem"
-        },
-        "4357581c62a203a2": {
-            "hash": "4357581c62a203a2",
-            "directory": "External8",
-            "voiceContent": "You got questions? You've come to the right person. On the off chance I don't have the answers, I can ask around and help you find out.",
-            "sourceName": "vo_sethos_friendship_01.wem"
-        },
-        "9dc876249162e7c5": {
-            "hash": "9dc876249162e7c5",
-            "directory": "External19",
-            "voiceContent": "If you've any equipment or tools that need repairing, I can help you with that. ...What's my job? Well, I'm an unemployed vagrant, obviously. I wouldn't have the time to be such a handyman otherwise, would I?",
-            "sourceName": "vo_sethos_friendship_02.wem"
-        },
-        "44803c2e0d224174": {
-            "hash": "44803c2e0d224174",
-            "directory": "External8",
-            "voiceContent": "I like going on hiking trips. I always map out my route, pack a bag, and pick a good day. I enjoy having it all carefully planned out. Of course, you gotta leave some flexibility in your schedule, too — you might make a new friend along the way.",
-            "sourceName": "vo_sethos_friendship_03.wem"
-        },
-        "a2224a363e9a563f": {
-            "hash": "a2224a363e9a563f",
-            "directory": "External20",
-            "voiceContent": "I always have a great time at the Grand Bazaar. I like to pick a bunch of different herbs and spices to mix with some freshly grilled meat. I never make a note of the exact combination of ingredients though, so I usually end up with one-off recipes. What do you think? Any interest in trying one of my limited-edition, one-time-only delicacies?",
-            "sourceName": "vo_sethos_friendship_04.wem"
-        },
-        "f452e83d46887f56": {
-            "hash": "f452e83d46887f56",
-            "directory": "External30",
-            "voiceContent": "I've lived in the Temple of Silence for as long as I can remember, and to be honest, I've never had many of my own decisions to make. I'm still not sure if withstanding the power of Hermanubis was a blessing or a curse, but it definitely gave me a higher purpose in life.There's a million things you can regret in life, so I'm just happy I was able to bring that one situation to a close. I'm sure Grandfather will rest in peace knowing that I got to become the leader of the Temple of Silence, and that Hermanubis's power has finally found a home.",
-            "sourceName": "vo_sethos_friendship_05.wem"
-        },
-        "364e6d38c7750e9e": {
-            "hash": "364e6d38c7750e9e",
-            "directory": "External6",
-            "voiceContent": "I get bored when I'm inside for too long. I always like exploring the great outdoors, whatever the weather might be like.",
-            "sourceName": "vo_sethos_pref_hobby.wem"
-        },
-        "ee375be688002ee1": {
-            "hash": "ee375be688002ee1",
-            "directory": "External29",
-            "voiceContent": "I like mixing spices — but only because it makes meat taste better. It's a means to an end.",
-            "sourceName": "vo_sethos_pref_foodLike.wem"
-        },
-        "100f1a216a1b6683": {
-            "hash": "100f1a216a1b6683",
-            "directory": "External2",
-            "voiceContent": "Green vegetables are nice to look at and all, but eating them... Ehh.",
-            "sourceName": "vo_sethos_pref_foodDislike.wem"
-        },
-        "7b27bad5cc9ef32e": {
-            "hash": "7b27bad5cc9ef32e",
-            "directory": "External15",
-            "voiceContent": "Mm, mm, mm! I'm kind of a big eater, hope that's okay with you?",
-            "sourceName": "vo_sethos_spice_pref_01.wem"
-        },
-        "e38f53c0bbf1bb54": {
-            "hash": "e38f53c0bbf1bb54",
-            "directory": "External28",
-            "voiceContent": "Not bad! What's the recipe? I'll take some on my next hiking trip.",
-            "sourceName": "vo_sethos_spice_normal_01.wem"
-        },
-        "57cad5825eaf6338": {
-            "hash": "57cad5825eaf6338",
-            "directory": "External10",
-            "voiceContent": "Hmm... hmm... Nope, I can't really taste anything. Let me try some more...",
-            "sourceName": "vo_sethos_spice_dislike_01.wem"
-        },
-        "52fc2db9b2fdfd0d": {
-            "hash": "52fc2db9b2fdfd0d",
-            "directory": "External10",
-            "voiceContent": "You know, your hair would look amazing if it was done up in a desert-dweller style... How about kicking off the next year of your life with a new hairdo, huh? If you're up for it, just leave it to me. You'll look glamorous, I promise you.",
-            "sourceName": "vo_sethos_pref_birthday_01.wem"
-        },
-        "7fcd8792120e000d": {
-            "hash": "7fcd8792120e000d",
-            "directory": "External15",
-            "voiceContent": "This is your training regimen, huh? Interesting.",
-            "sourceName": "vo_sethos_starUp_01.wem"
-        },
-        "f9b76988a838420a": {
-            "hash": "f9b76988a838420a",
-            "directory": "External31",
-            "voiceContent": "Wow... So this is what three consecutive days of reading feels like.",
-            "sourceName": "vo_sethos_starUp_02.wem"
-        },
-        "7ea39b80678c0213": {
-            "hash": "7ea39b80678c0213",
-            "directory": "External15",
-            "voiceContent": "Amazing... I feel like I could sprint from Aaru Village all the way to The Mausoleum of King Deshret without breaking a sweat. I'm not even joking — you up for it?",
-            "sourceName": "vo_sethos_starUp_03.wem"
-        },
-        "c1e50dbbd45822c0": {
-            "hash": "c1e50dbbd45822c0",
-            "directory": "External24",
-            "voiceContent": "I had no idea you'd help me reach this level. Sometimes, an over-reliance on ancient wisdom can make you forget the strength that you and your companions already have. Thank you for being there to remind me.",
-            "sourceName": "vo_sethos_starUp_04.wem"
-        },
-        "3fee5eeffe939391": {
-            "hash": "3fee5eeffe939391",
-            "directory": "External7",
-            "voiceContent": "I'm not giving up.",
-            "sourceName": "vo_sethos_life_less30_01.wem"
-        },
-        "0e5f90e9088f4aee": {
-            "hash": "0e5f90e9088f4aee",
-            "directory": "External1",
-            "voiceContent": "I'm okay, I still got this...",
-            "sourceName": "vo_sethos_life_less30_02.wem"
-        },
-        "9382f2e0c8129ef7": {
-            "hash": "9382f2e0c8129ef7",
-            "directory": "External18",
-            "voiceContent": "Well, shucks...",
-            "sourceName": "vo_sethos_life_less30_03.wem"
-        },
-        "eb68c7a3e668daf3": {
-            "hash": "eb68c7a3e668daf3",
-            "directory": "External29",
-            "voiceContent": "Grandfather... I'm sorry...",
-            "sourceName": "vo_sethos_life_die_03.wem"
-        },
-        "e31433fa011fa605": {
-            "hash": "e31433fa011fa605",
-            "directory": "External28",
-            "voiceContent": "Whoa, whoa, whoa...",
-            "sourceName": "vo_sethos_battle_hit_H_01.wem"
-        },
-        "88a215f1d25d0fe2": {
-            "hash": "88a215f1d25d0fe2",
-            "directory": "External17",
-            "voiceContent": "Gah, I was too slow!",
-            "sourceName": "vo_sethos_battle_hit_H_02.wem"
-        },
-        "b8790fcc986edfde": {
-            "hash": "b8790fcc986edfde",
-            "directory": "External23",
-            "voiceContent": "Okay, okay...",
-            "sourceName": "vo_sethos_battle_hit_L_02.wem"
         },
         "09dc9bb9ecebc8e1": {
             "hash": "09dc9bb9ecebc8e1",
             "directory": "External1",
-            "voiceContent": "You have to be fully prepared before you venture out on a trip, especially when you're going somewhere you haven't been before. The first time I spent the night in the rainforest, I didn't realize that I should've brought a waterproof groundsheet... That was a miserable night.",
+            "voiceContent": "You have to be fully prepared before you venture out on a trip, especially when you're going somewhere you haven't been before. The first time I spent the night in the rainforest, I didn't realize that I should've brought a waterproof groundsheet... That was a miserable night",
             "sourceName": "vo_sethos_dialog_annoyed_01.wem"
+        },
+        "0c0da3bd61edea3c": {
+            "hash": "0c0da3bd61edea3c",
+            "directory": "External1",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_hit_l_04.wem"
+        },
+        "0e5f90e9088f4aee": {
+            "hash": "0e5f90e9088f4aee",
+            "directory": "External1",
+            "voiceContent": "I'm okay, I still got this..",
+            "sourceName": "vo_sethos_life_less30_02.wem"
+        },
+        "0f2a624ccb027360": {
+            "hash": "0f2a624ccb027360",
+            "directory": "External1",
+            "voiceContent": "Hey, check this out. See anything you like",
+            "sourceName": "vo_sethos_chest_open_01.wem"
+        },
+        "100f1a216a1b6683": {
+            "hash": "100f1a216a1b6683",
+            "directory": "External2",
+            "voiceContent": "Green vegetables are nice to look at and all, but eating them... Ehh",
+            "sourceName": "vo_sethos_pref_foodDislike.wem"
+        },
+        "15dd0843de078d98": {
+            "hash": "15dd0843de078d98",
+            "directory": "External2",
+            "voiceContent": "I'm gonna hit the hay. Wanna catch the sunrise tomorrow",
+            "sourceName": "vo_sethos_dialog_greetingNight2.wem"
+        },
+        "161b1dd4c9e6f481": {
+            "hash": "161b1dd4c9e6f481",
+            "directory": "External2",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_hit_l_01.wem"
+        },
+        "1ad1a3c128a3d4dc": {
+            "hash": "1ad1a3c128a3d4dc",
+            "directory": "External3",
+            "voiceContent": "Cyno is truly outstanding — absolutely a worthy heir to Hermanubis's power. As General Mahamatra, he has the utmost reverence for knowledge and wisdom. If the Akademiya and the Temple of Silence do start working together again, I'll take comfort in the fact that he's there.Oh yeah, and another great thing about Cyno You know the way he talks? It's just... so funny",
+            "sourceName": "vo_sethos_teammate_cyno_01.wem"
+        },
+        "22c12931325557f1": {
+            "hash": "22c12931325557f1",
+            "directory": "External4",
+            "voiceContent": "Cool cool cool, you're the boss",
+            "sourceName": "vo_sethos_teamJoin_02.wem"
+        },
+        "24be7a23c30c8a78": {
+            "hash": "24be7a23c30c8a78",
+            "directory": "External4",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_hit_h_04.wem"
+        },
+        "26d7b43830d3142b": {
+            "hash": "26d7b43830d3142b",
+            "directory": "External4",
+            "voiceContent": "Way ahead of ya",
+            "sourceName": "vo_sethos_battle_skill1_01.wem"
+        },
+        "2a3f859bc644cfa6": {
+            "hash": "2a3f859bc644cfa6",
+            "directory": "External5",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_climb_breath_01.wem"
+        },
+        "2bb343f1dd7a8778": {
+            "hash": "2bb343f1dd7a8778",
+            "directory": "External5",
+            "voiceContent": "No umbrella for me, thanks. It hardly ever rains in the desert, so I'm gonna enjoy this while I can",
+            "sourceName": "vo_sethos_weather_heavyRain_01.wem"
+        },
+        "32c0b0ec78d63b1e": {
+            "hash": "32c0b0ec78d63b1e",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_climb_06.wem"
+        },
+        "334187eac7b9682b": {
+            "hash": "334187eac7b9682b",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_hit_h_03.wem"
+        },
+        "33e9e4fe235700c0": {
+            "hash": "33e9e4fe235700c0",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_climb_04.wem"
+        },
+        "343e1dc3a17fb6fa": {
+            "hash": "343e1dc3a17fb6fa",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_sprint_start_02.wem"
+        },
+        "34ed008b43f58351": {
+            "hash": "34ed008b43f58351",
+            "directory": "External6",
+            "voiceContent": "Do you hear that? Something's going on over there. I wanna go check it out — early bird gets the worm",
+            "sourceName": "vo_sethos_character_idle_02.wem"
+        },
+        "3637a612b3606196": {
+            "hash": "3637a612b3606196",
+            "directory": "External6",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_hit_h_06.wem"
+        },
+        "364e6d38c7750e9e": {
+            "hash": "364e6d38c7750e9e",
+            "directory": "External6",
+            "voiceContent": "I get bored when I'm inside for too long. I always like exploring the great outdoors, whatever the weather might be like",
+            "sourceName": "vo_sethos_pref_hobby.wem"
+        },
+        "3e213b72f3d6c2bd": {
+            "hash": "3e213b72f3d6c2bd",
+            "directory": "External7",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_jump_02.wem"
+        },
+        "3fee5eeffe939391": {
+            "hash": "3fee5eeffe939391",
+            "directory": "External7",
+            "voiceContent": "I'm not giving up",
+            "sourceName": "vo_sethos_life_less30_01.wem"
+        },
+        "40468eeb7ac6148f": {
+            "hash": "40468eeb7ac6148f",
+            "directory": "External8",
+            "voiceContent": "Just say the word..",
+            "sourceName": "vo_sethos_life_less30_teammate_02.wem"
+        },
+        "41c870b2504465b8": {
+            "hash": "41c870b2504465b8",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attacklight_02.wem"
+        },
+        "4357581c62a203a2": {
+            "hash": "4357581c62a203a2",
+            "directory": "External8",
+            "voiceContent": "You got questions? You've come to the right person. On the off chance I don't have the answers, I can ask around and help you find out",
+            "sourceName": "vo_sethos_friendship_01.wem"
+        },
+        "444a2e082039d860": {
+            "hash": "444a2e082039d860",
+            "directory": "External8",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_idle_01.wem"
+        },
+        "44803c2e0d224174": {
+            "hash": "44803c2e0d224174",
+            "directory": "External8",
+            "voiceContent": "I like going on hiking trips. I always map out my route, pack a bag, and pick a good day. I enjoy having it all carefully planned out. Of course, you gotta leave some flexibility in your schedule, too — you might make a new friend along the way",
+            "sourceName": "vo_sethos_friendship_03.wem"
+        },
+        "4fc6f2665ab2e868": {
+            "hash": "4fc6f2665ab2e868",
+            "directory": "External9",
+            "voiceContent": "The desert's a pretty lifeless place during the day, but you can't beat the view of the stars at night",
+            "sourceName": "vo_sethos_dialog_greetingNight.wem"
+        },
+        "5008e3f3f539cdcb": {
+            "hash": "5008e3f3f539cdcb",
+            "directory": "External10",
+            "voiceContent": "Tighnari's made of strong stuff. I only found out after the fact that he doesn't cope well with the desert climate — never would've guessed from how he performed in the Rite of Duels. I was also surprised when he sent me a letter inviting me to visit Gandharva Ville, saying it would be a good chance to meet some of Cyno's friends. Are those guys always such a hoot with their jokes? Dinner with them must be hilarious — I can't wait",
+            "sourceName": "vo_sethos_teammate_tighnari_01.wem"
+        },
+        "52fc2db9b2fdfd0d": {
+            "hash": "52fc2db9b2fdfd0d",
+            "directory": "External10",
+            "voiceContent": "You know, your hair would look amazing if it was done up in a desert-dweller style... How about kicking off the next year of your life with a new hairdo, huh? If you're up for it, just leave it to me. You'll look glamorous, I promise you",
+            "sourceName": "vo_sethos_pref_birthday_01.wem"
+        },
+        "532857cd9c311aa6": {
+            "hash": "532857cd9c311aa6",
+            "directory": "External10",
+            "voiceContent": "Have you ever experienced Candace's hospitality? She cooks very generous portions — even I could barely finish. So long as you're on the receiving end of her hospitality and not her wrath, you'll live a long and happy life",
+            "sourceName": "vo_sethos_teammate_candace_01.wem"
+        },
+        "53b17e7957d46d6b": {
+            "hash": "53b17e7957d46d6b",
+            "directory": "External10",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attacklight_05.wem"
+        },
+        "57cad5825eaf6338": {
+            "hash": "57cad5825eaf6338",
+            "directory": "External10",
+            "voiceContent": "Hmm... hmm... Nope, I can't really taste anything. Let me try some more..",
+            "sourceName": "vo_sethos_spice_dislike_01.wem"
+        },
+        "6157ebac19ea0dfb": {
+            "hash": "6157ebac19ea0dfb",
+            "directory": "External12",
+            "voiceContent": "No no no... Quick, let's get to lower ground",
+            "sourceName": "vo_sethos_weather_thunder_01.wem"
+        },
+        "621ff26d835cff52": {
+            "hash": "621ff26d835cff52",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_fly_start_01.wem"
+        },
+        "62beae3d9481033e": {
+            "hash": "62beae3d9481033e",
+            "directory": "External12",
+            "voiceContent": "Aah! It's a monster! ...No dice? I'll get you next time",
+            "sourceName": "vo_sethos_chest_open_03.wem"
+        },
+        "6349167f2ddda924": {
+            "hash": "6349167f2ddda924",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_fly_start_03.wem"
+        },
+        "6648b1c5908123e7": {
+            "hash": "6648b1c5908123e7",
+            "directory": "External12",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_hit_l_03.wem"
+        },
+        "666f747031f97304": {
+            "hash": "666f747031f97304",
+            "directory": "External12",
+            "voiceContent": "Have you ever tried drawing in the sand? From up high, it makes for an incredible sight! But you need to pick somewhere less exposed to the wind",
+            "sourceName": "vo_sethos_weather_desert_01.wem"
+        },
+        "68cb647f2cc77a69": {
+            "hash": "68cb647f2cc77a69",
+            "directory": "External13",
+            "voiceContent": "By the sages' wisdom",
+            "sourceName": "vo_sethos_battle_skill3_01.wem"
+        },
+        "699a9bece030389d": {
+            "hash": "699a9bece030389d",
+            "directory": "External13",
+            "voiceContent": "Who is that guy, anyway? A foreign exchange student, or something? He has a pretty incredible hat, never seen anything like it. I tried to get a closer look once, but then I blinked and he was gone. Shame. I won't let him get away next time, though. I also hear he has some pretty interesting ideas... Gotta have a chat with him sometime",
+            "sourceName": "vo_sethos_teammate_wanderer_01.wem"
+        },
+        "69e195ac29f690ea": {
+            "hash": "69e195ac29f690ea",
+            "directory": "External13",
+            "voiceContent": "The sun sets... forever..",
+            "sourceName": "vo_sethos_life_die_02.wem"
+        },
+        "6bbc40caf737200a": {
+            "hash": "6bbc40caf737200a",
+            "directory": "External13",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_climb_02.wem"
+        },
+        "7a44986e1d1b5fef": {
+            "hash": "7a44986e1d1b5fef",
+            "directory": "External15",
+            "voiceContent": "Move, or be moved",
+            "sourceName": "vo_sethos_battle_skill3_03.wem"
+        },
+        "7af1bdb4838a5ecd": {
+            "hash": "7af1bdb4838a5ecd",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_hit_l_05.wem"
+        },
+        "7b27bad5cc9ef32e": {
+            "hash": "7b27bad5cc9ef32e",
+            "directory": "External15",
+            "voiceContent": "Mm, mm, mm! I'm kind of a big eater, hope that's okay with you",
+            "sourceName": "vo_sethos_spice_pref_01.wem"
+        },
+        "7c28ed2a2a33273f": {
+            "hash": "7c28ed2a2a33273f",
+            "directory": "External15",
+            "voiceContent": "Some of my elders say I'm difficult to control, like a wild animal. I actually don't disagree with that, but don't you think it's kind of an issue that they'd want to control how other people think in the first place",
+            "sourceName": "vo_sethos_dialog_idle.wem"
+        },
+        "7ca8ad8d55654a8a": {
+            "hash": "7ca8ad8d55654a8a",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attackmid_02.wem"
+        },
+        "7d622650e5f8abb4": {
+            "hash": "7d622650e5f8abb4",
+            "directory": "External15",
+            "voiceContent": "Excuse me",
+            "sourceName": "vo_sethos_battle_skill1_02.wem"
+        },
+        "7ea39b80678c0213": {
+            "hash": "7ea39b80678c0213",
+            "directory": "External15",
+            "voiceContent": "Amazing... I feel like I could sprint from Aaru Village all the way to The Mausoleum of King Deshret without breaking a sweat. I'm not even joking — you up for it",
+            "sourceName": "vo_sethos_starUp_03.wem"
+        },
+        "7f0e8d8b0b9e6c8e": {
+            "hash": "7f0e8d8b0b9e6c8e",
+            "directory": "External15",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_jump_05.wem"
+        },
+        "7fcd8792120e000d": {
+            "hash": "7fcd8792120e000d",
+            "directory": "External15",
+            "voiceContent": "This is your training regimen, huh? Interesting",
+            "sourceName": "vo_sethos_starUp_01.wem"
+        },
+        "80fec1039261ac48": {
+            "hash": "80fec1039261ac48",
+            "directory": "External16",
+            "voiceContent": "Is it my turn yet",
+            "sourceName": "vo_sethos_life_less30_teammate_01.wem"
+        },
+        "88a215f1d25d0fe2": {
+            "hash": "88a215f1d25d0fe2",
+            "directory": "External17",
+            "voiceContent": "Gah, I was too slow",
+            "sourceName": "vo_sethos_battle_hit_H_02.wem"
+        },
+        "89b34fba228054c3": {
+            "hash": "89b34fba228054c3",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_sprint_start_03.wem"
+        },
+        "8c6fc106b39b367c": {
+            "hash": "8c6fc106b39b367c",
+            "directory": "External17",
+            "voiceContent": "I usually can't stay still for more than a few minutes, but Zubayr Theater is one place I don't mind just standing and watching while Nilou dances on the stage. It's a rare skill to be able to bring people such a sense of peace",
+            "sourceName": "vo_sethos_teammate_nilou_01.wem"
+        },
+        "8cfbbef4a76974c1": {
+            "hash": "8cfbbef4a76974c1",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_climb_05.wem"
+        },
+        "8e433bcbcfe57bfd": {
+            "hash": "8e433bcbcfe57bfd",
+            "directory": "External17",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_sprint_start_01.wem"
         },
         "8ef85d32df73c21d": {
             "hash": "8ef85d32df73c21d",
             "directory": "External17",
-            "voiceContent": "When desert people receive a Vision, everyone will claim it's a blessing from such-and-such a god, depending on their faith. Watching them get into an argument over someone else's Vision, about who's stronger out of Lord Hermanubis and Lord Sobek, is a guilty pleasure of mine.",
+            "voiceContent": "When desert people receive a Vision, everyone will claim it's a blessing from such-and-such a god, depending on their faith. Watching them get into an argument over someone else's Vision, about who's stronger out of Lord Hermanubis and Lord Sobek, is a guilty pleasure of mine",
             "sourceName": "vo_sethos_dialog_pendant_01.wem"
+        },
+        "8f4cfa48d2b0d7f3": {
+            "hash": "8f4cfa48d2b0d7f3",
+            "directory": "External17",
+            "voiceContent": "#Sorry {M#Sir}{F#Ma'am}, were you looking for me? Hello, hello, I'm Sethos. What can I do for you? ...Actually, you know what? This seems like more of a sit-down conversation. Come with me, I know a good place",
+            "sourceName": "vo_sethos_draw_appear_01a.wem"
+        },
+        "9382f2e0c8129ef7": {
+            "hash": "9382f2e0c8129ef7",
+            "directory": "External18",
+            "voiceContent": "Well, shucks..",
+            "sourceName": "vo_sethos_life_less30_03.wem"
+        },
+        "97d433b31ce9d06d": {
+            "hash": "97d433b31ce9d06d",
+            "directory": "External18",
+            "voiceContent": "It was all... in vain..",
+            "sourceName": "vo_sethos_life_die_01.wem"
+        },
+        "97de79f8e9b8683e": {
+            "hash": "97de79f8e9b8683e",
+            "directory": "External18",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_idle_03.wem"
+        },
+        "983ee2ad9aa368ba": {
+            "hash": "983ee2ad9aa368ba",
+            "directory": "External19",
+            "voiceContent": "The weather's so perfect, it would be such a waste not to go camping. How does fishing in an oasis sound",
+            "sourceName": "vo_sethos_weather_sunny_01.wem"
+        },
+        "9a83b3a492911509": {
+            "hash": "9a83b3a492911509",
+            "directory": "External19",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_climb_breath_02.wem"
+        },
+        "9dc876249162e7c5": {
+            "hash": "9dc876249162e7c5",
+            "directory": "External19",
+            "voiceContent": "If you've any equipment or tools that need repairing, I can help you with that. ...What's my job? Well, I'm an unemployed vagrant, obviously. I wouldn't have the time to be such a handyman otherwise, would I",
+            "sourceName": "vo_sethos_friendship_02.wem"
+        },
+        "9fd9db27cb332ece": {
+            "hash": "9fd9db27cb332ece",
+            "directory": "External19",
+            "voiceContent": "Be right there",
+            "sourceName": "vo_sethos_teamJoin_01.wem"
+        },
+        "a103cf3975b53a70": {
+            "hash": "a103cf3975b53a70",
+            "directory": "External20",
+            "voiceContent": "Bags packed and ready to roll",
+            "sourceName": "vo_sethos_teamJoin_03.wem"
+        },
+        "a2224a363e9a563f": {
+            "hash": "a2224a363e9a563f",
+            "directory": "External20",
+            "voiceContent": "I always have a great time at the Grand Bazaar. I like to pick a bunch of different herbs and spices to mix with some freshly grilled meat. I never make a note of the exact combination of ingredients though, so I usually end up with one-off recipes. What do you think? Any interest in trying one of my limited-edition, one-time-only delicacies",
+            "sourceName": "vo_sethos_friendship_04.wem"
+        },
+        "a5ac0c805f94eb22": {
+            "hash": "a5ac0c805f94eb22",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attacklight_04.wem"
+        },
+        "a67bd41b7faca7f9": {
+            "hash": "a67bd41b7faca7f9",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_hit_h_05.wem"
+        },
+        "a6d4f0920a1528f4": {
+            "hash": "a6d4f0920a1528f4",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attacklight_06.wem"
+        },
+        "a7128db922d091e3": {
+            "hash": "a7128db922d091e3",
+            "directory": "External20",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attackheavy_02.wem"
+        },
+        "a9d5f69954ffd052": {
+            "hash": "a9d5f69954ffd052",
+            "directory": "External21",
+            "voiceContent": "I don't know where Mourning Flowers got their name, it's quite an evocative image though. Maybe somebody saw one wilting in the sunlight and thought it looked like a person hanging their head in sorrow",
+            "sourceName": "vo_sethos_pref_gift_01.wem"
+        },
+        "b32fa693875565d0": {
+            "hash": "b32fa693875565d0",
+            "directory": "External22",
+            "voiceContent": "There's a lot of very fascinating people in the Akademiya... kinda makes me wanna go study there",
+            "sourceName": "vo_sethos_character_idle_03.wem"
+        },
+        "b37fb6f0fd947b22": {
+            "hash": "b37fb6f0fd947b22",
+            "directory": "External22",
+            "voiceContent": "Goooood morning, wanna join me for breakfast? I'm gonna fix some Shawarma Wraps — I've been craving them since last night",
+            "sourceName": "vo_sethos_dialog_greetingMorning.wem"
+        },
+        "b53b334b78923b8f": {
+            "hash": "b53b334b78923b8f",
+            "directory": "External22",
+            "voiceContent": "*shudder* ...Quick quick quick, let's pick up the pace! Jogging will warm us up",
+            "sourceName": "vo_sethos_weather_snowy_01.wem"
+        },
+        "b6db3f00e512a11e": {
+            "hash": "b6db3f00e512a11e",
+            "directory": "External22",
+            "voiceContent": "It's so rare to meet someone even more chummy than me! One minute I was taking a stroll near the Akademiya, the next minute she'd taken me on as a student, and was insisting on giving me a tour. She gave me a real fright, though, because she said that if I joined Haravatat, I'd get the 20-tongues language-learning package, mastery of all 100% guaranteed... I asked around, and it seems like that's just an in-joke among Akademiya students — there is no 20-language graduation requirement after all. But I don't get it... how is that funny? It's only gonna put people off studying there",
+            "sourceName": "vo_sethos_teammate_faruzan_01.wem"
+        },
+        "b869d03415af15c7": {
+            "hash": "b869d03415af15c7",
+            "directory": "External23",
+            "voiceContent": "This is a nice surprise",
+            "sourceName": "vo_sethos_chest_open_02.wem"
+        },
+        "b8790fcc986edfde": {
+            "hash": "b8790fcc986edfde",
+            "directory": "External23",
+            "voiceContent": "Okay, okay..",
+            "sourceName": "vo_sethos_battle_hit_L_02.wem"
+        },
+        "be95aacde95d0d31": {
+            "hash": "be95aacde95d0d31",
+            "directory": "External23",
+            "voiceContent": "I saw those two at the tavern once. And another time at the cafe. ...Actually, I think I saw them once at the Grand Bazaar, too. The architect guy, he's always talking in a hushed tone — I guess he doesn't want people to hear, but uh... Okay, it's not like I purposely listen in, it's just... Something about those two guys hanging out together, you just can't look away",
+            "sourceName": "vo_sethos_teammate_alhaitham&kaveh_01.wem"
+        },
+        "c1e50dbbd45822c0": {
+            "hash": "c1e50dbbd45822c0",
+            "directory": "External24",
+            "voiceContent": "I had no idea you'd help me reach this level. Sometimes, an over-reliance on ancient wisdom can make you forget the strength that you and your companions already have. Thank you for being there to remind me",
+            "sourceName": "vo_sethos_starUp_04.wem"
+        },
+        "c6ebcaaa0fc7ac39": {
+            "hash": "c6ebcaaa0fc7ac39",
+            "directory": "External24",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attacklight_03.wem"
+        },
+        "ce06ef795b0a54a8": {
+            "hash": "ce06ef795b0a54a8",
+            "directory": "External25",
+            "voiceContent": "Lighting a bonfire at night keeps you warm and keeps wild animals away. To me, you're just like a bonfire.Too abstract? Alright, let me put it more directly I think of you as a good friend",
+            "sourceName": "vo_sethos_dialog_close1.wem"
+        },
+        "d2a3217bd51d77ec": {
+            "hash": "d2a3217bd51d77ec",
+            "directory": "External26",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_jump_03.wem"
+        },
+        "d6aa60476a395205": {
+            "hash": "d6aa60476a395205",
+            "directory": "External26",
+            "voiceContent": "Gimme some space",
+            "sourceName": "vo_sethos_battle_skill1_03.wem"
         },
         "d79d3459148be57f": {
             "hash": "d79d3459148be57f",
             "directory": "External26",
-            "voiceContent": "Behind you!",
+            "voiceContent": "Behind you",
             "sourceName": "vo_sethos_battle_skill1_05.wem"
+        },
+        "deeaf877626907de": {
+            "hash": "deeaf877626907de",
+            "directory": "External27",
+            "voiceContent": "It's tempting to have a coffee at this hour, but it'll ruin your afternoon nap",
+            "sourceName": "vo_sethos_dialog_greetingNoon.wem"
+        },
+        "e31433fa011fa605": {
+            "hash": "e31433fa011fa605",
+            "directory": "External28",
+            "voiceContent": "Whoa, whoa, whoa..",
+            "sourceName": "vo_sethos_battle_hit_H_01.wem"
+        },
+        "e38f53c0bbf1bb54": {
+            "hash": "e38f53c0bbf1bb54",
+            "directory": "External28",
+            "voiceContent": "Not bad! What's the recipe? I'll take some on my next hiking trip",
+            "sourceName": "vo_sethos_spice_normal_01.wem"
+        },
+        "e41c1d6ac570fdba": {
+            "hash": "e41c1d6ac570fdba",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_jump_01.wem"
+        },
+        "e53d5076eaacd2b5": {
+            "hash": "e53d5076eaacd2b5",
+            "directory": "External28",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_fly_start_02.wem"
+        },
+        "e800dfd13a99eecc": {
+            "hash": "e800dfd13a99eecc",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attackheavy_01.wem"
+        },
+        "eb5215381a4b3670": {
+            "hash": "eb5215381a4b3670",
+            "directory": "External29",
+            "voiceContent": "If you're ever traveling in the desert, journeying by night is a good choice. It does get very cold, but you don't get as dehydrated as you would under the harsh sun. Putting on a few extra layers is way easier than spending half your journey time looking for a water source",
+            "sourceName": "vo_sethos_dialog_share_01.wem"
+        },
+        "eb68c7a3e668daf3": {
+            "hash": "eb68c7a3e668daf3",
+            "directory": "External29",
+            "voiceContent": "Grandfather... I'm sorry..",
+            "sourceName": "vo_sethos_life_die_03.wem"
+        },
+        "ec86a18d93ba30f1": {
+            "hash": "ec86a18d93ba30f1",
+            "directory": "External29",
+            "voiceContent": "To be honest, being a leader is a little stressful, especially in the Temple of Silence. But after all the years I spent with Grandfather, I'm at least clear in my own mind about the areas where I cannot compromise. After the Rite of Duels, and having been given the chance to make so many new friends, I now know the direction I want to take the Temple of Silence in from here on out. Don't worry — I won't mess it up",
+            "sourceName": "vo_sethos_dialog_idle2.wem"
+        },
+        "ecb519ab9a809248": {
+            "hash": "ecb519ab9a809248",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_climb_breath_03.wem"
+        },
+        "ed899bef6ae67ac7": {
+            "hash": "ed899bef6ae67ac7",
+            "directory": "External29",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_idle_02.wem"
+        },
+        "ee375be688002ee1": {
+            "hash": "ee375be688002ee1",
+            "directory": "External29",
+            "voiceContent": "I like mixing spices — but only because it makes meat taste better. It's a means to an end",
+            "sourceName": "vo_sethos_pref_foodLike.wem"
+        },
+        "f0a872c2b68ae013": {
+            "hash": "f0a872c2b68ae013",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_climb_03.wem"
+        },
+        "f1d25ed4610cde0d": {
+            "hash": "f1d25ed4610cde0d",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_explore_climb_01.wem"
+        },
+        "f452e83d46887f56": {
+            "hash": "f452e83d46887f56",
+            "directory": "External30",
+            "voiceContent": "I've lived in the Temple of Silence for as long as I can remember, and to be honest, I've never had many of my own decisions to make. I'm still not sure if withstanding the power of Hermanubis was a blessing or a curse, but it definitely gave me a higher purpose in life.There's a million things you can regret in life, so I'm just happy I was able to bring that one situation to a close. I'm sure Grandfather will rest in peace knowing that I got to become the leader of the Temple of Silence, and that Hermanubis's power has finally found a home",
+            "sourceName": "vo_sethos_friendship_05.wem"
+        },
+        "f4da9fab19b2edca": {
+            "hash": "f4da9fab19b2edca",
+            "directory": "External30",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_hit_l_06.wem"
+        },
+        "f5b7531e98919f85": {
+            "hash": "f5b7531e98919f85",
+            "directory": "External30",
+            "voiceContent": "When you approach someone while intending to ingratiate yourself with them, it often makes for a stilted conversation. It's much easier to build up a rapport by just hanging out and talking about whatever",
+            "sourceName": "vo_sethos_dialog_close.wem"
+        },
+        "f8873676607b3406": {
+            "hash": "f8873676607b3406",
+            "directory": "External31",
+            "voiceContent": "Glory to Al-Ahmar",
+            "sourceName": "vo_sethos_battle_skill3_02.wem"
+        },
+        "f979dbc02aed749a": {
+            "hash": "f979dbc02aed749a",
+            "directory": "External31",
+            "voiceContent": "SF",
+            "sourceName": "vo_sethos_battle_attackheavy_03.wem"
+        },
+        "f9b76988a838420a": {
+            "hash": "f9b76988a838420a",
+            "directory": "External31",
+            "voiceContent": "Wow... So this is what three consecutive days of reading feels like",
+            "sourceName": "vo_sethos_starUp_02.wem"
+        },
+        "fd7c212a9660c288": {
+            "hash": "fd7c212a9660c288",
+            "directory": "External31",
+            "voiceContent": "Flame-Mane... everyone in the desert knows that name. The Eremites aren't exactly saints, as I'm sure you know, but Dehya's one of the few solid and dependable ones out there. If you ever want to explore the Great Red Sand, Dehya's the second-best guide you could ask for. First-best being me, obviously",
+            "sourceName": "vo_sethos_teammate_dehya_01.wem"
         }
     }
 }
