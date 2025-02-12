@@ -387,7 +387,7 @@ public class PrimaryController implements Initializable {
         FileChooser fileChooser = new FileChooser();
         FileChooser.ExtensionFilter filter
                 = new FileChooser.ExtensionFilter("Audio files",
-                    "*.wav", "*.mp3", "*.aac", "*.flac", "*.m4a", "*.ogg", "*.mp4", "*.mov", "*.dash");
+                    "*.wav", "*.mp3", "*.aac", "*.flac", "*.m4a", "*.ogg", "*.mp4", "*.mov", "*.dash", "*.wem");
         fileChooser.getExtensionFilters().add(filter);
         fileChooser.setTitle("Select audio...");
 
@@ -497,8 +497,9 @@ public class PrimaryController implements Initializable {
                     }
 
                     file = new File("./wavs/" + fileName);
-                } else {
-                    // Already a wem, skip handling
+                } else if (ext.equals("wem")) {
+                    // Already a wem
+                    FileIO.copyFile(file, "./wems/Windows/" + fileName);
                 }
 
                 // Add to converted files map
