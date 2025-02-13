@@ -93,6 +93,9 @@ public class PrimaryController implements Initializable {
     private Menu modsMenu;
 
     @FXML
+    private Menu applyModsMenu;
+
+    @FXML
     private TextFlow updateTextFlow;
 
     @FXML
@@ -411,6 +414,7 @@ public class PrimaryController implements Initializable {
             }
         }
         modsMenu.getItems().add(createMenuItem(modName));
+        applyModsMenu.getItems().add(createApplyMenuItem(modName));
     }
 
     private MenuItem createMenuItem(String modName) {
@@ -419,6 +423,16 @@ public class PrimaryController implements Initializable {
         item.setOnAction(e -> {
             var selected = (MenuItem)e.getSource();
             editMod(selected.getText());
+        });
+        return item;
+    }
+
+    private MenuItem createApplyMenuItem(String modName) {
+        MenuItem item = new MenuItem(modName);
+        // Set action to fire event
+        item.setOnAction(e -> {
+            var selected = (MenuItem)e.getSource();
+            applyModFromMenu(selected.getText());
         });
         return item;
     }
@@ -471,6 +485,10 @@ public class PrimaryController implements Initializable {
         addUserFileIfNotPresent(files);
 
         return files;
+    }
+
+    private void applyModFromMenu(String name) {
+        PckHandler.applyMods(name);
     }
 
     private void addUserFileIfNotPresent(final List<File> files) {
