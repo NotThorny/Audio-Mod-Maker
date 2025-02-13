@@ -3,13 +3,17 @@ package dev.thorny.user;
 import java.io.File;
 import java.util.Objects;
 
+import com.google.gson.annotations.SerializedName;
+
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 
 // An audio file that has been added by the user to be displayed in the app
 public class UserAudio {
 
+    @SerializedName("name")
     private StringProperty name = new SimpleStringProperty();
+    @SerializedName("file")
     private File file;
 
     public UserAudio(String fileName, File file) {

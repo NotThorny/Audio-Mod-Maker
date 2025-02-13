@@ -7,7 +7,12 @@ import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
 import java.nio.charset.StandardCharsets;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -16,10 +21,12 @@ import org.apache.commons.io.FilenameUtils;
 import org.hildan.fxgson.FxGson;
 
 import com.google.gson.Gson;
+import com.google.gson.reflect.TypeToken;
 
 import dev.thorny.App;
 import dev.thorny.data.Avatar;
 import dev.thorny.data.Languages;
+import dev.thorny.user.Audio;
 import dev.thorny.user.Preferences;
 import dev.thorny.user.User;
 import net.lingala.zip4j.ZipFile;
@@ -27,7 +34,10 @@ import net.lingala.zip4j.exception.ZipException;
 
 public class FileIO {
 
-    private static final Gson fxGson = FxGson.coreBuilder().setPrettyPrinting().create();
+    private static final Gson fxGson = FxGson.coreBuilder().setPrettyPrinting()
+            .registerTypeAdapter(File.class, new FileSerializer())
+            .registerTypeAdapter(File.class, new FileDeserializer())
+            .create();
     static final String ROOT_DIR = System.getProperty("user.dir");
 
     /**
@@ -85,6 +95,101 @@ public class FileIO {
             savePreferences(defaultPref);
             return defaultPref;
         }
+    }
+
+    /**
+     * Lists all folders in a given relative directory
+     * 
+     * @param directory The relative directory pathname
+     * @return A list of all directories in the given path
+     * @throws IOException
+     */
+    public static List<Path> listFoldersInRelativeDir(String directory) throws IOException {
+        var file = new File("./" + directory);
+        if (file.isDirectory()) {
+            return Files.list(file.toPath()).filter(Files::isDirectory).toList();
+        } else {
+            Files.createDirectories(file.toPath());
+            return new ArrayList<>();
+        }
+    }
+
+    /**
+     * Gets the name of the directory at the given path
+     * @param path The path to the file/directory
+     * @return The name of the directory
+     */
+    public static String getNameFromPath(Path path) {
+        return new File(path.toString()).getName();
+    }
+
+    /**
+     * Writes the given mod to the list of all mods.
+     * @param audio The mod to be added
+     * @return True if successful, false otherwise
+     */
+    public static boolean saveModToList(String name, ArrayList<Audio> audio) {
+        String path = "./modsList.json";
+        File modsList = new File(path);
+
+        var existingFile = readModsFromList();
+
+        // Sanity
+        if (existingFile == null) {
+            existingFile = new HashMap<>();
+        }
+
+        existingFile.put(name, audio);
+
+        try (FileWriter file = new FileWriter(modsList)) {
+            // Sanity check
+            if (audio == null) {
+                return false;
+            } else {
+                file.write(fxGson.toJson(existingFile, new TypeToken<HashMap<String, ArrayList<Audio>>>(){}.getType()));
+            }
+        } catch (Exception e) {
+            App.displayError("Unable to save mods to list! \n\n" + e.getMessage() + " " + e.getCause());
+            return false;
+        }
+
+        return true;
+    }
+
+    /**
+     * Reads the file with saved mods
+     * @return The contents of the file as a list of Audio entries.
+     */
+    public static HashMap<String, ArrayList<Audio>> readModsFromList() {
+        File modsFile = new File("./modsList.json");
+        HashMap<String, ArrayList<Audio>> modsList = new HashMap<>();
+        var type = new TypeToken<HashMap<String, ArrayList<Audio>>>(){}.getType();
+        
+        try (FileReader file = new FileReader(modsFile)) {
+            return fxGson.fromJson(file, type);
+        } catch (Exception e) {
+            return modsList;
+        }
+    }
+
+    public static ArrayList<File> listFilesInAudioMap(HashMap<String, ArrayList<Audio>> map) {
+        ArrayList<File> files = new ArrayList<>();
+        map.values().forEach(val -> {
+            for (var audio : val) {
+                files.add(audio.getUserAudio().getFile());
+            }
+        });
+
+        return files;
+    }
+
+    public static ArrayList<File> listFilesInAudioArray(ArrayList<Audio> list) {
+        ArrayList<File> files = new ArrayList<>();
+        for (var audio : list) {
+            files.add(audio.getUserAudio().getFile());
+        }
+
+        return files;
     }
 
     /**

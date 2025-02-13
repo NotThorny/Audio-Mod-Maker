@@ -72,6 +72,12 @@
             <MenuItem mnemonicParsing="false" onAction="#exit" text="Quit" />
           </items>
         </Menu>
+            <Menu mnemonicParsing="false" text="Mod Management">
+              <items>
+                  <Menu fx:id="modsMenu" mnemonicParsing="false" text="Edit/Load Mod" />
+                  <MenuItem mnemonicParsing="false" text="Apply mod" />
+              </items>
+            </Menu>
         <Menu mnemonicParsing="false" text="Help">
           <items>
             <MenuItem mnemonicParsing="false">

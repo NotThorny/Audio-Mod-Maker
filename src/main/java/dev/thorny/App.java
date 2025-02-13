@@ -69,6 +69,20 @@ public class App extends Application {
             displayWwiseConfirmation();
         }
 
+        // Test
+        // Names of all saved mods
+        // var files = FileIO.listFoldersInRelativeDir("mods");
+        // // For each saved mod in the mods folder
+        // for (var path : files) {
+        //     System.out.println(FileIO.getNameFromPath(path));
+        //     // Names of all externals modified by the mod
+        //     var innerFiles = FileIO.listFoldersInRelativeDir("mods/" + FileIO.getNameFromPath(path));
+        //     // Each wem inside each external folder
+        //     for (var innerPath : innerFiles) {
+        //         Files.list(innerPath).forEach(System.out::println);
+        //     }
+        // }
+
         // Generate new hashes
         // FileIO.generateCombatHashesInIndexRoots();
     }

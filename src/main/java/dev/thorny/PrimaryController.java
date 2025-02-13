@@ -37,6 +37,7 @@ import javafx.scene.control.ContextMenu;
 import javafx.scene.control.Hyperlink;
 import javafx.scene.control.ListCell;
 import javafx.scene.control.ListView;
+import javafx.scene.control.Menu;
 import javafx.scene.control.MenuItem;
 import javafx.scene.control.TextInputDialog;
 import javafx.scene.control.TreeItem;
@@ -89,6 +90,9 @@ public class PrimaryController implements Initializable {
     private TreeTableColumn<Audio, String> treeHash;
 
     @FXML
+    private Menu modsMenu;
+
+    @FXML
     private TextFlow updateTextFlow;
 
     @FXML
@@ -131,6 +135,11 @@ public class PrimaryController implements Initializable {
         updateTextBody.setFont(Font.font("Tahoma", 14.0));
 
         initFactoriesListeners();
+        try {
+            createModSelectMenu();
+        } catch (Exception e) {
+            App.displayError("Unable to create mod selection menu. \n\n" + e.getMessage() + " " + e.getCause());
+        }
     }
 
     private void initFactoriesListeners() {
@@ -383,6 +392,61 @@ public class PrimaryController implements Initializable {
         App.getUser().addUserSound(files);
     }
 
+    @FXML
+    private void createModSelectMenu() throws IOException {
+        for (var modName : getNamesOfMods()) {
+            addModToSelectMenu(modName);
+        }
+    }
+
+    private void addModToSelectMenu(String modName) {
+        for (var item : modsMenu.getItems()) {
+            if (item.getText().equals(modName)) {
+                return;
+            }
+        }
+        modsMenu.getItems().add(createMenuItem(modName));
+    }
+
+    private MenuItem createMenuItem(String modName) {
+        MenuItem item = new MenuItem(modName);
+        // Set action to fire event
+        item.setOnAction(e -> {
+            var selected = (MenuItem)e.getSource();
+            editMod(selected.getText());
+        });
+        return item;
+    }
+
+    private List<String> getNamesOfMods() throws IOException {
+        var names = new ArrayList<String>();
+        // Names of all saved mods
+        for (var path : FileIO.listFoldersInRelativeDir("mods")) {
+            names.add(FileIO.getNameFromPath(path));
+        }
+        return names;
+    }
+
+    private void editMod(String modName) {
+        onAppStarted();
+        var modMap = FileIO.readModsFromList();
+        var mod = modMap.get(modName);
+
+        if (mod == null) {
+            App.displayInfo("This mod does not have data in file! It likely comes from before saving was a feature, and therefore will not be able to load.");
+            return;
+        }
+
+        var files = FileIO.listFilesInAudioArray(mod);
+
+        // Adding files
+        addUserFileIfNotPresent(files);
+        App.getUser().addUserSound(files);
+        for (var audio : mod) {
+            setSoundReplacement(audio);
+        } 
+    }
+
     private List<File> getAudioFromChooser() {
         FileChooser fileChooser = new FileChooser();
         FileChooser.ExtensionFilter filter
@@ -432,11 +496,23 @@ public class PrimaryController implements Initializable {
 
         Audio addingAudio = new Audio(detail, new UserAudio(file.getName(), file));
 
-        if (replacementList.getItems().contains(addingAudio)) {
-            replacementList.getItems().remove(addingAudio);
+        addToReplacementList(addingAudio);
+    }
+
+    public void setSoundReplacement(Audio audio) {
+        var detail = audio.getDetails();
+        var file = audio.getUserAudio().getFile();
+        App.getUser().getModifiedSounds().put(detail, file);
+
+        addToReplacementList(audio);
+    }
+
+    private void addToReplacementList(Audio audio) {
+        if (replacementList.getItems().contains(audio)) {
+            replacementList.getItems().remove(audio);
         }
 
-        replacementList.getItems().add(addingAudio);
+        replacementList.getItems().add(audio);
     }
 
     public void removeSoundReplacement(Audio audio) {
@@ -459,7 +535,16 @@ public class PrimaryController implements Initializable {
             var getNameDialog = new TextInputDialog();
             getNameDialog.setHeaderText("Pick name");
             getNameDialog.setContentText("Select a name for your mod:");
-            destination = "./mods/" + getNameDialog.showAndWait().orElse("all") + "/";
+            var name = getNameDialog.showAndWait().orElse("all");
+            destination = "./mods/" + name + "/";
+
+            var audioList = new ArrayList<Audio>();
+            for (var entry : App.getUser().getModifiedSounds().entrySet()) {
+                audioList.add(new Audio(entry.getKey(), new UserAudio(entry.getValue().getName(), entry.getValue())));
+            }
+
+            FileIO.saveModToList(name, audioList);
+            addModToSelectMenu(name);
         }
 
         final String dest = destination;
@@ -497,7 +582,7 @@ public class PrimaryController implements Initializable {
                     }
 
                     file = new File("./wavs/" + fileName);
-                } else if (ext.equals("wem")) {
+                } else if (ext.equals("wem") && !fileName.equals("mute.wem")) {
                     // Already a wem
                     FileIO.copyFile(file, "./wems/Windows/" + fileName);
                 }
