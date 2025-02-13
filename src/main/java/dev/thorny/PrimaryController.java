@@ -463,7 +463,9 @@ public class PrimaryController implements Initializable {
         App.getUser().addUserSound(files);
         for (var audio : mod) {
             setSoundReplacement(audio);
-        } 
+        }
+
+        App.displayInfo("Loaded " + modName + "! \n\n After you make the changes you want, click 'Make Mod' to update the mod or save it as a new one.");
     }
 
     private List<File> getAudioFromChooser() {

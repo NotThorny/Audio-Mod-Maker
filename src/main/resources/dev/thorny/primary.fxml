@@ -74,10 +74,11 @@
         </Menu>
             <Menu mnemonicParsing="false" text="Mod Management">
               <items>
-                  <Menu fx:id="modsMenu" mnemonicParsing="false" onShown="#createModSelectMenu" text="Edit/Load Mod" />
-                  <Menu fx:id="applyModsMenu" mnemonicParsing="false" onShown="#createModSelectMenu" text="Apply Mod">
+                  <Menu fx:id="modsMenu" mnemonicParsing="false" onShown="#createModSelectMenu" text="Load Mod" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <Menu fx:id="applyModsMenu" mnemonicParsing="false" onShown="#createModSelectMenu" text="Apply Mod From Folder to Game">
                      <items>
-                        <MenuItem mnemonicParsing="false" onAction="#openModsFolder" text="Add other mod folder" />
+                        <MenuItem mnemonicParsing="false" onAction="#openModsFolder" text="Open mods folder (add mod folders for them to show in this list)" />
                         <SeparatorMenuItem mnemonicParsing="false" />
                         <SeparatorMenuItem mnemonicParsing="false" />
                      </items>
