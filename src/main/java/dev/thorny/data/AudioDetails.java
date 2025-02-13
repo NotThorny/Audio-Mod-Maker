@@ -58,7 +58,7 @@ public class AudioDetails {
         if (hash == null) {
             if (other.hash != null)
                 return false;
-        } else if (!hash.equals(other.hash))
+        } else if (!hash.getValueSafe().equals(other.hash.getValueSafe()))
             return false;
         return true;
     }
