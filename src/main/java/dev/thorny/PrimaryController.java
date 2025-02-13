@@ -268,6 +268,11 @@ public class PrimaryController implements Initializable {
             if (!replacementList.getItems().contains(data.getValue().getValue())) {
                 data.getValue().getValue().getUserAudio().setName("");
             }
+            for (var item : replacementList.getItems()) {
+                if (data.getValue().getValue().equals(item)) {
+                    data.getValue().setValue(item);
+                }
+            }
             return data.getValue().getValue().getUserAudio().nameProperty();
         });
 
