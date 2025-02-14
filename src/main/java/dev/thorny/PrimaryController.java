@@ -490,6 +490,18 @@ public class PrimaryController implements Initializable {
     }
 
     private void applyModFromMenu(String name) {
+        // Check backup
+        if (!FileIO.backupExists()) {
+            if (App.displayConfirmation(
+                    "Would you like to make a backup of your original game files? (Approx. 3gb) \n\n" +
+                            "This is HIGHLY RECOMMENDED. \n\n" +
+                            "This is required to be able to restore the original audio without repairing the game.")) {
+                addTextToFlow("Creating backup of game audio.");
+                PckHandler.makeBackup();
+            }
+        }
+
+        // Apply to game
         PckHandler.applyMods(name);
     }
 
