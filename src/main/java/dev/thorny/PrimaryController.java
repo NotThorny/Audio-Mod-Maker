@@ -501,8 +501,28 @@ public class PrimaryController implements Initializable {
             }
         }
 
-        // Apply to game
-        PckHandler.applyMods(name);
+        makeModButton.setDisable(true);
+        makeModButton.setText("Working");
+        changeTextFlowVisibility();
+
+        new Thread(() -> {
+            addTextToFlow("Applying mod to game...");
+            addTextToFlow("Larger mods may take a little while to apply.");
+            // Apply to game
+            PckHandler.applyMods("./mods/" + name + "/");
+
+            Platform.runLater(() -> {
+                App.displayInfo("Done! The mod has been applied to your game.");
+                // Re-enable the button
+                makeModButton.setDisable(false);
+                makeModButton.setText("Make Mod");
+
+                FileIO.cleanUpTempFiles();
+            });
+
+            changeTextFlowVisibility();
+            clearTextFlow();
+        }).start();
     }
 
     private void addUserFileIfNotPresent(final List<File> files) {
