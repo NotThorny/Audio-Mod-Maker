@@ -452,7 +452,8 @@ public class PrimaryController implements Initializable {
         var mod = modMap.get(modName);
 
         if (mod == null) {
-            App.displayInfo("This mod does not have data in file! It likely comes from before saving was a feature, and therefore will not be able to load.");
+            App.displayInfo("This mod does not have data in file! It likely comes from before saving was a feature, and therefore will not be able to load." +
+                "\n\n If you are trying to use a mod from GameBanana, please use the 'Apply Mod From File to Game' option below this one in the Mod Management menu.");
             return;
         }
 
