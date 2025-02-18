@@ -43,6 +43,17 @@ Steps 2 and 3 are done only for first time opening the app.
 You can find all mods you have created in your mods folder, access it by going to the **Top left -> File -> Open mods folder**.
 Any replacements not saved separately will be in the "all" folder.
 
+## Applying Mods from Elsewhere
+To apply a mod someone else has made, or one you have made and have in your mods folder do the following:
+
+ 1. Open HAMM
+ 2. At the top left, select "File" then "Open mods folder"
+ 3. Put your mod folder (extracting if it is a zip) into there
+ 4. In HAMM, at the top left select "Mod Management"
+ 5. Select "Apply Mod From Folder to Game", then select the name of your mod
+
+ The selected mod will be added to the game.
+
 ### For going back to vanilla audio
 Your backup audio can be restored to your game from the top left **File** -> **Restore backup**
 Alternatively, you can manually copy the files over.
