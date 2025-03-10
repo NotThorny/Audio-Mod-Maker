@@ -74,7 +74,7 @@
         </Menu>
             <Menu mnemonicParsing="false" text="Mod Management">
               <items>
-                  <Menu fx:id="modsMenu" mnemonicParsing="false" onShown="#createModSelectMenu" text="Load Mod" />
+                  <Menu fx:id="modsMenu" mnemonicParsing="false" onShown="#createModSelectMenu" text="Load Mod to Edit" />
                   <SeparatorMenuItem mnemonicParsing="false" />
                   <Menu fx:id="applyModsMenu" mnemonicParsing="false" onShown="#createModSelectMenu" text="Apply Mod From Folder to Game">
                      <items>
