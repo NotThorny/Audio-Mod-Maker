@@ -1,0 +1,505 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "3cd9981f105411c8": {
+            "hash": "3cd9981f105411c8",
+            "directory": "External7",
+            "voiceContent": "フン！妾は何につけても自分の子たちばかり上げる輩だったか？あの小娘はこれほどのことを成し遂げたのだから、多少は褒めてもよかろう",
+            "sourceName": "vo_EQHDJ404_6_xianyun_04.wem"
+        },
+        "4b5be5e614ffa9fb": {
+            "hash": "4b5be5e614ffa9fb",
+            "directory": "External9",
+            "voiceContent": "ほう、珍しいとは",
+            "sourceName": "vo_EQHDJ404_6_xianyun_03.wem"
+        },
+        "7a64040f3c184f26": {
+            "hash": "7a64040f3c184f26",
+            "directory": "External15",
+            "voiceContent": "ほう？胡山胡水真君にでも改名したらどうだ",
+            "sourceName": "vo_EQHDJ404_6_xianyun_06.wem"
+        },
+        "c96873ee5831d3b2": {
+            "hash": "c96873ee5831d3b2",
+            "directory": "External25",
+            "voiceContent": "以前、帝君があそこで客卿とやらをしていたから、興味は持っていたのだが…今になってあの方の真意が分かった",
+            "sourceName": "vo_EQHDJ404_6_xianyun_02.wem"
+        },
+        "eaa8321808649489": {
+            "hash": "eaa8321808649489",
+            "directory": "External29",
+            "voiceContent": "違う！ふーたおだ。「ふざける」の「ふ」だと仰ったであろう",
+            "sourceName": "vo_EQHDJ404_6_xianyun_05.wem"
+        },
+        "fb2e51f54e657a95": {
+            "hash": "fb2e51f54e657a95",
+            "directory": "External31",
+            "voiceContent": "往生堂のあの小娘、大したものだったな",
+            "sourceName": "vo_EQHDJ404_6_xianyun_01.wem"
+        }
+    },
+    "Gameplay": {
+        "03467ce8d89a4e26": {
+            "hash": "03467ce8d89a4e26",
+            "directory": "External0",
+            "voiceContent": "味は二の次だ。妾を食事に誘ったことを褒めて遣わそう",
+            "sourceName": "vo_xianyun_spice_normal_01.wem"
+        },
+        "0406075bb4927138": {
+            "hash": "0406075bb4927138",
+            "directory": "External0",
+            "voiceContent": "新年や節句のたびに、彼女は七星を代表して妾のもとを訪れ、礼物を贈ってくれる。本当に礼儀正しい良い子だ。仕事をてきぱきとこなし、あらゆる面において配慮が行き届いている。あの子が甘雨と一緒に仕事をしてくれるおかげで、妾もそれほど心配せずに済む",
+            "sourceName": "vo_xianyun_teammate_keqing_01.wem"
+        },
+        "0965b2992c08f42c": {
+            "hash": "0965b2992c08f42c",
+            "directory": "External1",
+            "voiceContent": "一時の油断が",
+            "sourceName": "vo_xianyun_life_die_02.wem"
+        },
+        "09b70e5278c37cce": {
+            "hash": "09b70e5278c37cce",
+            "directory": "External1",
+            "voiceContent": "妾は日に千里を駆ける。しかとついてこい",
+            "sourceName": "vo_xianyun_teamJoin_03.wem"
+        },
+        "0ae1026423458870": {
+            "hash": "0ae1026423458870",
+            "directory": "External1",
+            "voiceContent": "仕掛けに不備なし。では行くとしよう",
+            "sourceName": "vo_xianyun_teamJoin_01.wem"
+        },
+        "0eb0147e16bf929f": {
+            "hash": "0eb0147e16bf929f",
+            "directory": "External1",
+            "voiceContent": "八方の風、羽ばたかん",
+            "sourceName": "vo_xianyun_battle_skill3_01.wem"
+        },
+        "151aeb86143a7234": {
+            "hash": "151aeb86143a7234",
+            "directory": "External2",
+            "voiceContent": "奥蔵山の景色は雅趣に富んでおり、天地の精華を結集しておる。まさに修行に適した好い場所だ。妾が山で瞑想していると、好奇心に駆られた生き物がよく見物にやってくる。音を立てたり騒がしくしたりすることもあるが…一度も五月蠅いと思ったことはない",
+            "sourceName": "vo_xianyun_pref_gift_01.wem"
+        },
+        "1a65479ec2da90f7": {
+            "hash": "1a65479ec2da90f7",
+            "directory": "External3",
+            "voiceContent": "ずっと引きこもっていたゆえ、たまには外に出て体を動かすのも悪くはない",
+            "sourceName": "vo_xianyun_starUp_01.wem"
+        },
+        "210573c7e84cd870": {
+            "hash": "210573c7e84cd870",
+            "directory": "External4",
+            "voiceContent": "うむ、いい眺めだ。高いところに登り、遠くを眺めるにはもってこいの空模様だろう。何、お前を置き去りにして一人で飛んでいくことはない。安心するといい",
+            "sourceName": "vo_xianyun_weather_sunny_01.wem"
+        },
+        "224946bbb3e2a443": {
+            "hash": "224946bbb3e2a443",
+            "directory": "External4",
+            "voiceContent": "散れ",
+            "sourceName": "vo_xianyun_battle_skill1_03.wem"
+        },
+        "247e6d4628d60998": {
+            "hash": "247e6d4628d60998",
+            "directory": "External4",
+            "voiceContent": "実に心地好い風だ。そうだ、お前の体に仙家呪符を貼ってやるから、妾と共に空を翔けてみぬか",
+            "sourceName": "vo_xianyun_weather_gale_01.wem"
+        },
+        "25e260905ef95699": {
+            "hash": "25e260905ef95699",
+            "directory": "External4",
+            "voiceContent": "集風、孤雲に帰す",
+            "sourceName": "vo_xianyun_battle_skill3_03.wem"
+        },
+        "26d932cd6147cb7d": {
+            "hash": "26d932cd6147cb7d",
+            "directory": "External4",
+            "voiceContent": "はっ",
+            "sourceName": "vo_xianyun_battle_skill1_01.wem"
+        },
+        "2ccf62fd2eecffa2": {
+            "hash": "2ccf62fd2eecffa2",
+            "directory": "External5",
+            "voiceContent": "妾を甘く見るでないぞ",
+            "sourceName": "vo_card_xianyun_inGame_hard_01.wem"
+        },
+        "2df8470ed96d3d74": {
+            "hash": "2df8470ed96d3d74",
+            "directory": "External5",
+            "voiceContent": "ほう、なかなか腕が立つな",
+            "sourceName": "vo_card_xianyun_inGame_hard_03.wem"
+        },
+        "2ee83ec243981ac9": {
+            "hash": "2ee83ec243981ac9",
+            "directory": "External5",
+            "voiceContent": "ちょっとした技を駆使したまでだ",
+            "sourceName": "vo_card_xianyun_inGame_easy_01.wem"
+        },
+        "31d7703854f64bef": {
+            "hash": "31d7703854f64bef",
+            "directory": "External6",
+            "voiceContent": "さあ、この木箱を開けてみるといい。中にある仕掛け人形は、妾が暇なときに作ったものだ。お前にやろう。見ろ、このように手を叩くとハスの花が開き、色とりどりの明かりが次第に灯っていく。そして、若者たちの大好きな誕生日を祝う曲が流れるのだ…これでお前の誕生日を祝う会もさぞかし賑やかになるだろう。よい誕生日を過ごせるよう祈っておるぞ",
+            "sourceName": "vo_xianyun_pref_birthday_01.wem"
+        },
+        "330c3552c06b4c41": {
+            "hash": "330c3552c06b4c41",
+            "directory": "External6",
+            "voiceContent": "妾が最後まで付き合ってやろう",
+            "sourceName": "vo_xianyun_life_less30_03.wem"
+        },
+        "336373c920978ac2": {
+            "hash": "336373c920978ac2",
+            "directory": "External6",
+            "voiceContent": "最近妾は、からくり調理神器を使っていない。お前に貸してやってもいいぞ",
+            "sourceName": "vo_xianyun_spice_dislike_01.wem"
+        },
+        "37407d943234f416": {
+            "hash": "37407d943234f416",
+            "directory": "External6",
+            "voiceContent": "この仕掛け鳥はただの試作品だ。これよりも大きな鳥を作り、中央部をくり抜いて席を設ければ、あの老骨たちと共に遊べると考えたのだ…だが、動力源と操作方法を確立するのにひどく難航しておってな。飛行能力は必要不可欠だし、変形機能も欠かせない。無論、安全装置のことも考慮する必要がある…はぁ、帰終のやつがまだいてくれたら、奇天烈な解決策をいくつか思いついてくれただろうな",
+            "sourceName": "vo_xianyun_dialog_share_01.wem"
+        },
+        "406172b133ec004f": {
+            "hash": "406172b133ec004f",
+            "directory": "External8",
+            "voiceContent": "その出し方…なかなか興味深い",
+            "sourceName": "vo_card_xianyun_inGame_easy_03.wem"
+        },
+        "413a5f91f75f9536": {
+            "hash": "413a5f91f75f9536",
+            "directory": "External8",
+            "voiceContent": "妾は俗世のものに気を留めはしないが、「絆」という言葉の本質はよく知っておる。口にするのは簡単な言葉だが、その中身は奥が深い。妾とあの老骨たちのことを例に説明しよう——顔を合わせるのが数年ぶりであっても、あやつらとはすぐに喧嘩に発展するなんてことがざらにある。しかしどこにいようと、帰る場所がないという心配はない。お前は妾が認めた人間であり、無論妾の朋友の一人でもある。さて、お前は妾と同じように、この「絆」を大切にしてくれるであろうか",
+            "sourceName": "vo_xianyun_dialog_close1.wem"
+        },
+        "451359b63cbb6810": {
+            "hash": "451359b63cbb6810",
+            "directory": "External8",
+            "voiceContent": "一部の仙術は長年使っていなかったこともあり、急に使おうとすると上手くいかないときがある",
+            "sourceName": "vo_xianyun_starUp_02.wem"
+        },
+        "45f37b739faaa04a": {
+            "hash": "45f37b739faaa04a",
+            "directory": "External8",
+            "voiceContent": "ふむ、部品として使えそうだ",
+            "sourceName": "vo_xianyun_chest_open_01.wem"
+        },
+        "464b02f34cc1b996": {
+            "hash": "464b02f34cc1b996",
+            "directory": "External8",
+            "voiceContent": "このとおり、妾はまだぴんぴんしておるぞ…お前のほうこそ眠くて目も開けていられないようではないか。ほら、さっさと寝るといい",
+            "sourceName": "vo_xianyun_dialog_greetingNight2.wem"
+        },
+        "46d39e9954c21c82": {
+            "hash": "46d39e9954c21c82",
+            "directory": "External8",
+            "voiceContent": "妾の洞府を訪れ、弟子にしてくれと懇願してきたやつらもおった。妾は入口を封じて会わないことを態度で示したが、それでもそういった者たちは離れようとしなくてな。そのままにしていたら、奥蔵山が野営場になる恐れがあった…仕方なく、妾は洞府の外に紙を張って、弟子になりたい者にお題を出したのだ。清心の料理法を毎日一種類、計九十九種類を考案するようにとな…結果、誰もそれを成し遂げられなかった。ふん、仙家の術も仕掛けの知識も、学ぶには極めて優れた天賦だけでなく、穏やかな気質を併せ持つ必要がある。たかだか三ヶ月も耐えられないようでは、無駄な努力となるだろう。早々に諦めたほうがよい",
+            "sourceName": "vo_xianyun_friendship_03.wem"
+        },
+        "4b5f8f7d9f2909e3": {
+            "hash": "4b5f8f7d9f2909e3",
+            "directory": "External9",
+            "voiceContent": "人々が穏やかに暮らし、万象が一新された今——まさに人の世の良き時代と言える",
+            "sourceName": "vo_xianyun_character_idle_02.wem"
+        },
+        "4c5cbceee16b6d4c": {
+            "hash": "4c5cbceee16b6d4c",
+            "directory": "External9",
+            "voiceContent": "食材は新鮮で、食感も程よい。さては妾の料理技法を裏で身につけたな",
+            "sourceName": "vo_xianyun_spice_pref_01.wem"
+        },
+        "51e69dfc9de3eab7": {
+            "hash": "51e69dfc9de3eab7",
+            "directory": "External10",
+            "voiceContent": "この先の旅路がより順調なものとなるよう、妾がわざわざ空を飛んで地形を測量し、この案内用の羅盤を作ってやったぞ。どうだ、妾ほど用意周到で気配りのできる旅伴、今までに出会ったことがないだろう？…何？この辺りの地形には詳しいと？ふん…人の記憶など、所詮頼りにならぬもの。お前が道に迷ったその時、きっと妾の先見の明に感謝するであろう",
+            "sourceName": "vo_xianyun_dialog_close.wem"
+        },
+        "5660347fdc2ed1d9": {
+            "hash": "5660347fdc2ed1d9",
+            "directory": "External10",
+            "voiceContent": "甘雨に残業の内容を聞いたことがある。そしたら難解な言葉ばかりを並べて返してきてな。会議の議事録だの、仕事の総括だの、それに年度報告、財務予算と…ふん、仙麟の血筋と妾が伝授した養生法がなければ、あれほど煩雑な役所仕事に耐えられはしないだろう…今度あの子に会ったら、妾が開発した明目清心茶を毎日しっかり飲んでいるか代わりに聞いてくれぬか",
+            "sourceName": "vo_xianyun_teammate_ganyu_01.wem"
+        },
+        "58aa0bdd3159c0b3": {
+            "hash": "58aa0bdd3159c0b3",
+            "directory": "External11",
+            "voiceContent": "以前、ヨォーヨが妾の眼鏡を借りたいとねだってきたことがあった。自分の顔にかけ、一人でニヤニヤしておったよ…子供だからこそ、大人には分からない楽しさを見つけられるのだろうな",
+            "sourceName": "vo_xianyun_teammate_yaoyao_01.wem"
+        },
+        "5d267f85e7e59cbc": {
+            "hash": "5d267f85e7e59cbc",
+            "directory": "External11",
+            "voiceContent": "妾が発明してやってもよいぞ？「お宝探索神器」をな",
+            "sourceName": "vo_xianyun_chest_open_03.wem"
+        },
+        "61e1dbed709d1404": {
+            "hash": "61e1dbed709d1404",
+            "directory": "External12",
+            "voiceContent": "あの子と世間話をしたときにからくり調理神器について話したのだが、「料理はやっぱり自分の手で作ったほうが本場の味を出せると思うよ」と返された…ふん、妾もその仕掛けを自分の手で作ったというのに、どうして本場でないと言えよう？いつの日か、あの子とは決着をつける必要があるようだ…だが、あの子の作る璃月料理が美味であることは間違いない…ふむ、仕掛けを改良する方法を考えなければ",
+            "sourceName": "vo_xianyun_teammate_xiangling_01.wem"
+        },
+        "627720a98a88fae0": {
+            "hash": "627720a98a88fae0",
+            "directory": "External12",
+            "voiceContent": "ふむ？妾をじっと見てどうした。今日の昼餉はお前が作る番だろう",
+            "sourceName": "vo_xianyun_dialog_greetingNoon.wem"
+        },
+        "68135cc304f4dd99": {
+            "hash": "68135cc304f4dd99",
+            "directory": "External13",
+            "voiceContent": "仕掛けの術には様々な不思議な用途があるとはいえ、妾にとっては暇を潰すための遊び道具に過ぎないときもある。あれはある年の雪が深く積もった奥蔵山でのこと。皆やることがなく洞府で便々と日を過ごしているのを見て、妾は「雪上滑走追風神器」を作ったのだ。帰終や歌塵らと楽しく遊んでおると、削月のやつもまざりたいと言ってきた。だが、あやつがそれを使って滑った瞬間、道を外れて仕掛けごと脇の雪だまりに落ちてしまってな。まったく、掘り出すのにどれほど苦労したことか…その後、三歳の幼子でも安全に使えるよう、あやつのために特別に防御機能を強化してやった。まあ、代償として速度が少し落ちてしまったがな",
+            "sourceName": "vo_xianyun_friendship_04.wem"
+        },
+        "73b9e07ea04041c3": {
+            "hash": "73b9e07ea04041c3",
+            "directory": "External14",
+            "voiceContent": "腹を空かせていたせいだ…次こそ",
+            "sourceName": "vo_xianyun_life_die_01.wem"
+        },
+        "74533bc516e94dfa": {
+            "hash": "74533bc516e94dfa",
+            "directory": "External14",
+            "voiceContent": "どうした？この姿を初めて目にして、妾のことだと分からなかったのか？妾は如何なる掟にも縛られず、自由気ままにこの俗世を巡っている。ゆえに行きたい場所も、共に旅する仲間も、妾自身が決めるのだ。コホン…人の世において妾の名は広く知れ渡っている。他の者の前では妾のことを「閑雲」と呼ぶといい",
+            "sourceName": "vo_xianyun_draw_appear_01.wem"
+        },
+        "771ff2761d9fd11e": {
+            "hash": "771ff2761d9fd11e",
+            "directory": "External14",
+            "voiceContent": "今や人の世の気候は安泰そのもの。ゆえに妾が風を吹かせ、雨を降らせる必要もない",
+            "sourceName": "vo_xianyun_weather_heavyRain_01.wem"
+        },
+        "7849cc904da568fd": {
+            "hash": "7849cc904da568fd",
+            "directory": "External15",
+            "voiceContent": "仕掛けを…まだ出しておらぬ",
+            "sourceName": "vo_xianyun_life_die_03.wem"
+        },
+        "7a029d389a115177": {
+            "hash": "7a029d389a115177",
+            "directory": "External15",
+            "voiceContent": "取るに足らぬ",
+            "sourceName": "vo_xianyun_battle_hit_H_01.wem"
+        },
+        "838485ca74f5e5d4": {
+            "hash": "838485ca74f5e5d4",
+            "directory": "External16",
+            "voiceContent": "嘉明は熱心な子だ。言葉遣いが独特で、大口を叩くことがない。妾はあやつの未来を大いに期待しておる。初めて嘉明と出会ったとき、あやつは池のほとりで休んでいる妾を見て、自分から進んで食べ物を分け与えようとしてきた。後にあやつから聞いたのだが、妾のことは仙人というより、一人の先輩として尊敬しておるそうだ。ふふ、それなら無論、妾も先輩として世話してやるのが筋というものだろう",
+            "sourceName": "vo_xianyun_teammate_gaming_01.wem"
+        },
+        "83b475c113741c04": {
+            "hash": "83b475c113741c04",
+            "directory": "External16",
+            "voiceContent": "妾ならとっくに起きている。ただ目を閉じて瞑想していただけだ。いい修行になるぞ、お前も試してみるといい",
+            "sourceName": "vo_xianyun_dialog_greetingMorning.wem"
+        },
+        "869fc94389e8a3a7": {
+            "hash": "869fc94389e8a3a7",
+            "directory": "External16",
+            "voiceContent": "不敬な",
+            "sourceName": "vo_xianyun_life_less30_01.wem"
+        },
+        "874081055dade3c5": {
+            "hash": "874081055dade3c5",
+            "directory": "External16",
+            "voiceContent": "見たことのない手だ",
+            "sourceName": "vo_card_xianyun_inGame_hard_02.wem"
+        },
+        "8b74704a3563a7d7": {
+            "hash": "8b74704a3563a7d7",
+            "directory": "External17",
+            "voiceContent": "食糧はきちんと用意しておるな",
+            "sourceName": "vo_xianyun_teamJoin_02.wem"
+        },
+        "8b9a55170ae5523f": {
+            "hash": "8b9a55170ae5523f",
+            "directory": "External17",
+            "voiceContent": "詭計の一撃だ",
+            "sourceName": "vo_card_xianyun_inGame_hard_04.wem"
+        },
+        "8c4de195b6f266cc": {
+            "hash": "8c4de195b6f266cc",
+            "directory": "External17",
+            "voiceContent": "仕掛けの術は実に奥が深く興味の尽きない技術であり、一言二言で説明できるようなものではない。だが毎回この話をすると、皆が眠そうにするのはなぜであろう",
+            "sourceName": "vo_xianyun_character_idle_01.wem"
+        },
+        "934220e4ce420cde": {
+            "hash": "934220e4ce420cde",
+            "directory": "External18",
+            "voiceContent": "無理はするな",
+            "sourceName": "vo_xianyun_life_less30_teammate_01.wem"
+        },
+        "9c414f31b5ca1448": {
+            "hash": "9c414f31b5ca1448",
+            "directory": "External19",
+            "voiceContent": "暇があれば、山に座して風に当たっている。これが妾の心をいつも落ち着かせてくれるのだ",
+            "sourceName": "vo_xianyun_pref_hobby.wem"
+        },
+        "9d2877e81fe1d6dc": {
+            "hash": "9d2877e81fe1d6dc",
+            "directory": "External19",
+            "voiceContent": "「璃月劇」には仙人の伝説を元にした物語がたくさんあり、中には妾の経験したことを書いたものまであるらしい…妾は無論、それを見たことはない。舞台上で自分のことを演じる他人を見るなど、この上なく気まずいことであろう？だが、申鶴の過去を元に創作したあの劇については、暇があれば鑑賞しに行ってもよいだろう",
+            "sourceName": "vo_xianyun_teammate_yunjin_01.wem"
+        },
+        "9dc6dd84a745ec9a": {
+            "hash": "9dc6dd84a745ec9a",
+            "directory": "External19",
+            "voiceContent": "暇を持て余しているのなら、妾の家に来て、ここ最近の面白い出来事を話してくれぬか",
+            "sourceName": "vo_xianyun_character_idle_03.wem"
+        },
+        "9ef90aff14d1413d": {
+            "hash": "9ef90aff14d1413d",
+            "directory": "External19",
+            "voiceContent": "仙人の修行が、人の世の俗物に影響されることはない。食の種類よりも、妾は味のほうが大事だ…もしお前自身も美味しくないと感じるものだったら、それを妾に差し出すでないぞ。そんなものを食べるくらいなら、妾が作ってやったほうがマシだからな",
+            "sourceName": "vo_xianyun_pref_foodDislike.wem"
+        },
+        "a01b908fd902494b": {
+            "hash": "a01b908fd902494b",
+            "directory": "External20",
+            "voiceContent": "璃月ではある時期、仙人のもとを訪れ、道を尋ねるということが流行った。どのようにして妾の洞府の場所を知ったのかは分からぬが、人々は奥蔵山に祭壇を設けて頻繁に食べ物を供えるようになった…ふん、この妾が人の世の美食に目がくらんで修行を中断するはずあるまい。だがその誠意に免じて、やむを得ずそばに人がいないときに少々味わっ…コホン、少しばかり応えてやったこともある",
+            "sourceName": "vo_xianyun_friendship_02.wem"
+        },
+        "a4250698a2593918": {
+            "hash": "a4250698a2593918",
+            "directory": "External20",
+            "voiceContent": "仙人のご光来だ",
+            "sourceName": "vo_xianyun_battle_skill3_02.wem"
+        },
+        "a4b0af5013f22890": {
+            "hash": "a4b0af5013f22890",
+            "directory": "External20",
+            "voiceContent": "この程度か",
+            "sourceName": "vo_xianyun_battle_hit_H_02.wem"
+        },
+        "a590f5844928c49a": {
+            "hash": "a590f5844928c49a",
+            "directory": "External20",
+            "voiceContent": "長いこと世を渡り歩いていると、力の強さより、人との付き合いのほうが大事だと分かる。暇があれば、眺めの良い場所を見つけ、共に景色を堪能しながら語らい、ゆっくりとひと時を過ごそう",
+            "sourceName": "vo_xianyun_starUp_04.wem"
+        },
+        "adfd3e11d043e0bb": {
+            "hash": "adfd3e11d043e0bb",
+            "directory": "External21",
+            "voiceContent": "帝君はかつてこう言った——「『神の目』は責任の表れであり、山に隠居しようが繁華な街で暮らそうが、人の世を守るという責務を忘れてはならない」と。これからは人の時代だ。妾もこの責務を胸に刻んで歩んでいくだろう",
+            "sourceName": "vo_xianyun_dialog_pendant_01.wem"
+        },
+        "b1990ea2d4116313": {
+            "hash": "b1990ea2d4116313",
+            "directory": "External22",
+            "voiceContent": "璃月港に住むようになってから、妾の家を訪ねたり、妾を宴に誘ったりする新たな友人や古い知り合いが後を絶たない。このままでは、手持ちのモラもいつか尽きてしまうだろう",
+            "sourceName": "vo_xianyun_dialog_annoyed_01.wem"
+        },
+        "b5d5d167cbd74e73": {
+            "hash": "b5d5d167cbd74e73",
+            "directory": "External22",
+            "voiceContent": "友人との食事は、それがどんな料理であろうと余韻を深く残してくれるものだ",
+            "sourceName": "vo_xianyun_pref_foodLike.wem"
+        },
+        "bd7a24a7ccc9d744": {
+            "hash": "bd7a24a7ccc9d744",
+            "directory": "External23",
+            "voiceContent": "勝負あり",
+            "sourceName": "vo_card_xianyun_inGame_easy_04.wem"
+        },
+        "bea410b9774bd566": {
+            "hash": "bea410b9774bd566",
+            "directory": "External23",
+            "voiceContent": "失策だったな",
+            "sourceName": "vo_card_xianyun_inGame_easy_02.wem"
+        },
+        "c4e03a66850c9669": {
+            "hash": "c4e03a66850c9669",
+            "directory": "External24",
+            "voiceContent": "妾は昔から掟に縛られず、自由気ままな性格であった。弟子たちもそんな妾に倣ってか、どいつもこいつも自分のことばかりにかまけて、師匠の妾に連絡することを疎かにしておる…ふん、もちろん妾に寂しいなどという気持ちは微塵もない！ただ…師匠は弟子を思いやるものだというのならば、時間を見つけてあやつらのところに顔を出してやらんこともない…別に迷惑にはならぬだろう",
+            "sourceName": "vo_xianyun_dialog_idle.wem"
+        },
+        "c6d0b3adf95b8591": {
+            "hash": "c6d0b3adf95b8591",
+            "directory": "External24",
+            "voiceContent": "はぁ、それほど期待に満ちた目で見られたら、妾ももう少し本気を出してやらねばな",
+            "sourceName": "vo_xianyun_starUp_03.wem"
+        },
+        "cbbc6a2103bc8515": {
+            "hash": "cbbc6a2103bc8515",
+            "directory": "External25",
+            "voiceContent": "ふむ、少しばかり耳障りだ",
+            "sourceName": "vo_xianyun_weather_thunder_01.wem"
+        },
+        "cc0a997d0982114d": {
+            "hash": "cc0a997d0982114d",
+            "directory": "External25",
+            "voiceContent": "珍しいものか？妾にも見せてみるといい",
+            "sourceName": "vo_xianyun_chest_open_02.wem"
+        },
+        "ccd414c532e2067a": {
+            "hash": "ccd414c532e2067a",
+            "directory": "External25",
+            "voiceContent": "風よ",
+            "sourceName": "vo_xianyun_battle_skill1_02.wem"
+        },
+        "cfe7b4a7829103d4": {
+            "hash": "cfe7b4a7829103d4",
+            "directory": "External25",
+            "voiceContent": "あの若い娘が口にする言葉は奇々怪々だ。しかし「往生堂」の者たちは皆あの子を敬っており、帝君でさえも畏まった態度で「客卿」とやらを務めておる…それにあの子は、食に対しても独特な見解を持っているそうだ。これほどの奇人、当然妾も好奇心を持たずにはいられぬ",
+            "sourceName": "vo_xianyun_teammate_hutao_01.wem"
+        },
+        "d720fd2b515bf69e": {
+            "hash": "d720fd2b515bf69e",
+            "directory": "External26",
+            "voiceContent": "夜市を共に散歩？ふん、そのような場所の何が面白い。珍しい物が欲しいのであれば、妾が直々に作ってやろう",
+            "sourceName": "vo_xianyun_dialog_greetingNight.wem"
+        },
+        "d8a6e1d59e4f6156": {
+            "hash": "d8a6e1d59e4f6156",
+            "directory": "External27",
+            "voiceContent": "申鶴から聞いた話だが、あの子は万民堂の配達員をやったこともあるらしい。ある日、時間を節約するために屋根の上を走って、客の前に飛び降りたという。それで客をひどく驚かせ、危うく千岩軍に通報される寸前だったとか…幸い、あの子の俊敏な動きによって、通報されるより先に料理を置いて去ることができたそうだ。ふむ、申鶴は危機回避能力を益々上げておる。実に喜ばしいことだ",
+            "sourceName": "vo_xianyun_teammate_shenhe_01.wem"
+        },
+        "d9fa5b5c3c58d840": {
+            "hash": "d9fa5b5c3c58d840",
+            "directory": "External27",
+            "voiceContent": "悪くない動きだ",
+            "sourceName": "vo_xianyun_life_less30_02.wem"
+        },
+        "e16bb0542d6af59b": {
+            "hash": "e16bb0542d6af59b",
+            "directory": "External28",
+            "voiceContent": "仕掛けが作る食事は手料理ほど凝ってはおらぬが、節約できた時間を新たな調理神器の研究に回すことができる。そうすれば、新たな仕掛けがさらに時間を節約してくれる…ふっ、こうして繰り返していくことで、いつか必ずこの世のあらゆる美食を妾のものにできると信じておる",
+            "sourceName": "vo_xianyun_dialog_idle2.wem"
+        },
+        "e24ed7b8a56dc7ae": {
+            "hash": "e24ed7b8a56dc7ae",
+            "directory": "External28",
+            "voiceContent": "降魔大聖は妾より寡黙だ。この千年ほどで、あやつが集まりに顔を出した回数はごく僅か。お前は降魔大聖と仲がいいと聞いたが、普段どんな会話をしているのだ？なんなら、今度お前が降魔大聖に会いに行くとき、妾が「豆腐布顛」を作ってやろう。一緒に持って行くといい",
+            "sourceName": "vo_xianyun_teammate_xiao_01.wem"
+        },
+        "e65602cb4854c018": {
+            "hash": "e65602cb4854c018",
+            "directory": "External28",
+            "voiceContent": "璃月港に移り住んでから、妾は流行の書物を数多く読んだ。そのうちの一部の義侠小説はなかなかのものだった。そこでふと思ったのだ——妾の知り合いたちを登場人物とすれば、想像上の人物よりもずっと魅力ある物語を作れるのではないかと。ただ、妾の弟子たちはどいつもこいつも過去の話をされるのが好きではないらしい…そうだ、お前が話してくれた旅の面白い出来事を書くのはどうだ",
+            "sourceName": "vo_xianyun_friendship_05.wem"
+        },
+        "f0e42eecffba2181": {
+            "hash": "f0e42eecffba2181",
+            "directory": "External30",
+            "voiceContent": "何故妾に助けを求めない",
+            "sourceName": "vo_xianyun_life_less30_teammate_02.wem"
+        },
+        "f6a602a88e27e0d4": {
+            "hash": "f6a602a88e27e0d4",
+            "directory": "External30",
+            "voiceContent": "妾の過去を知りたいと？土に埋もれた古い話だ。今さら掘り起こしてもしょうがない。お前のほうこそ、世を旅しているうちに面白い出来事をたくさん経験してきたのだろう？他の国の神と仙人はどのような姿をしておるのだ？妾のようにお喋り好きな者はおるか？さあ、茶でも淹れて、ゆっくり話そう",
+            "sourceName": "vo_xianyun_friendship_01.wem"
+        },
+        "f732eb08c5abc2b3": {
+            "hash": "f732eb08c5abc2b3",
+            "directory": "External30",
+            "voiceContent": "「天権」を務めるあの者は何事もそこそこ上手く処理しており、話術にも長けておる。ふん、璃月港が七星の管理によって日々繁栄し続けていることを認めよう。妾もあやつの手腕を観察して、その真髄を研究…コホン、このことは他言無用だ——あやつには言うなよ",
+            "sourceName": "vo_xianyun_teammate_ningguang_01.wem"
+        },
+        "fb16ff028ad30486": {
+            "hash": "fb16ff028ad30486",
+            "directory": "External31",
+            "voiceContent": "妾が璃月港に家を買おうとしていると聞いた帝君が、すぐさま内装や家具の購入に関する注意点を詳しく教えてくださった。採光や風通しのこと、木材の特注について、磁器の選び方から植物の配置まで…聞いただけで頭が痛くなってきてしまった。人の世で暮らすには、これほど多くのことを考えなければならぬのか",
+            "sourceName": "vo_xianyun_teammate_zhongli_01.wem"
+        }
+    }
+}

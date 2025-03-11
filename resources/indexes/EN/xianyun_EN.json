@@ -1,0 +1,505 @@
+{
+    "Teapot": {},
+    "Quests": {
+        "51e5bc76c4105ab4": {
+            "hash": "51e5bc76c4105ab4",
+            "directory": "External10",
+            "voiceContent": "One's curiosity was piqued when Rex Lapis chose to serve as her consultant. But only now does one understand the true intent behind his decision",
+            "sourceName": "vo_EQHDJ404_6_xianyun_02.wem"
+        },
+        "ab2df66d48510105": {
+            "hash": "ab2df66d48510105",
+            "directory": "External21",
+            "voiceContent": "Rare? Pray elaborate a little further",
+            "sourceName": "vo_EQHDJ404_6_xianyun_03.wem"
+        },
+        "ac20ca7ef2a3947f": {
+            "hash": "ac20ca7ef2a3947f",
+            "directory": "External21",
+            "voiceContent": "No, Hu as in mischief-maker, incessant pestering, and wonton gluttony",
+            "sourceName": "vo_EQHDJ404_6_xianyun_05.wem"
+        },
+        "ecd83c970a3de578": {
+            "hash": "ecd83c970a3de578",
+            "directory": "External29",
+            "voiceContent": "Hah! The clue is in the name. If you wish to change yours from Mountain Shaper to Mischief Maker, be my guest",
+            "sourceName": "vo_EQHDJ404_6_xianyun_06.wem"
+        },
+        "fb5b4a5e0eeac32b": {
+            "hash": "fb5b4a5e0eeac32b",
+            "directory": "External31",
+            "voiceContent": "That young lass from the Wangsheng Funeral Parlor is rather impressive",
+            "sourceName": "vo_EQHDJ404_6_xianyun_01.wem"
+        },
+        "fe516885fa91bc96": {
+            "hash": "fe516885fa91bc96",
+            "directory": "External31",
+            "voiceContent": "Hmph! One would never deride others as a means of praising one's own children. The Wangsheng lass displayed great determination and fortitude. Does that not make her deserving of a few words of praise",
+            "sourceName": "vo_EQHDJ404_6_xianyun_04.wem"
+        }
+    },
+    "Gameplay": {
+        "01939dcc06933d44": {
+            "hash": "01939dcc06933d44",
+            "directory": "External0",
+            "voiceContent": "That mechanical bird of mine is only a prototype. One had aspirations for a much larger model, hollow inside so that it could unfurl into a vehicle with which to embark on sight-seeing journeys with one's old friends... The challenges of powering and operating such a device, however, proved somewhat insurmountable. After all, it required pitch control, the ability to change form, not to mention the safety features... *sigh* If only Guizhong were still here. She, no doubt, would offer many baffling but ingenious solutions to this conundrum",
+            "sourceName": "vo_xianyun_dialog_share_01.wem"
+        },
+        "02fad490f9b70e26": {
+            "hash": "02fad490f9b70e26",
+            "directory": "External0",
+            "voiceContent": "On this fine day, the view from the heavens must be magnificent... Oh, don't fret, one has no intent to fly off and leave you on your own",
+            "sourceName": "vo_xianyun_weather_sunny_01.wem"
+        },
+        "03cdcdc4e1f6fcde": {
+            "hash": "03cdcdc4e1f6fcde",
+            "directory": "External0",
+            "voiceContent": "Mt. Aocang is an ideal place for spiritual cultivation. It possesses natural beauty beyond compare, and the pure, unalloyed essence of nature flows strong all around. Once upon a time, many curious birds and beasts would gather and watch as one meditated, and very soon the peace and tranquility would be replaced by a chaotic chorus of chirping and screeching... and yet, one never found it offended the ear",
+            "sourceName": "vo_xianyun_pref_gift_01.wem"
+        },
+        "0478243672b502a8": {
+            "hash": "0478243672b502a8",
+            "directory": "External0",
+            "voiceContent": "Shenhe told me that once, when she was delivering an order for Wanmin Restaurant, she ran across the rooftops to save time. Her customer was terrified when she jumped down onto their doorstep, and was about to call for the Millelith... Fortunately, Shenhe disappeared as quickly as she arrived, leaving the food delivery behind and making haste before the customer had time to react. It seems she is growing more proficient at handling crises all the time — one could not be more pleased",
+            "sourceName": "vo_xianyun_teammate_shenhe_01.wem"
+        },
+        "06b048414454d004": {
+            "hash": "06b048414454d004",
+            "directory": "External0",
+            "voiceContent": "One is still wide awake... *yawn* But you look dead on your feet. Go on, off to bed with you",
+            "sourceName": "vo_xianyun_dialog_greetingNight2.wem"
+        },
+        "06d96492b9aa0b13": {
+            "hash": "06d96492b9aa0b13",
+            "directory": "External0",
+            "voiceContent": "You should've called on one",
+            "sourceName": "vo_xianyun_life_less30_teammate_02.wem"
+        },
+        "09f8c2b8834b47d1": {
+            "hash": "09f8c2b8834b47d1",
+            "directory": "External1",
+            "voiceContent": "Here, open this wooden box. It's a miniature mechanical person for your recreational enjoyment. Try playing with it. Observe — if you clap the hands like this, the lotus petals open, the colored lights turn on one set at a time, and then a melody plays. It is that birthday tune that the young and hip of this generation enjoy so much. Certain to add a touch of merriment and levity to your birthday feast... Have a wonderful day",
+            "sourceName": "vo_xianyun_pref_birthday_01.wem"
+        },
+        "0f93d43248ae8f9a": {
+            "hash": "0f93d43248ae8f9a",
+            "directory": "External1",
+            "voiceContent": "There are many Liyue operas adapted from stories about the adepti, including some based on one's own life and exploits... One has never watched those, of course — what could be more embarrassing than watching someone else play oneself on the stage? One would, however, be interested to evaluate how well Yun Jin did in her adaptation of Shenhe's story, when one has time to go and see it",
+            "sourceName": "vo_xianyun_teammate_yunjin_01.wem"
+        },
+        "0fc879c82a22802c": {
+            "hash": "0fc879c82a22802c",
+            "directory": "External1",
+            "voiceContent": "You wish to attend the night market together? Hah, one shall engage in no such fool's errand. Whatever novelty or knick-knack you desire, one can simply make for you",
+            "sourceName": "vo_xianyun_dialog_greetingNight.wem"
+        },
+        "11af340cfd6ec35f": {
+            "hash": "11af340cfd6ec35f",
+            "directory": "External2",
+            "voiceContent": "One once asked Ganyu what she typically works on during her overtime hours. Her response was filled with hideous-sounding words, such as meeting minutes, summaries, annual reports, financial projections... Hmph, were she not of qilin blood, and had one not taught to her the secrets of cultivating health, this avalanche of bureaucratic writ would have surely overwhelmed her... When you see her next, would you check that she's been drinking her Qingxin Infusion of Clear Sight on a daily basis",
+            "sourceName": "vo_xianyun_teammate_ganyu_01.wem"
+        },
+        "14be1ab3e9c03a80": {
+            "hash": "14be1ab3e9c03a80",
+            "directory": "External2",
+            "voiceContent": "Ah, a blunder",
+            "sourceName": "vo_card_xianyun_inGame_easy_02.wem"
+        },
+        "14e64c76abad4f18": {
+            "hash": "14e64c76abad4f18",
+            "directory": "External2",
+            "voiceContent": "Then there were those who came right to one's doorstep, requesting to be taken on as disciples. One refused to grant them an audience, but they simply would not leave, and before long, Mt. Aocang had become something of a pilgrims' campsite... One promptly posted a sign outside the abode, decreeing that all would-be disciples must first present ninety-nine dishes over a period of as many days, each dish unique in its recipe and featuring the Qingxin as the main ingredient... Naturally, the crowd soon dispersed. Hmph, to master the adepti arts and the mechanical arts requires supreme talent and the utmost stillness of mind. Training would be a futile endeavor for those who cannot even persevere for a mere three months",
+            "sourceName": "vo_xianyun_friendship_03.wem"
+        },
+        "178c3e3d1fee765b": {
+            "hash": "178c3e3d1fee765b",
+            "directory": "External2",
+            "voiceContent": "One shall not back down",
+            "sourceName": "vo_xianyun_life_less30_03.wem"
+        },
+        "18269fee1d1a02c3": {
+            "hash": "18269fee1d1a02c3",
+            "directory": "External3",
+            "voiceContent": "What trinkets have we here? Present them for one's perusal",
+            "sourceName": "vo_xianyun_chest_open_02.wem"
+        },
+        "186e040f7d2d79a6": {
+            "hash": "186e040f7d2d79a6",
+            "directory": "External3",
+            "voiceContent": "In fact, one awoke quite some time ago, and simply had one's eyes closed in meditation. A most beneficial practice for spiritual cultivation — you might try it for yourself some time",
+            "sourceName": "vo_xianyun_dialog_greetingMorning.wem"
+        },
+        "1c03a4f1a6e70f1c": {
+            "hash": "1c03a4f1a6e70f1c",
+            "directory": "External3",
+            "voiceContent": "It is through our journey in this world that we gain experience. Power is not everything — the skills of communication are more important. If you have time, let us find a place with a pleasant view where we can admire the scenery, converse, slow down our pace, and simply enjoy being alive",
+            "sourceName": "vo_xianyun_starUp_04.wem"
+        },
+        "1c1b2a4ecd51ea75": {
+            "hash": "1c1b2a4ecd51ea75",
+            "directory": "External3",
+            "voiceContent": "The audacity",
+            "sourceName": "vo_xianyun_life_less30_01.wem"
+        },
+        "1d7e117289bc730b": {
+            "hash": "1d7e117289bc730b",
+            "directory": "External3",
+            "voiceContent": "One has always been a staunch defier of convention and expectation, preferring instead the freedom to live life precisely how one pleases. It is only natural for disciples to follow in their master's footsteps. So focused are they on their individual endeavors that they are quite content to go weeks without writing... Lonely? One is most certainly not! Hm... Still, were one to find time to pay them a visit — you don't suppose they would be unduly inconvenienced by one's presence, do you...",
+            "sourceName": "vo_xianyun_dialog_idle.wem"
+        },
+        "20939103544c363e": {
+            "hash": "20939103544c363e",
+            "directory": "External4",
+            "voiceContent": "Some of these adeptal arts one has not employed in many years... Inevitably, one is a little unpracticed",
+            "sourceName": "vo_xianyun_starUp_02.wem"
+        },
+        "2498e6634499e0d4": {
+            "hash": "2498e6634499e0d4",
+            "directory": "External4",
+            "voiceContent": "Despite one's lack of interest in worldly attachments, one is quite conscious indeed of the importance of bonds. Such a simple word for a thing so profound that it all but defies articulation... Take oneself and those old fossils, for example. Ah, sometimes we go years without meeting, and even then we find no shortage of things to quarrel about at our next reunion. Yet so deep runs our bond that no matter the physical distance between us, one will never feel alone and adrift in this world... One holds you in high esteem, child, and is pleased to count you as a friend. Do you also treasure the bond we share",
+            "sourceName": "vo_xianyun_dialog_close1.wem"
+        },
+        "265f78659c012736": {
+            "hash": "265f78659c012736",
+            "directory": "External4",
+            "voiceContent": "You wish to know more about one's past? ...One doubts there would be much worth sharing — it's all ancient history by now. One is more interested to hear about your travels to the far-flung corners of the world... What forms do the gods and immortals of other nations take? Are there any of them as amenable to conversation as oneself? Let us brew some tea, and then you can tell me all about it",
+            "sourceName": "vo_xianyun_friendship_01.wem"
+        },
+        "28e374785bd81475": {
+            "hash": "28e374785bd81475",
+            "directory": "External5",
+            "voiceContent": "Since moving to Liyue Harbor, one has had an endless procession of old friends and new arriving at one's doorstep, either to visit or to invite one out for meals. If this continues, one may soon be running short on Mora..",
+            "sourceName": "vo_xianyun_dialog_annoyed_01.wem"
+        },
+        "2abe95e498b76680": {
+            "hash": "2abe95e498b76680",
+            "directory": "External5",
+            "voiceContent": "Skyward",
+            "sourceName": "vo_xianyun_battle_skill1_02.wem"
+        },
+        "318800de08e5f96b": {
+            "hash": "318800de08e5f96b",
+            "directory": "External6",
+            "voiceContent": "Stray clouds, converge",
+            "sourceName": "vo_xianyun_battle_skill3_03.wem"
+        },
+        "340384f23b31d5ec": {
+            "hash": "340384f23b31d5ec",
+            "directory": "External6",
+            "voiceContent": "The Conqueror of Demons is even more withdrawn than oneself — he has been sighted a mere handful of times at social gatherings over the centuries... One was interested to learn that you are on rather good terms with him — what sort of conversations do the two of you tend to have? Oh, and do let me know when you next plan to see him. Perhaps one could make some tofu pudding for you to pass on to him",
+            "sourceName": "vo_xianyun_teammate_xiao_01.wem"
+        },
+        "3428cdc1de0f2929": {
+            "hash": "3428cdc1de0f2929",
+            "directory": "External6",
+            "voiceContent": "Derivative",
+            "sourceName": "vo_xianyun_battle_hit_H_01.wem"
+        },
+        "39700660219d83a5": {
+            "hash": "39700660219d83a5",
+            "directory": "External7",
+            "voiceContent": "Peace prevails throughout the land, and all things are made new, as buds in the Spring. This is an auspicious era for humanity",
+            "sourceName": "vo_xianyun_character_idle_02.wem"
+        },
+        "3b69fb25a28659ee": {
+            "hash": "3b69fb25a28659ee",
+            "directory": "External7",
+            "voiceContent": "You are well-practiced, I see",
+            "sourceName": "vo_card_xianyun_inGame_hard_03.wem"
+        },
+        "49a8ea3e28641fa9": {
+            "hash": "49a8ea3e28641fa9",
+            "directory": "External9",
+            "voiceContent": "The Tianquan conducts her business with great adroitness, and is meticulous in her speech. Hmph, one must admit that Liyue is thriving under the governance of the Qixing. One has been observing her closely in the hope of discovering her secret... Ahem, that was for your ears only — please do not relay it to her",
+            "sourceName": "vo_xianyun_teammate_ningguang_01.wem"
+        },
+        "4c8f7680bd9ea7ca": {
+            "hash": "4c8f7680bd9ea7ca",
+            "directory": "External9",
+            "voiceContent": "This shall end it",
+            "sourceName": "vo_card_xianyun_inGame_easy_04.wem"
+        },
+        "4e88f39c18c57432": {
+            "hash": "4e88f39c18c57432",
+            "directory": "External9",
+            "voiceContent": "Oh, what a soothing wind. Shall one attach some adepti sigils to your person, so that you may join me for a flight in the firmament",
+            "sourceName": "vo_xianyun_weather_gale_01.wem"
+        },
+        "52b12fb1f33ed522": {
+            "hash": "52b12fb1f33ed522",
+            "directory": "External10",
+            "voiceContent": "One is very fond of Gaming. He is good-hearted and entertaining in conversation, but never grandiloquent. We first met when one was resting by a lake, and he very kindly shared some of his provisions with me. Later, he commented that one seemed to be a wise elder, worthier of respect than even the adepti themselves... Hehe, this wise elder will be sure to look out for him after that",
+            "sourceName": "vo_xianyun_teammate_gaming_01.wem"
+        },
+        "5788109043daf7c4": {
+            "hash": "5788109043daf7c4",
+            "directory": "External10",
+            "voiceContent": "When Rex Lapis first heard of one's plan to take up residence in Liyue Harbor, he recited a long and detailed list of considerations for the furnishing and adornment of a home. Natural lighting, ventilation, bespoke woodwork, procuring porcelain, placement of plants and flowers... One's mind felt ready to explode from the deluge of information. Do all facets of life in the human world take so much effort",
+            "sourceName": "vo_xianyun_teammate_zhongli_01.wem"
+        },
+        "57a2b282ddacab0a": {
+            "hash": "57a2b282ddacab0a",
+            "directory": "External10",
+            "voiceContent": "One happened to mention the Supreme Cuisine Machine in conversation with Xiangling once, but one was rather taken aback when she responded by saying that a dish is inauthentic unless it is prepared by hand... Hmph, are one's devices not also the work of one's hands? Inauthentic indeed... A contest is in order! ...Although, her mastery of Liyue cuisine is indeed impressive... Yes — the contest shall have to wait until one has made a few improvements to the device..",
+            "sourceName": "vo_xianyun_teammate_xiangling_01.wem"
+        },
+        "5f29612bf50bea26": {
+            "hash": "5f29612bf50bea26",
+            "directory": "External11",
+            "voiceContent": "Fiddlesticks..",
+            "sourceName": "vo_xianyun_life_die_02.wem"
+        },
+        "61d65602a9678cf7": {
+            "hash": "61d65602a9678cf7",
+            "directory": "External12",
+            "voiceContent": "Ugh, what a dreadful racket..",
+            "sourceName": "vo_xianyun_weather_thunder_01.wem"
+        },
+        "6dcff4aa6dd2ae81": {
+            "hash": "6dcff4aa6dd2ae81",
+            "directory": "External13",
+            "voiceContent": "Ingenious... Ingenious indeed",
+            "sourceName": "vo_card_xianyun_inGame_easy_03.wem"
+        },
+        "70c4bc893dd53eca": {
+            "hash": "70c4bc893dd53eca",
+            "directory": "External14",
+            "voiceContent": "My contraptions are calibrated. We may now depart",
+            "sourceName": "vo_xianyun_teamJoin_01.wem"
+        },
+        "7563e844b81aab82": {
+            "hash": "7563e844b81aab82",
+            "directory": "External14",
+            "voiceContent": "One has read a great many works of popular literature since moving to Liyue Harbor. Those of the chivalric martial arts genre have proven the most entertaining, although the heroes within their pages are all works of the imagination. Would it not be even more compelling to tell the stories of the many such real-life figures with whom one is acquainted? It is a pity that one's disciples are so averse to one sharing the tales of their lives with other people... Perhaps you could relay more of the tales from your travels? One could adapt those into a novel instead",
+            "sourceName": "vo_xianyun_friendship_05.wem"
+        },
+        "763eb2f9d57a48c7": {
+            "hash": "763eb2f9d57a48c7",
+            "directory": "External14",
+            "voiceContent": "Dear me, that expectant look on your face... *sigh* Very well. One shall have to employ one's abilities to a fuller extent from now on",
+            "sourceName": "vo_xianyun_starUp_03.wem"
+        },
+        "7ace9f0b82df6fe1": {
+            "hash": "7ace9f0b82df6fe1",
+            "directory": "External15",
+            "voiceContent": "Given that one spends so much time indoors, it is rather nice to perform a little exercise once in a while",
+            "sourceName": "vo_xianyun_starUp_01.wem"
+        },
+        "7f58e198bc20b714": {
+            "hash": "7f58e198bc20b714",
+            "directory": "External15",
+            "voiceContent": "In this era of fair winds and gentle rains, one needs not marshal the winds to deliver the rainclouds",
+            "sourceName": "vo_xianyun_weather_heavyRain_01.wem"
+        },
+        "83828ee510a67722": {
+            "hash": "83828ee510a67722",
+            "directory": "External16",
+            "voiceContent": "Make way for the adeptus",
+            "sourceName": "vo_xianyun_battle_skill3_02.wem"
+        },
+        "83d06fdb1cc9da81": {
+            "hash": "83d06fdb1cc9da81",
+            "directory": "External16",
+            "voiceContent": "Scatter",
+            "sourceName": "vo_xianyun_battle_skill1_03.wem"
+        },
+        "87f7c09b86103b3c": {
+            "hash": "87f7c09b86103b3c",
+            "directory": "External16",
+            "voiceContent": "One is fast on one's feet — try to keep pace",
+            "sourceName": "vo_xianyun_teamJoin_03.wem"
+        },
+        "8ed14c672c4263d4": {
+            "hash": "8ed14c672c4263d4",
+            "directory": "External17",
+            "voiceContent": "If you are presently unoccupied, perhaps we could stop awhile at one's abode for some repose and conversation",
+            "sourceName": "vo_xianyun_character_idle_03.wem"
+        },
+        "9597cc45631eed12": {
+            "hash": "9597cc45631eed12",
+            "directory": "External18",
+            "voiceContent": "This one is no weakling",
+            "sourceName": "vo_xianyun_life_less30_02.wem"
+        },
+        "96a3a66e684d6c99": {
+            "hash": "96a3a66e684d6c99",
+            "directory": "External18",
+            "voiceContent": "There was a time when many mortals longed to seek the guidance of the adepti. One knows not how they discovered the location of one's abode, but every other day or so, one would find people leaving offerings of food at the altar on Mt. Aocang... Hmph, why ever would mortals expect an adeptus to interrupt their meditation for the sake of ingesting a mortal meal? Most bemusing. Nevertheless, since their actions were heartfelt, one saw only fit to indulge in— Ahem, to embrace their offerings once they had departed",
+            "sourceName": "vo_xianyun_friendship_02.wem"
+        },
+        "96b589085f2e7cfe": {
+            "hash": "96b589085f2e7cfe",
+            "directory": "External18",
+            "voiceContent": "That young lady says the most bizarre-sounding things, yet she appears to be rather highly regarded by the staff of the Wangsheng Funeral Parlor — even Rex Lapis himself saw fit to serve under her in some sort of consultancy capacity... Allegedly, she is similarly peculiar when it comes to her taste in food. One must admit, one finds eccentrics like her rather intriguing",
+            "sourceName": "vo_xianyun_teammate_hutao_01.wem"
+        },
+        "9c5513bfd6f87ab5": {
+            "hash": "9c5513bfd6f87ab5",
+            "directory": "External19",
+            "voiceContent": "To be sure, a Supreme Cuisine Machine is no substitute for a human touch if one wishes to prepare a truly magnificent meal. Nevertheless, using it frees up one's time to work on a new, improved model, which in turn saves more time, and so on and so forth... Hah, there will come a day, once this machine has been iterated to impeccability, that the power to cook all the delicacies known to humankind shall be within one's grasp",
+            "sourceName": "vo_xianyun_dialog_idle2.wem"
+        },
+        "9c8536ad4572be7c": {
+            "hash": "9c8536ad4572be7c",
+            "directory": "External19",
+            "voiceContent": "Be wise to your limits",
+            "sourceName": "vo_xianyun_life_less30_teammate_01.wem"
+        },
+        "9cf5e2fb69b54a99": {
+            "hash": "9cf5e2fb69b54a99",
+            "directory": "External19",
+            "voiceContent": "One took the liberty of surveying the land from the skies above so as to fashion this route-finding compass for your future traveling convenience. Heh, when have you ever met such a considerate companion as oneself, hmm? ... ...Already intimately acquainted with said terrain, you say? Hmph... Well, be that as it may, human memory is notoriously error-prone. One of these days, you'll get yourself hopelessly lost, and then you shall be thanking one profusely for one's foresight",
+            "sourceName": "vo_xianyun_dialog_close.wem"
+        },
+        "a924290b19a0cf9d": {
+            "hash": "a924290b19a0cf9d",
+            "directory": "External21",
+            "voiceContent": "A devastating blow",
+            "sourceName": "vo_card_xianyun_inGame_hard_04.wem"
+        },
+        "add27208a8e2b52c": {
+            "hash": "add27208a8e2b52c",
+            "directory": "External21",
+            "voiceContent": "These could be salvaged for parts",
+            "sourceName": "vo_xianyun_chest_open_01.wem"
+        },
+        "b0c7db835a1e159d": {
+            "hash": "b0c7db835a1e159d",
+            "directory": "External22",
+            "voiceContent": "Yaoyao once pinched my glasses from my face and tried them on for herself — she found it terribly entertaining, and couldn't stop giggling... Ah, children are able to find all sorts of ways to amuse themselves",
+            "sourceName": "vo_xianyun_teammate_yaoyao_01.wem"
+        },
+        "bdfd889b346cdde7": {
+            "hash": "bdfd889b346cdde7",
+            "directory": "External23",
+            "voiceContent": "A simple trick",
+            "sourceName": "vo_card_xianyun_inGame_easy_01.wem"
+        },
+        "c08d5d1d6209adf7": {
+            "hash": "c08d5d1d6209adf7",
+            "directory": "External24",
+            "voiceContent": "A novel experience",
+            "sourceName": "vo_card_xianyun_inGame_hard_02.wem"
+        },
+        "c0a7392b2c715365": {
+            "hash": "c0a7392b2c715365",
+            "directory": "External24",
+            "voiceContent": "Eating together with friends always leaves a pleasant taste in the mouth, regardless of what food was consumed",
+            "sourceName": "vo_xianyun_pref_foodLike.wem"
+        },
+        "c0cd219b590c1e82": {
+            "hash": "c0cd219b590c1e82",
+            "directory": "External24",
+            "voiceContent": "A paragon of both freshness and flavor... Tell me, for how long have you been surreptitiously studying one's culinary secrets",
+            "sourceName": "vo_xianyun_spice_pref_01.wem"
+        },
+        "c2b16df79c1964fa": {
+            "hash": "c2b16df79c1964fa",
+            "directory": "External24",
+            "voiceContent": "Perhaps one should invent some form of Curio Discernment Mechanism.",
+            "sourceName": "vo_xianyun_chest_open_03.wem"
+        },
+        "c3e49fb911c2e3c6": {
+            "hash": "c3e49fb911c2e3c6",
+            "directory": "External24",
+            "voiceContent": "Inconsequential",
+            "sourceName": "vo_xianyun_battle_hit_H_02.wem"
+        },
+        "c7d36fd489aa2b87": {
+            "hash": "c7d36fd489aa2b87",
+            "directory": "External24",
+            "voiceContent": "An adeptus devotes themselves to spiritual cultivation, to which end the delicacies of the mortal realm are not necessary. When one eats such things, it is not for nourishment, but to enjoy the flavor... So, if you prepare a dish and it does not taste exquisite even to yourself, you may spare yourself the courtesy of offering to share it with me — in fact, you might find you are better off leaving the cooking to me to begin with..",
+            "sourceName": "vo_xianyun_pref_foodDislike.wem"
+        },
+        "ceabda3b3c5ad84b": {
+            "hash": "ceabda3b3c5ad84b",
+            "directory": "External25",
+            "voiceContent": "For all the wondrous feats that can be accomplished by one who has mastered the mechanical arts, one often uses it for purely recreational purposes. There was one year when it snowed heavily in Liyue, and Mt. Aocang was covered in several feet of snow. Seeing everyone cooped up in their abodes with nothing to do, one created a Snowdrift Mechanism for skiing on the mountains. One was having a tremendous time of it along with Guizhong and Streetward Rambler... until, of course, Moon Carver noticed as much and decided to join in. Moments later, he had managed to send the mechanism flying off the rails and plummeted deep into a snow bank. It took us hours to dig him out... Later, one introduced a great many safety features to the mechanism, to the point where it could be safely piloted by even a three-year-old child. Although this did entail a compromise on the top speed of the vehicle",
+            "sourceName": "vo_xianyun_friendship_04.wem"
+        },
+        "cf51a276f7bbe112": {
+            "hash": "cf51a276f7bbe112",
+            "directory": "External25",
+            "voiceContent": "When idle and in need of diversion, basking in the winds that travel through the mountains always calms the mind",
+            "sourceName": "vo_xianyun_pref_hobby.wem"
+        },
+        "cf6d8f34c1582f89": {
+            "hash": "cf6d8f34c1582f89",
+            "directory": "External25",
+            "voiceContent": "Doesn't count... I hadn't eaten..",
+            "sourceName": "vo_xianyun_life_die_01.wem"
+        },
+        "d1ddd88e5e5282a0": {
+            "hash": "d1ddd88e5e5282a0",
+            "directory": "External26",
+            "voiceContent": "What? A cursory change in one's appearance, and you barely recognize me? Hah, then let one dispel any doubt — one is in all things unconstrained and unabashed, free to live as one pleases, go where one desires, and journey with whomsoever one wishes. Nevertheless, ahem... In light of one's considerable renown... please call me Xianyun in public",
+            "sourceName": "vo_xianyun_draw_appear_01.wem"
+        },
+        "d3fe03cbe36409e7": {
+            "hash": "d3fe03cbe36409e7",
+            "directory": "External26",
+            "voiceContent": "Huh",
+            "sourceName": "vo_xianyun_battle_skill1_01.wem"
+        },
+        "dd0144835c32bd0c": {
+            "hash": "dd0144835c32bd0c",
+            "directory": "External27",
+            "voiceContent": "One's supreme cuisine machine has been lying idle as of late. You are welcome to borrow it",
+            "sourceName": "vo_xianyun_spice_dislike_01.wem"
+        },
+        "ddf3aced3f675b45": {
+            "hash": "ddf3aced3f675b45",
+            "directory": "External27",
+            "voiceContent": "Seize the skies",
+            "sourceName": "vo_xianyun_battle_skill3_01.wem"
+        },
+        "defee857f2dc9f82": {
+            "hash": "defee857f2dc9f82",
+            "directory": "External27",
+            "voiceContent": "The secrets of the mechanical arts are too profound to convey in a few simple words... But why must the listener grow weary whenever I begin to divulge them",
+            "sourceName": "vo_xianyun_character_idle_01.wem"
+        },
+        "dfe570c3f96be676": {
+            "hash": "dfe570c3f96be676",
+            "directory": "External27",
+            "voiceContent": "Keqing is a thoughtful child. She visits me on behalf of the Qixing every festival without fail, and always brings a gift. With such a capable and considerate colleague by her side, perhaps one needn't worry too much about Ganyu..",
+            "sourceName": "vo_xianyun_teammate_keqing_01.wem"
+        },
+        "e0e6c323b1ac150f": {
+            "hash": "e0e6c323b1ac150f",
+            "directory": "External28",
+            "voiceContent": "Wait, my mechanical masterwork..",
+            "sourceName": "vo_xianyun_life_die_03.wem"
+        },
+        "eb3b6f34dbea8510": {
+            "hash": "eb3b6f34dbea8510",
+            "directory": "External29",
+            "voiceContent": "One is not to be underestimated",
+            "sourceName": "vo_card_xianyun_inGame_hard_01.wem"
+        },
+        "ee5c03126bce6de2": {
+            "hash": "ee5c03126bce6de2",
+            "directory": "External29",
+            "voiceContent": "Hmm? Spare me that look, is it not your turn to prepare luncheon today",
+            "sourceName": "vo_xianyun_dialog_greetingNoon.wem"
+        },
+        "f230c1cce1f58688": {
+            "hash": "f230c1cce1f58688",
+            "directory": "External30",
+            "voiceContent": "The flavor is secondary — what matters is that you felt the inclination to cook for me at all. I commend your consideration",
+            "sourceName": "vo_xianyun_spice_normal_01.wem"
+        },
+        "f2d2586ffbda25b1": {
+            "hash": "f2d2586ffbda25b1",
+            "directory": "External30",
+            "voiceContent": "Rex Lapis once said that a Vision is a call to duty — to act as a guardian, watching over humankind, and that whether we choose to withdraw into the mountains or embrace the clamor of the city, we must never shirk that duty. Now, the age of humankind is upon us, but one will continue to cherish this duty long into the future",
+            "sourceName": "vo_xianyun_dialog_pendant_01.wem"
+        },
+        "f6dbda92a7acafcd": {
+            "hash": "f6dbda92a7acafcd",
+            "directory": "External30",
+            "voiceContent": "I trust you have packed ample foodstuffs",
+            "sourceName": "vo_xianyun_teamJoin_02.wem"
+        }
+    }
+}
