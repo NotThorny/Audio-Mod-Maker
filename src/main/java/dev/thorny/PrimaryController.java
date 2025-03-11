@@ -238,16 +238,25 @@ public class PrimaryController implements Initializable {
         treeSourceName.setCellValueFactory(param -> {
             // Replace internal names with common names
             String name = "";
+            final String paramName = param.getValue().getValue().getDetails().getSourceName().getValueSafe().toLowerCase();
+
             // This is unnecessary but shortens the junk at the beginning of the source.
             String fullSource = param.getValue().getValue().getDetails().getSourceName().getValueSafe().toLowerCase();
             if (fullSource.length() >= 15) {
-                String shorterSource = fullSource.substring(3, fullSource.length()-4);
+                String shorterSource = fullSource.substring(2, fullSource.length()-4);
+
+                var avatarName = shorterSource.substring(1);
+                avatarName = avatarName.substring(0, avatarName.indexOf("_"));
+
+                if (App.getUser().getLoadedAvatars().keySet().contains(avatarName)) {
+                    return new SimpleStringProperty(shorterSource.substring(shorterSource.substring(1).indexOf("_") + 2));
+                }
+
                 if (!(shorterSource.indexOf("_") == -1)) {
                     return new SimpleStringProperty(shorterSource.substring(shorterSource.indexOf("_") + 1));
                 }
             }
 
-            final String paramName = param.getValue().getValue().getDetails().getSourceName().getValueSafe().toLowerCase();
             switch (paramName) {
                 case "hero" -> name = "aether";
                 case "heroine" -> name = "lumine";
