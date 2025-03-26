@@ -225,7 +225,7 @@ public class PrimaryController implements Initializable {
                     emptyProperty().addListener((_, _, newVal) -> {
                         if (newVal) {
                             setContextMenu(null);
-                        } else {
+                        } else {    
                             setContextMenu(contextMenu);
                         }
                     });
@@ -243,18 +243,20 @@ public class PrimaryController implements Initializable {
             // This is unnecessary but shortens the junk at the beginning of the source.
             String fullSource = param.getValue().getValue().getDetails().getSourceName().getValueSafe().toLowerCase();
             if (fullSource.length() >= 15) {
-                String shorterSource = fullSource.substring(2, fullSource.length()-4);
+                String shorterSource = fullSource.replace("vo_", "").replace(".wem", "");
 
-                var avatarName = shorterSource.substring(1);
-                avatarName = avatarName.substring(0, avatarName.indexOf("_"));
+                if (!(shorterSource.indexOf("_") == -1)) {
+                    if (App.getUser().getLoadedAvatars().keySet().contains(shorterSource.substring(0, shorterSource.indexOf("_")))) {
+                        return new SimpleStringProperty(shorterSource.substring(shorterSource.indexOf("_") + 1));
+                    } else {
+                        return new SimpleStringProperty(shorterSource);
+                    }
+                }
 
-                if (App.getUser().getLoadedAvatars().keySet().contains(avatarName)) {
+                if (App.getUser().getLoadedAvatars().keySet().contains(shorterSource)) {
                     return new SimpleStringProperty(shorterSource.substring(shorterSource.substring(1).indexOf("_") + 2));
                 }
 
-                if (!(shorterSource.indexOf("_") == -1)) {
-                    return new SimpleStringProperty(shorterSource.substring(shorterSource.indexOf("_") + 1));
-                }
             }
 
             switch (paramName) {
