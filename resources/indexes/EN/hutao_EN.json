@@ -1904,7 +1904,7 @@
             "hash": "069c154f05974c6e",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_h_04.wem"
+            "sourceName": "vo_hutao_battle_hit_H_04.wem"
         },
         "0774f1f529bf6c14": {
             "hash": "0774f1f529bf6c14",
@@ -1948,6 +1948,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_hutao_explore_climb_breath_03.wem"
         },
+        "13b224e6ec4c878a": {
+            "hash": "13b224e6ec4c878a",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_48_hutao_03.wem"
+        },
         "13e305c681eb7330": {
             "hash": "13e305c681eb7330",
             "directory": "External2",
@@ -1976,13 +1982,19 @@
             "hash": "1c0bc0b20ec2358a",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_04.wem"
+            "sourceName": "vo_hutao_battle_hit_L_04.wem"
+        },
+        "23dc0dc5ba82c061": {
+            "hash": "23dc0dc5ba82c061",
+            "directory": "External4",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_hutao_02.wem"
         },
         "278c07d594a43746": {
             "hash": "278c07d594a43746",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_06.wem"
+            "sourceName": "vo_hutao_battle_attackLight_06.wem"
         },
         "299237e2077496f8": {
             "hash": "299237e2077496f8",
@@ -1995,6 +2007,18 @@
             "directory": "External5",
             "voiceContent": "O-ya? O-ya-ya-ya",
             "sourceName": "vo_hutao_starUp_01.wem"
+        },
+        "2dc0b9f395d61e6b": {
+            "hash": "2dc0b9f395d61e6b",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_suit_winter_01.wem"
+        },
+        "2e4a28f93768fafc": {
+            "hash": "2e4a28f93768fafc",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_48_hutao_01.wem"
         },
         "2e9b096e247c74eb": {
             "hash": "2e9b096e247c74eb",
@@ -2024,7 +2048,13 @@
             "hash": "33604eb96449cf97",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackmid_01.wem"
+            "sourceName": "vo_hutao_battle_attackMid_01.wem"
+        },
+        "34f1a3109c7edc41": {
+            "hash": "34f1a3109c7edc41",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_48_hutao_04.wem"
         },
         "360a5e105e2cdb5e": {
             "hash": "360a5e105e2cdb5e",
@@ -2036,7 +2066,7 @@
             "hash": "36a3c4c459dea8fc",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_06.wem"
+            "sourceName": "vo_hutao_battle_hit_L_06.wem"
         },
         "36c36dfd55af2f50": {
             "hash": "36c36dfd55af2f50",
@@ -2066,7 +2096,7 @@
             "hash": "37f03acb11aef6b1",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackmid_03.wem"
+            "sourceName": "vo_hutao_battle_attackMid_03.wem"
         },
         "38db58a9f32c6c90": {
             "hash": "38db58a9f32c6c90",
@@ -2102,7 +2132,7 @@
             "hash": "3d4b3edbbef48a41",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_03.wem"
+            "sourceName": "vo_hutao_battle_hit_L_03.wem"
         },
         "3daf49ff52e9c8fd": {
             "hash": "3daf49ff52e9c8fd",
@@ -2114,7 +2144,7 @@
             "hash": "42251be7dfc27868",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_04.wem"
+            "sourceName": "vo_hutao_battle_attackLight_04.wem"
         },
         "436c8d675b002ca6": {
             "hash": "436c8d675b002ca6",
@@ -2156,7 +2186,7 @@
             "hash": "4e43f5cb2d850d42",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackheavy_01.wem"
+            "sourceName": "vo_hutao_battle_attackHeavy_01.wem"
         },
         "50f7a821758f58cc": {
             "hash": "50f7a821758f58cc",
@@ -2218,23 +2248,11 @@
             "voiceContent": "*sigh* What a bummer..",
             "sourceName": "vo_hutao_weather_heavyRain_01.wem"
         },
-        "623acc576cbacfa4": {
-            "hash": "623acc576cbacfa4",
-            "directory": "External12",
-            "voiceContent": "Splendid, splendid! Now, allow me to compose a poem in loving memory of this dish",
-            "sourceName": "vo_hutao_spice_event_pref_01.wem"
-        },
         "62f6de821e5cbdf9": {
             "hash": "62f6de821e5cbdf9",
             "directory": "External12",
             "voiceContent": "Let's get down to business",
             "sourceName": "vo_card_hutao_inGame_hard_04.wem"
-        },
-        "66df5e33d38b5eca": {
-            "hash": "66df5e33d38b5eca",
-            "directory": "External12",
-            "voiceContent": "Ugh, I declare this dish dead, rest in peace",
-            "sourceName": "vo_hutao_spice_event_dislike_01.wem"
         },
         "699a6c0e73528885": {
             "hash": "699a6c0e73528885",
@@ -2264,7 +2282,7 @@
             "hash": "745643347cb1c21d",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_h_03.wem"
+            "sourceName": "vo_hutao_battle_hit_H_03.wem"
         },
         "792ca3eb5a31f3cc": {
             "hash": "792ca3eb5a31f3cc",
@@ -2282,7 +2300,7 @@
             "hash": "79f677b4b3a0e4d2",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_02.wem"
+            "sourceName": "vo_hutao_battle_attackLight_02.wem"
         },
         "7c938b58d9baa428": {
             "hash": "7c938b58d9baa428",
@@ -2302,6 +2320,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_hutao_explore_jump_05.wem"
         },
+        "80e42c0c4816d9f4": {
+            "hash": "80e42c0c4816d9f4",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_suit_winter_02.wem"
+        },
         "812dc302612d12fc": {
             "hash": "812dc302612d12fc",
             "directory": "External16",
@@ -2313,12 +2337,6 @@
             "directory": "External16",
             "voiceContent": "Argh..",
             "sourceName": "vo_card_hutao_inGame_easy_02.wem"
-        },
-        "82b6be309821333e": {
-            "hash": "82b6be309821333e",
-            "directory": "External16",
-            "voiceContent": "Sure you don't want my help? C'mon, it's a great deal cook twice the amount in the same time",
-            "sourceName": "vo_hutao_spice_event_normal_01.wem"
         },
         "8909e49ab9c8416e": {
             "hash": "8909e49ab9c8416e",
@@ -2336,7 +2354,7 @@
             "hash": "8bbf7746c51aa077",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_h_05.wem"
+            "sourceName": "vo_hutao_battle_hit_H_05.wem"
         },
         "8ec58e8cd1c27910": {
             "hash": "8ec58e8cd1c27910",
@@ -2354,7 +2372,7 @@
             "hash": "90ded2cc8871e1a7",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_01.wem"
+            "sourceName": "vo_hutao_battle_hit_L_01.wem"
         },
         "919f77ba82393dd8": {
             "hash": "919f77ba82393dd8",
@@ -2378,7 +2396,13 @@
             "hash": "97d035de60f07ca9",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_05.wem"
+            "sourceName": "vo_hutao_battle_attackLight_05.wem"
+        },
+        "989e56deaba04793": {
+            "hash": "989e56deaba04793",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_48_hutao_02.wem"
         },
         "9d07c5005a00ab78": {
             "hash": "9d07c5005a00ab78",
@@ -2402,7 +2426,7 @@
             "hash": "a0f7f2a9ce15f593",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_05.wem"
+            "sourceName": "vo_hutao_battle_hit_L_05.wem"
         },
         "a62f413613c2024b": {
             "hash": "a62f413613c2024b",
@@ -2432,7 +2456,7 @@
             "hash": "a8b613d35c47a465",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackheavy_02.wem"
+            "sourceName": "vo_hutao_battle_attackHeavy_02.wem"
         },
         "ab4f91d9c414b479": {
             "hash": "ab4f91d9c414b479",
@@ -2444,7 +2468,7 @@
             "hash": "acaf69cd54278b2f",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_07.wem"
+            "sourceName": "vo_hutao_battle_attackLight_07.wem"
         },
         "afc6179ab97e7801": {
             "hash": "afc6179ab97e7801",
@@ -2462,13 +2486,13 @@
             "hash": "b2cce0d3522bb030",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackmid_02.wem"
+            "sourceName": "vo_hutao_battle_attackMid_02.wem"
         },
         "b66d895e3efb7790": {
             "hash": "b66d895e3efb7790",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_h_06.wem"
+            "sourceName": "vo_hutao_battle_hit_H_06.wem"
         },
         "b76542ea9d19e3ae": {
             "hash": "b76542ea9d19e3ae",
@@ -2504,7 +2528,7 @@
             "hash": "c483d725434bf163",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_h_01.wem"
+            "sourceName": "vo_hutao_battle_hit_H_01.wem"
         },
         "c4ceb9146d0d8427": {
             "hash": "c4ceb9146d0d8427",
@@ -2523,6 +2547,12 @@
             "directory": "External25",
             "voiceContent": "Lightning! Let's bolt",
             "sourceName": "vo_hutao_weather_thunder_01.wem"
+        },
+        "c9a0ffbd8bef86be": {
+            "hash": "c9a0ffbd8bef86be",
+            "directory": "External25",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_hutao_01.wem"
         },
         "ccd9e983f33253ac": {
             "hash": "ccd9e983f33253ac",
@@ -2572,6 +2602,12 @@
             "voiceContent": "If we bury it, maybe it'll spring back to life",
             "sourceName": "vo_hutao_chest_open_03.wem"
         },
+        "da2c6602cc578045": {
+            "hash": "da2c6602cc578045",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_suit_winter_03.wem"
+        },
         "db06b57d5afdd6c5": {
             "hash": "db06b57d5afdd6c5",
             "directory": "External27",
@@ -2618,7 +2654,7 @@
             "hash": "e43964e53ae21640",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_02.wem"
+            "sourceName": "vo_hutao_battle_hit_L_02.wem"
         },
         "e68c1fce32124e8e": {
             "hash": "e68c1fce32124e8e",
@@ -2690,13 +2726,13 @@
             "hash": "fab059da6407a794",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackheavy_03.wem"
+            "sourceName": "vo_hutao_battle_attackHeavy_03.wem"
         },
         "fbe9e9ac706eba1b": {
             "hash": "fbe9e9ac706eba1b",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_03.wem"
+            "sourceName": "vo_hutao_battle_attackLight_03.wem"
         },
         "fc8b5ea5ed01a413": {
             "hash": "fc8b5ea5ed01a413",
@@ -2708,7 +2744,7 @@
             "hash": "fd13d5be1af0b835",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_01.wem"
+            "sourceName": "vo_hutao_battle_attackLight_01.wem"
         },
         "fd3f2e21117064db": {
             "hash": "fd3f2e21117064db",
@@ -2733,18 +2769,6 @@
             "directory": "External31",
             "voiceContent": "Suh",
             "sourceName": "vo_hutao_battle_skill1_03.wem"
-        },
-        "23dc0dc5ba82c061": {
-            "hash": "23dc0dc5ba82c061",
-            "directory": "External4",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_hutao_02.wem"
-        },
-        "c9a0ffbd8bef86be": {
-            "hash": "c9a0ffbd8bef86be",
-            "directory": "External25",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_hutao_01.wem"
         }
     }
 }

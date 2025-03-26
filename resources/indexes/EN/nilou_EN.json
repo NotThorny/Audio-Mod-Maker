@@ -356,11 +356,23 @@
             "voiceContent": "You're saying the stars in the sky get to hear you play more than us? No fair..",
             "sourceName": "vo_HSEQ003_18_nilou_01.wem"
         },
+        "4d75e01068b29205": {
+            "hash": "4d75e01068b29205",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_nilou_01.wem"
+        },
         "554815a1b9d89c3d": {
             "hash": "554815a1b9d89c3d",
             "directory": "External10",
             "voiceContent": "It's such a rare opportunity! If I present this special version at the Sabzeruz Festival, I'm sure the Dendro Archon will love it! And all the spectators, too",
             "sourceName": "vo_HSEQ003_14_nilou_02.wem"
+        },
+        "56fceced6791966a": {
+            "hash": "56fceced6791966a",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ001_9_nilou_01.wem"
         },
         "7a2ecfabc0e777f8": {
             "hash": "7a2ecfabc0e777f8",
@@ -385,6 +397,24 @@
             "directory": "External17",
             "voiceContent": "...Ah",
             "sourceName": "vo_HSEQ002_11_nilou_03.wem"
+        },
+        "8f20263a2a9f7678": {
+            "hash": "8f20263a2a9f7678",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_nilou_04.wem"
+        },
+        "963567b9d1a0460e": {
+            "hash": "963567b9d1a0460e",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ003_14_nilou_05.wem"
+        },
+        "9da334012f4c542b": {
+            "hash": "9da334012f4c542b",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_nilou_03.wem"
         },
         "9fe403f6cf408231": {
             "hash": "9fe403f6cf408231",
@@ -416,6 +446,12 @@
             "voiceContent": "Sorry to make you worry, everyone! I'll head back and help once I'm done learning this dance",
             "sourceName": "vo_HSEQ003_14_nilou_03.wem"
         },
+        "f303c20839effbe2": {
+            "hash": "f303c20839effbe2",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_nilou_02.wem"
+        },
         "fb42f7998b72d73a": {
             "hash": "fb42f7998b72d73a",
             "directory": "External31",
@@ -424,11 +460,11 @@
         }
     },
     "Gameplay": {
-        "0107f1cec978d76a": {
-            "hash": "0107f1cec978d76a",
+        "036ff60a452127ae": {
+            "hash": "036ff60a452127ae",
             "directory": "External0",
-            "voiceContent": "This must be what it feels like to have flavors dancing on your tongue... How wonderful",
-            "sourceName": "vo_nilou_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_suit_fairy_02.wem"
         },
         "0576bbb653ec0fd3": {
             "hash": "0576bbb653ec0fd3",
@@ -446,7 +482,7 @@
             "hash": "069f92b404c2e1a8",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_h_06.wem"
+            "sourceName": "vo_nilou_battle_hit_H_06.wem"
         },
         "06c929ad0fb32488": {
             "hash": "06c929ad0fb32488",
@@ -500,7 +536,19 @@
             "hash": "15ef824474818878",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_02.wem"
+            "sourceName": "vo_nilou_battle_hit_L_02.wem"
+        },
+        "16058f8f91e9242c": {
+            "hash": "16058f8f91e9242c",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_endOfGame_win_01.wem"
+        },
+        "18e38afa208c04e3": {
+            "hash": "18e38afa208c04e3",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_hard_02.wem"
         },
         "194cac0ce560e2ba": {
             "hash": "194cac0ce560e2ba",
@@ -512,7 +560,7 @@
             "hash": "1c2c59b4950c123e",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_06.wem"
+            "sourceName": "vo_nilou_battle_attackLight_06.wem"
         },
         "1d5cd277e390536d": {
             "hash": "1d5cd277e390536d",
@@ -536,7 +584,7 @@
             "hash": "2472900b792e662b",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_05.wem"
+            "sourceName": "vo_nilou_battle_hit_L_05.wem"
         },
         "24f903ee2f32b1c2": {
             "hash": "24f903ee2f32b1c2",
@@ -574,6 +622,18 @@
             "voiceContent": "Hello, I'm Nilou from Zubayr Theater. We have one dance scheduled for today, and it's about to start — keep your eyes peeled",
             "sourceName": "vo_nilou_draw_appear_01.wem"
         },
+        "3199c4113843fb51": {
+            "hash": "3199c4113843fb51",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_suit_fairy_01.wem"
+        },
+        "3466d6bcb8ce0a61": {
+            "hash": "3466d6bcb8ce0a61",
+            "directory": "External6",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_nilou_02.wem"
+        },
         "36af9c2099d010ea": {
             "hash": "36af9c2099d010ea",
             "directory": "External6",
@@ -604,6 +664,12 @@
             "voiceContent": "The big-spending merchant Dori has watched me dance before. I remember that she talked with Mr. Zubayr once, and then never came back. Did something happen? ...Huh? She wanted me to go on tour around Teyvat? No way, Mr. Zubayr definitely would've refused for me! ...Ahh, please tell me he has..",
             "sourceName": "vo_nilou_teammate_dori_01.wem"
         },
+        "40fb8261cc4b73a0": {
+            "hash": "40fb8261cc4b73a0",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_endOfGame_fail_01.wem"
+        },
         "430112928606d4e4": {
             "hash": "430112928606d4e4",
             "directory": "External8",
@@ -615,6 +681,12 @@
             "directory": "External8",
             "voiceContent": "I feel like I'm lying down on the back of a massive Anemo Slime. Ahh, it's so light and comfy",
             "sourceName": "vo_nilou_starUp_03.wem"
+        },
+        "484d4f87b9a5d28c": {
+            "hash": "484d4f87b9a5d28c",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_leave_01.wem"
         },
         "48a358050724ea7c": {
             "hash": "48a358050724ea7c",
@@ -644,19 +716,25 @@
             "hash": "5319f63b365f17df",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackmid_01.wem"
+            "sourceName": "vo_nilou_battle_attackMid_01.wem"
         },
         "5526e993136b442a": {
             "hash": "5526e993136b442a",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_02.wem"
+            "sourceName": "vo_nilou_battle_attackLight_02.wem"
         },
         "57f8f4a7351c2a6f": {
             "hash": "57f8f4a7351c2a6f",
             "directory": "External10",
             "voiceContent": "Huh? What's this feeling...",
             "sourceName": "vo_nilou_starUp_01.wem"
+        },
+        "59d1dd12385561cc": {
+            "hash": "59d1dd12385561cc",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_hard_01.wem"
         },
         "5a6be6ebfdea4833": {
             "hash": "5a6be6ebfdea4833",
@@ -680,7 +758,7 @@
             "hash": "5e54a475eba5305c",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackheavy_03.wem"
+            "sourceName": "vo_nilou_battle_attackHeavy_03.wem"
         },
         "635d6f7857a89a86": {
             "hash": "635d6f7857a89a86",
@@ -698,7 +776,13 @@
             "hash": "6a4d424d7e9a8ed9",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackmid_03.wem"
+            "sourceName": "vo_nilou_battle_attackMid_03.wem"
+        },
+        "6b4ad90128a8e79a": {
+            "hash": "6b4ad90128a8e79a",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_hard_03.wem"
         },
         "6bd453d484d6e839": {
             "hash": "6bd453d484d6e839",
@@ -722,7 +806,7 @@
             "hash": "712ae0997929a86f",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_h_05.wem"
+            "sourceName": "vo_nilou_battle_hit_H_05.wem"
         },
         "715606cddf86a7a8": {
             "hash": "715606cddf86a7a8",
@@ -734,7 +818,7 @@
             "hash": "71d77bab163a24c7",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_07.wem"
+            "sourceName": "vo_nilou_battle_attackLight_07.wem"
         },
         "7227de036944a983": {
             "hash": "7227de036944a983",
@@ -746,13 +830,13 @@
             "hash": "766767bcc39f4be1",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_05.wem"
+            "sourceName": "vo_nilou_battle_attackLight_05.wem"
         },
         "79d31e1283d20de2": {
             "hash": "79d31e1283d20de2",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_04.wem"
+            "sourceName": "vo_nilou_battle_hit_L_04.wem"
         },
         "79ea81556182455b": {
             "hash": "79ea81556182455b",
@@ -782,7 +866,7 @@
             "hash": "7afd02242e53fdb4",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_06.wem"
+            "sourceName": "vo_nilou_battle_hit_L_06.wem"
         },
         "7e8dd595b052aa1f": {
             "hash": "7e8dd595b052aa1f",
@@ -802,17 +886,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_nilou_explore_idle_03.wem"
         },
+        "852d580201c152b7": {
+            "hash": "852d580201c152b7",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_suit_fairy_03.wem"
+        },
         "8680879a09435fad": {
             "hash": "8680879a09435fad",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_01.wem"
-        },
-        "897819aa1a867124": {
-            "hash": "897819aa1a867124",
-            "directory": "External17",
-            "voiceContent": "Sorry, my appetite's been a bit off lately. Please don't take offense",
-            "sourceName": "vo_nilou_spice_event_dislike_01.wem"
+            "sourceName": "vo_nilou_battle_attackLight_01.wem"
         },
         "8c1b0de394090813": {
             "hash": "8c1b0de394090813",
@@ -825,6 +909,12 @@
             "directory": "External17",
             "voiceContent": "SFX",
             "sourceName": "vo_nilou_explore_jump_02.wem"
+        },
+        "8d3f619a2c2da96c": {
+            "hash": "8d3f619a2c2da96c",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_easy_02.wem"
         },
         "8f25cae2dc0e1dbb": {
             "hash": "8f25cae2dc0e1dbb",
@@ -842,7 +932,7 @@
             "hash": "97acdc3c3121a5f9",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_03.wem"
+            "sourceName": "vo_nilou_battle_hit_L_03.wem"
         },
         "9802f4a9e82fedaf": {
             "hash": "9802f4a9e82fedaf",
@@ -872,7 +962,7 @@
             "hash": "9be02066176b3c6a",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackheavy_01.wem"
+            "sourceName": "vo_nilou_battle_attackHeavy_01.wem"
         },
         "9c0f0e7472731be6": {
             "hash": "9c0f0e7472731be6",
@@ -928,6 +1018,12 @@
             "voiceContent": "The people of the Great Bazaar love Lesser Lord Kusanali. I'd love to hear her thoughts on my Dance of Sabzeruz... Oh, no, no, forget it... If she were in the audience, I'd get stage fright..",
             "sourceName": "vo_nilou_teammate_nahida_01.wem"
         },
+        "b3670bcb7caa6a2f": {
+            "hash": "b3670bcb7caa6a2f",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_freetalk_01.wem"
+        },
         "b47aabc83bd3114e": {
             "hash": "b47aabc83bd3114e",
             "directory": "External22",
@@ -980,7 +1076,7 @@
             "hash": "c4f44c8a42d44b75",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_h_03.wem"
+            "sourceName": "vo_nilou_battle_hit_H_03.wem"
         },
         "c611f794f81940cf": {
             "hash": "c611f794f81940cf",
@@ -998,13 +1094,13 @@
             "hash": "c8980dc3cb8d8260",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_04.wem"
+            "sourceName": "vo_nilou_battle_attackLight_04.wem"
         },
         "c9d2be6d0a5e7bed": {
             "hash": "c9d2be6d0a5e7bed",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackheavy_02.wem"
+            "sourceName": "vo_nilou_battle_attackHeavy_02.wem"
         },
         "ca6820c4639988e9": {
             "hash": "ca6820c4639988e9",
@@ -1028,19 +1124,13 @@
             "hash": "d538102c5ce7377f",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_01.wem"
+            "sourceName": "vo_nilou_battle_hit_L_01.wem"
         },
         "d57eb4f43e94d52a": {
             "hash": "d57eb4f43e94d52a",
             "directory": "External26",
             "voiceContent": "SFX",
             "sourceName": "vo_nilou_explore_climb_04.wem"
-        },
-        "d7beb23eb32a0930": {
-            "hash": "d7beb23eb32a0930",
-            "directory": "External26",
-            "voiceContent": "Thank you. You must have put a lot of love and effort into this dish, just like I put so much of me into my dance practice",
-            "sourceName": "vo_nilou_spice_event_normal_01.wem"
         },
         "d83bbd1e71fc10ae": {
             "hash": "d83bbd1e71fc10ae",
@@ -1058,7 +1148,7 @@
             "hash": "da141b8ad2c0b733",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_03.wem"
+            "sourceName": "vo_nilou_battle_attackLight_03.wem"
         },
         "dbe154b353ed6e6f": {
             "hash": "dbe154b353ed6e6f",
@@ -1106,7 +1196,7 @@
             "hash": "e88fe855c1fa7158",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackmid_02.wem"
+            "sourceName": "vo_nilou_battle_attackMid_02.wem"
         },
         "ed6da6c1c0b563a8": {
             "hash": "ed6da6c1c0b563a8",
@@ -1118,7 +1208,7 @@
             "hash": "ef6d7ea1bc897c86",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_h_04.wem"
+            "sourceName": "vo_nilou_battle_hit_H_04.wem"
         },
         "f22f470c4163b5c7": {
             "hash": "f22f470c4163b5c7",
@@ -1144,11 +1234,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_nilou_explore_climb_03.wem"
         },
+        "f7938f7fa064f603": {
+            "hash": "f7938f7fa064f603",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_easy_01.wem"
+        },
         "f7f60f5da4b2bc12": {
             "hash": "f7f60f5da4b2bc12",
             "directory": "External30",
             "voiceContent": "SFX",
             "sourceName": "vo_nilou_explore_fly_start_03.wem"
+        },
+        "f8bd7b914ae6f43d": {
+            "hash": "f8bd7b914ae6f43d",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_easy_03.wem"
         },
         "f9ac208b1108547e": {
             "hash": "f9ac208b1108547e",
@@ -1161,12 +1263,6 @@
             "directory": "External31",
             "voiceContent": "SFX",
             "sourceName": "vo_nilou_explore_fly_start_01.wem"
-        },
-        "3466d6bcb8ce0a61": {
-            "hash": "3466d6bcb8ce0a61",
-            "directory": "External6",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_nilou_02.wem"
         }
     }
 }

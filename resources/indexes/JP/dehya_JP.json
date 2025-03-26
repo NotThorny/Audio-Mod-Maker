@@ -422,6 +422,12 @@
             "voiceContent": "祝灯状はもう一通作って、キャンディスが着いたら、ネックレスに添えてプレゼントしようと思ってる。きっと喜んでくれるぜ",
             "sourceName": "vo_HDJHK003_4_dehya_03.wem"
         },
+        "c19db3928dcd5b1a": {
+            "hash": "c19db3928dcd5b1a",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ103_dehya_02.wem"
+        },
         "ca008e55a92863c8": {
             "hash": "ca008e55a92863c8",
             "directory": "External25",
@@ -524,7 +530,7 @@
             "hash": "1549737128b27431",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_05.wem"
+            "sourceName": "vo_dehya_battle_hit_H_05.wem"
         },
         "1602a165af0c9a6a": {
             "hash": "1602a165af0c9a6a",
@@ -536,19 +542,19 @@
             "hash": "1a3e09db49899ad7",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_01.wem"
+            "sourceName": "vo_dehya_battle_attackLight_01.wem"
         },
         "1b223fea431a6f0b": {
             "hash": "1b223fea431a6f0b",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_02.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_02.wem"
         },
         "1b67f5ecf40b98f1": {
             "hash": "1b67f5ecf40b98f1",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_03.wem"
+            "sourceName": "vo_dehya_battle_attackLight_03.wem"
         },
         "1c006ad878ce8e98": {
             "hash": "1c006ad878ce8e98",
@@ -592,17 +598,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_climb_02.wem"
         },
+        "2468c95d9d319a04": {
+            "hash": "2468c95d9d319a04",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_dehya_01.wem"
+        },
         "24e09fc75ca13790": {
             "hash": "24e09fc75ca13790",
             "directory": "External4",
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_climb_breath_03.wem"
-        },
-        "25b44e4572132326": {
-            "hash": "25b44e4572132326",
-            "directory": "External4",
-            "voiceContent": "少なくとも…腹は満たせる。安全に腹を満たせるなら、それだけでいい食べ物ってもんさ！ハハハ",
-            "sourceName": "vo_dehya_spice_event_dislike_01.wem"
         },
         "27959244cd991acd": {
             "hash": "27959244cd991acd",
@@ -614,7 +620,13 @@
             "hash": "27e2f16bd2f912f2",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_02.wem"
+            "sourceName": "vo_dehya_battle_attackMid_02.wem"
+        },
+        "29b41973caf51629": {
+            "hash": "29b41973caf51629",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_freetalk_01.wem"
         },
         "2a497b9400d3a2bc": {
             "hash": "2a497b9400d3a2bc",
@@ -628,11 +640,23 @@
             "voiceContent": "雷の音、結構大きいな…色んな音をかき消してくれそうだ",
             "sourceName": "vo_dehya_weather_thunder_01.wem"
         },
+        "2bc751fbd8ec911e": {
+            "hash": "2bc751fbd8ec911e",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_01.wem"
+        },
         "2bf14f43811efa8c": {
             "hash": "2bf14f43811efa8c",
             "directory": "External5",
             "voiceContent": "傭兵団のご老人から聞いたんだが…砂漠にもたまには雨が降るんだってな。しかも、ここより遥かに激しいらしいぜ",
             "sourceName": "vo_dehya_weather_heavyRain_01.wem"
+        },
+        "2cf0860d836d56c0": {
+            "hash": "2cf0860d836d56c0",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_03.wem"
         },
         "2d116588a902d2c8": {
             "hash": "2d116588a902d2c8",
@@ -663,6 +687,12 @@
             "directory": "External6",
             "voiceContent": "いい値段で売れそうだ",
             "sourceName": "vo_dehya_chest_open_03.wem"
+        },
+        "375cb38676b83fe7": {
+            "hash": "375cb38676b83fe7",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_05.wem"
         },
         "383d3bcc1ada9cc6": {
             "hash": "383d3bcc1ada9cc6",
@@ -704,7 +734,13 @@
             "hash": "4236aac0644f0805",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_05.wem"
+            "sourceName": "vo_dehya_battle_hit_L_05.wem"
+        },
+        "42b1c1b32a24307a": {
+            "hash": "42b1c1b32a24307a",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_leave_01.wem"
         },
         "42d3cffc1d74d9ae": {
             "hash": "42d3cffc1d74d9ae",
@@ -716,7 +752,7 @@
             "hash": "43297ed20ea19b7f",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_03.wem"
+            "sourceName": "vo_dehya_battle_hit_L_03.wem"
         },
         "43f53f6ca1ffd9ed": {
             "hash": "43f53f6ca1ffd9ed",
@@ -736,11 +772,17 @@
             "voiceContent": "行くぞ",
             "sourceName": "vo_dehya_battle_skill1_03.wem"
         },
+        "4cd077207a5cb712": {
+            "hash": "4cd077207a5cb712",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_02.wem"
+        },
         "4ce4e73dfc637a03": {
             "hash": "4ce4e73dfc637a03",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_03.wem"
+            "sourceName": "vo_dehya_battle_hit_H_03.wem"
         },
         "4e0ed34fa6e5783d": {
             "hash": "4e0ed34fa6e5783d",
@@ -758,7 +800,7 @@
             "hash": "530269b9c7baebc3",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_05.wem"
+            "sourceName": "vo_dehya_battle_attackLight_05.wem"
         },
         "5587cd179bad9ae1": {
             "hash": "5587cd179bad9ae1",
@@ -766,17 +808,11 @@
             "voiceContent": "あたしがどこの人間かだって？さあ、あたしも知らないな。そんなこと、考えたこともなかったよ。強いて言うなら…ずっと砂漠で生活してるから、「砂漠側」の人間って言えるかもな",
             "sourceName": "vo_dehya_friendship_02.wem"
         },
-        "55b7abdc41697810": {
-            "hash": "55b7abdc41697810",
-            "directory": "External10",
-            "voiceContent": "本当にいい味だぜ！これ以上食ったら、もう携行食なんか食えなくなっちまうかもしれないな",
-            "sourceName": "vo_dehya_spice_event_pref_01.wem"
-        },
         "579255cb752012fd": {
             "hash": "579255cb752012fd",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_07.wem"
+            "sourceName": "vo_dehya_battle_attackLight_07.wem"
         },
         "5845b5a3c2a5db8e": {
             "hash": "5845b5a3c2a5db8e",
@@ -788,7 +824,7 @@
             "hash": "59a8cf72c92cb9d5",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_01.wem"
+            "sourceName": "vo_dehya_battle_attackMid_01.wem"
         },
         "5dcbb18e19cfed44": {
             "hash": "5dcbb18e19cfed44",
@@ -818,7 +854,7 @@
             "hash": "6e46b202f55cdd94",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_01.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_01.wem"
         },
         "6ff93b4bb1f1f8f9": {
             "hash": "6ff93b4bb1f1f8f9",
@@ -856,6 +892,18 @@
             "voiceContent": "キャンディスか？あいつは他に欠点なんかないが、唯一…性格が駄獣と同じくらい強情なんだ。何回も言ったんだぜ？そんなに張り詰めてないで、たまには休みをとってスメールシティを回ってみたり、綺麗な服や装飾品でも買ったりしたほうがいいんじゃないかってな…でも、その度に村が心配だからって断られるんだ。はぁ、これ以上言ってもダメなら、今度あたしが代わりに村を守って、旅団の娘たちにキャンディスをシティへ連れ出してもらうか",
             "sourceName": "vo_dehya_teammate_candace_01.wem"
         },
+        "86026004077fcac1": {
+            "hash": "86026004077fcac1",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_02.wem"
+        },
+        "898d118d7ea5fbde": {
+            "hash": "898d118d7ea5fbde",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_04.wem"
+        },
         "8aa7abab39d74a52": {
             "hash": "8aa7abab39d74a52",
             "directory": "External17",
@@ -880,17 +928,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_sprint_start_02.wem"
         },
+        "8e1d459f2c0b9c80": {
+            "hash": "8e1d459f2c0b9c80",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_06.wem"
+        },
         "8efc2567bead220e": {
             "hash": "8efc2567bead220e",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_06.wem"
+            "sourceName": "vo_dehya_battle_hit_H_06.wem"
         },
         "90261979692f2db0": {
             "hash": "90261979692f2db0",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_04.wem"
+            "sourceName": "vo_dehya_battle_hit_H_04.wem"
         },
         "94d0d36046616cd5": {
             "hash": "94d0d36046616cd5",
@@ -902,7 +956,7 @@
             "hash": "955a1cd9168fc396",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_02.wem"
+            "sourceName": "vo_dehya_battle_hit_L_02.wem"
         },
         "95ddf3f6bb424d70": {
             "hash": "95ddf3f6bb424d70",
@@ -920,7 +974,7 @@
             "hash": "99aa9bf5376b7b70",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_02.wem"
+            "sourceName": "vo_dehya_battle_attackLight_02.wem"
         },
         "9bdcd706ecd93ed8": {
             "hash": "9bdcd706ecd93ed8",
@@ -980,7 +1034,7 @@
             "hash": "ad3c636392aa113b",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_03.wem"
+            "sourceName": "vo_dehya_battle_attackMid_03.wem"
         },
         "ad846f3bddb78a7f": {
             "hash": "ad846f3bddb78a7f",
@@ -1034,13 +1088,7 @@
             "hash": "c1da4df3beda4342",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_03.wem"
-        },
-        "c26dceb70dcca84a": {
-            "hash": "c26dceb70dcca84a",
-            "directory": "External24",
-            "voiceContent": "うーん…携行食だと思って食えば…悪くない味だ",
-            "sourceName": "vo_dehya_spice_event_normal_01.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_03.wem"
         },
         "c49131f3da1504b7": {
             "hash": "c49131f3da1504b7",
@@ -1054,11 +1102,23 @@
             "voiceContent": "最近、存分に腕を振るってるみたいじゃないか。うちの傭兵団でも、あんたの実績について話してるやつが結構いるんだぜ。中には、あんたを紹介してくれないかって聞いてくるやつらまでいるほどさ",
             "sourceName": "vo_dehya_dialog_close.wem"
         },
+        "cec4e918372c405b": {
+            "hash": "cec4e918372c405b",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_03.wem"
+        },
         "cf39cba8909e30c9": {
             "hash": "cf39cba8909e30c9",
             "directory": "External25",
             "voiceContent": "へえ？本当に力が成長してる",
             "sourceName": "vo_dehya_starUp_01.wem"
+        },
+        "d353d529e48fb475": {
+            "hash": "d353d529e48fb475",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_01.wem"
         },
         "d4f3b6945d020076": {
             "hash": "d4f3b6945d020076",
@@ -1083,6 +1143,12 @@
             "directory": "External27",
             "voiceContent": "手加減ナシだぜ",
             "sourceName": "vo_dehya_battle_skill1_02.wem"
+        },
+        "de60835cf7763332": {
+            "hash": "de60835cf7763332",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_endOfGame_win_01.wem"
         },
         "de9303ad2cab2db1": {
             "hash": "de9303ad2cab2db1",
@@ -1112,7 +1178,7 @@
             "hash": "e7c48cb8358c71e2",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_06.wem"
+            "sourceName": "vo_dehya_battle_hit_L_06.wem"
         },
         "e7e3777b761821c5": {
             "hash": "e7e3777b761821c5",
@@ -1124,13 +1190,13 @@
             "hash": "e8ae3bd453839e2c",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_06.wem"
+            "sourceName": "vo_dehya_battle_attackLight_06.wem"
         },
         "e8ee70c9e00e61b4": {
             "hash": "e8ee70c9e00e61b4",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_04.wem"
+            "sourceName": "vo_dehya_battle_hit_L_04.wem"
         },
         "e9e2d8e497c580fa": {
             "hash": "e9e2d8e497c580fa",
@@ -1160,7 +1226,7 @@
             "hash": "f409b547787fb33a",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_02.wem"
+            "sourceName": "vo_dehya_battle_hit_H_02.wem"
         },
         "f5da2dee22e478e3": {
             "hash": "f5da2dee22e478e3",
@@ -1192,11 +1258,17 @@
             "voiceContent": "あたしは小さい頃から傭兵団で暮らしてた。おもちゃは木でできたナイフや剣、知り合いは傭兵か傭兵を目指すやつばかり。食事をするのに使う木製のお椀でさえ、団員がナイフで削って作った代物だった…そんな環境で育って、傭兵にならないほうがおかしいだろ。そう思わないか",
             "sourceName": "vo_dehya_friendship_01.wem"
         },
+        "fd7451f87360e5de": {
+            "hash": "fd7451f87360e5de",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_endOfGame_fail_01.wem"
+        },
         "fd8d37c346ba4dfa": {
             "hash": "fd8d37c346ba4dfa",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_04.wem"
+            "sourceName": "vo_dehya_battle_attackLight_04.wem"
         },
         "ffb50d42e5a5b296": {
             "hash": "ffb50d42e5a5b296",

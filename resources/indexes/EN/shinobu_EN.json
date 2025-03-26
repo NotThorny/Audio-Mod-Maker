@@ -332,11 +332,83 @@
         }
     },
     "Quests": {
+        "0013ca757259c0fb": {
+            "hash": "0013ca757259c0fb",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_9_shinobu_01b_1.wem"
+        },
+        "074e639d29255fd6": {
+            "hash": "074e639d29255fd6",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_05.wem"
+        },
+        "2e90d279b80096d4": {
+            "hash": "2e90d279b80096d4",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_shinobu_01.wem"
+        },
+        "4edbc403d89e51e4": {
+            "hash": "4edbc403d89e51e4",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_3_shinobu_02.wem"
+        },
+        "5652d37c453ee422": {
+            "hash": "5652d37c453ee422",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_01.wem"
+        },
+        "577bb78defbf21f4": {
+            "hash": "577bb78defbf21f4",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_03.wem"
+        },
+        "b0c3f18473ffc845": {
+            "hash": "b0c3f18473ffc845",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_02.wem"
+        },
+        "b51dc596213736bf": {
+            "hash": "b51dc596213736bf",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_04.wem"
+        },
+        "be6871ff335db452": {
+            "hash": "be6871ff335db452",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_shinobu_01.wem"
+        },
+        "cc4011e9e808545b": {
+            "hash": "cc4011e9e808545b",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_3_shinobu_01.wem"
+        },
+        "d700cf583ec3cb58": {
+            "hash": "d700cf583ec3cb58",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_1_shinobu_01.wem"
+        },
         "e0b2506b12a04551": {
             "hash": "e0b2506b12a04551",
             "directory": "External28",
             "voiceContent": "Akira, what have you gotten us into",
             "sourceName": "vo_JQRCOP001_1914806_shinobu_01.wem"
+        },
+        "f0dbae8ee5481b4f": {
+            "hash": "f0dbae8ee5481b4f",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_3_shinobu_01.wem"
         }
     },
     "Gameplay": {
@@ -362,7 +434,7 @@
             "hash": "0af2dccc7e098fbb",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_03.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_03.wem"
         },
         "0d6a3b49bf87a60a": {
             "hash": "0d6a3b49bf87a60a",
@@ -387,6 +459,12 @@
             "directory": "External2",
             "voiceContent": "Just let me know if you ever find yourself in a pinch. I can help you out",
             "sourceName": "vo_shinobu_character_idle_01.wem"
+        },
+        "13bc0c45a4348280": {
+            "hash": "13bc0c45a4348280",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_easy_02.wem"
         },
         "164d280d2e9d89bb": {
             "hash": "164d280d2e9d89bb",
@@ -428,7 +506,13 @@
             "hash": "22d330a4be830739",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackmid_01.wem"
+            "sourceName": "vo_shinobu_battle_attackMid_01.wem"
+        },
+        "22f27dd7532f7180": {
+            "hash": "22f27dd7532f7180",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_leave_01.wem"
         },
         "27355d9a74615a6a": {
             "hash": "27355d9a74615a6a",
@@ -476,7 +560,7 @@
             "hash": "3297538b2a24065c",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_02.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_02.wem"
         },
         "33b11d9b73a957c1": {
             "hash": "33b11d9b73a957c1",
@@ -488,7 +572,7 @@
             "hash": "33c13f9cd4a6047e",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_04.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_04.wem"
         },
         "3458f2e25115ce2f": {
             "hash": "3458f2e25115ce2f",
@@ -506,13 +590,19 @@
             "hash": "3694faf5a23f0ce6",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_06.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_06.wem"
+        },
+        "3a67ecb75cfaa1ee": {
+            "hash": "3a67ecb75cfaa1ee",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_hard_03.wem"
         },
         "3b9892789c54828c": {
             "hash": "3b9892789c54828c",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_04.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_04.wem"
         },
         "3c1f1d04163cb38c": {
             "hash": "3c1f1d04163cb38c",
@@ -544,12 +634,6 @@
             "voiceContent": "Looking for a fight",
             "sourceName": "vo_shinobu_battle_hit_H_02.wem"
         },
-        "41154bbc717f1ca1": {
-            "hash": "41154bbc717f1ca1",
-            "directory": "External8",
-            "voiceContent": "Did you make this? Hmm... you're more than qualified to be a chef",
-            "sourceName": "vo_shinobu_spice_event_normal_01.wem"
-        },
         "41ef463652d306e6": {
             "hash": "41ef463652d306e6",
             "directory": "External8",
@@ -572,7 +656,7 @@
             "hash": "50788e678f8ce55a",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_06.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_06.wem"
         },
         "543e8866824ac63f": {
             "hash": "543e8866824ac63f",
@@ -620,7 +704,7 @@
             "hash": "605e6494ea4898bf",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackmid_03.wem"
+            "sourceName": "vo_shinobu_battle_attackMid_03.wem"
         },
         "616a6b748dee3d96": {
             "hash": "616a6b748dee3d96",
@@ -652,6 +736,12 @@
             "voiceContent": "Did you make this? Hmm... you're more than qualified to be a chef",
             "sourceName": "vo_shinobu_spice_normal_01.wem"
         },
+        "6ccde63c2846f681": {
+            "hash": "6ccde63c2846f681",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_easy_03.wem"
+        },
         "6e524c913cdc7d51": {
             "hash": "6e524c913cdc7d51",
             "directory": "External13",
@@ -662,7 +752,7 @@
             "hash": "7037b7ec34124498",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackheavy_01.wem"
+            "sourceName": "vo_shinobu_battle_attackHeavy_01.wem"
         },
         "71882117234503ba": {
             "hash": "71882117234503ba",
@@ -710,13 +800,19 @@
             "hash": "81b0e3db24661cb6",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackheavy_03.wem"
+            "sourceName": "vo_shinobu_battle_attackHeavy_03.wem"
         },
         "8209d4677c6419a3": {
             "hash": "8209d4677c6419a3",
             "directory": "External16",
             "voiceContent": "My primary responsibilities are to bring in business and maintain a stable team... uh, as well as bailing out the gang from the Police Station, returning snacks and toys to kids, and catching anyone secretly slacking off during a job... I guess you could say all this extra work comes with being part of the Arataki Gang. I suppose that leaders of other groups wouldn't have to put up with that kind of stuff. But then again, no one else could do the job like me",
             "sourceName": "vo_shinobu_dialog_idle.wem"
+        },
+        "848176a3543a1762": {
+            "hash": "848176a3543a1762",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_event_special_04.wem"
         },
         "85996ad4be589172": {
             "hash": "85996ad4be589172",
@@ -734,13 +830,13 @@
             "hash": "8cd3619358b8f207",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_05.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_05.wem"
         },
         "8dfc4da503393d21": {
             "hash": "8dfc4da503393d21",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_07.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_07.wem"
         },
         "8ed9900d156680ba": {
             "hash": "8ed9900d156680ba",
@@ -766,12 +862,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shinobu_explore_jump_05.wem"
         },
-        "91c22b8f84e361bf": {
-            "hash": "91c22b8f84e361bf",
-            "directory": "External18",
-            "voiceContent": "Honestly, did you use the wrong seasonings",
-            "sourceName": "vo_shinobu_spice_event_dislike_01.wem"
-        },
         "93805953295d640d": {
             "hash": "93805953295d640d",
             "directory": "External18",
@@ -794,7 +884,7 @@
             "hash": "9e156d8248dd51ed",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_03.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_03.wem"
         },
         "9ff92a55500896df": {
             "hash": "9ff92a55500896df",
@@ -808,11 +898,11 @@
             "voiceContent": "Certificates are useful for judging professional skills but they fail to measure the amount of effort or emotional investment involved. Our friendship has gone beyond something that can be expressed with a simple thank you. Let me express my feelings by always giving the very best of my abilities",
             "sourceName": "vo_shinobu_starUp_04.wem"
         },
-        "a523ff1ab16b90d7": {
-            "hash": "a523ff1ab16b90d7",
+        "a25b34cd0189af79": {
+            "hash": "a25b34cd0189af79",
             "directory": "External20",
-            "voiceContent": "This is truly exceptional. Ehem... I'll just have another bite",
-            "sourceName": "vo_shinobu_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_event_special_03.wem"
         },
         "a52df27dd989ff3d": {
             "hash": "a52df27dd989ff3d",
@@ -836,7 +926,7 @@
             "hash": "a6d928fe6e8b5249",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_05.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_05.wem"
         },
         "a8bc8f9230d3a473": {
             "hash": "a8bc8f9230d3a473",
@@ -854,7 +944,13 @@
             "hash": "aa7cac6fbdf0f75d",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_05.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_05.wem"
+        },
+        "aab5c850c47bf283": {
+            "hash": "aab5c850c47bf283",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_freetalk_01.wem"
         },
         "ad23f0ffb63e026e": {
             "hash": "ad23f0ffb63e026e",
@@ -878,7 +974,7 @@
             "hash": "b28f029bf236c1d6",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackmid_02.wem"
+            "sourceName": "vo_shinobu_battle_attackMid_02.wem"
         },
         "b6f95c92f0108383": {
             "hash": "b6f95c92f0108383",
@@ -896,7 +992,7 @@
             "hash": "b75f48dbb48c3855",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_01.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_01.wem"
         },
         "b82348a49a9281bd": {
             "hash": "b82348a49a9281bd",
@@ -910,23 +1006,41 @@
             "voiceContent": "Go ahead and take a rest if you need. Don't worry about me",
             "sourceName": "vo_shinobu_dialog_greetingNight2.wem"
         },
+        "bcfb7a2ceee125e7": {
+            "hash": "bcfb7a2ceee125e7",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_easy_01.wem"
+        },
         "be59569e2e23ce5b": {
             "hash": "be59569e2e23ce5b",
             "directory": "External23",
             "voiceContent": "Just like a certificate, this Vision is solid proof of my capabilities. The only difference is that I'm still not certain about a Vision's assessment criteria",
             "sourceName": "vo_shinobu_dialog_pendant.wem"
         },
+        "bf8b4eaf1c7df5f7": {
+            "hash": "bf8b4eaf1c7df5f7",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_hard_02.wem"
+        },
         "c1e5e0820659d4b7": {
             "hash": "c1e5e0820659d4b7",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_03.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_03.wem"
         },
         "c9659800ca653c9c": {
             "hash": "c9659800ca653c9c",
             "directory": "External25",
             "voiceContent": "Sure you want to continue",
             "sourceName": "vo_card_shinobu_inGame_hard_01.wem"
+        },
+        "cb5f388477157678": {
+            "hash": "cb5f388477157678",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_endOfGame_win_01.wem"
         },
         "cb8d3f1f51aac8bd": {
             "hash": "cb8d3f1f51aac8bd",
@@ -986,7 +1100,13 @@
             "hash": "dac2c5d1a8789e1f",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackheavy_02.wem"
+            "sourceName": "vo_shinobu_battle_attackHeavy_02.wem"
+        },
+        "dfe668bd2d4f40ff": {
+            "hash": "dfe668bd2d4f40ff",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_event_special_01.wem"
         },
         "e11c595c85d32a13": {
             "hash": "e11c595c85d32a13",
@@ -1028,7 +1148,7 @@
             "hash": "e393f3ac0e0c4fa0",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_06.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_06.wem"
         },
         "e3a60faf82f51aa4": {
             "hash": "e3a60faf82f51aa4",
@@ -1036,17 +1156,29 @@
             "voiceContent": "Honestly, did you use the wrong seasonings",
             "sourceName": "vo_shinobu_spice_dislike_01.wem"
         },
+        "ea3960c6965ecd10": {
+            "hash": "ea3960c6965ecd10",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_hard_01.wem"
+        },
         "ead3cdbbf31d4c7e": {
             "hash": "ead3cdbbf31d4c7e",
             "directory": "External29",
             "voiceContent": "I've worked many different jobs and I'm certified in a variety of fields. In terms of management, I've led a small team and have been responsible for delegating tasks and allocating resources according to... Uh, sorry, don't mind me... Sometimes I still slip into interview mode",
             "sourceName": "vo_shinobu_friendship_01.wem"
         },
+        "f03f759b6714c6e4": {
+            "hash": "f03f759b6714c6e4",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_endOfGame_fail_01.wem"
+        },
         "f1aa0173125c5c73": {
             "hash": "f1aa0173125c5c73",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_01.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_01.wem"
         },
         "f7eec6e70879bfa2": {
             "hash": "f7eec6e70879bfa2",
@@ -1058,7 +1190,7 @@
             "hash": "f9098f0576791b88",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_04.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_04.wem"
         },
         "f917aaf8b2f9fd74": {
             "hash": "f917aaf8b2f9fd74",
@@ -1071,6 +1203,12 @@
             "directory": "External31",
             "voiceContent": "I'll clean this up",
             "sourceName": "vo_shinobu_life_less30_teammate_01.wem"
+        },
+        "fed4c8629cfb8098": {
+            "hash": "fed4c8629cfb8098",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_shinobu_01.wem"
         },
         "ffc3889b6b48da83": {
             "hash": "ffc3889b6b48da83",

@@ -7,17 +7,41 @@
             "voiceContent": "(실종자는 할시, 평범한 관객이지만, 그녀가 처음부터 음모를 꾸민 건 아닐까?",
             "sourceName": "vo_FDAQ003_39_hero_02.wem"
         },
+        "0865b8823fb2bc22": {
+            "hash": "0865b8823fb2bc22",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_06.wem"
+        },
         "08d64f2df603c005": {
             "hash": "08d64f2df603c005",
             "directory": "External1",
             "voiceContent": "(지하 통로에 할시의 옷이 남아 있었어. 아마 사람들의 눈길을 피하기 위해서였겠지…",
             "sourceName": "vo_FDAQ003_40_hero_05.wem"
         },
+        "098e9c93ea32f9f4": {
+            "hash": "098e9c93ea32f9f4",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_04.wem"
+        },
         "09c9233fa056537f": {
             "hash": "09c9233fa056537f",
             "directory": "External1",
             "voiceContent": "(당시 리니가 지하 통로에 없었던 덕에 범인에게는 충분한 시간이 주어졌을 거야",
             "sourceName": "vo_FDAQ003_40_hero_03.wem"
+        },
+        "25c46ccc66052d7f": {
+            "hash": "25c46ccc66052d7f",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_hero_01.wem"
+        },
+        "29a576abefe57d39": {
+            "hash": "29a576abefe57d39",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_01.wem"
         },
         "2d7bc450958622e0": {
             "hash": "2d7bc450958622e0",
@@ -96,6 +120,18 @@
             "directory": "External11",
             "voiceContent": "(사망자는 코웰, 리니의 조수야. 그러면 소품에 손을 쓸 수 있었겠지…",
             "sourceName": "vo_FDAQ003_39_hero_01.wem"
+        },
+        "62d6d68a6e73a045": {
+            "hash": "62d6d68a6e73a045",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_05.wem"
+        },
+        "6730aa9c1bab0ebf": {
+            "hash": "6730aa9c1bab0ebf",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_03.wem"
         },
         "77f321f61b19d07f": {
             "hash": "77f321f61b19d07f",
@@ -187,6 +223,18 @@
             "voiceContent": "올바른 위치에 룬 문자를 끼워 넣어야 할 것 같은데",
             "sourceName": "vo_SZAQ203_7_hero_01.wem"
         },
+        "b66b2a7b37f23e6b": {
+            "hash": "b66b2a7b37f23e6b",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_07.wem"
+        },
+        "b96148a3239937d6": {
+            "hash": "b96148a3239937d6",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_02.wem"
+        },
         "c602dd25f9833df7": {
             "hash": "c602dd25f9833df7",
             "directory": "External24",
@@ -265,7 +313,7 @@
             "hash": "01ed0acc85657ad4",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_01.wem"
+            "sourceName": "vo_hero_battle_attackLight_01.wem"
         },
         "024865df18ab3663": {
             "hash": "024865df18ab3663",
@@ -283,7 +331,13 @@
             "hash": "031636de2fe63236",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_07.wem"
+            "sourceName": "vo_hero_battle_attackLight_07.wem"
+        },
+        "03510061da402d61": {
+            "hash": "03510061da402d61",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hero_teamJoin_03.wem"
         },
         "04f1cac9060f893c": {
             "hash": "04f1cac9060f893c",
@@ -397,7 +451,7 @@
             "hash": "18dab6956ff3c04e",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_01.wem"
+            "sourceName": "vo_hero_battle_hit_H_01.wem"
         },
         "18efbe06a2ff7e63": {
             "hash": "18efbe06a2ff7e63",
@@ -409,7 +463,7 @@
             "hash": "1a04aaa71a75cbf0",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_03.wem"
+            "sourceName": "vo_hero_battle_hit_H_03.wem"
         },
         "1a7dd7a57ee70027": {
             "hash": "1a7dd7a57ee70027",
@@ -433,7 +487,7 @@
             "hash": "1ed013549b9e2ddd",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackmid_02.wem"
+            "sourceName": "vo_hero_battle_attackMid_02.wem"
         },
         "1ee4fc2575d4f504": {
             "hash": "1ee4fc2575d4f504",
@@ -446,6 +500,12 @@
             "directory": "External4",
             "voiceContent": "하늘을 울리는 뇌음",
             "sourceName": "vo_hero_battle_skill3_thunder_03.wem"
+        },
+        "215a5e2b62e5558e": {
+            "hash": "215a5e2b62e5558e",
+            "directory": "External4",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_hero_02.wem"
         },
         "251eb63905a226d1": {
             "hash": "251eb63905a226d1",
@@ -487,7 +547,7 @@
             "hash": "29c83d14c43d2635",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_02.wem"
+            "sourceName": "vo_hero_battle_hit_L_02.wem"
         },
         "29ce50e905c74fc3": {
             "hash": "29ce50e905c74fc3",
@@ -505,7 +565,7 @@
             "hash": "2cf47acd0aeb7703",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackheavy_01.wem"
+            "sourceName": "vo_hero_battle_attackHeavy_01.wem"
         },
         "2dbe98cfac250f00": {
             "hash": "2dbe98cfac250f00",
@@ -517,7 +577,7 @@
             "hash": "2e1e66deb56d753d",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackheavy_03.wem"
+            "sourceName": "vo_hero_battle_attackHeavy_03.wem"
         },
         "2e83bff8badae60b": {
             "hash": "2e83bff8badae60b",
@@ -591,6 +651,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_hero_explore_sprint_start_03.wem"
         },
+        "391a2e8abf68b178": {
+            "hash": "391a2e8abf68b178",
+            "directory": "External7",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_hero_life_die_03.wem"
+        },
         "39638b9a9febea65": {
             "hash": "39638b9a9febea65",
             "directory": "External7",
@@ -657,6 +723,12 @@
             "voiceContent": "#페이몬 어떻게 해야 북두처럼 멋있고 카리스마 있는 사람이 될 수 있을까?{NICKNAME} 견문을 더 넓힌다면…페이몬 너랑 오랫동안 여행하면서 페이몬은 이미 충분히 많은 걸 봤는데!{NICKNAME} 좌절과 고난을 겪는다면…페이몬 페이몬은 물에 빠져 꼬르륵 죽을뻔한 적도 있어…{NICKNAME} 남을 북돋아 줄 수 있는 기개가 필요하지…페이몬 응! 페이몬은 계속 널 지지해 왔다구!{NICKNAME} 문제를 대할 때도 어른스러워야 하고…페이몬 야! 넌 그냥 페이몬은 불가능하다고 말하고 싶은 거지",
             "sourceName": "vo_fetter_beidou_hero.wem"
         },
+        "479d3c51c4158f2b": {
+            "hash": "479d3c51c4158f2b",
+            "directory": "External8",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_hero_life_die_04.wem"
+        },
         "47a8fb9388c9b94a": {
             "hash": "47a8fb9388c9b94a",
             "directory": "External8",
@@ -703,7 +775,7 @@
             "hash": "521aa6bd4bffb682",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_03.wem"
+            "sourceName": "vo_hero_battle_attackLight_03.wem"
         },
         "525514a9f2e00859": {
             "hash": "525514a9f2e00859",
@@ -727,7 +799,7 @@
             "hash": "54406f2c3df0a546",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_05.wem"
+            "sourceName": "vo_hero_battle_hit_L_05.wem"
         },
         "54e26d419d7e748e": {
             "hash": "54e26d419d7e748e",
@@ -740,6 +812,12 @@
             "directory": "External10",
             "voiceContent": "#페이몬 그러고 보니 사람들은 매일 에리니에스섬의 분수를 향해 모라를 던지는 것 같아{NICKNAME} 응. 샘물에 사는 요정이 사람들의 소원을 들어준다는 전설이 있어서 그런가 봐페이몬 오! 샘물 요정도 모라가 필요하나 보네?페이몬 정말 좋겠다. 샘 속에 산다면 아무것도 안 해도 매일 사람들이 던지는 모라를 받을 수 있을 텐데…{NICKNAME} 내 생각엔 그런 게 아닌 것 같은데…페이몬 「젊은 여행자여, 그대의 소원을 들었다. 그대가 빠뜨린 것은 이 무인검인가, 아니면 이 실버 소드인가?」{NICKNAME} 둘 다 값어치 있는 물건은 아닌데페이몬 어서 선택이나 하라구{NICKNAME} 「샘물의 소녀여, 내가 빠뜨린 것은 무인검도, 실버 소드도 아닌 나와 함께 여행하던 동료이다」페이몬 엥? 저, 정말 못 말려…. 그럼 샘물 요정인 이 몸이 최고의 파트너가 되어주겠노라",
             "sourceName": "vo_fetter_fd_fountain_hero.wem"
+        },
+        "5581a668e22e63e0": {
+            "hash": "5581a668e22e63e0",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hero_teamJoin_02.wem"
         },
         "5709a07b4118a8bf": {
             "hash": "5709a07b4118a8bf",
@@ -763,7 +841,7 @@
             "hash": "5c2818d4b3f8b39f",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_06.wem"
+            "sourceName": "vo_hero_battle_attackLight_06.wem"
         },
         "5c6152d84361b9b8": {
             "hash": "5c6152d84361b9b8",
@@ -913,7 +991,7 @@
             "hash": "735a64e6fc327799",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_04.wem"
+            "sourceName": "vo_hero_battle_attackLight_04.wem"
         },
         "73d5e4c027abfdcd": {
             "hash": "73d5e4c027abfdcd",
@@ -997,7 +1075,7 @@
             "hash": "7de7467529c49e7a",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_05.wem"
+            "sourceName": "vo_hero_battle_hit_H_05.wem"
         },
         "80d4b7d49a093b80": {
             "hash": "80d4b7d49a093b80",
@@ -1165,7 +1243,13 @@
             "hash": "9bc2049ed715e971",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_02.wem"
+            "sourceName": "vo_hero_battle_hit_H_02.wem"
+        },
+        "9cfdca58ceb936e2": {
+            "hash": "9cfdca58ceb936e2",
+            "directory": "External19",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_hero_life_die_05.wem"
         },
         "9d1bc12633b6fb95": {
             "hash": "9d1bc12633b6fb95",
@@ -1261,7 +1345,7 @@
             "hash": "a6aadf0b5ced52d2",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_01.wem"
+            "sourceName": "vo_hero_battle_hit_L_01.wem"
         },
         "a754cc1285d93436": {
             "hash": "a754cc1285d93436",
@@ -1273,7 +1357,7 @@
             "hash": "a7d4031d076dfca4",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_03.wem"
+            "sourceName": "vo_hero_battle_hit_L_03.wem"
         },
         "a93f91e9dcb9a50f": {
             "hash": "a93f91e9dcb9a50f",
@@ -1291,7 +1375,7 @@
             "hash": "ab6298b3d03fe34b",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_02.wem"
+            "sourceName": "vo_hero_battle_attackLight_02.wem"
         },
         "ab6bfc3b33cefb38": {
             "hash": "ab6bfc3b33cefb38",
@@ -1321,7 +1405,7 @@
             "hash": "afebf95d7a01b90c",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackmid_03.wem"
+            "sourceName": "vo_hero_battle_attackMid_03.wem"
         },
         "b036aee2441ef966": {
             "hash": "b036aee2441ef966",
@@ -1429,7 +1513,7 @@
             "hash": "c2a04ce796b42a6c",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackheavy_02.wem"
+            "sourceName": "vo_hero_battle_attackHeavy_02.wem"
         },
         "c3ae898c878c8392": {
             "hash": "c3ae898c878c8392",
@@ -1441,7 +1525,7 @@
             "hash": "c4849d350a3ceaa9",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_06.wem"
+            "sourceName": "vo_hero_battle_hit_L_06.wem"
         },
         "c489b63b4b172878": {
             "hash": "c489b63b4b172878",
@@ -1453,7 +1537,7 @@
             "hash": "c4cbf54c6d3a1bda",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackmid_01.wem"
+            "sourceName": "vo_hero_battle_attackMid_01.wem"
         },
         "c4d5a0fd447cdbc8": {
             "hash": "c4d5a0fd447cdbc8",
@@ -1531,7 +1615,7 @@
             "hash": "d35c786baac53c43",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_04.wem"
+            "sourceName": "vo_hero_battle_hit_H_04.wem"
         },
         "d369e8ff6968cc7d": {
             "hash": "d369e8ff6968cc7d",
@@ -1579,7 +1663,7 @@
             "hash": "d7ec647d582a637d",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_06.wem"
+            "sourceName": "vo_hero_battle_hit_H_06.wem"
         },
         "d8066b53f184430a": {
             "hash": "d8066b53f184430a",
@@ -1603,7 +1687,7 @@
             "hash": "d963d123fd73f92f",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_04.wem"
+            "sourceName": "vo_hero_battle_hit_L_04.wem"
         },
         "d96e8d8fd57eb74d": {
             "hash": "d96e8d8fd57eb74d",
@@ -1741,7 +1825,7 @@
             "hash": "f19d0aef3f925a18",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_05.wem"
+            "sourceName": "vo_hero_battle_attackLight_05.wem"
         },
         "f1fe7beec9f40007": {
             "hash": "f1fe7beec9f40007",
@@ -1785,35 +1869,17 @@
             "voiceContent": "#페이몬 그거 알아? 수메르인들은 작은 풀의 신을 그다지 믿지 않는 것 같아페이몬 리월이든 이나즈마든 암왕제군과 쇼군에 대한 믿음이 깊었잖아페이몬 괴상한 학자들은 둘째치고, 아래에 사는 주민들도 매일 「룩카데바타님」 얘기만 해{NICKNAME} 응, 맛있는 버섯조차 룩카데바타님의 은혜라고 하더라페이몬 생각해보니 리월의 수많은 미식들도 암왕제군의 인정과 가르침을 받았다고 들었지!페이몬 알겠다! 사람들은 맛있는 음식을 가져다주는 신을 좋아하는 거야{NICKNAME} 그건 페이몬에게만 해당되지 않을까?페이몬 엥? 그럼 넌 뭘 믿어?{NICKNAME} 난, 당연히 페이몬이지페이몬 헤헤, 말 안 해도 나도 다 알아",
             "sourceName": "vo_fetter_xm_faith_hero.wem"
         },
+        "fec114502cdb0647": {
+            "hash": "fec114502cdb0647",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hero_teamJoin_01.wem"
+        },
         "ff0daa5df8512829": {
             "hash": "ff0daa5df8512829",
             "directory": "External31",
             "voiceContent": "SFX",
             "sourceName": "vo_hero_explore_jump_01.wem"
-        },
-        "215a5e2b62e5558e": {
-            "hash": "215a5e2b62e5558e",
-            "directory": "External4",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_hero_02.wem"
-        },
-        "391a2e8abf68b178": {
-            "hash": "391a2e8abf68b178",
-            "directory": "External7",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_hero_life_die_03.wem"
-        },
-        "479d3c51c4158f2b": {
-            "hash": "479d3c51c4158f2b",
-            "directory": "External8",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_hero_life_die_04.wem"
-        },
-        "9cfdca58ceb936e2": {
-            "hash": "9cfdca58ceb936e2",
-            "directory": "External19",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_hero_life_die_05.wem"
         }
     }
 }

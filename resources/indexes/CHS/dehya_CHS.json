@@ -386,6 +386,12 @@
             "voiceContent": "咦？我记得坎蒂丝你刚才说想要个人帮忙一起采购，这不正好吗",
             "sourceName": "vo_HSEQ001_2_dehya_07.wem"
         },
+        "a8e7d1d02020dae4": {
+            "hash": "a8e7d1d02020dae4",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ103_dehya_02.wem"
+        },
         "aa4f0e33d57457f9": {
             "hash": "aa4f0e33d57457f9",
             "directory": "External21",
@@ -482,13 +488,19 @@
             "hash": "034e6bcf98059421",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_03.wem"
+            "sourceName": "vo_dehya_battle_hit_H_03.wem"
         },
         "050ba77aa191ac23": {
             "hash": "050ba77aa191ac23",
             "directory": "External0",
             "voiceContent": "生日快乐！摸摸你的兜，礼物已经放在里面了。怎么做到的？一点佣兵的小把戏而已。先别管这些了，我在兰巴德酒馆已经订了一桌上好的酒席，咱们赶紧过去吧。嗯？放心，我没有让团里的其他人过来，这帮人吵吵嚷嚷的只会起哄，好不容易过个生日，我来陪你就够了，走吧走吧",
             "sourceName": "vo_dehya_pref_birthday_01.wem"
+        },
+        "0810d8b4a4cfda36": {
+            "hash": "0810d8b4a4cfda36",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_dehya_01.wem"
         },
         "0aca110e8316c0ed": {
             "hash": "0aca110e8316c0ed",
@@ -500,7 +512,7 @@
             "hash": "0b1c33a4a4ac8c49",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_02.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_02.wem"
         },
         "14576374fc093350": {
             "hash": "14576374fc093350",
@@ -525,6 +537,12 @@
             "directory": "External3",
             "voiceContent": "你知道枣椰吗？我小时候最喜欢吃这种果子。但老爹完全不知道拆枣椰的方法，就拿着刀胡乱地戳来戳去，把里面的果肉都弄得乱七八糟，完全没办法下口吃。最后只能把果肉都刮下来，混在牛奶里，勉强给我当做粥来吃。我有时候也会怀念这种粥的味道，还有那个拆枣椰都能拆得手忙脚乱的老爹",
             "sourceName": "vo_dehya_dialog_share_01.wem"
+        },
+        "1debabb64c5a6c4c": {
+            "hash": "1debabb64c5a6c4c",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_02.wem"
         },
         "20883dd2065c2a70": {
             "hash": "20883dd2065c2a70",
@@ -566,13 +584,13 @@
             "hash": "2d41c90694401703",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_07.wem"
+            "sourceName": "vo_dehya_battle_attackLight_07.wem"
         },
         "2e6bb5183ec2153d": {
             "hash": "2e6bb5183ec2153d",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_05.wem"
+            "sourceName": "vo_dehya_battle_attackLight_05.wem"
         },
         "2e82d1f35eb839b0": {
             "hash": "2e82d1f35eb839b0",
@@ -602,7 +620,13 @@
             "hash": "37af745370a1157d",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_03.wem"
+            "sourceName": "vo_dehya_battle_hit_L_03.wem"
+        },
+        "3c1c034c5637717e": {
+            "hash": "3c1c034c5637717e",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_06.wem"
         },
         "3e80b508ef480ec0": {
             "hash": "3e80b508ef480ec0",
@@ -646,6 +670,12 @@
             "voiceContent": "退后，让我来",
             "sourceName": "vo_dehya_life_less30_teammate_02.wem"
         },
+        "4e23013a4b9f502c": {
+            "hash": "4e23013a4b9f502c",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_leave_01.wem"
+        },
         "4e251d133467b51e": {
             "hash": "4e251d133467b51e",
             "directory": "External9",
@@ -676,47 +706,29 @@
             "voiceContent": "这种力量…真想立刻去试试手，不然我们俩直接来过几招吧",
             "sourceName": "vo_dehya_starUp_03.wem"
         },
-        "52743e592d813354": {
-            "hash": "52743e592d813354",
-            "directory": "External10",
-            "voiceContent": "唔，如果当做干粮来看的话…味道还是不错的",
-            "sourceName": "vo_dehya_spice_event_normal_01.wem"
-        },
-        "5387c3e95bd9ab2e": {
-            "hash": "5387c3e95bd9ab2e",
-            "directory": "External10",
-            "voiceContent": "这道菜味道真不错！再多吃几口的话，我说不定以后就吃不下那些干粮啦",
-            "sourceName": "vo_dehya_spice_event_pref_01.wem"
-        },
         "550bf02e162ee2d0": {
             "hash": "550bf02e162ee2d0",
             "directory": "External10",
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_sprint_start_02.wem"
         },
-        "563d768b55784b38": {
-            "hash": "563d768b55784b38",
-            "directory": "External10",
-            "voiceContent": "至少…至少能填饱肚子，能安全填饱肚子的食物就是好食物！哈哈哈",
-            "sourceName": "vo_dehya_spice_event_dislike_01.wem"
-        },
         "58e611d6a2d8a6a0": {
             "hash": "58e611d6a2d8a6a0",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_02.wem"
+            "sourceName": "vo_dehya_battle_hit_H_02.wem"
         },
         "5d4c99abac9a5588": {
             "hash": "5d4c99abac9a5588",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_03.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_03.wem"
         },
         "66fc1f9da728b373": {
             "hash": "66fc1f9da728b373",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_05.wem"
+            "sourceName": "vo_dehya_battle_hit_H_05.wem"
         },
         "689a6115071fd449": {
             "hash": "689a6115071fd449",
@@ -752,7 +764,7 @@
             "hash": "6f5907305689bf0e",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_02.wem"
+            "sourceName": "vo_dehya_battle_attackLight_02.wem"
         },
         "73f6a2beab58addd": {
             "hash": "73f6a2beab58addd",
@@ -782,7 +794,7 @@
             "hash": "78463c392bb668e4",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_02.wem"
+            "sourceName": "vo_dehya_battle_attackMid_02.wem"
         },
         "787d932ad77b7f6a": {
             "hash": "787d932ad77b7f6a",
@@ -794,13 +806,13 @@
             "hash": "789dc66b886a724e",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_04.wem"
+            "sourceName": "vo_dehya_battle_hit_L_04.wem"
         },
         "79c7ba7d32ec7df0": {
             "hash": "79c7ba7d32ec7df0",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_06.wem"
+            "sourceName": "vo_dehya_battle_hit_L_06.wem"
         },
         "7a139503f773b9cf": {
             "hash": "7a139503f773b9cf",
@@ -820,6 +832,12 @@
             "voiceContent": "可别让我吃那种味道很苦的东西，我可受不了",
             "sourceName": "vo_dehya_pref_foodDislike.wem"
         },
+        "8ccfc5ad6df6e01d": {
+            "hash": "8ccfc5ad6df6e01d",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_03.wem"
+        },
         "8d6c8a9d9bb8e34d": {
             "hash": "8d6c8a9d9bb8e34d",
             "directory": "External17",
@@ -838,6 +856,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_climb_breath_01.wem"
         },
+        "94b505b1361195ac": {
+            "hash": "94b505b1361195ac",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_01.wem"
+        },
         "94e789100002cd98": {
             "hash": "94e789100002cd98",
             "directory": "External18",
@@ -850,6 +874,12 @@
             "voiceContent": "该开始干活了",
             "sourceName": "vo_dehya_teamJoin_03.wem"
         },
+        "9657115484caaa21": {
+            "hash": "9657115484caaa21",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_05.wem"
+        },
         "971ca64062794353": {
             "hash": "971ca64062794353",
             "directory": "External18",
@@ -860,7 +890,7 @@
             "hash": "9ad8059bd86046e6",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_01.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_01.wem"
         },
         "9b6c93f01b815885": {
             "hash": "9b6c93f01b815885",
@@ -891,6 +921,12 @@
             "directory": "External19",
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_jump_05.wem"
+        },
+        "a0551f5afd7e69cf": {
+            "hash": "a0551f5afd7e69cf",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_freetalk_01.wem"
         },
         "a075e3290edf737e": {
             "hash": "a075e3290edf737e",
@@ -956,7 +992,13 @@
             "hash": "a7e971b5bef05d5c",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_06.wem"
+            "sourceName": "vo_dehya_battle_hit_H_06.wem"
+        },
+        "a99401a02948457a": {
+            "hash": "a99401a02948457a",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_03.wem"
         },
         "aafb1665a36fd809": {
             "hash": "aafb1665a36fd809",
@@ -1004,7 +1046,7 @@
             "hash": "c2ed9b212008ca6c",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_04.wem"
+            "sourceName": "vo_dehya_battle_attackLight_04.wem"
         },
         "c30ba001c0235734": {
             "hash": "c30ba001c0235734",
@@ -1022,7 +1064,7 @@
             "hash": "c8cb5a5c4f04a0ac",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_02.wem"
+            "sourceName": "vo_dehya_battle_hit_L_02.wem"
         },
         "c9b82db6980a3ace": {
             "hash": "c9b82db6980a3ace",
@@ -1052,7 +1094,13 @@
             "hash": "d4669710105c503a",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_06.wem"
+            "sourceName": "vo_dehya_battle_attackLight_06.wem"
+        },
+        "d47491d5a626c00c": {
+            "hash": "d47491d5a626c00c",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_endOfGame_win_01.wem"
         },
         "d4f188c6ccd3dd7f": {
             "hash": "d4f188c6ccd3dd7f",
@@ -1090,17 +1138,29 @@
             "voiceContent": "朋友？嗯…我们一起经历了那么多事，共同闯过了那么多场战斗，用「朋友」来形容我们之间的关系，总感觉有点轻飘飘的。我想想…不如，用「战友」吧，这种感情只能从并肩的战斗中锤炼而出，是最不可动摇的东西",
             "sourceName": "vo_dehya_dialog_close1.wem"
         },
+        "dcfd599e34910f63": {
+            "hash": "dcfd599e34910f63",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_01.wem"
+        },
         "e0408c17c630f7a8": {
             "hash": "e0408c17c630f7a8",
             "directory": "External28",
             "voiceContent": "起风了，我们去下风口扎营比较安全",
             "sourceName": "vo_dehya_weather_breezy_01.wem"
         },
+        "e2330d5b42ddd300": {
+            "hash": "e2330d5b42ddd300",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_endOfGame_fail_01.wem"
+        },
         "e574eda5eab6696a": {
             "hash": "e574eda5eab6696a",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_04.wem"
+            "sourceName": "vo_dehya_battle_hit_H_04.wem"
         },
         "e6f733fb725155e3": {
             "hash": "e6f733fb725155e3",
@@ -1113,6 +1173,12 @@
             "directory": "External29",
             "voiceContent": "你说了算",
             "sourceName": "vo_dehya_teamJoin_01.wem"
+        },
+        "ebeeb75b8f9dbca0": {
+            "hash": "ebeeb75b8f9dbca0",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_04.wem"
         },
         "ec36338b6e6e0536": {
             "hash": "ec36338b6e6e0536",
@@ -1130,19 +1196,19 @@
             "hash": "f11669281329ea17",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_03.wem"
+            "sourceName": "vo_dehya_battle_attackLight_03.wem"
         },
         "f5a65539c08f1131": {
             "hash": "f5a65539c08f1131",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_01.wem"
+            "sourceName": "vo_dehya_battle_attackLight_01.wem"
         },
         "f5aa8a1f3b206b5b": {
             "hash": "f5aa8a1f3b206b5b",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_01.wem"
+            "sourceName": "vo_dehya_battle_attackMid_01.wem"
         },
         "f62aeefff49834b7": {
             "hash": "f62aeefff49834b7",
@@ -1172,13 +1238,13 @@
             "hash": "fa397630e883df75",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_03.wem"
+            "sourceName": "vo_dehya_battle_attackMid_03.wem"
         },
         "fa5b2863450a9d57": {
             "hash": "fa5b2863450a9d57",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_05.wem"
+            "sourceName": "vo_dehya_battle_hit_L_05.wem"
         },
         "fa803d2ad20ade43": {
             "hash": "fa803d2ad20ade43",
@@ -1197,6 +1263,12 @@
             "directory": "External31",
             "voiceContent": "在这，打垮你",
             "sourceName": "vo_dehya_battle_skill3_02.wem"
+        },
+        "ff093396aa48e343": {
+            "hash": "ff093396aa48e343",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_02.wem"
         },
         "ff7296f57469271f": {
             "hash": "ff7296f57469271f",

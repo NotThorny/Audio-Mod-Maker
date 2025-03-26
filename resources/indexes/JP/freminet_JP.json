@@ -1,5 +1,11 @@
 {
     "Teapot": {
+        "0bc82aeb21e512da": {
+            "hash": "0bc82aeb21e512da",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_freminet_MeruseaVillage_01.wem"
+        },
         "0fd0ed708855249a": {
             "hash": "0fd0ed708855249a",
             "directory": "External1",
@@ -84,6 +90,12 @@
             "voiceContent": "「あなたの夢が海を覆う星空のように輝き、夢を見ない夜はただ安寧な眠りが訪れますように。",
             "sourceName": "vo_freminet_mimitomo_night_02.wem"
         },
+        "43e43bd0740c838f": {
+            "hash": "43e43bd0740c838f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_freminet_mechworkshop_02.wem"
+        },
         "4b8f4a5084136318": {
             "hash": "4b8f4a5084136318",
             "directory": "External9",
@@ -120,6 +132,12 @@
             "voiceContent": "えっ！？そ、そんな、そういうつもりじゃ",
             "sourceName": "vo_freminet_mimitomo_friendship3_09b_1.wem"
         },
+        "65cc48f3504924dd": {
+            "hash": "65cc48f3504924dd",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_freminet_MeruseaVillage_02.wem"
+        },
         "6cc4a9d6d32f3b29": {
             "hash": "6cc4a9d6d32f3b29",
             "directory": "External13",
@@ -155,6 +173,12 @@
             "directory": "External16",
             "voiceContent": "…はは、確かにそうなるね",
             "sourceName": "vo_freminet_mimitomo_friendship2_12b.wem"
+        },
+        "849c6de88ba81b48": {
+            "hash": "849c6de88ba81b48",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_freminet_mechworkshop_01.wem"
         },
         "8702c9966e415427": {
             "hash": "8702c9966e415427",
@@ -197,6 +221,12 @@
             "directory": "External21",
             "voiceContent": "白黒の海鳥は思い切って飛ぼうとする。けど、それでも空を翔けることは叶わなかった…命を顧みないその行動は、体当たりとなってマストを折り、ぼろぼろの船と共にその子は海に沈んでいった",
             "sourceName": "vo_freminet_mimitomo_friendship2_08.wem"
+        },
+        "c226d9d8b76c58a6": {
+            "hash": "c226d9d8b76c58a6",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_freminet_mechworkshop_03.wem"
         },
         "cd4ca44840b38099": {
             "hash": "cd4ca44840b38099",
@@ -257,6 +287,12 @@
             "directory": "External30",
             "voiceContent": "おやすみ",
             "sourceName": "vo_freminet_mimitomo_night_01.wem"
+        },
+        "f6e82efc2eacb00c": {
+            "hash": "f6e82efc2eacb00c",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_freminet_MeruseaVillage_03.wem"
         },
         "f852c6ac898e34dd": {
             "hash": "f852c6ac898e34dd",
@@ -338,7 +374,7 @@
             "hash": "08afe40ef60a735d",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attackmid_03.wem"
+            "sourceName": "vo_freminet_battle_attackMid_03.wem"
         },
         "0a61aa58f8cda7d9": {
             "hash": "0a61aa58f8cda7d9",
@@ -350,13 +386,13 @@
             "hash": "0fa9d0cf069db45b",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_hit_l_01.wem"
+            "sourceName": "vo_freminet_battle_hit_L_01.wem"
         },
         "1438bce0b4012875": {
             "hash": "1438bce0b4012875",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_hit_l_03.wem"
+            "sourceName": "vo_freminet_battle_hit_L_03.wem"
         },
         "143f6758891e4c5b": {
             "hash": "143f6758891e4c5b",
@@ -374,7 +410,7 @@
             "hash": "16af477e0a39b144",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attacklight_04.wem"
+            "sourceName": "vo_freminet_battle_attackLight_04.wem"
         },
         "17b488d14d04d3b5": {
             "hash": "17b488d14d04d3b5",
@@ -386,7 +422,7 @@
             "hash": "17d9338fb4bbaf66",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attacklight_02.wem"
+            "sourceName": "vo_freminet_battle_attackLight_02.wem"
         },
         "19044eb7c9a98d4c": {
             "hash": "19044eb7c9a98d4c",
@@ -428,7 +464,7 @@
             "hash": "2118caa8a3675b90",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attackheavy_03.wem"
+            "sourceName": "vo_freminet_battle_attackHeavy_03.wem"
         },
         "2291682e39735ea0": {
             "hash": "2291682e39735ea0",
@@ -460,11 +496,23 @@
             "voiceContent": "お別れの時間",
             "sourceName": "vo_freminet_battle_skill3_03.wem"
         },
+        "2855d790a9c7f212": {
+            "hash": "2855d790a9c7f212",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_freminet_invite_hard_03.wem"
+        },
         "2cd2447c853c6005": {
             "hash": "2cd2447c853c6005",
             "directory": "External5",
             "voiceContent": "SFX",
             "sourceName": "vo_freminet_explore_jump_04.wem"
+        },
+        "2ce5fba2572d78e4": {
+            "hash": "2ce5fba2572d78e4",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_freminet_invite_hard_01.wem"
         },
         "2dc5188e2f8ef37f": {
             "hash": "2dc5188e2f8ef37f",
@@ -506,7 +554,13 @@
             "hash": "3eb1eef82db65986",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_hit_l_04.wem"
+            "sourceName": "vo_freminet_battle_hit_L_04.wem"
+        },
+        "422cbae8c6b852c6": {
+            "hash": "422cbae8c6b852c6",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_battle_skill1_06.wem"
         },
         "458ae33917be052e": {
             "hash": "458ae33917be052e",
@@ -526,6 +580,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_freminet_explore_sprint_start_02.wem"
         },
+        "4c00513dba35ff15": {
+            "hash": "4c00513dba35ff15",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_freminet_invite_easy_03.wem"
+        },
         "5111353358114287": {
             "hash": "5111353358114287",
             "directory": "External10",
@@ -542,7 +602,7 @@
             "hash": "55e4030a75efbea8",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_hit_l_06.wem"
+            "sourceName": "vo_freminet_battle_hit_L_06.wem"
         },
         "57e7d548691aa375": {
             "hash": "57e7d548691aa375",
@@ -560,7 +620,13 @@
             "hash": "5c4477ffbf897da3",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attackmid_01.wem"
+            "sourceName": "vo_freminet_battle_attackMid_01.wem"
+        },
+        "5cc5cefb11d693e8": {
+            "hash": "5cc5cefb11d693e8",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_battle_skill1_04.wem"
         },
         "5e78933967a0a3eb": {
             "hash": "5e78933967a0a3eb",
@@ -579,6 +645,18 @@
             "directory": "External12",
             "voiceContent": "SFX",
             "sourceName": "vo_freminet_explore_fly_start_02.wem"
+        },
+        "60af89348343e9f4": {
+            "hash": "60af89348343e9f4",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_freminet_endOfGame_win_01.wem"
+        },
+        "61b44bf379c2fbe7": {
+            "hash": "61b44bf379c2fbe7",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_freminet_freetalk_01.wem"
         },
         "62224114ccd62df2": {
             "hash": "62224114ccd62df2",
@@ -602,7 +680,7 @@
             "hash": "66dda36ed0d533f2",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attacklight_06.wem"
+            "sourceName": "vo_freminet_battle_attackLight_06.wem"
         },
         "6bfa931afd196d3f": {
             "hash": "6bfa931afd196d3f",
@@ -626,7 +704,7 @@
             "hash": "714756996a03306e",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attackheavy_01.wem"
+            "sourceName": "vo_freminet_battle_attackHeavy_01.wem"
         },
         "73822b08520535bd": {
             "hash": "73822b08520535bd",
@@ -638,7 +716,7 @@
             "hash": "73b70061ea5b432b",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_hit_h_05.wem"
+            "sourceName": "vo_freminet_battle_hit_H_05.wem"
         },
         "758c3a8135132a90": {
             "hash": "758c3a8135132a90",
@@ -710,13 +788,13 @@
             "hash": "881d61988107f4c9",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attacklight_01.wem"
+            "sourceName": "vo_freminet_battle_attackLight_01.wem"
         },
         "924582e8f733b1e4": {
             "hash": "924582e8f733b1e4",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_hit_l_02.wem"
+            "sourceName": "vo_freminet_battle_hit_L_02.wem"
         },
         "924af560cc4ec312": {
             "hash": "924af560cc4ec312",
@@ -758,25 +836,37 @@
             "hash": "98a38175c708dad5",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attacklight_05.wem"
+            "sourceName": "vo_freminet_battle_attackLight_05.wem"
         },
         "99969587715bda4f": {
             "hash": "99969587715bda4f",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attacklight_03.wem"
+            "sourceName": "vo_freminet_battle_attackLight_03.wem"
         },
         "99cbca17d46dfe8c": {
             "hash": "99cbca17d46dfe8c",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attackmid_02.wem"
+            "sourceName": "vo_freminet_battle_attackMid_02.wem"
+        },
+        "9c2de52e80d02e7b": {
+            "hash": "9c2de52e80d02e7b",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_freminet_invite_easy_01.wem"
         },
         "9d837c502f648b76": {
             "hash": "9d837c502f648b76",
             "directory": "External19",
             "voiceContent": "その傷口",
             "sourceName": "vo_freminet_life_less30_teammate_01.wem"
+        },
+        "9f41c22f22f04e38": {
+            "hash": "9f41c22f22f04e38",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_freminet_endOfGame_fail_01.wem"
         },
         "9fd5b627f15e24a8": {
             "hash": "9fd5b627f15e24a8",
@@ -790,6 +880,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_freminet_explore_fly_start_01.wem"
         },
+        "a15b1b088443ea24": {
+            "hash": "a15b1b088443ea24",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_freminet_leave_01.wem"
+        },
         "a208fed9791c8db0": {
             "hash": "a208fed9791c8db0",
             "directory": "External20",
@@ -800,7 +896,7 @@
             "hash": "a2d624a060077911",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attackheavy_02.wem"
+            "sourceName": "vo_freminet_battle_attackHeavy_02.wem"
         },
         "a7d1c74c0d64a020": {
             "hash": "a7d1c74c0d64a020",
@@ -813,6 +909,12 @@
             "directory": "External21",
             "voiceContent": "家にいる時、リネはよくぼくにちょっとしたマジックを披露してくれるんだ。ぼくを笑わせられると、リネはすごく喜んで「このマジックなら観客のみんなを満足させられるはずだ」って言う…ぼくって、普段そんなに笑わないのかな",
             "sourceName": "vo_freminet_teammate_lyney_01.wem"
+        },
+        "aa4a498866977b5b": {
+            "hash": "aa4a498866977b5b",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_freminet_invite_hard_02.wem"
         },
         "ab445415837fa233": {
             "hash": "ab445415837fa233",
@@ -844,6 +946,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_freminet_explore_climb_02.wem"
         },
+        "b270e8f193049829": {
+            "hash": "b270e8f193049829",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_battle_skill1_05.wem"
+        },
         "b28d3448d52d35ed": {
             "hash": "b28d3448d52d35ed",
             "directory": "External22",
@@ -872,7 +980,7 @@
             "hash": "c06f50efea56856f",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_hit_l_05.wem"
+            "sourceName": "vo_freminet_battle_hit_L_05.wem"
         },
         "c2067d9d1179957e": {
             "hash": "c2067d9d1179957e",
@@ -886,6 +994,12 @@
             "voiceContent": "ご、ごめんなさい。ぼくに関する面白い話題が何も思いつかなくって…仮に言ったとしても興ざめしちゃうと思う",
             "sourceName": "vo_freminet_friendship_01.wem"
         },
+        "c6a71745fa855f84": {
+            "hash": "c6a71745fa855f84",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_freminet_invite_easy_02.wem"
+        },
         "c91020e531306404": {
             "hash": "c91020e531306404",
             "directory": "External25",
@@ -896,13 +1010,13 @@
             "hash": "c9178e68f4feeae2",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_hit_h_04.wem"
+            "sourceName": "vo_freminet_battle_hit_H_04.wem"
         },
         "ca41727a9f80dab4": {
             "hash": "ca41727a9f80dab4",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_hit_h_06.wem"
+            "sourceName": "vo_freminet_battle_hit_H_06.wem"
         },
         "ca9ed1bc5cbe11f9": {
             "hash": "ca9ed1bc5cbe11f9",
@@ -986,7 +1100,7 @@
             "hash": "e6f14c92a24e82f9",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_hit_h_03.wem"
+            "sourceName": "vo_freminet_battle_hit_H_03.wem"
         },
         "e8cca62d9865d61c": {
             "hash": "e8cca62d9865d61c",
@@ -1004,7 +1118,7 @@
             "hash": "ec3715669086323b",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_freminet_battle_attacklight_07.wem"
+            "sourceName": "vo_freminet_battle_attackLight_07.wem"
         },
         "ef9216e74e9b16cb": {
             "hash": "ef9216e74e9b16cb",

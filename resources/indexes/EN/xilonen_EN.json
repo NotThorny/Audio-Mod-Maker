@@ -1,5 +1,402 @@
 {
-    "Teapot": {},
+    "Teapot": {
+        "066050c60a9d96f2": {
+            "hash": "066050c60a9d96f2",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_19.wem"
+        },
+        "0ee290c7a42d44b4": {
+            "hash": "0ee290c7a42d44b4",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_08.wem"
+        },
+        "14f6e1f8e1190987": {
+            "hash": "14f6e1f8e1190987",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_06.wem"
+        },
+        "161fce0a8b9954a1": {
+            "hash": "161fce0a8b9954a1",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_04.wem"
+        },
+        "17692e2592a3e551": {
+            "hash": "17692e2592a3e551",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_13.wem"
+        },
+        "1989f128b680304e": {
+            "hash": "1989f128b680304e",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_15.wem"
+        },
+        "1ab3e53a61023bf0": {
+            "hash": "1ab3e53a61023bf0",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_17.wem"
+        },
+        "1ea6412a4d2cd0e0": {
+            "hash": "1ea6412a4d2cd0e0",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_04.wem"
+        },
+        "2000765286a69b21": {
+            "hash": "2000765286a69b21",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_05a_1.wem"
+        },
+        "286ce2cb4e8f0d10": {
+            "hash": "286ce2cb4e8f0d10",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_18b_4.wem"
+        },
+        "30224ef1546005b3": {
+            "hash": "30224ef1546005b3",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_03.wem"
+        },
+        "3168776bb3800a98": {
+            "hash": "3168776bb3800a98",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_07.wem"
+        },
+        "3683309252df86e3": {
+            "hash": "3683309252df86e3",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_18b_3.wem"
+        },
+        "39b23d57b712bf75": {
+            "hash": "39b23d57b712bf75",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_hello_01.wem"
+        },
+        "3d65c8f879b2a681": {
+            "hash": "3d65c8f879b2a681",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_xilonen_nanatzcayan_02.wem"
+        },
+        "3fd003e20b1afb27": {
+            "hash": "3fd003e20b1afb27",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_xilonen_natlanForge_03.wem"
+        },
+        "40314a51f524d99d": {
+            "hash": "40314a51f524d99d",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_05b_2.wem"
+        },
+        "406b3beaf1f82ed8": {
+            "hash": "406b3beaf1f82ed8",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_18a_3.wem"
+        },
+        "41b87748f9532b54": {
+            "hash": "41b87748f9532b54",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_03.wem"
+        },
+        "554a67d9e52f2ff6": {
+            "hash": "554a67d9e52f2ff6",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_18a_1.wem"
+        },
+        "588cc3aeea87fff4": {
+            "hash": "588cc3aeea87fff4",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_09.wem"
+        },
+        "59da580e53331e0d": {
+            "hash": "59da580e53331e0d",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_morning_01.wem"
+        },
+        "5f923572a6a2c353": {
+            "hash": "5f923572a6a2c353",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_08.wem"
+        },
+        "65ca2c6918bf20d2": {
+            "hash": "65ca2c6918bf20d2",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_20.wem"
+        },
+        "682acabe286deb05": {
+            "hash": "682acabe286deb05",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_09.wem"
+        },
+        "69b785197d1a5eac": {
+            "hash": "69b785197d1a5eac",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_13.wem"
+        },
+        "6afcc2165c213cb7": {
+            "hash": "6afcc2165c213cb7",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_11.wem"
+        },
+        "6bad176538eaf804": {
+            "hash": "6bad176538eaf804",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_10.wem"
+        },
+        "6bb77411966c6720": {
+            "hash": "6bb77411966c6720",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_05.wem"
+        },
+        "6eaac2dedd8c2987": {
+            "hash": "6eaac2dedd8c2987",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_night_01.wem"
+        },
+        "723a8d1b16ab60be": {
+            "hash": "723a8d1b16ab60be",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_06.wem"
+        },
+        "79cd81d89abc73f3": {
+            "hash": "79cd81d89abc73f3",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_02.wem"
+        },
+        "7e96810870510e7a": {
+            "hash": "7e96810870510e7a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_11.wem"
+        },
+        "88ea7e995afc699a": {
+            "hash": "88ea7e995afc699a",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_18b_2.wem"
+        },
+        "91e61339bfed6702": {
+            "hash": "91e61339bfed6702",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_01.wem"
+        },
+        "920161e9130a6a1e": {
+            "hash": "920161e9130a6a1e",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_xilonen_natlanForge_02.wem"
+        },
+        "95abd42dd603c7d0": {
+            "hash": "95abd42dd603c7d0",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_12.wem"
+        },
+        "9b47532073205b57": {
+            "hash": "9b47532073205b57",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_14.wem"
+        },
+        "9bf3855127e6641f": {
+            "hash": "9bf3855127e6641f",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_04.wem"
+        },
+        "9c713f321da25971": {
+            "hash": "9c713f321da25971",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_16.wem"
+        },
+        "a72821f4dd3769a3": {
+            "hash": "a72821f4dd3769a3",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_15.wem"
+        },
+        "ab351cf9950a92aa": {
+            "hash": "ab351cf9950a92aa",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_02.wem"
+        },
+        "b1d4fda56ec8a645": {
+            "hash": "b1d4fda56ec8a645",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_08.wem"
+        },
+        "b325d16370202819": {
+            "hash": "b325d16370202819",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_06.wem"
+        },
+        "b32edf4e4cdfc212": {
+            "hash": "b32edf4e4cdfc212",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_hello_02.wem"
+        },
+        "babad3f0b2841ddc": {
+            "hash": "babad3f0b2841ddc",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_01.wem"
+        },
+        "bbe4c0025d061bfe": {
+            "hash": "bbe4c0025d061bfe",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_07.wem"
+        },
+        "c22895e2ae984c59": {
+            "hash": "c22895e2ae984c59",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_18a_2.wem"
+        },
+        "c5c5684a5813627e": {
+            "hash": "c5c5684a5813627e",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_05a_2.wem"
+        },
+        "c7e5af1197d97347": {
+            "hash": "c7e5af1197d97347",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_07.wem"
+        },
+        "cc759b23453e9a61": {
+            "hash": "cc759b23453e9a61",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_05.wem"
+        },
+        "d14d305ad38865cc": {
+            "hash": "d14d305ad38865cc",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_05b_3.wem"
+        },
+        "d40bb2fef151ac43": {
+            "hash": "d40bb2fef151ac43",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_10.wem"
+        },
+        "d89b9f109eb6d37d": {
+            "hash": "d89b9f109eb6d37d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_12.wem"
+        },
+        "dc8ebb008ae2ae2d": {
+            "hash": "dc8ebb008ae2ae2d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_01.wem"
+        },
+        "de0b037aea30794a": {
+            "hash": "de0b037aea30794a",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_09.wem"
+        },
+        "dfc3baf0483a91de": {
+            "hash": "dfc3baf0483a91de",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_xilonen_nanatzcayan_01.wem"
+        },
+        "e2c62c49c3dbeb9a": {
+            "hash": "e2c62c49c3dbeb9a",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_05b_1.wem"
+        },
+        "e453ef01f5a03280": {
+            "hash": "e453ef01f5a03280",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_xilonen_nanatzcayan_03.wem"
+        },
+        "e4af740cf21bea8c": {
+            "hash": "e4af740cf21bea8c",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_16.wem"
+        },
+        "e6559ca18c45579d": {
+            "hash": "e6559ca18c45579d",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship2_18b_1.wem"
+        },
+        "e93f601e9f8111ae": {
+            "hash": "e93f601e9f8111ae",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_10.wem"
+        },
+        "ec3c6ff1419da3c1": {
+            "hash": "ec3c6ff1419da3c1",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_xilonen_natlanForge_01.wem"
+        },
+        "ec573141eeae4b25": {
+            "hash": "ec573141eeae4b25",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship3_02.wem"
+        },
+        "f8464fe0de4a29ea": {
+            "hash": "f8464fe0de4a29ea",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_03.wem"
+        },
+        "f98f6ffbe5544d5a": {
+            "hash": "f98f6ffbe5544d5a",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_mimitomo_friendship1_14.wem"
+        }
+    },
     "Quests": {
         "079454d6b233b49a": {
             "hash": "079454d6b233b49a",
@@ -79,6 +476,12 @@
             "voiceContent": "The transport system seems to still be functioning. Let's go look for the controls, and get this cart running again",
             "sourceName": "vo_XNNLQ005_2_xilonen_03.wem"
         },
+        "d745159d33ac40d2": {
+            "hash": "d745159d33ac40d2",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_XNNLQ004_5_xilonen_07.wem"
+        },
         "eac132dafce499db": {
             "hash": "eac132dafce499db",
             "directory": "External29",
@@ -121,7 +524,7 @@
             "hash": "01993d3cab81affd",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackheavy_02.wem"
+            "sourceName": "vo_xilonen_battle_attackHeavy_02.wem"
         },
         "048fbb865bf46a0f": {
             "hash": "048fbb865bf46a0f",
@@ -151,7 +554,7 @@
             "hash": "0c55e423b94ca9f7",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attacklight_07.wem"
+            "sourceName": "vo_xilonen_battle_attackLight_07.wem"
         },
         "11c69545bd3134d8": {
             "hash": "11c69545bd3134d8",
@@ -189,11 +592,17 @@
             "voiceContent": "Ifa has come to the tribe before to heal some Tepetlisaurs. He is very skilled, and knows how to care for his patients. Even the most rambunctious Saurians will sit quietly when he's around.Ifa said it's all thanks to the set of Saurian syringes I made for him. Even without the needle on it, it's enough to deter any person or Saurian from misbehaving. Would you like to see it? I still have a sample set if you're interested.Wait here, I'll go fetch the biggest one... Huh? Why are you backing away? The needle isn't even attached, it's completely safe",
             "sourceName": "vo_xilonen_teammate_ifa_01.wem"
         },
+        "1b25a3e5f7e62d33": {
+            "hash": "1b25a3e5f7e62d33",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_battle_attackLight_10.wem"
+        },
         "1bf97036fed16f38": {
             "hash": "1bf97036fed16f38",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_hit_h_06.wem"
+            "sourceName": "vo_xilonen_battle_hit_H_06.wem"
         },
         "1cde59c31ce4fe0b": {
             "hash": "1cde59c31ce4fe0b",
@@ -211,19 +620,25 @@
             "hash": "1e943d9fcf5ce444",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_hit_l_06.wem"
+            "sourceName": "vo_xilonen_battle_hit_L_06.wem"
         },
         "20380fd755f3309b": {
             "hash": "20380fd755f3309b",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackmid_05.wem"
+            "sourceName": "vo_xilonen_battle_attackMid_05.wem"
         },
         "26d0103e5993655f": {
             "hash": "26d0103e5993655f",
             "directory": "External4",
             "voiceContent": "*sigh",
             "sourceName": "vo_xilonen_battle_skill1_03.wem"
+        },
+        "274085d88a2e62e4": {
+            "hash": "274085d88a2e62e4",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_battle_attackLight_08.wem"
         },
         "2a963ae4d1b19609": {
             "hash": "2a963ae4d1b19609",
@@ -241,13 +656,13 @@
             "hash": "2de27dfe066176eb",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_hit_h_01.wem"
+            "sourceName": "vo_xilonen_battle_hit_H_01.wem"
         },
         "30d89c25f2087056": {
             "hash": "30d89c25f2087056",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_hit_h_04.wem"
+            "sourceName": "vo_xilonen_battle_hit_H_04.wem"
         },
         "311c17c9a801ec62": {
             "hash": "311c17c9a801ec62",
@@ -277,7 +692,7 @@
             "hash": "3703f63b332d8110",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attacklight_04.wem"
+            "sourceName": "vo_xilonen_battle_attackLight_04.wem"
         },
         "39f36ceb8ccdf696": {
             "hash": "39f36ceb8ccdf696",
@@ -313,13 +728,13 @@
             "hash": "42878f54c34b0cce",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackheavy_05.wem"
+            "sourceName": "vo_xilonen_battle_attackHeavy_05.wem"
         },
         "451a4402377dfae3": {
             "hash": "451a4402377dfae3",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attacklight_03.wem"
+            "sourceName": "vo_xilonen_battle_attackLight_03.wem"
         },
         "4547ed9e739001c8": {
             "hash": "4547ed9e739001c8",
@@ -439,7 +854,7 @@
             "hash": "66734212c546eee8",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackmid_02.wem"
+            "sourceName": "vo_xilonen_battle_attackMid_02.wem"
         },
         "6dc9fadcab40ec4b": {
             "hash": "6dc9fadcab40ec4b",
@@ -457,7 +872,7 @@
             "hash": "6ec2999095f866f2",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_hit_l_04.wem"
+            "sourceName": "vo_xilonen_battle_hit_L_04.wem"
         },
         "7002cbdbcf276c94": {
             "hash": "7002cbdbcf276c94",
@@ -470,6 +885,12 @@
             "directory": "External15",
             "voiceContent": "Oh, my Vision? Yeah, it's pretty useful. Having it allows me to more accurately identify the concentration and distribution of the Geo element in various ores. That helps me quickly sort good ore from scraps.Oh, does it have a meaning? Huh, I've never really thought about it much. As long as it can help me with my work, I don't care about the rest",
             "sourceName": "vo_xilonen_dialog_pendant_01.wem"
+        },
+        "7a79abef0a9589c5": {
+            "hash": "7a79abef0a9589c5",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_nyxJoin_01.wem"
         },
         "7af420deae2f8032": {
             "hash": "7af420deae2f8032",
@@ -499,7 +920,7 @@
             "hash": "8732822bf9c955ee",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attacklight_06.wem"
+            "sourceName": "vo_xilonen_battle_attackLight_06.wem"
         },
         "8c09304c128f88f9": {
             "hash": "8c09304c128f88f9",
@@ -511,19 +932,19 @@
             "hash": "900257ba462b27c9",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_hit_l_03.wem"
+            "sourceName": "vo_xilonen_battle_hit_L_03.wem"
         },
         "92b5234589e53b2c": {
             "hash": "92b5234589e53b2c",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackheavy_03.wem"
+            "sourceName": "vo_xilonen_battle_attackHeavy_03.wem"
         },
         "978192093f9add9a": {
             "hash": "978192093f9add9a",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attacklight_02.wem"
+            "sourceName": "vo_xilonen_battle_attackLight_02.wem"
         },
         "9a2e3f2114210cfe": {
             "hash": "9a2e3f2114210cfe",
@@ -535,25 +956,31 @@
             "hash": "9e449ddf99255b52",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackmid_04.wem"
+            "sourceName": "vo_xilonen_battle_attackMid_04.wem"
         },
         "9f6dc1f143a60524": {
             "hash": "9f6dc1f143a60524",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackmid_06.wem"
+            "sourceName": "vo_xilonen_battle_attackMid_06.wem"
         },
         "a17b8ba9367f0d4f": {
             "hash": "a17b8ba9367f0d4f",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_hit_l_01.wem"
+            "sourceName": "vo_xilonen_battle_hit_L_01.wem"
         },
         "a7941f347d1beafa": {
             "hash": "a7941f347d1beafa",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackheavy_01.wem"
+            "sourceName": "vo_xilonen_battle_attackHeavy_01.wem"
+        },
+        "a933bfd046fbd975": {
+            "hash": "a933bfd046fbd975",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_battle_attackLight_09.wem"
         },
         "abc6ead38b7a7500": {
             "hash": "abc6ead38b7a7500",
@@ -607,7 +1034,7 @@
             "hash": "b8c15032efcd9e91",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attacklight_05.wem"
+            "sourceName": "vo_xilonen_battle_attackLight_05.wem"
         },
         "b8f2a0f2cce21f07": {
             "hash": "b8f2a0f2cce21f07",
@@ -619,7 +1046,7 @@
             "hash": "bc1e5c094674f329",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackmid_03.wem"
+            "sourceName": "vo_xilonen_battle_attackMid_03.wem"
         },
         "c2b6880c5221c9dd": {
             "hash": "c2b6880c5221c9dd",
@@ -643,13 +1070,13 @@
             "hash": "c444f14c7feb37d7",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackheavy_04.wem"
+            "sourceName": "vo_xilonen_battle_attackHeavy_04.wem"
         },
         "c56edd5e2a6d35f1": {
             "hash": "c56edd5e2a6d35f1",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackheavy_06.wem"
+            "sourceName": "vo_xilonen_battle_attackHeavy_06.wem"
         },
         "c8388ef880256575": {
             "hash": "c8388ef880256575",
@@ -691,7 +1118,7 @@
             "hash": "d0fd8ff839ac01af",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attackmid_01.wem"
+            "sourceName": "vo_xilonen_battle_attackMid_01.wem"
         },
         "d1252e47d865bff6": {
             "hash": "d1252e47d865bff6",
@@ -715,7 +1142,7 @@
             "hash": "da4e2a0d3ce2d8c5",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_hit_h_03.wem"
+            "sourceName": "vo_xilonen_battle_hit_H_03.wem"
         },
         "dbbb89c29d5e44ab": {
             "hash": "dbbb89c29d5e44ab",
@@ -733,7 +1160,7 @@
             "hash": "dea7fe1eea1a473f",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_hit_h_05.wem"
+            "sourceName": "vo_xilonen_battle_hit_H_05.wem"
         },
         "dfc1da39833f5ade": {
             "hash": "dfc1da39833f5ade",
@@ -775,13 +1202,13 @@
             "hash": "f41c0b8855a9653b",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_hit_l_05.wem"
+            "sourceName": "vo_xilonen_battle_hit_L_05.wem"
         },
         "f4ecb01170e3cb9d": {
             "hash": "f4ecb01170e3cb9d",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_xilonen_battle_attacklight_01.wem"
+            "sourceName": "vo_xilonen_battle_attackLight_01.wem"
         },
         "facb4ab2a793debc": {
             "hash": "facb4ab2a793debc",

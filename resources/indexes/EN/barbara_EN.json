@@ -320,7 +320,7 @@
             "hash": "005e2baa64fe6823",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_h_05.wem"
+            "sourceName": "vo_barbara_battle_hit_H_05.wem"
         },
         "00becb75c0f223a3": {
             "hash": "00becb75c0f223a3",
@@ -374,7 +374,7 @@
             "hash": "0f64db9458b96ad4",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackmid_02.wem"
+            "sourceName": "vo_barbara_battle_attackMid_02.wem"
         },
         "160e55357b8f680a": {
             "hash": "160e55357b8f680a",
@@ -394,6 +394,12 @@
             "voiceContent": "Oh, Master Diluc? Last time, when I was performing at Angel's Share, he kept frowning... Maybe he doesn't like my singing",
             "sourceName": "vo_barbara_teammate_diluc_01.wem"
         },
+        "18f38794506b7fcc": {
+            "hash": "18f38794506b7fcc",
+            "directory": "External3",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_barbara_sing.wem"
+        },
         "1c6936df580befac": {
             "hash": "1c6936df580befac",
             "directory": "External3",
@@ -404,7 +410,7 @@
             "hash": "1cbba6c20ef050ca",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attacklight_06.wem"
+            "sourceName": "vo_barbara_battle_attackLight_06.wem"
         },
         "1ece4a84ab019521": {
             "hash": "1ece4a84ab019521",
@@ -440,7 +446,7 @@
             "hash": "23e94a12713c3707",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_l_05.wem"
+            "sourceName": "vo_barbara_battle_hit_L_05.wem"
         },
         "25de44ef63e11324": {
             "hash": "25de44ef63e11324",
@@ -464,7 +470,13 @@
             "hash": "2d0d0552a204f679",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackheavy_02.wem"
+            "sourceName": "vo_barbara_battle_attackHeavy_02.wem"
+        },
+        "2ed2c83bfa4c3e65": {
+            "hash": "2ed2c83bfa4c3e65",
+            "directory": "External5",
+            "voiceContent": "",
+            "sourceName": "vo_barbara_suit_swim_02.wem"
         },
         "30a65947c6abdb7c": {
             "hash": "30a65947c6abdb7c",
@@ -476,13 +488,13 @@
             "hash": "33eeaad4572b4d3c",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attacklight_04.wem"
+            "sourceName": "vo_barbara_battle_attackLight_04.wem"
         },
         "352b5601616096ed": {
             "hash": "352b5601616096ed",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_l_03.wem"
+            "sourceName": "vo_barbara_battle_hit_L_03.wem"
         },
         "3662238b007c74a9": {
             "hash": "3662238b007c74a9",
@@ -512,13 +524,13 @@
             "hash": "3de57dc279e2e90c",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_h_06.wem"
+            "sourceName": "vo_barbara_battle_hit_H_06.wem"
         },
         "3dfc24ebbf245781": {
             "hash": "3dfc24ebbf245781",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attacklight_01.wem"
+            "sourceName": "vo_barbara_battle_attackLight_01.wem"
         },
         "3e461d8dd5d6a48c": {
             "hash": "3e461d8dd5d6a48c",
@@ -596,7 +608,7 @@
             "hash": "52c579b16d1b4bda",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_h_04.wem"
+            "sourceName": "vo_barbara_battle_hit_H_04.wem"
         },
         "5326197cc90f075a": {
             "hash": "5326197cc90f075a",
@@ -680,7 +692,7 @@
             "hash": "709f37db1a6ae3d1",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_h_03.wem"
+            "sourceName": "vo_barbara_battle_hit_H_03.wem"
         },
         "74a7480996f0266d": {
             "hash": "74a7480996f0266d",
@@ -716,7 +728,7 @@
             "hash": "7aa9dc2b268f94a0",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_l_06.wem"
+            "sourceName": "vo_barbara_battle_hit_L_06.wem"
         },
         "7d305996c232999e": {
             "hash": "7d305996c232999e",
@@ -729,6 +741,12 @@
             "directory": "External15",
             "voiceContent": "All that practice is beginning to pay off",
             "sourceName": "vo_card_barbara_invite_easy_02.wem"
+        },
+        "80cd0e43020c4194": {
+            "hash": "80cd0e43020c4194",
+            "directory": "External16",
+            "voiceContent": "",
+            "sourceName": "vo_barbara_suit_swim_03.wem"
         },
         "8157c1aa362fb10d": {
             "hash": "8157c1aa362fb10d",
@@ -752,7 +770,7 @@
             "hash": "88bfe9f22adfa173",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_l_01.wem"
+            "sourceName": "vo_barbara_battle_hit_L_01.wem"
         },
         "8b4d50d679a8647d": {
             "hash": "8b4d50d679a8647d",
@@ -776,19 +794,13 @@
             "hash": "8e29b8dc85be86e7",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attacklight_03.wem"
+            "sourceName": "vo_barbara_battle_attackLight_03.wem"
         },
         "8fb45bbe9ef4bb01": {
             "hash": "8fb45bbe9ef4bb01",
             "directory": "External17",
             "voiceContent": "Gotta keep trying",
             "sourceName": "vo_barbara_life_less30_03.wem"
-        },
-        "906d657feb8bfa88": {
-            "hash": "906d657feb8bfa88",
-            "directory": "External18",
-            "voiceContent": "It's a rare pleasure to eat food that suits my tastes so well. Today is a blessed day",
-            "sourceName": "vo_barbara_spice_event_pref_01.wem"
         },
         "90c879a31c651700": {
             "hash": "90c879a31c651700",
@@ -820,6 +832,12 @@
             "voiceContent": "Tada! *giggles* Barbara is here~ Leave the healing to me, I will not disappoint you",
             "sourceName": "vo_barbara_draw_appear.wem"
         },
+        "a00d966f6fcea223": {
+            "hash": "a00d966f6fcea223",
+            "directory": "External20",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_barbara_02.wem"
+        },
         "a2d2c4cb78c7c1cd": {
             "hash": "a2d2c4cb78c7c1cd",
             "directory": "External20",
@@ -848,13 +866,7 @@
             "hash": "ab4fab5ae564d8f8",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackheavy_03.wem"
-        },
-        "ad15d845ee26676e": {
-            "hash": "ad15d845ee26676e",
-            "directory": "External21",
-            "voiceContent": "Oh, uh, oh dear..",
-            "sourceName": "vo_barbara_spice_event_dislike_01.wem"
+            "sourceName": "vo_barbara_battle_attackHeavy_03.wem"
         },
         "ade158cd9e661b35": {
             "hash": "ade158cd9e661b35",
@@ -884,13 +896,13 @@
             "hash": "b8da697ba393d34b",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackmid_01.wem"
+            "sourceName": "vo_barbara_battle_attackMid_01.wem"
         },
         "ba03958d4e148aa5": {
             "hash": "ba03958d4e148aa5",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackmid_03.wem"
+            "sourceName": "vo_barbara_battle_attackMid_03.wem"
         },
         "bc62a5f5c47f6832": {
             "hash": "bc62a5f5c47f6832",
@@ -902,7 +914,7 @@
             "hash": "bcc8d749d5b8b016",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackheavy_01.wem"
+            "sourceName": "vo_barbara_battle_attackHeavy_01.wem"
         },
         "bece77e128bbf240": {
             "hash": "bece77e128bbf240",
@@ -926,7 +938,7 @@
             "hash": "c432cbcbe3e83b37",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_h_01.wem"
+            "sourceName": "vo_barbara_battle_hit_H_01.wem"
         },
         "c537481379ce8988": {
             "hash": "c537481379ce8988",
@@ -962,7 +974,7 @@
             "hash": "cad7281bed29497e",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_l_04.wem"
+            "sourceName": "vo_barbara_battle_hit_L_04.wem"
         },
         "cba8b0a6208704b5": {
             "hash": "cba8b0a6208704b5",
@@ -987,6 +999,12 @@
             "directory": "External25",
             "voiceContent": "SFX",
             "sourceName": "vo_barbara_explore_climb_03.wem"
+        },
+        "d460aa33cb89a742": {
+            "hash": "d460aa33cb89a742",
+            "directory": "External26",
+            "voiceContent": "",
+            "sourceName": "vo_barbara_suit_swim_01.wem"
         },
         "d6ea68bb57bc4ac1": {
             "hash": "d6ea68bb57bc4ac1",
@@ -1018,12 +1036,6 @@
             "voiceContent": "Sunflowers always face the sun. They're so bright. In fact, my mother sent me a sunflower-style dress... I wonder when I'll finally get to wear it on stage",
             "sourceName": "vo_barbara_pref_gift.wem"
         },
-        "dfdc93f3c0632562": {
-            "hash": "dfdc93f3c0632562",
-            "directory": "External27",
-            "voiceContent": "Thank you for cooking these for me. This time around, you are the one healing me",
-            "sourceName": "vo_barbara_spice_event_normal_01.wem"
-        },
         "dfe1efaf658eea67": {
             "hash": "dfe1efaf658eea67",
             "directory": "External27",
@@ -1034,7 +1046,7 @@
             "hash": "e05a16e38dac42de",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attacklight_02.wem"
+            "sourceName": "vo_barbara_battle_attackLight_02.wem"
         },
         "e3fefb43c0a80ed5": {
             "hash": "e3fefb43c0a80ed5",
@@ -1125,36 +1137,6 @@
             "directory": "External31",
             "voiceContent": "Okay, keep it up, Barbara",
             "sourceName": "vo_card_barbara_inGame_hard_01.wem"
-        },
-        "18f38794506b7fcc": {
-            "hash": "18f38794506b7fcc",
-            "directory": "External3",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_barbara_sing.wem"
-        },
-        "2ed2c83bfa4c3e65": {
-            "hash": "2ed2c83bfa4c3e65",
-            "directory": "External5",
-            "voiceContent": "",
-            "sourceName": "vo_barbara_suit_swim_02.wem"
-        },
-        "80cd0e43020c4194": {
-            "hash": "80cd0e43020c4194",
-            "directory": "External16",
-            "voiceContent": "",
-            "sourceName": "vo_barbara_suit_swim_03.wem"
-        },
-        "a00d966f6fcea223": {
-            "hash": "a00d966f6fcea223",
-            "directory": "External20",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_barbara_02.wem"
-        },
-        "d460aa33cb89a742": {
-            "hash": "d460aa33cb89a742",
-            "directory": "External26",
-            "voiceContent": "",
-            "sourceName": "vo_barbara_suit_swim_01.wem"
         }
     }
 }

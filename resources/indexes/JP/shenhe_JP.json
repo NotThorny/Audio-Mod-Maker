@@ -308,11 +308,29 @@
         }
     },
     "Quests": {
+        "14b5d4d02e4270b5": {
+            "hash": "14b5d4d02e4270b5",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_02.wem"
+        },
         "84404511821c855e": {
             "hash": "84404511821c855e",
             "directory": "External16",
             "voiceContent": "装置の核心が露わになったぞ、今のうちだ",
             "sourceName": "vo_SHLQ002_5_shenhe_02.wem"
+        },
+        "919876c6c6f29d52": {
+            "hash": "919876c6c6f29d52",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_01.wem"
+        },
+        "92c19ad871734724": {
+            "hash": "92c19ad871734724",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_03.wem"
         },
         "e1e25319b3949a01": {
             "hash": "e1e25319b3949a01",
@@ -326,7 +344,7 @@
             "hash": "02c7b3ec1cee61d4",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_06.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_06.wem"
         },
         "043c38e3c9f6b5dd": {
             "hash": "043c38e3c9f6b5dd",
@@ -352,6 +370,12 @@
             "voiceContent": "一致団結…我には理解できない言葉だ",
             "sourceName": "vo_shenhe_teamJoin_01.wem"
         },
+        "08f757208209c7e4": {
+            "hash": "08f757208209c7e4",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_09.wem"
+        },
         "0b16c2b748d08d6d": {
             "hash": "0b16c2b748d08d6d",
             "directory": "External1",
@@ -363,6 +387,12 @@
             "directory": "External1",
             "voiceContent": "我の負けだ…もう一回やるか",
             "sourceName": "vo_card_shenhe_endOfGame_fail_01.wem"
+        },
+        "0b69a34d3394a2b6": {
+            "hash": "0b69a34d3394a2b6",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_18.wem"
         },
         "0b949643972b1c9b": {
             "hash": "0b949643972b1c9b",
@@ -382,11 +412,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_fly_start_01.wem"
         },
+        "0f86d9e2db9c1bcc": {
+            "hash": "0f86d9e2db9c1bcc",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_12.wem"
+        },
         "100f2bd8d8a3b10a": {
             "hash": "100f2bd8d8a3b10a",
             "directory": "External2",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_climb_04.wem"
+        },
+        "10b0c5f4861e19ee": {
+            "hash": "10b0c5f4861e19ee",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_14.wem"
         },
         "121a2d4a4b208ddc": {
             "hash": "121a2d4a4b208ddc",
@@ -394,23 +436,41 @@
             "voiceContent": "これは遊びに過ぎない、心ゆくまで楽しめればそれでいい",
             "sourceName": "vo_card_shenhe_invite_hard_03.wem"
         },
-        "14b992c95bdd45da": {
-            "hash": "14b992c95bdd45da",
-            "directory": "External2",
-            "voiceContent": "構わぬ。この類の味は、もうとっくに慣れている",
-            "sourceName": "vo_shenhe_spice_event_dislike_01.wem"
-        },
         "15854638481be48a": {
             "hash": "15854638481be48a",
             "directory": "External2",
             "voiceContent": "こういう時、世の者は…傘をさすのか",
             "sourceName": "vo_shenhe_weather_heavyRain_01.wem"
         },
+        "18011587f0bf6f67": {
+            "hash": "18011587f0bf6f67",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_11.wem"
+        },
+        "18bac7832b08e610": {
+            "hash": "18bac7832b08e610",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_05.wem"
+        },
         "1e17807b641d5695": {
             "hash": "1e17807b641d5695",
             "directory": "External3",
             "voiceContent": "念の氷像",
             "sourceName": "vo_shenhe_battle_skill1_05.wem"
+        },
+        "1e56a9a51a35baf8": {
+            "hash": "1e56a9a51a35baf8",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_01.wem"
+        },
+        "1e60b308166b8270": {
+            "hash": "1e60b308166b8270",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_02.wem"
         },
         "1f0a948d0e70560f": {
             "hash": "1f0a948d0e70560f",
@@ -422,13 +482,19 @@
             "hash": "2069ba1f776f78b8",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_02.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_02.wem"
+        },
+        "20ffd5d1cbefa19a": {
+            "hash": "20ffd5d1cbefa19a",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_10.wem"
         },
         "221db9e298293a27": {
             "hash": "221db9e298293a27",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_07.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_07.wem"
         },
         "24340355c5a49684": {
             "hash": "24340355c5a49684",
@@ -436,23 +502,59 @@
             "voiceContent": "まだまだ",
             "sourceName": "vo_shenhe_life_less30_02.wem"
         },
+        "26d1154a2f595fe3": {
+            "hash": "26d1154a2f595fe3",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_02.wem"
+        },
         "26dfa0016d5c3f06": {
             "hash": "26dfa0016d5c3f06",
             "directory": "External4",
             "voiceContent": "あの勝利の一手は主から学んだものだ。この一局はなしとしよう",
             "sourceName": "vo_card_shenhe_endOfGame_win_01.wem"
         },
+        "281a356536638353": {
+            "hash": "281a356536638353",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_15.wem"
+        },
+        "28f897405a41fb10": {
+            "hash": "28f897405a41fb10",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_shenhe_01.wem"
+        },
         "29f1d840bf89d14d": {
             "hash": "29f1d840bf89d14d",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_02.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_02.wem"
         },
         "2b4eac2c27c58688": {
             "hash": "2b4eac2c27c58688",
             "directory": "External5",
             "voiceContent": "彼女はよく奇妙な歌を口ずさみながら、近くの森を彷徨っている。そのうちに、彼女の歌を何度も耳にするようになった。聞き慣れた今もまだ違和感を覚えるが、別に嫌いというわけではない",
             "sourceName": "vo_shenhe_teammate_hutao_01.wem"
+        },
+        "2caa2176e3c8aa4d": {
+            "hash": "2caa2176e3c8aa4d",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_17.wem"
+        },
+        "2cd9b76c1ee298ab": {
+            "hash": "2cd9b76c1ee298ab",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_06.wem"
+        },
+        "2fcfd5940a899216": {
+            "hash": "2fcfd5940a899216",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_03.wem"
         },
         "3072de38c6611a5d": {
             "hash": "3072de38c6611a5d",
@@ -470,13 +572,13 @@
             "hash": "3236d9bfddcd4e13",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_03.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_03.wem"
         },
         "3360c5d1884f4c0d": {
             "hash": "3360c5d1884f4c0d",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_01.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_01.wem"
         },
         "3797ffe410bf0ee8": {
             "hash": "3797ffe410bf0ee8",
@@ -489,6 +591,12 @@
             "directory": "External6",
             "voiceContent": "我が終結させる",
             "sourceName": "vo_shenhe_life_less30_teammate_02.wem"
+        },
+        "3cc610ac608d83cf": {
+            "hash": "3cc610ac608d83cf",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_09.wem"
         },
         "3cd5c137c724a378": {
             "hash": "3cd5c137c724a378",
@@ -508,17 +616,35 @@
             "voiceContent": "人はいずれ…死ぬ",
             "sourceName": "vo_shenhe_life_die_02.wem"
         },
+        "40f733e0751985e1": {
+            "hash": "40f733e0751985e1",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_08.wem"
+        },
         "416e3f6794d94f5f": {
             "hash": "416e3f6794d94f5f",
             "directory": "External8",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_climb_breath_02.wem"
         },
+        "423f93fb7c226291": {
+            "hash": "423f93fb7c226291",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_17.wem"
+        },
         "4305eea3f321f747": {
             "hash": "4305eea3f321f747",
             "directory": "External8",
             "voiceContent": "正道に戻り、己が身を守るのだ",
             "sourceName": "vo_shenhe_character_idle_02.wem"
+        },
+        "436fb2caf2ebd87c": {
+            "hash": "436fb2caf2ebd87c",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_11.wem"
         },
         "45a2c78aaad1b7b8": {
             "hash": "45a2c78aaad1b7b8",
@@ -543,12 +669,6 @@
             "directory": "External9",
             "voiceContent": "天気が良くなると、気分も晴れる。邪魔者が来ないのを願おう…たとえ来たとしても、消えてもらうのみだが",
             "sourceName": "vo_shenhe_weather_afterRain_01.wem"
-        },
-        "4c81bc24c2c3c9ae": {
-            "hash": "4c81bc24c2c3c9ae",
-            "directory": "External9",
-            "voiceContent": "主が作った料理、確かに美味だな。手放すことができぬ",
-            "sourceName": "vo_shenhe_spice_event_normal_01.wem"
         },
         "4d299fd21f39f366": {
             "hash": "4d299fd21f39f366",
@@ -590,13 +710,19 @@
             "hash": "52f54fdce3889d82",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_04.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_04.wem"
+        },
+        "5663564098ff7e0e": {
+            "hash": "5663564098ff7e0e",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_02.wem"
         },
         "58fe7a19e040c395": {
             "hash": "58fe7a19e040c395",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_03.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_03.wem"
         },
         "597cbf6cbadc4969": {
             "hash": "597cbf6cbadc4969",
@@ -608,13 +734,13 @@
             "hash": "59f18e2b8a93c30f",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_05.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_05.wem"
         },
         "5d02c1f44b819a9f": {
             "hash": "5d02c1f44b819a9f",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_01.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_01.wem"
         },
         "5eab56a8124f97f3": {
             "hash": "5eab56a8124f97f3",
@@ -646,17 +772,41 @@
             "voiceContent": "このような味…我が食してもよいのだろうか…",
             "sourceName": "vo_shenhe_spice_pref_01.wem"
         },
-        "69536bdda5fa3b34": {
-            "hash": "69536bdda5fa3b34",
+        "67bf67624722bccc": {
+            "hash": "67bf67624722bccc",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_01.wem"
+        },
+        "68e95373f1a4baee": {
+            "hash": "68e95373f1a4baee",
             "directory": "External13",
-            "voiceContent": "このような味…我が食してもよいのだろうか…",
-            "sourceName": "vo_shenhe_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_07.wem"
+        },
+        "6a31738ef8ad2b5e": {
+            "hash": "6a31738ef8ad2b5e",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_10.wem"
         },
         "6d1c8b56a87e527b": {
             "hash": "6d1c8b56a87e527b",
             "directory": "External13",
             "voiceContent": "我は滅多に下山しない。それゆえ、人との接し方が分からないのだ。揉め事が起きた時は、我自身のやり方で対処する。だが、もし主が齟齬を感じた場合、必ず教えてくれ。理解できずとも、主の言葉を信じ、それに従おう",
             "sourceName": "vo_shenhe_dialog_close.wem"
+        },
+        "6d6452e73283a52c": {
+            "hash": "6d6452e73283a52c",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_06.wem"
+        },
+        "6ec1a7a0a612cc00": {
+            "hash": "6ec1a7a0a612cc00",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_12.wem"
         },
         "728b246288ac82d0": {
             "hash": "728b246288ac82d0",
@@ -668,19 +818,25 @@
             "hash": "74350e0693bb5e99",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_03.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_03.wem"
         },
         "744f17e9a018a91e": {
             "hash": "744f17e9a018a91e",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_06.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_06.wem"
         },
         "75784bfb4a996ec0": {
             "hash": "75784bfb4a996ec0",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_04.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_04.wem"
+        },
+        "793863513776429a": {
+            "hash": "793863513776429a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_03.wem"
         },
         "7d98474169d9d96d": {
             "hash": "7d98474169d9d96d",
@@ -688,11 +844,35 @@
             "voiceContent": "この勝負…主の負けということか",
             "sourceName": "vo_card_shenhe_invite_hard_02.wem"
         },
+        "7e6af3d9fd388f9d": {
+            "hash": "7e6af3d9fd388f9d",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_13.wem"
+        },
+        "823a457329864062": {
+            "hash": "823a457329864062",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_07.wem"
+        },
+        "82434ed625ba54fa": {
+            "hash": "82434ed625ba54fa",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_04.wem"
+        },
         "8320ac1c5cfc7dcb": {
             "hash": "8320ac1c5cfc7dcb",
             "directory": "External16",
             "voiceContent": "天真敕奏",
             "sourceName": "vo_shenhe_battle_skill3_01.wem"
+        },
+        "83642984d4083034": {
+            "hash": "83642984d4083034",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_05.wem"
         },
         "840772298fe024a3": {
             "hash": "840772298fe024a3",
@@ -730,17 +910,35 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_jump_01.wem"
         },
+        "8aea91183ed73e75": {
+            "hash": "8aea91183ed73e75",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_08.wem"
+        },
         "927934a242dcae41": {
             "hash": "927934a242dcae41",
             "directory": "External18",
             "voiceContent": "以前、漱玉が師匠に連れられて、万民堂へ来たのだが…そのとき、漱玉の話し方が師匠に似てきていることに気付いたのだ。我も師匠の庇護のもと、日々を送ってきたが…もしや我の振る舞いにも、幾分か師匠の面影があるのだろうか",
             "sourceName": "vo_shenhe_teammate_xianyun_01.wem"
         },
+        "9327d9e77d07bc60": {
+            "hash": "9327d9e77d07bc60",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_09.wem"
+        },
         "94fb5dd097f77113": {
             "hash": "94fb5dd097f77113",
             "directory": "External18",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_climb_05.wem"
+        },
+        "95d427ec45a16df7": {
+            "hash": "95d427ec45a16df7",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_15.wem"
         },
         "98be4683a46cb704": {
             "hash": "98be4683a46cb704",
@@ -754,11 +952,17 @@
             "voiceContent": "俗世に帰着するなど、高望みなこと。我は自然と共に在る方が落ち着く",
             "sourceName": "vo_shenhe_character_idle_01.wem"
         },
+        "9a78217ae7a90391": {
+            "hash": "9a78217ae7a90391",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_04.wem"
+        },
         "9aa9c043a22f5ac8": {
             "hash": "9aa9c043a22f5ac8",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_06.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_06.wem"
         },
         "9d21547436fd9002": {
             "hash": "9d21547436fd9002",
@@ -772,11 +976,23 @@
             "voiceContent": "出でよ",
             "sourceName": "vo_shenhe_battle_skill1_02.wem"
         },
+        "9ef420ee2889a1d7": {
+            "hash": "9ef420ee2889a1d7",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_01.wem"
+        },
         "9f98a8c02a1741dc": {
             "hash": "9f98a8c02a1741dc",
             "directory": "External19",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_sprint_start_02.wem"
+        },
+        "a01e0cffd30b9ff1": {
+            "hash": "a01e0cffd30b9ff1",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_03.wem"
         },
         "a1936fb425edb0cb": {
             "hash": "a1936fb425edb0cb",
@@ -806,19 +1022,25 @@
             "hash": "a3daba3755b2604a",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_01.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_01.wem"
         },
         "a58d141736f2bf39": {
             "hash": "a58d141736f2bf39",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_03.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_03.wem"
         },
         "a6068823852ef08a": {
             "hash": "a6068823852ef08a",
             "directory": "External20",
             "voiceContent": "主が作った料理、確かに美味だな。手放すことができぬ",
             "sourceName": "vo_shenhe_spice_normal_01.wem"
+        },
+        "a693036d79f1394a": {
+            "hash": "a693036d79f1394a",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_14.wem"
         },
         "a77ae27587acdf29": {
             "hash": "a77ae27587acdf29",
@@ -856,11 +1078,17 @@
             "voiceContent": "山を下りた時に様々な料理を食べたが、味はあまり覚えていない。ただ唯一忘れられないのは、かつて暮らした家で食べた一杯の麺…いや、これは覚えておくべきことではない。そう…覚えておくべきことではないんだ",
             "sourceName": "vo_shenhe_pref_foodLike.wem"
         },
+        "ac2ea58f691da012": {
+            "hash": "ac2ea58f691da012",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_18.wem"
+        },
         "ac3d41d367c8ca4b": {
             "hash": "ac3d41d367c8ca4b",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_05.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_05.wem"
         },
         "ac3d4adfaa18177f": {
             "hash": "ac3d4adfaa18177f",
@@ -872,7 +1100,7 @@
             "hash": "ad4aa7c81e798e0a",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_02.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_02.wem"
         },
         "ae89839c2b11de27": {
             "hash": "ae89839c2b11de27",
@@ -885,6 +1113,12 @@
             "directory": "External21",
             "voiceContent": "…主はこの前、我にこう教えてくれた",
             "sourceName": "vo_card_shenhe_inGame_hard_04.wem"
+        },
+        "aeedccc211a5230d": {
+            "hash": "aeedccc211a5230d",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_10.wem"
         },
         "af139ca85d3873d1": {
             "hash": "af139ca85d3873d1",
@@ -916,11 +1150,17 @@
             "voiceContent": "師匠は我の心を抑えるため、この赤紐を与えてくれた。だが、ここ数日、主と共にあったおかげで真の要となる部分を悟り、力を自在に制御できるようになった…主こそが、我を抑える赤紐。この心境を理解してくれるのならば、我の傍にいてほしい",
             "sourceName": "vo_shenhe_dialog_close1.wem"
         },
+        "bb08aeb4a3ed58e6": {
+            "hash": "bb08aeb4a3ed58e6",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_08.wem"
+        },
         "bb0dbe499ded5cbc": {
             "hash": "bb0dbe499ded5cbc",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_03.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_03.wem"
         },
         "bc27fe9be66e96ba": {
             "hash": "bc27fe9be66e96ba",
@@ -928,11 +1168,29 @@
             "voiceContent": "我の名は申鶴、孤独で仇なす者、周りの者に災いをもたらす恐れがある。この赤紐で魂に枷を加え、殺意を抑制するよう仙人たちに釘を刺された。我との同行を恐れないのであれば…良かろう。ならば我の手を握るがいい",
             "sourceName": "vo_shenhe_draw_appear.wem"
         },
+        "bdc6077fc22c35bc": {
+            "hash": "bdc6077fc22c35bc",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_16.wem"
+        },
+        "c0823a03bf824510": {
+            "hash": "c0823a03bf824510",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_16.wem"
+        },
         "c14120da8e40ec19": {
             "hash": "c14120da8e40ec19",
             "directory": "External24",
             "voiceContent": "劫煞の災い",
             "sourceName": "vo_shenhe_life_die_03.wem"
+        },
+        "c7d381972a254001": {
+            "hash": "c7d381972a254001",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_13.wem"
         },
         "c8471f506e64673c": {
             "hash": "c8471f506e64673c",
@@ -962,7 +1220,13 @@
             "hash": "ce8a25f1ceabe2c1",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_05.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_05.wem"
+        },
+        "ce9887cac3d2bee3": {
+            "hash": "ce9887cac3d2bee3",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_11.wem"
         },
         "ce9acf71c0e5a298": {
             "hash": "ce9acf71c0e5a298",
@@ -994,11 +1258,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_climb_breath_01.wem"
         },
+        "d7b880cca6baf2c3": {
+            "hash": "d7b880cca6baf2c3",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_05.wem"
+        },
+        "d820b838559fa917": {
+            "hash": "d820b838559fa917",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_03.wem"
+        },
         "d8342c33cdf39826": {
             "hash": "d8342c33cdf39826",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_04.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_04.wem"
         },
         "d83cd00c04c391c0": {
             "hash": "d83cd00c04c391c0",
@@ -1012,11 +1288,35 @@
             "voiceContent": "氷霜よ、化神となれ",
             "sourceName": "vo_shenhe_battle_skill3_02.wem"
         },
+        "dc486cde542019fd": {
+            "hash": "dc486cde542019fd",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_07.wem"
+        },
+        "dcac637b5848d685": {
+            "hash": "dcac637b5848d685",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_04.wem"
+        },
+        "dcb0a44a0304d031": {
+            "hash": "dcb0a44a0304d031",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_01.wem"
+        },
         "dd66bf3a794cce62": {
             "hash": "dd66bf3a794cce62",
             "directory": "External27",
             "voiceContent": "無理はするな",
             "sourceName": "vo_shenhe_life_less30_teammate_01.wem"
+        },
+        "dd9f378d029b69ff": {
+            "hash": "dd9f378d029b69ff",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_02.wem"
         },
         "dde2d1474188ea86": {
             "hash": "dde2d1474188ea86",
@@ -1034,7 +1334,7 @@
             "hash": "e318480762b850bf",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_01.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_01.wem"
         },
         "e3ace6e084c891fb": {
             "hash": "e3ace6e084c891fb",
@@ -1077,6 +1377,12 @@
             "directory": "External29",
             "voiceContent": "刀や槍は相手を選ばず、赤紐の力にも限度がある。だから我は人混みの多いところを好まない",
             "sourceName": "vo_shenhe_character_idle_03.wem"
+        },
+        "ee0cb56bb1280ef7": {
+            "hash": "ee0cb56bb1280ef7",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_06.wem"
         },
         "f13735e74476abd1": {
             "hash": "f13735e74476abd1",

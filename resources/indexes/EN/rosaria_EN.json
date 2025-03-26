@@ -285,6 +285,18 @@
     },
     "Quests": {},
     "Gameplay": {
+        "019b08da0025d25f": {
+            "hash": "019b08da0025d25f",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_07.wem"
+        },
+        "04111d13e1df8b54": {
+            "hash": "04111d13e1df8b54",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_rosaria_01.wem"
+        },
         "04d1c17d6266a9cf": {
             "hash": "04d1c17d6266a9cf",
             "directory": "External0",
@@ -333,6 +345,12 @@
             "voiceContent": "*yawn* Good morning... I've missed morning mass, haven't I? Ugh, it starts too early anyway",
             "sourceName": "vo_rosaria_dialog_greetingMorning.wem"
         },
+        "18ce54ec48614959": {
+            "hash": "18ce54ec48614959",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_05.wem"
+        },
         "197b0c1f725d8691": {
             "hash": "197b0c1f725d8691",
             "directory": "External3",
@@ -345,11 +363,23 @@
             "voiceContent": "Don't overdo it. Let me take care of the dirty work",
             "sourceName": "vo_rosaria_dialog_close2.wem"
         },
+        "1a00bb233ed84a81": {
+            "hash": "1a00bb233ed84a81",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_12.wem"
+        },
         "1a8f7a6720b1b4f9": {
             "hash": "1a8f7a6720b1b4f9",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_05.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_05.wem"
+        },
+        "1ab16e3993244d5f": {
+            "hash": "1ab16e3993244d5f",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_04a.wem"
         },
         "1b6a92ec09d5b70d": {
             "hash": "1b6a92ec09d5b70d",
@@ -393,11 +423,35 @@
             "voiceContent": "There are some troubles that only a stiff drink can take away. That being said, I never get drunk",
             "sourceName": "vo_rosaria_pref_hobby.wem"
         },
+        "26e1289cdcd5a09b": {
+            "hash": "26e1289cdcd5a09b",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_10.wem"
+        },
         "2704aa0ef9db32c1": {
             "hash": "2704aa0ef9db32c1",
             "directory": "External4",
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_jump_04.wem"
+        },
+        "280b14ae87579eb5": {
+            "hash": "280b14ae87579eb5",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_12.wem"
+        },
+        "2b5b1bb1035cba17": {
+            "hash": "2b5b1bb1035cba17",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_09b.wem"
+        },
+        "2c68863bbc9bbcac": {
+            "hash": "2c68863bbc9bbcac",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_03.wem"
         },
         "2cc59ded14d7164c": {
             "hash": "2cc59ded14d7164c",
@@ -427,7 +481,7 @@
             "hash": "2f0868433f619e07",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackmid_01.wem"
+            "sourceName": "vo_rosaria_battle_attackMid_01.wem"
         },
         "2f17b81f5afaf425": {
             "hash": "2f17b81f5afaf425",
@@ -439,13 +493,13 @@
             "hash": "30315454e9e1e921",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackmid_03.wem"
+            "sourceName": "vo_rosaria_battle_attackMid_03.wem"
         },
-        "3048161ce8ec56c4": {
-            "hash": "3048161ce8ec56c4",
+        "305ba22ba8c7979c": {
+            "hash": "305ba22ba8c7979c",
             "directory": "External6",
-            "voiceContent": "It seems that our tastes are aligned when it comes to food",
-            "sourceName": "vo_rosaria_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_10.wem"
         },
         "32bdfadcd27c508b": {
             "hash": "32bdfadcd27c508b",
@@ -453,11 +507,29 @@
             "voiceContent": "Hmm... Not bad",
             "sourceName": "vo_card_rosaria_inGame_easy_01.wem"
         },
+        "33b7ea82cdba1298": {
+            "hash": "33b7ea82cdba1298",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_easy_02.wem"
+        },
         "33e826ee7cfebbe5": {
             "hash": "33e826ee7cfebbe5",
             "directory": "External6",
             "voiceContent": "Here comes trouble..",
             "sourceName": "vo_card_rosaria_inGame_easy_03.wem"
+        },
+        "34eb8e3d562cbebe": {
+            "hash": "34eb8e3d562cbebe",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_16.wem"
+        },
+        "37cbf1f8af49a41a": {
+            "hash": "37cbf1f8af49a41a",
+            "directory": "External6",
+            "voiceContent": "",
+            "sourceName": "vo_rosaria_suit_renew_02.wem"
         },
         "38eb9ef857c0a441": {
             "hash": "38eb9ef857c0a441",
@@ -477,6 +549,18 @@
             "voiceContent": "I see how it is",
             "sourceName": "vo_rosaria_battle_hit_L_02.wem"
         },
+        "3d4de128195a36ec": {
+            "hash": "3d4de128195a36ec",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_04.wem"
+        },
+        "3da969595ddb4640": {
+            "hash": "3da969595ddb4640",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_endOfGame_win_01.wem"
+        },
         "3f129d370d4e2a4b": {
             "hash": "3f129d370d4e2a4b",
             "directory": "External7",
@@ -495,6 +579,12 @@
             "voiceContent": "Isn't it obvious? There's more than meets the eye to that rich tycoon. He's confident, yet discreet... and even a little bit dangerous",
             "sourceName": "vo_rosaria_teammate_diluc_01.wem"
         },
+        "4147822aafd26c7a": {
+            "hash": "4147822aafd26c7a",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_01.wem"
+        },
         "4198fbf496c67717": {
             "hash": "4198fbf496c67717",
             "directory": "External8",
@@ -505,7 +595,7 @@
             "hash": "44800e5f8fb9da44",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackheavy_03.wem"
+            "sourceName": "vo_rosaria_battle_attackHeavy_03.wem"
         },
         "4588f3957a008d88": {
             "hash": "4588f3957a008d88",
@@ -519,11 +609,41 @@
             "voiceContent": "Is this... my final job",
             "sourceName": "vo_rosaria_life_die_03.wem"
         },
+        "4740af1054e5a8bb": {
+            "hash": "4740af1054e5a8bb",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_08a.wem"
+        },
         "4c1ea0307609c189": {
             "hash": "4c1ea0307609c189",
             "directory": "External9",
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_idle_02.wem"
+        },
+        "4d66d1055efdf948": {
+            "hash": "4d66d1055efdf948",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_08.wem"
+        },
+        "4e6ac3e009cff33b": {
+            "hash": "4e6ac3e009cff33b",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_08.wem"
+        },
+        "4ec6dd1709adbcba": {
+            "hash": "4ec6dd1709adbcba",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_06.wem"
+        },
+        "51a6fc554ea636b8": {
+            "hash": "51a6fc554ea636b8",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_leave_01.wem"
         },
         "522607ba2380b181": {
             "hash": "522607ba2380b181",
@@ -531,35 +651,65 @@
             "voiceContent": "I hear you've got a job for me",
             "sourceName": "vo_rosaria_teamJoin_01.wem"
         },
+        "543b88b91f502a0b": {
+            "hash": "543b88b91f502a0b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_03.wem"
+        },
+        "5565b4cac9d29565": {
+            "hash": "5565b4cac9d29565",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_01.wem"
+        },
+        "56fc0b03dae0b73b": {
+            "hash": "56fc0b03dae0b73b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_freetalk_01.wem"
+        },
         "5727da45a224b305": {
             "hash": "5727da45a224b305",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_01.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_01.wem"
         },
         "581aae574c77467f": {
             "hash": "581aae574c77467f",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_07.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_07.wem"
         },
-        "5b2a1d8aae072b5e": {
-            "hash": "5b2a1d8aae072b5e",
+        "5df85442b2a1b957": {
+            "hash": "5df85442b2a1b957",
             "directory": "External11",
-            "voiceContent": "At least I'll be able to eat my fill with this",
-            "sourceName": "vo_rosaria_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_04.wem"
+        },
+        "5f2240545d23b771": {
+            "hash": "5f2240545d23b771",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_06.wem"
         },
         "64807e5fc3e831e7": {
             "hash": "64807e5fc3e831e7",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_h_05.wem"
+            "sourceName": "vo_rosaria_battle_hit_H_05.wem"
         },
         "64ef4b3b72822648": {
             "hash": "64ef4b3b72822648",
             "directory": "External12",
             "voiceContent": "Trouble, and lots of it. Although, it is sort of a cute kind of trouble..",
             "sourceName": "vo_rosaria_teammate_klee_01.wem"
+        },
+        "662393c12ff6312f": {
+            "hash": "662393c12ff6312f",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_hard_02.wem"
         },
         "6650b4a1544ae99e": {
             "hash": "6650b4a1544ae99e",
@@ -573,11 +723,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_fly_start_03.wem"
         },
+        "6a2e4f14057279e7": {
+            "hash": "6a2e4f14057279e7",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_10.wem"
+        },
+        "6b76af2f0c7b5697": {
+            "hash": "6b76af2f0c7b5697",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_03.wem"
+        },
         "6d0fa0103bdc91f7": {
             "hash": "6d0fa0103bdc91f7",
             "directory": "External13",
             "voiceContent": "You can't run",
             "sourceName": "vo_rosaria_battle_skill1_03.wem"
+        },
+        "6de61e1bd48bf0aa": {
+            "hash": "6de61e1bd48bf0aa",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_12.wem"
         },
         "6e8e855357870628": {
             "hash": "6e8e855357870628",
@@ -585,17 +753,29 @@
             "voiceContent": "I'd say I sleep even better in the afternoon sun. You should try it sometime",
             "sourceName": "vo_rosaria_dialog_greetingNoon.wem"
         },
+        "70069b40b9e07db1": {
+            "hash": "70069b40b9e07db1",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_01.wem"
+        },
         "707e787a098a7be8": {
             "hash": "707e787a098a7be8",
             "directory": "External14",
             "voiceContent": "Wine has its uses... like revealing someone's true colors, for example. Smooth talk is Kaeya's veil, but being me, I can see right through it. Hah, you should see him when he's drunk",
             "sourceName": "vo_rosaria_teammate_kaeya_01.wem"
         },
+        "71b8e127ce9927c4": {
+            "hash": "71b8e127ce9927c4",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_08b.wem"
+        },
         "74999e3d098c45d3": {
             "hash": "74999e3d098c45d3",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_h_01.wem"
+            "sourceName": "vo_rosaria_battle_hit_H_01.wem"
         },
         "7558405602ffe151": {
             "hash": "7558405602ffe151",
@@ -625,13 +805,19 @@
             "hash": "79298a4eb6f16ccd",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_h_03.wem"
+            "sourceName": "vo_rosaria_battle_hit_H_03.wem"
         },
         "79c91015e5ed2839": {
             "hash": "79c91015e5ed2839",
             "directory": "External15",
             "voiceContent": "We should keep moving, but watch your step in the snow",
             "sourceName": "vo_rosaria_weather_snowy_01.wem"
+        },
+        "7a476ef14b168dd3": {
+            "hash": "7a476ef14b168dd3",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_14.wem"
         },
         "7c3dc0f649afda82": {
             "hash": "7c3dc0f649afda82",
@@ -649,7 +835,7 @@
             "hash": "85c8fa5bf4b4fba0",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackmid_02.wem"
+            "sourceName": "vo_rosaria_battle_attackMid_02.wem"
         },
         "85e26cf584bebf14": {
             "hash": "85e26cf584bebf14",
@@ -721,19 +907,19 @@
             "hash": "8e232dd77e45d4ec",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_l_06.wem"
+            "sourceName": "vo_rosaria_battle_hit_L_06.wem"
+        },
+        "8f269c4584bff861": {
+            "hash": "8f269c4584bff861",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_15.wem"
         },
         "8f2e5a391b1bbfa4": {
             "hash": "8f2e5a391b1bbfa4",
             "directory": "External17",
             "voiceContent": "I'm sure Varka means well, but his long-winded conversations get real old real quick. Although, he does really care for those around him, doesn't he",
             "sourceName": "vo_rosaria_teammate_varka_01.wem"
-        },
-        "9184b77deaf8c9ea": {
-            "hash": "9184b77deaf8c9ea",
-            "directory": "External18",
-            "voiceContent": "Do you really like this food",
-            "sourceName": "vo_rosaria_spice_event_dislike_01.wem"
         },
         "932d43af5e45e8ad": {
             "hash": "932d43af5e45e8ad",
@@ -751,7 +937,13 @@
             "hash": "94ae6a5056555cf2",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackheavy_01.wem"
+            "sourceName": "vo_rosaria_battle_attackHeavy_01.wem"
+        },
+        "95371000e092921d": {
+            "hash": "95371000e092921d",
+            "directory": "External18",
+            "voiceContent": "",
+            "sourceName": "vo_rosaria_suit_renew_01.wem"
         },
         "955474e29ffff90a": {
             "hash": "955474e29ffff90a",
@@ -775,7 +967,13 @@
             "hash": "98d2206f64119778",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_04.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_04.wem"
+        },
+        "9b4ca032de38317d": {
+            "hash": "9b4ca032de38317d",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_02.wem"
         },
         "9ba9b7e436738a1d": {
             "hash": "9ba9b7e436738a1d",
@@ -789,17 +987,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_climb_03.wem"
         },
+        "9e42f86842206c1f": {
+            "hash": "9e42f86842206c1f",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_easy_01.wem"
+        },
         "9e5006377df93ec8": {
             "hash": "9e5006377df93ec8",
             "directory": "External19",
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_idle_03.wem"
         },
+        "9f3fbc22ca640c2d": {
+            "hash": "9f3fbc22ca640c2d",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_11.wem"
+        },
         "9f9c29c66e995aba": {
             "hash": "9f9c29c66e995aba",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_l_04.wem"
+            "sourceName": "vo_rosaria_battle_hit_L_04.wem"
         },
         "a2539baaea1ae0e7": {
             "hash": "a2539baaea1ae0e7",
@@ -813,23 +1023,65 @@
             "voiceContent": "It seems that our tastes are aligned when it comes to food",
             "sourceName": "vo_rosaria_spice_pref_01.wem"
         },
+        "a4edb6a52007cb52": {
+            "hash": "a4edb6a52007cb52",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_11.wem"
+        },
+        "a616dab6ca887524": {
+            "hash": "a616dab6ca887524",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_13.wem"
+        },
+        "a74a2c635bd41a9c": {
+            "hash": "a74a2c635bd41a9c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_endOfGame_fail_01.wem"
+        },
         "a7552e3668be752b": {
             "hash": "a7552e3668be752b",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_03.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_03.wem"
+        },
+        "a7a20f0d8d918383": {
+            "hash": "a7a20f0d8d918383",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_07.wem"
+        },
+        "a8cbfb1f381381bd": {
+            "hash": "a8cbfb1f381381bd",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_05.wem"
         },
         "aa4b4c5e54656e96": {
             "hash": "aa4b4c5e54656e96",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_06.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_06.wem"
+        },
+        "aac7adcaf13e9ab0": {
+            "hash": "aac7adcaf13e9ab0",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_09a.wem"
         },
         "aaeb22f59cdb52ea": {
             "hash": "aaeb22f59cdb52ea",
             "directory": "External21",
             "voiceContent": "Although I deplore those who play truant on a job, I respect her punctuality when it comes to closing up for the day",
             "sourceName": "vo_rosaria_teammate_lisa_01.wem"
+        },
+        "abf026e37ef82cf6": {
+            "hash": "abf026e37ef82cf6",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_06.wem"
         },
         "ae70fb244843621b": {
             "hash": "ae70fb244843621b",
@@ -843,17 +1095,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_sprint_start_03.wem"
         },
+        "b02760541ebfa6d8": {
+            "hash": "b02760541ebfa6d8",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_04b.wem"
+        },
         "b231e529800c9730": {
             "hash": "b231e529800c9730",
             "directory": "External22",
             "voiceContent": "He's like an oil painting you find hanging on the wall in some ancient hall, profound and mysterious... hard to see through. But what can I say, I find people with stories... interesting",
             "sourceName": "vo_rosaria_teammate_albedo_01.wem"
         },
+        "b575447a8a5a3019": {
+            "hash": "b575447a8a5a3019",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_easy_03.wem"
+        },
         "b6b0dc66cbd5edde": {
             "hash": "b6b0dc66cbd5edde",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_h_04.wem"
+            "sourceName": "vo_rosaria_battle_hit_H_04.wem"
         },
         "ba37263c58fcbe4d": {
             "hash": "ba37263c58fcbe4d",
@@ -871,7 +1135,7 @@
             "hash": "bb411078793b8e80",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_h_06.wem"
+            "sourceName": "vo_rosaria_battle_hit_H_06.wem"
         },
         "bc3720dcf48f27de": {
             "hash": "bc3720dcf48f27de",
@@ -883,13 +1147,25 @@
             "hash": "bc4bfbde7166f497",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_l_01.wem"
+            "sourceName": "vo_rosaria_battle_hit_L_01.wem"
+        },
+        "bc5ead1b0d6035de": {
+            "hash": "bc5ead1b0d6035de",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_11.wem"
         },
         "c0dbe7f01ecc1bb1": {
             "hash": "c0dbe7f01ecc1bb1",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_l_03.wem"
+            "sourceName": "vo_rosaria_battle_hit_L_03.wem"
+        },
+        "c0eee12cbac5d680": {
+            "hash": "c0eee12cbac5d680",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_13.wem"
         },
         "c1058e0e84a857b0": {
             "hash": "c1058e0e84a857b0",
@@ -901,7 +1177,13 @@
             "hash": "c67448574c8903d5",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackheavy_02.wem"
+            "sourceName": "vo_rosaria_battle_attackHeavy_02.wem"
+        },
+        "c91151e84a1ef4f2": {
+            "hash": "c91151e84a1ef4f2",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_09.wem"
         },
         "cd875914773ea2ae": {
             "hash": "cd875914773ea2ae",
@@ -951,6 +1233,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_idle_01.wem"
         },
+        "dc3af24af6018e4e": {
+            "hash": "dc3af24af6018e4e",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_05.wem"
+        },
+        "dd64e65ca08399f0": {
+            "hash": "dd64e65ca08399f0",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_07.wem"
+        },
         "deb090f0292d6a9e": {
             "hash": "deb090f0292d6a9e",
             "directory": "External27",
@@ -962,6 +1256,24 @@
             "directory": "External27",
             "voiceContent": "That felt... pretty good",
             "sourceName": "vo_rosaria_chest_open_03.wem"
+        },
+        "e10031c97072dd46": {
+            "hash": "e10031c97072dd46",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_hard_03.wem"
+        },
+        "e157424c8cae2ee0": {
+            "hash": "e157424c8cae2ee0",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_14.wem"
+        },
+        "e564a3f1a72cc163": {
+            "hash": "e564a3f1a72cc163",
+            "directory": "External28",
+            "voiceContent": "",
+            "sourceName": "vo_rosaria_suit_renew_03.wem"
         },
         "e5caab40890dfd82": {
             "hash": "e5caab40890dfd82",
@@ -999,6 +1311,12 @@
             "voiceContent": "There's something extremely interesting about this bard... I can't quite put my finger on it. There's something that makes him different from the others in Mondstadt",
             "sourceName": "vo_rosaria_teammate_venti_01.wem"
         },
+        "e9b94d374fdb2b8e": {
+            "hash": "e9b94d374fdb2b8e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_02.wem"
+        },
         "ea671bfaf1deb4d3": {
             "hash": "ea671bfaf1deb4d3",
             "directory": "External29",
@@ -1010,6 +1328,12 @@
             "directory": "External29",
             "voiceContent": "Hmph. Things are getting interesting..",
             "sourceName": "vo_rosaria_life_less30_01.wem"
+        },
+        "f2d3501393e163b3": {
+            "hash": "f2d3501393e163b3",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_13.wem"
         },
         "f3588d8e7212c449": {
             "hash": "f3588d8e7212c449",
@@ -1027,31 +1351,37 @@
             "hash": "f8775bbcf27d2183",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_l_05.wem"
+            "sourceName": "vo_rosaria_battle_hit_L_05.wem"
+        },
+        "f8c03cf98ea443ca": {
+            "hash": "f8c03cf98ea443ca",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_15.wem"
+        },
+        "faf396c29b0ffe42": {
+            "hash": "faf396c29b0ffe42",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_02.wem"
+        },
+        "fb356afe570e7c09": {
+            "hash": "fb356afe570e7c09",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_09.wem"
+        },
+        "fb9945dbbb911e68": {
+            "hash": "fb9945dbbb911e68",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_hard_01.wem"
         },
         "fcb5bc3d73621ce2": {
             "hash": "fcb5bc3d73621ce2",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_02.wem"
-        },
-        "37cbf1f8af49a41a": {
-            "hash": "37cbf1f8af49a41a",
-            "directory": "External6",
-            "voiceContent": "",
-            "sourceName": "vo_rosaria_suit_renew_02.wem"
-        },
-        "95371000e092921d": {
-            "hash": "95371000e092921d",
-            "directory": "External18",
-            "voiceContent": "",
-            "sourceName": "vo_rosaria_suit_renew_01.wem"
-        },
-        "e564a3f1a72cc163": {
-            "hash": "e564a3f1a72cc163",
-            "directory": "External28",
-            "voiceContent": "",
-            "sourceName": "vo_rosaria_suit_renew_03.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_02.wem"
         }
     }
 }

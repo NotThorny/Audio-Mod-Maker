@@ -303,23 +303,47 @@
     },
     "Quests": {},
     "Gameplay": {
+        "00aa8f7389ec340e": {
+            "hash": "00aa8f7389ec340e",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_05.wem"
+        },
         "05bec1099f9a0c0c": {
             "hash": "05bec1099f9a0c0c",
             "directory": "External0",
             "voiceContent": "菲谢尔：这么说来，按照这个世界的历法，我有三千多岁了。当然，日月流转的虚像对看破三千宇宙因果的我而言没有意义。奥兹：小姐，这招是骗不过酒保的，没到喝酒的年纪就是没到喝酒的年纪",
             "sourceName": "vo_fischl_dialog_share.wem"
         },
+        "0877f81329048d1a": {
+            "hash": "0877f81329048d1a",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_09.wem"
+        },
         "097ffa0931d7e942": {
             "hash": "097ffa0931d7e942",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackheavy_03.wem"
+            "sourceName": "vo_fischl_battle_attackHeavy_03.wem"
         },
         "0a83a03e5d9b553f": {
             "hash": "0a83a03e5d9b553f",
             "directory": "External1",
             "voiceContent": "菲谢尔：哼哼，这可是好光景。就像在「那个世界」，罪人的血与泪在断罪的皇女面前凝结的模样呢——啊、啊——阿嚏！阿嚏！奥兹：面对小姐，罪人的鼻涕恐怕都要凝结了。菲谢尔：奥兹——啊、阿嚏",
             "sourceName": "vo_fischl_weather_snowy_01.wem"
+        },
+        "0aed6617f16f3299": {
+            "hash": "0aed6617f16f3299",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_15.wem"
+        },
+        "0b5665b035eae0f8": {
+            "hash": "0b5665b035eae0f8",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_04.wem"
         },
         "0be9c39230048d64": {
             "hash": "0be9c39230048d64",
@@ -330,14 +354,14 @@
         "10192cf0ebb76e9a": {
             "hash": "10192cf0ebb76e9a",
             "directory": "External2",
-            "voiceContent": "小姐不太喜欢这道菜肴，请你见谅",
+            "voiceContent": "小姐不太喜欢这道菜肴，请你见谅。",
             "sourceName": "vo_oz_spice_dislike_01.wem"
         },
         "11059586c476dff9": {
             "hash": "11059586c476dff9",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_01.wem"
+            "sourceName": "vo_fischl_battle_hit_L_01.wem"
         },
         "11ce2f9142d8bb5f": {
             "hash": "11ce2f9142d8bb5f",
@@ -350,6 +374,18 @@
             "directory": "External2",
             "voiceContent": "奥兹：至夜幻现",
             "sourceName": "vo_fischl_battle_skill3_05.wem"
+        },
+        "1399e3c546d3898e": {
+            "hash": "1399e3c546d3898e",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_03.wem"
+        },
+        "14c3d7d6f1559530": {
+            "hash": "14c3d7d6f1559530",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_01.wem"
         },
         "175067548fc879ef": {
             "hash": "175067548fc879ef",
@@ -369,11 +405,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_jump_02.wem"
         },
-        "1eb9d2d494378930": {
-            "hash": "1eb9d2d494378930",
+        "19d973773a97beab": {
+            "hash": "19d973773a97beab",
             "directory": "External3",
-            "voiceContent": "为何要将残破与毁灭，呈于本皇女面前",
-            "sourceName": "vo_fischl_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_03.wem"
+        },
+        "1a2a25da306588f5": {
+            "hash": "1a2a25da306588f5",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_02.wem"
+        },
+        "1ccf919f263eb816": {
+            "hash": "1ccf919f263eb816",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_06.wem"
+        },
+        "1db5624d2e7d5615": {
+            "hash": "1db5624d2e7d5615",
+            "directory": "External3",
+            "voiceContent": "",
+            "sourceName": "vo_fischl_suit_aristocrat_02.wem"
         },
         "1f6c4c9639b08d02": {
             "hash": "1f6c4c9639b08d02",
@@ -381,17 +435,41 @@
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_climb_02.wem"
         },
+        "202709d8e5872ea6": {
+            "hash": "202709d8e5872ea6",
+            "directory": "External4",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_skill2_01.wem"
+        },
         "20b0be160a4d4a31": {
             "hash": "20b0be160a4d4a31",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_h_05.wem"
+            "sourceName": "vo_fischl_battle_hit_H_05.wem"
+        },
+        "21ad4c71e5c2a28e": {
+            "hash": "21ad4c71e5c2a28e",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_03.wem"
+        },
+        "22d740839044ae30": {
+            "hash": "22d740839044ae30",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_01.wem"
         },
         "2462770ecc525dc4": {
             "hash": "2462770ecc525dc4",
             "directory": "External4",
             "voiceContent": "哼哼哼，「因果流向」，本皇女已尽览",
             "sourceName": "vo_card_fischl_invite_easy_02.wem"
+        },
+        "2516018c4e06da09": {
+            "hash": "2516018c4e06da09",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_08.wem"
         },
         "269118a75dfbbfdc": {
             "hash": "269118a75dfbbfdc",
@@ -411,17 +489,29 @@
             "voiceContent": "皇女的命运，不应在此完结…",
             "sourceName": "vo_fischl_life_less30_03.wem"
         },
+        "29eb679c696c5d68": {
+            "hash": "29eb679c696c5d68",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_02.wem"
+        },
         "2ae1b8efbb3abd91": {
             "hash": "2ae1b8efbb3abd91",
             "directory": "External5",
             "voiceContent": "菲谢尔：哼，食物只是凡骨肉胎所受的桎梏。但硬要说的话，能配得上断罪皇女的，那莫过于罪人之泪与谎言之舌…奥兹：并不是小姐常做的「常夜夏宫蜜吐司」吗？菲谢尔：——只，只是为了补充这具躯壳所需的能量",
             "sourceName": "vo_fischl_pref_foodLike.wem"
         },
+        "2e8d62f97a6d5c72": {
+            "hash": "2e8d62f97a6d5c72",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_10.wem"
+        },
         "3053e7e9c681442c": {
             "hash": "3053e7e9c681442c",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_06.wem"
+            "sourceName": "vo_fischl_battle_attackLight_06.wem"
         },
         "307da619c40ea26e": {
             "hash": "307da619c40ea26e",
@@ -441,11 +531,23 @@
             "voiceContent": "菲谢尔：有了这个，就能更好地行使断罪皇女的威仪，击败名为「现实」的命运之敌了。奥兹：嗯，就能更好地完成协会的工作了",
             "sourceName": "vo_fischl_starUp_02.wem"
         },
+        "33296a38ecf5f309": {
+            "hash": "33296a38ecf5f309",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_08.wem"
+        },
         "343479786faec7b5": {
             "hash": "343479786faec7b5",
             "directory": "External6",
             "voiceContent": "我与你同为异世界的旅人，在此相遇。错不了，想必是命运的意志吧",
             "sourceName": "vo_fischl_dialog_close.wem"
+        },
+        "3847c63433e9bc09": {
+            "hash": "3847c63433e9bc09",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_20.wem"
         },
         "3b0e7c747a38b378": {
             "hash": "3b0e7c747a38b378",
@@ -458,6 +560,12 @@
             "directory": "External7",
             "voiceContent": "这个世界，也容不得本皇女吗",
             "sourceName": "vo_fischl_life_die_01.wem"
+        },
+        "3ca0cba6195c7572": {
+            "hash": "3ca0cba6195c7572",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_10.wem"
         },
         "3f841cfcf72c4df0": {
             "hash": "3f841cfcf72c4df0",
@@ -483,11 +591,29 @@
             "voiceContent": "以断罪之名",
             "sourceName": "vo_fischl_battle_skill1_01.wem"
         },
+        "42f599e4c57c9e4b": {
+            "hash": "42f599e4c57c9e4b",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_13.wem"
+        },
         "43a48670fc7572c6": {
             "hash": "43a48670fc7572c6",
             "directory": "External8",
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_jump_05.wem"
+        },
+        "441ec5f66ffd55a5": {
+            "hash": "441ec5f66ffd55a5",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_11.wem"
+        },
+        "44a357f1aa1aba06": {
+            "hash": "44a357f1aa1aba06",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_05.wem"
         },
         "44d503415fc5e156": {
             "hash": "44d503415fc5e156",
@@ -505,7 +631,7 @@
             "hash": "4532e3d8b9b7f3fa",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_04.wem"
+            "sourceName": "vo_fischl_battle_attackLight_04.wem"
         },
         "45c32c21ffe5e0d7": {
             "hash": "45c32c21ffe5e0d7",
@@ -519,23 +645,47 @@
             "voiceContent": "回应我吧",
             "sourceName": "vo_fischl_battle_skill1_03.wem"
         },
+        "47fb45c616e9bab7": {
+            "hash": "47fb45c616e9bab7",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_09.wem"
+        },
+        "48cde61179eaa215": {
+            "hash": "48cde61179eaa215",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_24.wem"
+        },
         "48e0d3d4e828d3a2": {
             "hash": "48e0d3d4e828d3a2",
             "directory": "External9",
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_sprint_start_02.wem"
         },
+        "49c0fa23243da18f": {
+            "hash": "49c0fa23243da18f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_22.wem"
+        },
+        "4d059c41b3ba803c": {
+            "hash": "4d059c41b3ba803c",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_18.wem"
+        },
         "4d9df56545e9de05": {
             "hash": "4d9df56545e9de05",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_05.wem"
+            "sourceName": "vo_fischl_battle_hit_L_05.wem"
         },
         "4e90c976f03c717f": {
             "hash": "4e90c976f03c717f",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_03.wem"
+            "sourceName": "vo_fischl_battle_hit_L_03.wem"
         },
         "503b54c57d24d6d2": {
             "hash": "503b54c57d24d6d2",
@@ -548,6 +698,12 @@
             "directory": "External10",
             "voiceContent": "菲谢尔：风魔龙？那种本皇女寝宫花园里拴着的宠物级别的东西，没想到在这个世界也能形成灾祸呢。哼，一群没用的家伙…奥兹：虽然小姐这么说，当时不也为大家担心得不得了吗。菲谢尔：那、那还不是因为身为皇女，有守护尘世众生一切灵魂的崇高职责",
             "sourceName": "vo_fischl_friendship_03.wem"
+        },
+        "51854bf747aa694e": {
+            "hash": "51854bf747aa694e",
+            "directory": "External10",
+            "voiceContent": "#<color=#37FFFF>菲谢尔：</color>奥兹华尔多·赫芙那梵茵斯。为我，为幽夜净土的主宰，断罪的皇女，做好献出生命的觉悟，守望{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}注定多舛的命运吧。n<color=#37FFFF>奥兹：</color>不要随便让我送命啊！",
+            "sourceName": "vo_fischl_dialog_close3b.wem"
         },
         "52727e037af2fb66": {
             "hash": "52727e037af2fb66",
@@ -567,6 +723,12 @@
             "voiceContent": "至夜幻现",
             "sourceName": "vo_fischl_battle_skill3_02.wem"
         },
+        "543f2364536b3f6c": {
+            "hash": "543f2364536b3f6c",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_03.wem"
+        },
         "54849de8e8c3505c": {
             "hash": "54849de8e8c3505c",
             "directory": "External10",
@@ -577,7 +739,7 @@
             "hash": "584c31e2ddfe5003",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_h_03.wem"
+            "sourceName": "vo_fischl_battle_hit_H_03.wem"
         },
         "59761df488804e3d": {
             "hash": "59761df488804e3d",
@@ -591,11 +753,17 @@
             "voiceContent": "欢泣吧，本皇女将于此等待你的再度觐见",
             "sourceName": "vo_card_fischl_invite_hard_02.wem"
         },
+        "5bd56c03f2541f28": {
+            "hash": "5bd56c03f2541f28",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_07.wem"
+        },
         "60c0b76f9ed448f2": {
             "hash": "60c0b76f9ed448f2",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackmid_02.wem"
+            "sourceName": "vo_fischl_battle_attackMid_02.wem"
         },
         "619e60b4779f7644": {
             "hash": "619e60b4779f7644",
@@ -603,11 +771,17 @@
             "voiceContent": "为射落世界之兽，必须突破尘俗欲望，编织通向命运之间的道路",
             "sourceName": "vo_fischl_spice_normal_01.wem"
         },
+        "61bcc3693d4ac9d2": {
+            "hash": "61bcc3693d4ac9d2",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_04.wem"
+        },
         "61e3b5f0bc8740d7": {
             "hash": "61e3b5f0bc8740d7",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_01.wem"
+            "sourceName": "vo_fischl_battle_attackLight_01.wem"
         },
         "620c7420ba12eb11": {
             "hash": "620c7420ba12eb11",
@@ -619,19 +793,55 @@
             "hash": "62c7ebffb618150b",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackheavy_02.wem"
+            "sourceName": "vo_fischl_battle_attackHeavy_02.wem"
+        },
+        "62e5e77ae7cb73a4": {
+            "hash": "62e5e77ae7cb73a4",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_06.wem"
         },
         "630da20267093ef1": {
             "hash": "630da20267093ef1",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_03.wem"
+            "sourceName": "vo_fischl_battle_attackLight_03.wem"
+        },
+        "65b81f5343bec53a": {
+            "hash": "65b81f5343bec53a",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_01.wem"
+        },
+        "672e77b6105294ec": {
+            "hash": "672e77b6105294ec",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_05.wem"
         },
         "69758c9beb28ab7a": {
             "hash": "69758c9beb28ab7a",
             "directory": "External13",
             "voiceContent": "本皇女驰骋星间，行遍诸多世界，领略过一万种宇宙的命运，通读一切灵魂的默示录",
             "sourceName": "vo_fischl_pref_hobby_01.wem"
+        },
+        "6b3dfb2a249697ce": {
+            "hash": "6b3dfb2a249697ce",
+            "directory": "External13",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_attackLight_laugh_02.wem"
+        },
+        "6ea1730c39379121": {
+            "hash": "6ea1730c39379121",
+            "directory": "External13",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_fischl_02.wem"
+        },
+        "6f3a017e453b6662": {
+            "hash": "6f3a017e453b6662",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_02.wem"
         },
         "6fc5da73dbac29de": {
             "hash": "6fc5da73dbac29de",
@@ -651,6 +861,24 @@
             "voiceContent": "菲谢尔：不知在遥远彼方的扈从…奥兹：毋须担心冒险家协会的大家",
             "sourceName": "vo_fischl_character_idle_03.wem"
         },
+        "7541e062af41adec": {
+            "hash": "7541e062af41adec",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_05.wem"
+        },
+        "7747679355f65748": {
+            "hash": "7747679355f65748",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_09.wem"
+        },
+        "78a773a500a61aba": {
+            "hash": "78a773a500a61aba",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_07.wem"
+        },
         "78b43e8cbdf0b9cb": {
             "hash": "78b43e8cbdf0b9cb",
             "directory": "External15",
@@ -669,11 +897,23 @@
             "voiceContent": "奥兹：小姐，如果你倒下了，我——",
             "sourceName": "vo_fischl_life_less30_02.wem"
         },
+        "7f968192ea9a61a9": {
+            "hash": "7f968192ea9a61a9",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_03.wem"
+        },
         "81eb42871b16aed8": {
             "hash": "81eb42871b16aed8",
             "directory": "External16",
             "voiceContent": "命运，指引我来此",
             "sourceName": "vo_fischl_chest_open_01.wem"
+        },
+        "8267f16b468c5f17": {
+            "hash": "8267f16b468c5f17",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_04.wem"
         },
         "831778122b7c58fd": {
             "hash": "831778122b7c58fd",
@@ -687,6 +927,12 @@
             "voiceContent": "奥兹：又来了",
             "sourceName": "vo_fischl_battle_skill1_04.wem"
         },
+        "855ad03ff4e57048": {
+            "hash": "855ad03ff4e57048",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_09.wem"
+        },
         "85eefebfae518d6b": {
             "hash": "85eefebfae518d6b",
             "directory": "External16",
@@ -698,6 +944,30 @@
             "directory": "External16",
             "voiceContent": "看你有什么烦恼的样子…？旅人啊，不必困惑。因为，我以我的左眼，这只透彻因果之丝的「断罪之眼」，守望着你的命运；以奥兹那见证过一千世界寂灭的鸦眼，观察着你的进路。假若名为「世界」的夜巡凶兽觊觎你的梦想，那我便以断罪的圣裁魔矢将其射落",
             "sourceName": "vo_fischl_dialog_close1.wem"
+        },
+        "86badc519f9533ba": {
+            "hash": "86badc519f9533ba",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_07.wem"
+        },
+        "86f7dd7cf3f18631": {
+            "hash": "86f7dd7cf3f18631",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_06.wem"
+        },
+        "89300c2034cf1518": {
+            "hash": "89300c2034cf1518",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_14.wem"
+        },
+        "8a792c3b3bd93948": {
+            "hash": "8a792c3b3bd93948",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_21.wem"
         },
         "8bc12f8f86fbd42b": {
             "hash": "8bc12f8f86fbd42b",
@@ -711,11 +981,23 @@
             "voiceContent": "菲谢尔：哼哼，既然今日是你的命定之日，那我不可能坐视不管。来，说吧！在这腐朽而幽邃的世界里，在你渺小而短暂的人生中，有什么想要实现的愿望，尽管说来，让本皇女听听！嗯…即使是…奥兹：她说「生日快乐，如果你想要，她」…菲谢尔：奥兹！多嘴",
             "sourceName": "vo_fischl_pref_birthday.wem"
         },
+        "8d13bfa7f28afe79": {
+            "hash": "8d13bfa7f28afe79",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_05.wem"
+        },
         "903c3e4eb96c671d": {
             "hash": "903c3e4eb96c671d",
             "directory": "External18",
             "voiceContent": "菲谢尔：至夜的魔箭…它在高声呼唤着我的祝圣之名，祈求着罪罚的苍紫雷光，射落命运之敌！奥兹：伟哉！考虑到晚饭，如果能射落鸽子就更好了",
             "sourceName": "vo_fischl_starUp_01.wem"
+        },
+        "906b37e1b1d37409": {
+            "hash": "906b37e1b1d37409",
+            "directory": "External18",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_skill2_02.wem"
         },
         "921019d914895c6a": {
             "hash": "921019d914895c6a",
@@ -727,13 +1009,31 @@
             "hash": "928695769507efd5",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackmid_01.wem"
+            "sourceName": "vo_fischl_battle_attackMid_01.wem"
         },
         "933032ec6dede4aa": {
             "hash": "933032ec6dede4aa",
             "directory": "External18",
             "voiceContent": "菲谢尔：赞颂我的降临吧。奥兹：伟哉",
             "sourceName": "vo_fischl_teamJoin_02.wem"
+        },
+        "93a6c7d0c6328b92": {
+            "hash": "93a6c7d0c6328b92",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_01.wem"
+        },
+        "9475b581ddd1702f": {
+            "hash": "9475b581ddd1702f",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_01.wem"
+        },
+        "955745bd0373b497": {
+            "hash": "955745bd0373b497",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_02.wem"
         },
         "960ef6501b722052": {
             "hash": "960ef6501b722052",
@@ -759,23 +1059,47 @@
             "voiceContent": "真实与虚构编织而成的卡牌之戏，皆在本皇女掌间",
             "sourceName": "vo_card_fischl_endOfGame_win_01.wem"
         },
-        "9a48484682bad5fc": {
-            "hash": "9a48484682bad5fc",
+        "9836ebe273981264": {
+            "hash": "9836ebe273981264",
             "directory": "External19",
-            "voiceContent": "为射落世界之兽，必须突破尘俗欲望，编织通向命运之间的道路",
-            "sourceName": "vo_fischl_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_03.wem"
+        },
+        "985c28556eccb684": {
+            "hash": "985c28556eccb684",
+            "directory": "External19",
+            "voiceContent": "",
+            "sourceName": "vo_fischl_suit_aristocrat_03.wem"
+        },
+        "98fb7a024084d17b": {
+            "hash": "98fb7a024084d17b",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_26.wem"
+        },
+        "99800bfd7aa235d4": {
+            "hash": "99800bfd7aa235d4",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_10.wem"
         },
         "9a63700ca047f80e": {
             "hash": "9a63700ca047f80e",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_h_06.wem"
+            "sourceName": "vo_fischl_battle_hit_H_06.wem"
         },
         "9aa815cf3ab891c3": {
             "hash": "9aa815cf3ab891c3",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_05.wem"
+            "sourceName": "vo_fischl_battle_attackLight_05.wem"
+        },
+        "9aa9380f2522ed36": {
+            "hash": "9aa9380f2522ed36",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_16.wem"
         },
         "9b34418a0b410cf7": {
             "hash": "9b34418a0b410cf7",
@@ -787,7 +1111,7 @@
             "hash": "9b8d641e4aca03b0",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_h_04.wem"
+            "sourceName": "vo_fischl_battle_hit_H_04.wem"
         },
         "9e37d3ff3b29181d": {
             "hash": "9e37d3ff3b29181d",
@@ -799,13 +1123,13 @@
             "hash": "9f3801e0e81db8fd",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_07.wem"
+            "sourceName": "vo_fischl_battle_attackLight_07.wem"
         },
         "a0c1677df82a9996": {
             "hash": "a0c1677df82a9996",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_02.wem"
+            "sourceName": "vo_fischl_battle_hit_L_02.wem"
         },
         "a176ede2970c7ff2": {
             "hash": "a176ede2970c7ff2",
@@ -818,6 +1142,12 @@
             "directory": "External20",
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_sprint_start_01.wem"
+        },
+        "a36aae69a262cd97": {
+            "hash": "a36aae69a262cd97",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_02.wem"
         },
         "a603c805c08200d3": {
             "hash": "a603c805c08200d3",
@@ -852,7 +1182,7 @@
         "b179287d72f1c3f4": {
             "hash": "b179287d72f1c3f4",
             "directory": "External22",
-            "voiceContent": "小姐说，这就是她理想的美味",
+            "voiceContent": "小姐说，这就是她理想的美味。",
             "sourceName": "vo_oz_spice_pref_01.wem"
         },
         "b211b66ba0a70d08": {
@@ -861,17 +1191,47 @@
             "voiceContent": "菲谢尔：你的深眠将平安无梦。毕竟，岂有梦魇，敢染指幽夜净土所祝圣之人…奥兹：她说「晚安」",
             "sourceName": "vo_fischl_dialog_greetingNight2.wem"
         },
+        "b3e6d4f13a1e5abb": {
+            "hash": "b3e6d4f13a1e5abb",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_11.wem"
+        },
+        "b4e785fa76670069": {
+            "hash": "b4e785fa76670069",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_06.wem"
+        },
         "b5ec5e18685a8394": {
             "hash": "b5ec5e18685a8394",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackheavy_01.wem"
+            "sourceName": "vo_fischl_battle_attackHeavy_01.wem"
+        },
+        "b610aa0c20e7aa63": {
+            "hash": "b610aa0c20e7aa63",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_08.wem"
+        },
+        "bbe9b638d556f4cd": {
+            "hash": "bbe9b638d556f4cd",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_19.wem"
         },
         "bc234d9ac1ab15f6": {
             "hash": "bc234d9ac1ab15f6",
             "directory": "External23",
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_idle_03.wem"
+        },
+        "bfbd3d5b72248a3d": {
+            "hash": "bfbd3d5b72248a3d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_02.wem"
         },
         "c002b7e0077c9bed": {
             "hash": "c002b7e0077c9bed",
@@ -884,6 +1244,18 @@
             "directory": "External24",
             "voiceContent": "哈…即使贵为皇女，在这样的时辰也不免困乏",
             "sourceName": "vo_fischl_dialog_greetingNoon.wem"
+        },
+        "c1fa3d9dd90d73bb": {
+            "hash": "c1fa3d9dd90d73bb",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_11.wem"
+        },
+        "c374ac19ba3a0284": {
+            "hash": "c374ac19ba3a0284",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_25.wem"
         },
         "c37aaaa4198e707d": {
             "hash": "c37aaaa4198e707d",
@@ -915,11 +1287,41 @@
             "voiceContent": "哼，就让我来吧",
             "sourceName": "vo_fischl_life_less30_teammate_01.wem"
         },
+        "c63de3ce5a498fae": {
+            "hash": "c63de3ce5a498fae",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_08.wem"
+        },
+        "c660b9e966bae5ef": {
+            "hash": "c660b9e966bae5ef",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_04.wem"
+        },
+        "c803982b679d76a6": {
+            "hash": "c803982b679d76a6",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_23.wem"
+        },
         "c8c7e868bbf8c6af": {
             "hash": "c8c7e868bbf8c6af",
             "directory": "External25",
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_jump_04.wem"
+        },
+        "c9ac1f8673fdfc85": {
+            "hash": "c9ac1f8673fdfc85",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_01.wem"
+        },
+        "ca9ef3981e508fff": {
+            "hash": "ca9ef3981e508fff",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_07.wem"
         },
         "cc30231fd629fb0d": {
             "hash": "cc30231fd629fb0d",
@@ -936,8 +1338,14 @@
         "ce9738827b05a76e": {
             "hash": "ce9738827b05a76e",
             "directory": "External25",
-            "voiceContent": "但刚才，小姐不是吃得很香吗",
+            "voiceContent": "但刚才，小姐不是吃得很香吗？",
             "sourceName": "vo_oz_spice_normal_01.wem"
+        },
+        "d182a59b8489e183": {
+            "hash": "d182a59b8489e183",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_06.wem"
         },
         "d1bb2c1e0ce6b62a": {
             "hash": "d1bb2c1e0ce6b62a",
@@ -950,6 +1358,12 @@
             "directory": "External26",
             "voiceContent": "来到这个世界而失去的力量，似乎已经恢复了大半。哼哼哼，定罪之时即将…啊啊，不必担心。即使到了终末之刻，我在此世降下罪罚之雷时，也不会伤及你。因为，你可是我的祝圣之人啊",
             "sourceName": "vo_fischl_starUp_04.wem"
+        },
+        "d2ac91ad2f0bdfbd": {
+            "hash": "d2ac91ad2f0bdfbd",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_04.wem"
         },
         "d33ccbe98d4026d5": {
             "hash": "d33ccbe98d4026d5",
@@ -1005,11 +1419,23 @@
             "voiceContent": "奥兹：小姐讨厌的，应该是那个吧…菲谢尔：那个吗。被违抗自然的锁链束缚的肢体…奥兹：再也不能如我这般飞翔…菲谢尔：失去了那生来便仰慕皇族王者的卑下头颅，简直是「那个世界」的地狱略影。其名为…奥兹：好像是叫什么酿鸡来着",
             "sourceName": "vo_fischl_pref_foodDislike.wem"
         },
+        "de5f0708b3d1d9c4": {
+            "hash": "de5f0708b3d1d9c4",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_12.wem"
+        },
         "df07af11f94eef27": {
             "hash": "df07af11f94eef27",
             "directory": "External27",
             "voiceContent": "对拥有「断罪之眼」的本皇女来说，这种用卡牌组构的游戏简直轻而易举",
             "sourceName": "vo_card_fischl_freetalk_01.wem"
+        },
+        "df960e482378fa83": {
+            "hash": "df960e482378fa83",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_06.wem"
         },
         "e04f1a28fd72cd90": {
             "hash": "e04f1a28fd72cd90",
@@ -1023,6 +1449,12 @@
             "voiceContent": "狂喜吧！战栗吧！要问为何的话，须知幽夜净土的断罪皇女，已经用这只左眼，看清了编织宇宙的命运之丝",
             "sourceName": "vo_fischl_starUp_03.wem"
         },
+        "e0bffa59cdfaf8bd": {
+            "hash": "e0bffa59cdfaf8bd",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_04.wem"
+        },
         "e121bd96919f7be2": {
             "hash": "e121bd96919f7be2",
             "directory": "External28",
@@ -1033,13 +1465,43 @@
             "hash": "e150480aaa692170",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_02.wem"
+            "sourceName": "vo_fischl_battle_attackLight_02.wem"
+        },
+        "e29c9de8b9c2f148": {
+            "hash": "e29c9de8b9c2f148",
+            "directory": "External28",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_skill2_03.wem"
+        },
+        "e3b03560fa189f1b": {
+            "hash": "e3b03560fa189f1b",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_05.wem"
+        },
+        "e4da2172a49a9d35": {
+            "hash": "e4da2172a49a9d35",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_07.wem"
         },
         "e61a29675e85473b": {
             "hash": "e61a29675e85473b",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackmid_03.wem"
+            "sourceName": "vo_fischl_battle_attackMid_03.wem"
+        },
+        "e9ada7ee413c7182": {
+            "hash": "e9ada7ee413c7182",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_12.wem"
+        },
+        "ebef84463849af32": {
+            "hash": "ebef84463849af32",
+            "directory": "External29",
+            "voiceContent": "",
+            "sourceName": "vo_fischl_suit_aristocrat_01.wem"
         },
         "ec346ce6d9e4caf9": {
             "hash": "ec346ce6d9e4caf9",
@@ -1052,6 +1514,18 @@
             "directory": "External29",
             "voiceContent": "荒芜的世界，竟藏有这等瑰宝",
             "sourceName": "vo_fischl_chest_open_02.wem"
+        },
+        "ecfb5d21e136c2d7": {
+            "hash": "ecfb5d21e136c2d7",
+            "directory": "External29",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_attackLight_laugh_03.wem"
+        },
+        "ee2549338bb8c0f1": {
+            "hash": "ee2549338bb8c0f1",
+            "directory": "External29",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_attackLight_laugh_01.wem"
         },
         "ee6567f001c34763": {
             "hash": "ee6567f001c34763",
@@ -1071,11 +1545,11 @@
             "voiceContent": "菲谢尔：奥兹，我之忠友啊…能遇到「那个人」，与本皇女同样不属于这个世界的旅人…连残酷的命运，也会对我罪孽深重的血脉，展露微笑呢。就算是我的命运，我无法逃离的「现实」…奥兹：啊啊，我明白。那个旅行者的话，不管发生了什么，都不会抛弃小姐的吧",
             "sourceName": "vo_fischl_dialog_close2.wem"
         },
-        "f1b0ff705aee8f56": {
-            "hash": "f1b0ff705aee8f56",
+        "f11eebafbe6e897b": {
+            "hash": "f11eebafbe6e897b",
             "directory": "External30",
-            "voiceContent": "此等珍馐，可纳于忘忧之御膳园中",
-            "sourceName": "vo_fischl_spice_event_pref_01.wem"
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_skill2_04.wem"
         },
         "f2fbaa47bd1abde1": {
             "hash": "f2fbaa47bd1abde1",
@@ -1087,13 +1561,19 @@
             "hash": "f32bd75d172747e2",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_06.wem"
+            "sourceName": "vo_fischl_battle_hit_L_06.wem"
+        },
+        "f3bb1a05a9356e9f": {
+            "hash": "f3bb1a05a9356e9f",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_17.wem"
         },
         "f455bb6ec1a937b4": {
             "hash": "f455bb6ec1a937b4",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_04.wem"
+            "sourceName": "vo_fischl_battle_hit_L_04.wem"
         },
         "f603b055557f8b9f": {
             "hash": "f603b055557f8b9f",
@@ -1136,78 +1616,6 @@
             "directory": "External31",
             "voiceContent": "菲谢尔：她吗？似乎是虔信风神的忠实修女呢。奥兹：「虔信」？「忠实」？菲谢尔：没错。有天晚上看到过，她对什么人说「以风神巴托巴斯的名义，去死吧」这样的话，想必是在领祷吧",
             "sourceName": "vo_fischl_teammate_rosaria_01.wem"
-        },
-        "1db5624d2e7d5615": {
-            "hash": "1db5624d2e7d5615",
-            "directory": "External3",
-            "voiceContent": "",
-            "sourceName": "vo_fischl_suit_aristocrat_02.wem"
-        },
-        "202709d8e5872ea6": {
-            "hash": "202709d8e5872ea6",
-            "directory": "External4",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_skill2_01.wem"
-        },
-        "51854bf747aa694e": {
-            "hash": "51854bf747aa694e",
-            "directory": "External10",
-            "voiceContent": "#<color=#37FFFF>菲谢尔：</color>奥兹华尔多·赫芙那梵茵斯。为我，为幽夜净土的主宰，断罪的皇女，做好献出生命的觉悟，守望{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_HE|INFO_FEMALE_PRONOUN_SHE]}注定多舛的命运吧。n<color=#37FFFF>奥兹：</color>不要随便让我送命啊！",
-            "sourceName": "vo_fischl_dialog_close3b.wem"
-        },
-        "6b3dfb2a249697ce": {
-            "hash": "6b3dfb2a249697ce",
-            "directory": "External13",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_attackLight_laugh_02.wem"
-        },
-        "6ea1730c39379121": {
-            "hash": "6ea1730c39379121",
-            "directory": "External13",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_fischl_02.wem"
-        },
-        "906b37e1b1d37409": {
-            "hash": "906b37e1b1d37409",
-            "directory": "External18",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_skill2_02.wem"
-        },
-        "985c28556eccb684": {
-            "hash": "985c28556eccb684",
-            "directory": "External19",
-            "voiceContent": "",
-            "sourceName": "vo_fischl_suit_aristocrat_03.wem"
-        },
-        "e29c9de8b9c2f148": {
-            "hash": "e29c9de8b9c2f148",
-            "directory": "External28",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_skill2_03.wem"
-        },
-        "ebef84463849af32": {
-            "hash": "ebef84463849af32",
-            "directory": "External29",
-            "voiceContent": "",
-            "sourceName": "vo_fischl_suit_aristocrat_01.wem"
-        },
-        "ecfb5d21e136c2d7": {
-            "hash": "ecfb5d21e136c2d7",
-            "directory": "External29",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_attackLight_laugh_03.wem"
-        },
-        "ee2549338bb8c0f1": {
-            "hash": "ee2549338bb8c0f1",
-            "directory": "External29",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_attackLight_laugh_01.wem"
-        },
-        "f11eebafbe6e897b": {
-            "hash": "f11eebafbe6e897b",
-            "directory": "External30",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_skill2_04.wem"
         }
     }
 }

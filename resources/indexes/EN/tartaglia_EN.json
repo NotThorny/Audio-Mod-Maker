@@ -236,6 +236,12 @@
         }
     },
     "Quests": {
+        "04c8a5a6a79721ae": {
+            "hash": "04c8a5a6a79721ae",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_LYAQ204_5_tartaglia_02.wem"
+        },
         "05b6f6a2742ca6a0": {
             "hash": "05b6f6a2742ca6a0",
             "directory": "External0",
@@ -247,6 +253,12 @@
             "directory": "External2",
             "voiceContent": "Well, that just means I can go all out! Brace yourself, this is about to get tough..",
             "sourceName": "vo_LYAQ204_3_tartaglia_05.wem"
+        },
+        "32f273ad9ab9f551": {
+            "hash": "32f273ad9ab9f551",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_LYAQ204_5_tartaglia_01.wem"
         },
         "54ba568190445d5c": {
             "hash": "54ba568190445d5c",
@@ -350,7 +362,13 @@
             "hash": "0a24e9a8582effec",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_06.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_06.wem"
+        },
+        "0ba4dd62d08840b7": {
+            "hash": "0ba4dd62d08840b7",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_skill2_02.wem"
         },
         "0d0b33f87ba57535": {
             "hash": "0d0b33f87ba57535",
@@ -368,7 +386,7 @@
             "hash": "0de63bc277de47f9",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_05.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_05.wem"
         },
         "114c06c6498c7b33": {
             "hash": "114c06c6498c7b33",
@@ -386,7 +404,7 @@
             "hash": "16df6135cc38196a",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackmid_04.wem"
+            "sourceName": "vo_tartaglia_battle_attackMid_04.wem"
         },
         "1a51c20857e269c8": {
             "hash": "1a51c20857e269c8",
@@ -398,7 +416,7 @@
             "hash": "1b9de597488285ba",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_04.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_04.wem"
         },
         "1ccb4c6d4c49cda5": {
             "hash": "1ccb4c6d4c49cda5",
@@ -464,7 +482,7 @@
             "hash": "32b29837a5bf18de",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_h_04.wem"
+            "sourceName": "vo_tartaglia_battle_hit_H_04.wem"
         },
         "334a6791a579f9ad": {
             "hash": "334a6791a579f9ad",
@@ -476,13 +494,19 @@
             "hash": "338ff34dcf06f907",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackmid_01.wem"
+            "sourceName": "vo_tartaglia_battle_attackMid_01.wem"
         },
         "34b8df5f79874421": {
             "hash": "34b8df5f79874421",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackmid_03.wem"
+            "sourceName": "vo_tartaglia_battle_attackMid_03.wem"
+        },
+        "3653ef7a4a6acbd0": {
+            "hash": "3653ef7a4a6acbd0",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_skill2_01.wem"
         },
         "368fd5c5fceaa277": {
             "hash": "368fd5c5fceaa277",
@@ -494,25 +518,25 @@
             "hash": "3742cc495324b980",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_h_06.wem"
+            "sourceName": "vo_tartaglia_battle_hit_H_06.wem"
         },
         "37d6cfbae6e66d44": {
             "hash": "37d6cfbae6e66d44",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackheavy_03.wem"
+            "sourceName": "vo_tartaglia_battle_attackHeavy_03.wem"
         },
         "384db7af4b501f97": {
             "hash": "384db7af4b501f97",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_01.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_01.wem"
         },
         "3cdda3c0f8b546b1": {
             "hash": "3cdda3c0f8b546b1",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_03.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_03.wem"
         },
         "3d9a490dc64250d6": {
             "hash": "3d9a490dc64250d6",
@@ -566,19 +590,25 @@
             "hash": "4a7e9ba0f9514605",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_01.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_01.wem"
         },
         "4b716fb2a3a3d97f": {
             "hash": "4b716fb2a3a3d97f",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_07.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_07.wem"
         },
         "4eb9ed5b9f7eabdf": {
             "hash": "4eb9ed5b9f7eabdf",
             "directory": "External9",
             "voiceContent": "The wind permeates all, cleansing both mind and body. Excellent",
             "sourceName": "vo_tartaglia_weather_gale_02.wem"
+        },
+        "4ffe71ec3a29949c": {
+            "hash": "4ffe71ec3a29949c",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_attackLight_08.wem"
         },
         "51cf0d23935b7e55": {
             "hash": "51cf0d23935b7e55",
@@ -704,7 +734,7 @@
             "hash": "7479178dcc664c83",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_05.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_05.wem"
         },
         "7597a9f2683d570e": {
             "hash": "7597a9f2683d570e",
@@ -794,7 +824,7 @@
             "hash": "86472c286f3e233c",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_h_02.wem"
+            "sourceName": "vo_tartaglia_battle_hit_H_02.wem"
         },
         "86ddfb826ef75133": {
             "hash": "86ddfb826ef75133",
@@ -812,7 +842,7 @@
             "hash": "88052babad81eff2",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackheavy_01.wem"
+            "sourceName": "vo_tartaglia_battle_attackHeavy_01.wem"
         },
         "880961fac38d4eee": {
             "hash": "880961fac38d4eee",
@@ -826,6 +856,12 @@
             "voiceContent": "I don't know what his motivations could be, but he seems genuine about wanting to help me. He treats me just like family. Oh, and speaking of family — Tonia and Teucer are always telling me about the pastries and other gifts he brings them when they write. So while I've been away from Snezhnaya, he's kept his promise to take care of my family",
             "sourceName": "vo_tartaglia_teammate_pulcinella_01.wem"
         },
+        "89e77b6b13e815ae": {
+            "hash": "89e77b6b13e815ae",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_skill2_03.wem"
+        },
         "8a303c8a530977b9": {
             "hash": "8a303c8a530977b9",
             "directory": "External17",
@@ -836,13 +872,13 @@
             "hash": "8a508566845a56a0",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackmid_02.wem"
+            "sourceName": "vo_tartaglia_battle_attackMid_02.wem"
         },
         "8c28e1cabb3e2a78": {
             "hash": "8c28e1cabb3e2a78",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_04.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_04.wem"
         },
         "9024eb85f182331d": {
             "hash": "9024eb85f182331d",
@@ -896,13 +932,13 @@
             "hash": "9866932d88aa6373",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackmid_05.wem"
+            "sourceName": "vo_tartaglia_battle_attackMid_05.wem"
         },
         "9aabef91bfeb082b": {
             "hash": "9aabef91bfeb082b",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_03.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_03.wem"
         },
         "9c05eeb57f43b8e6": {
             "hash": "9c05eeb57f43b8e6",
@@ -920,7 +956,7 @@
             "hash": "9da20db9ab920196",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_06.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_06.wem"
         },
         "9ec42d3e8e920bbb": {
             "hash": "9ec42d3e8e920bbb",
@@ -998,7 +1034,7 @@
             "hash": "b7ba49c939320030",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_02.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_02.wem"
         },
         "b9983001b9919791": {
             "hash": "b9983001b9919791",
@@ -1010,7 +1046,7 @@
             "hash": "b9cb09b2a3b596d5",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackheavy_02.wem"
+            "sourceName": "vo_tartaglia_battle_attackHeavy_02.wem"
         },
         "bbdd490a84768f18": {
             "hash": "bbdd490a84768f18",
@@ -1029,6 +1065,12 @@
             "directory": "External23",
             "voiceContent": "Not bad... Not bad at all",
             "sourceName": "vo_tartaglia_chest_open_02.wem"
+        },
+        "bee28be35bc6092d": {
+            "hash": "bee28be35bc6092d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_attackLight_09.wem"
         },
         "c08c2cf54b660bca": {
             "hash": "c08c2cf54b660bca",
@@ -1130,7 +1172,7 @@
             "hash": "e0823a309dd15ce7",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_h_05.wem"
+            "sourceName": "vo_tartaglia_battle_hit_H_05.wem"
         },
         "e42fdf762b1a0558": {
             "hash": "e42fdf762b1a0558",
@@ -1154,7 +1196,7 @@
             "hash": "f00c7d98ca8eafe2",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_02.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_02.wem"
         },
         "f09b5a0de37570d3": {
             "hash": "f09b5a0de37570d3",
@@ -1162,11 +1204,17 @@
             "voiceContent": "Amateur mistake",
             "sourceName": "vo_tartaglia_battle_hit_H_01.wem"
         },
+        "f43ba950881f635d": {
+            "hash": "f43ba950881f635d",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_skill2_04.wem"
+        },
         "f52b461f90da97cd": {
             "hash": "f52b461f90da97cd",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_h_03.wem"
+            "sourceName": "vo_tartaglia_battle_hit_H_03.wem"
         },
         "f5c38fe03aa7c49d": {
             "hash": "f5c38fe03aa7c49d",

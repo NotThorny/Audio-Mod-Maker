@@ -271,7 +271,80 @@
             "sourceName": "vo_eula_mimitomo_friendship3_02.wem"
         }
     },
-    "Quests": {},
+    "Quests": {
+        "004dd230744c1d84": {
+            "hash": "004dd230744c1d84",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_02a_5.wem"
+        },
+        "04dcbe4221af91a6": {
+            "hash": "04dcbe4221af91a6",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_02a_3.wem"
+        },
+        "3f625648cb65dd6a": {
+            "hash": "3f625648cb65dd6a",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ005_eula_01.wem"
+        },
+        "442a4c9966efae1a": {
+            "hash": "442a4c9966efae1a",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_01.wem"
+        },
+        "53e12e213dc91632": {
+            "hash": "53e12e213dc91632",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_02a_7.wem"
+        },
+        "64cec295914a9230": {
+            "hash": "64cec295914a9230",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_02a_9.wem"
+        },
+        "85a70c2833fcbd15": {
+            "hash": "85a70c2833fcbd15",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_02a_4.wem"
+        },
+        "869a2039de4fbc8f": {
+            "hash": "869a2039de4fbc8f",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_02a_2.wem"
+        },
+        "c7525251f5eb5448": {
+            "hash": "c7525251f5eb5448",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_02a_1.wem"
+        },
+        "d5d4a018fa96ec7b": {
+            "hash": "d5d4a018fa96ec7b",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_02a_6.wem"
+        },
+        "da1f2df659510ffb": {
+            "hash": "da1f2df659510ffb",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_02b_1.wem"
+        },
+        "e9f21c8d50cdd8b1": {
+            "hash": "e9f21c8d50cdd8b1",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_13_eula_02a_8.wem"
+        }
+    },
     "Gameplay": {
         "00a88bc838b96245": {
             "hash": "00a88bc838b96245",
@@ -301,7 +374,7 @@
             "hash": "03a14b08eb5f6536",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_hit_h_04.wem"
+            "sourceName": "vo_eula_battle_hit_H_04.wem"
         },
         "05025fd9e5f0d0bf": {
             "hash": "05025fd9e5f0d0bf",
@@ -415,13 +488,13 @@
             "hash": "28b38fda7ff49d0e",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attacklight_06.wem"
+            "sourceName": "vo_eula_battle_attackLight_06.wem"
         },
         "29dd83ec2a76a8b0": {
             "hash": "29dd83ec2a76a8b0",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attacklight_04.wem"
+            "sourceName": "vo_eula_battle_attackLight_04.wem"
         },
         "29dfe517c464c326": {
             "hash": "29dfe517c464c326",
@@ -445,7 +518,7 @@
             "hash": "2c72d6023c57b008",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attackmid_02.wem"
+            "sourceName": "vo_eula_battle_attackMid_02.wem"
         },
         "2eda1b3b4b30414a": {
             "hash": "2eda1b3b4b30414a",
@@ -457,13 +530,13 @@
             "hash": "31d061f54d65ee52",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_hit_l_04.wem"
+            "sourceName": "vo_eula_battle_hit_L_04.wem"
         },
         "32f98606f7e69824": {
             "hash": "32f98606f7e69824",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_hit_l_06.wem"
+            "sourceName": "vo_eula_battle_hit_L_06.wem"
         },
         "355c19db9f5a3196": {
             "hash": "355c19db9f5a3196",
@@ -511,7 +584,7 @@
             "hash": "4868f575b768af9d",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attackheavy_02.wem"
+            "sourceName": "vo_eula_battle_attackHeavy_02.wem"
         },
         "48de63b868487c08": {
             "hash": "48de63b868487c08",
@@ -529,7 +602,7 @@
             "hash": "4faa201efab58629",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_hit_l_03.wem"
+            "sourceName": "vo_eula_battle_hit_L_03.wem"
         },
         "530be2c9dee0a6fc": {
             "hash": "530be2c9dee0a6fc",
@@ -577,19 +650,13 @@
             "hash": "5cb32cff6f71e69f",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_hit_h_05.wem"
+            "sourceName": "vo_eula_battle_hit_H_05.wem"
         },
         "5ead9913fc8f0143": {
             "hash": "5ead9913fc8f0143",
             "directory": "External11",
             "voiceContent": "なかなかのチャレンジだわ",
             "sourceName": "vo_card_eula_inGame_easy_03.wem"
-        },
-        "5fb067fcccc82b8c": {
-            "hash": "5fb067fcccc82b8c",
-            "directory": "External11",
-            "voiceContent": "まったく君って人は…私への復讐かしら",
-            "sourceName": "vo_eula_spice_event_dislike_01.wem"
         },
         "612a10aaf4270656": {
             "hash": "612a10aaf4270656",
@@ -625,7 +692,7 @@
             "hash": "6489540dedec94af",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_hit_l_01.wem"
+            "sourceName": "vo_eula_battle_hit_L_01.wem"
         },
         "659d7c1dade20f07": {
             "hash": "659d7c1dade20f07",
@@ -662,12 +729,6 @@
             "directory": "External15",
             "voiceContent": "SFX",
             "sourceName": "vo_eula_explore_climb_breath_03.wem"
-        },
-        "7af55f4ea2121e08": {
-            "hash": "7af55f4ea2121e08",
-            "directory": "External15",
-            "voiceContent": "まあまあね…君も食べてみたら",
-            "sourceName": "vo_eula_spice_event_normal_01.wem"
         },
         "7b2280d04060d302": {
             "hash": "7b2280d04060d302",
@@ -727,7 +788,7 @@
             "hash": "8dc11fba39c72e3a",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attacklight_02.wem"
+            "sourceName": "vo_eula_battle_attackLight_02.wem"
         },
         "909c565d1d7fdda8": {
             "hash": "909c565d1d7fdda8",
@@ -811,13 +872,13 @@
             "hash": "ad16d8f03639cda5",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_hit_h_03.wem"
+            "sourceName": "vo_eula_battle_hit_H_03.wem"
         },
         "af00dde3e9f9ef31": {
             "hash": "af00dde3e9f9ef31",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attacklight_05.wem"
+            "sourceName": "vo_eula_battle_attackLight_05.wem"
         },
         "b2941e676519bd92": {
             "hash": "b2941e676519bd92",
@@ -829,7 +890,7 @@
             "hash": "b3c3d3ed0a33c39b",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_hit_l_05.wem"
+            "sourceName": "vo_eula_battle_hit_L_05.wem"
         },
         "b52d0b95a62e0729": {
             "hash": "b52d0b95a62e0729",
@@ -967,13 +1028,13 @@
             "hash": "d984db7e95cc3bcc",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attackheavy_03.wem"
+            "sourceName": "vo_eula_battle_attackHeavy_03.wem"
         },
         "da426ffb3469e6c9": {
             "hash": "da426ffb3469e6c9",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attackmid_03.wem"
+            "sourceName": "vo_eula_battle_attackMid_03.wem"
         },
         "dda7d70b892ae3a9": {
             "hash": "dda7d70b892ae3a9",
@@ -1009,7 +1070,7 @@
             "hash": "e69c51b0bdaaf503",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attacklight_03.wem"
+            "sourceName": "vo_eula_battle_attackLight_03.wem"
         },
         "e75c25b51d6d6e14": {
             "hash": "e75c25b51d6d6e14",
@@ -1021,19 +1082,19 @@
             "hash": "e7c63dc2682cf33d",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attacklight_01.wem"
+            "sourceName": "vo_eula_battle_attackLight_01.wem"
         },
         "eafdd76d861fc19a": {
             "hash": "eafdd76d861fc19a",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attackheavy_01.wem"
+            "sourceName": "vo_eula_battle_attackHeavy_01.wem"
         },
         "ebbba3ea24bdcc4f": {
             "hash": "ebbba3ea24bdcc4f",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_attackmid_01.wem"
+            "sourceName": "vo_eula_battle_attackMid_01.wem"
         },
         "ec0aa96b07533af7": {
             "hash": "ec0aa96b07533af7",
@@ -1063,7 +1124,7 @@
             "hash": "f2281f19fb0b8d18",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_hit_h_06.wem"
+            "sourceName": "vo_eula_battle_hit_H_06.wem"
         },
         "f2870afa7c61f22f": {
             "hash": "f2870afa7c61f22f",
@@ -1093,7 +1154,7 @@
             "hash": "f9ff0628798781e8",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_eula_battle_hit_l_02.wem"
+            "sourceName": "vo_eula_battle_hit_L_02.wem"
         },
         "fb27a44291e6a46f": {
             "hash": "fb27a44291e6a46f",
@@ -1118,12 +1179,6 @@
             "directory": "External31",
             "voiceContent": "それ以来ずっと連絡を取っているの。彼女の賢いところ、結構好きなのよ。規則を大切にはしているけど、融通も利いてね、騎士団の人たちも彼女から学んだらいいのに…それに彼女なら、私が探しているあの人を見つけられるかも…私への恩返しとしてね",
             "sourceName": "vo_eula_teammate_yanfei_02.wem"
-        },
-        "febf8bbc1ffa6a02": {
-            "hash": "febf8bbc1ffa6a02",
-            "directory": "External31",
-            "voiceContent": "へぇ？これって私への挑戦かしら。受けて立つわ",
-            "sourceName": "vo_eula_spice_event_pref_01.wem"
         }
     }
 }

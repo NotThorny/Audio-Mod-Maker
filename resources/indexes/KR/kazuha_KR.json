@@ -308,11 +308,29 @@
         }
     },
     "Quests": {
+        "4550ede374bbd1f9": {
+            "hash": "4550ede374bbd1f9",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_01.wem"
+        },
+        "82dc21d3a081637f": {
+            "hash": "82dc21d3a081637f",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_03.wem"
+        },
         "b842058c5fedca49": {
             "hash": "b842058c5fedca49",
             "directory": "External23",
             "voiceContent": "가는 길은 내게 맡",
             "sourceName": "vo_WYLQ103_1_kazuha_01.wem"
+        },
+        "d50cbfdaa86f8b96": {
+            "hash": "d50cbfdaa86f8b96",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_02.wem"
         }
     },
     "Gameplay": {
@@ -352,6 +370,12 @@
             "voiceContent": "풍향을 따",
             "sourceName": "vo_kazuha_explore_fly_start_01.wem"
         },
+        "086384331e007f10": {
+            "hash": "086384331e007f10",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_03.wem"
+        },
         "0952926f2f71a1b5": {
             "hash": "0952926f2f71a1b5",
             "directory": "External1",
@@ -369,6 +393,12 @@
             "directory": "External1",
             "voiceContent": "바다에서 가장 쉽게 얻을 수 있는 식자재는 바로 생선이야. 생선을 맛있게 요리하는 방법은 바다 위를 모험하는 모든 사람의 고민이지. 기회 되면 너한테도 내 솜씨 좀 보여주고 싶",
             "sourceName": "vo_kazuha_pref_foodLike.wem"
+        },
+        "0e5d8b509dbe27c1": {
+            "hash": "0e5d8b509dbe27c1",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_2.wem"
         },
         "0edb8e3e93b390b8": {
             "hash": "0edb8e3e93b390b8",
@@ -400,6 +430,12 @@
             "voiceContent": "괜찮…",
             "sourceName": "vo_kazuha_battle_hit_H_01.wem"
         },
+        "17ebdbc7e11b33c5": {
+            "hash": "17ebdbc7e11b33c5",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_1.wem"
+        },
         "194366f2a6833369": {
             "hash": "194366f2a6833369",
             "directory": "External3",
@@ -422,7 +458,7 @@
             "hash": "1c566d5639e4c625",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_02.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_02.wem"
         },
         "1cc4f3b6d7fbfd40": {
             "hash": "1cc4f3b6d7fbfd40",
@@ -470,7 +506,7 @@
             "hash": "2816cbeff5204f43",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_02.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_02.wem"
         },
         "29958bf7e1fda7d4": {
             "hash": "29958bf7e1fda7d4",
@@ -488,25 +524,37 @@
             "hash": "2ae9f1e70096c727",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_04.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_04.wem"
         },
         "2c92023a0d9b11ab": {
             "hash": "2c92023a0d9b11ab",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_01.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_01.wem"
+        },
+        "2e0684db186a7cbb": {
+            "hash": "2e0684db186a7cbb",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_02.wem"
+        },
+        "2ee433f0115c9b5c": {
+            "hash": "2ee433f0115c9b5c",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_3.wem"
+        },
+        "300e2001bbde997e": {
+            "hash": "300e2001bbde997e",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_5.wem"
         },
         "3571cd0fa7be636d": {
             "hash": "3571cd0fa7be636d",
             "directory": "External6",
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_climb_breath_01.wem"
-        },
-        "36df01080113f4fe": {
-            "hash": "36df01080113f4fe",
-            "directory": "External6",
-            "voiceContent": "좀 쉴래? 마음이 힘들면 요리도 맛을 잃기 마련이",
-            "sourceName": "vo_kazuha_spice_event_dislike_01.wem"
         },
         "39d1028dd35b4424": {
             "hash": "39d1028dd35b4424",
@@ -518,7 +566,7 @@
             "hash": "3c2cfdd5f0bcd90d",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_02.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_02.wem"
         },
         "3cae92c10b511207": {
             "hash": "3cae92c10b511207",
@@ -586,11 +634,29 @@
             "voiceContent": "바람과 함",
             "sourceName": "vo_kazuha_battle_skill1_04.wem"
         },
+        "587eb6f2921dfbc4": {
+            "hash": "587eb6f2921dfbc4",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_01.wem"
+        },
+        "58921023e49c53ee": {
+            "hash": "58921023e49c53ee",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_01.wem"
+        },
         "59430ad3fe3e6da3": {
             "hash": "59430ad3fe3e6da3",
             "directory": "External11",
             "voiceContent": "네 요리는 배를 채워줄 뿐 아니라 큰 위로가 되어주기도",
             "sourceName": "vo_kazuha_spice_normal_01.wem"
+        },
+        "599721f1a309ca38": {
+            "hash": "599721f1a309ca38",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_4.wem"
         },
         "5bbecbe0279f8ab8": {
             "hash": "5bbecbe0279f8ab8",
@@ -626,7 +692,7 @@
             "hash": "6580c87ce10ad1b2",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_05.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_05.wem"
         },
         "66ac1a7e1f8cc85d": {
             "hash": "66ac1a7e1f8cc85d",
@@ -634,23 +700,29 @@
             "voiceContent": "기운 내. 이번 판은 운이 좋았던 거라 다음 판은 어떨지 몰",
             "sourceName": "vo_card_kazuha_endOfGame_win_01.wem"
         },
+        "6b802fb8aa99d1eb": {
+            "hash": "6b802fb8aa99d1eb",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_3.wem"
+        },
+        "6c6fafe03d22a76a": {
+            "hash": "6c6fafe03d22a76a",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_1.wem"
+        },
         "6d950a19ba4ed34e": {
             "hash": "6d950a19ba4ed34e",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_07.wem"
-        },
-        "6dfc3d2dc703c058": {
-            "hash": "6dfc3d2dc703c058",
-            "directory": "External13",
-            "voiceContent": "생선으로 이런 맛을 낼 수 있다니, 솜씨가 대단하",
-            "sourceName": "vo_kazuha_spice_event_pref_01.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_07.wem"
         },
         "6ebefe2b64d0def0": {
             "hash": "6ebefe2b64d0def0",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_05.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_05.wem"
         },
         "6f2f5395f6f88ffc": {
             "hash": "6f2f5395f6f88ffc",
@@ -662,7 +734,13 @@
             "hash": "71b7b35d4489a654",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_03.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_03.wem"
+        },
+        "7329902b7b36d78e": {
+            "hash": "7329902b7b36d78e",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_2.wem"
         },
         "73f12eaebd20032b": {
             "hash": "73f12eaebd20032b",
@@ -698,7 +776,7 @@
             "hash": "7d1b4fee0886361e",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_05.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_05.wem"
         },
         "7eec73b1eb29e957": {
             "hash": "7eec73b1eb29e957",
@@ -728,7 +806,7 @@
             "hash": "831c7452c2c0a934",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_02.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_02.wem"
         },
         "86c086a6913d9289": {
             "hash": "86c086a6913d9289",
@@ -748,11 +826,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_climb_breath_03.wem"
         },
+        "892041f83ff18707": {
+            "hash": "892041f83ff18707",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_4.wem"
+        },
+        "8a20de2adaa09c91": {
+            "hash": "8a20de2adaa09c91",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_02.wem"
+        },
         "8a43d901ba2dd8f9": {
             "hash": "8a43d901ba2dd8f9",
             "directory": "External17",
             "voiceContent": "좀 쉴래? 마음이 힘들면 요리도 맛을 잃기 마련이",
             "sourceName": "vo_kazuha_spice_dislike_01.wem"
+        },
+        "8a492e09ea71d221": {
+            "hash": "8a492e09ea71d221",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_6.wem"
         },
         "8abf1ab3414fe3f3": {
             "hash": "8abf1ab3414fe3f3",
@@ -788,13 +884,19 @@
             "hash": "9746a683d73e7895",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_06.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_06.wem"
         },
         "99b932c055303aae": {
             "hash": "99b932c055303aae",
             "directory": "External19",
             "voiceContent": "일어나라",
             "sourceName": "vo_kazuha_battle_skill1_01.wem"
+        },
+        "9a624de73015e6ed": {
+            "hash": "9a624de73015e6ed",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_2.wem"
         },
         "9c96f91add97d0c7": {
             "hash": "9c96f91add97d0c7",
@@ -808,17 +910,17 @@
             "voiceContent": "파도가 거칠게 몰아치고 있어. 나도 더 강해져야",
             "sourceName": "vo_kazuha_starUp_03.wem"
         },
-        "a7d9174add92fd52": {
-            "hash": "a7d9174add92fd52",
-            "directory": "External20",
-            "voiceContent": "네 요리는 배를 채워줄 뿐 아니라 큰 위로가 되어주기도",
-            "sourceName": "vo_kazuha_spice_event_normal_01.wem"
-        },
         "a8a2ffe633636012": {
             "hash": "a8a2ffe633636012",
             "directory": "External21",
             "voiceContent": "내 탐정 친구는 평소에는 소탈하고 즉흥적인 성격이지만, 사건을 처리할 때는 그를 둘러싸고 있던 활기 넘치는 바람조차 예리하고 날카로워진다니까. 정말 존경스러",
             "sourceName": "vo_kazuha_teammate_heizou_01.wem"
+        },
+        "a8ad12e358b97e72": {
+            "hash": "a8ad12e358b97e72",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_03.wem"
         },
         "a8ff38e9da36ed06": {
             "hash": "a8ff38e9da36ed06",
@@ -868,17 +970,29 @@
             "voiceContent": "이나즈마를 떠난 뒤부터 반성하며 나 자신에게 여러 번 되물었어. 라이덴 쇼군에 대한 불만이 그때의 어전시합에서 그녀가 내 친구를 베어버리던 모습 때문인지.오랜 시간 생각한 결과, 아니란 걸 깨달았어. 내 친구는 그 시합에서 정정당당하게 싸우다가 죽은 거고, 라이덴 쇼군이 그를 벤 것 역시 잘못된 게 아니었지. 내가 그녀에게 불만을 가진 이유는 「안수령(眼狩令)」 때문이야. 그 누구도 타인의 소망을 박탈할 자격은 없어. 설령 「신」이라 할지라도 말이",
             "sourceName": "vo_kazuha_teammate_raidenShogun_01.wem"
         },
+        "b4227d486f2aee1e": {
+            "hash": "b4227d486f2aee1e",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_1.wem"
+        },
         "b509caec1ebd029a": {
             "hash": "b509caec1ebd029a",
             "directory": "External22",
             "voiceContent": "내가 볼 때 신의 눈은 힘을 「증명」하는 거지, 힘의 「원천」이 아니야. 신의 눈은 계속 나아가고자 하는 인간의 소망을 상징하지만, 우리 무사들의 저력은 바로 손에 쥔 검이라",
             "sourceName": "vo_kazuha_dialog_pendant.wem"
         },
+        "b54bb15a19abb3c0": {
+            "hash": "b54bb15a19abb3c0",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_3.wem"
+        },
         "b616dfcc86e71b0a": {
             "hash": "b616dfcc86e71b0a",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_01.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_01.wem"
         },
         "ba7ba887c698cce6": {
             "hash": "ba7ba887c698cce6",
@@ -898,11 +1012,17 @@
             "voiceContent": "「흩날리는 비바람 속에서 검을 들고 맨발로 걷네」…. 내 이름은 카에데하라 카즈하, 사방을 떠도는 낭인이지. 우리 둘 다 여행 중이니 동행하는 게 어때",
             "sourceName": "vo_kazuha_draw_appear.wem"
         },
+        "bd7abdbfb25a4fa2": {
+            "hash": "bd7abdbfb25a4fa2",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_2.wem"
+        },
         "bdc29e0a80e901ac": {
             "hash": "bdc29e0a80e901ac",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_01.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_01.wem"
         },
         "be57c5b7e47b9a11": {
             "hash": "be57c5b7e47b9a11",
@@ -926,7 +1046,7 @@
             "hash": "c1e54f4e0b23e202",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_01.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_01.wem"
         },
         "c244ce2e1237274a": {
             "hash": "c244ce2e1237274a",
@@ -986,7 +1106,7 @@
             "hash": "d0aee3ded2038e7c",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_03.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_03.wem"
         },
         "d18a1c267efc68bf": {
             "hash": "d18a1c267efc68bf",
@@ -998,7 +1118,7 @@
             "hash": "d2a199f9741fb17a",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_03.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_03.wem"
         },
         "d30b19df2cd8104b": {
             "hash": "d30b19df2cd8104b",
@@ -1022,7 +1142,7 @@
             "hash": "d7565df637196fc1",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_06.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_06.wem"
         },
         "d82ccb6b8be9fb7f": {
             "hash": "d82ccb6b8be9fb7f",
@@ -1034,7 +1154,7 @@
             "hash": "d8f1ecad992d0fc8",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_03.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_03.wem"
         },
         "d93fe6490970dd2c": {
             "hash": "d93fe6490970dd2c",
@@ -1052,7 +1172,7 @@
             "hash": "dc64ae4947014f85",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_03.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_03.wem"
         },
         "ddaefc719b3fdf91": {
             "hash": "ddaefc719b3fdf91",
@@ -1096,11 +1216,17 @@
             "voiceContent": "걱정 마. 언젠가 우리가 각자의 길로 가더라도 분명 다시 만나게 될 테니까. 사람 사이의 「인연」은 그렇게 쉽게 끊어지지 않",
             "sourceName": "vo_kazuha_friendship_05.wem"
         },
+        "e6cb569ce0012f89": {
+            "hash": "e6cb569ce0012f89",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_01.wem"
+        },
         "e7743a749dd8a7fb": {
             "hash": "e7743a749dd8a7fb",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_04.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_04.wem"
         },
         "eb85d7047b4f6d2a": {
             "hash": "eb85d7047b4f6d2a",
@@ -1124,13 +1250,25 @@
             "hash": "ef526c1176eefe57",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_06.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_06.wem"
         },
         "f07c58232170fc71": {
             "hash": "f07c58232170fc71",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_04.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_04.wem"
+        },
+        "f4e6f22337d70297": {
+            "hash": "f4e6f22337d70297",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_3.wem"
+        },
+        "f976de34e53c29b1": {
+            "hash": "f976de34e53c29b1",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_1.wem"
         },
         "fd2f11ba2e89be4e": {
             "hash": "fd2f11ba2e89be4e",

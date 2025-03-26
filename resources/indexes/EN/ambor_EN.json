@@ -248,11 +248,35 @@
         }
     },
     "Quests": {
+        "043baff3c0cc70f7": {
+            "hash": "043baff3c0cc70f7",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_9.wem"
+        },
         "10290f312ed979df": {
             "hash": "10290f312ed979df",
             "directory": "External2",
             "voiceContent": "#{NICKNAME} is a natural. I knew you'd be fine",
             "sourceName": "vo_ABLQ005_3_ambor_02.wem"
+        },
+        "1a962d96e448a312": {
+            "hash": "1a962d96e448a312",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_4.wem"
+        },
+        "1c8a737d68801bc4": {
+            "hash": "1c8a737d68801bc4",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ005_ambor_01.wem"
+        },
+        "1f2651a891ae29e4": {
+            "hash": "1f2651a891ae29e4",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_6.wem"
         },
         "26bf1af09a7b5b02": {
             "hash": "26bf1af09a7b5b02",
@@ -266,17 +290,59 @@
             "voiceContent": "Wow! I can see so far into the temple",
             "sourceName": "vo_MDAQ028_4_ambor_02.wem"
         },
+        "3bd6ebc0947d17e9": {
+            "hash": "3bd6ebc0947d17e9",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_3.wem"
+        },
+        "4d501faf84d0fd6f": {
+            "hash": "4d501faf84d0fd6f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_1.wem"
+        },
+        "7f184dfc01491cee": {
+            "hash": "7f184dfc01491cee",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_8.wem"
+        },
         "80070ce71ebb87cb": {
             "hash": "80070ce71ebb87cb",
             "directory": "External16",
             "voiceContent": "Are those explosive barrels over there",
             "sourceName": "vo_MDAQ028_4_ambor_06.wem"
         },
+        "813038f8c93c3f25": {
+            "hash": "813038f8c93c3f25",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_MDAQ028_4_ambor_04.wem"
+        },
         "9424895b74f27401": {
             "hash": "9424895b74f27401",
             "directory": "External18",
             "voiceContent": "It's so high... Seems like there's something up there",
             "sourceName": "vo_MDAQ028_4_ambor_08.wem"
+        },
+        "9c8a9f8ea1182c5b": {
+            "hash": "9c8a9f8ea1182c5b",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_5.wem"
+        },
+        "a1198ba04e7ba075": {
+            "hash": "a1198ba04e7ba075",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_7.wem"
+        },
+        "a3a91eac4a75258c": {
+            "hash": "a3a91eac4a75258c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02b_1.wem"
         },
         "a59f014bba74d358": {
             "hash": "a59f014bba74d358",
@@ -308,6 +374,30 @@
             "voiceContent": "Okay then. You just need to follow the marked route to the finish",
             "sourceName": "vo_ABLQ002_2_ambor_16.wem"
         },
+        "d65ccfc5161da53b": {
+            "hash": "d65ccfc5161da53b",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_01.wem"
+        },
+        "d6917effd3e11f54": {
+            "hash": "d6917effd3e11f54",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_MDAQ028_4_ambor_05.wem"
+        },
+        "d7baab117e61d6b6": {
+            "hash": "d7baab117e61d6b6",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_MDAQ028_4_ambor_03.wem"
+        },
+        "e2c4d1ca106a36a8": {
+            "hash": "e2c4d1ca106a36a8",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_2.wem"
+        },
         "e59aa48066a04538": {
             "hash": "e59aa48066a04538",
             "directory": "External28",
@@ -320,7 +410,7 @@
             "hash": "002bcf970b42c0a9",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_01.wem"
+            "sourceName": "vo_ambor_battle_attackLight_01.wem"
         },
         "02e74d666a5e17c6": {
             "hash": "02e74d666a5e17c6",
@@ -362,7 +452,13 @@
             "hash": "104e8a98c0b68671",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackheavy_02.wem"
+            "sourceName": "vo_ambor_battle_attackHeavy_02.wem"
+        },
+        "10733f9aa498d190": {
+            "hash": "10733f9aa498d190",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_01.wem"
         },
         "10dd33d7c145d36d": {
             "hash": "10dd33d7c145d36d",
@@ -374,13 +470,13 @@
             "hash": "13546ee6755bd726",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_l_04.wem"
+            "sourceName": "vo_ambor_battle_hit_L_04.wem"
         },
         "150b0385fe79cf2f": {
             "hash": "150b0385fe79cf2f",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_03.wem"
+            "sourceName": "vo_ambor_battle_attackLight_03.wem"
         },
         "153b9177912f7dc1": {
             "hash": "153b9177912f7dc1",
@@ -393,6 +489,24 @@
             "directory": "External3",
             "voiceContent": "When you have time, we should go see Lisa! Last time I saw her, she was telling me about a story involving a treasure in the Dragonspine area. But, we got cut off before she could finish. I can't wait to hear the rest of her story",
             "sourceName": "vo_ambor_teammate_lisa_01.wem"
+        },
+        "1d60694ffe68a169": {
+            "hash": "1d60694ffe68a169",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_08.wem"
+        },
+        "1e898d61a8e94b63": {
+            "hash": "1e898d61a8e94b63",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_06.wem"
+        },
+        "1f675163f862538b": {
+            "hash": "1f675163f862538b",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_09.wem"
         },
         "21eca5b26c0490dd": {
             "hash": "21eca5b26c0490dd",
@@ -418,6 +532,30 @@
             "voiceContent": "Go go Baron Bunny",
             "sourceName": "vo_ambor_battle_skill1_02.wem"
         },
+        "297753c0e6a0367c": {
+            "hash": "297753c0e6a0367c",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_02.wem"
+        },
+        "2a3ccabd2db098d2": {
+            "hash": "2a3ccabd2db098d2",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_10.wem"
+        },
+        "2a43433bc09fdeba": {
+            "hash": "2a43433bc09fdeba",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_14.wem"
+        },
+        "2c2f76ef90bdc847": {
+            "hash": "2c2f76ef90bdc847",
+            "directory": "External5",
+            "voiceContent": "",
+            "sourceName": "vo_ambor_suit_renew_03.wem"
+        },
         "2d97f6c17e838018": {
             "hash": "2d97f6c17e838018",
             "directory": "External5",
@@ -436,6 +574,18 @@
             "voiceContent": "Ouch! Meanie..",
             "sourceName": "vo_ambor_life_less30_02.wem"
         },
+        "301ecdd84bb617c1": {
+            "hash": "301ecdd84bb617c1",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_07.wem"
+        },
+        "30bf63013e22ef61": {
+            "hash": "30bf63013e22ef61",
+            "directory": "External6",
+            "voiceContent": "",
+            "sourceName": "vo_ambor_suit_renew_01.wem"
+        },
         "317f56e6fdeb66b5": {
             "hash": "317f56e6fdeb66b5",
             "directory": "External6",
@@ -447,6 +597,12 @@
             "directory": "External6",
             "voiceContent": "At this speed, no one can keep up with me",
             "sourceName": "vo_ambor_starUp_02.wem"
+        },
+        "31e632ae6618696a": {
+            "hash": "31e632ae6618696a",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_02.wem"
         },
         "320c0591a2d4061c": {
             "hash": "320c0591a2d4061c",
@@ -466,12 +622,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_sprint_start_04.wem"
         },
-        "3368fca616b34a2e": {
-            "hash": "3368fca616b34a2e",
-            "directory": "External6",
-            "voiceContent": "I wish I was as good at cooking as you..",
-            "sourceName": "vo_ambor_spice_event_normal_01.wem"
-        },
         "33a1410b4b586692": {
             "hash": "33a1410b4b586692",
             "directory": "External6",
@@ -484,11 +634,23 @@
             "voiceContent": "Another target tracked down by Outrider Amber",
             "sourceName": "vo_ambor_chest_open_02.wem"
         },
+        "37ea16ec54b917d4": {
+            "hash": "37ea16ec54b917d4",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_09.wem"
+        },
         "3831651cf8bded64": {
             "hash": "3831651cf8bded64",
             "directory": "External7",
             "voiceContent": "Whatcha think? Not bad, huh",
             "sourceName": "vo_card_ambor_inGame_hard_01.wem"
+        },
+        "38482383253b8868": {
+            "hash": "38482383253b8868",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_11.wem"
         },
         "38e2e90b02e3ec14": {
             "hash": "38e2e90b02e3ec14",
@@ -520,11 +682,17 @@
             "voiceContent": "I'll race you there",
             "sourceName": "vo_ambor_explore_sprint_start_01.wem"
         },
+        "3d1eb336f7e4920f": {
+            "hash": "3d1eb336f7e4920f",
+            "directory": "External7",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_ambor_02.wem"
+        },
         "3de7f69ec456a0d4": {
             "hash": "3de7f69ec456a0d4",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_h_06.wem"
+            "sourceName": "vo_ambor_battle_hit_H_06.wem"
         },
         "3eea9162dd6c9f6f": {
             "hash": "3eea9162dd6c9f6f",
@@ -538,17 +706,35 @@
             "voiceContent": "Must keep... training..",
             "sourceName": "vo_ambor_life_die_02.wem"
         },
+        "40f8b698768330c2": {
+            "hash": "40f8b698768330c2",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_05.wem"
+        },
         "43e432143238e9da": {
             "hash": "43e432143238e9da",
             "directory": "External8",
             "voiceContent": "Outrider Amber reporting for duty! Just say the word if you ever need my help",
             "sourceName": "vo_ambor_draw_appear.wem"
         },
+        "45aab538bc649be7": {
+            "hash": "45aab538bc649be7",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_06.wem"
+        },
         "464dfaeb61374bcc": {
             "hash": "464dfaeb61374bcc",
             "directory": "External8",
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_idle_03.wem"
+        },
+        "46f31553c36d7897": {
+            "hash": "46f31553c36d7897",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_11.wem"
         },
         "491dfe0f70cd8a42": {
             "hash": "491dfe0f70cd8a42",
@@ -562,6 +748,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_jump_01.wem"
         },
+        "4b83016570d29fb1": {
+            "hash": "4b83016570d29fb1",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_13.wem"
+        },
         "4c4042e210563aff": {
             "hash": "4c4042e210563aff",
             "directory": "External9",
@@ -574,6 +766,12 @@
             "voiceContent": "Klee? She can be a bit cheeky sometimes, but everyone in the Knights of Favonius likes her. Although... I really ought to keep a closer eye on her if I wanna keep her from getting put in confinement by Jean again",
             "sourceName": "vo_ambor_teammate_klee_01.wem"
         },
+        "4e96c4c668e74907": {
+            "hash": "4e96c4c668e74907",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_07.wem"
+        },
         "4ef5c03298a459ec": {
             "hash": "4ef5c03298a459ec",
             "directory": "External9",
@@ -584,7 +782,13 @@
             "hash": "4f0d9095f81f9e6c",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackmid_02.wem"
+            "sourceName": "vo_ambor_battle_attackMid_02.wem"
+        },
+        "4fbfb0d813679421": {
+            "hash": "4fbfb0d813679421",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_05.wem"
         },
         "4fc57026d5e35e5f": {
             "hash": "4fc57026d5e35e5f",
@@ -604,6 +808,12 @@
             "voiceContent": "I'll share my ultimate Gliding Champion secret with you! The most important thing to remember, is to have courage",
             "sourceName": "vo_ambor_friendship_02.wem"
         },
+        "50bd16fb1f83e71e": {
+            "hash": "50bd16fb1f83e71e",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_09.wem"
+        },
         "5373e699e020f019": {
             "hash": "5373e699e020f019",
             "directory": "External10",
@@ -615,6 +825,12 @@
             "directory": "External10",
             "voiceContent": "Try this",
             "sourceName": "vo_card_ambor_inGame_hard_04.wem"
+        },
+        "55c3d5160208afd3": {
+            "hash": "55c3d5160208afd3",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_02.wem"
         },
         "574bbab85bc67395": {
             "hash": "574bbab85bc67395",
@@ -652,6 +868,12 @@
             "voiceContent": "No escape",
             "sourceName": "vo_ambor_battle_skill3_03.wem"
         },
+        "5abcc8b3c25f8203": {
+            "hash": "5abcc8b3c25f8203",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_10.wem"
+        },
         "5bf788fe779ee5c6": {
             "hash": "5bf788fe779ee5c6",
             "directory": "External11",
@@ -670,23 +892,41 @@
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_jump_03.wem"
         },
-        "5f2cae8afbd49f5a": {
-            "hash": "5f2cae8afbd49f5a",
+        "5ed374c223d47bd9": {
+            "hash": "5ed374c223d47bd9",
             "directory": "External11",
-            "voiceContent": "Uh, I'm just not used to this taste, sorry! Nothing to do with you of course",
-            "sourceName": "vo_ambor_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_02.wem"
+        },
+        "5f77df79c0b2a84c": {
+            "hash": "5f77df79c0b2a84c",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_05.wem"
+        },
+        "5fd8d0b5590ba8ed": {
+            "hash": "5fd8d0b5590ba8ed",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_01.wem"
+        },
+        "60a1cb8b6b34a66e": {
+            "hash": "60a1cb8b6b34a66e",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_03.wem"
         },
         "644583651ac0fe1b": {
             "hash": "644583651ac0fe1b",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_07.wem"
+            "sourceName": "vo_ambor_battle_attackLight_07.wem"
         },
         "656f6f76c542fc35": {
             "hash": "656f6f76c542fc35",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_05.wem"
+            "sourceName": "vo_ambor_battle_attackLight_05.wem"
         },
         "66f8bc391e1ed559": {
             "hash": "66f8bc391e1ed559",
@@ -711,6 +951,12 @@
             "directory": "External13",
             "voiceContent": "Hey, there's something strange over there... C'mon, let's take a look",
             "sourceName": "vo_ambor_explore_idle_03.wem"
+        },
+        "70f0db68b1062e1a": {
+            "hash": "70f0db68b1062e1a",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_07.wem"
         },
         "758139a335839b23": {
             "hash": "758139a335839b23",
@@ -742,6 +988,12 @@
             "voiceContent": "At the ready",
             "sourceName": "vo_ambor_teamJoin_02.wem"
         },
+        "7dd6e54f0f8029c8": {
+            "hash": "7dd6e54f0f8029c8",
+            "directory": "External15",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_ambor_01.wem"
+        },
         "7dea90306442a667": {
             "hash": "7dea90306442a667",
             "directory": "External15",
@@ -765,6 +1017,18 @@
             "directory": "External16",
             "voiceContent": "Whoa... You're so much better than everyone I've played against..",
             "sourceName": "vo_card_ambor_event_invite_fail_01.wem"
+        },
+        "82bc3f494d077b7b": {
+            "hash": "82bc3f494d077b7b",
+            "directory": "External16",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_ambor_battle_skill2_02.wem"
+        },
+        "83b261c915336f27": {
+            "hash": "83b261c915336f27",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_05.wem"
         },
         "85053a3c9bdc1332": {
             "hash": "85053a3c9bdc1332",
@@ -812,19 +1076,25 @@
             "hash": "8d673c8f59945d4e",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackheavy_01.wem"
+            "sourceName": "vo_ambor_battle_attackHeavy_01.wem"
+        },
+        "8df33d79a6698ca9": {
+            "hash": "8df33d79a6698ca9",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_10.wem"
         },
         "8e15928f8af0dc82": {
             "hash": "8e15928f8af0dc82",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_h_04.wem"
+            "sourceName": "vo_ambor_battle_hit_H_04.wem"
         },
         "8e9130a1041668f0": {
             "hash": "8e9130a1041668f0",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackheavy_03.wem"
+            "sourceName": "vo_ambor_battle_attackHeavy_03.wem"
         },
         "8e92ff3b40c7b50c": {
             "hash": "8e92ff3b40c7b50c",
@@ -836,7 +1106,7 @@
             "hash": "8fe7a18e3ef67b46",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_02.wem"
+            "sourceName": "vo_ambor_battle_attackLight_02.wem"
         },
         "909872ee8ea4eaeb": {
             "hash": "909872ee8ea4eaeb",
@@ -850,23 +1120,47 @@
             "voiceContent": "I won! Aww, don't be sad. I... I'll treat you to some food! How does Sticky Honey Roast sound",
             "sourceName": "vo_card_ambor_endOfGame_win_01.wem"
         },
+        "922ca67c72563f74": {
+            "hash": "922ca67c72563f74",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_08.wem"
+        },
+        "93cb81a65ad78313": {
+            "hash": "93cb81a65ad78313",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_01.wem"
+        },
         "941ebccc87a90295": {
             "hash": "941ebccc87a90295",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_l_03.wem"
+            "sourceName": "vo_ambor_battle_hit_L_03.wem"
+        },
+        "94f56db80559810d": {
+            "hash": "94f56db80559810d",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_03.wem"
         },
         "9511d0de31fc020f": {
             "hash": "9511d0de31fc020f",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_l_05.wem"
+            "sourceName": "vo_ambor_battle_hit_L_05.wem"
         },
         "967fd3d2579d9f82": {
             "hash": "967fd3d2579d9f82",
             "directory": "External18",
             "voiceContent": "Agreed, getting rest is essential! Let's meet here tomorrow then. See ya",
             "sourceName": "vo_ambor_dialog_greetingNight2.wem"
+        },
+        "97db133fc45257de": {
+            "hash": "97db133fc45257de",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_07.wem"
         },
         "982304a6f2e9d99f": {
             "hash": "982304a6f2e9d99f",
@@ -886,11 +1180,29 @@
             "voiceContent": "You got me..",
             "sourceName": "vo_ambor_life_die_03.wem"
         },
+        "9a40a88efac35c8b": {
+            "hash": "9a40a88efac35c8b",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_04.wem"
+        },
         "9a6e869ccf09071f": {
             "hash": "9a6e869ccf09071f",
             "directory": "External19",
             "voiceContent": "I'll never surrender",
             "sourceName": "vo_ambor_life_less30_01.wem"
+        },
+        "9b6ad4a0a545c7e5": {
+            "hash": "9b6ad4a0a545c7e5",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_06.wem"
+        },
+        "9c6b475171b7f880": {
+            "hash": "9c6b475171b7f880",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_05.wem"
         },
         "9d8665c3916ea64b": {
             "hash": "9d8665c3916ea64b",
@@ -909,6 +1221,18 @@
             "directory": "External20",
             "voiceContent": "I joined the Knights because of my grandpa, I stayed because of Jean. And now, you're the one that showed me the world beyond Mondstadt. I couldn't be happier",
             "sourceName": "vo_ambor_friendship_04.wem"
+        },
+        "a4e3d8bd58100b54": {
+            "hash": "a4e3d8bd58100b54",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_ambor_01.wem"
+        },
+        "a55756df1e3aa6a0": {
+            "hash": "a55756df1e3aa6a0",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_04.wem"
         },
         "a7794ea92260a2fb": {
             "hash": "a7794ea92260a2fb",
@@ -934,6 +1258,12 @@
             "voiceContent": "Hey... Need some help",
             "sourceName": "vo_ambor_life_less30_teammate_02.wem"
         },
+        "ad357160c6bcac84": {
+            "hash": "ad357160c6bcac84",
+            "directory": "External21",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_ambor_battle_skill2_01.wem"
+        },
         "ae0d02a19c7b5377": {
             "hash": "ae0d02a19c7b5377",
             "directory": "External21",
@@ -944,7 +1274,7 @@
             "hash": "af5550b93b239d99",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_h_03.wem"
+            "sourceName": "vo_ambor_battle_hit_H_03.wem"
         },
         "af8b1cef411c3d24": {
             "hash": "af8b1cef411c3d24",
@@ -975,6 +1305,12 @@
             "directory": "External22",
             "voiceContent": "Wow, these will come in handy",
             "sourceName": "vo_ambor_chest_open_03.wem"
+        },
+        "b36d64a6228ab373": {
+            "hash": "b36d64a6228ab373",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_03.wem"
         },
         "b437a5a932ee54df": {
             "hash": "b437a5a932ee54df",
@@ -1022,13 +1358,13 @@
             "hash": "b961be7b6c56eb03",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackmid_01.wem"
+            "sourceName": "vo_ambor_battle_attackMid_01.wem"
         },
         "ba8baa8d16d8e93d": {
             "hash": "ba8baa8d16d8e93d",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackmid_03.wem"
+            "sourceName": "vo_ambor_battle_attackMid_03.wem"
         },
         "c0254451da6336f1": {
             "hash": "c0254451da6336f1",
@@ -1042,6 +1378,36 @@
             "voiceContent": "Oh! Mika's a veteran of Eula's team. When he first arrived, it was always Yes, Commander! every time he spoke to me — I guess it must have been because he saw how close I was with Eula. But then, even after I told him I was actually an Outrider, he still called me Ma'am... It was so embarrassing. We have completely different responsibilities, after all. I definitely could never match his expertise in cartography",
             "sourceName": "vo_ambor_teammate_mika_01.wem"
         },
+        "c44e4f597a55c028": {
+            "hash": "c44e4f597a55c028",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_09.wem"
+        },
+        "c535b35c06cd4d8e": {
+            "hash": "c535b35c06cd4d8e",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_10.wem"
+        },
+        "c61f5f6d742227c2": {
+            "hash": "c61f5f6d742227c2",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_08.wem"
+        },
+        "c65fa76db14f5930": {
+            "hash": "c65fa76db14f5930",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_12.wem"
+        },
+        "ce5bf970e24f1c1d": {
+            "hash": "ce5bf970e24f1c1d",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_04.wem"
+        },
         "d1b68ca22380d298": {
             "hash": "d1b68ca22380d298",
             "directory": "External26",
@@ -1054,17 +1420,41 @@
             "voiceContent": "Aw... I made a wrong move..",
             "sourceName": "vo_card_ambor_inGame_easy_02.wem"
         },
+        "d43ca31e459665ca": {
+            "hash": "d43ca31e459665ca",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_03.wem"
+        },
         "d45f437d6905d8a8": {
             "hash": "d45f437d6905d8a8",
             "directory": "External26",
             "voiceContent": "This breeze... so refreshing",
             "sourceName": "vo_ambor_weather_breezy_01.wem"
         },
+        "d5e3bfd01d22de1e": {
+            "hash": "d5e3bfd01d22de1e",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_04.wem"
+        },
         "d6816cd249794826": {
             "hash": "d6816cd249794826",
             "directory": "External26",
             "voiceContent": "Now's the right moment",
             "sourceName": "vo_card_ambor_inGame_easy_04.wem"
+        },
+        "d68454f90f8fb5be": {
+            "hash": "d68454f90f8fb5be",
+            "directory": "External26",
+            "voiceContent": "",
+            "sourceName": "vo_ambor_suit_renew_02.wem"
+        },
+        "d70cf3e1c7a3a3c0": {
+            "hash": "d70cf3e1c7a3a3c0",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_06.wem"
         },
         "d81eb4718a89844c": {
             "hash": "d81eb4718a89844c",
@@ -1077,6 +1467,12 @@
             "directory": "External27",
             "voiceContent": "Let it rain",
             "sourceName": "vo_ambor_battle_skill3_02.wem"
+        },
+        "dd161aca67345e58": {
+            "hash": "dd161aca67345e58",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_03.wem"
         },
         "de5ea5479bbc4c6b": {
             "hash": "de5ea5479bbc4c6b",
@@ -1096,12 +1492,6 @@
             "voiceContent": "I wish I was as good at cooking as you..",
             "sourceName": "vo_ambor_spice_normal_01.wem"
         },
-        "e07f723aea1247b4": {
-            "hash": "e07f723aea1247b4",
-            "directory": "External28",
-            "voiceContent": "Wow! This is delicious, you're an amazing cook",
-            "sourceName": "vo_ambor_spice_event_pref_01.wem"
-        },
         "e11aeaf6372239af": {
             "hash": "e11aeaf6372239af",
             "directory": "External28",
@@ -1118,7 +1508,13 @@
             "hash": "e252116d5df328d2",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_06.wem"
+            "sourceName": "vo_ambor_battle_attackLight_06.wem"
+        },
+        "e288d0e54a1437a5": {
+            "hash": "e288d0e54a1437a5",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_08.wem"
         },
         "e2ea95d0ce5293ea": {
             "hash": "e2ea95d0ce5293ea",
@@ -1130,7 +1526,7 @@
             "hash": "e37b357f0873d2a4",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_04.wem"
+            "sourceName": "vo_ambor_battle_attackLight_04.wem"
         },
         "e3bbe50740e5a674": {
             "hash": "e3bbe50740e5a674",
@@ -1142,7 +1538,7 @@
             "hash": "e44c50bd4e4331fb",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_l_01.wem"
+            "sourceName": "vo_ambor_battle_hit_L_01.wem"
         },
         "e53b6241617eb7d8": {
             "hash": "e53b6241617eb7d8",
@@ -1162,6 +1558,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_climb_breath_02.wem"
         },
+        "e5c52d832ab7fa77": {
+            "hash": "e5c52d832ab7fa77",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_02.wem"
+        },
         "e629d1f2c0fe1e98": {
             "hash": "e629d1f2c0fe1e98",
             "directory": "External28",
@@ -1172,7 +1574,7 @@
             "hash": "e75d84860f31094b",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_h_05.wem"
+            "sourceName": "vo_ambor_battle_hit_H_05.wem"
         },
         "e9a5a40f4695b62b": {
             "hash": "e9a5a40f4695b62b",
@@ -1180,11 +1582,35 @@
             "voiceContent": "Tired..",
             "sourceName": "vo_ambor_life_die_01.wem"
         },
+        "eb6fa7308dd1623c": {
+            "hash": "eb6fa7308dd1623c",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_01.wem"
+        },
+        "eb74e072f696e5c5": {
+            "hash": "eb74e072f696e5c5",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_09.wem"
+        },
+        "ed651aa7ad05cb14": {
+            "hash": "ed651aa7ad05cb14",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_07.wem"
+        },
         "f1624f1f3af6174f": {
             "hash": "f1624f1f3af6174f",
             "directory": "External30",
             "voiceContent": "Okay, let's see who will come out on top this time",
             "sourceName": "vo_card_ambor_invite_easy_01.wem"
+        },
+        "f1f546b95a6b5f76": {
+            "hash": "f1f546b95a6b5f76",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_01.wem"
         },
         "f321e3f2d1a8b35d": {
             "hash": "f321e3f2d1a8b35d",
@@ -1197,6 +1623,18 @@
             "directory": "External30",
             "voiceContent": "Jean will be upset if she catches us lazing around like this",
             "sourceName": "vo_ambor_explore_idle_02.wem"
+        },
+        "f57d2147f5ca6c81": {
+            "hash": "f57d2147f5ca6c81",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_04.wem"
+        },
+        "f584a2cfe4d45b7e": {
+            "hash": "f584a2cfe4d45b7e",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_06.wem"
         },
         "f679d1d006d13f54": {
             "hash": "f679d1d006d13f54",
@@ -1222,47 +1660,11 @@
             "voiceContent": "Okay! I need to go over my deck one more time, and if things don't work out... I guess I'll have to ask someone for advice",
             "sourceName": "vo_card_ambor_event_invite_leave_01.wem"
         },
-        "2c2f76ef90bdc847": {
-            "hash": "2c2f76ef90bdc847",
-            "directory": "External5",
-            "voiceContent": "",
-            "sourceName": "vo_ambor_suit_renew_03.wem"
-        },
-        "30bf63013e22ef61": {
-            "hash": "30bf63013e22ef61",
-            "directory": "External6",
-            "voiceContent": "",
-            "sourceName": "vo_ambor_suit_renew_01.wem"
-        },
-        "3d1eb336f7e4920f": {
-            "hash": "3d1eb336f7e4920f",
-            "directory": "External7",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_ambor_02.wem"
-        },
-        "7dd6e54f0f8029c8": {
-            "hash": "7dd6e54f0f8029c8",
-            "directory": "External15",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_ambor_01.wem"
-        },
-        "82bc3f494d077b7b": {
-            "hash": "82bc3f494d077b7b",
-            "directory": "External16",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_ambor_battle_skill2_02.wem"
-        },
-        "ad357160c6bcac84": {
-            "hash": "ad357160c6bcac84",
-            "directory": "External21",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_ambor_battle_skill2_01.wem"
-        },
-        "d68454f90f8fb5be": {
-            "hash": "d68454f90f8fb5be",
-            "directory": "External26",
-            "voiceContent": "",
-            "sourceName": "vo_ambor_suit_renew_02.wem"
+        "fe8bb8f417947827": {
+            "hash": "fe8bb8f417947827",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_08.wem"
         }
     }
 }

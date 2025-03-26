@@ -319,7 +319,26 @@
             "sourceName": "vo_mimiTomo_dq_kirara_courtyard_03.wem"
         }
     },
-    "Quests": {},
+    "Quests": {
+        "3ce6d4c47d9b2e1c": {
+            "hash": "3ce6d4c47d9b2e1c",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kirara_03.wem"
+        },
+        "7a7150b4a95f872a": {
+            "hash": "7a7150b4a95f872a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kirara_01.wem"
+        },
+        "abcaeebb9f37a2ad": {
+            "hash": "abcaeebb9f37a2ad",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kirara_02.wem"
+        }
+    },
     "Gameplay": {
         "0581400fe08e87bb": {
             "hash": "0581400fe08e87bb",
@@ -337,25 +356,25 @@
             "hash": "078be14ef63e3138",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_l_04.wem"
+            "sourceName": "vo_kirara_battle_hit_L_04.wem"
         },
         "082c07e6364add03": {
             "hash": "082c07e6364add03",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_01.wem"
+            "sourceName": "vo_kirara_battle_attackLight_01.wem"
         },
         "086d2ae0bbc7c56f": {
             "hash": "086d2ae0bbc7c56f",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackmid_03.wem"
+            "sourceName": "vo_kirara_battle_attackMid_03.wem"
         },
         "0955f3f7e0ccdb3d": {
             "hash": "0955f3f7e0ccdb3d",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_03.wem"
+            "sourceName": "vo_kirara_battle_attackLight_03.wem"
         },
         "0dae9eaf080fc6b6": {
             "hash": "0dae9eaf080fc6b6",
@@ -369,17 +388,35 @@
             "voiceContent": "你会到处旅行，而我则是到处送货。你不觉得这很像吗？都是从一个地方跑到另一个地方。不过，我花的是公司的钱，你花的是自己的…欸？没…没有！我没有在得意",
             "sourceName": "vo_kirara_dialog_close.wem"
         },
+        "15b2647d10597e0b": {
+            "hash": "15b2647d10597e0b",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_suit_errantry_03.wem"
+        },
+        "16dc908ebadbe965": {
+            "hash": "16dc908ebadbe965",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_suit_errantry_01.wem"
+        },
         "1974ef15fdce38eb": {
             "hash": "1974ef15fdce38eb",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_l_03.wem"
+            "sourceName": "vo_kirara_battle_hit_L_03.wem"
         },
         "1c6b0d3de9753256": {
             "hash": "1c6b0d3de9753256",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_l_06.wem"
+            "sourceName": "vo_kirara_battle_hit_L_06.wem"
+        },
+        "1f7b412346185b56": {
+            "hash": "1f7b412346185b56",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_endOfGame_win_01.wem"
         },
         "2047318a4657b55a": {
             "hash": "2047318a4657b55a",
@@ -447,6 +484,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kirara_explore_fly_start_03.wem"
         },
+        "2fa46b8fb6a5ec87": {
+            "hash": "2fa46b8fb6a5ec87",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_easy_03.wem"
+        },
+        "30cd57a1612637a1": {
+            "hash": "30cd57a1612637a1",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_easy_01.wem"
+        },
         "33a5cbb745b0d502": {
             "hash": "33a5cbb745b0d502",
             "directory": "External6",
@@ -469,7 +518,7 @@
             "hash": "37692015a6b30066",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackheavy_03.wem"
+            "sourceName": "vo_kirara_battle_attackHeavy_03.wem"
         },
         "376b3d797c171340": {
             "hash": "376b3d797c171340",
@@ -523,7 +572,7 @@
             "hash": "4a43460ff894850e",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_04.wem"
+            "sourceName": "vo_kirara_battle_attackLight_04.wem"
         },
         "4b1e4e12e41b9aec": {
             "hash": "4b1e4e12e41b9aec",
@@ -535,7 +584,7 @@
             "hash": "4b6d3a21a31690b0",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_06.wem"
+            "sourceName": "vo_kirara_battle_attackLight_06.wem"
         },
         "4d8a60477d2f880c": {
             "hash": "4d8a60477d2f880c",
@@ -585,6 +634,12 @@
             "voiceContent": "呜啊！小包裹要被吹走了",
             "sourceName": "vo_kirara_weather_gale_01.wem"
         },
+        "63c6edbdc0a2d35e": {
+            "hash": "63c6edbdc0a2d35e",
+            "directory": "External12",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_kirara_01.wem"
+        },
         "659a6f36b3eef173": {
             "hash": "659a6f36b3eef173",
             "directory": "External12",
@@ -613,7 +668,7 @@
             "hash": "6b6f7d1d058eb6a2",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_l_02.wem"
+            "sourceName": "vo_kirara_battle_hit_L_02.wem"
         },
         "6bea289e29efc884": {
             "hash": "6bea289e29efc884",
@@ -621,11 +676,17 @@
             "voiceContent": "快躲到箱子里",
             "sourceName": "vo_kirara_life_less30_teammate_01.wem"
         },
+        "6dab284d4fa05c6c": {
+            "hash": "6dab284d4fa05c6c",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_hard_03.wem"
+        },
         "6e0c39c43eaacd8a": {
             "hash": "6e0c39c43eaacd8a",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_h_06.wem"
+            "sourceName": "vo_kirara_battle_hit_H_06.wem"
         },
         "6e2393464d4562d8": {
             "hash": "6e2393464d4562d8",
@@ -681,6 +742,12 @@
             "voiceContent": "这份工作能让我见到好多好多大房子！比奶奶家大多了！都是什么什么宫、什么什么殿…房间多到数不过来。这么大的房子，住起来不会空荡荡的吗？我的话…只要早上有吃饭的地方、中午有晒太阳的地方、晚上再有个小箱子就满足了。哦！是不是有的人就喜欢睡在「大箱子」里",
             "sourceName": "vo_kirara_pref_gift_02.wem"
         },
+        "7f24243c3ff3e23a": {
+            "hash": "7f24243c3ff3e23a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_hard_01.wem"
+        },
         "8302bf35407c63f6": {
             "hash": "8302bf35407c63f6",
             "directory": "External16",
@@ -697,7 +764,7 @@
             "hash": "86afc8e8ff279986",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackmid_02.wem"
+            "sourceName": "vo_kirara_battle_attackMid_02.wem"
         },
         "8738d84acc81e601": {
             "hash": "8738d84acc81e601",
@@ -709,13 +776,13 @@
             "hash": "88a43dd689c740fc",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_h_04.wem"
+            "sourceName": "vo_kirara_battle_hit_H_04.wem"
         },
         "8caf3b46b5c177b9": {
             "hash": "8caf3b46b5c177b9",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_l_05.wem"
+            "sourceName": "vo_kirara_battle_hit_L_05.wem"
         },
         "8cedbdadc9f101cb": {
             "hash": "8cedbdadc9f101cb",
@@ -751,7 +818,7 @@
             "hash": "9dd7da00c213906c",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_02.wem"
+            "sourceName": "vo_kirara_battle_attackLight_02.wem"
         },
         "9fd0e684fcfc6fae": {
             "hash": "9fd0e684fcfc6fae",
@@ -789,6 +856,12 @@
             "voiceContent": "身体变得更轻了！感觉能一口气送十份快递",
             "sourceName": "vo_kirara_starUp_03.wem"
         },
+        "a7862ef53308a635": {
+            "hash": "a7862ef53308a635",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_freetalk_01.wem"
+        },
         "a9ca090d0252e476": {
             "hash": "a9ca090d0252e476",
             "directory": "External21",
@@ -817,7 +890,7 @@
             "hash": "b926820d63532b4f",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackheavy_02.wem"
+            "sourceName": "vo_kirara_battle_attackHeavy_02.wem"
         },
         "b9abaf5372f54cfb": {
             "hash": "b9abaf5372f54cfb",
@@ -830,6 +903,24 @@
             "directory": "External23",
             "voiceContent": "记得好评",
             "sourceName": "vo_kirara_battle_skill3_02.wem"
+        },
+        "bc6a72868c195242": {
+            "hash": "bc6a72868c195242",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_suit_errantry_02.wem"
+        },
+        "c12ac0f8e747984a": {
+            "hash": "c12ac0f8e747984a",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_endOfGame_fail_01.wem"
+        },
+        "c168fbc5f21ae801": {
+            "hash": "c168fbc5f21ae801",
+            "directory": "External24",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_kirara_02.wem"
         },
         "c49a1f56385ae2d1": {
             "hash": "c49a1f56385ae2d1",
@@ -859,7 +950,7 @@
             "hash": "cc00a807b534b017",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_05.wem"
+            "sourceName": "vo_kirara_battle_attackLight_05.wem"
         },
         "cc8edccff817f8df": {
             "hash": "cc8edccff817f8df",
@@ -883,13 +974,19 @@
             "hash": "d09094196299d731",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_07.wem"
+            "sourceName": "vo_kirara_battle_attackLight_07.wem"
         },
         "d3282fe939437898": {
             "hash": "d3282fe939437898",
             "directory": "External26",
             "voiceContent": "SFX",
             "sourceName": "vo_kirara_explore_jump_03.wem"
+        },
+        "d69249993292fefe": {
+            "hash": "d69249993292fefe",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_easy_02.wem"
         },
         "d7a1706316fd4444": {
             "hash": "d7a1706316fd4444",
@@ -902,6 +999,12 @@
             "directory": "External27",
             "voiceContent": "感谢选择「狛荷屋」",
             "sourceName": "vo_kirara_teamJoin_02.wem"
+        },
+        "d92942446e59a73d": {
+            "hash": "d92942446e59a73d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_hard_02.wem"
         },
         "daf026b6a54f4381": {
             "hash": "daf026b6a54f4381",
@@ -925,7 +1028,7 @@
             "hash": "e2df4bdeb85a79a7",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_h_03.wem"
+            "sourceName": "vo_kirara_battle_hit_H_03.wem"
         },
         "e424e16aecaa7e04": {
             "hash": "e424e16aecaa7e04",
@@ -979,7 +1082,7 @@
             "hash": "f42257cda8808b8d",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_h_05.wem"
+            "sourceName": "vo_kirara_battle_hit_H_05.wem"
         },
         "f429cb3e0f4af293": {
             "hash": "f429cb3e0f4af293",
@@ -1005,11 +1108,17 @@
             "voiceContent": "嘿咻",
             "sourceName": "vo_card_kirara_inGame_easy_01.wem"
         },
+        "f68324cb3442b3c6": {
+            "hash": "f68324cb3442b3c6",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_leave_01.wem"
+        },
         "f6f3f6f1cb73dfe9": {
             "hash": "f6f3f6f1cb73dfe9",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackmid_01.wem"
+            "sourceName": "vo_kirara_battle_attackMid_01.wem"
         },
         "f894a5cd48e6d83e": {
             "hash": "f894a5cd48e6d83e",
@@ -1027,7 +1136,7 @@
             "hash": "f9ddb4257aed0f08",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackheavy_01.wem"
+            "sourceName": "vo_kirara_battle_attackHeavy_01.wem"
         },
         "fa031ea21a8a5a6c": {
             "hash": "fa031ea21a8a5a6c",
@@ -1040,18 +1149,6 @@
             "directory": "External31",
             "voiceContent": "生日快乐！不管是人还是妖怪，来到这个世界都是一件值得庆祝的事！如果你愿意的话，待会儿带你去我小时候生活的地方看看。虽然不是什么热闹有趣的地方，但总让我觉得很安心。我还可以把最喜欢的箱子让给你，躺在里面很舒服的",
             "sourceName": "vo_kirara_pref_birthday_01.wem"
-        },
-        "63c6edbdc0a2d35e": {
-            "hash": "63c6edbdc0a2d35e",
-            "directory": "External12",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_kirara_01.wem"
-        },
-        "c168fbc5f21ae801": {
-            "hash": "c168fbc5f21ae801",
-            "directory": "External24",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_kirara_02.wem"
         }
     }
 }

@@ -1,6 +1,12 @@
 {
     "Teapot": {},
     "Quests": {
+        "06f934ff577041a8": {
+            "hash": "06f934ff577041a8",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_02.wem"
+        },
         "0702a74f7e918fa9": {
             "hash": "0702a74f7e918fa9",
             "directory": "External0",
@@ -43,6 +49,12 @@
             "voiceContent": "(두 사람이 환풍구를 통해 이동하기는 어려웠을 거야. 그럴 경우 리니와 만났을 가능성도 커",
             "sourceName": "vo_FDAQ003_40_heroine_06.wem"
         },
+        "2611763c65365e25": {
+            "hash": "2611763c65365e25",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_heroine_01.wem"
+        },
         "2776292a5605ebc6": {
             "hash": "2776292a5605ebc6",
             "directory": "External4",
@@ -55,6 +67,12 @@
             "voiceContent": "올바른 위치에 룬 문자를 끼워 넣어야 할 것 같은데",
             "sourceName": "vo_SZAQ203_7_heroine_01.wem"
         },
+        "3eca90cc2b4eae12": {
+            "hash": "3eca90cc2b4eae12",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_04.wem"
+        },
         "419aefe4ee217979": {
             "hash": "419aefe4ee217979",
             "directory": "External8",
@@ -66,6 +84,12 @@
             "directory": "External8",
             "voiceContent": "(시그윈은 늘 생산 구역 근처에서 사람들을 관찰하고 있었어. 아마 인간의 신체 상태를 분석할 수 있는 능력이 있는 것 같아",
             "sourceName": "vo_FDAQ106_7_heroine_01.wem"
+        },
+        "435ab4ddd8b434e4": {
+            "hash": "435ab4ddd8b434e4",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_06.wem"
         },
         "438f0c75ae697a77": {
             "hash": "438f0c75ae697a77",
@@ -103,6 +127,12 @@
             "voiceContent": "(지금 보니 그 갈고리는 다른 마술에 사용되는 소품이 아니라, 뭔가의 방아쇠였던 것 같아",
             "sourceName": "vo_FDAQ003_42_heroine_01.wem"
         },
+        "600b4ef5db8322e9": {
+            "hash": "600b4ef5db8322e9",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_03.wem"
+        },
         "60ebfa5730d60e36": {
             "hash": "60ebfa5730d60e36",
             "directory": "External12",
@@ -114,6 +144,12 @@
             "directory": "External12",
             "voiceContent": "여기서 너무 멀리 벗어나지 않는 게 좋겠어. 데인이랑 페이몬이 아직 안 돌아왔으니까",
             "sourceName": "vo_SZAQ204_11_heroine_01.wem"
+        },
+        "718482e4cbd7086f": {
+            "hash": "718482e4cbd7086f",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_01.wem"
         },
         "7b09bd1b1f834324": {
             "hash": "7b09bd1b1f834324",
@@ -199,6 +235,18 @@
             "voiceContent": "#(그 소리는… 범인과 실종된 할시가 몸싸움할 때 난 {M#건지도}{F#걸지도} 몰라",
             "sourceName": "vo_FDAQ003_40_heroine_02.wem"
         },
+        "c0bf02c3e81e375b": {
+            "hash": "c0bf02c3e81e375b",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_05.wem"
+        },
+        "c54deed59581ab75": {
+            "hash": "c54deed59581ab75",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_07.wem"
+        },
         "ce60a3b4362e39ab": {
             "hash": "ce60a3b4362e39ab",
             "directory": "External25",
@@ -259,19 +307,13 @@
             "hash": "009a2a8d15708103",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attackheavy_01.wem"
+            "sourceName": "vo_heroine_battle_attackHeavy_01.wem"
         },
         "0146cf366bfb156f": {
             "hash": "0146cf366bfb156f",
             "directory": "External0",
             "voiceContent": "하늘을 울리는 뇌음",
             "sourceName": "vo_heroine_battle_skill3_thunder_03.wem"
-        },
-        "01c4169ebff27f3d": {
-            "hash": "01c4169ebff27f3d",
-            "directory": "External0",
-            "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attackheavy_03.wem"
         },
         "0217958d34453461": {
             "hash": "0217958d34453461",
@@ -302,6 +344,12 @@
             "directory": "External0",
             "voiceContent": "#페이몬 그거 알아? 수메르엔 각종 특이한 버섯이 있어{NICKNAME} 응, 재미있는 건 일부 숲멧돼지가 버섯을 떠나지 못해 점차 공생관계를 형성하다 버섯 돼지가 됐대페이몬 우와, 우리랑 같네! 나도 널 떠날 수 없거든{NICKNAME} 페이몬이 날 떠날 수 없으니까 난 버섯이고 페이몬은…페이몬 돼지야!페이몬 엥? 이봐—",
             "sourceName": "vo_fetter_xm_fungiPig_heroine.wem"
+        },
+        "06841d3e6bd21c90": {
+            "hash": "06841d3e6bd21c90",
+            "directory": "External0",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_heroine_02.wem"
         },
         "06939ed25a9159a6": {
             "hash": "06939ed25a9159a6",
@@ -397,7 +445,7 @@
             "hash": "16b2e8e253ba44a9",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_06.wem"
+            "sourceName": "vo_heroine_battle_hit_L_06.wem"
         },
         "17b24be3cbe2e0b4": {
             "hash": "17b24be3cbe2e0b4",
@@ -511,13 +559,13 @@
             "hash": "258ac418f4429643",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_04.wem"
+            "sourceName": "vo_heroine_battle_hit_H_04.wem"
         },
         "25c0567d5684c082": {
             "hash": "25c0567d5684c082",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attacklight_03.wem"
+            "sourceName": "vo_heroine_battle_attackLight_03.wem"
         },
         "277fcd0e5d9f50a8": {
             "hash": "277fcd0e5d9f50a8",
@@ -529,7 +577,7 @@
             "hash": "2a1ab02aa1a7bd7d",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_06.wem"
+            "sourceName": "vo_heroine_battle_hit_H_06.wem"
         },
         "2b6670cfae7ed56a": {
             "hash": "2b6670cfae7ed56a",
@@ -541,7 +589,7 @@
             "hash": "2b921cd146f1532f",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_04.wem"
+            "sourceName": "vo_heroine_battle_hit_L_04.wem"
         },
         "2c64a0801ae36229": {
             "hash": "2c64a0801ae36229",
@@ -715,7 +763,7 @@
             "hash": "470014a706b78199",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attacklight_04.wem"
+            "sourceName": "vo_heroine_battle_attackLight_04.wem"
         },
         "477b9480323107cd": {
             "hash": "477b9480323107cd",
@@ -907,13 +955,13 @@
             "hash": "6b090242b9711a4e",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_01.wem"
+            "sourceName": "vo_heroine_battle_hit_H_01.wem"
         },
         "6c32f65463f325f0": {
             "hash": "6c32f65463f325f0",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_03.wem"
+            "sourceName": "vo_heroine_battle_hit_H_03.wem"
         },
         "6d186a3e13faed55": {
             "hash": "6d186a3e13faed55",
@@ -979,7 +1027,7 @@
             "hash": "7bf688c20dba8035",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_02.wem"
+            "sourceName": "vo_heroine_battle_hit_L_02.wem"
         },
         "7e85580fcc7e07b9": {
             "hash": "7e85580fcc7e07b9",
@@ -997,7 +1045,7 @@
             "hash": "7f084873dac4ed4b",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attacklight_02.wem"
+            "sourceName": "vo_heroine_battle_attackLight_02.wem"
         },
         "7f896d3eaf5ae986": {
             "hash": "7f896d3eaf5ae986",
@@ -1045,7 +1093,7 @@
             "hash": "85ab3babca19b30c",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attackmid_03.wem"
+            "sourceName": "vo_heroine_battle_attackMid_03.wem"
         },
         "85e3a3827e17c8b8": {
             "hash": "85e3a3827e17c8b8",
@@ -1113,6 +1161,12 @@
             "voiceContent": "#페이몬 「샘물 무리」의 분위기는 참 여유롭네~ 다들 온천욕을 하고 있거나 온천욕을 하러 가는 길이야….{NICKNAME} 몇몇 온천 애호가들은 온천에서 편안한 음악을 들으려고 음악가까지 고용한대. 몸과 마음이 완전히 쉴 수 있도록 말이야.페이몬 우와, 그렇게 말하니까 나도 해보고 싶네….{NICKNAME} 다음에 페이몬이 온천욕을 할 때 내가 아란나라의 음악을 연주해 줄게.페이몬 앗, 근데 난 악기 연주할 줄 모르는데. 네가 온천욕을 할 땐 어떡하지….{NICKNAME} 그럼 페이몬은 노래 부르면 되지. 음… 폰타인의 오페라는 어때?페이몬 그건 너무 어려워! 긴장을 풀기는커녕 오히려 머리가 아파질 거야!페이몬 나타 스타일의 랩은 어때? 금방 배운 건데, 흠흠——페이몬 「예예! 들어봤지 이 몸 페이몬, 겪어봤지 수많은 모험, 태연하지 어떤 일에도…」페이몬 「요! 모든 물의 근원의 바다 괴수, 고화파의 창검 쌍절 무공… 예!」{NICKNAME} 리듬감이 장난 아닌데!{NICKNAME} 온천욕을 할 때 같이 수면을 찰싹 두드려서 반주해 주고 싶을 정도야.페이몬 음악 파티를 여는 것처럼 말이지! 그럼 늦게 온 사람은 온천으로 슬라이딩해서 모두의 리듬에 합류하면 되겠다!{NICKNAME} 응? 잠깐, 온천욕의 목적이 긴장을 풀기 위한 거라는 걸 완전 까먹은 것 같은데",
             "sourceName": "vo_fetter_nt_natlanSpa_heroine.wem"
         },
+        "8d42f1d444256b78": {
+            "hash": "8d42f1d444256b78",
+            "directory": "External17",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_heroine_life_die_03.wem"
+        },
         "8f37a59fbe55f036": {
             "hash": "8f37a59fbe55f036",
             "directory": "External17",
@@ -1159,7 +1213,7 @@
             "hash": "9645fca7a139346c",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attackheavy_02.wem"
+            "sourceName": "vo_heroine_battle_attackHeavy_02.wem"
         },
         "96a5adba463a1b02": {
             "hash": "96a5adba463a1b02",
@@ -1195,13 +1249,19 @@
             "hash": "9a8b379abd5215da",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attackmid_01.wem"
+            "sourceName": "vo_heroine_battle_attackMid_01.wem"
         },
         "9a98203fc8ae01cf": {
             "hash": "9a98203fc8ae01cf",
             "directory": "External19",
             "voiceContent": "#페이몬 폰타인성에는 집 밖을 나서지 않고 문제를 해결해 주는 탐정이 있다는데페이몬 그게 바로 재택근무라는 거지? 엄청 편할 것 같아!페이몬 그나저나 현장 조사를 하지 않는데 어떻게 진실을 추리해 내는 걸까… 아, 알겠다! 분명 점을 치는 걸 거야!{NICKNAME} 그러면 탐정이 아니라 점술사라고 불러야 하지 않을까?페이몬 그, 그렇네…{NICKNAME} 단서에 발이 달려서 탐정이 사는 곳까지 찾아갈 리도 없을 텐데페이몬 그렇다면 분명 탐정을 도와 단서를 수집하는 사람이 있다는 거네…{NICKNAME} 어쩌면 우리가 모험가 길드에서 받은 일부 의뢰가 바로…페이몬 엥? 그럼 탐정이 우리가 받아야 할 보수의 일부를 가져간 거야? 그럼 안 되지! 바로 따지러 가자",
             "sourceName": "vo_fetter_fd_detectiveIndoor_heroine.wem"
+        },
+        "9bc5ff9b48d2492b": {
+            "hash": "9bc5ff9b48d2492b",
+            "directory": "External19",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_heroine_life_die_04.wem"
         },
         "9be45d5e3f771464": {
             "hash": "9be45d5e3f771464",
@@ -1285,7 +1345,7 @@
             "hash": "a66ebad9876dff46",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_05.wem"
+            "sourceName": "vo_heroine_battle_hit_L_05.wem"
         },
         "a6ea86cc21a83262": {
             "hash": "a6ea86cc21a83262",
@@ -1447,7 +1507,7 @@
             "hash": "c542baaf4a176418",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attacklight_05.wem"
+            "sourceName": "vo_heroine_battle_attackLight_05.wem"
         },
         "c5ba2c468d43a13b": {
             "hash": "c5ba2c468d43a13b",
@@ -1543,7 +1603,7 @@
             "hash": "d01592227341f87a",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_05.wem"
+            "sourceName": "vo_heroine_battle_hit_H_05.wem"
         },
         "d24ebd6f89ca7304": {
             "hash": "d24ebd6f89ca7304",
@@ -1567,7 +1627,7 @@
             "hash": "d592ba8c8fea84d4",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attacklight_01.wem"
+            "sourceName": "vo_heroine_battle_attackLight_01.wem"
         },
         "d63bb66c734689a7": {
             "hash": "d63bb66c734689a7",
@@ -1687,7 +1747,7 @@
             "hash": "edf0504c20934371",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_02.wem"
+            "sourceName": "vo_heroine_battle_hit_H_02.wem"
         },
         "efcd9b477ba72fe9": {
             "hash": "efcd9b477ba72fe9",
@@ -1706,6 +1766,12 @@
             "directory": "External30",
             "voiceContent": "#{NICKNAME} 「미티족」… 츄츄족 부족의 이름은 정말 이상해페이몬 미티족의 츄츄족은 정기적으로 제사를 지내. 미티족의 제단은 엄청 장관이야{NICKNAME} 무슨 제사를 지내는 거야?페이몬 「매일 고기를 먹게 해주세요」! 최고의 소원이지?{NICKNAME} …예상했던 대로",
             "sourceName": "vo_fetter_meaty_heroine.wem"
+        },
+        "f1268da25375f0e2": {
+            "hash": "f1268da25375f0e2",
+            "directory": "External30",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_heroine_life_die_05.wem"
         },
         "f438eab1407efec0": {
             "hash": "f438eab1407efec0",
@@ -1729,7 +1795,7 @@
             "hash": "f48f55a2ebb627dd",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attackmid_02.wem"
+            "sourceName": "vo_heroine_battle_attackMid_02.wem"
         },
         "f524f595e398597b": {
             "hash": "f524f595e398597b",
@@ -1771,7 +1837,7 @@
             "hash": "f8d92ab8a66aacd2",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_01.wem"
+            "sourceName": "vo_heroine_battle_hit_L_01.wem"
         },
         "f961fe180cfac138": {
             "hash": "f961fe180cfac138",
@@ -1783,7 +1849,7 @@
             "hash": "fa024eca50eb56a4",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_03.wem"
+            "sourceName": "vo_heroine_battle_hit_L_03.wem"
         },
         "fb82d7156efb9da0": {
             "hash": "fb82d7156efb9da0",
@@ -1808,30 +1874,6 @@
             "directory": "External31",
             "voiceContent": "#페이몬 수메르에는 6대 학파가 있어페이몬 흥미로운걸, 나도 나만의 학파를 갖고 싶어!페이몬 생기면… 페이몬파라고 해야지!{NICKNAME} 페이몬파를 대표하는 지혜는 뭔데?페이몬 음… 실용적인 삶의 지혜지!{NICKNAME} 그러니까 특색 학과는 슬라임을 먹는 100가지 방법, 눈에 보이는 모라를 싹쓸이하는 법, 이상한 별명을 붙이는 방법… 같은 것들이지?페이몬 우와, 날 너무 잘 아네! 「최고의 티바트 가이드 되는 법」도 추가해줘!페이몬 정말 대단한 것 같아. 학파 신청서를 제출하러 아카데미아로 가자! 오늘부로 넌 페이몬파의 대현자야!{NICKNAME} 거절해도 될까",
             "sourceName": "vo_fetter_xm_sevenSchools_heroine.wem"
-        },
-        "06841d3e6bd21c90": {
-            "hash": "06841d3e6bd21c90",
-            "directory": "External0",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_heroine_02.wem"
-        },
-        "8d42f1d444256b78": {
-            "hash": "8d42f1d444256b78",
-            "directory": "External17",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_heroine_life_die_03.wem"
-        },
-        "9bc5ff9b48d2492b": {
-            "hash": "9bc5ff9b48d2492b",
-            "directory": "External19",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_heroine_life_die_04.wem"
-        },
-        "f1268da25375f0e2": {
-            "hash": "f1268da25375f0e2",
-            "directory": "External30",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_heroine_life_die_05.wem"
         }
     }
 }

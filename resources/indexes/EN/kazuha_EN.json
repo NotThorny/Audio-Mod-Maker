@@ -308,6 +308,24 @@
         }
     },
     "Quests": {
+        "529c9ed26a5e59de": {
+            "hash": "529c9ed26a5e59de",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_01.wem"
+        },
+        "572cd2e417c3fa80": {
+            "hash": "572cd2e417c3fa80",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_03.wem"
+        },
+        "b03eacda9bd66e81": {
+            "hash": "b03eacda9bd66e81",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_02.wem"
+        },
         "dd033a1fa887dd90": {
             "hash": "dd033a1fa887dd90",
             "directory": "External27",
@@ -316,12 +334,6 @@
         }
     },
     "Gameplay": {
-        "0050c0d7b32cbf3f": {
-            "hash": "0050c0d7b32cbf3f",
-            "directory": "External0",
-            "voiceContent": "Your cooking not only fills the stomach, it also soothes my soul",
-            "sourceName": "vo_kazuha_spice_event_normal_01.wem"
-        },
         "01da5f10f8014167": {
             "hash": "01da5f10f8014167",
             "directory": "External0",
@@ -338,13 +350,19 @@
             "hash": "040930fa26ff05b7",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_02.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_02.wem"
+        },
+        "0479e0ea879988fd": {
+            "hash": "0479e0ea879988fd",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_03.wem"
         },
         "04f3b0a2c0af87c8": {
             "hash": "04f3b0a2c0af87c8",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_06.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_06.wem"
         },
         "0534364404e1695b": {
             "hash": "0534364404e1695b",
@@ -368,7 +386,7 @@
             "hash": "093fbd6f3e4ac8ba",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_02.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_02.wem"
         },
         "0b3481be22a08324": {
             "hash": "0b3481be22a08324",
@@ -381,12 +399,6 @@
             "directory": "External1",
             "voiceContent": "You'd like to know more about me, you say? Well, as you see, I am but a wandering samurai that you could have run into just about anywhere",
             "sourceName": "vo_kazuha_friendship_01.wem"
-        },
-        "0bfdc4dbe7e020d5": {
-            "hash": "0bfdc4dbe7e020d5",
-            "directory": "External1",
-            "voiceContent": "Perhaps you should get some rest? A weary mind is a recipe for flavorless food",
-            "sourceName": "vo_kazuha_spice_event_dislike_01.wem"
         },
         "0d1e8a704bc4051f": {
             "hash": "0d1e8a704bc4051f",
@@ -410,7 +422,7 @@
             "hash": "1375fe69c55b1ffb",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_01.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_01.wem"
         },
         "14594568b6af4aab": {
             "hash": "14594568b6af4aab",
@@ -424,11 +436,23 @@
             "voiceContent": "I follow the wind",
             "sourceName": "vo_kazuha_explore_fly_start_01.wem"
         },
+        "16023554b86a66af": {
+            "hash": "16023554b86a66af",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_4.wem"
+        },
         "189fb6b0bfa74468": {
             "hash": "189fb6b0bfa74468",
             "directory": "External3",
             "voiceContent": "Your cooking not only fills the stomach, it also soothes my soul",
             "sourceName": "vo_kazuha_spice_normal_01.wem"
+        },
+        "194937cd6bf18129": {
+            "hash": "194937cd6bf18129",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_2.wem"
         },
         "19eae8a984f88309": {
             "hash": "19eae8a984f88309",
@@ -472,6 +496,12 @@
             "voiceContent": "That you can make fish taste as delicious as this is proof of your outstanding culinary prowess",
             "sourceName": "vo_kazuha_spice_pref_01.wem"
         },
+        "21ddd7e2f489ca39": {
+            "hash": "21ddd7e2f489ca39",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_1.wem"
+        },
         "22a964839a97673e": {
             "hash": "22a964839a97673e",
             "directory": "External4",
@@ -494,13 +524,19 @@
             "hash": "2a7f7b98ee7d89b1",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_05.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_05.wem"
+        },
+        "2d17e4954179d720": {
+            "hash": "2d17e4954179d720",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_4.wem"
         },
         "2eb84311a0e190d0": {
             "hash": "2eb84311a0e190d0",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_01.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_01.wem"
         },
         "366363c26c00faba": {
             "hash": "366363c26c00faba",
@@ -520,11 +556,17 @@
             "voiceContent": "A fateful offering",
             "sourceName": "vo_kazuha_chest_open_02.wem"
         },
+        "3b2df25c45c9e3f3": {
+            "hash": "3b2df25c45c9e3f3",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_3.wem"
+        },
         "3def30813f105104": {
             "hash": "3def30813f105104",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_02.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_02.wem"
         },
         "4117bfb6c3e4344a": {
             "hash": "4117bfb6c3e4344a",
@@ -548,7 +590,7 @@
             "hash": "427e1c92ec73c526",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_04.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_04.wem"
         },
         "42dbb846949b6566": {
             "hash": "42dbb846949b6566",
@@ -614,7 +656,7 @@
             "hash": "576cb2e82a1a1d85",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_05.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_05.wem"
         },
         "5772b0abb6b4a0bc": {
             "hash": "5772b0abb6b4a0bc",
@@ -638,7 +680,7 @@
             "hash": "585f86f9d46cb0ff",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_03.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_03.wem"
         },
         "5a56e23c5f6c5f22": {
             "hash": "5a56e23c5f6c5f22",
@@ -664,6 +706,12 @@
             "voiceContent": "So many regrets..",
             "sourceName": "vo_kazuha_life_die_01.wem"
         },
+        "5f690bd3204f5bbf": {
+            "hash": "5f690bd3204f5bbf",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_3.wem"
+        },
         "61802ac31eadab01": {
             "hash": "61802ac31eadab01",
             "directory": "External12",
@@ -674,13 +722,19 @@
             "hash": "621aef65c22e8f83",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_03.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_03.wem"
         },
         "6344db776cb08dbd": {
             "hash": "6344db776cb08dbd",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_01.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_01.wem"
+        },
+        "6666a1457f3393b5": {
+            "hash": "6666a1457f3393b5",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_2.wem"
         },
         "6688c4159292cb85": {
             "hash": "6688c4159292cb85",
@@ -698,7 +752,7 @@
             "hash": "67c5ea490fc8b617",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_03.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_03.wem"
         },
         "6bcda9a169f6711b": {
             "hash": "6bcda9a169f6711b",
@@ -716,7 +770,7 @@
             "hash": "6c55d65abd2ddd31",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_01.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_01.wem"
         },
         "6cf795b314786f35": {
             "hash": "6cf795b314786f35",
@@ -741,6 +795,12 @@
             "directory": "External14",
             "voiceContent": "I heard it was your birthday, so I wrote a haiku for you. Unfortunately, I'm not the most talented in this area, and after trying for several evenings, I was still only able to come up with the first two lines... I guess I'll just share what I've got so far, then. Sun and moon rejoice / Birds of dawn sing songs anew... Wait, don't say a word, I think the final line is coming to me... Yes, how about... Far from home, with you. Anyway, Happy Birthday. Let's go and get you some cake, shall we",
             "sourceName": "vo_kazuha_pref_birthday.wem"
+        },
+        "702bbec89801f339": {
+            "hash": "702bbec89801f339",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_01.wem"
         },
         "72132aa1d9eb8574": {
             "hash": "72132aa1d9eb8574",
@@ -790,23 +850,23 @@
             "voiceContent": "Wind strider",
             "sourceName": "vo_kazuha_battle_skill1_03.wem"
         },
+        "7d45308608138bfe": {
+            "hash": "7d45308608138bfe",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_6.wem"
+        },
         "7dac3790249207ac": {
             "hash": "7dac3790249207ac",
             "directory": "External15",
             "voiceContent": "My turn to aid you",
             "sourceName": "vo_kazuha_life_less30_teammate_01.wem"
         },
-        "7e2cd3b7e50741d9": {
-            "hash": "7e2cd3b7e50741d9",
-            "directory": "External15",
-            "voiceContent": "That you can make fish taste as delicious as this is proof of your outstanding culinary prowess",
-            "sourceName": "vo_kazuha_spice_event_pref_01.wem"
-        },
         "824bcf026a5edaae": {
             "hash": "824bcf026a5edaae",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_03.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_03.wem"
         },
         "82f4c7de7d203e26": {
             "hash": "82f4c7de7d203e26",
@@ -843,6 +903,12 @@
             "directory": "External17",
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_jump_04.wem"
+        },
+        "9595c6f365fd142c": {
+            "hash": "9595c6f365fd142c",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_02.wem"
         },
         "961767954f6f4d1a": {
             "hash": "961767954f6f4d1a",
@@ -884,13 +950,19 @@
             "hash": "a4322d8f8478378e",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_06.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_06.wem"
         },
         "a55c21a12efa4330": {
             "hash": "a55c21a12efa4330",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_04.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_04.wem"
+        },
+        "a90509c49fa53bc6": {
+            "hash": "a90509c49fa53bc6",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_1.wem"
         },
         "a9a6baa0b8ac3da6": {
             "hash": "a9a6baa0b8ac3da6",
@@ -910,6 +982,18 @@
             "voiceContent": "I like falling asleep on a warm rock that's been soaking in the mid-afternoon sun, then waking up and continuing on my journey with no particular aim in mind. So long as I have my blade by my side, there is nowhere I cannot go",
             "sourceName": "vo_kazuha_pref_hobby.wem"
         },
+        "adb6f2b8c3c784bf": {
+            "hash": "adb6f2b8c3c784bf",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_03.wem"
+        },
+        "b199a9da283d84d6": {
+            "hash": "b199a9da283d84d6",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_2.wem"
+        },
         "b1adbeb3e547da67": {
             "hash": "b1adbeb3e547da67",
             "directory": "External22",
@@ -920,7 +1004,7 @@
             "hash": "b2c24a9bb8c00a89",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_07.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_07.wem"
         },
         "b31fe64f60e7aac9": {
             "hash": "b31fe64f60e7aac9",
@@ -945,6 +1029,12 @@
             "directory": "External23",
             "voiceContent": "Who says there aren't benefits to a life of wandering",
             "sourceName": "vo_kazuha_chest_open_03.wem"
+        },
+        "b9a6c064895799ea": {
+            "hash": "b9a6c064895799ea",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_2.wem"
         },
         "bcd8b9d0f5a2565c": {
             "hash": "bcd8b9d0f5a2565c",
@@ -974,7 +1064,13 @@
             "hash": "c3486a78fec0f095",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_03.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_03.wem"
+        },
+        "c39e1dd6eac37ce8": {
+            "hash": "c39e1dd6eac37ce8",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_3.wem"
         },
         "c3a6062ca6e890d5": {
             "hash": "c3a6062ca6e890d5",
@@ -986,7 +1082,7 @@
             "hash": "c43b7e8aa913f00f",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_05.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_05.wem"
         },
         "c4991a3e513b904f": {
             "hash": "c4991a3e513b904f",
@@ -1036,11 +1132,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_jump_03.wem"
         },
+        "d7803e8e36a6c4a1": {
+            "hash": "d7803e8e36a6c4a1",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_5.wem"
+        },
         "d7ab4ca7d606ec08": {
             "hash": "d7ab4ca7d606ec08",
             "directory": "External26",
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_fly_start_03.wem"
+        },
+        "d98347862efadb74": {
+            "hash": "d98347862efadb74",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_01.wem"
         },
         "e16b8f68a82883d9": {
             "hash": "e16b8f68a82883d9",
@@ -1060,11 +1168,29 @@
             "voiceContent": "The wind has ceased... The world is silent, so now is the best time to rest well. See you tomorrow",
             "sourceName": "vo_kazuha_dialog_greetingNight2.wem"
         },
+        "e349433c17e3c052": {
+            "hash": "e349433c17e3c052",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_1.wem"
+        },
+        "e472674dc2646a24": {
+            "hash": "e472674dc2646a24",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_3.wem"
+        },
         "e608885153288b0e": {
             "hash": "e608885153288b0e",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_02.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_02.wem"
+        },
+        "e7995e6b7c4ad96d": {
+            "hash": "e7995e6b7c4ad96d",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_1.wem"
         },
         "e800657598c95543": {
             "hash": "e800657598c95543",
@@ -1130,13 +1256,25 @@
             "hash": "fcfa94dffb578762",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_06.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_06.wem"
         },
         "fe2478f1a5d97734": {
             "hash": "fe2478f1a5d97734",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_04.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_04.wem"
+        },
+        "ffe790bfcbb5add6": {
+            "hash": "ffe790bfcbb5add6",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_02.wem"
+        },
+        "ffe9f4d8da3461c3": {
+            "hash": "ffe9f4d8da3461c3",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_01.wem"
         }
     }
 }

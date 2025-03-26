@@ -308,11 +308,29 @@
         }
     },
     "Quests": {
+        "368de03b5f261f29": {
+            "hash": "368de03b5f261f29",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_02.wem"
+        },
         "574c13cd469ced88": {
             "hash": "574c13cd469ced88",
             "directory": "External10",
             "voiceContent": "这一路上就交给我吧",
             "sourceName": "vo_WYLQ103_1_kazuha_01.wem"
+        },
+        "c649b23292d9d9c6": {
+            "hash": "c649b23292d9d9c6",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_01.wem"
+        },
+        "e0e2c644ddf81ae8": {
+            "hash": "e0e2c644ddf81ae8",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_03.wem"
         }
     },
     "Gameplay": {
@@ -321,6 +339,12 @@
             "directory": "External0",
             "voiceContent": "我呢，不是特别喜欢那些粗制的食物。在我看来，就算是一条普普通通的鱼也要烧得好吃才行，吃东西本应是让人身心愉快的事情，怎么能将就呢",
             "sourceName": "vo_kazuha_pref_foodDislike.wem"
+        },
+        "008a5aff00caca7a": {
+            "hash": "008a5aff00caca7a",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_1.wem"
         },
         "017dac9a36410b17": {
             "hash": "017dac9a36410b17",
@@ -346,6 +370,12 @@
             "voiceContent": "结束了吗",
             "sourceName": "vo_kazuha_life_die_03.wem"
         },
+        "07855397f9454d6b": {
+            "hash": "07855397f9454d6b",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_01.wem"
+        },
         "07a63faec918c00c": {
             "hash": "07a63faec918c00c",
             "directory": "External0",
@@ -357,6 +387,12 @@
             "directory": "External1",
             "voiceContent": "嗯，再与人切磋几局后，我也得离开了…时间不早了",
             "sourceName": "vo_card_kazuha_leave_01.wem"
+        },
+        "0b7e5a95a3f8dc17": {
+            "hash": "0b7e5a95a3f8dc17",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_03.wem"
         },
         "0ba2f6a2db9f8d83": {
             "hash": "0ba2f6a2db9f8d83",
@@ -394,6 +430,12 @@
             "voiceContent": "想学剑道的话…我想想，拿着这个吧，这是我刚刚做好的竹刀。用这个切磋的话，我们就都不会受伤了",
             "sourceName": "vo_kazuha_dialog_share_01.wem"
         },
+        "100e46a7515e0331": {
+            "hash": "100e46a7515e0331",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_01.wem"
+        },
         "10542f137b0de5d4": {
             "hash": "10542f137b0de5d4",
             "directory": "External2",
@@ -404,19 +446,13 @@
             "hash": "11563c928cdafab6",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_03.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_03.wem"
         },
         "17cbf4db62bbb7cb": {
             "hash": "17cbf4db62bbb7cb",
             "directory": "External2",
             "voiceContent": "哈…得知今天的生日，我特地写了新的诗歌。只可惜诗才不佳，几个晚上只想到前两句，就先送给你吧。「流光换日月，鹤归云起庆生时」…欸等等，先别说话，我有灵感了。最后一句…「异乡有故知」，如何？生日快乐，今天一起去…吃点甜品吧",
             "sourceName": "vo_kazuha_pref_birthday.wem"
-        },
-        "18616b2d057bd741": {
-            "hash": "18616b2d057bd741",
-            "directory": "External3",
-            "voiceContent": "能将鱼肉烹调出如此滋味，你的手艺当真了得",
-            "sourceName": "vo_kazuha_spice_event_pref_01.wem"
         },
         "194db994b5e6a74c": {
             "hash": "194db994b5e6a74c",
@@ -428,19 +464,31 @@
             "hash": "1c78ba4ac12dd007",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_05.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_05.wem"
+        },
+        "1d3b2d17039a1757": {
+            "hash": "1d3b2d17039a1757",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_4.wem"
         },
         "1da1a65c6bae1b21": {
             "hash": "1da1a65c6bae1b21",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_07.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_07.wem"
+        },
+        "1df169f67a87c658": {
+            "hash": "1df169f67a87c658",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_4.wem"
         },
         "1e8e81303cae6fd6": {
             "hash": "1e8e81303cae6fd6",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_02.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_02.wem"
         },
         "205b0b423cb38eb3": {
             "hash": "205b0b423cb38eb3",
@@ -466,6 +514,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_climb_03.wem"
         },
+        "23b52be38415703e": {
+            "hash": "23b52be38415703e",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_1.wem"
+        },
         "23e2ea17c919e06b": {
             "hash": "23e2ea17c919e06b",
             "directory": "External4",
@@ -476,25 +530,19 @@
             "hash": "24cccdffaccadae6",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_06.wem"
-        },
-        "25b4bc5d7a0afe2d": {
-            "hash": "25b4bc5d7a0afe2d",
-            "directory": "External4",
-            "voiceContent": "要休息一下吗？内心疲惫的话，做出来的菜也会失去风味",
-            "sourceName": "vo_kazuha_spice_event_dislike_01.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_06.wem"
         },
         "29d06582a6e0508c": {
             "hash": "29d06582a6e0508c",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_04.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_04.wem"
         },
         "2dbac639b1522fed": {
             "hash": "2dbac639b1522fed",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_03.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_03.wem"
         },
         "2e605194544577ae": {
             "hash": "2e605194544577ae",
@@ -526,6 +574,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_jump_01.wem"
         },
+        "32d095e56dbec776": {
+            "hash": "32d095e56dbec776",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_6.wem"
+        },
+        "33f481be766a905e": {
+            "hash": "33f481be766a905e",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_2.wem"
+        },
         "37a4cb1134f26a4d": {
             "hash": "37a4cb1134f26a4d",
             "directory": "External6",
@@ -548,7 +608,7 @@
             "hash": "3eb061719a18b35a",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_06.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_06.wem"
         },
         "3ed2f88a61d9363d": {
             "hash": "3ed2f88a61d9363d",
@@ -622,11 +682,17 @@
             "voiceContent": "晴空万里，真让人心情愉快",
             "sourceName": "vo_kazuha_weather_sunny_01.wem"
         },
-        "5b627c6107c765c7": {
-            "hash": "5b627c6107c765c7",
+        "5a8f79072f308f7d": {
+            "hash": "5a8f79072f308f7d",
             "directory": "External11",
-            "voiceContent": "你做的饭菜不仅能够饱腹，对我而言也是慰藉",
-            "sourceName": "vo_kazuha_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_2.wem"
+        },
+        "5aa8c5b0ab8608f4": {
+            "hash": "5aa8c5b0ab8608f4",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_02.wem"
         },
         "5c8a1f9b47684b51": {
             "hash": "5c8a1f9b47684b51",
@@ -668,7 +734,7 @@
             "hash": "6a681e8910ed7c1f",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_02.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_02.wem"
         },
         "6a90a52ee8e67a6c": {
             "hash": "6a90a52ee8e67a6c",
@@ -692,7 +758,7 @@
             "hash": "73394c6376812da0",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_06.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_06.wem"
         },
         "738e0f3f71c7f6ca": {
             "hash": "738e0f3f71c7f6ca",
@@ -704,7 +770,7 @@
             "hash": "73d13ddec8e45f72",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_02.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_02.wem"
         },
         "7501a2e3cdeb4d14": {
             "hash": "7501a2e3cdeb4d14",
@@ -748,6 +814,12 @@
             "voiceContent": "我在反抗军的时候，周围的同伴无不对珊瑚宫大人充满敬仰。她爱惜兵力，很少会做出不计死伤的打法，总是能够用最小的代价取得胜利。听说她还要统管海祇岛的政务和外交，真的忙得过来吗",
             "sourceName": "vo_kazuha_teammate_kokomi_01.wem"
         },
+        "7df039ebb2a8a9e1": {
+            "hash": "7df039ebb2a8a9e1",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_2.wem"
+        },
         "7f2b891f79785972": {
             "hash": "7f2b891f79785972",
             "directory": "External15",
@@ -764,7 +836,7 @@
             "hash": "814f5a2a7ad13a73",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_01.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_01.wem"
         },
         "81b402a3d36a63a2": {
             "hash": "81b402a3d36a63a2",
@@ -772,11 +844,23 @@
             "voiceContent": "专心致志，自然滴水不漏",
             "sourceName": "vo_card_kazuha_invite_easy_02.wem"
         },
+        "81d405c489d698c2": {
+            "hash": "81d405c489d698c2",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_2.wem"
+        },
         "8872e332d719340a": {
             "hash": "8872e332d719340a",
             "directory": "External17",
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_climb_breath_01.wem"
+        },
+        "89c0f89de758b10e": {
+            "hash": "89c0f89de758b10e",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_02.wem"
         },
         "8a18b67fc732fa58": {
             "hash": "8a18b67fc732fa58",
@@ -806,7 +890,13 @@
             "hash": "8ed2af3908fab539",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_01.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_01.wem"
+        },
+        "91968fc6a7e2a501": {
+            "hash": "91968fc6a7e2a501",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_1.wem"
         },
         "942c0bea0b450feb": {
             "hash": "942c0bea0b450feb",
@@ -818,7 +908,7 @@
             "hash": "9510fc0879172049",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_05.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_05.wem"
         },
         "95313450f3e14e2a": {
             "hash": "95313450f3e14e2a",
@@ -848,7 +938,7 @@
             "hash": "98b47f79c87cc55d",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_05.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_05.wem"
         },
         "9a67b65d0d046714": {
             "hash": "9a67b65d0d046714",
@@ -861,6 +951,12 @@
             "directory": "External19",
             "voiceContent": "不必担心，就算有一天我们去往不同的地方，也一定会在世界的某处再次相遇。人与人的「缘」不是那么容易就断掉的东西",
             "sourceName": "vo_kazuha_friendship_05.wem"
+        },
+        "9faec3ee3727e3d9": {
+            "hash": "9faec3ee3727e3d9",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_5.wem"
         },
         "a06b474929ab1a49": {
             "hash": "a06b474929ab1a49",
@@ -884,7 +980,7 @@
             "hash": "a5971be5bf180655",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_01.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_01.wem"
         },
         "a98f7a14080ac8b4": {
             "hash": "a98f7a14080ac8b4",
@@ -896,7 +992,7 @@
             "hash": "b01db38c10e5a2b7",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_03.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_03.wem"
         },
         "b24728445cd14611": {
             "hash": "b24728445cd14611",
@@ -909,6 +1005,12 @@
             "directory": "External22",
             "voiceContent": "风共云行",
             "sourceName": "vo_kazuha_battle_skill3_02.wem"
+        },
+        "b3f0ffa72fc6af45": {
+            "hash": "b3f0ffa72fc6af45",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_03.wem"
         },
         "ba545bbbb91406ef": {
             "hash": "ba545bbbb91406ef",
@@ -944,13 +1046,13 @@
             "hash": "c23cac429298e45c",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_02.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_02.wem"
         },
         "c36698543d1ae27e": {
             "hash": "c36698543d1ae27e",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_04.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_04.wem"
         },
         "c630cdc35e5d57e2": {
             "hash": "c630cdc35e5d57e2",
@@ -976,6 +1078,12 @@
             "voiceContent": "离开稻妻后，我许多次扪心自问，我对雷电将军的不满是否源于那一次御前决斗，是否源于她对友人落下的那一刀？我想了很久，觉得不是的。我的友人是堂堂正正地死在了决斗场上，雷电将军的那一刀也并无不妥。我对她的不满，来源于「眼狩令」。没有任何人有资格剥夺他人的愿望，即便是「神」也不行",
             "sourceName": "vo_kazuha_teammate_raidenShogun_01.wem"
         },
+        "cae8dc1411e8d5ac": {
+            "hash": "cae8dc1411e8d5ac",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_01.wem"
+        },
         "cc082272ea359af1": {
             "hash": "cc082272ea359af1",
             "directory": "External25",
@@ -986,7 +1094,13 @@
             "hash": "cc5de32934c046bf",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_03.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_03.wem"
+        },
+        "d020dff2ba96e060": {
+            "hash": "d020dff2ba96e060",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_3.wem"
         },
         "d2ce2b317b4f0001": {
             "hash": "d2ce2b317b4f0001",
@@ -1018,17 +1132,35 @@
             "voiceContent": "这把刀，更加锋利了",
             "sourceName": "vo_kazuha_starUp_01.wem"
         },
+        "db1bf7bb0e16c48b": {
+            "hash": "db1bf7bb0e16c48b",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_3.wem"
+        },
         "dc2520ac022b47c5": {
             "hash": "dc2520ac022b47c5",
             "directory": "External27",
             "voiceContent": "天晴日朗…正适合来场牌戏",
             "sourceName": "vo_card_kazuha_invite_easy_01.wem"
         },
+        "dc4623ccb8992fe5": {
+            "hash": "dc4623ccb8992fe5",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_1.wem"
+        },
         "dffc8998742d8f66": {
             "hash": "dffc8998742d8f66",
             "directory": "External27",
             "voiceContent": "要带上我吗",
             "sourceName": "vo_kazuha_teamJoin_01.wem"
+        },
+        "e1c423b76e7cd467": {
+            "hash": "e1c423b76e7cd467",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_3.wem"
         },
         "e3e49be12e94c987": {
             "hash": "e3e49be12e94c987",
@@ -1064,13 +1196,19 @@
             "hash": "e741620f8104e988",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_04.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_04.wem"
         },
         "e74f7e02bd85cb74": {
             "hash": "e74f7e02bd85cb74",
             "directory": "External28",
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_idle_01.wem"
+        },
+        "ebab5f100d941aac": {
+            "hash": "ebab5f100d941aac",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_3.wem"
         },
         "edfb524dd681ccc2": {
             "hash": "edfb524dd681ccc2",
@@ -1112,7 +1250,7 @@
             "hash": "f92aafd688955dbb",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_03.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_03.wem"
         },
         "f9a52d48db9f67cd": {
             "hash": "f9a52d48db9f67cd",
@@ -1136,7 +1274,7 @@
             "hash": "ffdd10a39c872298",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_01.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_01.wem"
         }
     }
 }

@@ -362,6 +362,12 @@
             "voiceContent": "You call this a design! What possessed you to use that kind of material for the roof!",
             "sourceName": "vo_HSEQ002_11_faruzan_05.wem"
         },
+        "109af2a406d09cd1": {
+            "hash": "109af2a406d09cd1",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_02.wem"
+        },
         "1fec1851b01cfd50": {
             "hash": "1fec1851b01cfd50",
             "directory": "External3",
@@ -398,11 +404,23 @@
             "voiceContent": "Where are Collei and Dehya",
             "sourceName": "vo_HSEQ002_11_faruzan_02.wem"
         },
+        "446d8c76015faf0c": {
+            "hash": "446d8c76015faf0c",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_faruzan_01.wem"
+        },
         "4543f4d65a755034": {
             "hash": "4543f4d65a755034",
             "directory": "External8",
             "voiceContent": "(Got to pick a true classic...",
             "sourceName": "vo_FRZCOP001_1917301_faruzan_02.wem"
+        },
+        "4cc5528287e516dd": {
+            "hash": "4cc5528287e516dd",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_06.wem"
         },
         "549a6c4d7a70ddf7": {
             "hash": "549a6c4d7a70ddf7",
@@ -440,6 +458,12 @@
             "voiceContent": "Oh, and Kaveh... You wanted a mechanism to simulate the Parade, right? I finished it",
             "sourceName": "vo_HSEQ002_8_faruzan_06.wem"
         },
+        "8edd98ac4a307f50": {
+            "hash": "8edd98ac4a307f50",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_03.wem"
+        },
         "90f1f5d51969569b": {
             "hash": "90f1f5d51969569b",
             "directory": "External18",
@@ -470,11 +494,23 @@
             "voiceContent": "(...",
             "sourceName": "vo_FRZCOP001_1917301_faruzan_05.wem"
         },
+        "a059e67351642123": {
+            "hash": "a059e67351642123",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_04.wem"
+        },
         "a1a972496cbd1ad1": {
             "hash": "a1a972496cbd1ad1",
             "directory": "External20",
             "voiceContent": "I'm sure you can come up with a new design in a few days, right",
             "sourceName": "vo_HSEQ002_11_faruzan_08.wem"
+        },
+        "c7fb3a699a6be563": {
+            "hash": "c7fb3a699a6be563",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ002_14_faruzan_01.wem"
         },
         "c85c584e4a21c2fc": {
             "hash": "c85c584e4a21c2fc",
@@ -506,6 +542,12 @@
             "voiceContent": "Hmph! No more difficult than Haravatat's standard curriculum a hundred years ago",
             "sourceName": "vo_HSEQ002_8_faruzan_07.wem"
         },
+        "e271249d13adc92e": {
+            "hash": "e271249d13adc92e",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_01.wem"
+        },
         "eeb982bda54fb8ab": {
             "hash": "eeb982bda54fb8ab",
             "directory": "External29",
@@ -517,6 +559,12 @@
             "directory": "External30",
             "voiceContent": "(Mechanical life forms... are truly incredible.",
             "sourceName": "vo_FRZCOP001_1917301_faruzan_04.wem"
+        },
+        "f2c1347a598104da": {
+            "hash": "f2c1347a598104da",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_05.wem"
         },
         "f33ca42696dd6d5b": {
             "hash": "f33ca42696dd6d5b",
@@ -530,7 +578,7 @@
             "hash": "027a2c2740bebc63",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_01.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_01.wem"
         },
         "0579d110ef706ae6": {
             "hash": "0579d110ef706ae6",
@@ -586,6 +634,12 @@
             "voiceContent": "Been a while since I've limbered up",
             "sourceName": "vo_faruzan_teamJoin_02.wem"
         },
+        "1d38ff68e17ad49b": {
+            "hash": "1d38ff68e17ad49b",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_explore_idle_02.wem"
+        },
         "1ea987d0ebc4ac50": {
             "hash": "1ea987d0ebc4ac50",
             "directory": "External3",
@@ -602,7 +656,7 @@
             "hash": "1fe8b3550ed1bc29",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackheavy_02.wem"
+            "sourceName": "vo_faruzan_battle_attackHeavy_02.wem"
         },
         "222fb9e73854e140": {
             "hash": "222fb9e73854e140",
@@ -632,13 +686,13 @@
             "hash": "2a5f9403067d684c",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_04.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_04.wem"
         },
         "2b898014b0ff666e": {
             "hash": "2b898014b0ff666e",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_02.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_02.wem"
         },
         "2bf379ae1d9267b9": {
             "hash": "2bf379ae1d9267b9",
@@ -686,7 +740,7 @@
             "hash": "3bd88ff1f6d0ee1a",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_06.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_06.wem"
         },
         "3c684f04b3e6ee94": {
             "hash": "3c684f04b3e6ee94",
@@ -698,13 +752,13 @@
             "hash": "43687e3f5888194c",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_02.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_02.wem"
         },
         "44926a51030a176e": {
             "hash": "44926a51030a176e",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_04.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_04.wem"
         },
         "47f439ccaab979de": {
             "hash": "47f439ccaab979de",
@@ -736,11 +790,23 @@
             "voiceContent": "Interested in my story? Well, Madam Faruzan's life started more than a hundred years ago, and her story covers as much ground as some major academic publications. Still curious? Good, willingness to learn is an indispensable trait for scholars. You've got one foot in the door",
             "sourceName": "vo_faruzan_friendship_01.wem"
         },
+        "4d6a606406232b06": {
+            "hash": "4d6a606406232b06",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_hard_03.wem"
+        },
         "4d7cc82dd714538b": {
             "hash": "4d7cc82dd714538b",
             "directory": "External9",
             "voiceContent": "SFX",
             "sourceName": "vo_faruzan_explore_climb_01.wem"
+        },
+        "4e5f763eb89c8dfb": {
+            "hash": "4e5f763eb89c8dfb",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_freetalk_01.wem"
         },
         "4ea6f43f8196bee5": {
             "hash": "4ea6f43f8196bee5",
@@ -758,7 +824,7 @@
             "hash": "50211458ec17b455",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackmid_03.wem"
+            "sourceName": "vo_faruzan_battle_attackMid_03.wem"
         },
         "50ff96709b9a6911": {
             "hash": "50ff96709b9a6911",
@@ -782,7 +848,7 @@
             "hash": "5a0215b40c35008a",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_h_04.wem"
+            "sourceName": "vo_faruzan_battle_hit_H_04.wem"
         },
         "5ce926d4d3143155": {
             "hash": "5ce926d4d3143155",
@@ -794,7 +860,7 @@
             "hash": "5d184e1ba703af11",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_01.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_01.wem"
         },
         "5d2f46def6c4363c": {
             "hash": "5d2f46def6c4363c",
@@ -808,6 +874,12 @@
             "voiceContent": "Happy birthday! Here's a small toy for you. It's an assembly of a number of miniature puzzle mechanisms — you can find a button and lever here, as well as a roller to the side. Just play with it however you want, and I'll take care of it if it breaks. Hmph, and don't think I'm treating you like a child. Everyone, regardless of age, could use a moment of happiness and relaxation",
             "sourceName": "vo_faruzan_pref_birthday_01.wem"
         },
+        "649c74764e5c9028": {
+            "hash": "649c74764e5c9028",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_hard_01.wem"
+        },
         "67ae213be00fda3a": {
             "hash": "67ae213be00fda3a",
             "directory": "External12",
@@ -819,12 +891,6 @@
             "directory": "External12",
             "voiceContent": "We'll see about that",
             "sourceName": "vo_faruzan_battle_skill1_03.wem"
-        },
-        "6a87da737f1b528a": {
-            "hash": "6a87da737f1b528a",
-            "directory": "External13",
-            "voiceContent": "Hm? This indescribable taste... Are you trying to get me to figure out what this is",
-            "sourceName": "vo_faruzan_spice_event_dislike_01.wem"
         },
         "6c5380c9b351f84d": {
             "hash": "6c5380c9b351f84d",
@@ -844,6 +910,12 @@
             "voiceContent": "Oh? You mean the new arrival? Yes, didn't he show up at the perfect time! I still don't know which Darshan he belongs to, but I seem to run into him all the time these days out on the streets, in shops, at restaurants... It's like he's everywhere at once. The way he nods his head when he talks, it's like... oh, I don't know, like... a little puppy, yes. Eloquent young fellow, too. Seems like a good egg. Anyway, are you acquainted with him? You must encourage him to enroll in my classes. Tell him Madam Faruzan will take good care of him",
             "sourceName": "vo_faruzan_teammate_sethos_01.wem"
         },
+        "70ad43c409b71258": {
+            "hash": "70ad43c409b71258",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_easy_02.wem"
+        },
         "7344f1fefcd0c0a4": {
             "hash": "7344f1fefcd0c0a4",
             "directory": "External14",
@@ -854,7 +926,7 @@
             "hash": "749a19c6575173fc",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_h_06.wem"
+            "sourceName": "vo_faruzan_battle_hit_H_06.wem"
         },
         "78c1331a59f9fd69": {
             "hash": "78c1331a59f9fd69",
@@ -874,23 +946,23 @@
             "voiceContent": "Whoa! W—What? There's nothing wrong with being afraid of thunder even at an older age",
             "sourceName": "vo_faruzan_weather_thunder_01.wem"
         },
+        "799e6dd81ab3405c": {
+            "hash": "799e6dd81ab3405c",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_endOfGame_fail_01.wem"
+        },
         "7b4193ddbc675541": {
             "hash": "7b4193ddbc675541",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_h_03.wem"
+            "sourceName": "vo_faruzan_battle_hit_H_03.wem"
         },
         "7df176d8d4b3359a": {
             "hash": "7df176d8d4b3359a",
             "directory": "External15",
             "voiceContent": "A historical artifact? Hmph... never mind",
             "sourceName": "vo_faruzan_chest_open_01.wem"
-        },
-        "7fe84626520a8e64": {
-            "hash": "7fe84626520a8e64",
-            "directory": "External15",
-            "voiceContent": "*munch* This is tastier than the food at most historic establishments. Could it be that the culinary arts haven't stopped improving",
-            "sourceName": "vo_faruzan_spice_event_pref_01.wem"
         },
         "87373308ac1095cf": {
             "hash": "87373308ac1095cf",
@@ -950,7 +1022,7 @@
             "hash": "9943adfa2819dc1d",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_05.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_05.wem"
         },
         "99497cd114dd7a40": {
             "hash": "99497cd114dd7a40",
@@ -964,6 +1036,12 @@
             "voiceContent": "*munch* This is tastier than the food at most historic establishments. Could it be that the culinary arts haven't stopped improving",
             "sourceName": "vo_faruzan_spice_pref_01.wem"
         },
+        "9b458d7124acff52": {
+            "hash": "9b458d7124acff52",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_explore_idle_03.wem"
+        },
         "9b88cdbd7438843c": {
             "hash": "9b88cdbd7438843c",
             "directory": "External19",
@@ -975,6 +1053,12 @@
             "directory": "External19",
             "voiceContent": "I haven't been a child for many, many years, so I don't see any reason to be excited about the rain",
             "sourceName": "vo_faruzan_weather_heavyRain_01.wem"
+        },
+        "9c6eb182cf2da924": {
+            "hash": "9c6eb182cf2da924",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_explore_idle_01.wem"
         },
         "9d142d11ee891dc6": {
             "hash": "9d142d11ee891dc6",
@@ -1000,6 +1084,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_faruzan_explore_climb_02.wem"
         },
+        "a222d7eed8fccf00": {
+            "hash": "a222d7eed8fccf00",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_endOfGame_win_01.wem"
+        },
         "a299900217ddddcd": {
             "hash": "a299900217ddddcd",
             "directory": "External20",
@@ -1016,7 +1106,13 @@
             "hash": "a3b4a849b5950bbb",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackmid_01.wem"
+            "sourceName": "vo_faruzan_battle_attackMid_01.wem"
+        },
+        "a3fa14e0c84ade56": {
+            "hash": "a3fa14e0c84ade56",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_faruzan_01.wem"
         },
         "a4d71077e186b671": {
             "hash": "a4d71077e186b671",
@@ -1046,19 +1142,19 @@
             "hash": "afa4854c428576c6",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackheavy_01.wem"
+            "sourceName": "vo_faruzan_battle_attackHeavy_01.wem"
         },
         "b0ace20c7082ba77": {
             "hash": "b0ace20c7082ba77",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_03.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_03.wem"
         },
         "b24c98367a248d1d": {
             "hash": "b24c98367a248d1d",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_03.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_03.wem"
         },
         "b76a54e725576fe7": {
             "hash": "b76a54e725576fe7",
@@ -1088,13 +1184,13 @@
             "hash": "c9b5cc48c28d6b77",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_05.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_05.wem"
         },
         "ca3d995e8da3b7e8": {
             "hash": "ca3d995e8da3b7e8",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackheavy_03.wem"
+            "sourceName": "vo_faruzan_battle_attackHeavy_03.wem"
         },
         "cc1360d61860aacd": {
             "hash": "cc1360d61860aacd",
@@ -1106,19 +1202,25 @@
             "hash": "ce2cda612f488ac4",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackmid_02.wem"
-        },
-        "ce539fee0f11bbfe": {
-            "hash": "ce539fee0f11bbfe",
-            "directory": "External25",
-            "voiceContent": "The appearance, smell, and taste of this dish are all excellent. Do you read a lot of professional cooking books",
-            "sourceName": "vo_faruzan_spice_event_normal_01.wem"
+            "sourceName": "vo_faruzan_battle_attackMid_02.wem"
         },
         "ced527ce85e4aca7": {
             "hash": "ced527ce85e4aca7",
             "directory": "External25",
             "voiceContent": "Wretched dastard",
             "sourceName": "vo_faruzan_battle_hit_H_01.wem"
+        },
+        "cf27c25bc2c356ef": {
+            "hash": "cf27c25bc2c356ef",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_hard_02.wem"
+        },
+        "cf6051e794742c78": {
+            "hash": "cf6051e794742c78",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_leave_01.wem"
         },
         "d71df43eed9b194c": {
             "hash": "d71df43eed9b194c",
@@ -1132,6 +1234,12 @@
             "voiceContent": "Serious question why don't you become my student? I'll tailor research topics to your needs and thoroughly explain everything you need to know. We can focus on practical ways to unlock modern-age puzzle mechanisms, and build on that with some work on the deciphering of associated texts. I've walked the walk, so I can promise you that everything you'd learn would be a great boon for your future adventures. There's no reason not to trust me",
             "sourceName": "vo_faruzan_dialog_close.wem"
         },
+        "db3751a97e1bb8df": {
+            "hash": "db3751a97e1bb8df",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_easy_01.wem"
+        },
         "db5c94e105fc239d": {
             "hash": "db5c94e105fc239d",
             "directory": "External27",
@@ -1142,7 +1250,7 @@
             "hash": "deee47abcb88c093",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_h_05.wem"
+            "sourceName": "vo_faruzan_battle_hit_H_05.wem"
         },
         "e0468668a3bb1b6e": {
             "hash": "e0468668a3bb1b6e",
@@ -1184,13 +1292,19 @@
             "hash": "e97141eaeeb40b63",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_07.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_07.wem"
         },
         "ea7620a480eff06e": {
             "hash": "ea7620a480eff06e",
             "directory": "External29",
             "voiceContent": "Careful, don't lose your life",
             "sourceName": "vo_faruzan_life_less30_teammate_01.wem"
+        },
+        "f26a9dbbc6572fd9": {
+            "hash": "f26a9dbbc6572fd9",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_easy_03.wem"
         },
         "f3ac5e38b370ca2d": {
             "hash": "f3ac5e38b370ca2d",
@@ -1214,7 +1328,7 @@
             "hash": "f463de603c6e4290",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_06.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_06.wem"
         },
         "f52d05c1c01b01ed": {
             "hash": "f52d05c1c01b01ed",

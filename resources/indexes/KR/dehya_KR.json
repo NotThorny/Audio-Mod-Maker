@@ -338,6 +338,12 @@
             "voiceContent": "근데… 방금 말했듯이 아무리 해봐도 영 마음에 안 들",
             "sourceName": "vo_HDJHK003_2_dehya_12.wem"
         },
+        "8a314f4a9581bbb7": {
+            "hash": "8a314f4a9581bbb7",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ103_dehya_02.wem"
+        },
         "90c61e995f1615d8": {
             "hash": "90c61e995f1615d8",
             "directory": "External18",
@@ -490,12 +496,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_climb_breath_01.wem"
         },
-        "083e8eb07d3dcee3": {
-            "hash": "083e8eb07d3dcee3",
-            "directory": "External1",
-            "voiceContent": "음, 휴대 식량이라고 생각하면… 꽤 괜찮은데",
-            "sourceName": "vo_dehya_spice_event_normal_01.wem"
-        },
         "0c63724c93de4ae3": {
             "hash": "0c63724c93de4ae3",
             "directory": "External1",
@@ -518,7 +518,7 @@
             "hash": "14b7babb92f91103",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_02.wem"
+            "sourceName": "vo_dehya_battle_hit_H_02.wem"
         },
         "1a43e97f4718209e": {
             "hash": "1a43e97f4718209e",
@@ -536,7 +536,7 @@
             "hash": "1c203d95e4c57fca",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_01.wem"
+            "sourceName": "vo_dehya_battle_attackLight_01.wem"
         },
         "1c5d072ea7020524": {
             "hash": "1c5d072ea7020524",
@@ -586,11 +586,23 @@
             "voiceContent": "그 사건 이후로 아카데미아가 우릴 대하는 태도가 조금 바뀌었어. 사막의 백성을 돕는 조항도 많이 발표했는데, 긴 문서는 못 알아보겠더라. 그저 「방사벽」이 앞으로 희망을 막지 않았면 좋겠",
             "sourceName": "vo_dehya_friendship_04.wem"
         },
+        "2ed666356cc42897": {
+            "hash": "2ed666356cc42897",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_dehya_01.wem"
+        },
         "335341a82d007c3c": {
             "hash": "335341a82d007c3c",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_03.wem"
+            "sourceName": "vo_dehya_battle_attackLight_03.wem"
+        },
+        "336957eefa658522": {
+            "hash": "336957eefa658522",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_freetalk_01.wem"
         },
         "389af3fceff706c0": {
             "hash": "389af3fceff706c0",
@@ -602,7 +614,7 @@
             "hash": "3d60bbbf94f98681",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_06.wem"
+            "sourceName": "vo_dehya_battle_attackLight_06.wem"
         },
         "3e541dca50686a02": {
             "hash": "3e541dca50686a02",
@@ -656,7 +668,7 @@
             "hash": "48926f144e00285f",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_02.wem"
+            "sourceName": "vo_dehya_battle_hit_L_02.wem"
         },
         "49999d3fe462e647": {
             "hash": "49999d3fe462e647",
@@ -706,11 +718,11 @@
             "voiceContent": "이 악물어",
             "sourceName": "vo_dehya_battle_skill3_03.wem"
         },
-        "5113f5d88e5fae39": {
-            "hash": "5113f5d88e5fae39",
+        "50461403b703a1b0": {
+            "hash": "50461403b703a1b0",
             "directory": "External10",
-            "voiceContent": "그래도… 배는 부르네. 허기만 채울 수 있다면 다 좋은 음식이지 뭐! 하하하",
-            "sourceName": "vo_dehya_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_05.wem"
         },
         "522d83711d368f6d": {
             "hash": "522d83711d368f6d",
@@ -724,17 +736,23 @@
             "voiceContent": "실력 발휘 좀 해볼까",
             "sourceName": "vo_dehya_life_less30_02.wem"
         },
+        "5487f497acd96847": {
+            "hash": "5487f497acd96847",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_02.wem"
+        },
         "5591f86be6bf945b": {
             "hash": "5591f86be6bf945b",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_02.wem"
+            "sourceName": "vo_dehya_battle_attackMid_02.wem"
         },
         "57769b8071b52ed7": {
             "hash": "57769b8071b52ed7",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_03.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_03.wem"
         },
         "57c956be8901789b": {
             "hash": "57c956be8901789b",
@@ -746,13 +764,13 @@
             "hash": "57f8ecf6ffc4c4b0",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_05.wem"
+            "sourceName": "vo_dehya_battle_hit_H_05.wem"
         },
         "58a087921c372cf1": {
             "hash": "58a087921c372cf1",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_01.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_01.wem"
         },
         "5b6ec16af8beb767": {
             "hash": "5b6ec16af8beb767",
@@ -778,11 +796,23 @@
             "voiceContent": "음, 휴대 식량이라고 생각하면… 꽤 괜찮은데",
             "sourceName": "vo_dehya_spice_normal_01.wem"
         },
+        "617da4fbb28ca4db": {
+            "hash": "617da4fbb28ca4db",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_endOfGame_win_01.wem"
+        },
         "64145682996bfb3e": {
             "hash": "64145682996bfb3e",
             "directory": "External12",
             "voiceContent": "물러서, 내게 맡겨",
             "sourceName": "vo_dehya_life_less30_teammate_02.wem"
+        },
+        "675d52297551d95f": {
+            "hash": "675d52297551d95f",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_01.wem"
         },
         "6dd77d70109578fc": {
             "hash": "6dd77d70109578fc",
@@ -801,6 +831,18 @@
             "directory": "External15",
             "voiceContent": "사람들은 시체를 먹는 붉은 독수리를 죽음과 재난의 상징으로 여기지만, 난 모래바다를 비행하는 독수리야말로 가장 강렬한 생명력을 상징한다고 생각해.독수리가 내려다보는 적색 모래바다는 과연 어떤 모습일까",
             "sourceName": "vo_dehya_pref_gift_01.wem"
+        },
+        "7e909e3bbd8d5059": {
+            "hash": "7e909e3bbd8d5059",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_03.wem"
+        },
+        "8297aba5893f367d": {
+            "hash": "8297aba5893f367d",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_endOfGame_fail_01.wem"
         },
         "89e5642a2ee31c44": {
             "hash": "89e5642a2ee31c44",
@@ -824,7 +866,7 @@
             "hash": "8d8e4fb05b93b5e7",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_04.wem"
+            "sourceName": "vo_dehya_battle_attackLight_04.wem"
         },
         "904a31ac885eb82c": {
             "hash": "904a31ac885eb82c",
@@ -860,13 +902,13 @@
             "hash": "9b32eef36d2a800b",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_06.wem"
+            "sourceName": "vo_dehya_battle_hit_L_06.wem"
         },
         "9c5d1b0517aceb65": {
             "hash": "9c5d1b0517aceb65",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_04.wem"
+            "sourceName": "vo_dehya_battle_hit_L_04.wem"
         },
         "9c94c4433321af58": {
             "hash": "9c94c4433321af58",
@@ -908,7 +950,7 @@
             "hash": "a2375b9f4e9cf0cd",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_02.wem"
+            "sourceName": "vo_dehya_battle_attackLight_02.wem"
         },
         "a2b0b3e2d600a16c": {
             "hash": "a2b0b3e2d600a16c",
@@ -939,6 +981,12 @@
             "directory": "External21",
             "voiceContent": "좀 하는데",
             "sourceName": "vo_dehya_battle_hit_H_01.wem"
+        },
+        "ab4886b0622cc5e0": {
+            "hash": "ab4886b0622cc5e0",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_01.wem"
         },
         "ab76d9e6d7c7852b": {
             "hash": "ab76d9e6d7c7852b",
@@ -986,7 +1034,7 @@
             "hash": "bbdc88c50f154a3a",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_03.wem"
+            "sourceName": "vo_dehya_battle_hit_H_03.wem"
         },
         "bc35de5bcd441b9d": {
             "hash": "bc35de5bcd441b9d",
@@ -1036,6 +1084,12 @@
             "voiceContent": "시간이 늦었네, 오늘 밤은 내가 망볼게. 넌 어서 쉬",
             "sourceName": "vo_dehya_dialog_greetingNight2.wem"
         },
+        "d0d981e9c921c117": {
+            "hash": "d0d981e9c921c117",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_06.wem"
+        },
         "d23119c339bdfcb5": {
             "hash": "d23119c339bdfcb5",
             "directory": "External26",
@@ -1046,7 +1100,7 @@
             "hash": "d39d867429f00b12",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_03.wem"
+            "sourceName": "vo_dehya_battle_attackMid_03.wem"
         },
         "d39f126e15acf9f7": {
             "hash": "d39f126e15acf9f7",
@@ -1060,11 +1114,17 @@
             "voiceContent": "캔디스? 다 좋은데 고집이 동물 짐꾼처럼 세서 탈이야. 가끔은 긴장 좀 풀고 휴식하면서, 수메르성을 구경하거나 예쁜 옷이나 장신구를 사라고 누누이 충고했지만… 늘 마을이 걱정된다며 거절했지. 후, 정 안 되면 다음에 내가 대신 마을을 지킬 테니까 다른 여단 자매들이랑 같이 성에 놀러 가보라고 말해봐야겠",
             "sourceName": "vo_dehya_teammate_candace_01.wem"
         },
+        "d5696dfb7686e831": {
+            "hash": "d5696dfb7686e831",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_04.wem"
+        },
         "d5b93988b51503ce": {
             "hash": "d5b93988b51503ce",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_02.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_02.wem"
         },
         "d6472b864334c3a1": {
             "hash": "d6472b864334c3a1",
@@ -1082,13 +1142,13 @@
             "hash": "d82daa85d75591e4",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_01.wem"
+            "sourceName": "vo_dehya_battle_attackMid_01.wem"
         },
         "d88c5add11e2e417": {
             "hash": "d88c5add11e2e417",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_06.wem"
+            "sourceName": "vo_dehya_battle_hit_H_06.wem"
         },
         "d90d82841095a898": {
             "hash": "d90d82841095a898",
@@ -1106,7 +1166,7 @@
             "hash": "dd1c46eebf480b31",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_04.wem"
+            "sourceName": "vo_dehya_battle_hit_H_04.wem"
         },
         "de08612ed99b81d8": {
             "hash": "de08612ed99b81d8",
@@ -1118,13 +1178,13 @@
             "hash": "dfbeadb7638171de",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_05.wem"
+            "sourceName": "vo_dehya_battle_attackLight_05.wem"
         },
         "e44ee1c910e71280": {
             "hash": "e44ee1c910e71280",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_07.wem"
+            "sourceName": "vo_dehya_battle_attackLight_07.wem"
         },
         "e8ba91d7202d9c1e": {
             "hash": "e8ba91d7202d9c1e",
@@ -1160,7 +1220,7 @@
             "hash": "ee57610c1f6cee94",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_05.wem"
+            "sourceName": "vo_dehya_battle_hit_L_05.wem"
         },
         "f030e82be653951c": {
             "hash": "f030e82be653951c",
@@ -1178,13 +1238,7 @@
             "hash": "f2e78d1dccd282f6",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_03.wem"
-        },
-        "f81266486d30011d": {
-            "hash": "f81266486d30011d",
-            "directory": "External31",
-            "voiceContent": "이 요리 진짜 맛있다! 계속 먹다 보면 휴대 식량은 입도 못 대겠",
-            "sourceName": "vo_dehya_spice_event_pref_01.wem"
+            "sourceName": "vo_dehya_battle_hit_L_03.wem"
         },
         "f998de20dcc18f9e": {
             "hash": "f998de20dcc18f9e",
@@ -1203,6 +1257,24 @@
             "directory": "External31",
             "voiceContent": "딱 좋은걸",
             "sourceName": "vo_dehya_life_less30_03.wem"
+        },
+        "fcd3444400ed32d8": {
+            "hash": "fcd3444400ed32d8",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_02.wem"
+        },
+        "fe6bb7524fb86f5f": {
+            "hash": "fe6bb7524fb86f5f",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_leave_01.wem"
+        },
+        "fedcd2a12bab55be": {
+            "hash": "fedcd2a12bab55be",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_03.wem"
         }
     }
 }

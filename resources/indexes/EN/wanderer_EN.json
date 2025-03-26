@@ -356,11 +356,125 @@
             "voiceContent": "(It feels like... I've lived two lives.",
             "sourceName": "vo_LLZAQ004_1_wanderer_28.wem"
         },
+        "22504ea461339e0e": {
+            "hash": "22504ea461339e0e",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_01.wem"
+        },
+        "237a42b60bb5a9b0": {
+            "hash": "237a42b60bb5a9b0",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_03.wem"
+        },
+        "3994ea65541f395c": {
+            "hash": "3994ea65541f395c",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_wanderer_02.wem"
+        },
+        "3abed676fea1377e": {
+            "hash": "3abed676fea1377e",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_wanderer_04.wem"
+        },
+        "875dde841b062f3a": {
+            "hash": "875dde841b062f3a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_05.wem"
+        },
+        "90ca229f7c1bec43": {
+            "hash": "90ca229f7c1bec43",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_wanderer_03.wem"
+        },
+        "93d0f86d82b42507": {
+            "hash": "93d0f86d82b42507",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_wanderer_05.wem"
+        },
+        "953f1e34f1cf3d21": {
+            "hash": "953f1e34f1cf3d21",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ003_20_wanderer_01.wem"
+        },
+        "955a0eb12981137d": {
+            "hash": "955a0eb12981137d",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_wanderer_01.wem"
+        },
+        "a513045c72d884ed": {
+            "hash": "a513045c72d884ed",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_wanderer_03.wem"
+        },
+        "a89d9cadcb38f031": {
+            "hash": "a89d9cadcb38f031",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_02.wem"
+        },
+        "b7c1437717aa2835": {
+            "hash": "b7c1437717aa2835",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_wanderer_02a_1.wem"
+        },
+        "d1642c2367e54d60": {
+            "hash": "d1642c2367e54d60",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ002_17_wanderer_01.wem"
+        },
+        "d77254daebcc7bf0": {
+            "hash": "d77254daebcc7bf0",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_wanderer_04.wem"
+        },
+        "da157f42538fa2e3": {
+            "hash": "da157f42538fa2e3",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ001_8_wanderer_01.wem"
+        },
         "dc8e869715edbdd3": {
             "hash": "dc8e869715edbdd3",
             "directory": "External27",
             "voiceContent": "(...Time to face the music.",
             "sourceName": "vo_LLZAQ003_5_wanderer_01.wem"
+        },
+        "e039107a9ee9f603": {
+            "hash": "e039107a9ee9f603",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_04.wem"
+        },
+        "e162fc8c496bf43d": {
+            "hash": "e162fc8c496bf43d",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_06.wem"
+        },
+        "f8a7984d3c578f73": {
+            "hash": "f8a7984d3c578f73",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_wanderer_01.wem"
+        },
+        "fddf9a5717de590e": {
+            "hash": "fddf9a5717de590e",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_wanderer_02b_1.wem"
         }
     },
     "Gameplay": {
@@ -368,7 +482,13 @@
             "hash": "01febefbf1287cbe",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_06.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_06.wem"
+        },
+        "02524fab679334f5": {
+            "hash": "02524fab679334f5",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_easy_01.wem"
         },
         "0353b459a4962a22": {
             "hash": "0353b459a4962a22",
@@ -440,7 +560,7 @@
             "hash": "241f3d3f6ead0c5f",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_05.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_05.wem"
         },
         "2493728354c8eb39": {
             "hash": "2493728354c8eb39",
@@ -460,12 +580,6 @@
             "voiceContent": "Squall and fury",
             "sourceName": "vo_wanderer_battle_skill1_03.wem"
         },
-        "27942d2102b6c273": {
-            "hash": "27942d2102b6c273",
-            "directory": "External4",
-            "voiceContent": "Not bad. You actually made something edible",
-            "sourceName": "vo_wanderer_spice_event_normal_01.wem"
-        },
         "2c0aea764773fbd2": {
             "hash": "2c0aea764773fbd2",
             "directory": "External5",
@@ -482,7 +596,7 @@
             "hash": "2d340e87f1f4a5a4",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_h_04.wem"
+            "sourceName": "vo_wanderer_battle_hit_H_04.wem"
         },
         "2fb04adc3b34c593": {
             "hash": "2fb04adc3b34c593",
@@ -518,25 +632,25 @@
             "hash": "3af94eda6f87aeaa",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_02.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_02.wem"
         },
         "3b528951b6e88359": {
             "hash": "3b528951b6e88359",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_07.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_07.wem"
         },
         "3b949ff1578de807": {
             "hash": "3b949ff1578de807",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackmid_03.wem"
+            "sourceName": "vo_wanderer_battle_attackMid_03.wem"
         },
         "3cbd8c03020e3321": {
             "hash": "3cbd8c03020e3321",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackmid_01.wem"
+            "sourceName": "vo_wanderer_battle_attackMid_01.wem"
         },
         "3ce30ed511cc4601": {
             "hash": "3ce30ed511cc4601",
@@ -590,7 +704,7 @@
             "hash": "49e4a89ff4c393a9",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_h_01.wem"
+            "sourceName": "vo_wanderer_battle_hit_H_01.wem"
         },
         "4d17b13c64040898": {
             "hash": "4d17b13c64040898",
@@ -652,6 +766,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_wanderer_explore_jump_06.wem"
         },
+        "5ac5cc7d5bf0119e": {
+            "hash": "5ac5cc7d5bf0119e",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_hard_01.wem"
+        },
         "5bb72fa241f3769b": {
             "hash": "5bb72fa241f3769b",
             "directory": "External11",
@@ -664,11 +784,23 @@
             "voiceContent": "She completely neglected her own creation, and to add insult to injury, she said it was because she couldn't bring herself to intervene in my fate..",
             "sourceName": "vo_wanderer_teammate_raidenShogun_01.wem"
         },
+        "5bef008f0670d740": {
+            "hash": "5bef008f0670d740",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_hard_03.wem"
+        },
         "5c39cd041fbbb661": {
             "hash": "5c39cd041fbbb661",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_05.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_05.wem"
+        },
+        "5d7b7c73e0f1c4bf": {
+            "hash": "5d7b7c73e0f1c4bf",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_battle_hit_H_10.wem"
         },
         "5ec3dc8ee7faa22f": {
             "hash": "5ec3dc8ee7faa22f",
@@ -688,11 +820,17 @@
             "voiceContent": "Unnecessary",
             "sourceName": "vo_wanderer_chest_open_01.wem"
         },
+        "6b0deab31bf772fa": {
+            "hash": "6b0deab31bf772fa",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_wanderer_01.wem"
+        },
         "6c52ece1655fca2d": {
             "hash": "6c52ece1655fca2d",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_01.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_01.wem"
         },
         "6d425e6bf313330c": {
             "hash": "6d425e6bf313330c",
@@ -730,12 +868,6 @@
             "voiceContent": "Heh..",
             "sourceName": "vo_card_wanderer_inGame_easy_02.wem"
         },
-        "724dac99e3932b0d": {
-            "hash": "724dac99e3932b0d",
-            "directory": "External14",
-            "voiceContent": "It's okay. Guess this is one of the few things you're good at",
-            "sourceName": "vo_wanderer_spice_event_pref_01.wem"
-        },
         "769d6b2c77f50167": {
             "hash": "769d6b2c77f50167",
             "directory": "External14",
@@ -746,19 +878,13 @@
             "hash": "76bfbd1e8dd7640b",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_01.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_01.wem"
         },
         "77e9e9303859cf65": {
             "hash": "77e9e9303859cf65",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_03.wem"
-        },
-        "790e6765641f48e9": {
-            "hash": "790e6765641f48e9",
-            "directory": "External15",
-            "voiceContent": "You wanna poison me? Are you so dumb as to have forgotten that I'm not human",
-            "sourceName": "vo_wanderer_spice_event_dislike_01.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_03.wem"
         },
         "7932794de1664b7a": {
             "hash": "7932794de1664b7a",
@@ -778,6 +904,12 @@
             "voiceContent": "Although the idea of divine favor makes me a little ill, I'm not going to be picky about a new source of power. You think there's some kind of meaning behind the element of Anemo? Hah, why did that thought even occur to you? The gods aren't guided by any kind of rationality or moral compass. Haven't I shown that to you already",
             "sourceName": "vo_wanderer_dialog_pendant.wem"
         },
+        "7bcef1a1fd603792": {
+            "hash": "7bcef1a1fd603792",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_easy_02.wem"
+        },
         "7f8e1a275c696946": {
             "hash": "7f8e1a275c696946",
             "directory": "External15",
@@ -789,6 +921,12 @@
             "directory": "External16",
             "voiceContent": "Unsightly insects",
             "sourceName": "vo_wanderer_battle_skill3_01.wem"
+        },
+        "81b901d4e19a21db": {
+            "hash": "81b901d4e19a21db",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_life_less30_03.wem"
         },
         "85b4cc08935e418c": {
             "hash": "85b4cc08935e418c",
@@ -818,7 +956,7 @@
             "hash": "90b881d00b729b67",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackheavy_02.wem"
+            "sourceName": "vo_wanderer_battle_attackHeavy_02.wem"
         },
         "937405b9a2091132": {
             "hash": "937405b9a2091132",
@@ -914,13 +1052,13 @@
             "hash": "ae6a730b27a9ece0",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_04.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_04.wem"
         },
         "af28487faec3cf35": {
             "hash": "af28487faec3cf35",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_h_05.wem"
+            "sourceName": "vo_wanderer_battle_hit_H_05.wem"
         },
         "b15926529cd5ac6b": {
             "hash": "b15926529cd5ac6b",
@@ -940,11 +1078,17 @@
             "voiceContent": "You want to learn more about me? How ridiculous. Don't you know that's only asking for trouble",
             "sourceName": "vo_wanderer_friendship_01.wem"
         },
+        "b500da858a834b41": {
+            "hash": "b500da858a834b41",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_hard_02.wem"
+        },
         "b9952f59fa4865d8": {
             "hash": "b9952f59fa4865d8",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_06.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_06.wem"
         },
         "b9cc58ebf7f9fa62": {
             "hash": "b9cc58ebf7f9fa62",
@@ -958,17 +1102,29 @@
             "voiceContent": "There's no need to exchange pleasantries. It's rather pathetic to force a conversation just to occupy silence",
             "sourceName": "vo_wanderer_character_idle_03.wem"
         },
+        "beb5d8e257959551": {
+            "hash": "beb5d8e257959551",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_battle_hit_H_09.wem"
+        },
         "bfe680d22edd21b3": {
             "hash": "bfe680d22edd21b3",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_03.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_03.wem"
         },
         "c23e5a7795e6e938": {
             "hash": "c23e5a7795e6e938",
             "directory": "External24",
             "voiceContent": "Bow your head",
             "sourceName": "vo_wanderer_battle_skill3_04.wem"
+        },
+        "c51308bb4a5d37fd": {
+            "hash": "c51308bb4a5d37fd",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_wanderer_02.wem"
         },
         "c55c1cf6c6fd78fc": {
             "hash": "c55c1cf6c6fd78fc",
@@ -992,7 +1148,7 @@
             "hash": "c9e42f374019d294",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_02.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_02.wem"
         },
         "ca2798ea92df6104": {
             "hash": "ca2798ea92df6104",
@@ -1022,7 +1178,7 @@
             "hash": "ce745b48ed7f66f6",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_04.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_04.wem"
         },
         "cea7ab446266e943": {
             "hash": "cea7ab446266e943",
@@ -1100,13 +1256,13 @@
             "hash": "e2827dfad37afa7e",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackmid_02.wem"
+            "sourceName": "vo_wanderer_battle_attackMid_02.wem"
         },
         "e2e8dfd71360575e": {
             "hash": "e2e8dfd71360575e",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackheavy_03.wem"
+            "sourceName": "vo_wanderer_battle_attackHeavy_03.wem"
         },
         "e744fcdd4598aaa7": {
             "hash": "e744fcdd4598aaa7",
@@ -1118,7 +1274,7 @@
             "hash": "e77913e8c0c5f800",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackheavy_01.wem"
+            "sourceName": "vo_wanderer_battle_attackHeavy_01.wem"
         },
         "e7aff2cf2f0026bc": {
             "hash": "e7aff2cf2f0026bc",
@@ -1173,6 +1329,12 @@
             "directory": "External31",
             "voiceContent": "The Jester is a survivor of Khaenri'ah. Besides that singular fact, I know very little about him, and never had any kind of close association with him. He seems to want something from me, though. In the past, he assigned to me many important tasks, including a number of trips to the Abyss",
             "sourceName": "vo_wanderer_teammate_pierro_01.wem"
+        },
+        "fdc36399ba2fc0db": {
+            "hash": "fdc36399ba2fc0db",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_easy_03.wem"
         },
         "fe8cd08a4c2a5600": {
             "hash": "fe8cd08a4c2a5600",

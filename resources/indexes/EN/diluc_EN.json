@@ -304,17 +304,11 @@
             "voiceContent": "Listen, as long as you stick to your own path, it doesn't matter what Mother Nature throws at you",
             "sourceName": "vo_diluc_weather_sunny_01.wem"
         },
-        "0423d70c038aacda": {
-            "hash": "0423d70c038aacda",
-            "directory": "External0",
-            "voiceContent": "...Thanks",
-            "sourceName": "vo_diluc_spice_event_dislike_01.wem"
-        },
         "05c26f58d0a8d794": {
             "hash": "05c26f58d0a8d794",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackheavy_03.wem"
+            "sourceName": "vo_diluc_battle_attackHeavy_03.wem"
         },
         "068e0e51eb306658": {
             "hash": "068e0e51eb306658",
@@ -326,7 +320,7 @@
             "hash": "06fbff2add0fea1b",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_03.wem"
+            "sourceName": "vo_diluc_battle_attackLight_03.wem"
         },
         "07abb784eb4f0be3": {
             "hash": "07abb784eb4f0be3",
@@ -338,19 +332,19 @@
             "hash": "0825eb3c8791e835",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_01.wem"
+            "sourceName": "vo_diluc_battle_attackLight_01.wem"
         },
         "08f2dd9c5cb77f97": {
             "hash": "08f2dd9c5cb77f97",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackmid_01.wem"
+            "sourceName": "vo_diluc_battle_attackMid_01.wem"
         },
         "0adca41535ece58a": {
             "hash": "0adca41535ece58a",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_04.wem"
+            "sourceName": "vo_diluc_battle_hit_L_04.wem"
         },
         "0c16a93af22c9b58": {
             "hash": "0c16a93af22c9b58",
@@ -362,7 +356,13 @@
             "hash": "0d82c9ae0a1ca6b1",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackmid_03.wem"
+            "sourceName": "vo_diluc_battle_attackMid_03.wem"
+        },
+        "0d8a1fb277d838e0": {
+            "hash": "0d8a1fb277d838e0",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_04.wem"
         },
         "0da1f41ab79d3036": {
             "hash": "0da1f41ab79d3036",
@@ -388,6 +388,18 @@
             "voiceContent": "Don't burn yourself out! Retreat",
             "sourceName": "vo_diluc_life_less30_teammate_02.wem"
         },
+        "1f062d797f0b6db3": {
+            "hash": "1f062d797f0b6db3",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_03.wem"
+        },
+        "206d578a4e5f425f": {
+            "hash": "206d578a4e5f425f",
+            "directory": "External4",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_diluc_suit_aristocrat_idle_01.wem"
+        },
         "212d3ae1e883dd47": {
             "hash": "212d3ae1e883dd47",
             "directory": "External4",
@@ -398,7 +410,7 @@
             "hash": "2574a827810958fc",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_06.wem"
+            "sourceName": "vo_diluc_battle_hit_L_06.wem"
         },
         "25fefacc8e945143": {
             "hash": "25fefacc8e945143",
@@ -411,6 +423,12 @@
             "directory": "External4",
             "voiceContent": "Lay waste to the wicked",
             "sourceName": "vo_diluc_suit_aristocrat_skill3_02.wem"
+        },
+        "279a9da17a1af692": {
+            "hash": "279a9da17a1af692",
+            "directory": "External4",
+            "voiceContent": "",
+            "sourceName": "vo_diluc_suit_aristocrat_03.wem"
         },
         "2acbbfe8e802821b": {
             "hash": "2acbbfe8e802821b",
@@ -434,7 +452,13 @@
             "hash": "2c1c223ee61f3a41",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_03.wem"
+            "sourceName": "vo_diluc_battle_hit_L_03.wem"
+        },
+        "2c2ac1b327807d64": {
+            "hash": "2c2ac1b327807d64",
+            "directory": "External5",
+            "voiceContent": "",
+            "sourceName": "vo_diluc_suit_aristocrat_01.wem"
         },
         "2cabd0e326b33885": {
             "hash": "2cabd0e326b33885",
@@ -476,7 +500,7 @@
             "hash": "329e1d5401456746",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_06.wem"
+            "sourceName": "vo_diluc_battle_attackLight_06.wem"
         },
         "331aea8bf7cd9056": {
             "hash": "331aea8bf7cd9056",
@@ -489,6 +513,12 @@
             "directory": "External6",
             "voiceContent": "Elzer suggested that I try my hand at Genius Invokation TCG... Fair enough. It's a good way to wind down",
             "sourceName": "vo_card_diluc_freetalk_01.wem"
+        },
+        "37a0a39c969ab959": {
+            "hash": "37a0a39c969ab959",
+            "directory": "External6",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_diluc_suit_aristocrat_idle_03.wem"
         },
         "37d6669686340d1e": {
             "hash": "37d6669686340d1e",
@@ -566,13 +596,19 @@
             "hash": "4d3731664c63a868",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_04.wem"
+            "sourceName": "vo_diluc_battle_attackLight_04.wem"
         },
         "514ac5377ffd573c": {
             "hash": "514ac5377ffd573c",
             "directory": "External10",
             "voiceContent": "No need for small talk. All that matters is that you were safe last night",
             "sourceName": "vo_diluc_dialog_greetingMorning.wem"
+        },
+        "570ea94653195305": {
+            "hash": "570ea94653195305",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_09.wem"
         },
         "578e33f2a1a3a497": {
             "hash": "578e33f2a1a3a497",
@@ -586,11 +622,17 @@
             "voiceContent": "What lies in wait for us? I rarely stop to think about it.No matter what dares to stand in my way, I must press forward",
             "sourceName": "vo_diluc_starUp_02.wem"
         },
+        "589b63a1a7c5c6ac": {
+            "hash": "589b63a1a7c5c6ac",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_13.wem"
+        },
         "59560b499a263d42": {
             "hash": "59560b499a263d42",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackheavy_01.wem"
+            "sourceName": "vo_diluc_battle_attackHeavy_01.wem"
         },
         "5d48df9d593a1d86": {
             "hash": "5d48df9d593a1d86",
@@ -616,11 +658,17 @@
             "voiceContent": "You will pay for that",
             "sourceName": "vo_diluc_life_less30_03.wem"
         },
+        "611e6ba34156c8be": {
+            "hash": "611e6ba34156c8be",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_06.wem"
+        },
         "63272697a3dc721d": {
             "hash": "63272697a3dc721d",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_h_03.wem"
+            "sourceName": "vo_diluc_battle_hit_H_03.wem"
         },
         "6480a1780606dff9": {
             "hash": "6480a1780606dff9",
@@ -646,6 +694,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_diluc_explore_jump_05.wem"
         },
+        "6d7a5f909afc767a": {
+            "hash": "6d7a5f909afc767a",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_11.wem"
+        },
         "6e193a0d2413a18e": {
             "hash": "6e193a0d2413a18e",
             "directory": "External13",
@@ -670,12 +724,6 @@
             "voiceContent": "Exquisite. Unforgettable flavors",
             "sourceName": "vo_diluc_spice_pref_01.wem"
         },
-        "735134b8f5d67034": {
-            "hash": "735134b8f5d67034",
-            "directory": "External14",
-            "voiceContent": "Exquisite. Unforgettable flavors",
-            "sourceName": "vo_diluc_spice_event_pref_01.wem"
-        },
         "7371173c65055c9d": {
             "hash": "7371173c65055c9d",
             "directory": "External14",
@@ -692,7 +740,7 @@
             "hash": "7a905aa9ec455077",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_h_05.wem"
+            "sourceName": "vo_diluc_battle_hit_H_05.wem"
         },
         "7c6a42dc20215e32": {
             "hash": "7c6a42dc20215e32",
@@ -722,7 +770,7 @@
             "hash": "7fafb62faf9c91a7",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_01.wem"
+            "sourceName": "vo_diluc_battle_hit_L_01.wem"
         },
         "7ff671cfcd56d322": {
             "hash": "7ff671cfcd56d322",
@@ -764,7 +812,7 @@
             "hash": "85088d33204214d2",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_02.wem"
+            "sourceName": "vo_diluc_battle_attackLight_02.wem"
         },
         "856c28098dc4bd81": {
             "hash": "856c28098dc4bd81",
@@ -782,7 +830,13 @@
             "hash": "885f6fb64a996030",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackmid_02.wem"
+            "sourceName": "vo_diluc_battle_attackMid_02.wem"
+        },
+        "8a2b31a89dcbc357": {
+            "hash": "8a2b31a89dcbc357",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_14.wem"
         },
         "8d1b8825086c584c": {
             "hash": "8d1b8825086c584c",
@@ -794,7 +848,7 @@
             "hash": "8fc8d60cf540a593",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_05.wem"
+            "sourceName": "vo_diluc_battle_hit_L_05.wem"
         },
         "9077e4263e257e0f": {
             "hash": "9077e4263e257e0f",
@@ -807,6 +861,12 @@
             "directory": "External18",
             "voiceContent": "Diluc, of Mondstadt. Not interested in idle chit-chat. If you have things you want to get done, let me know",
             "sourceName": "vo_diluc_draw_appear.wem"
+        },
+        "9a18fb81bfb5faaa": {
+            "hash": "9a18fb81bfb5faaa",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_02.wem"
         },
         "94e37fe2cd3bcfbd": {
             "hash": "94e37fe2cd3bcfbd",
@@ -842,13 +902,13 @@
             "hash": "a2e24b5ccd91aca9",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_05.wem"
+            "sourceName": "vo_diluc_battle_attackLight_05.wem"
         },
         "a53e6cc166262790": {
             "hash": "a53e6cc166262790",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_h_06.wem"
+            "sourceName": "vo_diluc_battle_hit_H_06.wem"
         },
         "a768791647078801": {
             "hash": "a768791647078801",
@@ -861,6 +921,12 @@
             "directory": "External21",
             "voiceContent": "SFX",
             "sourceName": "vo_diluc_explore_climb_04.wem"
+        },
+        "a98f0f9936ea7fdb": {
+            "hash": "a98f0f9936ea7fdb",
+            "directory": "External21",
+            "voiceContent": "",
+            "sourceName": "vo_diluc_suit_aristocrat_02.wem"
         },
         "acd954cfabbed679": {
             "hash": "acd954cfabbed679",
@@ -884,7 +950,19 @@
             "hash": "b3c82951c8e8d465",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackheavy_02.wem"
+            "sourceName": "vo_diluc_battle_attackHeavy_02.wem"
+        },
+        "b5e349a4d9fa9bd8": {
+            "hash": "b5e349a4d9fa9bd8",
+            "directory": "External22",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_diluc_suit_aristocrat_idle_02.wem"
+        },
+        "b6c98d99c284db47": {
+            "hash": "b6c98d99c284db47",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_07.wem"
         },
         "b77e239424b4dc9d": {
             "hash": "b77e239424b4dc9d",
@@ -902,7 +980,7 @@
             "hash": "b7c17f4bc0c8bb2f",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_07.wem"
+            "sourceName": "vo_diluc_battle_attackLight_07.wem"
         },
         "b87ba8f2c18cec02": {
             "hash": "b87ba8f2c18cec02",
@@ -921,6 +999,12 @@
             "directory": "External23",
             "voiceContent": "It's been a long while since I played chess with anyone but my butler. I just so happen to have a moment. Care to play a round",
             "sourceName": "vo_diluc_friendship_03.wem"
+        },
+        "bb5979ab6fea0261": {
+            "hash": "bb5979ab6fea0261",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_05.wem"
         },
         "bbaacce71a5d03ac": {
             "hash": "bbaacce71a5d03ac",
@@ -958,11 +1042,29 @@
             "voiceContent": "Power is necessary if we are to meet our objectives",
             "sourceName": "vo_diluc_starUp_01.wem"
         },
+        "c2ef91871bfd1443": {
+            "hash": "c2ef91871bfd1443",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_10.wem"
+        },
         "c6b20c1ad88444a9": {
             "hash": "c6b20c1ad88444a9",
             "directory": "External24",
             "voiceContent": "SFX",
             "sourceName": "vo_diluc_explore_climb_03.wem"
+        },
+        "c77f7d98c9623b7d": {
+            "hash": "c77f7d98c9623b7d",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_12.wem"
+        },
+        "cb729988b58e162d": {
+            "hash": "cb729988b58e162d",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_01.wem"
         },
         "cb8218eb6755cabe": {
             "hash": "cb8218eb6755cabe",
@@ -1004,7 +1106,7 @@
             "hash": "d30a4848620cc640",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_02.wem"
+            "sourceName": "vo_diluc_battle_hit_L_02.wem"
         },
         "d36396eca2729234": {
             "hash": "d36396eca2729234",
@@ -1060,12 +1162,6 @@
             "voiceContent": "...Interesting",
             "sourceName": "vo_card_diluc_inGame_easy_03.wem"
         },
-        "dd15fecd3a0746ae": {
-            "hash": "dd15fecd3a0746ae",
-            "directory": "External27",
-            "voiceContent": "I can see the chef put their heart into this one. A fine dish",
-            "sourceName": "vo_diluc_spice_event_normal_01.wem"
-        },
         "dfe6f1e1da552bd5": {
             "hash": "dfe6f1e1da552bd5",
             "directory": "External27",
@@ -1112,7 +1208,7 @@
             "hash": "f4430ca0823ffe4c",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_h_02.wem"
+            "sourceName": "vo_diluc_battle_hit_H_02.wem"
         },
         "f46688168e18f3b1": {
             "hash": "f46688168e18f3b1",
@@ -1130,7 +1226,7 @@
             "hash": "f56cf8b22cc1fc6e",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_h_04.wem"
+            "sourceName": "vo_diluc_battle_hit_H_04.wem"
         },
         "f7960d070da1b767": {
             "hash": "f7960d070da1b767",
@@ -1138,47 +1234,23 @@
             "voiceContent": "Haah!—",
             "sourceName": "vo_diluc_battle_skill1_03.wem"
         },
+        "fbbea288895860b0": {
+            "hash": "fbbea288895860b0",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_diluc_01.wem"
+        },
+        "fdc66f4fced8acb4": {
+            "hash": "fdc66f4fced8acb4",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_08.wem"
+        },
         "ff4b78afc2e8ce72": {
             "hash": "ff4b78afc2e8ce72",
             "directory": "External31",
             "voiceContent": "What's our objective",
             "sourceName": "vo_diluc_teamJoin_02.wem"
-        },
-        "206d578a4e5f425f": {
-            "hash": "206d578a4e5f425f",
-            "directory": "External4",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_diluc_suit_aristocrat_idle_01.wem"
-        },
-        "279a9da17a1af692": {
-            "hash": "279a9da17a1af692",
-            "directory": "External4",
-            "voiceContent": "",
-            "sourceName": "vo_diluc_suit_aristocrat_03.wem"
-        },
-        "2c2ac1b327807d64": {
-            "hash": "2c2ac1b327807d64",
-            "directory": "External5",
-            "voiceContent": "",
-            "sourceName": "vo_diluc_suit_aristocrat_01.wem"
-        },
-        "37a0a39c969ab959": {
-            "hash": "37a0a39c969ab959",
-            "directory": "External6",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_diluc_suit_aristocrat_idle_03.wem"
-        },
-        "a98f0f9936ea7fdb": {
-            "hash": "a98f0f9936ea7fdb",
-            "directory": "External21",
-            "voiceContent": "",
-            "sourceName": "vo_diluc_suit_aristocrat_02.wem"
-        },
-        "b5e349a4d9fa9bd8": {
-            "hash": "b5e349a4d9fa9bd8",
-            "directory": "External22",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_diluc_suit_aristocrat_idle_02.wem"
         }
     }
 }

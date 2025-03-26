@@ -344,6 +344,12 @@
             "voiceContent": "(An introduction fee of a million Mora... payable upon striking an agreement. Kaveh probably wouldn't refuse that.",
             "sourceName": "vo_KVCOP001_19074_dori_03.wem"
         },
+        "33afddfb7112ef35": {
+            "hash": "33afddfb7112ef35",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_dori_01.wem"
+        },
         "3a8bfe3927a55446": {
             "hash": "3a8bfe3927a55446",
             "directory": "External7",
@@ -428,6 +434,12 @@
             "voiceContent": "(Hmm... I shouldn't have waived the introduction fees.",
             "sourceName": "vo_KVCOP001_19074_dori_02.wem"
         },
+        "a48e5ee4ad228581": {
+            "hash": "a48e5ee4ad228581",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ001_6_dori_01.wem"
+        },
         "aad02c41f3f199a9": {
             "hash": "aad02c41f3f199a9",
             "directory": "External21",
@@ -494,7 +506,7 @@
             "hash": "176621938b60e132",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_06.wem"
+            "sourceName": "vo_dori_battle_hit_H_06.wem"
         },
         "1d83b49d4bcda8c3": {
             "hash": "1d83b49d4bcda8c3",
@@ -506,13 +518,31 @@
             "hash": "1e3f9c685aa0381e",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackmid_02.wem"
+            "sourceName": "vo_dori_battle_attackMid_02.wem"
+        },
+        "1e7212a23f68dceb": {
+            "hash": "1e7212a23f68dceb",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_easy_03.wem"
+        },
+        "1fb378ed94ef7be2": {
+            "hash": "1fb378ed94ef7be2",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_endOfGame_win_01.wem"
         },
         "204824d71bc1653b": {
             "hash": "204824d71bc1653b",
             "directory": "External4",
             "voiceContent": "She delivered several orders to me when I was stocking up on goods from outside of Sumeru. Her service is great, and her prices are low. Oh, I think she's into pretty accessories, and I happen to have some handmade Sumeru specialties on sale! Wanna buy some as a gift for her? I can give you a discount",
             "sourceName": "vo_dori_teammate_kirara_01.wem"
+        },
+        "21d92b2560e1db8a": {
+            "hash": "21d92b2560e1db8a",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_leave_01.wem"
         },
         "2501ed8f211bc8a0": {
             "hash": "2501ed8f211bc8a0",
@@ -525,12 +555,6 @@
             "directory": "External5",
             "voiceContent": "No can do",
             "sourceName": "vo_dori_battle_hit_L_02.wem"
-        },
-        "29be89dd4830cd27": {
-            "hash": "29be89dd4830cd27",
-            "directory": "External5",
-            "voiceContent": "Mmm, yummy! What do you say we partner up, hmm? You could also be my personal chef",
-            "sourceName": "vo_dori_spice_event_pref_01.wem"
         },
         "29cab1d2ef4f86dc": {
             "hash": "29cab1d2ef4f86dc",
@@ -554,7 +578,7 @@
             "hash": "2e8509170b6776b4",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_02.wem"
+            "sourceName": "vo_dori_battle_attackLight_02.wem"
         },
         "3431a0ed9fb3dfa3": {
             "hash": "3431a0ed9fb3dfa3",
@@ -580,11 +604,23 @@
             "voiceContent": "You can't spend Mora dead, numbskull",
             "sourceName": "vo_dori_life_less30_teammate_02.wem"
         },
+        "37d9726ef6d268ce": {
+            "hash": "37d9726ef6d268ce",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_hard_01.wem"
+        },
         "38a5dfbd3b93a209": {
             "hash": "38a5dfbd3b93a209",
             "directory": "External7",
             "voiceContent": "You big bully",
             "sourceName": "vo_dori_battle_hit_H_01.wem"
+        },
+        "39036680a1547470": {
+            "hash": "39036680a1547470",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_hard_03.wem"
         },
         "3b0c1c3d32d2cc63": {
             "hash": "3b0c1c3d32d2cc63",
@@ -620,7 +656,7 @@
             "hash": "492bff9a81948815",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_05.wem"
+            "sourceName": "vo_dori_battle_hit_H_05.wem"
         },
         "49d9f37522563f2f": {
             "hash": "49d9f37522563f2f",
@@ -632,19 +668,19 @@
             "hash": "4a1f13ac2be7878f",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_03.wem"
+            "sourceName": "vo_dori_battle_hit_H_03.wem"
         },
         "4a49195d975e77c1": {
             "hash": "4a49195d975e77c1",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_05.wem"
+            "sourceName": "vo_dori_battle_hit_L_05.wem"
         },
         "4b34e32f0e351ef9": {
             "hash": "4b34e32f0e351ef9",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_07.wem"
+            "sourceName": "vo_dori_battle_attackLight_07.wem"
         },
         "4dc30a3af7a23dff": {
             "hash": "4dc30a3af7a23dff",
@@ -662,7 +698,7 @@
             "hash": "523b6a42c7f1fda0",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackheavy_01.wem"
+            "sourceName": "vo_dori_battle_attackHeavy_01.wem"
         },
         "52bb72df6f165359": {
             "hash": "52bb72df6f165359",
@@ -736,6 +772,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dori_explore_sprint_start_03.wem"
         },
+        "706ca0a947295aa2": {
+            "hash": "706ca0a947295aa2",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_easy_02.wem"
+        },
         "727c1972c87f1242": {
             "hash": "727c1972c87f1242",
             "directory": "External14",
@@ -776,7 +818,7 @@
             "hash": "787aaa70893371c1",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackmid_01.wem"
+            "sourceName": "vo_dori_battle_attackMid_01.wem"
         },
         "79eb200adf52fe67": {
             "hash": "79eb200adf52fe67",
@@ -824,7 +866,7 @@
             "hash": "87cd430d8fa81d05",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_03.wem"
+            "sourceName": "vo_dori_battle_attackLight_03.wem"
         },
         "88b50725cf9b823e": {
             "hash": "88b50725cf9b823e",
@@ -836,7 +878,7 @@
             "hash": "88c0171f39fab07f",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_05.wem"
+            "sourceName": "vo_dori_battle_attackLight_05.wem"
         },
         "8a2fe1b099d6cf0a": {
             "hash": "8a2fe1b099d6cf0a",
@@ -874,11 +916,17 @@
             "voiceContent": "She's a good dancer, but definitely not making the most of her time by staying in Sumeru... I mean, it's a complete waste of her talent. If I took her on tour across all Teyvat, do you have any idea how much Mora I'd rake in",
             "sourceName": "vo_dori_teammate_nilou_01.wem"
         },
+        "a15f82fd6dc67eb9": {
+            "hash": "a15f82fd6dc67eb9",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_freetalk_01.wem"
+        },
         "a268b6338e8bb27e": {
             "hash": "a268b6338e8bb27e",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackheavy_03.wem"
+            "sourceName": "vo_dori_battle_attackHeavy_03.wem"
         },
         "a36137b45ab2ca3a": {
             "hash": "a36137b45ab2ca3a",
@@ -920,7 +968,7 @@
             "hash": "adf5cd2ba67fe313",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_03.wem"
+            "sourceName": "vo_dori_battle_hit_L_03.wem"
         },
         "af1fb93d5101e10d": {
             "hash": "af1fb93d5101e10d",
@@ -952,11 +1000,23 @@
             "voiceContent": "Good morning! Last night I had a dream filled with lovely, round, shiny Mora. Seems like today I'm gonna make a fortune",
             "sourceName": "vo_dori_dialog_greetingMorning.wem"
         },
+        "bac0c0785df491f1": {
+            "hash": "bac0c0785df491f1",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_hard_02.wem"
+        },
         "bb63735605b2c823": {
             "hash": "bb63735605b2c823",
             "directory": "External23",
             "voiceContent": "Fine fine, I'll be honest with you... The desert and rainforest survival kits are worth two and a half million Mora each. But buy one get one free sure sounds like a good bargain, doesn't it",
             "sourceName": "vo_dori_dialog_close2.wem"
+        },
+        "bcf352f574e76cee": {
+            "hash": "bcf352f574e76cee",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_dori_01.wem"
         },
         "c1af97044dfab42a": {
             "hash": "c1af97044dfab42a",
@@ -980,7 +1040,7 @@
             "hash": "c3d2c5a2c1e3e884",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_04.wem"
+            "sourceName": "vo_dori_battle_hit_H_04.wem"
         },
         "c45255f14394d19f": {
             "hash": "c45255f14394d19f",
@@ -1016,13 +1076,19 @@
             "hash": "c977893751950178",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_06.wem"
+            "sourceName": "vo_dori_battle_attackLight_06.wem"
         },
         "ca0c57c18023c115": {
             "hash": "ca0c57c18023c115",
             "directory": "External25",
             "voiceContent": "SFX",
             "sourceName": "vo_dori_explore_climb_breath_02.wem"
+        },
+        "caddbeb175ea3ec5": {
+            "hash": "caddbeb175ea3ec5",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_easy_01.wem"
         },
         "cbc40b694cbf3e0b": {
             "hash": "cbc40b694cbf3e0b",
@@ -1034,7 +1100,7 @@
             "hash": "cc0e3e6152b0c927",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackmid_03.wem"
+            "sourceName": "vo_dori_battle_attackMid_03.wem"
         },
         "cc1b7e11e740ba5e": {
             "hash": "cc1b7e11e740ba5e",
@@ -1100,7 +1166,7 @@
             "hash": "d7fa96fe5641df2b",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_01.wem"
+            "sourceName": "vo_dori_battle_attackLight_01.wem"
         },
         "d89e591e3654f9cc": {
             "hash": "d89e591e3654f9cc",
@@ -1108,23 +1174,23 @@
             "voiceContent": "He once came nosing around, asking my minions some questions to see what he could find out. Like I said, those Akademiya people are just pig-headed and dishonest. Why should I take the risk of others prying into my business? Right, my young apprentice",
             "sourceName": "vo_dori_teammate_alhaitham_01.wem"
         },
+        "d91f9e2979e8768e": {
+            "hash": "d91f9e2979e8768e",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_endOfGame_fail_01.wem"
+        },
         "daf0b52641e8d896": {
             "hash": "daf0b52641e8d896",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_04.wem"
+            "sourceName": "vo_dori_battle_attackLight_04.wem"
         },
         "db84a2038bce9599": {
             "hash": "db84a2038bce9599",
             "directory": "External27",
             "voiceContent": "SFX",
             "sourceName": "vo_dori_explore_climb_01.wem"
-        },
-        "dbb9f67ba90bd2d1": {
-            "hash": "dbb9f67ba90bd2d1",
-            "directory": "External27",
-            "voiceContent": "Oh, so my apprentice knows their way around the kitchen, huh? Alright, lemme order something..",
-            "sourceName": "vo_dori_spice_event_normal_01.wem"
         },
         "e0f09cf3a73c5f2c": {
             "hash": "e0f09cf3a73c5f2c",
@@ -1174,11 +1240,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dori_explore_sprint_start_02.wem"
         },
+        "ee8220fc6aebb591": {
+            "hash": "ee8220fc6aebb591",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_dori_02.wem"
+        },
         "f00e0b5568cb3e1e": {
             "hash": "f00e0b5568cb3e1e",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_06.wem"
+            "sourceName": "vo_dori_battle_hit_L_06.wem"
         },
         "f0364a9faa000217": {
             "hash": "f0364a9faa000217",
@@ -1190,7 +1262,7 @@
             "hash": "f1373f67134c03c0",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_04.wem"
+            "sourceName": "vo_dori_battle_hit_L_04.wem"
         },
         "f29649dc548756ba": {
             "hash": "f29649dc548756ba",
@@ -1203,12 +1275,6 @@
             "directory": "External30",
             "voiceContent": "Before Rex Lapis parted from this world, I'd say a little prayer every morning O great God of Wealth up above, please bless my day with more Mora to love. But uh, now, I guess I just pray to myself... O divine Dori right here and now, please bless my day with more Mora to count! Hehe",
             "sourceName": "vo_dori_teammate_morax_01.wem"
-        },
-        "f52234a54e7b7bcf": {
-            "hash": "f52234a54e7b7bcf",
-            "directory": "External30",
-            "voiceContent": "You expect me to eat this? Hmph, you'd better compensate me for the mental trauma",
-            "sourceName": "vo_dori_spice_event_dislike_01.wem"
         },
         "f64e35869e418904": {
             "hash": "f64e35869e418904",
@@ -1232,7 +1298,7 @@
             "hash": "fb7ad82a129ea007",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackheavy_02.wem"
+            "sourceName": "vo_dori_battle_attackHeavy_02.wem"
         }
     }
 }

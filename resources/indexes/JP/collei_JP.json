@@ -338,6 +338,18 @@
             "voiceContent": "（うぅ…今日の宿題をまだやってない…",
             "sourceName": "vo_FRZCOP001_1917301_collei_01.wem"
         },
+        "905de0e9e2484d56": {
+            "hash": "905de0e9e2484d56",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_collei_01.wem"
+        },
+        "a2b1aa8bf9085843": {
+            "hash": "a2b1aa8bf9085843",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_TXSLQ004_5_collei_01.wem"
+        },
         "abe3d6397847922b": {
             "hash": "abe3d6397847922b",
             "directory": "External21",
@@ -367,6 +379,12 @@
             "directory": "External23",
             "voiceContent": "あんまりプレッシャーをかけないでやってくれ",
             "sourceName": "vo_HSEQ003_15_collei_02a.wem"
+        },
+        "d5b2d6907dc10c76": {
+            "hash": "d5b2d6907dc10c76",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ102_collei_07.wem"
         }
     },
     "Gameplay": {
@@ -374,7 +392,7 @@
             "hash": "00b0e201c936e354",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackmid_02.wem"
+            "sourceName": "vo_collei_battle_attackMid_02.wem"
         },
         "02c1078cc2763e6c": {
             "hash": "02c1078cc2763e6c",
@@ -404,7 +422,7 @@
             "hash": "1167ac1dbcb05367",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_03.wem"
+            "sourceName": "vo_collei_battle_attackLight_03.wem"
         },
         "143ae30b610086e7": {
             "hash": "143ae30b610086e7",
@@ -440,7 +458,7 @@
             "hash": "2180cbfb02546753",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_07.wem"
+            "sourceName": "vo_collei_battle_attackLight_07.wem"
         },
         "252ed840fb0ebeeb": {
             "hash": "252ed840fb0ebeeb",
@@ -452,7 +470,7 @@
             "hash": "2610b80cafb98e4d",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_05.wem"
+            "sourceName": "vo_collei_battle_attackLight_05.wem"
         },
         "2833dc1403dcc450": {
             "hash": "2833dc1403dcc450",
@@ -482,7 +500,7 @@
             "hash": "2e8d9e9c1c56a578",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackheavy_03.wem"
+            "sourceName": "vo_collei_battle_attackHeavy_03.wem"
         },
         "3025372abb933b4f": {
             "hash": "3025372abb933b4f",
@@ -506,13 +524,13 @@
             "hash": "35b91f1e92ab7bdc",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_02.wem"
+            "sourceName": "vo_collei_battle_hit_L_02.wem"
         },
         "36e30b303d2d79fe": {
             "hash": "36e30b303d2d79fe",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_04.wem"
+            "sourceName": "vo_collei_battle_hit_L_04.wem"
         },
         "38478602e175f1ce": {
             "hash": "38478602e175f1ce",
@@ -562,12 +580,6 @@
             "voiceContent": "普段は厳しくて、毒キノコをみだりに食べる冒険者たちによく説教だってしてるけど、師匠はとっても優しい人なんだ。勉強に付き合ってくれるし、モンドからの手紙も読んでくれる。師匠にはずっと感謝してるんだ",
             "sourceName": "vo_collei_teammate_tighnari_01.wem"
         },
-        "3da9826b67a6efbf": {
-            "hash": "3da9826b67a6efbf",
-            "directory": "External7",
-            "voiceContent": "その腕前なら、外をさすらっても腹をすかせることはないだろうな",
-            "sourceName": "vo_collei_spice_event_normal_01.wem"
-        },
         "3e510a18c3841412": {
             "hash": "3e510a18c3841412",
             "directory": "External7",
@@ -584,7 +596,7 @@
             "hash": "4006ca8b0caa7c96",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackheavy_01.wem"
+            "sourceName": "vo_collei_battle_attackHeavy_01.wem"
         },
         "402273834aeef04c": {
             "hash": "402273834aeef04c",
@@ -686,7 +698,7 @@
             "hash": "63980a24c49e0f5e",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_02.wem"
+            "sourceName": "vo_collei_battle_attackLight_02.wem"
         },
         "65efd0182c45e25b": {
             "hash": "65efd0182c45e25b",
@@ -718,11 +730,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_collei_explore_fly_start_01.wem"
         },
+        "6c65cf7089dc6cb4": {
+            "hash": "6c65cf7089dc6cb4",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_collei_01.wem"
+        },
         "6c6a0ebeb50298a3": {
             "hash": "6c6a0ebeb50298a3",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_h_05.wem"
+            "sourceName": "vo_collei_battle_hit_H_05.wem"
         },
         "6c93a9a8db981741": {
             "hash": "6c93a9a8db981741",
@@ -812,13 +830,7 @@
             "hash": "8ff52d26c1406787",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_05.wem"
-        },
-        "8ff74fd7b8da7e59": {
-            "hash": "8ff74fd7b8da7e59",
-            "directory": "External17",
-            "voiceContent": "うん——うまい！作り方を教えてくれる",
-            "sourceName": "vo_collei_spice_event_pref_01.wem"
+            "sourceName": "vo_collei_battle_hit_L_05.wem"
         },
         "91a3c1cb8285ec0f": {
             "hash": "91a3c1cb8285ec0f",
@@ -866,7 +878,7 @@
             "hash": "9ff99a0345e21d4a",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_06.wem"
+            "sourceName": "vo_collei_battle_attackLight_06.wem"
         },
         "a0d894da484bc33a": {
             "hash": "a0d894da484bc33a",
@@ -878,7 +890,7 @@
             "hash": "a1373915b164c76d",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_03.wem"
+            "sourceName": "vo_collei_battle_hit_L_03.wem"
         },
         "a425920a081b2edf": {
             "hash": "a425920a081b2edf",
@@ -908,19 +920,19 @@
             "hash": "a9f160d6c9e7198c",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_h_06.wem"
+            "sourceName": "vo_collei_battle_hit_H_06.wem"
         },
         "aa266fe914114bcb": {
             "hash": "aa266fe914114bcb",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackmid_01.wem"
+            "sourceName": "vo_collei_battle_attackMid_01.wem"
         },
         "ab4f9bfabe920325": {
             "hash": "ab4f9bfabe920325",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackmid_03.wem"
+            "sourceName": "vo_collei_battle_attackMid_03.wem"
         },
         "aedacd6cc188ad02": {
             "hash": "aedacd6cc188ad02",
@@ -932,7 +944,7 @@
             "hash": "b04af893d8f6c2f9",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackheavy_02.wem"
+            "sourceName": "vo_collei_battle_attackHeavy_02.wem"
         },
         "b22917b69a8c507b": {
             "hash": "b22917b69a8c507b",
@@ -950,7 +962,7 @@
             "hash": "b72c9e158e1d19bc",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_04.wem"
+            "sourceName": "vo_collei_battle_attackLight_04.wem"
         },
         "b85268138640847e": {
             "hash": "b85268138640847e",
@@ -992,7 +1004,7 @@
             "hash": "bed15cc5bd1f7c5a",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_h_04.wem"
+            "sourceName": "vo_collei_battle_hit_H_04.wem"
         },
         "c0457c1080539d5b": {
             "hash": "c0457c1080539d5b",
@@ -1004,7 +1016,7 @@
             "hash": "c13a182cf6162401",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_01.wem"
+            "sourceName": "vo_collei_battle_attackLight_01.wem"
         },
         "c234db260e6f6803": {
             "hash": "c234db260e6f6803",
@@ -1017,12 +1029,6 @@
             "directory": "External24",
             "voiceContent": "ついに…来たのか",
             "sourceName": "vo_collei_life_die_03.wem"
-        },
-        "c3ff32d793808a55": {
-            "hash": "c3ff32d793808a55",
-            "directory": "External24",
-            "voiceContent": "ごめん、変わったものは食べちゃだめだって師匠に言われてる",
-            "sourceName": "vo_collei_spice_event_dislike_01.wem"
         },
         "c47a10adc1eea31c": {
             "hash": "c47a10adc1eea31c",
@@ -1100,7 +1106,7 @@
             "hash": "dcab1aef6a6f1451",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_h_03.wem"
+            "sourceName": "vo_collei_battle_hit_H_03.wem"
         },
         "e13135dfc1a4f5a6": {
             "hash": "e13135dfc1a4f5a6",
@@ -1124,7 +1130,7 @@
             "hash": "e6b5bf3f7693c520",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_06.wem"
+            "sourceName": "vo_collei_battle_hit_L_06.wem"
         },
         "e88b82321cdbdfe4": {
             "hash": "e88b82321cdbdfe4",
@@ -1172,7 +1178,7 @@
             "hash": "f4cbcd067ae3d1f3",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_01.wem"
+            "sourceName": "vo_collei_battle_hit_L_01.wem"
         },
         "f6f770e75240329e": {
             "hash": "f6f770e75240329e",

@@ -374,6 +374,12 @@
         }
     },
     "Quests": {
+        "01d7d5de4ef92d92": {
+            "hash": "01d7d5de4ef92d92",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_16_tighnari_02b_1.wem"
+        },
         "0977cc9a6a8fe2cb": {
             "hash": "0977cc9a6a8fe2cb",
             "directory": "External1",
@@ -392,11 +398,35 @@
             "voiceContent": "You're right... We should leave the other case to Cyno. There's not much we can do from here, anyway",
             "sourceName": "vo_HSEQ002_8_tighnari_02.wem"
         },
+        "0e1aa4c10c45091d": {
+            "hash": "0e1aa4c10c45091d",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ003_2_tighnari_07.wem"
+        },
+        "0e8ce1b690d44e7a": {
+            "hash": "0e8ce1b690d44e7a",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_tighnari_01.wem"
+        },
         "1387cef758cdc4bc": {
             "hash": "1387cef758cdc4bc",
             "directory": "External2",
             "voiceContent": "If we want this to be a surprise, the fewer people who know, the better. We're dealing with the God of Wisdom here — a single slip of the tongue is enough to spoil the whole thing",
             "sourceName": "vo_HSEQ001_2_tighnari_08.wem"
+        },
+        "1e4ef3d7244195ab": {
+            "hash": "1e4ef3d7244195ab",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_16_tighnari_02a_7.wem"
+        },
+        "214511ff0fe88f16": {
+            "hash": "214511ff0fe88f16",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_16_tighnari_02a_2.wem"
         },
         "21c4efefa8a2a25d": {
             "hash": "21c4efefa8a2a25d",
@@ -428,17 +458,41 @@
             "voiceContent": "Well, Kaveh's diagram is done. It looked like he pulled an all-nighter to finish it, so he went home to sleep",
             "sourceName": "vo_HSEQ003_15_tighnari_02.wem"
         },
+        "322fe6cf459498cb": {
+            "hash": "322fe6cf459498cb",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_17_tighnari_02a_4.wem"
+        },
+        "335912e0f0155025": {
+            "hash": "335912e0f0155025",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_17_tighnari_02a_6.wem"
+        },
         "4720fbe78d4dfb08": {
             "hash": "4720fbe78d4dfb08",
             "directory": "External8",
             "voiceContent": "Get in the picture, Kaveh",
             "sourceName": "vo_HSEQ003_18_tighnari_05.wem"
         },
+        "4aebb7ea67944f5b": {
+            "hash": "4aebb7ea67944f5b",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_CNLQ103_7_tighnari_01.wem"
+        },
         "4b9ceaf6f5c40717": {
             "hash": "4b9ceaf6f5c40717",
             "directory": "External9",
             "voiceContent": "Great! You're the hero of Sumeru and a personal friend of the Dendro Archon. We all thought you were the best candidate",
             "sourceName": "vo_HSEQ003_15_tighnari_07.wem"
+        },
+        "4c0f6275531c5460": {
+            "hash": "4c0f6275531c5460",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_TXSLQ004_4_tighnari_01.wem"
         },
         "4fb23ed5d9e25998": {
             "hash": "4fb23ed5d9e25998",
@@ -482,11 +536,23 @@
             "voiceContent": "Apologies, Madame Faruzan. We, uh, got caught up in a discussion..",
             "sourceName": "vo_HSEQ002_8_tighnari_01.wem"
         },
+        "672d5830786972b1": {
+            "hash": "672d5830786972b1",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_16_tighnari_01.wem"
+        },
         "6b8ca8b1faa4f97c": {
             "hash": "6b8ca8b1faa4f97c",
             "directory": "External13",
             "voiceContent": "...Huh",
             "sourceName": "vo_HSEQ002_7_tighnari_02.wem"
+        },
+        "73af81de2ee53d62": {
+            "hash": "73af81de2ee53d62",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_16_tighnari_02a_6.wem"
         },
         "74a2d31988609814": {
             "hash": "74a2d31988609814",
@@ -494,11 +560,23 @@
             "voiceContent": "Take care, Archon",
             "sourceName": "vo_HSEQ002_11_tighnari_03.wem"
         },
+        "74d965efd9672d34": {
+            "hash": "74d965efd9672d34",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_16_tighnari_02a_4.wem"
+        },
         "755983e07221aca3": {
             "hash": "755983e07221aca3",
             "directory": "External14",
             "voiceContent": "(I do hope Madam Faruzan is able to find time as soon as possible...",
             "sourceName": "vo_FRZCOP001_1917301_tighnari_01.wem"
+        },
+        "786a590ab4e70f98": {
+            "hash": "786a590ab4e70f98",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_17_tighnari_02a_3.wem"
         },
         "789d08a1e4f0fe63": {
             "hash": "789d08a1e4f0fe63",
@@ -530,11 +608,23 @@
             "voiceContent": "Ahem! So, anyway, we've only asked a few of our friends to help out, since they happened to have some free time",
             "sourceName": "vo_HSEQ001_2_tighnari_09.wem"
         },
+        "849d16528266b960": {
+            "hash": "849d16528266b960",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_16_tighnari_02a_8.wem"
+        },
         "87c84ad576da3403": {
             "hash": "87c84ad576da3403",
             "directory": "External16",
             "voiceContent": "In any case, there's not much left to do. If we all work together, we'll be done in no time",
             "sourceName": "vo_HSEQ003_15_tighnari_03.wem"
+        },
+        "88ba58e7faba3054": {
+            "hash": "88ba58e7faba3054",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_17_tighnari_02a_7.wem"
         },
         "88f236e7215c323d": {
             "hash": "88f236e7215c323d",
@@ -542,17 +632,41 @@
             "voiceContent": "...That's a relief. I'm glad it's all taken care of",
             "sourceName": "vo_HSEQ003_15_tighnari_01.wem"
         },
+        "89e384f9a53ae7b6": {
+            "hash": "89e384f9a53ae7b6",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_17_tighnari_02a_1.wem"
+        },
         "8cab2bc61b1e59fc": {
             "hash": "8cab2bc61b1e59fc",
             "directory": "External17",
             "voiceContent": "Now! Destroy the Tumor of the Withering",
             "sourceName": "vo_XMAQ003_10_tighnari_03.wem"
         },
+        "91894007dc34d579": {
+            "hash": "91894007dc34d579",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_16_tighnari_02a_1.wem"
+        },
+        "967af7346265b467": {
+            "hash": "967af7346265b467",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_17_tighnari_02a_8.wem"
+        },
         "9f368ac9eaa8954c": {
             "hash": "9f368ac9eaa8954c",
             "directory": "External19",
             "voiceContent": "Of course. It's still possible Nilou was simply held up by something urgent. I'll wait here",
             "sourceName": "vo_HSEQ003_2_tighnari_06.wem"
+        },
+        "a4e8dee8eebc187c": {
+            "hash": "a4e8dee8eebc187c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ005_tighnari_01.wem"
         },
         "ad027a245b5b399d": {
             "hash": "ad027a245b5b399d",
@@ -577,6 +691,12 @@
             "directory": "External22",
             "voiceContent": "(I hope Karkata will recover quickly.",
             "sourceName": "vo_FRZCOP001_1917301_tighnari_02.wem"
+        },
+        "b584321791567861": {
+            "hash": "b584321791567861",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ002_12_tighnari_01.wem"
         },
         "b98b5ab9fcba5b4c": {
             "hash": "b98b5ab9fcba5b4c",
@@ -608,11 +728,23 @@
             "voiceContent": "#Speaking of the Parade, could I ask you for a favor, {NICKNAME}",
             "sourceName": "vo_HSEQ003_15_tighnari_04.wem"
         },
+        "ce219fe65da7d385": {
+            "hash": "ce219fe65da7d385",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_16_tighnari_02a_5.wem"
+        },
         "cedde121b6f3d1df": {
             "hash": "cedde121b6f3d1df",
             "directory": "External25",
             "voiceContent": "Let's move our meeting spot to Pardis Dhyai, just in case. Port Ormos was a good choice in terms of location, but we forgot to factor in the festivities..",
             "sourceName": "vo_HSEQ002_11_tighnari_04.wem"
+        },
+        "cf1473f807fa66ff": {
+            "hash": "cf1473f807fa66ff",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_16_tighnari_02a_3.wem"
         },
         "d16f98cd96827719": {
             "hash": "d16f98cd96827719",
@@ -638,17 +770,35 @@
             "voiceContent": "Oh, you're all here. Something wrong? You look troubled..",
             "sourceName": "vo_HSEQ002_7_tighnari_01.wem"
         },
+        "d8e7f4d8c1546c02": {
+            "hash": "d8e7f4d8c1546c02",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_17_tighnari_02a_5.wem"
+        },
         "dc1d6c7e2815595b": {
             "hash": "dc1d6c7e2815595b",
             "directory": "External27",
             "voiceContent": "We left most of the specifics to Kaveh. Right now, all we need to do is purchase the food and decorations",
             "sourceName": "vo_HSEQ001_2_tighnari_10.wem"
         },
+        "e257cb822d65e184": {
+            "hash": "e257cb822d65e184",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_17_tighnari_01.wem"
+        },
         "e6112d33ff2f48d9": {
             "hash": "e6112d33ff2f48d9",
             "directory": "External28",
             "voiceContent": "Alright, it's decided. Let's meet tomorrow at Pardis Dhyai",
             "sourceName": "vo_HSEQ002_11_tighnari_06.wem"
+        },
+        "e8ab553b6a53705e": {
+            "hash": "e8ab553b6a53705e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_17_tighnari_02a_9.wem"
         },
         "f4f095e0856031c9": {
             "hash": "f4f095e0856031c9",
@@ -661,6 +811,12 @@
             "directory": "External31",
             "voiceContent": "Great work. Now that all the branches have been cleared, we'll need to take care of the tumor",
             "sourceName": "vo_XMAQ003_10_tighnari_02.wem"
+        },
+        "fa27b30271872d19": {
+            "hash": "fa27b30271872d19",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_17_tighnari_02a_2.wem"
         }
     },
     "Gameplay": {
@@ -686,7 +842,7 @@
             "hash": "0c11c505cf94d33e",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attackmid_02.wem"
+            "sourceName": "vo_tighnari_battle_attackMid_02.wem"
         },
         "0ccc2421f11f6b2e": {
             "hash": "0ccc2421f11f6b2e",
@@ -710,7 +866,7 @@
             "hash": "0e625c92bc10da7e",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_hit_l_06.wem"
+            "sourceName": "vo_tighnari_battle_hit_L_06.wem"
         },
         "1172e879e956c94b": {
             "hash": "1172e879e956c94b",
@@ -812,7 +968,7 @@
             "hash": "288db3288ac91cf5",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_hit_h_05.wem"
+            "sourceName": "vo_tighnari_battle_hit_H_05.wem"
         },
         "2cd1936701e10807": {
             "hash": "2cd1936701e10807",
@@ -831,12 +987,6 @@
             "directory": "External5",
             "voiceContent": "Huh, I might have underestimated you",
             "sourceName": "vo_card_tighnari_inGame_easy_03.wem"
-        },
-        "353c1aed1f14758f": {
-            "hash": "353c1aed1f14758f",
-            "directory": "External6",
-            "voiceContent": "Excellent ingredients and impeccable seasoning. In short — it's delicious",
-            "sourceName": "vo_tighnari_spice_event_pref_01.wem"
         },
         "3579436b1ce576de": {
             "hash": "3579436b1ce576de",
@@ -872,7 +1022,7 @@
             "hash": "3974dd85e92eab98",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attacklight_06.wem"
+            "sourceName": "vo_tighnari_battle_attackLight_06.wem"
         },
         "3a09777cca4b1780": {
             "hash": "3a09777cca4b1780",
@@ -920,7 +1070,7 @@
             "hash": "49c4dd632f01cc54",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attacklight_02.wem"
+            "sourceName": "vo_tighnari_battle_attackLight_02.wem"
         },
         "4a30210157e3659b": {
             "hash": "4a30210157e3659b",
@@ -938,13 +1088,19 @@
             "hash": "4aee0974d98283b6",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attacklight_04.wem"
+            "sourceName": "vo_tighnari_battle_attackLight_04.wem"
         },
         "5306e540047e4e06": {
             "hash": "5306e540047e4e06",
             "directory": "External10",
             "voiceContent": "I'll bury you",
             "sourceName": "vo_tighnari_battle_hit_H_02.wem"
+        },
+        "53485b56deeedb2e": {
+            "hash": "53485b56deeedb2e",
+            "directory": "External10",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_tighnari_01.wem"
         },
         "5998d04fa12b16e7": {
             "hash": "5998d04fa12b16e7",
@@ -962,7 +1118,7 @@
             "hash": "61bce6fc50c2e5c7",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attackmid_03.wem"
+            "sourceName": "vo_tighnari_battle_attackMid_03.wem"
         },
         "654cf28f6d40d512": {
             "hash": "654cf28f6d40d512",
@@ -986,7 +1142,7 @@
             "hash": "664cd30dfe280ce1",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attackmid_01.wem"
+            "sourceName": "vo_tighnari_battle_attackMid_01.wem"
         },
         "67d091d791a75725": {
             "hash": "67d091d791a75725",
@@ -998,7 +1154,7 @@
             "hash": "689d6a9aeaa41321",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_hit_l_05.wem"
+            "sourceName": "vo_tighnari_battle_hit_L_05.wem"
         },
         "69dd16a11aa65be4": {
             "hash": "69dd16a11aa65be4",
@@ -1010,7 +1166,7 @@
             "hash": "6b772c78aa369827",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attackheavy_02.wem"
+            "sourceName": "vo_tighnari_battle_attackHeavy_02.wem"
         },
         "6eed1775fd2a79c8": {
             "hash": "6eed1775fd2a79c8",
@@ -1166,7 +1322,7 @@
             "hash": "a20a551f20961f92",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_hit_h_06.wem"
+            "sourceName": "vo_tighnari_battle_hit_H_06.wem"
         },
         "a2f3900776e0f7e6": {
             "hash": "a2f3900776e0f7e6",
@@ -1178,7 +1334,7 @@
             "hash": "a3ffeb6b5d95051f",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attacklight_05.wem"
+            "sourceName": "vo_tighnari_battle_attackLight_05.wem"
         },
         "a426ca428cec226d": {
             "hash": "a426ca428cec226d",
@@ -1196,7 +1352,7 @@
             "hash": "a69a7930cdfba664",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_hit_h_04.wem"
+            "sourceName": "vo_tighnari_battle_hit_H_04.wem"
         },
         "a8bb8e41b76a01d9": {
             "hash": "a8bb8e41b76a01d9",
@@ -1238,19 +1394,13 @@
             "hash": "bb32377da5cec919",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attacklight_07.wem"
+            "sourceName": "vo_tighnari_battle_attackLight_07.wem"
         },
         "bb80a96d1426dc22": {
             "hash": "bb80a96d1426dc22",
             "directory": "External23",
             "voiceContent": "During lunch breaks, I like to sit in a tree and admire the sunlight streaming through the canopy. If I'm not careful, I'll fall asleep... Hehe",
             "sourceName": "vo_tighnari_dialog_greetingNoon.wem"
-        },
-        "bd087a56ea775ac7": {
-            "hash": "bd087a56ea775ac7",
-            "directory": "External23",
-            "voiceContent": "...Do I need to teach you some new recipes",
-            "sourceName": "vo_tighnari_spice_event_dislike_01.wem"
         },
         "bd31d7de9c4c3754": {
             "hash": "bd31d7de9c4c3754",
@@ -1262,19 +1412,19 @@
             "hash": "bda88a7fb226071e",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attackheavy_03.wem"
+            "sourceName": "vo_tighnari_battle_attackHeavy_03.wem"
         },
         "be3510a1f57725a0": {
             "hash": "be3510a1f57725a0",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_hit_l_04.wem"
+            "sourceName": "vo_tighnari_battle_hit_L_04.wem"
         },
         "bed1be915ca6ccc0": {
             "hash": "bed1be915ca6ccc0",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attackheavy_01.wem"
+            "sourceName": "vo_tighnari_battle_attackHeavy_01.wem"
         },
         "c1dc5672415e490e": {
             "hash": "c1dc5672415e490e",
@@ -1316,7 +1466,7 @@
             "hash": "cc4b1e68f9c73273",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_hit_l_03.wem"
+            "sourceName": "vo_tighnari_battle_hit_L_03.wem"
         },
         "cc54433b5a4e4437": {
             "hash": "cc54433b5a4e4437",
@@ -1346,7 +1496,7 @@
             "hash": "d4c44737c11e79ef",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_hit_h_03.wem"
+            "sourceName": "vo_tighnari_battle_hit_H_03.wem"
         },
         "d515a6f63938111e": {
             "hash": "d515a6f63938111e",
@@ -1426,12 +1576,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_tighnari_explore_climb_breath_02.wem"
         },
-        "ee9ac985ef0fbff9": {
-            "hash": "ee9ac985ef0fbff9",
-            "directory": "External29",
-            "voiceContent": "Nice flavor pairing. Could you give me a copy of the recipe? I want to put this on the menu for the Forest Rangers' next meal",
-            "sourceName": "vo_tighnari_spice_event_normal_01.wem"
-        },
         "ef4f3424d75f0a66": {
             "hash": "ef4f3424d75f0a66",
             "directory": "External29",
@@ -1448,7 +1592,7 @@
             "hash": "f33a6b4a79dc34cb",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attacklight_01.wem"
+            "sourceName": "vo_tighnari_battle_attackLight_01.wem"
         },
         "f36205415a9bced3": {
             "hash": "f36205415a9bced3",
@@ -1460,7 +1604,7 @@
             "hash": "f463975c245cec25",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_tighnari_battle_attacklight_03.wem"
+            "sourceName": "vo_tighnari_battle_attackLight_03.wem"
         },
         "f6657289f132c5b8": {
             "hash": "f6657289f132c5b8",
@@ -1497,12 +1641,6 @@
             "directory": "External31",
             "voiceContent": "Gah, it's so hot... Even a Mist Flower would melt in this heat... Ah, now that I think about it, it wouldn't... but you get what I mean, hehe... Ugh..",
             "sourceName": "vo_tighnari_weather_heat_01.wem"
-        },
-        "53485b56deeedb2e": {
-            "hash": "53485b56deeedb2e",
-            "directory": "External10",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_tighnari_01.wem"
         }
     }
 }

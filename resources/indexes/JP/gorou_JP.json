@@ -332,11 +332,47 @@
         }
     },
     "Quests": {
+        "07be9228910d0a5b": {
+            "hash": "07be9228910d0a5b",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_01.wem"
+        },
+        "0c4d7e3a3e707e75": {
+            "hash": "0c4d7e3a3e707e75",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_03.wem"
+        },
+        "12ba93aa9972c10c": {
+            "hash": "12ba93aa9972c10c",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_gorou_03.wem"
+        },
+        "279a8f998cab23da": {
+            "hash": "279a8f998cab23da",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_gorou_01.wem"
+        },
+        "36c6b051b825af86": {
+            "hash": "36c6b051b825af86",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_04.wem"
+        },
         "3e965ebe2e699298": {
             "hash": "3e965ebe2e699298",
             "directory": "External7",
             "voiceContent": "幕府軍は無敵なんかじゃない、俺たちが必ず勝つ",
             "sourceName": "vo_DQAQ010_15_gorou_13.wem"
+        },
+        "4df8c464005f14a8": {
+            "hash": "4df8c464005f14a8",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_06.wem"
         },
         "500f8aad1ebd6ab6": {
             "hash": "500f8aad1ebd6ab6",
@@ -344,17 +380,71 @@
             "voiceContent": "気を付けろ、向こうにいるやつも強いぞ",
             "sourceName": "vo_DQAQ010_15_gorou_11.wem"
         },
+        "69cde2f0a820dc08": {
+            "hash": "69cde2f0a820dc08",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_gorou_01.wem"
+        },
+        "819eada1bb0f35dd": {
+            "hash": "819eada1bb0f35dd",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_gorou_02.wem"
+        },
+        "8a5a444281a307e4": {
+            "hash": "8a5a444281a307e4",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_02.wem"
+        },
+        "a70ade5a8471f5e9": {
+            "hash": "a70ade5a8471f5e9",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_07.wem"
+        },
+        "a834026c2ef29fe3": {
+            "hash": "a834026c2ef29fe3",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_09.wem"
+        },
+        "b884124974c5db6f": {
+            "hash": "b884124974c5db6f",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_05.wem"
+        },
         "c053b8b5eb09b019": {
             "hash": "c053b8b5eb09b019",
             "directory": "External24",
             "voiceContent": "見ろ、こっちが二戦連続で勝ったぞ",
             "sourceName": "vo_DQAQ010_15_gorou_12.wem"
         },
+        "e7cca412e93be49e": {
+            "hash": "e7cca412e93be49e",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_gorou_01.wem"
+        },
+        "e9886f680fec236c": {
+            "hash": "e9886f680fec236c",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_4_gorou_01.wem"
+        },
         "f85bec82bf171bcb": {
             "hash": "f85bec82bf171bcb",
             "directory": "External31",
             "voiceContent": "士気がどんどん上がってる…お前の「戦う意志」が、あいつらに影響を与えてるんだ",
             "sourceName": "vo_DQAQ010_15_gorou_14.wem"
+        },
+        "fa9b5073370f829a": {
+            "hash": "fa9b5073370f829a",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_08.wem"
         }
     },
     "Gameplay": {
@@ -398,13 +488,13 @@
             "hash": "0a61851f81f85d2c",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_06.wem"
+            "sourceName": "vo_gorou_battle_hit_H_06.wem"
         },
         "0ae3e59410a74559": {
             "hash": "0ae3e59410a74559",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackheavy_02.wem"
+            "sourceName": "vo_gorou_battle_attackHeavy_02.wem"
         },
         "0d2267a2cdca53aa": {
             "hash": "0d2267a2cdca53aa",
@@ -434,13 +524,19 @@
             "hash": "15626c8848795333",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_07.wem"
+            "sourceName": "vo_gorou_battle_attackLight_07.wem"
         },
         "15db70a4c6ed805d": {
             "hash": "15db70a4c6ed805d",
             "directory": "External2",
             "voiceContent": "SFX",
             "sourceName": "vo_gorou_explore_jump_04.wem"
+        },
+        "162b93b09c6fffdd": {
+            "hash": "162b93b09c6fffdd",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_hard_02.wem"
         },
         "1a1e3d84aad99434": {
             "hash": "1a1e3d84aad99434",
@@ -488,7 +584,7 @@
             "hash": "1f40810e752f0cfa",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_04.wem"
+            "sourceName": "vo_gorou_battle_hit_H_04.wem"
         },
         "1facc21712f6d3f5": {
             "hash": "1facc21712f6d3f5",
@@ -524,7 +620,7 @@
             "hash": "2b1d93c82420f8b4",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackmid_02.wem"
+            "sourceName": "vo_gorou_battle_attackMid_02.wem"
         },
         "2d44a4b70f565db7": {
             "hash": "2d44a4b70f565db7",
@@ -554,13 +650,19 @@
             "hash": "3bf1532677fe59d7",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_01.wem"
+            "sourceName": "vo_gorou_battle_hit_H_01.wem"
+        },
+        "3cfa7489d259781e": {
+            "hash": "3cfa7489d259781e",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_easy_02.wem"
         },
         "3d1b3f38228057f1": {
             "hash": "3d1b3f38228057f1",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_03.wem"
+            "sourceName": "vo_gorou_battle_hit_H_03.wem"
         },
         "3e7c05a9c3a26f2d": {
             "hash": "3e7c05a9c3a26f2d",
@@ -579,6 +681,12 @@
             "directory": "External8",
             "voiceContent": "俺は珊瑚宮様に対し崇高なまでの敬意を払っている。珊瑚宮様の策略と計画がなければ、抵抗軍はこれほどの成果を上げることはできなかった。ただ、珊瑚宮様は私生活では静かな暮らしの方がお好きらしい。軍事的な事務がない時は、こっちから邪魔することは決してしない",
             "sourceName": "vo_gorou_teammate_kokomi_02.wem"
+        },
+        "43a7894b754ed56a": {
+            "hash": "43a7894b754ed56a",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_endOfGame_fail_01.wem"
         },
         "43d805cf00f846ab": {
             "hash": "43d805cf00f846ab",
@@ -602,7 +710,7 @@
             "hash": "4dc0a2b9d8b7aa27",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_05.wem"
+            "sourceName": "vo_gorou_battle_hit_L_05.wem"
         },
         "51eb9d303ed5c5c7": {
             "hash": "51eb9d303ed5c5c7",
@@ -614,7 +722,7 @@
             "hash": "52eabea05d5f871c",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_04.wem"
+            "sourceName": "vo_gorou_battle_attackLight_04.wem"
         },
         "547fe7fef508b9cb": {
             "hash": "547fe7fef508b9cb",
@@ -632,7 +740,7 @@
             "hash": "577aaab20ac4ae3e",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_02.wem"
+            "sourceName": "vo_gorou_battle_attackLight_02.wem"
         },
         "57f3b6ce8938e8d0": {
             "hash": "57f3b6ce8938e8d0",
@@ -644,13 +752,13 @@
             "hash": "5dd9c2971e5bbe13",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_01.wem"
+            "sourceName": "vo_gorou_battle_hit_L_01.wem"
         },
         "5f03aea8c8ddbc0d": {
             "hash": "5f03aea8c8ddbc0d",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_03.wem"
+            "sourceName": "vo_gorou_battle_hit_L_03.wem"
         },
         "5fc6f0240c8ccc6a": {
             "hash": "5fc6f0240c8ccc6a",
@@ -670,12 +778,6 @@
             "voiceContent": "璃月には雲の高さまでそびえ立つ山々があると聞いた。ぜひこの目で見て、思う存分登ってみたいものだ",
             "sourceName": "vo_gorou_pref_gift_01.wem"
         },
-        "67bf6b4804ca332b": {
-            "hash": "67bf6b4804ca332b",
-            "directory": "External12",
-            "voiceContent": "おお！心に活力がみなぎってきた！俺に手伝えることはないか",
-            "sourceName": "vo_gorou_spice_event_normal_01.wem"
-        },
         "6cb99bcb6c95b69d": {
             "hash": "6cb99bcb6c95b69d",
             "directory": "External13",
@@ -692,7 +794,7 @@
             "hash": "74b5b304f62faac3",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_05.wem"
+            "sourceName": "vo_gorou_battle_hit_H_05.wem"
         },
         "775febfc14c653a0": {
             "hash": "775febfc14c653a0",
@@ -722,7 +824,7 @@
             "hash": "8465cdbea8619f05",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackmid_03.wem"
+            "sourceName": "vo_gorou_battle_attackMid_03.wem"
         },
         "87e06759257e7788": {
             "hash": "87e06759257e7788",
@@ -752,7 +854,7 @@
             "hash": "89268b9c540727d8",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackheavy_03.wem"
+            "sourceName": "vo_gorou_battle_attackHeavy_03.wem"
         },
         "8db98e2aff800bed": {
             "hash": "8db98e2aff800bed",
@@ -764,7 +866,7 @@
             "hash": "90753a908923e02a",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_06.wem"
+            "sourceName": "vo_gorou_battle_attackLight_06.wem"
         },
         "91738a28695585fb": {
             "hash": "91738a28695585fb",
@@ -784,11 +886,23 @@
             "voiceContent": "今日はお前の誕生日、重要な意味が込められている日だ！お前のためにお祝いをさせてくれ！浜辺で焚き火をして、新鮮な魚とカニを捕まえて、お前のために大将級の「士気晩餐」を作ってやる",
             "sourceName": "vo_gorou_pref_birthday_01.wem"
         },
+        "92dd9e2ffedde815": {
+            "hash": "92dd9e2ffedde815",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_freetalk_01.wem"
+        },
         "92f88f569fa98d28": {
             "hash": "92f88f569fa98d28",
             "directory": "External18",
             "voiceContent": "俺が抗うべき対象は、特定の団体や陣営でなく、一種の「悪意」なんだ。その「悪意」が人々の願いを踏みにじり、穏やかな生活を破壊し傷つける…それを根絶できれば、俺も安心して武器を下せるだろう。その時は、俺も普段着に着替え…お前と海祇島を気軽に散歩しよう",
             "sourceName": "vo_gorou_friendship_05.wem"
+        },
+        "9735829200ecb1c1": {
+            "hash": "9735829200ecb1c1",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_easy_01.wem"
         },
         "9929640da8c3d692": {
             "hash": "9929640da8c3d692",
@@ -824,7 +938,7 @@
             "hash": "9e05b78b473e28f6",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackheavy_01.wem"
+            "sourceName": "vo_gorou_battle_attackHeavy_01.wem"
         },
         "9f387cc11986f13c": {
             "hash": "9f387cc11986f13c",
@@ -836,13 +950,13 @@
             "hash": "9ff200c0e0a7191e",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_04.wem"
+            "sourceName": "vo_gorou_battle_hit_L_04.wem"
         },
         "a11b34d28b27dec0": {
             "hash": "a11b34d28b27dec0",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_06.wem"
+            "sourceName": "vo_gorou_battle_hit_L_06.wem"
         },
         "a6360b7e9dd798dc": {
             "hash": "a6360b7e9dd798dc",
@@ -855,6 +969,12 @@
             "directory": "External20",
             "voiceContent": "SFX",
             "sourceName": "vo_gorou_explore_jump_05.wem"
+        },
+        "a74779b97ad38b0c": {
+            "hash": "a74779b97ad38b0c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_hard_03.wem"
         },
         "a8ac2f48f4292360": {
             "hash": "a8ac2f48f4292360",
@@ -884,13 +1004,7 @@
             "hash": "ad25cca88bf2c0c7",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_03.wem"
-        },
-        "af3321390d639105": {
-            "hash": "af3321390d639105",
-            "directory": "External21",
-            "voiceContent": "この甘味、なんてたまらないんだ",
-            "sourceName": "vo_gorou_spice_event_pref_01.wem"
+            "sourceName": "vo_gorou_battle_attackLight_03.wem"
         },
         "b051352f094166e1": {
             "hash": "b051352f094166e1",
@@ -902,7 +1016,7 @@
             "hash": "b1b5b8ba3957e7e1",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_01.wem"
+            "sourceName": "vo_gorou_battle_attackLight_01.wem"
         },
         "b82cbc0a0c94bbbf": {
             "hash": "b82cbc0a0c94bbbf",
@@ -946,6 +1060,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_gorou_explore_climb_breath_03.wem"
         },
+        "bc2775a86e0bedda": {
+            "hash": "bc2775a86e0bedda",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_hard_01.wem"
+        },
         "bce72fbc332fe5e3": {
             "hash": "bce72fbc332fe5e3",
             "directory": "External23",
@@ -962,7 +1082,7 @@
             "hash": "c1ced8977efbfbad",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_05.wem"
+            "sourceName": "vo_gorou_battle_attackLight_05.wem"
         },
         "c6bd9fde131c3766": {
             "hash": "c6bd9fde131c3766",
@@ -987,6 +1107,12 @@
             "directory": "External25",
             "voiceContent": "夜になっても警戒を怠ってはならない、目をよく暗闇に慣らすんだ。暗くて灯りのない場所は、戦場になる可能性がある",
             "sourceName": "vo_gorou_dialog_greetingNight.wem"
+        },
+        "ca5ad8094e221476": {
+            "hash": "ca5ad8094e221476",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_endOfGame_win_01.wem"
         },
         "cac9eb237387f992": {
             "hash": "cac9eb237387f992",
@@ -1022,13 +1148,19 @@
             "hash": "d49321af6efb612b",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackmid_01.wem"
+            "sourceName": "vo_gorou_battle_attackMid_01.wem"
         },
         "d6a937d04c84a67c": {
             "hash": "d6a937d04c84a67c",
             "directory": "External26",
             "voiceContent": "SFX",
             "sourceName": "vo_gorou_explore_climb_breath_01.wem"
+        },
+        "dd865c7c1d1d0aa6": {
+            "hash": "dd865c7c1d1d0aa6",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_leave_01.wem"
         },
         "df8f280bb044fb51": {
             "hash": "df8f280bb044fb51",
@@ -1041,12 +1173,6 @@
             "directory": "External28",
             "voiceContent": "朝練の時間だ、俺と一緒に山に登るか",
             "sourceName": "vo_gorou_dialog_greetingMorning.wem"
-        },
-        "e28cf068b3260bf1": {
-            "hash": "e28cf068b3260bf1",
-            "directory": "External28",
-            "voiceContent": "思ったより辛いな…うぅ、俺にはちょっと無理かもしれない",
-            "sourceName": "vo_gorou_spice_event_dislike_01.wem"
         },
         "e580729c2bb9a9e0": {
             "hash": "e580729c2bb9a9e0",
@@ -1065,6 +1191,12 @@
             "directory": "External29",
             "voiceContent": "軽装備も時には不便なところがある。例えば、火攻めに遭った時は、しっぽに気を付けないといけないんだ",
             "sourceName": "vo_gorou_dialog_annoyed.wem"
+        },
+        "eac91682ca6a0927": {
+            "hash": "eac91682ca6a0927",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_easy_03.wem"
         },
         "ec0aa94d23bc6e69": {
             "hash": "ec0aa94d23bc6e69",
@@ -1089,6 +1221,12 @@
             "directory": "External30",
             "voiceContent": "痛くも痒くもない",
             "sourceName": "vo_gorou_battle_hit_L_02.wem"
+        },
+        "f39b96bbb55a7399": {
+            "hash": "f39b96bbb55a7399",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_gorou_02.wem"
         },
         "f45542e6518ccb99": {
             "hash": "f45542e6518ccb99",

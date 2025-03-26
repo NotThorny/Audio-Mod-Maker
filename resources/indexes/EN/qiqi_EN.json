@@ -418,6 +418,18 @@
         }
     },
     "Gameplay": {
+        "01ecbd9bcb367970": {
+            "hash": "01ecbd9bcb367970",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_02.wem"
+        },
+        "045648e660ca8065": {
+            "hash": "045648e660ca8065",
+            "directory": "External0",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_qiqi_02.wem"
+        },
         "04a96e9450af280c": {
             "hash": "04a96e9450af280c",
             "directory": "External0",
@@ -428,7 +440,13 @@
             "hash": "04eaab80cc3ae86c",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attacklight_02.wem"
+            "sourceName": "vo_qiqi_battle_attackLight_02.wem"
+        },
+        "0538c97244209b9d": {
+            "hash": "0538c97244209b9d",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_04.wem"
         },
         "0543fc7732120ce6": {
             "hash": "0543fc7732120ce6",
@@ -440,7 +458,7 @@
             "hash": "095430fc247c91a7",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_hit_h_03.wem"
+            "sourceName": "vo_qiqi_battle_hit_H_03.wem"
         },
         "0a99c68858cc9604": {
             "hash": "0a99c68858cc9604",
@@ -460,11 +478,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_qiqi_explore_jump_01.wem"
         },
+        "0c63b94c5c9a5c0a": {
+            "hash": "0c63b94c5c9a5c0a",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_13.wem"
+        },
         "0e6841c5e6437df2": {
             "hash": "0e6841c5e6437df2",
             "directory": "External1",
             "voiceContent": "I want to have a pet. For example, a nice little finch",
             "sourceName": "vo_qiqi_pref_hobby.wem"
+        },
+        "0eaf2adf70856ac6": {
+            "hash": "0eaf2adf70856ac6",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_14.wem"
         },
         "0fab77c11a9459a3": {
             "hash": "0fab77c11a9459a3",
@@ -500,7 +530,7 @@
             "hash": "1a973ceb14a2a38d",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_hit_h_05.wem"
+            "sourceName": "vo_qiqi_battle_hit_H_05.wem"
         },
         "1a978530acbbdb81": {
             "hash": "1a978530acbbdb81",
@@ -508,17 +538,17 @@
             "voiceContent": "Don't want... to be sealed... back up..",
             "sourceName": "vo_qiqi_life_die_01.wem"
         },
-        "1b2cc7dff101378d": {
-            "hash": "1b2cc7dff101378d",
-            "directory": "External3",
-            "voiceContent": "Huh..",
-            "sourceName": "vo_qiqi_spice_event_normal_01.wem"
-        },
         "1b3c0ed17739eefe": {
             "hash": "1b3c0ed17739eefe",
             "directory": "External3",
             "voiceContent": "Hey, do you know what? Uhh... neither do I. I... already forgot",
             "sourceName": "vo_qiqi_explore_idle_01.wem"
+        },
+        "1ca1fd848c8979f7": {
+            "hash": "1ca1fd848c8979f7",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_02.wem"
         },
         "1d63473bc6d0713a": {
             "hash": "1d63473bc6d0713a",
@@ -542,13 +572,31 @@
             "hash": "2039538d6d7a834f",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attackheavy_02.wem"
+            "sourceName": "vo_qiqi_battle_attackHeavy_02.wem"
+        },
+        "20521b4015587acf": {
+            "hash": "20521b4015587acf",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_09.wem"
+        },
+        "26fbbd5ea7b6cf7c": {
+            "hash": "26fbbd5ea7b6cf7c",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_11.wem"
         },
         "279d3ee0b1e4a888": {
             "hash": "279d3ee0b1e4a888",
             "directory": "External4",
             "voiceContent": "Uhh... What do I do now",
             "sourceName": "vo_card_qiqi_inGame_hard_03.wem"
+        },
+        "29483ef1bba3abe8": {
+            "hash": "29483ef1bba3abe8",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_16.wem"
         },
         "29a91156305187ae": {
             "hash": "29a91156305187ae",
@@ -562,23 +610,29 @@
             "voiceContent": "Many happy returns. Here is a bag of herbal medicine for you. You must be very surprised that I remembered? Let me explain. Last time you told me, I wrote your birthday down on a piece of paper. If I look at something once a day, it eventually goes into my long-term memory, and it will stay there forever",
             "sourceName": "vo_qiqi_pref_birthday.wem"
         },
+        "2da337760cccb0c1": {
+            "hash": "2da337760cccb0c1",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_14.wem"
+        },
         "2e00c66c62604938": {
             "hash": "2e00c66c62604938",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_hit_l_04.wem"
+            "sourceName": "vo_qiqi_battle_hit_L_04.wem"
         },
         "31c2c11b40173186": {
             "hash": "31c2c11b40173186",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attackmid_02.wem"
+            "sourceName": "vo_qiqi_battle_attackMid_02.wem"
         },
         "33137987bf5c0817": {
             "hash": "33137987bf5c0817",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attacklight_05.wem"
+            "sourceName": "vo_qiqi_battle_attackLight_05.wem"
         },
         "332b55afdba4bf9a": {
             "hash": "332b55afdba4bf9a",
@@ -608,7 +662,7 @@
             "hash": "37a365996cc12f31",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attacklight_07.wem"
+            "sourceName": "vo_qiqi_battle_attackLight_07.wem"
         },
         "38b92c9bf21fa94c": {
             "hash": "38b92c9bf21fa94c",
@@ -638,7 +692,7 @@
             "hash": "3fe9d43369f050eb",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_hit_l_03.wem"
+            "sourceName": "vo_qiqi_battle_hit_L_03.wem"
         },
         "407492db3629fdbd": {
             "hash": "407492db3629fdbd",
@@ -650,7 +704,7 @@
             "hash": "42dff25b55974a56",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_hit_l_06.wem"
+            "sourceName": "vo_qiqi_battle_hit_L_06.wem"
         },
         "469730175cf25a4a": {
             "hash": "469730175cf25a4a",
@@ -658,17 +712,41 @@
             "voiceContent": "I've memorized lots of techniques. Now I can't lose",
             "sourceName": "vo_card_qiqi_invite_hard_01.wem"
         },
+        "47500f9c066a5110": {
+            "hash": "47500f9c066a5110",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_01.wem"
+        },
+        "50f05d7ae74e9c2c": {
+            "hash": "50f05d7ae74e9c2c",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_06.wem"
+        },
         "52a8dd8ac9ccba34": {
             "hash": "52a8dd8ac9ccba34",
             "directory": "External10",
             "voiceContent": "I started memory training exercises recently. So don't worry, I won't forget who you are",
             "sourceName": "vo_qiqi_dialog_close1.wem"
         },
+        "543d3951603a20e9": {
+            "hash": "543d3951603a20e9",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_08.wem"
+        },
         "54770de302278331": {
             "hash": "54770de302278331",
             "directory": "External10",
             "voiceContent": "SFX",
             "sourceName": "vo_qiqi_explore_fly_start_02.wem"
+        },
+        "55665d630abacae3": {
+            "hash": "55665d630abacae3",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_06.wem"
         },
         "57d2df5d23745b51": {
             "hash": "57d2df5d23745b51",
@@ -710,13 +788,25 @@
             "hash": "60f085a585146708",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attackheavy_01.wem"
+            "sourceName": "vo_qiqi_battle_attackHeavy_01.wem"
+        },
+        "61199abe8f821852": {
+            "hash": "61199abe8f821852",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_10.wem"
         },
         "6212c5c822b13d5a": {
             "hash": "6212c5c822b13d5a",
             "directory": "External12",
             "voiceContent": "Oh no..",
             "sourceName": "vo_qiqi_life_less30_02.wem"
+        },
+        "6242bed03a02c224": {
+            "hash": "6242bed03a02c224",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_12.wem"
         },
         "6528aad0ddaa99e6": {
             "hash": "6528aad0ddaa99e6",
@@ -729,6 +819,12 @@
             "directory": "External12",
             "voiceContent": "I will... bring my notebook",
             "sourceName": "vo_qiqi_teamJoin_03.wem"
+        },
+        "65cf5969da854bfa": {
+            "hash": "65cf5969da854bfa",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_04.wem"
         },
         "69a9edcfd345b537": {
             "hash": "69a9edcfd345b537",
@@ -752,7 +848,7 @@
             "hash": "6f3ed96640723503",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attacklight_01.wem"
+            "sourceName": "vo_qiqi_battle_attackLight_01.wem"
         },
         "6fa9dab2a2f761a8": {
             "hash": "6fa9dab2a2f761a8",
@@ -764,7 +860,7 @@
             "hash": "7068c577eaf4333d",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attacklight_03.wem"
+            "sourceName": "vo_qiqi_battle_attackLight_03.wem"
         },
         "70e134980a2681ac": {
             "hash": "70e134980a2681ac",
@@ -808,11 +904,35 @@
             "voiceContent": "SFX",
             "sourceName": "vo_qiqi_explore_jump_02.wem"
         },
+        "7ef358e83cd1b029": {
+            "hash": "7ef358e83cd1b029",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_17.wem"
+        },
         "7f6d33982f035aab": {
             "hash": "7f6d33982f035aab",
             "directory": "External15",
             "voiceContent": "I want to build a snowman. Will you help",
             "sourceName": "vo_qiqi_weather_snowy_01.wem"
+        },
+        "82802b81dd5498d7": {
+            "hash": "82802b81dd5498d7",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_01.wem"
+        },
+        "83837cf9ea373623": {
+            "hash": "83837cf9ea373623",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_19.wem"
+        },
+        "83aa179387d696f1": {
+            "hash": "83aa179387d696f1",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_03.wem"
         },
         "8413a3ab797c6a2b": {
             "hash": "8413a3ab797c6a2b",
@@ -844,35 +964,83 @@
             "voiceContent": "Ooh, pretty",
             "sourceName": "vo_qiqi_chest_open_01.wem"
         },
+        "914feb441bee1c13": {
+            "hash": "914feb441bee1c13",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_12.wem"
+        },
         "91e4623a71b0cea2": {
             "hash": "91e4623a71b0cea2",
             "directory": "External18",
             "voiceContent": "I didn't feel that",
             "sourceName": "vo_qiqi_battle_hit_L_02.wem"
         },
+        "9279d755c6701a0d": {
+            "hash": "9279d755c6701a0d",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_10.wem"
+        },
+        "93d28cd73008beaf": {
+            "hash": "93d28cd73008beaf",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_15.wem"
+        },
         "94811ee1aacce58a": {
             "hash": "94811ee1aacce58a",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_hit_h_06.wem"
+            "sourceName": "vo_qiqi_battle_hit_H_06.wem"
+        },
+        "9654af7b228427cc": {
+            "hash": "9654af7b228427cc",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_05.wem"
+        },
+        "977e9b8ccd0625ee": {
+            "hash": "977e9b8ccd0625ee",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_03.wem"
         },
         "9e7bf195b0da5866": {
             "hash": "9e7bf195b0da5866",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attackheavy_03.wem"
+            "sourceName": "vo_qiqi_battle_attackHeavy_03.wem"
+        },
+        "9e94b94858b84fe6": {
+            "hash": "9e94b94858b84fe6",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_08.wem"
         },
         "a206ef240c6377e9": {
             "hash": "a206ef240c6377e9",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attackmid_01.wem"
+            "sourceName": "vo_qiqi_battle_attackMid_01.wem"
         },
         "a77b367f76d5ce12": {
             "hash": "a77b367f76d5ce12",
             "directory": "External20",
             "voiceContent": "Rise",
             "sourceName": "vo_qiqi_battle_skill1_04.wem"
+        },
+        "a7cdab6a12d7ad9a": {
+            "hash": "a7cdab6a12d7ad9a",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_07.wem"
+        },
+        "a9e42ade3207e942": {
+            "hash": "a9e42ade3207e942",
+            "directory": "External21",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_qiqi_01.wem"
         },
         "ab66734decf1b2b7": {
             "hash": "ab66734decf1b2b7",
@@ -884,7 +1052,7 @@
             "hash": "af1922f3f5e958fc",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_hit_h_04.wem"
+            "sourceName": "vo_qiqi_battle_hit_H_04.wem"
         },
         "b132dac7b01be26b": {
             "hash": "b132dac7b01be26b",
@@ -896,7 +1064,7 @@
             "hash": "b156179002bbdd0e",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attacklight_04.wem"
+            "sourceName": "vo_qiqi_battle_attackLight_04.wem"
         },
         "b235b3d0fe18323d": {
             "hash": "b235b3d0fe18323d",
@@ -914,13 +1082,13 @@
             "hash": "b2800ba1ad3de8b0",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attacklight_06.wem"
+            "sourceName": "vo_qiqi_battle_attackLight_06.wem"
         },
         "b324206421e38fb9": {
             "hash": "b324206421e38fb9",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_hit_l_05.wem"
+            "sourceName": "vo_qiqi_battle_hit_L_05.wem"
         },
         "b362a2cb361319cb": {
             "hash": "b362a2cb361319cb",
@@ -932,7 +1100,7 @@
             "hash": "b3802312fcb75d6f",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_attackmid_03.wem"
+            "sourceName": "vo_qiqi_battle_attackMid_03.wem"
         },
         "b5c09d0b5aff3a41": {
             "hash": "b5c09d0b5aff3a41",
@@ -964,6 +1132,12 @@
             "voiceContent": "I remember now",
             "sourceName": "vo_card_qiqi_inGame_easy_04.wem"
         },
+        "bb448b605b85e9c3": {
+            "hash": "bb448b605b85e9c3",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_05.wem"
+        },
         "bc16e3d051154f5d": {
             "hash": "bc16e3d051154f5d",
             "directory": "External23",
@@ -981,6 +1155,12 @@
             "directory": "External23",
             "voiceContent": "Cold... So cold..",
             "sourceName": "vo_qiqi_life_die_02.wem"
+        },
+        "bfd4777208eb10fd": {
+            "hash": "bfd4777208eb10fd",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_07.wem"
         },
         "c7221c7c3bcaa723": {
             "hash": "c7221c7c3bcaa723",
@@ -1024,11 +1204,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_qiqi_explore_fly_start_03.wem"
         },
+        "cf5b21546814a3c3": {
+            "hash": "cf5b21546814a3c3",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_20.wem"
+        },
         "d0a7d18f2b326f1e": {
             "hash": "d0a7d18f2b326f1e",
             "directory": "External26",
             "voiceContent": "Warm. Fake smile. Death. I despise Hu Tao",
             "sourceName": "vo_qiqi_teammate_hutao_01.wem"
+        },
+        "d4915d7f88ba3cc0": {
+            "hash": "d4915d7f88ba3cc0",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_23_qiqi_15.wem"
         },
         "d4f678e41770b2ec": {
             "hash": "d4f678e41770b2ec",
@@ -1041,6 +1233,12 @@
             "directory": "External26",
             "voiceContent": "Huh? What happened..",
             "sourceName": "vo_card_qiqi_inGame_hard_02.wem"
+        },
+        "d5eacb00f25419da": {
+            "hash": "d5eacb00f25419da",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_18.wem"
         },
         "d90690cc2e6adf40": {
             "hash": "d90690cc2e6adf40",
@@ -1066,12 +1264,6 @@
             "voiceContent": "Wheel of life",
             "sourceName": "vo_qiqi_battle_skill1_01.wem"
         },
-        "db3c1b7f7effb633": {
-            "hash": "db3c1b7f7effb633",
-            "directory": "External27",
-            "voiceContent": "Cold. I like it. But, no flavor..",
-            "sourceName": "vo_qiqi_spice_event_pref_01.wem"
-        },
         "dc68c72b88e0ef7c": {
             "hash": "dc68c72b88e0ef7c",
             "directory": "External27",
@@ -1096,17 +1288,35 @@
             "voiceContent": "I like coconut milk... But, I don't know what it tastes like",
             "sourceName": "vo_qiqi_pref_foodLike.wem"
         },
+        "e1fb65e298cf04ca": {
+            "hash": "e1fb65e298cf04ca",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_qiqi_01.wem"
+        },
         "e264986ff8a74d71": {
             "hash": "e264986ff8a74d71",
             "directory": "External28",
             "voiceContent": "SFX",
             "sourceName": "vo_qiqi_explore_climb_01.wem"
         },
+        "e30d0cb64c4fed9b": {
+            "hash": "e30d0cb64c4fed9b",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_11.wem"
+        },
         "e3104142edf6d0c1": {
             "hash": "e3104142edf6d0c1",
             "directory": "External28",
             "voiceContent": "Now, I have more power. But... what does that mean? Please explain. Thank you",
             "sourceName": "vo_qiqi_starUp_01.wem"
+        },
+        "e436f8c7f6d1ebb5": {
+            "hash": "e436f8c7f6d1ebb5",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_13.wem"
         },
         "e53fbd62d12b6ba5": {
             "hash": "e53fbd62d12b6ba5",
@@ -1132,12 +1342,6 @@
             "voiceContent": "I didn't forget how to play this time. Good..",
             "sourceName": "vo_card_qiqi_invite_easy_02.wem"
         },
-        "ea5030e7f3517e2b": {
-            "hash": "ea5030e7f3517e2b",
-            "directory": "External29",
-            "voiceContent": "It's burning my tongue..",
-            "sourceName": "vo_qiqi_spice_event_dislike_01.wem"
-        },
         "ebefbb305784b542": {
             "hash": "ebefbb305784b542",
             "directory": "External29",
@@ -1148,7 +1352,7 @@
             "hash": "ec558042a071b2c5",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_qiqi_battle_hit_l_01.wem"
+            "sourceName": "vo_qiqi_battle_hit_L_01.wem"
         },
         "eca73457d09b1002": {
             "hash": "eca73457d09b1002",
@@ -1198,17 +1402,11 @@
             "voiceContent": "SFX",
             "sourceName": "vo_qiqi_explore_jump_03.wem"
         },
-        "045648e660ca8065": {
-            "hash": "045648e660ca8065",
-            "directory": "External0",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_qiqi_02.wem"
-        },
-        "a9e42ade3207e942": {
-            "hash": "a9e42ade3207e942",
-            "directory": "External21",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_qiqi_01.wem"
+        "fb2b1f5adc273fa8": {
+            "hash": "fb2b1f5adc273fa8",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_qiqi_09.wem"
         }
     }
 }

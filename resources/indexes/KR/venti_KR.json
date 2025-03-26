@@ -670,6 +670,12 @@
             "voiceContent": "인정사정이 없구",
             "sourceName": "vo_card_venti_inGame_hard_03.wem"
         },
+        "1d9350e6bffcc7df": {
+            "hash": "1d9350e6bffcc7df",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_08.wem"
+        },
         "1fe1a8419c0dcfd6": {
             "hash": "1fe1a8419c0dcfd6",
             "directory": "External3",
@@ -680,19 +686,25 @@
             "hash": "1ffd8fba3b3a5783",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_04.wem"
+            "sourceName": "vo_venti_battle_hit_H_04.wem"
         },
         "21277bcbe5bc55bd": {
             "hash": "21277bcbe5bc55bd",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_06.wem"
+            "sourceName": "vo_venti_battle_hit_H_06.wem"
         },
         "23360b51cbd6c5db": {
             "hash": "23360b51cbd6c5db",
             "directory": "External4",
             "voiceContent": "후, 배불러라. 과일도 못 먹겠어",
             "sourceName": "vo_venti_spice_normal_01.wem"
+        },
+        "26b03f3203e7aa1e": {
+            "hash": "26b03f3203e7aa1e",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_01.wem"
         },
         "26d7299c0f50e409": {
             "hash": "26d7299c0f50e409",
@@ -722,13 +734,19 @@
             "hash": "305a658dac7f071d",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_02.wem"
+            "sourceName": "vo_venti_battle_attackMid_02.wem"
         },
         "30f594ac74af26d5": {
             "hash": "30f594ac74af26d5",
             "directory": "External6",
             "voiceContent": "조율 완료",
             "sourceName": "vo_venti_teamJoin_01.wem"
+        },
+        "31522d8b82a7451c": {
+            "hash": "31522d8b82a7451c",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_battle_skill2_02.wem"
         },
         "32604c35864529c3": {
             "hash": "32604c35864529c3",
@@ -758,7 +776,7 @@
             "hash": "3745b968c02bf986",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_05.wem"
+            "sourceName": "vo_venti_battle_hit_L_05.wem"
         },
         "38d58088fae68d83": {
             "hash": "38d58088fae68d83",
@@ -776,7 +794,7 @@
             "hash": "3a67195068e27258",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_05.wem"
+            "sourceName": "vo_venti_battle_attackLight_05.wem"
         },
         "3d16c32d918af002": {
             "hash": "3d16c32d918af002",
@@ -812,7 +830,7 @@
             "hash": "451499c203936fac",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_02.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_02.wem"
         },
         "47243544f983ed1f": {
             "hash": "47243544f983ed1f",
@@ -830,13 +848,13 @@
             "hash": "4ab6192daeb3df14",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_01.wem"
+            "sourceName": "vo_venti_battle_attackLight_01.wem"
         },
         "4f46453f5c197376": {
             "hash": "4f46453f5c197376",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_07.wem"
+            "sourceName": "vo_venti_battle_attackLight_07.wem"
         },
         "4f7ea83fab312822": {
             "hash": "4f7ea83fab312822",
@@ -898,17 +916,23 @@
             "voiceContent": "밤 바람 시원하구나, 신의 사도가 되기 딱 좋은 날씨야! 그럼 늦기 전에 빨리 내게 공양을 바쳐야지",
             "sourceName": "vo_venti_dialog_close3.wem"
         },
+        "5fabcf1082488f0a": {
+            "hash": "5fabcf1082488f0a",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_05.wem"
+        },
         "6214cde3fd83ff8e": {
             "hash": "6214cde3fd83ff8e",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_01.wem"
+            "sourceName": "vo_venti_battle_hit_H_01.wem"
         },
         "633ec1f5a8060b30": {
             "hash": "633ec1f5a8060b30",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_03.wem"
+            "sourceName": "vo_venti_battle_hit_H_03.wem"
         },
         "63f6b0d901e90869": {
             "hash": "63f6b0d901e90869",
@@ -916,17 +940,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_jump_01.wem"
         },
-        "65e7a94a2d8338ec": {
-            "hash": "65e7a94a2d8338ec",
-            "directory": "External12",
-            "voiceContent": "후, 배불러라. 과일도 못 먹겠어",
-            "sourceName": "vo_venti_spice_event_normal_01.wem"
-        },
         "667269b927f19094": {
             "hash": "667269b927f19094",
             "directory": "External12",
             "voiceContent": "자, 여기 앉아. 내가 새로운 시를 썼다고~ 「여행자의 바람」이라는 시",
             "sourceName": "vo_venti_starUp_03.wem"
+        },
+        "68982537c662b317": {
+            "hash": "68982537c662b317",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_03a.wem"
         },
         "69f4fa465ea53255": {
             "hash": "69f4fa465ea53255",
@@ -1006,6 +1030,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_idle_03.wem"
         },
+        "7a43d322cd65027c": {
+            "hash": "7a43d322cd65027c",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_07.wem"
+        },
         "7aecbeb2bd30358e": {
             "hash": "7aecbeb2bd30358e",
             "directory": "External15",
@@ -1030,6 +1060,12 @@
             "voiceContent": "잠깐, 이건 장난이 아니야",
             "sourceName": "vo_venti_life_less30_01.wem"
         },
+        "80eb4d3a327ae3c1": {
+            "hash": "80eb4d3a327ae3c1",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_02.wem"
+        },
         "834c01ea5cb58799": {
             "hash": "834c01ea5cb58799",
             "directory": "External16",
@@ -1052,7 +1088,7 @@
             "hash": "86492947dc43cb12",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_01.wem"
+            "sourceName": "vo_venti_battle_hit_L_01.wem"
         },
         "88bb3fefe87af5c7": {
             "hash": "88bb3fefe87af5c7",
@@ -1064,7 +1100,7 @@
             "hash": "8ad94d5989a951e4",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_03.wem"
+            "sourceName": "vo_venti_battle_hit_L_03.wem"
         },
         "8d4b2c0195e01ce1": {
             "hash": "8d4b2c0195e01ce1",
@@ -1118,7 +1154,7 @@
             "hash": "9e49b51e783144c2",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_03.wem"
+            "sourceName": "vo_venti_battle_attackLight_03.wem"
         },
         "a20b8a2f2e4199ef": {
             "hash": "a20b8a2f2e4199ef",
@@ -1142,13 +1178,13 @@
             "hash": "a4f12735dd4718df",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_06.wem"
+            "sourceName": "vo_venti_battle_attackLight_06.wem"
         },
         "a789e7718c783fe9": {
             "hash": "a789e7718c783fe9",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_06.wem"
+            "sourceName": "vo_venti_battle_hit_L_06.wem"
         },
         "ab9f407020921588": {
             "hash": "ab9f407020921588",
@@ -1160,7 +1196,7 @@
             "hash": "af68c7a777cabd43",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_01.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_01.wem"
         },
         "b1d7fa7b6543801b": {
             "hash": "b1d7fa7b6543801b",
@@ -1172,7 +1208,7 @@
             "hash": "b3f8b3b9252fe47d",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_03.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_03.wem"
         },
         "b4f225d79ba4ef30": {
             "hash": "b4f225d79ba4ef30",
@@ -1184,7 +1220,7 @@
             "hash": "b9031b607ccc256f",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_04.wem"
+            "sourceName": "vo_venti_battle_hit_L_04.wem"
         },
         "b9e48b746466c122": {
             "hash": "b9e48b746466c122",
@@ -1208,7 +1244,7 @@
             "hash": "bc24734825828fd9",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_04.wem"
+            "sourceName": "vo_venti_battle_attackLight_04.wem"
         },
         "c0ad77c15684ca5f": {
             "hash": "c0ad77c15684ca5f",
@@ -1220,13 +1256,19 @@
             "hash": "c1764b968ae2934c",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_03.wem"
+            "sourceName": "vo_venti_battle_attackMid_03.wem"
         },
         "c7225dc3b75690ba": {
             "hash": "c7225dc3b75690ba",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_05.wem"
+            "sourceName": "vo_venti_battle_hit_H_05.wem"
+        },
+        "c7e86ef03ecf2276": {
+            "hash": "c7e86ef03ecf2276",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_09.wem"
         },
         "c8d82b2dcd92d4bb": {
             "hash": "c8d82b2dcd92d4bb",
@@ -1252,12 +1294,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_fly_start_02.wem"
         },
-        "cff0174af97f4766": {
-            "hash": "cff0174af97f4766",
-            "directory": "External25",
-            "voiceContent": "아, 대만족이야! 내일도 해줄 거지? 모레도 해줄 거지",
-            "sourceName": "vo_venti_spice_event_pref_01.wem"
-        },
         "d1ae53ab2bf58950": {
             "hash": "d1ae53ab2bf58950",
             "directory": "External26",
@@ -1268,7 +1304,7 @@
             "hash": "d2ef47857b36191a",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_01.wem"
+            "sourceName": "vo_venti_battle_attackMid_01.wem"
         },
         "d2f2066010df1200": {
             "hash": "d2f2066010df1200",
@@ -1288,11 +1324,11 @@
             "voiceContent": "여기",
             "sourceName": "vo_venti_battle_skill1_02.wem"
         },
-        "dd5528c985cbcf40": {
-            "hash": "dd5528c985cbcf40",
+        "dd48e537ea2f0d3f": {
+            "hash": "dd48e537ea2f0d3f",
             "directory": "External27",
-            "voiceContent": "나조차도 먹기 힘든 음식이라니. 음… 이것 참 곤란한",
-            "sourceName": "vo_venti_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_dialog_close2_heroine.wem"
         },
         "e32aa17233292b23": {
             "hash": "e32aa17233292b23",
@@ -1300,11 +1336,29 @@
             "voiceContent": "불의 신은 제멋대로 날뛰는 전투광이야. 바위의 신은 사람 마음을 모르는 꽉 막힌 놈이고. 그런 걸 어떻게 아냐고? 하하, 서사시에 그들의 이야기가 다 나와있어. 그 시절의 이야기들이 전",
             "sourceName": "vo_venti_friendship_03.wem"
         },
+        "e4980108419c4f13": {
+            "hash": "e4980108419c4f13",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_04.wem"
+        },
+        "e5c1ed19ec1e4d0d": {
+            "hash": "e5c1ed19ec1e4d0d",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_06.wem"
+        },
         "e800c04ea1d608c4": {
             "hash": "e800c04ea1d608c4",
             "directory": "External29",
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_climb_05.wem"
+        },
+        "e804b751b44493b0": {
+            "hash": "e804b751b44493b0",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_03b.wem"
         },
         "e8621bed678951b1": {
             "hash": "e8621bed678951b1",
@@ -1348,6 +1402,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_jump_02.wem"
         },
+        "f3c9db736dc11133": {
+            "hash": "f3c9db736dc11133",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_battle_skill2_01.wem"
+        },
         "f5d4f61ff7ec3cf5": {
             "hash": "f5d4f61ff7ec3cf5",
             "directory": "External30",
@@ -1358,7 +1418,7 @@
             "hash": "f791a714fc71708b",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_02.wem"
+            "sourceName": "vo_venti_battle_attackLight_02.wem"
         },
         "fae40bed38f87305": {
             "hash": "fae40bed38f87305",

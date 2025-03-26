@@ -376,6 +376,12 @@
         }
     },
     "Gameplay": {
+        "044636139e5dbd9d": {
+            "hash": "044636139e5dbd9d",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_01.wem"
+        },
         "080e4730ae07cee4": {
             "hash": "080e4730ae07cee4",
             "directory": "External1",
@@ -387,6 +393,12 @@
             "directory": "External1",
             "voiceContent": "We were just traveling partners. I never thought I'd have you to thank for getting me to this point. Seems I really should respond in kind. Let us carry on, partner. The road ahead is still long",
             "sourceName": "vo_kaeya_starUp_04.wem"
+        },
+        "092dcb3ba9067b7b": {
+            "hash": "092dcb3ba9067b7b",
+            "directory": "External1",
+            "voiceContent": "",
+            "sourceName": "vo_kaeya_suit_dancer_03.wem"
         },
         "0a01241e315140e2": {
             "hash": "0a01241e315140e2",
@@ -410,7 +422,7 @@
             "hash": "0d8f581816feee2a",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_02.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_02.wem"
         },
         "127a624d6a974ae9": {
             "hash": "127a624d6a974ae9",
@@ -422,7 +434,7 @@
             "hash": "16bd12faef38da5c",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackheavy_03.wem"
+            "sourceName": "vo_kaeya_battle_attackHeavy_03.wem"
         },
         "1a7c0400d85e987e": {
             "hash": "1a7c0400d85e987e",
@@ -435,6 +447,12 @@
             "directory": "External3",
             "voiceContent": "SFX",
             "sourceName": "vo_kaeya_explore_sprint_start_04.wem"
+        },
+        "1baf6a25e6c69bf7": {
+            "hash": "1baf6a25e6c69bf7",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_07.wem"
         },
         "1c84eee61d7d2b0c": {
             "hash": "1c84eee61d7d2b0c",
@@ -488,7 +506,7 @@
             "hash": "2a3fea3019cdcec7",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_07.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_07.wem"
         },
         "2bf2374a22970897": {
             "hash": "2bf2374a22970897",
@@ -512,7 +530,7 @@
             "hash": "2ecfd641c732f5e1",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_05.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_05.wem"
         },
         "3164ead510b58dda": {
             "hash": "3164ead510b58dda",
@@ -524,7 +542,13 @@
             "hash": "36381537a12aa26f",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_h_05.wem"
+            "sourceName": "vo_kaeya_battle_hit_H_05.wem"
+        },
+        "369a0bdab7a854e4": {
+            "hash": "369a0bdab7a854e4",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_08.wem"
         },
         "3ade866ff240090f": {
             "hash": "3ade866ff240090f",
@@ -542,13 +566,13 @@
             "hash": "3ee052b0abd307e2",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_04.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_04.wem"
         },
         "3ee8f61f0cd709ad": {
             "hash": "3ee8f61f0cd709ad",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_01.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_01.wem"
         },
         "3f47f96dfc7eac88": {
             "hash": "3f47f96dfc7eac88",
@@ -560,7 +584,7 @@
             "hash": "400a36c25654f7b4",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_06.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_06.wem"
         },
         "42dd3fe6d28cd270": {
             "hash": "42dd3fe6d28cd270",
@@ -580,6 +604,12 @@
             "voiceContent": "Freeze",
             "sourceName": "vo_kaeya_battle_skill1_02.wem"
         },
+        "465d7c3d60a77310": {
+            "hash": "465d7c3d60a77310",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_04.wem"
+        },
         "46a27f4c97014b74": {
             "hash": "46a27f4c97014b74",
             "directory": "External8",
@@ -596,7 +626,7 @@
             "hash": "49dd477ae4200b58",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackmid_02.wem"
+            "sourceName": "vo_kaeya_battle_attackMid_02.wem"
         },
         "4ba50abdbe751bfc": {
             "hash": "4ba50abdbe751bfc",
@@ -644,19 +674,19 @@
             "hash": "54488eeb1afee66a",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackheavy_01.wem"
+            "sourceName": "vo_kaeya_battle_attackHeavy_01.wem"
         },
-        "56f2c916e2e54760": {
-            "hash": "56f2c916e2e54760",
+        "5473ca0464f7ece3": {
+            "hash": "5473ca0464f7ece3",
             "directory": "External10",
-            "voiceContent": "Ho! This is quite exceptional... You are full of surprises",
-            "sourceName": "vo_kaeya_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_03.wem"
         },
         "5cba10da59229ff9": {
             "hash": "5cba10da59229ff9",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_03.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_03.wem"
         },
         "602071848784d7bb": {
             "hash": "602071848784d7bb",
@@ -740,7 +770,7 @@
             "hash": "81007c48cf212c60",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_04.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_04.wem"
         },
         "82042cb98112a51c": {
             "hash": "82042cb98112a51c",
@@ -752,7 +782,7 @@
             "hash": "823b2cf20df225ed",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackheavy_02.wem"
+            "sourceName": "vo_kaeya_battle_attackHeavy_02.wem"
         },
         "83ea36819fd9fcb9": {
             "hash": "83ea36819fd9fcb9",
@@ -772,6 +802,12 @@
             "voiceContent": "Hehe, what can I say — I guess lady luck's on my side today",
             "sourceName": "vo_card_kaeya_endOfGame_win_01.wem"
         },
+        "873a5943ec38a532": {
+            "hash": "873a5943ec38a532",
+            "directory": "External16",
+            "voiceContent": "",
+            "sourceName": "vo_kaeya_suit_dancer_02.wem"
+        },
         "88601f6e82e6586e": {
             "hash": "88601f6e82e6586e",
             "directory": "External17",
@@ -782,7 +818,7 @@
             "hash": "8a0181286ad54575",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_h_03.wem"
+            "sourceName": "vo_kaeya_battle_hit_H_03.wem"
         },
         "8be36acebbc0fc9b": {
             "hash": "8be36acebbc0fc9b",
@@ -812,7 +848,7 @@
             "hash": "927c8a0fd6546133",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_03.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_03.wem"
         },
         "948a570e2e5b0ec8": {
             "hash": "948a570e2e5b0ec8",
@@ -832,11 +868,17 @@
             "voiceContent": "Still struggling with how Visions work? Let's see... How can I explain it... The apparatus that allows us to see is our eyes. A Vision is the apparatus by which we control the elements. Simple, is it not",
             "sourceName": "vo_kaeya_dialog_pendant.wem"
         },
+        "968c082e274347ee": {
+            "hash": "968c082e274347ee",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_06.wem"
+        },
         "9a4544ca84e8317f": {
             "hash": "9a4544ca84e8317f",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_01.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_01.wem"
         },
         "9d48f1bc99fd0aae": {
             "hash": "9d48f1bc99fd0aae",
@@ -855,6 +897,12 @@
             "directory": "External20",
             "voiceContent": "How fortunate",
             "sourceName": "vo_kaeya_chest_open_01.wem"
+        },
+        "a6db180b6d14cf9a": {
+            "hash": "a6db180b6d14cf9a",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_02.wem"
         },
         "a809a690a6819cb9": {
             "hash": "a809a690a6819cb9",
@@ -902,13 +950,13 @@
             "hash": "b46755605884b1df",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackmid_01.wem"
+            "sourceName": "vo_kaeya_battle_attackMid_01.wem"
         },
         "b47ab33fe48a7686": {
             "hash": "b47ab33fe48a7686",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_h_04.wem"
+            "sourceName": "vo_kaeya_battle_hit_H_04.wem"
         },
         "b4a0961726ad992b": {
             "hash": "b4a0961726ad992b",
@@ -922,11 +970,23 @@
             "voiceContent": "Cool it",
             "sourceName": "vo_kaeya_battle_skill1_01.wem"
         },
+        "b88d45d27475cb75": {
+            "hash": "b88d45d27475cb75",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_09.wem"
+        },
         "b8eff6d00c383b86": {
             "hash": "b8eff6d00c383b86",
             "directory": "External23",
             "voiceContent": "You're not scared of the dark, are you? That's... interesting",
             "sourceName": "vo_kaeya_dialog_greetingNight.wem"
+        },
+        "b900374ae26c4c15": {
+            "hash": "b900374ae26c4c15",
+            "directory": "External23",
+            "voiceContent": "",
+            "sourceName": "vo_kaeya_suit_dancer_01.wem"
         },
         "b9684856e68469a8": {
             "hash": "b9684856e68469a8",
@@ -951,6 +1011,12 @@
             "directory": "External24",
             "voiceContent": "Hmm? You think Fischl having one eye covered is very fitting given her title of Prinzessin der Verurteilung. Hahaha, if that's the case, that must also make me a descendant of some kind of former royal lineage, no",
             "sourceName": "vo_kaeya_teammate_fischl_01.wem"
+        },
+        "c81ad6351d479091": {
+            "hash": "c81ad6351d479091",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_05.wem"
         },
         "c864672a309baaab": {
             "hash": "c864672a309baaab",
@@ -986,13 +1052,13 @@
             "hash": "cb9aa172a0c028d9",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackmid_03.wem"
+            "sourceName": "vo_kaeya_battle_attackMid_03.wem"
         },
         "cbacc7522cc3dba8": {
             "hash": "cbacc7522cc3dba8",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_h_06.wem"
+            "sourceName": "vo_kaeya_battle_hit_H_06.wem"
         },
         "cbd7d53d445e2272": {
             "hash": "cbd7d53d445e2272",
@@ -1040,19 +1106,13 @@
             "hash": "d494c839989fbc3e",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_06.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_06.wem"
         },
         "d6602656039b00bb": {
             "hash": "d6602656039b00bb",
             "directory": "External26",
             "voiceContent": "Sparkling wine is a specialty of Mondstadt. Mix it with three parts Dandelion Wine and the bitterness disappears completely. This concoction is known as Death After Noon. Delectable",
             "sourceName": "vo_kaeya_pref_foodLike.wem"
-        },
-        "d8b126f70112743a": {
-            "hash": "d8b126f70112743a",
-            "directory": "External27",
-            "voiceContent": "You should serve this with wine, it would really add the finishing touch",
-            "sourceName": "vo_kaeya_spice_event_normal_01.wem"
         },
         "d8f668572a5049d3": {
             "hash": "d8f668572a5049d3",
@@ -1064,7 +1124,7 @@
             "hash": "dafcb6e29c828278",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_02.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_02.wem"
         },
         "dd865468d7b570cd": {
             "hash": "dd865468d7b570cd",
@@ -1077,12 +1137,6 @@
             "directory": "External27",
             "voiceContent": "There are a total of ten captains within the Knights of Favonius. But truth be told, not all of them have what it takes to be leaders",
             "sourceName": "vo_kaeya_friendship_02.wem"
-        },
-        "dfc8fcb08b20e8f6": {
-            "hash": "dfc8fcb08b20e8f6",
-            "directory": "External27",
-            "voiceContent": "I'm just a slow eater... I'll finish it, don't worry",
-            "sourceName": "vo_kaeya_spice_event_dislike_01.wem"
         },
         "e2da4d448d38bb41": {
             "hash": "e2da4d448d38bb41",
@@ -1106,7 +1160,7 @@
             "hash": "e97fc4a9a12f602b",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_05.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_05.wem"
         },
         "ed179366f490e349": {
             "hash": "ed179366f490e349",
@@ -1167,24 +1221,6 @@
             "directory": "External31",
             "voiceContent": "What's wrong? Can't handle the cold",
             "sourceName": "vo_kaeya_weather_snowy_02.wem"
-        },
-        "092dcb3ba9067b7b": {
-            "hash": "092dcb3ba9067b7b",
-            "directory": "External1",
-            "voiceContent": "",
-            "sourceName": "vo_kaeya_suit_dancer_03.wem"
-        },
-        "873a5943ec38a532": {
-            "hash": "873a5943ec38a532",
-            "directory": "External16",
-            "voiceContent": "",
-            "sourceName": "vo_kaeya_suit_dancer_02.wem"
-        },
-        "b900374ae26c4c15": {
-            "hash": "b900374ae26c4c15",
-            "directory": "External23",
-            "voiceContent": "",
-            "sourceName": "vo_kaeya_suit_dancer_01.wem"
         }
     }
 }

@@ -316,12 +316,6 @@
         }
     },
     "Gameplay": {
-        "00d081b16b7c08d7": {
-            "hash": "00d081b16b7c08d7",
-            "directory": "External0",
-            "voiceContent": "璃月には「民は食を以て天と為す」ということわざがあるが、まさにその通りだな",
-            "sourceName": "vo_yanfei_spice_event_normal_01.wem"
-        },
         "015551c904bd0bf1": {
             "hash": "015551c904bd0bf1",
             "directory": "External0",
@@ -332,7 +326,7 @@
             "hash": "07141b39e6ef218a",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_h_04.wem"
+            "sourceName": "vo_yanfei_battle_hit_H_04.wem"
         },
         "07938d7231ccfa84": {
             "hash": "07938d7231ccfa84",
@@ -350,7 +344,7 @@
             "hash": "0aacf30bfc7ccfc6",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_attackheavy_01.wem"
+            "sourceName": "vo_yanfei_battle_attackHeavy_01.wem"
         },
         "0bb1b20822051a47": {
             "hash": "0bb1b20822051a47",
@@ -362,7 +356,7 @@
             "hash": "0bb54fcc2a7a1377",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_attacklight_03.wem"
+            "sourceName": "vo_yanfei_battle_attackLight_03.wem"
         },
         "0c7f934e90e79880": {
             "hash": "0c7f934e90e79880",
@@ -422,19 +416,19 @@
             "hash": "2125ed5a1e3dbcbb",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_attackmid_01.wem"
+            "sourceName": "vo_yanfei_battle_attackMid_01.wem"
         },
         "21ac1f4c320b94fc": {
             "hash": "21ac1f4c320b94fc",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_h_06.wem"
+            "sourceName": "vo_yanfei_battle_hit_H_06.wem"
         },
         "2546071e479b10e8": {
             "hash": "2546071e479b10e8",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_attackheavy_03.wem"
+            "sourceName": "vo_yanfei_battle_attackHeavy_03.wem"
         },
         "254d2df0058cf957": {
             "hash": "254d2df0058cf957",
@@ -452,7 +446,13 @@
             "hash": "2853996397217641",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_h_03.wem"
+            "sourceName": "vo_yanfei_battle_hit_H_03.wem"
+        },
+        "2cdf7fbb9dbe5534": {
+            "hash": "2cdf7fbb9dbe5534",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_yanfei_01.wem"
         },
         "2d6dd87364065786": {
             "hash": "2d6dd87364065786",
@@ -566,7 +566,7 @@
             "hash": "4b9e1f7197f13bc4",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_attackmid_02.wem"
+            "sourceName": "vo_yanfei_battle_attackMid_02.wem"
         },
         "4f4c71b186e7cf83": {
             "hash": "4f4c71b186e7cf83",
@@ -608,7 +608,7 @@
             "hash": "5f5e9dbc54deae1d",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_l_03.wem"
+            "sourceName": "vo_yanfei_battle_hit_L_03.wem"
         },
         "60bcb1be60fad4c2": {
             "hash": "60bcb1be60fad4c2",
@@ -686,7 +686,7 @@
             "hash": "76c7d1ce9d478c77",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_l_05.wem"
+            "sourceName": "vo_yanfei_battle_hit_L_05.wem"
         },
         "771fa33115281a30": {
             "hash": "771fa33115281a30",
@@ -722,13 +722,13 @@
             "hash": "7af12114c8c91529",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_attackheavy_02.wem"
+            "sourceName": "vo_yanfei_battle_attackHeavy_02.wem"
         },
         "7be72d54609ecda7": {
             "hash": "7be72d54609ecda7",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_h_01.wem"
+            "sourceName": "vo_yanfei_battle_hit_H_01.wem"
         },
         "7fac6c6c134e62d7": {
             "hash": "7fac6c6c134e62d7",
@@ -752,7 +752,7 @@
             "hash": "856801c2c074c14c",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_attacklight_04.wem"
+            "sourceName": "vo_yanfei_battle_attackLight_04.wem"
         },
         "85f61925b737aa49": {
             "hash": "85f61925b737aa49",
@@ -764,13 +764,13 @@
             "hash": "8691edd46af6bf6e",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_attacklight_02.wem"
+            "sourceName": "vo_yanfei_battle_attackLight_02.wem"
         },
         "8c004d31a642e193": {
             "hash": "8c004d31a642e193",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_h_05.wem"
+            "sourceName": "vo_yanfei_battle_hit_H_05.wem"
         },
         "914cd7dfebc2572b": {
             "hash": "914cd7dfebc2572b",
@@ -830,7 +830,7 @@
             "hash": "a175e3e617286390",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_l_06.wem"
+            "sourceName": "vo_yanfei_battle_hit_L_06.wem"
         },
         "a2e731677c6a3769": {
             "hash": "a2e731677c6a3769",
@@ -860,7 +860,7 @@
             "hash": "af8c31ad1b78dd63",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_l_01.wem"
+            "sourceName": "vo_yanfei_battle_hit_L_01.wem"
         },
         "b18a0b4a776e5c13": {
             "hash": "b18a0b4a776e5c13",
@@ -902,7 +902,7 @@
             "hash": "b820bbdb60fb0811",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_attacklight_01.wem"
+            "sourceName": "vo_yanfei_battle_attackLight_01.wem"
         },
         "b97f19eef3822d8a": {
             "hash": "b97f19eef3822d8a",
@@ -974,19 +974,13 @@
             "hash": "cd92596954c06555",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_attackmid_03.wem"
+            "sourceName": "vo_yanfei_battle_attackMid_03.wem"
         },
         "cf41bf6d130f0240": {
             "hash": "cf41bf6d130f0240",
             "directory": "External25",
             "voiceContent": "厄介なことに",
             "sourceName": "vo_yanfei_battle_hit_H_02.wem"
-        },
-        "cfedb2a392d025f1": {
-            "hash": "cfedb2a392d025f1",
-            "directory": "External25",
-            "voiceContent": "悪くない味だ。どうやらお前も、「豆腐の法律」に詳しいようだな",
-            "sourceName": "vo_yanfei_spice_event_pref_01.wem"
         },
         "d13ae2302bcd86e6": {
             "hash": "d13ae2302bcd86e6",
@@ -999,6 +993,12 @@
             "directory": "External26",
             "voiceContent": "法にまだ…抜け道が",
             "sourceName": "vo_yanfei_life_die_02.wem"
+        },
+        "d6550da2e898bdab": {
+            "hash": "d6550da2e898bdab",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_yanfei_02.wem"
         },
         "d8267f2cbf257388": {
             "hash": "d8267f2cbf257388",
@@ -1036,12 +1036,6 @@
             "voiceContent": "この一手は合法だぞ",
             "sourceName": "vo_card_yanfei_inGame_hard_01.wem"
         },
-        "e6bfeadbf07d8b9d": {
-            "hash": "e6bfeadbf07d8b9d",
-            "directory": "External28",
-            "voiceContent": "…そうだ！少し温めてから食べるとしよう",
-            "sourceName": "vo_yanfei_spice_event_dislike_01.wem"
-        },
         "e9fd13d1cb07a4d1": {
             "hash": "e9fd13d1cb07a4d1",
             "directory": "External29",
@@ -1070,7 +1064,7 @@
             "hash": "f07a83c533423a4c",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_l_02.wem"
+            "sourceName": "vo_yanfei_battle_hit_L_02.wem"
         },
         "f0e2f9a0e5b25c9d": {
             "hash": "f0e2f9a0e5b25c9d",
@@ -1082,7 +1076,7 @@
             "hash": "f1a46fd6ddc4386e",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_yanfei_battle_hit_l_04.wem"
+            "sourceName": "vo_yanfei_battle_hit_L_04.wem"
         },
         "f3a2497439b9b71e": {
             "hash": "f3a2497439b9b71e",

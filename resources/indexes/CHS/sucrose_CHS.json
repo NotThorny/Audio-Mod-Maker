@@ -247,7 +247,20 @@
             "sourceName": "vo_sucrose_mimitomo_night_01.wem"
         }
     },
-    "Quests": {},
+    "Quests": {
+        "10e19a1f3d8526de": {
+            "hash": "10e19a1f3d8526de",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_1_sucrose_02.wem"
+        },
+        "6e83a8276efd3b81": {
+            "hash": "6e83a8276efd3b81",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_1_sucrose_01.wem"
+        }
+    },
     "Gameplay": {
         "0243cf76e325f119": {
             "hash": "0243cf76e325f119",
@@ -307,7 +320,7 @@
             "hash": "0963230f8bff5081",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_05.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_05.wem"
         },
         "0c806aee341903fb": {
             "hash": "0c806aee341903fb",
@@ -326,12 +339,6 @@
             "directory": "External2",
             "voiceContent": "你说天赋？嗯…假如和他做同样的研究，可能确实一辈子都没法超过他。但，我研究「生物炼金」并没有故意要躲开他的意思，只是…嗯，我和他恰好有不同的爱好，还有梦想，仅此而已吧",
             "sourceName": "vo_sucrose_teammate_albedo_02.wem"
-        },
-        "14371e7b4eeea11f": {
-            "hash": "14371e7b4eeea11f",
-            "directory": "External2",
-            "voiceContent": "比我做的营养餐好吃了不少。嗯，我也算改善伙食了",
-            "sourceName": "vo_sucrose_spice_event_normal_01.wem"
         },
         "166527210de84382": {
             "hash": "166527210de84382",
@@ -375,6 +382,12 @@
             "voiceContent": "超出预想的劣势",
             "sourceName": "vo_card_sucrose_inGame_easy_03.wem"
         },
+        "26e106b0671695c3": {
+            "hash": "26e106b0671695c3",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_07.wem"
+        },
         "26e4d860b40a2104": {
             "hash": "26e4d860b40a2104",
             "directory": "External4",
@@ -385,13 +398,19 @@
             "hash": "28b902dc129afac5",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_03.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_03.wem"
         },
         "29a04ea9d6d3ccb7": {
             "hash": "29a04ea9d6d3ccb7",
             "directory": "External5",
             "voiceContent": "知道了很多「生物炼金」的知识之后，我就不怎么吃蘑菇了…你应该知道吧？蘑菇，是长在死掉的生物上的，联想到同类的其他东西，我、我的胃口就…呃",
             "sourceName": "vo_sucrose_pref_foodDislike.wem"
+        },
+        "2b70f2c2147bbcfd": {
+            "hash": "2b70f2c2147bbcfd",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_05.wem"
         },
         "2bfa140019772cfc": {
             "hash": "2bfa140019772cfc",
@@ -409,7 +428,7 @@
             "hash": "2d12d6edbfd2693f",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_05.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_05.wem"
         },
         "2e8ad7ed49dd2fef": {
             "hash": "2e8ad7ed49dd2fef",
@@ -429,11 +448,23 @@
             "voiceContent": "最近我在做实验的时候，经常会莫名地期待起来，什么时候又可以和你一起去冒险。唔…好奇怪，这是为什么呢？我要研究看看",
             "sourceName": "vo_sucrose_starUp_03.wem"
         },
+        "349a86a441b9364c": {
+            "hash": "349a86a441b9364c",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_03.wem"
+        },
         "34fd4698801c0693": {
             "hash": "34fd4698801c0693",
             "directory": "External6",
             "voiceContent": "呼，实验的结果不错，记录下来",
             "sourceName": "vo_card_sucrose_invite_hard_02.wem"
+        },
+        "35c472b5ec3b346e": {
+            "hash": "35c472b5ec3b346e",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_05.wem"
         },
         "36392a38bb8d7bfe": {
             "hash": "36392a38bb8d7bfe",
@@ -446,12 +477,6 @@
             "directory": "External6",
             "voiceContent": "这种误差，还能接受",
             "sourceName": "vo_sucrose_life_less30_01.wem"
-        },
-        "37cd633c8faa52b9": {
-            "hash": "37cd633c8faa52b9",
-            "directory": "External6",
-            "voiceContent": "好吃！啊…趁着现在状态最好，赶紧把研究做完",
-            "sourceName": "vo_sucrose_spice_event_pref_01.wem"
         },
         "38c43544d59a9083": {
             "hash": "38c43544d59a9083",
@@ -469,19 +494,31 @@
             "hash": "3a9b7853d76e2de7",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackmid_03.wem"
+            "sourceName": "vo_sucrose_battle_attackMid_03.wem"
         },
         "3cb5f8578b5858f2": {
             "hash": "3cb5f8578b5858f2",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_06.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_06.wem"
         },
         "3d38a9a987b94e5f": {
             "hash": "3d38a9a987b94e5f",
             "directory": "External7",
             "voiceContent": "SFX",
             "sourceName": "vo_sucrose_explore_climb_03.wem"
+        },
+        "3f04a4bde9ca231e": {
+            "hash": "3f04a4bde9ca231e",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_11.wem"
+        },
+        "402dd8cf944ae8c0": {
+            "hash": "402dd8cf944ae8c0",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_13.wem"
         },
         "4142ce9c840ec133": {
             "hash": "4142ce9c840ec133",
@@ -493,7 +530,13 @@
             "hash": "41827f0d03ad8c3e",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackheavy_03.wem"
+            "sourceName": "vo_sucrose_battle_attackHeavy_03.wem"
+        },
+        "46138293320cbc1a": {
+            "hash": "46138293320cbc1a",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_01.wem"
         },
         "47e72fb66314c5c8": {
             "hash": "47e72fb66314c5c8",
@@ -506,6 +549,12 @@
             "directory": "External9",
             "voiceContent": "SFX",
             "sourceName": "vo_sucrose_explore_sprint_start_01.wem"
+        },
+        "5336c4488c0a43db": {
+            "hash": "5336c4488c0a43db",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_08.wem"
         },
         "5373016cc659ce1c": {
             "hash": "5373016cc659ce1c",
@@ -529,7 +578,7 @@
             "hash": "5df5b6813b8b19c9",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_01.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_01.wem"
         },
         "611ba237e4d817ff": {
             "hash": "611ba237e4d817ff",
@@ -561,35 +610,47 @@
             "voiceContent": "湿度上升，嗯…要不要再加一组实验呢",
             "sourceName": "vo_sucrose_weather_heavyRain_01.wem"
         },
+        "675340bce23f7d11": {
+            "hash": "675340bce23f7d11",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_06.wem"
+        },
         "69a9d6dd983d93d3": {
             "hash": "69a9d6dd983d93d3",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_03.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_03.wem"
         },
         "6a644905d4899138": {
             "hash": "6a644905d4899138",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_06.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_06.wem"
+        },
+        "6c5f44da2c4519ce": {
+            "hash": "6c5f44da2c4519ce",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_02.wem"
         },
         "6e39c2ef45a2bacd": {
             "hash": "6e39c2ef45a2bacd",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_01.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_01.wem"
         },
         "6e7bd65e818bffd5": {
             "hash": "6e7bd65e818bffd5",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_05.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_05.wem"
         },
         "6f6eea702bdeff4f": {
             "hash": "6f6eea702bdeff4f",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_03.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_03.wem"
         },
         "6fad19179228704b": {
             "hash": "6fad19179228704b",
@@ -620,6 +681,12 @@
             "directory": "External14",
             "voiceContent": "SFX",
             "sourceName": "vo_sucrose_explore_jump_05.wem"
+        },
+        "736e22af7487b2ca": {
+            "hash": "736e22af7487b2ca",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_12.wem"
         },
         "73a3ddee4fdc55b8": {
             "hash": "73a3ddee4fdc55b8",
@@ -663,6 +730,12 @@
             "voiceContent": "唔…「七圣召唤」的规则真复杂啊，我得整理个笔记才行",
             "sourceName": "vo_card_sucrose_freetalk_01.wem"
         },
+        "7a7562a130954149": {
+            "hash": "7a7562a130954149",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_09.wem"
+        },
         "7bff7e612cccce44": {
             "hash": "7bff7e612cccce44",
             "directory": "External15",
@@ -673,7 +746,7 @@
             "hash": "7c4d56ccdc1998eb",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_01.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_01.wem"
         },
         "7cb9a911a543968e": {
             "hash": "7cb9a911a543968e",
@@ -703,7 +776,7 @@
             "hash": "7f4374f4c7c09256",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_04.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_04.wem"
         },
         "8086757f2685d398": {
             "hash": "8086757f2685d398",
@@ -735,6 +808,12 @@
             "voiceContent": "不痛不痛，不痛的",
             "sourceName": "vo_sucrose_life_less30_03.wem"
         },
+        "8aa126c1bcc2af3c": {
+            "hash": "8aa126c1bcc2af3c",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_10.wem"
+        },
         "8ab5e69b2a8f4c12": {
             "hash": "8ab5e69b2a8f4c12",
             "directory": "External17",
@@ -745,7 +824,7 @@
             "hash": "8ccbd65adf5be9de",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackmid_02.wem"
+            "sourceName": "vo_sucrose_battle_attackMid_02.wem"
         },
         "8e1275b0f77d2452": {
             "hash": "8e1275b0f77d2452",
@@ -787,13 +866,19 @@
             "hash": "972da10384db9ec7",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackheavy_02.wem"
+            "sourceName": "vo_sucrose_battle_attackHeavy_02.wem"
         },
         "97782df73830778d": {
             "hash": "97782df73830778d",
             "directory": "External18",
             "voiceContent": "还是无法解决这类突发情况啊",
             "sourceName": "vo_card_sucrose_invite_easy_03.wem"
+        },
+        "993fb2c6185d5cc1": {
+            "hash": "993fb2c6185d5cc1",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_12.wem"
         },
         "9d0c415c5a739d5c": {
             "hash": "9d0c415c5a739d5c",
@@ -807,6 +892,12 @@
             "voiceContent": "能够接受的损失",
             "sourceName": "vo_card_sucrose_inGame_easy_02.wem"
         },
+        "a37ea09b6355aa1d": {
+            "hash": "a37ea09b6355aa1d",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_02.wem"
+        },
         "a68c6823705c2786": {
             "hash": "a68c6823705c2786",
             "directory": "External20",
@@ -817,7 +908,7 @@
             "hash": "abc115075a873bde",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_06.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_06.wem"
         },
         "ac6ceb8d3a12bed3": {
             "hash": "ac6ceb8d3a12bed3",
@@ -853,7 +944,7 @@
             "hash": "b051491907ecdc80",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_04.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_04.wem"
         },
         "b07e6d0dca8c1f9c": {
             "hash": "b07e6d0dca8c1f9c",
@@ -861,17 +952,17 @@
             "voiceContent": "对不起。我对这道菜，还是有点",
             "sourceName": "vo_sucrose_spice_dislike_01.wem"
         },
+        "b2a94c69ea93bcfb": {
+            "hash": "b2a94c69ea93bcfb",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_sucrose_02.wem"
+        },
         "b2cea3e9de76ec0e": {
             "hash": "b2cea3e9de76ec0e",
             "directory": "External22",
             "voiceContent": "这次旅行，我又收集到了很多研究材料，谢谢你，我会好好利用的",
             "sourceName": "vo_sucrose_starUp_02.wem"
-        },
-        "b334dea73bd7e0b5": {
-            "hash": "b334dea73bd7e0b5",
-            "directory": "External22",
-            "voiceContent": "对不起。我对这道菜，还是有点",
-            "sourceName": "vo_sucrose_spice_event_dislike_01.wem"
         },
         "b4a3ee249cf3ff0c": {
             "hash": "b4a3ee249cf3ff0c",
@@ -885,11 +976,23 @@
             "voiceContent": "「神之眼」，是我最重要的实验器材。欸？就、就是实验器材啊，没有了「神之眼」，很多跟元素相关的实验，就没办法进行了。你说战斗？啊…偶尔吧，去野外找材料的时候，偶尔会用到",
             "sourceName": "vo_sucrose_dialog_pendant_01.wem"
         },
+        "bae7d4adabbe8877": {
+            "hash": "bae7d4adabbe8877",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_04.wem"
+        },
         "bc81da482383bef4": {
             "hash": "bc81da482383bef4",
             "directory": "External23",
             "voiceContent": "不用等我，先去休息吧。唔…有这么不放心吗？实验已经在收尾了，不会熬夜的，真的",
             "sourceName": "vo_sucrose_dialog_greetingNight2.wem"
+        },
+        "bc8cd8caf2df482c": {
+            "hash": "bc8cd8caf2df482c",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_04.wem"
         },
         "bdbe7c35b8958ca8": {
             "hash": "bdbe7c35b8958ca8",
@@ -933,6 +1036,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_sucrose_explore_climb_breath_01.wem"
         },
+        "cca5c8a838830a88": {
+            "hash": "cca5c8a838830a88",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_08.wem"
+        },
         "ce70075f616343ec": {
             "hash": "ce70075f616343ec",
             "directory": "External25",
@@ -943,13 +1052,31 @@
             "hash": "cf70c8e58e5a5474",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_02.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_02.wem"
+        },
+        "d1425250cf3aba92": {
+            "hash": "d1425250cf3aba92",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_09.wem"
+        },
+        "d16bd4b9e615f7fa": {
+            "hash": "d16bd4b9e615f7fa",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_06.wem"
         },
         "da64bb48ef830642": {
             "hash": "da64bb48ef830642",
             "directory": "External27",
             "voiceContent": "我喜欢看起来很规则的东西，你看，书架上每一本实验记录，厚度都是一样的，实验台上的几百瓶药水，都是按功效与颜色分别排好…欸？…欸欸？！为什么这瓶紫色的药水会出现在这里！我、我要全部整理一遍",
             "sourceName": "vo_sucrose_pref_hobby.wem"
+        },
+        "dd227e816448ee04": {
+            "hash": "dd227e816448ee04",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_sucrose_01.wem"
         },
         "ddc907d9b557c246": {
             "hash": "ddc907d9b557c246",
@@ -975,6 +1102,12 @@
             "voiceContent": "游击骑士的工作很危险，优菈小姐的行动又格外大胆，所以我给她制作了一个侦察装置，这样她就不用潜入敌人的营地了。但优菈小姐的气势太吓人，我有点怕她，告诉她使用方法的时候，不小心漏掉了几条注意事项，结果真的发生了意外…怎么办？我会不会被她记仇了",
             "sourceName": "vo_sucrose_teammate_eula_01.wem"
         },
+        "e595e6c5259f5f90": {
+            "hash": "e595e6c5259f5f90",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_07.wem"
+        },
         "e60bde47f4f3c720": {
             "hash": "e60bde47f4f3c720",
             "directory": "External28",
@@ -997,13 +1130,19 @@
             "hash": "ea6de46310d3fe81",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackmid_01.wem"
+            "sourceName": "vo_sucrose_battle_attackMid_01.wem"
         },
         "ec879c66c4bcd644": {
             "hash": "ec879c66c4bcd644",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_04.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_04.wem"
+        },
+        "ecd346b6e1dab427": {
+            "hash": "ecd346b6e1dab427",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_10.wem"
         },
         "ed8f1ff352289516": {
             "hash": "ed8f1ff352289516",
@@ -1021,13 +1160,31 @@
             "hash": "edee331c3a2efc60",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackheavy_01.wem"
+            "sourceName": "vo_sucrose_battle_attackHeavy_01.wem"
+        },
+        "ee1ca6d1e8e544d7": {
+            "hash": "ee1ca6d1e8e544d7",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_03.wem"
+        },
+        "ef4692e3936742f1": {
+            "hash": "ef4692e3936742f1",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_01.wem"
+        },
+        "ef7c0da9181f5faa": {
+            "hash": "ef7c0da9181f5faa",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_sucrose_01.wem"
         },
         "ef87a2fd940cd7b9": {
             "hash": "ef87a2fd940cd7b9",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_07.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_07.wem"
         },
         "f2ffa33aca2a7d5c": {
             "hash": "f2ffa33aca2a7d5c",
@@ -1053,11 +1210,23 @@
             "voiceContent": "生日快乐！我做了好几个月的实验，终于，可以把这个药水送给你了。它能唤醒你这一年来最美好的回忆，名字叫做「生物秘药叁玖壹陆号」…唔，不是「叁壹玖陆号」，是「叁玖壹陆号」啦",
             "sourceName": "vo_sucrose_pref_birthday.wem"
         },
+        "f98540b8de5f23cd": {
+            "hash": "f98540b8de5f23cd",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_11.wem"
+        },
         "fc6ba6493a54effb": {
             "hash": "fc6ba6493a54effb",
             "directory": "External31",
             "voiceContent": "听说，是你赶走了风魔龙？战斗一定特别危险吧，幸好你没事。那个…有件小事，风魔龙它在战斗的时候，有没有，掉下来什么东西呢？鳞也好，皮也好，一点点就可以，我想，研究一下",
             "sourceName": "vo_sucrose_dialog_close2.wem"
+        },
+        "fcec6694277ec813": {
+            "hash": "fcec6694277ec813",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_14.wem"
         },
         "fdf3b858e99bf7d5": {
             "hash": "fdf3b858e99bf7d5",

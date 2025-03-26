@@ -380,7 +380,7 @@
             "hash": "03c11b9dc5bf4e61",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackmid_03.wem"
+            "sourceName": "vo_kaeya_battle_attackMid_03.wem"
         },
         "06187fd637e8a03c": {
             "hash": "06187fd637e8a03c",
@@ -398,7 +398,13 @@
             "hash": "0eff1392b13673fa",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_04.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_04.wem"
+        },
+        "0f37a995e1c9392c": {
+            "hash": "0f37a995e1c9392c",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_08.wem"
         },
         "119d27b320305722": {
             "hash": "119d27b320305722",
@@ -428,7 +434,7 @@
             "hash": "1437329713b9f145",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_01.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_01.wem"
         },
         "156f563a765d1b81": {
             "hash": "156f563a765d1b81",
@@ -446,7 +452,7 @@
             "hash": "189106a8c0f15fbf",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_07.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_07.wem"
         },
         "19034ccb85cbfff4": {
             "hash": "19034ccb85cbfff4",
@@ -484,17 +490,17 @@
             "voiceContent": "品酒也是一种艺术，蒙德的酒是风神的恩赐，懂得好好品味才不会浪费了这份幸运",
             "sourceName": "vo_kaeya_pref_hobby.wem"
         },
+        "1f509973276cfb88": {
+            "hash": "1f509973276cfb88",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_04.wem"
+        },
         "2080bf79e696fd93": {
             "hash": "2080bf79e696fd93",
             "directory": "External4",
             "voiceContent": "蒙德特酿的起泡白葡萄酒，兑上三份蒲公英酒，苦味会被完美中和，这种酒名叫「午后之死」。美味",
             "sourceName": "vo_kaeya_pref_foodLike.wem"
-        },
-        "20f1f7a49f7e9162": {
-            "hash": "20f1f7a49f7e9162",
-            "directory": "External4",
-            "voiceContent": "配上美酒，会变得更美味吧",
-            "sourceName": "vo_kaeya_spice_event_normal_01.wem"
         },
         "22974e6a210f0471": {
             "hash": "22974e6a210f0471",
@@ -512,13 +518,13 @@
             "hash": "2bafe5aab405c0d7",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_01.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_01.wem"
         },
         "2cd9d1bc5e87bef1": {
             "hash": "2cd9d1bc5e87bef1",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_03.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_03.wem"
         },
         "2fad675e3650565b": {
             "hash": "2fad675e3650565b",
@@ -531,6 +537,12 @@
             "directory": "External6",
             "voiceContent": "丽莎啊…你千万记得要准时还书哦？上次因为这事儿惹她生了气，直到现在我左手的尺骨还是麻麻的",
             "sourceName": "vo_kaeya_teammate_lisa_01.wem"
+        },
+        "3139e73a2efd6fbb": {
+            "hash": "3139e73a2efd6fbb",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_03.wem"
         },
         "343c536fe3b3ca75": {
             "hash": "343c536fe3b3ca75",
@@ -554,7 +566,7 @@
             "hash": "372315aaa5c72184",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackheavy_03.wem"
+            "sourceName": "vo_kaeya_battle_attackHeavy_03.wem"
         },
         "3782e7b4f800d6bf": {
             "hash": "3782e7b4f800d6bf",
@@ -584,7 +596,7 @@
             "hash": "3d7f353e14bf1127",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_h_05.wem"
+            "sourceName": "vo_kaeya_battle_hit_H_05.wem"
         },
         "4064fe8d1583160a": {
             "hash": "4064fe8d1583160a",
@@ -650,7 +662,7 @@
             "hash": "4ec2412d04e5230d",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_h_03.wem"
+            "sourceName": "vo_kaeya_battle_hit_H_03.wem"
         },
         "519269b4c9c7063c": {
             "hash": "519269b4c9c7063c",
@@ -668,13 +680,13 @@
             "hash": "55e278c0d5a887b8",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_04.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_04.wem"
         },
         "55f1c1a4cdad84e0": {
             "hash": "55f1c1a4cdad84e0",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackmid_02.wem"
+            "sourceName": "vo_kaeya_battle_attackMid_02.wem"
         },
         "571e64da3b679a0e": {
             "hash": "571e64da3b679a0e",
@@ -706,6 +718,12 @@
             "voiceContent": "打牌嘛，就要出其不意",
             "sourceName": "vo_card_kaeya_inGame_hard_04.wem"
         },
+        "5cdc05635332ece6": {
+            "hash": "5cdc05635332ece6",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_06.wem"
+        },
         "5d883b111bd0f018": {
             "hash": "5d883b111bd0f018",
             "directory": "External11",
@@ -730,12 +748,6 @@
             "voiceContent": "什么？你说菲谢尔遮起一只眼睛的神秘样子，的确很符合「断罪皇女」的形象？哈哈哈，按照这个规律，我至少也得是个末代皇族后裔，对吧",
             "sourceName": "vo_kaeya_teammate_fischl_01.wem"
         },
-        "5fda3dd109beeb6e": {
-            "hash": "5fda3dd109beeb6e",
-            "directory": "External11",
-            "voiceContent": "放心，我只是吃得慢了一点，我会好好吃完的",
-            "sourceName": "vo_kaeya_spice_event_dislike_01.wem"
-        },
         "602b7b73a63bffa4": {
             "hash": "602b7b73a63bffa4",
             "directory": "External12",
@@ -758,19 +770,19 @@
             "hash": "64744589323711c3",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_05.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_05.wem"
         },
         "67cb8687dd388f6b": {
             "hash": "67cb8687dd388f6b",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_03.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_03.wem"
         },
         "6ac1a4afc8df88d6": {
             "hash": "6ac1a4afc8df88d6",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_06.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_06.wem"
         },
         "6d4312eaec78654a": {
             "hash": "6d4312eaec78654a",
@@ -789,12 +801,6 @@
             "directory": "External13",
             "voiceContent": "哦？既然这么在意我们之间的雇佣关系，就多使唤我一点吧，老大？哼哼，可别被我的真正实力吓到哦",
             "sourceName": "vo_kaeya_dialog_close2.wem"
-        },
-        "6f8aff8084858688": {
-            "hash": "6f8aff8084858688",
-            "directory": "External13",
-            "voiceContent": "哦！这味道好棒，看不出来，你真有两下子啊",
-            "sourceName": "vo_kaeya_spice_event_pref_01.wem"
         },
         "706cadbbac1fedd3": {
             "hash": "706cadbbac1fedd3",
@@ -844,11 +850,29 @@
             "voiceContent": "你好像一直都很照顾我嘛。谢啦",
             "sourceName": "vo_kaeya_starUp_02.wem"
         },
+        "7c3932a4a4627bd3": {
+            "hash": "7c3932a4a4627bd3",
+            "directory": "External15",
+            "voiceContent": "",
+            "sourceName": "vo_kaeya_suit_dancer_03.wem"
+        },
+        "7e1bc38d0365adfd": {
+            "hash": "7e1bc38d0365adfd",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_09.wem"
+        },
         "7f32b0848b961999": {
             "hash": "7f32b0848b961999",
             "directory": "External15",
             "voiceContent": "值得庆贺的日子，祝你今天能得到真正的快乐",
             "sourceName": "vo_kaeya_pref_birthday.wem"
+        },
+        "80c91eb651c7a2cd": {
+            "hash": "80c91eb651c7a2cd",
+            "directory": "External16",
+            "voiceContent": "",
+            "sourceName": "vo_kaeya_suit_dancer_01.wem"
         },
         "81172902139e2c23": {
             "hash": "81172902139e2c23",
@@ -884,7 +908,7 @@
             "hash": "8ab6719b6f441a32",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackheavy_01.wem"
+            "sourceName": "vo_kaeya_battle_attackHeavy_01.wem"
         },
         "8e8391149cac6c01": {
             "hash": "8e8391149cac6c01",
@@ -896,7 +920,7 @@
             "hash": "8fb093451cae801e",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_h_04.wem"
+            "sourceName": "vo_kaeya_battle_hit_H_04.wem"
         },
         "909cb7d711f8f158": {
             "hash": "909cb7d711f8f158",
@@ -908,7 +932,7 @@
             "hash": "90d9c756c72f45c0",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_h_06.wem"
+            "sourceName": "vo_kaeya_battle_hit_H_06.wem"
         },
         "91eecbf39c0397f0": {
             "hash": "91eecbf39c0397f0",
@@ -956,7 +980,13 @@
             "hash": "ab1c77c4a1e7a170",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_02.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_02.wem"
+        },
+        "abe075426f4c7172": {
+            "hash": "abe075426f4c7172",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_02.wem"
         },
         "ad77991c3a18d170": {
             "hash": "ad77991c3a18d170",
@@ -1004,7 +1034,7 @@
             "hash": "b9c6148ee4f90d22",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_02.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_02.wem"
         },
         "bbe6979a3dfe53d3": {
             "hash": "bbe6979a3dfe53d3",
@@ -1028,7 +1058,7 @@
             "hash": "bc7c4fa26577c115",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackheavy_02.wem"
+            "sourceName": "vo_kaeya_battle_attackHeavy_02.wem"
         },
         "c5513084d4d6d613": {
             "hash": "c5513084d4d6d613",
@@ -1054,6 +1084,12 @@
             "voiceContent": "呼…趁着这雪天，跟你讲一个鬼故事吧",
             "sourceName": "vo_kaeya_weather_snowy_01.wem"
         },
+        "cd20336c1f7f3249": {
+            "hash": "cd20336c1f7f3249",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_05.wem"
+        },
         "d6578c1b3b71c666": {
             "hash": "d6578c1b3b71c666",
             "directory": "External26",
@@ -1076,13 +1112,19 @@
             "hash": "db05d2b8952bce39",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attacklight_05.wem"
+            "sourceName": "vo_kaeya_battle_attackLight_05.wem"
         },
         "db588c123e834bf3": {
             "hash": "db588c123e834bf3",
             "directory": "External27",
             "voiceContent": "小心着凉",
             "sourceName": "vo_kaeya_battle_skill3_01.wem"
+        },
+        "dda6534965801855": {
+            "hash": "dda6534965801855",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_01.wem"
         },
         "de309c465918b8b6": {
             "hash": "de309c465918b8b6",
@@ -1095,6 +1137,12 @@
             "directory": "External27",
             "voiceContent": "本来只是同行，没想到你居然为我做到这一步…看来我也必须好好回应你才行呢。继续我们的旅程吧，挚友，是时候认真起来了",
             "sourceName": "vo_kaeya_starUp_04.wem"
+        },
+        "de99675b0fd317cf": {
+            "hash": "de99675b0fd317cf",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_07.wem"
         },
         "e2538cf78808885d": {
             "hash": "e2538cf78808885d",
@@ -1160,7 +1208,13 @@
             "hash": "fa2017a3bdffc42c",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_hit_l_06.wem"
+            "sourceName": "vo_kaeya_battle_hit_L_06.wem"
+        },
+        "fab200ace7f031ca": {
+            "hash": "fab200ace7f031ca",
+            "directory": "External31",
+            "voiceContent": "",
+            "sourceName": "vo_kaeya_suit_dancer_02.wem"
         },
         "fae6f510cc791197": {
             "hash": "fae6f510cc791197",
@@ -1190,7 +1244,7 @@
             "hash": "ff312f8c185a2747",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaeya_battle_attackmid_01.wem"
+            "sourceName": "vo_kaeya_battle_attackMid_01.wem"
         },
         "ff3ffd82e5603589": {
             "hash": "ff3ffd82e5603589",
@@ -1203,24 +1257,6 @@
             "directory": "External31",
             "voiceContent": "力量又增强了啊…我说，你那是什么眼神，怎么感觉比我还兴奋",
             "sourceName": "vo_kaeya_starUp_03.wem"
-        },
-        "7c3932a4a4627bd3": {
-            "hash": "7c3932a4a4627bd3",
-            "directory": "External15",
-            "voiceContent": "",
-            "sourceName": "vo_kaeya_suit_dancer_03.wem"
-        },
-        "80c91eb651c7a2cd": {
-            "hash": "80c91eb651c7a2cd",
-            "directory": "External16",
-            "voiceContent": "",
-            "sourceName": "vo_kaeya_suit_dancer_01.wem"
-        },
-        "fab200ace7f031ca": {
-            "hash": "fab200ace7f031ca",
-            "directory": "External31",
-            "voiceContent": "",
-            "sourceName": "vo_kaeya_suit_dancer_02.wem"
         }
     }
 }

@@ -271,19 +271,31 @@
             "hash": "0077d7deaf74fd38",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_04.wem"
+            "sourceName": "vo_razor_battle_hit_L_04.wem"
         },
         "0166a6ba60301c17": {
             "hash": "0166a6ba60301c17",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_05.wem"
+            "sourceName": "vo_razor_battle_attackLight_05.wem"
         },
         "052c3f4daf5bdbe8": {
             "hash": "052c3f4daf5bdbe8",
             "directory": "External0",
             "voiceContent": "牌，拿走",
             "sourceName": "vo_card_razor_inGame_hard_01.wem"
+        },
+        "077c8fd4cf33fa54": {
+            "hash": "077c8fd4cf33fa54",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_01.wem"
+        },
+        "08a5bbe679b4b1b6": {
+            "hash": "08a5bbe679b4b1b6",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_07.wem"
         },
         "0a59403f85abcd0e": {
             "hash": "0a59403f85abcd0e",
@@ -319,7 +331,7 @@
             "hash": "1260e5a5b70504eb",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_03.wem"
+            "sourceName": "vo_razor_battle_hit_L_03.wem"
         },
         "1483ef9f8bb3004e": {
             "hash": "1483ef9f8bb3004e",
@@ -331,13 +343,19 @@
             "hash": "155703cda2abfe56",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_06.wem"
+            "sourceName": "vo_razor_battle_hit_L_06.wem"
         },
         "1c2e3b9a34259b26": {
             "hash": "1c2e3b9a34259b26",
             "directory": "External3",
             "voiceContent": "迪卢克，红红的、黑黑的。又冷又热",
             "sourceName": "vo_razor_teammate_diluc_01.wem"
+        },
+        "1c6b719ab6295f1d": {
+            "hash": "1c6b719ab6295f1d",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_01.wem"
         },
         "1c7928079326b9df": {
             "hash": "1c7928079326b9df",
@@ -369,6 +387,12 @@
             "voiceContent": "师父的雷，天空会变黑。很可怕，很强",
             "sourceName": "vo_razor_teammate_lisa_01.wem"
         },
+        "29e63a1029e8b94d": {
+            "hash": "29e63a1029e8b94d",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_08.wem"
+        },
         "2c91c246fee7a102": {
             "hash": "2c91c246fee7a102",
             "directory": "External5",
@@ -385,7 +409,7 @@
             "hash": "2f43b2d825e87b08",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackheavy_01.wem"
+            "sourceName": "vo_razor_battle_attackHeavy_01.wem"
         },
         "30a433eb6f5e42b2": {
             "hash": "30a433eb6f5e42b2",
@@ -398,6 +422,18 @@
             "directory": "External6",
             "voiceContent": "疼",
             "sourceName": "vo_razor_life_less30_01.wem"
+        },
+        "33d4a5acfe923d77": {
+            "hash": "33d4a5acfe923d77",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_07.wem"
+        },
+        "36001c02bc2f3b26": {
+            "hash": "36001c02bc2f3b26",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_10.wem"
         },
         "39973ac44c848c99": {
             "hash": "39973ac44c848c99",
@@ -433,7 +469,7 @@
             "hash": "3d920698e1464903",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_01.wem"
+            "sourceName": "vo_razor_battle_attackLight_01.wem"
         },
         "3d94bafc9e45639b": {
             "hash": "3d94bafc9e45639b",
@@ -445,13 +481,19 @@
             "hash": "3ebbf2aa8bc8473d",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_03.wem"
+            "sourceName": "vo_razor_battle_attackLight_03.wem"
         },
         "3f9615abe53d5493": {
             "hash": "3f9615abe53d5493",
             "directory": "External7",
             "voiceContent": "我是狼。人的爸爸、妈妈，没有",
             "sourceName": "vo_razor_dialog_idle.wem"
+        },
+        "42a4656f3d2bc0b3": {
+            "hash": "42a4656f3d2bc0b3",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_10.wem"
         },
         "42e1bd6022e296f9": {
             "hash": "42e1bd6022e296f9",
@@ -471,6 +513,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_razor_explore_jump_02.wem"
         },
+        "4ebf4761cf73f664": {
+            "hash": "4ebf4761cf73f664",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_08.wem"
+        },
         "5071f40aaa722e2c": {
             "hash": "5071f40aaa722e2c",
             "directory": "External10",
@@ -483,6 +531,12 @@
             "voiceContent": "可莉，朋友！朋友，但是，头疼",
             "sourceName": "vo_razor_teammate_klee_01.wem"
         },
+        "57aa2bc595ce3602": {
+            "hash": "57aa2bc595ce3602",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_03.wem"
+        },
         "598788672270d86f": {
             "hash": "598788672270d86f",
             "directory": "External11",
@@ -494,6 +548,12 @@
             "directory": "External11",
             "voiceContent": "你，输了，别不开心",
             "sourceName": "vo_card_razor_invite_hard_02.wem"
+        },
+        "5e82b7c478731490": {
+            "hash": "5e82b7c478731490",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_04.wem"
         },
         "5fb672b3e50c7133": {
             "hash": "5fb672b3e50c7133",
@@ -513,6 +573,12 @@
             "voiceContent": "别过来",
             "sourceName": "vo_razor_battle_skill1_06.wem"
         },
+        "61b79ddcfdc7331f": {
+            "hash": "61b79ddcfdc7331f",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_06.wem"
+        },
         "61e75292a4400b30": {
             "hash": "61e75292a4400b30",
             "directory": "External12",
@@ -529,13 +595,13 @@
             "hash": "645b73acbec582a2",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_02.wem"
+            "sourceName": "vo_razor_battle_hit_L_02.wem"
         },
         "646c4b3e2d4d6be9": {
             "hash": "646c4b3e2d4d6be9",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackmid_01.wem"
+            "sourceName": "vo_razor_battle_attackMid_01.wem"
         },
         "64b18390524d2eac": {
             "hash": "64b18390524d2eac",
@@ -559,7 +625,7 @@
             "hash": "66f83053f7e1998a",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_h_06.wem"
+            "sourceName": "vo_razor_battle_hit_H_06.wem"
         },
         "674732998712aa1b": {
             "hash": "674732998712aa1b",
@@ -567,11 +633,11 @@
             "voiceContent": "今天是你的…你是在很多很多个月以前的，今天出生的。想和你一起开心。今天一起吃肉",
             "sourceName": "vo_razor_pref_birthday.wem"
         },
-        "67f0e51304bbf963": {
-            "hash": "67f0e51304bbf963",
-            "directory": "External12",
-            "voiceContent": "吃，不好。不吃，不好。有些难过",
-            "sourceName": "vo_razor_spice_event_dislike_01.wem"
+        "6c99058b7cc38e63": {
+            "hash": "6c99058b7cc38e63",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_03.wem"
         },
         "6cc4fb7fcd2af2d3": {
             "hash": "6cc4fb7fcd2af2d3",
@@ -583,7 +649,7 @@
             "hash": "6ccf1ec851ae6c66",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackheavy_03.wem"
+            "sourceName": "vo_razor_battle_attackHeavy_03.wem"
         },
         "6e178ce2cfb091dd": {
             "hash": "6e178ce2cfb091dd",
@@ -613,7 +679,7 @@
             "hash": "75e57f2d1da1516f",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackmid_03.wem"
+            "sourceName": "vo_razor_battle_attackMid_03.wem"
         },
         "763bee5f4d1c06b4": {
             "hash": "763bee5f4d1c06b4",
@@ -626,6 +692,12 @@
             "directory": "External14",
             "voiceContent": "喜欢卢皮卡。喜欢树林。喜欢朋友。喜欢奔跑",
             "sourceName": "vo_razor_pref_hobby.wem"
+        },
+        "78e9e9ef4600f719": {
+            "hash": "78e9e9ef4600f719",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_04.wem"
         },
         "7951d9ccd05558ea": {
             "hash": "7951d9ccd05558ea",
@@ -649,19 +721,31 @@
             "hash": "7fa944c2a38ff10e",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_04.wem"
+            "sourceName": "vo_razor_battle_attackLight_04.wem"
+        },
+        "802cb7875211f49c": {
+            "hash": "802cb7875211f49c",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_13.wem"
         },
         "80d338d44e11fcb0": {
             "hash": "80d338d44e11fcb0",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_06.wem"
+            "sourceName": "vo_razor_battle_attackLight_06.wem"
         },
         "8190346642fe0cfc": {
             "hash": "8190346642fe0cfc",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_h_04.wem"
+            "sourceName": "vo_razor_battle_hit_H_04.wem"
+        },
+        "84bca398ff771bbe": {
+            "hash": "84bca398ff771bbe",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_15.wem"
         },
         "84d8c57a284ad5a3": {
             "hash": "84d8c57a284ad5a3",
@@ -673,7 +757,7 @@
             "hash": "859b31d66ef843b9",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_05.wem"
+            "sourceName": "vo_razor_battle_hit_L_05.wem"
         },
         "85d9b43d8327cdcb": {
             "hash": "85d9b43d8327cdcb",
@@ -685,7 +769,7 @@
             "hash": "8837ae7da813ee41",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_h_01.wem"
+            "sourceName": "vo_razor_battle_hit_H_01.wem"
         },
         "8879040234b995bc": {
             "hash": "8879040234b995bc",
@@ -711,6 +795,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_razor_explore_sprint_start_03.wem"
         },
+        "8e5427af4528b185": {
+            "hash": "8e5427af4528b185",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "sfx_standbyShow_vo_razor_02.wem"
+        },
         "8f3bcdd1118c046f": {
             "hash": "8f3bcdd1118c046f",
             "directory": "External17",
@@ -722,12 +812,6 @@
             "directory": "External18",
             "voiceContent": "SFX",
             "sourceName": "vo_razor_explore_fly_start_02.wem"
-        },
-        "94dc0561f29c3bdb": {
-            "hash": "94dc0561f29c3bdb",
-            "directory": "External18",
-            "voiceContent": "气味很香，味道一样好。喜欢",
-            "sourceName": "vo_razor_spice_event_pref_01.wem"
         },
         "9641519748532b57": {
             "hash": "9641519748532b57",
@@ -771,12 +855,6 @@
             "voiceContent": "法尔伽？不认识",
             "sourceName": "vo_razor_teammate_varka_01.wem"
         },
-        "a4580dc846ace955": {
-            "hash": "a4580dc846ace955",
-            "directory": "External20",
-            "voiceContent": "吃了有力气，很开心",
-            "sourceName": "vo_razor_spice_event_normal_01.wem"
-        },
         "a7d5f1da35eb299f": {
             "hash": "a7d5f1da35eb299f",
             "directory": "External20",
@@ -795,11 +873,35 @@
             "voiceContent": "活下来",
             "sourceName": "vo_razor_life_less30_teammate_02.wem"
         },
+        "aeb143b53f0ee96e": {
+            "hash": "aeb143b53f0ee96e",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_06.wem"
+        },
+        "b0f21dbc1a0e62cb": {
+            "hash": "b0f21dbc1a0e62cb",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_02.wem"
+        },
         "b297a5e32c2c18fb": {
             "hash": "b297a5e32c2c18fb",
             "directory": "External22",
             "voiceContent": "SFX",
             "sourceName": "vo_razor_explore_idle_02.wem"
+        },
+        "b7bd7dfa78cf660f": {
+            "hash": "b7bd7dfa78cf660f",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_11.wem"
+        },
+        "bb022019084c44bc": {
+            "hash": "bb022019084c44bc",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_09.wem"
         },
         "bba14904e1778e52": {
             "hash": "bba14904e1778e52",
@@ -813,11 +915,23 @@
             "voiceContent": "这些东西，可能有用",
             "sourceName": "vo_razor_chest_open_01.wem"
         },
+        "bdb733777dd64daa": {
+            "hash": "bdb733777dd64daa",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_11.wem"
+        },
         "becc91b4ed8666c5": {
             "hash": "becc91b4ed8666c5",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_01.wem"
+            "sourceName": "vo_razor_battle_hit_L_01.wem"
+        },
+        "bf00539284e0711a": {
+            "hash": "bf00539284e0711a",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_02.wem"
         },
         "bf083dec7e24ed99": {
             "hash": "bf083dec7e24ed99",
@@ -873,6 +987,12 @@
             "voiceContent": "哦…法尔伽，是名字。那个男人，高大。雷泽名字，铁的爪子，他给的。唔…想见他",
             "sourceName": "vo_razor_teammate_varka_02.wem"
         },
+        "d0b281598c416cf5": {
+            "hash": "d0b281598c416cf5",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_09.wem"
+        },
         "d288dbd439ea2d20": {
             "hash": "d288dbd439ea2d20",
             "directory": "External26",
@@ -889,7 +1009,7 @@
             "hash": "d33dd8b36d0efc6c",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_02.wem"
+            "sourceName": "vo_razor_battle_attackLight_02.wem"
         },
         "d3959d8773e9a37d": {
             "hash": "d3959d8773e9a37d",
@@ -921,11 +1041,17 @@
             "voiceContent": "不行",
             "sourceName": "vo_razor_life_less30_teammate_01.wem"
         },
+        "da67c58f80a52e47": {
+            "hash": "da67c58f80a52e47",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_14.wem"
+        },
         "dbcb426e719145a7": {
             "hash": "dbcb426e719145a7",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_h_03.wem"
+            "sourceName": "vo_razor_battle_hit_H_03.wem"
         },
         "dd10d7faa5e14a04": {
             "hash": "dd10d7faa5e14a04",
@@ -944,6 +1070,12 @@
             "directory": "External27",
             "voiceContent": "「神之眼」，师父帮忙。雷的牙打架，保护「卢皮卡」",
             "sourceName": "vo_razor_dialog_pendant.wem"
+        },
+        "e04011bc35133211": {
+            "hash": "e04011bc35133211",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_05.wem"
         },
         "e07bcf273f1fcbfa": {
             "hash": "e07bcf273f1fcbfa",
@@ -997,13 +1129,19 @@
             "hash": "ed0e4e5d61b7578d",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_h_05.wem"
+            "sourceName": "vo_razor_battle_hit_H_05.wem"
         },
         "ee8c80c00e4e974f": {
             "hash": "ee8c80c00e4e974f",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackheavy_02.wem"
+            "sourceName": "vo_razor_battle_attackHeavy_02.wem"
+        },
+        "ef10d17e73ae692d": {
+            "hash": "ef10d17e73ae692d",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_12.wem"
         },
         "f0d567ad8e1eaa3a": {
             "hash": "f0d567ad8e1eaa3a",
@@ -1027,13 +1165,25 @@
             "hash": "f4281d3561012586",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackmid_02.wem"
+            "sourceName": "vo_razor_battle_attackMid_02.wem"
         },
         "f67867f752be793a": {
             "hash": "f67867f752be793a",
             "directory": "External30",
             "voiceContent": "气味很香，味道一样好。喜欢",
             "sourceName": "vo_razor_spice_pref_01.wem"
+        },
+        "f72c8ff78960d998": {
+            "hash": "f72c8ff78960d998",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_05.wem"
+        },
+        "f875b012906afdc8": {
+            "hash": "f875b012906afdc8",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_12.wem"
         }
     }
 }

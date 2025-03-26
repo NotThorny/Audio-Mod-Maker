@@ -694,11 +694,17 @@
         }
     },
     "Gameplay": {
+        "027fc02c9b1f9b10": {
+            "hash": "027fc02c9b1f9b10",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_06.wem"
+        },
         "02e7ae7413d85773": {
             "hash": "02e7ae7413d85773",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_01.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_01.wem"
         },
         "09cc1990c7c6b990": {
             "hash": "09cc1990c7c6b990",
@@ -718,11 +724,23 @@
             "voiceContent": "别客气，你收着就行",
             "sourceName": "vo_yunjin_chest_open_03.wem"
         },
+        "10960df39f7014e3": {
+            "hash": "10960df39f7014e3",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_01.wem"
+        },
         "11cd65909a424bc2": {
             "hash": "11cd65909a424bc2",
             "directory": "External2",
             "voiceContent": "飞云旗",
             "sourceName": "vo_yunjin_battle_skill1_04.wem"
+        },
+        "15a457327d1d0fa7": {
+            "hash": "15a457327d1d0fa7",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_easy_01.wem"
         },
         "15c3176968d05051": {
             "hash": "15c3176968d05051",
@@ -754,6 +772,18 @@
             "voiceContent": "着",
             "sourceName": "vo_yunjin_battle_skill1_01.wem"
         },
+        "1ea9e9a433e62c85": {
+            "hash": "1ea9e9a433e62c85",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_14.wem"
+        },
+        "1f9cbdb5de38bfff": {
+            "hash": "1f9cbdb5de38bfff",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_12.wem"
+        },
         "204a50b9863540f4": {
             "hash": "204a50b9863540f4",
             "directory": "External4",
@@ -772,6 +802,12 @@
             "voiceContent": "唔，怎么如此狼狈",
             "sourceName": "vo_card_yunjin_inGame_hard_03.wem"
         },
+        "2974fcaadcfcc4ae": {
+            "hash": "2974fcaadcfcc4ae",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_hard_03.wem"
+        },
         "297c9aad7dbc4bfe": {
             "hash": "297c9aad7dbc4bfe",
             "directory": "External5",
@@ -789,6 +825,12 @@
             "directory": "External5",
             "voiceContent": "看着就很丰盛！稍等我去找些饮品来，配着饭菜一起享用吧",
             "sourceName": "vo_yunjin_spice_normal_01.wem"
+        },
+        "2d9dfdaf674df538": {
+            "hash": "2d9dfdaf674df538",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_endOfGame_win_01.wem"
         },
         "2f7509e59f600c83": {
             "hash": "2f7509e59f600c83",
@@ -842,7 +884,7 @@
             "hash": "3b5041b0954544d6",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackmid_02.wem"
+            "sourceName": "vo_yunjin_battle_attackMid_02.wem"
         },
         "3b8b2271e1f86403": {
             "hash": "3b8b2271e1f86403",
@@ -866,13 +908,13 @@
             "hash": "43d5008c2ba0015c",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_02.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_02.wem"
         },
         "44feec9dd621ff7e": {
             "hash": "44feec9dd621ff7e",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_04.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_04.wem"
         },
         "4686e1baee4edf21": {
             "hash": "4686e1baee4edf21",
@@ -920,13 +962,25 @@
             "hash": "4e49f3d69a7f2549",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_l_05.wem"
+            "sourceName": "vo_yunjin_battle_hit_L_05.wem"
         },
         "51ed7747e9e4ca5d": {
             "hash": "51ed7747e9e4ca5d",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_h_05.wem"
+            "sourceName": "vo_yunjin_battle_hit_H_05.wem"
+        },
+        "52ae4c1d61bb6fee": {
+            "hash": "52ae4c1d61bb6fee",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_04.wem"
+        },
+        "5405beebe66069e2": {
+            "hash": "5405beebe66069e2",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_yunjin_02.wem"
         },
         "587b53ff943c0d43": {
             "hash": "587b53ff943c0d43",
@@ -956,7 +1010,7 @@
             "hash": "5ed013b3e0800b55",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_l_01.wem"
+            "sourceName": "vo_yunjin_battle_hit_L_01.wem"
         },
         "5fcda28ff2d393ed": {
             "hash": "5fcda28ff2d393ed",
@@ -964,17 +1018,29 @@
             "voiceContent": "糟糕得很",
             "sourceName": "vo_card_yunjin_inGame_easy_03.wem"
         },
+        "60542fcdf5d310f8": {
+            "hash": "60542fcdf5d310f8",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_11.wem"
+        },
         "6567747064de5b8b": {
             "hash": "6567747064de5b8b",
             "directory": "External12",
             "voiceContent": "是旅行中用得上的物资吗",
             "sourceName": "vo_yunjin_chest_open_02.wem"
         },
+        "68fee94b2f8d4440": {
+            "hash": "68fee94b2f8d4440",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_easy_02.wem"
+        },
         "6956ab5a324da7b7": {
             "hash": "6956ab5a324da7b7",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_h_03.wem"
+            "sourceName": "vo_yunjin_battle_hit_H_03.wem"
         },
         "6a49b55ed434161a": {
             "hash": "6a49b55ed434161a",
@@ -1000,11 +1066,29 @@
             "voiceContent": "我们这行的规矩代代相传，讲究多得很。有些事我只知其然，却不知其所以然。但钟离先生讲起这些竟能如数家珍，有这样懂行的观众，谁不开心呢",
             "sourceName": "vo_yunjin_teammate_zhongli_01.wem"
         },
+        "6ed73d94fa7feeab": {
+            "hash": "6ed73d94fa7feeab",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_16.wem"
+        },
+        "6f9a8682ae85f1da": {
+            "hash": "6f9a8682ae85f1da",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_yunjin_01.wem"
+        },
         "6ff03f584fc88b13": {
             "hash": "6ff03f584fc88b13",
             "directory": "External13",
             "voiceContent": "哼，好戏在后面",
             "sourceName": "vo_yunjin_life_less30_03.wem"
+        },
+        "70209db0018a7f5b": {
+            "hash": "70209db0018a7f5b",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_09.wem"
         },
         "711a2b69fa4a890d": {
             "hash": "711a2b69fa4a890d",
@@ -1012,23 +1096,41 @@
             "voiceContent": "别把裙子弄坏了",
             "sourceName": "vo_yunjin_life_less30_01.wem"
         },
+        "71cd5bbce626e816": {
+            "hash": "71cd5bbce626e816",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_13.wem"
+        },
+        "71df7d1593b001f9": {
+            "hash": "71df7d1593b001f9",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_yunjin_05.wem"
+        },
+        "7af708a4f9926540": {
+            "hash": "7af708a4f9926540",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_leave_01.wem"
+        },
         "7d891ad0a286497e": {
             "hash": "7d891ad0a286497e",
             "directory": "External15",
             "voiceContent": "暖阳和煦，真是好风光呀",
             "sourceName": "vo_yunjin_weather_sunny_01.wem"
         },
-        "810c7a6cc7085e2e": {
-            "hash": "810c7a6cc7085e2e",
-            "directory": "External16",
-            "voiceContent": "看着就很丰盛！稍等我去找些饮品来，配着饭菜一起享用吧",
-            "sourceName": "vo_yunjin_spice_event_normal_01.wem"
-        },
         "817564ed358e3f98": {
             "hash": "817564ed358e3f98",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackheavy_01.wem"
+            "sourceName": "vo_yunjin_battle_attackHeavy_01.wem"
+        },
+        "843d1a2457bfb891": {
+            "hash": "843d1a2457bfb891",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_07.wem"
         },
         "8ab260be302911b4": {
             "hash": "8ab260be302911b4",
@@ -1064,7 +1166,7 @@
             "hash": "92ee90dc25e217b6",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackheavy_03.wem"
+            "sourceName": "vo_yunjin_battle_attackHeavy_03.wem"
         },
         "931dfe7d794b326e": {
             "hash": "931dfe7d794b326e",
@@ -1094,7 +1196,13 @@
             "hash": "9e110e945a34ed07",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_05.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_05.wem"
+        },
+        "9e1703c839f037a4": {
+            "hash": "9e1703c839f037a4",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_endOfGame_fail_01.wem"
         },
         "9ee9921f537b53cf": {
             "hash": "9ee9921f537b53cf",
@@ -1106,7 +1214,7 @@
             "hash": "9f39faa604b53821",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_07.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_07.wem"
         },
         "9f5f91bf346d92a2": {
             "hash": "9f5f91bf346d92a2",
@@ -1118,19 +1226,13 @@
             "hash": "a07a59dda26cee88",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_l_04.wem"
+            "sourceName": "vo_yunjin_battle_hit_L_04.wem"
         },
         "a08875d0deedd074": {
             "hash": "a08875d0deedd074",
             "directory": "External20",
             "voiceContent": "SFX",
             "sourceName": "vo_yunjin_explore_idle_01.wem"
-        },
-        "a10f67289c659b5a": {
-            "hash": "a10f67289c659b5a",
-            "directory": "External20",
-            "voiceContent": "不好意思…这道菜肴呀，我是吃不了多少的",
-            "sourceName": "vo_yunjin_spice_event_dislike_01.wem"
         },
         "a2924dac8551f0c1": {
             "hash": "a2924dac8551f0c1",
@@ -1162,11 +1264,17 @@
             "voiceContent": "沉心静气",
             "sourceName": "vo_card_yunjin_inGame_hard_02.wem"
         },
+        "ab325ea2999cefb7": {
+            "hash": "ab325ea2999cefb7",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_hard_02.wem"
+        },
         "ab946fb961918a39": {
             "hash": "ab946fb961918a39",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackmid_01.wem"
+            "sourceName": "vo_yunjin_battle_attackMid_01.wem"
         },
         "abd4a51e5300e888": {
             "hash": "abd4a51e5300e888",
@@ -1180,11 +1288,17 @@
             "voiceContent": "崩",
             "sourceName": "vo_yunjin_battle_skill1_02.wem"
         },
+        "ae77dcf415230005": {
+            "hash": "ae77dcf415230005",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_yunjin_01.wem"
+        },
         "af531a834a594ced": {
             "hash": "af531a834a594ced",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_03.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_03.wem"
         },
         "b0a13aa36f216b4a": {
             "hash": "b0a13aa36f216b4a",
@@ -1196,7 +1310,7 @@
             "hash": "b263a7a4a9fd62bb",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_l_03.wem"
+            "sourceName": "vo_yunjin_battle_hit_L_03.wem"
         },
         "b3623680bc529e73": {
             "hash": "b3623680bc529e73",
@@ -1234,11 +1348,29 @@
             "voiceContent": "胡桃她呀，表情丰富，脑筋还转得快，哪怕只是聊些家常都能「妙语连珠」。真让人羡慕。和这样的朋友在一起，无论做什么事情都很有趣",
             "sourceName": "vo_yunjin_teammate_hutao_01.wem"
         },
+        "c0687a02d8d5e59d": {
+            "hash": "c0687a02d8d5e59d",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_03.wem"
+        },
+        "c210c341b39fb841": {
+            "hash": "c210c341b39fb841",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_easy_03.wem"
+        },
         "c4accc846f4f7b11": {
             "hash": "c4accc846f4f7b11",
             "directory": "External24",
             "voiceContent": "曲终…人散",
             "sourceName": "vo_yunjin_life_die_01.wem"
+        },
+        "c561afadafa58634": {
+            "hash": "c561afadafa58634",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_15.wem"
         },
         "c564943af8a56ec9": {
             "hash": "c564943af8a56ec9",
@@ -1282,11 +1414,23 @@
             "voiceContent": "我来救场",
             "sourceName": "vo_yunjin_life_less30_teammate_02.wem"
         },
+        "d07a12a060c2a437": {
+            "hash": "d07a12a060c2a437",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_02a_1.wem"
+        },
         "d136f48c6dc1176c": {
             "hash": "d136f48c6dc1176c",
             "directory": "External26",
             "voiceContent": "我最喜欢尝试各种各样的饮品。老一辈发明的那些讲究茶饮，什么松间露呀梅上雪的，都让我试了个遍。现在正愁没有新饮品可以喝呢，欸，你有什么推荐吗",
             "sourceName": "vo_yunjin_dialog_share_01.wem"
+        },
+        "d5e170ba137f7ad0": {
+            "hash": "d5e170ba137f7ad0",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_hard_01.wem"
         },
         "d699d7ef1b7c45ba": {
             "hash": "d699d7ef1b7c45ba",
@@ -1299,6 +1443,12 @@
             "directory": "External26",
             "voiceContent": "走——了—",
             "sourceName": "vo_yunjin_teamJoin_01.wem"
+        },
+        "d7d1ae15213ec3f7": {
+            "hash": "d7d1ae15213ec3f7",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_05.wem"
         },
         "d9860e3b9edeb4a6": {
             "hash": "d9860e3b9edeb4a6",
@@ -1334,19 +1484,19 @@
             "hash": "de05c5cdce32dfe6",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_l_06.wem"
+            "sourceName": "vo_yunjin_battle_hit_L_06.wem"
         },
-        "e06b1ad277953bb4": {
-            "hash": "e06b1ad277953bb4",
+        "e21189c5b2732e79": {
+            "hash": "e21189c5b2732e79",
             "directory": "External28",
-            "voiceContent": "美食，总会让人倍感幸福…可惜只能点到为止，不能再多吃了",
-            "sourceName": "vo_yunjin_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_10.wem"
         },
         "e3095d50c848558c": {
             "hash": "e3095d50c848558c",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_h_04.wem"
+            "sourceName": "vo_yunjin_battle_hit_H_04.wem"
         },
         "e4ed6ec65ebc4b7f": {
             "hash": "e4ed6ec65ebc4b7f",
@@ -1360,11 +1510,17 @@
             "voiceContent": "下手好重",
             "sourceName": "vo_yunjin_battle_hit_H_02.wem"
         },
+        "e7dca5f26febaf34": {
+            "hash": "e7dca5f26febaf34",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_02b_1.wem"
+        },
         "e91fa3a98d571bbf": {
             "hash": "e91fa3a98d571bbf",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackmid_03.wem"
+            "sourceName": "vo_yunjin_battle_attackMid_03.wem"
         },
         "e960110e7ec6d9e6": {
             "hash": "e960110e7ec6d9e6",
@@ -1394,13 +1550,25 @@
             "hash": "ec0072d2a9f4991f",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackheavy_02.wem"
+            "sourceName": "vo_yunjin_battle_attackHeavy_02.wem"
         },
         "ec92c45cd71674bc": {
             "hash": "ec92c45cd71674bc",
             "directory": "External29",
             "voiceContent": "SFX",
             "sourceName": "vo_yunjin_explore_climb_04.wem"
+        },
+        "ee2c2bb844baf612": {
+            "hash": "ee2c2bb844baf612",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_08.wem"
+        },
+        "f022231dd70fe478": {
+            "hash": "f022231dd70fe478",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_yunjin_04.wem"
         },
         "f44f8898d41a485c": {
             "hash": "f44f8898d41a485c",
@@ -1412,7 +1580,7 @@
             "hash": "f4d1a0ad0f884aa0",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_06.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_06.wem"
         },
         "f57974aa7e9c467e": {
             "hash": "f57974aa7e9c467e",
@@ -1436,7 +1604,19 @@
             "hash": "f7e9593fbb80b85a",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_h_06.wem"
+            "sourceName": "vo_yunjin_battle_hit_H_06.wem"
+        },
+        "fde35ff92a559543": {
+            "hash": "fde35ff92a559543",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_freetalk_01.wem"
+        },
+        "fea530e4dbbcc22b": {
+            "hash": "fea530e4dbbcc22b",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_yunjin_03.wem"
         }
     }
 }

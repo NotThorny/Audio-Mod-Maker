@@ -284,6 +284,12 @@
             "voiceContent": "（本棚の上に埃が積もっているな、時間を見つけて整理しなくては。それに使っていない古本が数冊ある…知恵の殿堂に持っていくとしよう。",
             "sourceName": "vo_AHLQ003_14_alhaitham_01.wem"
         },
+        "37e60d2f4fd3e424": {
+            "hash": "37e60d2f4fd3e424",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ102_alhaitham_10.wem"
+        },
         "391c3b1b86c3ab75": {
             "hash": "391c3b1b86c3ab75",
             "directory": "External7",
@@ -361,6 +367,12 @@
             "directory": "External19",
             "voiceContent": "なるほど、「ウジャトの目」は沈黙の殿で預かったのか",
             "sourceName": "vo_HSEQ003_18_alhaitham_01.wem"
+        },
+        "aa44f945011b186a": {
+            "hash": "aa44f945011b186a",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ102_alhaitham_09.wem"
         },
         "aacb4d8e3ce71f3a": {
             "hash": "aacb4d8e3ce71f3a",
@@ -494,7 +506,7 @@
             "hash": "0e2a31806dbc67de",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_02.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_02.wem"
         },
         "0ffa10e0c430820f": {
             "hash": "0ffa10e0c430820f",
@@ -512,13 +524,19 @@
             "hash": "106c49cb3e2f528a",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackmid_02.wem"
+            "sourceName": "vo_alhaitham_battle_attackMid_02.wem"
         },
         "123454ddf6c7c0f6": {
             "hash": "123454ddf6c7c0f6",
             "directory": "External2",
             "voiceContent": "これほど天気のいい日には、何もしないに限る",
             "sourceName": "vo_alhaitham_weather_sunny_01.wem"
+        },
+        "1255bc9daeec0423": {
+            "hash": "1255bc9daeec0423",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_easy_03.wem"
         },
         "13684885aa475f0b": {
             "hash": "13684885aa475f0b",
@@ -584,7 +602,7 @@
             "hash": "2f532d9bcdb7adb8",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_02.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_02.wem"
         },
         "3323bd4979b2544b": {
             "hash": "3323bd4979b2544b",
@@ -638,7 +656,7 @@
             "hash": "413c3b62d547b56b",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_05.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_05.wem"
         },
         "418a6fa012a89752": {
             "hash": "418a6fa012a89752",
@@ -674,7 +692,7 @@
             "hash": "4a8bc15eef0075ca",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_06.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_06.wem"
         },
         "50b242f8dbcc19c8": {
             "hash": "50b242f8dbcc19c8",
@@ -740,13 +758,19 @@
             "hash": "61bec571373b723c",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_04.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_04.wem"
         },
         "63c8dd018fd977ef": {
             "hash": "63c8dd018fd977ef",
             "directory": "External12",
             "voiceContent": "理論の演繹",
             "sourceName": "vo_alhaitham_battle_skill3_03.wem"
+        },
+        "64bd0aa4b708e7da": {
+            "hash": "64bd0aa4b708e7da",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_easy_02.wem"
         },
         "65c25076b34f98ea": {
             "hash": "65c25076b34f98ea",
@@ -770,7 +794,13 @@
             "hash": "6bcc3f889f347c81",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_01.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_01.wem"
+        },
+        "6c311bbb6094ca06": {
+            "hash": "6c311bbb6094ca06",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_hard_01.wem"
         },
         "723e107ff9937cba": {
             "hash": "723e107ff9937cba",
@@ -800,7 +830,7 @@
             "hash": "7a6f9bd7985a1278",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_h_04.wem"
+            "sourceName": "vo_alhaitham_battle_hit_H_04.wem"
         },
         "7b7dcc24a69357a6": {
             "hash": "7b7dcc24a69357a6",
@@ -808,17 +838,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_alhaitham_explore_climb_breath_01.wem"
         },
-        "7f8ed7667837b878": {
-            "hash": "7f8ed7667837b878",
-            "directory": "External15",
-            "voiceContent": "ふむ、調味料の配合を正確に把握しているようだな",
-            "sourceName": "vo_alhaitham_spice_event_pref_01.wem"
-        },
         "82af843d6c2c1cb2": {
             "hash": "82af843d6c2c1cb2",
             "directory": "External16",
             "voiceContent": "ふむ、調味料の配合を正確に把握しているようだな",
             "sourceName": "vo_alhaitham_spice_pref_01.wem"
+        },
+        "83632fcda8ce2f28": {
+            "hash": "83632fcda8ce2f28",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_hard_03.wem"
         },
         "857c644c81ce3efa": {
             "hash": "857c644c81ce3efa",
@@ -830,7 +860,7 @@
             "hash": "88f2a99e9d06f02b",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_h_03.wem"
+            "sourceName": "vo_alhaitham_battle_hit_H_03.wem"
         },
         "8b8058aacff41fe4": {
             "hash": "8b8058aacff41fe4",
@@ -842,7 +872,7 @@
             "hash": "8be8c7c688ade996",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_h_06.wem"
+            "sourceName": "vo_alhaitham_battle_hit_H_06.wem"
         },
         "9184d5745b149c8f": {
             "hash": "9184d5745b149c8f",
@@ -860,7 +890,7 @@
             "hash": "9336c969dd083322",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_04.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_04.wem"
         },
         "93b4ee7da642d86d": {
             "hash": "93b4ee7da642d86d",
@@ -878,19 +908,19 @@
             "hash": "945fad7b878870f4",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_06.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_06.wem"
         },
         "949d4aa2a043d9e3": {
             "hash": "949d4aa2a043d9e3",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackheavy_02.wem"
+            "sourceName": "vo_alhaitham_battle_attackHeavy_02.wem"
         },
         "95587bc2fd831293": {
             "hash": "95587bc2fd831293",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackmid_03.wem"
+            "sourceName": "vo_alhaitham_battle_attackMid_03.wem"
         },
         "95f779f56ddbc9b8": {
             "hash": "95f779f56ddbc9b8",
@@ -902,7 +932,7 @@
             "hash": "968267d4a805108d",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackmid_01.wem"
+            "sourceName": "vo_alhaitham_battle_attackMid_01.wem"
         },
         "96b500a3b1d507c9": {
             "hash": "96b500a3b1d507c9",
@@ -952,12 +982,6 @@
             "voiceContent": "精進することにおいて、君は俺よりも熱心らしい",
             "sourceName": "vo_alhaitham_starUp_03.wem"
         },
-        "ae7cd3a1f45fdd1e": {
-            "hash": "ae7cd3a1f45fdd1e",
-            "directory": "External21",
-            "voiceContent": "今ここでは食べないでおく。持ち帰っていいか",
-            "sourceName": "vo_alhaitham_spice_event_dislike_01.wem"
-        },
         "aed775bde53f59f4": {
             "hash": "aed775bde53f59f4",
             "directory": "External21",
@@ -974,7 +998,7 @@
             "hash": "b47687938d3af439",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_03.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_03.wem"
         },
         "b7d3b8f72c8b0637": {
             "hash": "b7d3b8f72c8b0637",
@@ -992,7 +1016,13 @@
             "hash": "bbf9d37965ceabe7",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_03.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_03.wem"
+        },
+        "bec128ace56cf9dd": {
+            "hash": "bec128ace56cf9dd",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_easy_01.wem"
         },
         "c02ea4dadcf76a05": {
             "hash": "c02ea4dadcf76a05",
@@ -1034,7 +1064,7 @@
             "hash": "d0a2df6858d7e6cd",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_05.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_05.wem"
         },
         "d23d078c72b03448": {
             "hash": "d23d078c72b03448",
@@ -1052,7 +1082,7 @@
             "hash": "d58b9cbab80d36cc",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackheavy_01.wem"
+            "sourceName": "vo_alhaitham_battle_attackHeavy_01.wem"
         },
         "d9dbcb52f5722782": {
             "hash": "d9dbcb52f5722782",
@@ -1078,6 +1108,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_alhaitham_explore_climb_01.wem"
         },
+        "dc7549c42ce11069": {
+            "hash": "dc7549c42ce11069",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_hard_02.wem"
+        },
         "de5337a5a7aa97e2": {
             "hash": "de5337a5a7aa97e2",
             "directory": "External27",
@@ -1090,6 +1126,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_alhaitham_explore_sprint_start_01.wem"
         },
+        "e1370a906f1d70b4": {
+            "hash": "e1370a906f1d70b4",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_alhaitham_01.wem"
+        },
         "e20b7b09d3394c06": {
             "hash": "e20b7b09d3394c06",
             "directory": "External28",
@@ -1100,7 +1142,7 @@
             "hash": "e70498a9a860bc9a",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackheavy_03.wem"
+            "sourceName": "vo_alhaitham_battle_attackHeavy_03.wem"
         },
         "e749826e6fc1e2f3": {
             "hash": "e749826e6fc1e2f3",
@@ -1136,7 +1178,7 @@
             "hash": "eda7e7720bc91745",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_07.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_07.wem"
         },
         "f16dd8fe5005dff7": {
             "hash": "f16dd8fe5005dff7",
@@ -1148,13 +1190,7 @@
             "hash": "f201bb83b90085bf",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_01.wem"
-        },
-        "f7b310b3f8debe72": {
-            "hash": "f7b310b3f8debe72",
-            "directory": "External30",
-            "voiceContent": "流行りの味だ、嫌いじゃない",
-            "sourceName": "vo_alhaitham_spice_event_normal_01.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_01.wem"
         },
         "faceb471c153453b": {
             "hash": "faceb471c153453b",
@@ -1166,7 +1202,7 @@
             "hash": "fc2cf5cf54fa2ff9",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_h_05.wem"
+            "sourceName": "vo_alhaitham_battle_hit_H_05.wem"
         },
         "fcedef3ecac8ee30": {
             "hash": "fcedef3ecac8ee30",

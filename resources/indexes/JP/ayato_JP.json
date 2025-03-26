@@ -325,7 +325,122 @@
             "sourceName": "vo_ayato_mimitomo_night_01.wem"
         }
     },
-    "Quests": {},
+    "Quests": {
+        "00d8337803369635": {
+            "hash": "00d8337803369635",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_04.wem"
+        },
+        "237dc5f25fe616ac": {
+            "hash": "237dc5f25fe616ac",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_05b_1.wem"
+        },
+        "24955c3441f56c0f": {
+            "hash": "24955c3441f56c0f",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_05a_1.wem"
+        },
+        "2b50658f7cea1546": {
+            "hash": "2b50658f7cea1546",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_03.wem"
+        },
+        "30db9f1b6a9010e2": {
+            "hash": "30db9f1b6a9010e2",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_05.wem"
+        },
+        "3205832d151200b4": {
+            "hash": "3205832d151200b4",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_07.wem"
+        },
+        "45e979a1c8085668": {
+            "hash": "45e979a1c8085668",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_01.wem"
+        },
+        "4eb55d4517dfa8f9": {
+            "hash": "4eb55d4517dfa8f9",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_02.wem"
+        },
+        "58d38af6da599b03": {
+            "hash": "58d38af6da599b03",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_ayato_02.wem"
+        },
+        "636adb59ed243aa4": {
+            "hash": "636adb59ed243aa4",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_1_ayato_02.wem"
+        },
+        "8b4dbd239952a705": {
+            "hash": "8b4dbd239952a705",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_06.wem"
+        },
+        "b073c7873c6d692f": {
+            "hash": "b073c7873c6d692f",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_02.wem"
+        },
+        "ccf8034d5b3f8b78": {
+            "hash": "ccf8034d5b3f8b78",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_03.wem"
+        },
+        "db7b11145fec692b": {
+            "hash": "db7b11145fec692b",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_04.wem"
+        },
+        "de712f3c4b936296": {
+            "hash": "de712f3c4b936296",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_01.wem"
+        },
+        "e435293fff71661b": {
+            "hash": "e435293fff71661b",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_1_ayato_01.wem"
+        },
+        "e55f1551a9f36435": {
+            "hash": "e55f1551a9f36435",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_1_ayato_03.wem"
+        },
+        "ee7f5d1166224e6c": {
+            "hash": "ee7f5d1166224e6c",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_ayato_01.wem"
+        },
+        "fff859005675d43a": {
+            "hash": "fff859005675d43a",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_ayato_03.wem"
+        }
+    },
     "Gameplay": {
         "039881f178f5ecdd": {
             "hash": "039881f178f5ecdd",
@@ -391,7 +506,7 @@
             "hash": "17bcb44c79c84147",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_l_05.wem"
+            "sourceName": "vo_ayato_battle_hit_L_05.wem"
         },
         "1ad59d1974fb01d8": {
             "hash": "1ad59d1974fb01d8",
@@ -445,7 +560,7 @@
             "hash": "2c65c03b6cd17c2d",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_l_03.wem"
+            "sourceName": "vo_ayato_battle_hit_L_03.wem"
         },
         "323b5c1491d5614d": {
             "hash": "323b5c1491d5614d",
@@ -469,7 +584,7 @@
             "hash": "351fe7fc8553cf4c",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_h_06.wem"
+            "sourceName": "vo_ayato_battle_hit_H_06.wem"
         },
         "358f0cb74297ebbd": {
             "hash": "358f0cb74297ebbd",
@@ -494,12 +609,6 @@
             "directory": "External7",
             "voiceContent": "三奉行は、一見穏やかな関係に見えますが、実際は裏での牽制やいがみ合いが絶えません。あの老いぼれたちの相手をするのは、あまり楽しくはないのですが…。ただ、これだけは知っておいていただきたい…昔は神里家の安寧のため、今は稲妻の情勢のため、私は神里家の名に泥を塗るような行動をしたことは一度もありませんよ",
             "sourceName": "vo_ayato_friendship_03.wem"
-        },
-        "3950b199533e1fc1": {
-            "hash": "3950b199533e1fc1",
-            "directory": "External7",
-            "voiceContent": "斬新な味ですね。ふふっ、気に入りました",
-            "sourceName": "vo_ayato_spice_event_pref_01.wem"
         },
         "3b094c1967fbc42c": {
             "hash": "3b094c1967fbc42c",
@@ -541,7 +650,7 @@
             "hash": "4698e3eb75a7551a",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_h_04.wem"
+            "sourceName": "vo_ayato_battle_hit_H_04.wem"
         },
         "4742186ddf631d15": {
             "hash": "4742186ddf631d15",
@@ -559,7 +668,7 @@
             "hash": "4addc72fb9452d27",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_03.wem"
+            "sourceName": "vo_ayato_battle_attackLight_03.wem"
         },
         "4b1508a8276b522e": {
             "hash": "4b1508a8276b522e",
@@ -603,17 +712,23 @@
             "voiceContent": "終末番ですか？貴方になら話してもいいでしょう。あれは神里家当主直属の秘密部隊であり、父上の死後、私が引き継ぎました。表立って解決できないことがあれば、終末番が処理してくれます。成員のほとんどは孤児で、幼い頃に組織に引き取られた者です。こうして、彼らは自然と忠誠心を抱くようになり、成長していきます。私も安心して任務を与えられるというわけです",
             "sourceName": "vo_ayato_friendship_04.wem"
         },
+        "5aa077d6c939c171": {
+            "hash": "5aa077d6c939c171",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_battle_skill1_05.wem"
+        },
         "5af6e70cfee94113": {
             "hash": "5af6e70cfee94113",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_07.wem"
+            "sourceName": "vo_ayato_battle_attackLight_07.wem"
         },
         "5c20d31ea96b3f0d": {
             "hash": "5c20d31ea96b3f0d",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_05.wem"
+            "sourceName": "vo_ayato_battle_attackLight_05.wem"
         },
         "5cb72f1c16571bf6": {
             "hash": "5cb72f1c16571bf6",
@@ -643,19 +758,19 @@
             "hash": "65febd059a346fb9",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackheavy_02.wem"
+            "sourceName": "vo_ayato_battle_attackHeavy_02.wem"
         },
         "67d8a21525da1611": {
             "hash": "67d8a21525da1611",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_h_03.wem"
+            "sourceName": "vo_ayato_battle_hit_H_03.wem"
         },
         "6e7d46652f1b9ee0": {
             "hash": "6e7d46652f1b9ee0",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_l_06.wem"
+            "sourceName": "vo_ayato_battle_hit_L_06.wem"
         },
         "7168ea2ebea3dcde": {
             "hash": "7168ea2ebea3dcde",
@@ -679,7 +794,7 @@
             "hash": "76c67e1b9e2a0e8b",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackmid_01.wem"
+            "sourceName": "vo_ayato_battle_attackMid_01.wem"
         },
         "77a652e104e1a130": {
             "hash": "77a652e104e1a130",
@@ -691,7 +806,7 @@
             "hash": "77f0aa2d48ac79e5",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackmid_03.wem"
+            "sourceName": "vo_ayato_battle_attackMid_03.wem"
         },
         "79fa7008687e5047": {
             "hash": "79fa7008687e5047",
@@ -753,6 +868,12 @@
             "voiceContent": "あらゆるものには対価が存在します。通常では手の届かないものを求めるのであれば、常人の想像を超える対価を払わなければなりません",
             "sourceName": "vo_ayato_dialog_idle.wem"
         },
+        "923aeba39ce91443": {
+            "hash": "923aeba39ce91443",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_battle_skill1_03.wem"
+        },
         "933148e872ecb855": {
             "hash": "933148e872ecb855",
             "directory": "External18",
@@ -801,17 +922,11 @@
             "voiceContent": "まだ幼い頃、綾華は雷に怯えていました。そんなあの子に、雷鳴とは将軍様のお声なのだと母上が教えたのです。それ以来、あの子は雷が鳴るたびに、一心に耳を傾けるようになりました。まるで、将軍様のお言葉を理解しようとするかのように",
             "sourceName": "vo_ayato_weather_thunder_01.wem"
         },
-        "9c626831532e8247": {
-            "hash": "9c626831532e8247",
-            "directory": "External19",
-            "voiceContent": "なるほど。貴方はこの料理に対して、そのような理解をされているのですね",
-            "sourceName": "vo_ayato_spice_event_normal_01.wem"
-        },
         "9d0f2536c1349c1e": {
             "hash": "9d0f2536c1349c1e",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_02.wem"
+            "sourceName": "vo_ayato_battle_attackLight_02.wem"
         },
         "9f9e718066eca832": {
             "hash": "9f9e718066eca832",
@@ -913,13 +1028,13 @@
             "hash": "bb6d3605ef592177",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_h_01.wem"
+            "sourceName": "vo_ayato_battle_hit_H_01.wem"
         },
         "bd81a6444b35079c": {
             "hash": "bd81a6444b35079c",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_l_02.wem"
+            "sourceName": "vo_ayato_battle_hit_L_02.wem"
         },
         "bdb33427ff9703bb": {
             "hash": "bdb33427ff9703bb",
@@ -937,7 +1052,7 @@
             "hash": "c2119255f89a2ebe",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_l_04.wem"
+            "sourceName": "vo_ayato_battle_hit_L_04.wem"
         },
         "c357421d7038ecbc": {
             "hash": "c357421d7038ecbc",
@@ -949,7 +1064,7 @@
             "hash": "c9eaf034506c7d14",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackmid_02.wem"
+            "sourceName": "vo_ayato_battle_attackMid_02.wem"
         },
         "ca10f2c023dea0ec": {
             "hash": "ca10f2c023dea0ec",
@@ -985,13 +1100,31 @@
             "hash": "d60ab5153f95810a",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_06.wem"
+            "sourceName": "vo_ayato_battle_attackLight_06.wem"
+        },
+        "d7b929cd6217984e": {
+            "hash": "d7b929cd6217984e",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_battle_skill1_06.wem"
         },
         "d7fd09ef3f1d84a0": {
             "hash": "d7fd09ef3f1d84a0",
             "directory": "External26",
             "voiceContent": "私は綾華の能力を信頼しています。ただ、あの子にはやはり、純粋なままでいて欲しいのです。権力争いに巻き込まれる必要はなく、人間の裏の顔に立ち向かう必要もない。そういうものはすべて、兄である私が一つ一つ片づけますから…おっと、つい話しすぎてしまいましたね。今のは、二人だけの秘密にしてください",
             "sourceName": "vo_ayato_teammate_ayaka_01.wem"
+        },
+        "d8e31ddf0c99a3f0": {
+            "hash": "d8e31ddf0c99a3f0",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_battle_skill1_04.wem"
+        },
+        "db2ea40f005f9052": {
+            "hash": "db2ea40f005f9052",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_ayato_01.wem"
         },
         "db635ba9cd4f898a": {
             "hash": "db635ba9cd4f898a",
@@ -1015,7 +1148,7 @@
             "hash": "e0db630ddab12938",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackheavy_03.wem"
+            "sourceName": "vo_ayato_battle_attackHeavy_03.wem"
         },
         "e41e266fb3a031e5": {
             "hash": "e41e266fb3a031e5",
@@ -1081,7 +1214,7 @@
             "hash": "f0a2b9278ab1f47c",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_04.wem"
+            "sourceName": "vo_ayato_battle_attackLight_04.wem"
         },
         "f210ff79ca3d927e": {
             "hash": "f210ff79ca3d927e",
@@ -1093,19 +1226,19 @@
             "hash": "f43195e46d8a7263",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_h_05.wem"
+            "sourceName": "vo_ayato_battle_hit_H_05.wem"
         },
         "f5ba8efccde82a56": {
             "hash": "f5ba8efccde82a56",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackheavy_01.wem"
+            "sourceName": "vo_ayato_battle_attackHeavy_01.wem"
         },
         "f74a333eefc7d5c1": {
             "hash": "f74a333eefc7d5c1",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_01.wem"
+            "sourceName": "vo_ayato_battle_attackLight_01.wem"
         },
         "f839c0c716ffc097": {
             "hash": "f839c0c716ffc097",
@@ -1136,12 +1269,6 @@
             "directory": "External31",
             "voiceContent": "SFX",
             "sourceName": "vo_ayato_explore_climb_breath_01.wem"
-        },
-        "ffaeef4d9a406bad": {
-            "hash": "ffaeef4d9a406bad",
-            "directory": "External31",
-            "voiceContent": "一つ提案があります。今度この料理を「鍋遊び」に入れましょう",
-            "sourceName": "vo_ayato_spice_event_dislike_01.wem"
         }
     }
 }

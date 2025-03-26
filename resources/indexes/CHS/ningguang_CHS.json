@@ -248,11 +248,23 @@
         }
     },
     "Quests": {
+        "002d666066c13290": {
+            "hash": "002d666066c13290",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_6.wem"
+        },
         "095463b9be5208ce": {
             "hash": "095463b9be5208ce",
             "directory": "External1",
             "voiceContent": "#{NICKNAME}，我知道你想出一份力，正巧，稍后我与蓝砚姑娘，确实有一事要与你商谈",
             "sourceName": "vo_EQHDJ403_2_ningguang_09.wem"
+        },
+        "0e43b4276b11ac63": {
+            "hash": "0e43b4276b11ac63",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_1.wem"
         },
         "0f46657974253aa0": {
             "hash": "0f46657974253aa0",
@@ -380,11 +392,23 @@
             "voiceContent": "…值此明灯满空之际，请容我等效仿先贤，祈火驱疠，护我璃月一方太平",
             "sourceName": "vo_EQHDJ403_20_ningguang_02.wem"
         },
+        "4f32063f82db094c": {
+            "hash": "4f32063f82db094c",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_2.wem"
+        },
         "4f3e1bb4d9be1c46": {
             "hash": "4f3e1bb4d9be1c46",
             "directory": "External9",
             "voiceContent": "嗯…灯会少时就要开始了",
             "sourceName": "vo_EQHDJ403_17_ningguang_10.wem"
+        },
+        "505bf2512d5d076e": {
+            "hash": "505bf2512d5d076e",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_4.wem"
         },
         "521e05e9ed086ff3": {
             "hash": "521e05e9ed086ff3",
@@ -500,6 +524,18 @@
             "voiceContent": "放心，我已安排妥当。两日前，我们就已知晓前四门的位置",
             "sourceName": "vo_EQHDJ403_2_ningguang_04.wem"
         },
+        "7d5ab86102261ed0": {
+            "hash": "7d5ab86102261ed0",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02b_1.wem"
+        },
+        "81eac05823615011": {
+            "hash": "81eac05823615011",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_7.wem"
+        },
         "8a43c26cd721614c": {
             "hash": "8a43c26cd721614c",
             "directory": "External17",
@@ -572,11 +608,23 @@
             "voiceContent": "胡堂主说笑了。同意你一人前往边界，是我草率了，让你们受困，我也有一份责任",
             "sourceName": "vo_EQHDJ402_13_ningguang_03.wem"
         },
+        "ab0415ea7af5f6e2": {
+            "hash": "ab0415ea7af5f6e2",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ005_ningguang_01.wem"
+        },
         "ad6eec22ced5e2f5": {
             "hash": "ad6eec22ced5e2f5",
             "directory": "External21",
             "voiceContent": "#{NICKNAME}身手了得，甚至比我预估还要快一点",
             "sourceName": "vo_EQHDJ402_13_ningguang_01.wem"
+        },
+        "af576de18051b81f": {
+            "hash": "af576de18051b81f",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_01.wem"
         },
         "b5add8419d5c7451": {
             "hash": "b5add8419d5c7451",
@@ -607,6 +655,12 @@
             "directory": "External23",
             "voiceContent": "照胡堂主的说法，若遇上最坏情况，或许要依靠这传说中的八门七门大阵",
             "sourceName": "vo_EQHDJ402_6_ningguang_23.wem"
+        },
+        "be162036a4777d1d": {
+            "hash": "be162036a4777d1d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_3.wem"
         },
         "c65afb42de6dc3ca": {
             "hash": "c65afb42de6dc3ca",
@@ -655,6 +709,12 @@
             "directory": "External26",
             "voiceContent": "#{NICKNAME}，我理解你的心情，但既然事已至此，就且最后歇息一番吧",
             "sourceName": "vo_EQHDJ403_17_ningguang_11.wem"
+        },
+        "d57f5448ece05b77": {
+            "hash": "d57f5448ece05b77",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_5.wem"
         },
         "d7a51fcb28bc9bdc": {
             "hash": "d7a51fcb28bc9bdc",
@@ -759,12 +819,6 @@
             "directory": "External0",
             "voiceContent": "这世上之人，皆为棋子",
             "sourceName": "vo_ningguang_life_die_01.wem"
-        },
-        "01060d6d44c538bf": {
-            "hash": "01060d6d44c538bf",
-            "directory": "External0",
-            "voiceContent": "有时，没有把握关键要素，就等于徒劳无功…能明白么",
-            "sourceName": "vo_ningguang_spice_event_normal_01.wem"
         },
         "0280a1daab6383a1": {
             "hash": "0280a1daab6383a1",
@@ -884,13 +938,19 @@
             "hash": "2081d5978166e9d3",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attackheavy_02.wem"
+            "sourceName": "vo_ningguang_battle_attackHeavy_02.wem"
         },
         "20d6208db7716897": {
             "hash": "20d6208db7716897",
             "directory": "External4",
             "voiceContent": "不过是寻常雪景。我带你见见，真正的「碎雪」",
             "sourceName": "vo_ningguang_weather_snowy_01.wem"
+        },
+        "23ea75df72660191": {
+            "hash": "23ea75df72660191",
+            "directory": "External4",
+            "voiceContent": "",
+            "sourceName": "vo_ningguang_suit_gown_03.wem"
         },
         "25b4fcd447b6c127": {
             "hash": "25b4fcd447b6c127",
@@ -944,7 +1004,7 @@
             "hash": "2e28f72793fa8d1b",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_hit_h_03.wem"
+            "sourceName": "vo_ningguang_battle_hit_H_03.wem"
         },
         "2e7a7ced40027de9": {
             "hash": "2e7a7ced40027de9",
@@ -969,6 +1029,12 @@
             "directory": "External6",
             "voiceContent": "SFX",
             "sourceName": "vo_ningguang_explore_climb_03.wem"
+        },
+        "3457369a69476109": {
+            "hash": "3457369a69476109",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_07.wem"
         },
         "3590a2202a5af456": {
             "hash": "3590a2202a5af456",
@@ -1016,7 +1082,7 @@
             "hash": "3c91d6c6c36d5172",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attacklight_04.wem"
+            "sourceName": "vo_ningguang_battle_attackLight_04.wem"
         },
         "4467cb2ffa4c102a": {
             "hash": "4467cb2ffa4c102a",
@@ -1029,6 +1095,18 @@
             "directory": "External8",
             "voiceContent": "烟绯？呵，某种意义上，她是个贴心的对手呢。若不是她「灵巧」地解释律法，为咨询者们提供各种「奇妙」的建议，要让我独自找到律法的缺口，逐步完善法典，怕是要多花数月的时间",
             "sourceName": "vo_ningguang_teammate_yanfei_01.wem"
+        },
+        "44dd5677af484715": {
+            "hash": "44dd5677af484715",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_03.wem"
+        },
+        "45d06a89599b468f": {
+            "hash": "45d06a89599b468f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_05.wem"
         },
         "47870e17487254d7": {
             "hash": "47870e17487254d7",
@@ -1064,19 +1142,19 @@
             "hash": "56ecdfb6e4a048ec",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_hit_l_04.wem"
+            "sourceName": "vo_ningguang_battle_hit_L_04.wem"
         },
         "59cb1550b8300a46": {
             "hash": "59cb1550b8300a46",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_hit_h_06.wem"
+            "sourceName": "vo_ningguang_battle_hit_H_06.wem"
         },
         "5dd194f073a01249": {
             "hash": "5dd194f073a01249",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attacklight_03.wem"
+            "sourceName": "vo_ningguang_battle_attackLight_03.wem"
         },
         "5e4b9e16b9b42bd7": {
             "hash": "5e4b9e16b9b42bd7",
@@ -1106,7 +1184,7 @@
             "hash": "6865dba5d4f3ceba",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_hit_l_06.wem"
+            "sourceName": "vo_ningguang_battle_hit_L_06.wem"
         },
         "6af8da34a2a602fc": {
             "hash": "6af8da34a2a602fc",
@@ -1124,7 +1202,7 @@
             "hash": "6e57b4cdb9a0f855",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attacklight_07.wem"
+            "sourceName": "vo_ningguang_battle_attackLight_07.wem"
         },
         "6e67cb9d7ef166df": {
             "hash": "6e67cb9d7ef166df",
@@ -1136,13 +1214,13 @@
             "hash": "6f4ac8df63f3f7cf",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attacklight_01.wem"
+            "sourceName": "vo_ningguang_battle_attackLight_01.wem"
         },
         "74642963034e4b68": {
             "hash": "74642963034e4b68",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_hit_h_04.wem"
+            "sourceName": "vo_ningguang_battle_hit_H_04.wem"
         },
         "7485a46a12c7a31a": {
             "hash": "7485a46a12c7a31a",
@@ -1162,6 +1240,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_ningguang_explore_sprint_start_01.wem"
         },
+        "777f09d03be50cf7": {
+            "hash": "777f09d03be50cf7",
+            "directory": "External14",
+            "voiceContent": "",
+            "sourceName": "vo_ningguang_suit_gown_01.wem"
+        },
         "77e65adb4fa6301e": {
             "hash": "77e65adb4fa6301e",
             "directory": "External14",
@@ -1180,6 +1264,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_ningguang_explore_climb_04.wem"
         },
+        "7b0c4745ec9eaa71": {
+            "hash": "7b0c4745ec9eaa71",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_10.wem"
+        },
         "7c4531f2d229f842": {
             "hash": "7c4531f2d229f842",
             "directory": "External15",
@@ -1196,7 +1286,7 @@
             "hash": "81af9e9b0b97e0ba",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attackmid_02.wem"
+            "sourceName": "vo_ningguang_battle_attackMid_02.wem"
         },
         "82ca47a64bc4fda0": {
             "hash": "82ca47a64bc4fda0",
@@ -1208,13 +1298,25 @@
             "hash": "8515adbdd7c16897",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_hit_l_03.wem"
+            "sourceName": "vo_ningguang_battle_hit_L_03.wem"
+        },
+        "86889ca17136de48": {
+            "hash": "86889ca17136de48",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_06.wem"
+        },
+        "87e8a8b31be6a1ba": {
+            "hash": "87e8a8b31be6a1ba",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_08.wem"
         },
         "89a599cf85268fb1": {
             "hash": "89a599cf85268fb1",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_hit_l_01.wem"
+            "sourceName": "vo_ningguang_battle_hit_L_01.wem"
         },
         "8dddb9c51b675eab": {
             "hash": "8dddb9c51b675eab",
@@ -1252,6 +1354,12 @@
             "voiceContent": "再过些时日，我打算约闲云女士去茶室小坐。我恰巧收集了一些机巧玩物，想听听她的高见，也想趁此机会，听她讲讲仙人在璃月港生活的趣事。至于为我递这份邀请函的人选…你可有意",
             "sourceName": "vo_ningguang_teammate_xianyun_01.wem"
         },
+        "950aea6875e2767b": {
+            "hash": "950aea6875e2767b",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_01.wem"
+        },
         "99fbde6bc388b4d9": {
             "hash": "99fbde6bc388b4d9",
             "directory": "External19",
@@ -1262,13 +1370,19 @@
             "hash": "9efaa39fc4f49fca",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attackheavy_03.wem"
+            "sourceName": "vo_ningguang_battle_attackHeavy_03.wem"
         },
         "9f815662bc759315": {
             "hash": "9f815662bc759315",
             "directory": "External19",
             "voiceContent": "哼，劝你放弃",
             "sourceName": "vo_ningguang_battle_skill1_03.wem"
+        },
+        "a22d1be7b5c5e410": {
+            "hash": "a22d1be7b5c5e410",
+            "directory": "External20",
+            "voiceContent": "",
+            "sourceName": "vo_ningguang_suit_gown_02.wem"
         },
         "a4f881a586edd225": {
             "hash": "a4f881a586edd225",
@@ -1340,7 +1454,7 @@
             "hash": "b001faf77b8ddb88",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attacklight_02.wem"
+            "sourceName": "vo_ningguang_battle_attackLight_02.wem"
         },
         "b019ea8a8deeeaa6": {
             "hash": "b019ea8a8deeeaa6",
@@ -1370,13 +1484,19 @@
             "hash": "b62da7b20d2f9c3c",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attackheavy_01.wem"
+            "sourceName": "vo_ningguang_battle_attackHeavy_01.wem"
         },
         "b98198e88f17d449": {
             "hash": "b98198e88f17d449",
             "directory": "External23",
             "voiceContent": "这一手还算精彩",
             "sourceName": "vo_card_ningguang_invite_easy_03.wem"
+        },
+        "bf841c7fef97a784": {
+            "hash": "bf841c7fef97a784",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_02.wem"
         },
         "c07a3c4cf434b6c8": {
             "hash": "c07a3c4cf434b6c8",
@@ -1388,13 +1508,25 @@
             "hash": "c1eb48be831e4fbb",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attacklight_05.wem"
+            "sourceName": "vo_ningguang_battle_attackLight_05.wem"
         },
         "c26af9ae035993bd": {
             "hash": "c26af9ae035993bd",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_hit_l_05.wem"
+            "sourceName": "vo_ningguang_battle_hit_L_05.wem"
+        },
+        "c2ae3c65301a437a": {
+            "hash": "c2ae3c65301a437a",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_ningguang_01.wem"
+        },
+        "c41308919cfb1ba6": {
+            "hash": "c41308919cfb1ba6",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_04.wem"
         },
         "c5c9ac1f8bd229ce": {
             "hash": "c5c9ac1f8bd229ce",
@@ -1430,7 +1562,7 @@
             "hash": "ca0f4359847c4fa9",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_hit_h_05.wem"
+            "sourceName": "vo_ningguang_battle_hit_H_05.wem"
         },
         "cafaccd77f6bb9cf": {
             "hash": "cafaccd77f6bb9cf",
@@ -1450,12 +1582,6 @@
             "voiceContent": "跟了我那么久，你学会「观察」了吗。那么，试着来「观察」我吧，直到成为我的心腹为止",
             "sourceName": "vo_ningguang_dialog_close2.wem"
         },
-        "d88867024df69555": {
-            "hash": "d88867024df69555",
-            "directory": "External27",
-            "voiceContent": "心意我领了",
-            "sourceName": "vo_ningguang_spice_event_dislike_01.wem"
-        },
         "d9463c0dd8def17b": {
             "hash": "d9463c0dd8def17b",
             "directory": "External27",
@@ -1466,13 +1592,13 @@
             "hash": "da8ad0918f7ba783",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attackmid_03.wem"
+            "sourceName": "vo_ningguang_battle_attackMid_03.wem"
         },
         "dbb4bca339fda5bd": {
             "hash": "dbb4bca339fda5bd",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attackmid_01.wem"
+            "sourceName": "vo_ningguang_battle_attackMid_01.wem"
         },
         "dc1fe51c16e222fa": {
             "hash": "dc1fe51c16e222fa",
@@ -1491,6 +1617,12 @@
             "directory": "External28",
             "voiceContent": "蒙德城的代理团长，想必是一位严谨而又细腻的女性吧。且不说她恰如其分的用词，连每张信纸的边缘都折叠得一丝不苟。越是这些容易被人忽视的细节，越能透过它窥见一个人真正的品质",
             "sourceName": "vo_ningguang_teammate_qin_01.wem"
+        },
+        "e0c3daa99fca6883": {
+            "hash": "e0c3daa99fca6883",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_09.wem"
         },
         "e0ea35a0e0b47882": {
             "hash": "e0ea35a0e0b47882",
@@ -1532,7 +1664,7 @@
             "hash": "ec637ad5fcd1cec4",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_ningguang_battle_attacklight_06.wem"
+            "sourceName": "vo_ningguang_battle_attackLight_06.wem"
         },
         "efaeea53830fc27b": {
             "hash": "efaeea53830fc27b",
@@ -1540,11 +1672,11 @@
             "voiceContent": "雕虫小技",
             "sourceName": "vo_ningguang_battle_skill1_01.wem"
         },
-        "efee1161c8c09f59": {
-            "hash": "efee1161c8c09f59",
-            "directory": "External29",
-            "voiceContent": "不错。你总能出乎我的意料",
-            "sourceName": "vo_ningguang_spice_event_pref_01.wem"
+        "f3605871264edc44": {
+            "hash": "f3605871264edc44",
+            "directory": "External30",
+            "voiceContent": "#{M#这是选用上等的霓裳花织出的锦缎。这份是留给你的，这一份…等你找到自己的妹妹之后，拿去做件她喜欢的衣服吧。祝你们，生日快乐。}{F#这是选用上等的霓裳花织出的锦缎。拿去做件自己喜欢的衣服，过个开心点的生日吧。}",
+            "sourceName": "vo_ningguang_pref_birthday_b.wem"
         },
         "f3af689632d70a0e": {
             "hash": "f3af689632d70a0e",
@@ -1575,30 +1707,6 @@
             "directory": "External31",
             "voiceContent": "云堇啊…怎么样，你听得惯她的戏吗？起初可能是有些难懂，试着耐下性子多品味一下吧。我投资她的戏班不为别的，只是觉得，这般典雅的艺术，值得被一直传承下去",
             "sourceName": "vo_ningguang_teammate_yunjin_01.wem"
-        },
-        "23ea75df72660191": {
-            "hash": "23ea75df72660191",
-            "directory": "External4",
-            "voiceContent": "",
-            "sourceName": "vo_ningguang_suit_gown_03.wem"
-        },
-        "777f09d03be50cf7": {
-            "hash": "777f09d03be50cf7",
-            "directory": "External14",
-            "voiceContent": "",
-            "sourceName": "vo_ningguang_suit_gown_01.wem"
-        },
-        "a22d1be7b5c5e410": {
-            "hash": "a22d1be7b5c5e410",
-            "directory": "External20",
-            "voiceContent": "",
-            "sourceName": "vo_ningguang_suit_gown_02.wem"
-        },
-        "f3605871264edc44": {
-            "hash": "f3605871264edc44",
-            "directory": "External30",
-            "voiceContent": "#{M#这是选用上等的霓裳花织出的锦缎。这份是留给你的，这一份…等你找到自己的妹妹之后，拿去做件她喜欢的衣服吧。祝你们，生日快乐。}{F#这是选用上等的霓裳花织出的锦缎。拿去做件自己喜欢的衣服，过个开心点的生日吧。}",
-            "sourceName": "vo_ningguang_pref_birthday_b.wem"
         }
     }
 }

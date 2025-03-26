@@ -248,11 +248,569 @@
         }
     },
     "Quests": {
+        "008d11f75d745966": {
+            "hash": "008d11f75d745966",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_5.wem"
+        },
+        "01b19d85a50506b1": {
+            "hash": "01b19d85a50506b1",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_15.wem"
+        },
+        "02d5cc96a0139d22": {
+            "hash": "02d5cc96a0139d22",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_02.wem"
+        },
+        "039af5c3f5bdf2aa": {
+            "hash": "039af5c3f5bdf2aa",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ402_ningguang_01.wem"
+        },
+        "0453c049831a70a8": {
+            "hash": "0453c049831a70a8",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_09.wem"
+        },
+        "0b25a7b92fd53439": {
+            "hash": "0b25a7b92fd53439",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_12.wem"
+        },
+        "0e616a60eb13cc9d": {
+            "hash": "0e616a60eb13cc9d",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_04.wem"
+        },
+        "10825d47e3a03dcd": {
+            "hash": "10825d47e3a03dcd",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_02.wem"
+        },
+        "15f18ebaae902611": {
+            "hash": "15f18ebaae902611",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ404_4_ningguang_06.wem"
+        },
+        "174049abc21cfcd2": {
+            "hash": "174049abc21cfcd2",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_06.wem"
+        },
+        "180d5328c8834b84": {
+            "hash": "180d5328c8834b84",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_18.wem"
+        },
+        "18696dbd6c9da6a4": {
+            "hash": "18696dbd6c9da6a4",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_04.wem"
+        },
+        "1c4452e1f9825600": {
+            "hash": "1c4452e1f9825600",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_01.wem"
+        },
+        "1c6bc9fecce30117": {
+            "hash": "1c6bc9fecce30117",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ403_ningguang_03.wem"
+        },
+        "20fbb6107a482831": {
+            "hash": "20fbb6107a482831",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ403_ningguang_01.wem"
+        },
+        "24158ac050465e39": {
+            "hash": "24158ac050465e39",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_05.wem"
+        },
+        "25ca9e73337caaf7": {
+            "hash": "25ca9e73337caaf7",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_02.wem"
+        },
+        "282dde20159e78d0": {
+            "hash": "282dde20159e78d0",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_08.wem"
+        },
+        "2d270d651f3dd387": {
+            "hash": "2d270d651f3dd387",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_22.wem"
+        },
+        "2e4ff976c9be1ea1": {
+            "hash": "2e4ff976c9be1ea1",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_20.wem"
+        },
+        "34f493caeb960e2d": {
+            "hash": "34f493caeb960e2d",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ402_ningguang_02.wem"
+        },
+        "351a07d56f6c94a9": {
+            "hash": "351a07d56f6c94a9",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_01.wem"
+        },
+        "394d115278b60c83": {
+            "hash": "394d115278b60c83",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_13.wem"
+        },
+        "3a76fd6423380abd": {
+            "hash": "3a76fd6423380abd",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_11.wem"
+        },
+        "3e464efd4f85ba82": {
+            "hash": "3e464efd4f85ba82",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_09.wem"
+        },
+        "3e6919540f62336d": {
+            "hash": "3e6919540f62336d",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_24.wem"
+        },
+        "48b0dba95b9ac5bf": {
+            "hash": "48b0dba95b9ac5bf",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_10.wem"
+        },
+        "49f93bc462a3a32f": {
+            "hash": "49f93bc462a3a32f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_03.wem"
+        },
+        "4bdf7b59054c1db0": {
+            "hash": "4bdf7b59054c1db0",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_20_ningguang_02.wem"
+        },
+        "4e09af5ff884bede": {
+            "hash": "4e09af5ff884bede",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_05.wem"
+        },
+        "4f9181d6798dddf2": {
+            "hash": "4f9181d6798dddf2",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_1.wem"
+        },
+        "5078b08aad5d8210": {
+            "hash": "5078b08aad5d8210",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_01.wem"
+        },
+        "521cee992fa6531d": {
+            "hash": "521cee992fa6531d",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ404_4_ningguang_02.wem"
+        },
+        "5299e371a5ea5f80": {
+            "hash": "5299e371a5ea5f80",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_07.wem"
+        },
+        "59c115eef87b2c3d": {
+            "hash": "59c115eef87b2c3d",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ403_ningguang_05.wem"
+        },
+        "5d46ea9eced48145": {
+            "hash": "5d46ea9eced48145",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_01.wem"
+        },
+        "5d65da40072d51e9": {
+            "hash": "5d65da40072d51e9",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_08.wem"
+        },
+        "5e8efe51b1adfbe3": {
+            "hash": "5e8efe51b1adfbe3",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_06.wem"
+        },
+        "61a0beb07c0befbf": {
+            "hash": "61a0beb07c0befbf",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_07.wem"
+        },
+        "662cc0ea128ff8dc": {
+            "hash": "662cc0ea128ff8dc",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_08.wem"
+        },
+        "698622ab780f3177": {
+            "hash": "698622ab780f3177",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ404_4_ningguang_04.wem"
+        },
+        "6a423bad36754952": {
+            "hash": "6a423bad36754952",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_10.wem"
+        },
+        "6b6b5fbee0f5f324": {
+            "hash": "6b6b5fbee0f5f324",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_12.wem"
+        },
+        "70d1400029c09ec9": {
+            "hash": "70d1400029c09ec9",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_6.wem"
+        },
+        "7b644f7c3affb48e": {
+            "hash": "7b644f7c3affb48e",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_16.wem"
+        },
+        "7c8e438de581c030": {
+            "hash": "7c8e438de581c030",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_14.wem"
+        },
+        "80d5e29e70b52b7b": {
+            "hash": "80d5e29e70b52b7b",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_10.wem"
+        },
+        "81575fdd6fc184d5": {
+            "hash": "81575fdd6fc184d5",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_2.wem"
+        },
+        "824a73ef1a14844f": {
+            "hash": "824a73ef1a14844f",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_4.wem"
+        },
+        "83e79f7dd4913120": {
+            "hash": "83e79f7dd4913120",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_21.wem"
+        },
+        "8a6b3f3e79c8ccca": {
+            "hash": "8a6b3f3e79c8ccca",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_01.wem"
+        },
+        "91fdad44d8e13df3": {
+            "hash": "91fdad44d8e13df3",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_26.wem"
+        },
+        "943434c2f1f00890": {
+            "hash": "943434c2f1f00890",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ404_4_ningguang_07.wem"
+        },
         "968d6789d39828da": {
             "hash": "968d6789d39828da",
             "directory": "External18",
             "voiceContent": "흥, 어딜 감히. 이 일이 끝나면 스네즈나야의 외교관은 모두 가만두지 않겠어",
             "sourceName": "vo_LYAQ205_4_ningguang_01.wem"
+        },
+        "978e40f3d3c5e74b": {
+            "hash": "978e40f3d3c5e74b",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_08.wem"
+        },
+        "9933bba37eead21b": {
+            "hash": "9933bba37eead21b",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_07.wem"
+        },
+        "9a5da7b5296cd035": {
+            "hash": "9a5da7b5296cd035",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_05.wem"
+        },
+        "9aae68071042d60e": {
+            "hash": "9aae68071042d60e",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ403_ningguang_02.wem"
+        },
+        "9ae179b06388eed6": {
+            "hash": "9ae179b06388eed6",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_11.wem"
+        },
+        "9d668d208833eb15": {
+            "hash": "9d668d208833eb15",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_19.wem"
+        },
+        "9ef230c890c317b8": {
+            "hash": "9ef230c890c317b8",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_04.wem"
+        },
+        "9f7d5069c97758cc": {
+            "hash": "9f7d5069c97758cc",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_05.wem"
+        },
+        "a0a73c7b73f956ee": {
+            "hash": "a0a73c7b73f956ee",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_03.wem"
+        },
+        "a19e4350c203c93c": {
+            "hash": "a19e4350c203c93c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_03.wem"
+        },
+        "a7fd1f08f700b037": {
+            "hash": "a7fd1f08f700b037",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_19_ningguang_01.wem"
+        },
+        "a9eb3817d23e9651": {
+            "hash": "a9eb3817d23e9651",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_09.wem"
+        },
+        "ababbd6829fcd381": {
+            "hash": "ababbd6829fcd381",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_06.wem"
+        },
+        "b0db3e8f98531f6b": {
+            "hash": "b0db3e8f98531f6b",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_03.wem"
+        },
+        "b0f64c58b9cade9a": {
+            "hash": "b0f64c58b9cade9a",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_07.wem"
+        },
+        "b3d15cb783fa18d6": {
+            "hash": "b3d15cb783fa18d6",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_06.wem"
+        },
+        "c301a60731ae6808": {
+            "hash": "c301a60731ae6808",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_7.wem"
+        },
+        "c4d5d9cca3204f46": {
+            "hash": "c4d5d9cca3204f46",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_17_ningguang_02.wem"
+        },
+        "c61079d3c9f9999c": {
+            "hash": "c61079d3c9f9999c",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ402_ningguang_03.wem"
+        },
+        "cc72e93f176a3d17": {
+            "hash": "cc72e93f176a3d17",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_20_ningguang_01.wem"
+        },
+        "cef8e36d047ebfec": {
+            "hash": "cef8e36d047ebfec",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_10.wem"
+        },
+        "d102d550c4cf6431": {
+            "hash": "d102d550c4cf6431",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_20_ningguang_03.wem"
+        },
+        "d1aadae13149446d": {
+            "hash": "d1aadae13149446d",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_09.wem"
+        },
+        "d2ac312070e33b50": {
+            "hash": "d2ac312070e33b50",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_19_ningguang_02.wem"
+        },
+        "d2eaff5cf0a8e7dc": {
+            "hash": "d2eaff5cf0a8e7dc",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_25.wem"
+        },
+        "d414eb6e9b2ae5fe": {
+            "hash": "d414eb6e9b2ae5fe",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_23.wem"
+        },
+        "df42ec0006c984d9": {
+            "hash": "df42ec0006c984d9",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02b_1.wem"
+        },
+        "e071df5bf4d245ba": {
+            "hash": "e071df5bf4d245ba",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_12.wem"
+        },
+        "e338d4a20e09df4c": {
+            "hash": "e338d4a20e09df4c",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ404_4_ningguang_03.wem"
+        },
+        "e462c0b3b88bdd6e": {
+            "hash": "e462c0b3b88bdd6e",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ404_4_ningguang_05.wem"
+        },
+        "e5f085741bdb1df0": {
+            "hash": "e5f085741bdb1df0",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_21_ningguang_01.wem"
+        },
+        "ec35ada4f3431e9b": {
+            "hash": "ec35ada4f3431e9b",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_11.wem"
+        },
+        "ed5f99b69dc51cb5": {
+            "hash": "ed5f99b69dc51cb5",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_13_ningguang_13.wem"
+        },
+        "ee42fbf7d9c1e16c": {
+            "hash": "ee42fbf7d9c1e16c",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ403_ningguang_04.wem"
+        },
+        "f4b1d090fe5d651a": {
+            "hash": "f4b1d090fe5d651a",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ404_4_ningguang_01.wem"
+        },
+        "fbd95158f09702e7": {
+            "hash": "fbd95158f09702e7",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_04.wem"
+        },
+        "fc08585af490749b": {
+            "hash": "fc08585af490749b",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ005_ningguang_01.wem"
+        },
+        "fd21b173f79fdf97": {
+            "hash": "fd21b173f79fdf97",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ402_6_ningguang_17.wem"
+        },
+        "fee270a6b3e75532": {
+            "hash": "fee270a6b3e75532",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ403_2_ningguang_11.wem"
+        },
+        "ff6325e5b2f25b44": {
+            "hash": "ff6325e5b2f25b44",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_7_ningguang_02a_3.wem"
         }
     },
     "Gameplay": {
@@ -315,6 +873,12 @@
             "directory": "External3",
             "voiceContent": "",
             "sourceName": "vo_ningguang_suit_gown_03.wem"
+        },
+        "1ce1495fb611a70c": {
+            "hash": "1ce1495fb611a70c",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_09.wem"
         },
         "1d9cf7076874025a": {
             "hash": "1d9cf7076874025a",
@@ -448,6 +1012,12 @@
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_ningguang_battle_hit_H_05.wem"
         },
+        "3ee387040345dd9b": {
+            "hash": "3ee387040345dd9b",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_02.wem"
+        },
         "3f79a0609cb1463c": {
             "hash": "3f79a0609cb1463c",
             "directory": "External7",
@@ -472,11 +1042,11 @@
             "voiceContent": "넌 그런 번거로운 예절 따지지 말고 편하게 해도 돼. 하지만 내 시간을 소중히 여겨줘. 설명은 간단명료하게 하도록 해",
             "sourceName": "vo_ningguang_friendship_01.wem"
         },
-        "4b08b7b17ece2b10": {
-            "hash": "4b08b7b17ece2b10",
-            "directory": "External9",
-            "voiceContent": "핵심을 파악하지 못한다면 다 무용지물이 되는 수 있어… 무슨 말인지 알겠니?",
-            "sourceName": "vo_ningguang_spice_event_normal_01.wem"
+        "43d5d0addaad2220": {
+            "hash": "43d5d0addaad2220",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ningguang_teammate_xianyun_01.wem"
         },
         "4df9850f91b8da7a": {
             "hash": "4df9850f91b8da7a",
@@ -573,6 +1143,12 @@
             "directory": "External13",
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_ningguang_explore_climb_04.wem"
+        },
+        "6a85a52d277b5ac6": {
+            "hash": "6a85a52d277b5ac6",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_07.wem"
         },
         "6aaa572794882757": {
             "hash": "6aaa572794882757",
@@ -688,11 +1264,11 @@
             "voiceContent": "내 방법을 따라 모라로 편리를 도모해도 돼. 그러나 모라로 유지되는 관계는 일시적이라는 것을 기억해. 훗, 그래서 난 널 모라로 떠보지 않아",
             "sourceName": "vo_ningguang_friendship_04.wem"
         },
-        "88fa8629d9d4ee84": {
-            "hash": "88fa8629d9d4ee84",
-            "directory": "External17",
-            "voiceContent": "마음만 받을게",
-            "sourceName": "vo_ningguang_spice_event_dislike_01.wem"
+        "851eb93f72999be8": {
+            "hash": "851eb93f72999be8",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_05.wem"
         },
         "8a3ea5a24fcc9b40": {
             "hash": "8a3ea5a24fcc9b40",
@@ -705,6 +1281,12 @@
             "directory": "External17",
             "voiceContent": "한 번의 실수로 모든 걸 잃었네…",
             "sourceName": "vo_card_ningguang_endOfGame_fail_01.wem"
+        },
+        "8bc56356d7ae1bdd": {
+            "hash": "8bc56356d7ae1bdd",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_08.wem"
         },
         "8e72603d64d18c0a": {
             "hash": "8e72603d64d18c0a",
@@ -747,6 +1329,12 @@
             "directory": "External19",
             "voiceContent": "난 경솔하게 남을 인정하지 않지만 지금 보니 칭찬하지 않고는 못 배기겠어. 아주 잘했어. 나한테 너 같은 부하가 더 있다면…아니, 너 하나로 충분할지도 몰라",
             "sourceName": "vo_ningguang_starUp_04.wem"
+        },
+        "9b06be51bb2a6337": {
+            "hash": "9b06be51bb2a6337",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_ningguang_01.wem"
         },
         "9b94b93a00e263db": {
             "hash": "9b94b93a00e263db",
@@ -904,6 +1492,18 @@
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_ningguang_explore_sprint_start_03.wem"
         },
+        "bcf0150c46780852": {
+            "hash": "bcf0150c46780852",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_03.wem"
+        },
+        "be19391df0f8b224": {
+            "hash": "be19391df0f8b224",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_01.wem"
+        },
         "bf58a70fd3266bbf": {
             "hash": "bf58a70fd3266bbf",
             "directory": "External23",
@@ -927,6 +1527,12 @@
             "directory": "External24",
             "voiceContent": "너에게 승산은 없어",
             "sourceName": "vo_card_ningguang_inGame_hard_04.wem"
+        },
+        "c3f2854aa56869f6": {
+            "hash": "c3f2854aa56869f6",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_10.wem"
         },
         "c3f49661f3a91263": {
             "hash": "c3f49661f3a91263",
@@ -988,6 +1594,12 @@
             "voiceContent": "넌 날 실망시키지 않네",
             "sourceName": "vo_card_ningguang_inGame_easy_03.wem"
         },
+        "dac9d335f3c7a029": {
+            "hash": "dac9d335f3c7a029",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_04.wem"
+        },
         "db03500424e887ea": {
             "hash": "db03500424e887ea",
             "directory": "External27",
@@ -1048,11 +1660,11 @@
             "voiceContent": "두고 보자",
             "sourceName": "vo_ningguang_battle_hit_H_01.wem"
         },
-        "f6e53b4240942cca": {
-            "hash": "f6e53b4240942cca",
-            "directory": "External30",
-            "voiceContent": "훌륭해, 넌 항상 내 예상을 뒤엎는군",
-            "sourceName": "vo_ningguang_spice_event_pref_01.wem"
+        "efa90724e6feaeaf": {
+            "hash": "efa90724e6feaeaf",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_7_ningguang_06.wem"
         },
         "f9223b225517a3f7": {
             "hash": "f9223b225517a3f7",

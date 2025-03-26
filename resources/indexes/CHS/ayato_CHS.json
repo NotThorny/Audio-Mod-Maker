@@ -325,7 +325,122 @@
             "sourceName": "vo_ayato_mimitomo_friendship2_2b_2.wem"
         }
     },
-    "Quests": {},
+    "Quests": {
+        "0357eec5eae6a271": {
+            "hash": "0357eec5eae6a271",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_02.wem"
+        },
+        "0b68ed368d1269d2": {
+            "hash": "0b68ed368d1269d2",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_03.wem"
+        },
+        "0c921148379313a4": {
+            "hash": "0c921148379313a4",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_01.wem"
+        },
+        "2942ab603a6201a9": {
+            "hash": "2942ab603a6201a9",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_04.wem"
+        },
+        "3af26292be95f543": {
+            "hash": "3af26292be95f543",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_04.wem"
+        },
+        "3de3c2c9c70fa30a": {
+            "hash": "3de3c2c9c70fa30a",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_1_ayato_02.wem"
+        },
+        "3e21df4f2d99102f": {
+            "hash": "3e21df4f2d99102f",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_06.wem"
+        },
+        "64f53b2bb31c2b35": {
+            "hash": "64f53b2bb31c2b35",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_05a_1.wem"
+        },
+        "7cd70e450f120fc6": {
+            "hash": "7cd70e450f120fc6",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_ayato_01.wem"
+        },
+        "8070a0bc83c4794e": {
+            "hash": "8070a0bc83c4794e",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_01.wem"
+        },
+        "819a94ce2e4684f0": {
+            "hash": "819a94ce2e4684f0",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_03.wem"
+        },
+        "8d5c5f2e49e03f1b": {
+            "hash": "8d5c5f2e49e03f1b",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_02.wem"
+        },
+        "977022575a3050e8": {
+            "hash": "977022575a3050e8",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_ayato_03.wem"
+        },
+        "ab13920bb3505c0e": {
+            "hash": "ab13920bb3505c0e",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_ayato_05b_1.wem"
+        },
+        "b8fe7d576e15bc46": {
+            "hash": "b8fe7d576e15bc46",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_07.wem"
+        },
+        "c2cff4c186636313": {
+            "hash": "c2cff4c186636313",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_1_ayato_03.wem"
+        },
+        "c3f9e0d330e5610d": {
+            "hash": "c3f9e0d330e5610d",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_1_ayato_01.wem"
+        },
+        "d3979169b933fd68": {
+            "hash": "d3979169b933fd68",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_8_ayato_05.wem"
+        },
+        "ed1b3c4ddb5e5529": {
+            "hash": "ed1b3c4ddb5e5529",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_ayato_02.wem"
+        }
+    },
     "Gameplay": {
         "00be776bc2b7ab03": {
             "hash": "00be776bc2b7ab03",
@@ -338,6 +453,12 @@
             "directory": "External0",
             "voiceContent": "SFX",
             "sourceName": "vo_ayato_explore_climb_breath_03.wem"
+        },
+        "0376e7b4cb162c02": {
+            "hash": "0376e7b4cb162c02",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_battle_skill1_04.wem"
         },
         "04a1081ac19d18f3": {
             "hash": "04a1081ac19d18f3",
@@ -403,7 +524,7 @@
             "hash": "1fd04b95ab784fa6",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_l_06.wem"
+            "sourceName": "vo_ayato_battle_hit_L_06.wem"
         },
         "211d8c09d0323ac3": {
             "hash": "211d8c09d0323ac3",
@@ -416,6 +537,12 @@
             "directory": "External4",
             "voiceContent": "SFX",
             "sourceName": "vo_ayato_explore_jump_05.wem"
+        },
+        "24b6a5de7b48ed19": {
+            "hash": "24b6a5de7b48ed19",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_battle_skill1_03.wem"
         },
         "25ad781b7d9761fd": {
             "hash": "25ad781b7d9761fd",
@@ -457,19 +584,13 @@
             "hash": "2a1d2ffdb8f2261d",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_h_05.wem"
+            "sourceName": "vo_ayato_battle_hit_H_05.wem"
         },
         "2c6743713813c88c": {
             "hash": "2c6743713813c88c",
             "directory": "External5",
             "voiceContent": "一想起家臣们一脸焦急却又不敢开口阻拦的样子，就忍不住觉得有趣。呵，出来走走是不错",
             "sourceName": "vo_ayato_character_idle_03.wem"
-        },
-        "3258d01dac82f893": {
-            "hash": "3258d01dac82f893",
-            "directory": "External6",
-            "voiceContent": "给你个建议，下次把这道菜加进火锅游戏里吧",
-            "sourceName": "vo_ayato_spice_event_dislike_01.wem"
         },
         "350c26676dc9ca74": {
             "hash": "350c26676dc9ca74",
@@ -499,7 +620,7 @@
             "hash": "3d7e02351e9c7160",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_06.wem"
+            "sourceName": "vo_ayato_battle_attackLight_06.wem"
         },
         "40f1e2c4b5e43946": {
             "hash": "40f1e2c4b5e43946",
@@ -517,13 +638,13 @@
             "hash": "41866410015b0477",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_h_03.wem"
+            "sourceName": "vo_ayato_battle_hit_H_03.wem"
         },
         "419f47a8d02168f9": {
             "hash": "419f47a8d02168f9",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackmid_01.wem"
+            "sourceName": "vo_ayato_battle_attackMid_01.wem"
         },
         "42ce0900b5956009": {
             "hash": "42ce0900b5956009",
@@ -595,7 +716,7 @@
             "hash": "4efa0ffc25cfa633",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_01.wem"
+            "sourceName": "vo_ayato_battle_attackLight_01.wem"
         },
         "4f7086446829f47e": {
             "hash": "4f7086446829f47e",
@@ -639,6 +760,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_ayato_explore_climb_05.wem"
         },
+        "5cbed9ab4f5658cb": {
+            "hash": "5cbed9ab4f5658cb",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_battle_skill1_05.wem"
+        },
         "61335860e9980f24": {
             "hash": "61335860e9980f24",
             "directory": "External12",
@@ -679,7 +806,7 @@
             "hash": "6ed4bb74c791d432",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_l_02.wem"
+            "sourceName": "vo_ayato_battle_hit_L_02.wem"
         },
         "70debe73fba4b3c0": {
             "hash": "70debe73fba4b3c0",
@@ -703,7 +830,7 @@
             "hash": "7836ddc65510f758",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackheavy_01.wem"
+            "sourceName": "vo_ayato_battle_attackHeavy_01.wem"
         },
         "79ec352b464a2eea": {
             "hash": "79ec352b464a2eea",
@@ -729,17 +856,11 @@
             "voiceContent": "午饭如果有偏好的菜色，提前和家仆说就好。你是我的贵客，他们也应对你尽心尽力",
             "sourceName": "vo_ayato_dialog_greetingNoon.wem"
         },
-        "7e75d0ce918325cb": {
-            "hash": "7e75d0ce918325cb",
-            "directory": "External15",
-            "voiceContent": "挺新奇的滋味。呵呵，很符合我的要求",
-            "sourceName": "vo_ayato_spice_event_pref_01.wem"
-        },
         "7f2a7b98fbe6fa7f": {
             "hash": "7f2a7b98fbe6fa7f",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackmid_03.wem"
+            "sourceName": "vo_ayato_battle_attackMid_03.wem"
         },
         "819d4b51ea6b914b": {
             "hash": "819d4b51ea6b914b",
@@ -763,25 +884,25 @@
             "hash": "8c8262143ab5da1c",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_02.wem"
+            "sourceName": "vo_ayato_battle_attackLight_02.wem"
         },
         "8d1609b54847f876": {
             "hash": "8d1609b54847f876",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackheavy_03.wem"
+            "sourceName": "vo_ayato_battle_attackHeavy_03.wem"
         },
         "9014799e77c49509": {
             "hash": "9014799e77c49509",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_l_05.wem"
+            "sourceName": "vo_ayato_battle_hit_L_05.wem"
         },
         "91124e25e81b013e": {
             "hash": "91124e25e81b013e",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_04.wem"
+            "sourceName": "vo_ayato_battle_attackLight_04.wem"
         },
         "91b81acfc4c4cbbe": {
             "hash": "91b81acfc4c4cbbe",
@@ -873,6 +994,12 @@
             "voiceContent": "哦？有趣的打法",
             "sourceName": "vo_card_ayato_inGame_easy_03.wem"
         },
+        "b3494bc4047bf054": {
+            "hash": "b3494bc4047bf054",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_battle_skill1_06.wem"
+        },
         "b3d96c0d9c5add5c": {
             "hash": "b3d96c0d9c5add5c",
             "directory": "External22",
@@ -895,7 +1022,7 @@
             "hash": "bb3916069755b24c",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_h_04.wem"
+            "sourceName": "vo_ayato_battle_hit_H_04.wem"
         },
         "bb5488065d4b801a": {
             "hash": "bb5488065d4b801a",
@@ -949,7 +1076,7 @@
             "hash": "ccb211f587a9381a",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_h_06.wem"
+            "sourceName": "vo_ayato_battle_hit_H_06.wem"
         },
         "ccb2e8d827af490b": {
             "hash": "ccb2e8d827af490b",
@@ -961,7 +1088,7 @@
             "hash": "d15b19a003d52296",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackmid_02.wem"
+            "sourceName": "vo_ayato_battle_attackMid_02.wem"
         },
         "d289daf7e9491aa6": {
             "hash": "d289daf7e9491aa6",
@@ -1003,19 +1130,13 @@
             "hash": "e245dfa57fb41248",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_l_04.wem"
+            "sourceName": "vo_ayato_battle_hit_L_04.wem"
         },
         "e2c0ebabc9759ddf": {
             "hash": "e2c0ebabc9759ddf",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attackheavy_02.wem"
-        },
-        "e31f558305326fe5": {
-            "hash": "e31f558305326fe5",
-            "directory": "External28",
-            "voiceContent": "原来如此。你对这道菜的理解是这样的",
-            "sourceName": "vo_ayato_spice_event_normal_01.wem"
+            "sourceName": "vo_ayato_battle_attackHeavy_02.wem"
         },
         "e4ded276a7300856": {
             "hash": "e4ded276a7300856",
@@ -1027,7 +1148,7 @@
             "hash": "e6bd701c694913c7",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_05.wem"
+            "sourceName": "vo_ayato_battle_attackLight_05.wem"
         },
         "e7633cc645f2de47": {
             "hash": "e7633cc645f2de47",
@@ -1045,7 +1166,7 @@
             "hash": "eb4d5c2e16ae3ae1",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_07.wem"
+            "sourceName": "vo_ayato_battle_attackLight_07.wem"
         },
         "eb896bc26bea8db2": {
             "hash": "eb896bc26bea8db2",
@@ -1075,7 +1196,7 @@
             "hash": "edf1d01f37dbf911",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_h_01.wem"
+            "sourceName": "vo_ayato_battle_hit_H_01.wem"
         },
         "f052fe51ded1a133": {
             "hash": "f052fe51ded1a133",
@@ -1087,7 +1208,7 @@
             "hash": "f0c82d6c845faa7b",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_hit_l_03.wem"
+            "sourceName": "vo_ayato_battle_hit_L_03.wem"
         },
         "f1396b9501a000ff": {
             "hash": "f1396b9501a000ff",
@@ -1106,6 +1227,12 @@
             "directory": "External30",
             "voiceContent": "SFX",
             "sourceName": "vo_ayato_explore_climb_01.wem"
+        },
+        "f4235e43d6c34bf4": {
+            "hash": "f4235e43d6c34bf4",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_ayato_01.wem"
         },
         "f7133a58c44835b4": {
             "hash": "f7133a58c44835b4",
@@ -1129,7 +1256,7 @@
             "hash": "fb667c0b5c524ead",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_ayato_battle_attacklight_03.wem"
+            "sourceName": "vo_ayato_battle_attackLight_03.wem"
         },
         "fb73672302bc78f3": {
             "hash": "fb73672302bc78f3",

@@ -344,6 +344,12 @@
             "voiceContent": "산 중턱에서 약초 바구니를 발견했어. 치치의 물건 같은데, 정작 본인은 여기에 없는 것 같",
             "sourceName": "vo_EQHDJ402_5_yelan_04.wem"
         },
+        "503a2ceb622dbaf3": {
+            "hash": "503a2ceb622dbaf3",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_CYAQ001_1_yelan_19.wem"
+        },
         "52c3e9d2083e0519": {
             "hash": "52c3e9d2083e0519",
             "directory": "External10",
@@ -566,13 +572,19 @@
             "hash": "08138284ed0c653e",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackheavy_02.wem"
+            "sourceName": "vo_yelan_battle_attackHeavy_02.wem"
         },
         "10313b38e9d2363b": {
             "hash": "10313b38e9d2363b",
             "directory": "External2",
             "voiceContent": "SFX",
             "sourceName": "vo_yelan_explore_fly_start_03.wem"
+        },
+        "125906c2c0129943": {
+            "hash": "125906c2c0129943",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_easy_02.wem"
         },
         "1519513dabda24b0": {
             "hash": "1519513dabda24b0",
@@ -596,7 +608,7 @@
             "hash": "170d484807ee798b",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackmid_02.wem"
+            "sourceName": "vo_yelan_battle_attackMid_02.wem"
         },
         "179235d91e056519": {
             "hash": "179235d91e056519",
@@ -614,7 +626,7 @@
             "hash": "22752cc7fd6b19cc",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_03.wem"
+            "sourceName": "vo_yelan_battle_attackLight_03.wem"
         },
         "22d86419948f033e": {
             "hash": "22d86419948f033e",
@@ -626,7 +638,7 @@
             "hash": "239f18d9a7ed17ee",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_05.wem"
+            "sourceName": "vo_yelan_battle_attackLight_05.wem"
         },
         "24b61e0eb62a72ba": {
             "hash": "24b61e0eb62a72ba",
@@ -674,13 +686,13 @@
             "hash": "3295bfb8fb62062a",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_03.wem"
+            "sourceName": "vo_yelan_battle_hit_H_03.wem"
         },
         "33ee28b6edbe9f9a": {
             "hash": "33ee28b6edbe9f9a",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_01.wem"
+            "sourceName": "vo_yelan_battle_attackLight_01.wem"
         },
         "3a55474d76384b95": {
             "hash": "3a55474d76384b95",
@@ -693,6 +705,12 @@
             "directory": "External7",
             "voiceContent": "새로운 변수야",
             "sourceName": "vo_yelan_life_less30_03.wem"
+        },
+        "3cda8deb6c96ce45": {
+            "hash": "3cda8deb6c96ce45",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_hard_03.wem"
         },
         "3ce276527ff5df93": {
             "hash": "3ce276527ff5df93",
@@ -724,23 +742,23 @@
             "voiceContent": "향릉은 아주 기특한 요리사지. 식재료를 고르는 기준도 유리정과 신월헌 못지않아. 향릉한테서 바람에 말린 절운고추를 사곤 하는데, 그 애는 내가 매운 걸 먹는 방식이 이해 안 가는 모양이야. 물론 구태여 설명하고 싶진 않아. 우리 가문의 전통이거",
             "sourceName": "vo_yelan_teammate_xiangling_01.wem"
         },
-        "4a472a1f33ff1ba7": {
-            "hash": "4a472a1f33ff1ba7",
-            "directory": "External9",
-            "voiceContent": "주사위 한번 던져 볼래? 나보다 작은 숫자가 나오면… 네가 먹는 걸로",
-            "sourceName": "vo_yelan_spice_event_dislike_01.wem"
-        },
         "4f4651d0fe30e6c7": {
             "hash": "4f4651d0fe30e6c7",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_06.wem"
+            "sourceName": "vo_yelan_battle_hit_H_06.wem"
         },
         "517ae7855fee204a": {
             "hash": "517ae7855fee204a",
             "directory": "External10",
             "voiceContent": "아프다고 울지",
             "sourceName": "vo_yelan_battle_skill1_03.wem"
+        },
+        "529a1f60acfc9f1b": {
+            "hash": "529a1f60acfc9f1b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_leave_01.wem"
         },
         "531481ff01838547": {
             "hash": "531481ff01838547",
@@ -752,13 +770,13 @@
             "hash": "53d63de2ab960de1",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_04.wem"
+            "sourceName": "vo_yelan_battle_hit_H_04.wem"
         },
         "552de6e09df16091": {
             "hash": "552de6e09df16091",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_06.wem"
+            "sourceName": "vo_yelan_battle_attackLight_06.wem"
         },
         "56de62d8c4c9394f": {
             "hash": "56de62d8c4c9394f",
@@ -776,13 +794,19 @@
             "hash": "5dbea47b6e3a77c7",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackheavy_03.wem"
+            "sourceName": "vo_yelan_battle_attackHeavy_03.wem"
+        },
+        "606d6d565cf19239": {
+            "hash": "606d6d565cf19239",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_endOfGame_fail_01.wem"
         },
         "624e908d1b9f9ee1": {
             "hash": "624e908d1b9f9ee1",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackheavy_01.wem"
+            "sourceName": "vo_yelan_battle_attackHeavy_01.wem"
         },
         "627676fd4e0094b4": {
             "hash": "627676fd4e0094b4",
@@ -812,7 +836,7 @@
             "hash": "6a31ba60ba30e814",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackmid_01.wem"
+            "sourceName": "vo_yelan_battle_attackMid_01.wem"
         },
         "6b1f17f775ce1492": {
             "hash": "6b1f17f775ce1492",
@@ -825,6 +849,12 @@
             "directory": "External13",
             "voiceContent": "타깃이 걸려들었구나",
             "sourceName": "vo_yelan_teamJoin_01.wem"
+        },
+        "71741e2542149e4f": {
+            "hash": "71741e2542149e4f",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_endOfGame_win_01.wem"
         },
         "74a16245584dbfd1": {
             "hash": "74a16245584dbfd1",
@@ -842,7 +872,7 @@
             "hash": "75432ff06f84e055",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_04.wem"
+            "sourceName": "vo_yelan_battle_hit_L_04.wem"
         },
         "7636440219d7dfcf": {
             "hash": "7636440219d7dfcf",
@@ -940,6 +970,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yelan_explore_climb_breath_03.wem"
         },
+        "906ee1dc36156c6b": {
+            "hash": "906ee1dc36156c6b",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_hard_01.wem"
+        },
         "9147d6e4a7dfd18c": {
             "hash": "9147d6e4a7dfd18c",
             "directory": "External18",
@@ -950,7 +986,7 @@
             "hash": "915946bf1f078d9d",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_02.wem"
+            "sourceName": "vo_yelan_battle_attackLight_02.wem"
         },
         "95acbf23bdf84417": {
             "hash": "95acbf23bdf84417",
@@ -969,12 +1005,6 @@
             "directory": "External19",
             "voiceContent": "하암~ 일찍 일어났네? 난 중요한 업무가 없으면 점심까지 푹 자는 편이",
             "sourceName": "vo_yelan_dialog_greetingMorning.wem"
-        },
-        "9960daedad83fd6f": {
-            "hash": "9960daedad83fd6f",
-            "directory": "External19",
-            "voiceContent": "음, 솜씨가 제법인데? 하마터면 이 뇌물에 넘어갈 뻔했",
-            "sourceName": "vo_yelan_spice_event_pref_01.wem"
         },
         "99b9117481e10d62": {
             "hash": "99b9117481e10d62",
@@ -1034,7 +1064,7 @@
             "hash": "a606e3e9b3844460",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_05.wem"
+            "sourceName": "vo_yelan_battle_hit_H_05.wem"
         },
         "a6623bb7c89cfc45": {
             "hash": "a6623bb7c89cfc45",
@@ -1042,11 +1072,17 @@
             "voiceContent": "매운맛에 익숙해진 뒤로 다른 요리는 뭔가 부족한 느낌이야. 어쩔 수 없",
             "sourceName": "vo_yelan_spice_normal_01.wem"
         },
+        "a804d8dd4bdb4bac": {
+            "hash": "a804d8dd4bdb4bac",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_easy_01.wem"
+        },
         "a8c27ad167706bf7": {
             "hash": "a8c27ad167706bf7",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_04.wem"
+            "sourceName": "vo_yelan_battle_attackLight_04.wem"
         },
         "a9d51417b6d6e2e0": {
             "hash": "a9d51417b6d6e2e0",
@@ -1088,13 +1124,13 @@
             "hash": "b6ed761a3171c388",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_01.wem"
+            "sourceName": "vo_yelan_battle_hit_L_01.wem"
         },
         "b782f1b0bab77933": {
             "hash": "b782f1b0bab77933",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_02.wem"
+            "sourceName": "vo_yelan_battle_hit_H_02.wem"
         },
         "bc9da7482054ded5": {
             "hash": "bc9da7482054ded5",
@@ -1102,11 +1138,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yelan_explore_fly_start_01.wem"
         },
+        "bce3d4cc3f11fb7a": {
+            "hash": "bce3d4cc3f11fb7a",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_easy_03.wem"
+        },
         "bdc5565183ae4dc2": {
             "hash": "bdc5565183ae4dc2",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackmid_03.wem"
+            "sourceName": "vo_yelan_battle_attackMid_03.wem"
         },
         "be192a9f3039d691": {
             "hash": "be192a9f3039d691",
@@ -1120,12 +1162,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yelan_explore_sprint_start_03.wem"
         },
-        "c6a1c19df1f7c759": {
-            "hash": "c6a1c19df1f7c759",
-            "directory": "External24",
-            "voiceContent": "매운맛에 익숙해진 뒤로 다른 요리는 뭔가 부족한 느낌이야. 어쩔 수 없",
-            "sourceName": "vo_yelan_spice_event_normal_01.wem"
-        },
         "c8457e7b70085d59": {
             "hash": "c8457e7b70085d59",
             "directory": "External25",
@@ -1136,7 +1172,7 @@
             "hash": "c8d6c3e1390237bb",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_06.wem"
+            "sourceName": "vo_yelan_battle_hit_L_06.wem"
         },
         "cd6ad056000ac772": {
             "hash": "cd6ad056000ac772",
@@ -1172,7 +1208,7 @@
             "hash": "d3708ce8e1514310",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_07.wem"
+            "sourceName": "vo_yelan_battle_attackLight_07.wem"
         },
         "d52100e108290e66": {
             "hash": "d52100e108290e66",
@@ -1222,6 +1258,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yelan_explore_climb_breath_02.wem"
         },
+        "e39253f4e85627f4": {
+            "hash": "e39253f4e85627f4",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_hard_02.wem"
+        },
         "e8728985331d7d27": {
             "hash": "e8728985331d7d27",
             "directory": "External29",
@@ -1238,7 +1280,7 @@
             "hash": "f34ef5f8b2b5b6c4",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_05.wem"
+            "sourceName": "vo_yelan_battle_hit_L_05.wem"
         },
         "f42b2f7cb0a3a385": {
             "hash": "f42b2f7cb0a3a385",
@@ -1250,7 +1292,7 @@
             "hash": "f478e20a5d37b4e6",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_03.wem"
+            "sourceName": "vo_yelan_battle_hit_L_03.wem"
         },
         "f4aea4e98b0253d0": {
             "hash": "f4aea4e98b0253d0",
@@ -1293,6 +1335,12 @@
             "directory": "External31",
             "voiceContent": "연비? 꽤 마음에 들어. 과거의 친분을 떠나서 명성이 자자한 법률 자문가인 연비에게 리월항의 수많은 정보가 모이기 마련이지. 매번 연비를 도와 사건을 해결할 때마다 귀한 단서를 얻을 수 있어. 다만 나한테 너무 깍듯하게 대하는 것 같",
             "sourceName": "vo_yelan_teammate_yanfei_01.wem"
+        },
+        "fd30080ce6edba7e": {
+            "hash": "fd30080ce6edba7e",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_freetalk_01.wem"
         },
         "fd696008805572be": {
             "hash": "fd696008805572be",

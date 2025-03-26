@@ -722,7 +722,7 @@
             "hash": "0755c40b4df2bdce",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_l_06.wem"
+            "sourceName": "vo_yunjin_battle_hit_L_06.wem"
         },
         "08424e063b290c25": {
             "hash": "08424e063b290c25",
@@ -734,7 +734,7 @@
             "hash": "087fb81cf874c970",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_l_04.wem"
+            "sourceName": "vo_yunjin_battle_hit_L_04.wem"
         },
         "088364cb045de757": {
             "hash": "088364cb045de757",
@@ -778,6 +778,12 @@
             "voiceContent": "As the saying goes Achievement in a field is the result of how hard you are willing to work at it, not how much you enjoy it.",
             "sourceName": "vo_yunjin_starUp_01.wem"
         },
+        "19b3810a22a8ce46": {
+            "hash": "19b3810a22a8ce46",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_hard_03.wem"
+        },
         "19bd4d6e810c3792": {
             "hash": "19bd4d6e810c3792",
             "directory": "External3",
@@ -806,7 +812,7 @@
             "hash": "20c51675fee98ec5",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_h_05.wem"
+            "sourceName": "vo_yunjin_battle_hit_H_05.wem"
         },
         "24be7b9b7fc21db6": {
             "hash": "24be7b9b7fc21db6",
@@ -818,7 +824,7 @@
             "hash": "251eea87ac20fd3f",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_h_03.wem"
+            "sourceName": "vo_yunjin_battle_hit_H_03.wem"
         },
         "25294a6f02266e1c": {
             "hash": "25294a6f02266e1c",
@@ -830,13 +836,37 @@
             "hash": "2689f6614ba5a4ee",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackheavy_03.wem"
+            "sourceName": "vo_yunjin_battle_attackHeavy_03.wem"
+        },
+        "289f0c7725e1bb6a": {
+            "hash": "289f0c7725e1bb6a",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_yunjin_02.wem"
+        },
+        "28ad92992fce7a49": {
+            "hash": "28ad92992fce7a49",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_07.wem"
         },
         "2a8b2489a4b66092": {
             "hash": "2a8b2489a4b66092",
             "directory": "External5",
             "voiceContent": "I'd like to indulge in a nap after lunch. Oh? ...You're not tired",
             "sourceName": "vo_yunjin_dialog_greetingNoon.wem"
+        },
+        "317da8a16d1d58ef": {
+            "hash": "317da8a16d1d58ef",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_02a_1.wem"
+        },
+        "344c951c6dc70f68": {
+            "hash": "344c951c6dc70f68",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_hard_01.wem"
         },
         "3481d45e36bca1f0": {
             "hash": "3481d45e36bca1f0",
@@ -868,6 +898,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yunjin_explore_climb_01.wem"
         },
+        "3933b27675cf6055": {
+            "hash": "3933b27675cf6055",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_03.wem"
+        },
+        "3a26c68820225fcf": {
+            "hash": "3a26c68820225fcf",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_05.wem"
+        },
         "3fbdb8aaeb76af99": {
             "hash": "3fbdb8aaeb76af99",
             "directory": "External7",
@@ -878,7 +920,19 @@
             "hash": "400a1e1a081c7bc9",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_07.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_07.wem"
+        },
+        "400ee92c1580f1ec": {
+            "hash": "400ee92c1580f1ec",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_15.wem"
+        },
+        "412edd279f31df40": {
+            "hash": "412edd279f31df40",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_endOfGame_win_01.wem"
         },
         "41fc6871c5b08d38": {
             "hash": "41fc6871c5b08d38",
@@ -897,6 +951,12 @@
             "directory": "External8",
             "voiceContent": "Oh, so today's your birthday? Well, I wouldn't know how to throw you a feast if I tried... so how about I sing you a song? For you alone, an audience of one. So... what song would you like to hear me sing? The choice is yours",
             "sourceName": "vo_yunjin_pref_birthday_01.wem"
+        },
+        "46788aa0d330e621": {
+            "hash": "46788aa0d330e621",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_yunjin_05.wem"
         },
         "47f971f69f550c15": {
             "hash": "47f971f69f550c15",
@@ -932,25 +992,31 @@
             "hash": "50903df74e1d61d5",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_03.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_03.wem"
         },
         "51835208f870614f": {
             "hash": "51835208f870614f",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_05.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_05.wem"
+        },
+        "5691aa7e18d4faed": {
+            "hash": "5691aa7e18d4faed",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_yunjin_01.wem"
         },
         "58b904ed0af01757": {
             "hash": "58b904ed0af01757",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackmid_03.wem"
+            "sourceName": "vo_yunjin_battle_attackMid_03.wem"
         },
         "59e2f0feb5721571": {
             "hash": "59e2f0feb5721571",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackmid_01.wem"
+            "sourceName": "vo_yunjin_battle_attackMid_01.wem"
         },
         "5a4728bbb1c65eec": {
             "hash": "5a4728bbb1c65eec",
@@ -963,6 +1029,12 @@
             "directory": "External11",
             "voiceContent": "(Translated) How gently do the clouds and flowers sway, as dancing winds meander through the vales",
             "sourceName": "vo_yunjin_character_idle_03.wem"
+        },
+        "5bf501677e53afb8": {
+            "hash": "5bf501677e53afb8",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_leave_01.wem"
         },
         "62457cc9f61f99b3": {
             "hash": "62457cc9f61f99b3",
@@ -988,6 +1060,12 @@
             "voiceContent": "Stay in character..",
             "sourceName": "vo_yunjin_battle_hit_L_02.wem"
         },
+        "6c6b39c37ff00398": {
+            "hash": "6c6b39c37ff00398",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_easy_02.wem"
+        },
         "6c9b762f2f34ace5": {
             "hash": "6c9b762f2f34ace5",
             "directory": "External13",
@@ -1000,11 +1078,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yunjin_explore_idle_02.wem"
         },
-        "7079f99f8a896982": {
-            "hash": "7079f99f8a896982",
+        "6e37b73308a21197": {
+            "hash": "6e37b73308a21197",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_12.wem"
+        },
+        "72c7a344b60738b1": {
+            "hash": "72c7a344b60738b1",
             "directory": "External14",
-            "voiceContent": "I'm sorry... This meal isn't really agreeing with me",
-            "sourceName": "vo_yunjin_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_10.wem"
         },
         "75c357a98931d9cb": {
             "hash": "75c357a98931d9cb",
@@ -1030,6 +1114,12 @@
             "voiceContent": "The battle is won first in the mind..",
             "sourceName": "vo_card_yunjin_inGame_hard_02.wem"
         },
+        "7addf8a037bc4388": {
+            "hash": "7addf8a037bc4388",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_06.wem"
+        },
         "7c004ba76b7437ce": {
             "hash": "7c004ba76b7437ce",
             "directory": "External15",
@@ -1048,6 +1138,12 @@
             "voiceContent": "The show... Must go on..",
             "sourceName": "vo_yunjin_life_die_03.wem"
         },
+        "7fa404b1e54f30fa": {
+            "hash": "7fa404b1e54f30fa",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_08.wem"
+        },
         "812b484f6bb3527b": {
             "hash": "812b484f6bb3527b",
             "directory": "External16",
@@ -1059,6 +1155,12 @@
             "directory": "External16",
             "voiceContent": "Well you know, many of Liyue's legends are centered around stories of gods and the adepti, so most operas focus on the supernatural, too. A prime example would be The Divine Damsel of Devastation, which we have been performing recently. Long-time opera fans adore this sort of material, but in this age of humanity, I would rather like to tell stories about ordinary people. Yes, how grand it would be to sing about the hopes and dreams of ordinary people for all to hear. I've never shared these thoughts with anyone before... Thank you for listening so patiently. I'm fortunate to have a close friend like you",
             "sourceName": "vo_yunjin_friendship_05.wem"
+        },
+        "87d6a79e32c1810c": {
+            "hash": "87d6a79e32c1810c",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_02b_1.wem"
         },
         "88dd23499cc7f407": {
             "hash": "88dd23499cc7f407",
@@ -1076,7 +1178,13 @@
             "hash": "8a3d1214b514e6f1",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_l_05.wem"
+            "sourceName": "vo_yunjin_battle_hit_L_05.wem"
+        },
+        "8cc746673f4cb7bb": {
+            "hash": "8cc746673f4cb7bb",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_01.wem"
         },
         "8d44cd5eaea9fe92": {
             "hash": "8d44cd5eaea9fe92",
@@ -1100,7 +1208,7 @@
             "hash": "923a8421100a4508",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_06.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_06.wem"
         },
         "92a3acf5f28b347b": {
             "hash": "92a3acf5f28b347b",
@@ -1132,11 +1240,23 @@
             "voiceContent": "Good morning! The dew at dawn is perfect for brewing tea, so I made some for you. Drink up, and then we'll head off",
             "sourceName": "vo_yunjin_dialog_greetingMorning.wem"
         },
+        "9c1030a7de03f8a0": {
+            "hash": "9c1030a7de03f8a0",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_yunjin_04.wem"
+        },
         "9e4b2c0b0e6e1b37": {
             "hash": "9e4b2c0b0e6e1b37",
             "directory": "External19",
             "voiceContent": "Every day's the same... Stir-Fried Shrimp, day in and day out. No matter how they prepare it, it always tastes the same. Ugh, ghastly! I really can't stand it anymore..",
             "sourceName": "vo_yunjin_pref_foodDislike.wem"
+        },
+        "9ed6e301e22c222f": {
+            "hash": "9ed6e301e22c222f",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_hard_02.wem"
         },
         "9fcdcee20b05cd9c": {
             "hash": "9fcdcee20b05cd9c",
@@ -1148,13 +1268,7 @@
             "hash": "a423d1e8179ab93b",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_01.wem"
-        },
-        "a55b0d0fba6d280c": {
-            "hash": "a55b0d0fba6d280c",
-            "directory": "External20",
-            "voiceContent": "Mmm! There's no better feeling than indulging in your favorite food... It's a shame that I can only afford to have a little bite",
-            "sourceName": "vo_yunjin_spice_event_pref_01.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_01.wem"
         },
         "a5d7fcff93255969": {
             "hash": "a5d7fcff93255969",
@@ -1168,11 +1282,29 @@
             "voiceContent": "*gasp* D—Did you hear that? Whew, it really startled me",
             "sourceName": "vo_yunjin_weather_thunder_01.wem"
         },
+        "aa263e6ee2540573": {
+            "hash": "aa263e6ee2540573",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_yunjin_03.wem"
+        },
+        "aa63171189b83e83": {
+            "hash": "aa63171189b83e83",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_16.wem"
+        },
+        "ab8d0323343a3cbd": {
+            "hash": "ab8d0323343a3cbd",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_14.wem"
+        },
         "abad58590b28f8f7": {
             "hash": "abad58590b28f8f7",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackheavy_02.wem"
+            "sourceName": "vo_yunjin_battle_attackHeavy_02.wem"
         },
         "add12ffe0c682802": {
             "hash": "add12ffe0c682802",
@@ -1216,6 +1348,18 @@
             "voiceContent": "Flags up",
             "sourceName": "vo_yunjin_battle_skill1_03.wem"
         },
+        "b8696490638234e6": {
+            "hash": "b8696490638234e6",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_04.wem"
+        },
+        "b86c34e400ce8a3b": {
+            "hash": "b86c34e400ce8a3b",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_freetalk_01.wem"
+        },
         "be95bc3636f4b014": {
             "hash": "be95bc3636f4b014",
             "directory": "External23",
@@ -1226,7 +1370,7 @@
             "hash": "c1d785e188c439c3",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_l_03.wem"
+            "sourceName": "vo_yunjin_battle_hit_L_03.wem"
         },
         "c2a037fedfa46c84": {
             "hash": "c2a037fedfa46c84",
@@ -1250,13 +1394,13 @@
             "hash": "c653f86dd028aaa2",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_h_06.wem"
+            "sourceName": "vo_yunjin_battle_hit_H_06.wem"
         },
         "c66771f3362960fd": {
             "hash": "c66771f3362960fd",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_l_01.wem"
+            "sourceName": "vo_yunjin_battle_hit_L_01.wem"
         },
         "c72f24108d07e0a6": {
             "hash": "c72f24108d07e0a6",
@@ -1268,7 +1412,7 @@
             "hash": "c77cdc7f7aa8e874",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_hit_h_04.wem"
+            "sourceName": "vo_yunjin_battle_hit_H_04.wem"
         },
         "cc4dc9c23e577154": {
             "hash": "cc4dc9c23e577154",
@@ -1292,13 +1436,13 @@
             "hash": "ce9c03ff914e3844",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_02.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_02.wem"
         },
         "cfc5f0113bd03666": {
             "hash": "cfc5f0113bd03666",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attacklight_04.wem"
+            "sourceName": "vo_yunjin_battle_attackLight_04.wem"
         },
         "d28c29ea3626b849": {
             "hash": "d28c29ea3626b849",
@@ -1312,17 +1456,29 @@
             "voiceContent": "Let's go listen to tonight's storytelling performance together. Liu Su's rendition of Ring of Raining Blades is most sublime",
             "sourceName": "vo_yunjin_dialog_greetingNight.wem"
         },
+        "d51936a8664fcec3": {
+            "hash": "d51936a8664fcec3",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_09.wem"
+        },
         "d65b6a708509d010": {
             "hash": "d65b6a708509d010",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackheavy_01.wem"
+            "sourceName": "vo_yunjin_battle_attackHeavy_01.wem"
+        },
+        "d6f647a8f4565d1f": {
+            "hash": "d6f647a8f4565d1f",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_easy_01.wem"
         },
         "d6fba2f54e4fec4e": {
             "hash": "d6fba2f54e4fec4e",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_yunjin_battle_attackmid_02.wem"
+            "sourceName": "vo_yunjin_battle_attackMid_02.wem"
         },
         "dab8e467b4aafc8e": {
             "hash": "dab8e467b4aafc8e",
@@ -1408,17 +1564,41 @@
             "voiceContent": "What a sight to behold, the sun so warm and radiant..",
             "sourceName": "vo_yunjin_weather_sunny_01.wem"
         },
+        "ec7a553b4c01e68e": {
+            "hash": "ec7a553b4c01e68e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_13.wem"
+        },
+        "eda4494cf683f230": {
+            "hash": "eda4494cf683f230",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_49_yunjin_11.wem"
+        },
         "edd9a222c70c1243": {
             "hash": "edd9a222c70c1243",
             "directory": "External29",
             "voiceContent": "Observe",
             "sourceName": "vo_yunjin_battle_skill1_05.wem"
         },
-        "f362f5386013a8e6": {
-            "hash": "f362f5386013a8e6",
+        "ee2893bb3c902119": {
+            "hash": "ee2893bb3c902119",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_invite_easy_03.wem"
+        },
+        "f0c3d57241bed9b2": {
+            "hash": "f0c3d57241bed9b2",
             "directory": "External30",
-            "voiceContent": "Oh, what a magnificent feast! Wait a second, I'll grab us some drinks to accompany the meal",
-            "sourceName": "vo_yunjin_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_yunjin_01.wem"
+        },
+        "f9a6f3dc61fa159c": {
+            "hash": "f9a6f3dc61fa159c",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yunjin_endOfGame_fail_01.wem"
         },
         "f9f42d7e2a03c8c2": {
             "hash": "f9f42d7e2a03c8c2",

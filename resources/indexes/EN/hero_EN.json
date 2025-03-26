@@ -13,6 +13,12 @@
             "voiceContent": "(If I can't connect to the Ley Lines, I can't be obfuscated by them either.",
             "sourceName": "vo_EQHDJ403_21_hero_01.wem"
         },
+        "058197e7305909ed": {
+            "hash": "058197e7305909ed",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_04.wem"
+        },
         "0abd6e53c1bdba38": {
             "hash": "0abd6e53c1bdba38",
             "directory": "External1",
@@ -73,11 +79,23 @@
             "voiceContent": "(Hmm, seems this won't produce a particularly effective rebuttal.",
             "sourceName": "vo_FDAQ003_34_hero_05.wem"
         },
+        "4b001e10f58807a0": {
+            "hash": "4b001e10f58807a0",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_01.wem"
+        },
         "589e46fcadd28b27": {
             "hash": "589e46fcadd28b27",
             "directory": "External11",
             "voiceContent": "(She's not here... But these are her things...",
             "sourceName": "vo_EQHDJ403_21_hero_03.wem"
+        },
+        "59162bd7f9d81473": {
+            "hash": "59162bd7f9d81473",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_06.wem"
         },
         "5b15c25ef750fdb5": {
             "hash": "5b15c25ef750fdb5",
@@ -145,11 +163,23 @@
             "voiceContent": "The stone slates show the people gathered around the Hydro Archon in the sea... Could that be alluding to the same thing",
             "sourceName": "vo_FDAQ308_5_hero_10.wem"
         },
+        "9a037df0119fbe5c": {
+            "hash": "9a037df0119fbe5c",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_05.wem"
+        },
         "9b0d21f4bc2c4e16": {
             "hash": "9b0d21f4bc2c4e16",
             "directory": "External19",
             "voiceContent": "Eide's out of control. I have to end this fight..",
             "sourceName": "vo_SZAQ204_6_hero_01.wem"
+        },
+        "9b2d6a01bc21bc7e": {
+            "hash": "9b2d6a01bc21bc7e",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_03.wem"
         },
         "9bfb6a3e1388c952": {
             "hash": "9bfb6a3e1388c952",
@@ -211,6 +241,18 @@
             "voiceContent": "(Fonta's internal reports suggest that they're starting a new trial of an unnamed and unpackaged product. But the product has to undergo a trial because even Fonta's own employees have a lot of reservations about it.",
             "sourceName": "vo_FDAQ106_7_hero_05.wem"
         },
+        "d0e2279ae32088ce": {
+            "hash": "d0e2279ae32088ce",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_hero_01.wem"
+        },
+        "d78ef9e03d65ca6a": {
+            "hash": "d78ef9e03d65ca6a",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_07.wem"
+        },
         "d7f8645590012a52": {
             "hash": "d7f8645590012a52",
             "directory": "External26",
@@ -240,6 +282,12 @@
             "directory": "External28",
             "voiceContent": "(Lynette was in the magic box onstage the entire time. Did she have something to do with this?",
             "sourceName": "vo_FDAQ003_42_hero_04.wem"
+        },
+        "f43f8bf84034aa07": {
+            "hash": "f43f8bf84034aa07",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_02.wem"
         },
         "f5f69f22c1ab65e7": {
             "hash": "f5f69f22c1ab65e7",
@@ -309,6 +357,12 @@
             "voiceContent": "#{NICKNAME} I've heard that if you give tavern owners a considerable tip, they'll be willing to give some information on the down low.Paimon You mean the Angel's Share? But Master Diluc seems like a very rich man.Paimon How big a tip is considerable, anyway?{NICKNAME} Uh... Maybe I might have heard wrong.{NICKNAME} Or maybe I might have heard this rumor in another world...Paimon You sure have been to many worlds, haven't you",
             "sourceName": "vo_fetter_pubHolder_hero.wem"
         },
+        "09990237f8972f1f": {
+            "hash": "09990237f8972f1f",
+            "directory": "External1",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_hero_02.wem"
+        },
         "0ab5a12a698de55f": {
             "hash": "0ab5a12a698de55f",
             "directory": "External1",
@@ -343,7 +397,7 @@
             "hash": "0de63c54ce2b58a9",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_01.wem"
+            "sourceName": "vo_hero_battle_hit_H_01.wem"
         },
         "0e66333a92e5617b": {
             "hash": "0e66333a92e5617b",
@@ -415,7 +469,7 @@
             "hash": "203b60b8f9237b61",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_05.wem"
+            "sourceName": "vo_hero_battle_hit_L_05.wem"
         },
         "20df40ffd42e11b1": {
             "hash": "20df40ffd42e11b1",
@@ -435,11 +489,17 @@
             "voiceContent": "Time to ignite",
             "sourceName": "vo_hero_battle_skill1_pyro_02.wem"
         },
+        "21eb3d60de176d84": {
+            "hash": "21eb3d60de176d84",
+            "directory": "External4",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_hero_life_die_04.wem"
+        },
         "22c57043c162672f": {
             "hash": "22c57043c162672f",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_03.wem"
+            "sourceName": "vo_hero_battle_hit_H_03.wem"
         },
         "238e06d3d28e4683": {
             "hash": "238e06d3d28e4683",
@@ -511,7 +571,7 @@
             "hash": "305480963ec78f2d",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_01.wem"
+            "sourceName": "vo_hero_battle_hit_L_01.wem"
         },
         "30db59c67c12a86b": {
             "hash": "30db59c67c12a86b",
@@ -547,7 +607,7 @@
             "hash": "3b15b69aad50410b",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_01.wem"
+            "sourceName": "vo_hero_battle_attackLight_01.wem"
         },
         "3c11d00183103b45": {
             "hash": "3c11d00183103b45",
@@ -559,7 +619,7 @@
             "hash": "3c3fe2ac57d2ac65",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_03.wem"
+            "sourceName": "vo_hero_battle_attackLight_03.wem"
         },
         "3c5f1d812ad68c94": {
             "hash": "3c5f1d812ad68c94",
@@ -679,7 +739,7 @@
             "hash": "4af3fdbbf4ed8f7e",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackmid_02.wem"
+            "sourceName": "vo_hero_battle_attackMid_02.wem"
         },
         "4bccadaf55046586": {
             "hash": "4bccadaf55046586",
@@ -751,13 +811,19 @@
             "hash": "550e7b4c2aeb7867",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackheavy_02.wem"
+            "sourceName": "vo_hero_battle_attackHeavy_02.wem"
         },
         "55771df469ac1de1": {
             "hash": "55771df469ac1de1",
             "directory": "External10",
             "voiceContent": "#Paimon Did you know the reeds in Dihua Marsh are common materials used in making paper?Paimon The solid reed cores are used to make pens, while the hollow part is used to make flutes. It's all very sophisticated.Paimon Over the years, many heroes and swordsmen have also chosen Dihua Marsh as the location of their duels.Paimon The more reeds, the more elegant the place. But in places where the reeds are the thickest, the water can be quite deep...Paimon So there are a lot of unlucky duelists who fall in and drown while the duel is on...{NICKNAME} And what's my takeaway from all of this supposed to be?Paimon Don't get into a fight in Dihua Marsh",
             "sourceName": "vo_fetter_dihuaMarsh_hero.wem"
+        },
+        "56843329e652301f": {
+            "hash": "56843329e652301f",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hero_teamJoin_02.wem"
         },
         "57afcf4ab5421776": {
             "hash": "57afcf4ab5421776",
@@ -901,13 +967,13 @@
             "hash": "726c06c00111b1e0",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_04.wem"
+            "sourceName": "vo_hero_battle_hit_L_04.wem"
         },
         "7329dc34882b9435": {
             "hash": "7329dc34882b9435",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_05.wem"
+            "sourceName": "vo_hero_battle_hit_H_05.wem"
         },
         "744840d8ee913770": {
             "hash": "744840d8ee913770",
@@ -943,7 +1009,7 @@
             "hash": "7deb28d619c142d8",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_06.wem"
+            "sourceName": "vo_hero_battle_attackLight_06.wem"
         },
         "7e99f35e84fa868e": {
             "hash": "7e99f35e84fa868e",
@@ -979,7 +1045,7 @@
             "hash": "83e814870844e6b3",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_03.wem"
+            "sourceName": "vo_hero_battle_hit_L_03.wem"
         },
         "848ccd8985f70195": {
             "hash": "848ccd8985f70195",
@@ -1039,7 +1105,7 @@
             "hash": "8e3a28b35f92af94",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_02.wem"
+            "sourceName": "vo_hero_battle_attackLight_02.wem"
         },
         "8ed50d90256e6e94": {
             "hash": "8ed50d90256e6e94",
@@ -1099,7 +1165,7 @@
             "hash": "92ca54c50cf843f6",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_04.wem"
+            "sourceName": "vo_hero_battle_attackLight_04.wem"
         },
         "94a5f40b1c172182": {
             "hash": "94a5f40b1c172182",
@@ -1189,7 +1255,7 @@
             "hash": "9da20e4c01df1346",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_02.wem"
+            "sourceName": "vo_hero_battle_hit_H_02.wem"
         },
         "9efef6bffce17f89": {
             "hash": "9efef6bffce17f89",
@@ -1231,13 +1297,13 @@
             "hash": "a4061fb279007d07",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackmid_03.wem"
+            "sourceName": "vo_hero_battle_attackMid_03.wem"
         },
         "a52f0bc42380c821": {
             "hash": "a52f0bc42380c821",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackmid_01.wem"
+            "sourceName": "vo_hero_battle_attackMid_01.wem"
         },
         "a5f4a1625ee48a93": {
             "hash": "a5f4a1625ee48a93",
@@ -1249,7 +1315,13 @@
             "hash": "a73ed95332d9345e",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackheavy_03.wem"
+            "sourceName": "vo_hero_battle_attackHeavy_03.wem"
+        },
+        "a74477589dc80d15": {
+            "hash": "a74477589dc80d15",
+            "directory": "External20",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_hero_life_die_05.wem"
         },
         "a73fa419e9a57752": {
             "hash": "a73fa419e9a57752",
@@ -1262,6 +1334,12 @@
             "directory": "External20",
             "voiceContent": "#Paimon Phew! Paimon's been working so hard recently. Any ideas on how to relax?{NICKNAME} ...Sleeping?Paimon Sleeping's boring.{NICKNAME} ...Reading?Paimon Paimon'll get dizzy.{NICKNAME} ...Having a chat with some friends?Paimon ...Ugh.Paimon But those're all things that require thinking.Paimon And not thinking is more relaxing.{NICKNAME} And thus the Paimon Paradox, famed in the histories of philosophy in Teyvat, was put forth..",
             "sourceName": "vo_fetter_relax_hero.wem"
+        },
+        "a8378b6a481b0c8f": {
+            "hash": "a8378b6a481b0c8f",
+            "directory": "External21",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_hero_life_die_03.wem"
         },
         "a868c82b94262124": {
             "hash": "a868c82b94262124",
@@ -1285,7 +1363,7 @@
             "hash": "abcf0d64e03ed500",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackheavy_01.wem"
+            "sourceName": "vo_hero_battle_attackHeavy_01.wem"
         },
         "adb47c81c25c98c2": {
             "hash": "adb47c81c25c98c2",
@@ -1471,7 +1549,7 @@
             "hash": "c60052b0ca9041be",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_06.wem"
+            "sourceName": "vo_hero_battle_hit_L_06.wem"
         },
         "c60290eec990aadc": {
             "hash": "c60290eec990aadc",
@@ -1699,7 +1777,7 @@
             "hash": "e87536bb8e25e95f",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_05.wem"
+            "sourceName": "vo_hero_battle_attackLight_05.wem"
         },
         "e9034999151ed8ac": {
             "hash": "e9034999151ed8ac",
@@ -1718,6 +1796,12 @@
             "directory": "External29",
             "voiceContent": "#Paimon Strange...{NICKNAME} What's wrong?Paimon Diluc and Kaeya are really alike, so why don't they get along?{NICKNAME} How are they alike, again?Paimon Well, Kaeya's the kind of guy who acts shady in the light of day...Paimon While Diluc is a shining beacon of justice in the dark of night!Paimon Don't you think that's kinda the same thing...?{NICKNAME} Uhh... I still don't see it",
             "sourceName": "vo_fetter_dilucAndKaeya_hero.wem"
+        },
+        "ebf9254471ebd698": {
+            "hash": "ebf9254471ebd698",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hero_teamJoin_01.wem"
         },
         "ec8acf007dd74af7": {
             "hash": "ec8acf007dd74af7",
@@ -1753,13 +1837,13 @@
             "hash": "f00c7e2b20dbc0d2",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_06.wem"
+            "sourceName": "vo_hero_battle_hit_H_06.wem"
         },
         "f135a23ccb5c6aa4": {
             "hash": "f135a23ccb5c6aa4",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_04.wem"
+            "sourceName": "vo_hero_battle_hit_H_04.wem"
         },
         "f16c1e77e20427f8": {
             "hash": "f16c1e77e20427f8",
@@ -1791,6 +1875,12 @@
             "voiceContent": "Hyah",
             "sourceName": "vo_hero_battle_skill3_01.wem"
         },
+        "fd725133623faeb6": {
+            "hash": "fd725133623faeb6",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hero_teamJoin_03.wem"
+        },
         "fde245880855887a": {
             "hash": "fde245880855887a",
             "directory": "External31",
@@ -1807,37 +1897,13 @@
             "hash": "fefae28f48ef73aa",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_02.wem"
+            "sourceName": "vo_hero_battle_hit_L_02.wem"
         },
         "ffa882cdd6616059": {
             "hash": "ffa882cdd6616059",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_07.wem"
-        },
-        "09990237f8972f1f": {
-            "hash": "09990237f8972f1f",
-            "directory": "External1",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_hero_02.wem"
-        },
-        "21eb3d60de176d84": {
-            "hash": "21eb3d60de176d84",
-            "directory": "External4",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_hero_life_die_04.wem"
-        },
-        "a74477589dc80d15": {
-            "hash": "a74477589dc80d15",
-            "directory": "External20",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_hero_life_die_05.wem"
-        },
-        "a8378b6a481b0c8f": {
-            "hash": "a8378b6a481b0c8f",
-            "directory": "External21",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_hero_life_die_03.wem"
+            "sourceName": "vo_hero_battle_attackLight_07.wem"
         }
     }
 }

@@ -260,6 +260,12 @@
             "voiceContent": "Seeing people have a private conversation in a secluded place is even more common",
             "sourceName": "vo_HSEQ002_7_alhaitham_21.wem"
         },
+        "027d4ef146b7aa80": {
+            "hash": "027d4ef146b7aa80",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ102_alhaitham_09.wem"
+        },
         "03144fcc16f4e156": {
             "hash": "03144fcc16f4e156",
             "directory": "External0",
@@ -355,6 +361,12 @@
             "directory": "External16",
             "voiceContent": "Well, if that does happen, write a report and send it to my office",
             "sourceName": "vo_HSEQ003_18_alhaitham_05.wem"
+        },
+        "90554adb959f90ba": {
+            "hash": "90554adb959f90ba",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ102_alhaitham_10.wem"
         },
         "983f7466cd1adcfa": {
             "hash": "983f7466cd1adcfa",
@@ -464,7 +476,7 @@
             "hash": "055dd9c6d27c7c78",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackheavy_03.wem"
+            "sourceName": "vo_alhaitham_battle_attackHeavy_03.wem"
         },
         "056ca5fad98f4dd7": {
             "hash": "056ca5fad98f4dd7",
@@ -476,7 +488,7 @@
             "hash": "05fd49c2de780adc",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_02.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_02.wem"
         },
         "0685dce310d14346": {
             "hash": "0685dce310d14346",
@@ -488,7 +500,7 @@
             "hash": "072735d488fa08fe",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_04.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_04.wem"
         },
         "088bb0a72d4280ce": {
             "hash": "088bb0a72d4280ce",
@@ -514,12 +526,6 @@
             "voiceContent": "Apparently, a lot of people think he has a bad temperament, but I don't think they're giving him a fair chance. When Kaveh built a house right over a Withering Zone and created a huge mess, it ended up being a real headache for the Forest Rangers. Even so, this Forest Ranger didn't hold it against Kaveh. He even invited Kaveh to his house for a meal. Hmm, maybe it's good people like him who allow people like Kaveh to survive",
             "sourceName": "vo_alhaitham_teammate_tighnari_01.wem"
         },
-        "130c4ef927feb4f8": {
-            "hash": "130c4ef927feb4f8",
-            "directory": "External2",
-            "voiceContent": "Let's not eat here. Mind if I... take it home",
-            "sourceName": "vo_alhaitham_spice_event_dislike_01.wem"
-        },
         "16534544f8dcdf5b": {
             "hash": "16534544f8dcdf5b",
             "directory": "External2",
@@ -530,7 +536,13 @@
             "hash": "16d705b5c2d05396",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackheavy_01.wem"
+            "sourceName": "vo_alhaitham_battle_attackHeavy_01.wem"
+        },
+        "18deb8793ae29034": {
+            "hash": "18deb8793ae29034",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_easy_02.wem"
         },
         "18ff70a233e867d1": {
             "hash": "18ff70a233e867d1",
@@ -572,7 +584,7 @@
             "hash": "2a062005d6f24acb",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackmid_01.wem"
+            "sourceName": "vo_alhaitham_battle_attackMid_01.wem"
         },
         "2a7891b55683ce95": {
             "hash": "2a7891b55683ce95",
@@ -584,7 +596,7 @@
             "hash": "2b2f4c1781730225",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackmid_03.wem"
+            "sourceName": "vo_alhaitham_battle_attackMid_03.wem"
         },
         "2b31eb9bf99b85d0": {
             "hash": "2b31eb9bf99b85d0",
@@ -632,7 +644,7 @@
             "hash": "3a68454f7ac3e65e",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_02.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_02.wem"
         },
         "3aaeb026581573f2": {
             "hash": "3aaeb026581573f2",
@@ -644,7 +656,7 @@
             "hash": "3cae396300cf27a3",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_h_05.wem"
+            "sourceName": "vo_alhaitham_battle_hit_H_05.wem"
         },
         "3cd0dde6d1108980": {
             "hash": "3cd0dde6d1108980",
@@ -740,7 +752,7 @@
             "hash": "603957cb0d0cf687",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_05.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_05.wem"
         },
         "636c46a48112d3a4": {
             "hash": "636c46a48112d3a4",
@@ -752,7 +764,13 @@
             "hash": "717b63b9fd31566d",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_03.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_03.wem"
+        },
+        "7226f26fbf233685": {
+            "hash": "7226f26fbf233685",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_easy_03.wem"
         },
         "72940be512262ed1": {
             "hash": "72940be512262ed1",
@@ -770,7 +788,7 @@
             "hash": "76c9d52dfc07f44a",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_06.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_06.wem"
         },
         "796c9609a66fd173": {
             "hash": "796c9609a66fd173",
@@ -782,7 +800,7 @@
             "hash": "7a358b7b15b3a88c",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_h_06.wem"
+            "sourceName": "vo_alhaitham_battle_hit_H_06.wem"
         },
         "7bab4ad55a6e1fa4": {
             "hash": "7bab4ad55a6e1fa4",
@@ -806,7 +824,7 @@
             "hash": "8090921e8c17e254",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackmid_02.wem"
+            "sourceName": "vo_alhaitham_battle_attackMid_02.wem"
         },
         "8352659b1c3f3a6c": {
             "hash": "8352659b1c3f3a6c",
@@ -830,7 +848,13 @@
             "hash": "871b33be8f1c99f9",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attackheavy_02.wem"
+            "sourceName": "vo_alhaitham_battle_attackHeavy_02.wem"
+        },
+        "87965fc6574b2aeb": {
+            "hash": "87965fc6574b2aeb",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_hard_02.wem"
         },
         "89576453268982c1": {
             "hash": "89576453268982c1",
@@ -848,13 +872,13 @@
             "hash": "8dfcd9404442f0bc",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_04.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_04.wem"
         },
         "8f15876a08ec0b5a": {
             "hash": "8f15876a08ec0b5a",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_h_04.wem"
+            "sourceName": "vo_alhaitham_battle_hit_H_04.wem"
         },
         "8fc80e2bfca3c980": {
             "hash": "8fc80e2bfca3c980",
@@ -896,7 +920,7 @@
             "hash": "980a5357ac3bfb01",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_01.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_01.wem"
         },
         "987d5bf8cad8b43b": {
             "hash": "987d5bf8cad8b43b",
@@ -962,7 +986,7 @@
             "hash": "acef4593b63ba351",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_h_03.wem"
+            "sourceName": "vo_alhaitham_battle_hit_H_03.wem"
         },
         "ad3b18dc50741c2f": {
             "hash": "ad3b18dc50741c2f",
@@ -986,7 +1010,7 @@
             "hash": "b6f9e9e3c2605420",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_06.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_06.wem"
         },
         "b8244bc76a2173fe": {
             "hash": "b8244bc76a2173fe",
@@ -1006,11 +1030,23 @@
             "voiceContent": "This weather is perfect for doing nothing at all",
             "sourceName": "vo_alhaitham_weather_sunny_01.wem"
         },
+        "b9e157c6d57550ce": {
+            "hash": "b9e157c6d57550ce",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_alhaitham_01.wem"
+        },
         "bd91384c1a27c232": {
             "hash": "bd91384c1a27c232",
             "directory": "External23",
             "voiceContent": "I hope my roommate won't be hammering away on another one of his projects in the dead of night... Actually, I'd prefer if he wasn't home at all. I really don't want to wear my soundproof earpieces to bed",
             "sourceName": "vo_alhaitham_dialog_greetingNight2.wem"
+        },
+        "c254466085bcf8ab": {
+            "hash": "c254466085bcf8ab",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_easy_01.wem"
         },
         "c2f58e10448c3344": {
             "hash": "c2f58e10448c3344",
@@ -1034,7 +1070,7 @@
             "hash": "c50ff7aac6b060f3",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_hit_l_01.wem"
+            "sourceName": "vo_alhaitham_battle_hit_L_01.wem"
         },
         "c6279fd5dba38637": {
             "hash": "c6279fd5dba38637",
@@ -1066,6 +1102,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_alhaitham_explore_climb_breath_03.wem"
         },
+        "d990edcd5f0ba8a2": {
+            "hash": "d990edcd5f0ba8a2",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_hard_03.wem"
+        },
+        "dab9d1df098be674": {
+            "hash": "dab9d1df098be674",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_alhaitham_invite_hard_01.wem"
+        },
         "e6104bce1bbd2ce7": {
             "hash": "e6104bce1bbd2ce7",
             "directory": "External28",
@@ -1082,7 +1130,7 @@
             "hash": "e837e74872d62a67",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_03.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_03.wem"
         },
         "e8d9e82280b63d81": {
             "hash": "e8d9e82280b63d81",
@@ -1148,7 +1196,7 @@
             "hash": "f8510725b87a3e53",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_07.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_07.wem"
         },
         "f8b2b3ae605027b2": {
             "hash": "f8b2b3ae605027b2",
@@ -1166,7 +1214,7 @@
             "hash": "fce0f33765df654d",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_alhaitham_battle_attacklight_05.wem"
+            "sourceName": "vo_alhaitham_battle_attackLight_05.wem"
         },
         "fd9f84cd173d4935": {
             "hash": "fd9f84cd173d4935",

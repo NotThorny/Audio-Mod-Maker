@@ -403,7 +403,7 @@
             "hash": "04113c223011e692",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_06.wem"
+            "sourceName": "vo_klee_battle_attackLight_06.wem"
         },
         "06dffa4d45507240": {
             "hash": "06dffa4d45507240",
@@ -415,7 +415,7 @@
             "hash": "08a16033dd776d64",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_04.wem"
+            "sourceName": "vo_klee_battle_attackLight_04.wem"
         },
         "094823982ed51cdf": {
             "hash": "094823982ed51cdf",
@@ -463,7 +463,7 @@
             "hash": "1b557e3a87ad870b",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_05.wem"
+            "sourceName": "vo_klee_battle_hit_H_05.wem"
         },
         "1de0955ec7fd1157": {
             "hash": "1de0955ec7fd1157",
@@ -487,7 +487,7 @@
             "hash": "215b3eff99ae8dc3",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackmid_01.wem"
+            "sourceName": "vo_klee_battle_attackMid_01.wem"
         },
         "2483ec5bf6bd8056": {
             "hash": "2483ec5bf6bd8056",
@@ -505,19 +505,19 @@
             "hash": "2551fa4be0465b69",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_01.wem"
+            "sourceName": "vo_klee_battle_attackLight_01.wem"
         },
         "25eb2b114713b4fd": {
             "hash": "25eb2b114713b4fd",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackmid_03.wem"
+            "sourceName": "vo_klee_battle_attackMid_03.wem"
         },
         "25fd5435aaa01131": {
             "hash": "25fd5435aaa01131",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackheavy_02.wem"
+            "sourceName": "vo_klee_battle_attackHeavy_02.wem"
         },
         "2c457b05a616a508": {
             "hash": "2c457b05a616a508",
@@ -531,6 +531,12 @@
             "voiceContent": "お昼ごはんの時間だ！なに食べようかな？『テイワット観光ガイド』でも見てみよう",
             "sourceName": "vo_klee_dialog_greetingNoon.wem"
         },
+        "2fe6761686e7193c": {
+            "hash": "2fe6761686e7193c",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_02b.wem"
+        },
         "3241b13e6db56872": {
             "hash": "3241b13e6db56872",
             "directory": "External6",
@@ -541,7 +547,13 @@
             "hash": "36cb2e3ad09a40ef",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_03.wem"
+            "sourceName": "vo_klee_battle_attackLight_03.wem"
+        },
+        "3bb1c3968f2d34e0": {
+            "hash": "3bb1c3968f2d34e0",
+            "directory": "External7",
+            "voiceContent": "",
+            "sourceName": "vo_klee_suit_witch_02.wem"
         },
         "3bb32067e0e492fb": {
             "hash": "3bb32067e0e492fb",
@@ -567,6 +579,12 @@
             "voiceContent": "爆弾の配合の多くは反省室に閉じ込められている時に思いついたんだけど…閉じ込められることがなくなったらもっといいのに",
             "sourceName": "vo_klee_friendship_03.wem"
         },
+        "40028a6e6f90cb5a": {
+            "hash": "40028a6e6f90cb5a",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_08.wem"
+        },
         "422c67492e3ceeb7": {
             "hash": "422c67492e3ceeb7",
             "directory": "External8",
@@ -590,6 +608,18 @@
             "directory": "External9",
             "voiceContent": "だめ、まだ9時だよ！今日は絶対サーカス団のミッドナイト公演が終わるまで帰らないもん！クレーの仲間なんでしょ、帰らせようだなんて考えないでよ…ペペぺ",
             "sourceName": "vo_klee_dialog_close1_a.wem"
+        },
+        "4d24cc23c98c9f1b": {
+            "hash": "4d24cc23c98c9f1b",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_01.wem"
+        },
+        "4e4eb835740e9d35": {
+            "hash": "4e4eb835740e9d35",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_03.wem"
         },
         "4e8df8a48d1c3e8c": {
             "hash": "4e8df8a48d1c3e8c",
@@ -633,6 +663,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_klee_explore_jump_01.wem"
         },
+        "55ba1fff6298be96": {
+            "hash": "55ba1fff6298be96",
+            "directory": "External10",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_klee_01.wem"
+        },
         "56fa016d89378450": {
             "hash": "56fa016d89378450",
             "directory": "External10",
@@ -649,13 +685,13 @@
             "hash": "5b15e96eef0a4455",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_03.wem"
+            "sourceName": "vo_klee_battle_hit_L_03.wem"
         },
         "5c08fd80995d43cf": {
             "hash": "5c08fd80995d43cf",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_05.wem"
+            "sourceName": "vo_klee_battle_hit_L_05.wem"
         },
         "5cc218f8d61438c5": {
             "hash": "5cc218f8d61438c5",
@@ -745,19 +781,19 @@
             "hash": "6e79f05339eff594",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_06.wem"
-        },
-        "70e00c962578ca72": {
-            "hash": "70e00c962578ca72",
-            "directory": "External14",
-            "voiceContent": "わぁ、いい匂い！でもクレー、お腹いっぱいでもう食べられない",
-            "sourceName": "vo_klee_spice_event_pref_01.wem"
+            "sourceName": "vo_klee_battle_hit_H_06.wem"
         },
         "76f5c2ff4575b475": {
             "hash": "76f5c2ff4575b475",
             "directory": "External14",
             "voiceContent": "キラキラしてる、わぁ",
             "sourceName": "vo_klee_chest_open_02.wem"
+        },
+        "78c6ea4cedc21c46": {
+            "hash": "78c6ea4cedc21c46",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_04.wem"
         },
         "7f3aaec842d2229f": {
             "hash": "7f3aaec842d2229f",
@@ -799,7 +835,7 @@
             "hash": "8605ae19ece16fdb",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_07.wem"
+            "sourceName": "vo_klee_battle_attackLight_07.wem"
         },
         "86e653fbcc55281a": {
             "hash": "86e653fbcc55281a",
@@ -817,7 +853,7 @@
             "hash": "8a949a2b9a44e3f5",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_05.wem"
+            "sourceName": "vo_klee_battle_attackLight_05.wem"
         },
         "8d8c58b1c7d41e80": {
             "hash": "8d8c58b1c7d41e80",
@@ -831,17 +867,29 @@
             "voiceContent": "クレーの宝物、見せてあげる",
             "sourceName": "vo_card_klee_inGame_easy_04.wem"
         },
+        "935ffe5f38e05d68": {
+            "hash": "935ffe5f38e05d68",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_06.wem"
+        },
         "94c81a64c309c5b9": {
             "hash": "94c81a64c309c5b9",
             "directory": "External18",
             "voiceContent": "だいじょーぶ",
             "sourceName": "vo_klee_life_less30_teammate_02.wem"
         },
+        "9a3aa3fbfb1e66d3": {
+            "hash": "9a3aa3fbfb1e66d3",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_02a.wem"
+        },
         "9cc02f98b0f72788": {
             "hash": "9cc02f98b0f72788",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_06.wem"
+            "sourceName": "vo_klee_battle_hit_L_06.wem"
         },
         "9d4d2778b5def1f0": {
             "hash": "9d4d2778b5def1f0",
@@ -859,13 +907,13 @@
             "hash": "9fb0062c409abf0e",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackheavy_01.wem"
+            "sourceName": "vo_klee_battle_attackHeavy_01.wem"
         },
         "a0d9fa3deb1ccab0": {
             "hash": "a0d9fa3deb1ccab0",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackheavy_03.wem"
+            "sourceName": "vo_klee_battle_attackHeavy_03.wem"
         },
         "a2f94ef2785b7d5c": {
             "hash": "a2f94ef2785b7d5c",
@@ -919,7 +967,7 @@
             "hash": "aea97d5fb8879bbb",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_01.wem"
+            "sourceName": "vo_klee_battle_hit_L_01.wem"
         },
         "aeae8cb9d79c86f6": {
             "hash": "aeae8cb9d79c86f6",
@@ -943,19 +991,13 @@
             "hash": "b50dcc4313fa1506",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_02.wem"
-        },
-        "b645ea96014f1718": {
-            "hash": "b645ea96014f1718",
-            "directory": "External22",
-            "voiceContent": "今日のごはんも美味しかった。クレー、とっても幸せだよ！ありがとう",
-            "sourceName": "vo_klee_spice_event_normal_01.wem"
+            "sourceName": "vo_klee_battle_attackLight_02.wem"
         },
         "b707111a2577402c": {
             "hash": "b707111a2577402c",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackmid_02.wem"
+            "sourceName": "vo_klee_battle_attackMid_02.wem"
         },
         "b79b23362d6666bb": {
             "hash": "b79b23362d6666bb",
@@ -1021,7 +1063,7 @@
             "hash": "c20d8c44036d5b42",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_04.wem"
+            "sourceName": "vo_klee_battle_hit_H_04.wem"
         },
         "c2c3d67b06dbf69c": {
             "hash": "c2c3d67b06dbf69c",
@@ -1035,11 +1077,17 @@
             "voiceContent": "うん、この爆弾はクレーの最新作だよ！うまくできてるでしょ？…えっ——火災現場で見つけたの？クレーじゃない、絶対違うよ",
             "sourceName": "vo_klee_friendship_02.wem"
         },
+        "c5fe4e082ee504f9": {
+            "hash": "c5fe4e082ee504f9",
+            "directory": "External24",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_klee_02.wem"
+        },
         "c8b4fe5b68832f5f": {
             "hash": "c8b4fe5b68832f5f",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_01.wem"
+            "sourceName": "vo_klee_battle_hit_H_01.wem"
         },
         "cd0d1087a1677736": {
             "hash": "cd0d1087a1677736",
@@ -1052,6 +1100,12 @@
             "directory": "External25",
             "voiceContent": "クレーが手伝うよ",
             "sourceName": "vo_klee_teamJoin_01.wem"
+        },
+        "d13ef1bc1bba62cd": {
+            "hash": "d13ef1bc1bba62cd",
+            "directory": "External26",
+            "voiceContent": "だめ、まだ9時だよ！今日は絶対サーカス団のミッドナイト公演が終わるまで帰らないもん！クレーの仲間なんでしょ、帰らせようだなんて考えないでよ…ペペぺ。",
+            "sourceName": "vo_klee_dialog_close1_b.wem"
         },
         "d55aa6d42c2f9b5c": {
             "hash": "d55aa6d42c2f9b5c",
@@ -1081,13 +1135,7 @@
             "hash": "da4b9b88dcbd18e6",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_04.wem"
-        },
-        "daeb40e7a41a687c": {
-            "hash": "daeb40e7a41a687c",
-            "directory": "External27",
-            "voiceContent": "お、美味しそうだけど、食べるのがちょっと大変かも…えへへ、クレーを助けてくれる",
-            "sourceName": "vo_klee_spice_event_dislike_01.wem"
+            "sourceName": "vo_klee_battle_hit_L_04.wem"
         },
         "df176a7316218acf": {
             "hash": "df176a7316218acf",
@@ -1099,7 +1147,7 @@
             "hash": "dfe84a6db0bea659",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_03.wem"
+            "sourceName": "vo_klee_battle_hit_H_03.wem"
         },
         "e1fcb5c1e78c2068": {
             "hash": "e1fcb5c1e78c2068",
@@ -1119,11 +1167,29 @@
             "voiceContent": "火力全開",
             "sourceName": "vo_klee_battle_skill3_02.wem"
         },
+        "e4f1317dd9d9d747": {
+            "hash": "e4f1317dd9d9d747",
+            "directory": "External28",
+            "voiceContent": "",
+            "sourceName": "vo_klee_suit_witch_01.wem"
+        },
         "e52f0a5da05a2fcc": {
             "hash": "e52f0a5da05a2fcc",
             "directory": "External28",
             "voiceContent": "SFX",
             "sourceName": "vo_klee_explore_climb_02.wem"
+        },
+        "e90b1855ba0e61a9": {
+            "hash": "e90b1855ba0e61a9",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_07.wem"
+        },
+        "e9811d8f873efe61": {
+            "hash": "e9811d8f873efe61",
+            "directory": "External29",
+            "voiceContent": "",
+            "sourceName": "vo_klee_suit_witch_03.wem"
         },
         "ea36f79da7d80d16": {
             "hash": "ea36f79da7d80d16",
@@ -1191,6 +1257,12 @@
             "voiceContent": "リサおば…リサお姉ちゃんはいい人だよ！クレーが工房に行くといつも美味しいお菓子をくれるの…ん？そういえば、工房に行ったのは新しい爆弾を作るためだったんだけど…",
             "sourceName": "vo_klee_teammate_lisa_01.wem"
         },
+        "fdea4c44ad45702f": {
+            "hash": "fdea4c44ad45702f",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_05.wem"
+        },
         "fe86384f7e9153b8": {
             "hash": "fe86384f7e9153b8",
             "directory": "External31",
@@ -1202,42 +1274,6 @@
             "directory": "External31",
             "voiceContent": "ジン団長はいい人だよ！少し…怖いけどね",
             "sourceName": "vo_klee_teammate_qin_01.wem"
-        },
-        "3bb1c3968f2d34e0": {
-            "hash": "3bb1c3968f2d34e0",
-            "directory": "External7",
-            "voiceContent": "",
-            "sourceName": "vo_klee_suit_witch_02.wem"
-        },
-        "55ba1fff6298be96": {
-            "hash": "55ba1fff6298be96",
-            "directory": "External10",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_klee_01.wem"
-        },
-        "c5fe4e082ee504f9": {
-            "hash": "c5fe4e082ee504f9",
-            "directory": "External24",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_klee_02.wem"
-        },
-        "d13ef1bc1bba62cd": {
-            "hash": "d13ef1bc1bba62cd",
-            "directory": "External26",
-            "voiceContent": "だめ、まだ9時だよ！今日は絶対サーカス団のミッドナイト公演が終わるまで帰らないもん！クレーの仲間なんでしょ、帰らせようだなんて考えないでよ…ペペぺ。",
-            "sourceName": "vo_klee_dialog_close1_b.wem"
-        },
-        "e4f1317dd9d9d747": {
-            "hash": "e4f1317dd9d9d747",
-            "directory": "External28",
-            "voiceContent": "",
-            "sourceName": "vo_klee_suit_witch_01.wem"
-        },
-        "e9811d8f873efe61": {
-            "hash": "e9811d8f873efe61",
-            "directory": "External29",
-            "voiceContent": "",
-            "sourceName": "vo_klee_suit_witch_03.wem"
         }
     }
 }

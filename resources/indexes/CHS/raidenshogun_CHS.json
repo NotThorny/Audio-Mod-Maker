@@ -302,11 +302,287 @@
         }
     },
     "Quests": {
+        "00b1c89a76e1a339": {
+            "hash": "00b1c89a76e1a339",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_raidenEi_04.wem"
+        },
+        "0204e26b4fedadd3": {
+            "hash": "0204e26b4fedadd3",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_19.wem"
+        },
+        "02d11e657c86b1e1": {
+            "hash": "02d11e657c86b1e1",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_raidenEi_08.wem"
+        },
+        "04eed13a9540335c": {
+            "hash": "04eed13a9540335c",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_04a.wem"
+        },
+        "0730b925149acc97": {
+            "hash": "0730b925149acc97",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_06.wem"
+        },
+        "0915312ebddfdfa7": {
+            "hash": "0915312ebddfdfa7",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_9_raidenEi_03.wem"
+        },
+        "0bc0a536c1fff3b1": {
+            "hash": "0bc0a536c1fff3b1",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_04.wem"
+        },
+        "0dcf50f85ab723ce": {
+            "hash": "0dcf50f85ab723ce",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_04.wem"
+        },
+        "0edcdabb3b1f5f4e": {
+            "hash": "0edcdabb3b1f5f4e",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_raidenEi_05.wem"
+        },
+        "0ef9450a05392f70": {
+            "hash": "0ef9450a05392f70",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_06.wem"
+        },
+        "1006cecce5a16af0": {
+            "hash": "1006cecce5a16af0",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_raidenEi_07.wem"
+        },
+        "15e9a9a2c536075f": {
+            "hash": "15e9a9a2c536075f",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_22.wem"
+        },
+        "192d8bc154b19f0c": {
+            "hash": "192d8bc154b19f0c",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_18.wem"
+        },
+        "196600fe359fc59e": {
+            "hash": "196600fe359fc59e",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_03.wem"
+        },
+        "1a8f350fe0208b40": {
+            "hash": "1a8f350fe0208b40",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_01.wem"
+        },
+        "1cfa5fcc1b5527d0": {
+            "hash": "1cfa5fcc1b5527d0",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_raidenEi_03.wem"
+        },
+        "1efae468daa0dfb2": {
+            "hash": "1efae468daa0dfb2",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_7_raidenEi_04.wem"
+        },
+        "2218a4d21f07350a": {
+            "hash": "2218a4d21f07350a",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_12_raidenEi_03.wem"
+        },
+        "221c5ad9e57e3884": {
+            "hash": "221c5ad9e57e3884",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_09.wem"
+        },
+        "2723d0a56d5eba6a": {
+            "hash": "2723d0a56d5eba6a",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_21.wem"
+        },
+        "277c5ec539f05a59": {
+            "hash": "277c5ec539f05a59",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_08.wem"
+        },
+        "27fe5b83934cf138": {
+            "hash": "27fe5b83934cf138",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_07.wem"
+        },
+        "29f8426ff37ba28b": {
+            "hash": "29f8426ff37ba28b",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_16.wem"
+        },
+        "2b226e819dfe0de5": {
+            "hash": "2b226e819dfe0de5",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_14.wem"
+        },
+        "2b72f7462b8fde03": {
+            "hash": "2b72f7462b8fde03",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_15.wem"
+        },
+        "2c3f24a693f01674": {
+            "hash": "2c3f24a693f01674",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_8_raidenEi_04.wem"
+        },
+        "2cc4679540dfde6a": {
+            "hash": "2cc4679540dfde6a",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_09.wem"
+        },
+        "2d1cf5b50d717e59": {
+            "hash": "2d1cf5b50d717e59",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_20.wem"
+        },
+        "2e76ad932288c9a3": {
+            "hash": "2e76ad932288c9a3",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_raidenEi_04.wem"
+        },
+        "3458c03269385182": {
+            "hash": "3458c03269385182",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_10.wem"
+        },
+        "373615163c38c087": {
+            "hash": "373615163c38c087",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_11.wem"
+        },
+        "3aafbee446cf66c1": {
+            "hash": "3aafbee446cf66c1",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_18.wem"
+        },
+        "3b2fc965a1e5d59b": {
+            "hash": "3b2fc965a1e5d59b",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_13.wem"
+        },
+        "3c59b5774c67d3b5": {
+            "hash": "3c59b5774c67d3b5",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_11.wem"
+        },
+        "3cb0a8e46a23a87c": {
+            "hash": "3cb0a8e46a23a87c",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_12_raidenEi_01.wem"
+        },
+        "3cdd87728683f256": {
+            "hash": "3cdd87728683f256",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_05.wem"
+        },
+        "3e3cfc8aa2a734bf": {
+            "hash": "3e3cfc8aa2a734bf",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_raidenEi_06.wem"
+        },
+        "3e663249d1314e9f": {
+            "hash": "3e663249d1314e9f",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_15.wem"
+        },
+        "3ec5bd70685a522f": {
+            "hash": "3ec5bd70685a522f",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_raidenEi_08.wem"
+        },
+        "402f9553ab5e905e": {
+            "hash": "402f9553ab5e905e",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_07.wem"
+        },
+        "403aa2928ad3a089": {
+            "hash": "403aa2928ad3a089",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_7_raidenEi_03.wem"
+        },
+        "409ecb460d33a22a": {
+            "hash": "409ecb460d33a22a",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_02a.wem"
+        },
         "42a4f0ee76f5bb7c": {
             "hash": "42a4f0ee76f5bb7c",
             "directory": "External8",
             "voiceContent": "我不会在此倒下",
             "sourceName": "vo_SGLQ102_6_raidenEi_01.wem"
+        },
+        "42d9148f2054d768": {
+            "hash": "42d9148f2054d768",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_24.wem"
+        },
+        "435822fbcf3989c1": {
+            "hash": "435822fbcf3989c1",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_12_raidenEi_04.wem"
+        },
+        "43d462bd702d9a07": {
+            "hash": "43d462bd702d9a07",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_24.wem"
+        },
+        "44142ff830f36c62": {
+            "hash": "44142ff830f36c62",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_raidenEi_07.wem"
         },
         "44a61400b9769e20": {
             "hash": "44a61400b9769e20",
@@ -314,11 +590,317 @@
             "voiceContent": "漫天飞舞的狐之樱花，最终化为了漆黑之雨",
             "sourceName": "vo_SGLQ102_6_raidenShogun_01.wem"
         },
+        "44bfc96558c43100": {
+            "hash": "44bfc96558c43100",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_05.wem"
+        },
+        "453e1409db755c34": {
+            "hash": "453e1409db755c34",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_raidenEi_05.wem"
+        },
+        "4c55febe99a299b9": {
+            "hash": "4c55febe99a299b9",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_8_raidenEi_01.wem"
+        },
+        "50c0c26fd0d48695": {
+            "hash": "50c0c26fd0d48695",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_7_raidenEi_07.wem"
+        },
+        "51b3d6817b27860f": {
+            "hash": "51b3d6817b27860f",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_7_raidenEi_01.wem"
+        },
+        "526190dcb400aa8a": {
+            "hash": "526190dcb400aa8a",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_07.wem"
+        },
+        "55166eac6051f9ed": {
+            "hash": "55166eac6051f9ed",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_22.wem"
+        },
+        "55987e5c196b1299": {
+            "hash": "55987e5c196b1299",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_17.wem"
+        },
+        "5a8aa896459380f5": {
+            "hash": "5a8aa896459380f5",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ002_raidenEi_03b_1.wem"
+        },
+        "5b468f35c5cf4e9e": {
+            "hash": "5b468f35c5cf4e9e",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_9_raidenEi_02.wem"
+        },
+        "5dfce4e92151522c": {
+            "hash": "5dfce4e92151522c",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_02.wem"
+        },
+        "5f0a6eac01b98dac": {
+            "hash": "5f0a6eac01b98dac",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_raidenEi_03.wem"
+        },
+        "6247b9f486aacec7": {
+            "hash": "6247b9f486aacec7",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_4_raidenEi_01.wem"
+        },
+        "66d1e78ec61b52c6": {
+            "hash": "66d1e78ec61b52c6",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_16.wem"
+        },
+        "69a24e42e13f7eb5": {
+            "hash": "69a24e42e13f7eb5",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_4_raidenEi_01.wem"
+        },
+        "6bfdffab376d4a8c": {
+            "hash": "6bfdffab376d4a8c",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_raidenEi_07.wem"
+        },
+        "6ccdb4ab5feca458": {
+            "hash": "6ccdb4ab5feca458",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_11.wem"
+        },
+        "6cf994eeff1d1dfc": {
+            "hash": "6cf994eeff1d1dfc",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_05.wem"
+        },
+        "6d8a356fedd9860e": {
+            "hash": "6d8a356fedd9860e",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_10.wem"
+        },
+        "6eb42981985b91b0": {
+            "hash": "6eb42981985b91b0",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_12.wem"
+        },
+        "708debbce4d271ae": {
+            "hash": "708debbce4d271ae",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_raidenEi_01.wem"
+        },
+        "71f8694d030bbdad": {
+            "hash": "71f8694d030bbdad",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_02b.wem"
+        },
+        "73e96a9af4f03d7a": {
+            "hash": "73e96a9af4f03d7a",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_raidenEi_01.wem"
+        },
+        "7aaa705bf43343d2": {
+            "hash": "7aaa705bf43343d2",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_22.wem"
+        },
+        "7b8e6ea2b75e5cb8": {
+            "hash": "7b8e6ea2b75e5cb8",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_raidenEi_05.wem"
+        },
+        "7bd3946d9eb3eda4": {
+            "hash": "7bd3946d9eb3eda4",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_20.wem"
+        },
+        "7c9125322ca29e4a": {
+            "hash": "7c9125322ca29e4a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_03.wem"
+        },
+        "7d1cb488a5be1114": {
+            "hash": "7d1cb488a5be1114",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_15.wem"
+        },
+        "7fff228d6e8588bb": {
+            "hash": "7fff228d6e8588bb",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_09.wem"
+        },
+        "807db073937b63ca": {
+            "hash": "807db073937b63ca",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_18.wem"
+        },
+        "80ddfb9a2aa5ad5a": {
+            "hash": "80ddfb9a2aa5ad5a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_raidenEi_05.wem"
+        },
+        "810cac504eedc43b": {
+            "hash": "810cac504eedc43b",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_raidenEi_08.wem"
+        },
+        "816afba1113993e8": {
+            "hash": "816afba1113993e8",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_14.wem"
+        },
+        "81ace09a5323a576": {
+            "hash": "81ace09a5323a576",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_13.wem"
+        },
+        "8573572d57faa18e": {
+            "hash": "8573572d57faa18e",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_07.wem"
+        },
+        "869d4b3f027cad30": {
+            "hash": "869d4b3f027cad30",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_05.wem"
+        },
+        "8811a5b8764e13dd": {
+            "hash": "8811a5b8764e13dd",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_19.wem"
+        },
+        "89e132aec5682b3f": {
+            "hash": "89e132aec5682b3f",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_8_raidenEi_03.wem"
+        },
         "8a7f27e6dac798e8": {
             "hash": "8a7f27e6dac798e8",
             "directory": "External17",
             "voiceContent": "拦路者，全部斩了吧",
             "sourceName": "vo_SGLQ004_2_raidenEi_02.wem"
+        },
+        "8add52f931207025": {
+            "hash": "8add52f931207025",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_08.wem"
+        },
+        "8be1f751a29d76a2": {
+            "hash": "8be1f751a29d76a2",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_01.wem"
+        },
+        "8d0adb634d1db474": {
+            "hash": "8d0adb634d1db474",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_03.wem"
+        },
+        "8d777c69beee646b": {
+            "hash": "8d777c69beee646b",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_raidenEi_02.wem"
+        },
+        "8da0b228ed787e4b": {
+            "hash": "8da0b228ed787e4b",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_11.wem"
+        },
+        "8df6a72ef18c1e20": {
+            "hash": "8df6a72ef18c1e20",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_12.wem"
+        },
+        "8ec9de3a97f935a5": {
+            "hash": "8ec9de3a97f935a5",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_13.wem"
+        },
+        "8f8cb2f017574ed7": {
+            "hash": "8f8cb2f017574ed7",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_05.wem"
+        },
+        "906d9a91aa955dd6": {
+            "hash": "906d9a91aa955dd6",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_raidenEi_07.wem"
+        },
+        "909a3cb2f7bf8a57": {
+            "hash": "909a3cb2f7bf8a57",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_raidenEi_04.wem"
+        },
+        "90b69f01c1d94cf1": {
+            "hash": "90b69f01c1d94cf1",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_07.wem"
+        },
+        "91c428c4a2418871": {
+            "hash": "91c428c4a2418871",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_raidenEi_06.wem"
+        },
+        "926c089992c31dc8": {
+            "hash": "926c089992c31dc8",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_7_raidenEi_02.wem"
         },
         "94d35ff1801052fe": {
             "hash": "94d35ff1801052fe",
@@ -326,11 +908,299 @@
             "voiceContent": "笼罩稻妻的神之雷光，最终于云端消寂无声",
             "sourceName": "vo_SGLQ102_6_raidenShogun_03.wem"
         },
+        "9e864e005fb60285": {
+            "hash": "9e864e005fb60285",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_raidenEi_04.wem"
+        },
+        "9eb7b9c3d7f54551": {
+            "hash": "9eb7b9c3d7f54551",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_raidenEi_02.wem"
+        },
+        "9f7922120a0895ff": {
+            "hash": "9f7922120a0895ff",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_raidenEi_02.wem"
+        },
+        "a0ee5660976eb5fb": {
+            "hash": "a0ee5660976eb5fb",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_7_raidenEi_05.wem"
+        },
+        "a5bf04cd7d503cd8": {
+            "hash": "a5bf04cd7d503cd8",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_09.wem"
+        },
+        "a704d6c9de5af513": {
+            "hash": "a704d6c9de5af513",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_12_raidenEi_02.wem"
+        },
+        "a77594d1a52ed815": {
+            "hash": "a77594d1a52ed815",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_08.wem"
+        },
+        "a8ab029d29d10473": {
+            "hash": "a8ab029d29d10473",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_20.wem"
+        },
+        "ab5f9bbd50d160d8": {
+            "hash": "ab5f9bbd50d160d8",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_21.wem"
+        },
+        "ad21b57b52d037b9": {
+            "hash": "ad21b57b52d037b9",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_06.wem"
+        },
+        "ae4b998cfd522873": {
+            "hash": "ae4b998cfd522873",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_08.wem"
+        },
+        "b5819d3df4628841": {
+            "hash": "b5819d3df4628841",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_9_raidenEi_01.wem"
+        },
+        "b93c576de5180052": {
+            "hash": "b93c576de5180052",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_12.wem"
+        },
+        "ba657b7f8f98aa24": {
+            "hash": "ba657b7f8f98aa24",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_10.wem"
+        },
         "bead4cbebaf46f8a": {
             "hash": "bead4cbebaf46f8a",
             "directory": "External23",
             "voiceContent": "我所背负的意志，不损不灭",
             "sourceName": "vo_SGLQ103_3_raidenEi_10.wem"
+        },
+        "c11ec960b758916c": {
+            "hash": "c11ec960b758916c",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_16.wem"
+        },
+        "c4017f227d788973": {
+            "hash": "c4017f227d788973",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_04b.wem"
+        },
+        "c6c4b3c137516a7b": {
+            "hash": "c6c4b3c137516a7b",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_01a.wem"
+        },
+        "c734a2f72db056a7": {
+            "hash": "c734a2f72db056a7",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_02.wem"
+        },
+        "c85112ce95889fc3": {
+            "hash": "c85112ce95889fc3",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_01.wem"
+        },
+        "cb6788781123e704": {
+            "hash": "cb6788781123e704",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_7_raidenEi_06.wem"
+        },
+        "cc0cb5e6c00b320b": {
+            "hash": "cc0cb5e6c00b320b",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_18_raidenEi_01.wem"
+        },
+        "cce0fee042edc6fd": {
+            "hash": "cce0fee042edc6fd",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_03.wem"
+        },
+        "cd1dc344ca21adaa": {
+            "hash": "cd1dc344ca21adaa",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ002_raidenEi_02.wem"
+        },
+        "cdee88a32356027d": {
+            "hash": "cdee88a32356027d",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_raidenEi_02.wem"
+        },
+        "d0b050796f3b76c2": {
+            "hash": "d0b050796f3b76c2",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_17.wem"
+        },
+        "d297c54fa7ac173a": {
+            "hash": "d297c54fa7ac173a",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_14.wem"
+        },
+        "d3db24645ccaf518": {
+            "hash": "d3db24645ccaf518",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_16.wem"
+        },
+        "d716159792679829": {
+            "hash": "d716159792679829",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_15.wem"
+        },
+        "d74dc2d473546a93": {
+            "hash": "d74dc2d473546a93",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_06.wem"
+        },
+        "d757c290d4514adf": {
+            "hash": "d757c290d4514adf",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_12.wem"
+        },
+        "d877aee61dd6688d": {
+            "hash": "d877aee61dd6688d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_04.wem"
+        },
+        "d907eb1e2179acec": {
+            "hash": "d907eb1e2179acec",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_01.wem"
+        },
+        "dae219a25909bf5d": {
+            "hash": "dae219a25909bf5d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_raidenEi_06.wem"
+        },
+        "dc11d0b5cd565456": {
+            "hash": "dc11d0b5cd565456",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_8_raidenEi_02.wem"
+        },
+        "de23f31fb825d2fe": {
+            "hash": "de23f31fb825d2fe",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_10.wem"
+        },
+        "df720a70c6aee222": {
+            "hash": "df720a70c6aee222",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_raidenEi_03.wem"
+        },
+        "e030942a21a2e6f8": {
+            "hash": "e030942a21a2e6f8",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_raidenEi_01.wem"
+        },
+        "e03e99003bc55054": {
+            "hash": "e03e99003bc55054",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_09.wem"
+        },
+        "e09aee82712f1ff4": {
+            "hash": "e09aee82712f1ff4",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_raidenEi_01.wem"
+        },
+        "e19de4edc2bcf2c0": {
+            "hash": "e19de4edc2bcf2c0",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_19.wem"
+        },
+        "e42b2441a29e15d4": {
+            "hash": "e42b2441a29e15d4",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_12.wem"
+        },
+        "e55450534d1ecd36": {
+            "hash": "e55450534d1ecd36",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_14.wem"
+        },
+        "e6531559d15e5ac5": {
+            "hash": "e6531559d15e5ac5",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_02.wem"
+        },
+        "e99854b54198ae5c": {
+            "hash": "e99854b54198ae5c",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_23.wem"
+        },
+        "ea80e70d11cd32ba": {
+            "hash": "ea80e70d11cd32ba",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_2_raidenShogun_03.wem"
+        },
+        "eaace96b7e95c93f": {
+            "hash": "eaace96b7e95c93f",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_04.wem"
+        },
+        "eac240c6ec1aac7e": {
+            "hash": "eac240c6ec1aac7e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_5_raidenEi_25.wem"
+        },
+        "ebf54986859ea6af": {
+            "hash": "ebf54986859ea6af",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_7_raidenEi_17.wem"
         },
         "ede581e804234087": {
             "hash": "ede581e804234087",
@@ -338,11 +1208,95 @@
             "voiceContent": "只要地脉仍在流动，时间的折磨就永无止境",
             "sourceName": "vo_SGLQ102_6_raidenShogun_02.wem"
         },
+        "edff374ca370d467": {
+            "hash": "edff374ca370d467",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_06.wem"
+        },
+        "ee8b0ea31c8cc1d9": {
+            "hash": "ee8b0ea31c8cc1d9",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_10.wem"
+        },
+        "eeb3a1f1264fc4ab": {
+            "hash": "eeb3a1f1264fc4ab",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_raidenEi_06.wem"
+        },
+        "ef479767aa79b117": {
+            "hash": "ef479767aa79b117",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_11.wem"
+        },
+        "f13de5d8b1069b84": {
+            "hash": "f13de5d8b1069b84",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_01b.wem"
+        },
+        "f1a9c01911f6be16": {
+            "hash": "f1a9c01911f6be16",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_raidenEi_03.wem"
+        },
+        "f1c6d4f8f65f01ce": {
+            "hash": "f1c6d4f8f65f01ce",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ002_raidenEi_03a_1.wem"
+        },
+        "f3d7837957ded831": {
+            "hash": "f3d7837957ded831",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_13.wem"
+        },
         "f50975cc4f2cabaf": {
             "hash": "f50975cc4f2cabaf",
             "directory": "External30",
             "voiceContent": "果然很不对劲",
             "sourceName": "vo_SGLQ004_2_raidenEi_01.wem"
+        },
+        "faa5b095aed48a72": {
+            "hash": "faa5b095aed48a72",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_08.wem"
+        },
+        "fbb33a588f3cc5f2": {
+            "hash": "fbb33a588f3cc5f2",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_raidenEi_09.wem"
+        },
+        "fc9de253b101191b": {
+            "hash": "fc9de253b101191b",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_23.wem"
+        },
+        "fdc7ce655b831735": {
+            "hash": "fdc7ce655b831735",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_11_raidenEi_21.wem"
+        },
+        "fe185729e914e853": {
+            "hash": "fe185729e914e853",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_raidenEi_02.wem"
+        },
+        "fe77614bbff9c92d": {
+            "hash": "fe77614bbff9c92d",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ002_raidenEi_01.wem"
         },
         "ff278dd6f447a06d": {
             "hash": "ff278dd6f447a06d",
@@ -416,19 +1370,19 @@
             "hash": "23221ccfcb00199f",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attackheavy_02.wem"
+            "sourceName": "vo_raidenShogun_battle_attackHeavy_02.wem"
         },
         "282dd032b9a98fde": {
             "hash": "282dd032b9a98fde",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_climb_02.wem"
+            "sourceName": "vo_raidenShogun_explore_climb_02.wem"
         },
         "28571bdaafd7e8f2": {
             "hash": "28571bdaafd7e8f2",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_hit_l_02.wem"
+            "sourceName": "vo_raidenShogun_battle_hit_L_02.wem"
         },
         "29bb4f345a2888ac": {
             "hash": "29bb4f345a2888ac",
@@ -452,13 +1406,13 @@
             "hash": "2bf34aaa3093cb20",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attacklight_06.wem"
+            "sourceName": "vo_raidenShogun_battle_attackLight_06.wem"
         },
         "33b1671b606be2f2": {
             "hash": "33b1671b606be2f2",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_jump_05.wem"
+            "sourceName": "vo_raidenShogun_explore_jump_05.wem"
         },
         "36d0d7fb4e262845": {
             "hash": "36d0d7fb4e262845",
@@ -488,7 +1442,7 @@
             "hash": "389497ec12a32e41",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_fly_start_02.wem"
+            "sourceName": "vo_raidenShogun_explore_fly_start_02.wem"
         },
         "391740a804fe5574": {
             "hash": "391740a804fe5574",
@@ -500,7 +1454,7 @@
             "hash": "3a09587134e3d7f3",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attacklight_01.wem"
+            "sourceName": "vo_raidenShogun_battle_attackLight_01.wem"
         },
         "3a2c87d0c0df5a6e": {
             "hash": "3a2c87d0c0df5a6e",
@@ -532,41 +1486,35 @@
             "voiceContent": "…诸恶当斩",
             "sourceName": "vo_raidenShogun_life_less30_02.wem"
         },
-        "446783447776c43c": {
-            "hash": "446783447776c43c",
-            "directory": "External8",
-            "voiceContent": "熟悉的味道。不坏",
-            "sourceName": "vo_raidenShogun_spice_event_pref_01.wem"
-        },
         "48b1e9e5f238996b": {
             "hash": "48b1e9e5f238996b",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_idle_02.wem"
+            "sourceName": "vo_raidenShogun_explore_idle_02.wem"
         },
         "4996da04600aa9c9": {
             "hash": "4996da04600aa9c9",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_hit_l_05.wem"
+            "sourceName": "vo_raidenShogun_battle_hit_L_05.wem"
         },
         "4a83c7aa60bced8a": {
             "hash": "4a83c7aa60bced8a",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_climb_breath_01.wem"
+            "sourceName": "vo_raidenShogun_explore_climb_breath_01.wem"
         },
         "4ce35e623425957e": {
             "hash": "4ce35e623425957e",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_sprint_start_02.wem"
+            "sourceName": "vo_raidenShogun_explore_sprint_start_02.wem"
         },
         "4d3a5d75af704edd": {
             "hash": "4d3a5d75af704edd",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_hit_h_05.wem"
+            "sourceName": "vo_raidenShogun_battle_hit_H_05.wem"
         },
         "4d53a20db5909122": {
             "hash": "4d53a20db5909122",
@@ -602,7 +1550,7 @@
             "hash": "5165551e296596b9",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attackmid_01.wem"
+            "sourceName": "vo_raidenShogun_battle_attackMid_01.wem"
         },
         "51ab1b8a1f08a24b": {
             "hash": "51ab1b8a1f08a24b",
@@ -614,7 +1562,7 @@
             "hash": "54f12545109ea3c9",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_jump_02.wem"
+            "sourceName": "vo_raidenShogun_explore_jump_02.wem"
         },
         "593b2a712e3602f7": {
             "hash": "593b2a712e3602f7",
@@ -626,7 +1574,7 @@
             "hash": "5a1cf9e1a60b8fd5",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_hit_l_01.wem"
+            "sourceName": "vo_raidenShogun_battle_hit_L_01.wem"
         },
         "5d90f4264d6b3a64": {
             "hash": "5d90f4264d6b3a64",
@@ -644,13 +1592,13 @@
             "hash": "64a39187f7d92c37",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_hit_h_03.wem"
+            "sourceName": "vo_raidenShogun_battle_hit_H_03.wem"
         },
         "651bcbbcabd960fc": {
             "hash": "651bcbbcabd960fc",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_climb_breath_03.wem"
+            "sourceName": "vo_raidenShogun_explore_climb_breath_03.wem"
         },
         "65c977b5c78e6b3a": {
             "hash": "65c977b5c78e6b3a",
@@ -722,19 +1670,25 @@
             "hash": "7af6aa894cab81dc",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attacklight_02.wem"
+            "sourceName": "vo_raidenShogun_battle_attackLight_02.wem"
+        },
+        "7b3a15461f48ff20": {
+            "hash": "7b3a15461f48ff20",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_raidenEi_teammate_mizuki_01.wem"
         },
         "7bc2642383289a3c": {
             "hash": "7bc2642383289a3c",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_climb_04.wem"
+            "sourceName": "vo_raidenShogun_explore_climb_04.wem"
         },
         "7c20969af72d7ffe": {
             "hash": "7c20969af72d7ffe",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attacklight_04.wem"
+            "sourceName": "vo_raidenShogun_battle_attackLight_04.wem"
         },
         "81f140ff5c8b0ea1": {
             "hash": "81f140ff5c8b0ea1",
@@ -746,7 +1700,7 @@
             "hash": "85cfde3aeb21a481",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_climb_01.wem"
+            "sourceName": "vo_raidenShogun_explore_climb_01.wem"
         },
         "8a182252884dbcf2": {
             "hash": "8a182252884dbcf2",
@@ -764,7 +1718,7 @@
             "hash": "8ef0890e552b283f",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attackmid_03.wem"
+            "sourceName": "vo_raidenShogun_battle_attackMid_03.wem"
         },
         "909623346ed6cc0b": {
             "hash": "909623346ed6cc0b",
@@ -794,25 +1748,19 @@
             "hash": "9aac77ecf9f91722",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_idle_03.wem"
+            "sourceName": "vo_raidenShogun_explore_idle_03.wem"
         },
         "9bc7400b67f87308": {
             "hash": "9bc7400b67f87308",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_hit_l_04.wem"
+            "sourceName": "vo_raidenShogun_battle_hit_L_04.wem"
         },
         "9bd55bfea47954f4": {
             "hash": "9bd55bfea47954f4",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_idle_01.wem"
-        },
-        "9dac67d18a49e436": {
-            "hash": "9dac67d18a49e436",
-            "directory": "External19",
-            "voiceContent": "放在这里吧，我会尝的",
-            "sourceName": "vo_raidenShogun_spice_event_normal_01.wem"
+            "sourceName": "vo_raidenShogun_explore_idle_01.wem"
         },
         "a0653d10734775fb": {
             "hash": "a0653d10734775fb",
@@ -824,19 +1772,19 @@
             "hash": "a5f58058b8388307",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_sprint_start_03.wem"
+            "sourceName": "vo_raidenShogun_explore_sprint_start_03.wem"
         },
         "a71e6c6a62b8ce21": {
             "hash": "a71e6c6a62b8ce21",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_sprint_start_01.wem"
+            "sourceName": "vo_raidenShogun_explore_sprint_start_01.wem"
         },
         "a7218b4c188c6d08": {
             "hash": "a7218b4c188c6d08",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_jump_03.wem"
+            "sourceName": "vo_raidenShogun_explore_jump_03.wem"
         },
         "a7a4776eab6a455f": {
             "hash": "a7a4776eab6a455f",
@@ -848,13 +1796,7 @@
             "hash": "adb08dd26f88e73b",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_hit_l_03.wem"
-        },
-        "af63cece02d7dbf2": {
-            "hash": "af63cece02d7dbf2",
-            "directory": "External21",
-            "voiceContent": "会损害身体机能，拿走",
-            "sourceName": "vo_raidenShogun_spice_event_dislike_01.wem"
+            "sourceName": "vo_raidenShogun_battle_hit_L_03.wem"
         },
         "b5779fb00a351834": {
             "hash": "b5779fb00a351834",
@@ -866,13 +1808,13 @@
             "hash": "b8970eea5699c018",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attackheavy_01.wem"
+            "sourceName": "vo_raidenShogun_battle_attackHeavy_01.wem"
         },
         "b90ad913201ce13b": {
             "hash": "b90ad913201ce13b",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_jump_04.wem"
+            "sourceName": "vo_raidenShogun_explore_jump_04.wem"
         },
         "ba00e9f11d7db21c": {
             "hash": "ba00e9f11d7db21c",
@@ -920,7 +1862,7 @@
             "hash": "ca103ad946ed9836",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attackheavy_03.wem"
+            "sourceName": "vo_raidenShogun_battle_attackHeavy_03.wem"
         },
         "cade6f27ecfca704": {
             "hash": "cade6f27ecfca704",
@@ -932,7 +1874,7 @@
             "hash": "d099e5b3ca92ab8d",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_climb_breath_02.wem"
+            "sourceName": "vo_raidenShogun_explore_climb_breath_02.wem"
         },
         "d0ee12232c325502": {
             "hash": "d0ee12232c325502",
@@ -950,19 +1892,19 @@
             "hash": "d532b8917b406d87",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attacklight_05.wem"
+            "sourceName": "vo_raidenShogun_battle_attackLight_05.wem"
         },
         "d5fd722bb1bbd3e7": {
             "hash": "d5fd722bb1bbd3e7",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_climb_03.wem"
+            "sourceName": "vo_raidenShogun_explore_climb_03.wem"
         },
         "d65ba4a325c0b8a1": {
             "hash": "d65ba4a325c0b8a1",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attacklight_07.wem"
+            "sourceName": "vo_raidenShogun_battle_attackLight_07.wem"
         },
         "d80d09c5fac014d8": {
             "hash": "d80d09c5fac014d8",
@@ -974,7 +1916,7 @@
             "hash": "d952abfb93be6466",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_hit_l_06.wem"
+            "sourceName": "vo_raidenShogun_battle_hit_L_06.wem"
         },
         "dc5fb9f31f654422": {
             "hash": "dc5fb9f31f654422",
@@ -998,19 +1940,19 @@
             "hash": "de56437e8dd3da0c",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_hit_h_04.wem"
+            "sourceName": "vo_raidenShogun_battle_hit_H_04.wem"
         },
         "de5989e3e40ff49e": {
             "hash": "de5989e3e40ff49e",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_fly_start_01.wem"
+            "sourceName": "vo_raidenShogun_explore_fly_start_01.wem"
         },
         "df82bdf58e90ba40": {
             "hash": "df82bdf58e90ba40",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_fly_start_03.wem"
+            "sourceName": "vo_raidenShogun_explore_fly_start_03.wem"
         },
         "e07f1bc26279fca4": {
             "hash": "e07f1bc26279fca4",
@@ -1022,7 +1964,7 @@
             "hash": "e12127155d195156",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attackmid_02.wem"
+            "sourceName": "vo_raidenShogun_battle_attackMid_02.wem"
         },
         "e2e62f903b39012e": {
             "hash": "e2e62f903b39012e",
@@ -1040,7 +1982,7 @@
             "hash": "e4acf73c44525e66",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_jump_01.wem"
+            "sourceName": "vo_raidenShogun_explore_jump_01.wem"
         },
         "e5f3ce8f52bd99eb": {
             "hash": "e5f3ce8f52bd99eb",
@@ -1058,7 +2000,7 @@
             "hash": "e674c4806b64cd6d",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_attacklight_03.wem"
+            "sourceName": "vo_raidenShogun_battle_attackLight_03.wem"
         },
         "e6cb7e18bbe026e7": {
             "hash": "e6cb7e18bbe026e7",
@@ -1088,7 +2030,7 @@
             "hash": "eaa67e1aa4c50ecd",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_explore_climb_05.wem"
+            "sourceName": "vo_raidenShogun_explore_climb_05.wem"
         },
         "eb6c67f78e0682b0": {
             "hash": "eb6c67f78e0682b0",
@@ -1112,7 +2054,7 @@
             "hash": "f3363f6d810c3cda",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_raidenshogun_battle_hit_h_06.wem"
+            "sourceName": "vo_raidenShogun_battle_hit_H_06.wem"
         },
         "f35de8b3613d9419": {
             "hash": "f35de8b3613d9419",

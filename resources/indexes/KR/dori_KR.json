@@ -374,6 +374,12 @@
             "voiceContent": "(에휴… 역시 소개 비용을 받았어야 했는데",
             "sourceName": "vo_KVCOP001_19074_dori_02.wem"
         },
+        "6c9eefbfe6c67e36": {
+            "hash": "6c9eefbfe6c67e36",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_dori_01.wem"
+        },
         "75b47307e209d71c": {
             "hash": "75b47307e209d71c",
             "directory": "External14",
@@ -469,6 +475,12 @@
             "directory": "External28",
             "voiceContent": "아이고! 이게 누구야! 내 소중한 고객이 오셨네! 그리고… 어? 아루 마을의 수호자 캔디스 씨잖아? 우후후… 흥미로운걸",
             "sourceName": "vo_HSEQ001_5_dori_03.wem"
+        },
+        "f525c94f34dcb9bc": {
+            "hash": "f525c94f34dcb9bc",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ001_6_dori_01.wem"
         }
     },
     "Gameplay": {
@@ -476,7 +488,7 @@
             "hash": "0332806428a68163",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_04.wem"
+            "sourceName": "vo_dori_battle_hit_H_04.wem"
         },
         "04a711ed19620e42": {
             "hash": "04a711ed19620e42",
@@ -496,17 +508,23 @@
             "voiceContent": "맛있어, 나를 따라다니면서 내 개인 요리사를 하는 건 어때",
             "sourceName": "vo_dori_spice_pref_01.wem"
         },
+        "0e6da59ca95bc411": {
+            "hash": "0e6da59ca95bc411",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_leave_01.wem"
+        },
         "0f6388de3cdabef2": {
             "hash": "0f6388de3cdabef2",
             "directory": "External1",
             "voiceContent": "이 정도야",
             "sourceName": "vo_dori_battle_hit_L_01.wem"
         },
-        "12d10fc6e8a74710": {
-            "hash": "12d10fc6e8a74710",
-            "directory": "External2",
-            "voiceContent": "웩, 나한테 이런 음식을 먹으라고 하다니. 흥, 정신적 손해배상을 청구하겠어",
-            "sourceName": "vo_dori_spice_event_dislike_01.wem"
+        "0f750de2755ca45d": {
+            "hash": "0f750de2755ca45d",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_hard_01.wem"
         },
         "13aadc21255a01f5": {
             "hash": "13aadc21255a01f5",
@@ -518,7 +536,7 @@
             "hash": "1796113cdc7a5778",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_05.wem"
+            "sourceName": "vo_dori_battle_attackLight_05.wem"
         },
         "1a02bd0de2d83f5b": {
             "hash": "1a02bd0de2d83f5b",
@@ -544,6 +562,12 @@
             "voiceContent": "이야기를 듣고 싶다고? 그럼… 100만 모라만 줘. 음… 우리 친분을 봐서 1% 할인해서 99만 모라에 해줄게. 어때? 저렴하지",
             "sourceName": "vo_dori_friendship_01.wem"
         },
+        "20ec0e00a031f457": {
+            "hash": "20ec0e00a031f457",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_endOfGame_fail_01.wem"
+        },
         "21cb56c60e19ab2f": {
             "hash": "21cb56c60e19ab2f",
             "directory": "External4",
@@ -566,7 +590,7 @@
             "hash": "26191f03e127352b",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_02.wem"
+            "sourceName": "vo_dori_battle_attackLight_02.wem"
         },
         "2783d4fdfb058257": {
             "hash": "2783d4fdfb058257",
@@ -578,7 +602,7 @@
             "hash": "290f3d2bccce2e96",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_07.wem"
+            "sourceName": "vo_dori_battle_attackLight_07.wem"
         },
         "2a54aa744545fec1": {
             "hash": "2a54aa744545fec1",
@@ -620,7 +644,7 @@
             "hash": "30a34707ed0d7fc9",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_06.wem"
+            "sourceName": "vo_dori_battle_hit_L_06.wem"
         },
         "33215c7aac5d89cc": {
             "hash": "33215c7aac5d89cc",
@@ -662,7 +686,7 @@
             "hash": "4058ec075f13aa3d",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackmid_02.wem"
+            "sourceName": "vo_dori_battle_attackMid_02.wem"
         },
         "412966e5330e65d5": {
             "hash": "412966e5330e65d5",
@@ -674,7 +698,7 @@
             "hash": "421c7af6dd61654f",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_04.wem"
+            "sourceName": "vo_dori_battle_hit_L_04.wem"
         },
         "433f82bcd7fdd753": {
             "hash": "433f82bcd7fdd753",
@@ -698,7 +722,13 @@
             "hash": "483e35ecf2313863",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackheavy_01.wem"
+            "sourceName": "vo_dori_battle_attackHeavy_01.wem"
+        },
+        "4d462fcaef0d4299": {
+            "hash": "4d462fcaef0d4299",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_easy_02.wem"
         },
         "4d4a7bbe9dcb35f2": {
             "hash": "4d4a7bbe9dcb35f2",
@@ -728,7 +758,7 @@
             "hash": "5599ce6b30c3641a",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_05.wem"
+            "sourceName": "vo_dori_battle_hit_H_05.wem"
         },
         "58f9147554fdc410": {
             "hash": "58f9147554fdc410",
@@ -754,6 +784,12 @@
             "voiceContent": "상인에게 모라보다 매력적인 게 어디 있겠어. 그래서 상인은 셀 수 없을 정도로 많은 모라를 벌고 싶다고 했지. 「착하고 아름다운 대마왕」은 알겠다며 그녀의 상품 공급책이 되어 신비한 물건들을 계속 공급해 주었고, 상인은 그로 인해 엄청난 거금을 끌어모았어",
             "sourceName": "vo_dori_friendship_04.wem"
         },
+        "6309a1d33edbaea3": {
+            "hash": "6309a1d33edbaea3",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_hard_03.wem"
+        },
         "634f9ef5bd082cf3": {
             "hash": "634f9ef5bd082cf3",
             "directory": "External12",
@@ -778,17 +814,17 @@
             "voiceContent": "제법이네. 하지만 이 정도론 놀라지 않",
             "sourceName": "vo_card_dori_inGame_hard_02.wem"
         },
+        "6d8005462b21294f": {
+            "hash": "6d8005462b21294f",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_dori_01.wem"
+        },
         "762f02f7858628ba": {
             "hash": "762f02f7858628ba",
             "directory": "External14",
             "voiceContent": "이런 날씨에는 캐러밴도 움직이기 힘들어. 이렇게 잃은 모라가 또 얼마야",
             "sourceName": "vo_dori_weather_thunder_01.wem"
-        },
-        "76a0ff6986500cdc": {
-            "hash": "76a0ff6986500cdc",
-            "directory": "External14",
-            "voiceContent": "이야, 내 조수의 요리 솜씨가 나쁘지 않네. 더 주문해도 되지",
-            "sourceName": "vo_dori_spice_event_normal_01.wem"
         },
         "76d98c94e0f62511": {
             "hash": "76d98c94e0f62511",
@@ -806,7 +842,7 @@
             "hash": "7b79ad0aebcadce2",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_03.wem"
+            "sourceName": "vo_dori_battle_attackLight_03.wem"
         },
         "7b98fa1eec5d3d15": {
             "hash": "7b98fa1eec5d3d15",
@@ -824,7 +860,7 @@
             "hash": "7ca3911c964cccb4",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_01.wem"
+            "sourceName": "vo_dori_battle_attackLight_01.wem"
         },
         "7de83e650ec35627": {
             "hash": "7de83e650ec35627",
@@ -884,7 +920,13 @@
             "hash": "892c880509fa954c",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackheavy_02.wem"
+            "sourceName": "vo_dori_battle_attackHeavy_02.wem"
+        },
+        "8c70a8181a89af10": {
+            "hash": "8c70a8181a89af10",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_freetalk_01.wem"
         },
         "91047c076ff060d3": {
             "hash": "91047c076ff060d3",
@@ -932,7 +974,7 @@
             "hash": "99536b34991a74f9",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_04.wem"
+            "sourceName": "vo_dori_battle_attackLight_04.wem"
         },
         "9dac0cd10b9d9ae3": {
             "hash": "9dac0cd10b9d9ae3",
@@ -1000,6 +1042,12 @@
             "voiceContent": "수메르에서 여행하게? 수메르의 사막은 엄청 위험해. 착한 도리가 도와주지! 짜잔, 사막 여행 패키지, 500만 모라만 받을게! 지금 사면 무료로 우림 여행 패키지도 주고 있어! 날이면 날마다 오는 기회가 아니",
             "sourceName": "vo_dori_dialog_close.wem"
         },
+        "ae37375e42bb0d08": {
+            "hash": "ae37375e42bb0d08",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_dori_02.wem"
+        },
         "b046b6295cbc5c59": {
             "hash": "b046b6295cbc5c59",
             "directory": "External22",
@@ -1010,13 +1058,19 @@
             "hash": "b304ec73620c521d",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_06.wem"
+            "sourceName": "vo_dori_battle_hit_H_06.wem"
         },
         "b4c327f1a013e7c8": {
             "hash": "b4c327f1a013e7c8",
             "directory": "External22",
             "voiceContent": "오늘은 내가 네 소원 하나 들어줄게! 난 전지전능한 도리니까 말해봐, 뭘 원하는데? 미리 말하지만 「평생 다 못 쓸 만큼의 모라」를 원한다는 소원은 못 들어",
             "sourceName": "vo_dori_pref_birthday_01.wem"
+        },
+        "b570efda46f8925a": {
+            "hash": "b570efda46f8925a",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_hard_02.wem"
         },
         "b6ede05a0b7394f6": {
             "hash": "b6ede05a0b7394f6",
@@ -1064,7 +1118,7 @@
             "hash": "bf352ced763f3c44",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_03.wem"
+            "sourceName": "vo_dori_battle_hit_L_03.wem"
         },
         "bfe170305baf5eef": {
             "hash": "bfe170305baf5eef",
@@ -1082,7 +1136,7 @@
             "hash": "c05f18ff20c13a66",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_05.wem"
+            "sourceName": "vo_dori_battle_hit_L_05.wem"
         },
         "c6781bb1c22b3647": {
             "hash": "c6781bb1c22b3647",
@@ -1102,6 +1156,12 @@
             "voiceContent": "헤헤헤, 지금 패배를 인정하는 건 어때",
             "sourceName": "vo_card_dori_inGame_hard_01.wem"
         },
+        "cb88d5d3326d2518": {
+            "hash": "cb88d5d3326d2518",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_easy_03.wem"
+        },
         "cbd5502d1260e06a": {
             "hash": "cbd5502d1260e06a",
             "directory": "External25",
@@ -1114,12 +1174,6 @@
             "voiceContent": "모라는 우릴 기다리지 않아, 빨리 따라",
             "sourceName": "vo_dori_teamJoin_02.wem"
         },
-        "d1563abde56d46b6": {
-            "hash": "d1563abde56d46b6",
-            "directory": "External26",
-            "voiceContent": "맛있어, 나를 따라다니면서 내 개인 요리사를 하는 건 어때",
-            "sourceName": "vo_dori_spice_event_pref_01.wem"
-        },
         "d48601c97b45c0c1": {
             "hash": "d48601c97b45c0c1",
             "directory": "External26",
@@ -1130,13 +1184,13 @@
             "hash": "d4dad210405a5f6c",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackmid_03.wem"
+            "sourceName": "vo_dori_battle_attackMid_03.wem"
         },
         "d6de9f24c4e0067f": {
             "hash": "d6de9f24c4e0067f",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_06.wem"
+            "sourceName": "vo_dori_battle_attackLight_06.wem"
         },
         "d8df70d7f93da407": {
             "hash": "d8df70d7f93da407",
@@ -1156,6 +1210,12 @@
             "voiceContent": "모라만 충분하다면 아카데미아와 맞서 싸우는 것도 문제없",
             "sourceName": "vo_dori_character_idle_03.wem"
         },
+        "dd0201c222c0fd36": {
+            "hash": "dd0201c222c0fd36",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_easy_01.wem"
+        },
         "de9a5ee92366f7cc": {
             "hash": "de9a5ee92366f7cc",
             "directory": "External27",
@@ -1166,7 +1226,7 @@
             "hash": "e653cdff30ade53a",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackmid_01.wem"
+            "sourceName": "vo_dori_battle_attackMid_01.wem"
         },
         "ea217cc6e96203ed": {
             "hash": "ea217cc6e96203ed",
@@ -1184,7 +1244,7 @@
             "hash": "f51c329d24560790",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_03.wem"
+            "sourceName": "vo_dori_battle_hit_H_03.wem"
         },
         "f5ab6fea94e9b723": {
             "hash": "f5ab6fea94e9b723",
@@ -1208,7 +1268,7 @@
             "hash": "f810a1fc2b97091d",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackheavy_03.wem"
+            "sourceName": "vo_dori_battle_attackHeavy_03.wem"
         },
         "f9b3d313815647a0": {
             "hash": "f9b3d313815647a0",
@@ -1233,6 +1293,12 @@
             "directory": "External31",
             "voiceContent": "야밤에 길을 떠나는 건 정말 도전적인 일이지. 하지만 항상 밖에서 떠돌아다니는 여행 상인한테는 아무것도 아니야",
             "sourceName": "vo_dori_dialog_greetingNight.wem"
+        },
+        "fffef90ababc8d2d": {
+            "hash": "fffef90ababc8d2d",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_endOfGame_win_01.wem"
         }
     }
 }

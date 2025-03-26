@@ -602,13 +602,7 @@
             "hash": "0d2c357daec11cc9",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_05.wem"
-        },
-        "0f39b86ce6ffd2d3": {
-            "hash": "0f39b86ce6ffd2d3",
-            "directory": "External1",
-            "voiceContent": "呼，好饱，连餐后水果都要吃不下了",
-            "sourceName": "vo_venti_spice_event_normal_01.wem"
+            "sourceName": "vo_venti_battle_hit_H_05.wem"
         },
         "0f3e3d09bba5435c": {
             "hash": "0f3e3d09bba5435c",
@@ -620,7 +614,7 @@
             "hash": "10cfb8eefe26c1dd",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_05.wem"
+            "sourceName": "vo_venti_battle_hit_L_05.wem"
         },
         "121564d5d169248e": {
             "hash": "121564d5d169248e",
@@ -640,11 +634,17 @@
             "voiceContent": "我想把你写进新歌里！欸，怎么露出这种表情呀，担心付不起稿费吗？哈哈，摩拉就不要了，不如…跟我再讲讲你的故事吧",
             "sourceName": "vo_venti_dialog_close1.wem"
         },
+        "19acc66cbbd5a830": {
+            "hash": "19acc66cbbd5a830",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_life_die_04.wem"
+        },
         "1db2555af4c202d5": {
             "hash": "1db2555af4c202d5",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_01.wem"
+            "sourceName": "vo_venti_battle_hit_H_01.wem"
         },
         "1e1d4b9b0e96159e": {
             "hash": "1e1d4b9b0e96159e",
@@ -662,7 +662,7 @@
             "hash": "2260f8d5b8358d68",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_02.wem"
+            "sourceName": "vo_venti_battle_attackLight_02.wem"
         },
         "23744553ec047a0e": {
             "hash": "23744553ec047a0e",
@@ -682,6 +682,12 @@
             "voiceContent": "嘿嘿，要不要感谢「风神的眷顾」呀",
             "sourceName": "vo_venti_chest_open_02.wem"
         },
+        "27261102f82fe9d1": {
+            "hash": "27261102f82fe9d1",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_battle_skill2_02.wem"
+        },
         "27f8bcb28129c950": {
             "hash": "27f8bcb28129c950",
             "directory": "External4",
@@ -698,7 +704,7 @@
             "hash": "2838ed01468f9f37",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_03.wem"
+            "sourceName": "vo_venti_battle_hit_L_03.wem"
         },
         "284c0e097a4ac9f8": {
             "hash": "284c0e097a4ac9f8",
@@ -717,6 +723,12 @@
             "directory": "External5",
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_idle_03.wem"
+        },
+        "2cf2116961e11306": {
+            "hash": "2cf2116961e11306",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_08.wem"
         },
         "2d7642d3a2b386df": {
             "hash": "2d7642d3a2b386df",
@@ -782,7 +794,7 @@
             "hash": "3f6fde66d5f5ba1a",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_02.wem"
+            "sourceName": "vo_venti_battle_attackMid_02.wem"
         },
         "432965c9e980acb3": {
             "hash": "432965c9e980acb3",
@@ -807,6 +819,12 @@
             "directory": "External9",
             "voiceContent": "很顺利嘛",
             "sourceName": "vo_card_venti_inGame_easy_02.wem"
+        },
+        "4e31cf931213d41d": {
+            "hash": "4e31cf931213d41d",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_07.wem"
         },
         "50d7a2f7abd50c38": {
             "hash": "50d7a2f7abd50c38",
@@ -854,19 +872,19 @@
             "hash": "5a3254a28c13f9d2",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_04.wem"
+            "sourceName": "vo_venti_battle_attackLight_04.wem"
         },
         "5b5b78b43694a3a4": {
             "hash": "5b5b78b43694a3a4",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_06.wem"
+            "sourceName": "vo_venti_battle_attackLight_06.wem"
         },
         "5f5c9b84b6aee608": {
             "hash": "5f5c9b84b6aee608",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_04.wem"
+            "sourceName": "vo_venti_battle_hit_H_04.wem"
         },
         "62da22a5db55227f": {
             "hash": "62da22a5db55227f",
@@ -880,11 +898,23 @@
             "voiceContent": "欸~这就天晴了？我还想多玩一会儿呢",
             "sourceName": "vo_venti_weather_afterRain_01.wem"
         },
+        "659b03a55a7cb277": {
+            "hash": "659b03a55a7cb277",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_01.wem"
+        },
         "65a4af95adbd9f5b": {
             "hash": "65a4af95adbd9f5b",
             "directory": "External12",
             "voiceContent": "哟呼—",
             "sourceName": "vo_venti_battle_skill1_01.wem"
+        },
+        "69932cce11b81bc4": {
+            "hash": "69932cce11b81bc4",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_dialog_close2_heroine.wem"
         },
         "6a339ba75b211375": {
             "hash": "6a339ba75b211375",
@@ -908,7 +938,7 @@
             "hash": "7145e94bbe3f5a3b",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_03.wem"
+            "sourceName": "vo_venti_battle_hit_H_03.wem"
         },
         "71de93ce665db9be": {
             "hash": "71de93ce665db9be",
@@ -920,7 +950,7 @@
             "hash": "780c12cc396391a9",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_03.wem"
+            "sourceName": "vo_venti_battle_attackLight_03.wem"
         },
         "785859a33d294f41": {
             "hash": "785859a33d294f41",
@@ -986,13 +1016,19 @@
             "hash": "8ceb46bb2c9aa02f",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_01.wem"
+            "sourceName": "vo_venti_battle_attackLight_01.wem"
         },
         "8f5e29fcd6b631c5": {
             "hash": "8f5e29fcd6b631c5",
             "directory": "External17",
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_fly_start_02.wem"
+        },
+        "904915bcd45d8990": {
+            "hash": "904915bcd45d8990",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_02.wem"
         },
         "93b7fe0e83eda03f": {
             "hash": "93b7fe0e83eda03f",
@@ -1022,13 +1058,19 @@
             "hash": "9cdafc6f073ea81d",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_01.wem"
+            "sourceName": "vo_venti_battle_attackMid_01.wem"
         },
         "9ce80774e274d766": {
             "hash": "9ce80774e274d766",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_06.wem"
+            "sourceName": "vo_venti_battle_hit_H_06.wem"
+        },
+        "9e5f6383d8ae0363": {
+            "hash": "9e5f6383d8ae0363",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_05.wem"
         },
         "9e6fd0614692f09a": {
             "hash": "9e6fd0614692f09a",
@@ -1040,7 +1082,13 @@
             "hash": "a1eb9ef7dc8a4d0c",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_04.wem"
+            "sourceName": "vo_venti_battle_hit_L_04.wem"
+        },
+        "a26829de748daae3": {
+            "hash": "a26829de748daae3",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_03b.wem"
         },
         "a39194bdf2ef7378": {
             "hash": "a39194bdf2ef7378",
@@ -1070,7 +1118,7 @@
             "hash": "a99fa56884150233",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_02.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_02.wem"
         },
         "a9b616aa3dc9e6d1": {
             "hash": "a9b616aa3dc9e6d1",
@@ -1096,11 +1144,11 @@
             "voiceContent": "哎，你在做什么好吃的吗？欸？热奶酪饼！这个…这个不行，热热的黏糊糊的，唔…对我来说，太腻了",
             "sourceName": "vo_venti_pref_foodDislike.wem"
         },
-        "b1320efd35886e6d": {
-            "hash": "b1320efd35886e6d",
-            "directory": "External22",
-            "voiceContent": "啊，好满足！明天也会有吧？后天也会有吧",
-            "sourceName": "vo_venti_spice_event_pref_01.wem"
+        "aeaf73611e813eef": {
+            "hash": "aeaf73611e813eef",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_09.wem"
         },
         "b14344965f92134d": {
             "hash": "b14344965f92134d",
@@ -1130,7 +1178,7 @@
             "hash": "b6cb9ae6cfc2afda",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_06.wem"
+            "sourceName": "vo_venti_battle_hit_L_06.wem"
         },
         "b91d74daa05b569c": {
             "hash": "b91d74daa05b569c",
@@ -1202,13 +1250,7 @@
             "hash": "d4a559107d1247d1",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_01.wem"
-        },
-        "d544579924d4cd49": {
-            "hash": "d544579924d4cd49",
-            "directory": "External26",
-            "voiceContent": "竟然是连我都应付不来的食物。唔…这下可难办了",
-            "sourceName": "vo_venti_spice_event_dislike_01.wem"
+            "sourceName": "vo_venti_battle_hit_L_01.wem"
         },
         "d66b94314f09f483": {
             "hash": "d66b94314f09f483",
@@ -1244,7 +1286,7 @@
             "hash": "dc25c69a48e1cf1b",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_05.wem"
+            "sourceName": "vo_venti_battle_attackLight_05.wem"
         },
         "dc82bb4d148d6010": {
             "hash": "dc82bb4d148d6010",
@@ -1258,11 +1300,23 @@
             "voiceContent": "火之神是个横行霸道的战斗狂，岩之神是个不懂人心的死脑筋。问我怎么会知道这些？欸嘿，叙事诗里都写得一清二楚嘛，他们的故事。那个年代的故事",
             "sourceName": "vo_venti_friendship_03.wem"
         },
+        "df4db59bf077604c": {
+            "hash": "df4db59bf077604c",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_06.wem"
+        },
         "e20219705ee9d276": {
             "hash": "e20219705ee9d276",
             "directory": "External28",
             "voiceContent": "我的愿望？嗯。以前，我想着要游历整个世界。现在也一样，不过嘛，加上了一份限定条件，那就是跟你一起。有你在，才是完整的。记叙者果然要和冒险者在一起才行嘛，嘿嘿",
             "sourceName": "vo_venti_friendship_05.wem"
+        },
+        "e3567bf68c5707cc": {
+            "hash": "e3567bf68c5707cc",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_03a.wem"
         },
         "e5e07688bede60dd": {
             "hash": "e5e07688bede60dd",
@@ -1274,7 +1328,7 @@
             "hash": "e727f78098fb361c",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_01.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_01.wem"
         },
         "e7949bf162b078ff": {
             "hash": "e7949bf162b078ff",
@@ -1330,6 +1384,12 @@
             "voiceContent": "其实，只要有猫在附近，我就忍不住会打喷嚏…啊-啊-阿嚏！唔…哎呀…就连想一想也不行么…欸，你知不知道该怎么治好这个毛病呀",
             "sourceName": "vo_venti_dialog_annoyed.wem"
         },
+        "f0c6b18ae0cae61a": {
+            "hash": "f0c6b18ae0cae61a",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_04.wem"
+        },
         "f35acac021dc3500": {
             "hash": "f35acac021dc3500",
             "directory": "External30",
@@ -1353,6 +1413,12 @@
             "directory": "External30",
             "voiceContent": "久等啦",
             "sourceName": "vo_card_venti_inGame_easy_04.wem"
+        },
+        "f8fc42fc050d162e": {
+            "hash": "f8fc42fc050d162e",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_battle_skill2_01.wem"
         },
         "fd93ea015ca3ccf2": {
             "hash": "fd93ea015ca3ccf2",

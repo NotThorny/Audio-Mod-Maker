@@ -332,6 +332,12 @@
             "voiceContent": "You know what I mean, Candace. It's just a figure of speech",
             "sourceName": "vo_HSEQ001_2_dehya_02.wem"
         },
+        "777019f6e2ae82bc": {
+            "hash": "777019f6e2ae82bc",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ103_dehya_02.wem"
+        },
         "80be02ffb6a86ec7": {
             "hash": "80be02ffb6a86ec7",
             "directory": "External16",
@@ -482,7 +488,7 @@
             "hash": "02b522343e1d7104",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_06.wem"
+            "sourceName": "vo_dehya_battle_hit_H_06.wem"
         },
         "039d2d5bbeee71a2": {
             "hash": "039d2d5bbeee71a2",
@@ -500,13 +506,13 @@
             "hash": "0679b8b32fc38ffe",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_01.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_01.wem"
         },
         "0878c1a1f23e155c": {
             "hash": "0878c1a1f23e155c",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_02.wem"
+            "sourceName": "vo_dehya_battle_attackMid_02.wem"
         },
         "0e7c757426504e80": {
             "hash": "0e7c757426504e80",
@@ -532,6 +538,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_sprint_start_03.wem"
         },
+        "125ac608270a0658": {
+            "hash": "125ac608270a0658",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_04.wem"
+        },
         "12b8ebe1716a6d04": {
             "hash": "12b8ebe1716a6d04",
             "directory": "External2",
@@ -550,6 +562,12 @@
             "voiceContent": "I'll use this to my advantage",
             "sourceName": "vo_card_dehya_inGame_easy_01.wem"
         },
+        "19410992f0aba26e": {
+            "hash": "19410992f0aba26e",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_dehya_01.wem"
+        },
         "1b5ff1ab61aa13f7": {
             "hash": "1b5ff1ab61aa13f7",
             "directory": "External3",
@@ -567,6 +585,12 @@
             "directory": "External3",
             "voiceContent": "I never once imagined I could get to this level... All credit goes to you. What next? Do you have a job for me? Whatever it is, just say the word and I'll be there",
             "sourceName": "vo_dehya_starUp_04.wem"
+        },
+        "1fc10e097b778dc4": {
+            "hash": "1fc10e097b778dc4",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_01.wem"
         },
         "20b05efc2e190d6f": {
             "hash": "20b05efc2e190d6f",
@@ -592,6 +616,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_idle_02.wem"
         },
+        "2739f1f71a410776": {
+            "hash": "2739f1f71a410776",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_06.wem"
+        },
         "28c335f28ef58f20": {
             "hash": "28c335f28ef58f20",
             "directory": "External5",
@@ -614,13 +644,13 @@
             "hash": "2b70dbb3bcc05585",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_03.wem"
+            "sourceName": "vo_dehya_battle_hit_L_03.wem"
         },
         "2c63afc56712e8ff": {
             "hash": "2c63afc56712e8ff",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_05.wem"
+            "sourceName": "vo_dehya_battle_hit_L_05.wem"
         },
         "2ce68c8f24c17bef": {
             "hash": "2ce68c8f24c17bef",
@@ -662,7 +692,7 @@
             "hash": "35f6a7efebd318a2",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_06.wem"
+            "sourceName": "vo_dehya_battle_attackLight_06.wem"
         },
         "36e4dd5be4c6df6a": {
             "hash": "36e4dd5be4c6df6a",
@@ -674,7 +704,19 @@
             "hash": "371f8c0196535674",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_04.wem"
+            "sourceName": "vo_dehya_battle_attackLight_04.wem"
+        },
+        "3a425e2be2887c5b": {
+            "hash": "3a425e2be2887c5b",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_01.wem"
+        },
+        "3ed14a3d8febf075": {
+            "hash": "3ed14a3d8febf075",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_03.wem"
         },
         "460e03c2db8aeb10": {
             "hash": "460e03c2db8aeb10",
@@ -704,7 +746,7 @@
             "hash": "56487e25079a69b2",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_04.wem"
+            "sourceName": "vo_dehya_battle_hit_H_04.wem"
         },
         "569360700107e7ae": {
             "hash": "569360700107e7ae",
@@ -716,13 +758,19 @@
             "hash": "573666199c05d9b9",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_01.wem"
+            "sourceName": "vo_dehya_battle_attackLight_01.wem"
         },
         "5901c90bf457b049": {
             "hash": "5901c90bf457b049",
             "directory": "External11",
             "voiceContent": "Get out before I drag you out",
             "sourceName": "vo_dehya_life_less30_teammate_02.wem"
+        },
+        "59d9713bfa521307": {
+            "hash": "59d9713bfa521307",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_freetalk_01.wem"
         },
         "5f610aa147e990bc": {
             "hash": "5f610aa147e990bc",
@@ -740,7 +788,7 @@
             "hash": "60b4c6bb5e56c8a1",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_02.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_02.wem"
         },
         "61e46c935f5f3dd3": {
             "hash": "61e46c935f5f3dd3",
@@ -788,13 +836,19 @@
             "hash": "6d1b21dd7ead39f8",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_06.wem"
+            "sourceName": "vo_dehya_battle_hit_L_06.wem"
         },
         "6f90af41e960a080": {
             "hash": "6f90af41e960a080",
             "directory": "External13",
             "voiceContent": "Clever move..",
             "sourceName": "vo_card_dehya_inGame_easy_02.wem"
+        },
+        "6fef69fa42131072": {
+            "hash": "6fef69fa42131072",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_03.wem"
         },
         "72236b104982ed6c": {
             "hash": "72236b104982ed6c",
@@ -806,7 +860,7 @@
             "hash": "73f6db9910f760ed",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_03.wem"
+            "sourceName": "vo_dehya_battle_attackMid_03.wem"
         },
         "763d61d63658d8c2": {
             "hash": "763d61d63658d8c2",
@@ -818,13 +872,7 @@
             "hash": "77883c4eb7cd2a89",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_03.wem"
-        },
-        "7b437c14e4170240": {
-            "hash": "7b437c14e4170240",
-            "directory": "External15",
-            "voiceContent": "You know, if nothing else, it's uh... filling, and if it fills you up — it's good grub! Hahaha..",
-            "sourceName": "vo_dehya_spice_event_dislike_01.wem"
+            "sourceName": "vo_dehya_battle_hit_H_03.wem"
         },
         "7b9e2fa4835a17ab": {
             "hash": "7b9e2fa4835a17ab",
@@ -836,7 +884,7 @@
             "hash": "7e944dcc6f011116",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_04.wem"
+            "sourceName": "vo_dehya_battle_hit_L_04.wem"
         },
         "80aff87fee6c1ef5": {
             "hash": "80aff87fee6c1ef5",
@@ -878,7 +926,7 @@
             "hash": "9067c5f81a93fcc5",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_05.wem"
+            "sourceName": "vo_dehya_battle_attackLight_05.wem"
         },
         "92eebcb52fc65eab": {
             "hash": "92eebcb52fc65eab",
@@ -886,11 +934,17 @@
             "voiceContent": "Happy Birthday! Reach into your pocket, your present's already in there. How'd I do it? Hehe, just a little trick of the trade. Anyway, more importantly, I've booked us a real feast at Lambad's Tavern, so let's get ourselves over there! ...Huh? Oh, don't worry, I didn't invite any of the other mercs. Nah, that rowdy bunch is always getting into arguments — not the kind of people you'd want at a birthday celebration. It'll just be me and you, like it should be... Ahem, c'mon, c'mon, let's go",
             "sourceName": "vo_dehya_pref_birthday_01.wem"
         },
+        "94181fffe3aa23d9": {
+            "hash": "94181fffe3aa23d9",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_battle_skill1_05.wem"
+        },
         "94c19a09c7cb6b3f": {
             "hash": "94c19a09c7cb6b3f",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_03.wem"
+            "sourceName": "vo_dehya_battle_attackLight_03.wem"
         },
         "963c8fb3a226bfee": {
             "hash": "963c8fb3a226bfee",
@@ -970,12 +1024,6 @@
             "voiceContent": "Where do I feel like I belong? No idea. I've never thought about that sort of thing before. If I had to pick... I've lived most of my life in the desert, so I guess that makes me a desert-dweller",
             "sourceName": "vo_dehya_friendship_02.wem"
         },
-        "b2f8a5ae32c4e066": {
-            "hash": "b2f8a5ae32c4e066",
-            "directory": "External22",
-            "voiceContent": "This tastes amazing! I'd better not have any more, or I'll never be able to go back to my usual rations",
-            "sourceName": "vo_dehya_spice_event_pref_01.wem"
-        },
         "b52ab08bd4164eae": {
             "hash": "b52ab08bd4164eae",
             "directory": "External22",
@@ -998,7 +1046,7 @@
             "hash": "b64c6cc26929db20",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackheavy_03.wem"
+            "sourceName": "vo_dehya_battle_attackHeavy_03.wem"
         },
         "b882e8d375fc5929": {
             "hash": "b882e8d375fc5929",
@@ -1011,6 +1059,12 @@
             "directory": "External23",
             "voiceContent": "Man, this thunder is loud. They won't hear us coming... or vice versa",
             "sourceName": "vo_dehya_weather_thunder_01.wem"
+        },
+        "bcde1045d31e79e4": {
+            "hash": "bcde1045d31e79e4",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_easy_02.wem"
         },
         "bd5877aefe3ce330": {
             "hash": "bd5877aefe3ce330",
@@ -1028,7 +1082,7 @@
             "hash": "c78b6f89da766b73",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attackmid_01.wem"
+            "sourceName": "vo_dehya_battle_attackMid_01.wem"
         },
         "c8a289386d731481": {
             "hash": "c8a289386d731481",
@@ -1040,7 +1094,7 @@
             "hash": "c9b9a255bfbca7c8",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_02.wem"
+            "sourceName": "vo_dehya_battle_hit_H_02.wem"
         },
         "cd621cc2693367af": {
             "hash": "cd621cc2693367af",
@@ -1076,7 +1130,7 @@
             "hash": "d228a1bd387faf34",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_l_02.wem"
+            "sourceName": "vo_dehya_battle_hit_L_02.wem"
         },
         "d32b8feb84227ca1": {
             "hash": "d32b8feb84227ca1",
@@ -1088,7 +1142,13 @@
             "hash": "d83bf01cc4683ffb",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_hit_h_05.wem"
+            "sourceName": "vo_dehya_battle_hit_H_05.wem"
+        },
+        "d96e2b0519405854": {
+            "hash": "d96e2b0519405854",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_endOfGame_win_01.wem"
         },
         "db8062c604647250": {
             "hash": "db8062c604647250",
@@ -1114,6 +1174,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_fly_start_01.wem"
         },
+        "de59afbef887e944": {
+            "hash": "de59afbef887e944",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_leave_01.wem"
+        },
         "dfd79b2ce070a4b8": {
             "hash": "dfd79b2ce070a4b8",
             "directory": "External27",
@@ -1130,13 +1196,13 @@
             "hash": "e3fc19e8e4129aeb",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_07.wem"
+            "sourceName": "vo_dehya_battle_attackLight_07.wem"
         },
         "e6f23810cfb99456": {
             "hash": "e6f23810cfb99456",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_dehya_battle_attacklight_02.wem"
+            "sourceName": "vo_dehya_battle_attackLight_02.wem"
         },
         "e83fb9c9f7b53bfb": {
             "hash": "e83fb9c9f7b53bfb",
@@ -1174,6 +1240,12 @@
             "voiceContent": "My people are used to the desert life... But still, I hope that one day, they'll be able to find an oasis of their own, and leave the sandstorms behind for a better life",
             "sourceName": "vo_dehya_character_idle_03.wem"
         },
+        "f548dbf201c40ebb": {
+            "hash": "f548dbf201c40ebb",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_invite_hard_02.wem"
+        },
         "f721c2cb944baf7a": {
             "hash": "f721c2cb944baf7a",
             "directory": "External30",
@@ -1186,11 +1258,11 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dehya_explore_climb_02.wem"
         },
-        "fb44e5824253b9ec": {
-            "hash": "fb44e5824253b9ec",
+        "fa874904336fc918": {
+            "hash": "fa874904336fc918",
             "directory": "External31",
-            "voiceContent": "Mmm, not bad... compared to rations, anyway",
-            "sourceName": "vo_dehya_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dehya_endOfGame_fail_01.wem"
         },
         "fe7c28f31c2fff69": {
             "hash": "fe7c28f31c2fff69",

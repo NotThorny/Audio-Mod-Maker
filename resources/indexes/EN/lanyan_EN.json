@@ -1,5 +1,402 @@
 {
-    "Teapot": {},
+    "Teapot": {
+        "00631c286ae06d68": {
+            "hash": "00631c286ae06d68",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_ly_lanyan_harvestStall_03.wem"
+        },
+        "04095a728ddecbe0": {
+            "hash": "04095a728ddecbe0",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12b_8.wem"
+        },
+        "064aaec8580a30b9": {
+            "hash": "064aaec8580a30b9",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_07.wem"
+        },
+        "077492da028c2173": {
+            "hash": "077492da028c2173",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_09.wem"
+        },
+        "07c77807c4a43d75": {
+            "hash": "07c77807c4a43d75",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12a_2.wem"
+        },
+        "0a90b0753ef40edb": {
+            "hash": "0a90b0753ef40edb",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_09a_1.wem"
+        },
+        "0ad50ea98d9d5f75": {
+            "hash": "0ad50ea98d9d5f75",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_09b_4.wem"
+        },
+        "0f1f9c86ec5782f5": {
+            "hash": "0f1f9c86ec5782f5",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_09a_3.wem"
+        },
+        "10f58427e7ace7f9": {
+            "hash": "10f58427e7ace7f9",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12b_1.wem"
+        },
+        "20a97e30db17acb2": {
+            "hash": "20a97e30db17acb2",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_07.wem"
+        },
+        "3240aa1f3e596e86": {
+            "hash": "3240aa1f3e596e86",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12a_5.wem"
+        },
+        "354e40c107529086": {
+            "hash": "354e40c107529086",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_09b_3.wem"
+        },
+        "37aac3d97e9535a0": {
+            "hash": "37aac3d97e9535a0",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship1_03.wem"
+        },
+        "3998ce9e660cb406": {
+            "hash": "3998ce9e660cb406",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_09a_4.wem"
+        },
+        "3f385c286e2e9c69": {
+            "hash": "3f385c286e2e9c69",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_ly_lanyan_study_02.wem"
+        },
+        "3f7c0ea6d69853c5": {
+            "hash": "3f7c0ea6d69853c5",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_03.wem"
+        },
+        "43d5e2b883cfc23f": {
+            "hash": "43d5e2b883cfc23f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_05.wem"
+        },
+        "45c0d1a082e54273": {
+            "hash": "45c0d1a082e54273",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship1_04.wem"
+        },
+        "47067c5c21f8a673": {
+            "hash": "47067c5c21f8a673",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_11.wem"
+        },
+        "4c8054d34f8bf5a8": {
+            "hash": "4c8054d34f8bf5a8",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_09b_1.wem"
+        },
+        "4d8de406691fe605": {
+            "hash": "4d8de406691fe605",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12b_5.wem"
+        },
+        "4e80b8181372797f": {
+            "hash": "4e80b8181372797f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12b_3.wem"
+        },
+        "526f5c37d14b5395": {
+            "hash": "526f5c37d14b5395",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_04.wem"
+        },
+        "536270497b9e530f": {
+            "hash": "536270497b9e530f",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_02.wem"
+        },
+        "560e361eec0e71a9": {
+            "hash": "560e361eec0e71a9",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_ly_lanyan_harvestStall_02.wem"
+        },
+        "5c0631219444f83b": {
+            "hash": "5c0631219444f83b",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_morning_01.wem"
+        },
+        "7910bf7516d172e1": {
+            "hash": "7910bf7516d172e1",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_10.wem"
+        },
+        "80e24c18564f0633": {
+            "hash": "80e24c18564f0633",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_hello_01.wem"
+        },
+        "812754d09886ea38": {
+            "hash": "812754d09886ea38",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_06.wem"
+        },
+        "814419fe5a714012": {
+            "hash": "814419fe5a714012",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12a_1.wem"
+        },
+        "8222217f0428e33f": {
+            "hash": "8222217f0428e33f",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship1_08.wem"
+        },
+        "85d43e1007d6c6e4": {
+            "hash": "85d43e1007d6c6e4",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12a_3.wem"
+        },
+        "85ed60e24619d76a": {
+            "hash": "85ed60e24619d76a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_08.wem"
+        },
+        "867e63390df87744": {
+            "hash": "867e63390df87744",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_morning_02.wem"
+        },
+        "86ae23b89aacec5c": {
+            "hash": "86ae23b89aacec5c",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship1_07.wem"
+        },
+        "87d80fca452eea7e": {
+            "hash": "87d80fca452eea7e",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship1_01.wem"
+        },
+        "87f3ce7439c0505c": {
+            "hash": "87f3ce7439c0505c",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_12.wem"
+        },
+        "880c81102e2b8bc6": {
+            "hash": "880c81102e2b8bc6",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_night_02.wem"
+        },
+        "891dba85e4424e7e": {
+            "hash": "891dba85e4424e7e",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_14.wem"
+        },
+        "8d2c628f2f8a0c64": {
+            "hash": "8d2c628f2f8a0c64",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_09a_2.wem"
+        },
+        "93106297a016f1eb": {
+            "hash": "93106297a016f1eb",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_01.wem"
+        },
+        "941aa2619339eac8": {
+            "hash": "941aa2619339eac8",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_01.wem"
+        },
+        "960680bf8bbdeb56": {
+            "hash": "960680bf8bbdeb56",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_04.wem"
+        },
+        "9dbb37f72fb9a82b": {
+            "hash": "9dbb37f72fb9a82b",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12b_7.wem"
+        },
+        "a0b1561f1b60a196": {
+            "hash": "a0b1561f1b60a196",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12b_2.wem"
+        },
+        "a29cf02897e582fb": {
+            "hash": "a29cf02897e582fb",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_06.wem"
+        },
+        "b3fe0c16faf99a6f": {
+            "hash": "b3fe0c16faf99a6f",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12a_4.wem"
+        },
+        "b6ba6c9cee1c6f31": {
+            "hash": "b6ba6c9cee1c6f31",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_08.wem"
+        },
+        "b70ba2b8c3f2bc6f": {
+            "hash": "b70ba2b8c3f2bc6f",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_09b_2.wem"
+        },
+        "be6a9e306b353a1c": {
+            "hash": "be6a9e306b353a1c",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_hello_02.wem"
+        },
+        "c4399fa8c672f86a": {
+            "hash": "c4399fa8c672f86a",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship1_05.wem"
+        },
+        "c57f4a6465865c6a": {
+            "hash": "c57f4a6465865c6a",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_10.wem"
+        },
+        "cb41657c1ebfa960": {
+            "hash": "cb41657c1ebfa960",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_11.wem"
+        },
+        "cd162240119ab404": {
+            "hash": "cd162240119ab404",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_05.wem"
+        },
+        "cef42e1fa1e25606": {
+            "hash": "cef42e1fa1e25606",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_ly_lanyan_study_01.wem"
+        },
+        "d1a50e51befe2826": {
+            "hash": "d1a50e51befe2826",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_03.wem"
+        },
+        "d452bf860c170c56": {
+            "hash": "d452bf860c170c56",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship1_09.wem"
+        },
+        "e2131dd273c22321": {
+            "hash": "e2131dd273c22321",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship1_02.wem"
+        },
+        "e5ca08161fc22c46": {
+            "hash": "e5ca08161fc22c46",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_ly_lanyan_harvestStall_01.wem"
+        },
+        "e6264231ea1bbb28": {
+            "hash": "e6264231ea1bbb28",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_ly_lanyan_study_03.wem"
+        },
+        "e633d4b05257ad74": {
+            "hash": "e633d4b05257ad74",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_02.wem"
+        },
+        "f22c3dafb96637ed": {
+            "hash": "f22c3dafb96637ed",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship1_06.wem"
+        },
+        "f31bc5fe3a5d4fe2": {
+            "hash": "f31bc5fe3a5d4fe2",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12b_6.wem"
+        },
+        "f371e86b58799bed": {
+            "hash": "f371e86b58799bed",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship3_13.wem"
+        },
+        "f445aa0fe4df3fb4": {
+            "hash": "f445aa0fe4df3fb4",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_friendship2_12b_4.wem"
+        },
+        "f850af18fa77d129": {
+            "hash": "f850af18fa77d129",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_mimitomo_night_01.wem"
+        }
+    },
     "Quests": {
         "00018ef9e26061c8": {
             "hash": "00018ef9e26061c8",
@@ -36,6 +433,12 @@
             "directory": "External1",
             "voiceContent": "Huh? So this isn't the first time? I've never heard of this happening before..",
             "sourceName": "vo_EQHDJ402_13_lanyan_01.wem"
+        },
+        "0b278e867ffa2737": {
+            "hash": "0b278e867ffa2737",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_2_lanyan_02a_4.wem"
         },
         "0bafb429ce64551b": {
             "hash": "0bafb429ce64551b",
@@ -145,6 +548,12 @@
             "voiceContent": "I don't know, this is the first time I've run into a situation like this... I would write to my cousin, but I think we're out of time..",
             "sourceName": "vo_EQHDJ403_17_lanyan_13.wem"
         },
+        "28115bf77c8d8461": {
+            "hash": "28115bf77c8d8461",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_2_lanyan_02b_1.wem"
+        },
         "2c3726f5f39f06db": {
             "hash": "2c3726f5f39f06db",
             "directory": "External5",
@@ -192,6 +601,12 @@
             "directory": "External6",
             "voiceContent": "So the legends say, but who knows if it's true",
             "sourceName": "vo_EQHDJ401_5_lanyan_03.wem"
+        },
+        "35d6a09df9dcb250": {
+            "hash": "35d6a09df9dcb250",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_2_lanyan_02a_7.wem"
         },
         "3751d252f299d246": {
             "hash": "3751d252f299d246",
@@ -294,6 +709,12 @@
             "directory": "External12",
             "voiceContent": "We're debating who's the best out of the Eight Adepts",
             "sourceName": "vo_EQHDJ404_2_lanyan_02.wem"
+        },
+        "6848e8045f3182c8": {
+            "hash": "6848e8045f3182c8",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_2_lanyan_01.wem"
         },
         "686167893663a82e": {
             "hash": "686167893663a82e",
@@ -415,6 +836,12 @@
             "voiceContent": "Then, what should we do now",
             "sourceName": "vo_EQHDJ402_13_lanyan_02.wem"
         },
+        "84da407d15f4d50c": {
+            "hash": "84da407d15f4d50c",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_2_lanyan_02a_3.wem"
+        },
         "85a9e65b34c53ac6": {
             "hash": "85a9e65b34c53ac6",
             "directory": "External16",
@@ -432,6 +859,12 @@
             "directory": "External16",
             "voiceContent": "Even today, in my hometown people still say things like, You'll never cross Mt. Tao Du when you die. It's very insulting though, so don't go around repeating it..",
             "sourceName": "vo_EQHDJ401_5_lanyan_01.wem"
+        },
+        "896a2c8ec359fc2e": {
+            "hash": "896a2c8ec359fc2e",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_2_lanyan_02a_5.wem"
         },
         "89bc423211967fd2": {
             "hash": "89bc423211967fd2",
@@ -456,6 +889,12 @@
             "directory": "External18",
             "voiceContent": "With the technique my cousin explained, I managed to connect several of these rattan figures to the gate array. That way, the fetor blast will be shared evenly by everyone in the array",
             "sourceName": "vo_EQHDJ403_17_lanyan_06.wem"
+        },
+        "99ba3c6c092d37da": {
+            "hash": "99ba3c6c092d37da",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_2_lanyan_02a_1.wem"
         },
         "9d137486567adbb2": {
             "hash": "9d137486567adbb2",
@@ -492,6 +931,12 @@
             "directory": "External20",
             "voiceContent": "Excuse me, Sir, but are you the legendary Conqueror of Demons",
             "sourceName": "vo_EQHDJ402_12_lanyan_01.wem"
+        },
+        "a6dc7e2163290b9b": {
+            "hash": "a6dc7e2163290b9b",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_2_lanyan_02a_8.wem"
         },
         "a796005bbee617a9": {
             "hash": "a796005bbee617a9",
@@ -534,6 +979,12 @@
             "directory": "External22",
             "voiceContent": "Anyway, the ceremony was hosted jointly by two former directors of the Wangsheng Funeral Parlor. Namely, Hu Tao's father and grandfather",
             "sourceName": "vo_EQHDJ402_15_lanyan_25.wem"
+        },
+        "b793fa95b67ccfd1": {
+            "hash": "b793fa95b67ccfd1",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_2_lanyan_02a_6.wem"
         },
         "bd3e1b9506eb23fc": {
             "hash": "bd3e1b9506eb23fc",
@@ -600,6 +1051,12 @@
             "directory": "External25",
             "voiceContent": "It's certainly looking that way. Apparently, every soul in Liyue is now living under the creeping shadow of death, but so far, we are the only ones in the know",
             "sourceName": "vo_EQHDJ402_15_lanyan_09.wem"
+        },
+        "d196dc8f2a68ee7c": {
+            "hash": "d196dc8f2a68ee7c",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ005_lanyan_01.wem"
         },
         "d2b5956eaa9af5dd": {
             "hash": "d2b5956eaa9af5dd",
@@ -679,6 +1136,12 @@
             "voiceContent": "I wouldn't call it lying, per se, but... remember when the Tianquan asked about the incident at Wuwang Hill from a decade ago",
             "sourceName": "vo_EQHDJ402_15_lanyan_22.wem"
         },
+        "f3be5a74379149dd": {
+            "hash": "f3be5a74379149dd",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_2_lanyan_02a_2.wem"
+        },
         "f482a807bb0f44b0": {
             "hash": "f482a807bb0f44b0",
             "directory": "External30",
@@ -697,7 +1160,7 @@
             "hash": "05146c74cf7c2887",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_hit_h_03.wem"
+            "sourceName": "vo_lanyan_battle_hit_H_03.wem"
         },
         "063d588679fc73a1": {
             "hash": "063d588679fc73a1",
@@ -709,7 +1172,7 @@
             "hash": "0839a2f936b2a306",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attackheavy_03.wem"
+            "sourceName": "vo_lanyan_battle_attackHeavy_03.wem"
         },
         "0937b67034e2691e": {
             "hash": "0937b67034e2691e",
@@ -721,7 +1184,7 @@
             "hash": "0d2b7b17630a590c",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attacklight_02.wem"
+            "sourceName": "vo_lanyan_battle_attackLight_02.wem"
         },
         "0e0f766c1527ebd6": {
             "hash": "0e0f766c1527ebd6",
@@ -739,7 +1202,7 @@
             "hash": "11bb6729106f802e",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attacklight_04.wem"
+            "sourceName": "vo_lanyan_battle_attackLight_04.wem"
         },
         "12b6a37504d9aebf": {
             "hash": "12b6a37504d9aebf",
@@ -757,7 +1220,7 @@
             "hash": "16567863bfa0886d",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_hit_h_05.wem"
+            "sourceName": "vo_lanyan_battle_hit_H_05.wem"
         },
         "1b46b490f54ba5f7": {
             "hash": "1b46b490f54ba5f7",
@@ -775,7 +1238,7 @@
             "hash": "1f6bb70b7eec0828",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attackheavy_01.wem"
+            "sourceName": "vo_lanyan_battle_attackHeavy_01.wem"
         },
         "22fc04213425759d": {
             "hash": "22fc04213425759d",
@@ -787,13 +1250,13 @@
             "hash": "26d4dc03c947e7cb",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_hit_l_03.wem"
+            "sourceName": "vo_lanyan_battle_hit_L_03.wem"
         },
         "27fe081573c89f25": {
             "hash": "27fe081573c89f25",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_hit_l_01.wem"
+            "sourceName": "vo_lanyan_battle_hit_L_01.wem"
         },
         "2b79eea3302b27fa": {
             "hash": "2b79eea3302b27fa",
@@ -847,7 +1310,7 @@
             "hash": "3fe53530039253d1",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attacklight_07.wem"
+            "sourceName": "vo_lanyan_battle_attackLight_07.wem"
         },
         "45d2ceef5ad28882": {
             "hash": "45d2ceef5ad28882",
@@ -884,6 +1347,12 @@
             "directory": "External9",
             "voiceContent": "#In my family, we always give silver accessories as birthday gifts. So, here, these two figures are for you. The one with the silver swallow on the head is me, and {M#the one with the small silver sword is you}{F#the one with the silver flower is you}. Hehe, looks just like us, right?I infused the rattan strands with incense, so hanging them on your knapsack should repel insects. Oh, and I designed the silver accessories, too. The silversmith polished them once, and I made sure to smooth out the edges a second time, so you don't have to worry about cutting yourself.Well, happy birthday, Traveler! May luck always be on your side",
             "sourceName": "vo_lanyan_pref_birthday_01a.wem"
+        },
+        "4e786e2522483c09": {
+            "hash": "4e786e2522483c09",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_battle_skill1_03.wem"
         },
         "4f76bc6b735b59f2": {
             "hash": "4f76bc6b735b59f2",
@@ -967,7 +1436,13 @@
             "hash": "5f0c013b997e4b26",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attackmid_02.wem"
+            "sourceName": "vo_lanyan_battle_attackMid_02.wem"
+        },
+        "5ff1a214129c218f": {
+            "hash": "5ff1a214129c218f",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_battle_skill1_01.wem"
         },
         "626544714f0aa4b8": {
             "hash": "626544714f0aa4b8",
@@ -1009,7 +1484,7 @@
             "hash": "6d0f4e3f389a5e98",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_hit_l_04.wem"
+            "sourceName": "vo_lanyan_battle_hit_L_04.wem"
         },
         "6fac28353cb8dfce": {
             "hash": "6fac28353cb8dfce",
@@ -1039,7 +1514,7 @@
             "hash": "7c0f950e84a6cddd",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attacklight_03.wem"
+            "sourceName": "vo_lanyan_battle_attackLight_03.wem"
         },
         "7e84c3e831085d6c": {
             "hash": "7e84c3e831085d6c",
@@ -1051,7 +1526,7 @@
             "hash": "7e887a2e28ee36b6",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_hit_l_06.wem"
+            "sourceName": "vo_lanyan_battle_hit_L_06.wem"
         },
         "8418f7b7e5b7038e": {
             "hash": "8418f7b7e5b7038e",
@@ -1063,7 +1538,7 @@
             "hash": "89f704f0f352ceef",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attackheavy_02.wem"
+            "sourceName": "vo_lanyan_battle_attackHeavy_02.wem"
         },
         "8a6f965f161bfe4c": {
             "hash": "8a6f965f161bfe4c",
@@ -1087,7 +1562,7 @@
             "hash": "9378c920cd0fab37",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attacklight_05.wem"
+            "sourceName": "vo_lanyan_battle_attackLight_05.wem"
         },
         "961bb725c4579efc": {
             "hash": "961bb725c4579efc",
@@ -1113,6 +1588,12 @@
             "voiceContent": "Dancing in the wind",
             "sourceName": "vo_lanyan_battle_skill3_03.wem"
         },
+        "a0a9d42c2a37b948": {
+            "hash": "a0a9d42c2a37b948",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_battle_skill1_02.wem"
+        },
         "a77ec8227253dce0": {
             "hash": "a77ec8227253dce0",
             "directory": "External20",
@@ -1123,7 +1604,7 @@
             "hash": "aad85e6ca0e73cdc",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_hit_h_04.wem"
+            "sourceName": "vo_lanyan_battle_hit_H_04.wem"
         },
         "ac024a7e4b693afe": {
             "hash": "ac024a7e4b693afe",
@@ -1183,7 +1664,7 @@
             "hash": "be27db3846f23650",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attacklight_06.wem"
+            "sourceName": "vo_lanyan_battle_attackLight_06.wem"
         },
         "bed2f04f5392c6a1": {
             "hash": "bed2f04f5392c6a1",
@@ -1225,13 +1706,13 @@
             "hash": "cf502f4465ca9089",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attackmid_01.wem"
+            "sourceName": "vo_lanyan_battle_attackMid_01.wem"
         },
         "cfa428ff4e25d823": {
             "hash": "cfa428ff4e25d823",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attacklight_01.wem"
+            "sourceName": "vo_lanyan_battle_attackLight_01.wem"
         },
         "d18faa6bb2a0d6e3": {
             "hash": "d18faa6bb2a0d6e3",
@@ -1279,7 +1760,7 @@
             "hash": "e0c96333561e760f",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_attackmid_03.wem"
+            "sourceName": "vo_lanyan_battle_attackMid_03.wem"
         },
         "e7889e690e8deb39": {
             "hash": "e7889e690e8deb39",
@@ -1297,7 +1778,7 @@
             "hash": "e863da5cccad48ea",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_hit_h_06.wem"
+            "sourceName": "vo_lanyan_battle_hit_H_06.wem"
         },
         "e968c164b4cca091": {
             "hash": "e968c164b4cca091",
@@ -1315,13 +1796,19 @@
             "hash": "eecca836f53a7c19",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_lanyan_battle_hit_l_05.wem"
+            "sourceName": "vo_lanyan_battle_hit_L_05.wem"
         },
         "efd6d40d183f8624": {
             "hash": "efd6d40d183f8624",
             "directory": "External29",
             "voiceContent": "The night market sells grilled insects! Wanna give them a try",
             "sourceName": "vo_lanyan_dialog_greetingNight.wem"
+        },
+        "f54bb692ba236eab": {
+            "hash": "f54bb692ba236eab",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_pref_birthday_01b.wem"
         },
         "f953b05637b8721d": {
             "hash": "f953b05637b8721d",

@@ -328,6 +328,12 @@
         }
     },
     "Gameplay": {
+        "00db1bd4c9cb70f8": {
+            "hash": "00db1bd4c9cb70f8",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_battle_skill1_02.wem"
+        },
         "0160fe15d0650893": {
             "hash": "0160fe15d0650893",
             "directory": "External0",
@@ -339,6 +345,12 @@
             "directory": "External0",
             "voiceContent": "简直是奇迹",
             "sourceName": "vo_bennett_chest_open_03.wem"
+        },
+        "028aea277ae7068d": {
+            "hash": "028aea277ae7068d",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_battle_skill1_step1_01.wem"
         },
         "03b18731ece13234": {
             "hash": "03b18731ece13234",
@@ -398,7 +410,7 @@
             "hash": "0d90987a141bad97",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_h_03.wem"
+            "sourceName": "vo_bennett_battle_hit_H_03.wem"
         },
         "1220848bc180d4b1": {
             "hash": "1220848bc180d4b1",
@@ -452,7 +464,7 @@
             "hash": "254aa8d07cc5f97c",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_02.wem"
+            "sourceName": "vo_bennett_battle_attackLight_02.wem"
         },
         "255d84af7a760d4e": {
             "hash": "255d84af7a760d4e",
@@ -470,7 +482,7 @@
             "hash": "2bf222e7e1dbdac1",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_07.wem"
+            "sourceName": "vo_bennett_battle_attackLight_07.wem"
         },
         "2d8031ed24f86dcc": {
             "hash": "2d8031ed24f86dcc",
@@ -495,12 +507,6 @@
             "directory": "External6",
             "voiceContent": "他是我非常崇拜的人，名副其实的大团长！能领导整个西风骑士团，那该有多厉害啊。不过后来我想了想，冒险团规模太大好像也不行，团里太忙了的话，老爹们就没人照顾了。哈哈，还是现在好啊",
             "sourceName": "vo_bennett_teammate_varka_01.wem"
-        },
-        "347d7c3102a361eb": {
-            "hash": "347d7c3102a361eb",
-            "directory": "External6",
-            "voiceContent": "完了…肚子已经开始疼了",
-            "sourceName": "vo_bennett_spice_event_dislike_01.wem"
         },
         "348ea102a513bf28": {
             "hash": "348ea102a513bf28",
@@ -531,12 +537,6 @@
             "directory": "External7",
             "voiceContent": "不如在周围找找看吧，说不定有宝藏呢",
             "sourceName": "vo_bennett_explore_idle_01.wem"
-        },
-        "41a3c185aad1f44d": {
-            "hash": "41a3c185aad1f44d",
-            "directory": "External8",
-            "voiceContent": "无论做什么都很好吃，真不愧是你啊",
-            "sourceName": "vo_bennett_spice_event_normal_01.wem"
         },
         "41fda95c42aa591a": {
             "hash": "41fda95c42aa591a",
@@ -578,7 +578,7 @@
             "hash": "4ae5e46a3fb3d8bd",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_h_05.wem"
+            "sourceName": "vo_bennett_battle_hit_H_05.wem"
         },
         "4f51543d9a739f6d": {
             "hash": "4f51543d9a739f6d",
@@ -596,13 +596,19 @@
             "hash": "528a2e15c0d694a9",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_l_05.wem"
+            "sourceName": "vo_bennett_battle_hit_L_05.wem"
         },
         "5695a73e4042b381": {
             "hash": "5695a73e4042b381",
             "directory": "External10",
             "voiceContent": "冒险、冒险",
             "sourceName": "vo_bennett_explore_sprint_start_01.wem"
+        },
+        "5869383d0d26ec66": {
+            "hash": "5869383d0d26ec66",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "sfx_standbyShow_vo_bennett_oh.wem"
         },
         "5a8b93881e633968": {
             "hash": "5a8b93881e633968",
@@ -656,7 +662,7 @@
             "hash": "6bf2d0e523d746f6",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackmid_02.wem"
+            "sourceName": "vo_bennett_battle_attackMid_02.wem"
         },
         "6c5ffccf78f22b92": {
             "hash": "6c5ffccf78f22b92",
@@ -682,11 +688,11 @@
             "voiceContent": "要不要陪我去和老爹们聊聊天啊？老冒险家的故事可有意思了",
             "sourceName": "vo_bennett_dialog_greetingNight.wem"
         },
-        "7bb9f4c994198bf3": {
-            "hash": "7bb9f4c994198bf3",
+        "7c74cc1e1111488a": {
+            "hash": "7c74cc1e1111488a",
             "directory": "External15",
-            "voiceContent": "太幸福了！哈哈…哎呀！会不会把这阵子的好运全部用完了",
-            "sourceName": "vo_bennett_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_battle_skill1_step1_02.wem"
         },
         "7d286c9aa9709e0f": {
             "hash": "7d286c9aa9709e0f",
@@ -710,7 +716,7 @@
             "hash": "7f85b6d8ab593227",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_05.wem"
+            "sourceName": "vo_bennett_battle_attackLight_05.wem"
         },
         "80d9c10a59d0fa1d": {
             "hash": "80d9c10a59d0fa1d",
@@ -752,7 +758,7 @@
             "hash": "8a73aa049f7b3bbf",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackheavy_02.wem"
+            "sourceName": "vo_bennett_battle_attackHeavy_02.wem"
         },
         "8bd33682577b828e": {
             "hash": "8bd33682577b828e",
@@ -766,6 +772,12 @@
             "voiceContent": "有本事冲我来",
             "sourceName": "vo_bennett_life_less30_teammate_02.wem"
         },
+        "8ccc3c463b37065e": {
+            "hash": "8ccc3c463b37065e",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_battle_skill1_step4_01.wem"
+        },
         "8da0baf92926a069": {
             "hash": "8da0baf92926a069",
             "directory": "External17",
@@ -776,13 +788,13 @@
             "hash": "8f9ed6b5f0fd4613",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_01.wem"
+            "sourceName": "vo_bennett_battle_attackLight_01.wem"
         },
         "90c8c2c79b7f440d": {
             "hash": "90c8c2c79b7f440d",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_03.wem"
+            "sourceName": "vo_bennett_battle_attackLight_03.wem"
         },
         "9585e9a0a9a70cbc": {
             "hash": "9585e9a0a9a70cbc",
@@ -813,6 +825,12 @@
             "directory": "External20",
             "voiceContent": "等一下，我刚才好像出错牌了",
             "sourceName": "vo_card_bennett_inGame_easy_02.wem"
+        },
+        "a2747f713bb06225": {
+            "hash": "a2747f713bb06225",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "sfx_standbyShow_vo_bennett_depart.wem"
         },
         "a6c33b2f06dce2e7": {
             "hash": "a6c33b2f06dce2e7",
@@ -884,13 +902,13 @@
             "hash": "b6a3e1e3d054d21b",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_l_03.wem"
+            "sourceName": "vo_bennett_battle_hit_L_03.wem"
         },
         "b7cdcdf57ad6d035": {
             "hash": "b7cdcdf57ad6d035",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_l_01.wem"
+            "sourceName": "vo_bennett_battle_hit_L_01.wem"
         },
         "b9154ecbf579450b": {
             "hash": "b9154ecbf579450b",
@@ -920,7 +938,7 @@
             "hash": "c19db2dba504ec5f",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackmid_03.wem"
+            "sourceName": "vo_bennett_battle_attackMid_03.wem"
         },
         "c281643c95349f84": {
             "hash": "c281643c95349f84",
@@ -938,7 +956,7 @@
             "hash": "c7c51c1cb43263b8",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackheavy_01.wem"
+            "sourceName": "vo_bennett_battle_attackHeavy_01.wem"
         },
         "c90c3a7a1c922d94": {
             "hash": "c90c3a7a1c922d94",
@@ -962,13 +980,13 @@
             "hash": "d1b714dfb348a11e",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_04.wem"
+            "sourceName": "vo_bennett_battle_attackLight_04.wem"
         },
         "d2e048f15dc966c0": {
             "hash": "d2e048f15dc966c0",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_06.wem"
+            "sourceName": "vo_bennett_battle_attackLight_06.wem"
         },
         "d438bb212f3fe324": {
             "hash": "d438bb212f3fe324",
@@ -986,7 +1004,7 @@
             "hash": "d8d0feeded406359",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackmid_01.wem"
+            "sourceName": "vo_bennett_battle_attackMid_01.wem"
         },
         "d922850423200952": {
             "hash": "d922850423200952",
@@ -1004,19 +1022,19 @@
             "hash": "dca4480ba76964d6",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackheavy_03.wem"
+            "sourceName": "vo_bennett_battle_attackHeavy_03.wem"
         },
         "df67ca7320fa8dec": {
             "hash": "df67ca7320fa8dec",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_h_04.wem"
+            "sourceName": "vo_bennett_battle_hit_H_04.wem"
         },
         "e246000cf48a4f46": {
             "hash": "e246000cf48a4f46",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_l_06.wem"
+            "sourceName": "vo_bennett_battle_hit_L_06.wem"
         },
         "e32e0a035382c954": {
             "hash": "e32e0a035382c954",
@@ -1076,7 +1094,7 @@
             "hash": "f0e0c662114e13ba",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_h_06.wem"
+            "sourceName": "vo_bennett_battle_hit_H_06.wem"
         },
         "f26db95d66b8aaad": {
             "hash": "f26db95d66b8aaad",
@@ -1124,7 +1142,7 @@
             "hash": "fcdf141f3fa89068",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_l_04.wem"
+            "sourceName": "vo_bennett_battle_hit_L_04.wem"
         },
         "ffda17861dde5a53": {
             "hash": "ffda17861dde5a53",

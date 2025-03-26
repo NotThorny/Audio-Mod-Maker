@@ -314,6 +314,30 @@
         }
     },
     "Quests": {
+        "063173a047f9bb94": {
+            "hash": "063173a047f9bb94",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_05.wem"
+        },
+        "086375b5cebb1c83": {
+            "hash": "086375b5cebb1c83",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_10.wem"
+        },
+        "0d7f7db76567436d": {
+            "hash": "0d7f7db76567436d",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_01.wem"
+        },
+        "0ebeca54c448f212": {
+            "hash": "0ebeca54c448f212",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_kujouSara_01.wem"
+        },
         "1122de9efe8d8f2f": {
             "hash": "1122de9efe8d8f2f",
             "directory": "External2",
@@ -325,6 +349,12 @@
             "directory": "External2",
             "voiceContent": "Ah, apologies. I shouldn't talk about such serious matters during the holidays",
             "sourceName": "vo_HDJHK002_2_kujouSara_08.wem"
+        },
+        "18a17207b992f957": {
+            "hash": "18a17207b992f957",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_15.wem"
         },
         "200cbb46f948a25c": {
             "hash": "200cbb46f948a25c",
@@ -338,11 +368,53 @@
             "voiceContent": "The most I can do is take advantage of any spare moment that comes my way",
             "sourceName": "vo_HDJHK002_2_kujouSara_07.wem"
         },
+        "2486d649a60e086c": {
+            "hash": "2486d649a60e086c",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_1_kujouSara_02.wem"
+        },
+        "33d6c2a5baf4e9c0": {
+            "hash": "33d6c2a5baf4e9c0",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_4_kujouSara_02.wem"
+        },
         "346cbfe0987a0558": {
             "hash": "346cbfe0987a0558",
             "directory": "External6",
             "voiceContent": "#You have my thanks, {NICKNAME}. The next time you visit Inazuma, I will treat you to a round of tea",
             "sourceName": "vo_HDJHK002_4_kujouSara_03.wem"
+        },
+        "3a957420313bd14e": {
+            "hash": "3a957420313bd14e",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_kujouSara_01.wem"
+        },
+        "3bbf6831dbbddcf0": {
+            "hash": "3bbf6831dbbddcf0",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_kujouSara_03.wem"
+        },
+        "3fd3537e7eb1d9f4": {
+            "hash": "3fd3537e7eb1d9f4",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_08.wem"
+        },
+        "45e39c10f53673cc": {
+            "hash": "45e39c10f53673cc",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_kujouSara_05.wem"
+        },
+        "470d88229fb871ee": {
+            "hash": "470d88229fb871ee",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_kujouSara_03.wem"
         },
         "494bebcf8bb10676": {
             "hash": "494bebcf8bb10676",
@@ -350,11 +422,71 @@
             "voiceContent": "I see. This method produced a great result",
             "sourceName": "vo_HDJHK002_4_kujouSara_01.wem"
         },
+        "4f4be4afaf3a378e": {
+            "hash": "4f4be4afaf3a378e",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_03b.wem"
+        },
+        "5165d1e637c44a43": {
+            "hash": "5165d1e637c44a43",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_11.wem"
+        },
+        "52fe03e12a964120": {
+            "hash": "52fe03e12a964120",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_04.wem"
+        },
+        "55f5bdf7e529717d": {
+            "hash": "55f5bdf7e529717d",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_13.wem"
+        },
+        "59c50f9111772142": {
+            "hash": "59c50f9111772142",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_07.wem"
+        },
+        "5a7d2ed3b5fab210": {
+            "hash": "5a7d2ed3b5fab210",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_kujouSara_01.wem"
+        },
         "5d983737250eae6a": {
             "hash": "5d983737250eae6a",
             "directory": "External11",
             "voiceContent": "To see a warrior like me enjoying Lantern Rite",
             "sourceName": "vo_HDJHK002_2_kujouSara_03.wem"
+        },
+        "606c81a8768cf55f": {
+            "hash": "606c81a8768cf55f",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_02.wem"
+        },
+        "611411a82ee64df3": {
+            "hash": "611411a82ee64df3",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_03.wem"
+        },
+        "6ab2a40564f89d40": {
+            "hash": "6ab2a40564f89d40",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_09.wem"
+        },
+        "6ba91e728ed5090a": {
+            "hash": "6ba91e728ed5090a",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_4_kujouSara_04.wem"
         },
         "794169b0e89a2706": {
             "hash": "794169b0e89a2706",
@@ -374,11 +506,77 @@
             "voiceContent": "The Tenryou Commission bears a great responsibility to the people. As a member, I cannot afford to relax most of the time",
             "sourceName": "vo_HDJHK002_2_kujouSara_04.wem"
         },
+        "8ce89c9c3f075dc1": {
+            "hash": "8ce89c9c3f075dc1",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_4_kujouSara_03.wem"
+        },
+        "8edb042f1a455503": {
+            "hash": "8edb042f1a455503",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_1_kujouSara_01.wem"
+        },
+        "96e4100ffcf2ce4e": {
+            "hash": "96e4100ffcf2ce4e",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_14.wem"
+        },
+        "991b8d7502f28045": {
+            "hash": "991b8d7502f28045",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_09.wem"
+        },
+        "a32b4fd1f12ff5fe": {
+            "hash": "a32b4fd1f12ff5fe",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_06.wem"
+        },
+        "af8843bf4ad755ba": {
+            "hash": "af8843bf4ad755ba",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_11.wem"
+        },
+        "b30d018795b74d0b": {
+            "hash": "b30d018795b74d0b",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_06.wem"
+        },
+        "b3452c47872e318b": {
+            "hash": "b3452c47872e318b",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_9_kujouSara_01.wem"
+        },
+        "b4372d994039b865": {
+            "hash": "b4372d994039b865",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_04.wem"
+        },
+        "b4c7b60816d2e79d": {
+            "hash": "b4c7b60816d2e79d",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_kujouSara_04.wem"
+        },
         "b62a19d8551a22d9": {
             "hash": "b62a19d8551a22d9",
             "directory": "External22",
             "voiceContent": "I appreciate the help. This souvenir really makes this trip worthwhile",
             "sourceName": "vo_HDJHK002_4_kujouSara_02.wem"
+        },
+        "bd7cc229985dfa71": {
+            "hash": "bd7cc229985dfa71",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_kujouSara_02.wem"
         },
         "bddeab05314c8474": {
             "hash": "bddeab05314c8474",
@@ -386,17 +584,95 @@
             "voiceContent": "I'm trying to make a gift envelope, but it's not quite coming together. Perhaps you could give me some advice",
             "sourceName": "vo_HDJHK002_2_kujouSara_09.wem"
         },
+        "c3c47dfbe90b1141": {
+            "hash": "c3c47dfbe90b1141",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_08.wem"
+        },
+        "cc30ea1a5f3bc5f7": {
+            "hash": "cc30ea1a5f3bc5f7",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_kujouSara_02.wem"
+        },
         "d1095b67dd30eba0": {
             "hash": "d1095b67dd30eba0",
             "directory": "External26",
             "voiceContent": "Perhaps people think of me as single-minded warrior, completely out of place in a festive and refined neighborhood like Hanamizaka",
             "sourceName": "vo_HDJHK002_2_kujouSara_05.wem"
         },
+        "d59932b9193f89b1": {
+            "hash": "d59932b9193f89b1",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_03a.wem"
+        },
         "df1f692ee180f873": {
             "hash": "df1f692ee180f873",
             "directory": "External27",
             "voiceContent": "#Oh, {NICKNAME}! It's been a while... Why do you look so surprised",
             "sourceName": "vo_HDJHK002_2_kujouSara_02.wem"
+        },
+        "df8cdfb0727403ea": {
+            "hash": "df8cdfb0727403ea",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_02.wem"
+        },
+        "e07c308d0884b527": {
+            "hash": "e07c308d0884b527",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_4_kujouSara_01.wem"
+        },
+        "e711a400c38cfcac": {
+            "hash": "e711a400c38cfcac",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_12.wem"
+        },
+        "ecd0f18e0a640423": {
+            "hash": "ecd0f18e0a640423",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ002_kujouSara_01.wem"
+        },
+        "f51735f66c0d4d43": {
+            "hash": "f51735f66c0d4d43",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_kujouSara_04.wem"
+        },
+        "f5e273c302284ed8": {
+            "hash": "f5e273c302284ed8",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_01.wem"
+        },
+        "f6defc31d91c9d10": {
+            "hash": "f6defc31d91c9d10",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_kujouSara_01.wem"
+        },
+        "fbf09fefb6c3ac7a": {
+            "hash": "fbf09fefb6c3ac7a",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_kujouSara_10.wem"
+        },
+        "fc3d71c87542e387": {
+            "hash": "fc3d71c87542e387",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_07.wem"
+        },
+        "fd665dda1fc32ea1": {
+            "hash": "fd665dda1fc32ea1",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_kujouSara_05.wem"
         }
     },
     "Gameplay": {
@@ -410,7 +686,7 @@
             "hash": "04e31b39ff6bcd6d",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_sprint_start_03.wem"
+            "sourceName": "vo_kujouSara_explore_sprint_start_03.wem"
         },
         "06033834e2cbdcc6": {
             "hash": "06033834e2cbdcc6",
@@ -422,7 +698,7 @@
             "hash": "063c08101e79ff39",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attackmid_03.wem"
+            "sourceName": "vo_kujouSara_battle_attackMid_03.wem"
         },
         "071a16945f65eb26": {
             "hash": "071a16945f65eb26",
@@ -452,7 +728,7 @@
             "hash": "0c136addd1e29ac8",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_hit_h_06.wem"
+            "sourceName": "vo_kujouSara_battle_hit_H_06.wem"
         },
         "0d38ac5e3a55bd1b": {
             "hash": "0d38ac5e3a55bd1b",
@@ -488,7 +764,7 @@
             "hash": "18e48d0fb7601f29",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_jump_04.wem"
+            "sourceName": "vo_kujouSara_explore_jump_04.wem"
         },
         "19bf2a6bc1ac57a8": {
             "hash": "19bf2a6bc1ac57a8",
@@ -512,7 +788,7 @@
             "hash": "1da6ec6d977c0a4b",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_hit_l_05.wem"
+            "sourceName": "vo_kujouSara_battle_hit_L_05.wem"
         },
         "1dd7a061b736168a": {
             "hash": "1dd7a061b736168a",
@@ -530,13 +806,13 @@
             "hash": "28be4bc7aaf4978e",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_idle_01.wem"
+            "sourceName": "vo_kujouSara_explore_idle_01.wem"
         },
         "29e83fd95576a330": {
             "hash": "29e83fd95576a330",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_idle_03.wem"
+            "sourceName": "vo_kujouSara_explore_idle_03.wem"
         },
         "2abd2e7521df985e": {
             "hash": "2abd2e7521df985e",
@@ -560,7 +836,7 @@
             "hash": "324204da32cc7bb2",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_fly_start_03.wem"
+            "sourceName": "vo_kujouSara_explore_fly_start_03.wem"
         },
         "32f4d82d85045684": {
             "hash": "32f4d82d85045684",
@@ -590,7 +866,7 @@
             "hash": "3b3a97ea4b748f5f",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_climb_breath_02.wem"
+            "sourceName": "vo_kujouSara_explore_climb_breath_02.wem"
         },
         "3c4cb516bb5768d8": {
             "hash": "3c4cb516bb5768d8",
@@ -602,7 +878,7 @@
             "hash": "4209b40b125951c0",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_climb_02.wem"
+            "sourceName": "vo_kujouSara_explore_climb_02.wem"
         },
         "437802341fb7d554": {
             "hash": "437802341fb7d554",
@@ -614,7 +890,7 @@
             "hash": "43c73c004a3f90bf",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attackmid_01.wem"
+            "sourceName": "vo_kujouSara_battle_attackMid_01.wem"
         },
         "43dfeff7b5595f4c": {
             "hash": "43dfeff7b5595f4c",
@@ -632,13 +908,13 @@
             "hash": "499dd6cdfda6d826",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_hit_h_04.wem"
+            "sourceName": "vo_kujouSara_battle_hit_H_04.wem"
         },
         "4bea511b1a927a27": {
             "hash": "4bea511b1a927a27",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attacklight_07.wem"
+            "sourceName": "vo_kujouSara_battle_attackLight_07.wem"
         },
         "4d5151b45aaa1da5": {
             "hash": "4d5151b45aaa1da5",
@@ -662,7 +938,7 @@
             "hash": "53be6f7941f3114d",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attackheavy_02.wem"
+            "sourceName": "vo_kujouSara_battle_attackHeavy_02.wem"
         },
         "546f646c51478a5b": {
             "hash": "546f646c51478a5b",
@@ -680,13 +956,13 @@
             "hash": "5877af2ac8ead7f3",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_sprint_start_01.wem"
+            "sourceName": "vo_kujouSara_explore_sprint_start_01.wem"
         },
         "5c0370f860368e13": {
             "hash": "5c0370f860368e13",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attacklight_03.wem"
+            "sourceName": "vo_kujouSara_battle_attackLight_03.wem"
         },
         "5c28cc2bec616af7": {
             "hash": "5c28cc2bec616af7",
@@ -698,7 +974,7 @@
             "hash": "5d2d5d0a0ab88c0d",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attacklight_01.wem"
+            "sourceName": "vo_kujouSara_battle_attackLight_01.wem"
         },
         "5d886af7dd819983": {
             "hash": "5d886af7dd819983",
@@ -782,7 +1058,7 @@
             "hash": "74315e864ca1a1d4",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_hit_l_06.wem"
+            "sourceName": "vo_kujouSara_battle_hit_L_06.wem"
         },
         "7461f92c8d7f8ee1": {
             "hash": "7461f92c8d7f8ee1",
@@ -812,7 +1088,7 @@
             "hash": "79dc0fd7e639710a",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_climb_04.wem"
+            "sourceName": "vo_kujouSara_explore_climb_04.wem"
         },
         "7c1078242c795da7": {
             "hash": "7c1078242c795da7",
@@ -824,7 +1100,7 @@
             "hash": "7cfe40ddc6de5c9b",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_jump_02.wem"
+            "sourceName": "vo_kujouSara_explore_jump_02.wem"
         },
         "7ed866725da8a863": {
             "hash": "7ed866725da8a863",
@@ -842,7 +1118,7 @@
             "hash": "8118ae185ef6b8b8",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attackmid_02.wem"
+            "sourceName": "vo_kujouSara_battle_attackMid_02.wem"
         },
         "861727e72dbbfc03": {
             "hash": "861727e72dbbfc03",
@@ -868,12 +1144,6 @@
             "voiceContent": "Flash",
             "sourceName": "vo_kujouSara_battle_skill1_03.wem"
         },
-        "8b9f1910da69eaf8": {
-            "hash": "8b9f1910da69eaf8",
-            "directory": "External17",
-            "voiceContent": "No need for dessert..",
-            "sourceName": "vo_kujouSara_spice_event_dislike_01.wem"
-        },
         "8c6e5e78280891a4": {
             "hash": "8c6e5e78280891a4",
             "directory": "External17",
@@ -890,25 +1160,25 @@
             "hash": "99650142e0b281dc",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_sprint_start_02.wem"
+            "sourceName": "vo_kujouSara_explore_sprint_start_02.wem"
         },
         "9b1b8e01966bc5c1": {
             "hash": "9b1b8e01966bc5c1",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_climb_03.wem"
+            "sourceName": "vo_kujouSara_explore_climb_03.wem"
         },
         "9e1baf222281e91e": {
             "hash": "9e1baf222281e91e",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attacklight_06.wem"
+            "sourceName": "vo_kujouSara_battle_attackLight_06.wem"
         },
         "9f44e333cd02aec0": {
             "hash": "9f44e333cd02aec0",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attacklight_04.wem"
+            "sourceName": "vo_kujouSara_battle_attackLight_04.wem"
         },
         "9f9fa9219fcb418e": {
             "hash": "9f9fa9219fcb418e",
@@ -938,13 +1208,13 @@
             "hash": "af0b99d114f9e9b1",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_idle_02.wem"
+            "sourceName": "vo_kujouSara_explore_idle_02.wem"
         },
         "b43576d1ef9a51fb": {
             "hash": "b43576d1ef9a51fb",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_fly_start_02.wem"
+            "sourceName": "vo_kujouSara_explore_fly_start_02.wem"
         },
         "b84e122544b4f615": {
             "hash": "b84e122544b4f615",
@@ -957,12 +1227,6 @@
             "directory": "External23",
             "voiceContent": "With her talent and qualifications, it's a shame she decided to join the Arataki gang. I must concede, however, that at the very least, her presence has effectively prevented idlers from stirring up trouble and disturbing the public, reducing the burden on the Tenryou Commission",
             "sourceName": "vo_kujouSara_teammate_shinobu_01.wem"
-        },
-        "bb4cbc65b03937ee": {
-            "hash": "bb4cbc65b03937ee",
-            "directory": "External23",
-            "voiceContent": "So, there is a dish that tastes even better than Onigiri? Then I shall be sure to remember its name",
-            "sourceName": "vo_kujouSara_spice_event_pref_01.wem"
         },
         "bcfaa8e58646c84d": {
             "hash": "bcfaa8e58646c84d",
@@ -992,19 +1256,13 @@
             "hash": "c339731936321ae8",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_jump_05.wem"
+            "sourceName": "vo_kujouSara_explore_jump_05.wem"
         },
         "c45efa77133bdd82": {
             "hash": "c45efa77133bdd82",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_hit_l_04.wem"
-        },
-        "c47773df8e341414": {
-            "hash": "c47773df8e341414",
-            "directory": "External24",
-            "voiceContent": "I have eaten my fill. Thank you for your hospitality",
-            "sourceName": "vo_kujouSara_spice_event_normal_01.wem"
+            "sourceName": "vo_kujouSara_battle_hit_L_04.wem"
         },
         "c94f26a883ff5dd1": {
             "hash": "c94f26a883ff5dd1",
@@ -1016,13 +1274,13 @@
             "hash": "ca6824b40ff40395",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_hit_h_03.wem"
+            "sourceName": "vo_kujouSara_battle_hit_H_03.wem"
         },
         "cb5b38c5ba47030f": {
             "hash": "cb5b38c5ba47030f",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_hit_h_05.wem"
+            "sourceName": "vo_kujouSara_battle_hit_H_05.wem"
         },
         "cb953ad7f981a7c1": {
             "hash": "cb953ad7f981a7c1",
@@ -1034,7 +1292,7 @@
             "hash": "cda7516fd81ba04a",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attackheavy_01.wem"
+            "sourceName": "vo_kujouSara_battle_attackHeavy_01.wem"
         },
         "ce41d62b3468cc9e": {
             "hash": "ce41d62b3468cc9e",
@@ -1058,7 +1316,7 @@
             "hash": "d0b08a04d70fe8d8",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_climb_breath_01.wem"
+            "sourceName": "vo_kujouSara_explore_climb_breath_01.wem"
         },
         "d10ecbe77bed88d0": {
             "hash": "d10ecbe77bed88d0",
@@ -1100,7 +1358,7 @@
             "hash": "d7173f00a0e2ce0a",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attacklight_02.wem"
+            "sourceName": "vo_kujouSara_battle_attackLight_02.wem"
         },
         "d73317bd2fe80e62": {
             "hash": "d73317bd2fe80e62",
@@ -1124,25 +1382,25 @@
             "hash": "deaea8e9694f8304",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_fly_start_01.wem"
+            "sourceName": "vo_kujouSara_explore_fly_start_01.wem"
         },
         "e4da558220569cbc": {
             "hash": "e4da558220569cbc",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attackheavy_03.wem"
+            "sourceName": "vo_kujouSara_battle_attackHeavy_03.wem"
         },
         "e58fb5f3ca46e9f6": {
             "hash": "e58fb5f3ca46e9f6",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_climb_breath_03.wem"
+            "sourceName": "vo_kujouSara_explore_climb_breath_03.wem"
         },
         "e59eb8a0c36e9e99": {
             "hash": "e59eb8a0c36e9e99",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_hit_l_03.wem"
+            "sourceName": "vo_kujouSara_battle_hit_L_03.wem"
         },
         "e8af625849602c19": {
             "hash": "e8af625849602c19",
@@ -1172,7 +1430,7 @@
             "hash": "eeaf21f25fe91d27",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_climb_01.wem"
+            "sourceName": "vo_kujouSara_explore_climb_01.wem"
         },
         "f27f72a315f84c11": {
             "hash": "f27f72a315f84c11",
@@ -1196,7 +1454,7 @@
             "hash": "f856bd2a511522c1",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_battle_attacklight_05.wem"
+            "sourceName": "vo_kujouSara_battle_attackLight_05.wem"
         },
         "facea2fb0bfe0efb": {
             "hash": "facea2fb0bfe0efb",
@@ -1208,7 +1466,7 @@
             "hash": "fb0acee60a108752",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_jump_03.wem"
+            "sourceName": "vo_kujouSara_explore_jump_03.wem"
         },
         "fc0e9c41965976d8": {
             "hash": "fc0e9c41965976d8",
@@ -1220,13 +1478,13 @@
             "hash": "fc33f2f7b4913124",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_jump_01.wem"
+            "sourceName": "vo_kujouSara_explore_jump_01.wem"
         },
         "fec841cfa58d3113": {
             "hash": "fec841cfa58d3113",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kujousara_explore_climb_05.wem"
+            "sourceName": "vo_kujouSara_explore_climb_05.wem"
         }
     }
 }

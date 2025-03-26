@@ -307,7 +307,7 @@
             "hash": "040eb83048f0427b",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_l_01.wem"
+            "sourceName": "vo_mona_battle_hit_L_01.wem"
         },
         "056d0f0f9d8b53a0": {
             "hash": "056d0f0f9d8b53a0",
@@ -325,7 +325,7 @@
             "hash": "071febf909de19cb",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_h_05.wem"
+            "sourceName": "vo_mona_battle_hit_H_05.wem"
         },
         "09e55a0ac1780c94": {
             "hash": "09e55a0ac1780c94",
@@ -337,7 +337,7 @@
             "hash": "0c42a13e0d6009ce",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackheavy_01.wem"
+            "sourceName": "vo_mona_battle_attackHeavy_01.wem"
         },
         "0c7936d99e341216": {
             "hash": "0c7936d99e341216",
@@ -361,7 +361,7 @@
             "hash": "0d6c954fb7e21570",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackheavy_03.wem"
+            "sourceName": "vo_mona_battle_attackHeavy_03.wem"
         },
         "0e261b01ad7b371e": {
             "hash": "0e261b01ad7b371e",
@@ -373,7 +373,7 @@
             "hash": "0ec3063cf2c227c6",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_02.wem"
+            "sourceName": "vo_mona_battle_attackLight_02.wem"
         },
         "10e7908c93595b4c": {
             "hash": "10e7908c93595b4c",
@@ -463,7 +463,7 @@
             "hash": "3316d6597008e7a6",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_l_04.wem"
+            "sourceName": "vo_mona_battle_hit_L_04.wem"
         },
         "38e50444f107675e": {
             "hash": "38e50444f107675e",
@@ -476,6 +476,12 @@
             "directory": "External7",
             "voiceContent": "こんな大雨じゃ…星の光どころか、水占の盤も見えません",
             "sourceName": "vo_mona_weather_heavyRain_01.wem"
+        },
+        "3b8c82eb7bac4373": {
+            "hash": "3b8c82eb7bac4373",
+            "directory": "External7",
+            "voiceContent": "",
+            "sourceName": "vo_mona_suit_renew_03.wem"
         },
         "3d7538569e6d0800": {
             "hash": "3d7538569e6d0800",
@@ -493,13 +499,13 @@
             "hash": "3ef95411eafb4383",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackmid_01.wem"
+            "sourceName": "vo_mona_battle_attackMid_01.wem"
         },
         "40234023957d41bd": {
             "hash": "40234023957d41bd",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackmid_03.wem"
+            "sourceName": "vo_mona_battle_attackMid_03.wem"
         },
         "4572f65482f98b8e": {
             "hash": "4572f65482f98b8e",
@@ -537,12 +543,6 @@
             "voiceContent": "ご安心を…これくらい占わなくても勝てます",
             "sourceName": "vo_card_mona_invite_hard_01.wem"
         },
-        "4ee028cd88f24746": {
-            "hash": "4ee028cd88f24746",
-            "directory": "External9",
-            "voiceContent": "ふぅ、満足しました——あなたと知り合えたのも、悪くないことですね",
-            "sourceName": "vo_mona_spice_event_pref_01.wem"
-        },
         "4f9c10b4d1eabd34": {
             "hash": "4f9c10b4d1eabd34",
             "directory": "External9",
@@ -560,12 +560,6 @@
             "directory": "External10",
             "voiceContent": "運命よ、ここにいでよ",
             "sourceName": "vo_mona_battle_skill3_01.wem"
-        },
-        "54504094476125cc": {
-            "hash": "54504094476125cc",
-            "directory": "External10",
-            "voiceContent": "もう一度確認しますが、本当に…奢ってくれるのですか",
-            "sourceName": "vo_mona_spice_event_normal_01.wem"
         },
         "54706eeeb9a30a5c": {
             "hash": "54706eeeb9a30a5c",
@@ -613,19 +607,19 @@
             "hash": "5daa5e11bf03b154",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_h_06.wem"
+            "sourceName": "vo_mona_battle_hit_H_06.wem"
         },
         "612d761c11bed552": {
             "hash": "612d761c11bed552",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_06.wem"
+            "sourceName": "vo_mona_battle_attackLight_06.wem"
         },
         "62569a2dbc3f7f24": {
             "hash": "62569a2dbc3f7f24",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_04.wem"
+            "sourceName": "vo_mona_battle_attackLight_04.wem"
         },
         "6610625e5be45c4c": {
             "hash": "6610625e5be45c4c",
@@ -721,7 +715,7 @@
             "hash": "7f073445bf0e6d29",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_01.wem"
+            "sourceName": "vo_mona_battle_attackLight_01.wem"
         },
         "7ffad1fd1a0a747c": {
             "hash": "7ffad1fd1a0a747c",
@@ -757,7 +751,7 @@
             "hash": "8f29ef47748232f1",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackheavy_02.wem"
+            "sourceName": "vo_mona_battle_attackHeavy_02.wem"
         },
         "8fd27bf1e2d6273d": {
             "hash": "8fd27bf1e2d6273d",
@@ -775,13 +769,19 @@
             "hash": "93e66834b2457baf",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_03.wem"
+            "sourceName": "vo_mona_battle_attackLight_03.wem"
         },
         "953c031240934838": {
             "hash": "953c031240934838",
             "directory": "External18",
             "voiceContent": "アリスさんの娘のことですか？西風騎士団に住んでて、アルベドが彼女の面倒を見てるんですよね…なんというか、さすが幸運を象徴する「四つ葉座」、羨ましい限りです…あっでも、私が彼女のように幸運に恵まれてたら、まずあのおばばとは出会ってなかったでしょうね",
             "sourceName": "vo_mona_teammate_klee_01.wem"
+        },
+        "964a1af93006def3": {
+            "hash": "964a1af93006def3",
+            "directory": "External18",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_mona_02.wem"
         },
         "9687124d227f7c01": {
             "hash": "9687124d227f7c01",
@@ -841,7 +841,7 @@
             "hash": "add7fa02859ded02",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_h_04.wem"
+            "sourceName": "vo_mona_battle_hit_H_04.wem"
         },
         "aeaa3c060ad6dde9": {
             "hash": "aeaa3c060ad6dde9",
@@ -877,13 +877,13 @@
             "hash": "b3e1243f82561315",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_l_03.wem"
+            "sourceName": "vo_mona_battle_hit_L_03.wem"
         },
         "b4d438512ca9128f": {
             "hash": "b4d438512ca9128f",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_l_05.wem"
+            "sourceName": "vo_mona_battle_hit_L_05.wem"
         },
         "b6c0e7f20f359e0b": {
             "hash": "b6c0e7f20f359e0b",
@@ -895,7 +895,7 @@
             "hash": "b7e56c19ed96ea1f",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_h_01.wem"
+            "sourceName": "vo_mona_battle_hit_H_01.wem"
         },
         "b987c4bf0190a89a": {
             "hash": "b987c4bf0190a89a",
@@ -903,11 +903,11 @@
             "voiceContent": "別に不満を言うわけではありませんが、その…うぅ…あまりお腹が膨れませんでした",
             "sourceName": "vo_mona_spice_dislike_01.wem"
         },
-        "bead280805c83aa0": {
-            "hash": "bead280805c83aa0",
+        "ba0550f3bf39f96a": {
+            "hash": "ba0550f3bf39f96a",
             "directory": "External23",
-            "voiceContent": "別に不満を言うわけではありませんが、その…うぅ…あまりお腹が膨れませんでした",
-            "sourceName": "vo_mona_spice_event_dislike_01.wem"
+            "voiceContent": "",
+            "sourceName": "vo_mona_suit_renew_02.wem"
         },
         "c1e4574b3de9b53c": {
             "hash": "c1e4574b3de9b53c",
@@ -949,7 +949,7 @@
             "hash": "cf17b82c35d0ae19",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_h_03.wem"
+            "sourceName": "vo_mona_battle_hit_H_03.wem"
         },
         "cfb54ea4f541f058": {
             "hash": "cfb54ea4f541f058",
@@ -973,13 +973,19 @@
             "hash": "d4a5262c76c3f6ec",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackmid_02.wem"
+            "sourceName": "vo_mona_battle_attackMid_02.wem"
         },
         "d4f47c557d80d01d": {
             "hash": "d4f47c557d80d01d",
             "directory": "External26",
             "voiceContent": "SFX",
             "sourceName": "vo_mona_explore_idle_02.wem"
+        },
+        "d7376d1147ce88dc": {
+            "hash": "d7376d1147ce88dc",
+            "directory": "External26",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_mona_01.wem"
         },
         "d80adf5ee4e8d9b8": {
             "hash": "d80adf5ee4e8d9b8",
@@ -1003,7 +1009,7 @@
             "hash": "e320e813ce8caa9b",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_07.wem"
+            "sourceName": "vo_mona_battle_attackLight_07.wem"
         },
         "e3da55f71561e0d2": {
             "hash": "e3da55f71561e0d2",
@@ -1015,7 +1021,7 @@
             "hash": "e44ad425790ea8b5",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_05.wem"
+            "sourceName": "vo_mona_battle_attackLight_05.wem"
         },
         "e5037a08bfe28aa4": {
             "hash": "e5037a08bfe28aa4",
@@ -1029,11 +1035,17 @@
             "voiceContent": "勝負ですか？負けても泣かないでくださいよ",
             "sourceName": "vo_card_mona_invite_easy_01.wem"
         },
+        "e7f7eefab22d38ed": {
+            "hash": "e7f7eefab22d38ed",
+            "directory": "External28",
+            "voiceContent": "",
+            "sourceName": "vo_mona_suit_renew_01.wem"
+        },
         "f58c6a694444aa48": {
             "hash": "f58c6a694444aa48",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_l_06.wem"
+            "sourceName": "vo_mona_battle_hit_L_06.wem"
         },
         "f5ddf2d755ca749f": {
             "hash": "f5ddf2d755ca749f",
@@ -1082,36 +1094,6 @@
             "directory": "External31",
             "voiceContent": "運命には逆らえません",
             "sourceName": "vo_mona_battle_skill3_03.wem"
-        },
-        "3b8c82eb7bac4373": {
-            "hash": "3b8c82eb7bac4373",
-            "directory": "External7",
-            "voiceContent": "",
-            "sourceName": "vo_mona_suit_renew_03.wem"
-        },
-        "964a1af93006def3": {
-            "hash": "964a1af93006def3",
-            "directory": "External18",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_mona_02.wem"
-        },
-        "ba0550f3bf39f96a": {
-            "hash": "ba0550f3bf39f96a",
-            "directory": "External23",
-            "voiceContent": "",
-            "sourceName": "vo_mona_suit_renew_02.wem"
-        },
-        "d7376d1147ce88dc": {
-            "hash": "d7376d1147ce88dc",
-            "directory": "External26",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_mona_01.wem"
-        },
-        "e7f7eefab22d38ed": {
-            "hash": "e7f7eefab22d38ed",
-            "directory": "External28",
-            "voiceContent": "",
-            "sourceName": "vo_mona_suit_renew_01.wem"
         }
     }
 }

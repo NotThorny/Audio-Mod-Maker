@@ -248,11 +248,35 @@
         }
     },
     "Quests": {
+        "1035a40127ac584e": {
+            "hash": "1035a40127ac584e",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_MDAQ028_4_ambor_05.wem"
+        },
         "115f9812d22e63f0": {
             "hash": "115f9812d22e63f0",
             "directory": "External2",
             "voiceContent": "うん…矢で撃てば起爆できると思う",
             "sourceName": "vo_MDAQ028_4_ambor_07.wem"
+        },
+        "1e06d376d202f632": {
+            "hash": "1e06d376d202f632",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ005_ambor_01.wem"
+        },
+        "288cdd1bf2399f32": {
+            "hash": "288cdd1bf2399f32",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_6.wem"
+        },
+        "397a719045bb1b30": {
+            "hash": "397a719045bb1b30",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_8.wem"
         },
         "3bdc2224de88fd6e": {
             "hash": "3bdc2224de88fd6e",
@@ -260,11 +284,35 @@
             "voiceContent": "よしっ、壊そう",
             "sourceName": "vo_MDAQ028_5_ambor_02.wem"
         },
+        "49cc9b45a26c6009": {
+            "hash": "49cc9b45a26c6009",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_1.wem"
+        },
         "525f7ba4141207d8": {
             "hash": "525f7ba4141207d8",
             "directory": "External10",
             "voiceContent": "あとは怪鳥を捕まえるだけ！さあ、先に進もう",
             "sourceName": "vo_ABLQ005_3_ambor_03.wem"
+        },
+        "5a52bb22e86d4615": {
+            "hash": "5a52bb22e86d4615",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_5.wem"
+        },
+        "5b45cf3492c0458f": {
+            "hash": "5b45cf3492c0458f",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_3.wem"
+        },
+        "606337f1ee4686ac": {
+            "hash": "606337f1ee4686ac",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_MDAQ028_4_ambor_03.wem"
         },
         "673ea793074908f6": {
             "hash": "673ea793074908f6",
@@ -284,17 +332,41 @@
             "voiceContent": "あの操作台を使えば、扉が開くよ",
             "sourceName": "vo_MDAQ028_4_ambor_01.wem"
         },
+        "7d82ee87c85db9a1": {
+            "hash": "7d82ee87c85db9a1",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_01.wem"
+        },
         "826575963b7abd3b": {
             "hash": "826575963b7abd3b",
             "directory": "External16",
             "voiceContent": "高いね…上に何かあるみたい",
             "sourceName": "vo_MDAQ028_4_ambor_08.wem"
         },
+        "91f305f8e44c8357": {
+            "hash": "91f305f8e44c8357",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_MDAQ028_4_ambor_04.wem"
+        },
         "931cf20a8ece8171": {
             "hash": "931cf20a8ece8171",
             "directory": "External18",
             "voiceContent": "あれって…火薬が詰まったタルだよね",
             "sourceName": "vo_MDAQ028_4_ambor_06.wem"
+        },
+        "aa804f13af07757b": {
+            "hash": "aa804f13af07757b",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_7.wem"
+        },
+        "be9dcb88053e61b1": {
+            "hash": "be9dcb88053e61b1",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_9.wem"
         },
         "c56c40ae65bf269c": {
             "hash": "c56c40ae65bf269c",
@@ -313,9 +385,39 @@
             "directory": "External26",
             "voiceContent": "#よく飛びきったね！{NICKNAME}ならできると思ってたよ",
             "sourceName": "vo_ABLQ005_3_ambor_02.wem"
+        },
+        "d4f9812b28bca684": {
+            "hash": "d4f9812b28bca684",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_4.wem"
+        },
+        "d9886d3cd6201aa6": {
+            "hash": "d9886d3cd6201aa6",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02a_2.wem"
+        },
+        "e1d102726f7814a2": {
+            "hash": "e1d102726f7814a2",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_12_ambor_02b_1.wem"
         }
     },
     "Gameplay": {
+        "00c2be6c152c5d2e": {
+            "hash": "00c2be6c152c5d2e",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_06.wem"
+        },
+        "014e74a9f9585a38": {
+            "hash": "014e74a9f9585a38",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_10.wem"
+        },
         "01e1e0792f6fa6f5": {
             "hash": "01e1e0792f6fa6f5",
             "directory": "External0",
@@ -346,11 +448,41 @@
             "voiceContent": "今回は…負けだよ",
             "sourceName": "vo_ambor_life_die_03.wem"
         },
+        "068e362717e90404": {
+            "hash": "068e362717e90404",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_09.wem"
+        },
+        "0dab589752ff9f04": {
+            "hash": "0dab589752ff9f04",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_07.wem"
+        },
+        "0fc9ae2e53f5756a": {
+            "hash": "0fc9ae2e53f5756a",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_11.wem"
+        },
+        "1112ce495aff98da": {
+            "hash": "1112ce495aff98da",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_02.wem"
+        },
         "11a2c1bbeb707ac8": {
             "hash": "11a2c1bbeb707ac8",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_02.wem"
+            "sourceName": "vo_ambor_battle_attackLight_02.wem"
+        },
+        "123a44a900631326": {
+            "hash": "123a44a900631326",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_01.wem"
         },
         "12bd670dd0fdb74e": {
             "hash": "12bd670dd0fdb74e",
@@ -381,6 +513,18 @@
             "directory": "External2",
             "voiceContent": "ジンさんにサボっているところを見つかったら、ドヤされちゃうよ",
             "sourceName": "vo_ambor_explore_idle_02.wem"
+        },
+        "162da098ec8f5b56": {
+            "hash": "162da098ec8f5b56",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_12.wem"
+        },
+        "17ccb3b9b875045a": {
+            "hash": "17ccb3b9b875045a",
+            "directory": "External2",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_ambor_01.wem"
         },
         "199a2192d7b1b441": {
             "hash": "199a2192d7b1b441",
@@ -416,7 +560,13 @@
             "hash": "1e2e1befc1277f2c",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_l_04.wem"
+            "sourceName": "vo_ambor_battle_hit_L_04.wem"
+        },
+        "1f5efc105f7d6ab5": {
+            "hash": "1f5efc105f7d6ab5",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_09.wem"
         },
         "207348881417fbb0": {
             "hash": "207348881417fbb0",
@@ -434,13 +584,19 @@
             "hash": "24735189979c1c86",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_h_06.wem"
+            "sourceName": "vo_ambor_battle_hit_H_06.wem"
         },
         "26b5200676711994": {
             "hash": "26b5200676711994",
             "directory": "External4",
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_fly_start_03.wem"
+        },
+        "27cdf450c81bc503": {
+            "hash": "27cdf450c81bc503",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_02.wem"
         },
         "29ac18ba51988d8c": {
             "hash": "29ac18ba51988d8c",
@@ -460,6 +616,12 @@
             "voiceContent": "どう？すごいでしょ",
             "sourceName": "vo_card_ambor_inGame_hard_01.wem"
         },
+        "2eec8c73084f30d1": {
+            "hash": "2eec8c73084f30d1",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_05.wem"
+        },
         "340c75b540c740c3": {
             "hash": "340c75b540c740c3",
             "directory": "External6",
@@ -472,17 +634,17 @@
             "voiceContent": "雨のような…矢を",
             "sourceName": "vo_ambor_battle_skill3_02.wem"
         },
-        "38ba01785aee21c4": {
-            "hash": "38ba01785aee21c4",
-            "directory": "External7",
-            "voiceContent": "この味は、ちょっとわたしの口に合わないかも。ごめんね！別に旅人のせいじゃないよ",
-            "sourceName": "vo_ambor_spice_event_dislike_01.wem"
+        "365992ba692a10fa": {
+            "hash": "365992ba692a10fa",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_ambor_01.wem"
         },
         "3ba5659bdfd581a8": {
             "hash": "3ba5659bdfd581a8",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_h_04.wem"
+            "sourceName": "vo_ambor_battle_hit_H_04.wem"
         },
         "3e1e58d9154c224f": {
             "hash": "3e1e58d9154c224f",
@@ -496,6 +658,12 @@
             "voiceContent": "いいよ、手加減はしないからね",
             "sourceName": "vo_card_ambor_invite_hard_01.wem"
         },
+        "3fde880364ed79ac": {
+            "hash": "3fde880364ed79ac",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_02.wem"
+        },
         "41e2a6ed89f05327": {
             "hash": "41e2a6ed89f05327",
             "directory": "External8",
@@ -507,6 +675,12 @@
             "directory": "External8",
             "voiceContent": "ついてこれるかな",
             "sourceName": "vo_ambor_explore_sprint_start_02.wem"
+        },
+        "46501e388bc2e13b": {
+            "hash": "46501e388bc2e13b",
+            "directory": "External8",
+            "voiceContent": "",
+            "sourceName": "vo_ambor_suit_renew_01.wem"
         },
         "486c2f5001cadff3": {
             "hash": "486c2f5001cadff3",
@@ -526,11 +700,23 @@
             "voiceContent": "わぁ——いいものばっかり",
             "sourceName": "vo_ambor_chest_open_03.wem"
         },
+        "4a211483511efa1c": {
+            "hash": "4a211483511efa1c",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_03.wem"
+        },
         "4aab8ba7c76b05b0": {
             "hash": "4aab8ba7c76b05b0",
             "directory": "External9",
             "voiceContent": "宝箱を開ける瞬間ってワクワクするね",
             "sourceName": "vo_ambor_chest_open_01.wem"
+        },
+        "4eb10094fe84213e": {
+            "hash": "4eb10094fe84213e",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_05.wem"
         },
         "4f0732555010800e": {
             "hash": "4f0732555010800e",
@@ -542,13 +728,13 @@
             "hash": "4fbde9f6b72d7bd7",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_l_03.wem"
+            "sourceName": "vo_ambor_battle_hit_L_03.wem"
         },
         "50e7d60861af79f1": {
             "hash": "50e7d60861af79f1",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_l_01.wem"
+            "sourceName": "vo_ambor_battle_hit_L_01.wem"
         },
         "519fc4d949330e90": {
             "hash": "519fc4d949330e90",
@@ -567,6 +753,12 @@
             "directory": "External10",
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_jump_02.wem"
+        },
+        "54ffa8e260968a8e": {
+            "hash": "54ffa8e260968a8e",
+            "directory": "External10",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_ambor_battle_skill2_01.wem"
         },
         "559280eaf244c924": {
             "hash": "559280eaf244c924",
@@ -602,13 +794,25 @@
             "hash": "5f2755cdf0df4c0a",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackheavy_03.wem"
+            "sourceName": "vo_ambor_battle_attackHeavy_03.wem"
         },
         "5feb8dbdd34aef95": {
             "hash": "5feb8dbdd34aef95",
             "directory": "External11",
             "voiceContent": "うぅ…こんな複雑なゲームは得意じゃないんだ。さっき他の人と何回かやったけど、頭がクラクラしちゃって",
             "sourceName": "vo_card_ambor_freetalk_01.wem"
+        },
+        "613eb4881c7c97b2": {
+            "hash": "613eb4881c7c97b2",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_05.wem"
+        },
+        "61e0c5a7b221b03b": {
+            "hash": "61e0c5a7b221b03b",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_09.wem"
         },
         "62b0e52e1e0a9b21": {
             "hash": "62b0e52e1e0a9b21",
@@ -632,7 +836,13 @@
             "hash": "6638aa62bba5e2fa",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackmid_02.wem"
+            "sourceName": "vo_ambor_battle_attackMid_02.wem"
+        },
+        "665af489b3291d74": {
+            "hash": "665af489b3291d74",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_14.wem"
         },
         "67027ebd4f6f534c": {
             "hash": "67027ebd4f6f534c",
@@ -658,6 +868,24 @@
             "voiceContent": "…何か嫌な予感がする！さっきまでガイア先輩がいたでしょ？迷惑かけられなかった",
             "sourceName": "vo_ambor_teammate_kaeya_01.wem"
         },
+        "69e5327a8a656d0e": {
+            "hash": "69e5327a8a656d0e",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_07.wem"
+        },
+        "6b0f268c34e778b0": {
+            "hash": "6b0f268c34e778b0",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_05.wem"
+        },
+        "6b16ec518963aadd": {
+            "hash": "6b16ec518963aadd",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_01.wem"
+        },
         "6b1a955136efd2e0": {
             "hash": "6b1a955136efd2e0",
             "directory": "External13",
@@ -682,6 +910,30 @@
             "voiceContent": "大団長が出征した後、仕事を全部ジンさんがすることになったんだよね。わたしがもっとジンさんの役に立てたらいいのに",
             "sourceName": "vo_ambor_teammate_qin_01.wem"
         },
+        "70c8505005766044": {
+            "hash": "70c8505005766044",
+            "directory": "External14",
+            "voiceContent": "",
+            "sourceName": "vo_ambor_suit_renew_02.wem"
+        },
+        "710254eac57c080e": {
+            "hash": "710254eac57c080e",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_09.wem"
+        },
+        "716e560a5af37657": {
+            "hash": "716e560a5af37657",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_05.wem"
+        },
+        "71d0d1c1e6d9165d": {
+            "hash": "71d0d1c1e6d9165d",
+            "directory": "External14",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_ambor_02.wem"
+        },
         "72431b02f513b729": {
             "hash": "72431b02f513b729",
             "directory": "External14",
@@ -693,6 +945,12 @@
             "directory": "External14",
             "voiceContent": "暗くなってきたよ。松明をつけようか",
             "sourceName": "vo_ambor_dialog_greetingNight.wem"
+        },
+        "7298421c05757471": {
+            "hash": "7298421c05757471",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_07.wem"
         },
         "72ca050b63aeafed": {
             "hash": "72ca050b63aeafed",
@@ -712,11 +970,17 @@
             "voiceContent": "反則だよ",
             "sourceName": "vo_ambor_battle_hit_H_02.wem"
         },
+        "777bb49f9399f0cc": {
+            "hash": "777bb49f9399f0cc",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_10.wem"
+        },
         "79bf59e03bfbbf7c": {
             "hash": "79bf59e03bfbbf7c",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackheavy_01.wem"
+            "sourceName": "vo_ambor_battle_attackHeavy_01.wem"
         },
         "7a48bbf73fee7f42": {
             "hash": "7a48bbf73fee7f42",
@@ -736,6 +1000,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_fly_start_04.wem"
         },
+        "827e72b1ccaf5889": {
+            "hash": "827e72b1ccaf5889",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_02.wem"
+        },
+        "82802063d1cc8837": {
+            "hash": "82802063d1cc8837",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_07.wem"
+        },
         "83658139a884eece": {
             "hash": "83658139a884eece",
             "directory": "External16",
@@ -747,6 +1023,12 @@
             "directory": "External16",
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_climb_02.wem"
+        },
+        "8671cea1b8dba0b9": {
+            "hash": "8671cea1b8dba0b9",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_11.wem"
         },
         "87224ef1e84ac5af": {
             "hash": "87224ef1e84ac5af",
@@ -760,6 +1042,12 @@
             "voiceContent": "エヘヘ、誕生日おめでとう！ほら、これあげる。わたしが作った特製·ウサギ伯爵だよ……安心して、特製なんだから、爆発なんかしないよ",
             "sourceName": "vo_ambor_pref_birthday.wem"
         },
+        "87ab90737ce3532a": {
+            "hash": "87ab90737ce3532a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_01.wem"
+        },
         "89598168199289dc": {
             "hash": "89598168199289dc",
             "directory": "External17",
@@ -772,17 +1060,35 @@
             "voiceContent": "対戦相手はあんただったんだ！今回は正式な試合だから、真剣勝負だよ",
             "sourceName": "vo_card_ambor_event_invite_start_01.wem"
         },
+        "8be7701ed799a395": {
+            "hash": "8be7701ed799a395",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_08.wem"
+        },
         "8d1235e6e2c3f3fd": {
             "hash": "8d1235e6e2c3f3fd",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_l_05.wem"
+            "sourceName": "vo_ambor_battle_hit_L_05.wem"
         },
         "8f8706a3a48f562a": {
             "hash": "8f8706a3a48f562a",
             "directory": "External17",
             "voiceContent": "うぅ…間違えた",
             "sourceName": "vo_card_ambor_inGame_easy_02.wem"
+        },
+        "9150e0261067bf73": {
+            "hash": "9150e0261067bf73",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_10.wem"
+        },
+        "9304928f12b03e95": {
+            "hash": "9304928f12b03e95",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_06.wem"
         },
         "941404f491dfc21e": {
             "hash": "941404f491dfc21e",
@@ -800,7 +1106,13 @@
             "hash": "94b77f9263e862e9",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_h_05.wem"
+            "sourceName": "vo_ambor_battle_hit_H_05.wem"
+        },
+        "94ce9228d6e06dab": {
+            "hash": "94ce9228d6e06dab",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_08.wem"
         },
         "96a7f5e75b709ae4": {
             "hash": "96a7f5e75b709ae4",
@@ -856,6 +1168,12 @@
             "voiceContent": "狩りならわたしも得意だよ！どう？わたしの腕を見たくない？それとも…狩りで試合をする",
             "sourceName": "vo_ambor_friendship_01.wem"
         },
+        "9d6ac218a2ae4124": {
+            "hash": "9d6ac218a2ae4124",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_08.wem"
+        },
         "9dbb4c904f0e8ac0": {
             "hash": "9dbb4c904f0e8ac0",
             "directory": "External19",
@@ -866,7 +1184,7 @@
             "hash": "9e319d8b334e3cb2",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_04.wem"
+            "sourceName": "vo_ambor_battle_attackLight_04.wem"
         },
         "9edc5332f7c05099": {
             "hash": "9edc5332f7c05099",
@@ -879,6 +1197,12 @@
             "directory": "External19",
             "voiceContent": "こういう天気大好き。あ～、気持ちいい",
             "sourceName": "vo_ambor_weather_breezy_02.wem"
+        },
+        "a45c228b7fb233c7": {
+            "hash": "a45c228b7fb233c7",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_04.wem"
         },
         "a490539bceaad0c6": {
             "hash": "a490539bceaad0c6",
@@ -898,11 +1222,23 @@
             "voiceContent": "百発百中",
             "sourceName": "vo_ambor_battle_skill3_01.wem"
         },
+        "a8ec0e9d2d175ae1": {
+            "hash": "a8ec0e9d2d175ae1",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_06.wem"
+        },
         "a9f6bb2669e6faf6": {
             "hash": "a9f6bb2669e6faf6",
             "directory": "External21",
             "voiceContent": "わたしの勝ち！あっ、落ち込まないで…美味しいものをご馳走してあげる！ニンジンとお肉のハニーソテーとかどう",
             "sourceName": "vo_card_ambor_endOfGame_win_01.wem"
+        },
+        "aa32b5e8d924c743": {
+            "hash": "aa32b5e8d924c743",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_01.wem"
         },
         "abbd009edf9b4a28": {
             "hash": "abbd009edf9b4a28",
@@ -910,11 +1246,17 @@
             "voiceContent": "わぁ…なんでそんなに強いの",
             "sourceName": "vo_card_ambor_event_invite_fail_01.wem"
         },
-        "ad6e9aa2a558b450": {
-            "hash": "ad6e9aa2a558b450",
+        "ad2f327b4baf1350": {
+            "hash": "ad2f327b4baf1350",
             "directory": "External21",
-            "voiceContent": "わたしも、あんたみたいな料理の腕があったらいいのになぁ",
-            "sourceName": "vo_ambor_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_04.wem"
+        },
+        "aec2a1fa8689ee7d": {
+            "hash": "aec2a1fa8689ee7d",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_03.wem"
         },
         "b02b8c7cbc559c87": {
             "hash": "b02b8c7cbc559c87",
@@ -958,6 +1300,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_sprint_start_04.wem"
         },
+        "b9052e7a72bb6ead": {
+            "hash": "b9052e7a72bb6ead",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_02.wem"
+        },
         "b9c83f677f7851da": {
             "hash": "b9c83f677f7851da",
             "directory": "External23",
@@ -968,13 +1316,25 @@
             "hash": "bbaddc593ca680c3",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackmid_03.wem"
+            "sourceName": "vo_ambor_battle_attackMid_03.wem"
         },
         "bc6f443420c1e03b": {
             "hash": "bc6f443420c1e03b",
             "directory": "External23",
             "voiceContent": "頼んだわよ",
             "sourceName": "vo_ambor_battle_skill1_01.wem"
+        },
+        "bd79c66b53e4786c": {
+            "hash": "bd79c66b53e4786c",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_01.wem"
+        },
+        "beab804252e2b523": {
+            "hash": "beab804252e2b523",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_16_ambor_03.wem"
         },
         "bf2967ae19c911e8": {
             "hash": "bf2967ae19c911e8",
@@ -992,19 +1352,25 @@
             "hash": "bf715bb4e380fd89",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_03.wem"
+            "sourceName": "vo_ambor_battle_attackLight_03.wem"
         },
         "c03dc86aea0ba7fd": {
             "hash": "c03dc86aea0ba7fd",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackmid_01.wem"
+            "sourceName": "vo_ambor_battle_attackMid_01.wem"
         },
         "c0e0a4aa9a6771ad": {
             "hash": "c0e0a4aa9a6771ad",
             "directory": "External24",
             "voiceContent": "えへへっ、ごめんね",
             "sourceName": "vo_card_ambor_inGame_easy_01.wem"
+        },
+        "c3fd0291e4a1323f": {
+            "hash": "c3fd0291e4a1323f",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_13.wem"
         },
         "c65e98fc2d2dba73": {
             "hash": "c65e98fc2d2dba73",
@@ -1036,6 +1402,18 @@
             "voiceContent": "本当にしぶといんだから",
             "sourceName": "vo_ambor_battle_hit_L_02.wem"
         },
+        "cef2c25a4437fe3a": {
+            "hash": "cef2c25a4437fe3a",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_03.wem"
+        },
+        "d06cb1bd6028e959": {
+            "hash": "d06cb1bd6028e959",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_10.wem"
+        },
         "d0a0400366e06dfe": {
             "hash": "d0a0400366e06dfe",
             "directory": "External26",
@@ -1046,13 +1424,19 @@
             "hash": "d0ea8fa3d3d4e30f",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attacklight_01.wem"
+            "sourceName": "vo_ambor_battle_attackLight_01.wem"
         },
         "d28027fbc0a3cac3": {
             "hash": "d28027fbc0a3cac3",
             "directory": "External26",
             "voiceContent": "モンドの飛行チャンピオンとは私のことだよ",
             "sourceName": "vo_ambor_dialog_idle.wem"
+        },
+        "d4afd8b8d49ed5c8": {
+            "hash": "d4afd8b8d49ed5c8",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_03.wem"
         },
         "d4bad9ff6eb11665": {
             "hash": "d4bad9ff6eb11665",
@@ -1072,17 +1456,23 @@
             "voiceContent": "これでどうかな",
             "sourceName": "vo_card_ambor_inGame_hard_04.wem"
         },
-        "dc557d025ba1c60a": {
-            "hash": "dc557d025ba1c60a",
+        "db4cf6ebca9bdcb1": {
+            "hash": "db4cf6ebca9bdcb1",
             "directory": "External27",
-            "voiceContent": "わぁ、これ本当に美味しいよ。さすが旅人だね",
-            "sourceName": "vo_ambor_spice_event_pref_01.wem"
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_ambor_battle_skill2_02.wem"
         },
         "dc566f58cd6f8e23": {
             "hash": "dc566f58cd6f8e23",
             "directory": "External27",
             "voiceContent": "この感覚、たまらないよね",
             "sourceName": "vo_ambor_explore_sprint_end_02.wem"
+        },
+        "dc8753aff270b1f2": {
+            "hash": "dc8753aff270b1f2",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_08.wem"
         },
         "dca1d710bfbde44a": {
             "hash": "dca1d710bfbde44a",
@@ -1120,6 +1510,12 @@
             "voiceContent": "ノエル？彼女はとても粘り強いんだ。先輩として、彼女の面倒も見てあげないとね",
             "sourceName": "vo_ambor_teammate_noel_01.wem"
         },
+        "e332267fd94a6dfb": {
+            "hash": "e332267fd94a6dfb",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_04.wem"
+        },
         "e3bf8f01830381ff": {
             "hash": "e3bf8f01830381ff",
             "directory": "External28",
@@ -1130,7 +1526,7 @@
             "hash": "e41387c5b0330c13",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_attackheavy_02.wem"
+            "sourceName": "vo_ambor_battle_attackHeavy_02.wem"
         },
         "e6e7764b9a755f44": {
             "hash": "e6e7764b9a755f44",
@@ -1144,11 +1540,53 @@
             "voiceContent": "SFX",
             "sourceName": "vo_ambor_explore_jump_03.wem"
         },
+        "ea2f202fe1841562": {
+            "hash": "ea2f202fe1841562",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_09.wem"
+        },
+        "eba2947247059817": {
+            "hash": "eba2947247059817",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_06.wem"
+        },
         "ed4fccc6b974a577": {
             "hash": "ed4fccc6b974a577",
             "directory": "External29",
             "voiceContent": "頭がこんがらがってきた",
             "sourceName": "vo_card_ambor_event_inGame_03.wem"
+        },
+        "efb0f4129e534b4e": {
+            "hash": "efb0f4129e534b4e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_04.wem"
+        },
+        "f0328083f46abf31": {
+            "hash": "f0328083f46abf31",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_15_ambor_04.wem"
+        },
+        "f0dae82448d556f0": {
+            "hash": "f0dae82448d556f0",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_14_ambor_06.wem"
+        },
+        "f2bc8a47c24589d5": {
+            "hash": "f2bc8a47c24589d5",
+            "directory": "External30",
+            "voiceContent": "",
+            "sourceName": "vo_ambor_suit_renew_03.wem"
+        },
+        "f2bfb6e2821c3317": {
+            "hash": "f2bfb6e2821c3317",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_17_ambor_08.wem"
         },
         "f4d79b5f384bd56d": {
             "hash": "f4d79b5f384bd56d",
@@ -1160,7 +1598,7 @@
             "hash": "f56b33607083775b",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_ambor_battle_hit_h_03.wem"
+            "sourceName": "vo_ambor_battle_hit_H_03.wem"
         },
         "f6cd2686d320fec1": {
             "hash": "f6cd2686d320fec1",
@@ -1180,53 +1618,17 @@
             "voiceContent": "イッター",
             "sourceName": "vo_ambor_battle_hit_H_01.wem"
         },
+        "fb1cb4a435059160": {
+            "hash": "fb1cb4a435059160",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_13_ambor_07.wem"
+        },
         "fe70f3c1a4e280ea": {
             "hash": "fe70f3c1a4e280ea",
             "directory": "External31",
             "voiceContent": "はぁ、負けちゃった…ガイア先輩から、七聖召喚がうまくなるには、すべてのカード効果を覚える必要があるって言われたけど…難しすぎるよ",
             "sourceName": "vo_card_ambor_endOfGame_fail_01.wem"
-        },
-        "17ccb3b9b875045a": {
-            "hash": "17ccb3b9b875045a",
-            "directory": "External2",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_ambor_01.wem"
-        },
-        "46501e388bc2e13b": {
-            "hash": "46501e388bc2e13b",
-            "directory": "External8",
-            "voiceContent": "",
-            "sourceName": "vo_ambor_suit_renew_01.wem"
-        },
-        "54ffa8e260968a8e": {
-            "hash": "54ffa8e260968a8e",
-            "directory": "External10",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_ambor_battle_skill2_01.wem"
-        },
-        "70c8505005766044": {
-            "hash": "70c8505005766044",
-            "directory": "External14",
-            "voiceContent": "",
-            "sourceName": "vo_ambor_suit_renew_02.wem"
-        },
-        "71d0d1c1e6d9165d": {
-            "hash": "71d0d1c1e6d9165d",
-            "directory": "External14",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_ambor_02.wem"
-        },
-        "db4cf6ebca9bdcb1": {
-            "hash": "db4cf6ebca9bdcb1",
-            "directory": "External27",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_ambor_battle_skill2_02.wem"
-        },
-        "f2bc8a47c24589d5": {
-            "hash": "f2bc8a47c24589d5",
-            "directory": "External30",
-            "voiceContent": "",
-            "sourceName": "vo_ambor_suit_renew_03.wem"
         }
     }
 }

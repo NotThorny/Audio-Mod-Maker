@@ -1,0 +1,3684 @@
+{
+    "Teapot": {},
+    "Quests": {},
+    "Gameplay": {
+        "00c746bdeaac2b01": {
+            "hash": "00c746bdeaac2b01",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Chrysopelea_Sacred_Die_01.wem"
+        },
+        "0139702444f07c8a": {
+            "hash": "0139702444f07c8a",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Fire_Rush_SelectOnStage_01.wem"
+        },
+        "014d58cc218943a6": {
+            "hash": "014d58cc218943a6",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Polearm_01_ElementalBurst_01.wem"
+        },
+        "01fdc52d7bf986ad": {
+            "hash": "01fdc52d7bf986ad",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_ElementalBurst_02.wem"
+        },
+        "02e06fee9990cd09": {
+            "hash": "02e06fee9990cd09",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_Die_01.wem"
+        },
+        "031bb99ffc8f003f": {
+            "hash": "031bb99ffc8f003f",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_ExtraSkill_2_01.wem"
+        },
+        "03c92e72fb0834e8": {
+            "hash": "03c92e72fb0834e8",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_ElementalBurst_03.wem"
+        },
+        "03fea385ab5af0a0": {
+            "hash": "03fea385ab5af0a0",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_ElementalArt_02.wem"
+        },
+        "04fa62d735b643e5": {
+            "hash": "04fa62d735b643e5",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_ElementalArt_01.wem"
+        },
+        "05767d17e6ea0887": {
+            "hash": "05767d17e6ea0887",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Ice_HitHeavy_03.wem"
+        },
+        "059523beb0a4d7a1": {
+            "hash": "059523beb0a4d7a1",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fungus_Raptor_01_Die_01.wem"
+        },
+        "05fd8b7dd0570433": {
+            "hash": "05fd8b7dd0570433",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_HitHeavy_01.wem"
+        },
+        "069f6929916a53a1": {
+            "hash": "069f6929916a53a1",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Ice_HitHeavy_01.wem"
+        },
+        "072bfa674905f13d": {
+            "hash": "072bfa674905f13d",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_SelectOnStage_04.wem"
+        },
+        "0754bb98442db25f": {
+            "hash": "0754bb98442db25f",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Ice_ElementalArt_01.wem"
+        },
+        "07eb4c5c7dde0319": {
+            "hash": "07eb4c5c7dde0319",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_Die_01.wem"
+        },
+        "08865f84e7ecaf01": {
+            "hash": "08865f84e7ecaf01",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Gloves_Wind_01_SelectOnStage_02.wem"
+        },
+        "091992e2657bb41c": {
+            "hash": "091992e2657bb41c",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_ElementalBurst_01.wem"
+        },
+        "0927e671452a2a3e": {
+            "hash": "0927e671452a2a3e",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_01_SelectOnStage_01.wem"
+        },
+        "0949a86f8b3c85c2": {
+            "hash": "0949a86f8b3c85c2",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_ElementalArt_02.wem"
+        },
+        "0956227e0d2951d6": {
+            "hash": "0956227e0d2951d6",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_EffigyIce_SelectOnStage_01.wem"
+        },
+        "0a2dbe6cff149e82": {
+            "hash": "0a2dbe6cff149e82",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dahaka_SelectOnStage_01.wem"
+        },
+        "0b198a33ab091852": {
+            "hash": "0b198a33ab091852",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_fatuus_ElementalBurst_02.wem"
+        },
+        "0b785a51a851131f": {
+            "hash": "0b785a51a851131f",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Narcissusborn_SelectOnStage_02.wem"
+        },
+        "0bb7f965395ff76a": {
+            "hash": "0bb7f965395ff76a",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_ElementalBurst_01.wem"
+        },
+        "0bede9a7bae85be1": {
+            "hash": "0bede9a7bae85be1",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_SelectOnStage_04.wem"
+        },
+        "0c0bd582636e6659": {
+            "hash": "0c0bd582636e6659",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Mimik_Fire_Die_01.wem"
+        },
+        "0ce74fc46c248786": {
+            "hash": "0ce74fc46c248786",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Escadron_Ice_01_Die_02.wem"
+        },
+        "0cfff248a5c45fda": {
+            "hash": "0cfff248a5c45fda",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_Die_03.wem"
+        },
+        "0d59bdaf32cf6cee": {
+            "hash": "0d59bdaf32cf6cee",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_ElementalBurst_01.wem"
+        },
+        "0d9999f5cdd56f52": {
+            "hash": "0d9999f5cdd56f52",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Electric_ElementalArt_02.wem"
+        },
+        "0dde6efd6b3e12cb": {
+            "hash": "0dde6efd6b3e12cb",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_ExtraSkill_1_02.wem"
+        },
+        "0de874deed000779": {
+            "hash": "0de874deed000779",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Water_Die_03.wem"
+        },
+        "0dec732645d42375": {
+            "hash": "0dec732645d42375",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_ElementalBurst_02.wem"
+        },
+        "0eb4ac11d00273f9": {
+            "hash": "0eb4ac11d00273f9",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_SelectOnStage_03.wem"
+        },
+        "0f17f91da039c013": {
+            "hash": "0f17f91da039c013",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Water_01_HitHeavy_01.wem"
+        },
+        "0f79c85207565ab9": {
+            "hash": "0f79c85207565ab9",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_Die_01.wem"
+        },
+        "11a7d9187eb3b2d3": {
+            "hash": "11a7d9187eb3b2d3",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_HitHeavy_03.wem"
+        },
+        "11fc54f21c3bc84c": {
+            "hash": "11fc54f21c3bc84c",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_RockShield_Die_02.wem"
+        },
+        "12c2bc71d6e200f8": {
+            "hash": "12c2bc71d6e200f8",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_RockShield_SelectOnStage_01.wem"
+        },
+        "12f53e29da6e3c05": {
+            "hash": "12f53e29da6e3c05",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Polearm_01_Die_01.wem"
+        },
+        "13737699e29865e0": {
+            "hash": "13737699e29865e0",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_ElementalBurst_03.wem"
+        },
+        "13bb473e1380c378": {
+            "hash": "13bb473e1380c378",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_HitHeavy_02.wem"
+        },
+        "13bf2da81bd3b872": {
+            "hash": "13bf2da81bd3b872",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Fire_Rush_Die_02.wem"
+        },
+        "13e2cd6ff2fd4033": {
+            "hash": "13e2cd6ff2fd4033",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_RuggieroMelee_Die_01.wem"
+        },
+        "140b496b3403e72d": {
+            "hash": "140b496b3403e72d",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_Die_01.wem"
+        },
+        "1452a63c9baf1380": {
+            "hash": "1452a63c9baf1380",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_HitHeavy_02.wem"
+        },
+        "14f0bb46d72ae3c2": {
+            "hash": "14f0bb46d72ae3c2",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Katar_01_HitHeavy_02.wem"
+        },
+        "15a1e972abfcc11c": {
+            "hash": "15a1e972abfcc11c",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Water_SelectOnStage_01.wem"
+        },
+        "15c6c8148559933e": {
+            "hash": "15c6c8148559933e",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_Die_02.wem"
+        },
+        "16060d550775e09e": {
+            "hash": "16060d550775e09e",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_ElementalArt_02.wem"
+        },
+        "161bc13e58982c81": {
+            "hash": "161bc13e58982c81",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Club_HitHeavy_01.wem"
+        },
+        "1637c52a2c18d9cd": {
+            "hash": "1637c52a2c18d9cd",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_HitHeavy_01.wem"
+        },
+        "175d026bfcfa0ff9": {
+            "hash": "175d026bfcfa0ff9",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Electric_ElementalBurst_02.wem"
+        },
+        "17d9d3a33abc0feb": {
+            "hash": "17d9d3a33abc0feb",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Water_HitHeavy_03.wem"
+        },
+        "18864828677f02ff": {
+            "hash": "18864828677f02ff",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_Die_01.wem"
+        },
+        "18f693f31c6e1c11": {
+            "hash": "18f693f31c6e1c11",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_01_HitHeavy_03.wem"
+        },
+        "1a631c703e64b7c9": {
+            "hash": "1a631c703e64b7c9",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_HitHeavy_03.wem"
+        },
+        "1a75755f23087bea": {
+            "hash": "1a75755f23087bea",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dahaka_Die_02.wem"
+        },
+        "1a84cbf9c2af3e06": {
+            "hash": "1a84cbf9c2af3e06",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Electric_SelectOnStage_01.wem"
+        },
+        "1af3d8ee5a48ce95": {
+            "hash": "1af3d8ee5a48ce95",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_HitHeavy_03.wem"
+        },
+        "1bd17436900ceffc": {
+            "hash": "1bd17436900ceffc",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Fire_Rush_SelectOnStage_03.wem"
+        },
+        "1c04412fa7fb3117": {
+            "hash": "1c04412fa7fb3117",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_ElementalBurst_02.wem"
+        },
+        "1c1b7615dbdd4ec4": {
+            "hash": "1c1b7615dbdd4ec4",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Fire_Rush_HitHeavy_02.wem"
+        },
+        "1c666615f767d922": {
+            "hash": "1c666615f767d922",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_ElementalBurst_01.wem"
+        },
+        "1d0a27a31419c24a": {
+            "hash": "1d0a27a31419c24a",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_HitHeavy_03.wem"
+        },
+        "1d4089226760d260": {
+            "hash": "1d4089226760d260",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_fatuus_SelectOnStage_02.wem"
+        },
+        "1d7ecbf154f765b6": {
+            "hash": "1d7ecbf154f765b6",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_ExtraSkill_1_01.wem"
+        },
+        "1d8f4a27a1e816f4": {
+            "hash": "1d8f4a27a1e816f4",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_ElementalBurst_03.wem"
+        },
+        "1df167b4fb499c3e": {
+            "hash": "1df167b4fb499c3e",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Oceanid_Die_02.wem"
+        },
+        "1e05ed5db75b391c": {
+            "hash": "1e05ed5db75b391c",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_Die_02.wem"
+        },
+        "1e8e024151cf3bd5": {
+            "hash": "1e8e024151cf3bd5",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Fire_Die_01.wem"
+        },
+        "1f4016244b169829": {
+            "hash": "1f4016244b169829",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_ElementalArt_01.wem"
+        },
+        "1fbbfd1612f60461": {
+            "hash": "1fbbfd1612f60461",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_ElementalBurst_02.wem"
+        },
+        "1fbf2f86d91a8bdf": {
+            "hash": "1fbf2f86d91a8bdf",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Electric_HitHeavy_01.wem"
+        },
+        "20192d5f06c4d543": {
+            "hash": "20192d5f06c4d543",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_ExtraSkill_1_02.wem"
+        },
+        "21389424d20d1b0d": {
+            "hash": "21389424d20d1b0d",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Fire_SelectOnStage_02.wem"
+        },
+        "214304b81c6a3476": {
+            "hash": "214304b81c6a3476",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_ElementalArt_02.wem"
+        },
+        "21566441ca7a0fd2": {
+            "hash": "21566441ca7a0fd2",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_Die_03.wem"
+        },
+        "217b1448c7729a20": {
+            "hash": "217b1448c7729a20",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_HitHeavy_02.wem"
+        },
+        "21b153bbfa565d4e": {
+            "hash": "21b153bbfa565d4e",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_ElementalBurst_01.wem"
+        },
+        "227f885374fab9a4": {
+            "hash": "227f885374fab9a4",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_Die_01.wem"
+        },
+        "22956b00c49b860a": {
+            "hash": "22956b00c49b860a",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_ElementalArt_02.wem"
+        },
+        "22c2bc3e84819d09": {
+            "hash": "22c2bc3e84819d09",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_Harbinger_Die_01.wem"
+        },
+        "22db47cda4d868f0": {
+            "hash": "22db47cda4d868f0",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_ElementalBurst_03.wem"
+        },
+        "2367795468c06b4c": {
+            "hash": "2367795468c06b4c",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Glaive_01_SelectOnStage_01.wem"
+        },
+        "23a7f68cde249401": {
+            "hash": "23a7f68cde249401",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_Die_01.wem"
+        },
+        "243be860c735d816": {
+            "hash": "243be860c735d816",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_RockShield_SelectOnStage_03.wem"
+        },
+        "24532b5998b451d1": {
+            "hash": "24532b5998b451d1",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dahaka_ElementalBurst_02.wem"
+        },
+        "247d6a10966dcd86": {
+            "hash": "247d6a10966dcd86",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Escadron_Ice_01_ElementalArt_02.wem"
+        },
+        "249f47dd3c3068d6": {
+            "hash": "249f47dd3c3068d6",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Riftstalker_Electric_ElementalArt_02.wem"
+        },
+        "251fd44399f599ed": {
+            "hash": "251fd44399f599ed",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Oceanid_ElementalBurst_02.wem"
+        },
+        "25504ccdb85ef200": {
+            "hash": "25504ccdb85ef200",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_Die_02.wem"
+        },
+        "25c4cda70382a106": {
+            "hash": "25c4cda70382a106",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Escadron_Ice_01_SelectOnStage_01.wem"
+        },
+        "25cf5c81d7f4da89": {
+            "hash": "25cf5c81d7f4da89",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_SeaHorsePrimo_SelectOnStage_02.wem"
+        },
+        "27b785a611d56fab": {
+            "hash": "27b785a611d56fab",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Ice_Die_01.wem"
+        },
+        "2889ce4b1d6281db": {
+            "hash": "2889ce4b1d6281db",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Glaive_01_HitHeavy_03.wem"
+        },
+        "28af7325fe163ea9": {
+            "hash": "28af7325fe163ea9",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_SelectOnStage_02.wem"
+        },
+        "28bb48416d8fab54": {
+            "hash": "28bb48416d8fab54",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_HitHeavy_02.wem"
+        },
+        "28c867b78cb3c740": {
+            "hash": "28c867b78cb3c740",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Ice_SelectOnStage_01.wem"
+        },
+        "2946ab98c5031503": {
+            "hash": "2946ab98c5031503",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dahaka_ExtraSkill_1_02.wem"
+        },
+        "295a1c61aa659d66": {
+            "hash": "295a1c61aa659d66",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_PushDagger_01_Die_01.wem"
+        },
+        "29e4f3bf77731ded": {
+            "hash": "29e4f3bf77731ded",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_ElementalArt_01.wem"
+        },
+        "2aa95c112f57c583": {
+            "hash": "2aa95c112f57c583",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_HitHeavy_01.wem"
+        },
+        "2b18fe496c50cf47": {
+            "hash": "2b18fe496c50cf47",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_ElementalArt_03.wem"
+        },
+        "2b714ce7d480eab6": {
+            "hash": "2b714ce7d480eab6",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_ElementalArt_02.wem"
+        },
+        "2b7a95a6945c9cd2": {
+            "hash": "2b7a95a6945c9cd2",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Escadron_Ice_01_ElementalBurst_01.wem"
+        },
+        "2bd34822d9d9c3bd": {
+            "hash": "2bd34822d9d9c3bd",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_HitHeavy_03.wem"
+        },
+        "2bdc505f2eb89d4f": {
+            "hash": "2bdc505f2eb89d4f",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_HitHeavy_01.wem"
+        },
+        "2bdcf1b97349f889": {
+            "hash": "2bdcf1b97349f889",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_ElementalArt_01.wem"
+        },
+        "2c2492d97fd70ec3": {
+            "hash": "2c2492d97fd70ec3",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_HitHeavy_02.wem"
+        },
+        "2cbb51d67f7187ea": {
+            "hash": "2cbb51d67f7187ea",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_01_ElementalBurst_01.wem"
+        },
+        "2cf7a15837a4571d": {
+            "hash": "2cf7a15837a4571d",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_SelectOnStage_02.wem"
+        },
+        "2d18ba5ccac5f5f5": {
+            "hash": "2d18ba5ccac5f5f5",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Glaive_01_HitHeavy_01.wem"
+        },
+        "2ea03a18b0bd407e": {
+            "hash": "2ea03a18b0bd407e",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Fire_ElementalArt_02.wem"
+        },
+        "2f536a334af429bc": {
+            "hash": "2f536a334af429bc",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Katar_01_SelectOnStage_01.wem"
+        },
+        "2fa8ea5b19b5f661": {
+            "hash": "2fa8ea5b19b5f661",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_ElementalArt_01.wem"
+        },
+        "2fe405114ab3c3a1": {
+            "hash": "2fe405114ab3c3a1",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Oceanid_ElementalArt_01.wem"
+        },
+        "306e161c35327661": {
+            "hash": "306e161c35327661",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_SelectOnStage_02.wem"
+        },
+        "30a710be62d0e58b": {
+            "hash": "30a710be62d0e58b",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Club_Die_01.wem"
+        },
+        "3125ca42cac6b2a0": {
+            "hash": "3125ca42cac6b2a0",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_SelectOnStage_02.wem"
+        },
+        "313ebd14410819cd": {
+            "hash": "313ebd14410819cd",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_SelectOnStage_02.wem"
+        },
+        "31d13cd00d5350e5": {
+            "hash": "31d13cd00d5350e5",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Club_Die_03.wem"
+        },
+        "3210ae1f4e6b7650": {
+            "hash": "3210ae1f4e6b7650",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Oracle_01_HitHeavy_03.wem"
+        },
+        "32f0da494912320a": {
+            "hash": "32f0da494912320a",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Gloves_Wind_01_ElementalBurst_01.wem"
+        },
+        "330ac2f22b9ae55e": {
+            "hash": "330ac2f22b9ae55e",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Slime_01_SelectOnStage_01.wem"
+        },
+        "333734a29ce2765d": {
+            "hash": "333734a29ce2765d",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_ElementalArt_01.wem"
+        },
+        "3344b46b6d50e842": {
+            "hash": "3344b46b6d50e842",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_SelectOnStage_01.wem"
+        },
+        "343d2bb55c54bebc": {
+            "hash": "343d2bb55c54bebc",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_HitHeavy_01.wem"
+        },
+        "345bf5b1e8d31b79": {
+            "hash": "345bf5b1e8d31b79",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_HitHeavy_01.wem"
+        },
+        "348d720e39d82ae3": {
+            "hash": "348d720e39d82ae3",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Female_Dancer_ElementalBurst_02.wem"
+        },
+        "3534f03248a9dffe": {
+            "hash": "3534f03248a9dffe",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_ElementalArt_02.wem"
+        },
+        "361fc3d67d4e4834": {
+            "hash": "361fc3d67d4e4834",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Scorpion_Sacred_Die_02.wem"
+        },
+        "363b345575c83f72": {
+            "hash": "363b345575c83f72",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_ElementalBurst_01.wem"
+        },
+        "36759a6df3a1b9fb": {
+            "hash": "36759a6df3a1b9fb",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_SelectOnStage_02.wem"
+        },
+        "36abbb8a40acc206": {
+            "hash": "36abbb8a40acc206",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_HilistrayWater_ElementalBurst_01.wem"
+        },
+        "36d4a3fe5b256bb9": {
+            "hash": "36d4a3fe5b256bb9",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_SelectOnStage_02.wem"
+        },
+        "36f27b99215602d9": {
+            "hash": "36f27b99215602d9",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Electric_HitHeavy_03.wem"
+        },
+        "3701fb7794f926a0": {
+            "hash": "3701fb7794f926a0",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Club_SelectOnStage_01.wem"
+        },
+        "37172513b0589001": {
+            "hash": "37172513b0589001",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_InvokerHerald_Water_HitHeavy_01.wem"
+        },
+        "374978d42dadd3e4": {
+            "hash": "374978d42dadd3e4",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_Die_02.wem"
+        },
+        "3813c3463fb7c8d1": {
+            "hash": "3813c3463fb7c8d1",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Ptahur_Devourer_Die_01.wem"
+        },
+        "38384b24639d2d8b": {
+            "hash": "38384b24639d2d8b",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Female_Dancer_ElementalArt_01.wem"
+        },
+        "387e5364ac09b3ce": {
+            "hash": "387e5364ac09b3ce",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_SelectOnStage_01.wem"
+        },
+        "38f8b0ce825ebd82": {
+            "hash": "38f8b0ce825ebd82",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_Die_02.wem"
+        },
+        "394eaaa0b007b630": {
+            "hash": "394eaaa0b007b630",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_ElementalArt_02.wem"
+        },
+        "39aa976c2c5336ed": {
+            "hash": "39aa976c2c5336ed",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_ElementalBurst_02.wem"
+        },
+        "3a01e6ce926db9a6": {
+            "hash": "3a01e6ce926db9a6",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_SeaHorsePrimo_Die_02.wem"
+        },
+        "3a54bc416d2b63d2": {
+            "hash": "3a54bc416d2b63d2",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Electric_ElementalBurst_01.wem"
+        },
+        "3a5d823e542a256a": {
+            "hash": "3a5d823e542a256a",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Katar_01_ExtraSkill_1_01.wem"
+        },
+        "3a6e13ba52a7435d": {
+            "hash": "3a6e13ba52a7435d",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_ElementalArt_01.wem"
+        },
+        "3ae4f2ec7d687c85": {
+            "hash": "3ae4f2ec7d687c85",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Riftstalker_Electric_ElementalBurst_02.wem"
+        },
+        "3afa9d6e18deaab0": {
+            "hash": "3afa9d6e18deaab0",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_HitHeavy_02.wem"
+        },
+        "3b31fb0fc2527c82": {
+            "hash": "3b31fb0fc2527c82",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Female_Dancer_ExtraSkill_1_01.wem"
+        },
+        "3bd111838d56249e": {
+            "hash": "3bd111838d56249e",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Gloves_Wind_01_ElementalArt_02.wem"
+        },
+        "3c828fa7ebac3ec5": {
+            "hash": "3c828fa7ebac3ec5",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_SelectOnStage_02.wem"
+        },
+        "3d5625a8639dde0f": {
+            "hash": "3d5625a8639dde0f",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_ElementalArt_03.wem"
+        },
+        "3dcb1018edf92811": {
+            "hash": "3dcb1018edf92811",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ningyo_Die_01.wem"
+        },
+        "3dd97e7d813e129b": {
+            "hash": "3dd97e7d813e129b",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Electric_HitHeavy_01.wem"
+        },
+        "3e86b0e2659abb30": {
+            "hash": "3e86b0e2659abb30",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_HookwalkerPrimo_SelectOnStage_01.wem"
+        },
+        "3ee88bb628d3b591": {
+            "hash": "3ee88bb628d3b591",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_ElementalBurst_02.wem"
+        },
+        "3eec948d922ba2bd": {
+            "hash": "3eec948d922ba2bd",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Female_Dancer_HitHeavy_01.wem"
+        },
+        "3f1f1cbf200c1ab5": {
+            "hash": "3f1f1cbf200c1ab5",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Electric_Die_01.wem"
+        },
+        "3f54013a552c0791": {
+            "hash": "3f54013a552c0791",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_HitHeavy_03.wem"
+        },
+        "3f6987a5268246db": {
+            "hash": "3f6987a5268246db",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_HookwalkerPrimo_Die_01.wem"
+        },
+        "4051b2b9f8841bf9": {
+            "hash": "4051b2b9f8841bf9",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Riftstalker_Electric_SelectOnStage_02.wem"
+        },
+        "409db113fb102255": {
+            "hash": "409db113fb102255",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Fire_ElementalArt_01.wem"
+        },
+        "40a04e1863a6fc21": {
+            "hash": "40a04e1863a6fc21",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fungus_Raptor_01_SelectOnStage_02.wem"
+        },
+        "40e7d3defbffee70": {
+            "hash": "40e7d3defbffee70",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Female_Dancer_Die_02.wem"
+        },
+        "41f3ecca4154bf6f": {
+            "hash": "41f3ecca4154bf6f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_ExtraSkill_1_02.wem"
+        },
+        "42a9b7c230913201": {
+            "hash": "42a9b7c230913201",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Chrysopelea_Sacred_SelectOnStage_02.wem"
+        },
+        "42b5e2be2e8060db": {
+            "hash": "42b5e2be2e8060db",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_ElementalBurst_03.wem"
+        },
+        "436dd9b4b3b94583": {
+            "hash": "436dd9b4b3b94583",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Narcissusborn_Die_01.wem"
+        },
+        "4379d7c80c9ebd31": {
+            "hash": "4379d7c80c9ebd31",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Oracle_01_ExtraSkill_1_01.wem"
+        },
+        "4385dd95e53d381c": {
+            "hash": "4385dd95e53d381c",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_HitHeavy_02.wem"
+        },
+        "4488dc985feae262": {
+            "hash": "4488dc985feae262",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_ElementalBurst_03.wem"
+        },
+        "45850baf12075f55": {
+            "hash": "45850baf12075f55",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Fire_Rush_Die_01.wem"
+        },
+        "45b2c0aa0a6cd234": {
+            "hash": "45b2c0aa0a6cd234",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_ElementalBurst_01.wem"
+        },
+        "460b41e672dbc001": {
+            "hash": "460b41e672dbc001",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Gloves_Wind_01_Die_01.wem"
+        },
+        "46a21a0913ccc91e": {
+            "hash": "46a21a0913ccc91e",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_GatorSacred_SelectOnStage_01.wem"
+        },
+        "46f935f60f7d2d36": {
+            "hash": "46f935f60f7d2d36",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Fire_ElementalBurst_01.wem"
+        },
+        "47298440e7001be9": {
+            "hash": "47298440e7001be9",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Monster_Raijin_Die_01.wem"
+        },
+        "4744cecfdbe3d4f5": {
+            "hash": "4744cecfdbe3d4f5",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_ElementalBurst_01.wem"
+        },
+        "4802fb31d3f7d206": {
+            "hash": "4802fb31d3f7d206",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_HitHeavy_02.wem"
+        },
+        "48194c7f60cd9b0e": {
+            "hash": "48194c7f60cd9b0e",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_SelectOnStage_03.wem"
+        },
+        "485367a2db6dd172": {
+            "hash": "485367a2db6dd172",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_ExtraSkill_1_01.wem"
+        },
+        "4868136615fbbb6d": {
+            "hash": "4868136615fbbb6d",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dahaka_Die_01.wem"
+        },
+        "490e6ba8df17c7a0": {
+            "hash": "490e6ba8df17c7a0",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_SelectOnStage_03.wem"
+        },
+        "494340910b4fa6b0": {
+            "hash": "494340910b4fa6b0",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_SelectOnStage_01.wem"
+        },
+        "4977b27a00dff8c1": {
+            "hash": "4977b27a00dff8c1",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_GatorSacred_Die_01.wem"
+        },
+        "49ba689add71c335": {
+            "hash": "49ba689add71c335",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_SelectOnStage_02.wem"
+        },
+        "49f512ec596b68a9": {
+            "hash": "49f512ec596b68a9",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_ElementalArt_02.wem"
+        },
+        "4a7d5297103a3713": {
+            "hash": "4a7d5297103a3713",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_ElementalBurst_03.wem"
+        },
+        "4addcb5cd4f1cd4b": {
+            "hash": "4addcb5cd4f1cd4b",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_Die_03.wem"
+        },
+        "4b6229fc8f884e61": {
+            "hash": "4b6229fc8f884e61",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_01_Die_01.wem"
+        },
+        "4b73a8cf18c598ff": {
+            "hash": "4b73a8cf18c598ff",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Water_Die_01.wem"
+        },
+        "4ba73ea8babc350d": {
+            "hash": "4ba73ea8babc350d",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_ElementalBurst_01.wem"
+        },
+        "4bd69fb81f023735": {
+            "hash": "4bd69fb81f023735",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dvalin_ElementalArt_01.wem"
+        },
+        "4c06f76e7f7284a5": {
+            "hash": "4c06f76e7f7284a5",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_Die_01.wem"
+        },
+        "4c3d6ba264011a58": {
+            "hash": "4c3d6ba264011a58",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_ElementalBurst_01.wem"
+        },
+        "4c3fe001fbc8057f": {
+            "hash": "4c3fe001fbc8057f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_SelectOnStage_01.wem"
+        },
+        "4c40b52587d70761": {
+            "hash": "4c40b52587d70761",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Oceanid_SelectOnStage_02.wem"
+        },
+        "4c5279cd05462cd9": {
+            "hash": "4c5279cd05462cd9",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_SelectOnStage_02.wem"
+        },
+        "4ca77ece072bd429": {
+            "hash": "4ca77ece072bd429",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_HitHeavy_03.wem"
+        },
+        "4cb96db120a402a6": {
+            "hash": "4cb96db120a402a6",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Oracle_01_Die_01.wem"
+        },
+        "4d04fc42331bec3f": {
+            "hash": "4d04fc42331bec3f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_Die_03.wem"
+        },
+        "4d5786b73cadd9be": {
+            "hash": "4d5786b73cadd9be",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fungus_Raptor_01_ElementalArt_02.wem"
+        },
+        "4d6967127a61ceef": {
+            "hash": "4d6967127a61ceef",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Riftstalker_Electric_HitHeavy_01.wem"
+        },
+        "4d6cfca98f187b3d": {
+            "hash": "4d6cfca98f187b3d",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_ElementalBurst_02.wem"
+        },
+        "4df1fa2f0ee1542c": {
+            "hash": "4df1fa2f0ee1542c",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_Die_02.wem"
+        },
+        "4e176b3086a3ddc6": {
+            "hash": "4e176b3086a3ddc6",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_Die_02.wem"
+        },
+        "4eaad5f5fb1b0af9": {
+            "hash": "4eaad5f5fb1b0af9",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_PushDagger_01_SelectOnStage_01.wem"
+        },
+        "4f041bdbb6fc5b36": {
+            "hash": "4f041bdbb6fc5b36",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_SelectOnStage_01.wem"
+        },
+        "4fc25c6d9934b589": {
+            "hash": "4fc25c6d9934b589",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_HitHeavy_03.wem"
+        },
+        "4fcb0bee3c3076d0": {
+            "hash": "4fcb0bee3c3076d0",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Necalevia_SelectOnStage_01.wem"
+        },
+        "504b0ba7255bfd96": {
+            "hash": "504b0ba7255bfd96",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_ElementalArt_02.wem"
+        },
+        "507e089c2a20102a": {
+            "hash": "507e089c2a20102a",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fungus_Raptor_01_ElementalBurst_01.wem"
+        },
+        "50c47de4bada1a35": {
+            "hash": "50c47de4bada1a35",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_SelectOnStage_02.wem"
+        },
+        "50ef95455b80867d": {
+            "hash": "50ef95455b80867d",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_DarkwraithRock_Die_01.wem"
+        },
+        "50fc6c45ae4f9f22": {
+            "hash": "50fc6c45ae4f9f22",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_HitHeavy_03.wem"
+        },
+        "51358b5c8fc3bdd5": {
+            "hash": "51358b5c8fc3bdd5",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Fire_HitHeavy_03.wem"
+        },
+        "515d9e1dc08fdff6": {
+            "hash": "515d9e1dc08fdff6",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_Die_02.wem"
+        },
+        "51d3b61aafe659f7": {
+            "hash": "51d3b61aafe659f7",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_SelectOnStage_01.wem"
+        },
+        "5225505758cfdcf4": {
+            "hash": "5225505758cfdcf4",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_HitHeavy_01.wem"
+        },
+        "5243625593eadea4": {
+            "hash": "5243625593eadea4",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Polearm_01_ExtraSkill_1_01.wem"
+        },
+        "53448ce06862cfb7": {
+            "hash": "53448ce06862cfb7",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fungus_Raptor_01_HitHeavy_01.wem"
+        },
+        "54a13d02dfdacc5b": {
+            "hash": "54a13d02dfdacc5b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_ElementalArt_01.wem"
+        },
+        "54bb6d5d3661a012": {
+            "hash": "54bb6d5d3661a012",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_DarkwraithRock_SelectOnStage_01.wem"
+        },
+        "55f60f52a5c40b71": {
+            "hash": "55f60f52a5c40b71",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_Die_01.wem"
+        },
+        "55fcbb66d7f6ee8d": {
+            "hash": "55fcbb66d7f6ee8d",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Water_01_Die_01.wem"
+        },
+        "57bce0865b1ee4ce": {
+            "hash": "57bce0865b1ee4ce",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_ElementalArt_02.wem"
+        },
+        "57f0579d83cbe435": {
+            "hash": "57f0579d83cbe435",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dvalin_Die_01.wem"
+        },
+        "584f4b53ee62fb80": {
+            "hash": "584f4b53ee62fb80",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_HitHeavy_04.wem"
+        },
+        "586cf5d602207829": {
+            "hash": "586cf5d602207829",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_ElementalBurst_02.wem"
+        },
+        "593dba407f1953f8": {
+            "hash": "593dba407f1953f8",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_Die_02.wem"
+        },
+        "597448697c363929": {
+            "hash": "597448697c363929",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_ElementalBurst_02.wem"
+        },
+        "5af5d70ce7838fc2": {
+            "hash": "5af5d70ce7838fc2",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_ElementalBurst_01.wem"
+        },
+        "5b0b2d5100fdadf9": {
+            "hash": "5b0b2d5100fdadf9",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Riftstalker_Electric_Die_01.wem"
+        },
+        "5b4fb4f8749cfa3a": {
+            "hash": "5b4fb4f8749cfa3a",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Apep_SelectOnStage_01.wem"
+        },
+        "5ce765a907ecaeb0": {
+            "hash": "5ce765a907ecaeb0",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Gloves_Wind_01_HitHeavy_02.wem"
+        },
+        "5e1c97ccf0d4220e": {
+            "hash": "5e1c97ccf0d4220e",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_ElementalArt_01.wem"
+        },
+        "5e52e48084818f8d": {
+            "hash": "5e52e48084818f8d",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_Die_01.wem"
+        },
+        "5f051a7b3dea4283": {
+            "hash": "5f051a7b3dea4283",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_HitHeavy_01.wem"
+        },
+        "5f468bde9b562db0": {
+            "hash": "5f468bde9b562db0",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_ElementalArt_03.wem"
+        },
+        "602f068ce86c40bd": {
+            "hash": "602f068ce86c40bd",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_HitHeavy_03.wem"
+        },
+        "603624b08841b59f": {
+            "hash": "603624b08841b59f",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Katar_01_Die_01.wem"
+        },
+        "604cb4b4cb1a54c3": {
+            "hash": "604cb4b4cb1a54c3",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_HermitCrabPrimo_Die_01.wem"
+        },
+        "60b25d72d2d87432": {
+            "hash": "60b25d72d2d87432",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_ElementalArt_02.wem"
+        },
+        "60eecc856d56eb04": {
+            "hash": "60eecc856d56eb04",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_SelectOnStage_01.wem"
+        },
+        "611c979157381b76": {
+            "hash": "611c979157381b76",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_ElementalBurst_03.wem"
+        },
+        "613b905c89889b0f": {
+            "hash": "613b905c89889b0f",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_HitHeavy_01.wem"
+        },
+        "6186b2bcfa62e2af": {
+            "hash": "6186b2bcfa62e2af",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_HitHeavy_01.wem"
+        },
+        "62919a660f7cb18b": {
+            "hash": "62919a660f7cb18b",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_ElementalArt_03.wem"
+        },
+        "629a600ebaabe1fb": {
+            "hash": "629a600ebaabe1fb",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_ExtraSkill_1_02.wem"
+        },
+        "62d5cfe226192aae": {
+            "hash": "62d5cfe226192aae",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_HitHeavy_02.wem"
+        },
+        "62da56cc2a9115c2": {
+            "hash": "62da56cc2a9115c2",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Defender_ElementalBurst_01.wem"
+        },
+        "6380d93725fc363a": {
+            "hash": "6380d93725fc363a",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_Die_02.wem"
+        },
+        "63bbc677b9ff1ce5": {
+            "hash": "63bbc677b9ff1ce5",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_ElementalArt_01.wem"
+        },
+        "63e3e4433d90ecc8": {
+            "hash": "63e3e4433d90ecc8",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_Harbinger_ExtraSkill_1_01.wem"
+        },
+        "6468e1162063aa54": {
+            "hash": "6468e1162063aa54",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_ExtraSkill_1_01.wem"
+        },
+        "649edc752dd582a5": {
+            "hash": "649edc752dd582a5",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dahaka_SelectOnStage_02.wem"
+        },
+        "65d885e036a31ba7": {
+            "hash": "65d885e036a31ba7",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Scorpion_Sacred_SelectOnStage_02.wem"
+        },
+        "66dea4197c89ab51": {
+            "hash": "66dea4197c89ab51",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_HitHeavy_03.wem"
+        },
+        "6707c28aac16f5be": {
+            "hash": "6707c28aac16f5be",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_ElementalBurst_01.wem"
+        },
+        "67ff95eecc1ea598": {
+            "hash": "67ff95eecc1ea598",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_HitHeavy_02.wem"
+        },
+        "6801125c6bfbe655": {
+            "hash": "6801125c6bfbe655",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_ElementalBurst_02.wem"
+        },
+        "68091a61d22c52c3": {
+            "hash": "68091a61d22c52c3",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Glaive_01_ElementalArt_01.wem"
+        },
+        "6820aa4a352c78ae": {
+            "hash": "6820aa4a352c78ae",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_SelectOnStage_01.wem"
+        },
+        "69399e53e9f6f5f0": {
+            "hash": "69399e53e9f6f5f0",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_SlimeWater_Die_01.wem"
+        },
+        "6950b853f7aa7cfa": {
+            "hash": "6950b853f7aa7cfa",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Polearm_01_SelectOnStage_01.wem"
+        },
+        "6992655ec1716572": {
+            "hash": "6992655ec1716572",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_SeaHorsePrimo_ElementalBurst_01.wem"
+        },
+        "69d461aa427c8da2": {
+            "hash": "69d461aa427c8da2",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Water_HitHeavy_02.wem"
+        },
+        "6b216cdf20e2fdfb": {
+            "hash": "6b216cdf20e2fdfb",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_HitHeavy_01.wem"
+        },
+        "6b4fe678bf1ed71e": {
+            "hash": "6b4fe678bf1ed71e",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Effigy_Water_SelectOnStage_01.wem"
+        },
+        "6b5891add00171a2": {
+            "hash": "6b5891add00171a2",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Water_01_SelectOnStage_01.wem"
+        },
+        "6b5d247c86919889": {
+            "hash": "6b5d247c86919889",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_SelectOnStage_02.wem"
+        },
+        "6b63e1515e87ba4a": {
+            "hash": "6b63e1515e87ba4a",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dahaka_ElementalArt_02.wem"
+        },
+        "6c8b27e3e5ed2777": {
+            "hash": "6c8b27e3e5ed2777",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_01_HitHeavy_01.wem"
+        },
+        "6c91365c470c48ea": {
+            "hash": "6c91365c470c48ea",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dvalin_SelectOnStage_01.wem"
+        },
+        "6c93827746528108": {
+            "hash": "6c93827746528108",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_HitHeavy_02.wem"
+        },
+        "6cc7aafbfb48b67c": {
+            "hash": "6cc7aafbfb48b67c",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_HitHeavy_02.wem"
+        },
+        "6d1ed43f27e882e9": {
+            "hash": "6d1ed43f27e882e9",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Electric_Die_01.wem"
+        },
+        "6d6480331fc18781": {
+            "hash": "6d6480331fc18781",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_HitHeavy_03.wem"
+        },
+        "6e38ad3d5b6b0f8b": {
+            "hash": "6e38ad3d5b6b0f8b",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Katar_01_HitHeavy_03.wem"
+        },
+        "6ec89f549a260945": {
+            "hash": "6ec89f549a260945",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Apep_Die_01.wem"
+        },
+        "6f62d94f05ed7ae5": {
+            "hash": "6f62d94f05ed7ae5",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Katar_01_HitHeavy_01.wem"
+        },
+        "6f9a9d75ca09c733": {
+            "hash": "6f9a9d75ca09c733",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_SelectOnStage_02.wem"
+        },
+        "6fd582be5e07b010": {
+            "hash": "6fd582be5e07b010",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_PushDagger_01_HitHeavy_03.wem"
+        },
+        "6fe2aa335dad2a39": {
+            "hash": "6fe2aa335dad2a39",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_EffigyIce_Die_01.wem"
+        },
+        "7001d61cb3eccce1": {
+            "hash": "7001d61cb3eccce1",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_Die_01.wem"
+        },
+        "70411b5d36091a41": {
+            "hash": "70411b5d36091a41",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_ElementalArt_01.wem"
+        },
+        "71e729a21498acff": {
+            "hash": "71e729a21498acff",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_HitHeavy_03.wem"
+        },
+        "72089122df7516ef": {
+            "hash": "72089122df7516ef",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Glaive_01_Die_01.wem"
+        },
+        "722196321b4c933b": {
+            "hash": "722196321b4c933b",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Fire_Die_03.wem"
+        },
+        "73be76421caba2ae": {
+            "hash": "73be76421caba2ae",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fungus_UnuAnudatta_01_SelectOnStage_01.wem"
+        },
+        "7453dade8fb18ffe": {
+            "hash": "7453dade8fb18ffe",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_Die_02.wem"
+        },
+        "757bc42651a187cc": {
+            "hash": "757bc42651a187cc",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Female_Dancer_ElementalBurst_01.wem"
+        },
+        "760c823ebea028a7": {
+            "hash": "760c823ebea028a7",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Fire_Rush_SelectOnStage_04.wem"
+        },
+        "76d7841e2628bd45": {
+            "hash": "76d7841e2628bd45",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_ElementalBurst_02.wem"
+        },
+        "77590068ddb10c0d": {
+            "hash": "77590068ddb10c0d",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_ElementalBurst_02.wem"
+        },
+        "782c75bd29dcd5e1": {
+            "hash": "782c75bd29dcd5e1",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Oceanid_Die_01.wem"
+        },
+        "785f48458e0f215a": {
+            "hash": "785f48458e0f215a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_HilistrayWater_SelectOnStage_01.wem"
+        },
+        "7a1945a9d1a17855": {
+            "hash": "7a1945a9d1a17855",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_ExtraSkill_1_02.wem"
+        },
+        "7a68e5a4b9d075d8": {
+            "hash": "7a68e5a4b9d075d8",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_SelectOnStage_01.wem"
+        },
+        "7aeee780d2dcedb6": {
+            "hash": "7aeee780d2dcedb6",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_RockShield_HitHeavy_02.wem"
+        },
+        "7afd8244b518b039": {
+            "hash": "7afd8244b518b039",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Oracle_01_SelectOnStage_01.wem"
+        },
+        "7ba3cba668df724e": {
+            "hash": "7ba3cba668df724e",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Water_01_ElementalBurst_01.wem"
+        },
+        "7c7b2c252689e04f": {
+            "hash": "7c7b2c252689e04f",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_ElementalBurst_02.wem"
+        },
+        "7c81c83229c73110": {
+            "hash": "7c81c83229c73110",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_SelectOnStage_02.wem"
+        },
+        "7d0207ba784b366b": {
+            "hash": "7d0207ba784b366b",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Gargoyle_Ground_Die_01.wem"
+        },
+        "7d2b7dcd3870cde9": {
+            "hash": "7d2b7dcd3870cde9",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Escadron_Ice_01_Die_01.wem"
+        },
+        "7d45cd8532bbdf06": {
+            "hash": "7d45cd8532bbdf06",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Monster_Raijin_SelectOnStage_01.wem"
+        },
+        "7d7987b040f22873": {
+            "hash": "7d7987b040f22873",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_ElementalArt_03.wem"
+        },
+        "7d9c5e61ce9e892b": {
+            "hash": "7d9c5e61ce9e892b",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_fatuus_Die_02.wem"
+        },
+        "7df39ef7e2455ad0": {
+            "hash": "7df39ef7e2455ad0",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fungus_Raptor_01_HitHeavy_02.wem"
+        },
+        "7e06edcb2d31d53a": {
+            "hash": "7e06edcb2d31d53a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_Die_02.wem"
+        },
+        "7e10c1716cbced94": {
+            "hash": "7e10c1716cbced94",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Oracle_01_ElementalArt_01.wem"
+        },
+        "7e41f7bec6fb0734": {
+            "hash": "7e41f7bec6fb0734",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Ice_Die_02.wem"
+        },
+        "80e06ee93dd83c1d": {
+            "hash": "80e06ee93dd83c1d",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_RockShield_Die_03.wem"
+        },
+        "8373bd4af6ad82bf": {
+            "hash": "8373bd4af6ad82bf",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_InvokerHerald_Water_ElementalArt_01.wem"
+        },
+        "83cb82d715135414": {
+            "hash": "83cb82d715135414",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Club_Die_02.wem"
+        },
+        "83f7df8a4b853393": {
+            "hash": "83f7df8a4b853393",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Water_ElementalArt_01.wem"
+        },
+        "8417398f3e92ae1a": {
+            "hash": "8417398f3e92ae1a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_SelectOnStage_01.wem"
+        },
+        "84de09ea99b9bef4": {
+            "hash": "84de09ea99b9bef4",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Female_Dancer_SelectOnStage_01.wem"
+        },
+        "85a43a1017e8c02e": {
+            "hash": "85a43a1017e8c02e",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Oracle_01_HitHeavy_01.wem"
+        },
+        "86138507bf2bf682": {
+            "hash": "86138507bf2bf682",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_ElementalBurst_02.wem"
+        },
+        "864bd08450a7a900": {
+            "hash": "864bd08450a7a900",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Gargoyle_Ground_SelectOnStage_01.wem"
+        },
+        "86cbc893666180a3": {
+            "hash": "86cbc893666180a3",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_ElementalArt_03.wem"
+        },
+        "872f47685b92db7e": {
+            "hash": "872f47685b92db7e",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Club_SelectOnStage_03.wem"
+        },
+        "8744b90476f2bf67": {
+            "hash": "8744b90476f2bf67",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_InvokerHerald_Water_HitHeavy_03.wem"
+        },
+        "874f8e2daec63a8d": {
+            "hash": "874f8e2daec63a8d",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Fire_Rush_SelectOnStage_02.wem"
+        },
+        "8769151cdba12612": {
+            "hash": "8769151cdba12612",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_ElementalBurst_01.wem"
+        },
+        "884d0a6121aa951a": {
+            "hash": "884d0a6121aa951a",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_ElementalBurst_01.wem"
+        },
+        "88db4820df507921": {
+            "hash": "88db4820df507921",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Fire_ElementalArt_01.wem"
+        },
+        "88f25de4c0281931": {
+            "hash": "88f25de4c0281931",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_MachinaIustitia_Bradamante_Die_01.wem"
+        },
+        "89436ae686c56b6e": {
+            "hash": "89436ae686c56b6e",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Planelurker_Die_02.wem"
+        },
+        "896f84886b096889": {
+            "hash": "896f84886b096889",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_Harbinger_ElementalArt_01.wem"
+        },
+        "8ac8fa028efb8469": {
+            "hash": "8ac8fa028efb8469",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Electric_SelectOnStage_02.wem"
+        },
+        "8b5cbd3d15df9c14": {
+            "hash": "8b5cbd3d15df9c14",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Female_Dancer_ElementalArt_02.wem"
+        },
+        "8baef72cdd38816b": {
+            "hash": "8baef72cdd38816b",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_Die_02.wem"
+        },
+        "8c2b1ae7305fe9f8": {
+            "hash": "8c2b1ae7305fe9f8",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Water_Die_02.wem"
+        },
+        "8cf7521a13625678": {
+            "hash": "8cf7521a13625678",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_SelectOnStage_02.wem"
+        },
+        "8d13922634611304": {
+            "hash": "8d13922634611304",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_ExtraSkill_1_01.wem"
+        },
+        "8db6d2739c137f65": {
+            "hash": "8db6d2739c137f65",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_SelectOnStage_02.wem"
+        },
+        "8e2132c0e5d350d9": {
+            "hash": "8e2132c0e5d350d9",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_ElementalArt_01.wem"
+        },
+        "8e36e83d1258ebb5": {
+            "hash": "8e36e83d1258ebb5",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_fatuus_ElementalBurst_01.wem"
+        },
+        "8f6ffe3a773d18a1": {
+            "hash": "8f6ffe3a773d18a1",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_ElementalArt_01.wem"
+        },
+        "9020a720c24168ca": {
+            "hash": "9020a720c24168ca",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_HitHeavy_02.wem"
+        },
+        "90acd0fa5d12fa01": {
+            "hash": "90acd0fa5d12fa01",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Slime_01_SelectOnStage_02.wem"
+        },
+        "90b6f7ff352542b5": {
+            "hash": "90b6f7ff352542b5",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Electric_ElementalArt_01.wem"
+        },
+        "90ff9de9193bfe51": {
+            "hash": "90ff9de9193bfe51",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_HitHeavy_01.wem"
+        },
+        "92783b79c90c1b15": {
+            "hash": "92783b79c90c1b15",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_ElementalArt_01.wem"
+        },
+        "929c41e5cd4487a6": {
+            "hash": "929c41e5cd4487a6",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_Die_02.wem"
+        },
+        "92a8366f3a610e5e": {
+            "hash": "92a8366f3a610e5e",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_SelectOnStage_01.wem"
+        },
+        "92e8952b1eab12f7": {
+            "hash": "92e8952b1eab12f7",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_HitHeavy_01.wem"
+        },
+        "9319ab365a5d121c": {
+            "hash": "9319ab365a5d121c",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_ElementalBurst_03.wem"
+        },
+        "933fc6b6e175dccb": {
+            "hash": "933fc6b6e175dccb",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_HitHeavy_01.wem"
+        },
+        "9369ced6b11fa1a5": {
+            "hash": "9369ced6b11fa1a5",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_Die_01.wem"
+        },
+        "9383f32662ef1345": {
+            "hash": "9383f32662ef1345",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_RuggieroRanged_Die_01.wem"
+        },
+        "93b56179d45768b2": {
+            "hash": "93b56179d45768b2",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_Die_02.wem"
+        },
+        "9468f2c88bf69425": {
+            "hash": "9468f2c88bf69425",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_HitHeavy_03.wem"
+        },
+        "94c1981962ba13e9": {
+            "hash": "94c1981962ba13e9",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Escadron_Ice_01_ElementalArt_01.wem"
+        },
+        "94e375e6087cae39": {
+            "hash": "94e375e6087cae39",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Riftstalker_Electric_ElementalArt_01.wem"
+        },
+        "9549c2e9baf530cb": {
+            "hash": "9549c2e9baf530cb",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_Die_01.wem"
+        },
+        "956c33c630148ba2": {
+            "hash": "956c33c630148ba2",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_HitHeavy_02.wem"
+        },
+        "9578a135d020e0f9": {
+            "hash": "9578a135d020e0f9",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_HitHeavy_03.wem"
+        },
+        "959a9ef69a982f04": {
+            "hash": "959a9ef69a982f04",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_HitHeavy_02.wem"
+        },
+        "9608fbafcfcee769": {
+            "hash": "9608fbafcfcee769",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Escadron_Ice_01_SelectOnStage_02.wem"
+        },
+        "960c1f8bbbe95e41": {
+            "hash": "960c1f8bbbe95e41",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Gloves_Wind_01_ElementalArt_01.wem"
+        },
+        "961feba8248f33f6": {
+            "hash": "961feba8248f33f6",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_ElementalBurst_01.wem"
+        },
+        "973939fb5fcdfe90": {
+            "hash": "973939fb5fcdfe90",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_01_HitHeavy_02.wem"
+        },
+        "97a71e53b191bdb6": {
+            "hash": "97a71e53b191bdb6",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_Die_02.wem"
+        },
+        "97f3e9415b7ad9e7": {
+            "hash": "97f3e9415b7ad9e7",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_ElementalBurst_02.wem"
+        },
+        "98d2b726e498d36a": {
+            "hash": "98d2b726e498d36a",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Electric_SelectOnStage_01.wem"
+        },
+        "99189f9fdb84b6bb": {
+            "hash": "99189f9fdb84b6bb",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Fire_Rush_Die_03.wem"
+        },
+        "993bb799a5b17c7e": {
+            "hash": "993bb799a5b17c7e",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_SelectOnStage_01.wem"
+        },
+        "9a298b0847fba326": {
+            "hash": "9a298b0847fba326",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_HitHeavy_04.wem"
+        },
+        "9b22761b68375d0a": {
+            "hash": "9b22761b68375d0a",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Fire_SelectOnStage_01.wem"
+        },
+        "9b584365b7a50c55": {
+            "hash": "9b584365b7a50c55",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_SeaHorsePrimo_ElementalBurst_02.wem"
+        },
+        "9b70d34995dd11b0": {
+            "hash": "9b70d34995dd11b0",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_ElementalBurst_01.wem"
+        },
+        "9bb57af0a0cd3019": {
+            "hash": "9bb57af0a0cd3019",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_ElementalArt_01.wem"
+        },
+        "9cb0064e9158064f": {
+            "hash": "9cb0064e9158064f",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_SelectOnStage_02.wem"
+        },
+        "9e91599ad08c0c53": {
+            "hash": "9e91599ad08c0c53",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_HitHeavy_02.wem"
+        },
+        "9f0a71c5f66c4a76": {
+            "hash": "9f0a71c5f66c4a76",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Mimik_Fire_SelectOnStage_01.wem"
+        },
+        "9f359a493b0a1556": {
+            "hash": "9f359a493b0a1556",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_Die_02.wem"
+        },
+        "a0dd2811426002c1": {
+            "hash": "a0dd2811426002c1",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_GatorSacred_SelectOnStage_02.wem"
+        },
+        "a0ed4c6c33eab998": {
+            "hash": "a0ed4c6c33eab998",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Narcissusborn_SelectOnStage_01.wem"
+        },
+        "a10b2f8aa57feb6a": {
+            "hash": "a10b2f8aa57feb6a",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Water_01_ElementalArt_02.wem"
+        },
+        "a1719dd7403e6430": {
+            "hash": "a1719dd7403e6430",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Oceanid_battle_hit_H_01.wem"
+        },
+        "a1f3c274a12432c8": {
+            "hash": "a1f3c274a12432c8",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_HitHeavy_02.wem"
+        },
+        "a2f8a027da930ada": {
+            "hash": "a2f8a027da930ada",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Planelurker_ElementalBurst_01.wem"
+        },
+        "a32538b5b934165e": {
+            "hash": "a32538b5b934165e",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Chrysopelea_Sacred_Die_02.wem"
+        },
+        "a349d6398747e51b": {
+            "hash": "a349d6398747e51b",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_Die_02.wem"
+        },
+        "a373397e28a07682": {
+            "hash": "a373397e28a07682",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_ElementalBurst_01.wem"
+        },
+        "a498a1c561788671": {
+            "hash": "a498a1c561788671",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_ElementalBurst_02.wem"
+        },
+        "a4c3cb382c02737c": {
+            "hash": "a4c3cb382c02737c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Water_01_HitHeavy_02.wem"
+        },
+        "a4c91f4d5941153b": {
+            "hash": "a4c91f4d5941153b",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Fire_HitHeavy_01.wem"
+        },
+        "a6955c536092f892": {
+            "hash": "a6955c536092f892",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Glaive_01_HitHeavy_02.wem"
+        },
+        "a718d46330adc996": {
+            "hash": "a718d46330adc996",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Electric_ElementalBurst_01.wem"
+        },
+        "a79294bf6b411361": {
+            "hash": "a79294bf6b411361",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fungus_Raptor_01_ElementalArt_01.wem"
+        },
+        "a8ab890a2e71440d": {
+            "hash": "a8ab890a2e71440d",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_ElementalArt_01.wem"
+        },
+        "a8fbc10a6c1280d8": {
+            "hash": "a8fbc10a6c1280d8",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_HermitCrabPrimo_SelectOnStage_01.wem"
+        },
+        "a909c5426212a120": {
+            "hash": "a909c5426212a120",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_InvokerHerald_Water_SelectOnStage_01.wem"
+        },
+        "aa4614d75eb9ff09": {
+            "hash": "aa4614d75eb9ff09",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_SeaHorsePrimo_Die_01.wem"
+        },
+        "aa8844cf06f3acc2": {
+            "hash": "aa8844cf06f3acc2",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_ElementalArt_02.wem"
+        },
+        "aae4517cb6749a5e": {
+            "hash": "aae4517cb6749a5e",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Gloves_Wind_01_SelectOnStage_01.wem"
+        },
+        "ab279f0ad730a8ca": {
+            "hash": "ab279f0ad730a8ca",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_SelectOnStage_01.wem"
+        },
+        "ab5a15b682119efe": {
+            "hash": "ab5a15b682119efe",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fungus_Raptor_01_Die_02.wem"
+        },
+        "ab65deafad62c9e8": {
+            "hash": "ab65deafad62c9e8",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Escadron_Ice_01_ExtraSkill_1_01.wem"
+        },
+        "ac52190f6212b46e": {
+            "hash": "ac52190f6212b46e",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Planelurker_SelectOnStage_01.wem"
+        },
+        "ac5c1256cb368c0b": {
+            "hash": "ac5c1256cb368c0b",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_InvokerHerald_Water_Die_01.wem"
+        },
+        "ac645b2162d71afe": {
+            "hash": "ac645b2162d71afe",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Ice_HitHeavy_02.wem"
+        },
+        "ad22ef8ddeeffb1c": {
+            "hash": "ad22ef8ddeeffb1c",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_SelectOnStage_01.wem"
+        },
+        "ad3e116cf6079307": {
+            "hash": "ad3e116cf6079307",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_ElementalArt_01.wem"
+        },
+        "ad4ed145cdf0e5e0": {
+            "hash": "ad4ed145cdf0e5e0",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_MachinaIustitia_Pylon_SelectOnStage_01.wem"
+        },
+        "ae97f3affbac7035": {
+            "hash": "ae97f3affbac7035",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Escadron_Ice_01_ElementalBurst_02.wem"
+        },
+        "aec6f717c5ee092e": {
+            "hash": "aec6f717c5ee092e",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Ptahur_Devourer_SelectOnStage_01.wem"
+        },
+        "aefbe81b7eca52c6": {
+            "hash": "aefbe81b7eca52c6",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_ElementalArt_02.wem"
+        },
+        "af0b41c4454ce671": {
+            "hash": "af0b41c4454ce671",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_PushDagger_01_ExtraSkill_1_01.wem"
+        },
+        "b0b13649165a7276": {
+            "hash": "b0b13649165a7276",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Defender_SelectOnStage_01.wem"
+        },
+        "b1b14a069ba22538": {
+            "hash": "b1b14a069ba22538",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_SelectOnStage_03.wem"
+        },
+        "b22de967c17fe9e5": {
+            "hash": "b22de967c17fe9e5",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_HilistrayWater_Die_01.wem"
+        },
+        "b244fb1c0ed31454": {
+            "hash": "b244fb1c0ed31454",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Katar_01_ElementalBurst_01.wem"
+        },
+        "b269f78d06d9acad": {
+            "hash": "b269f78d06d9acad",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_HitHeavy_03.wem"
+        },
+        "b3ce08170b0b93d1": {
+            "hash": "b3ce08170b0b93d1",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Oracle_01_HitHeavy_02.wem"
+        },
+        "b4adc6ba3d17d65b": {
+            "hash": "b4adc6ba3d17d65b",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_Die_01.wem"
+        },
+        "b53521a164b5e558": {
+            "hash": "b53521a164b5e558",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Electric_HitHeavy_02.wem"
+        },
+        "b567f515164626e5": {
+            "hash": "b567f515164626e5",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_ElementalBurst_02.wem"
+        },
+        "b58b2e790ba89526": {
+            "hash": "b58b2e790ba89526",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_SeaHorsePrimo_SelectOnStage_01.wem"
+        },
+        "b5c4ff79928d87ac": {
+            "hash": "b5c4ff79928d87ac",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_ExtraSkill_1_01.wem"
+        },
+        "b6c77987d865c0df": {
+            "hash": "b6c77987d865c0df",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_ElementalBurst_02.wem"
+        },
+        "b84628148318a1c3": {
+            "hash": "b84628148318a1c3",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_Die_01.wem"
+        },
+        "b847293aa0441869": {
+            "hash": "b847293aa0441869",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_HitHeavy_01.wem"
+        },
+        "b86b451d31c9f946": {
+            "hash": "b86b451d31c9f946",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_SelectOnStage_01.wem"
+        },
+        "b879b336272017de": {
+            "hash": "b879b336272017de",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Club_HitHeavy_02.wem"
+        },
+        "b906f852b2e7f00d": {
+            "hash": "b906f852b2e7f00d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Gloves_Wind_01_ElementalBurst_02.wem"
+        },
+        "b93317f8e9135040": {
+            "hash": "b93317f8e9135040",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Scorpion_Sacred_SelectOnStage_01.wem"
+        },
+        "b93cb2cbea7b4a75": {
+            "hash": "b93cb2cbea7b4a75",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_Die_03.wem"
+        },
+        "b9999d8d214abc51": {
+            "hash": "b9999d8d214abc51",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_Die_01.wem"
+        },
+        "b9e21886c225d597": {
+            "hash": "b9e21886c225d597",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_ElementalArt_01.wem"
+        },
+        "b9fa0ac288e12f9a": {
+            "hash": "b9fa0ac288e12f9a",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Glaive_01_ExtraSkill_1_01.wem"
+        },
+        "ba72380a460702b7": {
+            "hash": "ba72380a460702b7",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_HitHeavy_01.wem"
+        },
+        "ba986c22b490a326": {
+            "hash": "ba986c22b490a326",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_Harbinger_SelectOnStage_01.wem"
+        },
+        "ba98a4419da77c23": {
+            "hash": "ba98a4419da77c23",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_Die_02.wem"
+        },
+        "bad238ed7cc9b411": {
+            "hash": "bad238ed7cc9b411",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Planelurker_Die_01.wem"
+        },
+        "bb65a16e132bdcf1": {
+            "hash": "bb65a16e132bdcf1",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_SelectOnStage_02.wem"
+        },
+        "bb8e0b542afcca17": {
+            "hash": "bb8e0b542afcca17",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_HitHeavy_01.wem"
+        },
+        "bb98c3b0a6fdb326": {
+            "hash": "bb98c3b0a6fdb326",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_ElementalArt_02.wem"
+        },
+        "bc01beb5b8bc4752": {
+            "hash": "bc01beb5b8bc4752",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Electric_Die_02.wem"
+        },
+        "bc5c0b2da9dffd03": {
+            "hash": "bc5c0b2da9dffd03",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_Die_03.wem"
+        },
+        "bd0f30976ef0e724": {
+            "hash": "bd0f30976ef0e724",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Electric_HitHeavy_02.wem"
+        },
+        "bd325e3d3e23c408": {
+            "hash": "bd325e3d3e23c408",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_ElementalBurst_01.wem"
+        },
+        "bd85f73f5461fb3d": {
+            "hash": "bd85f73f5461fb3d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_Die_01.wem"
+        },
+        "bd921423e65bb6e7": {
+            "hash": "bd921423e65bb6e7",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_HitHeavy_01.wem"
+        },
+        "bd96a742988bea10": {
+            "hash": "bd96a742988bea10",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_HitHeavy_02.wem"
+        },
+        "be1387611607e34c": {
+            "hash": "be1387611607e34c",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_SelectOnStage_03.wem"
+        },
+        "be3bcc2689f8fc59": {
+            "hash": "be3bcc2689f8fc59",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_Die_01.wem"
+        },
+        "be5b993952f02329": {
+            "hash": "be5b993952f02329",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_Die_01.wem"
+        },
+        "bef27db350cbc86c": {
+            "hash": "bef27db350cbc86c",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dahaka_ExtraSkill_1_01.wem"
+        },
+        "bf1a1ec877b8da97": {
+            "hash": "bf1a1ec877b8da97",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_HookwalkerPrimo_SelectOnStage_02.wem"
+        },
+        "bf4849e48348a099": {
+            "hash": "bf4849e48348a099",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_SelectOnStage_02.wem"
+        },
+        "bfdc3cab3602c86e": {
+            "hash": "bfdc3cab3602c86e",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ningyo_SelectOnStage_01.wem"
+        },
+        "c0040eaf24a384ee": {
+            "hash": "c0040eaf24a384ee",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_PushDagger_01_HitHeavy_01.wem"
+        },
+        "c01df765d861f131": {
+            "hash": "c01df765d861f131",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_HitHeavy_03.wem"
+        },
+        "c0355cdbf6539bb7": {
+            "hash": "c0355cdbf6539bb7",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Oceanid_ExtraSkill_02.wem"
+        },
+        "c0552e2bbb2078ec": {
+            "hash": "c0552e2bbb2078ec",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_HitHeavy_02.wem"
+        },
+        "c08f39aff1a843f9": {
+            "hash": "c08f39aff1a843f9",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_ElementalArt_01.wem"
+        },
+        "c0c170c671b0d792": {
+            "hash": "c0c170c671b0d792",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_ElementalBurst_02.wem"
+        },
+        "c100ddfe01f777e0": {
+            "hash": "c100ddfe01f777e0",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_SelectOnStage_01.wem"
+        },
+        "c142d092daaa2f61": {
+            "hash": "c142d092daaa2f61",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_ElementalBurst_02.wem"
+        },
+        "c17b41c50e1e0dd7": {
+            "hash": "c17b41c50e1e0dd7",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Female_Dancer_Die_01.wem"
+        },
+        "c1d064f40b9fc12c": {
+            "hash": "c1d064f40b9fc12c",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_HitHeavy_01.wem"
+        },
+        "c20539bf17184464": {
+            "hash": "c20539bf17184464",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_HookwalkerPrimo_Die_02.wem"
+        },
+        "c417c7a91c86d516": {
+            "hash": "c417c7a91c86d516",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_HitHeavy_02.wem"
+        },
+        "c4457fb2713d71c5": {
+            "hash": "c4457fb2713d71c5",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Water_HitHeavy_01.wem"
+        },
+        "c50c30c6bc61bf8b": {
+            "hash": "c50c30c6bc61bf8b",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_SlimeWater_SelectOnStage_01.wem"
+        },
+        "c55d6827cf640fe5": {
+            "hash": "c55d6827cf640fe5",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_ExtraSkill_2_01.wem"
+        },
+        "c57b3f80ca8b0f95": {
+            "hash": "c57b3f80ca8b0f95",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Elec_01_Die_01.wem"
+        },
+        "c580ef0de462cabe": {
+            "hash": "c580ef0de462cabe",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_ElementalBurst_01.wem"
+        },
+        "c591209f50e6770a": {
+            "hash": "c591209f50e6770a",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_ElementalBurst_02.wem"
+        },
+        "c5c9afb5fec255c5": {
+            "hash": "c5c9afb5fec255c5",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Water_01_SelectOnStage_02.wem"
+        },
+        "c605e884acac7f5e": {
+            "hash": "c605e884acac7f5e",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_Die_02.wem"
+        },
+        "c67ff709b20d74c7": {
+            "hash": "c67ff709b20d74c7",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_fatuus_SelectOnStage_01.wem"
+        },
+        "c69075f58ed92656": {
+            "hash": "c69075f58ed92656",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_SelectOnStage_01.wem"
+        },
+        "c69d0a917621efd2": {
+            "hash": "c69d0a917621efd2",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_SelectOnStage_01.wem"
+        },
+        "c7738252128a82e9": {
+            "hash": "c7738252128a82e9",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Electric_ElementalArt_01.wem"
+        },
+        "c7c62ea320a299a4": {
+            "hash": "c7c62ea320a299a4",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_SelectOnStage_03.wem"
+        },
+        "c9c05d299097fdef": {
+            "hash": "c9c05d299097fdef",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_HitHeavy_03.wem"
+        },
+        "c9d6ae771d6dc617": {
+            "hash": "c9d6ae771d6dc617",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Ice_Range_SelectOnStage_02.wem"
+        },
+        "caba8230121f3c87": {
+            "hash": "caba8230121f3c87",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_HitHeavy_01.wem"
+        },
+        "cbe36e41bc9f87a1": {
+            "hash": "cbe36e41bc9f87a1",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_HitHeavy_03.wem"
+        },
+        "cd65fcd513c47d87": {
+            "hash": "cd65fcd513c47d87",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_Die_03.wem"
+        },
+        "cda71fdb538a46d2": {
+            "hash": "cda71fdb538a46d2",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_SelectOnStage_01.wem"
+        },
+        "ce8ee8e6be44c8a1": {
+            "hash": "ce8ee8e6be44c8a1",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_Die_01.wem"
+        },
+        "ce8fbab5030b9567": {
+            "hash": "ce8fbab5030b9567",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_Die_01.wem"
+        },
+        "cefdcd9198732aed": {
+            "hash": "cefdcd9198732aed",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Water_01_ElementalArt_01.wem"
+        },
+        "cf2d4ef743ca4724": {
+            "hash": "cf2d4ef743ca4724",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Glaive_01_ElementalBurst_01.wem"
+        },
+        "cf415164d2f49444": {
+            "hash": "cf415164d2f49444",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Fire_HitHeavy_02.wem"
+        },
+        "cf8c8350065b691a": {
+            "hash": "cf8c8350065b691a",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_SelectOnStage_01.wem"
+        },
+        "cfe69d5d6e21308a": {
+            "hash": "cfe69d5d6e21308a",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Water_01_Die_02.wem"
+        },
+        "d00d84b12c37d596": {
+            "hash": "d00d84b12c37d596",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Riftstalker_Electric_SelectOnStage_01.wem"
+        },
+        "d04ce2c91938b521": {
+            "hash": "d04ce2c91938b521",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_01_ElementalArt_01.wem"
+        },
+        "d0a4272686216b2a": {
+            "hash": "d0a4272686216b2a",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_ElementalBurst_01.wem"
+        },
+        "d10e02da04726b63": {
+            "hash": "d10e02da04726b63",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_RockShield_Die_01.wem"
+        },
+        "d118764814f51c85": {
+            "hash": "d118764814f51c85",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_RockShield_SelectOnStage_04.wem"
+        },
+        "d20b4a59bf47afff": {
+            "hash": "d20b4a59bf47afff",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_RockShield_SelectOnStage_02.wem"
+        },
+        "d230d628b86a13cb": {
+            "hash": "d230d628b86a13cb",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_HitHeavy_01.wem"
+        },
+        "d28aa3d44084ff1f": {
+            "hash": "d28aa3d44084ff1f",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_HitHeavy_01.wem"
+        },
+        "d28eb6ed27a0bd08": {
+            "hash": "d28eb6ed27a0bd08",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_RuggieroMelee_SelectOnStage_01.wem"
+        },
+        "d2b7f1e517961048": {
+            "hash": "d2b7f1e517961048",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_InvokerHerald_Water_ElementalBurst_01.wem"
+        },
+        "d303d525fbe6727f": {
+            "hash": "d303d525fbe6727f",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_HitHeavy_01.wem"
+        },
+        "d30ec1493ea1e24e": {
+            "hash": "d30ec1493ea1e24e",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_Die_02.wem"
+        },
+        "d35a023a62eacb25": {
+            "hash": "d35a023a62eacb25",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_HitHeavy_03.wem"
+        },
+        "d426d07a83c420b4": {
+            "hash": "d426d07a83c420b4",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_fatuus_Die_01.wem"
+        },
+        "d56dd59eda4392a7": {
+            "hash": "d56dd59eda4392a7",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Ice_SelectOnStage_02.wem"
+        },
+        "d56ddc52eb22bcbe": {
+            "hash": "d56ddc52eb22bcbe",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_ElementalArt_02.wem"
+        },
+        "d6330814069f3cbe": {
+            "hash": "d6330814069f3cbe",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Rifle_Fire_SelectOnStage_01.wem"
+        },
+        "d69b508d1d6b4e59": {
+            "hash": "d69b508d1d6b4e59",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Defender_Die_01.wem"
+        },
+        "d71bd8e16f800313": {
+            "hash": "d71bd8e16f800313",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_HitHeavy_01.wem"
+        },
+        "d73cef1cd070c9e4": {
+            "hash": "d73cef1cd070c9e4",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Kairagi_Fire_01_ElementalArt_02.wem"
+        },
+        "d7689ee4ccedf8a8": {
+            "hash": "d7689ee4ccedf8a8",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_ExtraSkill_1_01.wem"
+        },
+        "d78a31b54b3bad85": {
+            "hash": "d78a31b54b3bad85",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Ice_Die_03.wem"
+        },
+        "d80c0bd35b979a3d": {
+            "hash": "d80c0bd35b979a3d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_Die_01.wem"
+        },
+        "d819975a97168d33": {
+            "hash": "d819975a97168d33",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Water_SelectOnStage_02.wem"
+        },
+        "d83cc6771aabd18a": {
+            "hash": "d83cc6771aabd18a",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_Die_02.wem"
+        },
+        "d845c4f31a02010d": {
+            "hash": "d845c4f31a02010d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_HitHeavy_03.wem"
+        },
+        "d919abcf3f81f8ec": {
+            "hash": "d919abcf3f81f8ec",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Narcissusborn_Die_02.wem"
+        },
+        "d933169a6e7e645a": {
+            "hash": "d933169a6e7e645a",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Ice_Shield_ElementalArt_02.wem"
+        },
+        "d975170b7ee07b5e": {
+            "hash": "d975170b7ee07b5e",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_InvokerHerald_Water_HitHeavy_02.wem"
+        },
+        "d9b0e4e38d1f2346": {
+            "hash": "d9b0e4e38d1f2346",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_ElementalArt_01.wem"
+        },
+        "da65382a15735507": {
+            "hash": "da65382a15735507",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_SelectOnStage_01.wem"
+        },
+        "daa42e8fc2410df1": {
+            "hash": "daa42e8fc2410df1",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_ElementalArt_01.wem"
+        },
+        "dafb14383bb97179": {
+            "hash": "dafb14383bb97179",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_Die_03.wem"
+        },
+        "db8e243bbff3a021": {
+            "hash": "db8e243bbff3a021",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_SelectOnStage_03.wem"
+        },
+        "db996e6e15d43e51": {
+            "hash": "db996e6e15d43e51",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Summoner_ElementalArt_01.wem"
+        },
+        "dcff640036348d9a": {
+            "hash": "dcff640036348d9a",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_SelectOnStage_04.wem"
+        },
+        "dd673866a8f1ea08": {
+            "hash": "dd673866a8f1ea08",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_SelectOnStage_01.wem"
+        },
+        "dd7ad38f1a0ace17": {
+            "hash": "dd7ad38f1a0ace17",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Gloves_Wind_01_HitHeavy_01.wem"
+        },
+        "dda98533e4f8ff22": {
+            "hash": "dda98533e4f8ff22",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_Die_03.wem"
+        },
+        "dde0e7165816fd11": {
+            "hash": "dde0e7165816fd11",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Planelurker_SelectOnStage_02.wem"
+        },
+        "ded269458f793cf4": {
+            "hash": "ded269458f793cf4",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_Die_01.wem"
+        },
+        "df5b76fe436c234b": {
+            "hash": "df5b76fe436c234b",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_ElementalBurst_03.wem"
+        },
+        "df744bc43bdd1076": {
+            "hash": "df744bc43bdd1076",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Mage_Ice_SelectOnStage_01.wem"
+        },
+        "df9551bdc828b0ab": {
+            "hash": "df9551bdc828b0ab",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Scorpion_Sacred_Die_01.wem"
+        },
+        "e041695edfa5c907": {
+            "hash": "e041695edfa5c907",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Club_SelectOnStage_02.wem"
+        },
+        "e069f5b22443315a": {
+            "hash": "e069f5b22443315a",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_ElementalArt_02.wem"
+        },
+        "e072d4e44ea5e662": {
+            "hash": "e072d4e44ea5e662",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Riftstalker_Electric_ElementalBurst_01.wem"
+        },
+        "e07d9b45a2750533": {
+            "hash": "e07d9b45a2750533",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Invoker_Deacon_Fire_Die_01.wem"
+        },
+        "e084a30fedecdaa5": {
+            "hash": "e084a30fedecdaa5",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_ElementalBurst_01.wem"
+        },
+        "e0bf7531a8905c54": {
+            "hash": "e0bf7531a8905c54",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_PushDagger_01_ElementalArt_01.wem"
+        },
+        "e18257976fdb9c1d": {
+            "hash": "e18257976fdb9c1d",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_SelectOnStage_02.wem"
+        },
+        "e211719fbceb5aa2": {
+            "hash": "e211719fbceb5aa2",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_SelectOnStage_01.wem"
+        },
+        "e23b607277214434": {
+            "hash": "e23b607277214434",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Water_ElementalBurst_01.wem"
+        },
+        "e2b1ab643e2bcbaa": {
+            "hash": "e2b1ab643e2bcbaa",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_02_Die_02.wem"
+        },
+        "e2de192d05fb0828": {
+            "hash": "e2de192d05fb0828",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Riftstalker_Electric_HitHeavy_02.wem"
+        },
+        "e469e5d65ad97431": {
+            "hash": "e469e5d65ad97431",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Wind_ElementalArt_02.wem"
+        },
+        "e4e7768563c5ddba": {
+            "hash": "e4e7768563c5ddba",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Female_Dancer_HitHeavy_02.wem"
+        },
+        "e4f2f38a2e351c5f": {
+            "hash": "e4f2f38a2e351c5f",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_SelectOnStage_02.wem"
+        },
+        "e507a9b9ff191d5e": {
+            "hash": "e507a9b9ff191d5e",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Chrysopelea_Sacred_SelectOnStage_01.wem"
+        },
+        "e5214a21bfe98dd0": {
+            "hash": "e5214a21bfe98dd0",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_HitHeavy_02.wem"
+        },
+        "e5facf98ac0ad87b": {
+            "hash": "e5facf98ac0ad87b",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Necalevia_Die_01.wem"
+        },
+        "e60cd864af2cbcc4": {
+            "hash": "e60cd864af2cbcc4",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_ElementalBurst_03.wem"
+        },
+        "e61c077f75c196c1": {
+            "hash": "e61c077f75c196c1",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Effigy_Water_Die_01.wem"
+        },
+        "e66540103513c37e": {
+            "hash": "e66540103513c37e",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fungus_Raptor_01_SelectOnStage_01.wem"
+        },
+        "e7202ca8c3c12f72": {
+            "hash": "e7202ca8c3c12f72",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_Harbinger_ElementalBurst_01.wem"
+        },
+        "e7407c197ade7216": {
+            "hash": "e7407c197ade7216",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dvalin_ElementalBurst_01.wem"
+        },
+        "e828c7cd35d432c6": {
+            "hash": "e828c7cd35d432c6",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_01_ElementalBurst_01.wem"
+        },
+        "e86933de4163ab5e": {
+            "hash": "e86933de4163ab5e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Gloves_Wind_01_Die_02.wem"
+        },
+        "e9301a60afe9f3c6": {
+            "hash": "e9301a60afe9f3c6",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_ElementalBurst_01.wem"
+        },
+        "e9bcefe688bec319": {
+            "hash": "e9bcefe688bec319",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Samurai_Ronin_03_HitHeavy_03.wem"
+        },
+        "e9ca38cf969b7454": {
+            "hash": "e9ca38cf969b7454",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_HitHeavy_02.wem"
+        },
+        "eaad6b7e0ab4542a": {
+            "hash": "eaad6b7e0ab4542a",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_SelectOnStage_03.wem"
+        },
+        "eac6ff4834b16796": {
+            "hash": "eac6ff4834b16796",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Riftstalker_Electric_Die_02.wem"
+        },
+        "eae46ef3703626d0": {
+            "hash": "eae46ef3703626d0",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Oceanid_ExtraSkill_01.wem"
+        },
+        "eaf74373f0de277f": {
+            "hash": "eaf74373f0de277f",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_ElementalArt_01.wem"
+        },
+        "eb3315899f293319": {
+            "hash": "eb3315899f293319",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_RockShield_HitHeavy_01.wem"
+        },
+        "eb810e6323900d33": {
+            "hash": "eb810e6323900d33",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Katar_01_ElementalArt_01.wem"
+        },
+        "ec87c30de5432ecb": {
+            "hash": "ec87c30de5432ecb",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_MachinaIustitia_Pylon_Die_01.wem"
+        },
+        "ecc8243a5b9b94f2": {
+            "hash": "ecc8243a5b9b94f2",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Fire_Die_02.wem"
+        },
+        "ee245559e68ef268": {
+            "hash": "ee245559e68ef268",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Ice_ElementalBurst_01.wem"
+        },
+        "eeb47b5a10ce3680": {
+            "hash": "eeb47b5a10ce3680",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_Staff_Rock_ElementalBurst_01.wem"
+        },
+        "ef284e9155473aab": {
+            "hash": "ef284e9155473aab",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_ElementalBurst_02.wem"
+        },
+        "ef3ca471d24cbf1e": {
+            "hash": "ef3ca471d24cbf1e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_GatorSacred_Die_02.wem"
+        },
+        "efdd51ce5ed56fc5": {
+            "hash": "efdd51ce5ed56fc5",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Electric_Range_HitHeavy_01.wem"
+        },
+        "f04a44776bd92301": {
+            "hash": "f04a44776bd92301",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_SelectOnStage_02.wem"
+        },
+        "f142e25f73db4e0a": {
+            "hash": "f142e25f73db4e0a",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_SprayGun_Ice_ElementalBurst_01.wem"
+        },
+        "f17aff5ac85f2b4d": {
+            "hash": "f17aff5ac85f2b4d",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dahaka_ElementalArt_01.wem"
+        },
+        "f183754dcfca28ed": {
+            "hash": "f183754dcfca28ed",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Club_SelectOnStage_04.wem"
+        },
+        "f192dcb61aa7cd91": {
+            "hash": "f192dcb61aa7cd91",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_PushDagger_01_HitHeavy_02.wem"
+        },
+        "f195d96650b1a082": {
+            "hash": "f195d96650b1a082",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Water_Die_02.wem"
+        },
+        "f1a343fe6229cfbb": {
+            "hash": "f1a343fe6229cfbb",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_Fire_Rush_HitHeavy_01.wem"
+        },
+        "f205a71d5943cdbe": {
+            "hash": "f205a71d5943cdbe",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Oceanid_SelectOnStage_01.wem"
+        },
+        "f367dea160b2b63a": {
+            "hash": "f367dea160b2b63a",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Fatuus_Maiden_Water_ElementalBurst_01.wem"
+        },
+        "f376c5a1d444b521": {
+            "hash": "f376c5a1d444b521",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Axe_SelectOnStage_02.wem"
+        },
+        "f449f8f5d83d6468": {
+            "hash": "f449f8f5d83d6468",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_ElementalArt_03.wem"
+        },
+        "f4b0ec95c9b2f5ec": {
+            "hash": "f4b0ec95c9b2f5ec",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hound_Riftstalker_Rock_HitHeavy_02.wem"
+        },
+        "f580dcb52e738383": {
+            "hash": "f580dcb52e738383",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_Oracle_01_ElementalBurst_01.wem"
+        },
+        "f6295d52a5917e2e": {
+            "hash": "f6295d52a5917e2e",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Dahaka_ElementalBurst_01.wem"
+        },
+        "f62b93bc3bcd378e": {
+            "hash": "f62b93bc3bcd378e",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_MachinaIustitia_Bradamante_SelectOnStage_01.wem"
+        },
+        "f6fc64d785fdcfe8": {
+            "hash": "f6fc64d785fdcfe8",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_HitHeavy_02.wem"
+        },
+        "f72d363ca7025a6a": {
+            "hash": "f72d363ca7025a6a",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Oceanid_ElementalBurst_01.wem"
+        },
+        "f7cf35668944d43a": {
+            "hash": "f7cf35668944d43a",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_RuggieroRanged_SelectOnStage_01.wem"
+        },
+        "f81ff659b28bfd0c": {
+            "hash": "f81ff659b28bfd0c",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_Die_01.wem"
+        },
+        "fab0c46a8454eb43": {
+            "hash": "fab0c46a8454eb43",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Eremite_PushDagger_01_ElementalBurst_01.wem"
+        },
+        "fabdca2d69e9b566": {
+            "hash": "fabdca2d69e9b566",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_LaSignora_ElementalBurst_03.wem"
+        },
+        "fb18f673ba455326": {
+            "hash": "fb18f673ba455326",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_None_Shield_SelectOnStage_01.wem"
+        },
+        "fbf255b8847fde6a": {
+            "hash": "fbf255b8847fde6a",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Rock_ElementalArt_02.wem"
+        },
+        "fcdaa6365b9c3c86": {
+            "hash": "fcdaa6365b9c3c86",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Abyss_Electric_Die_02.wem"
+        },
+        "fcfcbe3008f71cdd": {
+            "hash": "fcfcbe3008f71cdd",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Planelurker_ElementalBurst_02.wem"
+        },
+        "fde4578657615aa5": {
+            "hash": "fde4578657615aa5",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Skirmisher_GreatHammer_Electric_ElementalBurst_02.wem"
+        },
+        "fe1a6da01d6dd57f": {
+            "hash": "fe1a6da01d6dd57f",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Brute_Electric_Axe_ElementalArt_03.wem"
+        },
+        "fe3f2229e6674e91": {
+            "hash": "fe3f2229e6674e91",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Hili_None_01_Range_SelectOnStage_03.wem"
+        },
+        "ff01de3ea68f216b": {
+            "hash": "ff01de3ea68f216b",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_GCG_monster_Shaman_Grass_HitHeavy_02.wem"
+        }
+    }
+}

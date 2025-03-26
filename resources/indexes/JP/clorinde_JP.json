@@ -1,17 +1,354 @@
 {
-    "Teapot": {},
+    "Teapot": {
+        "0a2b101b88dcdfcd": {
+            "hash": "0a2b101b88dcdfcd",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_02.wem"
+        },
+        "11e93d1df6260826": {
+            "hash": "11e93d1df6260826",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02b_1.wem"
+        },
+        "12eed0e2a71bcdb2": {
+            "hash": "12eed0e2a71bcdb2",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03b_3.wem"
+        },
+        "19f024efdcb8475b": {
+            "hash": "19f024efdcb8475b",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship1_02.wem"
+        },
+        "1b84493e198b84ca": {
+            "hash": "1b84493e198b84ca",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02a_2.wem"
+        },
+        "29d077051e0956a5": {
+            "hash": "29d077051e0956a5",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02a_9.wem"
+        },
+        "2dbd5b46795ec161": {
+            "hash": "2dbd5b46795ec161",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_clorinde_outskirts_02.wem"
+        },
+        "31c03e7134d378da": {
+            "hash": "31c03e7134d378da",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_hello_02.wem"
+        },
+        "342e8f0c574e8e89": {
+            "hash": "342e8f0c574e8e89",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03b_4.wem"
+        },
+        "3cc4c767c9bf8b81": {
+            "hash": "3cc4c767c9bf8b81",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02a_5.wem"
+        },
+        "43ec844cb7a33d75": {
+            "hash": "43ec844cb7a33d75",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_01.wem"
+        },
+        "45a7c2fb47a2740f": {
+            "hash": "45a7c2fb47a2740f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03b_6.wem"
+        },
+        "47b262339dc160de": {
+            "hash": "47b262339dc160de",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_05.wem"
+        },
+        "4c4296454b270180": {
+            "hash": "4c4296454b270180",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_07.wem"
+        },
+        "572f6dfb0436dfeb": {
+            "hash": "572f6dfb0436dfeb",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship1_04b.wem"
+        },
+        "57c9d54f0d61672f": {
+            "hash": "57c9d54f0d61672f",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_clorinde_office_02.wem"
+        },
+        "602a572b4c0a51a8": {
+            "hash": "602a572b4c0a51a8",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship1_05.wem"
+        },
+        "60edacfd123f8cb2": {
+            "hash": "60edacfd123f8cb2",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02b_5.wem"
+        },
+        "63ecc0bd5e600a6a": {
+            "hash": "63ecc0bd5e600a6a",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03a_4.wem"
+        },
+        "7f31bd0c28ae36d4": {
+            "hash": "7f31bd0c28ae36d4",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02a_8.wem"
+        },
+        "7fee014d814cf7e0": {
+            "hash": "7fee014d814cf7e0",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_clorinde_outskirts_03.wem"
+        },
+        "809d52d5612eea07": {
+            "hash": "809d52d5612eea07",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03a_1.wem"
+        },
+        "81c63ee70baf3521": {
+            "hash": "81c63ee70baf3521",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03a_3.wem"
+        },
+        "81e092712e3c85c1": {
+            "hash": "81e092712e3c85c1",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02a_10.wem"
+        },
+        "822d6b26c2724d89": {
+            "hash": "822d6b26c2724d89",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02b_2.wem"
+        },
+        "8413f2121f056eca": {
+            "hash": "8413f2121f056eca",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_01.wem"
+        },
+        "865ff5135f3e0bc8": {
+            "hash": "865ff5135f3e0bc8",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03b_5.wem"
+        },
+        "8bc45c7963378add": {
+            "hash": "8bc45c7963378add",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_hello_01.wem"
+        },
+        "8cf25b589059bae7": {
+            "hash": "8cf25b589059bae7",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02a_7.wem"
+        },
+        "92b38b0408733395": {
+            "hash": "92b38b0408733395",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02b_6.wem"
+        },
+        "94e242da63e9a3fb": {
+            "hash": "94e242da63e9a3fb",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03b_2.wem"
+        },
+        "97fbb2f81fe8be12": {
+            "hash": "97fbb2f81fe8be12",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship1_03.wem"
+        },
+        "9c8bd709cd4e44e4": {
+            "hash": "9c8bd709cd4e44e4",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship1_01.wem"
+        },
+        "9d0b7b35d5fdced3": {
+            "hash": "9d0b7b35d5fdced3",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02a_3.wem"
+        },
+        "a19b67478362f5cd": {
+            "hash": "a19b67478362f5cd",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02a_1.wem"
+        },
+        "a554703bcf397581": {
+            "hash": "a554703bcf397581",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_06.wem"
+        },
+        "a929fc020bf75da2": {
+            "hash": "a929fc020bf75da2",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship1_04c.wem"
+        },
+        "aa52e013b6779b74": {
+            "hash": "aa52e013b6779b74",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship1_04a.wem"
+        },
+        "bf5b74f1dd9ed504": {
+            "hash": "bf5b74f1dd9ed504",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03b_1.wem"
+        },
+        "cab5a510c071186f": {
+            "hash": "cab5a510c071186f",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship1_06.wem"
+        },
+        "d2a673574dde1346": {
+            "hash": "d2a673574dde1346",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_clorinde_office_03.wem"
+        },
+        "d3824d3e4acb87be": {
+            "hash": "d3824d3e4acb87be",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_clorinde_outskirts_01.wem"
+        },
+        "d45ed12dca61cac8": {
+            "hash": "d45ed12dca61cac8",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02b_3.wem"
+        },
+        "d75de4ee168247a0": {
+            "hash": "d75de4ee168247a0",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03a_2.wem"
+        },
+        "d9a8cebbcb06e23f": {
+            "hash": "d9a8cebbcb06e23f",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_night_01.wem"
+        },
+        "df22b95f984776de": {
+            "hash": "df22b95f984776de",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02a_6.wem"
+        },
+        "e2e11ef4cf0d62fb": {
+            "hash": "e2e11ef4cf0d62fb",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02b_4.wem"
+        },
+        "e3b2ed7145ad1780": {
+            "hash": "e3b2ed7145ad1780",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship2_02a_4.wem"
+        },
+        "e573f2b51ad25473": {
+            "hash": "e573f2b51ad25473",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_03a_5.wem"
+        },
+        "ed3f876998fc5468": {
+            "hash": "ed3f876998fc5468",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_clorinde_office_01.wem"
+        },
+        "f582042c95d3a4e7": {
+            "hash": "f582042c95d3a4e7",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_friendship3_04.wem"
+        },
+        "f7ee1ea03522fa25": {
+            "hash": "f7ee1ea03522fa25",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_mimitomo_morning_01.wem"
+        }
+    },
     "Quests": {
+        "0179d8fad5ffb7ab": {
+            "hash": "0179d8fad5ffb7ab",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_5_clorinde_01.wem"
+        },
+        "046ff722c1a6b116": {
+            "hash": "046ff722c1a6b116",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_5_clorinde_04.wem"
+        },
         "138d8d4882f7466d": {
             "hash": "138d8d4882f7466d",
             "directory": "External2",
             "voiceContent": "先に進んでもこれ以上の情報は得られそうにない。今はそこへ向かうべきではないと、ファントムハンターたちは考えた",
             "sourceName": "vo_CLLQ002_23_clorinde_01.wem"
         },
+        "58044b138b254f34": {
+            "hash": "58044b138b254f34",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_5_clorinde_02.wem"
+        },
         "5a6b2e84401158d6": {
             "hash": "5a6b2e84401158d6",
             "directory": "External11",
             "voiceContent": "次の戦闘を開始する",
             "sourceName": "vo_CLLQ002_19_clorinde_01.wem"
+        },
+        "b14c850a0f65f585": {
+            "hash": "b14c850a0f65f585",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_5_clorinde_03.wem"
         }
     },
     "Gameplay": {
@@ -73,7 +410,7 @@
             "hash": "0a87201bb05568c7",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_hit_l_05.wem"
+            "sourceName": "vo_clorinde_battle_hit_L_05.wem"
         },
         "0d5bdc1f3b613ffe": {
             "hash": "0d5bdc1f3b613ffe",
@@ -133,7 +470,7 @@
             "hash": "1f302c0aa35ea3ad",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_hit_l_03.wem"
+            "sourceName": "vo_clorinde_battle_hit_L_03.wem"
         },
         "21b98dcfc4cae3da": {
             "hash": "21b98dcfc4cae3da",
@@ -141,11 +478,17 @@
             "voiceContent": "戦闘において、あなたに私の助けがいるとは思わないけど…もし私の力が必要な時があれば、いつも通り全力を尽くすつもりだ",
             "sourceName": "vo_clorinde_starUp_04.wem"
         },
+        "241a6a5ad96d0951": {
+            "hash": "241a6a5ad96d0951",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_clorinde_invite_easy_03.wem"
+        },
         "27ea53cbbbe0f6cc": {
             "hash": "27ea53cbbbe0f6cc",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_hit_h_06.wem"
+            "sourceName": "vo_clorinde_battle_hit_H_06.wem"
         },
         "285978867925133d": {
             "hash": "285978867925133d",
@@ -157,7 +500,7 @@
             "hash": "2ce4cbf7babff8a7",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attacklight_03.wem"
+            "sourceName": "vo_clorinde_battle_attackLight_03.wem"
         },
         "2e6bd60ad4d1bccd": {
             "hash": "2e6bd60ad4d1bccd",
@@ -169,7 +512,7 @@
             "hash": "2ec6ad075a9f6e0b",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attackmid_01.wem"
+            "sourceName": "vo_clorinde_battle_attackMid_01.wem"
         },
         "2f335c9a3d39c798": {
             "hash": "2f335c9a3d39c798",
@@ -181,7 +524,7 @@
             "hash": "2ff0d9190521d965",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attackmid_03.wem"
+            "sourceName": "vo_clorinde_battle_attackMid_03.wem"
         },
         "3027ce311fc11949": {
             "hash": "3027ce311fc11949",
@@ -201,6 +544,12 @@
             "voiceContent": "下がれ",
             "sourceName": "vo_clorinde_life_less30_teammate_01.wem"
         },
+        "37b260b127ffadd1": {
+            "hash": "37b260b127ffadd1",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_pref_birthday_01b.wem"
+        },
         "38e1c80ead84458c": {
             "hash": "38e1c80ead84458c",
             "directory": "External7",
@@ -211,7 +560,7 @@
             "hash": "39634fbaac347c9a",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_hit_h_04.wem"
+            "sourceName": "vo_clorinde_battle_hit_H_04.wem"
         },
         "3cc790155864b487": {
             "hash": "3cc790155864b487",
@@ -223,7 +572,7 @@
             "hash": "3cfdebd500640c93",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attacklight_07.wem"
+            "sourceName": "vo_clorinde_battle_attackLight_07.wem"
         },
         "3e0ee77c878dfa9b": {
             "hash": "3e0ee77c878dfa9b",
@@ -241,7 +590,7 @@
             "hash": "3e27d7e6aae60a8d",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attacklight_05.wem"
+            "sourceName": "vo_clorinde_battle_attackLight_05.wem"
         },
         "3f38d38e320ff8b5": {
             "hash": "3f38d38e320ff8b5",
@@ -265,7 +614,7 @@
             "hash": "4805c1cd9baf3b39",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attackheavy_02.wem"
+            "sourceName": "vo_clorinde_battle_attackHeavy_02.wem"
         },
         "4a778aaac95eb64e": {
             "hash": "4a778aaac95eb64e",
@@ -331,13 +680,13 @@
             "hash": "5aa30de45c673d91",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_hit_h_03.wem"
+            "sourceName": "vo_clorinde_battle_hit_H_03.wem"
         },
         "6147b23465a8c660": {
             "hash": "6147b23465a8c660",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_hit_l_06.wem"
+            "sourceName": "vo_clorinde_battle_hit_L_06.wem"
         },
         "6157d587d58febc2": {
             "hash": "6157d587d58febc2",
@@ -350,6 +699,12 @@
             "directory": "External12",
             "voiceContent": "ナヴィアは最近機嫌がとてもいい。数日おきに、新しいテーブルゲームのシナリオをやるために、私を「テーブルトークシアター倶楽部」へ引っ張って行くんだ。シナリオのジャンルは何でもありだ。ゲームマスターを数回担当した以外に、プレイヤーとしても何度か一緒に冒険した。ただ、空気が重くならないように、法廷と関係のあるキャラはなるべく演じないようにしている",
             "sourceName": "vo_clorinde_teammate_navia_01.wem"
+        },
+        "64d68b08d9285d68": {
+            "hash": "64d68b08d9285d68",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_clorinde_endOfGame_win_01.wem"
         },
         "666dfe15bf742d87": {
             "hash": "666dfe15bf742d87",
@@ -385,7 +740,7 @@
             "hash": "72c3bffb6cdbfb33",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_hit_l_01.wem"
+            "sourceName": "vo_clorinde_battle_hit_L_01.wem"
         },
         "77666b4c7facff5e": {
             "hash": "77666b4c7facff5e",
@@ -393,11 +748,17 @@
             "voiceContent": "雨の日は休もうと獲物は思うかもしれないが、狩人がそうするわけにはいかない",
             "sourceName": "vo_clorinde_weather_heavyRain_01.wem"
         },
+        "77adfe4ba2ea60b7": {
+            "hash": "77adfe4ba2ea60b7",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_clorinde_invite_easy_01.wem"
+        },
         "7f1629fec2af679e": {
             "hash": "7f1629fec2af679e",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attacklight_02.wem"
+            "sourceName": "vo_clorinde_battle_attackLight_02.wem"
         },
         "7f3293b182e136d9": {
             "hash": "7f3293b182e136d9",
@@ -409,7 +770,7 @@
             "hash": "81eb1f200ce1dc94",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attackmid_02.wem"
+            "sourceName": "vo_clorinde_battle_attackMid_02.wem"
         },
         "83e82e6a74316ea9": {
             "hash": "83e82e6a74316ea9",
@@ -428,6 +789,12 @@
             "directory": "External16",
             "voiceContent": "SFX",
             "sourceName": "vo_clorinde_explore_idle_02.wem"
+        },
+        "86042eb32314e393": {
+            "hash": "86042eb32314e393",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_clorinde_freetalk_01.wem"
         },
         "862533fd03d57788": {
             "hash": "862533fd03d57788",
@@ -465,6 +832,12 @@
             "voiceContent": "私が引き受ける",
             "sourceName": "vo_clorinde_life_less30_teammate_02.wem"
         },
+        "9796aa43e3040767": {
+            "hash": "9796aa43e3040767",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_clorinde_invite_hard_02.wem"
+        },
         "998a941abf071a35": {
             "hash": "998a941abf071a35",
             "directory": "External19",
@@ -483,11 +856,23 @@
             "voiceContent": "うっ",
             "sourceName": "vo_card_clorinde_inGame_easy_02.wem"
         },
+        "a25d10631cccebd0": {
+            "hash": "a25d10631cccebd0",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_clorinde_invite_easy_02.wem"
+        },
         "a854b8016afa4bca": {
             "hash": "a854b8016afa4bca",
             "directory": "External21",
             "voiceContent": "思いがけない幸運だな、悪くない",
             "sourceName": "vo_clorinde_chest_open_01.wem"
+        },
+        "aa996ad7afb72590": {
+            "hash": "aa996ad7afb72590",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_clorinde_leave_01.wem"
         },
         "aad8d2846e2833ac": {
             "hash": "aad8d2846e2833ac",
@@ -511,7 +896,7 @@
             "hash": "ae37a1d525e648f7",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_hit_h_01.wem"
+            "sourceName": "vo_clorinde_battle_hit_H_01.wem"
         },
         "b04c121381c22f1c": {
             "hash": "b04c121381c22f1c",
@@ -541,13 +926,13 @@
             "hash": "b4dbfe252f27563e",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_hit_l_04.wem"
+            "sourceName": "vo_clorinde_battle_hit_L_04.wem"
         },
         "b811b9dd41104c8a": {
             "hash": "b811b9dd41104c8a",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attacklight_06.wem"
+            "sourceName": "vo_clorinde_battle_attackLight_06.wem"
         },
         "ba9fc77e59d0178b": {
             "hash": "ba9fc77e59d0178b",
@@ -595,7 +980,7 @@
             "hash": "c2e267d5dc2bf4b8",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attackheavy_03.wem"
+            "sourceName": "vo_clorinde_battle_attackHeavy_03.wem"
         },
         "c41c2aa36ceb3901": {
             "hash": "c41c2aa36ceb3901",
@@ -649,7 +1034,7 @@
             "hash": "d2a9bdef8c2cbffc",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attacklight_04.wem"
+            "sourceName": "vo_clorinde_battle_attackLight_04.wem"
         },
         "d3ddfa1775d8e4e1": {
             "hash": "d3ddfa1775d8e4e1",
@@ -661,7 +1046,7 @@
             "hash": "d7c193c4cf62f5d6",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attackheavy_01.wem"
+            "sourceName": "vo_clorinde_battle_attackHeavy_01.wem"
         },
         "d8e5b3ec9fc72010": {
             "hash": "d8e5b3ec9fc72010",
@@ -673,7 +1058,7 @@
             "hash": "d9513806f142a141",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_attacklight_01.wem"
+            "sourceName": "vo_clorinde_battle_attackLight_01.wem"
         },
         "df54b0701008f6da": {
             "hash": "df54b0701008f6da",
@@ -691,13 +1076,37 @@
             "hash": "e6fc01b3a41799e3",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_clorinde_battle_hit_h_05.wem"
+            "sourceName": "vo_clorinde_battle_hit_H_05.wem"
+        },
+        "e9c7084aeaf1c35e": {
+            "hash": "e9c7084aeaf1c35e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_clorinde_invite_hard_03.wem"
         },
         "eb042c964d8ce817": {
             "hash": "eb042c964d8ce817",
             "directory": "External29",
             "voiceContent": "SFX",
             "sourceName": "vo_clorinde_explore_jump_02.wem"
+        },
+        "ecaa68dd6f6f2218": {
+            "hash": "ecaa68dd6f6f2218",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_teammate_emilie_01.wem"
+        },
+        "ee573c5c98576400": {
+            "hash": "ee573c5c98576400",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_clorinde_invite_hard_01.wem"
+        },
+        "f50a967aec1faa94": {
+            "hash": "f50a967aec1faa94",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_clorinde_endOfGame_fail_01.wem"
         },
         "f5861305fd07735b": {
             "hash": "f5861305fd07735b",

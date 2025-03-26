@@ -344,17 +344,107 @@
             "voiceContent": "The soldiers are rallying... Your warrior's will is bringing them hope, Traveler..",
             "sourceName": "vo_DQAQ010_15_gorou_14.wem"
         },
+        "3004ae5e3950d7ac": {
+            "hash": "3004ae5e3950d7ac",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_08.wem"
+        },
+        "401d9e3b7ef49a08": {
+            "hash": "401d9e3b7ef49a08",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_04.wem"
+        },
+        "5101e54762256612": {
+            "hash": "5101e54762256612",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_gorou_03.wem"
+        },
+        "5206ec0286850e3b": {
+            "hash": "5206ec0286850e3b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_03.wem"
+        },
+        "559209590f8aece4": {
+            "hash": "559209590f8aece4",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_gorou_01.wem"
+        },
+        "61b32d06a773d0c2": {
+            "hash": "61b32d06a773d0c2",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_gorou_01.wem"
+        },
+        "7a130ebab62c2994": {
+            "hash": "7a130ebab62c2994",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_gorou_01.wem"
+        },
+        "7da90a2baaba8b66": {
+            "hash": "7da90a2baaba8b66",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_06.wem"
+        },
         "88e10518eb2e90bb": {
             "hash": "88e10518eb2e90bb",
             "directory": "External17",
             "voiceContent": "Look! That's two rounds in a row",
             "sourceName": "vo_DQAQ010_15_gorou_12.wem"
         },
+        "9ee8c8555aed4c7d": {
+            "hash": "9ee8c8555aed4c7d",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_09.wem"
+        },
         "b359373064e20fc4": {
             "hash": "b359373064e20fc4",
             "directory": "External22",
             "voiceContent": "Be wary, you're up against a powerful opponent",
             "sourceName": "vo_DQAQ010_15_gorou_11.wem"
+        },
+        "ccad7a0ac6d40ff2": {
+            "hash": "ccad7a0ac6d40ff2",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_02.wem"
+        },
+        "d2f6573f1ef4ef5b": {
+            "hash": "d2f6573f1ef4ef5b",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_gorou_02.wem"
+        },
+        "eded38347706d0c9": {
+            "hash": "eded38347706d0c9",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_05.wem"
+        },
+        "f382eb333042bae6": {
+            "hash": "f382eb333042bae6",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_4_gorou_01.wem"
+        },
+        "fe735811bd07b6d5": {
+            "hash": "fe735811bd07b6d5",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_01.wem"
+        },
+        "ff666c23675ab64f": {
+            "hash": "ff666c23675ab64f",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_07.wem"
         }
     },
     "Gameplay": {
@@ -458,19 +548,19 @@
             "hash": "1fc152dbfeff80e0",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_04.wem"
+            "sourceName": "vo_gorou_battle_hit_L_04.wem"
         },
         "207f285086196335": {
             "hash": "207f285086196335",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_05.wem"
+            "sourceName": "vo_gorou_battle_hit_H_05.wem"
         },
         "21c495d747a3ce7e": {
             "hash": "21c495d747a3ce7e",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackmid_02.wem"
+            "sourceName": "vo_gorou_battle_attackMid_02.wem"
         },
         "2369a92bf131bb22": {
             "hash": "2369a92bf131bb22",
@@ -482,13 +572,13 @@
             "hash": "23aef2bf045d580b",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_01.wem"
+            "sourceName": "vo_gorou_battle_attackLight_01.wem"
         },
         "24d91ed0aedfc365": {
             "hash": "24d91ed0aedfc365",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_03.wem"
+            "sourceName": "vo_gorou_battle_attackLight_03.wem"
         },
         "2cd89f90df7b8609": {
             "hash": "2cd89f90df7b8609",
@@ -506,7 +596,7 @@
             "hash": "313d60a30632b5b3",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_03.wem"
+            "sourceName": "vo_gorou_battle_hit_L_03.wem"
         },
         "331b3c1062be80e6": {
             "hash": "331b3c1062be80e6",
@@ -538,11 +628,11 @@
             "voiceContent": "Fall back",
             "sourceName": "vo_gorou_life_less30_teammate_01.wem"
         },
-        "3afe3d6e33fc5f8d": {
-            "hash": "3afe3d6e33fc5f8d",
+        "3aff48b7d7f97ff8": {
+            "hash": "3aff48b7d7f97ff8",
             "directory": "External7",
-            "voiceContent": "Oh, I feel invigorated! Is there anything I can help you with",
-            "sourceName": "vo_gorou_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_hard_01.wem"
         },
         "3c42330766297385": {
             "hash": "3c42330766297385",
@@ -560,7 +650,7 @@
             "hash": "3da7b77081f88f67",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackheavy_02.wem"
+            "sourceName": "vo_gorou_battle_attackHeavy_02.wem"
         },
         "3e51d37fcfcf6b8f": {
             "hash": "3e51d37fcfcf6b8f",
@@ -616,6 +706,12 @@
             "voiceContent": "Ugh, my tail's getting wet... Let's find a fire and dry off",
             "sourceName": "vo_gorou_weather_heavyRain_01.wem"
         },
+        "4c7874a6c84d5716": {
+            "hash": "4c7874a6c84d5716",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_hard_03.wem"
+        },
         "50cd8db08f18da96": {
             "hash": "50cd8db08f18da96",
             "directory": "External10",
@@ -668,7 +764,7 @@
             "hash": "668464fa70ce59d8",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_06.wem"
+            "sourceName": "vo_gorou_battle_attackLight_06.wem"
         },
         "674d68c0a857e0d8": {
             "hash": "674d68c0a857e0d8",
@@ -722,31 +818,31 @@
             "hash": "73559eccc87e10be",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_06.wem"
+            "sourceName": "vo_gorou_battle_hit_L_06.wem"
         },
         "76d364d7b69fc694": {
             "hash": "76d364d7b69fc694",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_02.wem"
+            "sourceName": "vo_gorou_battle_attackLight_02.wem"
         },
         "7ad6b7cdcbb6bc07": {
             "hash": "7ad6b7cdcbb6bc07",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackmid_03.wem"
+            "sourceName": "vo_gorou_battle_attackMid_03.wem"
         },
         "7b6390e964055af6": {
             "hash": "7b6390e964055af6",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_04.wem"
+            "sourceName": "vo_gorou_battle_attackLight_04.wem"
         },
         "7bffa3df76370721": {
             "hash": "7bffa3df76370721",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackmid_01.wem"
+            "sourceName": "vo_gorou_battle_attackMid_01.wem"
         },
         "7efe5ef1a20cb492": {
             "hash": "7efe5ef1a20cb492",
@@ -765,6 +861,12 @@
             "directory": "External15",
             "voiceContent": "Just a minor setback",
             "sourceName": "vo_card_gorou_inGame_easy_02.wem"
+        },
+        "80d29f5e136d0dff": {
+            "hash": "80d29f5e136d0dff",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_gorou_02.wem"
         },
         "821fabef7ed80572": {
             "hash": "821fabef7ed80572",
@@ -796,6 +898,12 @@
             "voiceContent": "Hmm, according to our intel, she is a ninja proficient in the art of infiltration — a skill set which could prove very useful in some of Her Excellency's special operations... However, our intel also indicates that she could be difficult to recruit as she is rather unruly, and often disappears without a trace. Hmm? She's with the Yashiro Commission? Oh, well forget it then",
             "sourceName": "vo_gorou_teammate_sayu_01.wem"
         },
+        "8df0aeedfaab25c9": {
+            "hash": "8df0aeedfaab25c9",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_easy_03.wem"
+        },
         "8f59edb2e961db32": {
             "hash": "8f59edb2e961db32",
             "directory": "External17",
@@ -812,7 +920,7 @@
             "hash": "8fd8157789e64b5e",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackheavy_03.wem"
+            "sourceName": "vo_gorou_battle_attackHeavy_03.wem"
         },
         "94366bc7a94ae4f6": {
             "hash": "94366bc7a94ae4f6",
@@ -824,7 +932,7 @@
             "hash": "94684989374bec00",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackheavy_01.wem"
+            "sourceName": "vo_gorou_battle_attackHeavy_01.wem"
         },
         "982ac2204d29de64": {
             "hash": "982ac2204d29de64",
@@ -842,7 +950,7 @@
             "hash": "9d61ca471ec98fd2",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_06.wem"
+            "sourceName": "vo_gorou_battle_hit_H_06.wem"
         },
         "9da6bee6e1fa5a2a": {
             "hash": "9da6bee6e1fa5a2a",
@@ -860,7 +968,13 @@
             "hash": "9e8aee58c94a39a4",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_04.wem"
+            "sourceName": "vo_gorou_battle_hit_H_04.wem"
+        },
+        "9f69e2dceaff0b4f": {
+            "hash": "9f69e2dceaff0b4f",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_easy_01.wem"
         },
         "a35f6a192f0ac649": {
             "hash": "a35f6a192f0ac649",
@@ -916,23 +1030,23 @@
             "voiceContent": "Follow my lead",
             "sourceName": "vo_gorou_explore_sprint_start_01.wem"
         },
-        "b6d85b03ecee9e33": {
-            "hash": "b6d85b03ecee9e33",
-            "directory": "External22",
-            "voiceContent": "Mm! I become powerless in the face of sweets",
-            "sourceName": "vo_gorou_spice_event_pref_01.wem"
-        },
         "b9904d2313b2da00": {
             "hash": "b9904d2313b2da00",
             "directory": "External23",
             "voiceContent": "Charge",
             "sourceName": "vo_gorou_battle_skill1_02.wem"
         },
+        "bac1a0743cb755ec": {
+            "hash": "bac1a0743cb755ec",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_endOfGame_fail_01.wem"
+        },
         "bb3b8870cc1927a9": {
             "hash": "bb3b8870cc1927a9",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_01.wem"
+            "sourceName": "vo_gorou_battle_hit_H_01.wem"
         },
         "bc912d36a4232652": {
             "hash": "bc912d36a4232652",
@@ -945,6 +1059,12 @@
             "directory": "External23",
             "voiceContent": "For... Watatsumi Island..",
             "sourceName": "vo_gorou_life_die_02.wem"
+        },
+        "bcf50390b8d08ed0": {
+            "hash": "bcf50390b8d08ed0",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_endOfGame_win_01.wem"
         },
         "bdba51484ea3d024": {
             "hash": "bdba51484ea3d024",
@@ -1004,7 +1124,7 @@
             "hash": "cd90acd4f7114a61",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_05.wem"
+            "sourceName": "vo_gorou_battle_hit_L_05.wem"
         },
         "cf005cedd7d275ad": {
             "hash": "cf005cedd7d275ad",
@@ -1016,13 +1136,13 @@
             "hash": "d01abc5fbf50362f",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_03.wem"
+            "sourceName": "vo_gorou_battle_hit_H_03.wem"
         },
         "d10e72dfe533005f": {
             "hash": "d10e72dfe533005f",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_05.wem"
+            "sourceName": "vo_gorou_battle_attackLight_05.wem"
         },
         "d22dcc0cfd06aa52": {
             "hash": "d22dcc0cfd06aa52",
@@ -1052,7 +1172,13 @@
             "hash": "dda9ccb23cb55e2d",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_01.wem"
+            "sourceName": "vo_gorou_battle_hit_L_01.wem"
+        },
+        "e02114f50298ef08": {
+            "hash": "e02114f50298ef08",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_easy_02.wem"
         },
         "e107f7b87275bf7a": {
             "hash": "e107f7b87275bf7a",
@@ -1082,7 +1208,13 @@
             "hash": "e841bef22d6e7759",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_07.wem"
+            "sourceName": "vo_gorou_battle_attackLight_07.wem"
+        },
+        "e9eb6eb8d1f3532b": {
+            "hash": "e9eb6eb8d1f3532b",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_freetalk_01.wem"
         },
         "f58fd02036f88f88": {
             "hash": "f58fd02036f88f88",
@@ -1090,17 +1222,23 @@
             "voiceContent": "At first, our only enemies were roaming bandits, pirates, and monsters. But then, everything changed when the Raiden Shogun enacted the Vision Hunt Decree. The Shogun's Army marched up expecting to put us in our place, but we were ready for them, and we hit them hard. Hehe, I bet they never expected to meet such fierce resistance",
             "sourceName": "vo_gorou_friendship_03.wem"
         },
-        "f662f1a3c416762b": {
-            "hash": "f662f1a3c416762b",
-            "directory": "External30",
-            "voiceContent": "It's a little spicier than I expected... *sniff* I—I don't think I can keep going",
-            "sourceName": "vo_gorou_spice_event_dislike_01.wem"
-        },
         "f730626ad9ac5ef7": {
             "hash": "f730626ad9ac5ef7",
             "directory": "External30",
             "voiceContent": "The key to seizing victory in battle lies in remembering the meaning of battle and employing the right tactics to generate momentum, making your forces unstoppable",
             "sourceName": "vo_gorou_starUp_03.wem"
+        },
+        "f9188874d412f7e8": {
+            "hash": "f9188874d412f7e8",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_leave_01.wem"
+        },
+        "fa47d69fc05f2eff": {
+            "hash": "fa47d69fc05f2eff",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_hard_02.wem"
         },
         "fc36e93fdb5df7db": {
             "hash": "fc36e93fdb5df7db",

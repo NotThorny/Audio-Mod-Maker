@@ -308,6 +308,18 @@
         }
     },
     "Quests": {
+        "008387259daf1b46": {
+            "hash": "008387259daf1b46",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_03.wem"
+        },
+        "1b1c9b37e8cd5c68": {
+            "hash": "1b1c9b37e8cd5c68",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_01.wem"
+        },
         "2110bc7d5a9b730b": {
             "hash": "2110bc7d5a9b730b",
             "directory": "External4",
@@ -319,6 +331,12 @@
             "directory": "External14",
             "voiceContent": "机关的核心暴露出来了，趁现在",
             "sourceName": "vo_SHLQ002_5_shenhe_02.wem"
+        },
+        "85a6e91d5d326f2f": {
+            "hash": "85a6e91d5d326f2f",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_02.wem"
         }
     },
     "Gameplay": {
@@ -340,11 +358,23 @@
             "voiceContent": "人们所谓的财富，对我而言没什么用。但到了凝光小姐手里，却能解决连刀枪都无法处理的难题。她能掌握人间规则，洞察人心…师父说，这些连仙人都无法做到。我很佩服她",
             "sourceName": "vo_shenhe_teammate_ningguang_01.wem"
         },
+        "09852fd419280815": {
+            "hash": "09852fd419280815",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_03.wem"
+        },
         "09d9bf35486e46a6": {
             "hash": "09d9bf35486e46a6",
             "directory": "External1",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_jump_05.wem"
+        },
+        "0a4cb0507ca71145": {
+            "hash": "0a4cb0507ca71145",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_11.wem"
         },
         "0aa218f20f46caad": {
             "hash": "0aa218f20f46caad",
@@ -358,17 +388,35 @@
             "voiceContent": "也好。这样的味道，我早就熟悉了",
             "sourceName": "vo_shenhe_spice_dislike_01.wem"
         },
+        "0cdf119d86447593": {
+            "hash": "0cdf119d86447593",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_04.wem"
+        },
         "0d18c80522b02b82": {
             "hash": "0d18c80522b02b82",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_06.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_06.wem"
         },
         "0dc3c55678a811f8": {
             "hash": "0dc3c55678a811f8",
             "directory": "External1",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_climb_04.wem"
+        },
+        "0e08fdaf30c6738d": {
+            "hash": "0e08fdaf30c6738d",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_06.wem"
+        },
+        "0ea6846229de7fbf": {
+            "hash": "0ea6846229de7fbf",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_17.wem"
         },
         "0efd0d2258024a68": {
             "hash": "0efd0d2258024a68",
@@ -392,7 +440,7 @@
             "hash": "11b0ebfad4b00a50",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_02.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_02.wem"
         },
         "128a529ba188755d": {
             "hash": "128a529ba188755d",
@@ -406,6 +454,12 @@
             "voiceContent": "有一回，我瞒着师父偷偷下山回到村里，却发现原本的村庄荒弃了，父亲早已去世。我突然明白，自己与血亲的缘分彻底断绝了。在乎的往事永无后话。自那日起，我一度舍弃人间种种…直到遇见你",
             "sourceName": "vo_shenhe_friendship_05.wem"
         },
+        "1332869bc06288dc": {
+            "hash": "1332869bc06288dc",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_18.wem"
+        },
         "16c4184268ecf8bb": {
             "hash": "16c4184268ecf8bb",
             "directory": "External2",
@@ -416,7 +470,13 @@
             "hash": "17263a1c8aa9289f",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_03.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_03.wem"
+        },
+        "1ab6f01f543ba56b": {
+            "hash": "1ab6f01f543ba56b",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_10.wem"
         },
         "1bf6dd04a6c111b7": {
             "hash": "1bf6dd04a6c111b7",
@@ -424,11 +484,23 @@
             "voiceContent": "磨砺自身，修炼方术，都是本能使然，想要保全自己而已。我没有兼济苍生的胸怀，惩奸除恶只是顺手，不必感谢我",
             "sourceName": "vo_shenhe_dialog_idle.wem"
         },
+        "1bff503a5b44821b": {
+            "hash": "1bff503a5b44821b",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_03.wem"
+        },
         "1c46d31d7d54efab": {
             "hash": "1c46d31d7d54efab",
             "directory": "External3",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_climb_03.wem"
+        },
+        "1d293c4c05c68035": {
+            "hash": "1d293c4c05c68035",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_01.wem"
         },
         "1d42043035e60adf": {
             "hash": "1d42043035e60adf",
@@ -448,11 +520,29 @@
             "voiceContent": "下山期间尝了不少菜，但都不太记得味道了。唯独从前在家吃的那碗面，永远忘不了…不该记住才对，不该记住才对",
             "sourceName": "vo_shenhe_pref_foodLike.wem"
         },
+        "1f595a8919dc2348": {
+            "hash": "1f595a8919dc2348",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_07.wem"
+        },
+        "20b9669ac48be6ba": {
+            "hash": "20b9669ac48be6ba",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_09.wem"
+        },
         "232d39c1dbe3ac23": {
             "hash": "232d39c1dbe3ac23",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_05.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_05.wem"
+        },
+        "237cbdd0670a46c2": {
+            "hash": "237cbdd0670a46c2",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_shenhe_01.wem"
         },
         "24dccbd46dc41ed4": {
             "hash": "24dccbd46dc41ed4",
@@ -482,13 +572,19 @@
             "hash": "2e58862ed2e2ec99",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_01.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_01.wem"
         },
         "347550427e2181d9": {
             "hash": "347550427e2181d9",
             "directory": "External6",
             "voiceContent": "就连学…我也学不明白这游艺",
             "sourceName": "vo_card_shenhe_invite_easy_03.wem"
+        },
+        "36d3b1b9c5dc4343": {
+            "hash": "36d3b1b9c5dc4343",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_17.wem"
         },
         "36fb14fbda5a8425": {
             "hash": "36fb14fbda5a8425",
@@ -508,17 +604,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_fly_start_02.wem"
         },
+        "3b639dcb73416a7d": {
+            "hash": "3b639dcb73416a7d",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_15.wem"
+        },
         "3b9d1f2891e9c71b": {
             "hash": "3b9d1f2891e9c71b",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_03.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_03.wem"
         },
         "3cc70b3a3c6bc535": {
             "hash": "3cc70b3a3c6bc535",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_01.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_01.wem"
         },
         "41356daaebd383fb": {
             "hash": "41356daaebd383fb",
@@ -526,11 +628,29 @@
             "voiceContent": "和你对局就好多了。和别人较量的时候，我总是难以放松心情",
             "sourceName": "vo_card_shenhe_freetalk_01.wem"
         },
+        "45da617c04a4ee5f": {
+            "hash": "45da617c04a4ee5f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_08.wem"
+        },
         "46ce68ef2be0b6d2": {
             "hash": "46ce68ef2be0b6d2",
             "directory": "External8",
             "voiceContent": "师父若知道了，怕是会让我多系几根红绳吧",
             "sourceName": "vo_shenhe_starUp_02.wem"
+        },
+        "47a16e637f79ff46": {
+            "hash": "47a16e637f79ff46",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_06.wem"
+        },
+        "4bf7f67a3e95a7b8": {
+            "hash": "4bf7f67a3e95a7b8",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_14.wem"
         },
         "4cb99f1bd190ed60": {
             "hash": "4cb99f1bd190ed60",
@@ -550,11 +670,23 @@
             "voiceContent": "请不必在意人们对我的称呼，我不是仙人，也没什么神通。生于驱魔世家的旁系，长在远离璃月港的山间，只能算是个仙家弟子，仅此而已",
             "sourceName": "vo_shenhe_friendship_01.wem"
         },
+        "4ef74fc7488fd09e": {
+            "hash": "4ef74fc7488fd09e",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_01.wem"
+        },
         "4f4d3c518c613bad": {
             "hash": "4f4d3c518c613bad",
             "directory": "External9",
             "voiceContent": "团队作战…是什么意思",
             "sourceName": "vo_shenhe_teamJoin_01.wem"
+        },
+        "502083d8f3109640": {
+            "hash": "502083d8f3109640",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_03.wem"
         },
         "50816ed86159f336": {
             "hash": "50816ed86159f336",
@@ -572,7 +704,7 @@
             "hash": "54a298c563d3ddd0",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_04.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_04.wem"
         },
         "5815727045f6c16a": {
             "hash": "5815727045f6c16a",
@@ -580,11 +712,23 @@
             "voiceContent": "为什么说「初雪多浪漫」？那处山巅日日下雪，何日才算是初雪？我不理解，请你告诉我",
             "sourceName": "vo_shenhe_pref_gift_01.wem"
         },
+        "5854da67983cec84": {
+            "hash": "5854da67983cec84",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_03.wem"
+        },
         "58de2f146487cb32": {
             "hash": "58de2f146487cb32",
             "directory": "External11",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_jump_01.wem"
+        },
+        "59b2c3c4dfc2377b": {
+            "hash": "59b2c3c4dfc2377b",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_01.wem"
         },
         "5bd6421ab72b27c2": {
             "hash": "5bd6421ab72b27c2",
@@ -592,11 +736,23 @@
             "voiceContent": "死丧既定",
             "sourceName": "vo_shenhe_life_die_02.wem"
         },
+        "5ce3c67945a060a6": {
+            "hash": "5ce3c67945a060a6",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_05.wem"
+        },
         "5d00c48ceb52d497": {
             "hash": "5d00c48ceb52d497",
             "directory": "External11",
             "voiceContent": "我来了结",
             "sourceName": "vo_shenhe_life_less30_teammate_02.wem"
+        },
+        "5de104414625af6b": {
+            "hash": "5de104414625af6b",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_13.wem"
         },
         "5e35ace2d8c42233": {
             "hash": "5e35ace2d8c42233",
@@ -614,13 +770,25 @@
             "hash": "60b48bd9f0c82d0c",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_06.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_06.wem"
+        },
+        "60d7226931cca8d6": {
+            "hash": "60d7226931cca8d6",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_16.wem"
+        },
+        "623a8275ca984068": {
+            "hash": "623a8275ca984068",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_04.wem"
         },
         "661ee68c6b077fa3": {
             "hash": "661ee68c6b077fa3",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_03.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_03.wem"
         },
         "6621762a8bb628bc": {
             "hash": "6621762a8bb628bc",
@@ -632,13 +800,19 @@
             "hash": "6789e60d51710fa5",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_05.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_05.wem"
         },
-        "6c5bb36c44e21fb8": {
-            "hash": "6c5bb36c44e21fb8",
+        "68e12c8d2facc05d": {
+            "hash": "68e12c8d2facc05d",
             "directory": "External13",
-            "voiceContent": "也好。这样的味道，我早就熟悉了",
-            "sourceName": "vo_shenhe_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_09.wem"
+        },
+        "6cb17e265bfc2322": {
+            "hash": "6cb17e265bfc2322",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_11.wem"
         },
         "6d4c3c656bb599e6": {
             "hash": "6d4c3c656bb599e6",
@@ -674,13 +848,19 @@
             "hash": "759487c8e4008fda",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_04.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_04.wem"
         },
         "77508c329b025e80": {
             "hash": "77508c329b025e80",
             "directory": "External14",
             "voiceContent": "师父赐我红绳用以压制心性，但这些日子你我同修，我才真正领悟到要诀，力量收放也更自在…你才是真正能锁住我的红绳。若你懂得这份心情，就请留在我身旁",
             "sourceName": "vo_shenhe_dialog_close1.wem"
+        },
+        "79949891486fad83": {
+            "hash": "79949891486fad83",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_08.wem"
         },
         "7a718692f29d7b26": {
             "hash": "7a718692f29d7b26",
@@ -693,6 +873,18 @@
             "directory": "External15",
             "voiceContent": "与仙人法宝有何区别",
             "sourceName": "vo_shenhe_chest_open_02.wem"
+        },
+        "7c51efe38b0ac74e": {
+            "hash": "7c51efe38b0ac74e",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_12.wem"
+        },
+        "7d7be3f5358cd2f0": {
+            "hash": "7d7be3f5358cd2f0",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_10.wem"
         },
         "7e220f45ce1888bb": {
             "hash": "7e220f45ce1888bb",
@@ -724,11 +916,23 @@
             "voiceContent": "按照凡人的做法，这种时候，是否应该…撑伞",
             "sourceName": "vo_shenhe_weather_heavyRain_01.wem"
         },
+        "842bf5dc59776884": {
+            "hash": "842bf5dc59776884",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_02.wem"
+        },
         "86c7d3be2f226296": {
             "hash": "86c7d3be2f226296",
             "directory": "External16",
             "voiceContent": "这般滋味…真的是我能够享受的吗",
             "sourceName": "vo_shenhe_spice_pref_01.wem"
+        },
+        "87f2dfa5c6f0b58a": {
+            "hash": "87f2dfa5c6f0b58a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_05.wem"
         },
         "8aa40d1b5abb7215": {
             "hash": "8aa40d1b5abb7215",
@@ -740,7 +944,7 @@
             "hash": "8af7998fda4870eb",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_02.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_02.wem"
         },
         "8b97212d050e718f": {
             "hash": "8b97212d050e718f",
@@ -776,13 +980,19 @@
             "hash": "936e45f2915027d1",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_03.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_03.wem"
         },
         "98be91fdf02d633c": {
             "hash": "98be91fdf02d633c",
             "directory": "External19",
             "voiceContent": "你做的饭菜，确实美味。无法割舍",
             "sourceName": "vo_shenhe_spice_normal_01.wem"
+        },
+        "9a0bde429e76acd2": {
+            "hash": "9a0bde429e76acd2",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_02.wem"
         },
         "9a46a55cc71592e6": {
             "hash": "9a46a55cc71592e6",
@@ -820,17 +1030,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_sprint_start_02.wem"
         },
-        "9fe8d64dc40d28ae": {
-            "hash": "9fe8d64dc40d28ae",
-            "directory": "External19",
-            "voiceContent": "这般滋味…真的是我能够享受的吗",
-            "sourceName": "vo_shenhe_spice_event_pref_01.wem"
-        },
         "a04deb0c9b0f7d3e": {
             "hash": "a04deb0c9b0f7d3e",
             "directory": "External20",
             "voiceContent": "炼气化神",
             "sourceName": "vo_shenhe_battle_skill1_04.wem"
+        },
+        "a28ae3b8120d28fc": {
+            "hash": "a28ae3b8120d28fc",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_07.wem"
         },
         "a2e0d04255de9333": {
             "hash": "a2e0d04255de9333",
@@ -848,13 +1058,19 @@
             "hash": "a83624b62d5127ae",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_06.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_06.wem"
         },
         "a8585baabeab7416": {
             "hash": "a8585baabeab7416",
             "directory": "External21",
             "voiceContent": "若是午后困乏，不妨试试打坐养神，很有效果",
             "sourceName": "vo_shenhe_dialog_greetingNoon.wem"
+        },
+        "a9325dcf77230a41": {
+            "hash": "a9325dcf77230a41",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_02.wem"
         },
         "a9e0540f5319f100": {
             "hash": "a9e0540f5319f100",
@@ -867,6 +1083,24 @@
             "directory": "External21",
             "voiceContent": "刀枪无眼，红绳的力量也有极限，所以我才不喜欢人多的地方",
             "sourceName": "vo_shenhe_character_idle_03.wem"
+        },
+        "abe8365861b9e532": {
+            "hash": "abe8365861b9e532",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_01.wem"
+        },
+        "afdb92484de62d22": {
+            "hash": "afdb92484de62d22",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_12.wem"
+        },
+        "b1047659f8666af4": {
+            "hash": "b1047659f8666af4",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_10.wem"
         },
         "b2971eeb032b578a": {
             "hash": "b2971eeb032b578a",
@@ -898,6 +1132,12 @@
             "voiceContent": "害怕失去重要之人、想要拯救重要之人…这种心情会将整颗心紧紧揪住，以前从未体会过。这是困扰，但…也是寄托",
             "sourceName": "vo_shenhe_dialog_annoyed.wem"
         },
+        "b7e59c6c4bc644a9": {
+            "hash": "b7e59c6c4bc644a9",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_05.wem"
+        },
         "b822d0544f909bb8": {
             "hash": "b822d0544f909bb8",
             "directory": "External23",
@@ -914,13 +1154,13 @@
             "hash": "b9a9ad30d51bf1d2",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_02.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_02.wem"
         },
         "bceb2c145c15efd4": {
             "hash": "bceb2c145c15efd4",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_04.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_04.wem"
         },
         "bdba59079a34065c": {
             "hash": "bdba59079a34065c",
@@ -952,12 +1192,6 @@
             "voiceContent": "人间的归宿是一种奢望，我早已习惯跟山川与鸟兽作伴了",
             "sourceName": "vo_shenhe_character_idle_01.wem"
         },
-        "c299093a8108ccd4": {
-            "hash": "c299093a8108ccd4",
-            "directory": "External24",
-            "voiceContent": "你做的饭菜，确实美味。无法割舍",
-            "sourceName": "vo_shenhe_spice_event_normal_01.wem"
-        },
         "c8c1dae6e8ae8c1b": {
             "hash": "c8c1dae6e8ae8c1b",
             "directory": "External25",
@@ -976,11 +1210,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_climb_01.wem"
         },
+        "cc7f83d451a4f5ac": {
+            "hash": "cc7f83d451a4f5ac",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_14.wem"
+        },
+        "ccc4d05b3efd532f": {
+            "hash": "ccc4d05b3efd532f",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_07.wem"
+        },
         "cd01fc4342c79cd6": {
             "hash": "cd01fc4342c79cd6",
             "directory": "External25",
             "voiceContent": "这些东西…该用到何处",
             "sourceName": "vo_shenhe_chest_open_03.wem"
+        },
+        "cd27f48211eca609": {
+            "hash": "cd27f48211eca609",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_06.wem"
         },
         "cd2f22fd4e47cafc": {
             "hash": "cd2f22fd4e47cafc",
@@ -1010,13 +1262,19 @@
             "hash": "cf98a5d11264a1dd",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_07.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_07.wem"
         },
         "d0ff94b4d58fbb95": {
             "hash": "d0ff94b4d58fbb95",
             "directory": "External26",
             "voiceContent": "天气变好，我也很开心。只希望没有人来打扰…如果有，就让他们消失好了",
             "sourceName": "vo_shenhe_weather_afterRain_01.wem"
+        },
+        "d11b5071fe18ee39": {
+            "hash": "d11b5071fe18ee39",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_15.wem"
         },
         "d2069d7c352ea642": {
             "hash": "d2069d7c352ea642",
@@ -1046,7 +1304,7 @@
             "hash": "d65ff2bd2073fb51",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_05.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_05.wem"
         },
         "dc6d56a6d934b530": {
             "hash": "dc6d56a6d934b530",
@@ -1054,17 +1312,41 @@
             "voiceContent": "不必勉强",
             "sourceName": "vo_shenhe_life_less30_teammate_01.wem"
         },
+        "dc9873b19748b808": {
+            "hash": "dc9873b19748b808",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_18.wem"
+        },
         "dcf22796e208eea2": {
             "hash": "dcf22796e208eea2",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_03.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_03.wem"
+        },
+        "ddae145f57ed8c15": {
+            "hash": "ddae145f57ed8c15",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_02.wem"
         },
         "de1b0ba88c892c74": {
             "hash": "de1b0ba88c892c74",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_01.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_01.wem"
+        },
+        "dea1287102408b8f": {
+            "hash": "dea1287102408b8f",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_04.wem"
+        },
+        "e15e7fc344dba57a": {
+            "hash": "e15e7fc344dba57a",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_16.wem"
         },
         "e4847552ecdd73f7": {
             "hash": "e4847552ecdd73f7",
@@ -1076,7 +1358,7 @@
             "hash": "e701d9e35acd7f37",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_01.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_01.wem"
         },
         "e721500552d5b88e": {
             "hash": "e721500552d5b88e",
@@ -1114,6 +1396,12 @@
             "voiceContent": "…你上次，是这么教我的",
             "sourceName": "vo_card_shenhe_inGame_hard_04.wem"
         },
+        "f02f7f85837748f6": {
+            "hash": "f02f7f85837748f6",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_09.wem"
+        },
         "f04d370271a10e78": {
             "hash": "f04d370271a10e78",
             "directory": "External30",
@@ -1144,11 +1432,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_sprint_start_03.wem"
         },
+        "f9fd12960e104b8c": {
+            "hash": "f9fd12960e104b8c",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_08.wem"
+        },
         "fa571070fce5bce5": {
             "hash": "fa571070fce5bce5",
             "directory": "External31",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_sprint_start_01.wem"
+        },
+        "fe0f51db47aaf257": {
+            "hash": "fe0f51db47aaf257",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_13.wem"
+        },
+        "ff393decf22cf071": {
+            "hash": "ff393decf22cf071",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_11.wem"
         }
     }
 }

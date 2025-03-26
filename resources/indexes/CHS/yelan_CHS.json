@@ -506,6 +506,12 @@
             "voiceContent": "#多亏有{M#他们}{F#她们}。否则，能否安全带回胡堂主，我也没把握",
             "sourceName": "vo_EQHDJ402_6_yelan_05b.wem"
         },
+        "eabf4f480b664c2e": {
+            "hash": "eabf4f480b664c2e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_CYAQ001_1_yelan_19.wem"
+        },
         "ef451fc031c20297": {
             "hash": "ef451fc031c20297",
             "directory": "External29",
@@ -548,7 +554,7 @@
             "hash": "00aef89fa7173c79",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackmid_03.wem"
+            "sourceName": "vo_yelan_battle_attackMid_03.wem"
         },
         "02c9e4123046924f": {
             "hash": "02c9e4123046924f",
@@ -578,7 +584,13 @@
             "hash": "040fe903b57c1908",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_06.wem"
+            "sourceName": "vo_yelan_battle_hit_H_06.wem"
+        },
+        "043ac6eee8383ad4": {
+            "hash": "043ac6eee8383ad4",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_endOfGame_fail_01.wem"
         },
         "06a8115e3c91e57c": {
             "hash": "06a8115e3c91e57c",
@@ -632,7 +644,7 @@
             "hash": "160b2f27183af767",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_07.wem"
+            "sourceName": "vo_yelan_battle_attackLight_07.wem"
         },
         "184ea5d8e611ca3b": {
             "hash": "184ea5d8e611ca3b",
@@ -686,7 +698,7 @@
             "hash": "26244f045ddf0b53",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_03.wem"
+            "sourceName": "vo_yelan_battle_attackLight_03.wem"
         },
         "26f6607d539374fe": {
             "hash": "26f6607d539374fe",
@@ -710,25 +722,19 @@
             "hash": "295d45af07f24cc2",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_04.wem"
+            "sourceName": "vo_yelan_battle_hit_L_04.wem"
         },
         "2ab43b160b44324d": {
             "hash": "2ab43b160b44324d",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_01.wem"
-        },
-        "2c6fdd56eb2a09b2": {
-            "hash": "2c6fdd56eb2a09b2",
-            "directory": "External5",
-            "voiceContent": "投个骰子吧？点数比我小的话…就你来吃",
-            "sourceName": "vo_yelan_spice_event_dislike_01.wem"
+            "sourceName": "vo_yelan_battle_attackLight_01.wem"
         },
         "3004b7c66d0820df": {
             "hash": "3004b7c66d0820df",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_01.wem"
+            "sourceName": "vo_yelan_battle_hit_L_01.wem"
         },
         "3097d28cf6a48018": {
             "hash": "3097d28cf6a48018",
@@ -747,6 +753,12 @@
             "directory": "External6",
             "voiceContent": "相较于一些武人，我的体能其实不算太好，这是家族遗传的毛病。处理某些不能怠慢的工作前，我会调整作息，积蓄精力，争取一次完事收工。除此之外的时间里，我会尽量保持悠哉的节奏。所以，体力活我会谢绝的",
             "sourceName": "vo_yelan_dialog_annoyed.wem"
+        },
+        "34fa350551b5a291": {
+            "hash": "34fa350551b5a291",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_easy_03.wem"
         },
         "369aa1ae8cac3af2": {
             "hash": "369aa1ae8cac3af2",
@@ -776,19 +788,19 @@
             "hash": "3e3a2c8fd2dccdff",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackmid_01.wem"
+            "sourceName": "vo_yelan_battle_attackMid_01.wem"
         },
         "407168e236c00c44": {
             "hash": "407168e236c00c44",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_02.wem"
+            "sourceName": "vo_yelan_battle_hit_H_02.wem"
         },
         "419b54f3e1420a66": {
             "hash": "419b54f3e1420a66",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_04.wem"
+            "sourceName": "vo_yelan_battle_hit_H_04.wem"
         },
         "4210fe7be6f85836": {
             "hash": "4210fe7be6f85836",
@@ -802,17 +814,11 @@
             "voiceContent": "别过分期待他人的「肺腑之言」，滑头鬼只会说你爱听的话；也别轻易迎接他人的目光，眼神最容易出卖一个人的情绪。我们怎么说都是朋友，要是你被人骗，我也会有种吃了哑巴亏的感觉呢",
             "sourceName": "vo_yelan_dialog_close1.wem"
         },
-        "43ee9977e791eaf6": {
-            "hash": "43ee9977e791eaf6",
-            "directory": "External8",
-            "voiceContent": "吃惯辣味之后，其他菜总觉得不够劲。没办法啊",
-            "sourceName": "vo_yelan_spice_event_normal_01.wem"
-        },
         "473803d8b54397d9": {
             "hash": "473803d8b54397d9",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_03.wem"
+            "sourceName": "vo_yelan_battle_hit_L_03.wem"
         },
         "474c4a7b689bd0b9": {
             "hash": "474c4a7b689bd0b9",
@@ -825,6 +831,12 @@
             "directory": "External8",
             "voiceContent": "烟绯啊，我还挺喜欢她的。不谈以前的交情，作为鼎鼎有名的律法咨询师，她是璃月港内诸多情报的交汇点。每次帮她搞定麻烦，我都能顺带收获珍贵的线索。但她似乎对我有些敬重过度了",
             "sourceName": "vo_yelan_teammate_yanfei_01.wem"
+        },
+        "49026804673bc7d3": {
+            "hash": "49026804673bc7d3",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_freetalk_01.wem"
         },
         "4b273fea7329d978": {
             "hash": "4b273fea7329d978",
@@ -866,7 +878,7 @@
             "hash": "5cfc898d2097e68a",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackheavy_01.wem"
+            "sourceName": "vo_yelan_battle_attackHeavy_01.wem"
         },
         "5d1d0f9de226f122": {
             "hash": "5d1d0f9de226f122",
@@ -902,13 +914,13 @@
             "hash": "683b8d2e2028b35e",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_06.wem"
+            "sourceName": "vo_yelan_battle_attackLight_06.wem"
         },
         "6ccbc13fcd8e5400": {
             "hash": "6ccbc13fcd8e5400",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_04.wem"
+            "sourceName": "vo_yelan_battle_attackLight_04.wem"
         },
         "70fc3f43b0c93213": {
             "hash": "70fc3f43b0c93213",
@@ -938,7 +950,7 @@
             "hash": "77948d9f6bb459fc",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackheavy_03.wem"
+            "sourceName": "vo_yelan_battle_attackHeavy_03.wem"
         },
         "77e518c20b0ecc89": {
             "hash": "77e518c20b0ecc89",
@@ -980,7 +992,7 @@
             "hash": "7ef19ea7ea771ef8",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackmid_02.wem"
+            "sourceName": "vo_yelan_battle_attackMid_02.wem"
         },
         "82760b5bedac5b8b": {
             "hash": "82760b5bedac5b8b",
@@ -992,7 +1004,7 @@
             "hash": "82a537a58c32788b",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_05.wem"
+            "sourceName": "vo_yelan_battle_hit_L_05.wem"
         },
         "83a0376d982ec6e5": {
             "hash": "83a0376d982ec6e5",
@@ -1024,6 +1036,12 @@
             "voiceContent": "嗯，手艺不错，差点就要被你贿赂成功了",
             "sourceName": "vo_yelan_spice_pref_01.wem"
         },
+        "888ec8f61b34adf7": {
+            "hash": "888ec8f61b34adf7",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_easy_01.wem"
+        },
         "890aa57487a736ba": {
             "hash": "890aa57487a736ba",
             "directory": "External17",
@@ -1054,6 +1072,18 @@
             "voiceContent": "家族的长辈们曾说，要对「护法夜叉」保持最大的敬畏。据说我那疯疯癫癫的先祖路过望舒客栈时，都会少见地安分下来，想必是被他那驱除邪祟的威压给照顾了。但若是有一天，我有幸与那位「降魔大圣」并肩作战，我还是会以任务为重，不可能因为他的身份而有所顾忌",
             "sourceName": "vo_yelan_teammate_xiao_01.wem"
         },
+        "94824bf91beb12a8": {
+            "hash": "94824bf91beb12a8",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_endOfGame_win_01.wem"
+        },
+        "9a2996c8cc32e3d0": {
+            "hash": "9a2996c8cc32e3d0",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_leave_01.wem"
+        },
         "9b22e0726b0ad99f": {
             "hash": "9b22e0726b0ad99f",
             "directory": "External19",
@@ -1076,13 +1106,19 @@
             "hash": "a49d1d0ca16cc14a",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_02.wem"
+            "sourceName": "vo_yelan_battle_attackLight_02.wem"
         },
         "a5ba778c8a74d097": {
             "hash": "a5ba778c8a74d097",
             "directory": "External20",
             "voiceContent": "在我的工作中，战斗技巧从来不可或缺",
             "sourceName": "vo_yelan_starUp_01.wem"
+        },
+        "a87674ee5b4ca0a7": {
+            "hash": "a87674ee5b4ca0a7",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_hard_02.wem"
         },
         "aa4a639e37d9f7b1": {
             "hash": "aa4a639e37d9f7b1",
@@ -1114,6 +1150,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yelan_explore_sprint_start_02.wem"
         },
+        "b33cdb0d95158510": {
+            "hash": "b33cdb0d95158510",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_easy_02.wem"
+        },
         "ba7c4e501ceae128": {
             "hash": "ba7c4e501ceae128",
             "directory": "External23",
@@ -1136,13 +1178,13 @@
             "hash": "c265a2d9f38f35d5",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_03.wem"
+            "sourceName": "vo_yelan_battle_hit_H_03.wem"
         },
         "c358b6eb9de2354f": {
             "hash": "c358b6eb9de2354f",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_05.wem"
+            "sourceName": "vo_yelan_battle_hit_H_05.wem"
         },
         "c57aa9e0f8a37a58": {
             "hash": "c57aa9e0f8a37a58",
@@ -1154,13 +1196,7 @@
             "hash": "c5dd9b3651a0c801",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_05.wem"
-        },
-        "c61cb3524b8f50fc": {
-            "hash": "c61cb3524b8f50fc",
-            "directory": "External24",
-            "voiceContent": "嗯，手艺不错，差点就要被你贿赂成功了",
-            "sourceName": "vo_yelan_spice_event_pref_01.wem"
+            "sourceName": "vo_yelan_battle_attackLight_05.wem"
         },
         "cab96e2a86fb7967": {
             "hash": "cab96e2a86fb7967",
@@ -1208,7 +1244,7 @@
             "hash": "d5c9a9be3e74e714",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_06.wem"
+            "sourceName": "vo_yelan_battle_hit_L_06.wem"
         },
         "d8dc86981a1afcc4": {
             "hash": "d8dc86981a1afcc4",
@@ -1232,7 +1268,7 @@
             "hash": "e312a7968a6da48d",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackheavy_02.wem"
+            "sourceName": "vo_yelan_battle_attackHeavy_02.wem"
         },
         "e66c45bdc610b844": {
             "hash": "e66c45bdc610b844",
@@ -1287,6 +1323,18 @@
             "directory": "External31",
             "voiceContent": "说起来，你希望陪伴在你身边的我，是怎样的人？普通的合作对象？磨砺你的竞争对手？众多泛泛之交中的一位…还是说…重要的伙伴？依你的期望和态度，我可以「扮演」或「成为」他们中的任何人",
             "sourceName": "vo_yelan_friendship_05.wem"
+        },
+        "faa7d2f5633c0f9e": {
+            "hash": "faa7d2f5633c0f9e",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_hard_03.wem"
+        },
+        "fbd107070dbcd540": {
+            "hash": "fbd107070dbcd540",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_hard_01.wem"
         },
         "fc9aaa78b0b12b58": {
             "hash": "fc9aaa78b0b12b58",

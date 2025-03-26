@@ -284,11 +284,29 @@
         }
     },
     "Quests": {
+        "256b956c0f97b2ba": {
+            "hash": "256b956c0f97b2ba",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_KYCOP001_1907302_kaeya_07.wem"
+        },
         "3c5db9992687b539": {
             "hash": "3c5db9992687b539",
             "directory": "External7",
             "voiceContent": "그럴 가능성이 커…얼른 움직여",
             "sourceName": "vo_MDAQ031_6_kaeya_01.wem"
+        },
+        "46e621567eadaed7": {
+            "hash": "46e621567eadaed7",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_KYCOP001_1909806_kaeya_01.wem"
+        },
+        "523f4ad799aa416b": {
+            "hash": "523f4ad799aa416b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_KYCOP001_1907303_kaeya_01.wem"
         },
         "725a79355e21e86a": {
             "hash": "725a79355e21e86a",
@@ -326,11 +344,23 @@
             "voiceContent": "맞아. 아주 예리한데?",
             "sourceName": "vo_MDAQ030_5_kaeya_07.wem"
         },
+        "a562bcf04beafcf4": {
+            "hash": "a562bcf04beafcf4",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_KYCOP001_1907303_kaeya_02.wem"
+        },
         "bb48b27b5e7e31b7": {
             "hash": "bb48b27b5e7e31b7",
             "directory": "External23",
             "voiceContent": "#(그래도 {NICKNAME} 네가 있으니까 심심하진 않을 거야. 폭풍의 눈에 가까워질수록 심장이 뛴다고 해야 할까나)",
             "sourceName": "vo_KYCOP001_1909803_kaeya_02.wem"
+        },
+        "de4aa40efb15b06e": {
+            "hash": "de4aa40efb15b06e",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_KYCOP001_1909403_kaeya_18.wem"
         },
         "e5cb9d66164425a0": {
             "hash": "e5cb9d66164425a0",
@@ -382,11 +412,17 @@
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_kaeya_explore_idle_03.wem"
         },
-        "05b88ebac3cd1015": {
-            "hash": "05b88ebac3cd1015",
+        "04b5c5d894156348": {
+            "hash": "04b5c5d894156348",
             "directory": "External0",
-            "voiceContent": "술이랑 같이 먹으면 더 맛있을 거야",
-            "sourceName": "vo_kaeya_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_09.wem"
+        },
+        "0615d1ea3ec526ba": {
+            "hash": "0615d1ea3ec526ba",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_07.wem"
         },
         "07499200cb083660": {
             "hash": "07499200cb083660",
@@ -471,6 +507,12 @@
             "directory": "External4",
             "voiceContent": "미안",
             "sourceName": "vo_kaeya_battle_skill3_02.wem"
+        },
+        "22c5a4024192c097": {
+            "hash": "22c5a4024192c097",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_02.wem"
         },
         "231c3e6c850d4294": {
             "hash": "231c3e6c850d4294",
@@ -706,6 +748,18 @@
             "voiceContent": "성가신 녀석…",
             "sourceName": "vo_kaeya_life_less30_03.wem"
         },
+        "5ef103e0c2a8ed83": {
+            "hash": "5ef103e0c2a8ed83",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_06.wem"
+        },
+        "601aeff26d2aebbd": {
+            "hash": "601aeff26d2aebbd",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_04.wem"
+        },
         "61a833c82902ca96": {
             "hash": "61a833c82902ca96",
             "directory": "External12",
@@ -892,23 +946,29 @@
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_kaeya_explore_climb_04.wem"
         },
-        "9b8bc663215d7523": {
-            "hash": "9b8bc663215d7523",
-            "directory": "External19",
-            "voiceContent": "먹는 게 좀 느려서 그렇지, 다 먹을 테니까 걱정 마",
-            "sourceName": "vo_kaeya_spice_event_dislike_01.wem"
-        },
         "9fb5d342942a4e02": {
             "hash": "9fb5d342942a4e02",
             "directory": "External19",
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_kaeya_battle_attackLight_01.wem"
         },
+        "a108420a84f2958e": {
+            "hash": "a108420a84f2958e",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_03.wem"
+        },
         "a153f48996365d01": {
             "hash": "a153f48996365d01",
             "directory": "External20",
             "voiceContent": "내 눈? 멀쩡한데. 몸의 일부분을 가리는 건 일반적인 일이잖아? 옷도 그런 이유로 입는 거지",
             "sourceName": "vo_kaeya_friendship_03.wem"
+        },
+        "a232361c2f74a130": {
+            "hash": "a232361c2f74a130",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_01.wem"
         },
         "a4b37f7f69fff303": {
             "hash": "a4b37f7f69fff303",
@@ -963,6 +1023,12 @@
             "directory": "External22",
             "voiceContent": "오호, 일단 한 장은 양보하시겠다?",
             "sourceName": "vo_card_kaeya_inGame_hard_01.wem"
+        },
+        "b2845fd18c25e609": {
+            "hash": "b2845fd18c25e609",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_08.wem"
         },
         "b32369d28360300c": {
             "hash": "b32369d28360300c",
@@ -1114,12 +1180,6 @@
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_kaeya_battle_attackHeavy_01.wem"
         },
-        "da5e43cfb928429b": {
-            "hash": "da5e43cfb928429b",
-            "directory": "External27",
-            "voiceContent": "오! 맛있는데? 이런 실력이 있는지 몰랐어",
-            "sourceName": "vo_kaeya_spice_event_pref_01.wem"
-        },
         "e2048a09baabfea8": {
             "hash": "e2048a09baabfea8",
             "directory": "External28",
@@ -1155,6 +1215,12 @@
             "directory": "External30",
             "voiceContent": "계속 날 돌봐줬던 것 같네, 고마워",
             "sourceName": "vo_kaeya_starUp_02.wem"
+        },
+        "f49cd5fb4e71a0ec": {
+            "hash": "f49cd5fb4e71a0ec",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_kaeya_05.wem"
         },
         "f5241f1fc40e129e": {
             "hash": "f5241f1fc40e129e",

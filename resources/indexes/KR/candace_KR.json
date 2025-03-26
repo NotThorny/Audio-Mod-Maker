@@ -326,6 +326,18 @@
         }
     },
     "Quests": {
+        "03f4f18f7499706f": {
+            "hash": "03f4f18f7499706f",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_candace_01.wem"
+        },
+        "040c2445410a5d94": {
+            "hash": "040c2445410a5d94",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03a_4.wem"
+        },
         "042e47cfec93c8f6": {
             "hash": "042e47cfec93c8f6",
             "directory": "External0",
@@ -343,6 +355,12 @@
             "directory": "External0",
             "voiceContent": "경치도 예쁘고 품질 좋은 차도 난다던데, 나도 마을 사람들에게 사줄 선물이 필요했으니 잘됐",
             "sourceName": "vo_HDJHK004_2_candace_04.wem"
+        },
+        "089c5056ee6ff1f6": {
+            "hash": "089c5056ee6ff1f6",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03a_2.wem"
         },
         "0a75edfcf512f2b7": {
             "hash": "0a75edfcf512f2b7",
@@ -386,11 +404,23 @@
             "voiceContent": "응? 심문이라니? 무슨 일 있었어",
             "sourceName": "vo_HSEQ002_6_candace_02.wem"
         },
+        "178ef23d20d10e55": {
+            "hash": "178ef23d20d10e55",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03b_2.wem"
+        },
         "17fb273a712f0bec": {
             "hash": "17fb273a712f0bec",
             "directory": "External2",
             "voiceContent": "음… 모든 사람에게 효과가 있는 건 아닌가 보",
             "sourceName": "vo_HSEQ001_4_candace_16.wem"
+        },
+        "1882064ecb240dcf": {
+            "hash": "1882064ecb240dcf",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03b_4.wem"
         },
         "19876cf33ebd9dbb": {
             "hash": "19876cf33ebd9dbb",
@@ -475,6 +505,12 @@
             "directory": "External6",
             "voiceContent": "그래. 우리도 가",
             "sourceName": "vo_HSEQ002_5_candace_14.wem"
+        },
+        "3665ba098c697a0c": {
+            "hash": "3665ba098c697a0c",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ003_22_candace_01.wem"
         },
         "369e47184a29bf98": {
             "hash": "369e47184a29bf98",
@@ -590,6 +626,12 @@
             "voiceContent": "#{NICKNAME}, 내가 설명할",
             "sourceName": "vo_HSEQ002_7_candace_08.wem"
         },
+        "4e29214716adcd37": {
+            "hash": "4e29214716adcd37",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_02.wem"
+        },
         "4ea9cb585e67e88a": {
             "hash": "4ea9cb585e67e88a",
             "directory": "External9",
@@ -680,6 +722,12 @@
             "voiceContent": "그나저나 뭘 수송하고 있었어",
             "sourceName": "vo_HSEQ002_5_candace_05.wem"
         },
+        "5e47324d6f9d975f": {
+            "hash": "5e47324d6f9d975f",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03a_3.wem"
+        },
         "6292ae85aa213984": {
             "hash": "6292ae85aa213984",
             "directory": "External12",
@@ -757,6 +805,18 @@
             "directory": "External14",
             "voiceContent": "그럼 호의를 고맙게 받아들일",
             "sourceName": "vo_HSEQ001_2_candace_06.wem"
+        },
+        "757a7e5fb7d90e59": {
+            "hash": "757a7e5fb7d90e59",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03a_1.wem"
+        },
+        "7720079d3c895503": {
+            "hash": "7720079d3c895503",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ103_candace_02.wem"
         },
         "78d8335e90905850": {
             "hash": "78d8335e90905850",
@@ -859,6 +919,18 @@
             "directory": "External18",
             "voiceContent": "데히야와 사람들이 도와준 덕분에 마을을 지킬 사람이 있거든. 그래서 안심하고 올 수 있었",
             "sourceName": "vo_HDJHK004_2_candace_02.wem"
+        },
+        "959ab8456401e4c4": {
+            "hash": "959ab8456401e4c4",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03b_3.wem"
+        },
+        "96c4a4570e83e2e6": {
+            "hash": "96c4a4570e83e2e6",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03b_5.wem"
         },
         "970bf32d65350ade": {
             "hash": "970bf32d65350ade",
@@ -974,6 +1046,12 @@
             "voiceContent": "사막에서 난동을 피운 녀석들은… 사욕을 채우려고 유적과 무덤을 노리는 도굴꾼일 거",
             "sourceName": "vo_HSEQ003_14_candace_01.wem"
         },
+        "b211de3e394a5a65": {
+            "hash": "b211de3e394a5a65",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03a_5.wem"
+        },
         "b2de41a23dce8a4f": {
             "hash": "b2de41a23dce8a4f",
             "directory": "External22",
@@ -1088,6 +1166,12 @@
             "voiceContent": "마살라 치즈볼하고 감자 보트, 새우 카레 3인분씩이랑, 파니푸리 10인",
             "sourceName": "vo_HSEQ001_3_candace_08.wem"
         },
+        "cf2b99d63df17a6e": {
+            "hash": "cf2b99d63df17a6e",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ003_6_candace_03.wem"
+        },
         "d183693c8c5bc697": {
             "hash": "d183693c8c5bc697",
             "directory": "External26",
@@ -1166,6 +1250,12 @@
             "voiceContent": "#이렇게 하는 거구나… 이 「축하장」 정말 예쁘다. 고마워, {NICKNAME",
             "sourceName": "vo_HDJHK004_4_candace_02.wem"
         },
+        "e5c914362a9d6772": {
+            "hash": "e5c914362a9d6772",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03b_1.wem"
+        },
         "e6251cdbfd0e5923": {
             "hash": "e6251cdbfd0e5923",
             "directory": "External28",
@@ -1220,6 +1310,12 @@
             "voiceContent": "…",
             "sourceName": "vo_HSEQ001_3_candace_05.wem"
         },
+        "ee1fa6ecbada6c63": {
+            "hash": "ee1fa6ecbada6c63",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_candace_03c_1.wem"
+        },
         "eea36726c96a5a8f": {
             "hash": "eea36726c96a5a8f",
             "directory": "External29",
@@ -1237,6 +1333,12 @@
             "directory": "External30",
             "voiceContent": "#{NICKNAME}, 페이몬. 이리 와",
             "sourceName": "vo_HSEQ002_3_candace_02.wem"
+        },
+        "f20bdf994c073af5": {
+            "hash": "f20bdf994c073af5",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ002_13_candace_01.wem"
         },
         "f30cb9eaacaa155d": {
             "hash": "f30cb9eaacaa155d",
@@ -1322,7 +1424,7 @@
             "hash": "08724e644dd619bb",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_hit_l_02.wem"
+            "sourceName": "vo_candace_battle_hit_L_02.wem"
         },
         "08f72d0643d85b30": {
             "hash": "08f72d0643d85b30",
@@ -1346,7 +1448,7 @@
             "hash": "0f7b136b1e31f819",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attacklight_02.wem"
+            "sourceName": "vo_candace_battle_attackLight_02.wem"
         },
         "115ff0eccdeb3290": {
             "hash": "115ff0eccdeb3290",
@@ -1370,7 +1472,7 @@
             "hash": "1975d6d6739e6f48",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attackmid_01.wem"
+            "sourceName": "vo_candace_battle_attackMid_01.wem"
         },
         "1cfc1e27a893de6e": {
             "hash": "1cfc1e27a893de6e",
@@ -1382,7 +1484,7 @@
             "hash": "1f763eb3d23bac63",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_hit_h_06.wem"
+            "sourceName": "vo_candace_battle_hit_H_06.wem"
         },
         "217b37f0d0da0444": {
             "hash": "217b37f0d0da0444",
@@ -1448,7 +1550,7 @@
             "hash": "30606dd2bab30955",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attackheavy_01.wem"
+            "sourceName": "vo_candace_battle_attackHeavy_01.wem"
         },
         "313aeda981ec6f5e": {
             "hash": "313aeda981ec6f5e",
@@ -1498,12 +1600,6 @@
             "voiceContent": "좋은 기세",
             "sourceName": "vo_card_candace_inGame_hard_02.wem"
         },
-        "434251afd2f3691f": {
-            "hash": "434251afd2f3691f",
-            "directory": "External8",
-            "voiceContent": "내 입맛이 너무 보수적인가 봐",
-            "sourceName": "vo_candace_spice_event_dislike_01.wem"
-        },
         "437f0870f342985c": {
             "hash": "437f0870f342985c",
             "directory": "External8",
@@ -1538,13 +1634,13 @@
             "hash": "47834737f23f63cb",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attacklight_04.wem"
+            "sourceName": "vo_candace_battle_attackLight_04.wem"
         },
         "48ac73499cc01b25": {
             "hash": "48ac73499cc01b25",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attacklight_06.wem"
+            "sourceName": "vo_candace_battle_attackLight_06.wem"
         },
         "4e8aec2e9e982711": {
             "hash": "4e8aec2e9e982711",
@@ -1598,7 +1694,7 @@
             "hash": "570042c69f62aca6",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attackmid_03.wem"
+            "sourceName": "vo_candace_battle_attackMid_03.wem"
         },
         "588b96c8ce0a9555": {
             "hash": "588b96c8ce0a9555",
@@ -1622,13 +1718,13 @@
             "hash": "606490cbea05094c",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_hit_h_05.wem"
+            "sourceName": "vo_candace_battle_hit_H_05.wem"
         },
         "618e7cdd9487076e": {
             "hash": "618e7cdd9487076e",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_hit_h_03.wem"
+            "sourceName": "vo_candace_battle_hit_H_03.wem"
         },
         "643caf9b73061d15": {
             "hash": "643caf9b73061d15",
@@ -1688,13 +1784,13 @@
             "hash": "8318dc6c8e251b72",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_hit_l_03.wem"
+            "sourceName": "vo_candace_battle_hit_L_03.wem"
         },
         "83f401c3843060bb": {
             "hash": "83f401c3843060bb",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attackheavy_03.wem"
+            "sourceName": "vo_candace_battle_attackHeavy_03.wem"
         },
         "865ab6ec741f0c0f": {
             "hash": "865ab6ec741f0c0f",
@@ -1718,7 +1814,7 @@
             "hash": "8dbdb9736191da98",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attacklight_03.wem"
+            "sourceName": "vo_candace_battle_attackLight_03.wem"
         },
         "8edcfbb1b3648401": {
             "hash": "8edcfbb1b3648401",
@@ -1756,17 +1852,11 @@
             "voiceContent": "방어에 허점이 있었군",
             "sourceName": "vo_card_candace_inGame_hard_03.wem"
         },
-        "99a3ab0024fcd781": {
-            "hash": "99a3ab0024fcd781",
-            "directory": "External19",
-            "voiceContent": "방랑하는 여행자의 음식에서 고향의 맛이 느껴지",
-            "sourceName": "vo_candace_spice_event_normal_01.wem"
-        },
         "9e0db950a764fb54": {
             "hash": "9e0db950a764fb54",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attacklight_07.wem"
+            "sourceName": "vo_candace_battle_attackLight_07.wem"
         },
         "9e9f015eec8c9c76": {
             "hash": "9e9f015eec8c9c76",
@@ -1778,13 +1868,13 @@
             "hash": "9f36e56251e5b2b6",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attacklight_01.wem"
+            "sourceName": "vo_candace_battle_attackLight_01.wem"
         },
         "a4589a963e57dc49": {
             "hash": "a4589a963e57dc49",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_hit_l_04.wem"
+            "sourceName": "vo_candace_battle_hit_L_04.wem"
         },
         "a8f792aaaf79542f": {
             "hash": "a8f792aaaf79542f",
@@ -1856,7 +1946,7 @@
             "hash": "b5d1ce852eabc1cf",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_hit_l_06.wem"
+            "sourceName": "vo_candace_battle_hit_L_06.wem"
         },
         "b72d147639bcb8e7": {
             "hash": "b72d147639bcb8e7",
@@ -1922,7 +2012,7 @@
             "hash": "cf48aac30ba17d1d",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_hit_h_04.wem"
+            "sourceName": "vo_candace_battle_hit_H_04.wem"
         },
         "cff0b1ba05669aeb": {
             "hash": "cff0b1ba05669aeb",
@@ -1978,12 +2068,6 @@
             "voiceContent": "이 호박색 눈으로 네 미래를 보고 싶어…. 햇살 같기도 하고 황금 같기도 한 금색이겠지. 네 앞날이 순조롭기를 진심으로 축복할",
             "sourceName": "vo_candace_friendship_05.wem"
         },
-        "d7fd6ec54765c437": {
-            "hash": "d7fd6ec54765c437",
-            "directory": "External26",
-            "voiceContent": "정말 맛있어. 이렇게 맛있는 음식을 준비하느라 고생 많았지",
-            "sourceName": "vo_candace_spice_event_pref_01.wem"
-        },
         "d8b7c2f51db0fcaf": {
             "hash": "d8b7c2f51db0fcaf",
             "directory": "External27",
@@ -1994,7 +2078,7 @@
             "hash": "d8bda4be5c02d78f",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attackmid_02.wem"
+            "sourceName": "vo_candace_battle_attackMid_02.wem"
         },
         "dae3dffde6488363": {
             "hash": "dae3dffde6488363",
@@ -2036,7 +2120,7 @@
             "hash": "ee3b55416dff3702",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attacklight_05.wem"
+            "sourceName": "vo_candace_battle_attackLight_05.wem"
         },
         "f2414d6288802ea8": {
             "hash": "f2414d6288802ea8",
@@ -2054,7 +2138,7 @@
             "hash": "f689009d4645a588",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_hit_l_05.wem"
+            "sourceName": "vo_candace_battle_hit_L_05.wem"
         },
         "f84d4a857109bcb7": {
             "hash": "f84d4a857109bcb7",
@@ -2066,7 +2150,7 @@
             "hash": "fe9a8fcbc47f6272",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_candace_battle_attackheavy_02.wem"
+            "sourceName": "vo_candace_battle_attackHeavy_02.wem"
         }
     }
 }

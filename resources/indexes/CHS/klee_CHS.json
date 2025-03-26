@@ -387,12 +387,6 @@
     },
     "Quests": {},
     "Gameplay": {
-        "0081edb73b67338e": {
-            "hash": "0081edb73b67338e",
-            "directory": "External0",
-            "voiceContent": "看上去很好吃，但吃起来不太方便…嘿嘿，你来帮帮可莉好不好",
-            "sourceName": "vo_klee_spice_event_dislike_01.wem"
-        },
         "00b67a94ebca950c": {
             "hash": "00b67a94ebca950c",
             "directory": "External0",
@@ -403,7 +397,7 @@
             "hash": "014d3fb1655f0cc7",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackheavy_02.wem"
+            "sourceName": "vo_klee_battle_attackHeavy_02.wem"
         },
         "017b87a487990372": {
             "hash": "017b87a487990372",
@@ -421,13 +415,13 @@
             "hash": "05db981fcdc7bc81",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackmid_01.wem"
+            "sourceName": "vo_klee_battle_attackMid_01.wem"
         },
         "062bb3c1f3cc71d3": {
             "hash": "062bb3c1f3cc71d3",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_03.wem"
+            "sourceName": "vo_klee_battle_hit_L_03.wem"
         },
         "063ba46bf66acabb": {
             "hash": "063ba46bf66acabb",
@@ -439,13 +433,13 @@
             "hash": "0abb9fd3a13198cd",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_01.wem"
+            "sourceName": "vo_klee_battle_hit_L_01.wem"
         },
         "0afdb342dd1addd5": {
             "hash": "0afdb342dd1addd5",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_05.wem"
+            "sourceName": "vo_klee_battle_hit_H_05.wem"
         },
         "0b5a2c4ea6ca9f50": {
             "hash": "0b5a2c4ea6ca9f50",
@@ -457,7 +451,7 @@
             "hash": "0bf0c754876ddd4f",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_03.wem"
+            "sourceName": "vo_klee_battle_hit_H_03.wem"
         },
         "0edc7acee6a0a023": {
             "hash": "0edc7acee6a0a023",
@@ -501,11 +495,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_klee_explore_fly_start_01.wem"
         },
+        "238c68ece367c8b4": {
+            "hash": "238c68ece367c8b4",
+            "directory": "External4",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_klee_01.wem"
+        },
         "2652be3f61d58309": {
             "hash": "2652be3f61d58309",
             "directory": "External4",
             "voiceContent": "可莉的秘密武器，锵锵",
             "sourceName": "vo_card_klee_inGame_hard_04.wem"
+        },
+        "26a7a68b7f23bb2c": {
+            "hash": "26a7a68b7f23bb2c",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_08.wem"
         },
         "2cf6152545af92a1": {
             "hash": "2cf6152545af92a1",
@@ -555,11 +561,17 @@
             "voiceContent": "亮闪闪的，好开心",
             "sourceName": "vo_klee_chest_open_02.wem"
         },
+        "36c09668c4c77d88": {
+            "hash": "36c09668c4c77d88",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_04.wem"
+        },
         "399067936eddc274": {
             "hash": "399067936eddc274",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_02.wem"
+            "sourceName": "vo_klee_battle_attackLight_02.wem"
         },
         "3ae275a12dbacedb": {
             "hash": "3ae275a12dbacedb",
@@ -595,13 +607,19 @@
             "hash": "4842f1ebb61619de",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_06.wem"
+            "sourceName": "vo_klee_battle_hit_L_06.wem"
         },
         "48725344fa4681e0": {
             "hash": "48725344fa4681e0",
             "directory": "External9",
             "voiceContent": "弹起来吧",
             "sourceName": "vo_klee_battle_skill1_02.wem"
+        },
+        "48a9e42fcc57f1bb": {
+            "hash": "48a9e42fcc57f1bb",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_03.wem"
         },
         "4c05eddfcfd37cb5": {
             "hash": "4c05eddfcfd37cb5",
@@ -613,7 +631,7 @@
             "hash": "4cd325fd637bba80",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_04.wem"
+            "sourceName": "vo_klee_battle_hit_L_04.wem"
         },
         "4ed01a6587c50206": {
             "hash": "4ed01a6587c50206",
@@ -661,25 +679,19 @@
             "hash": "56092c109461ebe7",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackmid_03.wem"
+            "sourceName": "vo_klee_battle_attackMid_03.wem"
         },
         "580dd1ca1ab26a60": {
             "hash": "580dd1ca1ab26a60",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackheavy_01.wem"
+            "sourceName": "vo_klee_battle_attackHeavy_01.wem"
         },
         "59a741ab749045b9": {
             "hash": "59a741ab749045b9",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_07.wem"
-        },
-        "5c45733c75b4d282": {
-            "hash": "5c45733c75b4d282",
-            "directory": "External11",
-            "voiceContent": "今天也吃到了好吃的东西，可莉好开心！谢谢你",
-            "sourceName": "vo_klee_spice_event_normal_01.wem"
+            "sourceName": "vo_klee_battle_attackLight_07.wem"
         },
         "5eedb83f7047e92e": {
             "hash": "5eedb83f7047e92e",
@@ -741,6 +753,12 @@
             "voiceContent": "火花骑士，爆破支援",
             "sourceName": "vo_klee_life_less30_teammate_01.wem"
         },
+        "7024b9cb8789f46b": {
+            "hash": "7024b9cb8789f46b",
+            "directory": "External14",
+            "voiceContent": "不行！才九点，可莉今晚一定要撑到看完马戏团的午夜专场！你是可莉的玩伴吧！那就别想现在就把我送回家，略略略略…",
+            "sourceName": "vo_klee_dialog_close1_b.wem"
+        },
         "707470d6e5fa163c": {
             "hash": "707470d6e5fa163c",
             "directory": "External14",
@@ -759,11 +777,17 @@
             "voiceContent": "虽然出来玩的时候说不想回家，但天黑以后的旷野，不认识路…拜、拜托你回去的时候，把我也送回家好不好",
             "sourceName": "vo_klee_dialog_greetingNight2.wem"
         },
-        "73fd1de6c90e1ea8": {
-            "hash": "73fd1de6c90e1ea8",
+        "744c0258f08d6ee6": {
+            "hash": "744c0258f08d6ee6",
             "directory": "External14",
-            "voiceContent": "好香好香！可莉已经吃到吃不下啦",
-            "sourceName": "vo_klee_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_06.wem"
+        },
+        "77a7bdf216620102": {
+            "hash": "77a7bdf216620102",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_02b.wem"
         },
         "7c6ae032ad45a7ba": {
             "hash": "7c6ae032ad45a7ba",
@@ -835,7 +859,13 @@
             "hash": "8909794b204bb444",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_04.wem"
+            "sourceName": "vo_klee_battle_hit_H_04.wem"
+        },
+        "8996fe827363abb6": {
+            "hash": "8996fe827363abb6",
+            "directory": "External17",
+            "voiceContent": "",
+            "sourceName": "vo_klee_suit_witch_02.wem"
         },
         "8a33655ccacdb266": {
             "hash": "8a33655ccacdb266",
@@ -883,7 +913,7 @@
             "hash": "92d8a189f31e68c5",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_03.wem"
+            "sourceName": "vo_klee_battle_attackLight_03.wem"
         },
         "95ebabd0ec0d7746": {
             "hash": "95ebabd0ec0d7746",
@@ -901,7 +931,7 @@
             "hash": "9732759ba055d73f",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_05.wem"
+            "sourceName": "vo_klee_battle_attackLight_05.wem"
         },
         "9798629f9e2b9c7b": {
             "hash": "9798629f9e2b9c7b",
@@ -937,7 +967,7 @@
             "hash": "a5e4fff3e78e2e81",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_05.wem"
+            "sourceName": "vo_klee_battle_hit_L_05.wem"
         },
         "a754377cc5c8aca3": {
             "hash": "a754377cc5c8aca3",
@@ -949,7 +979,7 @@
             "hash": "a8398a179c4fa7de",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackmid_02.wem"
+            "sourceName": "vo_klee_battle_attackMid_02.wem"
         },
         "a91e91c77338aa02": {
             "hash": "a91e91c77338aa02",
@@ -961,7 +991,7 @@
             "hash": "aba21dbae430fa3e",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackheavy_03.wem"
+            "sourceName": "vo_klee_battle_attackHeavy_03.wem"
         },
         "af72b9acad2c22f0": {
             "hash": "af72b9acad2c22f0",
@@ -1047,6 +1077,12 @@
             "voiceContent": "哒哒哒",
             "sourceName": "vo_klee_explore_sprint_start_02.wem"
         },
+        "cd01f6d42e42312b": {
+            "hash": "cd01f6d42e42312b",
+            "directory": "External25",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_klee_02.wem"
+        },
         "cdbb1711700b209f": {
             "hash": "cdbb1711700b209f",
             "directory": "External25",
@@ -1071,6 +1107,12 @@
             "voiceContent": "又闯祸了",
             "sourceName": "vo_klee_life_die_03.wem"
         },
+        "d218dbfa4522e525": {
+            "hash": "d218dbfa4522e525",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_02a.wem"
+        },
         "d2bb071d171c59fe": {
             "hash": "d2bb071d171c59fe",
             "directory": "External26",
@@ -1093,7 +1135,7 @@
             "hash": "d483e7b3b50cff38",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_06.wem"
+            "sourceName": "vo_klee_battle_attackLight_06.wem"
         },
         "d546122931296e83": {
             "hash": "d546122931296e83",
@@ -1111,7 +1153,7 @@
             "hash": "d937d53be6e736f2",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_06.wem"
+            "sourceName": "vo_klee_battle_hit_H_06.wem"
         },
         "e16f84dfc526e029": {
             "hash": "e16f84dfc526e029",
@@ -1119,17 +1161,29 @@
             "voiceContent": "呼呼…荣誉骑士，可莉作为「火花骑士」，可以说是你在西风骑士团的前辈喔？所以！所以…这次我闯的祸，能不能帮我隐瞒一下",
             "sourceName": "vo_klee_dialog_close.wem"
         },
+        "e2a8e078f7762d1f": {
+            "hash": "e2a8e078f7762d1f",
+            "directory": "External28",
+            "voiceContent": "",
+            "sourceName": "vo_klee_suit_witch_03.wem"
+        },
+        "e4903061bcd9b449": {
+            "hash": "e4903061bcd9b449",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_05.wem"
+        },
         "e66cf57abc9d06eb": {
             "hash": "e66cf57abc9d06eb",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_01.wem"
+            "sourceName": "vo_klee_battle_attackLight_01.wem"
         },
         "e96313a2a8440056": {
             "hash": "e96313a2a8440056",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_04.wem"
+            "sourceName": "vo_klee_battle_attackLight_04.wem"
         },
         "e97f3fc1b58acea4": {
             "hash": "e97f3fc1b58acea4",
@@ -1179,11 +1233,23 @@
             "voiceContent": "我，我还挺会做手工的，请让我帮你们重新做一个…什么？禁止雇佣童工？呜",
             "sourceName": "vo_klee_dialog_idle2.wem"
         },
+        "f516503f02da9a55": {
+            "hash": "f516503f02da9a55",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_01.wem"
+        },
         "f57ba8689441efe6": {
             "hash": "f57ba8689441efe6",
             "directory": "External30",
             "voiceContent": "你好！你是来找可莉玩的吗",
             "sourceName": "vo_klee_friendship_01.wem"
+        },
+        "f6096450ad2d99cf": {
+            "hash": "f6096450ad2d99cf",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_07.wem"
         },
         "f641ad3df2584b61": {
             "hash": "f641ad3df2584b61",
@@ -1197,47 +1263,17 @@
             "voiceContent": "哼哼哼，这次是可莉更厉害喔",
             "sourceName": "vo_card_klee_invite_easy_02.wem"
         },
-        "fa7793659719f7c9": {
-            "hash": "fa7793659719f7c9",
-            "directory": "External31",
-            "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_01.wem"
-        },
-        "238c68ece367c8b4": {
-            "hash": "238c68ece367c8b4",
-            "directory": "External4",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_klee_01.wem"
-        },
-        "7024b9cb8789f46b": {
-            "hash": "7024b9cb8789f46b",
-            "directory": "External14",
-            "voiceContent": "不行！才九点，可莉今晚一定要撑到看完马戏团的午夜专场！你是可莉的玩伴吧！那就别想现在就把我送回家，略略略略…",
-            "sourceName": "vo_klee_dialog_close1_b.wem"
-        },
-        "8996fe827363abb6": {
-            "hash": "8996fe827363abb6",
-            "directory": "External17",
-            "voiceContent": "",
-            "sourceName": "vo_klee_suit_witch_02.wem"
-        },
-        "cd01f6d42e42312b": {
-            "hash": "cd01f6d42e42312b",
-            "directory": "External25",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_klee_02.wem"
-        },
-        "e2a8e078f7762d1f": {
-            "hash": "e2a8e078f7762d1f",
-            "directory": "External28",
-            "voiceContent": "",
-            "sourceName": "vo_klee_suit_witch_03.wem"
-        },
         "f9db2c8b3faff119": {
             "hash": "f9db2c8b3faff119",
             "directory": "External31",
             "voiceContent": "",
             "sourceName": "vo_klee_suit_witch_01.wem"
+        },
+        "fa7793659719f7c9": {
+            "hash": "fa7793659719f7c9",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_battle_hit_H_01.wem"
         }
     }
 }

@@ -247,7 +247,20 @@
             "sourceName": "vo_sucrose_mimitomo_friendship1_04.wem"
         }
     },
-    "Quests": {},
+    "Quests": {
+        "42303cb75ca97202": {
+            "hash": "42303cb75ca97202",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_1_sucrose_01.wem"
+        },
+        "9ca15abf8b6a5625": {
+            "hash": "9ca15abf8b6a5625",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_1_sucrose_02.wem"
+        }
+    },
     "Gameplay": {
         "0328ce49a9337749": {
             "hash": "0328ce49a9337749",
@@ -271,7 +284,7 @@
             "hash": "0ba188cb51593143",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_02.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_02.wem"
         },
         "0be3577988cea4dd": {
             "hash": "0be3577988cea4dd",
@@ -289,7 +302,7 @@
             "hash": "0d27f35d82813f26",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_01.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_01.wem"
         },
         "0e2207d5dd1a4151": {
             "hash": "0e2207d5dd1a4151",
@@ -307,7 +320,7 @@
             "hash": "101cbf1569d3f3ab",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackheavy_01.wem"
+            "sourceName": "vo_sucrose_battle_attackHeavy_01.wem"
         },
         "1123fd073d04fbed": {
             "hash": "1123fd073d04fbed",
@@ -367,7 +380,7 @@
             "hash": "21958ca6be26b927",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_04.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_04.wem"
         },
         "24b947651290c5fc": {
             "hash": "24b947651290c5fc",
@@ -387,6 +400,12 @@
             "voiceContent": "이 정도의 오차는…받아들일 수 있어요",
             "sourceName": "vo_sucrose_life_less30_01.wem"
         },
+        "2b07e65c401016f2": {
+            "hash": "2b07e65c401016f2",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_01.wem"
+        },
         "2d0817a6d17a6471": {
             "hash": "2d0817a6d17a6471",
             "directory": "External5",
@@ -398,6 +417,12 @@
             "directory": "External5",
             "voiceContent": "분석을 통해 이 상황을 통제하겠어요",
             "sourceName": "vo_card_sucrose_inGame_easy_04.wem"
+        },
+        "3260424c2f1dd4e2": {
+            "hash": "3260424c2f1dd4e2",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_12.wem"
         },
         "32d89895ae4ccb0d": {
             "hash": "32d89895ae4ccb0d",
@@ -411,6 +436,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_sucrose_explore_jump_03.wem"
         },
+        "338a265dd99fc4b4": {
+            "hash": "338a265dd99fc4b4",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_10.wem"
+        },
         "3483199273614f21": {
             "hash": "3483199273614f21",
             "directory": "External6",
@@ -422,6 +453,12 @@
             "directory": "External6",
             "voiceContent": "그의 조수로서 매일 많은 걸 배울 수 있어요. 중요한 건 지식이 아니라 「천재」의 사고방식이에요. 그는 얼마나 복잡한 문제든 항상 철저히 분석하고 조금씩 해결해 나가죠. 예술 그 자체랄까",
             "sourceName": "vo_sucrose_teammate_albedo_01.wem"
+        },
+        "389a93bd91c23272": {
+            "hash": "389a93bd91c23272",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_04.wem"
         },
         "390c4018796dc610": {
             "hash": "390c4018796dc610",
@@ -447,17 +484,17 @@
             "voiceContent": "전 당신 경험이 무척 궁금해요. 그러니까… 잠깐 당신을 「관찰」해도 될까요? 방해되지 않도록 조용히 있을게요, 그러면… 괜찮죠",
             "sourceName": "vo_sucrose_dialog_close.wem"
         },
-        "40ddc2c9c83146c2": {
-            "hash": "40ddc2c9c83146c2",
-            "directory": "External8",
-            "voiceContent": "맛있어요! 아… 지금처럼 컨디션이 좋을 때 빨리 연구를 끝내야겠어요",
-            "sourceName": "vo_sucrose_spice_event_pref_01.wem"
+        "3de3b38989644765": {
+            "hash": "3de3b38989644765",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_sucrose_01.wem"
         },
         "43a60d3f6824d825": {
             "hash": "43a60d3f6824d825",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackmid_02.wem"
+            "sourceName": "vo_sucrose_battle_attackMid_02.wem"
         },
         "449c396fb90563ed": {
             "hash": "449c396fb90563ed",
@@ -477,6 +514,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_sucrose_explore_climb_breath_02.wem"
         },
+        "4bc434203da4cbce": {
+            "hash": "4bc434203da4cbce",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_08.wem"
+        },
+        "4c47a485f042d7c9": {
+            "hash": "4c47a485f042d7c9",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_06.wem"
+        },
         "4e8d2ac6cdaa7477": {
             "hash": "4e8d2ac6cdaa7477",
             "directory": "External9",
@@ -493,13 +542,13 @@
             "hash": "511fc6f51687b54e",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_07.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_07.wem"
         },
         "5249bb06c109c0f0": {
             "hash": "5249bb06c109c0f0",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_05.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_05.wem"
         },
         "53a6e92586ade96a": {
             "hash": "53a6e92586ade96a",
@@ -531,17 +580,35 @@
             "voiceContent": "진 단장님은 너무 근엄하셔서 말을 못 걸겠어요…. 좋은 분이라는 건 알지만, 어쨌든 무섭긴… 무섭단 말이에요. 평소엔 웬만하면 그분을 찾아가지 않아요. 어쩔 수 없이 찾아가야 할 일이 있어도… 그, 그냥 알베도 씨한테 부탁해",
             "sourceName": "vo_sucrose_teammate_qin_01.wem"
         },
+        "59da51e741f4f349": {
+            "hash": "59da51e741f4f349",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_03.wem"
+        },
         "5c2c633c9e9ac3b2": {
             "hash": "5c2c633c9e9ac3b2",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_05.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_05.wem"
+        },
+        "5ccdc4633643bdd5": {
+            "hash": "5ccdc4633643bdd5",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_02.wem"
         },
         "5dbb24ed0f1464fd": {
             "hash": "5dbb24ed0f1464fd",
             "directory": "External11",
             "voiceContent": "SFX",
             "sourceName": "vo_sucrose_explore_sprint_start_02.wem"
+        },
+        "5dc0d874e096bd4f": {
+            "hash": "5dc0d874e096bd4f",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_04.wem"
         },
         "5f77eb6a524daf23": {
             "hash": "5f77eb6a524daf23",
@@ -571,7 +638,31 @@
             "hash": "66a7312e1ef98b34",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackheavy_02.wem"
+            "sourceName": "vo_sucrose_battle_attackHeavy_02.wem"
+        },
+        "67c88eb69b827b53": {
+            "hash": "67c88eb69b827b53",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_sucrose_01.wem"
+        },
+        "67ed2597d6694a8b": {
+            "hash": "67ed2597d6694a8b",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_12.wem"
+        },
+        "691751a980ebb5e5": {
+            "hash": "691751a980ebb5e5",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_10.wem"
+        },
+        "6a6071c487f5d955": {
+            "hash": "6a6071c487f5d955",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_07.wem"
         },
         "6aa67abc1aad61cd": {
             "hash": "6aa67abc1aad61cd",
@@ -579,17 +670,17 @@
             "voiceContent": "도움이 됐으면 좋겠어요",
             "sourceName": "vo_sucrose_teamJoin_01.wem"
         },
+        "6b5385d63248d8cf": {
+            "hash": "6b5385d63248d8cf",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_01.wem"
+        },
         "6da6f64b480ae7e1": {
             "hash": "6da6f64b480ae7e1",
             "directory": "External13",
             "voiceContent": "항상 궁금했는데, 왜 그녀의 인형 이름은 「토끼 백작」일까요? 토끼랑 아무 상관 없어 보이는데. 음… 머리띠가 토끼 귀처럼 생겼다고요? 그렇네요. 하지만 사실 그것도 고정관념이에요. 귀가 축 처진 토끼도 많거든",
             "sourceName": "vo_sucrose_teammate_ambor_01.wem"
-        },
-        "6ffb263502352b4c": {
-            "hash": "6ffb263502352b4c",
-            "directory": "External13",
-            "voiceContent": "죄송하지만, 저한테 이 요리는 조금",
-            "sourceName": "vo_sucrose_spice_event_dislike_01.wem"
         },
         "7066d11228896639": {
             "hash": "7066d11228896639",
@@ -607,7 +698,7 @@
             "hash": "73c6eaadc616281e",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_05.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_05.wem"
         },
         "75e34769a140956d": {
             "hash": "75e34769a140956d",
@@ -687,11 +778,17 @@
             "voiceContent": "「생물 연금술」 연구에 드디어 돌파구가 생겼어",
             "sourceName": "vo_sucrose_starUp_01.wem"
         },
+        "8cd260545de06b05": {
+            "hash": "8cd260545de06b05",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_11.wem"
+        },
         "8df2414394ce6a95": {
             "hash": "8df2414394ce6a95",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_06.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_06.wem"
         },
         "8ef0aa2b67b1abdb": {
             "hash": "8ef0aa2b67b1abdb",
@@ -727,7 +824,7 @@
             "hash": "9907534672c9b854",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackmid_03.wem"
+            "sourceName": "vo_sucrose_battle_attackMid_03.wem"
         },
         "992da4e429ba84e8": {
             "hash": "992da4e429ba84e8",
@@ -753,17 +850,29 @@
             "voiceContent": "좋은 아침. 잘 잤어요? 연구 결과에 따르면, 잠을 충분히 자야지만 다음날 기분이 상쾌해지고 두뇌 활동도 더 원활해진대요. 뭐라구요? 전 항상 밤을 새우지 않냐고요? 그건… 음, 어쩔 수 없는걸",
             "sourceName": "vo_sucrose_dialog_greetingMorning.wem"
         },
+        "9e780a8cf830a108": {
+            "hash": "9e780a8cf830a108",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_07.wem"
+        },
         "a14d5ae5dd21e3ac": {
             "hash": "a14d5ae5dd21e3ac",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_01.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_01.wem"
         },
         "a18f29941497572e": {
             "hash": "a18f29941497572e",
             "directory": "External20",
             "voiceContent": "이 전술로… 오차를 줄일게요",
             "sourceName": "vo_card_sucrose_inGame_hard_04.wem"
+        },
+        "a33e169ea5c38e7a": {
+            "hash": "a33e169ea5c38e7a",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_09.wem"
         },
         "a95bbf2245e42ed1": {
             "hash": "a95bbf2245e42ed1",
@@ -789,17 +898,23 @@
             "voiceContent": "사실… 낯선 사람이랑 어떻게 대화해야 할지 잘 모르겠어요. 사람마다 성격도 다르고 좋아하는 것도 다른데, 혹시라도 잘못해서 무례하게 굴거나 상대방의 기분을 상하게 한다면, 휴… 대화하는 게 연금술보다 더 어려운 것 같아",
             "sourceName": "vo_sucrose_dialog_idle2.wem"
         },
+        "ac0ab7ee49e2bc88": {
+            "hash": "ac0ab7ee49e2bc88",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_02.wem"
+        },
         "acc27a8c44770d0a": {
             "hash": "acc27a8c44770d0a",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_01.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_01.wem"
         },
         "b62c56d4d058937a": {
             "hash": "b62c56d4d058937a",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_03.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_03.wem"
         },
         "b8e5f9fe69f8d8e4": {
             "hash": "b8e5f9fe69f8d8e4",
@@ -807,17 +922,23 @@
             "voiceContent": "천부적인 재능이라고요? 음… 그와 같은 연구를 한다면 분명 평생토록 그를 넘어설 수 없을 거예요. 하지만, 제가 그를 피하려고 「생물 연금술」을 연구하는 건 아니에요, 단지… 음, 전 그와 다른 취미와 꿈이 있는 것뿐이에",
             "sourceName": "vo_sucrose_teammate_albedo_02.wem"
         },
-        "b9b85cff9ebc31c8": {
-            "hash": "b9b85cff9ebc31c8",
+        "bb1197b088abb914": {
+            "hash": "bb1197b088abb914",
             "directory": "External23",
-            "voiceContent": "제가 만든 건강식보다 훨씬 낫네요. 음, 덕분에 잘 먹었어",
-            "sourceName": "vo_sucrose_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_11.wem"
         },
         "bc32e0e889e0025b": {
             "hash": "bc32e0e889e0025b",
             "directory": "External23",
             "voiceContent": "…날이 벌써 밝은 거예요? 그, 그럼 마지막 실험 딱 한 번만 더하고 쉴게요! 음, 진짜 마지막이에요",
             "sourceName": "vo_sucrose_weather_sunny_01.wem"
+        },
+        "bdf405b5517330bb": {
+            "hash": "bdf405b5517330bb",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_05.wem"
         },
         "bf8870735920966f": {
             "hash": "bf8870735920966f",
@@ -829,7 +950,7 @@
             "hash": "bfef6b24a33a3185",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackheavy_03.wem"
+            "sourceName": "vo_sucrose_battle_attackHeavy_03.wem"
         },
         "c06a35124cf02cb8": {
             "hash": "c06a35124cf02cb8",
@@ -853,7 +974,7 @@
             "hash": "c75a7e9e8f93807c",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_03.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_03.wem"
         },
         "c969c8cf0e27206e": {
             "hash": "c969c8cf0e27206e",
@@ -885,17 +1006,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_sucrose_explore_idle_03.wem"
         },
+        "cd819617fa44f6d7": {
+            "hash": "cd819617fa44f6d7",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_09.wem"
+        },
         "ce01f8b5f4a961c1": {
             "hash": "ce01f8b5f4a961c1",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_06.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_06.wem"
+        },
+        "ce7ca67e1fcd4f78": {
+            "hash": "ce7ca67e1fcd4f78",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_14.wem"
         },
         "cf9d876d56bd01c8": {
             "hash": "cf9d876d56bd01c8",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_03.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_03.wem"
         },
         "d125b37449136d9e": {
             "hash": "d125b37449136d9e",
@@ -925,7 +1058,7 @@
             "hash": "d2dd28ecd327e057",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_06.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_06.wem"
         },
         "d3d6eee42523492b": {
             "hash": "d3d6eee42523492b",
@@ -937,7 +1070,7 @@
             "hash": "d40714fe7da9de71",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_04.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_04.wem"
         },
         "d52e1b1d43203373": {
             "hash": "d52e1b1d43203373",
@@ -969,11 +1102,29 @@
             "voiceContent": "그 애는 진 단장님이 그렇게 감금실에 보냈는데도 나오기만 하면 금방 또 사고를 친다니까요. 휴, 반성을 하긴 하는 건지. 폴짝폴짝 뛰는 안전한 통통을 만들어주기로 했는데, 아직은 손봐야 할 곳이 좀 많아요",
             "sourceName": "vo_sucrose_teammate_klee_01.wem"
         },
+        "dad98a6b79749444": {
+            "hash": "dad98a6b79749444",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_03.wem"
+        },
+        "dc03767d23f69266": {
+            "hash": "dc03767d23f69266",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_05.wem"
+        },
+        "dcffb445247a2d2b": {
+            "hash": "dcffb445247a2d2b",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_13.wem"
+        },
         "de1fd5345b6899fb": {
             "hash": "de1fd5345b6899fb",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_04.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_04.wem"
         },
         "dff839cee9f76dae": {
             "hash": "dff839cee9f76dae",
@@ -986,6 +1137,12 @@
             "directory": "External28",
             "voiceContent": "이거 봐요. 여기 있는 서리꽃은 다 다른 거예요. 이건 얼음 원소 함량이 더 높고, 이건 개화기가 더 길어요… 저건 어떻냐고요? 아, 저건 「삼식 서리꽃 17호 확대 버전」이에요. 특징은, 음… 크기가 더 커요",
             "sourceName": "vo_sucrose_pref_gift.wem"
+        },
+        "e37195815aa1b042": {
+            "hash": "e37195815aa1b042",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_sucrose_02.wem"
         },
         "e3fd6d0a00ff636b": {
             "hash": "e3fd6d0a00ff636b",
@@ -1005,11 +1162,17 @@
             "voiceContent": "이렇게 많은 눈을 볼 수 있는 기회는 흔치 않아요. 놓치면 내년에야 연구할 수 있으니까 말리지 말라구요. 에… 에취! 알았어요, 옷을 좀 두껍게 입을게요",
             "sourceName": "vo_sucrose_weather_snowy_01.wem"
         },
+        "e86c37cccb26afc4": {
+            "hash": "e86c37cccb26afc4",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_06.wem"
+        },
         "e934ef373963f402": {
             "hash": "e934ef373963f402",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackmid_01.wem"
+            "sourceName": "vo_sucrose_battle_attackMid_01.wem"
         },
         "ea14c80840a0674e": {
             "hash": "ea14c80840a0674e",
@@ -1046,6 +1209,12 @@
             "directory": "External30",
             "voiceContent": "그녀는… 항상 절 도와주긴 하는데, 가끔 너무 친절해서 오히려… 고민이애요. 한번은 제 실험실 앞에 쌓여 있던 박스들을 모두 안으로 들여놨더라고요. 그건… 제가 막 밖에 갖다 놨던 건데 말이에",
             "sourceName": "vo_sucrose_teammate_noel_01.wem"
+        },
+        "f8b3489526c42c43": {
+            "hash": "f8b3489526c42c43",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_08.wem"
         },
         "faf896d6042b6911": {
             "hash": "faf896d6042b6911",

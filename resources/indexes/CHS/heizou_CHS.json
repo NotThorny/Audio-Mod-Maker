@@ -350,11 +350,239 @@
         }
     },
     "Quests": {
+        "0d8e3d83250f4539": {
+            "hash": "0d8e3d83250f4539",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_4_heizou_01.wem"
+        },
+        "193fc761a2c05792": {
+            "hash": "193fc761a2c05792",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_07.wem"
+        },
+        "1dcfeb735025de64": {
+            "hash": "1dcfeb735025de64",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_05.wem"
+        },
+        "2cd9a9dabedb85e7": {
+            "hash": "2cd9a9dabedb85e7",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_15.wem"
+        },
+        "2d935bd5f924fc90": {
+            "hash": "2d935bd5f924fc90",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_09.wem"
+        },
+        "3b26f550a670a383": {
+            "hash": "3b26f550a670a383",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_heizou_06.wem"
+        },
+        "3c50e16250f2a1bd": {
+            "hash": "3c50e16250f2a1bd",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_heizou_04.wem"
+        },
+        "3cf2c9b8047f99d3": {
+            "hash": "3cf2c9b8047f99d3",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_11.wem"
+        },
+        "4182b5c9b1e4c0cd": {
+            "hash": "4182b5c9b1e4c0cd",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_13.wem"
+        },
+        "45ed584609f6a96e": {
+            "hash": "45ed584609f6a96e",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_heizou_03.wem"
+        },
+        "4b19717350d4d6bf": {
+            "hash": "4b19717350d4d6bf",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_4_heizou_03.wem"
+        },
+        "4b4170aa26dc8dc0": {
+            "hash": "4b4170aa26dc8dc0",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_heizou_01.wem"
+        },
+        "4bf9b97a4348b1ef": {
+            "hash": "4bf9b97a4348b1ef",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_02.wem"
+        },
         "50cb725d87885e5c": {
             "hash": "50cb725d87885e5c",
             "directory": "External10",
             "voiceContent": "糟糕！跟太紧了，被发现了",
             "sourceName": "vo_LYYCOP001_1905503_heizou_01.wem"
+        },
+        "50fae4c807281575": {
+            "hash": "50fae4c807281575",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_1_heizou_01.wem"
+        },
+        "6fa31f1b7b331217": {
+            "hash": "6fa31f1b7b331217",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ002_heizou_01.wem"
+        },
+        "7d3e337a68ba4b8e": {
+            "hash": "7d3e337a68ba4b8e",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_heizou_03.wem"
+        },
+        "7e68278c133c5730": {
+            "hash": "7e68278c133c5730",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_heizou_01.wem"
+        },
+        "7f0a07e1c6c941de": {
+            "hash": "7f0a07e1c6c941de",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_14.wem"
+        },
+        "839a3bf3742ee280": {
+            "hash": "839a3bf3742ee280",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_16.wem"
+        },
+        "8eba51416fed9c09": {
+            "hash": "8eba51416fed9c09",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_heizou_08.wem"
+        },
+        "9831b2ae9c541e72": {
+            "hash": "9831b2ae9c541e72",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_heizou_10.wem"
+        },
+        "9b3439595f8fe0db": {
+            "hash": "9b3439595f8fe0db",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_06.wem"
+        },
+        "9d4a0f7a58c2ffd6": {
+            "hash": "9d4a0f7a58c2ffd6",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_4_heizou_02.wem"
+        },
+        "9fc3256b0cf354f5": {
+            "hash": "9fc3256b0cf354f5",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_04.wem"
+        },
+        "af50b5cdb5c51a11": {
+            "hash": "af50b5cdb5c51a11",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_08.wem"
+        },
+        "bb6b97c0480d4fca": {
+            "hash": "bb6b97c0480d4fca",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_10.wem"
+        },
+        "ca3c578286a88606": {
+            "hash": "ca3c578286a88606",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_03.wem"
+        },
+        "cb10ba3dc979fd77": {
+            "hash": "cb10ba3dc979fd77",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_heizou_02.wem"
+        },
+        "d0d2c76b323956ec": {
+            "hash": "d0d2c76b323956ec",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_heizou_05.wem"
+        },
+        "d29e9bd290484c3c": {
+            "hash": "d29e9bd290484c3c",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_12.wem"
+        },
+        "dcac15e9f8415681": {
+            "hash": "dcac15e9f8415681",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_17.wem"
+        },
+        "e0ebb74877dd1948": {
+            "hash": "e0ebb74877dd1948",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_heizou_09.wem"
+        },
+        "e16e6b94cee1eb28": {
+            "hash": "e16e6b94cee1eb28",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heizou_01.wem"
+        },
+        "e24bc35a228cdcba": {
+            "hash": "e24bc35a228cdcba",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_heizou_07.wem"
+        },
+        "e79ebf18b9e9429d": {
+            "hash": "e79ebf18b9e9429d",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_9_heizou_01.wem"
+        },
+        "ed77636b1f5cc1f4": {
+            "hash": "ed77636b1f5cc1f4",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_4_heizou_04.wem"
+        },
+        "f5becc55435ad490": {
+            "hash": "f5becc55435ad490",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_10_heizou_01.wem"
+        },
+        "fefb9572255a7697": {
+            "hash": "fefb9572255a7697",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_1_heizou_02.wem"
         }
     },
     "Gameplay": {
@@ -368,7 +596,7 @@
             "hash": "0327a48763f4c0fd",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attacklight_03.wem"
+            "sourceName": "vo_heizou_battle_attackLight_03.wem"
         },
         "04ca3a376d2c1e0e": {
             "hash": "04ca3a376d2c1e0e",
@@ -380,7 +608,7 @@
             "hash": "05f232ad7cc3f5f8",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_hit_l_04.wem"
+            "sourceName": "vo_heizou_battle_hit_L_04.wem"
         },
         "06dcb28ec4d9d244": {
             "hash": "06dcb28ec4d9d244",
@@ -394,23 +622,29 @@
             "voiceContent": "要来旁听天领奉行的法庭判决吗？看着真相就像碎裂的剪贴画一样被拼接完整…我可以替你占个绝好的观看席位。我们只要装作不认识就行了，装作",
             "sourceName": "vo_heizou_pref_hobby.wem"
         },
+        "0df56aa9077d8fe8": {
+            "hash": "0df56aa9077d8fe8",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_battle_skill1_02.wem"
+        },
         "147540748170d3ab": {
             "hash": "147540748170d3ab",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_hit_l_03.wem"
+            "sourceName": "vo_heizou_battle_hit_L_03.wem"
         },
         "14ea1e06a566470f": {
             "hash": "14ea1e06a566470f",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attackheavy_02.wem"
+            "sourceName": "vo_heizou_battle_attackHeavy_02.wem"
         },
         "176b5e9c6d17cd16": {
             "hash": "176b5e9c6d17cd16",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_hit_l_06.wem"
+            "sourceName": "vo_heizou_battle_hit_L_06.wem"
         },
         "1802a13919f99d52": {
             "hash": "1802a13919f99d52",
@@ -436,12 +670,6 @@
             "voiceContent": "吃饱了玩点锻炼脑力的游戏吧！继电石？哈哈，这个只能锻炼心态吧",
             "sourceName": "vo_heizou_dialog_greetingNoon.wem"
         },
-        "210c2f83ba46f269": {
-            "hash": "210c2f83ba46f269",
-            "directory": "External4",
-            "voiceContent": "烹饪该算体力活还是脑力活呢，或许都算吧，难怪你能做得这么好",
-            "sourceName": "vo_heizou_spice_event_normal_01.wem"
-        },
         "28cc12f8663f547d": {
             "hash": "28cc12f8663f547d",
             "directory": "External5",
@@ -453,6 +681,12 @@
             "directory": "External5",
             "voiceContent": "好可惜呀！眼狩令废除后，我就不能堂堂正正地逮捕他了！不过这样一来，也就意味着…我可以光明正大地邀请他来天领奉行，跟我一起讨论案情了吧",
             "sourceName": "vo_heizou_teammate_kazuha_02.wem"
+        },
+        "2c0548d2b4faed37": {
+            "hash": "2c0548d2b4faed37",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_battle_skill1_09.wem"
         },
         "2c89f1be78bf01d4": {
             "hash": "2c89f1be78bf01d4",
@@ -482,7 +716,7 @@
             "hash": "331e0b8dbbe07146",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attackmid_02.wem"
+            "sourceName": "vo_heizou_battle_attackMid_02.wem"
         },
         "347a42109abe8f20": {
             "hash": "347a42109abe8f20",
@@ -507,12 +741,6 @@
             "directory": "External7",
             "voiceContent": "在知道今天是你的生日之后，有那么一瞬间，我想把你带到一间摆满了机关与礼物的密室里，让你解出谜题后再出来…嘿嘿，开玩笑的啦，在确认你是否喜欢之前，我是不会这么做的。来，和我一起走吧，趁着太阳还没落山，有非常漂亮的景色想和你分享哦",
             "sourceName": "vo_heizou_pref_birthday_01.wem"
-        },
-        "3e296aeab427aedf": {
-            "hash": "3e296aeab427aedf",
-            "directory": "External7",
-            "voiceContent": "喔…好吃好吃！费了不少力气吧，太谢谢你啦",
-            "sourceName": "vo_heizou_spice_event_pref_01.wem"
         },
         "3f62cdf40acc17ce": {
             "hash": "3f62cdf40acc17ce",
@@ -542,7 +770,7 @@
             "hash": "4415f69f7bbe1dce",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attacklight_04.wem"
+            "sourceName": "vo_heizou_battle_attackLight_04.wem"
         },
         "4424ac57f18b1e63": {
             "hash": "4424ac57f18b1e63",
@@ -560,7 +788,7 @@
             "hash": "453feab126402970",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attacklight_06.wem"
+            "sourceName": "vo_heizou_battle_attackLight_06.wem"
         },
         "45c6c675db5bfc52": {
             "hash": "45c6c675db5bfc52",
@@ -578,7 +806,7 @@
             "hash": "477c6a4f4a388f67",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_hit_h_03.wem"
+            "sourceName": "vo_heizou_battle_hit_H_03.wem"
         },
         "4fe9b5911aa59341": {
             "hash": "4fe9b5911aa59341",
@@ -596,7 +824,7 @@
             "hash": "55a2501ebd01dec8",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attackheavy_01.wem"
+            "sourceName": "vo_heizou_battle_attackHeavy_01.wem"
         },
         "57b2f440479d10c0": {
             "hash": "57b2f440479d10c0",
@@ -620,13 +848,19 @@
             "hash": "5c25763e3d41ca4d",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_hit_h_05.wem"
+            "sourceName": "vo_heizou_battle_hit_H_05.wem"
         },
         "5de7cb17a740fd31": {
             "hash": "5de7cb17a740fd31",
             "directory": "External11",
             "voiceContent": "某次旁听时，我受脑海中的推导鼓动，阻止了判决的下达。如果当时提出的异议无效，那它就不会成为我当侦探的契机，而会是——鹿野院平藏，因扰乱庭审秩序受到拘留处罚，哈哈哈",
             "sourceName": "vo_heizou_friendship_02.wem"
+        },
+        "63a0849f88ab9429": {
+            "hash": "63a0849f88ab9429",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_battle_skill1_03.wem"
         },
         "64ecd435bac20fe3": {
             "hash": "64ecd435bac20fe3",
@@ -657,6 +891,12 @@
             "directory": "External14",
             "voiceContent": "我习惯将见到的东西以关键词的形式记在脑子里，它们对推理大有帮助。你看这边这个人，干净裤腿上的猫毛，手腕处的抓痕，看来是想和动物玩，但却不太懂怎么逗猫。那位，很在意自己受伤的手，穿着和身份不符的新鞋…等等，说不定我要有新委托了",
             "sourceName": "vo_heizou_dialog_idle2.wem"
+        },
+        "787fb88e7be2a2af": {
+            "hash": "787fb88e7be2a2af",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_battle_skill1_01.wem"
         },
         "796eb44e553ee312": {
             "hash": "796eb44e553ee312",
@@ -710,13 +950,7 @@
             "hash": "87af8ca539641379",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_hit_l_05.wem"
-        },
-        "8aba067824aee857": {
-            "hash": "8aba067824aee857",
-            "directory": "External17",
-            "voiceContent": "让我想想…你是在哪个步骤出错了",
-            "sourceName": "vo_heizou_spice_event_dislike_01.wem"
+            "sourceName": "vo_heizou_battle_hit_L_05.wem"
         },
         "8b178840d7317031": {
             "hash": "8b178840d7317031",
@@ -728,7 +962,7 @@
             "hash": "932cbc0ee8c61c26",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attackheavy_03.wem"
+            "sourceName": "vo_heizou_battle_attackHeavy_03.wem"
         },
         "9372053d43809c54": {
             "hash": "9372053d43809c54",
@@ -740,7 +974,7 @@
             "hash": "94438a9042584c2c",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attacklight_02.wem"
+            "sourceName": "vo_heizou_battle_attackLight_02.wem"
         },
         "95833ee47af20303": {
             "hash": "95833ee47af20303",
@@ -794,7 +1028,7 @@
             "hash": "a3623996882cb6a9",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attackmid_01.wem"
+            "sourceName": "vo_heizou_battle_attackMid_01.wem"
         },
         "a37d4981e422eaa7": {
             "hash": "a37d4981e422eaa7",
@@ -819,6 +1053,12 @@
             "directory": "External21",
             "voiceContent": "在这位大将的叮嘱下，我的海祇岛之旅可是热闹了不少，到哪都有军士们盯着。天地良心，我不过是个平平无奇的观光群众，最多算个小小侦探，连白萝卜也不会惦记半根的呀",
             "sourceName": "vo_heizou_teammate_gorou_01.wem"
+        },
+        "aa47e6daf85ac22e": {
+            "hash": "aa47e6daf85ac22e",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_battle_skill1_08.wem"
         },
         "ac34f2abfbe3a81f": {
             "hash": "ac34f2abfbe3a81f",
@@ -854,7 +1094,7 @@
             "hash": "b8416d857b63c52f",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attackmid_03.wem"
+            "sourceName": "vo_heizou_battle_attackMid_03.wem"
         },
         "b9e7f90144a2dfac": {
             "hash": "b9e7f90144a2dfac",
@@ -890,25 +1130,31 @@
             "hash": "c447ec83bad71185",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_hit_l_01.wem"
+            "sourceName": "vo_heizou_battle_hit_L_01.wem"
         },
         "c5d35897385e48d7": {
             "hash": "c5d35897385e48d7",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attacklight_05.wem"
+            "sourceName": "vo_heizou_battle_attackLight_05.wem"
         },
         "c6fd44a8e2e046f1": {
             "hash": "c6fd44a8e2e046f1",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attacklight_07.wem"
+            "sourceName": "vo_heizou_battle_attackLight_07.wem"
         },
         "c7ba386d9829d19b": {
             "hash": "c7ba386d9829d19b",
             "directory": "External24",
             "voiceContent": "别抵赖",
             "sourceName": "vo_heizou_battle_skill1_05.wem"
+        },
+        "c8e4247f42abcfb5": {
+            "hash": "c8e4247f42abcfb5",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_battle_skill1_07.wem"
         },
         "cec6f4f037d98f7a": {
             "hash": "cec6f4f037d98f7a",
@@ -938,7 +1184,7 @@
             "hash": "d60e5834d36a594a",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_hit_h_06.wem"
+            "sourceName": "vo_heizou_battle_hit_H_06.wem"
         },
         "d65ff24294da30a3": {
             "hash": "d65ff24294da30a3",
@@ -998,7 +1244,7 @@
             "hash": "ed415c471ba555bc",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_hit_h_04.wem"
+            "sourceName": "vo_heizou_battle_hit_H_04.wem"
         },
         "f1b364987f849693": {
             "hash": "f1b364987f849693",
@@ -1022,7 +1268,7 @@
             "hash": "f74ed65e839e6001",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_hit_h_01.wem"
+            "sourceName": "vo_heizou_battle_hit_H_01.wem"
         },
         "f8b454f3a7f3dfce": {
             "hash": "f8b454f3a7f3dfce",
@@ -1052,7 +1298,7 @@
             "hash": "fe97b875b68f99c3",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_heizou_battle_attacklight_01.wem"
+            "sourceName": "vo_heizou_battle_attackLight_01.wem"
         }
     }
 }

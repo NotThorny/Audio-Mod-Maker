@@ -1904,7 +1904,7 @@
             "hash": "01f7ca35f67133ed",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_h_05.wem"
+            "sourceName": "vo_hutao_battle_hit_H_05.wem"
         },
         "0237813f2803cb64": {
             "hash": "0237813f2803cb64",
@@ -1928,13 +1928,13 @@
             "hash": "10a7ab791141fd5d",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_03.wem"
+            "sourceName": "vo_hutao_battle_attackLight_03.wem"
         },
         "12762dd60018934b": {
             "hash": "12762dd60018934b",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_03.wem"
+            "sourceName": "vo_hutao_battle_hit_L_03.wem"
         },
         "12c273f94e78c3c3": {
             "hash": "12c273f94e78c3c3",
@@ -1946,7 +1946,7 @@
             "hash": "139f59e7aa994aa5",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_01.wem"
+            "sourceName": "vo_hutao_battle_hit_L_01.wem"
         },
         "13ecec5d0372a4f5": {
             "hash": "13ecec5d0372a4f5",
@@ -1954,11 +1954,11 @@
             "voiceContent": "パパっと札を出しただけで、またすぐに勝っちゃった",
             "sourceName": "vo_card_hutao_invite_hard_02.wem"
         },
-        "13f8e492333b4aac": {
-            "hash": "13f8e492333b4aac",
+        "16e6a6a778ab5a87": {
+            "hash": "16e6a6a778ab5a87",
             "directory": "External2",
-            "voiceContent": "うぇ…これ何",
-            "sourceName": "vo_hutao_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_48_hutao_04.wem"
         },
         "1752600afbddeafd": {
             "hash": "1752600afbddeafd",
@@ -1982,7 +1982,7 @@
             "hash": "1e8f1b5b7fedfe6f",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackheavy_02.wem"
+            "sourceName": "vo_hutao_battle_attackHeavy_02.wem"
         },
         "1f0f137dc4fdaa6e": {
             "hash": "1f0f137dc4fdaa6e",
@@ -2012,7 +2012,13 @@
             "hash": "2810df8b59aadab7",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_05.wem"
+            "sourceName": "vo_hutao_battle_attackLight_05.wem"
+        },
+        "2828b29668cfba6d": {
+            "hash": "2828b29668cfba6d",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_48_hutao_02.wem"
         },
         "2b5132ffb9d1be98": {
             "hash": "2b5132ffb9d1be98",
@@ -2036,19 +2042,13 @@
             "hash": "3174b667316db409",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackmid_01.wem"
+            "sourceName": "vo_hutao_battle_attackMid_01.wem"
         },
         "31d1db4ab6b18d9d": {
             "hash": "31d1db4ab6b18d9d",
             "directory": "External6",
             "voiceContent": "SFX",
             "sourceName": "vo_hutao_explore_climb_breath_02.wem"
-        },
-        "3372b69231e0d722": {
-            "hash": "3372b69231e0d722",
-            "directory": "External6",
-            "voiceContent": "よしよし。堂主である私が、この料理に詩を一編書いてあげる—",
-            "sourceName": "vo_hutao_spice_event_pref_01.wem"
         },
         "338e25988d09417e": {
             "hash": "338e25988d09417e",
@@ -2096,7 +2096,7 @@
             "hash": "42edea5621c1998f",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackmid_03.wem"
+            "sourceName": "vo_hutao_battle_attackMid_03.wem"
         },
         "43e67226f613c627": {
             "hash": "43e67226f613c627",
@@ -2174,7 +2174,7 @@
             "hash": "52bff1a2d38d65d0",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_06.wem"
+            "sourceName": "vo_hutao_battle_attackLight_06.wem"
         },
         "531cbc22c1e6e0b1": {
             "hash": "531cbc22c1e6e0b1",
@@ -2188,11 +2188,17 @@
             "voiceContent": "私は「往生堂」七十七代目堂主、おじいちゃんが七十五代目よ。私が初めて引き受けた仕事は、おじいちゃんの葬儀だったの。うん？意外だった？知らないうちに何年もやってきた…時間が経つのって早いね",
             "sourceName": "vo_hutao_friendship_04.wem"
         },
+        "555791b447324bdb": {
+            "hash": "555791b447324bdb",
+            "directory": "External10",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_hutao_02.wem"
+        },
         "58b0a0116f6b0a18": {
             "hash": "58b0a0116f6b0a18",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_04.wem"
+            "sourceName": "vo_hutao_battle_hit_L_04.wem"
         },
         "58c383df3ae57842": {
             "hash": "58c383df3ae57842",
@@ -2205,6 +2211,18 @@
             "directory": "External11",
             "voiceContent": "よっ！お昼だね、ご飯食べた",
             "sourceName": "vo_hutao_dialog_greetingNoon.wem"
+        },
+        "5ba9890e9841b357": {
+            "hash": "5ba9890e9841b357",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_suit_winter_03.wem"
+        },
+        "5cd3752042c3b171": {
+            "hash": "5cd3752042c3b171",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_suit_winter_01.wem"
         },
         "5fefa40a8d6b57eb": {
             "hash": "5fefa40a8d6b57eb",
@@ -2228,7 +2246,7 @@
             "hash": "643c3f69dac107a3",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_01.wem"
+            "sourceName": "vo_hutao_battle_attackLight_01.wem"
         },
         "66e6ba0a9769bdd5": {
             "hash": "66e6ba0a9769bdd5",
@@ -2240,7 +2258,7 @@
             "hash": "6a29cc005fbee236",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_06.wem"
+            "sourceName": "vo_hutao_battle_hit_L_06.wem"
         },
         "6c75e69463ef338e": {
             "hash": "6c75e69463ef338e",
@@ -2348,7 +2366,7 @@
             "hash": "9679b03ed7b7e85c",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_h_04.wem"
+            "sourceName": "vo_hutao_battle_hit_H_04.wem"
         },
         "97a39c508239e67e": {
             "hash": "97a39c508239e67e",
@@ -2378,13 +2396,7 @@
             "hash": "9cd1b963c34dd286",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackheavy_03.wem"
-        },
-        "9ce0f67bbc554728": {
-            "hash": "9ce0f67bbc554728",
-            "directory": "External19",
-            "voiceContent": "手伝わなくていいの？一皿作ったら、私がもう一皿おまけで作ってあげるよ",
-            "sourceName": "vo_hutao_spice_event_normal_01.wem"
+            "sourceName": "vo_hutao_battle_attackHeavy_03.wem"
         },
         "9dc17f2375c1104e": {
             "hash": "9dc17f2375c1104e",
@@ -2414,7 +2426,7 @@
             "hash": "a1c39181efa5888c",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_02.wem"
+            "sourceName": "vo_hutao_battle_attackLight_02.wem"
         },
         "a245d87695374ba2": {
             "hash": "a245d87695374ba2",
@@ -2438,7 +2450,7 @@
             "hash": "a6537d939d0aafae",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_04.wem"
+            "sourceName": "vo_hutao_battle_attackLight_04.wem"
         },
         "a987db39151f352d": {
             "hash": "a987db39151f352d",
@@ -2468,7 +2480,7 @@
             "hash": "b403cd760b8737a8",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackheavy_01.wem"
+            "sourceName": "vo_hutao_battle_attackHeavy_01.wem"
         },
         "b707d228080d2267": {
             "hash": "b707d228080d2267",
@@ -2480,13 +2492,19 @@
             "hash": "b92e3bdf7bd86682",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_02.wem"
+            "sourceName": "vo_hutao_battle_hit_L_02.wem"
         },
         "bbfeda9bc1c4bde3": {
             "hash": "bbfeda9bc1c4bde3",
             "directory": "External23",
             "voiceContent": "雷だよ！気をつけて",
             "sourceName": "vo_hutao_weather_thunder_01.wem"
+        },
+        "bcaa989f4a166edc": {
+            "hash": "bcaa989f4a166edc",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_48_hutao_03.wem"
         },
         "bd4d4202cd7825fa": {
             "hash": "bd4d4202cd7825fa",
@@ -2498,7 +2516,7 @@
             "hash": "c130885e65216ea6",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attackmid_02.wem"
+            "sourceName": "vo_hutao_battle_attackMid_02.wem"
         },
         "c2edc153951519cc": {
             "hash": "c2edc153951519cc",
@@ -2600,7 +2618,7 @@
             "hash": "d4052c2f037df46a",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_h_06.wem"
+            "sourceName": "vo_hutao_battle_hit_H_06.wem"
         },
         "d466bd4285689f9a": {
             "hash": "d466bd4285689f9a",
@@ -2618,7 +2636,7 @@
             "hash": "d47d4b9a902d8351",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_attacklight_07.wem"
+            "sourceName": "vo_hutao_battle_attackLight_07.wem"
         },
         "d4d88dc1e34b2f24": {
             "hash": "d4d88dc1e34b2f24",
@@ -2638,17 +2656,29 @@
             "voiceContent": "ほら見てて…火の玉！そして～ほい！火の蝶々！やった！飛んでる",
             "sourceName": "vo_hutao_dialog_idle2.wem"
         },
+        "d7f343ce37c84964": {
+            "hash": "d7f343ce37c84964",
+            "directory": "External26",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_hutao_01.wem"
+        },
         "d8edbfabf25d92d0": {
             "hash": "d8edbfabf25d92d0",
             "directory": "External27",
             "voiceContent": "眠いの？じゃあ先に休んで、私はもう少し起きてるから",
             "sourceName": "vo_hutao_dialog_greetingNight2.wem"
         },
+        "d9ec2716dba1884e": {
+            "hash": "d9ec2716dba1884e",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_suit_winter_02.wem"
+        },
         "da6dfa092c0b2799": {
             "hash": "da6dfa092c0b2799",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_l_05.wem"
+            "sourceName": "vo_hutao_battle_hit_L_05.wem"
         },
         "de35c793b9e1ea9e": {
             "hash": "de35c793b9e1ea9e",
@@ -2696,13 +2726,13 @@
             "hash": "f0b5be47064cd407",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_h_03.wem"
+            "sourceName": "vo_hutao_battle_hit_H_03.wem"
         },
         "f1deaa58b0cd1f21": {
             "hash": "f1deaa58b0cd1f21",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_hutao_battle_hit_h_01.wem"
+            "sourceName": "vo_hutao_battle_hit_H_01.wem"
         },
         "f2c3349dcdf485b1": {
             "hash": "f2c3349dcdf485b1",
@@ -2722,6 +2752,12 @@
             "voiceContent": "えへへっ、いってらっしゃーい",
             "sourceName": "vo_card_hutao_inGame_easy_01.wem"
         },
+        "fa36148f75dc7aea": {
+            "hash": "fa36148f75dc7aea",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_48_hutao_01.wem"
+        },
         "fb7ba8d350600511": {
             "hash": "fb7ba8d350600511",
             "directory": "External31",
@@ -2733,18 +2769,6 @@
             "directory": "External31",
             "voiceContent": "おや？おやおや",
             "sourceName": "vo_hutao_starUp_01.wem"
-        },
-        "555791b447324bdb": {
-            "hash": "555791b447324bdb",
-            "directory": "External10",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_hutao_02.wem"
-        },
-        "d7f343ce37c84964": {
-            "hash": "d7f343ce37c84964",
-            "directory": "External26",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_hutao_01.wem"
         }
     }
 }

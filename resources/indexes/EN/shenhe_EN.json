@@ -308,11 +308,29 @@
         }
     },
     "Quests": {
+        "56c7e16e1d54d9b7": {
+            "hash": "56c7e16e1d54d9b7",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_02.wem"
+        },
+        "8176f385973764d0": {
+            "hash": "8176f385973764d0",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_01.wem"
+        },
         "9848fdbac95bddb3": {
             "hash": "9848fdbac95bddb3",
             "directory": "External19",
             "voiceContent": "It appears that we've been taken for intruders... This time, why not allow me to take care of this",
             "sourceName": "vo_SHLQ002_5_shenhe_01.wem"
+        },
+        "d50a7f7660b4aeae": {
+            "hash": "d50a7f7660b4aeae",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_03.wem"
         },
         "d5d14fd2de42119c": {
             "hash": "d5d14fd2de42119c",
@@ -326,7 +344,13 @@
             "hash": "012868a94c501465",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_07.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_07.wem"
+        },
+        "022778597012b797": {
+            "hash": "022778597012b797",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_08.wem"
         },
         "02f859dd59891aad": {
             "hash": "02f859dd59891aad",
@@ -352,6 +376,12 @@
             "voiceContent": "I haven't been training as single-mindedly lately, and yet it's as if I'm growing stronger and stronger without making a conscious effort... I'm left to assume the only way for me to achieve this is by your side",
             "sourceName": "vo_shenhe_starUp_03.wem"
         },
+        "0e6ffa4c8a0ee411": {
+            "hash": "0e6ffa4c8a0ee411",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_06.wem"
+        },
         "0eaa7f60a6945a37": {
             "hash": "0eaa7f60a6945a37",
             "directory": "External1",
@@ -368,7 +398,13 @@
             "hash": "0f43259ade9b88ad",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_01.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_01.wem"
+        },
+        "10b63620e74edeb8": {
+            "hash": "10b63620e74edeb8",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_10.wem"
         },
         "1397b1401c9609b1": {
             "hash": "1397b1401c9609b1",
@@ -386,7 +422,7 @@
             "hash": "17a493785f00c003",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_02.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_02.wem"
         },
         "18bb058ad2048af6": {
             "hash": "18bb058ad2048af6",
@@ -394,11 +430,29 @@
             "voiceContent": "Once, I secretly left the mountain and returned to my childhood village without telling my master. But it was deserted, and my father had long since passed away. I suddenly realized that the bond between my relatives and I had been completely severed. And nothing that I'd ever cared about in the past could ever have a future. Ever since then, I have abandoned everything related to the mortal world... That is, until I met you",
             "sourceName": "vo_shenhe_friendship_05.wem"
         },
-        "1f3bc1beaf22d160": {
-            "hash": "1f3bc1beaf22d160",
+        "1a8adc3f1c5719ca": {
+            "hash": "1a8adc3f1c5719ca",
             "directory": "External3",
-            "voiceContent": "No matter. I'm used to this kind of flavor, after all",
-            "sourceName": "vo_shenhe_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_12.wem"
+        },
+        "1d131a0e40f62384": {
+            "hash": "1d131a0e40f62384",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_07.wem"
+        },
+        "1df94ed5d0fbb8ea": {
+            "hash": "1df94ed5d0fbb8ea",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_02.wem"
+        },
+        "21a2061fee5997a6": {
+            "hash": "21a2061fee5997a6",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_01.wem"
         },
         "220d0e399fcd03dd": {
             "hash": "220d0e399fcd03dd",
@@ -406,17 +460,35 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_sprint_start_01.wem"
         },
+        "229f43e7eedee66b": {
+            "hash": "229f43e7eedee66b",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_17.wem"
+        },
         "2400bb4c7e0808d9": {
             "hash": "2400bb4c7e0808d9",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_05.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_05.wem"
+        },
+        "2595620fda85dfd6": {
+            "hash": "2595620fda85dfd6",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_12.wem"
         },
         "31186c49b169b6b1": {
             "hash": "31186c49b169b6b1",
             "directory": "External6",
             "voiceContent": "Mind be purged, world be saved",
             "sourceName": "vo_shenhe_character_idle_02.wem"
+        },
+        "31bde0516492163c": {
+            "hash": "31bde0516492163c",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_10.wem"
         },
         "33b6cfab9a27d784": {
             "hash": "33b6cfab9a27d784",
@@ -430,11 +502,23 @@
             "voiceContent": "Good morning. The dew is very sweet today, would you like some",
             "sourceName": "vo_shenhe_dialog_greetingMorning.wem"
         },
-        "3de1231b382b028c": {
-            "hash": "3de1231b382b028c",
+        "3aa9e0edd3ca9887": {
+            "hash": "3aa9e0edd3ca9887",
             "directory": "External7",
-            "voiceContent": "The food you cook is indisputably delicious. I can't refuse it",
-            "sourceName": "vo_shenhe_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_07.wem"
+        },
+        "3bcb5a68cc8b2081": {
+            "hash": "3bcb5a68cc8b2081",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_15.wem"
+        },
+        "3bd2ccff7e4ae3a1": {
+            "hash": "3bd2ccff7e4ae3a1",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_05.wem"
         },
         "427e4515b095c2f7": {
             "hash": "427e4515b095c2f7",
@@ -446,7 +530,7 @@
             "hash": "42d3aed30e3eaad8",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_02.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_02.wem"
         },
         "43dde3e1a1b5f183": {
             "hash": "43dde3e1a1b5f183",
@@ -484,6 +568,12 @@
             "voiceContent": "Feel free to rest. I'm a light sleeper, if I hear anything in the vicinity, I'll investigate it for you",
             "sourceName": "vo_shenhe_dialog_greetingNight2.wem"
         },
+        "46cfe4db2d42d183": {
+            "hash": "46cfe4db2d42d183",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_10.wem"
+        },
         "4745602acbabee25": {
             "hash": "4745602acbabee25",
             "directory": "External8",
@@ -495,6 +585,18 @@
             "directory": "External9",
             "voiceContent": "Mmm, this taste... Is it really meant for me",
             "sourceName": "vo_shenhe_spice_pref_01.wem"
+        },
+        "4a9b5a2b0b25111d": {
+            "hash": "4a9b5a2b0b25111d",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_02.wem"
+        },
+        "4bebecdcc3eef86d": {
+            "hash": "4bebecdcc3eef86d",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_01.wem"
         },
         "4d0328505c5b06d3": {
             "hash": "4d0328505c5b06d3",
@@ -518,7 +620,13 @@
             "hash": "5322aeb054101794",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_06.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_06.wem"
+        },
+        "555d7fca3421905d": {
+            "hash": "555d7fca3421905d",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_03.wem"
         },
         "5683ff941ad4516e": {
             "hash": "5683ff941ad4516e",
@@ -554,7 +662,7 @@
             "hash": "5f6def1954f6e98b",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_03.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_03.wem"
         },
         "6048ba9215fee426": {
             "hash": "6048ba9215fee426",
@@ -568,6 +676,12 @@
             "voiceContent": "In your dreams",
             "sourceName": "vo_shenhe_battle_hit_H_01.wem"
         },
+        "62048e3d538def77": {
+            "hash": "62048e3d538def77",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_04.wem"
+        },
         "6265f10df0adb5a7": {
             "hash": "6265f10df0adb5a7",
             "directory": "External12",
@@ -578,7 +692,7 @@
             "hash": "62d6b98ba818e033",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_03.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_03.wem"
         },
         "632a9b2c9308a00a": {
             "hash": "632a9b2c9308a00a",
@@ -622,11 +736,23 @@
             "voiceContent": "My father's intent was to trade my flesh and blood for my mother's life. After he abandoned me in that cave, I still held out hope that he'd come back to rescue me. One day went by. Then two days, three days... I used every ounce of energy in my body to fight off that monster. But as I collapsed on the ground, I finally realized that the day I was waiting for would never come. To this day, I don't know which one it is... Was I was abandoned because I'm cursed, or is it the way I've been treated in life that has cursed me",
             "sourceName": "vo_shenhe_friendship_04.wem"
         },
+        "70a675ff0a731c32": {
+            "hash": "70a675ff0a731c32",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_05.wem"
+        },
         "73fd8b60e4eed1e7": {
             "hash": "73fd8b60e4eed1e7",
             "directory": "External14",
             "voiceContent": "Adepti treasures have special powers... Hmm, what about mortal ones",
             "sourceName": "vo_shenhe_chest_open_02.wem"
+        },
+        "7499d1eef69f6422": {
+            "hash": "7499d1eef69f6422",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_16.wem"
         },
         "75a1a22a694c0e23": {
             "hash": "75a1a22a694c0e23",
@@ -634,17 +760,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_sprint_start_03.wem"
         },
+        "75c2b600a11fa1f4": {
+            "hash": "75c2b600a11fa1f4",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_14.wem"
+        },
         "7670a4701b7b019c": {
             "hash": "7670a4701b7b019c",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_04.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_04.wem"
         },
         "77795478570652fe": {
             "hash": "77795478570652fe",
             "directory": "External14",
             "voiceContent": "If you feel fatigued after lunch, you should try meditating. It's very effective",
             "sourceName": "vo_shenhe_dialog_greetingNoon.wem"
+        },
+        "785f0be0770a2192": {
+            "hash": "785f0be0770a2192",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_09.wem"
         },
         "7b009081c8e028be": {
             "hash": "7b009081c8e028be",
@@ -657,6 +795,24 @@
             "directory": "External15",
             "voiceContent": "Do you prefer the artificial light of the cities and towns, or the moonlight in the mountains",
             "sourceName": "vo_shenhe_dialog_greetingNight.wem"
+        },
+        "7e38500d2b79cbd4": {
+            "hash": "7e38500d2b79cbd4",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_18.wem"
+        },
+        "7e3fc2a3dd398ef4": {
+            "hash": "7e3fc2a3dd398ef4",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_08.wem"
+        },
+        "806a1661b3728c8e": {
+            "hash": "806a1661b3728c8e",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_09.wem"
         },
         "857a9335f698aa2a": {
             "hash": "857a9335f698aa2a",
@@ -688,11 +844,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_jump_03.wem"
         },
+        "88ed66634d040920": {
+            "hash": "88ed66634d040920",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_18.wem"
+        },
         "8a75283970e8d681": {
             "hash": "8a75283970e8d681",
             "directory": "External17",
             "voiceContent": "I've sampled numerous dishes during my time away from the mountains, but the truth is that I don't really remember how they taste. The only dish I can never forget the flavor of is that bowl of noodles I ate at home, so long ago... I shouldn't have to remember that. Why do I have to remember that",
             "sourceName": "vo_shenhe_pref_foodLike.wem"
+        },
+        "8bf8ee5993254fe7": {
+            "hash": "8bf8ee5993254fe7",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_17.wem"
         },
         "8c56a654907dad98": {
             "hash": "8c56a654907dad98",
@@ -705,6 +873,12 @@
             "directory": "External17",
             "voiceContent": "I've been told that birthdays are important occasions for most people. They give presents to celebrate the anniversary of the other person's birth. Material possessions aren't really my thing, but... The view of the starry night sky in the mountains is the most beautiful thing I've ever seen in my life. I've frozen this lake and turned it into a mirror, so you can appreciate the reflection of the fleeting clouds and distant stars right up close. This is my way of celebrating your birthday... Hope you like it",
             "sourceName": "vo_shenhe_pref_birthday_01.wem"
+        },
+        "8cb2a054cd6ec690": {
+            "hash": "8cb2a054cd6ec690",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_07.wem"
         },
         "8ced1d68e9f42f2e": {
             "hash": "8ced1d68e9f42f2e",
@@ -730,11 +904,29 @@
             "voiceContent": "I rarely leave the mountains, so I was never taught proper manners. When a conflict arises, I just take care of it the way that comes naturally to me. But if you don't approve of my methods, please do let me know. Even if I don't fully understand your reasoning, I will always defer to you",
             "sourceName": "vo_shenhe_dialog_close.wem"
         },
+        "916a7306891df620": {
+            "hash": "916a7306891df620",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_04.wem"
+        },
+        "91e63428baa5dd09": {
+            "hash": "91e63428baa5dd09",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_02.wem"
+        },
         "94a231d01a84a0d0": {
             "hash": "94a231d01a84a0d0",
             "directory": "External18",
             "voiceContent": "Alright. You can go ahead, I'll be right behind you",
             "sourceName": "vo_card_shenhe_leave_01.wem"
+        },
+        "95d99018a6d22539": {
+            "hash": "95d99018a6d22539",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_11.wem"
         },
         "9620a77664eb5e5e": {
             "hash": "9620a77664eb5e5e",
@@ -759,6 +951,12 @@
             "directory": "External19",
             "voiceContent": "The food you cook is indisputably delicious. I can't refuse it",
             "sourceName": "vo_shenhe_spice_normal_01.wem"
+        },
+        "9c120e36d8c963d3": {
+            "hash": "9c120e36d8c963d3",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_13.wem"
         },
         "9c4121a6de9e86af": {
             "hash": "9c4121a6de9e86af",
@@ -790,11 +988,29 @@
             "voiceContent": "Transfiguration",
             "sourceName": "vo_shenhe_battle_skill1_04.wem"
         },
+        "9f8080cd8d6e02f3": {
+            "hash": "9f8080cd8d6e02f3",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_03.wem"
+        },
+        "a0a1fa48862e8acd": {
+            "hash": "a0a1fa48862e8acd",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_11.wem"
+        },
         "a2436154c167eb58": {
             "hash": "a2436154c167eb58",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_04.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_04.wem"
+        },
+        "a26c540600a6c315": {
+            "hash": "a26c540600a6c315",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_06.wem"
         },
         "a61c317439a65d4c": {
             "hash": "a61c317439a65d4c",
@@ -806,7 +1022,13 @@
             "hash": "a6b64aa11d8d7d42",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_04.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_04.wem"
+        },
+        "a8f213bafda09aa3": {
+            "hash": "a8f213bafda09aa3",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_01.wem"
         },
         "aacb1e404764648e": {
             "hash": "aacb1e404764648e",
@@ -824,19 +1046,25 @@
             "hash": "ad506592eac9736c",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_01.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_01.wem"
         },
         "ad5dbcb882a3515f": {
             "hash": "ad5dbcb882a3515f",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_01.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_01.wem"
+        },
+        "af72ecd541494f9a": {
+            "hash": "af72ecd541494f9a",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_shenhe_01.wem"
         },
         "b3fb2060473f5aaa": {
             "hash": "b3fb2060473f5aaa",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_06.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_06.wem"
         },
         "b4974f14f89d249e": {
             "hash": "b4974f14f89d249e",
@@ -860,7 +1088,7 @@
             "hash": "b7228d43b49eec76",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_06.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_06.wem"
         },
         "b7952d6329f9e31a": {
             "hash": "b7952d6329f9e31a",
@@ -890,7 +1118,7 @@
             "hash": "bec96181db1cf93a",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_03.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_03.wem"
         },
         "c18cc6eca1aea050": {
             "hash": "c18cc6eca1aea050",
@@ -908,7 +1136,7 @@
             "hash": "c49108cacadec859",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_03.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_03.wem"
         },
         "c62de967ecdc8dde": {
             "hash": "c62de967ecdc8dde",
@@ -922,12 +1150,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_sprint_start_02.wem"
         },
-        "ca6452310fefda06": {
-            "hash": "ca6452310fefda06",
-            "directory": "External25",
-            "voiceContent": "Mmm, this taste... Is it really meant for me",
-            "sourceName": "vo_shenhe_spice_event_pref_01.wem"
-        },
         "cabe1d799a422e80": {
             "hash": "cabe1d799a422e80",
             "directory": "External25",
@@ -939,6 +1161,12 @@
             "directory": "External25",
             "voiceContent": "For all the training I've had — honing my body and mind, learning the adepti arts — I've mostly been guided by my own instincts. It just comes down to self-preservation. I'm not trying to save the world, so if I wipe out some evil presence and it happens to benefit you, don't thank me. It's just a force of habit",
             "sourceName": "vo_shenhe_dialog_idle.wem"
+        },
+        "cf0aeff725604845": {
+            "hash": "cf0aeff725604845",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_15.wem"
         },
         "cf355ea376cf1d23": {
             "hash": "cf355ea376cf1d23",
@@ -968,7 +1196,7 @@
             "hash": "d0abb2784a0e3b47",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_03.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_03.wem"
         },
         "d19ebbd663b0ff2a": {
             "hash": "d19ebbd663b0ff2a",
@@ -976,11 +1204,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_climb_02.wem"
         },
+        "d364c408d297b6bf": {
+            "hash": "d364c408d297b6bf",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_13.wem"
+        },
         "d53b9e89f7736261": {
             "hash": "d53b9e89f7736261",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_01.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_01.wem"
         },
         "d546552bf5e741d4": {
             "hash": "d546552bf5e741d4",
@@ -994,6 +1228,12 @@
             "voiceContent": "I often see her wandering in the woods singing strange songs. Actually, I must have heard all of her songs several times each by now. I'm used to her singing, but I still find it strange. That being said, I don't hate it either",
             "sourceName": "vo_shenhe_teammate_hutao_01.wem"
         },
+        "d787fc9a617a3545": {
+            "hash": "d787fc9a617a3545",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_09.wem"
+        },
         "d8d4eb8cda2ca411": {
             "hash": "d8d4eb8cda2ca411",
             "directory": "External27",
@@ -1006,11 +1246,29 @@
             "voiceContent": "Huh",
             "sourceName": "vo_card_shenhe_inGame_easy_02.wem"
         },
+        "dbb74033e9889d4c": {
+            "hash": "dbb74033e9889d4c",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_03.wem"
+        },
+        "dce12c45940a9b6e": {
+            "hash": "dce12c45940a9b6e",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_05.wem"
+        },
         "dde98793e8c36d2a": {
             "hash": "dde98793e8c36d2a",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_02.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_02.wem"
+        },
+        "de294c609b130bde": {
+            "hash": "de294c609b130bde",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_16.wem"
         },
         "e0590e0daeaee19a": {
             "hash": "e0590e0daeaee19a",
@@ -1024,11 +1282,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_climb_breath_01.wem"
         },
+        "e197bef74fb7aafe": {
+            "hash": "e197bef74fb7aafe",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_06.wem"
+        },
         "e2061c89d29f0f0f": {
             "hash": "e2061c89d29f0f0f",
             "directory": "External28",
             "voiceContent": "Do your master's bidding",
             "sourceName": "vo_shenhe_battle_skill3_03.wem"
+        },
+        "e2b980724878ac80": {
+            "hash": "e2b980724878ac80",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_14.wem"
+        },
+        "e4179a2fc2955a48": {
+            "hash": "e4179a2fc2955a48",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_03.wem"
         },
         "e49353c960a08e88": {
             "hash": "e49353c960a08e88",
@@ -1040,7 +1316,13 @@
             "hash": "e554be673d17762d",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_05.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_05.wem"
+        },
+        "e67965d312851b8c": {
+            "hash": "e67965d312851b8c",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_02.wem"
         },
         "e816cd24525c6013": {
             "hash": "e816cd24525c6013",
@@ -1072,6 +1354,18 @@
             "voiceContent": "In the mortal world, at times like these, is it not customary to... use an umbrella",
             "sourceName": "vo_shenhe_weather_heavyRain_01.wem"
         },
+        "ed303c22d9dc231a": {
+            "hash": "ed303c22d9dc231a",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_01.wem"
+        },
+        "edf4b2e4a95f0aba": {
+            "hash": "edf4b2e4a95f0aba",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_11.wem"
+        },
         "eee9b124e716b791": {
             "hash": "eee9b124e716b791",
             "directory": "External29",
@@ -1083,6 +1377,12 @@
             "directory": "External30",
             "voiceContent": "Allow me to finish this",
             "sourceName": "vo_shenhe_life_less30_teammate_02.wem"
+        },
+        "f299e7f6c740f27b": {
+            "hash": "f299e7f6c740f27b",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_04.wem"
         },
         "f2df3a0013e506e1": {
             "hash": "f2df3a0013e506e1",
@@ -1132,6 +1432,12 @@
             "voiceContent": "I once believed that freeing my mind from all agitation was the only way to overcome. But after everything I've experienced recently, I finally understand... Only when the right things weigh on your mind can the desire to protect awaken inside of you. And that turns your power into something... meaningful",
             "sourceName": "vo_shenhe_starUp_04.wem"
         },
+        "fa537dd833d9aadb": {
+            "hash": "fa537dd833d9aadb",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_08.wem"
+        },
         "fb31420d7f435713": {
             "hash": "fb31420d7f435713",
             "directory": "External31",
@@ -1148,7 +1454,7 @@
             "hash": "fffe3c97a1cda90b",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_05.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_05.wem"
         }
     }
 }

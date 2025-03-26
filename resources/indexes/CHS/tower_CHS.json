@@ -1,0 +1,5046 @@
+{
+    "Teapot": {},
+    "Quests": {},
+    "Gameplay": {
+        "007d8816d5bbb0eb": {
+            "hash": "007d8816d5bbb0eb",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chiori_saferoom_challenge_01.wem"
+        },
+        "00cb2da8c0215f15": {
+            "hash": "00cb2da8c0215f15",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_baizhu_saferoom_challenge_02.wem"
+        },
+        "0181f5685910f0dd": {
+            "hash": "0181f5685910f0dd",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_eula_saferoom_rest_01.wem"
+        },
+        "01a38f0ca44ebdfa": {
+            "hash": "01a38f0ca44ebdfa",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_saferoom_others_01.wem"
+        },
+        "01b23129b9fc71e9": {
+            "hash": "01b23129b9fc71e9",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_saferoom_rest_01.wem"
+        },
+        "01ba6ab223782041": {
+            "hash": "01ba6ab223782041",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_emilie_saferoom_challenge_02.wem"
+        },
+        "01ec1086e9d6d64c": {
+            "hash": "01ec1086e9d6d64c",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_saferoom_rest_02.wem"
+        },
+        "020fdbce962b61e4": {
+            "hash": "020fdbce962b61e4",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chiori_saferoom_rest_03.wem"
+        },
+        "02681718187f41e6": {
+            "hash": "02681718187f41e6",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chevreuse_saferoom_rest_01.wem"
+        },
+        "02755676b3d435a2": {
+            "hash": "02755676b3d435a2",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_alhaitham_saferoom_others_03.wem"
+        },
+        "0275d84220e2816b": {
+            "hash": "0275d84220e2816b",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mavuika_saferoom_others_03.wem"
+        },
+        "0283011e4e07501c": {
+            "hash": "0283011e4e07501c",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_razor_saferoom_challenge_02.wem"
+        },
+        "03795c893a588073": {
+            "hash": "03795c893a588073",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yanfei_saferoom_challenge_03.wem"
+        },
+        "039e3a885e547374": {
+            "hash": "039e3a885e547374",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_alhaitham_saferoom_others_01.wem"
+        },
+        "03b4e27f96f7b6d8": {
+            "hash": "03b4e27f96f7b6d8",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_fischl_saferoom_others_03.wem"
+        },
+        "040aeab095182661": {
+            "hash": "040aeab095182661",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_saferoom_others_01.wem"
+        },
+        "0514bea375892505": {
+            "hash": "0514bea375892505",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_cyno_saferoom_others_02.wem"
+        },
+        "0515140adecb2e91": {
+            "hash": "0515140adecb2e91",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_challenge_02.wem"
+        },
+        "079f48ff174e080c": {
+            "hash": "079f48ff174e080c",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qin_saferoom_challenge_02.wem"
+        },
+        "07a99099a1118f98": {
+            "hash": "07a99099a1118f98",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qin_saferoom_others_02.wem"
+        },
+        "07dc01c8f2c3c3e1": {
+            "hash": "07dc01c8f2c3c3e1",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xingqiu_saferoom_others_02.wem"
+        },
+        "07e438c7ddb37d82": {
+            "hash": "07e438c7ddb37d82",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lyney_saferoom_others_01.wem"
+        },
+        "080f40da8ff006d2": {
+            "hash": "080f40da8ff006d2",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yoimiya_saferoom_others_03.wem"
+        },
+        "08a73798b9d6bde8": {
+            "hash": "08a73798b9d6bde8",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kachina_saferoom_others_01.wem"
+        },
+        "08aab806ff309cb0": {
+            "hash": "08aab806ff309cb0",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chiori_saferoom_others_02.wem"
+        },
+        "08b58d4078e2d8ff": {
+            "hash": "08b58d4078e2d8ff",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_saferoom_challenge_01.wem"
+        },
+        "093864ec3a70b0a4": {
+            "hash": "093864ec3a70b0a4",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yoimiya_saferoom_others_01.wem"
+        },
+        "09b92516c41997bb": {
+            "hash": "09b92516c41997bb",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_collei_saferoom_others_03.wem"
+        },
+        "09e9a739fdf4e983": {
+            "hash": "09e9a739fdf4e983",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_keqing_saferoom_rest_03.wem"
+        },
+        "0ac30a49ca2aec76": {
+            "hash": "0ac30a49ca2aec76",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_saferoom_rest_03.wem"
+        },
+        "0b13934ba876e7bd": {
+            "hash": "0b13934ba876e7bd",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_keqing_saferoom_rest_01.wem"
+        },
+        "0b8b9ea3ee059cd3": {
+            "hash": "0b8b9ea3ee059cd3",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chasca_saferoom_challenge_02.wem"
+        },
+        "0ce8243fe5ed1e99": {
+            "hash": "0ce8243fe5ed1e99",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_candace_saferoom_others_02.wem"
+        },
+        "0cee91e9ea02ccae": {
+            "hash": "0cee91e9ea02ccae",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_saferoom_challenge_01.wem"
+        },
+        "0d46d5bcde4e687c": {
+            "hash": "0d46d5bcde4e687c",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_keqing_saferoom_challenge_03.wem"
+        },
+        "0d662b5d393f5698": {
+            "hash": "0d662b5d393f5698",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mualani_saferoom_challenge_03.wem"
+        },
+        "0d932c984e4095a0": {
+            "hash": "0d932c984e4095a0",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shinobu_saferoom_others_02.wem"
+        },
+        "0dd1867621b7c139": {
+            "hash": "0dd1867621b7c139",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sethos_saferoom_challenge_03.wem"
+        },
+        "0dec67c746a9f309": {
+            "hash": "0dec67c746a9f309",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaeMiko_saferoom_others_02.wem"
+        },
+        "0e7e9e220612b694": {
+            "hash": "0e7e9e220612b694",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shinobu_saferoom_rest_03.wem"
+        },
+        "0f264bb56e4598ae": {
+            "hash": "0f264bb56e4598ae",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiao_saferoom_challenge_03.wem"
+        },
+        "0f4d46195c7773a3": {
+            "hash": "0f4d46195c7773a3",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_albedo_saferoom_rest_03.wem"
+        },
+        "0fd3f6cd350cb7de": {
+            "hash": "0fd3f6cd350cb7de",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_saferoom_challenge_01.wem"
+        },
+        "10923639cf1a0596": {
+            "hash": "10923639cf1a0596",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_saferoom_rest_02.wem"
+        },
+        "10c99e0082a28a0e": {
+            "hash": "10c99e0082a28a0e",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dori_saferoom_others_02.wem"
+        },
+        "112297a48a1698bd": {
+            "hash": "112297a48a1698bd",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qin_saferoom_rest_02.wem"
+        },
+        "11e34a8652a890ae": {
+            "hash": "11e34a8652a890ae",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lynette_saferoom_others_01.wem"
+        },
+        "11fab1158b4a2e14": {
+            "hash": "11fab1158b4a2e14",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chongyun_saferoom_challenge_03.wem"
+        },
+        "12c0ab2c0a08ea94": {
+            "hash": "12c0ab2c0a08ea94",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_barbara_saferoom_challenge_01.wem"
+        },
+        "12defcbb17335319": {
+            "hash": "12defcbb17335319",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_olorun_saferoom_rest_01.wem"
+        },
+        "132b6518aa50576f": {
+            "hash": "132b6518aa50576f",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_saferoom_rest_03.wem"
+        },
+        "1364484fe00912e5": {
+            "hash": "1364484fe00912e5",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_charlotte_saferoom_rest_02.wem"
+        },
+        "1392e5b65c7c6a6a": {
+            "hash": "1392e5b65c7c6a6a",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_saferoom_others_03.wem"
+        },
+        "13f555ce91e5986a": {
+            "hash": "13f555ce91e5986a",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ganyu_saferoom_rest_01.wem"
+        },
+        "1450efce934c3ccc": {
+            "hash": "1450efce934c3ccc",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chevreuse_saferoom_others_02.wem"
+        },
+        "14642adee2725880": {
+            "hash": "14642adee2725880",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_saferoom_challenge_03.wem"
+        },
+        "14bcc4514840a07f": {
+            "hash": "14bcc4514840a07f",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_saferoom_others_02.wem"
+        },
+        "15000338a7ce3d07": {
+            "hash": "15000338a7ce3d07",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_saferoom_challenge_01.wem"
+        },
+        "150218b196612753": {
+            "hash": "150218b196612753",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_collei_saferoom_rest_02.wem"
+        },
+        "15634cec54ac872d": {
+            "hash": "15634cec54ac872d",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yelan_saferoom_rest_03.wem"
+        },
+        "15a3976ca5f87b4c": {
+            "hash": "15a3976ca5f87b4c",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yunjin_saferoom_challenge_03.wem"
+        },
+        "15ac79a83dbe57b7": {
+            "hash": "15ac79a83dbe57b7",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dori_saferoom_rest_02.wem"
+        },
+        "15b075589b475f7e": {
+            "hash": "15b075589b475f7e",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_saferoom_challenge_02.wem"
+        },
+        "1628ef4a524e8821": {
+            "hash": "1628ef4a524e8821",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_saferoom_challenge_03.wem"
+        },
+        "167d8ac4d28bb62a": {
+            "hash": "167d8ac4d28bb62a",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_layla_saferoom_challenge_03.wem"
+        },
+        "1696993a5f323197": {
+            "hash": "1696993a5f323197",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mika_saferoom_challenge_01.wem"
+        },
+        "16cf8aaa74281b3f": {
+            "hash": "16cf8aaa74281b3f",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_emilie_saferoom_others_02.wem"
+        },
+        "173e92b63b370fc8": {
+            "hash": "173e92b63b370fc8",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_saferoom_others_01.wem"
+        },
+        "17500cda76861265": {
+            "hash": "17500cda76861265",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_layla_saferoom_others_02.wem"
+        },
+        "1786861ecc3a0c77": {
+            "hash": "1786861ecc3a0c77",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mualani_saferoom_rest_03.wem"
+        },
+        "17f1f3070dea71b7": {
+            "hash": "17f1f3070dea71b7",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mizuki_saferoom_challenge_02.wem"
+        },
+        "18283224b356f9fe": {
+            "hash": "18283224b356f9fe",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_saferoom_others_01.wem"
+        },
+        "1863e2dd4814cae7": {
+            "hash": "1863e2dd4814cae7",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_zhongli_saferoom_rest_03.wem"
+        },
+        "18940e6e8a2eb7f6": {
+            "hash": "18940e6e8a2eb7f6",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_fischl_saferoom_others_01.wem"
+        },
+        "18e997921c991214": {
+            "hash": "18e997921c991214",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_saferoom_challenge_03.wem"
+        },
+        "192d0bfd4ee99070": {
+            "hash": "192d0bfd4ee99070",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaeya_saferoom_rest_02.wem"
+        },
+        "196987108725e408": {
+            "hash": "196987108725e408",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_zhongli_saferoom_challenge_03.wem"
+        },
+        "1a9ddc68992082d9": {
+            "hash": "1a9ddc68992082d9",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diluc_saferoom_others_02.wem"
+        },
+        "1aa119f27e9586ef": {
+            "hash": "1aa119f27e9586ef",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_saferoom_rest_02.wem"
+        },
+        "1afc33d15068f054": {
+            "hash": "1afc33d15068f054",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaeMiko_saferoom_rest_02.wem"
+        },
+        "1b128b31b2f1f1a0": {
+            "hash": "1b128b31b2f1f1a0",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chevreuse_saferoom_challenge_02.wem"
+        },
+        "1b26854c0c9758b1": {
+            "hash": "1b26854c0c9758b1",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mika_saferoom_challenge_03.wem"
+        },
+        "1b6752c77394d0c9": {
+            "hash": "1b6752c77394d0c9",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_beidou_saferoom_others_01.wem"
+        },
+        "1b9b25e889353c3b": {
+            "hash": "1b9b25e889353c3b",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xianyun_saferoom_challenge_01.wem"
+        },
+        "1c57955e2bc2103c": {
+            "hash": "1c57955e2bc2103c",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayaka_saferoom_rest_02.wem"
+        },
+        "1cb4fc3b86beab09": {
+            "hash": "1cb4fc3b86beab09",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qiqi_saferoom_challenge_01.wem"
+        },
+        "1cecf787adb7909b": {
+            "hash": "1cecf787adb7909b",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_fischl_saferoom_rest_01.wem"
+        },
+        "1d87c37b4e9e26db": {
+            "hash": "1d87c37b4e9e26db",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_candace_saferoom_rest_01.wem"
+        },
+        "1d8e913dc1ad0f01": {
+            "hash": "1d8e913dc1ad0f01",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sayu_saferoom_others_03.wem"
+        },
+        "1da9daf513bb7ffe": {
+            "hash": "1da9daf513bb7ffe",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_beidou_saferoom_challenge_02.wem"
+        },
+        "1e16e39958398eb5": {
+            "hash": "1e16e39958398eb5",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_fischl_saferoom_rest_03.wem"
+        },
+        "1e1e6b62de5c452e": {
+            "hash": "1e1e6b62de5c452e",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_zhongli_saferoom_others_03.wem"
+        },
+        "1e80ed4b95c14544": {
+            "hash": "1e80ed4b95c14544",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_saferoom_challenge_02.wem"
+        },
+        "1e95aafa34e64b08": {
+            "hash": "1e95aafa34e64b08",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_saferoom_challenge_01.wem"
+        },
+        "1eaa45585b29782b": {
+            "hash": "1eaa45585b29782b",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_saferoom_others_03.wem"
+        },
+        "1edcd0103763ab9d": {
+            "hash": "1edcd0103763ab9d",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_saferoom_others_03.wem"
+        },
+        "1edf574c29932eb6": {
+            "hash": "1edf574c29932eb6",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mualani_saferoom_challenge_01.wem"
+        },
+        "1f346d3ccb0f00a0": {
+            "hash": "1f346d3ccb0f00a0",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qiqi_saferoom_rest_01.wem"
+        },
+        "1f74345e293329dd": {
+            "hash": "1f74345e293329dd",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_saferoom_rest_03.wem"
+        },
+        "202735215a4bff2b": {
+            "hash": "202735215a4bff2b",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sucrose_saferoom_challenge_03.wem"
+        },
+        "2085a8253e458c94": {
+            "hash": "2085a8253e458c94",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_saferoom_others_02.wem"
+        },
+        "20e48502becff1b3": {
+            "hash": "20e48502becff1b3",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_noelle_saferoom_others_02.wem"
+        },
+        "212f3f833b778575": {
+            "hash": "212f3f833b778575",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_raidenEi_saferoom_challenge_02.wem"
+        },
+        "2154cca2752317d3": {
+            "hash": "2154cca2752317d3",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yanfei_saferoom_rest_02.wem"
+        },
+        "21d7b1dd04bb7155": {
+            "hash": "21d7b1dd04bb7155",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_saferoom_rest_01.wem"
+        },
+        "220422b59eb3fd5b": {
+            "hash": "220422b59eb3fd5b",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_charlotte_saferoom_challenge_01.wem"
+        },
+        "2216af8cfc019af5": {
+            "hash": "2216af8cfc019af5",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_candace_saferoom_rest_03.wem"
+        },
+        "2226d8cad070e5d1": {
+            "hash": "2226d8cad070e5d1",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayaka_saferoom_others_02.wem"
+        },
+        "22d9fcca5864a8e0": {
+            "hash": "22d9fcca5864a8e0",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_saferoom_others_03.wem"
+        },
+        "2388ecac2836cff2": {
+            "hash": "2388ecac2836cff2",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_saferoom_rest_02.wem"
+        },
+        "23d6e12a30483c27": {
+            "hash": "23d6e12a30483c27",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_saferoom_rest_01.wem"
+        },
+        "2438a4af43ddb12a": {
+            "hash": "2438a4af43ddb12a",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_eula_saferoom_challenge_01.wem"
+        },
+        "251c450fbfef3fd9": {
+            "hash": "251c450fbfef3fd9",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mika_saferoom_rest_02.wem"
+        },
+        "253097ebd03b0dfb": {
+            "hash": "253097ebd03b0dfb",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_noelle_saferoom_rest_03.wem"
+        },
+        "254822818c60f02b": {
+            "hash": "254822818c60f02b",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nahida_saferoom_rest_03.wem"
+        },
+        "25e2194768dcde34": {
+            "hash": "25e2194768dcde34",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_saferoom_rest_02.wem"
+        },
+        "265846fe596db501": {
+            "hash": "265846fe596db501",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_saferoom_others_03.wem"
+        },
+        "26930ec74c177175": {
+            "hash": "26930ec74c177175",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_charlotte_saferoom_challenge_03.wem"
+        },
+        "26ec27a92bf86778": {
+            "hash": "26ec27a92bf86778",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lynette_saferoom_challenge_01.wem"
+        },
+        "271c935b964c011a": {
+            "hash": "271c935b964c011a",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yunjin_saferoom_challenge_01.wem"
+        },
+        "278b2383e34d23e9": {
+            "hash": "278b2383e34d23e9",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gorou_saferoom_challenge_03.wem"
+        },
+        "278bc4c221868035": {
+            "hash": "278bc4c221868035",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_noelle_saferoom_challenge_02.wem"
+        },
+        "27b18daa4419c8a3": {
+            "hash": "27b18daa4419c8a3",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mavuika_saferoom_challenge_03.wem"
+        },
+        "27b823d8022b316d": {
+            "hash": "27b823d8022b316d",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_barbara_saferoom_others_02.wem"
+        },
+        "283506eb27c7b8aa": {
+            "hash": "283506eb27c7b8aa",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tighnari_saferoom_others_02.wem"
+        },
+        "28490c4296c36e51": {
+            "hash": "28490c4296c36e51",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_rosaria_saferoom_rest_03.wem"
+        },
+        "286e9ef6d3f8c2b9": {
+            "hash": "286e9ef6d3f8c2b9",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_saferoom_others_01.wem"
+        },
+        "28b5585e41e1ed26": {
+            "hash": "28b5585e41e1ed26",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_saferoom_challenge_03.wem"
+        },
+        "28b8b8fcd899840d": {
+            "hash": "28b8b8fcd899840d",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_razor_saferoom_rest_02.wem"
+        },
+        "2965245685ba8f2e": {
+            "hash": "2965245685ba8f2e",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_neuvillette_saferoom_others_03.wem"
+        },
+        "29a9a8425f3d5936": {
+            "hash": "29a9a8425f3d5936",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kachina_saferoom_rest_02.wem"
+        },
+        "2a0d60be10f3e546": {
+            "hash": "2a0d60be10f3e546",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_olorun_saferoom_others_03.wem"
+        },
+        "2b41b72ca984888f": {
+            "hash": "2b41b72ca984888f",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xingqiu_saferoom_challenge_02.wem"
+        },
+        "2b46c05308b506a9": {
+            "hash": "2b46c05308b506a9",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_layla_saferoom_rest_03.wem"
+        },
+        "2b47d1b2d982e7f8": {
+            "hash": "2b47d1b2d982e7f8",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayaka_saferoom_challenge_01.wem"
+        },
+        "2b59049fb7c10a49": {
+            "hash": "2b59049fb7c10a49",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_saferoom_rest_02.wem"
+        },
+        "2bf8585f2c052c60": {
+            "hash": "2bf8585f2c052c60",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaeMiko_saferoom_challenge_01.wem"
+        },
+        "2c27c6152278aa3a": {
+            "hash": "2c27c6152278aa3a",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yoimiya_saferoom_rest_02.wem"
+        },
+        "2ce086b663e8b64f": {
+            "hash": "2ce086b663e8b64f",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_beidou_saferoom_others_03.wem"
+        },
+        "2d8086f5d9912a8c": {
+            "hash": "2d8086f5d9912a8c",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xingqiu_saferoom_rest_02.wem"
+        },
+        "2de4bc4523ecc15a": {
+            "hash": "2de4bc4523ecc15a",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ajaw_saferoom_others_01.wem"
+        },
+        "2e2e302a7712908f": {
+            "hash": "2e2e302a7712908f",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qiqi_saferoom_challenge_03.wem"
+        },
+        "2e934499f1c1d69b": {
+            "hash": "2e934499f1c1d69b",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_changsheng_saferoom_challenge_01.wem"
+        },
+        "2ee9166d92a193b3": {
+            "hash": "2ee9166d92a193b3",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mika_saferoom_others_01.wem"
+        },
+        "2f099be3d29f0462": {
+            "hash": "2f099be3d29f0462",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chasca_saferoom_others_01.wem"
+        },
+        "2f179d584358325b": {
+            "hash": "2f179d584358325b",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sucrose_saferoom_rest_02.wem"
+        },
+        "30337ff57d20f434": {
+            "hash": "30337ff57d20f434",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chasca_saferoom_others_03.wem"
+        },
+        "3045b0d0ea447c13": {
+            "hash": "3045b0d0ea447c13",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_alhaitham_saferoom_rest_03.wem"
+        },
+        "3056fc80ee13be15": {
+            "hash": "3056fc80ee13be15",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gorou_saferoom_others_03.wem"
+        },
+        "314aa1fba3b41b88": {
+            "hash": "314aa1fba3b41b88",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_cyno_saferoom_rest_02.wem"
+        },
+        "314e892bd73e6b50": {
+            "hash": "314e892bd73e6b50",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kujouSara_saferoom_challenge_03.wem"
+        },
+        "316f9ce294c67a0d": {
+            "hash": "316f9ce294c67a0d",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_alhaitham_saferoom_rest_01.wem"
+        },
+        "31c5bc66edcb373b": {
+            "hash": "31c5bc66edcb373b",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaoyao_saferoom_challenge_01.wem"
+        },
+        "31d7f078c86629e6": {
+            "hash": "31d7f078c86629e6",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_saferoom_others_02.wem"
+        },
+        "32664ca1ea246120": {
+            "hash": "32664ca1ea246120",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_charlotte_saferoom_others_02.wem"
+        },
+        "3294a27c76046499": {
+            "hash": "3294a27c76046499",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiangling_saferoom_others_02.wem"
+        },
+        "332d48a15f6c8a26": {
+            "hash": "332d48a15f6c8a26",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xinyan_saferoom_rest_02.wem"
+        },
+        "33cebce66286cc96": {
+            "hash": "33cebce66286cc96",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dori_saferoom_challenge_02.wem"
+        },
+        "344d333c0d3da038": {
+            "hash": "344d333c0d3da038",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_saferoom_challenge_02.wem"
+        },
+        "351e3f0be655b12a": {
+            "hash": "351e3f0be655b12a",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kinich_saferoom_rest_01.wem"
+        },
+        "35416acff6864185": {
+            "hash": "35416acff6864185",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_saferoom_rest_01.wem"
+        },
+        "35c8ebe1839ecd47": {
+            "hash": "35c8ebe1839ecd47",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_challenge_03a.wem"
+        },
+        "35d279e3d9220edb": {
+            "hash": "35d279e3d9220edb",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shinobu_saferoom_challenge_01.wem"
+        },
+        "35f58cb46317a617": {
+            "hash": "35f58cb46317a617",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gaming_saferoom_others_02.wem"
+        },
+        "367d62a51cc798e2": {
+            "hash": "367d62a51cc798e2",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yunjin_saferoom_others_03.wem"
+        },
+        "379454c0736fc0be": {
+            "hash": "379454c0736fc0be",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gaming_saferoom_rest_02.wem"
+        },
+        "37a746b6c74988b4": {
+            "hash": "37a746b6c74988b4",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yunjin_saferoom_others_01.wem"
+        },
+        "386553981c4c3e96": {
+            "hash": "386553981c4c3e96",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lynette_saferoom_challenge_03.wem"
+        },
+        "38e39e0e3355efa4": {
+            "hash": "38e39e0e3355efa4",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diluc_saferoom_rest_02.wem"
+        },
+        "39045772d3a1096f": {
+            "hash": "39045772d3a1096f",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gorou_saferoom_challenge_01.wem"
+        },
+        "3a6165f5868582f5": {
+            "hash": "3a6165f5868582f5",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shinobu_saferoom_challenge_03.wem"
+        },
+        "3a80a892a1e37aff": {
+            "hash": "3a80a892a1e37aff",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kujouSara_saferoom_rest_03.wem"
+        },
+        "3a9ab6724192eb94": {
+            "hash": "3a9ab6724192eb94",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_saferoom_challenge_03.wem"
+        },
+        "3ac32bc66df77253": {
+            "hash": "3ac32bc66df77253",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kinich_saferoom_challenge_01.wem"
+        },
+        "3af4a5c2450474dc": {
+            "hash": "3af4a5c2450474dc",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_raidenEi_saferoom_others_01.wem"
+        },
+        "3b185ff0dd25a051": {
+            "hash": "3b185ff0dd25a051",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_saferoom_challenge_02.wem"
+        },
+        "3b8ee2b9e20e4a55": {
+            "hash": "3b8ee2b9e20e4a55",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kokomi_saferoom_others_03.wem"
+        },
+        "3c9128ed7431da54": {
+            "hash": "3c9128ed7431da54",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_furina_saferoom_others_01.wem"
+        },
+        "3cc0fda1c9d6bf16": {
+            "hash": "3cc0fda1c9d6bf16",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayaka_saferoom_challenge_03.wem"
+        },
+        "3d63cc2c6b008f4e": {
+            "hash": "3d63cc2c6b008f4e",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_olorun_saferoom_challenge_01.wem"
+        },
+        "3e8dc03e15829af0": {
+            "hash": "3e8dc03e15829af0",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_olorun_saferoom_challenge_03.wem"
+        },
+        "3f9ab0d28f01f17b": {
+            "hash": "3f9ab0d28f01f17b",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ningguang_saferoom_others_03.wem"
+        },
+        "3f9bb269e149f863": {
+            "hash": "3f9bb269e149f863",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_saferoom_challenge_03.wem"
+        },
+        "4002e4106ab2efa8": {
+            "hash": "4002e4106ab2efa8",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_razor_saferoom_others_02.wem"
+        },
+        "400d188d45cb6451": {
+            "hash": "400d188d45cb6451",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lynette_saferoom_others_02.wem"
+        },
+        "4025f441fbec152f": {
+            "hash": "4025f441fbec152f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_layla_saferoom_rest_01.wem"
+        },
+        "402ed0281fa4f9bf": {
+            "hash": "402ed0281fa4f9bf",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lisa_saferoom_challenge_02.wem"
+        },
+        "403168b97f71cdaa": {
+            "hash": "403168b97f71cdaa",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ningguang_saferoom_challenge_02.wem"
+        },
+        "404d06fe94af8b82": {
+            "hash": "404d06fe94af8b82",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaeya_saferoom_challenge_03.wem"
+        },
+        "405b8bbfb7a0e2d0": {
+            "hash": "405b8bbfb7a0e2d0",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dori_saferoom_rest_01.wem"
+        },
+        "406a0be025b16eee": {
+            "hash": "406a0be025b16eee",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lisa_saferoom_others_01.wem"
+        },
+        "41e7f3d584d8d7ed": {
+            "hash": "41e7f3d584d8d7ed",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ganyu_saferoom_rest_02.wem"
+        },
+        "422f0127f57a40e3": {
+            "hash": "422f0127f57a40e3",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chongyun_saferoom_others_02.wem"
+        },
+        "4247abee87bdeada": {
+            "hash": "4247abee87bdeada",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sucrose_saferoom_others_02.wem"
+        },
+        "42a1051e87ccfcd0": {
+            "hash": "42a1051e87ccfcd0",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mizuki_saferoom_challenge_01.wem"
+        },
+        "42dc665bfe8c3767": {
+            "hash": "42dc665bfe8c3767",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaoyao_saferoom_others_01.wem"
+        },
+        "43c38fbe77a4f86c": {
+            "hash": "43c38fbe77a4f86c",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_saferoom_rest_01.wem"
+        },
+        "43e00735133cde77": {
+            "hash": "43e00735133cde77",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_saferoom_challenge_03.wem"
+        },
+        "4426a290556a8d9b": {
+            "hash": "4426a290556a8d9b",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kazuha_saferoom_others_01.wem"
+        },
+        "443671144bbd5d41": {
+            "hash": "443671144bbd5d41",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wriothesley_saferoom_rest_03.wem"
+        },
+        "44a674d05c122668": {
+            "hash": "44a674d05c122668",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_olorun_saferoom_others_01.wem"
+        },
+        "44f57600f11b863f": {
+            "hash": "44f57600f11b863f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_thoma_saferoom_others_02.wem"
+        },
+        "45508ea1ffec8bb5": {
+            "hash": "45508ea1ffec8bb5",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kazuha_saferoom_others_03.wem"
+        },
+        "456146e47d0cbda9": {
+            "hash": "456146e47d0cbda9",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_emilie_saferoom_rest_01.wem"
+        },
+        "4613580002e8bb44": {
+            "hash": "4613580002e8bb44",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xianyun_saferoom_challenge_02.wem"
+        },
+        "467e863c524514a0": {
+            "hash": "467e863c524514a0",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mualani_saferoom_others_01.wem"
+        },
+        "472598676ec8481e": {
+            "hash": "472598676ec8481e",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qiqi_saferoom_others_02.wem"
+        },
+        "478cb29e7ca333a0": {
+            "hash": "478cb29e7ca333a0",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ajaw_saferoom_rest_02.wem"
+        },
+        "47b6e3ced022c1ce": {
+            "hash": "47b6e3ced022c1ce",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kachina_saferoom_challenge_01.wem"
+        },
+        "47f021b7147cf8eb": {
+            "hash": "47f021b7147cf8eb",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tighnari_saferoom_rest_02.wem"
+        },
+        "48091fc6eb12ff53": {
+            "hash": "48091fc6eb12ff53",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yunjin_saferoom_rest_03.wem"
+        },
+        "4842f02f6b6f62e8": {
+            "hash": "4842f02f6b6f62e8",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kokomi_saferoom_challenge_02.wem"
+        },
+        "48e0d7e07aa4cd70": {
+            "hash": "48e0d7e07aa4cd70",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kachina_saferoom_challenge_03.wem"
+        },
+        "496cff58907d29f8": {
+            "hash": "496cff58907d29f8",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_saferoom_challenge_02.wem"
+        },
+        "4a0ab4571eae8c6f": {
+            "hash": "4a0ab4571eae8c6f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_beidou_saferoom_rest_02.wem"
+        },
+        "4a53b61df1064667": {
+            "hash": "4a53b61df1064667",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xianyun_saferoom_others_01.wem"
+        },
+        "4a7805fd0f4d2152": {
+            "hash": "4a7805fd0f4d2152",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wriothesley_saferoom_challenge_03.wem"
+        },
+        "4aa19531e175e5b3": {
+            "hash": "4aa19531e175e5b3",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_arlecchino_saferoom_challenge_01.wem"
+        },
+        "4abdf8f2740f0b72": {
+            "hash": "4abdf8f2740f0b72",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_albedo_saferoom_others_03.wem"
+        },
+        "4b5cba664d7d52bf": {
+            "hash": "4b5cba664d7d52bf",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sethos_saferoom_challenge_01.wem"
+        },
+        "4b98ebc204a404e7": {
+            "hash": "4b98ebc204a404e7",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_neuvillette_saferoom_rest_03.wem"
+        },
+        "4ba12a0eb9cdcb24": {
+            "hash": "4ba12a0eb9cdcb24",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wriothesley_saferoom_challenge_01.wem"
+        },
+        "4bd95fd1ee77caa0": {
+            "hash": "4bd95fd1ee77caa0",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kokomi_saferoom_rest_03.wem"
+        },
+        "4c5f1c28a6cbafe2": {
+            "hash": "4c5f1c28a6cbafe2",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ambor_saferoom_others_01.wem"
+        },
+        "4c990bd89878264d": {
+            "hash": "4c990bd89878264d",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yunjin_saferoom_rest_01.wem"
+        },
+        "4d89003a514d9fb4": {
+            "hash": "4d89003a514d9fb4",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ambor_saferoom_others_03.wem"
+        },
+        "4d8beeb96291ff2b": {
+            "hash": "4d8beeb96291ff2b",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chongyun_saferoom_rest_03.wem"
+        },
+        "4d9e12f85a6acb2b": {
+            "hash": "4d9e12f85a6acb2b",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_saferoom_rest_03.wem"
+        },
+        "4dcb10a6a430597e": {
+            "hash": "4dcb10a6a430597e",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xinyan_saferoom_challenge_01.wem"
+        },
+        "4ddfdeeb1429dfe2": {
+            "hash": "4ddfdeeb1429dfe2",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mona_saferoom_challenge_01.wem"
+        },
+        "4e091556c51b6114": {
+            "hash": "4e091556c51b6114",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nahida_saferoom_challenge_03.wem"
+        },
+        "4f09c2fcbeabcfb4": {
+            "hash": "4f09c2fcbeabcfb4",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mona_saferoom_challenge_03.wem"
+        },
+        "4f77f39e17c194e1": {
+            "hash": "4f77f39e17c194e1",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gorou_saferoom_rest_02.wem"
+        },
+        "4fd0f9de3203864f": {
+            "hash": "4fd0f9de3203864f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_others_02.wem"
+        },
+        "5044fc3cc7b8389e": {
+            "hash": "5044fc3cc7b8389e",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_saferoom_challenge_03.wem"
+        },
+        "510a2d566a91de89": {
+            "hash": "510a2d566a91de89",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kazuha_saferoom_challenge_03.wem"
+        },
+        "516e304e7238fe40": {
+            "hash": "516e304e7238fe40",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_saferoom_challenge_01.wem"
+        },
+        "521cd7b22d362d69": {
+            "hash": "521cd7b22d362d69",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_arlecchino_saferoom_others_03.wem"
+        },
+        "5261d7bc8ab99df2": {
+            "hash": "5261d7bc8ab99df2",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yanfei_saferoom_others_02.wem"
+        },
+        "52924ee89cfbddfc": {
+            "hash": "52924ee89cfbddfc",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lisa_saferoom_rest_02.wem"
+        },
+        "52b0c852846321f3": {
+            "hash": "52b0c852846321f3",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_furina_saferoom_rest_03.wem"
+        },
+        "5361c9616f137b3b": {
+            "hash": "5361c9616f137b3b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_raidenEi_saferoom_rest_03.wem"
+        },
+        "53a0fa2f87fc6c74": {
+            "hash": "53a0fa2f87fc6c74",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chiori_saferoom_challenge_02.wem"
+        },
+        "5420fcc288df4338": {
+            "hash": "5420fcc288df4338",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_emilie_saferoom_others_01.wem"
+        },
+        "5470664928a2ff22": {
+            "hash": "5470664928a2ff22",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mavuika_saferoom_others_02.wem"
+        },
+        "54c8fea666fb4d26": {
+            "hash": "54c8fea666fb4d26",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_saferoom_others_03.wem"
+        },
+        "54ffeb169e9f88c9": {
+            "hash": "54ffeb169e9f88c9",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_neuvillette_saferoom_challenge_02.wem"
+        },
+        "55168959228ffb23": {
+            "hash": "55168959228ffb23",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_eula_saferoom_rest_03.wem"
+        },
+        "5539278be89dcd2b": {
+            "hash": "5539278be89dcd2b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_rosaria_saferoom_challenge_02.wem"
+        },
+        "553c8bad67f87e3a": {
+            "hash": "553c8bad67f87e3a",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_saferoom_rest_03.wem"
+        },
+        "554ecab31e6a76d5": {
+            "hash": "554ecab31e6a76d5",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_saferoom_rest_01.wem"
+        },
+        "555e7bd390454969": {
+            "hash": "555e7bd390454969",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_saferoom_others_02.wem"
+        },
+        "555ef8bab041650a": {
+            "hash": "555ef8bab041650a",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ningguang_saferoom_rest_03.wem"
+        },
+        "557436695fdaf178": {
+            "hash": "557436695fdaf178",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_saferoom_others_01.wem"
+        },
+        "559242b639b5ccad": {
+            "hash": "559242b639b5ccad",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_eula_saferoom_challenge_02.wem"
+        },
+        "55fa2da686d5e34b": {
+            "hash": "55fa2da686d5e34b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_itto_saferoom_others_03.wem"
+        },
+        "566be8540401f19c": {
+            "hash": "566be8540401f19c",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_albedo_saferoom_challenge_03.wem"
+        },
+        "56acc5d71523ad1e": {
+            "hash": "56acc5d71523ad1e",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_rest_03a.wem"
+        },
+        "56f148f9bcd43d3b": {
+            "hash": "56f148f9bcd43d3b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_eula_saferoom_others_02.wem"
+        },
+        "56f4f300b2ebd566": {
+            "hash": "56f4f300b2ebd566",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_zhongli_saferoom_challenge_01.wem"
+        },
+        "570c7bfc0ab14313": {
+            "hash": "570c7bfc0ab14313",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_baizhu_saferoom_others_02.wem"
+        },
+        "572359b831569aa5": {
+            "hash": "572359b831569aa5",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_itto_saferoom_others_01.wem"
+        },
+        "5724a796bc41af73": {
+            "hash": "5724a796bc41af73",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lyney_saferoom_challenge_02.wem"
+        },
+        "5812a617f499fcdb": {
+            "hash": "5812a617f499fcdb",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiangling_saferoom_rest_01.wem"
+        },
+        "58350cee5d26f022": {
+            "hash": "58350cee5d26f022",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaoyao_saferoom_rest_01.wem"
+        },
+        "58372382374af61c": {
+            "hash": "58372382374af61c",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaeya_saferoom_others_03.wem"
+        },
+        "594061a0473e2dba": {
+            "hash": "594061a0473e2dba",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_itto_saferoom_challenge_02.wem"
+        },
+        "595df10007a72df4": {
+            "hash": "595df10007a72df4",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaoyao_saferoom_rest_03.wem"
+        },
+        "598ea4f21d9fd42d": {
+            "hash": "598ea4f21d9fd42d",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tighnari_saferoom_others_01.wem"
+        },
+        "599b64668619df06": {
+            "hash": "599b64668619df06",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diona_saferoom_challenge_03.wem"
+        },
+        "5a08ee741a291892": {
+            "hash": "5a08ee741a291892",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_baizhu_saferoom_rest_02.wem"
+        },
+        "5a0ca7cffab1fa60": {
+            "hash": "5a0ca7cffab1fa60",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xingqiu_saferoom_others_03.wem"
+        },
+        "5a407ad37043cc2f": {
+            "hash": "5a407ad37043cc2f",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_emilie_saferoom_rest_03.wem"
+        },
+        "5a646f965fd583c6": {
+            "hash": "5a646f965fd583c6",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gaming_saferoom_challenge_01.wem"
+        },
+        "5b0636e743ad4e8a": {
+            "hash": "5b0636e743ad4e8a",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_arlecchino_saferoom_rest_01.wem"
+        },
+        "5ba8ad14d2b482fd": {
+            "hash": "5ba8ad14d2b482fd",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_saferoom_others_02.wem"
+        },
+        "5c2116ea60ac3c66": {
+            "hash": "5c2116ea60ac3c66",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_saferoom_challenge_03.wem"
+        },
+        "5c3dee7e677eb644": {
+            "hash": "5c3dee7e677eb644",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaoyao_saferoom_challenge_02.wem"
+        },
+        "5c789afc9c221cec": {
+            "hash": "5c789afc9c221cec",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mona_saferoom_others_01.wem"
+        },
+        "5c993621d537bf02": {
+            "hash": "5c993621d537bf02",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mona_saferoom_rest_02.wem"
+        },
+        "5ca034e0702387d2": {
+            "hash": "5ca034e0702387d2",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_saferoom_challenge_03.wem"
+        },
+        "5ca19229a1fd70f5": {
+            "hash": "5ca19229a1fd70f5",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiangling_saferoom_rest_03.wem"
+        },
+        "5d4336667efe8d9d": {
+            "hash": "5d4336667efe8d9d",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_saferoom_challenge_03.wem"
+        },
+        "5dc958f21aa431a4": {
+            "hash": "5dc958f21aa431a4",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_saferoom_challenge_01.wem"
+        },
+        "5e0eb626db83a73f": {
+            "hash": "5e0eb626db83a73f",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_navia_saferoom_others_02.wem"
+        },
+        "5e6cd71ad3b6259c": {
+            "hash": "5e6cd71ad3b6259c",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_noelle_saferoom_others_01.wem"
+        },
+        "5e99a92279488092": {
+            "hash": "5e99a92279488092",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_saferoom_challenge_01.wem"
+        },
+        "5fd41ce70951d9e3": {
+            "hash": "5fd41ce70951d9e3",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nahida_saferoom_others_02.wem"
+        },
+        "601dcdce4e997048": {
+            "hash": "601dcdce4e997048",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaeMiko_saferoom_others_03.wem"
+        },
+        "604872e753d134ea": {
+            "hash": "604872e753d134ea",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_collei_saferoom_challenge_02.wem"
+        },
+        "606dec404b5891df": {
+            "hash": "606dec404b5891df",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_saferoom_rest_02.wem"
+        },
+        "60afc7b0564ebac9": {
+            "hash": "60afc7b0564ebac9",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ganyu_saferoom_others_03.wem"
+        },
+        "61b494206494575a": {
+            "hash": "61b494206494575a",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_albedo_saferoom_rest_02.wem"
+        },
+        "62123a12cf901c42": {
+            "hash": "62123a12cf901c42",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shinobu_saferoom_rest_01.wem"
+        },
+        "6237a33b804e8157": {
+            "hash": "6237a33b804e8157",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diluc_saferoom_challenge_02.wem"
+        },
+        "625556d00c7461a5": {
+            "hash": "625556d00c7461a5",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lyney_saferoom_others_02.wem"
+        },
+        "628361455ae5c40f": {
+            "hash": "628361455ae5c40f",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kazuha_saferoom_challenge_01.wem"
+        },
+        "62f6852494b6238d": {
+            "hash": "62f6852494b6238d",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_rosaria_saferoom_others_02.wem"
+        },
+        "6329cd3426ae0764": {
+            "hash": "6329cd3426ae0764",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_saferoom_challenge_03.wem"
+        },
+        "63960ba11d8a12ef": {
+            "hash": "63960ba11d8a12ef",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_arlecchino_saferoom_others_01.wem"
+        },
+        "63aaf4d4651d2446": {
+            "hash": "63aaf4d4651d2446",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_navia_saferoom_rest_02.wem"
+        },
+        "64b934144dc6daac": {
+            "hash": "64b934144dc6daac",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wriothesley_saferoom_others_03.wem"
+        },
+        "6505b45836ac318f": {
+            "hash": "6505b45836ac318f",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kujouSara_saferoom_others_02.wem"
+        },
+        "655e8e56e7c91614": {
+            "hash": "655e8e56e7c91614",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_charlotte_saferoom_rest_03.wem"
+        },
+        "658e4d0654c793c2": {
+            "hash": "658e4d0654c793c2",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chongyun_saferoom_challenge_01.wem"
+        },
+        "65f9d2e6ffbe543f": {
+            "hash": "65f9d2e6ffbe543f",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_saferoom_others_03.wem"
+        },
+        "6616409f4bac198d": {
+            "hash": "6616409f4bac198d",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yoimiya_saferoom_challenge_02.wem"
+        },
+        "66371623bb34d352": {
+            "hash": "66371623bb34d352",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_keqing_saferoom_others_03.wem"
+        },
+        "6654471cd3865042": {
+            "hash": "6654471cd3865042",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_barbara_saferoom_challenge_03.wem"
+        },
+        "66baecba7ca75f9e": {
+            "hash": "66baecba7ca75f9e",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_thoma_saferoom_challenge_01.wem"
+        },
+        "66e889bb5034b758": {
+            "hash": "66e889bb5034b758",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_saferoom_others_02.wem"
+        },
+        "66ed6258502ec896": {
+            "hash": "66ed6258502ec896",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_saferoom_others_03.wem"
+        },
+        "67603a3565b57d24": {
+            "hash": "67603a3565b57d24",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_keqing_saferoom_others_01.wem"
+        },
+        "6790a43efc1175c6": {
+            "hash": "6790a43efc1175c6",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_saferoom_challenge_02.wem"
+        },
+        "67d3aad8568f16f2": {
+            "hash": "67d3aad8568f16f2",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tighnari_saferoom_challenge_02.wem"
+        },
+        "67e420cc27282540": {
+            "hash": "67e420cc27282540",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_thoma_saferoom_challenge_03.wem"
+        },
+        "685dfea50f688939": {
+            "hash": "685dfea50f688939",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_rest_01.wem"
+        },
+        "68f6e0dd1e29deb3": {
+            "hash": "68f6e0dd1e29deb3",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yelan_saferoom_rest_01.wem"
+        },
+        "690028b17c164456": {
+            "hash": "690028b17c164456",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_emilie_saferoom_others_03.wem"
+        },
+        "690094b47c16ece3": {
+            "hash": "690094b47c16ece3",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_saferoom_others_02.wem"
+        },
+        "694a52e17e461594": {
+            "hash": "694a52e17e461594",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_layla_saferoom_others_03.wem"
+        },
+        "6978c9233a499f22": {
+            "hash": "6978c9233a499f22",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sayu_saferoom_rest_01.wem"
+        },
+        "69fbec469a7019d8": {
+            "hash": "69fbec469a7019d8",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yelan_saferoom_challenge_01.wem"
+        },
+        "6a9440e4500286de": {
+            "hash": "6a9440e4500286de",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_zhongli_saferoom_rest_02.wem"
+        },
+        "6a9b289f28618171": {
+            "hash": "6a9b289f28618171",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sethos_saferoom_rest_02.wem"
+        },
+        "6aa1ad34e4c9dcf4": {
+            "hash": "6aa1ad34e4c9dcf4",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sayu_saferoom_rest_03.wem"
+        },
+        "6bc095515d219aa0": {
+            "hash": "6bc095515d219aa0",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_saferoom_challenge_02.wem"
+        },
+        "6bf9e944c1202048": {
+            "hash": "6bf9e944c1202048",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xingqiu_saferoom_challenge_01.wem"
+        },
+        "6c716885a787c79c": {
+            "hash": "6c716885a787c79c",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mika_saferoom_others_02.wem"
+        },
+        "6c75bf1d3d7aeabc": {
+            "hash": "6c75bf1d3d7aeabc",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lynette_saferoom_rest_02.wem"
+        },
+        "6c7d3382e61677c2": {
+            "hash": "6c7d3382e61677c2",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_saferoom_challenge_01.wem"
+        },
+        "6c901e1c72d715f3": {
+            "hash": "6c901e1c72d715f3",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_saferoom_others_02.wem"
+        },
+        "6cff632ca072cca7": {
+            "hash": "6cff632ca072cca7",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_saferoom_rest_02.wem"
+        },
+        "6d5472335063d2c7": {
+            "hash": "6d5472335063d2c7",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_changsheng_saferoom_others_01.wem"
+        },
+        "6d7604d56684cc81": {
+            "hash": "6d7604d56684cc81",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_saferoom_challenge_02.wem"
+        },
+        "6dbc252e88473e67": {
+            "hash": "6dbc252e88473e67",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sayu_saferoom_others_01.wem"
+        },
+        "6df196eb8c75a2ba": {
+            "hash": "6df196eb8c75a2ba",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mona_saferoom_others_03.wem"
+        },
+        "6e1850fa22ed35b8": {
+            "hash": "6e1850fa22ed35b8",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mizuki_saferoom_others_03.wem"
+        },
+        "6e2f5f033125fdf1": {
+            "hash": "6e2f5f033125fdf1",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_saferoom_rest_02.wem"
+        },
+        "6ebf316fe9963d0e": {
+            "hash": "6ebf316fe9963d0e",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_candace_saferoom_challenge_03.wem"
+        },
+        "6ec2974f1f5a4d07": {
+            "hash": "6ec2974f1f5a4d07",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_saferoom_challenge_03.wem"
+        },
+        "6f0a6400fdfddae3": {
+            "hash": "6f0a6400fdfddae3",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_saferoom_others_01.wem"
+        },
+        "6f61b92d91a8b57e": {
+            "hash": "6f61b92d91a8b57e",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qiqi_saferoom_rest_03.wem"
+        },
+        "6fe92581941848b0": {
+            "hash": "6fe92581941848b0",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_candace_saferoom_challenge_01.wem"
+        },
+        "6feb8360c9da9821": {
+            "hash": "6feb8360c9da9821",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_saferoom_challenge_01.wem"
+        },
+        "6ff0091c9f68eb46": {
+            "hash": "6ff0091c9f68eb46",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_thoma_saferoom_rest_02.wem"
+        },
+        "6ff6fcccfb5dd87c": {
+            "hash": "6ff6fcccfb5dd87c",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ningguang_saferoom_rest_01.wem"
+        },
+        "70cd7878ce534428": {
+            "hash": "70cd7878ce534428",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diona_saferoom_challenge_01.wem"
+        },
+        "70d02a7e0b734a1d": {
+            "hash": "70d02a7e0b734a1d",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_saferoom_rest_03.wem"
+        },
+        "70e3170ad1b72bb8": {
+            "hash": "70e3170ad1b72bb8",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiao_saferoom_others_03.wem"
+        },
+        "71671b156fa3c4ad": {
+            "hash": "71671b156fa3c4ad",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_razor_saferoom_challenge_03.wem"
+        },
+        "716bcacce0acdbac": {
+            "hash": "716bcacce0acdbac",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mavuika_saferoom_rest_01.wem"
+        },
+        "718b06c07549e92d": {
+            "hash": "718b06c07549e92d",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ningguang_saferoom_challenge_01.wem"
+        },
+        "71abdc3b94c3f48e": {
+            "hash": "71abdc3b94c3f48e",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_saferoom_rest_01.wem"
+        },
+        "71d1581c2f396722": {
+            "hash": "71d1581c2f396722",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xianyun_saferoom_rest_01.wem"
+        },
+        "71f8d9e71bb5b791": {
+            "hash": "71f8d9e71bb5b791",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lisa_saferoom_others_02.wem"
+        },
+        "7228fb9f46a2a04f": {
+            "hash": "7228fb9f46a2a04f",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ganyu_saferoom_others_01.wem"
+        },
+        "72349e7f1577e91f": {
+            "hash": "72349e7f1577e91f",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qin_saferoom_others_01.wem"
+        },
+        "72522fe07b39a1ec": {
+            "hash": "72522fe07b39a1ec",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_furina_saferoom_challenge_03.wem"
+        },
+        "7263402ce1ea32a1": {
+            "hash": "7263402ce1ea32a1",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_saferoom_others_02.wem"
+        },
+        "72ac4520e4cb8749": {
+            "hash": "72ac4520e4cb8749",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chevreuse_saferoom_rest_02.wem"
+        },
+        "72d5d04d3f460030": {
+            "hash": "72d5d04d3f460030",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_saferoom_rest_03.wem"
+        },
+        "72fa3c2dd9b9a4f4": {
+            "hash": "72fa3c2dd9b9a4f4",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xianyun_saferoom_rest_03.wem"
+        },
+        "7308c84ef2b23423": {
+            "hash": "7308c84ef2b23423",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_saferoom_rest_01.wem"
+        },
+        "7331857e2e3bd0af": {
+            "hash": "7331857e2e3bd0af",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kachina_saferoom_others_02.wem"
+        },
+        "735042fdafa429a8": {
+            "hash": "735042fdafa429a8",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lyney_saferoom_rest_02.wem"
+        },
+        "740ad35f65cd1fe2": {
+            "hash": "740ad35f65cd1fe2",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_saferoom_others_02.wem"
+        },
+        "7445b7b05125e9cb": {
+            "hash": "7445b7b05125e9cb",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_saferoom_others_01.wem"
+        },
+        "74fd83a8aaf3c4e8": {
+            "hash": "74fd83a8aaf3c4e8",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gaming_saferoom_challenge_03.wem"
+        },
+        "756b45cdce38c8bb": {
+            "hash": "756b45cdce38c8bb",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_saferoom_rest_03.wem"
+        },
+        "756ee3c1fba6a125": {
+            "hash": "756ee3c1fba6a125",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_saferoom_others_03.wem"
+        },
+        "7587c32864efa6e2": {
+            "hash": "7587c32864efa6e2",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sucrose_saferoom_challenge_02.wem"
+        },
+        "759e3af98ec9c1fc": {
+            "hash": "759e3af98ec9c1fc",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_arlecchino_saferoom_rest_03.wem"
+        },
+        "766e48bb21e338be": {
+            "hash": "766e48bb21e338be",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_saferoom_others_01.wem"
+        },
+        "7679b79f062d8cd5": {
+            "hash": "7679b79f062d8cd5",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sayu_saferoom_challenge_03.wem"
+        },
+        "768362f638ea7cdd": {
+            "hash": "768362f638ea7cdd",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qin_saferoom_challenge_03.wem"
+        },
+        "7685daef2007e467": {
+            "hash": "7685daef2007e467",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_saferoom_others_01.wem"
+        },
+        "76a8124c7cf19e75": {
+            "hash": "76a8124c7cf19e75",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_saferoom_challenge_02.wem"
+        },
+        "76b80c26fe12e14a": {
+            "hash": "76b80c26fe12e14a",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ambor_saferoom_challenge_03.wem"
+        },
+        "76bbfceb97ce6d87": {
+            "hash": "76bbfceb97ce6d87",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_beidou_saferoom_challenge_03.wem"
+        },
+        "77317342e2b870c0": {
+            "hash": "77317342e2b870c0",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_saferoom_rest_02.wem"
+        },
+        "77e4e8fd424eb8a1": {
+            "hash": "77e4e8fd424eb8a1",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_beidou_saferoom_challenge_01.wem"
+        },
+        "788021b270ca80ea": {
+            "hash": "788021b270ca80ea",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_raidenEi_saferoom_others_03.wem"
+        },
+        "78c4efb3fd07b30d": {
+            "hash": "78c4efb3fd07b30d",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_keqing_saferoom_challenge_02.wem"
+        },
+        "794e864dfce7d64a": {
+            "hash": "794e864dfce7d64a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_cyno_saferoom_challenge_03.wem"
+        },
+        "7998300340fd8a7a": {
+            "hash": "7998300340fd8a7a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wriothesley_saferoom_others_01.wem"
+        },
+        "79e416d7705a4030": {
+            "hash": "79e416d7705a4030",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_barbara_saferoom_rest_02.wem"
+        },
+        "7a18dbb14c36ac5a": {
+            "hash": "7a18dbb14c36ac5a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mavuika_saferoom_challenge_02.wem"
+        },
+        "7aa8b088970497e2": {
+            "hash": "7aa8b088970497e2",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nahida_saferoom_rest_02.wem"
+        },
+        "7ab53ad91e4e9f0f": {
+            "hash": "7ab53ad91e4e9f0f",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kinich_saferoom_others_01.wem"
+        },
+        "7b0cfd32359fe815": {
+            "hash": "7b0cfd32359fe815",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiao_saferoom_rest_03.wem"
+        },
+        "7b3b65967e1b4bc9": {
+            "hash": "7b3b65967e1b4bc9",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chasca_saferoom_rest_03.wem"
+        },
+        "7bdca0336040c5b7": {
+            "hash": "7bdca0336040c5b7",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_rosaria_saferoom_rest_01.wem"
+        },
+        "7cad286c2347870c": {
+            "hash": "7cad286c2347870c",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_alhaitham_saferoom_challenge_03.wem"
+        },
+        "7ccc3b8741128b6c": {
+            "hash": "7ccc3b8741128b6c",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diona_saferoom_rest_02.wem"
+        },
+        "7d798e0cdfb14823": {
+            "hash": "7d798e0cdfb14823",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_itto_saferoom_rest_02.wem"
+        },
+        "7d804240345c21b8": {
+            "hash": "7d804240345c21b8",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lisa_saferoom_challenge_01.wem"
+        },
+        "7d896aa6bfaed388": {
+            "hash": "7d896aa6bfaed388",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_saferoom_rest_03.wem"
+        },
+        "7e503e72029618b1": {
+            "hash": "7e503e72029618b1",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yelan_saferoom_others_02.wem"
+        },
+        "7edb18358da71af6": {
+            "hash": "7edb18358da71af6",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yelan_saferoom_challenge_03.wem"
+        },
+        "7f2a533ded1d8485": {
+            "hash": "7f2a533ded1d8485",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_saferoom_rest_03.wem"
+        },
+        "7f3f0904fb5ef1d7": {
+            "hash": "7f3f0904fb5ef1d7",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_fischl_saferoom_challenge_02.wem"
+        },
+        "7f7d5eeb27362a17": {
+            "hash": "7f7d5eeb27362a17",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiangling_saferoom_challenge_02.wem"
+        },
+        "7f8ca44ff583bc3e": {
+            "hash": "7f8ca44ff583bc3e",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaeMiko_saferoom_challenge_03.wem"
+        },
+        "80849071b4aded7b": {
+            "hash": "80849071b4aded7b",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gorou_saferoom_others_01.wem"
+        },
+        "80d664429b664bf9": {
+            "hash": "80d664429b664bf9",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_saferoom_rest_01.wem"
+        },
+        "81697b113687bc44": {
+            "hash": "81697b113687bc44",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_eula_saferoom_others_01.wem"
+        },
+        "81f22a917de6366a": {
+            "hash": "81f22a917de6366a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yanfei_saferoom_challenge_02.wem"
+        },
+        "8246e81905d2ae38": {
+            "hash": "8246e81905d2ae38",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_thoma_saferoom_others_01.wem"
+        },
+        "82b15974c4849fac": {
+            "hash": "82b15974c4849fac",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_saferoom_rest_03.wem"
+        },
+        "82bb8a38e34fda9f": {
+            "hash": "82bb8a38e34fda9f",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kachina_saferoom_rest_03.wem"
+        },
+        "82f77ce9162436d6": {
+            "hash": "82f77ce9162436d6",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mizuki_saferoom_others_01.wem"
+        },
+        "82f9891b27f36a9e": {
+            "hash": "82f9891b27f36a9e",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_navia_saferoom_challenge_01.wem"
+        },
+        "831d53400d439dcc": {
+            "hash": "831d53400d439dcc",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chongyun_saferoom_others_01.wem"
+        },
+        "833509c5b4e8b09d": {
+            "hash": "833509c5b4e8b09d",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chevreuse_saferoom_others_03.wem"
+        },
+        "838ccd50a294085e": {
+            "hash": "838ccd50a294085e",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kazuha_saferoom_rest_01.wem"
+        },
+        "83cb2bcf6b8d27ba": {
+            "hash": "83cb2bcf6b8d27ba",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_furina_saferoom_challenge_01.wem"
+        },
+        "83cd9a090600e215": {
+            "hash": "83cd9a090600e215",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mizuki_saferoom_rest_03.wem"
+        },
+        "840315c652f8d875": {
+            "hash": "840315c652f8d875",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chiori_saferoom_rest_02.wem"
+        },
+        "8422bd2cd2743040": {
+            "hash": "8422bd2cd2743040",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_navia_saferoom_challenge_03.wem"
+        },
+        "8427b5c380ed44d5": {
+            "hash": "8427b5c380ed44d5",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yanfei_saferoom_others_01.wem"
+        },
+        "845fb31f04689972": {
+            "hash": "845fb31f04689972",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_collei_saferoom_others_02.wem"
+        },
+        "8487b163c794ef1d": {
+            "hash": "8487b163c794ef1d",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yunjin_saferoom_challenge_02.wem"
+        },
+        "84e2151ca0bbb52e": {
+            "hash": "84e2151ca0bbb52e",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kujouSara_saferoom_challenge_01.wem"
+        },
+        "8502f80ba65c7103": {
+            "hash": "8502f80ba65c7103",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yoimiya_saferoom_rest_03.wem"
+        },
+        "856ebec0bd2003ab": {
+            "hash": "856ebec0bd2003ab",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_saferoom_rest_03.wem"
+        },
+        "85723c775397d459": {
+            "hash": "85723c775397d459",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_fischl_saferoom_others_02.wem"
+        },
+        "85c242f9c4ee2cd6": {
+            "hash": "85c242f9c4ee2cd6",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiao_saferoom_others_01.wem"
+        },
+        "862ce41d50de6f3d": {
+            "hash": "862ce41d50de6f3d",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yoimiya_saferoom_rest_01.wem"
+        },
+        "864ac6bbd3e38b7a": {
+            "hash": "864ac6bbd3e38b7a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mavuika_saferoom_rest_03.wem"
+        },
+        "86abc3439ff95dd3": {
+            "hash": "86abc3439ff95dd3",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayaka_saferoom_rest_01.wem"
+        },
+        "87898710b481ec18": {
+            "hash": "87898710b481ec18",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xinyan_saferoom_others_01.wem"
+        },
+        "881d01624ff9a900": {
+            "hash": "881d01624ff9a900",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kazuha_saferoom_rest_03.wem"
+        },
+        "8829e749f65c199c": {
+            "hash": "8829e749f65c199c",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_arlecchino_saferoom_challenge_02.wem"
+        },
+        "88ae2c7e62347ab8": {
+            "hash": "88ae2c7e62347ab8",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sethos_saferoom_challenge_02.wem"
+        },
+        "891ffa7577d4a268": {
+            "hash": "891ffa7577d4a268",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_others_01b.wem"
+        },
+        "893e25ed114ebc17": {
+            "hash": "893e25ed114ebc17",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chiori_saferoom_others_01.wem"
+        },
+        "8966ea915db1ad19": {
+            "hash": "8966ea915db1ad19",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qin_saferoom_others_03.wem"
+        },
+        "897bb9ec01619a85": {
+            "hash": "897bb9ec01619a85",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chasca_saferoom_others_02.wem"
+        },
+        "8a02b2d24cbddc1b": {
+            "hash": "8a02b2d24cbddc1b",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yoimiya_saferoom_others_02.wem"
+        },
+        "8a046cac319352ca": {
+            "hash": "8a046cac319352ca",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chasca_saferoom_challenge_03.wem"
+        },
+        "8b2aca48294d0118": {
+            "hash": "8b2aca48294d0118",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_candace_saferoom_others_03.wem"
+        },
+        "8b3baf554d5e84cd": {
+            "hash": "8b3baf554d5e84cd",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayaka_saferoom_rest_03.wem"
+        },
+        "8bb2d55f70e05ffc": {
+            "hash": "8bb2d55f70e05ffc",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ganyu_saferoom_challenge_02.wem"
+        },
+        "8c897dfa38f22ae0": {
+            "hash": "8c897dfa38f22ae0",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_challenge_03b.wem"
+        },
+        "8cb14699a9d1a316": {
+            "hash": "8cb14699a9d1a316",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kujouSara_saferoom_rest_02.wem"
+        },
+        "8cb499856e6f314f": {
+            "hash": "8cb499856e6f314f",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chasca_saferoom_rest_01.wem"
+        },
+        "8cbec4de3acc1602": {
+            "hash": "8cbec4de3acc1602",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_furina_saferoom_others_03.wem"
+        },
+        "8d3f76b6f49dd347": {
+            "hash": "8d3f76b6f49dd347",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gaming_saferoom_rest_03.wem"
+        },
+        "8dce11febeb3e331": {
+            "hash": "8dce11febeb3e331",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chiori_saferoom_others_03.wem"
+        },
+        "8deb1039464dddbc": {
+            "hash": "8deb1039464dddbc",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ambor_saferoom_challenge_01.wem"
+        },
+        "8e2e52630b105142": {
+            "hash": "8e2e52630b105142",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_saferoom_challenge_01.wem"
+        },
+        "8e3b10ee46c4746d": {
+            "hash": "8e3b10ee46c4746d",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_collei_saferoom_challenge_01.wem"
+        },
+        "8f2276aaab8ba1bb": {
+            "hash": "8f2276aaab8ba1bb",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kokomi_saferoom_others_01.wem"
+        },
+        "8f238554f5df7419": {
+            "hash": "8f238554f5df7419",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mualani_saferoom_challenge_02.wem"
+        },
+        "906dae8042cf8b49": {
+            "hash": "906dae8042cf8b49",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ambor_saferoom_rest_03.wem"
+        },
+        "90818a604522d2bc": {
+            "hash": "90818a604522d2bc",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_cyno_saferoom_challenge_01.wem"
+        },
+        "90e3adad2ae5c3b7": {
+            "hash": "90e3adad2ae5c3b7",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiao_saferoom_challenge_02.wem"
+        },
+        "916e0320edb02b86": {
+            "hash": "916e0320edb02b86",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xilonen_saferoom_rest_02.wem"
+        },
+        "918d245b167fe9da": {
+            "hash": "918d245b167fe9da",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_alhaitham_saferoom_challenge_01.wem"
+        },
+        "91cf62c8a202fa61": {
+            "hash": "91cf62c8a202fa61",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gaming_saferoom_rest_01.wem"
+        },
+        "92030070e966db1a": {
+            "hash": "92030070e966db1a",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_saferoom_challenge_02.wem"
+        },
+        "925f6e2f279322d6": {
+            "hash": "925f6e2f279322d6",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lisa_saferoom_challenge_03.wem"
+        },
+        "926324270cb6b86e": {
+            "hash": "926324270cb6b86e",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mualani_saferoom_rest_02.wem"
+        },
+        "9286fff83f42b517": {
+            "hash": "9286fff83f42b517",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dori_saferoom_others_03.wem"
+        },
+        "937ae6b9d9eedd4a": {
+            "hash": "937ae6b9d9eedd4a",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_collei_saferoom_rest_03.wem"
+        },
+        "93ef17b0811e2cae": {
+            "hash": "93ef17b0811e2cae",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dori_saferoom_rest_03.wem"
+        },
+        "93f664442fc64aaa": {
+            "hash": "93f664442fc64aaa",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_albedo_saferoom_challenge_01.wem"
+        },
+        "94964f2efd97239a": {
+            "hash": "94964f2efd97239a",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chongyun_saferoom_others_03.wem"
+        },
+        "951a17ae18eeb473": {
+            "hash": "951a17ae18eeb473",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_saferoom_others_02.wem"
+        },
+        "95c19f72630f4f2a": {
+            "hash": "95c19f72630f4f2a",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaeya_saferoom_others_01.wem"
+        },
+        "96032b544d141230": {
+            "hash": "96032b544d141230",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mika_saferoom_challenge_02.wem"
+        },
+        "9634910f514a46ae": {
+            "hash": "9634910f514a46ae",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mizuki_saferoom_challenge_03.wem"
+        },
+        "96abd22d18dec97e": {
+            "hash": "96abd22d18dec97e",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mualani_saferoom_others_03.wem"
+        },
+        "9716ec09eca7dc31": {
+            "hash": "9716ec09eca7dc31",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dori_saferoom_others_01.wem"
+        },
+        "97261407f909af56": {
+            "hash": "97261407f909af56",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_thoma_saferoom_others_03.wem"
+        },
+        "97528cbd6d367963": {
+            "hash": "97528cbd6d367963",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_saferoom_others_02.wem"
+        },
+        "97905563b7bb4f7a": {
+            "hash": "97905563b7bb4f7a",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_saferoom_rest_01.wem"
+        },
+        "97ca0505153ab4a7": {
+            "hash": "97ca0505153ab4a7",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wriothesley_saferoom_rest_01.wem"
+        },
+        "9811f9aed409595c": {
+            "hash": "9811f9aed409595c",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lyney_saferoom_challenge_01.wem"
+        },
+        "98e08270dc806558": {
+            "hash": "98e08270dc806558",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diluc_saferoom_others_03.wem"
+        },
+        "98e3b7fac1f55b06": {
+            "hash": "98e3b7fac1f55b06",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_saferoom_rest_03.wem"
+        },
+        "9902b2ffa4d5c436": {
+            "hash": "9902b2ffa4d5c436",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xinyan_saferoom_others_03.wem"
+        },
+        "9914fe06eec5d0e9": {
+            "hash": "9914fe06eec5d0e9",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_razor_saferoom_others_03.wem"
+        },
+        "9994f8f518efb84b": {
+            "hash": "9994f8f518efb84b",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaeya_saferoom_challenge_02.wem"
+        },
+        "999988df4cc2bdd5": {
+            "hash": "999988df4cc2bdd5",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tighnari_saferoom_challenge_01.wem"
+        },
+        "999cf874b3df9400": {
+            "hash": "999cf874b3df9400",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaoyao_saferoom_others_02.wem"
+        },
+        "99c079e36107afd7": {
+            "hash": "99c079e36107afd7",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaeya_saferoom_rest_01.wem"
+        },
+        "99eaafbe1c3d76a2": {
+            "hash": "99eaafbe1c3d76a2",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tighnari_saferoom_rest_03.wem"
+        },
+        "99edd64b2b899e99": {
+            "hash": "99edd64b2b899e99",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kachina_saferoom_rest_01.wem"
+        },
+        "9aabe179d1448812": {
+            "hash": "9aabe179d1448812",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_raidenEi_saferoom_challenge_01.wem"
+        },
+        "9aea65f50b89adf1": {
+            "hash": "9aea65f50b89adf1",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaeya_saferoom_rest_03.wem"
+        },
+        "9b1393cfc6bdb474": {
+            "hash": "9b1393cfc6bdb474",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tighnari_saferoom_rest_01.wem"
+        },
+        "9b60283ef03acf38": {
+            "hash": "9b60283ef03acf38",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_navia_saferoom_others_01.wem"
+        },
+        "9b6abcbc91e12933": {
+            "hash": "9b6abcbc91e12933",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_layla_saferoom_challenge_02.wem"
+        },
+        "9bf7530aff7a7eaa": {
+            "hash": "9bf7530aff7a7eaa",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_noelle_saferoom_others_03.wem"
+        },
+        "9c06abc2b5117f7e": {
+            "hash": "9c06abc2b5117f7e",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kokomi_saferoom_rest_01.wem"
+        },
+        "9c22a9a19b6a6524": {
+            "hash": "9c22a9a19b6a6524",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_fischl_saferoom_rest_02.wem"
+        },
+        "9c4bc9f6b621fcdd": {
+            "hash": "9c4bc9f6b621fcdd",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sucrose_saferoom_others_01.wem"
+        },
+        "9c64a0ecfb2d9f5d": {
+            "hash": "9c64a0ecfb2d9f5d",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xingqiu_saferoom_rest_03.wem"
+        },
+        "9ca3f63719a0d936": {
+            "hash": "9ca3f63719a0d936",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_candace_saferoom_others_01.wem"
+        },
+        "9da839be7a5dada6": {
+            "hash": "9da839be7a5dada6",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaeMiko_saferoom_others_01.wem"
+        },
+        "9dc949c90c91c0de": {
+            "hash": "9dc949c90c91c0de",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_neuvillette_saferoom_rest_02.wem"
+        },
+        "9dee0a25ec9d6729": {
+            "hash": "9dee0a25ec9d6729",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kokomi_saferoom_challenge_03.wem"
+        },
+        "9f3c058b7eaa0ee4": {
+            "hash": "9f3c058b7eaa0ee4",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_raidenEi_saferoom_challenge_03.wem"
+        },
+        "9fcd9aaab8b0cdca": {
+            "hash": "9fcd9aaab8b0cdca",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yanfei_saferoom_rest_03.wem"
+        },
+        "9fdbcd5a9afc7037": {
+            "hash": "9fdbcd5a9afc7037",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_zhongli_saferoom_others_02.wem"
+        },
+        "a02375953f342464": {
+            "hash": "a02375953f342464",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_candace_saferoom_rest_02.wem"
+        },
+        "a0697ed313d0c850": {
+            "hash": "a0697ed313d0c850",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayaka_saferoom_others_03.wem"
+        },
+        "a075274352906ed5": {
+            "hash": "a075274352906ed5",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_saferoom_challenge_03.wem"
+        },
+        "a0c26eff211b36cc": {
+            "hash": "a0c26eff211b36cc",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nahida_saferoom_others_01.wem"
+        },
+        "a1144836a659a300": {
+            "hash": "a1144836a659a300",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xianyun_saferoom_others_02.wem"
+        },
+        "a13770be79ce4f3c": {
+            "hash": "a13770be79ce4f3c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chasca_saferoom_challenge_01.wem"
+        },
+        "a160a66f9d5b81c1": {
+            "hash": "a160a66f9d5b81c1",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qiqi_saferoom_others_01.wem"
+        },
+        "a19cb1478e98c6c2": {
+            "hash": "a19cb1478e98c6c2",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nahida_saferoom_challenge_01.wem"
+        },
+        "a1a899a51fafcb60": {
+            "hash": "a1a899a51fafcb60",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gorou_saferoom_rest_03.wem"
+        },
+        "a1e6e26f332370cf": {
+            "hash": "a1e6e26f332370cf",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ambor_saferoom_rest_01.wem"
+        },
+        "a21c1e8194b26f49": {
+            "hash": "a21c1e8194b26f49",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_saferoom_others_01.wem"
+        },
+        "a286bab7f125ad8b": {
+            "hash": "a286bab7f125ad8b",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sethos_saferoom_others_01.wem"
+        },
+        "a29aceb24ae70db6": {
+            "hash": "a29aceb24ae70db6",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_olorun_saferoom_rest_02.wem"
+        },
+        "a2a29af36ec3c60a": {
+            "hash": "a2a29af36ec3c60a",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_razor_saferoom_rest_01.wem"
+        },
+        "a2ec7cc06d35a6e2": {
+            "hash": "a2ec7cc06d35a6e2",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chongyun_saferoom_rest_02.wem"
+        },
+        "a2fea0ff650e72e2": {
+            "hash": "a2fea0ff650e72e2",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_saferoom_rest_02.wem"
+        },
+        "a338da5117222002": {
+            "hash": "a338da5117222002",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_changsheng_saferoom_rest_01.wem"
+        },
+        "a33b935d72815bc8": {
+            "hash": "a33b935d72815bc8",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kazuha_saferoom_challenge_02.wem"
+        },
+        "a33d25f4136d37b2": {
+            "hash": "a33d25f4136d37b2",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_noelle_saferoom_rest_02.wem"
+        },
+        "a35eeb18034f2258": {
+            "hash": "a35eeb18034f2258",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mika_saferoom_rest_03.wem"
+        },
+        "a37176aa2bb8cf89": {
+            "hash": "a37176aa2bb8cf89",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xinyan_saferoom_rest_01.wem"
+        },
+        "a3b0e6c99ba818e5": {
+            "hash": "a3b0e6c99ba818e5",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sethos_saferoom_others_03.wem"
+        },
+        "a412eaef2ed312f9": {
+            "hash": "a412eaef2ed312f9",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dori_saferoom_challenge_01.wem"
+        },
+        "a45d80f5982fd522": {
+            "hash": "a45d80f5982fd522",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_saferoom_rest_01.wem"
+        },
+        "a46e66b8ba36acd2": {
+            "hash": "a46e66b8ba36acd2",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_noelle_saferoom_challenge_01.wem"
+        },
+        "a49fd4cf8f49fae4": {
+            "hash": "a49fd4cf8f49fae4",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_charlotte_saferoom_challenge_02.wem"
+        },
+        "a586650742b012f4": {
+            "hash": "a586650742b012f4",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_saferoom_rest_03.wem"
+        },
+        "a5978aca64b756a4": {
+            "hash": "a5978aca64b756a4",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_noelle_saferoom_challenge_03.wem"
+        },
+        "a5a47dad6b5d4dec": {
+            "hash": "a5a47dad6b5d4dec",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qin_saferoom_rest_03.wem"
+        },
+        "a5bde6704e47c948": {
+            "hash": "a5bde6704e47c948",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kujouSara_saferoom_others_01.wem"
+        },
+        "a5c1e8f4382e599e": {
+            "hash": "a5c1e8f4382e599e",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diona_saferoom_others_01.wem"
+        },
+        "a67f32f53310129c": {
+            "hash": "a67f32f53310129c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yelan_saferoom_rest_02.wem"
+        },
+        "a68bb24ada2350d0": {
+            "hash": "a68bb24ada2350d0",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_rosaria_saferoom_rest_02.wem"
+        },
+        "a6d13a30d58e4605": {
+            "hash": "a6d13a30d58e4605",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ambor_saferoom_others_02.wem"
+        },
+        "a6eb1d05e2af1f40": {
+            "hash": "a6eb1d05e2af1f40",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diona_saferoom_others_03.wem"
+        },
+        "a730511da68d5208": {
+            "hash": "a730511da68d5208",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_neuvillette_saferoom_challenge_03.wem"
+        },
+        "a77dd7602aacdeda": {
+            "hash": "a77dd7602aacdeda",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_eula_saferoom_rest_02.wem"
+        },
+        "a77f5ca9f4e4e69e": {
+            "hash": "a77f5ca9f4e4e69e",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_emilie_saferoom_challenge_01.wem"
+        },
+        "a8061eaed2c39221": {
+            "hash": "a8061eaed2c39221",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xinyan_saferoom_challenge_02.wem"
+        },
+        "a851fcf342ec7605": {
+            "hash": "a851fcf342ec7605",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mona_saferoom_challenge_02.wem"
+        },
+        "a8a890bb9f65ac40": {
+            "hash": "a8a890bb9f65ac40",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_emilie_saferoom_challenge_03.wem"
+        },
+        "a8e25ea3e7e7ce3b": {
+            "hash": "a8e25ea3e7e7ce3b",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_saferoom_rest_03.wem"
+        },
+        "a9845534ece45da6": {
+            "hash": "a9845534ece45da6",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xingqiu_saferoom_challenge_03.wem"
+        },
+        "a9cfdca86684ecbe": {
+            "hash": "a9cfdca86684ecbe",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_saferoom_others_02.wem"
+        },
+        "a9eee6cc93e049cc": {
+            "hash": "a9eee6cc93e049cc",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_saferoom_others_01.wem"
+        },
+        "aa72ba55fe82180f": {
+            "hash": "aa72ba55fe82180f",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_saferoom_challenge_02.wem"
+        },
+        "aa8e31f5df19b66f": {
+            "hash": "aa8e31f5df19b66f",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_razor_saferoom_others_01.wem"
+        },
+        "aa99b592f34174e2": {
+            "hash": "aa99b592f34174e2",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_rosaria_saferoom_challenge_03.wem"
+        },
+        "aaa2a09b46c68ee2": {
+            "hash": "aaa2a09b46c68ee2",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_cyno_saferoom_others_01.wem"
+        },
+        "aaadeacc2229d9bc": {
+            "hash": "aaadeacc2229d9bc",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_collei_saferoom_rest_01.wem"
+        },
+        "aafdc2892e631e84": {
+            "hash": "aafdc2892e631e84",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gorou_saferoom_others_02.wem"
+        },
+        "ab22864e425aba37": {
+            "hash": "ab22864e425aba37",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_neuvillette_saferoom_others_02.wem"
+        },
+        "ab2324bea7488b66": {
+            "hash": "ab2324bea7488b66",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_beidou_saferoom_others_02.wem"
+        },
+        "ab597ed92af0bc0a": {
+            "hash": "ab597ed92af0bc0a",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_alhaitham_saferoom_rest_02.wem"
+        },
+        "abc399a49dc364b4": {
+            "hash": "abc399a49dc364b4",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_rosaria_saferoom_challenge_01.wem"
+        },
+        "abcc84acf1487eb4": {
+            "hash": "abcc84acf1487eb4",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_cyno_saferoom_others_03.wem"
+        },
+        "ac70ce32ba7265a6": {
+            "hash": "ac70ce32ba7265a6",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qiqi_saferoom_challenge_02.wem"
+        },
+        "ace934260c3d12c5": {
+            "hash": "ace934260c3d12c5",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chiori_saferoom_challenge_03.wem"
+        },
+        "ad2238e2e71d2bb3": {
+            "hash": "ad2238e2e71d2bb3",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tighnari_saferoom_others_03.wem"
+        },
+        "ad232b608688a912": {
+            "hash": "ad232b608688a912",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sucrose_saferoom_rest_03.wem"
+        },
+        "ad70ca574598bce3": {
+            "hash": "ad70ca574598bce3",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_saferoom_challenge_01.wem"
+        },
+        "ad7d70348a9ebfdc": {
+            "hash": "ad7d70348a9ebfdc",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_saferoom_others_01.wem"
+        },
+        "ada0f3c0c4308a3e": {
+            "hash": "ada0f3c0c4308a3e",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xingqiu_saferoom_others_01.wem"
+        },
+        "adbfae5fcfb76676": {
+            "hash": "adbfae5fcfb76676",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diluc_saferoom_others_01.wem"
+        },
+        "ae17bda3ebdc4503": {
+            "hash": "ae17bda3ebdc4503",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_saferoom_rest_02.wem"
+        },
+        "aee184515763e345": {
+            "hash": "aee184515763e345",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mavuika_saferoom_others_01.wem"
+        },
+        "af30c2b5d077392f": {
+            "hash": "af30c2b5d077392f",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_olorun_saferoom_others_02.wem"
+        },
+        "afe4c89870d975ed": {
+            "hash": "afe4c89870d975ed",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yanfei_saferoom_challenge_01.wem"
+        },
+        "aff8b61915c737cc": {
+            "hash": "aff8b61915c737cc",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_saferoom_others_02.wem"
+        },
+        "b015cc0d0a2ec028": {
+            "hash": "b015cc0d0a2ec028",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_saferoom_rest_01.wem"
+        },
+        "b03f542de371d056": {
+            "hash": "b03f542de371d056",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_navia_saferoom_others_03.wem"
+        },
+        "b07ac86fac13b7eb": {
+            "hash": "b07ac86fac13b7eb",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_alhaitham_saferoom_others_02.wem"
+        },
+        "b0901a670796b50c": {
+            "hash": "b0901a670796b50c",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_saferoom_rest_02.wem"
+        },
+        "b0d74884b9644718": {
+            "hash": "b0d74884b9644718",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiangling_saferoom_others_03.wem"
+        },
+        "b0e7d3df43b6e6c1": {
+            "hash": "b0e7d3df43b6e6c1",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_rest_03b.wem"
+        },
+        "b10e75437a1122ba": {
+            "hash": "b10e75437a1122ba",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_keqing_saferoom_rest_02.wem"
+        },
+        "b1b34f7233ee2fe4": {
+            "hash": "b1b34f7233ee2fe4",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sucrose_saferoom_rest_01.wem"
+        },
+        "b21b9396cb21f483": {
+            "hash": "b21b9396cb21f483",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_itto_saferoom_challenge_03.wem"
+        },
+        "b23b6aee116ebc9a": {
+            "hash": "b23b6aee116ebc9a",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nahida_saferoom_others_03.wem"
+        },
+        "b2a62af68be7d445": {
+            "hash": "b2a62af68be7d445",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaoyao_saferoom_rest_02.wem"
+        },
+        "b2cd3e14dfd475af": {
+            "hash": "b2cd3e14dfd475af",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kokomi_saferoom_challenge_01.wem"
+        },
+        "b2e02db75e3c8408": {
+            "hash": "b2e02db75e3c8408",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ganyu_saferoom_others_02.wem"
+        },
+        "b30be32393de88d1": {
+            "hash": "b30be32393de88d1",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kujouSara_saferoom_challenge_02.wem"
+        },
+        "b3457fa875a3f2bd": {
+            "hash": "b3457fa875a3f2bd",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_itto_saferoom_challenge_01.wem"
+        },
+        "b3955270850654cf": {
+            "hash": "b3955270850654cf",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_heizou_saferoom_others_03.wem"
+        },
+        "b4382abca6777b0e": {
+            "hash": "b4382abca6777b0e",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gaming_saferoom_others_03.wem"
+        },
+        "b4eaaa991c0cb50f": {
+            "hash": "b4eaaa991c0cb50f",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xinyan_saferoom_rest_03.wem"
+        },
+        "b5621ece50f986b0": {
+            "hash": "b5621ece50f986b0",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gaming_saferoom_others_01.wem"
+        },
+        "b5e128185977ebcb": {
+            "hash": "b5e128185977ebcb",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mona_saferoom_rest_03.wem"
+        },
+        "b6259125fa9c4055": {
+            "hash": "b6259125fa9c4055",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_collei_saferoom_others_01.wem"
+        },
+        "b6d29a7f98ed3807": {
+            "hash": "b6d29a7f98ed3807",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shinobu_saferoom_others_01.wem"
+        },
+        "b7009ebd00ebca3c": {
+            "hash": "b7009ebd00ebca3c",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yanfei_saferoom_rest_01.wem"
+        },
+        "b70a542a03f8a325": {
+            "hash": "b70a542a03f8a325",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mona_saferoom_rest_01.wem"
+        },
+        "b71d799c5bb0d3ba": {
+            "hash": "b71d799c5bb0d3ba",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qin_saferoom_rest_01.wem"
+        },
+        "b7b69cd7171941d4": {
+            "hash": "b7b69cd7171941d4",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lyney_saferoom_others_03.wem"
+        },
+        "b7fb8691436d8321": {
+            "hash": "b7fb8691436d8321",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shinobu_saferoom_others_03.wem"
+        },
+        "b82a70ee07ac7d56": {
+            "hash": "b82a70ee07ac7d56",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_saferoom_others_02.wem"
+        },
+        "b83e1706f6862376": {
+            "hash": "b83e1706f6862376",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mika_saferoom_rest_01.wem"
+        },
+        "b86e2bfdc9b80c64": {
+            "hash": "b86e2bfdc9b80c64",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shinobu_saferoom_challenge_02.wem"
+        },
+        "b8f22a47b1467bc2": {
+            "hash": "b8f22a47b1467bc2",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_charlotte_saferoom_rest_01.wem"
+        },
+        "b95b05f9208582d0": {
+            "hash": "b95b05f9208582d0",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_saferoom_challenge_03.wem"
+        },
+        "b9708d33ccc0e6b9": {
+            "hash": "b9708d33ccc0e6b9",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_saferoom_challenge_03.wem"
+        },
+        "b99aa8c2253f20c4": {
+            "hash": "b99aa8c2253f20c4",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kokomi_saferoom_others_02.wem"
+        },
+        "b9adebf445a31b1b": {
+            "hash": "b9adebf445a31b1b",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diluc_saferoom_rest_01.wem"
+        },
+        "bad7d805f0251935": {
+            "hash": "bad7d805f0251935",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diluc_saferoom_rest_03.wem"
+        },
+        "bb00e024f495c90c": {
+            "hash": "bb00e024f495c90c",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_itto_saferoom_rest_01.wem"
+        },
+        "bb14d696eb74c4e6": {
+            "hash": "bb14d696eb74c4e6",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_saferoom_rest_01.wem"
+        },
+        "bb67e2bb8433cf9a": {
+            "hash": "bb67e2bb8433cf9a",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_saferoom_others_03.wem"
+        },
+        "bb6d6cf135ea36c8": {
+            "hash": "bb6d6cf135ea36c8",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kinich_saferoom_others_02.wem"
+        },
+        "bb92bfc4a4c84ed0": {
+            "hash": "bb92bfc4a4c84ed0",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiao_saferoom_challenge_01.wem"
+        },
+        "bbb8b22892f8695d": {
+            "hash": "bbb8b22892f8695d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_albedo_saferoom_rest_01.wem"
+        },
+        "bc3a09e0e371e5dc": {
+            "hash": "bc3a09e0e371e5dc",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_barbara_saferoom_others_03.wem"
+        },
+        "bc84581afe52b365": {
+            "hash": "bc84581afe52b365",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shinobu_saferoom_rest_02.wem"
+        },
+        "bcddeed247c37b42": {
+            "hash": "bcddeed247c37b42",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_layla_saferoom_others_01.wem"
+        },
+        "bce67cce11332a93": {
+            "hash": "bce67cce11332a93",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lisa_saferoom_rest_01.wem"
+        },
+        "bd3a9f05b9e0397c": {
+            "hash": "bd3a9f05b9e0397c",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_razor_saferoom_rest_03.wem"
+        },
+        "bda73edad2341b32": {
+            "hash": "bda73edad2341b32",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ningguang_saferoom_others_02.wem"
+        },
+        "be1068dfbbb5288d": {
+            "hash": "be1068dfbbb5288d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lisa_saferoom_rest_03.wem"
+        },
+        "be4fbe95892b46d0": {
+            "hash": "be4fbe95892b46d0",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lynette_saferoom_others_03.wem"
+        },
+        "be619832c72bdd7f": {
+            "hash": "be619832c72bdd7f",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_saferoom_rest_03.wem"
+        },
+        "bebca53d53b98a6e": {
+            "hash": "bebca53d53b98a6e",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_saferoom_challenge_02.wem"
+        },
+        "bf30c133a8623b9e": {
+            "hash": "bf30c133a8623b9e",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_saferoom_rest_03.wem"
+        },
+        "bf5353c97d20117b": {
+            "hash": "bf5353c97d20117b",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ajaw_saferoom_challenge_02.wem"
+        },
+        "bf9c391357c67c0b": {
+            "hash": "bf9c391357c67c0b",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_barbara_saferoom_challenge_02.wem"
+        },
+        "c0006b0e838a2ae5": {
+            "hash": "c0006b0e838a2ae5",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chongyun_saferoom_challenge_02.wem"
+        },
+        "c04b1a35d222b871": {
+            "hash": "c04b1a35d222b871",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_olorun_saferoom_challenge_02.wem"
+        },
+        "c059f54552e30140": {
+            "hash": "c059f54552e30140",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_saferoom_rest_01.wem"
+        },
+        "c0f5fac2ab3a9941": {
+            "hash": "c0f5fac2ab3a9941",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_thoma_saferoom_challenge_02.wem"
+        },
+        "c0fdbe6ed20d7963": {
+            "hash": "c0fdbe6ed20d7963",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_saferoom_rest_01.wem"
+        },
+        "c2507473a9b81f36": {
+            "hash": "c2507473a9b81f36",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiangling_saferoom_others_01.wem"
+        },
+        "c35c54aa431d6224": {
+            "hash": "c35c54aa431d6224",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kazuha_saferoom_others_02.wem"
+        },
+        "c3e9e72b690a8345": {
+            "hash": "c3e9e72b690a8345",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sayu_saferoom_rest_02.wem"
+        },
+        "c3f1f22e02bb0111": {
+            "hash": "c3f1f22e02bb0111",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mualani_saferoom_rest_01.wem"
+        },
+        "c451f918fd9e9407": {
+            "hash": "c451f918fd9e9407",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chevreuse_saferoom_challenge_01.wem"
+        },
+        "c471c1b89b4358cb": {
+            "hash": "c471c1b89b4358cb",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaeMiko_saferoom_rest_01.wem"
+        },
+        "c47cb7473d9a9b00": {
+            "hash": "c47cb7473d9a9b00",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sayu_saferoom_others_02.wem"
+        },
+        "c4dcab27ecb95088": {
+            "hash": "c4dcab27ecb95088",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chevreuse_saferoom_rest_03.wem"
+        },
+        "c4faaf0639211c33": {
+            "hash": "c4faaf0639211c33",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_razor_saferoom_challenge_01.wem"
+        },
+        "c51e9ab13ec740b3": {
+            "hash": "c51e9ab13ec740b3",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ningguang_saferoom_challenge_03.wem"
+        },
+        "c550024b259e662d": {
+            "hash": "c550024b259e662d",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_albedo_saferoom_challenge_02.wem"
+        },
+        "c57ae52aa81edf21": {
+            "hash": "c57ae52aa81edf21",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chevreuse_saferoom_challenge_03.wem"
+        },
+        "c59aedca45c41025": {
+            "hash": "c59aedca45c41025",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaeMiko_saferoom_rest_03.wem"
+        },
+        "c681edcf2ea0b54a": {
+            "hash": "c681edcf2ea0b54a",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yunjin_saferoom_rest_02.wem"
+        },
+        "c6ccc8e210596983": {
+            "hash": "c6ccc8e210596983",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mona_saferoom_others_02.wem"
+        },
+        "c6ef518b14d90ee5": {
+            "hash": "c6ef518b14d90ee5",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_saferoom_challenge_02.wem"
+        },
+        "c71b3d7958e76aad": {
+            "hash": "c71b3d7958e76aad",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaeya_saferoom_others_02.wem"
+        },
+        "c73921097f381ac9": {
+            "hash": "c73921097f381ac9",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_zhongli_saferoom_challenge_02.wem"
+        },
+        "c7fae633ecbd4520": {
+            "hash": "c7fae633ecbd4520",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_saferoom_others_03.wem"
+        },
+        "c80791f7bfb7e4d5": {
+            "hash": "c80791f7bfb7e4d5",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xianyun_saferoom_challenge_03.wem"
+        },
+        "c8364eec817a9b81": {
+            "hash": "c8364eec817a9b81",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_zhongli_saferoom_rest_01.wem"
+        },
+        "c84d525f620e6086": {
+            "hash": "c84d525f620e6086",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_beidou_saferoom_rest_03.wem"
+        },
+        "c873db2415bba307": {
+            "hash": "c873db2415bba307",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qiqi_saferoom_rest_02.wem"
+        },
+        "ca0d4b8fcfaae43b": {
+            "hash": "ca0d4b8fcfaae43b",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sayu_saferoom_challenge_01.wem"
+        },
+        "ca17f6e702698723": {
+            "hash": "ca17f6e702698723",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qin_saferoom_challenge_01.wem"
+        },
+        "ca8adf7214defb50": {
+            "hash": "ca8adf7214defb50",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_zhongli_saferoom_others_01.wem"
+        },
+        "ca9e31d83744eaf1": {
+            "hash": "ca9e31d83744eaf1",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kachina_saferoom_challenge_02.wem"
+        },
+        "caa89d9f2c21c929": {
+            "hash": "caa89d9f2c21c929",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gaming_saferoom_challenge_02.wem"
+        },
+        "cad029c9064b8154": {
+            "hash": "cad029c9064b8154",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_saferoom_others_02.wem"
+        },
+        "cb2a59504d1d4779": {
+            "hash": "cb2a59504d1d4779",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_saferoom_challenge_03.wem"
+        },
+        "cb3a9122fc3a177b": {
+            "hash": "cb3a9122fc3a177b",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiao_saferoom_rest_01.wem"
+        },
+        "cc4276245dfa4b45": {
+            "hash": "cc4276245dfa4b45",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xianyun_saferoom_rest_02.wem"
+        },
+        "cc625cf433b70ae9": {
+            "hash": "cc625cf433b70ae9",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lyney_saferoom_rest_03.wem"
+        },
+        "cc6b77f4cc1af69b": {
+            "hash": "cc6b77f4cc1af69b",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wriothesley_saferoom_challenge_02.wem"
+        },
+        "cd466d07d55b4100": {
+            "hash": "cd466d07d55b4100",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_saferoom_others_02.wem"
+        },
+        "cd61360c8c031e0b": {
+            "hash": "cd61360c8c031e0b",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_saferoom_others_01.wem"
+        },
+        "cd6bcb9d86091508": {
+            "hash": "cd6bcb9d86091508",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chasca_saferoom_rest_02.wem"
+        },
+        "ce085769af627cf2": {
+            "hash": "ce085769af627cf2",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_raidenEi_saferoom_rest_02.wem"
+        },
+        "ce1397e675635b66": {
+            "hash": "ce1397e675635b66",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_others_03.wem"
+        },
+        "ce79098d5f3a42a8": {
+            "hash": "ce79098d5f3a42a8",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gorou_saferoom_challenge_02.wem"
+        },
+        "ce7cf167948fb605": {
+            "hash": "ce7cf167948fb605",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_saferoom_others_01.wem"
+        },
+        "ce8b621e36858965": {
+            "hash": "ce8b621e36858965",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_saferoom_others_03.wem"
+        },
+        "cf054fa1c9edb832": {
+            "hash": "cf054fa1c9edb832",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_baizhu_saferoom_challenge_01.wem"
+        },
+        "cf57a72eb3b746ab": {
+            "hash": "cf57a72eb3b746ab",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_saferoom_rest_01.wem"
+        },
+        "cfe0dc13e7ce2bda": {
+            "hash": "cfe0dc13e7ce2bda",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_itto_saferoom_rest_03.wem"
+        },
+        "cff9e13093b23d05": {
+            "hash": "cff9e13093b23d05",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sucrose_saferoom_challenge_01.wem"
+        },
+        "d0176aea33c009bb": {
+            "hash": "d0176aea33c009bb",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_albedo_saferoom_others_02.wem"
+        },
+        "d0434d3966cae4c1": {
+            "hash": "d0434d3966cae4c1",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_saferoom_rest_03.wem"
+        },
+        "d0a956c350767261": {
+            "hash": "d0a956c350767261",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_saferoom_others_02.wem"
+        },
+        "d129965ac7f0d7ea": {
+            "hash": "d129965ac7f0d7ea",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_furina_saferoom_rest_02.wem"
+        },
+        "d17297a0c4995ddf": {
+            "hash": "d17297a0c4995ddf",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_saferoom_others_01.wem"
+        },
+        "d197d701fd233ef2": {
+            "hash": "d197d701fd233ef2",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_eula_saferoom_others_03.wem"
+        },
+        "d3629db67b82dfe3": {
+            "hash": "d3629db67b82dfe3",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chevreuse_saferoom_others_01.wem"
+        },
+        "d3864603e8c6e5ee": {
+            "hash": "d3864603e8c6e5ee",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_challenge_01.wem"
+        },
+        "d39d4e0b6f634f7d": {
+            "hash": "d39d4e0b6f634f7d",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wriothesley_saferoom_others_02.wem"
+        },
+        "d3ef22dd316969a9": {
+            "hash": "d3ef22dd316969a9",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_navia_saferoom_rest_01.wem"
+        },
+        "d3fb2df9cc9b117b": {
+            "hash": "d3fb2df9cc9b117b",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mizuki_saferoom_rest_01.wem"
+        },
+        "d41cf9b97a9abe5d": {
+            "hash": "d41cf9b97a9abe5d",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mavuika_saferoom_challenge_01.wem"
+        },
+        "d485fa2c0ed4c05f": {
+            "hash": "d485fa2c0ed4c05f",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yelan_saferoom_challenge_02.wem"
+        },
+        "d50303fb09a0de95": {
+            "hash": "d50303fb09a0de95",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_noelle_saferoom_rest_01.wem"
+        },
+        "d51ace90c5c72e05": {
+            "hash": "d51ace90c5c72e05",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nahida_saferoom_rest_01.wem"
+        },
+        "d51d18dbb0c07846": {
+            "hash": "d51d18dbb0c07846",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_emilie_saferoom_rest_02.wem"
+        },
+        "d537c64676b1cec7": {
+            "hash": "d537c64676b1cec7",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaeMiko_saferoom_challenge_02.wem"
+        },
+        "d59ba65c87870268": {
+            "hash": "d59ba65c87870268",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_layla_saferoom_rest_02.wem"
+        },
+        "d59d759effcf656a": {
+            "hash": "d59d759effcf656a",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lyney_saferoom_challenge_03.wem"
+        },
+        "d5d19865bc3d4550": {
+            "hash": "d5d19865bc3d4550",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_neuvillette_saferoom_others_01.wem"
+        },
+        "d60769c630b65e5c": {
+            "hash": "d60769c630b65e5c",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_saferoom_others_01.wem"
+        },
+        "d669d9de661f8c5c": {
+            "hash": "d669d9de661f8c5c",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ganyu_saferoom_rest_03.wem"
+        },
+        "d686609e239b780f": {
+            "hash": "d686609e239b780f",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_saferoom_others_02.wem"
+        },
+        "d6c9ed02b1b23853": {
+            "hash": "d6c9ed02b1b23853",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lynette_saferoom_rest_01.wem"
+        },
+        "d7bb49b44a6a9c3b": {
+            "hash": "d7bb49b44a6a9c3b",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yanfei_saferoom_others_03.wem"
+        },
+        "d7d4d247c85dbb29": {
+            "hash": "d7d4d247c85dbb29",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_saferoom_challenge_01.wem"
+        },
+        "d840ded584ffd64c": {
+            "hash": "d840ded584ffd64c",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_saferoom_others_01.wem"
+        },
+        "d8f30ed4a6c75d1c": {
+            "hash": "d8f30ed4a6c75d1c",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_layla_saferoom_challenge_01.wem"
+        },
+        "da4b2ab26f952513": {
+            "hash": "da4b2ab26f952513",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ningguang_saferoom_rest_02.wem"
+        },
+        "daae5831e52ffa64": {
+            "hash": "daae5831e52ffa64",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiangling_saferoom_rest_02.wem"
+        },
+        "dacf4cc7c7c3ab62": {
+            "hash": "dacf4cc7c7c3ab62",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_saferoom_rest_02.wem"
+        },
+        "db55827cc9243c2d": {
+            "hash": "db55827cc9243c2d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mika_saferoom_others_03.wem"
+        },
+        "db58c65e42ba0aef": {
+            "hash": "db58c65e42ba0aef",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diona_saferoom_challenge_02.wem"
+        },
+        "db59d9145f175f4d": {
+            "hash": "db59d9145f175f4d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lynette_saferoom_rest_03.wem"
+        },
+        "dba5ba8934d10387": {
+            "hash": "dba5ba8934d10387",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_charlotte_saferoom_others_01.wem"
+        },
+        "dbbff8b254e42943": {
+            "hash": "dbbff8b254e42943",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mavuika_saferoom_rest_02.wem"
+        },
+        "dccea69adf514ea1": {
+            "hash": "dccea69adf514ea1",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_charlotte_saferoom_others_03.wem"
+        },
+        "dce0671b2ae0658a": {
+            "hash": "dce0671b2ae0658a",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_rosaria_saferoom_others_01.wem"
+        },
+        "dd3497235686a441": {
+            "hash": "dd3497235686a441",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_navia_saferoom_challenge_02.wem"
+        },
+        "ddd049d799f2ecbd": {
+            "hash": "ddd049d799f2ecbd",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_furina_saferoom_challenge_02.wem"
+        },
+        "dddb90e3240af06f": {
+            "hash": "dddb90e3240af06f",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lyney_saferoom_rest_01.wem"
+        },
+        "ddde78e21d4c674f": {
+            "hash": "ddde78e21d4c674f",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_saferoom_challenge_02.wem"
+        },
+        "de322876244ddfd5": {
+            "hash": "de322876244ddfd5",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaoyao_saferoom_challenge_03.wem"
+        },
+        "de93a6d82cf15d1b": {
+            "hash": "de93a6d82cf15d1b",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_saferoom_challenge_02.wem"
+        },
+        "df1a3bf49bc65249": {
+            "hash": "df1a3bf49bc65249",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_cyno_saferoom_rest_03.wem"
+        },
+        "df7f6671aa47c5a8": {
+            "hash": "df7f6671aa47c5a8",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_beidou_saferoom_rest_01.wem"
+        },
+        "e0002295e1d65b8a": {
+            "hash": "e0002295e1d65b8a",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yoimiya_saferoom_challenge_01.wem"
+        },
+        "e03437256bb530a9": {
+            "hash": "e03437256bb530a9",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_thoma_saferoom_rest_01.wem"
+        },
+        "e07a4143c3ae564e": {
+            "hash": "e07a4143c3ae564e",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diluc_saferoom_challenge_03.wem"
+        },
+        "e08c4c7d845c15f5": {
+            "hash": "e08c4c7d845c15f5",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_baizhu_saferoom_rest_01.wem"
+        },
+        "e11c54f0ad830c8d": {
+            "hash": "e11c54f0ad830c8d",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_arlecchino_saferoom_rest_02.wem"
+        },
+        "e11cd49e1223f12b": {
+            "hash": "e11cd49e1223f12b",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yunjin_saferoom_others_02.wem"
+        },
+        "e12edb58d40c1d01": {
+            "hash": "e12edb58d40c1d01",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kazuha_saferoom_rest_02.wem"
+        },
+        "e19e1edf5a98a47f": {
+            "hash": "e19e1edf5a98a47f",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dori_saferoom_challenge_03.wem"
+        },
+        "e1a435556e3061f0": {
+            "hash": "e1a435556e3061f0",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diluc_saferoom_challenge_01.wem"
+        },
+        "e1cfa4df10437ef3": {
+            "hash": "e1cfa4df10437ef3",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_collei_saferoom_challenge_03.wem"
+        },
+        "e29e14874abd5488": {
+            "hash": "e29e14874abd5488",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ambor_saferoom_rest_02.wem"
+        },
+        "e34852607a0c06a6": {
+            "hash": "e34852607a0c06a6",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kujouSara_saferoom_others_03.wem"
+        },
+        "e4bbbd0dd2534366": {
+            "hash": "e4bbbd0dd2534366",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_neuvillette_saferoom_challenge_01.wem"
+        },
+        "e51a4dcac3f90306": {
+            "hash": "e51a4dcac3f90306",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_saferoom_others_01.wem"
+        },
+        "e51d072be37b7df5": {
+            "hash": "e51d072be37b7df5",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_saferoom_challenge_02.wem"
+        },
+        "e606b6d4bf0c42cb": {
+            "hash": "e606b6d4bf0c42cb",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_furina_saferoom_others_02.wem"
+        },
+        "e634b591145e167f": {
+            "hash": "e634b591145e167f",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lynette_saferoom_challenge_02.wem"
+        },
+        "e6ae28bf1819581c": {
+            "hash": "e6ae28bf1819581c",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_eula_saferoom_challenge_03.wem"
+        },
+        "e720696cb549d803": {
+            "hash": "e720696cb549d803",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diona_saferoom_rest_01.wem"
+        },
+        "e7b3da95c13f584e": {
+            "hash": "e7b3da95c13f584e",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sethos_saferoom_rest_01.wem"
+        },
+        "e82a881b7802a89b": {
+            "hash": "e82a881b7802a89b",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_keqing_saferoom_others_02.wem"
+        },
+        "e84a557e5fcbd63d": {
+            "hash": "e84a557e5fcbd63d",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diona_saferoom_rest_03.wem"
+        },
+        "e8a0706b39d2e865": {
+            "hash": "e8a0706b39d2e865",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_saferoom_challenge_02.wem"
+        },
+        "e8a5e3b30cd4d4d9": {
+            "hash": "e8a5e3b30cd4d4d9",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_saferoom_others_03.wem"
+        },
+        "e8ce56cc24a0782f": {
+            "hash": "e8ce56cc24a0782f",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_navia_saferoom_rest_03.wem"
+        },
+        "e8ddcea76bc163f0": {
+            "hash": "e8ddcea76bc163f0",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sethos_saferoom_rest_03.wem"
+        },
+        "e9b9dac475535c1a": {
+            "hash": "e9b9dac475535c1a",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_saferoom_others_03.wem"
+        },
+        "e9cc85e0f6d54284": {
+            "hash": "e9cc85e0f6d54284",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ajaw_saferoom_challenge_01.wem"
+        },
+        "ea905f9ac1e896ff": {
+            "hash": "ea905f9ac1e896ff",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayaka_saferoom_challenge_02.wem"
+        },
+        "eb08ec24b664cbea": {
+            "hash": "eb08ec24b664cbea",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_saferoom_others_03.wem"
+        },
+        "eb24971dc7aae940": {
+            "hash": "eb24971dc7aae940",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wriothesley_saferoom_rest_02.wem"
+        },
+        "eb2aec6e161dafc8": {
+            "hash": "eb2aec6e161dafc8",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_saferoom_challenge_01.wem"
+        },
+        "eb4810f9ca03d4ce": {
+            "hash": "eb4810f9ca03d4ce",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_saferoom_rest_01.wem"
+        },
+        "eb91426344e3fbdd": {
+            "hash": "eb91426344e3fbdd",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_alhaitham_saferoom_challenge_02.wem"
+        },
+        "ec72050b7485e070": {
+            "hash": "ec72050b7485e070",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_saferoom_rest_03.wem"
+        },
+        "ecb40636bb94c9af": {
+            "hash": "ecb40636bb94c9af",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_saferoom_challenge_03.wem"
+        },
+        "ecb84e169679f67c": {
+            "hash": "ecb84e169679f67c",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_baizhu_saferoom_others_01.wem"
+        },
+        "ecc4931db1180e2c": {
+            "hash": "ecc4931db1180e2c",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_saferoom_others_03.wem"
+        },
+        "ed2d1cd01640153b": {
+            "hash": "ed2d1cd01640153b",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tighnari_saferoom_challenge_03.wem"
+        },
+        "ee0e23866eb87cc6": {
+            "hash": "ee0e23866eb87cc6",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kachina_saferoom_others_03.wem"
+        },
+        "ee5f1c6f5d6219cc": {
+            "hash": "ee5f1c6f5d6219cc",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_saferoom_challenge_02.wem"
+        },
+        "ef6d1ce1c867c215": {
+            "hash": "ef6d1ce1c867c215",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ningguang_saferoom_others_01.wem"
+        },
+        "ef6e1e791aafc91d": {
+            "hash": "ef6e1e791aafc91d",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_freminet_saferoom_challenge_01.wem"
+        },
+        "efbdf4239cf1b707": {
+            "hash": "efbdf4239cf1b707",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mualani_saferoom_others_02.wem"
+        },
+        "efe05de77fa10723": {
+            "hash": "efe05de77fa10723",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sucrose_saferoom_others_03.wem"
+        },
+        "eff934ddc4aca9a3": {
+            "hash": "eff934ddc4aca9a3",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xingqiu_saferoom_rest_01.wem"
+        },
+        "f011d3d60e87ca72": {
+            "hash": "f011d3d60e87ca72",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lanyan_saferoom_rest_02.wem"
+        },
+        "f01f6b0dce154fd4": {
+            "hash": "f01f6b0dce154fd4",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaeya_saferoom_challenge_01.wem"
+        },
+        "f024b44312bea112": {
+            "hash": "f024b44312bea112",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_saferoom_challenge_01.wem"
+        },
+        "f03b7fef5f159a10": {
+            "hash": "f03b7fef5f159a10",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_lisa_saferoom_others_03.wem"
+        },
+        "f04b734449bdd311": {
+            "hash": "f04b734449bdd311",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_saferoom_challenge_01.wem"
+        },
+        "f07c9367a6366817": {
+            "hash": "f07c9367a6366817",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_candace_saferoom_challenge_02.wem"
+        },
+        "f0936fe38c1a37cf": {
+            "hash": "f0936fe38c1a37cf",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_cyno_saferoom_rest_01.wem"
+        },
+        "f0cc2085c74fd607": {
+            "hash": "f0cc2085c74fd607",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ajaw_saferoom_rest_01.wem"
+        },
+        "f195736be621147d": {
+            "hash": "f195736be621147d",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_saferoom_rest_02.wem"
+        },
+        "f21494f628e8459f": {
+            "hash": "f21494f628e8459f",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xinyan_saferoom_others_02.wem"
+        },
+        "f2aed1aa9331f50a": {
+            "hash": "f2aed1aa9331f50a",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_keqing_saferoom_challenge_01.wem"
+        },
+        "f2aed26b37f20801": {
+            "hash": "f2aed26b37f20801",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yaoyao_saferoom_others_03.wem"
+        },
+        "f33baaf1e2707c39": {
+            "hash": "f33baaf1e2707c39",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mizuki_saferoom_others_02.wem"
+        },
+        "f3aa485aec39b52f": {
+            "hash": "f3aa485aec39b52f",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_others_01a.wem"
+        },
+        "f3fd0ac3dd4e122e": {
+            "hash": "f3fd0ac3dd4e122e",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayaka_saferoom_others_01.wem"
+        },
+        "f408bb341c0dc63b": {
+            "hash": "f408bb341c0dc63b",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_saferoom_challenge_01.wem"
+        },
+        "f4857da7495e6344": {
+            "hash": "f4857da7495e6344",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sayu_saferoom_challenge_02.wem"
+        },
+        "f4b4d854c02427e4": {
+            "hash": "f4b4d854c02427e4",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dehya_saferoom_challenge_03.wem"
+        },
+        "f4f43a6066d8d927": {
+            "hash": "f4f43a6066d8d927",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_qiqi_saferoom_others_03.wem"
+        },
+        "f5136b145eec3f2f": {
+            "hash": "f5136b145eec3f2f",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_thoma_saferoom_rest_03.wem"
+        },
+        "f53ce595e92e5b3e": {
+            "hash": "f53ce595e92e5b3e",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_gorou_saferoom_rest_01.wem"
+        },
+        "f5ab2cd0a3681c14": {
+            "hash": "f5ab2cd0a3681c14",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sethos_saferoom_others_02.wem"
+        },
+        "f5b3c33a75ef4884": {
+            "hash": "f5b3c33a75ef4884",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiao_saferoom_rest_02.wem"
+        },
+        "f5e3de5ad6f3eb58": {
+            "hash": "f5e3de5ad6f3eb58",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_saferoom_rest_01.wem"
+        },
+        "f6067102913a7239": {
+            "hash": "f6067102913a7239",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiao_saferoom_others_02.wem"
+        },
+        "f6070344e517ac93": {
+            "hash": "f6070344e517ac93",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ganyu_saferoom_challenge_01.wem"
+        },
+        "f641b9cae3a4b821": {
+            "hash": "f641b9cae3a4b821",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kokomi_saferoom_rest_02.wem"
+        },
+        "f6fbc123f886783f": {
+            "hash": "f6fbc123f886783f",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_clorinde_saferoom_challenge_01.wem"
+        },
+        "f70e014117f88e2d": {
+            "hash": "f70e014117f88e2d",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_arlecchino_saferoom_challenge_03.wem"
+        },
+        "f730ef568f99aa8d": {
+            "hash": "f730ef568f99aa8d",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ganyu_saferoom_challenge_03.wem"
+        },
+        "f7786b2d75fcd8fc": {
+            "hash": "f7786b2d75fcd8fc",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_rosaria_saferoom_others_03.wem"
+        },
+        "f7f92a44fec946b1": {
+            "hash": "f7f92a44fec946b1",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ayato_saferoom_rest_02.wem"
+        },
+        "f802f0689890c68e": {
+            "hash": "f802f0689890c68e",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yelan_saferoom_others_01.wem"
+        },
+        "f819d09c431c43d6": {
+            "hash": "f819d09c431c43d6",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_klee_saferoom_rest_02.wem"
+        },
+        "f83f3e1eba852b53": {
+            "hash": "f83f3e1eba852b53",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ambor_saferoom_challenge_02.wem"
+        },
+        "f90abdbba9234c28": {
+            "hash": "f90abdbba9234c28",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_arlecchino_saferoom_others_02.wem"
+        },
+        "f92ce47a4312d230": {
+            "hash": "f92ce47a4312d230",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yelan_saferoom_others_03.wem"
+        },
+        "f9c585d10f37f1ea": {
+            "hash": "f9c585d10f37f1ea",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_barbara_saferoom_others_01.wem"
+        },
+        "fa0753aa2d3ccaf3": {
+            "hash": "fa0753aa2d3ccaf3",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_raidenEi_saferoom_others_02.wem"
+        },
+        "fa26222d2a6c1701": {
+            "hash": "fa26222d2a6c1701",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xianyun_saferoom_others_03.wem"
+        },
+        "fa7784bd82785f97": {
+            "hash": "fa7784bd82785f97",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_barbara_saferoom_rest_01.wem"
+        },
+        "fa8f9d01ad7388c4": {
+            "hash": "fa8f9d01ad7388c4",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_albedo_saferoom_others_01.wem"
+        },
+        "fa9826a82cf2cefc": {
+            "hash": "fa9826a82cf2cefc",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_yoimiya_saferoom_challenge_03.wem"
+        },
+        "fad5b845b95a2053": {
+            "hash": "fad5b845b95a2053",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_cyno_saferoom_challenge_02.wem"
+        },
+        "fb6b57d13e09d581": {
+            "hash": "fb6b57d13e09d581",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_neuvillette_saferoom_rest_01.wem"
+        },
+        "fbacb0a8cef98f1f": {
+            "hash": "fbacb0a8cef98f1f",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_olorun_saferoom_rest_03.wem"
+        },
+        "fc0ecf4fbd5b5de5": {
+            "hash": "fc0ecf4fbd5b5de5",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nahida_saferoom_challenge_02.wem"
+        },
+        "fc4c61dd0c326828": {
+            "hash": "fc4c61dd0c326828",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_saferoom_others_03.wem"
+        },
+        "fcb23bb00295b682": {
+            "hash": "fcb23bb00295b682",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_itto_saferoom_others_02.wem"
+        },
+        "fcf574a2761de979": {
+            "hash": "fcf574a2761de979",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kujouSara_saferoom_rest_01.wem"
+        },
+        "fd5e9ac89bf83d05": {
+            "hash": "fd5e9ac89bf83d05",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chongyun_saferoom_rest_01.wem"
+        },
+        "fd70bf0793d10905": {
+            "hash": "fd70bf0793d10905",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_saferoom_rest_01.wem"
+        },
+        "fd7fb7bce8c5db12": {
+            "hash": "fd7fb7bce8c5db12",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_chiori_saferoom_rest_01.wem"
+        },
+        "fd81a70d3ebec6ce": {
+            "hash": "fd81a70d3ebec6ce",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_fischl_saferoom_challenge_03.wem"
+        },
+        "fd9dc4b5dd96a4a0": {
+            "hash": "fd9dc4b5dd96a4a0",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xinyan_saferoom_challenge_03.wem"
+        },
+        "fdbffcf36a95ff0e": {
+            "hash": "fdbffcf36a95ff0e",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiangling_saferoom_challenge_03.wem"
+        },
+        "fe139e35bfc8c9a7": {
+            "hash": "fe139e35bfc8c9a7",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hutao_saferoom_challenge_02.wem"
+        },
+        "fe74601146504284": {
+            "hash": "fe74601146504284",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mizuki_saferoom_rest_02.wem"
+        },
+        "feab9b1ee940d270": {
+            "hash": "feab9b1ee940d270",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_fischl_saferoom_challenge_01.wem"
+        },
+        "fece9efdc6f0b945": {
+            "hash": "fece9efdc6f0b945",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_saferoom_rest_02.wem"
+        },
+        "fee9f10515180ab0": {
+            "hash": "fee9f10515180ab0",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_xiangling_saferoom_challenge_01.wem"
+        },
+        "ff0770cf2fdd86b1": {
+            "hash": "ff0770cf2fdd86b1",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_barbara_saferoom_rest_03.wem"
+        },
+        "ff1c3461bae4176d": {
+            "hash": "ff1c3461bae4176d",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_furina_saferoom_rest_01.wem"
+        },
+        "ff7afe9ee7b2ff47": {
+            "hash": "ff7afe9ee7b2ff47",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_saferoom_others_03.wem"
+        },
+        "ffce3570a59623d5": {
+            "hash": "ffce3570a59623d5",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_raidenEi_saferoom_rest_01.wem"
+        },
+        "fffcf6fc66c19341": {
+            "hash": "fffcf6fc66c19341",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_diona_saferoom_others_02.wem"
+        }
+    }
+}

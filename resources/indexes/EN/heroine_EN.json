@@ -37,6 +37,18 @@
             "voiceContent": "Eide's out of control. I have to end this fight..",
             "sourceName": "vo_SZAQ204_6_heroine_01.wem"
         },
+        "1fd58093cf0ab30e": {
+            "hash": "1fd58093cf0ab30e",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_05.wem"
+        },
+        "20ff74a5798cbeb0": {
+            "hash": "20ff74a5798cbeb0",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_07.wem"
+        },
         "26656b7a145b63af": {
             "hash": "26656b7a145b63af",
             "directory": "External4",
@@ -79,6 +91,12 @@
             "voiceContent": "I shouldn't stray too far. Dain and Paimon still aren't back..",
             "sourceName": "vo_SZAQ204_11_heroine_01.wem"
         },
+        "44c76e8f803a40d4": {
+            "hash": "44c76e8f803a40d4",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_heroine_01.wem"
+        },
         "51c04d64d0fae2a7": {
             "hash": "51c04d64d0fae2a7",
             "directory": "External10",
@@ -115,6 +133,12 @@
             "voiceContent": "The Fortress of Meropide was nearly flooded with Primordial Seawater, which we know can cause Fontainians to dissolve. It seems increasingly likely that the prophecy may come true",
             "sourceName": "vo_FDAQ308_5_heroine_12.wem"
         },
+        "736a14849889be6c": {
+            "hash": "736a14849889be6c",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_03.wem"
+        },
         "76c9d76adb2490b5": {
             "hash": "76c9d76adb2490b5",
             "directory": "External14",
@@ -138,6 +162,12 @@
             "directory": "External16",
             "voiceContent": "(Halsey is the missing person and an ordinary audience member... or did she have her own scheme all along?",
             "sourceName": "vo_FDAQ003_39_heroine_02.wem"
+        },
+        "84e3107388dd443a": {
+            "hash": "84e3107388dd443a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_01.wem"
         },
         "8a3682adbdd73799": {
             "hash": "8a3682adbdd73799",
@@ -181,6 +211,12 @@
             "voiceContent": "#(The research notes said that the Melusine race perceives the world very differently from humans. {M#As a result}{F#Because of that}, the Melusines have also developed a sense of aesthetics that appears rather strange and alien to humans.",
             "sourceName": "vo_FDAQ106_7_heroine_02.wem"
         },
+        "a192e28b8baade17": {
+            "hash": "a192e28b8baade17",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_04.wem"
+        },
         "a3f1ab6bd8ea519e": {
             "hash": "a3f1ab6bd8ea519e",
             "directory": "External20",
@@ -198,6 +234,12 @@
             "directory": "External20",
             "voiceContent": "If we hadn't dealt with it in time, things could have gone very badly",
             "sourceName": "vo_FDAQ308_5_heroine_04.wem"
+        },
+        "a622ce9d39100531": {
+            "hash": "a622ce9d39100531",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_06.wem"
         },
         "a73eb914a3a07c30": {
             "hash": "a73eb914a3a07c30",
@@ -222,6 +264,12 @@
             "directory": "External27",
             "voiceContent": "(Now it seems like the hook rope was not meant for another magic trick, but was instead some form of triggering mechanism.",
             "sourceName": "vo_FDAQ003_42_heroine_01.wem"
+        },
+        "dee82e7bb743093d": {
+            "hash": "dee82e7bb743093d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_heroine_02.wem"
         },
         "f3ac796173d4bd52": {
             "hash": "f3ac796173d4bd52",
@@ -259,7 +307,7 @@
             "hash": "00adf3ea7501b450",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attackheavy_01.wem"
+            "sourceName": "vo_heroine_battle_attackHeavy_01.wem"
         },
         "00e48eaf6e959dbb": {
             "hash": "00e48eaf6e959dbb",
@@ -295,7 +343,7 @@
             "hash": "03ab64565d68083a",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_02.wem"
+            "sourceName": "vo_heroine_battle_hit_L_02.wem"
         },
         "03f37602317b55c1": {
             "hash": "03f37602317b55c1",
@@ -439,7 +487,7 @@
             "hash": "0fe4e15a13307484",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attacklight_02.wem"
+            "sourceName": "vo_heroine_battle_attackLight_02.wem"
         },
         "10a2d92dc00c41c5": {
             "hash": "10a2d92dc00c41c5",
@@ -453,11 +501,17 @@
             "voiceContent": "#Paimon {NICKNAME}, have you noticed?Paimon In Inazuma, people who wear swords on their waists are a minority. Most soldiers use spears.Paimon Could it be that swords are a symbol of status... Should we wear them as well?Paimon But the swords here are all too big for Paimon... There's no other way, we'll have to find a famous swordsmith to make a custom one!{NICKNAME} A custom-made sword will cost a lot of Mora though.Paimon Are you saying that Mora is more important than the desires of your lovely companion?{NICKNAME} ...Actually, I've already prepared something for you, Paimon.Paimon Really? Really? Let's have a look!Paimon Hey! Isn't that the knife we use to cut fruit?{NICKNAME} Well, at least it's the right size for you...{NICKNAME} Ahem, What matters isn't the value of the sword, it's the fighting spirit.Paimon Nice try, but Paimon won't fall for this, no matter how cool it sounds",
             "sourceName": "vo_fetter_sabre_heroine.wem"
         },
+        "146b714bad9f505f": {
+            "hash": "146b714bad9f505f",
+            "directory": "External2",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_heroine_life_die_03.wem"
+        },
         "1473cd6bc093e8a6": {
             "hash": "1473cd6bc093e8a6",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attacklight_04.wem"
+            "sourceName": "vo_heroine_battle_attackLight_04.wem"
         },
         "14fcad3f6d43b03f": {
             "hash": "14fcad3f6d43b03f",
@@ -469,7 +523,7 @@
             "hash": "153ff9f0c7c45ef9",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_01.wem"
+            "sourceName": "vo_heroine_battle_hit_H_01.wem"
         },
         "16d593c4bd57a644": {
             "hash": "16d593c4bd57a644",
@@ -535,7 +589,7 @@
             "hash": "20750c7692db828e",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attackmid_02.wem"
+            "sourceName": "vo_heroine_battle_attackMid_02.wem"
         },
         "231da3ee941d80e6": {
             "hash": "231da3ee941d80e6",
@@ -559,7 +613,7 @@
             "hash": "24eb22800d9ac931",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_05.wem"
+            "sourceName": "vo_heroine_battle_hit_L_05.wem"
         },
         "274414345917f202": {
             "hash": "274414345917f202",
@@ -757,7 +811,7 @@
             "hash": "51d859cf49375d05",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_05.wem"
+            "sourceName": "vo_heroine_battle_hit_H_05.wem"
         },
         "520ec8d33b50fb31": {
             "hash": "520ec8d33b50fb31",
@@ -847,7 +901,7 @@
             "hash": "5c86964ce14bcf03",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_03.wem"
+            "sourceName": "vo_heroine_battle_hit_L_03.wem"
         },
         "5cbd7c097cc3541f": {
             "hash": "5cbd7c097cc3541f",
@@ -859,7 +913,7 @@
             "hash": "5db0825e8bcdcd3d",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_01.wem"
+            "sourceName": "vo_heroine_battle_hit_L_01.wem"
         },
         "5eece8f88d41c54d": {
             "hash": "5eece8f88d41c54d",
@@ -926,6 +980,12 @@
             "directory": "External13",
             "voiceContent": "#Paimon It's time for Paimon's Little Life Tips!{NICKNAME} Little Life Tips?Paimon In Mondstadt, if there's something you can't fix, or there's something you can't get clean no matter what you do...Paimon If you ever run into something you can't handle yourself, you just need to shout this name into the skiesPaimon Noeeeelle!Paimon And everything that's troubling you will be swept away in an instant.{NICKNAME} So this is one of the tricks to living in Mondstadt... Pretty impressive..",
             "sourceName": "vo_fetter_noelle_heroine.wem"
+        },
+        "68361d3c774c1365": {
+            "hash": "68361d3c774c1365",
+            "directory": "External13",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_heroine_life_die_05.wem"
         },
         "69acc06881b84fc4": {
             "hash": "69acc06881b84fc4",
@@ -1141,13 +1201,13 @@
             "hash": "953e1b51d2e11415",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attacklight_03.wem"
+            "sourceName": "vo_heroine_battle_attackLight_03.wem"
         },
         "96312f637d34138f": {
             "hash": "96312f637d34138f",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attacklight_05.wem"
+            "sourceName": "vo_heroine_battle_attackLight_05.wem"
         },
         "9668c5b6020e9526": {
             "hash": "9668c5b6020e9526",
@@ -1201,13 +1261,13 @@
             "hash": "9e9dd476a395770e",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_06.wem"
+            "sourceName": "vo_heroine_battle_hit_L_06.wem"
         },
         "9fc7c8884e1782b0": {
             "hash": "9fc7c8884e1782b0",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_l_04.wem"
+            "sourceName": "vo_heroine_battle_hit_L_04.wem"
         },
         "9fde7cc1b5388775": {
             "hash": "9fde7cc1b5388775",
@@ -1225,7 +1285,7 @@
             "hash": "a2326e6e4f7bad97",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attackmid_03.wem"
+            "sourceName": "vo_heroine_battle_attackMid_03.wem"
         },
         "a354ed873db3f465": {
             "hash": "a354ed873db3f465",
@@ -1255,7 +1315,7 @@
             "hash": "a4fbcbe7fb781896",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_02.wem"
+            "sourceName": "vo_heroine_battle_hit_H_02.wem"
         },
         "a53a9e2337f71146": {
             "hash": "a53a9e2337f71146",
@@ -1267,7 +1327,7 @@
             "hash": "a6c25a7ffce0d4b1",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attackmid_01.wem"
+            "sourceName": "vo_heroine_battle_attackMid_01.wem"
         },
         "aa3267f9e198768b": {
             "hash": "aa3267f9e198768b",
@@ -1364,6 +1424,12 @@
             "directory": "External23",
             "voiceContent": "#Paimon Did anyone tell you that there are monsters called tanuki in Inazuma that can take on the form of any human they see?{NICKNAME} I heard such rumors before. They must know some mysterious transformation techniques.Paimon What if one day a tanuki tricked you by transforming into Paimon? Oh no... Paimon's worried now! {NICKNAME} No worries, I'd surely be able to tell the difference— Wait! You're just concerned about my Mora, aren't you?Paimon Of course... Ah! ...No, no! Paimon's only concerned about your safety, {NICKNAME}!Paimon Hmph, stop looking at Paimon like that. *pouting* Look, just think about it! If there were two Paimons, how would you find out which one is the real one?{NICKNAME} ...Eh-he.Paimon What do you mean eh-he!?{NICKNAME} See, only the real Paimon would respond like that.Paimon Ah! Paimon got tricked again..",
             "sourceName": "vo_fetter_bakeDanukiAndIllusion_heroine.wem"
+        },
+        "ba3063437f0c1694": {
+            "hash": "ba3063437f0c1694",
+            "directory": "External23",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_heroine_life_die_04.wem"
         },
         "bb3c2c902e159ed8": {
             "hash": "bb3c2c902e159ed8",
@@ -1639,7 +1705,7 @@
             "hash": "e56baf42997b437b",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_attacklight_01.wem"
+            "sourceName": "vo_heroine_battle_attackLight_01.wem"
         },
         "e5b0cdd66e92f77c": {
             "hash": "e5b0cdd66e92f77c",
@@ -1719,6 +1785,12 @@
             "voiceContent": "#Paimon People say that if you put a Starconch close to your ear, you can hear the whispers of the ocean!{NICKNAME} Do you want to give it a go, Paimon?Paimon No need, Paimon just heard it!{NICKNAME} Really? And what did the ocean say?Paimon The ocean said... that it's time to eat, so let's go! Paimon wants some Fisherman's Toast",
             "sourceName": "vo_fetter_oceanVoice_heroine.wem"
         },
+        "ee1818855276274d": {
+            "hash": "ee1818855276274d",
+            "directory": "External29",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_heroine_02.wem"
+        },
         "ee65bc9d91be6f90": {
             "hash": "ee65bc9d91be6f90",
             "directory": "External29",
@@ -1771,7 +1843,7 @@
             "hash": "f7663bc71a74c6e2",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_06.wem"
+            "sourceName": "vo_heroine_battle_hit_H_06.wem"
         },
         "f7e16c083f6bb75f": {
             "hash": "f7e16c083f6bb75f",
@@ -1783,7 +1855,7 @@
             "hash": "f8901fd8c4f6b6b4",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_heroine_battle_hit_h_04.wem"
+            "sourceName": "vo_heroine_battle_hit_H_04.wem"
         },
         "f89a31e4513552df": {
             "hash": "f89a31e4513552df",
@@ -1838,30 +1910,6 @@
             "directory": "External31",
             "voiceContent": "#Paimon Fontaine's aquabuses are pretty cool. But imagine if they could run without tracks. Then you could go anywhere you want pretty much without having to move a muscle! Traveling would be way less tiring.{NICKNAME} But you already fly everywhere. Does that even get tiring?Paimon Fly... Fly? Wait, that's it! If we could find a way to make the boats float in the air, then they wouldn't need rails anymore. Hehe, and we could call them airboats!Paimon C'mon, let's go apply for one of those, uh... oh yeah — patents! We can't let Paimon's genius go to waste. Quick, before someone else beats us to it!{NICKNAME} Patents don't work like that... You can't just have a name for your invention. You also need to provide details of the original technical solution that makes your airboats float.Paimon Technical, huh? Hmm... Okay, got it! We just need to attach a giant propeller on top of the boats!{NICKNAME} Okay... But how would you prevent the boat from spinning along with the propeller? And how would you control the direction of movement?Paimon Um... Uh... Ugh. Paimon never realized flying was so complicated! It's always been second nature to Paimon...{NICKNAME} Hmm... Well, there might be an easier solution if we ditch the direction and speed control requirements?Paimon Huh? Really!?{NICKNAME} Yeah. It involves starting at a high altitude and flying downwards at a rapidly-increasing velocity.Paimon Hey! That isn't flying, that's free-falling",
             "sourceName": "vo_fetter_fd_flyingPatent_heroine.wem"
-        },
-        "146b714bad9f505f": {
-            "hash": "146b714bad9f505f",
-            "directory": "External2",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_heroine_life_die_03.wem"
-        },
-        "68361d3c774c1365": {
-            "hash": "68361d3c774c1365",
-            "directory": "External13",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_heroine_life_die_05.wem"
-        },
-        "ba3063437f0c1694": {
-            "hash": "ba3063437f0c1694",
-            "directory": "External23",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_heroine_life_die_04.wem"
-        },
-        "ee1818855276274d": {
-            "hash": "ee1818855276274d",
-            "directory": "External29",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_heroine_02.wem"
         }
     }
 }

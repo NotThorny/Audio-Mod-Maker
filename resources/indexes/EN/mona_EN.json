@@ -309,6 +309,12 @@
             "voiceContent": "Written in the stars",
             "sourceName": "vo_mona_battle_skill3_02.wem"
         },
+        "0af31040c9bec1d6": {
+            "hash": "0af31040c9bec1d6",
+            "directory": "External1",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_mona_01.wem"
+        },
         "0b042283b2d31f93": {
             "hash": "0b042283b2d31f93",
             "directory": "External1",
@@ -337,7 +343,7 @@
             "hash": "0e7205ed73402136",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackheavy_03.wem"
+            "sourceName": "vo_mona_battle_attackHeavy_03.wem"
         },
         "0f4f7a600e080141": {
             "hash": "0f4f7a600e080141",
@@ -345,23 +351,35 @@
             "voiceContent": "SFX",
             "sourceName": "vo_mona_explore_fly_start_02.wem"
         },
+        "0fae36a76fb2098b": {
+            "hash": "0fae36a76fb2098b",
+            "directory": "External1",
+            "voiceContent": "",
+            "sourceName": "vo_mona_suit_renew_01.wem"
+        },
         "104bc825d2220942": {
             "hash": "104bc825d2220942",
             "directory": "External2",
             "voiceContent": "Ah, finding treasure is pretty exhilarating",
             "sourceName": "vo_mona_chest_open_03.wem"
         },
+        "10d862b91a3474e5": {
+            "hash": "10d862b91a3474e5",
+            "directory": "External2",
+            "voiceContent": "",
+            "sourceName": "vo_mona_suit_renew_03.wem"
+        },
         "199483a5a792f687": {
             "hash": "199483a5a792f687",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_05.wem"
+            "sourceName": "vo_mona_battle_attackLight_05.wem"
         },
         "1abd6fb7521341a1": {
             "hash": "1abd6fb7521341a1",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_07.wem"
+            "sourceName": "vo_mona_battle_attackLight_07.wem"
         },
         "1d3bf349dfff21e1": {
             "hash": "1d3bf349dfff21e1",
@@ -403,7 +421,7 @@
             "hash": "2ad68f9497b7566d",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_03.wem"
+            "sourceName": "vo_mona_battle_attackLight_03.wem"
         },
         "2cbf14787f67e822": {
             "hash": "2cbf14787f67e822",
@@ -415,7 +433,7 @@
             "hash": "2dd9dc96ed674408",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_l_04.wem"
+            "sourceName": "vo_mona_battle_hit_L_04.wem"
         },
         "2de7f88a29e825f4": {
             "hash": "2de7f88a29e825f4",
@@ -439,19 +457,13 @@
             "hash": "3fc32a5df4f7b83b",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_l_03.wem"
+            "sourceName": "vo_mona_battle_hit_L_03.wem"
         },
         "44b148bc5d8aad4f": {
             "hash": "44b148bc5d8aad4f",
             "directory": "External8",
             "voiceContent": "My scryglass has long since preordained all that will take place beneath the stars it reflects",
             "sourceName": "vo_mona_starUp_03.wem"
-        },
-        "471b653af145abe6": {
-            "hash": "471b653af145abe6",
-            "directory": "External8",
-            "voiceContent": "I don't mean to nitpick, or anything, it's just... I haven't quite eaten enough",
-            "sourceName": "vo_mona_spice_event_dislike_01.wem"
         },
         "48f54aad8347685e": {
             "hash": "48f54aad8347685e",
@@ -463,7 +475,7 @@
             "hash": "4a3aaa409759b256",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackmid_02.wem"
+            "sourceName": "vo_mona_battle_attackMid_02.wem"
         },
         "4b1d759ea58bb23b": {
             "hash": "4b1d759ea58bb23b",
@@ -525,6 +537,12 @@
             "voiceContent": "Nightfall has arrived. I will soon be able to begin my divination. Ah... Did I finish writing my astrology column last night...",
             "sourceName": "vo_mona_dialog_greetingNight.wem"
         },
+        "62d2a8c021f47814": {
+            "hash": "62d2a8c021f47814",
+            "directory": "External12",
+            "voiceContent": "",
+            "sourceName": "vo_mona_suit_renew_02.wem"
+        },
         "6315aac006bf5503": {
             "hash": "6315aac006bf5503",
             "directory": "External12",
@@ -559,7 +577,7 @@
             "hash": "6783e7e3f752a29f",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackheavy_02.wem"
+            "sourceName": "vo_mona_battle_attackHeavy_02.wem"
         },
         "6993ba1c5662350b": {
             "hash": "6993ba1c5662350b",
@@ -583,7 +601,7 @@
             "hash": "6b654887192d3566",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_l_06.wem"
+            "sourceName": "vo_mona_battle_hit_L_06.wem"
         },
         "6b9022876f0e15fa": {
             "hash": "6b9022876f0e15fa",
@@ -607,13 +625,13 @@
             "hash": "705515be5ce65420",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_06.wem"
+            "sourceName": "vo_mona_battle_attackLight_06.wem"
         },
         "7068e00a1342ab0c": {
             "hash": "7068e00a1342ab0c",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_h_04.wem"
+            "sourceName": "vo_mona_battle_hit_H_04.wem"
         },
         "71f93029967803c1": {
             "hash": "71f93029967803c1",
@@ -657,11 +675,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_mona_explore_climb_03.wem"
         },
+        "7b373e49960b0739": {
+            "hash": "7b373e49960b0739",
+            "directory": "External15",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_mona_02.wem"
+        },
         "7e6b2385613660f3": {
             "hash": "7e6b2385613660f3",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_01.wem"
+            "sourceName": "vo_mona_battle_attackLight_01.wem"
         },
         "804385fc52e3025b": {
             "hash": "804385fc52e3025b",
@@ -691,7 +715,7 @@
             "hash": "8548dbf9067b0dda",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_h_06.wem"
+            "sourceName": "vo_mona_battle_hit_H_06.wem"
         },
         "8617f08bf37f5f8a": {
             "hash": "8617f08bf37f5f8a",
@@ -769,7 +793,7 @@
             "hash": "a3229a22b3caa5d1",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_h_01.wem"
+            "sourceName": "vo_mona_battle_hit_H_01.wem"
         },
         "a46e90bcad708aeb": {
             "hash": "a46e90bcad708aeb",
@@ -794,12 +818,6 @@
             "directory": "External21",
             "voiceContent": "My reckoning... has come..",
             "sourceName": "vo_mona_life_die_03.wem"
-        },
-        "b01aedc4fdcad0d0": {
-            "hash": "b01aedc4fdcad0d0",
-            "directory": "External22",
-            "voiceContent": "Ah, so satisfied... Who would have thought knowing you would bear so many benefits",
-            "sourceName": "vo_mona_spice_event_pref_01.wem"
         },
         "b113001cbf471bc0": {
             "hash": "b113001cbf471bc0",
@@ -835,7 +853,7 @@
             "hash": "ba7ed84963a5f7b9",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackmid_01.wem"
+            "sourceName": "vo_mona_battle_attackMid_01.wem"
         },
         "bb24f642df57c9e0": {
             "hash": "bb24f642df57c9e0",
@@ -859,13 +877,13 @@
             "hash": "bf58759d78fe0adc",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_02.wem"
+            "sourceName": "vo_mona_battle_attackLight_02.wem"
         },
         "c08261af238008fe": {
             "hash": "c08261af238008fe",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attacklight_04.wem"
+            "sourceName": "vo_mona_battle_attackLight_04.wem"
         },
         "c1c9fab2f6688444": {
             "hash": "c1c9fab2f6688444",
@@ -955,13 +973,13 @@
             "hash": "dba9768fe5797ac9",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_l_05.wem"
+            "sourceName": "vo_mona_battle_hit_L_05.wem"
         },
         "df4cfa0134df1fdd": {
             "hash": "df4cfa0134df1fdd",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_h_05.wem"
+            "sourceName": "vo_mona_battle_hit_H_05.wem"
         },
         "e0f20dcdf3dd2d20": {
             "hash": "e0f20dcdf3dd2d20",
@@ -1009,7 +1027,7 @@
             "hash": "ec2f966d2b7a60d5",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_l_01.wem"
+            "sourceName": "vo_mona_battle_hit_L_01.wem"
         },
         "ed8fc3a250456c8e": {
             "hash": "ed8fc3a250456c8e",
@@ -1047,17 +1065,11 @@
             "voiceContent": "Ah, so satisfied... Who would have thought knowing you would bear so many benefits",
             "sourceName": "vo_mona_spice_pref_01.wem"
         },
-        "f609f1a40e33160a": {
-            "hash": "f609f1a40e33160a",
-            "directory": "External30",
-            "voiceContent": "Just to be clear... you're sure I don't have to pay... for any of this",
-            "sourceName": "vo_mona_spice_event_normal_01.wem"
-        },
         "f6b62e137d47fd37": {
             "hash": "f6b62e137d47fd37",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_hit_h_03.wem"
+            "sourceName": "vo_mona_battle_hit_H_03.wem"
         },
         "f79202d55fb14674": {
             "hash": "f79202d55fb14674",
@@ -1069,7 +1081,7 @@
             "hash": "f80a0c398f6b893f",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackmid_03.wem"
+            "sourceName": "vo_mona_battle_attackMid_03.wem"
         },
         "fbfb75202fcb1a2a": {
             "hash": "fbfb75202fcb1a2a",
@@ -1081,37 +1093,7 @@
             "hash": "fcf8d9fe82ec4918",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_mona_battle_attackheavy_01.wem"
-        },
-        "0af31040c9bec1d6": {
-            "hash": "0af31040c9bec1d6",
-            "directory": "External1",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_mona_01.wem"
-        },
-        "0fae36a76fb2098b": {
-            "hash": "0fae36a76fb2098b",
-            "directory": "External1",
-            "voiceContent": "",
-            "sourceName": "vo_mona_suit_renew_01.wem"
-        },
-        "10d862b91a3474e5": {
-            "hash": "10d862b91a3474e5",
-            "directory": "External2",
-            "voiceContent": "",
-            "sourceName": "vo_mona_suit_renew_03.wem"
-        },
-        "62d2a8c021f47814": {
-            "hash": "62d2a8c021f47814",
-            "directory": "External12",
-            "voiceContent": "",
-            "sourceName": "vo_mona_suit_renew_02.wem"
-        },
-        "7b373e49960b0739": {
-            "hash": "7b373e49960b0739",
-            "directory": "External15",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_mona_02.wem"
+            "sourceName": "vo_mona_battle_attackHeavy_01.wem"
         }
     }
 }

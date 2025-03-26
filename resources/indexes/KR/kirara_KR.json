@@ -319,13 +319,38 @@
             "sourceName": "vo_kirara_mimitomo_friendship3_06.wem"
         }
     },
-    "Quests": {},
+    "Quests": {
+        "3d69e2ad17faf1b9": {
+            "hash": "3d69e2ad17faf1b9",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kirara_01.wem"
+        },
+        "7af5169d43c0833f": {
+            "hash": "7af5169d43c0833f",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kirara_03.wem"
+        },
+        "cd25b4a44baeac56": {
+            "hash": "cd25b4a44baeac56",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kirara_02.wem"
+        }
+    },
     "Gameplay": {
         "00e1462a70020ba4": {
             "hash": "00e1462a70020ba4",
             "directory": "External0",
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_kirara_explore_jump_04.wem"
+        },
+        "012c54f0549e6b0f": {
+            "hash": "012c54f0549e6b0f",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_inGame_hard_03.wem"
         },
         "05f57045f07da290": {
             "hash": "05f57045f07da290",
@@ -350,6 +375,12 @@
             "directory": "External1",
             "voiceContent": "삶을 즐기는 건 중요해! 나는 장거리 출장 마지막 며칠이나, 막 일을 마친 그날 밤 가장 번화한 음식점에서 맛있는 음식을 즐기고, 가장 편한 지붕에 자리 잡고 바람을 즐겨. 그러다 졸리면 단잠을 자는 거지…. 세상에 행복한 일이 얼마나 많은데 제대로 즐기지 않으면 손해잖아? 그래서 난 모든 생선을 깨끗이 먹어. 이유는 이제 알겠지?",
             "sourceName": "vo_kirara_friendship_05.wem"
+        },
+        "0b217c17e2b7cdc6": {
+            "hash": "0b217c17e2b7cdc6",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_suit_errantry_01.wem"
         },
         "0b2287b9ceb8cf30": {
             "hash": "0b2287b9ceb8cf30",
@@ -393,6 +424,12 @@
             "voiceContent": "회삿돈으로 여행이라고? 갈래, 갈래!",
             "sourceName": "vo_kirara_teamJoin_03.wem"
         },
+        "151065cb622239f5": {
+            "hash": "151065cb622239f5",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_inGame_easy_02.wem"
+        },
         "175fc3b2e6ea1c83": {
             "hash": "175fc3b2e6ea1c83",
             "directory": "External2",
@@ -404,6 +441,12 @@
             "directory": "External3",
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_kirara_battle_attackHeavy_03.wem"
+        },
+        "189d8758d9b64eb8": {
+            "hash": "189d8758d9b64eb8",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_freetalk_01.wem"
         },
         "19f50a3441ed26ad": {
             "hash": "19f50a3441ed26ad",
@@ -447,6 +490,12 @@
             "voiceContent": "음… 안에 뭐가 들었을까? 궁금하다…. 안 돼, 안 돼. 고객의 소포를 멋대로 보면 안 되지",
             "sourceName": "vo_kirara_character_idle_01.wem"
         },
+        "25ba902a2dd60ee8": {
+            "hash": "25ba902a2dd60ee8",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_suit_errantry_03.wem"
+        },
         "27bd1572031b51c1": {
             "hash": "27bd1572031b51c1",
             "directory": "External4",
@@ -458,6 +507,12 @@
             "directory": "External5",
             "voiceContent": "이 일 덕분에 커다란 집들을 엄청 많이 봤어! 할머니 집보다도 컸지! 무슨 무슨 궁이니 신전이니는… 셀 수 없을 정도로 방이 많았어. 그런 큰 집에 살면 외롭지 않을까? 나는… 아침에 일어나 밥 먹을 곳이 있고, 점심에 낮잠 잘 곳이 있고, 밤을 위한 작은 상자만 있으면 충분한데. 아! 그 사람들은 「큰 상자」에서 자는 걸 좋아하는 걸까?",
             "sourceName": "vo_kirara_pref_gift_02.wem"
+        },
+        "2e365b7146563bb9": {
+            "hash": "2e365b7146563bb9",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_leave_01.wem"
         },
         "310f6dbc6238a73c": {
             "hash": "310f6dbc6238a73c",
@@ -483,6 +538,12 @@
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_kirara_battle_attackMid_02.wem"
         },
+        "3491f9d3b86c92ab": {
+            "hash": "3491f9d3b86c92ab",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_hard_03.wem"
+        },
         "35a96ee744508aeb": {
             "hash": "35a96ee744508aeb",
             "directory": "External6",
@@ -500,6 +561,12 @@
             "directory": "External6",
             "voiceContent": "내 꼬리!",
             "sourceName": "vo_kirara_battle_hit_H_01.wem"
+        },
+        "3773bd6ee6d5d6fe": {
+            "hash": "3773bd6ee6d5d6fe",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_easy_01.wem"
         },
         "3888e08b94f59d70": {
             "hash": "3888e08b94f59d70",
@@ -645,6 +712,18 @@
             "voiceContent": "내가 약해 보여서 그런 걸까? 배송 중에 강도들을 정말 많이 만났어. 하나도 빠짐없이 혼쭐을 내줬지만! 근데 전력을 다하진 않았어. 아무래도… 다친 사람이 회사에 쫓아오기라도 하면 잘릴 수도 있으니까!",
             "sourceName": "vo_kirara_friendship_03.wem"
         },
+        "6db9222a63e6d2bf": {
+            "hash": "6db9222a63e6d2bf",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_endOfGame_fail_01.wem"
+        },
+        "714795e9a672f5e5": {
+            "hash": "714795e9a672f5e5",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_endOfGame_win_01.wem"
+        },
         "72c4a510b87076c6": {
             "hash": "72c4a510b87076c6",
             "directory": "External14",
@@ -668,6 +747,24 @@
             "directory": "External14",
             "voiceContent": "와, 지금의 요력이라면 여우 요괴님도… 아하하, 아니야. 굳이 겨뤄보고 싶은 건 아니니까. 고객들의 소포를 잘 전달하는 것만으로 충분해. 그리고… 항상 함께해 주는 네가 있잖아. 맞다, 내 꼬리 만져볼래? 진짜 길어진 것 같아!",
             "sourceName": "vo_kirara_starUp_04.wem"
+        },
+        "7ae006e6ea9acc04": {
+            "hash": "7ae006e6ea9acc04",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_inGame_hard_04.wem"
+        },
+        "7b65aa20af041329": {
+            "hash": "7b65aa20af041329",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_suit_errantry_02.wem"
+        },
+        "7f6ef2f897fe4026": {
+            "hash": "7f6ef2f897fe4026",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_inGame_hard_02.wem"
         },
         "80260467a6dd9e0e": {
             "hash": "80260467a6dd9e0e",
@@ -693,17 +790,41 @@
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_kirara_explore_climb_breath_02.wem"
         },
+        "89f287dac3103a62": {
+            "hash": "89f287dac3103a62",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_hard_02.wem"
+        },
         "8af5f5bd21fa4879": {
             "hash": "8af5f5bd21fa4879",
             "directory": "External17",
             "voiceContent": "상자 안에… 들어가고 싶다…",
             "sourceName": "vo_kirara_life_die_02.wem"
         },
+        "8e8d07c1f7ef3c92": {
+            "hash": "8e8d07c1f7ef3c92",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_inGame_easy_01.wem"
+        },
         "90910f17eea5f391": {
             "hash": "90910f17eea5f391",
             "directory": "External18",
             "voiceContent": "어쩐지 떠돌이 시절이 떠오르는걸…",
             "sourceName": "vo_kirara_spice_dislike_01.wem"
+        },
+        "91aecb7715690fa1": {
+            "hash": "91aecb7715690fa1",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_easy_02.wem"
+        },
+        "931d2bd3a554c364": {
+            "hash": "931d2bd3a554c364",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_inGame_easy_03.wem"
         },
         "934d687244cb6418": {
             "hash": "934d687244cb6418",
@@ -819,6 +940,12 @@
             "voiceContent": "소포는 안 돼!",
             "sourceName": "vo_kirara_battle_hit_H_02.wem"
         },
+        "c146f9da987796ef": {
+            "hash": "c146f9da987796ef",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_inGame_easy_04.wem"
+        },
         "c52f14efd76d2452": {
             "hash": "c52f14efd76d2452",
             "directory": "External24",
@@ -921,11 +1048,23 @@
             "voiceContent": "AnimatorEven",
             "sourceName": "vo_kirara_battle_hit_L_06.wem"
         },
+        "e464a5e2f1d2d085": {
+            "hash": "e464a5e2f1d2d085",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_hard_01.wem"
+        },
         "e6e938fba019543a": {
             "hash": "e6e938fba019543a",
             "directory": "External28",
             "voiceContent": "그 탐정이랑은 예전에 만난 적 있어. 내가 「네코마타」란 걸 알게 된 후로 집 나간 고양이들의 행방을 묻곤 했지. 흔쾌히 그러겠다고 했는데, 「그냥 좀 걷고 싶었던 건데」라거나 「집에 가봤자 심심해」란 고양이들의 말을 듣다 보니 마음이 약해져서 못 봤다고 거짓말을 해버렸지 뭐야. 하지만 그 탐정, 내 거짓말을 눈치챈 것 같았어",
             "sourceName": "vo_kirara_teammate_heizou_01.wem"
+        },
+        "e746717e203c2220": {
+            "hash": "e746717e203c2220",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_easy_03.wem"
         },
         "e796a312244ff5a7": {
             "hash": "e796a312244ff5a7",
@@ -962,6 +1101,12 @@
             "directory": "External29",
             "voiceContent": "",
             "sourceName": "vo_kirara_explore_fly_start_01.wem"
+        },
+        "efb32101644a8589": {
+            "hash": "efb32101644a8589",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_inGame_hard_01.wem"
         },
         "f1e0ae5025450dc3": {
             "hash": "f1e0ae5025450dc3",

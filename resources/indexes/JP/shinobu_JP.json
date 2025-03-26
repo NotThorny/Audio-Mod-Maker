@@ -332,11 +332,83 @@
         }
     },
     "Quests": {
+        "30ada306df9e6fea": {
+            "hash": "30ada306df9e6fea",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_3_shinobu_02.wem"
+        },
+        "3883b717936cf158": {
+            "hash": "3883b717936cf158",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_01.wem"
+        },
+        "48d2b6f4d93e5e14": {
+            "hash": "48d2b6f4d93e5e14",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_05.wem"
+        },
+        "4d62e30686a3f276": {
+            "hash": "4d62e30686a3f276",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_03.wem"
+        },
+        "578da088a102fced": {
+            "hash": "578da088a102fced",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_9_shinobu_01b_1.wem"
+        },
+        "5ea0410dd291af6d": {
+            "hash": "5ea0410dd291af6d",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_3_shinobu_01.wem"
+        },
+        "7afe5d29684551ba": {
+            "hash": "7afe5d29684551ba",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_shinobu_01.wem"
+        },
+        "9211c8ed0c61fed0": {
+            "hash": "9211c8ed0c61fed0",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_shinobu_01.wem"
+        },
+        "a30dc4fd07d197df": {
+            "hash": "a30dc4fd07d197df",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_02.wem"
+        },
+        "b315a0aedddab449": {
+            "hash": "b315a0aedddab449",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_3_shinobu_01.wem"
+        },
+        "c1970572635a07ea": {
+            "hash": "c1970572635a07ea",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_1_shinobu_01.wem"
+        },
         "d384e0d3e61b0767": {
             "hash": "d384e0d3e61b0767",
             "directory": "External26",
             "voiceContent": "晃、お前はどんなやつを怒らせてるんだ",
             "sourceName": "vo_JQRCOP001_1914806_shinobu_01.wem"
+        },
+        "f6d870edd17e5ae5": {
+            "hash": "f6d870edd17e5ae5",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_04.wem"
         }
     },
     "Gameplay": {
@@ -346,17 +418,17 @@
             "voiceContent": "もし荒瀧派が何か問題を起こしたら、あいつらを引っ張ってでも謝りに行くよ",
             "sourceName": "vo_shinobu_character_idle_03.wem"
         },
+        "09780f378f06030e": {
+            "hash": "09780f378f06030e",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_endOfGame_win_01.wem"
+        },
         "0b2aaa3b54bc37f9": {
             "hash": "0b2aaa3b54bc37f9",
             "directory": "External1",
             "voiceContent": "無理はせず、私に任せろ",
             "sourceName": "vo_shinobu_life_less30_teammate_02.wem"
-        },
-        "0d5334e3e1822501": {
-            "hash": "0d5334e3e1822501",
-            "directory": "External1",
-            "voiceContent": "なかなかの腕前だ。こほん…もう一口いただこう",
-            "sourceName": "vo_shinobu_spice_event_pref_01.wem"
         },
         "0d820bf72c8ecbe3": {
             "hash": "0d820bf72c8ecbe3",
@@ -374,7 +446,7 @@
             "hash": "0febb73cd792c0a9",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_01.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_01.wem"
         },
         "114bfe127cf6fdda": {
             "hash": "114bfe127cf6fdda",
@@ -422,31 +494,31 @@
             "hash": "1e2cf131242bd726",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_04.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_04.wem"
         },
         "200e723e8d068671": {
             "hash": "200e723e8d068671",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackheavy_02.wem"
+            "sourceName": "vo_shinobu_battle_attackHeavy_02.wem"
         },
         "246274393026eb03": {
             "hash": "246274393026eb03",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackmid_01.wem"
+            "sourceName": "vo_shinobu_battle_attackMid_01.wem"
         },
         "24caeb2bcac9cf2f": {
             "hash": "24caeb2bcac9cf2f",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_03.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_03.wem"
         },
         "258c604adaa8e93d": {
             "hash": "258c604adaa8e93d",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackmid_03.wem"
+            "sourceName": "vo_shinobu_battle_attackMid_03.wem"
         },
         "269506bed69be242": {
             "hash": "269506bed69be242",
@@ -454,17 +526,17 @@
             "voiceContent": "資格証はあくまで技術の専門性を評価するためのもので、それに注いだ努力や想いを数値化することはできない。それに、あんたとの付き合いも、感謝の言葉一つで表せるようなものじゃない。だから、私の一番得意な「行動」で説明するよ",
             "sourceName": "vo_shinobu_starUp_04.wem"
         },
+        "2803c5b0ea528125": {
+            "hash": "2803c5b0ea528125",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_hard_02.wem"
+        },
         "290557509e923e9c": {
             "hash": "290557509e923e9c",
             "directory": "External5",
             "voiceContent": "私は色々な仕事をしたことがあり、それに関連する資格もたくさん持っています。管理業務に関しては、小さなチームを率いた経験を持ち、人員の総合管理と資源の配分を担当してい…あっ、すまない、面接をたくさん受けてきたから…どうも癖になってしまったようだ。気にするな",
             "sourceName": "vo_shinobu_friendship_01.wem"
-        },
-        "2a7056cee82b97ed": {
-            "hash": "2a7056cee82b97ed",
-            "directory": "External5",
-            "voiceContent": "率直に言うけど、あんた、調味料を間違えたんじゃないか",
-            "sourceName": "vo_shinobu_spice_event_dislike_01.wem"
         },
         "2d3c78d63bb1b65f": {
             "hash": "2d3c78d63bb1b65f",
@@ -484,11 +556,23 @@
             "voiceContent": "あの鳴神大社の宮司様でさえ、副業をやることで退屈をしのぐ。巫女がどれほど退屈な仕事なのか、これで分かっただろう。だから私は、また巫女に戻るような真似は絶対にしない",
             "sourceName": "vo_shinobu_teammate_yaeMiko_01.wem"
         },
+        "32ed4a02447bb91b": {
+            "hash": "32ed4a02447bb91b",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_event_special_03.wem"
+        },
         "33c714338e01c3c6": {
             "hash": "33c714338e01c3c6",
             "directory": "External6",
             "voiceContent": "裟羅のことか？彼女は私の友人だ。うん？私が彼女のことを知っているのが意外だって？ああ、誤解しているかもしれないが、彼女とは私が荒瀧派に入る前からの付き合いだ。彼女との決着は、未だについていない",
             "sourceName": "vo_shinobu_teammate_kujouSara_01.wem"
+        },
+        "34173613eefdb735": {
+            "hash": "34173613eefdb735",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_event_special_01.wem"
         },
         "38650b08af370ede": {
             "hash": "38650b08af370ede",
@@ -520,6 +604,12 @@
             "voiceContent": "これは…私への侮辱だ",
             "sourceName": "vo_shinobu_life_die_03.wem"
         },
+        "407b9a369010a676": {
+            "hash": "407b9a369010a676",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_shinobu_01.wem"
+        },
         "426b3ba34cdb6929": {
             "hash": "426b3ba34cdb6929",
             "directory": "External8",
@@ -548,7 +638,7 @@
             "hash": "48c078e97326a0d4",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_06.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_06.wem"
         },
         "4c4e0b9d3e973ac9": {
             "hash": "4c4e0b9d3e973ac9",
@@ -586,6 +676,12 @@
             "voiceContent": "いい天気だ。ただ、どうも嫌な予感がする…私の考えすぎだといいけど",
             "sourceName": "vo_shinobu_weather_sunny_01.wem"
         },
+        "5dbee1a37eabd046": {
+            "hash": "5dbee1a37eabd046",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_easy_02.wem"
+        },
         "5e73551a7f9eae36": {
             "hash": "5e73551a7f9eae36",
             "directory": "External11",
@@ -621,12 +717,6 @@
             "directory": "External12",
             "voiceContent": "厄祓い",
             "sourceName": "vo_shinobu_battle_skill1_02.wem"
-        },
-        "643eb38168731c87": {
-            "hash": "643eb38168731c87",
-            "directory": "External12",
-            "voiceContent": "あんたが作ったのか？うん…この腕前なら料理人の資格を取るのに十分だろう",
-            "sourceName": "vo_shinobu_spice_event_normal_01.wem"
         },
         "64d519ebb32b1b14": {
             "hash": "64d519ebb32b1b14",
@@ -692,13 +782,13 @@
             "hash": "74056b0ae710fe1b",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_07.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_07.wem"
         },
         "752f571c9192fc35": {
             "hash": "752f571c9192fc35",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_05.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_05.wem"
         },
         "773b3eabbfdd6e37": {
             "hash": "773b3eabbfdd6e37",
@@ -706,11 +796,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shinobu_explore_climb_05.wem"
         },
+        "79287c3db3cf7768": {
+            "hash": "79287c3db3cf7768",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_event_special_04.wem"
+        },
         "7cf18d8943a084f0": {
             "hash": "7cf18d8943a084f0",
             "directory": "External15",
             "voiceContent": "普段、荒瀧派で過ごしている時、暇を持て余して本を一気読みしたり、資格を取ったりすることがよくある。そういうのも別に悪くないだろ？たとえ家の人に何をしているのか聞かれても、人生を無駄に過ごしているわけじゃないと答えられる。それに、仕事の交渉にも使えるからな。実力を重んじるこの社会において、私のように資格を持っている傾奇者は、どこに行こうとも腹を空かせることはない",
             "sourceName": "vo_shinobu_pref_hobby.wem"
+        },
+        "7d650bb7f4f76154": {
+            "hash": "7d650bb7f4f76154",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_hard_03.wem"
         },
         "7e3ec41ddcf9071f": {
             "hash": "7e3ec41ddcf9071f",
@@ -748,6 +850,12 @@
             "voiceContent": "今回は…迷惑をかけてしまったな",
             "sourceName": "vo_shinobu_life_die_01.wem"
         },
+        "91383d935a39e272": {
+            "hash": "91383d935a39e272",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_endOfGame_fail_01.wem"
+        },
         "957110302532cb19": {
             "hash": "957110302532cb19",
             "directory": "External18",
@@ -782,7 +890,7 @@
             "hash": "98ee14da39c0dc82",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_04.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_04.wem"
         },
         "9ae67c32886ff196": {
             "hash": "9ae67c32886ff196",
@@ -806,7 +914,7 @@
             "hash": "9d27243525e45d4e",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackheavy_01.wem"
+            "sourceName": "vo_shinobu_battle_attackHeavy_01.wem"
         },
         "9df2890398546f51": {
             "hash": "9df2890398546f51",
@@ -818,13 +926,13 @@
             "hash": "9e511846d06668f0",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackheavy_03.wem"
+            "sourceName": "vo_shinobu_battle_attackHeavy_03.wem"
         },
         "9ef73f1736790295": {
             "hash": "9ef73f1736790295",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_03.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_03.wem"
         },
         "9f9faff4287e582d": {
             "hash": "9f9faff4287e582d",
@@ -836,13 +944,13 @@
             "hash": "9fa789340b467b46",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_02.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_02.wem"
         },
         "9fea5328e0cc020f": {
             "hash": "9fea5328e0cc020f",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_05.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_05.wem"
         },
         "a2fb86f1a1b9d99f": {
             "hash": "a2fb86f1a1b9d99f",
@@ -880,6 +988,12 @@
             "voiceContent": "鎖国令が解除されてから、雷電将軍は各業界の発展を支援する様々な法令を公布した。私が鎖国中に取った資格はいずれも活躍の場面が増え、荒瀧派もそれほどお金に困らなくて済むようになった…禍福倚伏ということわざがあるが、まさか最終的にあの方に感謝することになるとはな",
             "sourceName": "vo_shinobu_teammate_raidenShogun_01.wem"
         },
+        "b55f7c8a1ea79b1d": {
+            "hash": "b55f7c8a1ea79b1d",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_freetalk_01.wem"
+        },
         "b5d4e53a310d4151": {
             "hash": "b5d4e53a310d4151",
             "directory": "External22",
@@ -896,13 +1010,13 @@
             "hash": "ba0e4653bbef9e6c",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackmid_02.wem"
+            "sourceName": "vo_shinobu_battle_attackMid_02.wem"
         },
         "ba2dd303e9f39d99": {
             "hash": "ba2dd303e9f39d99",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_03.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_03.wem"
         },
         "bf1027f3e1be54df": {
             "hash": "bf1027f3e1be54df",
@@ -934,6 +1048,18 @@
             "voiceContent": "傘をさす必要はない、急ごう",
             "sourceName": "vo_shinobu_weather_heavyRain_01.wem"
         },
+        "cd92a7a8bb919d02": {
+            "hash": "cd92a7a8bb919d02",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_hard_01.wem"
+        },
+        "ce030fac4af815a9": {
+            "hash": "ce030fac4af815a9",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_easy_01.wem"
+        },
         "d6d58a4cf921b3d5": {
             "hash": "d6d58a4cf921b3d5",
             "directory": "External26",
@@ -962,7 +1088,19 @@
             "hash": "e0a28540f86799c8",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_06.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_06.wem"
+        },
+        "e2e2439b3e2f242f": {
+            "hash": "e2e2439b3e2f242f",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_easy_03.wem"
+        },
+        "e4d4b645b2f3e52e": {
+            "hash": "e4d4b645b2f3e52e",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_leave_01.wem"
         },
         "e60f177b85fefd7b": {
             "hash": "e60f177b85fefd7b",
@@ -1010,7 +1148,7 @@
             "hash": "ef24d307fd1331fb",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_01.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_01.wem"
         },
         "ef6343ccbd9ab53b": {
             "hash": "ef6343ccbd9ab53b",
@@ -1034,19 +1172,19 @@
             "hash": "f211f9132a4328d2",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_06.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_06.wem"
         },
         "f23606d0be01094b": {
             "hash": "f23606d0be01094b",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_05.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_05.wem"
         },
         "f33b1d24d4c3d2a4": {
             "hash": "f33b1d24d4c3d2a4",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_04.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_04.wem"
         },
         "f57ddcb4033d432e": {
             "hash": "f57ddcb4033d432e",

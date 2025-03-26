@@ -236,6 +236,12 @@
         }
     },
     "Quests": {
+        "08446d87c3077a56": {
+            "hash": "08446d87c3077a56",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_LYAQ204_5_tartaglia_02.wem"
+        },
         "13183ffa65886608": {
             "hash": "13183ffa65886608",
             "directory": "External2",
@@ -259,6 +265,12 @@
             "directory": "External9",
             "voiceContent": "面对执行官的权能，让我看看你还能做到什么地步吧",
             "sourceName": "vo_LYAQ204_3_tartaglia_06.wem"
+        },
+        "78889b908f53bfb9": {
+            "hash": "78889b908f53bfb9",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_LYAQ204_5_tartaglia_01.wem"
         },
         "9fa81bc9ad67dbf2": {
             "hash": "9fa81bc9ad67dbf2",
@@ -310,6 +322,12 @@
             "voiceContent": "这局是我输了，没想到你玩牌也是把好手，伙伴",
             "sourceName": "vo_card_tartaglia_endOfGame_fail_01.wem"
         },
+        "0781a52d26614ff6": {
+            "hash": "0781a52d26614ff6",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_skill2_03.wem"
+        },
         "08c6eb1bd6948f97": {
             "hash": "08c6eb1bd6948f97",
             "directory": "External1",
@@ -326,13 +344,13 @@
             "hash": "171868e8f7d89c57",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_07.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_07.wem"
         },
         "184254faa25a9a71": {
             "hash": "184254faa25a9a71",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_05.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_05.wem"
         },
         "19e1202c3c47f9c7": {
             "hash": "19e1202c3c47f9c7",
@@ -386,7 +404,7 @@
             "hash": "22cb20cf2098ec58",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_h_06.wem"
+            "sourceName": "vo_tartaglia_battle_hit_H_06.wem"
         },
         "240c356f960bf5f4": {
             "hash": "240c356f960bf5f4",
@@ -398,7 +416,7 @@
             "hash": "2476017edd485848",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackmid_02.wem"
+            "sourceName": "vo_tartaglia_battle_attackMid_02.wem"
         },
         "2591d8f5fcb7cb09": {
             "hash": "2591d8f5fcb7cb09",
@@ -460,17 +478,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_tartaglia_explore_fly_start_03.wem"
         },
+        "32030a9dc8ba5544": {
+            "hash": "32030a9dc8ba5544",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_attackLight_08.wem"
+        },
         "32f84f45e1f3f07b": {
             "hash": "32f84f45e1f3f07b",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackmid_05.wem"
+            "sourceName": "vo_tartaglia_battle_attackMid_05.wem"
         },
         "331a20ac666a5914": {
             "hash": "331a20ac666a5914",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_h_02.wem"
+            "sourceName": "vo_tartaglia_battle_hit_H_02.wem"
         },
         "35d626dff305dae5": {
             "hash": "35d626dff305dae5",
@@ -482,13 +506,7 @@
             "hash": "37aa4cbe13cfed76",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_h_04.wem"
-        },
-        "392914059e5e1626": {
-            "hash": "392914059e5e1626",
-            "directory": "External7",
-            "voiceContent": "你的厨艺似乎长进了不少。难道你也在不断变强吗",
-            "sourceName": "vo_tartaglia_spice_event_normal_01.wem"
+            "sourceName": "vo_tartaglia_battle_hit_H_04.wem"
         },
         "3c96de0d75214048": {
             "hash": "3c96de0d75214048",
@@ -530,7 +548,7 @@
             "hash": "4e02a2b43dfae9db",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_05.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_05.wem"
         },
         "4eec9ab85865d3d6": {
             "hash": "4eec9ab85865d3d6",
@@ -542,7 +560,7 @@
             "hash": "4fa82b32ae2fa20c",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackheavy_03.wem"
+            "sourceName": "vo_tartaglia_battle_attackHeavy_03.wem"
         },
         "4fcb3348ff1a36b3": {
             "hash": "4fcb3348ff1a36b3",
@@ -554,7 +572,7 @@
             "hash": "4fdcc8c77609ed43",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_03.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_03.wem"
         },
         "5263ea3d0079123a": {
             "hash": "5263ea3d0079123a",
@@ -572,7 +590,7 @@
             "hash": "546cb4d9236f147d",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_01.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_01.wem"
         },
         "560bf8fb7efa135e": {
             "hash": "560bf8fb7efa135e",
@@ -585,6 +603,12 @@
             "directory": "External11",
             "voiceContent": "破绽，稍纵即逝",
             "sourceName": "vo_tartaglia_battle_skill3_03.wem"
+        },
+        "5d2c8723a78ef55f": {
+            "hash": "5d2c8723a78ef55f",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_skill2_02.wem"
         },
         "5e55a1d36fff0811": {
             "hash": "5e55a1d36fff0811",
@@ -608,7 +632,7 @@
             "hash": "64882721a16804da",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackheavy_01.wem"
+            "sourceName": "vo_tartaglia_battle_attackHeavy_01.wem"
         },
         "65a08831a9d59296": {
             "hash": "65a08831a9d59296",
@@ -724,12 +748,6 @@
             "voiceContent": "你看起来状态还不错嘛，要不陪我切磋一下",
             "sourceName": "vo_tartaglia_dialog_greetingNoon.wem"
         },
-        "873239ad2c4462c2": {
-            "hash": "873239ad2c4462c2",
-            "directory": "External16",
-            "voiceContent": "真是出乎意料的口感，好…我就再试一次吧",
-            "sourceName": "vo_tartaglia_spice_event_dislike_01.wem"
-        },
         "87e9205eb42e0900": {
             "hash": "87e9205eb42e0900",
             "directory": "External16",
@@ -748,12 +766,6 @@
             "voiceContent": "哈哈哈，这局我拿下了",
             "sourceName": "vo_card_tartaglia_invite_easy_02.wem"
         },
-        "899cfb6dde91f54c": {
-            "hash": "899cfb6dde91f54c",
-            "directory": "External17",
-            "voiceContent": "只要吃到好吃的，心情就会十分舒畅。我该如何回报你呢",
-            "sourceName": "vo_tartaglia_spice_event_pref_01.wem"
-        },
         "8a39a08b1e1a8a8b": {
             "hash": "8a39a08b1e1a8a8b",
             "directory": "External17",
@@ -770,7 +782,7 @@
             "hash": "8d552eb494fd92df",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_h_05.wem"
+            "sourceName": "vo_tartaglia_battle_hit_H_05.wem"
         },
         "8d7e90de247e1814": {
             "hash": "8d7e90de247e1814",
@@ -788,7 +800,7 @@
             "hash": "943cd4efad4cf428",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_02.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_02.wem"
         },
         "9467c41838d444e2": {
             "hash": "9467c41838d444e2",
@@ -800,13 +812,13 @@
             "hash": "955b06f13b38714e",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_06.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_06.wem"
         },
         "9684fb02e5ba7cf0": {
             "hash": "9684fb02e5ba7cf0",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_04.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_04.wem"
         },
         "986103878ca5b2b9": {
             "hash": "986103878ca5b2b9",
@@ -886,11 +898,17 @@
             "voiceContent": "一点小差错，不成问题",
             "sourceName": "vo_card_tartaglia_inGame_hard_02.wem"
         },
+        "b0f73314713bb865": {
+            "hash": "b0f73314713bb865",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_skill2_04.wem"
+        },
         "b104dd4e25261a32": {
             "hash": "b104dd4e25261a32",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackmid_04.wem"
+            "sourceName": "vo_tartaglia_battle_attackMid_04.wem"
         },
         "b2418241e623dcf9": {
             "hash": "b2418241e623dcf9",
@@ -903,6 +921,12 @@
             "directory": "External22",
             "voiceContent": "他带着「神之心」与我们失去了联络，后面才有了追回那颗心的行动。我倒是不介意去四处走走，说不定还能在哪儿和你偶遇",
             "sourceName": "vo_tartaglia_teammate_scaramouche_01.wem"
+        },
+        "b3f7449585897ed5": {
+            "hash": "b3f7449585897ed5",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_attackLight_09.wem"
         },
         "b54daaed306b85a6": {
             "hash": "b54daaed306b85a6",
@@ -920,7 +944,7 @@
             "hash": "be8c4529cfcc16dd",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackheavy_02.wem"
+            "sourceName": "vo_tartaglia_battle_attackHeavy_02.wem"
         },
         "bfba7c2b880c764a": {
             "hash": "bfba7c2b880c764a",
@@ -974,7 +998,7 @@
             "hash": "cc0e30bc812b6092",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_04.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_04.wem"
         },
         "cc6960761dd9c097": {
             "hash": "cc6960761dd9c097",
@@ -1004,7 +1028,7 @@
             "hash": "d09e54ce2e90e764",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_06.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_06.wem"
         },
         "d0e8c356e3cb3a6b": {
             "hash": "d0e8c356e3cb3a6b",
@@ -1022,7 +1046,7 @@
             "hash": "d2449b77d558db09",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackmid_03.wem"
+            "sourceName": "vo_tartaglia_battle_attackMid_03.wem"
         },
         "d34249a4f0a2a7ba": {
             "hash": "d34249a4f0a2a7ba",
@@ -1106,7 +1130,7 @@
             "hash": "e11fdaa55eaa55e5",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_h_03.wem"
+            "sourceName": "vo_tartaglia_battle_hit_H_03.wem"
         },
         "e15d802eb8f18859": {
             "hash": "e15d802eb8f18859",
@@ -1118,13 +1142,13 @@
             "hash": "e3bdcf66c5acc08f",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attackmid_01.wem"
+            "sourceName": "vo_tartaglia_battle_attackMid_01.wem"
         },
         "ed4eeee6315fd569": {
             "hash": "ed4eeee6315fd569",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_03.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_03.wem"
         },
         "efccb63211e96e7f": {
             "hash": "efccb63211e96e7f",
@@ -1132,11 +1156,17 @@
             "voiceContent": "喔！好像变强了一些。找谁试试好了",
             "sourceName": "vo_tartaglia_starUp_01.wem"
         },
+        "f2a2793e332a4ed8": {
+            "hash": "f2a2793e332a4ed8",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_tartaglia_battle_skill2_01.wem"
+        },
         "fa6796d0f5094f7a": {
             "hash": "fa6796d0f5094f7a",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_attacklight_02.wem"
+            "sourceName": "vo_tartaglia_battle_attackLight_02.wem"
         },
         "fab9df6ff73fd550": {
             "hash": "fab9df6ff73fd550",
@@ -1154,7 +1184,7 @@
             "hash": "fec822d521b3baef",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_tartaglia_battle_hit_l_01.wem"
+            "sourceName": "vo_tartaglia_battle_hit_L_01.wem"
         },
         "fef16915a2a9df62": {
             "hash": "fef16915a2a9df62",

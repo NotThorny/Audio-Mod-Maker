@@ -337,6 +337,78 @@
             "directory": "External1",
             "voiceContent": "아키라, 너 대체 뭘 했길래 우인단까지 있는 거야",
             "sourceName": "vo_JQRCOP001_1914806_shinobu_01.wem"
+        },
+        "1aab9acef7cb42bc": {
+            "hash": "1aab9acef7cb42bc",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_02.wem"
+        },
+        "6d4f5b47973bf6b2": {
+            "hash": "6d4f5b47973bf6b2",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_3_shinobu_01.wem"
+        },
+        "74e6a8d7265e7c67": {
+            "hash": "74e6a8d7265e7c67",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_05.wem"
+        },
+        "84ffc8b46c029053": {
+            "hash": "84ffc8b46c029053",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_01.wem"
+        },
+        "898fb4c61967b74d": {
+            "hash": "898fb4c61967b74d",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_03.wem"
+        },
+        "9ab13b2995bf2715": {
+            "hash": "9ab13b2995bf2715",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_1_shinobu_01.wem"
+        },
+        "9f15394e8d6f9d95": {
+            "hash": "9f15394e8d6f9d95",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_3_shinobu_02.wem"
+        },
+        "b6100f232b9b6730": {
+            "hash": "b6100f232b9b6730",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_3_shinobu_01.wem"
+        },
+        "c71706de2e4c385e": {
+            "hash": "c71706de2e4c385e",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_6_shinobu_04.wem"
+        },
+        "d9c112bb842396a7": {
+            "hash": "d9c112bb842396a7",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_shinobu_01.wem"
+        },
+        "e5b23b7003e9f13b": {
+            "hash": "e5b23b7003e9f13b",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_shinobu_01.wem"
+        },
+        "e649b3ad8d5726a8": {
+            "hash": "e649b3ad8d5726a8",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_9_shinobu_01b_1.wem"
         }
     },
     "Gameplay": {
@@ -416,7 +488,7 @@
             "hash": "1c8a90ca75744dd8",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_03.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_03.wem"
         },
         "20c04d2e5b2f5763": {
             "hash": "20c04d2e5b2f5763",
@@ -430,11 +502,17 @@
             "voiceContent": "난 다양한 일을 해봤고 관련 자격증도 적지 않게 가지고 있어. 관리 쪽으로는 작은 팀을 맡아서 인원 관리와 자원 조달을 담당한 적이 있고…. 어, 미안, 면접을 많이 보다 보니 또 버릇이 도졌네. 신경 쓰지",
             "sourceName": "vo_shinobu_friendship_01.wem"
         },
+        "218ba32d293ca1c3": {
+            "hash": "218ba32d293ca1c3",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_easy_02.wem"
+        },
         "2268ca9504a4a651": {
             "hash": "2268ca9504a4a651",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_06.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_06.wem"
         },
         "229fa6b34235bcd4": {
             "hash": "229fa6b34235bcd4",
@@ -452,7 +530,7 @@
             "hash": "263d1a9d2701fe06",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_03.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_03.wem"
         },
         "26c4d243872f6d99": {
             "hash": "26c4d243872f6d99",
@@ -496,6 +574,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shinobu_explore_sprint_start_03.wem"
         },
+        "2fea3e6b609f733d": {
+            "hash": "2fea3e6b609f733d",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_event_special_04.wem"
+        },
         "30fdb3c449bddbad": {
             "hash": "30fdb3c449bddbad",
             "directory": "External6",
@@ -512,13 +596,13 @@
             "hash": "3169bcb968ab4ef6",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_01.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_01.wem"
         },
         "31bee83bd22472df": {
             "hash": "31bee83bd22472df",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackheavy_01.wem"
+            "sourceName": "vo_shinobu_battle_attackHeavy_01.wem"
         },
         "32695519f828b0f3": {
             "hash": "32695519f828b0f3",
@@ -572,7 +656,7 @@
             "hash": "3d6f2eaf6f3b6328",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_01.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_01.wem"
         },
         "3e3e89fcca548ae8": {
             "hash": "3e3e89fcca548ae8",
@@ -626,7 +710,13 @@
             "hash": "48f2344e1a5fe9d9",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackheavy_03.wem"
+            "sourceName": "vo_shinobu_battle_attackHeavy_03.wem"
+        },
+        "4c0d2a55d5c0d6c5": {
+            "hash": "4c0d2a55d5c0d6c5",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_hard_03.wem"
         },
         "4e04bebc87d825bf": {
             "hash": "4e04bebc87d825bf",
@@ -658,6 +748,12 @@
             "voiceContent": "라멘이나 교자처럼 든든한 음식을 먹어도 마지막은 쌀밥 한 그릇이 꼭 먹고 싶어져. 쌀밥 맛있잖아, 다른 이유는 없어. 뭐 문제 있어",
             "sourceName": "vo_shinobu_pref_foodLike_01.wem"
         },
+        "5aac89d1fbf43fb9": {
+            "hash": "5aac89d1fbf43fb9",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_endOfGame_fail_01.wem"
+        },
         "5c4f0ec4aec7e0d1": {
             "hash": "5c4f0ec4aec7e0d1",
             "directory": "External11",
@@ -688,12 +784,6 @@
             "voiceContent": "됐어, 무리하지 말고 나한테 맡",
             "sourceName": "vo_shinobu_life_less30_teammate_02.wem"
         },
-        "6391069c1fa09126": {
-            "hash": "6391069c1fa09126",
-            "directory": "External12",
-            "voiceContent": "네가 만들었어? 음… 이 정도 실력이면 요리사 자격증도 충분히 따겠",
-            "sourceName": "vo_shinobu_spice_event_normal_01.wem"
-        },
         "680e9673fff25ecf": {
             "hash": "680e9673fff25ecf",
             "directory": "External13",
@@ -712,6 +802,18 @@
             "voiceContent": "침착하게 해… 너 말이",
             "sourceName": "vo_card_shinobu_inGame_easy_01.wem"
         },
+        "70d7908378671d0e": {
+            "hash": "70d7908378671d0e",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_event_special_03.wem"
+        },
+        "7201849522e928b0": {
+            "hash": "7201849522e928b0",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_event_special_01.wem"
+        },
         "733ad7a6c620737b": {
             "hash": "733ad7a6c620737b",
             "directory": "External14",
@@ -722,13 +824,13 @@
             "hash": "75408a7c4319cf92",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_07.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_07.wem"
         },
         "75fc5e85ce21fdb7": {
             "hash": "75fc5e85ce21fdb7",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_04.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_04.wem"
         },
         "760fe5c99e32f752": {
             "hash": "760fe5c99e32f752",
@@ -758,7 +860,7 @@
             "hash": "79d0ae8df07f5664",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_05.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_05.wem"
         },
         "7c8c32943e26182e": {
             "hash": "7c8c32943e26182e",
@@ -770,7 +872,7 @@
             "hash": "806d2c9884c32042",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_05.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_05.wem"
         },
         "82bc865d403d002c": {
             "hash": "82bc865d403d002c",
@@ -794,19 +896,19 @@
             "hash": "8d679103962617c6",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackmid_01.wem"
-        },
-        "91ad8b626682f84c": {
-            "hash": "91ad8b626682f84c",
-            "directory": "External18",
-            "voiceContent": "제법이네. 크흠… 한 입만 더 먹을",
-            "sourceName": "vo_shinobu_spice_event_pref_01.wem"
+            "sourceName": "vo_shinobu_battle_attackMid_01.wem"
         },
         "93e9a3f34b828f29": {
             "hash": "93e9a3f34b828f29",
             "directory": "External18",
             "voiceContent": "SFX",
             "sourceName": "vo_shinobu_explore_jump_05.wem"
+        },
+        "94d0d5d45ed1d3fe": {
+            "hash": "94d0d5d45ed1d3fe",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_freetalk_01.wem"
         },
         "977d07574f2a8f2a": {
             "hash": "977d07574f2a8f2a",
@@ -825,6 +927,12 @@
             "directory": "External19",
             "voiceContent": "더 해보시",
             "sourceName": "vo_shinobu_battle_hit_L_02.wem"
+        },
+        "9fa17e469f3f74eb": {
+            "hash": "9fa17e469f3f74eb",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_hard_01.wem"
         },
         "a0355cc38fc64ed6": {
             "hash": "a0355cc38fc64ed6",
@@ -860,13 +968,13 @@
             "hash": "a7fa7c94e3a229ef",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_02.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_02.wem"
         },
         "a800a515e14458e8": {
             "hash": "a800a515e14458e8",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackmid_03.wem"
+            "sourceName": "vo_shinobu_battle_attackMid_03.wem"
         },
         "afbba8b243d3ce99": {
             "hash": "afbba8b243d3ce99",
@@ -916,6 +1024,12 @@
             "voiceContent": "쇄국령이 풀리고 라이덴 쇼군은 각 업계의 발전을 지원하는 법령을 잇따라 반포했어. 이제 내가 쇄국령 기간에 땄던 자격증들도 쓸 수 있고, 아라타키파도 경제적으로 그렇게 쪼들리지 않게 됐어…. 인생사 새옹지마라더니, 결국 라이덴 쇼군한테 고마워하게 될 날이 올 줄이",
             "sourceName": "vo_shinobu_teammate_raidenShogun_01.wem"
         },
+        "b7377547b505542c": {
+            "hash": "b7377547b505542c",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_easy_01.wem"
+        },
         "bacb49692cd136fe": {
             "hash": "bacb49692cd136fe",
             "directory": "External23",
@@ -944,7 +1058,7 @@
             "hash": "c734da565dbfcc58",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackheavy_02.wem"
+            "sourceName": "vo_shinobu_battle_attackHeavy_02.wem"
         },
         "c8d6a55e4502aaad": {
             "hash": "c8d6a55e4502aaad",
@@ -952,17 +1066,23 @@
             "voiceContent": "액운 타파",
             "sourceName": "vo_shinobu_battle_skill1_02.wem"
         },
+        "cc167136a83c03fa": {
+            "hash": "cc167136a83c03fa",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_easy_03.wem"
+        },
+        "d2f958c470597acf": {
+            "hash": "d2f958c470597acf",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_endOfGame_win_01.wem"
+        },
         "d592ab0369ef8ffc": {
             "hash": "d592ab0369ef8ffc",
             "directory": "External26",
             "voiceContent": "나중에 자격증이 따고 싶어지면 날 찾아와. 내 노트를 빌려줄게. 요점 정리는 물론, 보충 설명도 자세하게 적어놔서 이해하기 쉬울 거",
             "sourceName": "vo_shinobu_dialog_close.wem"
-        },
-        "d84e6f6ad03b63c2": {
-            "hash": "d84e6f6ad03b63c2",
-            "directory": "External27",
-            "voiceContent": "솔직히 물어볼게. 조미료 잘못 넣은 거 아니야",
-            "sourceName": "vo_shinobu_spice_event_dislike_01.wem"
         },
         "d8b1766527ae842d": {
             "hash": "d8b1766527ae842d",
@@ -980,7 +1100,7 @@
             "hash": "d9b51e8f09034c0b",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_04.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_04.wem"
         },
         "da91b4ccf227c350": {
             "hash": "da91b4ccf227c350",
@@ -992,7 +1112,7 @@
             "hash": "dadf4aa0b385b765",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_l_06.wem"
+            "sourceName": "vo_shinobu_battle_hit_L_06.wem"
         },
         "ded4c1292ea9a66d": {
             "hash": "ded4c1292ea9a66d",
@@ -1006,17 +1126,29 @@
             "voiceContent": "일을 찾거나 멤버들의 안정을 유지하는 게 내 할 일이야. 이 외에도——봉행소에서 사람을 빼내거나, 간식과 장난감을 돌려주거나, 의뢰를 받고도 농땡이 피우는 멤버를 잡아내는 등 일을 맡고 있지…. 이 추가 업무들은 아라타키파만의 특색이라고 할 수 있어. 원칙대로라면 다른 조직의 이인자들은 이런 일을 할 필요가 없지. 물론, 나처럼 해낼 수도 없을 테",
             "sourceName": "vo_shinobu_dialog_idle.wem"
         },
+        "e634fbeb380d441d": {
+            "hash": "e634fbeb380d441d",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_shinobu_01.wem"
+        },
         "e7c3dc7f17e13a4b": {
             "hash": "e7c3dc7f17e13a4b",
             "directory": "External28",
             "voiceContent": "자격증은 기술의 전문성을 따질 뿐, 거기에 쏟아부은 노력과 감정을 계량화할 수는 없어. 너와 내 친분도 고맙다는 말 한마디로 설명할 수 있는 게 아니니까, 행동으로 증명할게. 이건 내 특기",
             "sourceName": "vo_shinobu_starUp_04.wem"
         },
+        "ea2b305491daeb9b": {
+            "hash": "ea2b305491daeb9b",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_leave_01.wem"
+        },
         "efaf107c641cab8c": {
             "hash": "efaf107c641cab8c",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_03.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_03.wem"
         },
         "f1a0a05461d974fd": {
             "hash": "f1a0a05461d974fd",
@@ -1030,6 +1162,12 @@
             "voiceContent": "형님… 지겠어",
             "sourceName": "vo_card_shinobu_event_special_02.wem"
         },
+        "f2c4f05f51803074": {
+            "hash": "f2c4f05f51803074",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_shinobu_invite_hard_02.wem"
+        },
         "f3ede5df63d0f772": {
             "hash": "f3ede5df63d0f772",
             "directory": "External30",
@@ -1040,7 +1178,7 @@
             "hash": "f43efc8e1181d2ae",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_hit_h_05.wem"
+            "sourceName": "vo_shinobu_battle_hit_H_05.wem"
         },
         "f63d9a295eff9f10": {
             "hash": "f63d9a295eff9f10",
@@ -1052,7 +1190,7 @@
             "hash": "f734fc73ffe958db",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_06.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_06.wem"
         },
         "f80357c15b00cc9b": {
             "hash": "f80357c15b00cc9b",
@@ -1070,13 +1208,13 @@
             "hash": "fbc3e885ad4cccf5",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attacklight_04.wem"
+            "sourceName": "vo_shinobu_battle_attackLight_04.wem"
         },
         "fdabbf0c62725d29": {
             "hash": "fdabbf0c62725d29",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_shinobu_battle_attackmid_02.wem"
+            "sourceName": "vo_shinobu_battle_attackMid_02.wem"
         }
     }
 }

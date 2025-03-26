@@ -410,7 +410,7 @@
             "hash": "148944b606ee0d4e",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attackmid_02.wem"
+            "sourceName": "vo_lisa_battle_attackMid_02.wem"
         },
         "14ebeba266dd978d": {
             "hash": "14ebeba266dd978d",
@@ -446,7 +446,7 @@
             "hash": "1a1ccd48ec94cac3",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_hit_l_03.wem"
+            "sourceName": "vo_lisa_battle_hit_L_03.wem"
         },
         "1ca5dc30acca5c83": {
             "hash": "1ca5dc30acca5c83",
@@ -482,7 +482,7 @@
             "hash": "1e993fd533f93ba2",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_hit_h_06.wem"
+            "sourceName": "vo_lisa_battle_hit_H_06.wem"
         },
         "1eacb95a99f9f1fd": {
             "hash": "1eacb95a99f9f1fd",
@@ -500,7 +500,7 @@
             "hash": "1fc223e6de797974",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_hit_h_04.wem"
+            "sourceName": "vo_lisa_battle_hit_H_04.wem"
         },
         "22d1a03b6853a908": {
             "hash": "22d1a03b6853a908",
@@ -584,13 +584,19 @@
             "hash": "404e332f563bedee",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attackheavy_03.wem"
+            "sourceName": "vo_lisa_battle_attackHeavy_03.wem"
         },
         "40a17ee2de17698a": {
             "hash": "40a17ee2de17698a",
             "directory": "External8",
             "voiceContent": "SFX",
             "sourceName": "vo_lisa_explore_idle_03.wem"
+        },
+        "44e1ab0c1a22c67c": {
+            "hash": "44e1ab0c1a22c67c",
+            "directory": "External8",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_lisa_yawn.wem"
         },
         "4623b975e8b00379": {
             "hash": "4623b975e8b00379",
@@ -638,7 +644,7 @@
             "hash": "59ce5ae812b2c4c9",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attacklight_07.wem"
+            "sourceName": "vo_lisa_battle_attackLight_07.wem"
         },
         "5b3982f52933dcfc": {
             "hash": "5b3982f52933dcfc",
@@ -670,23 +676,23 @@
             "voiceContent": "哎呀，再不拿出点真本事出来，就对不起你的努力了吧。嗯哼…也好也好",
             "sourceName": "vo_lisa_dialog_close2.wem"
         },
-        "5e7b708250a03faa": {
-            "hash": "5e7b708250a03faa",
+        "5e98fa17a2e6530a": {
+            "hash": "5e98fa17a2e6530a",
             "directory": "External11",
-            "voiceContent": "真贴心呢，小可爱。姐姐我很满意哦",
-            "sourceName": "vo_lisa_spice_event_pref_01.wem"
+            "voiceContent": "",
+            "sourceName": "vo_lisa_suit_studentin_01.wem"
         },
         "5f9b0b72b1c34ece": {
             "hash": "5f9b0b72b1c34ece",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_hit_l_06.wem"
+            "sourceName": "vo_lisa_battle_hit_L_06.wem"
         },
         "60c4ff845c455a70": {
             "hash": "60c4ff845c455a70",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_hit_l_04.wem"
+            "sourceName": "vo_lisa_battle_hit_L_04.wem"
         },
         "619227662656353a": {
             "hash": "619227662656353a",
@@ -710,7 +716,7 @@
             "hash": "6a547ac558b3aad5",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attacklight_03.wem"
+            "sourceName": "vo_lisa_battle_attackLight_03.wem"
         },
         "6a7a7ae492b242c8": {
             "hash": "6a7a7ae492b242c8",
@@ -722,7 +728,7 @@
             "hash": "6b478ed70306aa4f",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attacklight_05.wem"
+            "sourceName": "vo_lisa_battle_attackLight_05.wem"
         },
         "6be828d5eda14faa": {
             "hash": "6be828d5eda14faa",
@@ -742,12 +748,6 @@
             "voiceContent": "啊…早安，琴。嗯？不好意思，我看错了",
             "sourceName": "vo_lisa_dialog_greetingMorning.wem"
         },
-        "75b57893dc9ed770": {
-            "hash": "75b57893dc9ed770",
-            "directory": "External14",
-            "voiceContent": "呵呵，你很擅长做这些呢",
-            "sourceName": "vo_lisa_spice_event_normal_01.wem"
-        },
         "75fa0cadaaa8a01f": {
             "hash": "75fa0cadaaa8a01f",
             "directory": "External14",
@@ -758,7 +758,13 @@
             "hash": "790a5ddd62ba1fc5",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_hit_h_05.wem"
+            "sourceName": "vo_lisa_battle_hit_H_05.wem"
+        },
+        "7930fe29ee02c67c": {
+            "hash": "7930fe29ee02c67c",
+            "directory": "External15",
+            "voiceContent": "",
+            "sourceName": "vo_lisa_suit_studentin_03.wem"
         },
         "7be3709d44a18bd4": {
             "hash": "7be3709d44a18bd4",
@@ -782,7 +788,7 @@
             "hash": "7d6431ef0ff18e3f",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_hit_h_03.wem"
+            "sourceName": "vo_lisa_battle_hit_H_03.wem"
         },
         "805d814aa4a109bf": {
             "hash": "805d814aa4a109bf",
@@ -848,7 +854,7 @@
             "hash": "9646a6adc38e3857",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attackmid_03.wem"
+            "sourceName": "vo_lisa_battle_attackMid_03.wem"
         },
         "96beb9f3251b2f0a": {
             "hash": "96beb9f3251b2f0a",
@@ -860,13 +866,7 @@
             "hash": "977092bf6e103671",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attackmid_01.wem"
-        },
-        "a710fca16316f364": {
-            "hash": "a710fca16316f364",
-            "directory": "External20",
-            "voiceContent": "哎呀…这可真是",
-            "sourceName": "vo_lisa_spice_event_dislike_01.wem"
+            "sourceName": "vo_lisa_battle_attackMid_01.wem"
         },
         "a7de5127683346dc": {
             "hash": "a7de5127683346dc",
@@ -890,7 +890,7 @@
             "hash": "abfec0ef1aa08e08",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attacklight_06.wem"
+            "sourceName": "vo_lisa_battle_attackLight_06.wem"
         },
         "acbf3285a1c27710": {
             "hash": "acbf3285a1c27710",
@@ -962,7 +962,7 @@
             "hash": "bde80eb62231023b",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attacklight_01.wem"
+            "sourceName": "vo_lisa_battle_attackLight_01.wem"
         },
         "c370704dbc02d302": {
             "hash": "c370704dbc02d302",
@@ -986,7 +986,7 @@
             "hash": "c4a79b526b942cfa",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_hit_l_02.wem"
+            "sourceName": "vo_lisa_battle_hit_L_02.wem"
         },
         "c4bd1c516ef1276a": {
             "hash": "c4bd1c516ef1276a",
@@ -998,7 +998,7 @@
             "hash": "c571952715bf41f7",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attackheavy_02.wem"
+            "sourceName": "vo_lisa_battle_attackHeavy_02.wem"
         },
         "c58db0da9d6b2993": {
             "hash": "c58db0da9d6b2993",
@@ -1022,7 +1022,7 @@
             "hash": "cf94cff617dfb756",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_hit_h_02.wem"
+            "sourceName": "vo_lisa_battle_hit_H_02.wem"
         },
         "d260f2085aaa661b": {
             "hash": "d260f2085aaa661b",
@@ -1053,6 +1053,12 @@
             "directory": "External26",
             "voiceContent": "SFX",
             "sourceName": "vo_lisa_explore_jump_03.wem"
+        },
+        "d5b15d135bc6d087": {
+            "hash": "d5b15d135bc6d087",
+            "directory": "External26",
+            "voiceContent": "让姐姐帮帮你吧。",
+            "sourceName": "vo_lisa_teamJoin_01b.wem"
         },
         "d61e7ea57334c49f": {
             "hash": "d61e7ea57334c49f",
@@ -1094,7 +1100,13 @@
             "hash": "e282597c18e577f1",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_hit_l_05.wem"
+            "sourceName": "vo_lisa_battle_hit_L_05.wem"
+        },
+        "e4af18210cbc110d": {
+            "hash": "e4af18210cbc110d",
+            "directory": "External28",
+            "voiceContent": "",
+            "sourceName": "vo_lisa_suit_studentin_02.wem"
         },
         "e4c8f8f74d439578": {
             "hash": "e4c8f8f74d439578",
@@ -1118,7 +1130,7 @@
             "hash": "e86040cd9be48144",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attacklight_02.wem"
+            "sourceName": "vo_lisa_battle_attackLight_02.wem"
         },
         "e8dc1525e962659b": {
             "hash": "e8dc1525e962659b",
@@ -1130,7 +1142,7 @@
             "hash": "e98a2cdf46667f66",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attacklight_04.wem"
+            "sourceName": "vo_lisa_battle_attackLight_04.wem"
         },
         "eb4daa39a9536c6f": {
             "hash": "eb4daa39a9536c6f",
@@ -1154,7 +1166,7 @@
             "hash": "f01fa73e8fa01910",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_lisa_battle_attackheavy_01.wem"
+            "sourceName": "vo_lisa_battle_attackHeavy_01.wem"
         },
         "f0d55acdacf6c2b3": {
             "hash": "f0d55acdacf6c2b3",
@@ -1197,36 +1209,6 @@
             "directory": "External31",
             "voiceContent": "天气真好，能躺下来补个觉就更好了",
             "sourceName": "vo_lisa_weather_breezy_01.wem"
-        },
-        "44e1ab0c1a22c67c": {
-            "hash": "44e1ab0c1a22c67c",
-            "directory": "External8",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_lisa_yawn.wem"
-        },
-        "5e98fa17a2e6530a": {
-            "hash": "5e98fa17a2e6530a",
-            "directory": "External11",
-            "voiceContent": "",
-            "sourceName": "vo_lisa_suit_studentin_01.wem"
-        },
-        "7930fe29ee02c67c": {
-            "hash": "7930fe29ee02c67c",
-            "directory": "External15",
-            "voiceContent": "",
-            "sourceName": "vo_lisa_suit_studentin_03.wem"
-        },
-        "d5b15d135bc6d087": {
-            "hash": "d5b15d135bc6d087",
-            "directory": "External26",
-            "voiceContent": "让姐姐帮帮你吧。",
-            "sourceName": "vo_lisa_teamJoin_01b.wem"
-        },
-        "e4af18210cbc110d": {
-            "hash": "e4af18210cbc110d",
-            "directory": "External28",
-            "voiceContent": "",
-            "sourceName": "vo_lisa_suit_studentin_02.wem"
         }
     }
 }

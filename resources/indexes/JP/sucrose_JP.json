@@ -247,7 +247,20 @@
             "sourceName": "vo_sucrose_mimitomo_morning_01.wem"
         }
     },
-    "Quests": {},
+    "Quests": {
+        "40a88dc1547a0d8f": {
+            "hash": "40a88dc1547a0d8f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_1_sucrose_01.wem"
+        },
+        "8160bfd96c15a548": {
+            "hash": "8160bfd96c15a548",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_1_sucrose_02.wem"
+        }
+    },
     "Gameplay": {
         "005caf6a18f215d7": {
             "hash": "005caf6a18f215d7",
@@ -266,12 +279,6 @@
             "directory": "External0",
             "voiceContent": "「生物錬金」を理解してから、マッシュルームはあまり食べなくなった…あなたも知ってるでしょう？マッシュルームの菌って死んだ生物にしか着生しないことを。そう考えるとなんか、気持ち悪い",
             "sourceName": "vo_sucrose_pref_foodDislike.wem"
-        },
-        "01fa6117d1aa1137": {
-            "hash": "01fa6117d1aa1137",
-            "directory": "External0",
-            "voiceContent": "美味しい！あっ…調子がいいうちに、早く研究を終わらせないと",
-            "sourceName": "vo_sucrose_spice_event_pref_01.wem"
         },
         "035a76dbdb8e5b4e": {
             "hash": "035a76dbdb8e5b4e",
@@ -301,7 +308,7 @@
             "hash": "0662eb421d6f2753",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackmid_01.wem"
+            "sourceName": "vo_sucrose_battle_attackMid_01.wem"
         },
         "06636b0a35dd427f": {
             "hash": "06636b0a35dd427f",
@@ -319,7 +326,13 @@
             "hash": "07528d30533db42f",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_01.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_01.wem"
+        },
+        "087eb390e1972390": {
+            "hash": "087eb390e1972390",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_11.wem"
         },
         "08f3a2a5ee5ac34e": {
             "hash": "08f3a2a5ee5ac34e",
@@ -337,7 +350,7 @@
             "hash": "0af2d753cad44e4d",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackmid_03.wem"
+            "sourceName": "vo_sucrose_battle_attackMid_03.wem"
         },
         "0b2e81bdcfb5d320": {
             "hash": "0b2e81bdcfb5d320",
@@ -357,6 +370,12 @@
             "voiceContent": "美味しい！あっ…調子がいいうちに、早く研究を終わらせないと",
             "sourceName": "vo_sucrose_spice_pref_01.wem"
         },
+        "13eca51d9b2e9b62": {
+            "hash": "13eca51d9b2e9b62",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_sucrose_01.wem"
+        },
         "14ae4db68bc0e2be": {
             "hash": "14ae4db68bc0e2be",
             "directory": "External2",
@@ -368,6 +387,18 @@
             "directory": "External3",
             "voiceContent": "私…実は知らない人とどう会話したらいいか分からないの。人ってそれぞれ性格や趣味嗜好が違うから、つい失礼なことを言っちゃったりして。ああ…会話って本当に難しい、錬金術よりも難しい",
             "sourceName": "vo_sucrose_dialog_idle2.wem"
+        },
+        "1a519ad99cd6810e": {
+            "hash": "1a519ad99cd6810e",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_03.wem"
+        },
+        "1b7b8eeb47588cb0": {
+            "hash": "1b7b8eeb47588cb0",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_01.wem"
         },
         "220f5dd31f24f5ae": {
             "hash": "220f5dd31f24f5ae",
@@ -381,6 +412,12 @@
             "voiceContent": "ちょっと予想を、超えてるかも",
             "sourceName": "vo_sucrose_life_less30_02.wem"
         },
+        "237162c5152f94a4": {
+            "hash": "237162c5152f94a4",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_02.wem"
+        },
         "2acef024db0d9344": {
             "hash": "2acef024db0d9344",
             "directory": "External5",
@@ -392,6 +429,12 @@
             "directory": "External5",
             "voiceContent": "正直に言うと、最初に会った時、口数の少なかったあなたがちょっと怖かった…自分が失礼なこと言ったんじゃないかと思って。でもこれまで一緒に行動してきて、実はあなたが付き合いやすい人だって気付いた。へへ、これも「観察」から得た意外な収穫かな",
             "sourceName": "vo_sucrose_dialog_close1.wem"
+        },
+        "2bcdb8a0a409d189": {
+            "hash": "2bcdb8a0a409d189",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_08.wem"
         },
         "2bd00a303a275d4a": {
             "hash": "2bd00a303a275d4a",
@@ -415,7 +458,13 @@
             "hash": "338360a464286802",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_06.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_06.wem"
+        },
+        "35451a0dd07053f2": {
+            "hash": "35451a0dd07053f2",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_10.wem"
         },
         "3618356e941187c8": {
             "hash": "3618356e941187c8",
@@ -451,13 +500,25 @@
             "hash": "3d90d2bbcc21651f",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_03.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_03.wem"
         },
         "3db0fb5a44888dfd": {
             "hash": "3db0fb5a44888dfd",
             "directory": "External7",
             "voiceContent": "…まだ想定の範疇",
             "sourceName": "vo_card_sucrose_inGame_hard_02.wem"
+        },
+        "4021fcdd17fe82a9": {
+            "hash": "4021fcdd17fe82a9",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_07.wem"
+        },
+        "44b220eec56408a3": {
+            "hash": "44b220eec56408a3",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_09.wem"
         },
         "44b4d9a60572e1cc": {
             "hash": "44b4d9a60572e1cc",
@@ -499,7 +560,7 @@
             "hash": "4eb6e600f10a35cb",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_01.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_01.wem"
         },
         "4ec967ce317cafaf": {
             "hash": "4ec967ce317cafaf",
@@ -511,13 +572,19 @@
             "hash": "4fe012129b8aed25",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_03.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_03.wem"
         },
         "54c31ece145b2919": {
             "hash": "54c31ece145b2919",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_01.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_01.wem"
+        },
+        "550130cc0b35912f": {
+            "hash": "550130cc0b35912f",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_05.wem"
         },
         "562dd594f5c6679a": {
             "hash": "562dd594f5c6679a",
@@ -529,7 +596,7 @@
             "hash": "568d0d0f6f84e31b",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_05.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_05.wem"
         },
         "56ede88292574cab": {
             "hash": "56ede88292574cab",
@@ -549,11 +616,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_sucrose_explore_fly_start_03.wem"
         },
+        "58972c87bebf60f0": {
+            "hash": "58972c87bebf60f0",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_sucrose_01.wem"
+        },
+        "58ad3f81a832f86e": {
+            "hash": "58ad3f81a832f86e",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_13.wem"
+        },
         "5a501245b0bcb3de": {
             "hash": "5a501245b0bcb3de",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackheavy_01.wem"
+            "sourceName": "vo_sucrose_battle_attackHeavy_01.wem"
         },
         "5af29ef5b22ee2a5": {
             "hash": "5af29ef5b22ee2a5",
@@ -571,7 +650,7 @@
             "hash": "5ee046575e225480",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackheavy_03.wem"
+            "sourceName": "vo_sucrose_battle_attackHeavy_03.wem"
         },
         "603e636ac1fff1b1": {
             "hash": "603e636ac1fff1b1",
@@ -602,6 +681,18 @@
             "directory": "External13",
             "voiceContent": "最近実験をしてる時、「いつになったら、またあなたと共に冒険ができるかな」って期待するようになったの…うん、おかしい、どうしてこんなことに？ちょっと研究してみる",
             "sourceName": "vo_sucrose_starUp_03.wem"
+        },
+        "6de62eca66558c6c": {
+            "hash": "6de62eca66558c6c",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_05.wem"
+        },
+        "6e5ec325c9f13185": {
+            "hash": "6e5ec325c9f13185",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_sucrose_02.wem"
         },
         "6ee95bbeba541c61": {
             "hash": "6ee95bbeba541c61",
@@ -663,6 +754,18 @@
             "voiceContent": "「生物錬金」の研究にやっと進展が",
             "sourceName": "vo_sucrose_starUp_01.wem"
         },
+        "7dff1ea7abf94ec8": {
+            "hash": "7dff1ea7abf94ec8",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_09.wem"
+        },
+        "7f5f2ab956a9123a": {
+            "hash": "7f5f2ab956a9123a",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_07.wem"
+        },
         "81c0b3dbed75ef10": {
             "hash": "81c0b3dbed75ef10",
             "directory": "External16",
@@ -675,6 +778,12 @@
             "voiceContent": "噂によると、風魔龍の件を解決したのはあなたでしょ？きっと激しい戦闘だったんだろうけど、無事で何よりかな。えっと、ちょっと聞きたいんだけど、戦闘中に風魔龍のウロコや皮なんかが落ちてこなかった？ちょっとだけでいいから、研究してみたいの",
             "sourceName": "vo_sucrose_dialog_close2.wem"
         },
+        "8a3c0d889e374111": {
+            "hash": "8a3c0d889e374111",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_10.wem"
+        },
         "8ab1049daafaee57": {
             "hash": "8ab1049daafaee57",
             "directory": "External17",
@@ -685,13 +794,13 @@
             "hash": "8ccb529ae86894cb",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_07.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_07.wem"
         },
         "8df47eac92e94c25": {
             "hash": "8df47eac92e94c25",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_05.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_05.wem"
         },
         "91a4f9f327e361eb": {
             "hash": "91a4f9f327e361eb",
@@ -703,7 +812,7 @@
             "hash": "94f1583c605cac98",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_06.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_06.wem"
         },
         "955c3a269c617748": {
             "hash": "955c3a269c617748",
@@ -717,6 +826,12 @@
             "voiceContent": "き…気づかれてたの。私の耳は一族の遺伝。他の人とは違うから、普段は髪で隠してる",
             "sourceName": "vo_sucrose_dialog_idle3.wem"
         },
+        "97196ef5cd80ec5a": {
+            "hash": "97196ef5cd80ec5a",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_08.wem"
+        },
         "98e9721230011ee8": {
             "hash": "98e9721230011ee8",
             "directory": "External19",
@@ -727,7 +842,13 @@
             "hash": "9c0ebd5ca937d9bc",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackmid_02.wem"
+            "sourceName": "vo_sucrose_battle_attackMid_02.wem"
+        },
+        "9c0efcd15976ac17": {
+            "hash": "9c0efcd15976ac17",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_02.wem"
         },
         "9cc83f4aded8a168": {
             "hash": "9cc83f4aded8a168",
@@ -753,11 +874,11 @@
             "voiceContent": "無相の風…シミュレート",
             "sourceName": "vo_sucrose_battle_skill3_03.wem"
         },
-        "a058bf5b74342c81": {
-            "hash": "a058bf5b74342c81",
+        "a43bb0ab277cc01b": {
+            "hash": "a43bb0ab277cc01b",
             "directory": "External20",
-            "voiceContent": "私が栄養価を考えて作った食事よりずっと美味しい。うん、これなら私も食生活を改善できるかも",
-            "sourceName": "vo_sucrose_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_01.wem"
         },
         "a5415819a62fcd54": {
             "hash": "a5415819a62fcd54",
@@ -765,11 +886,17 @@
             "voiceContent": "こうなるはずじゃ",
             "sourceName": "vo_sucrose_battle_hit_L_02.wem"
         },
+        "a5659cbcd1febe35": {
+            "hash": "a5659cbcd1febe35",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_03.wem"
+        },
         "a66a842b50b084b6": {
             "hash": "a66a842b50b084b6",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_04.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_04.wem"
         },
         "a6ec3ef471661158": {
             "hash": "a6ec3ef471661158",
@@ -829,13 +956,25 @@
             "hash": "b7f2204de234c881",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attackheavy_02.wem"
+            "sourceName": "vo_sucrose_battle_attackHeavy_02.wem"
+        },
+        "ba9e8c059021523b": {
+            "hash": "ba9e8c059021523b",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_11.wem"
         },
         "be9a8127de10d088": {
             "hash": "be9a8127de10d088",
             "directory": "External23",
             "voiceContent": "今回の旅で、またたくさんの研究材料を集めることができた。ありがとう、ちゃんと活用させてもらうから",
             "sourceName": "vo_sucrose_starUp_02.wem"
+        },
+        "c6676d671f4d6e1d": {
+            "hash": "c6676d671f4d6e1d",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_14.wem"
         },
         "c68c995f8a8c7ea2": {
             "hash": "c68c995f8a8c7ea2",
@@ -873,6 +1012,12 @@
             "voiceContent": "戦術を調整しなきゃ",
             "sourceName": "vo_card_sucrose_inGame_hard_03.wem"
         },
+        "cfddced44bb23d46": {
+            "hash": "cfddced44bb23d46",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_04.wem"
+        },
         "d09ce4e67602dd25": {
             "hash": "d09ce4e67602dd25",
             "directory": "External26",
@@ -901,19 +1046,31 @@
             "hash": "d4999b17b2b70dd2",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_04.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_04.wem"
         },
         "d5c2bf295d37b7a4": {
             "hash": "d5c2bf295d37b7a4",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_06.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_06.wem"
         },
         "d69b02b2dba39030": {
             "hash": "d69b02b2dba39030",
             "directory": "External26",
             "voiceContent": "先生のアシスタントになったことで、毎日多くのことを勉強できるようになった。知識というよりは、「天才」の考え方の勉強かな。どんな複雑な問題でも先生は1つずつ分析し解決する。私に言わせれば、あれは芸術そのものかも",
             "sourceName": "vo_sucrose_teammate_albedo_01.wem"
+        },
+        "d83a5cafda8cd903": {
+            "hash": "d83a5cafda8cd903",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_06.wem"
+        },
+        "d96448c1850ed73d": {
+            "hash": "d96448c1850ed73d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_04.wem"
         },
         "d9f1156157fa9f8e": {
             "hash": "d9f1156157fa9f8e",
@@ -933,11 +1090,11 @@
             "voiceContent": "彼女の知識量はとても豊富だと思う。私の研究を見たことないのに、何回も的確なアドバイスをくれたから。彼女、どうして分かったのかな？観察？それとも推測で",
             "sourceName": "vo_sucrose_teammate_lisa_01.wem"
         },
-        "e048e8d76df8d81f": {
-            "hash": "e048e8d76df8d81f",
-            "directory": "External28",
-            "voiceContent": "ごめんなさい。やっぱりこの料理は、ちょっと",
-            "sourceName": "vo_sucrose_spice_event_dislike_01.wem"
+        "ddd0a17967b64c77": {
+            "hash": "ddd0a17967b64c77",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_12.wem"
         },
         "e2500e59652b8046": {
             "hash": "e2500e59652b8046",
@@ -955,7 +1112,7 @@
             "hash": "e355c4b39d8e2c54",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_04.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_04.wem"
         },
         "e3691bfa1edbc1ad": {
             "hash": "e3691bfa1edbc1ad",
@@ -997,7 +1154,19 @@
             "hash": "e47ef0c5480ee3b6",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_attacklight_02.wem"
+            "sourceName": "vo_sucrose_battle_attackLight_02.wem"
+        },
+        "e516be1d09d4d144": {
+            "hash": "e516be1d09d4d144",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_26_sucrose_12.wem"
+        },
+        "ea76e2e696d07e68": {
+            "hash": "ea76e2e696d07e68",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_1_sucrose_06.wem"
         },
         "ed814ad4bb12f680": {
             "hash": "ed814ad4bb12f680",
@@ -1027,7 +1196,7 @@
             "hash": "f27359416006a5a9",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_h_03.wem"
+            "sourceName": "vo_sucrose_battle_hit_H_03.wem"
         },
         "f588e2c83b89be44": {
             "hash": "f588e2c83b89be44",
@@ -1063,7 +1232,7 @@
             "hash": "ff7c6621d4c3061f",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_sucrose_battle_hit_l_05.wem"
+            "sourceName": "vo_sucrose_battle_hit_L_05.wem"
         }
     }
 }

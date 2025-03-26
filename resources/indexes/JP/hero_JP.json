@@ -7,6 +7,12 @@
             "voiceContent": "#（フォンタ社の内部情報によると、名前もパッケージも決まってない新商品の初回試飲が行われてる。テストする理由は、開発部門の人ですらこの新商品に対して疑問の声を上げた{M#からだ}{F#から}。",
             "sourceName": "vo_FDAQ106_7_hero_05.wem"
         },
+        "0577e51aac9b5eea": {
+            "hash": "0577e51aac9b5eea",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_05.wem"
+        },
         "0a2178c045242891": {
             "hash": "0a2178c045242891",
             "directory": "External1",
@@ -37,11 +43,23 @@
             "voiceContent": "#（これは…有効な反論にはならなさ{M#そうだ}{F#そう}。",
             "sourceName": "vo_FDAQ003_34_hero_05.wem"
         },
+        "2351634459ea89a1": {
+            "hash": "2351634459ea89a1",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_02.wem"
+        },
         "2d6f5ec51fa75abc": {
             "hash": "2d6f5ec51fa75abc",
             "directory": "External5",
             "voiceContent": "もしあの時すぐに対処してなかったら、どうなってたか…想像もつかない",
             "sourceName": "vo_FDAQ308_5_hero_04.wem"
+        },
+        "336a83219f8e9e6d": {
+            "hash": "336a83219f8e9e6d",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_06.wem"
         },
         "377cd8dc87a06501": {
             "hash": "377cd8dc87a06501",
@@ -91,6 +109,12 @@
             "voiceContent": "#あまり離れないほうがいいかも。ダインとパイモンがまだ帰ってきて{M#ない}{F#ないし}",
             "sourceName": "vo_SZAQ204_11_hero_01.wem"
         },
+        "78e9094b64bd9c20": {
+            "hash": "78e9094b64bd9c20",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_03.wem"
+        },
         "7b6af5c1861b0402": {
             "hash": "7b6af5c1861b0402",
             "directory": "External15",
@@ -115,11 +139,23 @@
             "voiceContent": "（あの通気口を二人で同時に通ろうとするのは無理がある。それに、途中でリネと顔を合わせてしまうかも。",
             "sourceName": "vo_FDAQ003_40_hero_06.wem"
         },
+        "86ff1712690da8f3": {
+            "hash": "86ff1712690da8f3",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_04.wem"
+        },
         "87aa6ccd4e3a9467": {
             "hash": "87aa6ccd4e3a9467",
             "directory": "External16",
             "voiceContent": "海に落ちるなんて簡単な話じゃない",
             "sourceName": "vo_FDAQ308_5_hero_03.wem"
+        },
+        "8e955c170568f3d0": {
+            "hash": "8e955c170568f3d0",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_hero_01.wem"
         },
         "97c38caa93dea853": {
             "hash": "97c38caa93dea853",
@@ -180,6 +216,18 @@
             "directory": "External24",
             "voiceContent": "#エデが暴走した{M#みたいだ}{F#みたい}。まずは何とかして戦いを終わらせないと",
             "sourceName": "vo_SZAQ204_6_hero_01.wem"
+        },
+        "c7ec692a80d552dc": {
+            "hash": "c7ec692a80d552dc",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_07.wem"
+        },
+        "c916553c2b5750fe": {
+            "hash": "c916553c2b5750fe",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_9_hero_01.wem"
         },
         "d4b2e7b80a5b30cb": {
             "hash": "d4b2e7b80a5b30cb",
@@ -337,7 +385,13 @@
             "hash": "0ea39d5f6cd37d96",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_02.wem"
+            "sourceName": "vo_hero_battle_attackLight_02.wem"
+        },
+        "0eeadacb2c570fbd": {
+            "hash": "0eeadacb2c570fbd",
+            "directory": "External1",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_hero_02.wem"
         },
         "0fbfacfe76345d71": {
             "hash": "0fbfacfe76345d71",
@@ -439,7 +493,7 @@
             "hash": "2870b0d25ff3092d",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackmid_03.wem"
+            "sourceName": "vo_hero_battle_attackMid_03.wem"
         },
         "2986902c9760e0db": {
             "hash": "2986902c9760e0db",
@@ -499,7 +553,7 @@
             "hash": "32632f42cddeacc5",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_03.wem"
+            "sourceName": "vo_hero_battle_hit_L_03.wem"
         },
         "32dba2dd0d42a7df": {
             "hash": "32dba2dd0d42a7df",
@@ -535,7 +589,7 @@
             "hash": "36bd03547b161b3f",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_05.wem"
+            "sourceName": "vo_hero_battle_hit_L_05.wem"
         },
         "3a0193663e9c4424": {
             "hash": "3a0193663e9c4424",
@@ -547,7 +601,7 @@
             "hash": "3a47c2f6df14c508",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_02.wem"
+            "sourceName": "vo_hero_battle_hit_H_02.wem"
         },
         "3a713ad3342f5fc0": {
             "hash": "3a713ad3342f5fc0",
@@ -560,6 +614,12 @@
             "directory": "External7",
             "voiceContent": "#パイモン：バーバラは人気あるよな。{NICKNAME}：彼女はモンドのアイドルだから。パイモン：そういえば、オイラちょっと分かんないんだけど…「アイドル」ってなんだ？{NICKNAME}：一種の職業で、可愛ければみんなに好かれて、モラをたくさん稼げる職業だ。パイモン：マスコットとあんま変わらないな。{NICKNAME}：まあ、そう言えるかも",
             "sourceName": "vo_fetter_idol_hero.wem"
+        },
+        "3f288d2f2829039c": {
+            "hash": "3f288d2f2829039c",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hero_teamJoin_03.wem"
         },
         "3f98f857dbad0a52": {
             "hash": "3f98f857dbad0a52",
@@ -601,13 +661,13 @@
             "hash": "4bc88f26387379e1",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackheavy_02.wem"
+            "sourceName": "vo_hero_battle_attackHeavy_02.wem"
         },
         "4c3110bde6a5393b": {
             "hash": "4c3110bde6a5393b",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_05.wem"
+            "sourceName": "vo_hero_battle_hit_H_05.wem"
         },
         "4e559f7b0efbed3f": {
             "hash": "4e559f7b0efbed3f",
@@ -745,7 +805,7 @@
             "hash": "6237f15036521bb4",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_04.wem"
+            "sourceName": "vo_hero_battle_attackLight_04.wem"
         },
         "632c4ec551ed4e45": {
             "hash": "632c4ec551ed4e45",
@@ -806,6 +866,12 @@
             "directory": "External13",
             "voiceContent": "ハァッ",
             "sourceName": "vo_hero_battle_skill1_rock_01.wem"
+        },
+        "6b91616d34a240af": {
+            "hash": "6b91616d34a240af",
+            "directory": "External13",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_hero_life_die_05.wem"
         },
         "6bbc3f635e705f0f": {
             "hash": "6bbc3f635e705f0f",
@@ -871,7 +937,7 @@
             "hash": "740e756c8fcd4338",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_06.wem"
+            "sourceName": "vo_hero_battle_hit_L_06.wem"
         },
         "7575fd3eba57025a": {
             "hash": "7575fd3eba57025a",
@@ -883,7 +949,7 @@
             "hash": "76a942d56058b844",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_06.wem"
+            "sourceName": "vo_hero_battle_hit_H_06.wem"
         },
         "7812ed06bda04f57": {
             "hash": "7812ed06bda04f57",
@@ -925,7 +991,13 @@
             "hash": "7c0444c3297060b3",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackmid_01.wem"
+            "sourceName": "vo_hero_battle_attackMid_01.wem"
+        },
+        "7cb3091f53ed5caa": {
+            "hash": "7cb3091f53ed5caa",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hero_teamJoin_01.wem"
         },
         "7ee5f72ef000373c": {
             "hash": "7ee5f72ef000373c",
@@ -937,7 +1009,7 @@
             "hash": "7ee7cb68391fc3f9",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_01.wem"
+            "sourceName": "vo_hero_battle_attackLight_01.wem"
         },
         "80cc4a7890238246": {
             "hash": "80cc4a7890238246",
@@ -973,7 +1045,7 @@
             "hash": "85f78333975d4aeb",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_01.wem"
+            "sourceName": "vo_hero_battle_hit_L_01.wem"
         },
         "860b0c304c24f1e1": {
             "hash": "860b0c304c24f1e1",
@@ -1015,7 +1087,7 @@
             "hash": "88eda15b83044456",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_04.wem"
+            "sourceName": "vo_hero_battle_hit_L_04.wem"
         },
         "89a061470f7977c0": {
             "hash": "89a061470f7977c0",
@@ -1189,7 +1261,7 @@
             "hash": "9df9352d4061b060",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackheavy_03.wem"
+            "sourceName": "vo_hero_battle_attackHeavy_03.wem"
         },
         "9e116f997a00894b": {
             "hash": "9e116f997a00894b",
@@ -1311,6 +1383,12 @@
             "voiceContent": "#パイモン：「ベニー冒険団」と一緒に秘境を探索するなら、準備しておいた方がいいぞ。パイモン：秘境は危険だ、出発する前に物資と道具は何度も確認しておけ、油断は禁物だ。パイモン：秘境の中には、冒険者協会が統計した死に方だけで463種類あるって聞いたぞ…パイモン：もしベネットのせいでおまえが死んだら、オイラもあいつも良心が痛むからな！{NICKNAME}：…なんで死ぬのは俺なの？パイモン：ほら、だってオイラは飛べるだろ、その中の322種類の死に方はオイラには効かないんだ！{NICKNAME}：秘境探検やめようかな",
             "sourceName": "vo_fetter_bennysAdventureTeam_hero.wem"
         },
+        "ae0ca72649c5782d": {
+            "hash": "ae0ca72649c5782d",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_hero_teamJoin_02.wem"
+        },
         "af8860e923a6310d": {
             "hash": "af8860e923a6310d",
             "directory": "External21",
@@ -1363,7 +1441,7 @@
             "hash": "b98c96db3e56949c",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackmid_02.wem"
+            "sourceName": "vo_hero_battle_attackMid_02.wem"
         },
         "ba7b335e6c0394bf": {
             "hash": "ba7b335e6c0394bf",
@@ -1389,11 +1467,17 @@
             "voiceContent": "#パイモン：ここだけの話、聖火競技場でずっと気になってたところがあるんだ。パイモン：あそこの試合ってポイント制だろ？チーム戦が終わったら、決まった順番で一対一の勝負をして、最後はポイントによってランキングが決まる…パイモン：なんでこんなルールになったんだろうな？{NICKNAME}：ワクワク感を最後までとっておきたいからじゃないかな。観客はみんな、逆転劇が好きなものなのかも。パイモン：確かにな。でも、互角の実力を持つ二人だけが大会に参加したときに、勝負がつかなくなっちゃう状況を避けるためってこともあるかもしれないぞ…{NICKNAME}：うーん…そうなると一時休戦するしかなさそうだね…パイモン：だろ！ライノ竜とユムカ竜が一対一で勝負してる光景を想像してみろよ！ライノ竜は猛攻を仕掛けるのが得意だけど、ユムカ竜は回避が得意だから、丸一日経っても試合が終わらないんだ…パイモン：観客もお腹が空いちゃうから、いったん試合は一時停止になる。パイモン：でも、再開した後も勝負がつかなくて、それどころか、ルール違反をしたユムカ竜の不意打ちを食らったライノ竜が怪我をして、またまた試合が中止されちゃうんだ。パイモン：結局、『ライノ竜VSユムカ竜』、『続·ライノ竜VSユムカ竜』、『ライノ竜VSユムカ竜：ドラゴンリターンズ』、『ライノ竜VSユムカ竜：アクロス·ザ·ボルケーノ』…みたいに連続で試合をすることになって——パイモン：あれ？シリーズ映影にできそうだな！大儲けできるんじゃないか！？{NICKNAME}：確かに悪くないアイデアだね。でも…自分たちの仲間の竜が悪役になるのを、懸木の民たちは黙って見ていられないんじゃない？パイモン：うまいたとえが見つからなかっただけだぞ",
             "sourceName": "vo_fetter_nt_arena_hero.wem"
         },
+        "bbf5cd5dfb6b6db5": {
+            "hash": "bbf5cd5dfb6b6db5",
+            "directory": "External23",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_hero_life_die_03.wem"
+        },
         "bc72ff5864e5557f": {
             "hash": "bc72ff5864e5557f",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attacklight_03.wem"
+            "sourceName": "vo_hero_battle_attackLight_03.wem"
         },
         "befb3e18582157a7": {
             "hash": "befb3e18582157a7",
@@ -1435,7 +1519,7 @@
             "hash": "c6d79ec626f43af2",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_04.wem"
+            "sourceName": "vo_hero_battle_hit_H_04.wem"
         },
         "cb0c28f070ef910f": {
             "hash": "cb0c28f070ef910f",
@@ -1561,7 +1645,7 @@
             "hash": "d91af54c499e0674",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_l_02.wem"
+            "sourceName": "vo_hero_battle_hit_L_02.wem"
         },
         "d93e6cb678f734a3": {
             "hash": "d93e6cb678f734a3",
@@ -1617,6 +1701,12 @@
             "voiceContent": "#パイモン：気づいたか？スメール人って、あんまりクラクサナリデビのことを信仰してないみたいだぞ。パイモン：これまで璃月でも稲妻でも、みんな岩王帝君や将軍様を信じてたのに。パイモン：あの変な学者たちはともかく、下に住んでる人たちですら、毎日「マハールッカデヴァータ様」のことしか口にしないし…{NICKNAME}：うん、美味しいキノコが生えるのも、マハールッカデヴァータの恩恵だって言ってた。パイモン：そういえば、オイラたちが璃月にいた時も美味しいものがいっぱいあったけど、あれって岩王帝君に認められて教えを受けたものだったみたいだぞ！パイモン：そっか、オイラ、わかった！美味しいものをくれるってだけで、みんなその神のことを好きになるんじゃないか。{NICKNAME}：それはパイモンだけだと思うけど。パイモン：えっ？じゃあ、{NICKNAME}はなにを信じてるんだよ？{NICKNAME}：俺はもちろん、パイモンのことを信じてるよ。パイモン：えへへ、それは言われなくてもわかってるぜ",
             "sourceName": "vo_fetter_xm_faith_hero.wem"
         },
+        "e66dff75751eecc6": {
+            "hash": "e66dff75751eecc6",
+            "directory": "External28",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_hero_life_die_04.wem"
+        },
         "e691aff4f1741886": {
             "hash": "e691aff4f1741886",
             "directory": "External28",
@@ -1633,7 +1723,7 @@
             "hash": "e8175cefd726fbc9",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_03.wem"
+            "sourceName": "vo_hero_battle_hit_H_03.wem"
         },
         "e91f7d963761a534": {
             "hash": "e91f7d963761a534",
@@ -1687,7 +1777,7 @@
             "hash": "f18d811e09e0403e",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_attackheavy_01.wem"
+            "sourceName": "vo_hero_battle_attackHeavy_01.wem"
         },
         "f241583cb4e43e57": {
             "hash": "f241583cb4e43e57",
@@ -1741,7 +1831,7 @@
             "hash": "f99090dec77ae14f",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_hero_battle_hit_h_01.wem"
+            "sourceName": "vo_hero_battle_hit_H_01.wem"
         },
         "fa6dd065e433b5b4": {
             "hash": "fa6dd065e433b5b4",
@@ -1772,30 +1862,6 @@
             "directory": "External31",
             "voiceContent": "#パイモン：宵宮の父ちゃんの耳が遠いのって、花火と関係あるのかな？パイモン：長年花火を作ったり打ち上げたりして、毎日火薬が爆発する音を聞いてきたから耳が遠くなったんじゃ…パイモン：あっ！じゃあ宵宮が家業を継いだら、最後はあいつの父ちゃんみたいに耳が遠くなるんじゃ…？パイモン：だめだ、なにか対策を考えないと！{NICKNAME}：パイモンは何かいい案ある？パイモン：うーん…えっと…パイモン：オイラが宵宮の後ろを飛びながら、あいつの耳を塞いでおく…{NICKNAME}：じゃあ、これからパイモンは俺について来れなくなるね。パイモン：…オイラがいなくなったら、誰がおまえのガイドをするんだよ。やっぱりこれはだめだ！パイモン：でも宵宮は…どうすれば…{NICKNAME}：花火を作る時に耳栓すればいいと思う。パイモン：おお、その手があった！おまえ頭いいな！{NICKNAME}：ははっ…パイモンが困ってるのを見て、ちょっと楽しかったかも。パイモン：えっ？まさかとっくに方法を思いついてて、わざとオイラに教えなかったのか！パイモン：いじわるなやつだな",
             "sourceName": "vo_fetter_yoimiya_hero.wem"
-        },
-        "0eeadacb2c570fbd": {
-            "hash": "0eeadacb2c570fbd",
-            "directory": "External1",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_hero_02.wem"
-        },
-        "6b91616d34a240af": {
-            "hash": "6b91616d34a240af",
-            "directory": "External13",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_hero_life_die_05.wem"
-        },
-        "bbf5cd5dfb6b6db5": {
-            "hash": "bbf5cd5dfb6b6db5",
-            "directory": "External23",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_hero_life_die_03.wem"
-        },
-        "e66dff75751eecc6": {
-            "hash": "e66dff75751eecc6",
-            "directory": "External28",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_hero_life_die_04.wem"
         }
     }
 }

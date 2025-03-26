@@ -271,7 +271,7 @@
             "hash": "016271f1a044b546",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_01.wem"
+            "sourceName": "vo_razor_battle_hit_L_01.wem"
         },
         "017bd45940896cf3": {
             "hash": "017bd45940896cf3",
@@ -289,13 +289,37 @@
             "hash": "060de81e1ed27128",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackheavy_02.wem"
+            "sourceName": "vo_razor_battle_attackHeavy_02.wem"
         },
         "062d877b460afe98": {
             "hash": "062d877b460afe98",
             "directory": "External0",
             "voiceContent": "SFX",
             "sourceName": "vo_razor_explore_jump_04.wem"
+        },
+        "0a39de085275ed07": {
+            "hash": "0a39de085275ed07",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_10.wem"
+        },
+        "0b62ca19fcf63821": {
+            "hash": "0b62ca19fcf63821",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_12.wem"
+        },
+        "0cac2a350400c8d1": {
+            "hash": "0cac2a350400c8d1",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_01.wem"
+        },
+        "0d2423a076219933": {
+            "hash": "0d2423a076219933",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_11.wem"
         },
         "0ef1b13a79d9c780": {
             "hash": "0ef1b13a79d9c780",
@@ -307,7 +331,19 @@
             "hash": "134b9d2a584f0ed8",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_01.wem"
+            "sourceName": "vo_razor_battle_attackLight_01.wem"
+        },
+        "1528037c2292d155": {
+            "hash": "1528037c2292d155",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_04.wem"
+        },
+        "161b178dcce5d0cf": {
+            "hash": "161b178dcce5d0cf",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_02.wem"
         },
         "16be30b9a04ccb3b": {
             "hash": "16be30b9a04ccb3b",
@@ -327,12 +363,6 @@
             "voiceContent": "달리고, 사냥. 부족해, 안 돼! 난 더 강해져야",
             "sourceName": "vo_razor_starUp_03.wem"
         },
-        "1a5dea17810d250e": {
-            "hash": "1a5dea17810d250e",
-            "directory": "External3",
-            "voiceContent": "먹으니까 기운 나. 행복",
-            "sourceName": "vo_razor_spice_event_normal_01.wem"
-        },
         "1b80c64bc1da9cab": {
             "hash": "1b80c64bc1da9cab",
             "directory": "External3",
@@ -343,7 +373,7 @@
             "hash": "1bfb8603eb62f668",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_03.wem"
+            "sourceName": "vo_razor_battle_hit_L_03.wem"
         },
         "1d76c04c19826d11": {
             "hash": "1d76c04c19826d11",
@@ -357,17 +387,11 @@
             "voiceContent": "SFX",
             "sourceName": "vo_razor_explore_fly_start_02.wem"
         },
-        "215056f56038de94": {
-            "hash": "215056f56038de94",
-            "directory": "External4",
-            "voiceContent": "향도 좋고, 맛도 좋아. 마음에 들",
-            "sourceName": "vo_razor_spice_event_pref_01.wem"
-        },
         "239a9d079e207b94": {
             "hash": "239a9d079e207b94",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_05.wem"
+            "sourceName": "vo_razor_battle_attackLight_05.wem"
         },
         "25cf27ec7b44429c": {
             "hash": "25cf27ec7b44429c",
@@ -385,7 +409,7 @@
             "hash": "282ac9194b860ff6",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_03.wem"
+            "sourceName": "vo_razor_battle_attackLight_03.wem"
         },
         "2854c5cddfe75c94": {
             "hash": "2854c5cddfe75c94",
@@ -435,6 +459,12 @@
             "voiceContent": "넌 강해. 늑대처럼! 너랑 사냥하면 수확이 많아서 좋",
             "sourceName": "vo_razor_friendship_02.wem"
         },
+        "422fdffc2000c2e8": {
+            "hash": "422fdffc2000c2e8",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_08.wem"
+        },
         "42692671585116dc": {
             "hash": "42692671585116dc",
             "directory": "External8",
@@ -447,11 +477,29 @@
             "voiceContent": "이게 내 무기",
             "sourceName": "vo_card_razor_inGame_hard_04.wem"
         },
+        "48d68a13851542dd": {
+            "hash": "48d68a13851542dd",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_05.wem"
+        },
         "4a3030864fb77a19": {
             "hash": "4a3030864fb77a19",
             "directory": "External9",
             "voiceContent": "다이루크는 빨갛고 까맣고… 그리고 차갑고 뜨거",
             "sourceName": "vo_razor_teammate_diluc_01.wem"
+        },
+        "4aac75b88b07cd1c": {
+            "hash": "4aac75b88b07cd1c",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_12.wem"
+        },
+        "4f3c61ca386cf43e": {
+            "hash": "4f3c61ca386cf43e",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_14.wem"
         },
         "5203d1dfef57ff7b": {
             "hash": "5203d1dfef57ff7b",
@@ -463,7 +511,13 @@
             "hash": "53cce1d0bf4162d2",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_05.wem"
+            "sourceName": "vo_razor_battle_hit_L_05.wem"
+        },
+        "56d249a5e47fb488": {
+            "hash": "56d249a5e47fb488",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_01.wem"
         },
         "584438e1956457b9": {
             "hash": "584438e1956457b9",
@@ -493,7 +547,13 @@
             "hash": "5f200214a2e55269",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackheavy_03.wem"
+            "sourceName": "vo_razor_battle_attackHeavy_03.wem"
+        },
+        "603fbe25cd7e2037": {
+            "hash": "603fbe25cd7e2037",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_03.wem"
         },
         "624c63019c207928": {
             "hash": "624c63019c207928",
@@ -525,6 +585,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_razor_explore_idle_03.wem"
         },
+        "68bb976cec1028bb": {
+            "hash": "68bb976cec1028bb",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_06.wem"
+        },
         "68ebc7d1da1b0758": {
             "hash": "68ebc7d1da1b0758",
             "directory": "External13",
@@ -535,7 +601,7 @@
             "hash": "70993603933937ef",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackheavy_01.wem"
+            "sourceName": "vo_razor_battle_attackHeavy_01.wem"
         },
         "70e15452cc7e4462": {
             "hash": "70e15452cc7e4462",
@@ -547,7 +613,7 @@
             "hash": "71a69ffa6c90faa9",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_02.wem"
+            "sourceName": "vo_razor_battle_hit_L_02.wem"
         },
         "720b386477003434": {
             "hash": "720b386477003434",
@@ -559,7 +625,7 @@
             "hash": "7350db8db0bbbdb8",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackmid_03.wem"
+            "sourceName": "vo_razor_battle_attackMid_03.wem"
         },
         "74a613770c572f46": {
             "hash": "74a613770c572f46",
@@ -571,13 +637,19 @@
             "hash": "772e38f8679de142",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_07.wem"
+            "sourceName": "vo_razor_battle_attackLight_07.wem"
         },
         "7871cf9bbd61c7bc": {
             "hash": "7871cf9bbd61c7bc",
             "directory": "External15",
             "voiceContent": "살아남아",
             "sourceName": "vo_razor_life_less30_teammate_02.wem"
+        },
+        "797313e13f63ecf1": {
+            "hash": "797313e13f63ecf1",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_08.wem"
         },
         "7a2f84f9b3e5a995": {
             "hash": "7a2f84f9b3e5a995",
@@ -595,7 +667,7 @@
             "hash": "7ca25f836345ee1c",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_h_03.wem"
+            "sourceName": "vo_razor_battle_hit_H_03.wem"
         },
         "7dcaf3c0cd520876": {
             "hash": "7dcaf3c0cd520876",
@@ -607,13 +679,13 @@
             "hash": "7dd5ab0fccb3b55f",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_02.wem"
+            "sourceName": "vo_razor_battle_attackLight_02.wem"
         },
         "81324b9510ab153e": {
             "hash": "81324b9510ab153e",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_h_05.wem"
+            "sourceName": "vo_razor_battle_hit_H_05.wem"
         },
         "837de8bfe5ee0794": {
             "hash": "837de8bfe5ee0794",
@@ -637,7 +709,13 @@
             "hash": "8830077ca3f2bed6",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackmid_01.wem"
+            "sourceName": "vo_razor_battle_attackMid_01.wem"
+        },
+        "8836f1a8b6cc262a": {
+            "hash": "8836f1a8b6cc262a",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_10.wem"
         },
         "88d7008d805661cf": {
             "hash": "88d7008d805661cf",
@@ -657,11 +735,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_razor_explore_sprint_start_03.wem"
         },
+        "9333c98465c3a7c4": {
+            "hash": "9333c98465c3a7c4",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_05.wem"
+        },
         "93ac387cc1d2bfba": {
             "hash": "93ac387cc1d2bfba",
             "directory": "External18",
             "voiceContent": "아… 바르카는 이름이야. 그 남자는 숭고하고 위대해. 레이저라는 이름, 강철 발톱, 그가 줬어. 음… 그 사람이 보고 싶",
             "sourceName": "vo_razor_teammate_varka_02.wem"
+        },
+        "945db5961045a5e6": {
+            "hash": "945db5961045a5e6",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_03.wem"
         },
         "951b7be96817312e": {
             "hash": "951b7be96817312e",
@@ -680,6 +770,12 @@
             "directory": "External18",
             "voiceContent": "루피카는 「늑대의 집」이… 아냐! 「늑대의 가족」. 내 루피카는 숲속에 있어. 그들은 날 지켜주면서 나한테 루피카라고 했",
             "sourceName": "vo_razor_friendship_03.wem"
+        },
+        "97daf9f2a12ec729": {
+            "hash": "97daf9f2a12ec729",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_09.wem"
         },
         "9a6cd0de282fe999": {
             "hash": "9a6cd0de282fe999",
@@ -711,6 +807,12 @@
             "voiceContent": "오늘은 네가… 그러니까 아주아주 오래전 오늘 태어났잖아. 너랑 같이 놀고 싶어. 오늘 같이 고기 먹",
             "sourceName": "vo_razor_pref_birthday.wem"
         },
+        "9c6b1e044e944d23": {
+            "hash": "9c6b1e044e944d23",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_07.wem"
+        },
         "a08b135ac813f745": {
             "hash": "a08b135ac813f745",
             "directory": "External20",
@@ -728,6 +830,12 @@
             "directory": "External20",
             "voiceContent": "바람… 음… 좋",
             "sourceName": "vo_razor_weather_breezy_01.wem"
+        },
+        "a4e783c0b99b06c7": {
+            "hash": "a4e783c0b99b06c7",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_15.wem"
         },
         "a66a84a7224dc616": {
             "hash": "a66a84a7224dc616",
@@ -765,6 +873,12 @@
             "voiceContent": "남은 걸로도 충분해",
             "sourceName": "vo_card_razor_inGame_hard_03.wem"
         },
+        "b127bc11ce62ff7e": {
+            "hash": "b127bc11ce62ff7e",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_11.wem"
+        },
         "b2d0ab884b208de6": {
             "hash": "b2d0ab884b208de6",
             "directory": "External22",
@@ -783,11 +897,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_razor_explore_idle_01.wem"
         },
+        "b9908fafaca441ad": {
+            "hash": "b9908fafaca441ad",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_13.wem"
+        },
         "ba2cdb738f0a472a": {
             "hash": "ba2cdb738f0a472a",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_h_01.wem"
+            "sourceName": "vo_razor_battle_hit_H_01.wem"
         },
         "ba2e00ca4d9874b2": {
             "hash": "ba2e00ca4d9874b2",
@@ -865,19 +985,25 @@
             "hash": "d0762aeeebde0d0b",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_06.wem"
+            "sourceName": "vo_razor_battle_attackLight_06.wem"
         },
         "d1a0570096607865": {
             "hash": "d1a0570096607865",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attacklight_04.wem"
+            "sourceName": "vo_razor_battle_attackLight_04.wem"
         },
         "d27504aafc3d554b": {
             "hash": "d27504aafc3d554b",
             "directory": "External26",
             "voiceContent": "이빨, 발톱, 다리. 더 강하고 힘이 있어야 널 지켜",
             "sourceName": "vo_razor_starUp_04.wem"
+        },
+        "d28418452f3cec54": {
+            "hash": "d28418452f3cec54",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "sfx_standbyShow_vo_razor_02.wem"
         },
         "d320dee9d5e11138": {
             "hash": "d320dee9d5e11138",
@@ -901,7 +1027,7 @@
             "hash": "d5c053c87c0f381b",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_04.wem"
+            "sourceName": "vo_razor_battle_hit_L_04.wem"
         },
         "d65a7fc6d8275965": {
             "hash": "d65a7fc6d8275965",
@@ -919,13 +1045,13 @@
             "hash": "d6dd6d8b91d927c7",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_h_04.wem"
+            "sourceName": "vo_razor_battle_hit_H_04.wem"
         },
         "d6ea3fda26913635": {
             "hash": "d6ea3fda26913635",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_l_06.wem"
+            "sourceName": "vo_razor_battle_hit_L_06.wem"
         },
         "d71184b0af6b6d42": {
             "hash": "d71184b0af6b6d42",
@@ -933,11 +1059,17 @@
             "voiceContent": "엄청 줄어들었네",
             "sourceName": "vo_card_razor_inGame_easy_03.wem"
         },
+        "d9f2701c6378ce0c": {
+            "hash": "d9f2701c6378ce0c",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_04.wem"
+        },
         "db6d599d3f3e4ee1": {
             "hash": "db6d599d3f3e4ee1",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_hit_h_06.wem"
+            "sourceName": "vo_razor_battle_hit_H_06.wem"
         },
         "dd10ceb73a637349": {
             "hash": "dd10ceb73a637349",
@@ -951,11 +1083,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_razor_explore_fly_start_01.wem"
         },
+        "de825c2e10ddf52e": {
+            "hash": "de825c2e10ddf52e",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_02.wem"
+        },
         "e2c5fd8131991553": {
             "hash": "e2c5fd8131991553",
             "directory": "External28",
             "voiceContent": "안",
             "sourceName": "vo_razor_life_less30_teammate_01.wem"
+        },
+        "e36225752c5f2a72": {
+            "hash": "e36225752c5f2a72",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_07.wem"
         },
         "e40db3c8f02a212c": {
             "hash": "e40db3c8f02a212c",
@@ -999,6 +1143,12 @@
             "voiceContent": "바르카? 몰라",
             "sourceName": "vo_razor_teammate_varka_01.wem"
         },
+        "eed26c0b56b130da": {
+            "hash": "eed26c0b56b130da",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_28_razor_06.wem"
+        },
         "f4ec42da5cbcb859": {
             "hash": "f4ec42da5cbcb859",
             "directory": "External30",
@@ -1011,17 +1161,17 @@
             "voiceContent": "넌 얼른 자. 난 달을 볼 거",
             "sourceName": "vo_razor_dialog_greetingNight.wem"
         },
+        "f7b5b9e982c3cf70": {
+            "hash": "f7b5b9e982c3cf70",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_34_razor_09.wem"
+        },
         "f8743585703f0439": {
             "hash": "f8743585703f0439",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_razor_battle_attackmid_02.wem"
-        },
-        "f99d29c0f81ef93a": {
-            "hash": "f99d29c0f81ef93a",
-            "directory": "External31",
-            "voiceContent": "먹는 것도 싫고, 안 먹는 것도 싫어. 좀 슬퍼졌",
-            "sourceName": "vo_razor_spice_event_dislike_01.wem"
+            "sourceName": "vo_razor_battle_attackMid_02.wem"
         },
         "fa033b4cec67583d": {
             "hash": "fa033b4cec67583d",

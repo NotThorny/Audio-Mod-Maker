@@ -272,11 +272,293 @@
         }
     },
     "Quests": {
+        "00687f013d22b661": {
+            "hash": "00687f013d22b661",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_07.wem"
+        },
+        "02bcd8aa9e570b80": {
+            "hash": "02bcd8aa9e570b80",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_12_sayu_02.wem"
+        },
+        "079633f7a195d655": {
+            "hash": "079633f7a195d655",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_03.wem"
+        },
+        "08db72b0102d408d": {
+            "hash": "08db72b0102d408d",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_2_sayu_02.wem"
+        },
+        "0de8b6ffc61fbeaa": {
+            "hash": "0de8b6ffc61fbeaa",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04b_1.wem"
+        },
+        "10819ede82c6ca2d": {
+            "hash": "10819ede82c6ca2d",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_03.wem"
+        },
+        "2303de5783aeb124": {
+            "hash": "2303de5783aeb124",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_9_sayu_01a_1.wem"
+        },
+        "2a994917c8ee9f47": {
+            "hash": "2a994917c8ee9f47",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04b_4.wem"
+        },
+        "2f2935297653c661": {
+            "hash": "2f2935297653c661",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04b_6.wem"
+        },
+        "331a4043e975124a": {
+            "hash": "331a4043e975124a",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_12_sayu_09a_1.wem"
+        },
+        "33bb779b89944486": {
+            "hash": "33bb779b89944486",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_sayu_01.wem"
+        },
+        "3a8e3477723578ca": {
+            "hash": "3a8e3477723578ca",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_12_sayu_04.wem"
+        },
+        "3f425506bbf7da2d": {
+            "hash": "3f425506bbf7da2d",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04b_2.wem"
+        },
+        "41ab9093f18f70e2": {
+            "hash": "41ab9093f18f70e2",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_08.wem"
+        },
+        "49d40fd1bda557f1": {
+            "hash": "49d40fd1bda557f1",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04a_1.wem"
+        },
+        "51c13889ba70753c": {
+            "hash": "51c13889ba70753c",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_12_sayu_06.wem"
+        },
+        "529925084510ece0": {
+            "hash": "529925084510ece0",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_06.wem"
+        },
+        "5659bd3ad220c1d6": {
+            "hash": "5659bd3ad220c1d6",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_sayu_01.wem"
+        },
+        "5682c214b53a1c1b": {
+            "hash": "5682c214b53a1c1b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04c_1.wem"
+        },
+        "5b29c7e86b132dbb": {
+            "hash": "5b29c7e86b132dbb",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_01.wem"
+        },
+        "5b92f2cdb2b473c9": {
+            "hash": "5b92f2cdb2b473c9",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_10.wem"
+        },
+        "5bceb2a122697f81": {
+            "hash": "5bceb2a122697f81",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_12_sayu_03.wem"
+        },
+        "641532cf4c4421b3": {
+            "hash": "641532cf4c4421b3",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_01.wem"
+        },
+        "69c40f287222bb65": {
+            "hash": "69c40f287222bb65",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_10_sayu_01.wem"
+        },
+        "6c1912aaf8b559d5": {
+            "hash": "6c1912aaf8b559d5",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_14.wem"
+        },
+        "6d0c26bca308594f": {
+            "hash": "6d0c26bca308594f",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_12.wem"
+        },
+        "8159db307e41fce0": {
+            "hash": "8159db307e41fce0",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04b_7.wem"
+        },
+        "82c554a6a657828a": {
+            "hash": "82c554a6a657828a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_2_sayu_01.wem"
+        },
+        "85a1f9ffe4c6acc4": {
+            "hash": "85a1f9ffe4c6acc4",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_02.wem"
+        },
+        "9305935614ed5aeb": {
+            "hash": "9305935614ed5aeb",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_sayu_02.wem"
+        },
+        "9f64d4572bd8e236": {
+            "hash": "9f64d4572bd8e236",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_12_sayu_08.wem"
+        },
         "a12f888ba133e8b3": {
             "hash": "a12f888ba133e8b3",
             "directory": "External20",
             "voiceContent": "Oh uh, they see us",
             "sourceName": "vo_ZYCOP001_1901406_sayu_01.wem"
+        },
+        "a19d84e7612a559c": {
+            "hash": "a19d84e7612a559c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_02.wem"
+        },
+        "a62d70f90e8f7cbe": {
+            "hash": "a62d70f90e8f7cbe",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_04.wem"
+        },
+        "abfc4691e903aee7": {
+            "hash": "abfc4691e903aee7",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_12_sayu_01.wem"
+        },
+        "adc358d4baa23d08": {
+            "hash": "adc358d4baa23d08",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_11.wem"
+        },
+        "bc15666f2ea7c2d3": {
+            "hash": "bc15666f2ea7c2d3",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_12_sayu_05.wem"
+        },
+        "c0a55280dc0ce9cd": {
+            "hash": "c0a55280dc0ce9cd",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_12_sayu_07.wem"
+        },
+        "c69deb439e6d0739": {
+            "hash": "c69deb439e6d0739",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_sayu_02.wem"
+        },
+        "c6ecc1c856832ece": {
+            "hash": "c6ecc1c856832ece",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04a_2.wem"
+        },
+        "cf096f08ec0c3190": {
+            "hash": "cf096f08ec0c3190",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_sayu_01.wem"
+        },
+        "d05e3b0f9a5b659c": {
+            "hash": "d05e3b0f9a5b659c",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04b_3.wem"
+        },
+        "d4ee272147c08cbe": {
+            "hash": "d4ee272147c08cbe",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04b_5.wem"
+        },
+        "d5b8742ea2ecf0a4": {
+            "hash": "d5b8742ea2ecf0a4",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ002_2_sayu_04c_2.wem"
+        },
+        "e629056ec72e1674": {
+            "hash": "e629056ec72e1674",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ001_sayu_01.wem"
+        },
+        "eb4ec4c4e6682e66": {
+            "hash": "eb4ec4c4e6682e66",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_13.wem"
+        },
+        "ec4b028ce6ebc92b": {
+            "hash": "ec4b028ce6ebc92b",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_09.wem"
+        },
+        "fbd892ef8fbd8f47": {
+            "hash": "fbd892ef8fbd8f47",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_5_sayu_05.wem"
         }
     },
     "Gameplay": {
@@ -291,12 +573,6 @@
             "directory": "External0",
             "voiceContent": "...Morning? Already? Okay, I'm just gonna snooze for, like, 10 more minutes... Please, just 10 minutes... No? Okay, 5 minutes then? *snores",
             "sourceName": "vo_sayu_dialog_greetingMorning.wem"
-        },
-        "0e211ea37ab3a241": {
-            "hash": "0e211ea37ab3a241",
-            "directory": "External1",
-            "voiceContent": "Uh oh... Need an escape plan",
-            "sourceName": "vo_sayu_spice_event_dislike_01.wem"
         },
         "0f2b35286e71967e": {
             "hash": "0f2b35286e71967e",
@@ -314,13 +590,13 @@
             "hash": "10af50af4926489e",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_hit_h_06.wem"
+            "sourceName": "vo_sayu_battle_hit_H_06.wem"
         },
         "11d884c0f3a70e40": {
             "hash": "11d884c0f3a70e40",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_hit_h_04.wem"
+            "sourceName": "vo_sayu_battle_hit_H_04.wem"
         },
         "134f5bb7be1407c7": {
             "hash": "134f5bb7be1407c7",
@@ -344,7 +620,7 @@
             "hash": "1c46c78e3e4fd41c",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attacklight_06.wem"
+            "sourceName": "vo_sayu_battle_attackLight_06.wem"
         },
         "1ef55f9be5006123": {
             "hash": "1ef55f9be5006123",
@@ -357,6 +633,12 @@
             "directory": "External4",
             "voiceContent": "I think I'm finally ready to go it alone now, just like Sensei said I should. And... maybe it's not such a big deal now if I can't grow any taller. Because what really matters... is that I have you to keep me company",
             "sourceName": "vo_sayu_starUp_04.wem"
+        },
+        "267ddb63779a4fde": {
+            "hash": "267ddb63779a4fde",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sayu_leave_01.wem"
         },
         "27899c927e63ef8e": {
             "hash": "27899c927e63ef8e",
@@ -394,6 +676,18 @@
             "voiceContent": "Uh oh... Need an escape plan",
             "sourceName": "vo_sayu_spice_dislike_01.wem"
         },
+        "2c138c16c88a379f": {
+            "hash": "2c138c16c88a379f",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sayu_invite_easy_03.wem"
+        },
+        "2ec38c2ad73a4342": {
+            "hash": "2ec38c2ad73a4342",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sayu_endOfGame_fail_01.wem"
+        },
         "32371bec5f98a04e": {
             "hash": "32371bec5f98a04e",
             "directory": "External6",
@@ -416,7 +710,7 @@
             "hash": "380766ed6bbbebb2",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_hit_l_06.wem"
+            "sourceName": "vo_sayu_battle_hit_L_06.wem"
         },
         "3869c110ca2811f2": {
             "hash": "3869c110ca2811f2",
@@ -428,7 +722,7 @@
             "hash": "3a3f37bb0606c5db",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attackheavy_02.wem"
+            "sourceName": "vo_sayu_battle_attackHeavy_02.wem"
         },
         "3c0d9cb3449c5128": {
             "hash": "3c0d9cb3449c5128",
@@ -447,6 +741,12 @@
             "directory": "External8",
             "voiceContent": "Gotta dash~",
             "sourceName": "vo_sayu_battle_skill1_02.wem"
+        },
+        "4345d82910c3fb99": {
+            "hash": "4345d82910c3fb99",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sayu_invite_easy_01.wem"
         },
         "4462a5700c3538d8": {
             "hash": "4462a5700c3538d8",
@@ -488,13 +788,13 @@
             "hash": "4f81345b392a86cb",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attackmid_03.wem"
+            "sourceName": "vo_sayu_battle_attackMid_03.wem"
         },
         "50aa606ce3ab3e25": {
             "hash": "50aa606ce3ab3e25",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attackmid_01.wem"
+            "sourceName": "vo_sayu_battle_attackMid_01.wem"
         },
         "50db3ffb6caff6c8": {
             "hash": "50db3ffb6caff6c8",
@@ -524,7 +824,7 @@
             "hash": "59d1437e6a142d2a",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attacklight_04.wem"
+            "sourceName": "vo_sayu_battle_attackLight_04.wem"
         },
         "6154476e7bfbf006": {
             "hash": "6154476e7bfbf006",
@@ -554,7 +854,7 @@
             "hash": "69cd44f461ef9295",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_hit_l_05.wem"
+            "sourceName": "vo_sayu_battle_hit_L_05.wem"
         },
         "6a2f9f17c05bb8d5": {
             "hash": "6a2f9f17c05bb8d5",
@@ -566,13 +866,19 @@
             "hash": "6ac059060c42920f",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_hit_l_03.wem"
+            "sourceName": "vo_sayu_battle_hit_L_03.wem"
         },
         "6aea5eb777b98241": {
             "hash": "6aea5eb777b98241",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_hit_h_05.wem"
+            "sourceName": "vo_sayu_battle_hit_H_05.wem"
+        },
+        "6d2a8976941add32": {
+            "hash": "6d2a8976941add32",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_sayu_01.wem"
         },
         "6d72e6163bcfc7e9": {
             "hash": "6d72e6163bcfc7e9",
@@ -580,11 +886,11 @@
             "voiceContent": "High-carb foods that give you instant energy, like rice balls. If you eat one the moment you wake up, it stops you feeling so groggy and bleary-eyed. Then, you can just relax and get straight back to sleep",
             "sourceName": "vo_sayu_pref_foodLike.wem"
         },
-        "6f14b9f16b61f3db": {
-            "hash": "6f14b9f16b61f3db",
+        "6ea71ad629f505f5": {
+            "hash": "6ea71ad629f505f5",
             "directory": "External13",
-            "voiceContent": "If you eat enough of this... it makes you really sleepy",
-            "sourceName": "vo_sayu_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sayu_invite_hard_02.wem"
         },
         "73501f4a58065600": {
             "hash": "73501f4a58065600",
@@ -608,7 +914,7 @@
             "hash": "7681d5966ce30dc7",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attacklight_01.wem"
+            "sourceName": "vo_sayu_battle_attackLight_01.wem"
         },
         "7b0619928aa1e18b": {
             "hash": "7b0619928aa1e18b",
@@ -620,7 +926,7 @@
             "hash": "7b11c1a81a4834e1",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attacklight_03.wem"
+            "sourceName": "vo_sayu_battle_attackLight_03.wem"
         },
         "7b6733f8da243d56": {
             "hash": "7b6733f8da243d56",
@@ -668,7 +974,7 @@
             "hash": "8b2ae1855fec48ad",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attacklight_07.wem"
+            "sourceName": "vo_sayu_battle_attackLight_07.wem"
         },
         "8e65abeb98743426": {
             "hash": "8e65abeb98743426",
@@ -729,6 +1035,12 @@
             "directory": "External19",
             "voiceContent": "Drat, you caught me",
             "sourceName": "vo_sayu_teamJoin_03.wem"
+        },
+        "9ef0677d8a4e8415": {
+            "hash": "9ef0677d8a4e8415",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_sayu_02.wem"
         },
         "a19c641e7ba325e8": {
             "hash": "a19c641e7ba325e8",
@@ -800,13 +1112,13 @@
             "hash": "b84ac5c349373c92",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attackheavy_03.wem"
+            "sourceName": "vo_sayu_battle_attackHeavy_03.wem"
         },
         "bcdae9d4f69cc364": {
             "hash": "bcdae9d4f69cc364",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attackheavy_01.wem"
+            "sourceName": "vo_sayu_battle_attackHeavy_01.wem"
         },
         "bdc3330889d9103b": {
             "hash": "bdc3330889d9103b",
@@ -842,7 +1154,7 @@
             "hash": "cd4267af22366b60",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attacklight_02.wem"
+            "sourceName": "vo_sayu_battle_attackLight_02.wem"
         },
         "cdbdf65d53d3f9a6": {
             "hash": "cdbdf65d53d3f9a6",
@@ -860,7 +1172,7 @@
             "hash": "ce97128586daed93",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_hit_h_03.wem"
+            "sourceName": "vo_sayu_battle_hit_H_03.wem"
         },
         "cfc0fe97315ceb8d": {
             "hash": "cfc0fe97315ceb8d",
@@ -873,6 +1185,18 @@
             "directory": "External26",
             "voiceContent": "What was that escape method again...",
             "sourceName": "vo_sayu_life_less30_01.wem"
+        },
+        "d301aa204477b636": {
+            "hash": "d301aa204477b636",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sayu_invite_easy_02.wem"
+        },
+        "d6844b8ba73cd658": {
+            "hash": "d6844b8ba73cd658",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sayu_teammate_mizuki_01.wem"
         },
         "d81421242cef9a42": {
             "hash": "d81421242cef9a42",
@@ -896,7 +1220,7 @@
             "hash": "debe75762969a033",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attacklight_05.wem"
+            "sourceName": "vo_sayu_battle_attackLight_05.wem"
         },
         "dec0358e81d969e5": {
             "hash": "dec0358e81d969e5",
@@ -914,7 +1238,7 @@
             "hash": "e4740afca23ef304",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_hit_l_04.wem"
+            "sourceName": "vo_sayu_battle_hit_L_04.wem"
         },
         "e5725e68bc1a4783": {
             "hash": "e5725e68bc1a4783",
@@ -934,11 +1258,17 @@
             "voiceContent": "She's always patting me on the head... I've never bitten her, though, or even said anything, because I'm frightened of how she'd react if I stood up to her. But what am I gonna do? Because if she keeps on patting my head, I'm gonna get stuck at this height forever",
             "sourceName": "vo_sayu_teammate_yaeMiko_01.wem"
         },
+        "e823bcccbfc20892": {
+            "hash": "e823bcccbfc20892",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sayu_invite_hard_01.wem"
+        },
         "e902f70e4fa26726": {
             "hash": "e902f70e4fa26726",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_hit_l_02.wem"
+            "sourceName": "vo_sayu_battle_hit_L_02.wem"
         },
         "ea107a3f68bef322": {
             "hash": "ea107a3f68bef322",
@@ -964,17 +1294,35 @@
             "voiceContent": "For some reason, when people meet me for the first time, they always call me tanuki, or teddy-bear, or kitty-cat... But Sayu is just Sayu — and definitely not a tanuki",
             "sourceName": "vo_sayu_dialog_annoyed_01.wem"
         },
+        "ecb3e0de6d278f64": {
+            "hash": "ecb3e0de6d278f64",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sayu_invite_hard_03.wem"
+        },
         "ecc1910e8a30b2c8": {
             "hash": "ecc1910e8a30b2c8",
             "directory": "External29",
             "voiceContent": "SFX",
             "sourceName": "vo_sayu_explore_idle_01.wem"
         },
+        "ef1fee4ff5c3160d": {
+            "hash": "ef1fee4ff5c3160d",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sayu_freetalk_01.wem"
+        },
         "ef2047df0c39a5e1": {
             "hash": "ef2047df0c39a5e1",
             "directory": "External29",
             "voiceContent": "Twinjutsu",
             "sourceName": "vo_sayu_battle_skill3_01.wem"
+        },
+        "efd4f32542c6739e": {
+            "hash": "efd4f32542c6739e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sayu_endOfGame_win_01.wem"
         },
         "f148c9d447cf437d": {
             "hash": "f148c9d447cf437d",
@@ -1010,7 +1358,7 @@
             "hash": "f6394264b4ea5a02",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_sayu_battle_attackmid_02.wem"
+            "sourceName": "vo_sayu_battle_attackMid_02.wem"
         },
         "f6682a37135fccc3": {
             "hash": "f6682a37135fccc3",
@@ -1047,12 +1395,6 @@
             "directory": "External31",
             "voiceContent": "At long last... bed time... G'night..",
             "sourceName": "vo_sayu_dialog_greetingNight2.wem"
-        },
-        "fdd1c9f4c151be15": {
-            "hash": "fdd1c9f4c151be15",
-            "directory": "External31",
-            "voiceContent": "I'm soooo full, time for a nap..",
-            "sourceName": "vo_sayu_spice_event_pref_01.wem"
         }
     }
 }

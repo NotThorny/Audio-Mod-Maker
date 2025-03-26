@@ -314,6 +314,12 @@
         }
     },
     "Quests": {
+        "07a22de392cc3014": {
+            "hash": "07a22de392cc3014",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ001_9_nilou_01.wem"
+        },
         "0c67f317ea9190b2": {
             "hash": "0c67f317ea9190b2",
             "directory": "External1",
@@ -325,6 +331,18 @@
             "directory": "External1",
             "voiceContent": "うぅん…",
             "sourceName": "vo_HSEQ002_11_nilou_02.wem"
+        },
+        "184c130c3384a107": {
+            "hash": "184c130c3384a107",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_nilou_01.wem"
+        },
+        "1974ff1dde04ec21": {
+            "hash": "1974ff1dde04ec21",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_nilou_03.wem"
         },
         "1ada1a1ec65a953d": {
             "hash": "1ada1a1ec65a953d",
@@ -355,6 +373,18 @@
             "directory": "External12",
             "voiceContent": "え？きゅ、急にそんな",
             "sourceName": "vo_HSEQ003_18_nilou_02.wem"
+        },
+        "6f0ca524e8d7fea0": {
+            "hash": "6f0ca524e8d7fea0",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_nilou_02.wem"
+        },
+        "7fd91748a2b3cec8": {
+            "hash": "7fd91748a2b3cec8",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ003_14_nilou_05.wem"
         },
         "8e5b650fa75f66fb": {
             "hash": "8e5b650fa75f66fb",
@@ -410,6 +440,12 @@
             "voiceContent": "クラクサナリデビ様",
             "sourceName": "vo_HSEQ002_11_nilou_04.wem"
         },
+        "fb9b80f430b5c16a": {
+            "hash": "fb9b80f430b5c16a",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_nilou_04.wem"
+        },
         "fd109c607e53e7a1": {
             "hash": "fd109c607e53e7a1",
             "directory": "External31",
@@ -434,7 +470,7 @@
             "hash": "02ddda6f366419ed",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_h_05.wem"
+            "sourceName": "vo_nilou_battle_hit_H_05.wem"
         },
         "080a243707b5037a": {
             "hash": "080a243707b5037a",
@@ -446,7 +482,7 @@
             "hash": "0d22f85868e9fa09",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackmid_01.wem"
+            "sourceName": "vo_nilou_battle_attackMid_01.wem"
         },
         "0d8ebb8ee0ec5e0f": {
             "hash": "0d8ebb8ee0ec5e0f",
@@ -458,13 +494,13 @@
             "hash": "135c3e0f400b794b",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_03.wem"
+            "sourceName": "vo_nilou_battle_hit_L_03.wem"
         },
         "14856a20ea8c30a5": {
             "hash": "14856a20ea8c30a5",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_01.wem"
+            "sourceName": "vo_nilou_battle_hit_L_01.wem"
         },
         "15fdee66032ce511": {
             "hash": "15fdee66032ce511",
@@ -494,7 +530,7 @@
             "hash": "1e9c2c47593ddf8f",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackmid_03.wem"
+            "sourceName": "vo_nilou_battle_attackMid_03.wem"
         },
         "1f6417c296f5fdc7": {
             "hash": "1f6417c296f5fdc7",
@@ -524,7 +560,7 @@
             "hash": "29f99c3164470886",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackheavy_03.wem"
+            "sourceName": "vo_nilou_battle_attackHeavy_03.wem"
         },
         "2c3ab9c3663973db": {
             "hash": "2c3ab9c3663973db",
@@ -542,19 +578,31 @@
             "hash": "2eeb744f909ebe8c",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_02.wem"
+            "sourceName": "vo_nilou_battle_attackLight_02.wem"
         },
         "337b60613e03e5ae": {
             "hash": "337b60613e03e5ae",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_04.wem"
+            "sourceName": "vo_nilou_battle_attackLight_04.wem"
         },
         "346f085feb0aa7fa": {
             "hash": "346f085feb0aa7fa",
             "directory": "External6",
             "voiceContent": "ちょっと困ったかも",
             "sourceName": "vo_nilou_life_less30_02.wem"
+        },
+        "3ac02dbb29307eeb": {
+            "hash": "3ac02dbb29307eeb",
+            "directory": "External7",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_nilou_02.wem"
+        },
+        "3ad3b24f99992466": {
+            "hash": "3ad3b24f99992466",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_hard_01.wem"
         },
         "3c249419b2521f15": {
             "hash": "3c249419b2521f15",
@@ -572,7 +620,7 @@
             "hash": "412bb043ac806da8",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackheavy_01.wem"
+            "sourceName": "vo_nilou_battle_attackHeavy_01.wem"
         },
         "428e0fda25da0dc1": {
             "hash": "428e0fda25da0dc1",
@@ -604,6 +652,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_nilou_explore_idle_03.wem"
         },
+        "4864265769c6d722": {
+            "hash": "4864265769c6d722",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_leave_01.wem"
+        },
         "497a00020df9e9a4": {
             "hash": "497a00020df9e9a4",
             "directory": "External9",
@@ -616,11 +670,17 @@
             "voiceContent": "このダンスをあなたに",
             "sourceName": "vo_nilou_battle_skill3_03.wem"
         },
-        "4bf3bd666f3e6294": {
-            "hash": "4bf3bd666f3e6294",
+        "4be980b106a2c283": {
+            "hash": "4be980b106a2c283",
             "directory": "External9",
-            "voiceContent": "美味しいものが舌の上で踊るのって…こんな感じなんだね…不思議",
-            "sourceName": "vo_nilou_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_easy_03.wem"
+        },
+        "4d136cc2b124c0bd": {
+            "hash": "4d136cc2b124c0bd",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_easy_01.wem"
         },
         "4e46eda6f887f5c8": {
             "hash": "4e46eda6f887f5c8",
@@ -662,7 +722,7 @@
             "hash": "5996b04aaf5df018",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_04.wem"
+            "sourceName": "vo_nilou_battle_hit_L_04.wem"
         },
         "5d7f562d88b5a143": {
             "hash": "5d7f562d88b5a143",
@@ -676,12 +736,6 @@
             "voiceContent": "えっ？わわっ——雪だ。ほら聞こえる？ちらちらと雪の降る音がするよ。それに舞い散る雪の華は、まるで自然の精霊が踊ってるみたいだよね",
             "sourceName": "vo_nilou_weather_snowy_01.wem"
         },
-        "5dd9b08fd4fb490e": {
-            "hash": "5dd9b08fd4fb490e",
-            "directory": "External11",
-            "voiceContent": "ありがとう！私がダンスの練習を欠かさず続けているように、きっとこの料理を作れるようになるまで、あなたも努力してきたんだよね",
-            "sourceName": "vo_nilou_spice_event_normal_01.wem"
-        },
         "60d5b443cd5e3deb": {
             "hash": "60d5b443cd5e3deb",
             "directory": "External12",
@@ -692,7 +746,7 @@
             "hash": "61a52e683126b951",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_07.wem"
+            "sourceName": "vo_nilou_battle_attackLight_07.wem"
         },
         "620f423f361ac87d": {
             "hash": "620f423f361ac87d",
@@ -722,7 +776,7 @@
             "hash": "6b0fdc399fb1c836",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_06.wem"
+            "sourceName": "vo_nilou_battle_hit_L_06.wem"
         },
         "6b6b5033682df335": {
             "hash": "6b6b5033682df335",
@@ -820,12 +874,6 @@
             "voiceContent": "言葉より、ダンスのほうが上手く気持ちを伝えられる時もある。だから、何を言えばいいか迷った時は、踊ってみるといいよ",
             "sourceName": "vo_nilou_dialog_idle.wem"
         },
-        "9313683795c6253a": {
-            "hash": "9313683795c6253a",
-            "directory": "External18",
-            "voiceContent": "ごめん、最近あんまり食欲がないんだ、気にしないで",
-            "sourceName": "vo_nilou_spice_event_dislike_01.wem"
-        },
         "93a2134ed3d8c77e": {
             "hash": "93a2134ed3d8c77e",
             "directory": "External18",
@@ -848,7 +896,13 @@
             "hash": "975fc07817aace5c",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_h_04.wem"
+            "sourceName": "vo_nilou_battle_hit_H_04.wem"
+        },
+        "987fdd5cde606709": {
+            "hash": "987fdd5cde606709",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_suit_fairy_03.wem"
         },
         "9889ac89c22ccc7e": {
             "hash": "9889ac89c22ccc7e",
@@ -866,13 +920,13 @@
             "hash": "9cdeca4f9c9db4a6",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackmid_02.wem"
+            "sourceName": "vo_nilou_battle_attackMid_02.wem"
         },
         "9dcf8e46b23b335d": {
             "hash": "9dcf8e46b23b335d",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_03.wem"
+            "sourceName": "vo_nilou_battle_attackLight_03.wem"
         },
         "9df4bca6e5602013": {
             "hash": "9df4bca6e5602013",
@@ -904,11 +958,29 @@
             "voiceContent": "慌てない…慌てない",
             "sourceName": "vo_card_nilou_inGame_hard_03.wem"
         },
+        "a9f9114bceb44c8f": {
+            "hash": "a9f9114bceb44c8f",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_suit_fairy_01.wem"
+        },
+        "ab17e05865e569c9": {
+            "hash": "ab17e05865e569c9",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_hard_02.wem"
+        },
         "abb6fe2920e7346f": {
             "hash": "abb6fe2920e7346f",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attackheavy_02.wem"
+            "sourceName": "vo_nilou_battle_attackHeavy_02.wem"
+        },
+        "ac8057e82d1d97aa": {
+            "hash": "ac8057e82d1d97aa",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_endOfGame_win_01.wem"
         },
         "aed66bdd56cf7164": {
             "hash": "aed66bdd56cf7164",
@@ -944,13 +1016,19 @@
             "hash": "b538c258faa410b7",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_05.wem"
+            "sourceName": "vo_nilou_battle_attackLight_05.wem"
         },
         "ba144c18bbcb4c82": {
             "hash": "ba144c18bbcb4c82",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_02.wem"
+            "sourceName": "vo_nilou_battle_hit_L_02.wem"
+        },
+        "c4c2b595d25221e6": {
+            "hash": "c4c2b595d25221e6",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_endOfGame_fail_01.wem"
         },
         "c6b7142465d104e4": {
             "hash": "c6b7142465d104e4",
@@ -1028,7 +1106,7 @@
             "hash": "d4eb3c684370da6a",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_h_06.wem"
+            "sourceName": "vo_nilou_battle_hit_H_06.wem"
         },
         "d9976cffa11ea993": {
             "hash": "d9976cffa11ea993",
@@ -1040,7 +1118,7 @@
             "hash": "db540a426bfe0d99",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_l_05.wem"
+            "sourceName": "vo_nilou_battle_hit_L_05.wem"
         },
         "de70c5e8e57d339d": {
             "hash": "de70c5e8e57d339d",
@@ -1052,7 +1130,7 @@
             "hash": "dfe7d47074869bd0",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_06.wem"
+            "sourceName": "vo_nilou_battle_attackLight_06.wem"
         },
         "e3baeba23b24249f": {
             "hash": "e3baeba23b24249f",
@@ -1084,6 +1162,12 @@
             "voiceContent": "時々、観客から手紙をもらうことがあるんだ、私のダンスで元気をもらったってね。そういう時は、ズバイルシアターのみんなとその喜びを分かち合うの。観客から見たら、舞台上に立っているのは私一人だけだけど、私からしたらそれはみんなで成し遂げたものだからね",
             "sourceName": "vo_nilou_friendship_03.wem"
         },
+        "eab14363e64fe448": {
+            "hash": "eab14363e64fe448",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_nilou_suit_fairy_02.wem"
+        },
         "ecb4354557ebb507": {
             "hash": "ecb4354557ebb507",
             "directory": "External29",
@@ -1100,19 +1184,25 @@
             "hash": "f16422377bba3da3",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_attacklight_01.wem"
+            "sourceName": "vo_nilou_battle_attackLight_01.wem"
         },
         "f19bce80463fba07": {
             "hash": "f19bce80463fba07",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_nilou_battle_hit_h_03.wem"
+            "sourceName": "vo_nilou_battle_hit_H_03.wem"
         },
         "f2c4ba91f0c00521": {
             "hash": "f2c4ba91f0c00521",
             "directory": "External30",
             "voiceContent": "んっ、体勢を整えないと",
             "sourceName": "vo_nilou_battle_hit_H_01.wem"
+        },
+        "f30e4eba82befbba": {
+            "hash": "f30e4eba82befbba",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_easy_02.wem"
         },
         "f310afb45a584cc6": {
             "hash": "f310afb45a584cc6",
@@ -1132,6 +1222,12 @@
             "voiceContent": "波の花と共に舞を",
             "sourceName": "vo_nilou_battle_skill3_01.wem"
         },
+        "fa01574ed3b39631": {
+            "hash": "fa01574ed3b39631",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_freetalk_01.wem"
+        },
         "faed37b4835de899": {
             "hash": "faed37b4835de899",
             "directory": "External31",
@@ -1150,6 +1246,12 @@
             "voiceContent": "大丈夫？砂ぼこりに気をつけてね",
             "sourceName": "vo_nilou_weather_gale_01.wem"
         },
+        "fd48465f6dd33308": {
+            "hash": "fd48465f6dd33308",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_nilou_invite_hard_03.wem"
+        },
         "fd67c91981399178": {
             "hash": "fd67c91981399178",
             "directory": "External31",
@@ -1161,12 +1263,6 @@
             "directory": "External31",
             "voiceContent": "私の人生は踊ること、踊ることは私の人生…どっちのほうが合ってるかな？はぁ、やっぱりこういう論理的なことを考えるのって向いてないみたい。とにかく、これからも踊り続けるつもりだよ。私のパフォーマンスで、この芸術の美しさをより多くの人に見てもらいたいんだ",
             "sourceName": "vo_nilou_pref_hobby.wem"
-        },
-        "3ac02dbb29307eeb": {
-            "hash": "3ac02dbb29307eeb",
-            "directory": "External7",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_nilou_02.wem"
         }
     }
 }

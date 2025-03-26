@@ -290,11 +290,107 @@
         }
     },
     "Quests": {
+        "05d122522eca7d37": {
+            "hash": "05d122522eca7d37",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_layla_05.wem"
+        },
+        "0720c1442f761892": {
+            "hash": "0720c1442f761892",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ003_21_layla_01.wem"
+        },
+        "1377fe02c2e3c3b9": {
+            "hash": "1377fe02c2e3c3b9",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_layla_10.wem"
+        },
+        "150c5fbae07b3c2c": {
+            "hash": "150c5fbae07b3c2c",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_layla_01.wem"
+        },
+        "1f929ff5552b8c52": {
+            "hash": "1f929ff5552b8c52",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_layla_08.wem"
+        },
+        "29eb5ba9d3b1ebfa": {
+            "hash": "29eb5ba9d3b1ebfa",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_layla_03.wem"
+        },
+        "30803469a8ad0850": {
+            "hash": "30803469a8ad0850",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_layla_06.wem"
+        },
+        "41fc8230afe0aa23": {
+            "hash": "41fc8230afe0aa23",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_layla_01.wem"
+        },
         "4607e4584b0a6be3": {
             "hash": "4607e4584b0a6be3",
             "directory": "External8",
             "voiceContent": "（一直在想吃的，都有点饿了。",
             "sourceName": "vo_LYLCOP001_1916104_layla_02.wem"
+        },
+        "47c619d3810336f1": {
+            "hash": "47c619d3810336f1",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_layla_04.wem"
+        },
+        "4a6fa9024e2e2b46": {
+            "hash": "4a6fa9024e2e2b46",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_layla_02.wem"
+        },
+        "7f608da054b289c3": {
+            "hash": "7f608da054b289c3",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_layla_02.wem"
+        },
+        "7f83d448c4c52b0c": {
+            "hash": "7f83d448c4c52b0c",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_layla_02.wem"
+        },
+        "8413c05a722a522e": {
+            "hash": "8413c05a722a522e",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_layla_04.wem"
+        },
+        "9e033cf317ab82a4": {
+            "hash": "9e033cf317ab82a4",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_layla_04.wem"
+        },
+        "a18611ed11f9619b": {
+            "hash": "a18611ed11f9619b",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_layla_09.wem"
+        },
+        "a974640cb4103588": {
+            "hash": "a974640cb4103588",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ001_7_layla_01.wem"
         },
         "aeb2a2aacca5712f": {
             "hash": "aeb2a2aacca5712f",
@@ -302,11 +398,47 @@
             "voiceContent": "（我想想，好像是这样的…",
             "sourceName": "vo_LYLCOP001_1915302_layla_01.wem"
         },
+        "b23d8e61654d25d1": {
+            "hash": "b23d8e61654d25d1",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_layla_07.wem"
+        },
+        "bab3d70b1a7a70a9": {
+            "hash": "bab3d70b1a7a70a9",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_layla_01.wem"
+        },
+        "bdee7e9dc7ba48a9": {
+            "hash": "bdee7e9dc7ba48a9",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ002_16_layla_01.wem"
+        },
+        "c608bfdbc4631970": {
+            "hash": "c608bfdbc4631970",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_layla_05.wem"
+        },
         "ca4130515bad34e6": {
             "hash": "ca4130515bad34e6",
             "directory": "External25",
             "voiceContent": "（选在这里生火，就算一不小心烧到了其他地方，也容易控制火势…",
             "sourceName": "vo_LYLCOP001_1916107_layla_02.wem"
+        },
+        "cf930afa0db17f2f": {
+            "hash": "cf930afa0db17f2f",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_layla_03.wem"
+        },
+        "ee67ee3fe6619fdd": {
+            "hash": "ee67ee3fe6619fdd",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_layla_03.wem"
         },
         "fb19fdab8a692e67": {
             "hash": "fb19fdab8a692e67",
@@ -320,7 +452,7 @@
             "hash": "0169f895433b6627",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_hit_l_05.wem"
+            "sourceName": "vo_layla_battle_hit_L_05.wem"
         },
         "059f95eff081f244": {
             "hash": "059f95eff081f244",
@@ -332,13 +464,7 @@
             "hash": "069791f522af9cc7",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attacklight_03.wem"
-        },
-        "06b829e75d22ecb6": {
-            "hash": "06b829e75d22ecb6",
-            "directory": "External0",
-            "voiceContent": "要不…我们还是去店里买外带吧",
-            "sourceName": "vo_layla_spice_event_dislike_01.wem"
+            "sourceName": "vo_layla_battle_attackLight_03.wem"
         },
         "0978286f9fc01c5c": {
             "hash": "0978286f9fc01c5c",
@@ -356,19 +482,13 @@
             "hash": "0b277e06d014c3e1",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attacklight_01.wem"
+            "sourceName": "vo_layla_battle_attackLight_01.wem"
         },
         "0b9d0ca9f3bca4d0": {
             "hash": "0b9d0ca9f3bca4d0",
             "directory": "External1",
             "voiceContent": "SFX",
             "sourceName": "vo_layla_explore_jump_01.wem"
-        },
-        "0c619fc8386dbdfa": {
-            "hash": "0c619fc8386dbdfa",
-            "directory": "External1",
-            "voiceContent": "…嗯，味道还算不错",
-            "sourceName": "vo_layla_spice_event_normal_01.wem"
         },
         "106da69bb50840d9": {
             "hash": "106da69bb50840d9",
@@ -380,7 +500,7 @@
             "hash": "1183187288df7a13",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_hit_l_01.wem"
+            "sourceName": "vo_layla_battle_hit_L_01.wem"
         },
         "129f4f549c29bc7e": {
             "hash": "129f4f549c29bc7e",
@@ -392,7 +512,7 @@
             "hash": "12ad04843361780d",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_hit_l_03.wem"
+            "sourceName": "vo_layla_battle_hit_L_03.wem"
         },
         "19b8c9f4dd51f4e4": {
             "hash": "19b8c9f4dd51f4e4",
@@ -400,11 +520,17 @@
             "voiceContent": "画星图真的是件累人的事，如果不是因为喜欢，我恐怕也坚持不下来。一会儿要用尺、一会儿要拿纸算、一会儿要查历年的星象…不知不觉一天时间就过去了。但看着画得整整齐齐的巨大星图，总是很有成就感",
             "sourceName": "vo_layla_pref_hobby.wem"
         },
+        "1ae8f42d886d2c80": {
+            "hash": "1ae8f42d886d2c80",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_layla_endOfGame_win_01.wem"
+        },
         "1b409de415b8d7ad": {
             "hash": "1b409de415b8d7ad",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attacklight_05.wem"
+            "sourceName": "vo_layla_battle_attackLight_05.wem"
         },
         "1dd163f413b88b84": {
             "hash": "1dd163f413b88b84",
@@ -417,6 +543,12 @@
             "directory": "External3",
             "voiceContent": "生日快乐，我把这个袖珍星盘送给你。希望从过去到未来，见证了我们所有人类命运的星星能把目光分给你，伴随你走过沙漠、穿过海洋，到达你所探寻的终点",
             "sourceName": "vo_layla_pref_birthday_01.wem"
+        },
+        "229dec5c36a220dc": {
+            "hash": "229dec5c36a220dc",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_layla_endOfGame_fail_01.wem"
         },
         "2649a1efc884282d": {
             "hash": "2649a1efc884282d",
@@ -440,19 +572,19 @@
             "hash": "285f08e060b366c3",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_hit_h_05.wem"
+            "sourceName": "vo_layla_battle_hit_H_05.wem"
         },
-        "31414f96a2c0f020": {
-            "hash": "31414f96a2c0f020",
+        "31bebfd84d15f86f": {
+            "hash": "31bebfd84d15f86f",
             "directory": "External6",
-            "voiceContent": "好厉害，好羡慕，你还真是什么都会呀",
-            "sourceName": "vo_layla_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_layla_invite_hard_02.wem"
         },
         "33b785b622ce74b4": {
             "hash": "33b785b622ce74b4",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attackmid_02.wem"
+            "sourceName": "vo_layla_battle_attackMid_02.wem"
         },
         "376ddeb5c08d19c7": {
             "hash": "376ddeb5c08d19c7",
@@ -465,6 +597,12 @@
             "directory": "External7",
             "voiceContent": "现在逃还来得及吗",
             "sourceName": "vo_layla_life_less30_03.wem"
+        },
+        "3dce4f26086e5a5f": {
+            "hash": "3dce4f26086e5a5f",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_layla_invite_easy_01.wem"
         },
         "3f2df984af2f7bc7": {
             "hash": "3f2df984af2f7bc7",
@@ -572,13 +710,19 @@
             "hash": "539b569c4b2ad51e",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_hit_l_04.wem"
+            "sourceName": "vo_layla_battle_hit_L_04.wem"
         },
         "54c48aadf5ab9ac0": {
             "hash": "54c48aadf5ab9ac0",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_hit_l_06.wem"
+            "sourceName": "vo_layla_battle_hit_L_06.wem"
+        },
+        "55019b3850a9d159": {
+            "hash": "55019b3850a9d159",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_layla_invite_easy_03.wem"
         },
         "55392097e5e1603e": {
             "hash": "55392097e5e1603e",
@@ -614,7 +758,7 @@
             "hash": "6455aae0a7642159",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attackheavy_02.wem"
+            "sourceName": "vo_layla_battle_attackHeavy_02.wem"
         },
         "6517f3da32a98680": {
             "hash": "6517f3da32a98680",
@@ -656,7 +800,7 @@
             "hash": "6ed431d4df362f33",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attacklight_07.wem"
+            "sourceName": "vo_layla_battle_attackLight_07.wem"
         },
         "6f073b1bd063f670": {
             "hash": "6f073b1bd063f670",
@@ -670,6 +814,12 @@
             "voiceContent": "腿好酸…唉，大概昨天晚上又梦游了吧",
             "sourceName": "vo_layla_character_idle_02.wem"
         },
+        "73d370d51ca5b33e": {
+            "hash": "73d370d51ca5b33e",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_layla_01.wem"
+        },
         "74265d8b506a9cf9": {
             "hash": "74265d8b506a9cf9",
             "directory": "External14",
@@ -681,6 +831,12 @@
             "directory": "External14",
             "voiceContent": "还是你眼睛尖",
             "sourceName": "vo_layla_chest_open_02.wem"
+        },
+        "7a19ee3ccec7d9f8": {
+            "hash": "7a19ee3ccec7d9f8",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_layla_leave_01.wem"
         },
         "7a50d8d22c2021b3": {
             "hash": "7a50d8d22c2021b3",
@@ -734,7 +890,7 @@
             "hash": "8cffbfaca70f1b05",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attackmid_03.wem"
+            "sourceName": "vo_layla_battle_attackMid_03.wem"
         },
         "8e2e70ce75e07760": {
             "hash": "8e2e70ce75e07760",
@@ -790,11 +946,17 @@
             "voiceContent": "白天晒，晚上冷，我、我要不行了",
             "sourceName": "vo_layla_weather_desert_01.wem"
         },
+        "a524e3434326727b": {
+            "hash": "a524e3434326727b",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_layla_freetalk_01.wem"
+        },
         "a72eea8d14a82d7c": {
             "hash": "a72eea8d14a82d7c",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_hit_l_02.wem"
+            "sourceName": "vo_layla_battle_hit_L_02.wem"
         },
         "ac4b4be35f3d186d": {
             "hash": "ac4b4be35f3d186d",
@@ -806,7 +968,7 @@
             "hash": "ac5c83ecf41c631c",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attacklight_04.wem"
+            "sourceName": "vo_layla_battle_attackLight_04.wem"
         },
         "af742ea0147499e1": {
             "hash": "af742ea0147499e1",
@@ -814,11 +976,17 @@
             "voiceContent": "糟了糟了，你、你受伤了",
             "sourceName": "vo_layla_life_less30_teammate_02.wem"
         },
+        "b0015de09075cc86": {
+            "hash": "b0015de09075cc86",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_layla_invite_hard_03.wem"
+        },
         "b0ec6ffea1818a3e": {
             "hash": "b0ec6ffea1818a3e",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attacklight_02.wem"
+            "sourceName": "vo_layla_battle_attackLight_02.wem"
         },
         "b12b272317d905c8": {
             "hash": "b12b272317d905c8",
@@ -860,7 +1028,7 @@
             "hash": "be0adafaec7c192c",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_hit_h_06.wem"
+            "sourceName": "vo_layla_battle_hit_H_06.wem"
         },
         "c1580f57372395b2": {
             "hash": "c1580f57372395b2",
@@ -880,6 +1048,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_layla_explore_fly_start_01.wem"
         },
+        "c73371f2d8af31a8": {
+            "hash": "c73371f2d8af31a8",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_layla_invite_hard_01.wem"
+        },
         "c8692485e24fae06": {
             "hash": "c8692485e24fae06",
             "directory": "External25",
@@ -898,6 +1072,12 @@
             "voiceContent": "在明论派学者的小圈子里，阿斯托洛吉斯·莫娜·梅姬斯图斯发表在《蒸汽鸟报》上的星相学文章名气不小。那些文章专业性都很强，但却能被学者之外的群体喜欢，要做到这点还是挺不容易的…欸？我把她的名字念得很流利？因为…厉害的人…得多多尊敬",
             "sourceName": "vo_layla_teammate_mona_01.wem"
         },
+        "ce0e7edd4b38ece1": {
+            "hash": "ce0e7edd4b38ece1",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_layla_02.wem"
+        },
         "ce7ad74fe9307dcf": {
             "hash": "ce7ad74fe9307dcf",
             "directory": "External25",
@@ -908,7 +1088,13 @@
             "hash": "d2e9d6e9dfb2c8fa",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_hit_h_04.wem"
+            "sourceName": "vo_layla_battle_hit_H_04.wem"
+        },
+        "d34441409409b3d8": {
+            "hash": "d34441409409b3d8",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_layla_invite_easy_02.wem"
         },
         "d35617f27d7a8ff5": {
             "hash": "d35617f27d7a8ff5",
@@ -938,7 +1124,7 @@
             "hash": "dd2d139d6da8dd2b",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attackmid_01.wem"
+            "sourceName": "vo_layla_battle_attackMid_01.wem"
         },
         "e0edfa9279da19b7": {
             "hash": "e0edfa9279da19b7",
@@ -950,7 +1136,7 @@
             "hash": "e29850e8eac403d8",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attackheavy_03.wem"
+            "sourceName": "vo_layla_battle_attackHeavy_03.wem"
         },
         "e3d9195d689b2e7a": {
             "hash": "e3d9195d689b2e7a",
@@ -974,7 +1160,7 @@
             "hash": "e9e6ffdd1fe0bc2a",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attacklight_06.wem"
+            "sourceName": "vo_layla_battle_attackLight_06.wem"
         },
         "eaa62024afad241a": {
             "hash": "eaa62024afad241a",
@@ -1016,7 +1202,7 @@
             "hash": "f0c495138d0413f1",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_hit_h_03.wem"
+            "sourceName": "vo_layla_battle_hit_H_03.wem"
         },
         "f292e87207b6f5c2": {
             "hash": "f292e87207b6f5c2",
@@ -1028,7 +1214,7 @@
             "hash": "f7777cd7ddfb04f6",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_layla_battle_attackheavy_01.wem"
+            "sourceName": "vo_layla_battle_attackHeavy_01.wem"
         },
         "fc1c25110dec2643": {
             "hash": "fc1c25110dec2643",

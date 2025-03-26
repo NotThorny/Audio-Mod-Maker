@@ -350,11 +350,83 @@
         }
     },
     "Quests": {
+        "01888d35242b72a3": {
+            "hash": "01888d35242b72a3",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_wanderer_02a_1.wem"
+        },
+        "06d1670737f1c46b": {
+            "hash": "06d1670737f1c46b",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_02.wem"
+        },
+        "30e4e12b517641c2": {
+            "hash": "30e4e12b517641c2",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_wanderer_04.wem"
+        },
+        "378c5342b68c15df": {
+            "hash": "378c5342b68c15df",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_wanderer_01.wem"
+        },
+        "4ebf9f54fec78cd9": {
+            "hash": "4ebf9f54fec78cd9",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_wanderer_03.wem"
+        },
+        "58cbf50e3fb24222": {
+            "hash": "58cbf50e3fb24222",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_03.wem"
+        },
+        "59f4d91fea327ff4": {
+            "hash": "59f4d91fea327ff4",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_01.wem"
+        },
+        "69bbf562143e2c44": {
+            "hash": "69bbf562143e2c44",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_wanderer_04.wem"
+        },
+        "6ae5e173bec02a66": {
+            "hash": "6ae5e173bec02a66",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_wanderer_02.wem"
+        },
         "6cd6509bc70ce8dd": {
             "hash": "6cd6509bc70ce8dd",
             "directory": "External13",
             "voiceContent": "（すべて…向き合います。",
             "sourceName": "vo_LLZAQ003_5_wanderer_01.wem"
+        },
+        "7a0bb337efe50339": {
+            "hash": "7a0bb337efe50339",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_04.wem"
+        },
+        "9f77e7afd505f5be": {
+            "hash": "9f77e7afd505f5be",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ002_17_wanderer_01.wem"
+        },
+        "a98e5a49e66fdcaf": {
+            "hash": "a98e5a49e66fdcaf",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ003_20_wanderer_01.wem"
         },
         "ab0ad078ddc39014": {
             "hash": "ab0ad078ddc39014",
@@ -362,11 +434,53 @@
             "voiceContent": "ぐっ！ここで…やられるわけないだろう…！",
             "sourceName": "vo_LLZAQ003_20_wanderer_03.wem"
         },
+        "b796e7281baa94bf": {
+            "hash": "b796e7281baa94bf",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_06.wem"
+        },
+        "c1bb66f16bd3cf10": {
+            "hash": "c1bb66f16bd3cf10",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_wanderer_02b_1.wem"
+        },
+        "ca47b72672795f05": {
+            "hash": "ca47b72672795f05",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ001_8_wanderer_01.wem"
+        },
         "dab540366f335179": {
             "hash": "dab540366f335179",
             "directory": "External27",
             "voiceContent": "（この感覚…まるで二度目の人生を生きているかのようだ。ハハッ。",
             "sourceName": "vo_LLZAQ004_1_wanderer_28.wem"
+        },
+        "db2a0f7c8b0c6fc9": {
+            "hash": "db2a0f7c8b0c6fc9",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_wanderer_01.wem"
+        },
+        "ebb02f59d10d55d5": {
+            "hash": "ebb02f59d10d55d5",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_wanderer_05.wem"
+        },
+        "eca3436b7b60554f": {
+            "hash": "eca3436b7b60554f",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ003_wanderer_03.wem"
+        },
+        "f4e859403061bcb8": {
+            "hash": "f4e859403061bcb8",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_wanderer_05.wem"
         }
     },
     "Gameplay": {
@@ -422,19 +536,19 @@
             "hash": "148cbb45e15c8f1b",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackmid_01.wem"
+            "sourceName": "vo_wanderer_battle_attackMid_01.wem"
         },
         "15b6a7578bde8d35": {
             "hash": "15b6a7578bde8d35",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackmid_03.wem"
+            "sourceName": "vo_wanderer_battle_attackMid_03.wem"
         },
         "17677194a7e9c3c7": {
             "hash": "17677194a7e9c3c7",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_h_01.wem"
+            "sourceName": "vo_wanderer_battle_hit_H_01.wem"
         },
         "1bf75da6554eeae1": {
             "hash": "1bf75da6554eeae1",
@@ -446,7 +560,7 @@
             "hash": "1d5215780a973ece",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_02.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_02.wem"
         },
         "245886251b279eb1": {
             "hash": "245886251b279eb1",
@@ -460,6 +574,12 @@
             "voiceContent": "もう慣れた",
             "sourceName": "vo_wanderer_life_less30_01.wem"
         },
+        "281d6193aec723fd": {
+            "hash": "281d6193aec723fd",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_battle_hit_H_10.wem"
+        },
         "2a1452494dfb1445": {
             "hash": "2a1452494dfb1445",
             "directory": "External5",
@@ -472,11 +592,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_wanderer_explore_sprint_start_06.wem"
         },
+        "2a6b9beba8d5bee8": {
+            "hash": "2a6b9beba8d5bee8",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_wanderer_01.wem"
+        },
         "2c107d839af2fead": {
             "hash": "2c107d839af2fead",
             "directory": "External5",
             "voiceContent": "命乞いをすることになるよ",
             "sourceName": "vo_wanderer_battle_hit_H_07.wem"
+        },
+        "2c59bce6dad9f5b1": {
+            "hash": "2c59bce6dad9f5b1",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_life_less30_03.wem"
         },
         "2df4b57096d8e31c": {
             "hash": "2df4b57096d8e31c",
@@ -578,7 +710,7 @@
             "hash": "4b1019451a87be6c",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_02.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_02.wem"
         },
         "4b572b4290431488": {
             "hash": "4b572b4290431488",
@@ -652,6 +784,12 @@
             "voiceContent": "僕を殺す気か？まさか、僕が凡人じゃないことを忘れたとでも",
             "sourceName": "vo_wanderer_spice_dislike_01.wem"
         },
+        "63cfca1f8744cc97": {
+            "hash": "63cfca1f8744cc97",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_hard_02.wem"
+        },
         "63e4556709c81e03": {
             "hash": "63e4556709c81e03",
             "directory": "External12",
@@ -668,7 +806,7 @@
             "hash": "666ec8badc68ea09",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackheavy_02.wem"
+            "sourceName": "vo_wanderer_battle_attackHeavy_02.wem"
         },
         "669f2fe2add0c190": {
             "hash": "669f2fe2add0c190",
@@ -692,7 +830,7 @@
             "hash": "6d7fa968d1316d2c",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_04.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_04.wem"
         },
         "6e2803ad5d3d2160": {
             "hash": "6e2803ad5d3d2160",
@@ -722,7 +860,7 @@
             "hash": "7938e74c0da8de17",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_05.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_05.wem"
         },
         "7c0a8f2ff8214c53": {
             "hash": "7c0a8f2ff8214c53",
@@ -730,17 +868,29 @@
             "voiceContent": "言い方がきついかい？ただ本当のことを言っているだけさ。それを受け入れられない者こそ、もっと自分の問題を反省したほうがいい",
             "sourceName": "vo_wanderer_character_idle_02.wem"
         },
+        "7eb4203ab8e90487": {
+            "hash": "7eb4203ab8e90487",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_easy_01.wem"
+        },
         "7fa4117464705633": {
             "hash": "7fa4117464705633",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_h_05.wem"
+            "sourceName": "vo_wanderer_battle_hit_H_05.wem"
+        },
+        "7fdd0c4c63694fa1": {
+            "hash": "7fdd0c4c63694fa1",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_easy_03.wem"
         },
         "825ea557c4681cfa": {
             "hash": "825ea557c4681cfa",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_06.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_06.wem"
         },
         "87b8ab21118707c4": {
             "hash": "87b8ab21118707c4",
@@ -776,7 +926,13 @@
             "hash": "93c26d5fcf0f63a4",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackmid_02.wem"
+            "sourceName": "vo_wanderer_battle_attackMid_02.wem"
+        },
+        "94f5e9d11d3ad1af": {
+            "hash": "94f5e9d11d3ad1af",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_wanderer_02.wem"
         },
         "9cd8cf67b87557ad": {
             "hash": "9cd8cf67b87557ad",
@@ -800,13 +956,13 @@
             "hash": "9f0f776fc73769d7",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_03.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_03.wem"
         },
         "a039638171b967f1": {
             "hash": "a039638171b967f1",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_01.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_01.wem"
         },
         "a23f9bf786d4a345": {
             "hash": "a23f9bf786d4a345",
@@ -836,7 +992,7 @@
             "hash": "b564472a8ebf0b03",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_01.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_01.wem"
         },
         "b68cb0803086785b": {
             "hash": "b68cb0803086785b",
@@ -848,7 +1004,7 @@
             "hash": "b68e333c3941093d",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_03.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_03.wem"
         },
         "b6cdbbd3746c966e": {
             "hash": "b6cdbbd3746c966e",
@@ -856,23 +1012,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_wanderer_explore_fly_start_03.wem"
         },
+        "b89f6152e2d0ceff": {
+            "hash": "b89f6152e2d0ceff",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_wanderer_battle_hit_H_09.wem"
+        },
         "b8a02ec1e4586748": {
             "hash": "b8a02ec1e4586748",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackheavy_03.wem"
+            "sourceName": "vo_wanderer_battle_attackHeavy_03.wem"
         },
         "b8b778e6edb7f7d1": {
             "hash": "b8b778e6edb7f7d1",
             "directory": "External23",
             "voiceContent": "雨と大差ないはずなのに、人に好かれるのはこっちのほうなんだ…まったく、運命ってのは気まぐれだね",
             "sourceName": "vo_wanderer_weather_snowy_01.wem"
-        },
-        "bc914a3190a6e22d": {
-            "hash": "bc914a3190a6e22d",
-            "directory": "External23",
-            "voiceContent": "悪くはない。少なくとも口には入れられる",
-            "sourceName": "vo_wanderer_spice_event_normal_01.wem"
         },
         "bd2c638c79568a1c": {
             "hash": "bd2c638c79568a1c",
@@ -940,6 +1096,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_wanderer_explore_idle_03.wem"
         },
+        "d574b2536e3c6220": {
+            "hash": "d574b2536e3c6220",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_easy_02.wem"
+        },
         "d73d804dfcc45213": {
             "hash": "d73d804dfcc45213",
             "directory": "External26",
@@ -950,7 +1112,7 @@
             "hash": "d7d3d74e4568bac3",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_07.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_07.wem"
         },
         "d7e70711d8228a72": {
             "hash": "d7e70711d8228a72",
@@ -986,7 +1148,7 @@
             "hash": "dc63c35ff2cde1fd",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attacklight_05.wem"
+            "sourceName": "vo_wanderer_battle_attackLight_05.wem"
         },
         "dc866d0259040dbc": {
             "hash": "dc866d0259040dbc",
@@ -1017,6 +1179,18 @@
             "directory": "External28",
             "voiceContent": "どうやったら君を撒いて、ひと暴れできるか考えてるんだ。——冗談だよ、もしかして信じちゃった",
             "sourceName": "vo_wanderer_dialog_annoyed.wem"
+        },
+        "e2126827caa4a18e": {
+            "hash": "e2126827caa4a18e",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_hard_03.wem"
+        },
+        "e33c5c397526ad30": {
+            "hash": "e33c5c397526ad30",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_wanderer_invite_hard_01.wem"
         },
         "e693e719c0fd1801": {
             "hash": "e693e719c0fd1801",
@@ -1078,12 +1252,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_wanderer_explore_jump_06.wem"
         },
-        "f44e8a0595d20bd3": {
-            "hash": "f44e8a0595d20bd3",
-            "directory": "External30",
-            "voiceContent": "まあまあかな。君の数少ない長所の一つだ",
-            "sourceName": "vo_wanderer_spice_event_pref_01.wem"
-        },
         "f4985b3450efcd3a": {
             "hash": "f4985b3450efcd3a",
             "directory": "External30",
@@ -1100,7 +1268,7 @@
             "hash": "f62a9ab2101ca4a6",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_attackheavy_01.wem"
+            "sourceName": "vo_wanderer_battle_attackHeavy_01.wem"
         },
         "f746c9200637c303": {
             "hash": "f746c9200637c303",
@@ -1112,7 +1280,7 @@
             "hash": "f77b85545108b30e",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_04.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_04.wem"
         },
         "f7b3402627e38047": {
             "hash": "f7b3402627e38047",
@@ -1130,7 +1298,7 @@
             "hash": "f8a57965fb8abeb0",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_l_06.wem"
+            "sourceName": "vo_wanderer_battle_hit_L_06.wem"
         },
         "f926c53b88554b49": {
             "hash": "f926c53b88554b49",
@@ -1144,12 +1312,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_wanderer_explore_climb_breath_01.wem"
         },
-        "f9a781a53fc11f4b": {
-            "hash": "f9a781a53fc11f4b",
-            "directory": "External31",
-            "voiceContent": "僕を殺す気か？まさか、僕が凡人じゃないことを忘れたとでも",
-            "sourceName": "vo_wanderer_spice_event_dislike_01.wem"
-        },
         "fa835d383baf024a": {
             "hash": "fa835d383baf024a",
             "directory": "External31",
@@ -1160,7 +1322,7 @@
             "hash": "fab6df7ca51ae32a",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_wanderer_battle_hit_h_04.wem"
+            "sourceName": "vo_wanderer_battle_hit_H_04.wem"
         },
         "fb60b1093b5cf553": {
             "hash": "fb60b1093b5cf553",

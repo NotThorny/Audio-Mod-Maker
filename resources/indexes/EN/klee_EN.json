@@ -403,7 +403,7 @@
             "hash": "05dc8bc3b4482a29",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_05.wem"
+            "sourceName": "vo_klee_battle_hit_L_05.wem"
         },
         "0f6605d10cff911e": {
             "hash": "0f6605d10cff911e",
@@ -421,7 +421,7 @@
             "hash": "0fdabbe6e5a499df",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackmid_03.wem"
+            "sourceName": "vo_klee_battle_attackMid_03.wem"
         },
         "108f39e2b78056c0": {
             "hash": "108f39e2b78056c0",
@@ -429,11 +429,23 @@
             "voiceContent": "Sure, time in solitary confinement gives lots of time to think about new gunpowder formulas... But it'd still be better to not be in solitary in the first place",
             "sourceName": "vo_klee_friendship_03.wem"
         },
+        "1281fe9cfdc7e203": {
+            "hash": "1281fe9cfdc7e203",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_03.wem"
+        },
         "131fba8364aaaec2": {
             "hash": "131fba8364aaaec2",
             "directory": "External2",
             "voiceContent": "SFX",
             "sourceName": "vo_klee_explore_idle_03.wem"
+        },
+        "13abeaaea849e03d": {
+            "hash": "13abeaaea849e03d",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_01.wem"
         },
         "1ec9358d67bd0120": {
             "hash": "1ec9358d67bd0120",
@@ -453,12 +465,6 @@
             "voiceContent": "I feel kinda woozy..",
             "sourceName": "vo_klee_life_less30_03.wem"
         },
-        "242334a9b4f5ecc6": {
-            "hash": "242334a9b4f5ecc6",
-            "directory": "External4",
-            "voiceContent": "It looks yummy, but it's kinda hard work to eat... Hee-hee, how about you help me? Pretty please",
-            "sourceName": "vo_klee_spice_event_dislike_01.wem"
-        },
         "264736279469449f": {
             "hash": "264736279469449f",
             "directory": "External4",
@@ -469,7 +475,7 @@
             "hash": "270e07f92de010d9",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackmid_01.wem"
+            "sourceName": "vo_klee_battle_attackMid_01.wem"
         },
         "275e77e590b827fc": {
             "hash": "275e77e590b827fc",
@@ -499,7 +505,7 @@
             "hash": "28480a76ff9dad38",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackheavy_01.wem"
+            "sourceName": "vo_klee_battle_attackHeavy_01.wem"
         },
         "28f982472ddecb7d": {
             "hash": "28f982472ddecb7d",
@@ -529,7 +535,7 @@
             "hash": "323a0339feb3ea9e",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_04.wem"
+            "sourceName": "vo_klee_battle_attackLight_04.wem"
         },
         "326522808c327dc6": {
             "hash": "326522808c327dc6",
@@ -537,11 +543,17 @@
             "voiceContent": "Aw yeah, I improved again! But as Jean says, Continuous self-improvement is one's duty. She says that means I'm allowed to be a bit happy about it, but not the most happy I've ever been in my whole life about it",
             "sourceName": "vo_klee_starUp_02.wem"
         },
+        "32eb41857a2c0fc3": {
+            "hash": "32eb41857a2c0fc3",
+            "directory": "External6",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_klee_02.wem"
+        },
         "3363374ba934b040": {
             "hash": "3363374ba934b040",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_06.wem"
+            "sourceName": "vo_klee_battle_attackLight_06.wem"
         },
         "3623a9754f23f244": {
             "hash": "3623a9754f23f244",
@@ -565,7 +577,7 @@
             "hash": "3d273665f2d4ae56",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackheavy_03.wem"
+            "sourceName": "vo_klee_battle_attackHeavy_03.wem"
         },
         "3f2594304aed180e": {
             "hash": "3f2594304aed180e",
@@ -669,6 +681,24 @@
             "voiceContent": "Master Jean is the best! But she's also a little bit scary",
             "sourceName": "vo_klee_teammate_qin_01.wem"
         },
+        "53a094fcd50a7f01": {
+            "hash": "53a094fcd50a7f01",
+            "directory": "External10",
+            "voiceContent": "",
+            "sourceName": "vo_klee_suit_witch_01.wem"
+        },
+        "54993cc6c0118a0e": {
+            "hash": "54993cc6c0118a0e",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_06.wem"
+        },
+        "55c330d86a9395b0": {
+            "hash": "55c330d86a9395b0",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_04.wem"
+        },
         "5621286a63cee4ed": {
             "hash": "5621286a63cee4ed",
             "directory": "External10",
@@ -709,7 +739,7 @@
             "hash": "69f63f91c3c6679b",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_03.wem"
+            "sourceName": "vo_klee_battle_hit_L_03.wem"
         },
         "6a29ab7fb06cb6c3": {
             "hash": "6a29ab7fb06cb6c3",
@@ -721,7 +751,7 @@
             "hash": "6b202ba36e4865b5",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_01.wem"
+            "sourceName": "vo_klee_battle_hit_L_01.wem"
         },
         "6c67ac79e8eada8b": {
             "hash": "6c67ac79e8eada8b",
@@ -765,11 +795,17 @@
             "voiceContent": "At the Knights of Favonius building, you're not allowed to blow up the walls. Shame, it would make getting out of solitary confinement way easier... but if I did so much as try to blow up the wall, Jean would make sure Klee never sees the light of day again. That's what Jean said, Kaeya told me",
             "sourceName": "vo_klee_dialog_share.wem"
         },
+        "836d8bedd9bd02ba": {
+            "hash": "836d8bedd9bd02ba",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_02b.wem"
+        },
         "85cd972ac83142fc": {
             "hash": "85cd972ac83142fc",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_02.wem"
+            "sourceName": "vo_klee_battle_attackLight_02.wem"
         },
         "85f8b67155afd524": {
             "hash": "85f8b67155afd524",
@@ -789,17 +825,11 @@
             "voiceContent": "Klee was a brave girl today! I found a really weird-looking lizard! Want me to show it to you",
             "sourceName": "vo_klee_explore_idle_01.wem"
         },
-        "8a880dfd5ee4c46a": {
-            "hash": "8a880dfd5ee4c46a",
-            "directory": "External17",
-            "voiceContent": "Yay, I got to eat something tasty today. I'm so happy! Thank you",
-            "sourceName": "vo_klee_spice_event_normal_01.wem"
-        },
         "8c7511422d472441": {
             "hash": "8c7511422d472441",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_07.wem"
+            "sourceName": "vo_klee_battle_attackLight_07.wem"
         },
         "91b2a5cb04ef7493": {
             "hash": "91b2a5cb04ef7493",
@@ -811,7 +841,7 @@
             "hash": "92ba2821146c236c",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_04.wem"
+            "sourceName": "vo_klee_battle_hit_H_04.wem"
         },
         "92dc91dcaf71728d": {
             "hash": "92dc91dcaf71728d",
@@ -835,7 +865,7 @@
             "hash": "95985dbae7fbe4c6",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_06.wem"
+            "sourceName": "vo_klee_battle_hit_L_06.wem"
         },
         "966fc7e3395a91fe": {
             "hash": "966fc7e3395a91fe",
@@ -873,11 +903,17 @@
             "voiceContent": "Mm, new-bomb research complete! Now, let's get outta here before Jean finds out..",
             "sourceName": "vo_klee_starUp_01.wem"
         },
+        "a3ce28ed9ba4ae67": {
+            "hash": "a3ce28ed9ba4ae67",
+            "directory": "External20",
+            "voiceContent": "",
+            "sourceName": "vo_klee_suit_witch_03.wem"
+        },
         "a433241004bfa93a": {
             "hash": "a433241004bfa93a",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_06.wem"
+            "sourceName": "vo_klee_battle_hit_H_06.wem"
         },
         "a4774d6153e6bde8": {
             "hash": "a4774d6153e6bde8",
@@ -949,7 +985,7 @@
             "hash": "b03171cd331a25e8",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_l_04.wem"
+            "sourceName": "vo_klee_battle_hit_L_04.wem"
         },
         "b78884784bb5d1af": {
             "hash": "b78884784bb5d1af",
@@ -967,13 +1003,7 @@
             "hash": "ba2fd9f06476f476",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackmid_02.wem"
-        },
-        "ba35a9c1c57709b0": {
-            "hash": "ba35a9c1c57709b0",
-            "directory": "External23",
-            "voiceContent": "Yummy, yummy! Oof, I'm so full..",
-            "sourceName": "vo_klee_spice_event_pref_01.wem"
+            "sourceName": "vo_klee_battle_attackMid_02.wem"
         },
         "bde622158b2b1346": {
             "hash": "bde622158b2b1346",
@@ -991,7 +1021,7 @@
             "hash": "c0e2f628078d4317",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_03.wem"
+            "sourceName": "vo_klee_battle_hit_H_03.wem"
         },
         "c29e4c8e8d985d70": {
             "hash": "c29e4c8e8d985d70",
@@ -1003,13 +1033,19 @@
             "hash": "c572e239b4f26a31",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_01.wem"
+            "sourceName": "vo_klee_battle_hit_H_01.wem"
         },
         "c60d7c988325b4fc": {
             "hash": "c60d7c988325b4fc",
             "directory": "External24",
             "voiceContent": "Woohoo",
             "sourceName": "vo_card_klee_inGame_hard_01.wem"
+        },
+        "c89713a005f4c22c": {
+            "hash": "c89713a005f4c22c",
+            "directory": "External25",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_klee_01.wem"
         },
         "ccb4f6afe83b9641": {
             "hash": "ccb4f6afe83b9641",
@@ -1059,17 +1095,35 @@
             "voiceContent": "I have a nice treasure for you",
             "sourceName": "vo_card_klee_inGame_easy_04.wem"
         },
+        "d6569ebe7cb1b517": {
+            "hash": "d6569ebe7cb1b517",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_07.wem"
+        },
         "d73b5974c433732a": {
             "hash": "d73b5974c433732a",
             "directory": "External26",
             "voiceContent": "Kaeya is the best! He wrote the Favonius Survival Rulebook for me and he always helps me cover it up when I make a big disaster",
             "sourceName": "vo_klee_teammate_kaeya_01.wem"
         },
+        "dae68ad02a16dc31": {
+            "hash": "dae68ad02a16dc31",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_05.wem"
+        },
         "dd4360f92f8a198e": {
             "hash": "dd4360f92f8a198e",
             "directory": "External27",
             "voiceContent": "I wanna go home now..",
             "sourceName": "vo_klee_life_die_02.wem"
+        },
+        "dd72a9f60822c7bd": {
+            "hash": "dd72a9f60822c7bd",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_02a.wem"
         },
         "de05f653a341772c": {
             "hash": "de05f653a341772c",
@@ -1081,7 +1135,7 @@
             "hash": "e008a532f6c47ba7",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_05.wem"
+            "sourceName": "vo_klee_battle_attackLight_05.wem"
         },
         "e192b05283aec504": {
             "hash": "e192b05283aec504",
@@ -1119,6 +1173,12 @@
             "voiceContent": "Spark Knight Klee of the Knights of Favonius, reporting for duty! ...There's some more, but uh, I forgot. I'm not so good at remembering..",
             "sourceName": "vo_klee_draw_appear.wem"
         },
+        "ea96ea0af893c6a3": {
+            "hash": "ea96ea0af893c6a3",
+            "directory": "External29",
+            "voiceContent": "No! It's only nine o'clock, I'm staying up to watch the circus' special midnight performance! You're supposed to be my best friend! Don't even think about trying to send me home!",
+            "sourceName": "vo_klee_dialog_close1_b.wem"
+        },
         "eaa30e734515995c": {
             "hash": "eaa30e734515995c",
             "directory": "External29",
@@ -1129,7 +1189,7 @@
             "hash": "eaf6985eeae6853f",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attackheavy_02.wem"
+            "sourceName": "vo_klee_battle_attackHeavy_02.wem"
         },
         "ebda4c88af8632c7": {
             "hash": "ebda4c88af8632c7",
@@ -1165,7 +1225,7 @@
             "hash": "f021c5103c688f93",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_01.wem"
+            "sourceName": "vo_klee_battle_attackLight_01.wem"
         },
         "f06a389a5ceb59e1": {
             "hash": "f06a389a5ceb59e1",
@@ -1173,11 +1233,23 @@
             "voiceContent": "Aw, but Kaeya said that when Klee's in trouble, she should just play the first card in her right hand... or was it the left...",
             "sourceName": "vo_card_klee_invite_easy_03.wem"
         },
+        "f14240734d952104": {
+            "hash": "f14240734d952104",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_50_klee_08.wem"
+        },
         "f14bb121e6ea8d8d": {
             "hash": "f14bb121e6ea8d8d",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_attacklight_03.wem"
+            "sourceName": "vo_klee_battle_attackLight_03.wem"
+        },
+        "f5fe86f4a3926a5e": {
+            "hash": "f5fe86f4a3926a5e",
+            "directory": "External30",
+            "voiceContent": "",
+            "sourceName": "vo_klee_suit_witch_02.wem"
         },
         "fa226757d514c229": {
             "hash": "fa226757d514c229",
@@ -1201,49 +1273,13 @@
             "hash": "fe38421833256e3d",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_klee_battle_hit_h_05.wem"
+            "sourceName": "vo_klee_battle_hit_H_05.wem"
         },
         "ffc36d62d825e45e": {
             "hash": "ffc36d62d825e45e",
             "directory": "External31",
             "voiceContent": "Da-da-da",
             "sourceName": "vo_klee_explore_sprint_start_02.wem"
-        },
-        "32eb41857a2c0fc3": {
-            "hash": "32eb41857a2c0fc3",
-            "directory": "External6",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_klee_02.wem"
-        },
-        "53a094fcd50a7f01": {
-            "hash": "53a094fcd50a7f01",
-            "directory": "External10",
-            "voiceContent": "",
-            "sourceName": "vo_klee_suit_witch_01.wem"
-        },
-        "a3ce28ed9ba4ae67": {
-            "hash": "a3ce28ed9ba4ae67",
-            "directory": "External20",
-            "voiceContent": "",
-            "sourceName": "vo_klee_suit_witch_03.wem"
-        },
-        "c89713a005f4c22c": {
-            "hash": "c89713a005f4c22c",
-            "directory": "External25",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_klee_01.wem"
-        },
-        "ea96ea0af893c6a3": {
-            "hash": "ea96ea0af893c6a3",
-            "directory": "External29",
-            "voiceContent": "No! It's only nine o'clock, I'm staying up to watch the circus' special midnight performance! You're supposed to be my best friend! Don't even think about trying to send me home!",
-            "sourceName": "vo_klee_dialog_close1_b.wem"
-        },
-        "f5fe86f4a3926a5e": {
-            "hash": "f5fe86f4a3926a5e",
-            "directory": "External30",
-            "voiceContent": "",
-            "sourceName": "vo_klee_suit_witch_02.wem"
         }
     }
 }

@@ -296,6 +296,12 @@
             "voiceContent": "으아앗! 전 아무것도 몰라요! 비밀 같은 거 안 숨겼어요",
             "sourceName": "vo_HSEQ001_2_collei_02.wem"
         },
+        "2b11dd80ec9692db": {
+            "hash": "2b11dd80ec9692db",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ102_collei_07.wem"
+        },
         "50af97af700ae700": {
             "hash": "50af97af700ae700",
             "directory": "External10",
@@ -356,6 +362,12 @@
             "voiceContent": "어? 너희였어? 으아… 깜짝 놀랐네. 수업 중에 딴짓하다 스승님한테 걸렸을 때보다 더 놀랐어",
             "sourceName": "vo_HSEQ001_2_collei_03.wem"
         },
+        "d8db2efe154f93eb": {
+            "hash": "d8db2efe154f93eb",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_collei_01.wem"
+        },
         "e10d6ed052b47ba6": {
             "hash": "e10d6ed052b47ba6",
             "directory": "External28",
@@ -367,6 +379,12 @@
             "directory": "External31",
             "voiceContent": "너무 부담 주지 마세",
             "sourceName": "vo_HSEQ003_15_collei_02b.wem"
+        },
+        "fc4756c85d3a180e": {
+            "hash": "fc4756c85d3a180e",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_TXSLQ004_5_collei_01.wem"
         }
     },
     "Gameplay": {
@@ -374,7 +392,7 @@
             "hash": "022eec9cc0c2d79e",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_05.wem"
+            "sourceName": "vo_collei_battle_hit_L_05.wem"
         },
         "0312ccbbf42c3f7a": {
             "hash": "0312ccbbf42c3f7a",
@@ -440,13 +458,13 @@
             "hash": "105b506e94fb1fd4",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackmid_03.wem"
+            "sourceName": "vo_collei_battle_attackMid_03.wem"
         },
         "1748c107f4d1f72c": {
             "hash": "1748c107f4d1f72c",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_01.wem"
+            "sourceName": "vo_collei_battle_attackLight_01.wem"
         },
         "1949204aed9a55c7": {
             "hash": "1949204aed9a55c7",
@@ -464,13 +482,7 @@
             "hash": "1c5a43328f7b1a15",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_h_06.wem"
-        },
-        "21861020f184908a": {
-            "hash": "21861020f184908a",
-            "directory": "External4",
-            "voiceContent": "음——진짜 맛있다! 나도 가르쳐주면 안 돼",
-            "sourceName": "vo_collei_spice_event_pref_01.wem"
+            "sourceName": "vo_collei_battle_hit_H_06.wem"
         },
         "218bfb8e9783c28d": {
             "hash": "218bfb8e9783c28d",
@@ -542,7 +554,7 @@
             "hash": "2c27bcf6e808a6fa",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_03.wem"
+            "sourceName": "vo_collei_battle_attackLight_03.wem"
         },
         "2ca9773e528c2191": {
             "hash": "2ca9773e528c2191",
@@ -602,7 +614,7 @@
             "hash": "35ead146baea4505",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackheavy_03.wem"
+            "sourceName": "vo_collei_battle_attackHeavy_03.wem"
         },
         "37a22a7024b8470d": {
             "hash": "37a22a7024b8470d",
@@ -620,7 +632,7 @@
             "hash": "3b2a7c7b3f23bc8a",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_01.wem"
+            "sourceName": "vo_collei_battle_hit_L_01.wem"
         },
         "4090d1b71323805b": {
             "hash": "4090d1b71323805b",
@@ -650,19 +662,25 @@
             "hash": "48d88f0eead7f3d7",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_06.wem"
+            "sourceName": "vo_collei_battle_attackLight_06.wem"
         },
         "4a027b209559f1f1": {
             "hash": "4a027b209559f1f1",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_04.wem"
+            "sourceName": "vo_collei_battle_attackLight_04.wem"
         },
         "4d9eb612f20fbdf0": {
             "hash": "4d9eb612f20fbdf0",
             "directory": "External9",
             "voiceContent": "몬드성은 예나 지금이나 여전히 사람이 많네",
             "sourceName": "vo_card_collei_freetalk_01.wem"
+        },
+        "4f8798f98fa2736f": {
+            "hash": "4f8798f98fa2736f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_collei_01.wem"
         },
         "53d9150d47e4c362": {
             "hash": "53d9150d47e4c362",
@@ -680,7 +698,7 @@
             "hash": "55c2808d8a402ffc",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_03.wem"
+            "sourceName": "vo_collei_battle_hit_L_03.wem"
         },
         "581eb68de514b1cb": {
             "hash": "581eb68de514b1cb",
@@ -698,7 +716,7 @@
             "hash": "5c69faa4ef561141",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_06.wem"
+            "sourceName": "vo_collei_battle_hit_L_06.wem"
         },
         "5d17eac42292047d": {
             "hash": "5d17eac42292047d",
@@ -710,13 +728,13 @@
             "hash": "5e05895c5169b148",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_h_03.wem"
+            "sourceName": "vo_collei_battle_hit_H_03.wem"
         },
         "6088ec5f5b955b82": {
             "hash": "6088ec5f5b955b82",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackmid_01.wem"
+            "sourceName": "vo_collei_battle_attackMid_01.wem"
         },
         "64a91fc2fa29ce87": {
             "hash": "64a91fc2fa29ce87",
@@ -782,7 +800,7 @@
             "hash": "6c87d7235615497b",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_h_04.wem"
+            "sourceName": "vo_collei_battle_hit_H_04.wem"
         },
         "728255802eef704d": {
             "hash": "728255802eef704d",
@@ -854,19 +872,13 @@
             "hash": "819ceeed690944c3",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_02.wem"
-        },
-        "82e0ea6c37d66544": {
-            "hash": "82e0ea6c37d66544",
-            "directory": "External16",
-            "voiceContent": "미안, 스승님이 이상한 음식은 먹지 말랬",
-            "sourceName": "vo_collei_spice_event_dislike_01.wem"
+            "sourceName": "vo_collei_battle_attackLight_02.wem"
         },
         "861825378184072b": {
             "hash": "861825378184072b",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackheavy_01.wem"
+            "sourceName": "vo_collei_battle_attackHeavy_01.wem"
         },
         "88dbbce32373eca4": {
             "hash": "88dbbce32373eca4",
@@ -968,7 +980,7 @@
             "hash": "affd8e95b8d368a7",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_04.wem"
+            "sourceName": "vo_collei_battle_hit_L_04.wem"
         },
         "b02d2998b1ef952a": {
             "hash": "b02d2998b1ef952a",
@@ -981,12 +993,6 @@
             "directory": "External22",
             "voiceContent": "으… 망했다",
             "sourceName": "vo_card_collei_inGame_easy_03.wem"
-        },
-        "b7167536553aa2d0": {
-            "hash": "b7167536553aa2d0",
-            "directory": "External22",
-            "voiceContent": "이 정도 실력이면 밖에서 떠돌이 생활을 해도 굶을 일은 없겠",
-            "sourceName": "vo_collei_spice_event_normal_01.wem"
         },
         "b73401c20954d735": {
             "hash": "b73401c20954d735",
@@ -1004,7 +1010,7 @@
             "hash": "bafa0a678a563fa5",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackmid_02.wem"
+            "sourceName": "vo_collei_battle_attackMid_02.wem"
         },
         "bb8ca97b212885ad": {
             "hash": "bb8ca97b212885ad",
@@ -1046,7 +1052,7 @@
             "hash": "c1409a84a8f97a8d",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_l_02.wem"
+            "sourceName": "vo_collei_battle_hit_L_02.wem"
         },
         "c1c22f6fc38db387": {
             "hash": "c1c22f6fc38db387",
@@ -1076,13 +1082,13 @@
             "hash": "c71b2d172e37c8ce",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_07.wem"
+            "sourceName": "vo_collei_battle_attackLight_07.wem"
         },
         "c8452128d8b9d470": {
             "hash": "c8452128d8b9d470",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attacklight_05.wem"
+            "sourceName": "vo_collei_battle_attackLight_05.wem"
         },
         "c8d4a1317e3d3f73": {
             "hash": "c8d4a1317e3d3f73",
@@ -1130,7 +1136,7 @@
             "hash": "dca2975036a99eb4",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_attackheavy_02.wem"
+            "sourceName": "vo_collei_battle_attackHeavy_02.wem"
         },
         "dfdd1de906886be9": {
             "hash": "dfdd1de906886be9",
@@ -1166,7 +1172,7 @@
             "hash": "ea94652b99477332",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_collei_battle_hit_h_05.wem"
+            "sourceName": "vo_collei_battle_hit_H_05.wem"
         },
         "ee0216b2bd031343": {
             "hash": "ee0216b2bd031343",

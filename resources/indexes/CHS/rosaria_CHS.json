@@ -309,6 +309,12 @@
             "voiceContent": "我偶尔能感觉到过去每一年的自己都存在着、围绕着我…对我有所寄托。你一定也有相同的感觉，所以，哪怕如今你已走上截然不同的道路，也不要否认从前的自己。从前的每一个你，都是你脚下的基石。不要害怕过去，不要畏惧与它抗衡",
             "sourceName": "vo_rosaria_friendship_05.wem"
         },
+        "04a6fd84588b156f": {
+            "hash": "04a6fd84588b156f",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_04.wem"
+        },
         "04bca4912102fb24": {
             "hash": "04bca4912102fb24",
             "directory": "External0",
@@ -325,13 +331,19 @@
             "hash": "090f843e31299f89",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackmid_03.wem"
+            "sourceName": "vo_rosaria_battle_attackMid_03.wem"
         },
         "09d69722b7eb0938": {
             "hash": "09d69722b7eb0938",
             "directory": "External1",
             "voiceContent": "还不走吗",
             "sourceName": "vo_rosaria_explore_idle_01.wem"
+        },
+        "09ff8c692e5f358f": {
+            "hash": "09ff8c692e5f358f",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_10.wem"
         },
         "0b764512c0c919b5": {
             "hash": "0b764512c0c919b5",
@@ -343,7 +355,13 @@
             "hash": "0ff6984760ac776f",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_l_01.wem"
+            "sourceName": "vo_rosaria_battle_hit_L_01.wem"
+        },
+        "120bcb810e6d6be2": {
+            "hash": "120bcb810e6d6be2",
+            "directory": "External2",
+            "voiceContent": "",
+            "sourceName": "vo_rosaria_suit_renew_02.wem"
         },
         "135051ae21d3a8f0": {
             "hash": "135051ae21d3a8f0",
@@ -361,19 +379,19 @@
             "hash": "17574bb9538594d7",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_07.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_07.wem"
         },
         "188137cafe0792f1": {
             "hash": "188137cafe0792f1",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_05.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_05.wem"
         },
         "1a88b82d217d850f": {
             "hash": "1a88b82d217d850f",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackmid_01.wem"
+            "sourceName": "vo_rosaria_battle_attackMid_01.wem"
         },
         "1c7fb7a29d984442": {
             "hash": "1c7fb7a29d984442",
@@ -398,6 +416,12 @@
             "directory": "External3",
             "voiceContent": "嘁，麻烦",
             "sourceName": "vo_rosaria_weather_thunder_01.wem"
+        },
+        "1ff8842f277a15a7": {
+            "hash": "1ff8842f277a15a7",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_easy_01.wem"
         },
         "21d8c551ed74135d": {
             "hash": "21d8c551ed74135d",
@@ -428,6 +452,12 @@
             "directory": "External4",
             "voiceContent": "虽说是出于好意，但法尔伽啰嗦起来像个老头一样，相当在意身边的人呢。唉，那家伙",
             "sourceName": "vo_rosaria_teammate_varka_01.wem"
+        },
+        "27f3eb89330ca102": {
+            "hash": "27f3eb89330ca102",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_12.wem"
         },
         "28dc5f50d01d6d69": {
             "hash": "28dc5f50d01d6d69",
@@ -465,11 +495,23 @@
             "voiceContent": "出了个大岔子",
             "sourceName": "vo_card_rosaria_inGame_hard_03.wem"
         },
+        "33c929a78759caae": {
+            "hash": "33c929a78759caae",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_hard_03.wem"
+        },
         "33f996415f91a8d8": {
             "hash": "33f996415f91a8d8",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_h_06.wem"
+            "sourceName": "vo_rosaria_battle_hit_H_06.wem"
+        },
+        "35ab1448a8c5bb45": {
+            "hash": "35ab1448a8c5bb45",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_05.wem"
         },
         "35e93fbbc568d6c9": {
             "hash": "35e93fbbc568d6c9",
@@ -483,11 +525,35 @@
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_climb_05.wem"
         },
+        "3a04e85a55fd29bf": {
+            "hash": "3a04e85a55fd29bf",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_03.wem"
+        },
         "3a55933fc07152ef": {
             "hash": "3a55933fc07152ef",
             "directory": "External7",
             "voiceContent": "这样也好",
             "sourceName": "vo_rosaria_life_die_01.wem"
+        },
+        "3b7cef9ebc0739a4": {
+            "hash": "3b7cef9ebc0739a4",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_endOfGame_fail_01.wem"
+        },
+        "3c323ac994f19d0e": {
+            "hash": "3c323ac994f19d0e",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_06.wem"
+        },
+        "3d6dfbf02df71d67": {
+            "hash": "3d6dfbf02df71d67",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_04a.wem"
         },
         "412b622a011a4f7e": {
             "hash": "412b622a011a4f7e",
@@ -507,6 +573,12 @@
             "voiceContent": "要说什么是值得高兴的好事…呵，只是假设而已。如果有一天你遇到无法解决的难题，也别认为那就是人生的终点。说不定，会有人替你解决困境呢",
             "sourceName": "vo_rosaria_dialog_share_01.wem"
         },
+        "46be3bae1ad4bc9a": {
+            "hash": "46be3bae1ad4bc9a",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_09.wem"
+        },
         "47231746458d9157": {
             "hash": "47231746458d9157",
             "directory": "External8",
@@ -519,11 +591,35 @@
             "voiceContent": "呼…速战速决",
             "sourceName": "vo_rosaria_teamJoin_03.wem"
         },
+        "479a907d49ec646f": {
+            "hash": "479a907d49ec646f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_09b.wem"
+        },
         "48d8c23052c8a9f6": {
             "hash": "48d8c23052c8a9f6",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_h_04.wem"
+            "sourceName": "vo_rosaria_battle_hit_H_04.wem"
+        },
+        "4933a9b2e33f6219": {
+            "hash": "4933a9b2e33f6219",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_15.wem"
+        },
+        "4ab7be8145facd48": {
+            "hash": "4ab7be8145facd48",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_13.wem"
+        },
+        "4b392a8bd3bab54a": {
+            "hash": "4b392a8bd3bab54a",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_11.wem"
         },
         "4be597b768a661d6": {
             "hash": "4be597b768a661d6",
@@ -531,23 +627,17 @@
             "voiceContent": "祈祷吧。不是为了神或其他任何人，而是为了自己",
             "sourceName": "vo_rosaria_dialog_close1.wem"
         },
-        "4d327aa146556942": {
-            "hash": "4d327aa146556942",
-            "directory": "External9",
-            "voiceContent": "你对这种食物很感兴趣吗",
-            "sourceName": "vo_rosaria_spice_event_dislike_01.wem"
-        },
         "4fe70e0309dc9a8c": {
             "hash": "4fe70e0309dc9a8c",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackheavy_03.wem"
+            "sourceName": "vo_rosaria_battle_attackHeavy_03.wem"
         },
         "501bab97d1b6e5c3": {
             "hash": "501bab97d1b6e5c3",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_03.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_03.wem"
         },
         "50db0eb798abe521": {
             "hash": "50db0eb798abe521",
@@ -577,7 +667,7 @@
             "hash": "54ab97a97f1c0cfd",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_01.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_01.wem"
         },
         "552dbfbcfdc6272d": {
             "hash": "552dbfbcfdc6272d",
@@ -585,17 +675,23 @@
             "voiceContent": "唉…真不想参加下个月的合唱活动，可维多利亚亲自点名了",
             "sourceName": "vo_rosaria_dialog_annoyed.wem"
         },
-        "5747bfad2d1308cc": {
-            "hash": "5747bfad2d1308cc",
-            "directory": "External10",
-            "voiceContent": "看来这方面，我们品味相投",
-            "sourceName": "vo_rosaria_spice_event_pref_01.wem"
+        "587069752235b875": {
+            "hash": "587069752235b875",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_02.wem"
+        },
+        "593a0c484aa6657b": {
+            "hash": "593a0c484aa6657b",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_14.wem"
         },
         "5b40ea4539191cc8": {
             "hash": "5b40ea4539191cc8",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackmid_02.wem"
+            "sourceName": "vo_rosaria_battle_attackMid_02.wem"
         },
         "5b56ff8854150f36": {
             "hash": "5b56ff8854150f36",
@@ -607,13 +703,25 @@
             "hash": "5f3118267cf3a65b",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_l_05.wem"
+            "sourceName": "vo_rosaria_battle_hit_L_05.wem"
+        },
+        "626c2e9e1bf5b1bc": {
+            "hash": "626c2e9e1bf5b1bc",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_13.wem"
+        },
+        "637f23dc9b739f33": {
+            "hash": "637f23dc9b739f33",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_08a.wem"
         },
         "64c709f1fd14fd5a": {
             "hash": "64c709f1fd14fd5a",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackheavy_01.wem"
+            "sourceName": "vo_rosaria_battle_attackHeavy_01.wem"
         },
         "65c42e59109648a2": {
             "hash": "65c42e59109648a2",
@@ -639,6 +747,12 @@
             "voiceContent": "麻烦",
             "sourceName": "vo_card_rosaria_inGame_easy_03.wem"
         },
+        "6c7de9893d300205": {
+            "hash": "6c7de9893d300205",
+            "directory": "External13",
+            "voiceContent": "",
+            "sourceName": "vo_rosaria_suit_renew_01.wem"
+        },
         "6e6a85191be18413": {
             "hash": "6e6a85191be18413",
             "directory": "External13",
@@ -663,6 +777,12 @@
             "voiceContent": "父亲？好遥远的词汇啊。对我而言可以说没有，也可以说有不止一个。怎么？很惊讶吗",
             "sourceName": "vo_rosaria_teammate_father_01.wem"
         },
+        "73531647d9ea4a40": {
+            "hash": "73531647d9ea4a40",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_easy_02.wem"
+        },
         "75bda56391c47346": {
             "hash": "75bda56391c47346",
             "directory": "External14",
@@ -681,6 +801,12 @@
             "voiceContent": "你对这种食物很感兴趣吗",
             "sourceName": "vo_rosaria_spice_dislike_01.wem"
         },
+        "7dde7785a0879b40": {
+            "hash": "7dde7785a0879b40",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_leave_01.wem"
+        },
         "7efe82f04c955cf8": {
             "hash": "7efe82f04c955cf8",
             "directory": "External15",
@@ -692,6 +818,24 @@
             "directory": "External16",
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_jump_01.wem"
+        },
+        "813bdd7fb74ccdcb": {
+            "hash": "813bdd7fb74ccdcb",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_13.wem"
+        },
+        "8265099161cd8525": {
+            "hash": "8265099161cd8525",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_11.wem"
+        },
+        "82e99b8c9beae986": {
+            "hash": "82e99b8c9beae986",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_05.wem"
         },
         "85b569da8d52e595": {
             "hash": "85b569da8d52e595",
@@ -711,11 +855,23 @@
             "voiceContent": "蒙德是一头既古老又年轻的白色野兽，古老到需要人去保护，也年轻到无法独立生存。只有这样的地方才会需要我这样的人。我像其他修女照顾市民那样照顾着蒙德，让它在自由的道路上平稳前进。你问我为什么它是白色的？…因为像我这样的人，是黑色的",
             "sourceName": "vo_rosaria_friendship_04.wem"
         },
+        "88422a7171bf0aa6": {
+            "hash": "88422a7171bf0aa6",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_11.wem"
+        },
         "8858e70959794652": {
             "hash": "8858e70959794652",
             "directory": "External17",
             "voiceContent": "退后",
             "sourceName": "vo_rosaria_life_less30_teammate_01.wem"
+        },
+        "893f68397244596b": {
+            "hash": "893f68397244596b",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_07.wem"
         },
         "894b8c5f0738a85a": {
             "hash": "894b8c5f0738a85a",
@@ -728,6 +884,12 @@
             "directory": "External17",
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_idle_02.wem"
+        },
+        "8c3586615deb52d6": {
+            "hash": "8c3586615deb52d6",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_02.wem"
         },
         "8ed704c5137f0d2c": {
             "hash": "8ed704c5137f0d2c",
@@ -747,11 +909,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_climb_breath_01.wem"
         },
+        "942e8e08e34a7a00": {
+            "hash": "942e8e08e34a7a00",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_04b.wem"
+        },
+        "94c1d1cbb5b4a743": {
+            "hash": "94c1d1cbb5b4a743",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_freetalk_01.wem"
+        },
         "9599e9c196e569ce": {
             "hash": "9599e9c196e569ce",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_06.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_06.wem"
         },
         "9691c91926f6b02c": {
             "hash": "9691c91926f6b02c",
@@ -763,13 +937,25 @@
             "hash": "96c3ddd341677570",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_04.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_04.wem"
         },
         "96d9536db20efbf2": {
             "hash": "96d9536db20efbf2",
             "directory": "External18",
             "voiceContent": "我不喜欢上班偷懒的人，不过也很能理解她准点下班的心情",
             "sourceName": "vo_rosaria_teammate_lisa_01.wem"
+        },
+        "99f5e4adc59669a1": {
+            "hash": "99f5e4adc59669a1",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_09.wem"
+        },
+        "9a1baf9ee4244ea8": {
+            "hash": "9a1baf9ee4244ea8",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_07.wem"
         },
         "9bcde3f05be018e8": {
             "hash": "9bcde3f05be018e8",
@@ -793,7 +979,19 @@
             "hash": "9e83a426d3f64f5f",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_h_05.wem"
+            "sourceName": "vo_rosaria_battle_hit_H_05.wem"
+        },
+        "a10775f4b059d31c": {
+            "hash": "a10775f4b059d31c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_08b.wem"
+        },
+        "a13fcaa94ec42e3a": {
+            "hash": "a13fcaa94ec42e3a",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_02.wem"
         },
         "a279910e0c387017": {
             "hash": "a279910e0c387017",
@@ -855,6 +1053,12 @@
             "voiceContent": "一点也不顺利",
             "sourceName": "vo_card_rosaria_inGame_hard_02.wem"
         },
+        "b5868b9f43f9f5b7": {
+            "hash": "b5868b9f43f9f5b7",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_hard_02.wem"
+        },
         "b7998bbfcc420ef1": {
             "hash": "b7998bbfcc420ef1",
             "directory": "External22",
@@ -873,17 +1077,35 @@
             "voiceContent": "不要勉强，有困难可以叫我",
             "sourceName": "vo_rosaria_dialog_close2.wem"
         },
+        "bcab3d7a03c9c42b": {
+            "hash": "bcab3d7a03c9c42b",
+            "directory": "External23",
+            "voiceContent": "",
+            "sourceName": "vo_rosaria_suit_renew_03.wem"
+        },
         "bdb6637d66afa473": {
             "hash": "bdb6637d66afa473",
             "directory": "External23",
             "voiceContent": "嗯…还行",
             "sourceName": "vo_card_rosaria_inGame_easy_01.wem"
         },
+        "bdef9cc15191c817": {
+            "hash": "bdef9cc15191c817",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_07.wem"
+        },
         "becb27fa2b790f5d": {
             "hash": "becb27fa2b790f5d",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attackheavy_02.wem"
+            "sourceName": "vo_rosaria_battle_attackHeavy_02.wem"
+        },
+        "c27f88d2fef6ef31": {
+            "hash": "c27f88d2fef6ef31",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_05.wem"
         },
         "c30f14a88d4e0039": {
             "hash": "c30f14a88d4e0039",
@@ -897,11 +1119,11 @@
             "voiceContent": "但愿配合顺利",
             "sourceName": "vo_rosaria_teamJoin_02.wem"
         },
-        "c64a41c7cc54b5a6": {
-            "hash": "c64a41c7cc54b5a6",
+        "c7764fbb269f4498": {
+            "hash": "c7764fbb269f4498",
             "directory": "External24",
-            "voiceContent": "至少能填饱肚子",
-            "sourceName": "vo_rosaria_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_14.wem"
         },
         "c8ec1bb1d41ade94": {
             "hash": "c8ec1bb1d41ade94",
@@ -909,11 +1131,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_fly_start_01.wem"
         },
+        "cc64f03e5dfcbe41": {
+            "hash": "cc64f03e5dfcbe41",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_easy_03.wem"
+        },
         "cc85250aa333e13f": {
             "hash": "cc85250aa333e13f",
             "directory": "External25",
             "voiceContent": "什么都可以商量，除了加班",
             "sourceName": "vo_rosaria_explore_idle_02.wem"
+        },
+        "ccc05c83902cff53": {
+            "hash": "ccc05c83902cff53",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_10.wem"
         },
         "cd1c7623c0e0a019": {
             "hash": "cd1c7623c0e0a019",
@@ -927,6 +1161,18 @@
             "voiceContent": "或许是…命中注定",
             "sourceName": "vo_rosaria_life_die_02.wem"
         },
+        "d15048953d92264d": {
+            "hash": "d15048953d92264d",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_12.wem"
+        },
+        "d1ed0b6bb802bb12": {
+            "hash": "d1ed0b6bb802bb12",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_01.wem"
+        },
         "d4b137774a98f9c2": {
             "hash": "d4b137774a98f9c2",
             "directory": "External26",
@@ -939,17 +1185,59 @@
             "voiceContent": "制裁",
             "sourceName": "vo_rosaria_battle_skill3_01.wem"
         },
+        "d67d2f7d656841e4": {
+            "hash": "d67d2f7d656841e4",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_03.wem"
+        },
+        "d7469a508dd88f32": {
+            "hash": "d7469a508dd88f32",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_15.wem"
+        },
+        "d7c64f986c726554": {
+            "hash": "d7c64f986c726554",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_10.wem"
+        },
+        "d8ef7baa16f31cb6": {
+            "hash": "d8ef7baa16f31cb6",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_16.wem"
+        },
         "da48d41d987e54bb": {
             "hash": "da48d41d987e54bb",
             "directory": "External27",
             "voiceContent": "那些值班修女一个比一个麻烦，不是抓人去祷告，就是叫人去唱诗班。你可别告诉她们我在这里",
             "sourceName": "vo_rosaria_dialog_idle2.wem"
         },
+        "db39f6407a04d722": {
+            "hash": "db39f6407a04d722",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_06.wem"
+        },
+        "dc62da52248514f4": {
+            "hash": "dc62da52248514f4",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_04.wem"
+        },
+        "dd0f4297d5859da8": {
+            "hash": "dd0f4297d5859da8",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_09a.wem"
+        },
         "dd3ca62ec0241d12": {
             "hash": "dd3ca62ec0241d12",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_l_04.wem"
+            "sourceName": "vo_rosaria_battle_hit_L_04.wem"
         },
         "de62148c9ca93a60": {
             "hash": "de62148c9ca93a60",
@@ -957,11 +1245,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_idle_03.wem"
         },
+        "e0359db6bddc80d0": {
+            "hash": "e0359db6bddc80d0",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_invite_hard_01.wem"
+        },
         "e1ccca406d89a3e4": {
             "hash": "e1ccca406d89a3e4",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_l_06.wem"
+            "sourceName": "vo_rosaria_battle_hit_L_06.wem"
+        },
+        "ebe7a3ad82a2b19c": {
+            "hash": "ebe7a3ad82a2b19c",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_rosaria_01.wem"
         },
         "ef84d044866ada15": {
             "hash": "ef84d044866ada15",
@@ -969,17 +1269,23 @@
             "voiceContent": "「神之眼」可以是实力的证明，也可以是幸存的勋章…谁知道呢？真正的好东西总是具有两面性。我不会定义「神之眼」。我和它只是互相见证的关系罢了",
             "sourceName": "vo_rosaria_dialog_pendant.wem"
         },
+        "ef8d8ab4d0697c20": {
+            "hash": "ef8d8ab4d0697c20",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_08.wem"
+        },
         "f1242405f320a70b": {
             "hash": "f1242405f320a70b",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_h_01.wem"
+            "sourceName": "vo_rosaria_battle_hit_H_01.wem"
         },
         "f24e50179da31265": {
             "hash": "f24e50179da31265",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_h_03.wem"
+            "sourceName": "vo_rosaria_battle_hit_H_03.wem"
         },
         "f28bf5a0f7ea44d9": {
             "hash": "f28bf5a0f7ea44d9",
@@ -987,11 +1293,35 @@
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_jump_04.wem"
         },
+        "f32dc99568372fe9": {
+            "hash": "f32dc99568372fe9",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_06.wem"
+        },
+        "f456eda712b7d9e3": {
+            "hash": "f456eda712b7d9e3",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_20_rosaria_08.wem"
+        },
+        "f55a91f13885eb38": {
+            "hash": "f55a91f13885eb38",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_rosaria_endOfGame_win_01.wem"
+        },
         "f576149dbf96ae5c": {
             "hash": "f576149dbf96ae5c",
             "directory": "External30",
             "voiceContent": "还算顺利",
             "sourceName": "vo_card_rosaria_inGame_hard_01.wem"
+        },
+        "f886587a3e0b5009": {
+            "hash": "f886587a3e0b5009",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_12.wem"
         },
         "f8febd5b40450774": {
             "hash": "f8febd5b40450774",
@@ -999,11 +1329,17 @@
             "voiceContent": "得加个班了",
             "sourceName": "vo_rosaria_life_less30_02.wem"
         },
+        "fa1afc9fd2a7f503": {
+            "hash": "fa1afc9fd2a7f503",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_03.wem"
+        },
         "faa679a150b647fa": {
             "hash": "faa679a150b647fa",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_attacklight_02.wem"
+            "sourceName": "vo_rosaria_battle_attackLight_02.wem"
         },
         "fab8de797e0597b7": {
             "hash": "fab8de797e0597b7",
@@ -1017,11 +1353,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_rosaria_explore_climb_breath_02.wem"
         },
+        "fb44e8b17d29f33d": {
+            "hash": "fb44e8b17d29f33d",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_rosaria_01.wem"
+        },
+        "fc79b46a2a379839": {
+            "hash": "fc79b46a2a379839",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_18_rosaria_01.wem"
+        },
         "fe7d6458705891e9": {
             "hash": "fe7d6458705891e9",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_rosaria_battle_hit_l_03.wem"
+            "sourceName": "vo_rosaria_battle_hit_L_03.wem"
         },
         "fea3b5957e774e5c": {
             "hash": "fea3b5957e774e5c",
@@ -1034,24 +1382,6 @@
             "directory": "External31",
             "voiceContent": "快点结束吧",
             "sourceName": "vo_card_rosaria_inGame_easy_04.wem"
-        },
-        "120bcb810e6d6be2": {
-            "hash": "120bcb810e6d6be2",
-            "directory": "External2",
-            "voiceContent": "",
-            "sourceName": "vo_rosaria_suit_renew_02.wem"
-        },
-        "6c7de9893d300205": {
-            "hash": "6c7de9893d300205",
-            "directory": "External13",
-            "voiceContent": "",
-            "sourceName": "vo_rosaria_suit_renew_01.wem"
-        },
-        "bcab3d7a03c9c42b": {
-            "hash": "bcab3d7a03c9c42b",
-            "directory": "External23",
-            "voiceContent": "",
-            "sourceName": "vo_rosaria_suit_renew_03.wem"
         }
     }
 }

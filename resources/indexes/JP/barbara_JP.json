@@ -350,7 +350,7 @@
             "hash": "11cc9ef78df9d77a",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackmid_02.wem"
+            "sourceName": "vo_barbara_battle_attackMid_02.wem"
         },
         "1a540d2b868ee4cc": {
             "hash": "1a540d2b868ee4cc",
@@ -382,12 +382,6 @@
             "voiceContent": "アイドル、うーん…アリスさんから教えてもらったのは…「優秀なアイドルは人々の心を癒せる」って…うん、うん、とにかくそういうことだよ",
             "sourceName": "vo_barbara_friendship_03.wem"
         },
-        "24af10e0c4146590": {
-            "hash": "24af10e0c4146590",
-            "directory": "External4",
-            "voiceContent": "作ってくれてありがとう。今回はあなたに癒されたね",
-            "sourceName": "vo_barbara_spice_event_normal_01.wem"
-        },
         "25abc4eef2574c8b": {
             "hash": "25abc4eef2574c8b",
             "directory": "External4",
@@ -406,6 +400,12 @@
             "voiceContent": "安心して——わ——た——し——吹き飛ばされたりしないから——",
             "sourceName": "vo_barbara_weather_gale_01.wem"
         },
+        "29edcab4873bdc82": {
+            "hash": "29edcab4873bdc82",
+            "directory": "External5",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_barbara_sing.wem"
+        },
         "2a923b50cb4a2c6d": {
             "hash": "2a923b50cb4a2c6d",
             "directory": "External5",
@@ -417,6 +417,12 @@
             "directory": "External6",
             "voiceContent": "私は毎日努力しているんだよ。この努力で…モンドの皆の信頼に応えられればな",
             "sourceName": "vo_barbara_friendship_04.wem"
+        },
+        "343ae2e82d44678b": {
+            "hash": "343ae2e82d44678b",
+            "directory": "External6",
+            "voiceContent": "",
+            "sourceName": "vo_barbara_suit_swim_02.wem"
         },
         "34452e41266692e1": {
             "hash": "34452e41266692e1",
@@ -458,13 +464,13 @@
             "hash": "45b1240b142463db",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_h_03.wem"
+            "sourceName": "vo_barbara_battle_hit_H_03.wem"
         },
         "45ce1ccbfb1ef48a": {
             "hash": "45ce1ccbfb1ef48a",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackheavy_03.wem"
+            "sourceName": "vo_barbara_battle_attackHeavy_03.wem"
         },
         "48c145dc25f2861a": {
             "hash": "48c145dc25f2861a",
@@ -488,7 +494,7 @@
             "hash": "4a40101cc187d7f5",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_h_01.wem"
+            "sourceName": "vo_barbara_battle_hit_H_01.wem"
         },
         "4b58fba5201fd8d7": {
             "hash": "4b58fba5201fd8d7",
@@ -544,6 +550,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_barbara_explore_fly_start_01.wem"
         },
+        "5e1758e6bf8afc19": {
+            "hash": "5e1758e6bf8afc19",
+            "directory": "External11",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "sfx_standbyShow_vo_barbara_02.wem"
+        },
         "5e3f5a1750821924": {
             "hash": "5e3f5a1750821924",
             "directory": "External11",
@@ -554,7 +566,7 @@
             "hash": "606620de463b67fc",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackheavy_01.wem"
+            "sourceName": "vo_barbara_battle_attackHeavy_01.wem"
         },
         "630357b8749ea3ce": {
             "hash": "630357b8749ea3ce",
@@ -578,7 +590,7 @@
             "hash": "6741d0ee0efa7543",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackmid_03.wem"
+            "sourceName": "vo_barbara_battle_attackMid_03.wem"
         },
         "6881372a5ec84e58": {
             "hash": "6881372a5ec84e58",
@@ -590,7 +602,7 @@
             "hash": "6bd1bcffbc5f9c7d",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackmid_01.wem"
+            "sourceName": "vo_barbara_battle_attackMid_01.wem"
         },
         "6d0de042774c1e43": {
             "hash": "6d0de042774c1e43",
@@ -598,17 +610,11 @@
             "voiceContent": "代理団長…騎士団のリーダー。皆が彼女のことを好きなの。えっ、私？わ…私も当然とても尊敬しているよ",
             "sourceName": "vo_barbara_teammate_qin_01.wem"
         },
-        "6df69ee7a06e634a": {
-            "hash": "6df69ee7a06e634a",
-            "directory": "External13",
-            "voiceContent": "こんなに私好みの料理には、そう出会えないかも。今日はラッキーデーだね",
-            "sourceName": "vo_barbara_spice_event_pref_01.wem"
-        },
         "6e740c9a64c86bac": {
             "hash": "6e740c9a64c86bac",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_l_04.wem"
+            "sourceName": "vo_barbara_battle_hit_L_04.wem"
         },
         "6f21eb4108c6dd5e": {
             "hash": "6f21eb4108c6dd5e",
@@ -644,7 +650,7 @@
             "hash": "74b942343b3d0906",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_h_06.wem"
+            "sourceName": "vo_barbara_battle_hit_H_06.wem"
         },
         "77880783bd69c675": {
             "hash": "77880783bd69c675",
@@ -686,7 +692,7 @@
             "hash": "8353088957ff1b7a",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_l_06.wem"
+            "sourceName": "vo_barbara_battle_hit_L_06.wem"
         },
         "84ae135e5fd99622": {
             "hash": "84ae135e5fd99622",
@@ -698,7 +704,7 @@
             "hash": "84d864893d8de532",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attacklight_04.wem"
+            "sourceName": "vo_barbara_battle_attackLight_04.wem"
         },
         "8675d4482e54c960": {
             "hash": "8675d4482e54c960",
@@ -712,6 +718,12 @@
             "voiceContent": "ベネットはよく怪我だらけで教会に来るの…本人は全く気にしてないし、いつも笑ってるけど。うん…やっぱり、もっと自分を大事にしてほしいな",
             "sourceName": "vo_barbara_teammate_bennett_01.wem"
         },
+        "875f5500df86d614": {
+            "hash": "875f5500df86d614",
+            "directory": "External16",
+            "voiceContent": "",
+            "sourceName": "vo_barbara_suit_swim_01.wem"
+        },
         "89c66aa262089573": {
             "hash": "89c66aa262089573",
             "directory": "External17",
@@ -722,7 +734,7 @@
             "hash": "8beb564683766e28",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_h_04.wem"
+            "sourceName": "vo_barbara_battle_hit_H_04.wem"
         },
         "8c1b564a2dda5eba": {
             "hash": "8c1b564a2dda5eba",
@@ -782,13 +794,13 @@
             "hash": "a003daa15ace6857",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_l_03.wem"
+            "sourceName": "vo_barbara_battle_hit_L_03.wem"
         },
         "a12dc6b305506671": {
             "hash": "a12dc6b305506671",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_l_01.wem"
+            "sourceName": "vo_barbara_battle_hit_L_01.wem"
         },
         "a2a61587afd412ed": {
             "hash": "a2a61587afd412ed",
@@ -802,12 +814,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_barbara_explore_jump_02.wem"
         },
-        "a4de917c902a5604": {
-            "hash": "a4de917c902a5604",
-            "directory": "External20",
-            "voiceContent": "ご、ごめんなさい",
-            "sourceName": "vo_barbara_spice_event_dislike_01.wem"
-        },
         "a5edd188100c5739": {
             "hash": "a5edd188100c5739",
             "directory": "External20",
@@ -818,7 +824,7 @@
             "hash": "a61822b2edc0a609",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attacklight_03.wem"
+            "sourceName": "vo_barbara_battle_attackLight_03.wem"
         },
         "a62c63e4573b741d": {
             "hash": "a62c63e4573b741d",
@@ -866,7 +872,7 @@
             "hash": "b79156a1de148b8f",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attacklight_01.wem"
+            "sourceName": "vo_barbara_battle_attackLight_01.wem"
         },
         "bc55bc5e16ea1368": {
             "hash": "bc55bc5e16ea1368",
@@ -938,7 +944,7 @@
             "hash": "caba4ec3ba72b493",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attackheavy_02.wem"
+            "sourceName": "vo_barbara_battle_attackHeavy_02.wem"
         },
         "cb6f9afef3c43efe": {
             "hash": "cb6f9afef3c43efe",
@@ -970,11 +976,17 @@
             "voiceContent": "このままだと、眠く…なっちゃうよ",
             "sourceName": "vo_barbara_explore_idle_01.wem"
         },
+        "daf2f0f1a9043bc2": {
+            "hash": "daf2f0f1a9043bc2",
+            "directory": "External27",
+            "voiceContent": "",
+            "sourceName": "vo_barbara_suit_swim_03.wem"
+        },
         "dd5826918664e07d": {
             "hash": "dd5826918664e07d",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_l_05.wem"
+            "sourceName": "vo_barbara_battle_hit_L_05.wem"
         },
         "e36cad1780d0ffec": {
             "hash": "e36cad1780d0ffec",
@@ -1004,7 +1016,7 @@
             "hash": "e4fd703d07894f69",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_hit_h_05.wem"
+            "sourceName": "vo_barbara_battle_hit_H_05.wem"
         },
         "e62074525c4023bd": {
             "hash": "e62074525c4023bd",
@@ -1082,7 +1094,7 @@
             "hash": "f84988b9f5b02348",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_barbara_battle_attacklight_02.wem"
+            "sourceName": "vo_barbara_battle_attackLight_02.wem"
         },
         "f8b89eec10834d81": {
             "hash": "f8b89eec10834d81",
@@ -1095,36 +1107,6 @@
             "directory": "External31",
             "voiceContent": "SFX",
             "sourceName": "vo_barbara_explore_sprint_start_02.wem"
-        },
-        "29edcab4873bdc82": {
-            "hash": "29edcab4873bdc82",
-            "directory": "External5",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_barbara_sing.wem"
-        },
-        "343ae2e82d44678b": {
-            "hash": "343ae2e82d44678b",
-            "directory": "External6",
-            "voiceContent": "",
-            "sourceName": "vo_barbara_suit_swim_02.wem"
-        },
-        "5e1758e6bf8afc19": {
-            "hash": "5e1758e6bf8afc19",
-            "directory": "External11",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "sfx_standbyShow_vo_barbara_02.wem"
-        },
-        "875f5500df86d614": {
-            "hash": "875f5500df86d614",
-            "directory": "External16",
-            "voiceContent": "",
-            "sourceName": "vo_barbara_suit_swim_01.wem"
-        },
-        "daf2f0f1a9043bc2": {
-            "hash": "daf2f0f1a9043bc2",
-            "directory": "External27",
-            "voiceContent": "",
-            "sourceName": "vo_barbara_suit_swim_03.wem"
         }
     }
 }

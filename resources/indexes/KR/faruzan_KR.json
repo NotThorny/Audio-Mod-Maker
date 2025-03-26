@@ -350,11 +350,29 @@
             "voiceContent": "음! 제법인데? 시뮬레이션 폼이 제법 괜찮았",
             "sourceName": "vo_HSEQ002_9_faruzan_01.wem"
         },
+        "08310c1e2ee17c78": {
+            "hash": "08310c1e2ee17c78",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ002_14_faruzan_01.wem"
+        },
         "1e3efe2d35c82840": {
             "hash": "1e3efe2d35c82840",
             "directory": "External3",
             "voiceContent": "…누가 내 신발을 밟은 거야",
             "sourceName": "vo_HSEQ003_18_faruzan_04.wem"
+        },
+        "1f27344dd6a4b56e": {
+            "hash": "1f27344dd6a4b56e",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_06.wem"
+        },
+        "2f76442b1c763d1a": {
+            "hash": "2f76442b1c763d1a",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_02.wem"
         },
         "31ba90950d03f3dc": {
             "hash": "31ba90950d03f3dc",
@@ -385,6 +403,12 @@
             "directory": "External8",
             "voiceContent": "(……",
             "sourceName": "vo_FRZCOP001_1917301_faruzan_05.wem"
+        },
+        "50b60254cca8fe11": {
+            "hash": "50b60254cca8fe11",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_05.wem"
         },
         "55857523e30358bc": {
             "hash": "55857523e30358bc",
@@ -440,11 +464,23 @@
             "voiceContent": "지금 사탕탑보다 더 급한 문제가 어딨어? 적당한 사탕 원료를 찾지 못해서 꽃마차 퍼레이드까지 시간을 못 맞추겠다며",
             "sourceName": "vo_HSEQ002_8_faruzan_02.wem"
         },
+        "8ce162334dbf2b1d": {
+            "hash": "8ce162334dbf2b1d",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_01.wem"
+        },
         "8d1f8aaee6192aa1": {
             "hash": "8d1f8aaee6192aa1",
             "directory": "External17",
             "voiceContent": "이건 수백 년간 수메르에 이어져 온 전통을 무너뜨리는 디자인이야! 풀의 신님이 보면 슬퍼하실 거라고",
             "sourceName": "vo_HSEQ002_11_faruzan_07.wem"
+        },
+        "a080748a9aab7d6b": {
+            "hash": "a080748a9aab7d6b",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_faruzan_01.wem"
         },
         "ce639c419a879822": {
             "hash": "ce639c419a879822",
@@ -452,11 +488,23 @@
             "voiceContent": "너라면 금방 새로운 디자인을 그려낼 수 있을 거야. 그렇지",
             "sourceName": "vo_HSEQ002_11_faruzan_08.wem"
         },
+        "cef8a85d1008e090": {
+            "hash": "cef8a85d1008e090",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_04.wem"
+        },
         "dafd8bf1c8fc0793": {
             "hash": "dafd8bf1c8fc0793",
             "directory": "External27",
             "voiceContent": "…카베, 넌 건축의 천재야",
             "sourceName": "vo_HSEQ003_18_faruzan_03.wem"
+        },
+        "dd0ef62414595a63": {
+            "hash": "dd0ef62414595a63",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_4_faruzan_03.wem"
         },
         "dd3c90433d04bf38": {
             "hash": "dd3c90433d04bf38",
@@ -562,17 +610,23 @@
             "voiceContent": "백 년 전에 가장 큰 고민은 유적 비문의 정보를 읽을 수 없다는 것뿐이었는데, 백 년 후인 지금은 연구비가 제일 고민이네… 어휴! 골치 아파",
             "sourceName": "vo_faruzan_dialog_annoyed.wem"
         },
+        "0b0518dc48288019": {
+            "hash": "0b0518dc48288019",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_endOfGame_fail_01.wem"
+        },
         "0ba2477604d7d9eb": {
             "hash": "0ba2477604d7d9eb",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_06.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_06.wem"
         },
         "0d73f865181a7710": {
             "hash": "0d73f865181a7710",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_h_05.wem"
+            "sourceName": "vo_faruzan_battle_hit_H_05.wem"
         },
         "0e7497a9aceb5241": {
             "hash": "0e7497a9aceb5241",
@@ -584,13 +638,13 @@
             "hash": "0e98659df07ed356",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_03.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_03.wem"
         },
         "0f323d11a9bfec6a": {
             "hash": "0f323d11a9bfec6a",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_01.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_01.wem"
         },
         "10030d7b57f5610e": {
             "hash": "10030d7b57f5610e",
@@ -614,7 +668,7 @@
             "hash": "188bebc893f3c8fb",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackmid_02.wem"
+            "sourceName": "vo_faruzan_battle_attackMid_02.wem"
         },
         "1b8a462c1c6af0e3": {
             "hash": "1b8a462c1c6af0e3",
@@ -628,6 +682,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_faruzan_explore_jump_04.wem"
         },
+        "1f6ccc6ce8ffc0a3": {
+            "hash": "1f6ccc6ce8ffc0a3",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_easy_02.wem"
+        },
         "1f88e33d29deddf2": {
             "hash": "1f88e33d29deddf2",
             "directory": "External3",
@@ -639,6 +699,12 @@
             "directory": "External3",
             "voiceContent": "훗, 젊은 사람이 아주 빠릿빠릿하구나? 재료 하나 아주 부리나케 찾",
             "sourceName": "vo_faruzan_starUp_01.wem"
+        },
+        "2050c81fbb01103b": {
+            "hash": "2050c81fbb01103b",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_leave_01.wem"
         },
         "2232add4a16ce47f": {
             "hash": "2232add4a16ce47f",
@@ -658,17 +724,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_faruzan_explore_climb_02.wem"
         },
+        "2b2e1aae8257cb01": {
+            "hash": "2b2e1aae8257cb01",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_explore_idle_03.wem"
+        },
         "2be2cf29ac8ecc07": {
             "hash": "2be2cf29ac8ecc07",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_04.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_04.wem"
         },
         "2d0bbb3b570f1721": {
             "hash": "2d0bbb3b570f1721",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_06.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_06.wem"
         },
         "2d50d3004d64190c": {
             "hash": "2d50d3004d64190c",
@@ -716,7 +788,7 @@
             "hash": "3d24db189cb32bed",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_02.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_02.wem"
         },
         "4230ceef409c7bda": {
             "hash": "4230ceef409c7bda",
@@ -734,7 +806,7 @@
             "hash": "43051de00da8fa04",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackmid_01.wem"
+            "sourceName": "vo_faruzan_battle_attackMid_01.wem"
         },
         "4371e3f2f7b7c524": {
             "hash": "4371e3f2f7b7c524",
@@ -760,6 +832,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_faruzan_explore_fly_start_03.wem"
         },
+        "4bfc0a6af5054654": {
+            "hash": "4bfc0a6af5054654",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_hard_02.wem"
+        },
         "5073347c246edb1d": {
             "hash": "5073347c246edb1d",
             "directory": "External10",
@@ -778,6 +856,12 @@
             "voiceContent": "이 악랄한 녀석",
             "sourceName": "vo_faruzan_battle_hit_H_01.wem"
         },
+        "5cf41e84fde4418c": {
+            "hash": "5cf41e84fde4418c",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_easy_01.wem"
+        },
         "5d29bebe52bf70ea": {
             "hash": "5d29bebe52bf70ea",
             "directory": "External11",
@@ -788,7 +872,7 @@
             "hash": "5ec5b98eb7189574",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_05.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_05.wem"
         },
         "602b5078caa4db47": {
             "hash": "602b5078caa4db47",
@@ -830,13 +914,13 @@
             "hash": "6df194332487d39a",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_h_03.wem"
+            "sourceName": "vo_faruzan_battle_hit_H_03.wem"
         },
         "6df3a3c5cf7715ee": {
             "hash": "6df3a3c5cf7715ee",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackheavy_02.wem"
+            "sourceName": "vo_faruzan_battle_attackHeavy_02.wem"
         },
         "6f05b0a5271cc467": {
             "hash": "6f05b0a5271cc467",
@@ -850,6 +934,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_faruzan_explore_jump_02.wem"
         },
+        "71d41a73f11ca45a": {
+            "hash": "71d41a73f11ca45a",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_easy_03.wem"
+        },
         "7720ddb375e2b978": {
             "hash": "7720ddb375e2b978",
             "directory": "External14",
@@ -861,6 +951,12 @@
             "directory": "External15",
             "voiceContent": "끝없는 지혜의 바다에서 백 년은 단지 일각의 파도를 짧게 볼 수 있는 시간에 불과해…. 아직 깊게 파고들지 않은 학문과 풀지 못한 수수께끼는 너와 내가 함께 노력해야겠",
             "sourceName": "vo_faruzan_starUp_04.wem"
+        },
+        "7b5bae9f48f1fa67": {
+            "hash": "7b5bae9f48f1fa67",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_explore_idle_01.wem"
         },
         "7d5dd25958ec5631": {
             "hash": "7d5dd25958ec5631",
@@ -874,11 +970,17 @@
             "voiceContent": "이 정도 시련은 아무것도 아니",
             "sourceName": "vo_faruzan_life_less30_02.wem"
         },
+        "7fbfe33a72ff0d1e": {
+            "hash": "7fbfe33a72ff0d1e",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_freetalk_01.wem"
+        },
         "82a3614261e229a0": {
             "hash": "82a3614261e229a0",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_07.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_07.wem"
         },
         "832dba356ce0ab97": {
             "hash": "832dba356ce0ab97",
@@ -914,7 +1016,7 @@
             "hash": "8f31525cd4ba9491",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_h_04.wem"
+            "sourceName": "vo_faruzan_battle_hit_H_04.wem"
         },
         "906cf8fcf343eb65": {
             "hash": "906cf8fcf343eb65",
@@ -938,7 +1040,7 @@
             "hash": "969879d0d725f2b2",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackmid_03.wem"
+            "sourceName": "vo_faruzan_battle_attackMid_03.wem"
         },
         "9b7f58fe12416298": {
             "hash": "9b7f58fe12416298",
@@ -962,13 +1064,7 @@
             "hash": "9f8271ccc57b5e91",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackheavy_01.wem"
-        },
-        "a03b8fb22f56e2ef": {
-            "hash": "a03b8fb22f56e2ef",
-            "directory": "External20",
-            "voiceContent": "음… 으음… 웬만한 오래된 가게보다 맛있네. 미식계도 점점 발전하고 있는 건가",
-            "sourceName": "vo_faruzan_spice_event_pref_01.wem"
+            "sourceName": "vo_faruzan_battle_attackHeavy_01.wem"
         },
         "a1f1809d9679cd63": {
             "hash": "a1f1809d9679cd63",
@@ -993,6 +1089,12 @@
             "directory": "External21",
             "voiceContent": "그래, 젊은 사람이랑 같이 가볼까",
             "sourceName": "vo_faruzan_teamJoin_03.wem"
+        },
+        "ad3690cc126ac997": {
+            "hash": "ad3690cc126ac997",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_faruzan_01.wem"
         },
         "b15968056ae7d22f": {
             "hash": "b15968056ae7d22f",
@@ -1022,13 +1124,13 @@
             "hash": "b80df3853b593bc5",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_04.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_04.wem"
         },
         "bc67c796e890aa3f": {
             "hash": "bc67c796e890aa3f",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_02.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_02.wem"
         },
         "bcd5222513136333": {
             "hash": "bcd5222513136333",
@@ -1053,6 +1155,12 @@
             "directory": "External24",
             "voiceContent": "진지하게 말하는 건데, 너 내 학생 하지 않을래? 내가 네 상황에 맞춰서 과제도 내주고, 강의도 누구보다 이해하기 쉽게 해줄게. 현대 장치 수수께끼를 중심으로 관련 문헌 해석까지 범위를 넓히는 게 좋겠어…. 내가 다 경험해 봤어. 이런 지식은 나중에 모험할 때 큰 도움이 될 거라고. 이래도 못 믿겠어",
             "sourceName": "vo_faruzan_dialog_close.wem"
+        },
+        "c2d2319cd308012f": {
+            "hash": "c2d2319cd308012f",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_endOfGame_win_01.wem"
         },
         "c51751d5671fb567": {
             "hash": "c51751d5671fb567",
@@ -1112,7 +1220,7 @@
             "hash": "d1a6c1217df9e05c",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_03.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_03.wem"
         },
         "d20d1cf2a9b1663d": {
             "hash": "d20d1cf2a9b1663d",
@@ -1120,11 +1228,17 @@
             "voiceContent": "젊은이, 아침이면 기운을 내야지! 다시 인사해",
             "sourceName": "vo_faruzan_dialog_greetingMorning.wem"
         },
+        "d21c40b7fe455700": {
+            "hash": "d21c40b7fe455700",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_faruzan_explore_idle_02.wem"
+        },
         "d2d0ad33287bde7e": {
             "hash": "d2d0ad33287bde7e",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attacklight_05.wem"
+            "sourceName": "vo_faruzan_battle_attackLight_05.wem"
         },
         "d84558faf4725d77": {
             "hash": "d84558faf4725d77",
@@ -1172,13 +1286,7 @@
             "hash": "e2c5e64d9e399ff7",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_h_06.wem"
-        },
-        "e2d5d31442136827": {
-            "hash": "e2d5d31442136827",
-            "directory": "External28",
-            "voiceContent": "음? 이게 뭐지? 이해하기 힘든 음식이네. 내가 분석해 주길 원하는 거야",
-            "sourceName": "vo_faruzan_spice_event_dislike_01.wem"
+            "sourceName": "vo_faruzan_battle_hit_H_06.wem"
         },
         "e4a779e475a752f9": {
             "hash": "e4a779e475a752f9",
@@ -1198,12 +1306,6 @@
             "voiceContent": "지론파 연구가 묘론파에 사용되는 것처럼… 지식은 한정될 수 없는 거야. 모든 학자는 작은 쿠사나리 화신께 감사의 마음을 갖고 있어. 아카데미아, 아니, 지혜의 도시인 수메르가 사리사욕에서 벗어나 지식을 탐구하는 사람이 학문의 바다에 깊이 파고들어 연구할 수 있게 하셨으니까",
             "sourceName": "vo_faruzan_teammate_nahida_01.wem"
         },
-        "ef6cf7da893f08d9": {
-            "hash": "ef6cf7da893f08d9",
-            "directory": "External29",
-            "voiceContent": "보기에도 좋고 맛도 좋네. 설마 너 요리책을 자주 보는 타입이야",
-            "sourceName": "vo_faruzan_spice_event_normal_01.wem"
-        },
         "efc980e8387f9823": {
             "hash": "efc980e8387f9823",
             "directory": "External29",
@@ -1214,13 +1316,25 @@
             "hash": "f31705bd8efa69f7",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_attackheavy_03.wem"
+            "sourceName": "vo_faruzan_battle_attackHeavy_03.wem"
         },
         "f458cea49e96b01a": {
             "hash": "f458cea49e96b01a",
             "directory": "External30",
             "voiceContent": "학자라면 실패를 덤덤하게 받아들이고 결과를 감당해야지…. 과거든 지금이든 다른 사람의 동정은 절대로 바라지 않아! 게다가 난 실력으로 마지막 수수께끼를 풀고 그 지긋지긋한 곳에서 벗어났다고… 날 동정하는 것보다 나에게서 동기부여와 깨우침을 얻어야 하는 거 아니야",
             "sourceName": "vo_faruzan_friendship_04.wem"
+        },
+        "f57198523fdfaecb": {
+            "hash": "f57198523fdfaecb",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_hard_01.wem"
+        },
+        "f69ac463ea606625": {
+            "hash": "f69ac463ea606625",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_faruzan_invite_hard_03.wem"
         },
         "f7de5dd1190252f2": {
             "hash": "f7de5dd1190252f2",
@@ -1238,7 +1352,7 @@
             "hash": "f9b939aefd47d238",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_faruzan_battle_hit_l_01.wem"
+            "sourceName": "vo_faruzan_battle_hit_L_01.wem"
         }
     }
 }

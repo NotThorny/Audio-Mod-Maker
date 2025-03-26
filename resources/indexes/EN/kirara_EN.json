@@ -319,13 +319,32 @@
             "sourceName": "vo_kirara_mimitomo_friendship2_05.wem"
         }
     },
-    "Quests": {},
+    "Quests": {
+        "23432ecb800376c2": {
+            "hash": "23432ecb800376c2",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kirara_01.wem"
+        },
+        "7db54cd3aec60de5": {
+            "hash": "7db54cd3aec60de5",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kirara_02.wem"
+        },
+        "cfaf92dab6861114": {
+            "hash": "cfaf92dab6861114",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kirara_03.wem"
+        }
+    },
     "Gameplay": {
         "02b3fc08364d34a0": {
             "hash": "02b3fc08364d34a0",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackheavy_01.wem"
+            "sourceName": "vo_kirara_battle_attackHeavy_01.wem"
         },
         "06c4c9b095646a46": {
             "hash": "06c4c9b095646a46",
@@ -338,6 +357,12 @@
             "directory": "External0",
             "voiceContent": "I wonder what's inside this package... No no no, no peeking at my customer's stuff..",
             "sourceName": "vo_kirara_character_idle_01.wem"
+        },
+        "0deb6970bff9b4c3": {
+            "hash": "0deb6970bff9b4c3",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_suit_errantry_03.wem"
         },
         "0e1c233ea94ca2d8": {
             "hash": "0e1c233ea94ca2d8",
@@ -363,17 +388,29 @@
             "voiceContent": "Parcels sent to Tenshukaku are all packaged intricately with multiple layers of wrapping. Maybe that's what they call a package fit for the Almighty Shogun. Some of them smell really good... I wonder what's inside",
             "sourceName": "vo_kirara_teammate_raidenShogun_01.wem"
         },
+        "127b55826d5edbfd": {
+            "hash": "127b55826d5edbfd",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_suit_errantry_01.wem"
+        },
         "17129df17c849015": {
             "hash": "17129df17c849015",
             "directory": "External2",
             "voiceContent": "SFX",
             "sourceName": "vo_kirara_explore_climb_breath_02.wem"
         },
+        "1885c924f9b199c2": {
+            "hash": "1885c924f9b199c2",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_endOfGame_fail_01.wem"
+        },
         "1cf0036b7f17971e": {
             "hash": "1cf0036b7f17971e",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackmid_02.wem"
+            "sourceName": "vo_kirara_battle_attackMid_02.wem"
         },
         "204c22bb31d7f30e": {
             "hash": "204c22bb31d7f30e",
@@ -403,7 +440,13 @@
             "hash": "242fe07f540dd032",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_h_06.wem"
+            "sourceName": "vo_kirara_battle_hit_H_06.wem"
+        },
+        "24d6123f7bfe3b1f": {
+            "hash": "24d6123f7bfe3b1f",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_easy_03.wem"
         },
         "2636fda215ac8862": {
             "hash": "2636fda215ac8862",
@@ -463,7 +506,7 @@
             "hash": "35d35a1fafd9120a",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_l_02.wem"
+            "sourceName": "vo_kirara_battle_hit_L_02.wem"
         },
         "35ffc61c69a28807": {
             "hash": "35ffc61c69a28807",
@@ -487,13 +530,13 @@
             "hash": "3845d4d2fe035405",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_03.wem"
+            "sourceName": "vo_kirara_battle_attackLight_03.wem"
         },
         "3938a8e4a855e77f": {
             "hash": "3938a8e4a855e77f",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_05.wem"
+            "sourceName": "vo_kirara_battle_attackLight_05.wem"
         },
         "3a18058bd9791f86": {
             "hash": "3a18058bd9791f86",
@@ -512,6 +555,12 @@
             "directory": "External7",
             "voiceContent": "Mm-hm, delicious! Is there more? I wanna take some with me on the road",
             "sourceName": "vo_kirara_spice_normal_01.wem"
+        },
+        "3c085e51c437ff19": {
+            "hash": "3c085e51c437ff19",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_easy_01.wem"
         },
         "3eef9295d53a7040": {
             "hash": "3eef9295d53a7040",
@@ -548,6 +597,12 @@
             "directory": "External8",
             "voiceContent": "Agh...! Now my fur's all wet. Do you want a box to hide in too",
             "sourceName": "vo_kirara_weather_heavyRain_01.wem"
+        },
+        "47cbc0d107aa6f5e": {
+            "hash": "47cbc0d107aa6f5e",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_leave_01.wem"
         },
         "4a762cd694dccf54": {
             "hash": "4a762cd694dccf54",
@@ -595,7 +650,7 @@
             "hash": "52e147f8fce6e97e",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackheavy_03.wem"
+            "sourceName": "vo_kirara_battle_attackHeavy_03.wem"
         },
         "536687e7d5fd1633": {
             "hash": "536687e7d5fd1633",
@@ -607,25 +662,37 @@
             "hash": "55f5be864a417715",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_h_05.wem"
+            "sourceName": "vo_kirara_battle_hit_H_05.wem"
         },
         "56e8d297f494768f": {
             "hash": "56e8d297f494768f",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_h_03.wem"
+            "sourceName": "vo_kirara_battle_hit_H_03.wem"
         },
         "5712d849600b66c1": {
             "hash": "5712d849600b66c1",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_l_05.wem"
+            "sourceName": "vo_kirara_battle_hit_L_05.wem"
+        },
+        "58a75b847ff7ea56": {
+            "hash": "58a75b847ff7ea56",
+            "directory": "External11",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_kirara_01.wem"
         },
         "61ad2a9c1f2c9a25": {
             "hash": "61ad2a9c1f2c9a25",
             "directory": "External12",
             "voiceContent": "Let me see... Okay, let's get going. The next location on my list is really far away",
             "sourceName": "vo_kirara_character_idle_02.wem"
+        },
+        "6769a0fedd690975": {
+            "hash": "6769a0fedd690975",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_hard_02.wem"
         },
         "69df9fcaa2f61f27": {
             "hash": "69df9fcaa2f61f27",
@@ -661,7 +728,7 @@
             "hash": "772b1173adaad0c1",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackmid_01.wem"
+            "sourceName": "vo_kirara_battle_attackMid_01.wem"
         },
         "78570bebd5f3be8b": {
             "hash": "78570bebd5f3be8b",
@@ -673,7 +740,7 @@
             "hash": "79f01afcbff03878",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_06.wem"
+            "sourceName": "vo_kirara_battle_attackLight_06.wem"
         },
         "7dc301e5ea8f2ad3": {
             "hash": "7dc301e5ea8f2ad3",
@@ -691,13 +758,13 @@
             "hash": "887328c3c49d162b",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_01.wem"
+            "sourceName": "vo_kirara_battle_attackLight_01.wem"
         },
         "8b6946ebb0440f96": {
             "hash": "8b6946ebb0440f96",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_04.wem"
+            "sourceName": "vo_kirara_battle_attackLight_04.wem"
         },
         "8be82ba854e7be2f": {
             "hash": "8be82ba854e7be2f",
@@ -734,6 +801,12 @@
             "directory": "External18",
             "voiceContent": "Wow! I've never seen half the stuff in here before",
             "sourceName": "vo_kirara_chest_open_01.wem"
+        },
+        "9428edb1e675831e": {
+            "hash": "9428edb1e675831e",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_endOfGame_win_01.wem"
         },
         "957ec6119848713e": {
             "hash": "957ec6119848713e",
@@ -793,7 +866,7 @@
             "hash": "abf369ef80f9d707",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackheavy_02.wem"
+            "sourceName": "vo_kirara_battle_attackHeavy_02.wem"
         },
         "ae1bb54b970b0c8c": {
             "hash": "ae1bb54b970b0c8c",
@@ -807,11 +880,17 @@
             "voiceContent": "Whoa, the scenery here is wonderful. Hehe, I've landed the perfect job",
             "sourceName": "vo_kirara_character_idle_03.wem"
         },
+        "b876377a3ef916fa": {
+            "hash": "b876377a3ef916fa",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kirara_suit_errantry_02.wem"
+        },
         "babf8c176f2cd213": {
             "hash": "babf8c176f2cd213",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_l_03.wem"
+            "sourceName": "vo_kirara_battle_hit_L_03.wem"
         },
         "bbd5678396194b6f": {
             "hash": "bbd5678396194b6f",
@@ -843,6 +922,12 @@
             "voiceContent": "Anything you need delivered",
             "sourceName": "vo_kirara_teamJoin_01.wem"
         },
+        "be8aa2799c49208d": {
+            "hash": "be8aa2799c49208d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_freetalk_01.wem"
+        },
         "bff945a3a0434a2c": {
             "hash": "bff945a3a0434a2c",
             "directory": "External23",
@@ -867,11 +952,23 @@
             "voiceContent": "I crossed paths with that detective a long while back. Once he learned that I was a nekomata, he started asking me to investigate the whereabouts of missing cats. I was happy to help at first, but then I'd hear the cats say things like I just want to see the outside world! or I get so bored when I'm at home, I felt bad for them. So I lied, telling him that I hadn't seen any cat at all. But it seemed like he could see right through me..",
             "sourceName": "vo_kirara_teammate_heizou_01.wem"
         },
+        "c8eb898d4c442fb9": {
+            "hash": "c8eb898d4c442fb9",
+            "directory": "External25",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_kirara_02.wem"
+        },
         "cabea56477282827": {
             "hash": "cabea56477282827",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attackmid_03.wem"
+            "sourceName": "vo_kirara_battle_attackMid_03.wem"
+        },
+        "cbc43048f7ebb9b6": {
+            "hash": "cbc43048f7ebb9b6",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_easy_02.wem"
         },
         "cd2185590ae6b7a6": {
             "hash": "cd2185590ae6b7a6",
@@ -901,7 +998,7 @@
             "hash": "d09c848e8a90d784",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_h_04.wem"
+            "sourceName": "vo_kirara_battle_hit_H_04.wem"
         },
         "d2fedea0bd5c6d36": {
             "hash": "d2fedea0bd5c6d36",
@@ -979,13 +1076,25 @@
             "hash": "defd9adc79c2adb4",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_02.wem"
+            "sourceName": "vo_kirara_battle_attackLight_02.wem"
+        },
+        "e0e642f573360c12": {
+            "hash": "e0e642f573360c12",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_hard_01.wem"
         },
         "e54cbfea8650e932": {
             "hash": "e54cbfea8650e932",
             "directory": "External28",
             "voiceContent": "SFX",
             "sourceName": "vo_kirara_explore_climb_breath_01.wem"
+        },
+        "e5766707209b92e4": {
+            "hash": "e5766707209b92e4",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kirara_invite_hard_03.wem"
         },
         "e6aa680ea94f0d02": {
             "hash": "e6aa680ea94f0d02",
@@ -1027,31 +1136,19 @@
             "hash": "fbad74f47c9055f9",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_attacklight_07.wem"
+            "sourceName": "vo_kirara_battle_attackLight_07.wem"
         },
         "fcd7ca4131782d1e": {
             "hash": "fcd7ca4131782d1e",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_l_06.wem"
+            "sourceName": "vo_kirara_battle_hit_L_06.wem"
         },
         "fe00fe52dbf8f2c0": {
             "hash": "fe00fe52dbf8f2c0",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_kirara_battle_hit_l_04.wem"
-        },
-        "58a75b847ff7ea56": {
-            "hash": "58a75b847ff7ea56",
-            "directory": "External11",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_kirara_01.wem"
-        },
-        "c8eb898d4c442fb9": {
-            "hash": "c8eb898d4c442fb9",
-            "directory": "External25",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_kirara_02.wem"
+            "sourceName": "vo_kirara_battle_hit_L_04.wem"
         }
     }
 }

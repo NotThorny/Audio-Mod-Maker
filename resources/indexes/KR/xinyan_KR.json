@@ -320,7 +320,7 @@
             "hash": "0014791717413c4a",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_03.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_03.wem"
         },
         "04827277ed4eb748": {
             "hash": "04827277ed4eb748",
@@ -380,7 +380,7 @@
             "hash": "17477d295f7c38bc",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_01.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_01.wem"
         },
         "1790d2d63eba482f": {
             "hash": "1790d2d63eba482f",
@@ -404,7 +404,7 @@
             "hash": "1b08db9dcc2d66f2",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackmid_01.wem"
+            "sourceName": "vo_xinyan_battle_attackMid_01.wem"
         },
         "1c51c7215f39ea0e": {
             "hash": "1c51c7215f39ea0e",
@@ -416,7 +416,7 @@
             "hash": "1cb4523694a25b4e",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_l_05.wem"
+            "sourceName": "vo_xinyan_battle_hit_L_05.wem"
         },
         "208dcb11751e2b25": {
             "hash": "208dcb11751e2b25",
@@ -434,7 +434,7 @@
             "hash": "2154f740c7754301",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_04.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_04.wem"
         },
         "22801b74b49465c7": {
             "hash": "22801b74b49465c7",
@@ -448,11 +448,23 @@
             "voiceContent": "「신의 눈」의 불을 로큰롤 반주로 사용하는 사람은 아마 티바트 대륙에서 나밖에 없을 거야. 존귀한 힘을 이런 데 썼다고 비난하는 사람들도 있지만…신이 나한테 「신의 눈」을 주셨다는 건, 내가 사용하는 방법을 인정해주신 거 아닐까",
             "sourceName": "vo_xinyan_dialog_pendant.wem"
         },
+        "26c161d37aede822": {
+            "hash": "26c161d37aede822",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_easy_03.wem"
+        },
         "276b1dbe2f487430": {
             "hash": "276b1dbe2f487430",
             "directory": "External4",
             "voiceContent": "로큰롤은 폰타인에서 건너온 신문물이야. 음, 하지만 리월에선 인기가 없어. 보통 시끄럽다고 싫어하더라구. 그래서 내 노랠 들으러 와주는 팬들이 더 고마워. 하",
             "sourceName": "vo_xinyan_dialog_idle2.wem"
+        },
+        "27ea45e5256e25f4": {
+            "hash": "27ea45e5256e25f4",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_easy_01.wem"
         },
         "2a59b151e84e4126": {
             "hash": "2a59b151e84e4126",
@@ -502,6 +514,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_xinyan_explore_climb_breath_02.wem"
         },
+        "43fd891a67c5b443": {
+            "hash": "43fd891a67c5b443",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_leave_01.wem"
+        },
         "4a219389bdc932a0": {
             "hash": "4a219389bdc932a0",
             "directory": "External9",
@@ -512,19 +530,19 @@
             "hash": "4cceb9a4c2610dd5",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackmid_02.wem"
+            "sourceName": "vo_xinyan_battle_attackMid_02.wem"
         },
         "4e302ccb8d9dae62": {
             "hash": "4e302ccb8d9dae62",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_h_05.wem"
+            "sourceName": "vo_xinyan_battle_hit_H_05.wem"
         },
         "547a8b3df1f23624": {
             "hash": "547a8b3df1f23624",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackheavy_02.wem"
+            "sourceName": "vo_xinyan_battle_attackHeavy_02.wem"
         },
         "59d1d1a0f80b93de": {
             "hash": "59d1d1a0f80b93de",
@@ -544,6 +562,12 @@
             "voiceContent": "삑사리를 내면… 안 됐었",
             "sourceName": "vo_xinyan_life_die_03.wem"
         },
+        "6159f72efa3b33e7": {
+            "hash": "6159f72efa3b33e7",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_endOfGame_win_01.wem"
+        },
         "61898d037ee35f45": {
             "hash": "61898d037ee35f45",
             "directory": "External12",
@@ -555,12 +579,6 @@
             "directory": "External12",
             "voiceContent": "곧 공연 시작이야. 너도 같이 놀아볼래",
             "sourceName": "vo_xinyan_dialog_greetingNight.wem"
-        },
-        "64262b1ac0c38b6d": {
-            "hash": "64262b1ac0c38b6d",
-            "directory": "External12",
-            "voiceContent": "혹시 내가 소스 좀 만들어서 먹어도 돼",
-            "sourceName": "vo_xinyan_spice_event_dislike_01.wem"
         },
         "64783dabbc7b6d37": {
             "hash": "64783dabbc7b6d37",
@@ -608,7 +626,7 @@
             "hash": "6ce1e6275b3c89ac",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_l_03.wem"
+            "sourceName": "vo_xinyan_battle_hit_L_03.wem"
         },
         "6e91302b6ed896d2": {
             "hash": "6e91302b6ed896d2",
@@ -632,7 +650,7 @@
             "hash": "71828b318e0f7267",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_06.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_06.wem"
         },
         "726753a75c93aab5": {
             "hash": "726753a75c93aab5",
@@ -652,6 +670,12 @@
             "voiceContent": "내 로큰롤로 널 도와줄",
             "sourceName": "vo_xinyan_life_less30_teammate_01.wem"
         },
+        "7be7a412e1f4fc3c": {
+            "hash": "7be7a412e1f4fc3c",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_hard_02.wem"
+        },
         "80b583e8b3f434f7": {
             "hash": "80b583e8b3f434f7",
             "directory": "External16",
@@ -662,13 +686,13 @@
             "hash": "819bab0ed3b38653",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_02.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_02.wem"
         },
         "81c0e2164e73397a": {
             "hash": "81c0e2164e73397a",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_l_01.wem"
+            "sourceName": "vo_xinyan_battle_hit_L_01.wem"
         },
         "848531263e2e9f04": {
             "hash": "848531263e2e9f04",
@@ -699,12 +723,6 @@
             "directory": "External18",
             "voiceContent": "불꽃 좀 터뜨려볼까",
             "sourceName": "vo_xinyan_battle_skill1_03.wem"
-        },
-        "91d99afb672e9b07": {
-            "hash": "91d99afb672e9b07",
-            "directory": "External18",
-            "voiceContent": "맛은 괜찮은데 반짝하는 「스파크」가 부족해…. 내가 플레이팅 좀 도와줄까",
-            "sourceName": "vo_xinyan_spice_event_normal_01.wem"
         },
         "91e32ea1a85ae303": {
             "hash": "91e32ea1a85ae303",
@@ -764,13 +782,13 @@
             "hash": "9e71b42e51428657",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_l_04.wem"
+            "sourceName": "vo_xinyan_battle_hit_L_04.wem"
         },
         "9f9ba03ffbc48471": {
             "hash": "9f9ba03ffbc48471",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_l_06.wem"
+            "sourceName": "vo_xinyan_battle_hit_L_06.wem"
         },
         "a14a22440f5f3d2f": {
             "hash": "a14a22440f5f3d2f",
@@ -794,7 +812,7 @@
             "hash": "a8a24ad3bc604485",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_h_06.wem"
+            "sourceName": "vo_xinyan_battle_hit_H_06.wem"
         },
         "aa9b4ed90aa62ea4": {
             "hash": "aa9b4ed90aa62ea4",
@@ -848,7 +866,7 @@
             "hash": "c3b2e93895fd2e5e",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_07.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_07.wem"
         },
         "c3ca405fd5b31f8f": {
             "hash": "c3ca405fd5b31f8f",
@@ -860,7 +878,7 @@
             "hash": "c8431d4a4362cf00",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_05.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_05.wem"
         },
         "cacaa5aa1899b191": {
             "hash": "cacaa5aa1899b191",
@@ -872,7 +890,7 @@
             "hash": "cada7fad0591e444",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackmid_03.wem"
+            "sourceName": "vo_xinyan_battle_attackMid_03.wem"
         },
         "d00025dd63109bcf": {
             "hash": "d00025dd63109bcf",
@@ -880,17 +898,35 @@
             "voiceContent": "축하할 겸 노래 한 곡 연주해볼까",
             "sourceName": "vo_xinyan_chest_open_01.wem"
         },
+        "d2e53ade7ad1c7c1": {
+            "hash": "d2e53ade7ad1c7c1",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_endOfGame_fail_01.wem"
+        },
+        "d49c9beb22b09baf": {
+            "hash": "d49c9beb22b09baf",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_xinyan_01.wem"
+        },
+        "d4c6d3cc732d6a6b": {
+            "hash": "d4c6d3cc732d6a6b",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_easy_02.wem"
+        },
         "d544d924043f619b": {
             "hash": "d544d924043f619b",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackheavy_01.wem"
+            "sourceName": "vo_xinyan_battle_attackHeavy_01.wem"
         },
         "d66ec535aec15fb5": {
             "hash": "d66ec535aec15fb5",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackheavy_03.wem"
+            "sourceName": "vo_xinyan_battle_attackHeavy_03.wem"
         },
         "d6b06f5905a6f56a": {
             "hash": "d6b06f5905a6f56a",
@@ -982,6 +1018,12 @@
             "voiceContent": "난 「만민당」에 자주 야식을 먹으러 가. 향릉이 바쁘지 않으면 밤늦게까지 수다를 떨어. 응? 뭘 시키냐고? 음… 사실 향릉이 만드는 건 다 먹어, 하하. 매번 달라. 맛도 천차만별이고. 향릉은 요리계의 「로큰롤 스타」라고 할 수 있지",
             "sourceName": "vo_xinyan_teammate_xiangling_01.wem"
         },
+        "e63bd1f8562c49d3": {
+            "hash": "e63bd1f8562c49d3",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_hard_01.wem"
+        },
         "e83b2957b6648ff3": {
             "hash": "e83b2957b6648ff3",
             "directory": "External29",
@@ -998,7 +1040,13 @@
             "hash": "ea4c90fd7e4d28f8",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_h_03.wem"
+            "sourceName": "vo_xinyan_battle_hit_H_03.wem"
+        },
+        "eacbbe0a039170cd": {
+            "hash": "eacbbe0a039170cd",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_hard_03.wem"
         },
         "eccf4561bc8a03c8": {
             "hash": "eccf4561bc8a03c8",
@@ -1011,12 +1059,6 @@
             "directory": "External29",
             "voiceContent": "SFX",
             "sourceName": "vo_xinyan_explore_climb_breath_03.wem"
-        },
-        "f1a87d1426b3ff81": {
-            "hash": "f1a87d1426b3ff81",
-            "directory": "External30",
-            "voiceContent": "몸이 저절로 리듬 타게 돼. 진짜 멋진데",
-            "sourceName": "vo_xinyan_spice_event_pref_01.wem"
         },
         "f1ae8e34d6286a35": {
             "hash": "f1ae8e34d6286a35",
@@ -1036,6 +1078,12 @@
             "voiceContent": "이건 아직 전주",
             "sourceName": "vo_card_xinyan_inGame_hard_01.wem"
         },
+        "f404fc85f283c226": {
+            "hash": "f404fc85f283c226",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_freetalk_01.wem"
+        },
         "f489ed82b2f62021": {
             "hash": "f489ed82b2f62021",
             "directory": "External30",
@@ -1052,13 +1100,13 @@
             "hash": "f8cf9ec482fa06ab",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_h_04.wem"
+            "sourceName": "vo_xinyan_battle_hit_H_04.wem"
         },
         "fbc5bcec6ea10016": {
             "hash": "fbc5bcec6ea10016",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_h_01.wem"
+            "sourceName": "vo_xinyan_battle_hit_H_01.wem"
         },
         "fff49926e4588e18": {
             "hash": "fff49926e4588e18",

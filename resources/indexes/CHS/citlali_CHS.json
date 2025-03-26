@@ -1,5 +1,342 @@
 {
-    "Teapot": {},
+    "Teapot": {
+        "1d0d5e4b668191d9": {
+            "hash": "1d0d5e4b668191d9",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_citlali_silenceAndRest_02.wem"
+        },
+        "20a05c62583b5ad4": {
+            "hash": "20a05c62583b5ad4",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_citlali_nightWind_03.wem"
+        },
+        "20b275d5aab4f8fb": {
+            "hash": "20b275d5aab4f8fb",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_hello_01.wem"
+        },
+        "29e41f895da4389c": {
+            "hash": "29e41f895da4389c",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_02.wem"
+        },
+        "2a6b7cce1019941a": {
+            "hash": "2a6b7cce1019941a",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_18.wem"
+        },
+        "2bb02f3ee5d6f792": {
+            "hash": "2bb02f3ee5d6f792",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_05a_1.wem"
+        },
+        "2e740b9b0b095fbe": {
+            "hash": "2e740b9b0b095fbe",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_04.wem"
+        },
+        "30405350933c7e64": {
+            "hash": "30405350933c7e64",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_05a_3.wem"
+        },
+        "3609f376b71c2008": {
+            "hash": "3609f376b71c2008",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_11.wem"
+        },
+        "378ebe836a171bdb": {
+            "hash": "378ebe836a171bdb",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_11.wem"
+        },
+        "3c1daa95177a8ff5": {
+            "hash": "3c1daa95177a8ff5",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_13.wem"
+        },
+        "4b1d6b5fa6c65916": {
+            "hash": "4b1d6b5fa6c65916",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_05b_2.wem"
+        },
+        "4b2ba7ed246a2a04": {
+            "hash": "4b2ba7ed246a2a04",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_hello_02.wem"
+        },
+        "5312d127fcd196e8": {
+            "hash": "5312d127fcd196e8",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_09.wem"
+        },
+        "59b97b3f61e616dd": {
+            "hash": "59b97b3f61e616dd",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_04.wem"
+        },
+        "5ebb6cafee4252b8": {
+            "hash": "5ebb6cafee4252b8",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship1_04a_3.wem"
+        },
+        "655131f0f21c5d06": {
+            "hash": "655131f0f21c5d06",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship1_01.wem"
+        },
+        "6696dcac912fc106": {
+            "hash": "6696dcac912fc106",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_14.wem"
+        },
+        "70cdf8531ed59682": {
+            "hash": "70cdf8531ed59682",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_citlali_nightWind_01.wem"
+        },
+        "7122af51aa4ef437": {
+            "hash": "7122af51aa4ef437",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_02.wem"
+        },
+        "726b735538601344": {
+            "hash": "726b735538601344",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_15.wem"
+        },
+        "73955f66e2e21166": {
+            "hash": "73955f66e2e21166",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_13.wem"
+        },
+        "739a989ee17953d6": {
+            "hash": "739a989ee17953d6",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship1_04a_1.wem"
+        },
+        "74919d2ee365ac2b": {
+            "hash": "74919d2ee365ac2b",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_09.wem"
+        },
+        "7c8346033a55c228": {
+            "hash": "7c8346033a55c228",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship1_03.wem"
+        },
+        "7dc8f0bed9692628": {
+            "hash": "7dc8f0bed9692628",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_16.wem"
+        },
+        "88af19a3399c9961": {
+            "hash": "88af19a3399c9961",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_07.wem"
+        },
+        "98c839807f40ad2d": {
+            "hash": "98c839807f40ad2d",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_03.wem"
+        },
+        "9b500453a9e17458": {
+            "hash": "9b500453a9e17458",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_citlali_silenceAndRest_03.wem"
+        },
+        "9bd1c16924317f50": {
+            "hash": "9bd1c16924317f50",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_01.wem"
+        },
+        "a5429e4d415223fa": {
+            "hash": "a5429e4d415223fa",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship1_04b_2.wem"
+        },
+        "a8bdeb1e7dff9b29": {
+            "hash": "a8bdeb1e7dff9b29",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_08.wem"
+        },
+        "ad4e0f302b652123": {
+            "hash": "ad4e0f302b652123",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_06.wem"
+        },
+        "b02f30429d187576": {
+            "hash": "b02f30429d187576",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_citlali_silenceAndRest_01.wem"
+        },
+        "b2338d485009f4f5": {
+            "hash": "b2338d485009f4f5",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_05a_2.wem"
+        },
+        "b59a4c8bad479292": {
+            "hash": "b59a4c8bad479292",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_10.wem"
+        },
+        "ba2a709d5aad1964": {
+            "hash": "ba2a709d5aad1964",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_12.wem"
+        },
+        "bb61996873129f79": {
+            "hash": "bb61996873129f79",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_05b_1.wem"
+        },
+        "c70d82136054ab73": {
+            "hash": "c70d82136054ab73",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_morning_01.wem"
+        },
+        "c9f22b35ee0953e2": {
+            "hash": "c9f22b35ee0953e2",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_08.wem"
+        },
+        "cb3f165b4d967aa5": {
+            "hash": "cb3f165b4d967aa5",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_nt_citlali_nightWind_02.wem"
+        },
+        "d5955ff9be68a369": {
+            "hash": "d5955ff9be68a369",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship1_02.wem"
+        },
+        "d6db0ab55d7c0769": {
+            "hash": "d6db0ab55d7c0769",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_17.wem"
+        },
+        "d89dca3208ad6fc1": {
+            "hash": "d89dca3208ad6fc1",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_night_01.wem"
+        },
+        "dadfbfaa418acfe0": {
+            "hash": "dadfbfaa418acfe0",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_06.wem"
+        },
+        "e3d98d6faf2e56c9": {
+            "hash": "e3d98d6faf2e56c9",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_10.wem"
+        },
+        "e3dec6a7adc59939": {
+            "hash": "e3dec6a7adc59939",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship1_04a_2.wem"
+        },
+        "e8543ea44dcfecef": {
+            "hash": "e8543ea44dcfecef",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_15.wem"
+        },
+        "ead561484049a20c": {
+            "hash": "ead561484049a20c",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_05.wem"
+        },
+        "ec5bcd7148be04b3": {
+            "hash": "ec5bcd7148be04b3",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_01.wem"
+        },
+        "ef654d59edaec92e": {
+            "hash": "ef654d59edaec92e",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_03.wem"
+        },
+        "f45fad4cf52f3cd5": {
+            "hash": "f45fad4cf52f3cd5",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_14.wem"
+        },
+        "f552c15e9f823c4f": {
+            "hash": "f552c15e9f823c4f",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship2_12.wem"
+        },
+        "fab7d043c252c1c3": {
+            "hash": "fab7d043c252c1c3",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship1_04b_3.wem"
+        },
+        "ff47bc556fb7e8fd": {
+            "hash": "ff47bc556fb7e8fd",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship1_04b_1.wem"
+        },
+        "ffb55d37338204da": {
+            "hash": "ffb55d37338204da",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_mimitomo_friendship3_07.wem"
+        }
+    },
     "Quests": {
         "02890469750613b9": {
             "hash": "02890469750613b9",
@@ -34,7 +371,7 @@
         "04719478d74c197a": {
             "hash": "04719478d74c197a",
             "directory": "External0",
-            "voiceContent": "（不，我怎么会有这种不切实际的想法…肯定是欧洛伦暴露了我，可恶…",
+            "voiceContent": "（不，我怎么会有这种不切实际的想法…肯定是欧洛伦暴露了我，可恶…）",
             "sourceName": "vo_dialog_TLEQ003_citlali_07.wem"
         },
         "0598fd53c27742c9": {
@@ -64,7 +401,7 @@
         "093c7f0aea1081cb": {
             "hash": "093c7f0aea1081cb",
             "directory": "External1",
-            "voiceContent": "#（可…{M#他}{F#她}记住我的喜好了吗？欸？其实不记住也没关系，又不是什么重要的事…",
+            "voiceContent": "#（可…{M#他}{F#她}记住我的喜好了吗？欸？其实不记住也没关系，又不是什么重要的事…）",
             "sourceName": "vo_dialog_TLEQ003_citlali_08b.wem"
         },
         "0d6e9eb28cbb8aed": {
@@ -76,7 +413,7 @@
         "0e098dec931b0524": {
             "hash": "0e098dec931b0524",
             "directory": "External1",
-            "voiceContent": "这可能是你第一次接触这些，但我感觉你会做得很好",
+            "voiceContent": "这可能是你第一次接触这些，但我感觉你会做得很好。",
             "sourceName": "vo_dialog_TLEQ001_citlali_02a_1.wem"
         },
         "0f1bc856cedab195": {
@@ -148,7 +485,7 @@
         "21226690da1b6657": {
             "hash": "21226690da1b6657",
             "directory": "External4",
-            "voiceContent": "我稍后要去首领那里还仪式剑，营地的其他东西就暂时留在这里。你有兴趣的话可以随便使用",
+            "voiceContent": "我稍后要去首领那里还仪式剑，营地的其他东西就暂时留在这里。你有兴趣的话可以随便使用。",
             "sourceName": "vo_dialog_TLEQ003_citlali_02.wem"
         },
         "2148a43cb3c3d924": {
@@ -172,7 +509,7 @@
         "24130539d93e9427": {
             "hash": "24130539d93e9427",
             "directory": "External4",
-            "voiceContent": "嗯",
+            "voiceContent": "嗯。",
             "sourceName": "vo_dialog_TLEQ001_citlali_02b_1.wem"
         },
         "2768334a26ee68fa": {
@@ -250,7 +587,7 @@
         "3c4af5c50de1307b": {
             "hash": "3c4af5c50de1307b",
             "directory": "External7",
-            "voiceContent": "好啊，有空吧，等我忙完",
+            "voiceContent": "好啊，有空吧，等我忙完。",
             "sourceName": "vo_dialog_TLEQ003_citlali_11.wem"
         },
         "3d434f97d71730b6": {
@@ -418,7 +755,7 @@
         "5e76b28105b1de7d": {
             "hash": "5e76b28105b1de7d",
             "directory": "External11",
-            "voiceContent": "欸欸欸？",
+            "voiceContent": "欸欸欸？！",
             "sourceName": "vo_dialog_TLEQ003_citlali_04.wem"
         },
         "5e83cdc1874b384d": {
@@ -442,7 +779,7 @@
         "5fc6f1239f361954": {
             "hash": "5fc6f1239f361954",
             "directory": "External11",
-            "voiceContent": "#（可…{M#他}{F#她}记住我的喜好了吗？欸？其实不记住也没关系，又不是什么重要的事…",
+            "voiceContent": "#（可…{M#他}{F#她}记住我的喜好了吗？欸？其实不记住也没关系，又不是什么重要的事…）",
             "sourceName": "vo_dialog_TLEQ003_citlali_08a.wem"
         },
         "5fd66160a082a57d": {
@@ -508,7 +845,7 @@
         "707340af3660f327": {
             "hash": "707340af3660f327",
             "directory": "External14",
-            "voiceContent": "准备好了吗",
+            "voiceContent": "准备好了吗？",
             "sourceName": "vo_dialog_TLEQ002_citlali_01.wem"
         },
         "747c9c749b1e0558": {
@@ -544,7 +881,7 @@
         "7df80e4246ff4868": {
             "hash": "7df80e4246ff4868",
             "directory": "External15",
-            "voiceContent": "#（但…{M#他}{F#她}正在邀请我欸！怎么办怎么办，要怎么回应？",
+            "voiceContent": "#（但…{M#他}{F#她}正在邀请我欸！怎么办怎么办，要怎么回应？）",
             "sourceName": "vo_dialog_TLEQ003_citlali_09b.wem"
         },
         "816d515255542dfd": {
@@ -574,7 +911,7 @@
         "84ceb53917db45ea": {
             "hash": "84ceb53917db45ea",
             "directory": "External16",
-            "voiceContent": "#（怎么回事？怎么回事？{M#他}{F#她}怎么知道我喜欢那些？难道，{M#他}{F#她}在关注我？！",
+            "voiceContent": "#（怎么回事？怎么回事？{M#他}{F#她}怎么知道我喜欢那些？难道，{M#他}{F#她}在关注我？！）",
             "sourceName": "vo_dialog_TLEQ003_citlali_06a.wem"
         },
         "85ef77b778271a0f": {
@@ -586,7 +923,7 @@
         "86c6a2f4cbce5398": {
             "hash": "86c6a2f4cbce5398",
             "directory": "External16",
-            "voiceContent": "嗯",
+            "voiceContent": "嗯。",
             "sourceName": "vo_dialog_TLEQ002_citlali_02b_1.wem"
         },
         "872e85eceb22936f": {
@@ -700,7 +1037,7 @@
         "9f6504991d7b3b4e": {
             "hash": "9f6504991d7b3b4e",
             "directory": "External19",
-            "voiceContent": "欸",
+            "voiceContent": "欸？",
             "sourceName": "vo_dialog_TLEQ003_citlali_03.wem"
         },
         "a033164edcb43ca9": {
@@ -712,7 +1049,7 @@
         "a08ef8aac7fd46f0": {
             "hash": "a08ef8aac7fd46f0",
             "directory": "External20",
-            "voiceContent": "#{NICKNAME}，有事吗",
+            "voiceContent": "#{NICKNAME}，有事吗？",
             "sourceName": "vo_dialog_TLEQ003_citlali_01.wem"
         },
         "a09b53eb49955a00": {
@@ -778,7 +1115,7 @@
         "b2c153400ace856d": {
             "hash": "b2c153400ace856d",
             "directory": "External22",
-            "voiceContent": "#（怎么回事？怎么回事？{M#他}{F#她}怎么知道我喜欢那些？难道，{M#他}{F#她}在关注我？！",
+            "voiceContent": "#（怎么回事？怎么回事？{M#他}{F#她}怎么知道我喜欢那些？难道，{M#他}{F#她}在关注我？！）",
             "sourceName": "vo_dialog_TLEQ003_citlali_06b.wem"
         },
         "b5124a3dcfeb4b2f": {
@@ -808,7 +1145,7 @@
         "ba5783cd51135a32": {
             "hash": "ba5783cd51135a32",
             "directory": "External23",
-            "voiceContent": "咳咳",
+            "voiceContent": "咳咳…",
             "sourceName": "vo_dialog_TLEQ003_citlali_10.wem"
         },
         "bb3562fd32cb74c6": {
@@ -844,7 +1181,7 @@
         "c35edeb8c116f08b": {
             "hash": "c35edeb8c116f08b",
             "directory": "External24",
-            "voiceContent": "嗯，来吧",
+            "voiceContent": "嗯，来吧。",
             "sourceName": "vo_dialog_TLEQ002_citlali_02a_1.wem"
         },
         "c385977c179f9670": {
@@ -922,7 +1259,7 @@
         "d0103b2fc2b2d316": {
             "hash": "d0103b2fc2b2d316",
             "directory": "External26",
-            "voiceContent": "准备好了吗？灵性织机的使用方法很简单的",
+            "voiceContent": "准备好了吗？灵性织机的使用方法很简单的。",
             "sourceName": "vo_dialog_TLEQ001_citlali_01.wem"
         },
         "d5ce770f7de9b5e8": {
@@ -1012,7 +1349,7 @@
         "e8825c27bb645b2f": {
             "hash": "e8825c27bb645b2f",
             "directory": "External29",
-            "voiceContent": "#（但…{M#他}{F#她}正在邀请我欸！怎么办怎么办，要怎么回应？",
+            "voiceContent": "#（但…{M#他}{F#她}正在邀请我欸！怎么办怎么办，要怎么回应？）",
             "sourceName": "vo_dialog_TLEQ003_citlali_09a.wem"
         },
         "e894973ef41fec7c": {
@@ -1036,7 +1373,7 @@
         "ef929889e41569ac": {
             "hash": "ef929889e41569ac",
             "directory": "External29",
-            "voiceContent": "唔",
+            "voiceContent": "唔…",
             "sourceName": "vo_dialog_TLEQ003_citlali_05.wem"
         },
         "ef9fb3ca65aec3bc": {
@@ -1137,17 +1474,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_citlali_explore_sprint_start_02.wem"
         },
+        "0b8bdb36e8495848": {
+            "hash": "0b8bdb36e8495848",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_explore_superJump_02.wem"
+        },
         "10468722892bf460": {
             "hash": "10468722892bf460",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attackheavy_01.wem"
+            "sourceName": "vo_citlali_battle_attackHeavy_01.wem"
+        },
+        "1193eb8df3934fc7": {
+            "hash": "1193eb8df3934fc7",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_battle_skill1_air_02.wem"
         },
         "11dff703e309cfb9": {
             "hash": "11dff703e309cfb9",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attacklight_07.wem"
+            "sourceName": "vo_citlali_battle_attackLight_07.wem"
         },
         "1315791e29cceb82": {
             "hash": "1315791e29cceb82",
@@ -1183,7 +1532,7 @@
             "hash": "1f118f4fc87001ca",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_hit_l_02.wem"
+            "sourceName": "vo_citlali_battle_hit_L_02.wem"
         },
         "1f99d15793d8c1e3": {
             "hash": "1f99d15793d8c1e3",
@@ -1201,7 +1550,7 @@
             "hash": "237686d0b1618e44",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_hit_h_04.wem"
+            "sourceName": "vo_citlali_battle_hit_H_04.wem"
         },
         "24a072e25be38c66": {
             "hash": "24a072e25be38c66",
@@ -1273,7 +1622,7 @@
             "hash": "40520d7978a40881",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_hit_l_05.wem"
+            "sourceName": "vo_citlali_battle_hit_L_05.wem"
         },
         "42a1c2138f29fabd": {
             "hash": "42a1c2138f29fabd",
@@ -1297,7 +1646,7 @@
             "hash": "4b1156e26197f2c5",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attacklight_03.wem"
+            "sourceName": "vo_citlali_battle_attackLight_03.wem"
         },
         "4f195ec4fc90a06d": {
             "hash": "4f195ec4fc90a06d",
@@ -1309,7 +1658,7 @@
             "hash": "4f6b2af40ecf613f",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attacklight_05.wem"
+            "sourceName": "vo_citlali_battle_attackLight_05.wem"
         },
         "511c47b8ebd96d59": {
             "hash": "511c47b8ebd96d59",
@@ -1345,7 +1694,7 @@
             "hash": "5a19881529403681",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attackmid_01.wem"
+            "sourceName": "vo_citlali_battle_attackMid_01.wem"
         },
         "5add694c8975a4aa": {
             "hash": "5add694c8975a4aa",
@@ -1375,13 +1724,19 @@
             "hash": "63dad31352aa843e",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attackheavy_03.wem"
+            "sourceName": "vo_citlali_battle_attackHeavy_03.wem"
         },
         "66a77cfb4af17eec": {
             "hash": "66a77cfb4af17eec",
             "directory": "External12",
             "voiceContent": "「出神仪式」对旁人来说还是挺不稳定的，就不要太好奇了吧",
             "sourceName": "vo_citlali_character_idle_03.wem"
+        },
+        "68547da6a8e6ad60": {
+            "hash": "68547da6a8e6ad60",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_battle_skill1_air_01.wem"
         },
         "6c5d6b14ae0d184b": {
             "hash": "6c5d6b14ae0d184b",
@@ -1413,6 +1768,12 @@
             "voiceContent": "出来干活",
             "sourceName": "vo_citlali_battle_skill1_01.wem"
         },
+        "6f73a27ebc7ec963": {
+            "hash": "6f73a27ebc7ec963",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_nyxJoin_01.wem"
+        },
         "6fb31faec23f4883": {
             "hash": "6fb31faec23f4883",
             "directory": "External13",
@@ -1435,7 +1796,7 @@
             "hash": "73a4e2c177fd10f2",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_hit_h_06.wem"
+            "sourceName": "vo_citlali_battle_hit_H_06.wem"
         },
         "782078ea3b4504ba": {
             "hash": "782078ea3b4504ba",
@@ -1455,6 +1816,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_citlali_explore_sprint_start_01.wem"
         },
+        "8616e67682d14f7b": {
+            "hash": "8616e67682d14f7b",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_citlali_02.wem"
+        },
         "8c2d139f857267ef": {
             "hash": "8c2d139f857267ef",
             "directory": "External17",
@@ -1465,7 +1832,7 @@
             "hash": "8cbc9d0c23868938",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attacklight_06.wem"
+            "sourceName": "vo_citlali_battle_attackLight_06.wem"
         },
         "907014d85b46ce2f": {
             "hash": "907014d85b46ce2f",
@@ -1495,13 +1862,13 @@
             "hash": "9ea5aad32b1690eb",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attacklight_01.wem"
+            "sourceName": "vo_citlali_battle_attackLight_01.wem"
         },
         "a098c14784e24bd3": {
             "hash": "a098c14784e24bd3",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_hit_l_03.wem"
+            "sourceName": "vo_citlali_battle_hit_L_03.wem"
         },
         "a1368917dd238d38": {
             "hash": "a1368917dd238d38",
@@ -1513,25 +1880,25 @@
             "hash": "a19bc8fb16bd8a56",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attacklight_04.wem"
+            "sourceName": "vo_citlali_battle_attackLight_04.wem"
         },
         "a528ad59324772cd": {
             "hash": "a528ad59324772cd",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_hit_l_01.wem"
+            "sourceName": "vo_citlali_battle_hit_L_01.wem"
         },
         "a56ac0c86e30b7d5": {
             "hash": "a56ac0c86e30b7d5",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_hit_h_05.wem"
+            "sourceName": "vo_citlali_battle_hit_H_05.wem"
         },
         "a65dd4da1883b74f": {
             "hash": "a65dd4da1883b74f",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_hit_h_03.wem"
+            "sourceName": "vo_citlali_battle_hit_H_03.wem"
         },
         "a68f63f7e7e4eb9c": {
             "hash": "a68f63f7e7e4eb9c",
@@ -1567,7 +1934,7 @@
             "hash": "aa471c05efda65e7",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attackmid_03.wem"
+            "sourceName": "vo_citlali_battle_attackMid_03.wem"
         },
         "ac4ecbbb7f60ad1c": {
             "hash": "ac4ecbbb7f60ad1c",
@@ -1599,6 +1966,12 @@
             "voiceContent": "就是…稍微有些不理解酸味的食物。饿了就吃东西，困了就睡觉，渴了就喝水。既然需要酸味开胃，那不就是不饿不需要吃东西吗",
             "sourceName": "vo_citlali_pref_foodDislike.wem"
         },
+        "b090188dfc868084": {
+            "hash": "b090188dfc868084",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_citlali_01.wem"
+        },
         "b615b506d05a8e56": {
             "hash": "b615b506d05a8e56",
             "directory": "External22",
@@ -1611,17 +1984,29 @@
             "voiceContent": "他身边的那个小东西有点烦人。他是你朋友吗？那我想想还有什么别的印象…他本人还是挺可靠的。嗯",
             "sourceName": "vo_citlali_teammate_kinich_01.wem"
         },
+        "b95a752fe059db09": {
+            "hash": "b95a752fe059db09",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_explore_superJump_03.wem"
+        },
         "b985f509d3d896c7": {
             "hash": "b985f509d3d896c7",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attackheavy_02.wem"
+            "sourceName": "vo_citlali_battle_attackHeavy_02.wem"
         },
         "ba61cb07247b7ba2": {
             "hash": "ba61cb07247b7ba2",
             "directory": "External23",
             "voiceContent": "哼哼",
             "sourceName": "vo_citlali_teammate_olorun_01.wem"
+        },
+        "bbe8c99772653d3e": {
+            "hash": "bbe8c99772653d3e",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_battle_skill1_air_03.wem"
         },
         "bedec90d96bcd3b6": {
             "hash": "bedec90d96bcd3b6",
@@ -1677,6 +2062,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_citlali_explore_jump_02.wem"
         },
+        "cad3a91ed0adc08f": {
+            "hash": "cad3a91ed0adc08f",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_citlali_explore_superJump_01.wem"
+        },
         "d22596f269aac9bd": {
             "hash": "d22596f269aac9bd",
             "directory": "External26",
@@ -1699,7 +2090,7 @@
             "hash": "e2afff71472bf3de",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_hit_l_06.wem"
+            "sourceName": "vo_citlali_battle_hit_L_06.wem"
         },
         "e43e19b0227050f6": {
             "hash": "e43e19b0227050f6",
@@ -1717,7 +2108,7 @@
             "hash": "e7403382f4919480",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_hit_l_04.wem"
+            "sourceName": "vo_citlali_battle_hit_L_04.wem"
         },
         "ec1591f0f8ee0a0c": {
             "hash": "ec1591f0f8ee0a0c",
@@ -1741,7 +2132,7 @@
             "hash": "f1c91cebdd574c74",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attacklight_02.wem"
+            "sourceName": "vo_citlali_battle_attackLight_02.wem"
         },
         "f9b18558d9d408f2": {
             "hash": "f9b18558d9d408f2",
@@ -1753,7 +2144,7 @@
             "hash": "fc777a0cf7c821de",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_citlali_battle_attackmid_02.wem"
+            "sourceName": "vo_citlali_battle_attackMid_02.wem"
         },
         "febfdeb01b3c3143": {
             "hash": "febfdeb01b3c3143",

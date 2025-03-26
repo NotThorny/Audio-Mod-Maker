@@ -308,11 +308,29 @@
         }
     },
     "Quests": {
+        "1c05e10118cef583": {
+            "hash": "1c05e10118cef583",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_01.wem"
+        },
+        "1d2fcd12c350f3bd": {
+            "hash": "1d2fcd12c350f3bd",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_03.wem"
+        },
         "5373747a4e95ef36": {
             "hash": "5373747a4e95ef36",
             "directory": "External10",
             "voiceContent": "침입자 취급을 받은 것 같군…. 괜찮아, 이런 문제는 내가 처리할",
             "sourceName": "vo_SHLQ002_5_shenhe_01.wem"
+        },
+        "b1b1b31ba497a8ec": {
+            "hash": "b1b1b31ba497a8ec",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ADSEQ001_2_shenhe_02.wem"
         },
         "c3b7a2831ae23499": {
             "hash": "c3b7a2831ae23499",
@@ -332,19 +350,25 @@
             "hash": "009dfa23cbff2f1b",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_06.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_06.wem"
         },
         "01c7e63576812d35": {
             "hash": "01c7e63576812d35",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_04.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_04.wem"
+        },
+        "03d00982cb6847d0": {
+            "hash": "03d00982cb6847d0",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_05.wem"
         },
         "04669f0e642d8428": {
             "hash": "04669f0e642d8428",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_03.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_03.wem"
         },
         "051807a4f0c0da73": {
             "hash": "051807a4f0c0da73",
@@ -358,6 +382,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_climb_03.wem"
         },
+        "067b578794004627": {
+            "hash": "067b578794004627",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_11.wem"
+        },
         "0811a404e5957861": {
             "hash": "0811a404e5957861",
             "directory": "External1",
@@ -368,19 +398,25 @@
             "hash": "0a2de593ab9ce6cc",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_03.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_03.wem"
         },
         "0b57d1a5561ee4ee": {
             "hash": "0b57d1a5561ee4ee",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_05.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_05.wem"
         },
         "0b73056df01b752d": {
             "hash": "0b73056df01b752d",
             "directory": "External1",
             "voiceContent": "알겠어, 여기 서면 된다고",
             "sourceName": "vo_shenhe_teamJoin_02.wem"
+        },
+        "0c038cc38f45e7f7": {
+            "hash": "0c038cc38f45e7f7",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_12.wem"
         },
         "0c837e4ad72bf9d5": {
             "hash": "0c837e4ad72bf9d5",
@@ -393,6 +429,12 @@
             "directory": "External1",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_idle_03.wem"
+        },
+        "0ce3e4ccfb501330": {
+            "hash": "0ce3e4ccfb501330",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_02.wem"
         },
         "0d76925c817ef94f": {
             "hash": "0d76925c817ef94f",
@@ -428,7 +470,7 @@
             "hash": "1191b5bd55e44a1f",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_01.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_01.wem"
         },
         "12343a3e5e161f66": {
             "hash": "12343a3e5e161f66",
@@ -442,11 +484,29 @@
             "voiceContent": "하산했을 때 많은 음식을 먹었지만 맛은 기억이 잘 안 나. 근데 유독 옛날에 집에서 먹던 국수만큼은 영원히 잊히지 않네… 왜 아직까지 생각나지… 안 되는데",
             "sourceName": "vo_shenhe_pref_foodLike.wem"
         },
+        "154c5749d29be9a3": {
+            "hash": "154c5749d29be9a3",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_02.wem"
+        },
         "179c445642d7822f": {
             "hash": "179c445642d7822f",
             "directory": "External2",
             "voiceContent": "분하군",
             "sourceName": "vo_shenhe_life_less30_02.wem"
+        },
+        "18a9ce30be6019e8": {
+            "hash": "18a9ce30be6019e8",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_06.wem"
+        },
+        "1ac0e07d8f971fca": {
+            "hash": "1ac0e07d8f971fca",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_13.wem"
         },
         "1ba6e1829bf06c9a": {
             "hash": "1ba6e1829bf06c9a",
@@ -500,7 +560,13 @@
             "hash": "28c401cf9e1e0e19",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_03.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_03.wem"
+        },
+        "290d0e449414f1a5": {
+            "hash": "290d0e449414f1a5",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_18.wem"
         },
         "29451b0c58dea779": {
             "hash": "29451b0c58dea779",
@@ -512,7 +578,7 @@
             "hash": "2c40184cf034ac46",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_03.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_03.wem"
         },
         "2c8dfcd8bfe6c584": {
             "hash": "2c8dfcd8bfe6c584",
@@ -532,6 +598,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_sprint_start_03.wem"
         },
+        "2eaf427148553d8f": {
+            "hash": "2eaf427148553d8f",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_09.wem"
+        },
+        "31f3e48fd7d21c3c": {
+            "hash": "31f3e48fd7d21c3c",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_11.wem"
+        },
         "33f5a9f2e3e3068b": {
             "hash": "33f5a9f2e3e3068b",
             "directory": "External6",
@@ -544,11 +622,17 @@
             "voiceContent": "예전엔 「잡념이 없어야 초연할 수 있다」고 생각했어. 하지만 많은 걸 겪은 후, 마음에 미련이 있어야 지키려는 욕망이 깨어나고, 힘은… 비로소 의미를 얻게 된다는 걸 깨달았",
             "sourceName": "vo_shenhe_starUp_04.wem"
         },
+        "36b19edb0926bf10": {
+            "hash": "36b19edb0926bf10",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_11.wem"
+        },
         "370865e1bcf2d518": {
             "hash": "370865e1bcf2d518",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_03.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_03.wem"
         },
         "3a16cc47b4c96c3f": {
             "hash": "3a16cc47b4c96c3f",
@@ -568,11 +652,17 @@
             "voiceContent": "하늘의 칙명",
             "sourceName": "vo_shenhe_battle_skill3_01.wem"
         },
+        "3c015ea73fcb2681": {
+            "hash": "3c015ea73fcb2681",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_14.wem"
+        },
         "3ce69fac4c232d91": {
             "hash": "3ce69fac4c232d91",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_06.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_06.wem"
         },
         "3f16b65c7a828c36": {
             "hash": "3f16b65c7a828c36",
@@ -585,6 +675,18 @@
             "directory": "External8",
             "voiceContent": "또 틀렸네",
             "sourceName": "vo_card_shenhe_inGame_hard_02.wem"
+        },
+        "439ec89062f68ee9": {
+            "hash": "439ec89062f68ee9",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_18.wem"
+        },
+        "44c7eca20d7738e3": {
+            "hash": "44c7eca20d7738e3",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_16.wem"
         },
         "454f323479b9348f": {
             "hash": "454f323479b9348f",
@@ -602,7 +704,7 @@
             "hash": "46d92c5f3b52ed68",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_01.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_01.wem"
         },
         "47558cd046a76ddf": {
             "hash": "47558cd046a76ddf",
@@ -610,11 +712,17 @@
             "voiceContent": "왜 「첫눈은 낭만적이다」라고 하는 거지? 저 산봉우리는 항상 눈이 내리는데, 언제가 첫눈인 걸까? 난 잘 모르겠으니, 네가 알려",
             "sourceName": "vo_shenhe_pref_gift_01.wem"
         },
+        "481bb291147b8b46": {
+            "hash": "481bb291147b8b46",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_03.wem"
+        },
         "488191d0ad46ad36": {
             "hash": "488191d0ad46ad36",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_01.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_01.wem"
         },
         "49922349c6bf7369": {
             "hash": "49922349c6bf7369",
@@ -646,6 +754,18 @@
             "voiceContent": "네가 전에 보여줬던 한수",
             "sourceName": "vo_card_shenhe_inGame_easy_01.wem"
         },
+        "51a44e0f3cbf3024": {
+            "hash": "51a44e0f3cbf3024",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_02.wem"
+        },
+        "52d3a961e7806a8c": {
+            "hash": "52d3a961e7806a8c",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_01.wem"
+        },
         "557ddb30af302eb7": {
             "hash": "557ddb30af302eb7",
             "directory": "External10",
@@ -657,6 +777,18 @@
             "directory": "External10",
             "voiceContent": "이게 바로 인간 세상의 보물인가",
             "sourceName": "vo_shenhe_chest_open_01.wem"
+        },
+        "5763957394e591ae": {
+            "hash": "5763957394e591ae",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_07.wem"
+        },
+        "58acb58e9befb51e": {
+            "hash": "58acb58e9befb51e",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_10.wem"
         },
         "5a7efeef2cbf8f3d": {
             "hash": "5a7efeef2cbf8f3d",
@@ -680,7 +812,13 @@
             "hash": "5d78b904e8406569",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_02.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_02.wem"
+        },
+        "5f4e84ac1a4d12ec": {
+            "hash": "5f4e84ac1a4d12ec",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_06.wem"
         },
         "6040cae3ba70fa58": {
             "hash": "6040cae3ba70fa58",
@@ -700,6 +838,12 @@
             "voiceContent": "저번에 스승님이 수옥을 데리고 만민당에 식사하러 오셨는데, 수옥에게서 벌써 스승님의 모습이 느껴지더라…. 나도 스승님의 보살핌을 받으며 자랐는데, 나에게도 스승님의 모습이 녹아 있으려나",
             "sourceName": "vo_shenhe_teammate_xianyun_01.wem"
         },
+        "62b4c6a35f99cc68": {
+            "hash": "62b4c6a35f99cc68",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_01.wem"
+        },
         "634c645c57cb070d": {
             "hash": "634c645c57cb070d",
             "directory": "External12",
@@ -712,11 +856,41 @@
             "voiceContent": "역시 너랑 대전하는 게 좋아. 다른 사람이랑 겨룰 땐 마음이 편하지 않았어",
             "sourceName": "vo_card_shenhe_freetalk_01.wem"
         },
+        "67b3a550dab8cd5a": {
+            "hash": "67b3a550dab8cd5a",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_03.wem"
+        },
         "6b3011bde697db0a": {
             "hash": "6b3011bde697db0a",
             "directory": "External13",
             "voiceContent": "소중한 사람을 잃을까 두려워 하면서도 그를 구하고 싶은 마음이… 심장을 꽉 휘어잡아. 이런 느낌은 처음이야. 이건 고민이자… 바람이기도",
             "sourceName": "vo_shenhe_dialog_annoyed.wem"
+        },
+        "6e54e8273f8e1e29": {
+            "hash": "6e54e8273f8e1e29",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_07.wem"
+        },
+        "70c7809b0aa098ba": {
+            "hash": "70c7809b0aa098ba",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_04.wem"
+        },
+        "72e50c38ecf3a423": {
+            "hash": "72e50c38ecf3a423",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_09.wem"
+        },
+        "75ffd317df369f35": {
+            "hash": "75ffd317df369f35",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_08.wem"
         },
         "76848bb931c46afe": {
             "hash": "76848bb931c46afe",
@@ -746,7 +920,7 @@
             "hash": "7eaa882c0f3159d2",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_07.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_07.wem"
         },
         "7f1154d7810367f3": {
             "hash": "7f1154d7810367f3",
@@ -758,7 +932,7 @@
             "hash": "7fd3ac3db9b203a4",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_05.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_05.wem"
         },
         "807e44ef19bb2527": {
             "hash": "807e44ef19bb2527",
@@ -772,17 +946,35 @@
             "voiceContent": "사람들이 날 뭐라고 부르든 신경 쓸 것 없어. 난 선인도 아니고 신통력이 있는 것도 아니니까. 퇴마사 집안의 방계 가문에서 태어나, 리월항과 멀리 떨어진 산에서 자랐어. 따지자면 선인의 제자일 뿐이",
             "sourceName": "vo_shenhe_friendship_01.wem"
         },
+        "83341c1632c52caf": {
+            "hash": "83341c1632c52caf",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_05.wem"
+        },
+        "858d637a88086551": {
+            "hash": "858d637a88086551",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_04.wem"
+        },
+        "85b63eba254095cc": {
+            "hash": "85b63eba254095cc",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_15.wem"
+        },
+        "86e02acbcfc293ee": {
+            "hash": "86e02acbcfc293ee",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_13.wem"
+        },
         "871a1c0b96257514": {
             "hash": "871a1c0b96257514",
             "directory": "External16",
             "voiceContent": "속세의 놀이는 잘 모르지만… 네 초대라면",
             "sourceName": "vo_card_shenhe_invite_easy_01.wem"
-        },
-        "89e8062455525801": {
-            "hash": "89e8062455525801",
-            "directory": "External17",
-            "voiceContent": "네가 만든 음식은 정말 맛있어. 차마 포기할 수가 없",
-            "sourceName": "vo_shenhe_spice_event_normal_01.wem"
         },
         "8b003d2e5cad1490": {
             "hash": "8b003d2e5cad1490",
@@ -802,6 +994,12 @@
             "voiceContent": "어떻게 대처해야 할까",
             "sourceName": "vo_card_shenhe_inGame_easy_03.wem"
         },
+        "8c2ef298066555e7": {
+            "hash": "8c2ef298066555e7",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_16.wem"
+        },
         "8c5b816daea225ab": {
             "hash": "8c5b816daea225ab",
             "directory": "External17",
@@ -813,6 +1011,12 @@
             "directory": "External17",
             "voiceContent": "의식의 얼음 분신",
             "sourceName": "vo_shenhe_battle_skill1_05.wem"
+        },
+        "8d7752b30d6e3297": {
+            "hash": "8d7752b30d6e3297",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_01.wem"
         },
         "8f01d970064c6632": {
             "hash": "8f01d970064c6632",
@@ -830,13 +1034,19 @@
             "hash": "907b339d15a238f7",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_h_04.wem"
+            "sourceName": "vo_shenhe_battle_hit_H_04.wem"
         },
         "909e4bb36951db35": {
             "hash": "909e4bb36951db35",
             "directory": "External18",
             "voiceContent": "인간 세상으로 돌아가는 건 사치야. 난 자연에서 동물들과 지내는 게 더 편",
             "sourceName": "vo_shenhe_character_idle_01.wem"
+        },
+        "92073ec4bad359b1": {
+            "hash": "92073ec4bad359b1",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_03.wem"
         },
         "9278e25e83542e46": {
             "hash": "9278e25e83542e46",
@@ -856,11 +1066,17 @@
             "voiceContent": "난 여러 선인 밑에서 수련을 해왔어. 수행의 경지가 높아질수록 그분들은 내게 새로운 술식 대신 살심을 다스리는 법을 가르쳐주셨지. 긴장하지 마… 평지에 굴을 파거나 나무를 뽑는 것 같은 일은 인적 드문 산에서만 하고 무고한 생명은 해치지 않았어. 게다가 지금은 나도 나 자신을 제어할 수 있다",
             "sourceName": "vo_shenhe_friendship_03.wem"
         },
+        "972f3aa915941b9a": {
+            "hash": "972f3aa915941b9a",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_17.wem"
+        },
         "978601afc9603182": {
             "hash": "978601afc9603182",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_05.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_05.wem"
         },
         "99182d06849ea4c1": {
             "hash": "99182d06849ea4c1",
@@ -868,11 +1084,23 @@
             "voiceContent": "상황이 걷잡을 수 없게 됐어",
             "sourceName": "vo_card_shenhe_inGame_hard_03.wem"
         },
+        "9c4812754c0969d3": {
+            "hash": "9c4812754c0969d3",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_12.wem"
+        },
         "9c8eeb76ce7f009c": {
             "hash": "9c8eeb76ce7f009c",
             "directory": "External19",
             "voiceContent": "…무엇이든 분부해",
             "sourceName": "vo_shenhe_teamJoin_03.wem"
+        },
+        "a0d7fe86f96e90cd": {
+            "hash": "a0d7fe86f96e90cd",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_10.wem"
         },
         "a2390742e1f21150": {
             "hash": "a2390742e1f21150",
@@ -884,7 +1112,7 @@
             "hash": "a706a7d7e17df098",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackheavy_02.wem"
+            "sourceName": "vo_shenhe_battle_attackHeavy_02.wem"
         },
         "aa45d717d35a87db": {
             "hash": "aa45d717d35a87db",
@@ -909,6 +1137,12 @@
             "directory": "External21",
             "voiceContent": "넌 속세의 불빛이 좋아, 아님 산속의 달빛이 좋아",
             "sourceName": "vo_shenhe_dialog_greetingNight.wem"
+        },
+        "acf1e0798bb512a6": {
+            "hash": "acf1e0798bb512a6",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_08.wem"
         },
         "ad11f670ce726f68": {
             "hash": "ad11f670ce726f68",
@@ -938,7 +1172,7 @@
             "hash": "b1637a44afb8002f",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attacklight_02.wem"
+            "sourceName": "vo_shenhe_battle_attackLight_02.wem"
         },
         "b18373b42741cfed": {
             "hash": "b18373b42741cfed",
@@ -957,6 +1191,12 @@
             "directory": "External22",
             "voiceContent": "점심 먹고 졸릴 땐, 가부좌를 틀고 앉아서 명상을 해봐. 효과가 좋",
             "sourceName": "vo_shenhe_dialog_greetingNoon.wem"
+        },
+        "b86ef8d2c5c6dc91": {
+            "hash": "b86ef8d2c5c6dc91",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_10.wem"
         },
         "b8c5bfd97992f299": {
             "hash": "b8c5bfd97992f299",
@@ -982,11 +1222,29 @@
             "voiceContent": "이 반짝이는 돌멩이가 「신의 눈」이라고? 흠… 인연이 있으면 얻는 법이고, 없으면 잃는 법이야. 나중에 인연이 흩어지면 이것도 소멸하겠",
             "sourceName": "vo_shenhe_dialog_pendant.wem"
         },
+        "c54c5a3ff51087da": {
+            "hash": "c54c5a3ff51087da",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_08.wem"
+        },
         "c8f62dd5e36deaea": {
             "hash": "c8f62dd5e36deaea",
             "directory": "External25",
             "voiceContent": "명을 들어라",
             "sourceName": "vo_shenhe_battle_skill1_01.wem"
+        },
+        "c9a2b2918e845f83": {
+            "hash": "c9a2b2918e845f83",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_05.wem"
+        },
+        "cacc9ea339065dbd": {
+            "hash": "cacc9ea339065dbd",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_07.wem"
         },
         "cb018b6406abbbd2": {
             "hash": "cb018b6406abbbd2",
@@ -1000,11 +1258,29 @@
             "voiceContent": "마지막 한 수는 너한테서 배운 거니까, 이번 판은 무효",
             "sourceName": "vo_card_shenhe_endOfGame_win_01.wem"
         },
+        "cd3f1488d3fedf2f": {
+            "hash": "cd3f1488d3fedf2f",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_shenhe_suit_formal_02.wem"
+        },
         "d0bf99c16057a3a1": {
             "hash": "d0bf99c16057a3a1",
             "directory": "External26",
             "voiceContent": "스승님이 알게 되면 붉은 끈을 더 묶으라고 하겠지",
             "sourceName": "vo_shenhe_starUp_02.wem"
+        },
+        "d26e9bf54f0c5b9b": {
+            "hash": "d26e9bf54f0c5b9b",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_01.wem"
+        },
+        "d3988806f98e59b5": {
+            "hash": "d3988806f98e59b5",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_03.wem"
         },
         "d50c577681a38d51": {
             "hash": "d50c577681a38d51",
@@ -1012,11 +1288,23 @@
             "voiceContent": "이 맛을… 내가 즐겨도 되는 걸까",
             "sourceName": "vo_shenhe_spice_pref_01.wem"
         },
+        "d8f6f399e12a7a47": {
+            "hash": "d8f6f399e12a7a47",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_shenhe_01.wem"
+        },
         "d90b75c099bfe0e4": {
             "hash": "d90b75c099bfe0e4",
             "directory": "External27",
             "voiceContent": "선인의 보물과 무슨 차이지",
             "sourceName": "vo_shenhe_chest_open_02.wem"
+        },
+        "d920f76b5185bcb7": {
+            "hash": "d920f76b5185bcb7",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_06.wem"
         },
         "da196766fa4359aa": {
             "hash": "da196766fa4359aa",
@@ -1036,17 +1324,11 @@
             "voiceContent": "마물을 제자리에 얼어붙게 하면 낙뢰로 순식간에 처리할 수 있어. 옷에 먼지도 안 묻",
             "sourceName": "vo_shenhe_weather_thunder_01.wem"
         },
-        "dca805f7e773d0b7": {
-            "hash": "dca805f7e773d0b7",
+        "de5f509f0e5311de": {
+            "hash": "de5f509f0e5311de",
             "directory": "External27",
-            "voiceContent": "이 맛을… 내가 즐겨도 되는 걸까",
-            "sourceName": "vo_shenhe_spice_event_pref_01.wem"
-        },
-        "dce9b02df43cc29f": {
-            "hash": "dce9b02df43cc29f",
-            "directory": "External27",
-            "voiceContent": "괜찮아, 이런 맛은 익숙하거",
-            "sourceName": "vo_shenhe_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_17.wem"
         },
         "e0f3dc14541225e6": {
             "hash": "e0f3dc14541225e6",
@@ -1059,6 +1341,12 @@
             "directory": "External28",
             "voiceContent": "이 세상에… 아직 「혈연」이 남아있는 줄은 몰랐어. 그가 수행하는 데 어려움이 있다면 얼마든지 답해줄 수 있어. 대신 그가 직접 산으로 와야 해. 그의 가족은 너무 정이 넘쳐서 어떻게 거절해야 예의에 어긋나지 않는지 모르겠어",
             "sourceName": "vo_shenhe_teammate_chongyun_01.wem"
+        },
+        "e2ef84b0bbb8b280": {
+            "hash": "e2ef84b0bbb8b280",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_31_shenhe_15.wem"
         },
         "e432411cf8b901a3": {
             "hash": "e432411cf8b901a3",
@@ -1094,7 +1382,7 @@
             "hash": "ed348afc1bf41f06",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_attackmid_01.wem"
+            "sourceName": "vo_shenhe_battle_attackMid_01.wem"
         },
         "ef00e4f80e06446c": {
             "hash": "ef00e4f80e06446c",
@@ -1118,7 +1406,7 @@
             "hash": "f0cdf3a64da05e4b",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_04.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_04.wem"
         },
         "f13ca721fe0a340c": {
             "hash": "f13ca721fe0a340c",
@@ -1130,7 +1418,19 @@
             "hash": "f1f71fb7f82115a5",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_shenhe_battle_hit_l_06.wem"
+            "sourceName": "vo_shenhe_battle_hit_L_06.wem"
+        },
+        "f40b9920226775a4": {
+            "hash": "f40b9920226775a4",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_29_shenhe_09.wem"
+        },
+        "f49a58b146dd099d": {
+            "hash": "f49a58b146dd099d",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_14.wem"
         },
         "f6e8cbdcd6612a6d": {
             "hash": "f6e8cbdcd6612a6d",
@@ -1149,6 +1449,12 @@
             "directory": "External31",
             "voiceContent": "SFX",
             "sourceName": "vo_shenhe_explore_fly_start_03.wem"
+        },
+        "fe10ba1e7341d8c6": {
+            "hash": "fe10ba1e7341d8c6",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_35_shenhe_04.wem"
         }
     }
 }

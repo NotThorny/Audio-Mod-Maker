@@ -608,13 +608,19 @@
             "hash": "025e822d8e02f375",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_02.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_02.wem"
         },
         "03a2441bc4be688f": {
             "hash": "03a2441bc4be688f",
             "directory": "External0",
             "voiceContent": "ボクの負けだよ。カードゲームは君のほうが得意だったみたいだね",
             "sourceName": "vo_card_venti_invite_easy_03.wem"
+        },
+        "0437357c21180b6a": {
+            "hash": "0437357c21180b6a",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_06.wem"
         },
         "067ab3d543b1e7bd": {
             "hash": "067ab3d543b1e7bd",
@@ -632,7 +638,7 @@
             "hash": "08b564687f29ac47",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_05.wem"
+            "sourceName": "vo_venti_battle_hit_H_05.wem"
         },
         "08c690957d8ad0c6": {
             "hash": "08c690957d8ad0c6",
@@ -704,7 +710,7 @@
             "hash": "1d5e70577232e72d",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_03.wem"
+            "sourceName": "vo_venti_battle_hit_H_03.wem"
         },
         "1e9b10340aa45dc1": {
             "hash": "1e9b10340aa45dc1",
@@ -717,6 +723,12 @@
             "directory": "External4",
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_jump_01.wem"
+        },
+        "2210b3a5ce673621": {
+            "hash": "2210b3a5ce673621",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_01.wem"
         },
         "221f86f7ac7981e1": {
             "hash": "221f86f7ac7981e1",
@@ -734,7 +746,7 @@
             "hash": "261898188ab53a4c",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_06.wem"
+            "sourceName": "vo_venti_battle_hit_L_06.wem"
         },
         "2783765d6ffb7b22": {
             "hash": "2783765d6ffb7b22",
@@ -746,7 +758,7 @@
             "hash": "29c7dfb7a4f43b98",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_04.wem"
+            "sourceName": "vo_venti_battle_attackLight_04.wem"
         },
         "2b23c18e74a744ca": {
             "hash": "2b23c18e74a744ca",
@@ -766,11 +778,29 @@
             "voiceContent": "さあ、こっちにおいで～新しい詩を作ったよ、タイトルは『旅人の風』にしようか",
             "sourceName": "vo_venti_starUp_03.wem"
         },
+        "3229d383140b4aed": {
+            "hash": "3229d383140b4aed",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_05.wem"
+        },
+        "3411288178fa96b9": {
+            "hash": "3411288178fa96b9",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_03b.wem"
+        },
+        "35087914db470cd7": {
+            "hash": "35087914db470cd7",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_battle_skill2_02.wem"
+        },
         "379194077b08c01a": {
             "hash": "379194077b08c01a",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_04.wem"
+            "sourceName": "vo_venti_battle_hit_L_04.wem"
         },
         "38c9c5f88f87f1dc": {
             "hash": "38c9c5f88f87f1dc",
@@ -782,13 +812,13 @@
             "hash": "3b410ba6954813b6",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_06.wem"
+            "sourceName": "vo_venti_battle_attackLight_06.wem"
         },
         "3bc9920848983bc0": {
             "hash": "3bc9920848983bc0",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_02.wem"
+            "sourceName": "vo_venti_battle_attackMid_02.wem"
         },
         "3cfdfa89cc8d7c1b": {
             "hash": "3cfdfa89cc8d7c1b",
@@ -856,12 +886,6 @@
             "voiceContent": "行動するんだ、旅人よ。失われた詩篇が、ボクたちを待っている",
             "sourceName": "vo_venti_explore_idle_03.wem"
         },
-        "4e7797e5199e3809": {
-            "hash": "4e7797e5199e3809",
-            "directory": "External9",
-            "voiceContent": "ふぅ、お腹いっぱい。食後のフルーツも食べられそうにないや",
-            "sourceName": "vo_venti_spice_event_normal_01.wem"
-        },
         "4e9a686d85a4a3f4": {
             "hash": "4e9a686d85a4a3f4",
             "directory": "External9",
@@ -890,7 +914,7 @@
             "hash": "58d152312b3b8111",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_03.wem"
+            "sourceName": "vo_venti_battle_hit_L_03.wem"
         },
         "59ac0179cdf92fe2": {
             "hash": "59ac0179cdf92fe2",
@@ -920,7 +944,7 @@
             "hash": "5f75f681347d09e0",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_06.wem"
+            "sourceName": "vo_venti_battle_hit_H_06.wem"
         },
         "5fcf4e6ea90941be": {
             "hash": "5fcf4e6ea90941be",
@@ -944,7 +968,7 @@
             "hash": "70f204483bb03eb3",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_01.wem"
+            "sourceName": "vo_venti_battle_hit_H_01.wem"
         },
         "75fded061bb905d1": {
             "hash": "75fded061bb905d1",
@@ -992,7 +1016,7 @@
             "hash": "7bdb242423cff612",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_01.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_01.wem"
         },
         "7ce3f3915cda7cc9": {
             "hash": "7ce3f3915cda7cc9",
@@ -1022,7 +1046,7 @@
             "hash": "806b4835d1357ce4",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_03.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_03.wem"
         },
         "817a06fe4cacae3c": {
             "hash": "817a06fe4cacae3c",
@@ -1048,6 +1072,18 @@
             "voiceContent": "お待たせ",
             "sourceName": "vo_card_venti_inGame_easy_04.wem"
         },
+        "84948362330864b9": {
+            "hash": "84948362330864b9",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_09.wem"
+        },
+        "85be6773dd8a5573": {
+            "hash": "85be6773dd8a5573",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_07.wem"
+        },
         "85cc3ac5bb9aed33": {
             "hash": "85cc3ac5bb9aed33",
             "directory": "External16",
@@ -1070,7 +1106,7 @@
             "hash": "8a457b85b1619802",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_02.wem"
+            "sourceName": "vo_venti_battle_attackLight_02.wem"
         },
         "8f101fb4696092c4": {
             "hash": "8f101fb4696092c4",
@@ -1088,19 +1124,13 @@
             "hash": "9452ed9d195a951f",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_07.wem"
+            "sourceName": "vo_venti_battle_attackLight_07.wem"
         },
         "94db6bfeccaaafc1": {
             "hash": "94db6bfeccaaafc1",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_03.wem"
-        },
-        "99fad59567f0967f": {
-            "hash": "99fad59567f0967f",
-            "directory": "External19",
-            "voiceContent": "ふぅ、満足、満足！明日もあるんだよね？それから明後日も",
-            "sourceName": "vo_venti_spice_event_pref_01.wem"
+            "sourceName": "vo_venti_battle_attackMid_03.wem"
         },
         "9afc99de24f89cec": {
             "hash": "9afc99de24f89cec",
@@ -1130,7 +1160,7 @@
             "hash": "ab8539af61945919",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_05.wem"
+            "sourceName": "vo_venti_battle_attackLight_05.wem"
         },
         "ac4f5647607bd4c5": {
             "hash": "ac4f5647607bd4c5",
@@ -1142,7 +1172,7 @@
             "hash": "ac65e621f4ba8c77",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_01.wem"
+            "sourceName": "vo_venti_battle_hit_L_01.wem"
         },
         "ae7a56605096729c": {
             "hash": "ae7a56605096729c",
@@ -1154,13 +1184,19 @@
             "hash": "b30a4271fdfb99be",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_04.wem"
+            "sourceName": "vo_venti_battle_hit_H_04.wem"
         },
         "b41e1f81fcbbc605": {
             "hash": "b41e1f81fcbbc605",
             "directory": "External22",
             "voiceContent": "ボクの勝ちだよ。さあさあ、蒲公英酒を一杯！キンキンに冷えたやつね",
             "sourceName": "vo_card_venti_invite_hard_02.wem"
+        },
+        "b4750b2ec928ed70": {
+            "hash": "b4750b2ec928ed70",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_battle_skill2_01.wem"
         },
         "ba0a5c76d79c7b61": {
             "hash": "ba0a5c76d79c7b61",
@@ -1204,6 +1240,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_climb_02.wem"
         },
+        "c3ccfa78acae5156": {
+            "hash": "c3ccfa78acae5156",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_03a.wem"
+        },
         "c460022bdc11241e": {
             "hash": "c460022bdc11241e",
             "directory": "External24",
@@ -1215,6 +1257,18 @@
             "directory": "External24",
             "voiceContent": "ウォーミングアップしよっか",
             "sourceName": "vo_venti_teamJoin_03.wem"
+        },
+        "c6abb98bf551ff5c": {
+            "hash": "c6abb98bf551ff5c",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_04.wem"
+        },
+        "c7d5a59d9fd3fd7e": {
+            "hash": "c7d5a59d9fd3fd7e",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_02.wem"
         },
         "c92567e51819bc97": {
             "hash": "c92567e51819bc97",
@@ -1258,12 +1312,6 @@
             "voiceContent": "アチャ",
             "sourceName": "vo_venti_battle_hit_L_02.wem"
         },
-        "d8f65f70487eb8f7": {
-            "hash": "d8f65f70487eb8f7",
-            "directory": "External27",
-            "voiceContent": "このボクですら苦手な料理だなんて。うぅ…困っちゃったな",
-            "sourceName": "vo_venti_spice_event_dislike_01.wem"
-        },
         "d937a41890c23f80": {
             "hash": "d937a41890c23f80",
             "directory": "External27",
@@ -1298,7 +1346,7 @@
             "hash": "e38d6d7c35a1c4cb",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_03.wem"
+            "sourceName": "vo_venti_battle_attackLight_03.wem"
         },
         "e3b226f3fcdc4b33": {
             "hash": "e3b226f3fcdc4b33",
@@ -1310,25 +1358,31 @@
             "hash": "e4b6998de0227c25",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_01.wem"
+            "sourceName": "vo_venti_battle_attackLight_01.wem"
         },
         "e52a460072ebdd63": {
             "hash": "e52a460072ebdd63",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_05.wem"
+            "sourceName": "vo_venti_battle_hit_L_05.wem"
         },
         "e86effef96280727": {
             "hash": "e86effef96280727",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_01.wem"
+            "sourceName": "vo_venti_battle_attackMid_01.wem"
         },
         "ebce34e3c0e3fbd3": {
             "hash": "ebce34e3c0e3fbd3",
             "directory": "External29",
             "voiceContent": "逃げようなんて思わないでよね",
             "sourceName": "vo_venti_battle_skill3_01.wem"
+        },
+        "ef3b24fc4493a172": {
+            "hash": "ef3b24fc4493a172",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_dialog_close2_heroine.wem"
         },
         "f20ce4a4004d15f3": {
             "hash": "f20ce4a4004d15f3",
@@ -1383,6 +1437,12 @@
             "directory": "External31",
             "voiceContent": "ここだよ",
             "sourceName": "vo_venti_battle_skill1_02.wem"
+        },
+        "ff71296a73851e38": {
+            "hash": "ff71296a73851e38",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_08.wem"
         }
     }
 }

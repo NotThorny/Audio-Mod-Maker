@@ -1,5 +1,408 @@
 {
-    "Teapot": {},
+    "Teapot": {
+        "02be8ef0c2363791": {
+            "hash": "02be8ef0c2363791",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_05b_2.wem"
+        },
+        "0428a864677c0598": {
+            "hash": "0428a864677c0598",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_18.wem"
+        },
+        "1b6a72bc8d9be334": {
+            "hash": "1b6a72bc8d9be334",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_12a.wem"
+        },
+        "1bc76390669ef6b4": {
+            "hash": "1bc76390669ef6b4",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_night_01.wem"
+        },
+        "1bdd1a03179f81c2": {
+            "hash": "1bdd1a03179f81c2",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_sigewinne_businessdistrict_02.wem"
+        },
+        "2239468e14faaa67": {
+            "hash": "2239468e14faaa67",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_13.wem"
+        },
+        "22f2f8894f442110": {
+            "hash": "22f2f8894f442110",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_03.wem"
+        },
+        "2912f966f7dd9a2f": {
+            "hash": "2912f966f7dd9a2f",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_10.wem"
+        },
+        "296a234f30c5b268": {
+            "hash": "296a234f30c5b268",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_06.wem"
+        },
+        "3109465053949ae3": {
+            "hash": "3109465053949ae3",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_04.wem"
+        },
+        "3252666b5a9ebe53": {
+            "hash": "3252666b5a9ebe53",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_17.wem"
+        },
+        "333958732213b9c6": {
+            "hash": "333958732213b9c6",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_morning_01.wem"
+        },
+        "3615b2a40f7fee0a": {
+            "hash": "3615b2a40f7fee0a",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_03a_1.wem"
+        },
+        "361faca08bc2b87b": {
+            "hash": "361faca08bc2b87b",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_05a_3.wem"
+        },
+        "36e2527d0803e54d": {
+            "hash": "36e2527d0803e54d",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_15.wem"
+        },
+        "39d5416eaf3fbbee": {
+            "hash": "39d5416eaf3fbbee",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_04a_2.wem"
+        },
+        "4159562d9967d66f": {
+            "hash": "4159562d9967d66f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_08.wem"
+        },
+        "46803943f902b82e": {
+            "hash": "46803943f902b82e",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_03b_2.wem"
+        },
+        "4c5fe76bd25f26c2": {
+            "hash": "4c5fe76bd25f26c2",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_06.wem"
+        },
+        "5d4d7be025e0a2c0": {
+            "hash": "5d4d7be025e0a2c0",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_08.wem"
+        },
+        "61ca035581e03bcd": {
+            "hash": "61ca035581e03bcd",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_04b_2.wem"
+        },
+        "6264a32daf24c8a4": {
+            "hash": "6264a32daf24c8a4",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_02.wem"
+        },
+        "62a93c55b2d49d72": {
+            "hash": "62a93c55b2d49d72",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_hello_01.wem"
+        },
+        "6788d9bcb9622ed1": {
+            "hash": "6788d9bcb9622ed1",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_sigewinne_MeruseaVillage_03.wem"
+        },
+        "6a3aa5957fb071d9": {
+            "hash": "6a3aa5957fb071d9",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_01.wem"
+        },
+        "6b640f75a5440491": {
+            "hash": "6b640f75a5440491",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_04a_1.wem"
+        },
+        "71f798686b5df7cc": {
+            "hash": "71f798686b5df7cc",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_07.wem"
+        },
+        "7321847a15dff5ee": {
+            "hash": "7321847a15dff5ee",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_01.wem"
+        },
+        "7469a4951ce8665e": {
+            "hash": "7469a4951ce8665e",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_12.wem"
+        },
+        "74aa074aec258bd1": {
+            "hash": "74aa074aec258bd1",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_03b_1.wem"
+        },
+        "75250bf99bdfad8b": {
+            "hash": "75250bf99bdfad8b",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_sigewinne_businessdistrict_03.wem"
+        },
+        "764f380b466218e5": {
+            "hash": "764f380b466218e5",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_sigewinne_businessdistrict_01.wem"
+        },
+        "784d79461424c91b": {
+            "hash": "784d79461424c91b",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_14.wem"
+        },
+        "78f9d8a6ca4e0700": {
+            "hash": "78f9d8a6ca4e0700",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_10.wem"
+        },
+        "7f153d45b1f3b6a9": {
+            "hash": "7f153d45b1f3b6a9",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_07.wem"
+        },
+        "810134f905961a10": {
+            "hash": "810134f905961a10",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_05b_3.wem"
+        },
+        "85e6025c241c2319": {
+            "hash": "85e6025c241c2319",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_19.wem"
+        },
+        "93f47134a52ac52f": {
+            "hash": "93f47134a52ac52f",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_05.wem"
+        },
+        "946f1a5ca9084455": {
+            "hash": "946f1a5ca9084455",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_hello_02.wem"
+        },
+        "a37d867bee5fff29": {
+            "hash": "a37d867bee5fff29",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_morning_02.wem"
+        },
+        "a3ef976f385a4646": {
+            "hash": "a3ef976f385a4646",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_11.wem"
+        },
+        "a4b052810be43e91": {
+            "hash": "a4b052810be43e91",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_02.wem"
+        },
+        "a5a7d962569f528b": {
+            "hash": "a5a7d962569f528b",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_07.wem"
+        },
+        "a6d205740121bde5": {
+            "hash": "a6d205740121bde5",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_05.wem"
+        },
+        "b0cb34739e2c744a": {
+            "hash": "b0cb34739e2c744a",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_16.wem"
+        },
+        "b42c3aa8cef4e232": {
+            "hash": "b42c3aa8cef4e232",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_05a_2.wem"
+        },
+        "b65f55d6a9f316c1": {
+            "hash": "b65f55d6a9f316c1",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_09.wem"
+        },
+        "bb1c6dad82df8637": {
+            "hash": "bb1c6dad82df8637",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_sigewinne_MeruseaVillage_01.wem"
+        },
+        "bc2bd0ad7955ac0d": {
+            "hash": "bc2bd0ad7955ac0d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_03a_2.wem"
+        },
+        "be88ab8183788768": {
+            "hash": "be88ab8183788768",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_13.wem"
+        },
+        "bef8a3666ec30ff7": {
+            "hash": "bef8a3666ec30ff7",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_04a_3.wem"
+        },
+        "bf9bf435dcc7aa86": {
+            "hash": "bf9bf435dcc7aa86",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_09.wem"
+        },
+        "c4e000a3d8764bab": {
+            "hash": "c4e000a3d8764bab",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_12b.wem"
+        },
+        "c53cf177b1795f2b": {
+            "hash": "c53cf177b1795f2b",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_night_02.wem"
+        },
+        "c7fe3885e66770bc": {
+            "hash": "c7fe3885e66770bc",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_14.wem"
+        },
+        "c83d9b3bb5a2e337": {
+            "hash": "c83d9b3bb5a2e337",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_03b_3.wem"
+        },
+        "d12fc0e9cc31eeee": {
+            "hash": "d12fc0e9cc31eeee",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_05b_1.wem"
+        },
+        "d20bb29d4e607b01": {
+            "hash": "d20bb29d4e607b01",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_11.wem"
+        },
+        "d60caf5e6776205a": {
+            "hash": "d60caf5e6776205a",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_08.wem"
+        },
+        "dbb2e54c1808caca": {
+            "hash": "dbb2e54c1808caca",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_04b_1.wem"
+        },
+        "e0dbb25f8cfa6b9d": {
+            "hash": "e0dbb25f8cfa6b9d",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_06.wem"
+        },
+        "e32ef113c171f41b": {
+            "hash": "e32ef113c171f41b",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_01.wem"
+        },
+        "e458dd256bf3f235": {
+            "hash": "e458dd256bf3f235",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship1_03.wem"
+        },
+        "e5cb7fc4fcc21150": {
+            "hash": "e5cb7fc4fcc21150",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_mimiTomo_fd_sigewinne_MeruseaVillage_02.wem"
+        },
+        "e5f218afc5288915": {
+            "hash": "e5f218afc5288915",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship2_05a_1.wem"
+        },
+        "f8cc4b7b08e1c114": {
+            "hash": "f8cc4b7b08e1c114",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_04.wem"
+        },
+        "fd5c778cb6475576": {
+            "hash": "fd5c778cb6475576",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_mimitomo_friendship3_02.wem"
+        }
+    },
     "Quests": {},
     "Gameplay": {
         "003084d68c1e454e": {
@@ -7,6 +410,18 @@
             "directory": "External0",
             "voiceContent": "SFX",
             "sourceName": "vo_sigewinne_explore_idle_02.wem"
+        },
+        "00de8926c4b3459b": {
+            "hash": "00de8926c4b3459b",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sigewinne_invite_easy_02.wem"
+        },
+        "052f5b0d51227091": {
+            "hash": "052f5b0d51227091",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sigewinne_endOfGame_fail_01.wem"
         },
         "0bcbce6c6393ad79": {
             "hash": "0bcbce6c6393ad79",
@@ -36,13 +451,13 @@
             "hash": "2620746ee498addf",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attackheavy_03.wem"
+            "sourceName": "vo_sigewinne_battle_attackHeavy_03.wem"
         },
         "28fe741f4d5fc062": {
             "hash": "28fe741f4d5fc062",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attacklight_01.wem"
+            "sourceName": "vo_sigewinne_battle_attackLight_01.wem"
         },
         "292338ccb14ede8d": {
             "hash": "292338ccb14ede8d",
@@ -54,13 +469,19 @@
             "hash": "29594827841cd95d",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_hit_l_04.wem"
+            "sourceName": "vo_sigewinne_battle_hit_L_04.wem"
         },
         "2a285830f7e1b034": {
             "hash": "2a285830f7e1b034",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attacklight_03.wem"
+            "sourceName": "vo_sigewinne_battle_attackLight_03.wem"
+        },
+        "2b56ac2311ff169d": {
+            "hash": "2b56ac2311ff169d",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sigewinne_invite_hard_03.wem"
         },
         "2dd216857833fe98": {
             "hash": "2dd216857833fe98",
@@ -90,13 +511,13 @@
             "hash": "3595efef8d45896c",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attackmid_01.wem"
+            "sourceName": "vo_sigewinne_battle_attackMid_01.wem"
         },
         "3d53c0812cd424d9": {
             "hash": "3d53c0812cd424d9",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attackheavy_01.wem"
+            "sourceName": "vo_sigewinne_battle_attackHeavy_01.wem"
         },
         "3e221662be071f54": {
             "hash": "3e221662be071f54",
@@ -132,13 +553,13 @@
             "hash": "46d83248faaf5879",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attacklight_06.wem"
+            "sourceName": "vo_sigewinne_battle_attackLight_06.wem"
         },
         "470eebde7d990f3a": {
             "hash": "470eebde7d990f3a",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attackmid_03.wem"
+            "sourceName": "vo_sigewinne_battle_attackMid_03.wem"
         },
         "493a3df584407d68": {
             "hash": "493a3df584407d68",
@@ -162,7 +583,7 @@
             "hash": "4a2b46e317bd66b2",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_hit_h_03.wem"
+            "sourceName": "vo_sigewinne_battle_hit_H_03.wem"
         },
         "4a707ab9cd978dd9": {
             "hash": "4a707ab9cd978dd9",
@@ -284,17 +705,29 @@
             "voiceContent": "혹시 장치 부품이 있다면 나에게 양보해 줄 수 있을까",
             "sourceName": "vo_sigewinne_chest_open_02.wem"
         },
+        "6b1f66c56994eb77": {
+            "hash": "6b1f66c56994eb77",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sigewinne_endOfGame_win_01.wem"
+        },
         "6b6b050cc7f02789": {
             "hash": "6b6b050cc7f02789",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_hit_h_04.wem"
+            "sourceName": "vo_sigewinne_battle_hit_H_04.wem"
         },
         "6b718e51466841d0": {
             "hash": "6b718e51466841d0",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_hit_l_01.wem"
+            "sourceName": "vo_sigewinne_battle_hit_L_01.wem"
+        },
+        "6be470d582de6231": {
+            "hash": "6be470d582de6231",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_sigewinne_teammate_emilie_01.wem"
         },
         "6dd6fe683de521ea": {
             "hash": "6dd6fe683de521ea",
@@ -307,6 +740,12 @@
             "directory": "External13",
             "voiceContent": "와… 마취총을 든 손이 더 안정적이게 됐어. 한 손으로 얼마나 정확하게 쏘려나… 우리 나가서 목표를 찾아볼까",
             "sourceName": "vo_sigewinne_starUp_03.wem"
+        },
+        "7187d3730876d9f3": {
+            "hash": "7187d3730876d9f3",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sigewinne_leave_01.wem"
         },
         "747da891284927c1": {
             "hash": "747da891284927c1",
@@ -332,23 +771,41 @@
             "voiceContent": "안 바쁠 땐 오뜨닛과 멘테를 초대해 의무실에서 차를 마셔. 최근 사건이나 뷰티 잡지에서 추천하는 스킨케어 제품을 얘기하기도 하지만, 대부분 함께 그림을 그리지. 우리가 귀엽다고 생각하는 걸 그려서 스티커로 만들고, 귀여운 사람들에게 선물하는 거야…. 아, 잠깐만, 너한테도 줄 게 있",
             "sourceName": "vo_sigewinne_friendship_03.wem"
         },
+        "7b844013d89945e3": {
+            "hash": "7b844013d89945e3",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sigewinne_invite_hard_01.wem"
+        },
         "7ce438fbb8440d0f": {
             "hash": "7ce438fbb8440d0f",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_hit_h_06.wem"
+            "sourceName": "vo_sigewinne_battle_hit_H_06.wem"
         },
         "7ceddc184d9be3a3": {
             "hash": "7ceddc184d9be3a3",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_hit_l_06.wem"
+            "sourceName": "vo_sigewinne_battle_hit_L_06.wem"
+        },
+        "7eeb172f07e57052": {
+            "hash": "7eeb172f07e57052",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sigewinne_invite_easy_03.wem"
         },
         "7f61879172b70e31": {
             "hash": "7f61879172b70e31",
             "directory": "External15",
             "voiceContent": "…너무 긴장해서 그런가",
             "sourceName": "vo_card_sigewinne_inGame_hard_03.wem"
+        },
+        "80143b40b2661a24": {
+            "hash": "80143b40b2661a24",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sigewinne_invite_easy_01.wem"
         },
         "80a7611069b80eaa": {
             "hash": "80a7611069b80eaa",
@@ -372,13 +829,13 @@
             "hash": "837092277c225685",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attacklight_02.wem"
+            "sourceName": "vo_sigewinne_battle_attackLight_02.wem"
         },
         "846366392674e9ff": {
             "hash": "846366392674e9ff",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attacklight_04.wem"
+            "sourceName": "vo_sigewinne_battle_attackLight_04.wem"
         },
         "8776b28826013f75": {
             "hash": "8776b28826013f75",
@@ -410,6 +867,12 @@
             "voiceContent": "진정",
             "sourceName": "vo_sigewinne_battle_skill1_03.wem"
         },
+        "8e7b73ba7a633af7": {
+            "hash": "8e7b73ba7a633af7",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_sigewinne_01.wem"
+        },
         "9011cf05a504d789": {
             "hash": "9011cf05a504d789",
             "directory": "External18",
@@ -438,7 +901,7 @@
             "hash": "9fea1dd5017cd603",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attackmid_02.wem"
+            "sourceName": "vo_sigewinne_battle_attackMid_02.wem"
         },
         "a30d1ac34779208a": {
             "hash": "a30d1ac34779208a",
@@ -498,7 +961,7 @@
             "hash": "ba752e306280648c",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_hit_l_05.wem"
+            "sourceName": "vo_sigewinne_battle_hit_L_05.wem"
         },
         "bbda35ce8e52e4e5": {
             "hash": "bbda35ce8e52e4e5",
@@ -506,17 +969,23 @@
             "voiceContent": "흐음, 어디 보자",
             "sourceName": "vo_card_sigewinne_inGame_easy_04.wem"
         },
+        "bc72922bf062a2cc": {
+            "hash": "bc72922bf062a2cc",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sigewinne_invite_hard_02.wem"
+        },
         "bd9c6b13cfdfa4c8": {
             "hash": "bd9c6b13cfdfa4c8",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_hit_h_05.wem"
+            "sourceName": "vo_sigewinne_battle_hit_H_05.wem"
         },
         "bf051a420fe58bae": {
             "hash": "bf051a420fe58bae",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_hit_l_03.wem"
+            "sourceName": "vo_sigewinne_battle_hit_L_03.wem"
         },
         "c33bb551124a7a0b": {
             "hash": "c33bb551124a7a0b",
@@ -534,7 +1003,7 @@
             "hash": "c51ad8513e0f3af8",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attacklight_07.wem"
+            "sourceName": "vo_sigewinne_battle_attackLight_07.wem"
         },
         "c803136f44d5595c": {
             "hash": "c803136f44d5595c",
@@ -564,7 +1033,7 @@
             "hash": "d0759278636b0876",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attackheavy_02.wem"
+            "sourceName": "vo_sigewinne_battle_attackHeavy_02.wem"
         },
         "d46ccf75b22363bd": {
             "hash": "d46ccf75b22363bd",
@@ -588,7 +1057,13 @@
             "hash": "d69404402e631216",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_sigewinne_battle_attacklight_05.wem"
+            "sourceName": "vo_sigewinne_battle_attackLight_05.wem"
+        },
+        "dbb5d20160792216": {
+            "hash": "dbb5d20160792216",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_sigewinne_freetalk_01.wem"
         },
         "ddbe8dc6b2985d87": {
             "hash": "ddbe8dc6b2985d87",

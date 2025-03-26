@@ -406,6 +406,12 @@
             "voiceContent": "跑调了",
             "sourceName": "vo_card_xinyan_inGame_easy_02.wem"
         },
+        "198fc674a0d1c3be": {
+            "hash": "198fc674a0d1c3be",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_hard_03.wem"
+        },
         "1a5a954185e29bc1": {
             "hash": "1a5a954185e29bc1",
             "directory": "External3",
@@ -422,7 +428,7 @@
             "hash": "1d96a278bf3fa92e",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackmid_02.wem"
+            "sourceName": "vo_xinyan_battle_attackMid_02.wem"
         },
         "1da2f2351eaa8726": {
             "hash": "1da2f2351eaa8726",
@@ -434,7 +440,7 @@
             "hash": "1e3566f0108c23a4",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_02.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_02.wem"
         },
         "243b26c212f229b3": {
             "hash": "243b26c212f229b3",
@@ -464,13 +470,13 @@
             "hash": "2f1ae9c4b0340d4e",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackheavy_03.wem"
+            "sourceName": "vo_xinyan_battle_attackHeavy_03.wem"
         },
         "3044ddd65ab618f0": {
             "hash": "3044ddd65ab618f0",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackheavy_01.wem"
+            "sourceName": "vo_xinyan_battle_attackHeavy_01.wem"
         },
         "306b7e5b182f996f": {
             "hash": "306b7e5b182f996f",
@@ -500,13 +506,13 @@
             "hash": "3ae60108135b11a9",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_07.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_07.wem"
         },
         "3bc4974ecdf4c994": {
             "hash": "3bc4974ecdf4c994",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_h_04.wem"
+            "sourceName": "vo_xinyan_battle_hit_H_04.wem"
         },
         "3d7db1582572aabc": {
             "hash": "3d7db1582572aabc",
@@ -536,7 +542,7 @@
             "hash": "407dd111e6cfa790",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_l_04.wem"
+            "sourceName": "vo_xinyan_battle_hit_L_04.wem"
         },
         "45b8ff8d203b676a": {
             "hash": "45b8ff8d203b676a",
@@ -560,7 +566,7 @@
             "hash": "4bc0707fb2627cd1",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackmid_01.wem"
+            "sourceName": "vo_xinyan_battle_attackMid_01.wem"
         },
         "4d0c036b0ab2e7a3": {
             "hash": "4d0c036b0ab2e7a3",
@@ -572,7 +578,7 @@
             "hash": "4e941ed8eb202163",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_l_03.wem"
+            "sourceName": "vo_xinyan_battle_hit_L_03.wem"
         },
         "4ea012f6ad490f8c": {
             "hash": "4ea012f6ad490f8c",
@@ -584,7 +590,7 @@
             "hash": "4fc534f70692202f",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_05.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_05.wem"
         },
         "55339108d9ee5f9a": {
             "hash": "55339108d9ee5f9a",
@@ -597,6 +603,18 @@
             "directory": "External10",
             "voiceContent": "SFX",
             "sourceName": "vo_xinyan_explore_fly_start_01.wem"
+        },
+        "5e20b35abc4c6c17": {
+            "hash": "5e20b35abc4c6c17",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_easy_01.wem"
+        },
+        "62b09f6c69b19331": {
+            "hash": "62b09f6c69b19331",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_easy_03.wem"
         },
         "64cf7d0df4a9bb13": {
             "hash": "64cf7d0df4a9bb13",
@@ -628,11 +646,11 @@
             "voiceContent": "很「摇滚」嘛",
             "sourceName": "vo_xinyan_chest_open_02.wem"
         },
-        "6a38b2d8d08893f4": {
-            "hash": "6a38b2d8d08893f4",
+        "6f3ae86b21ffd647": {
+            "hash": "6f3ae86b21ffd647",
             "directory": "External13",
-            "voiceContent": "身体情不自禁想要跟着律动起来。太酷了",
-            "sourceName": "vo_xinyan_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_hard_02.wem"
         },
         "6f7fbf7251c77150": {
             "hash": "6f7fbf7251c77150",
@@ -742,23 +760,17 @@
             "voiceContent": "要不我来弹首曲子给你听，我新写的哦",
             "sourceName": "vo_xinyan_explore_idle_02.wem"
         },
-        "8f290d29c1d45e9a": {
-            "hash": "8f290d29c1d45e9a",
-            "directory": "External17",
-            "voiceContent": "你不介意我调点佐料，配着吃吧",
-            "sourceName": "vo_xinyan_spice_event_dislike_01.wem"
-        },
         "8f58333f97722f42": {
             "hash": "8f58333f97722f42",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_h_06.wem"
+            "sourceName": "vo_xinyan_battle_hit_H_06.wem"
         },
         "90ac5d02ad6b7c6e": {
             "hash": "90ac5d02ad6b7c6e",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_l_06.wem"
+            "sourceName": "vo_xinyan_battle_hit_L_06.wem"
         },
         "927308c8c0551050": {
             "hash": "927308c8c0551050",
@@ -776,7 +788,7 @@
             "hash": "95ffa556fc88035f",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_h_03.wem"
+            "sourceName": "vo_xinyan_battle_hit_H_03.wem"
         },
         "9644b68cf5dd68ec": {
             "hash": "9644b68cf5dd68ec",
@@ -800,19 +812,19 @@
             "hash": "9effb4d622d94f1b",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_01.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_01.wem"
         },
         "9f5404707bdfd437": {
             "hash": "9f5404707bdfd437",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackmid_03.wem"
+            "sourceName": "vo_xinyan_battle_attackMid_03.wem"
         },
         "a029a0e7cd5b4d35": {
             "hash": "a029a0e7cd5b4d35",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_03.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_03.wem"
         },
         "a0fb6cdff33d041a": {
             "hash": "a0fb6cdff33d041a",
@@ -848,7 +860,7 @@
             "hash": "ad32f16944c37a59",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_h_01.wem"
+            "sourceName": "vo_xinyan_battle_hit_H_01.wem"
         },
         "ae33ff88147584ff": {
             "hash": "ae33ff88147584ff",
@@ -866,13 +878,25 @@
             "hash": "b0d84bbc6cd43857",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attackheavy_02.wem"
+            "sourceName": "vo_xinyan_battle_attackHeavy_02.wem"
+        },
+        "b0f5e432ca1497f4": {
+            "hash": "b0f5e432ca1497f4",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_endOfGame_fail_01.wem"
         },
         "b5028603b36d2a82": {
             "hash": "b5028603b36d2a82",
             "directory": "External22",
             "voiceContent": "SFX",
             "sourceName": "vo_xinyan_explore_climb_breath_01.wem"
+        },
+        "b6b994633297cc33": {
+            "hash": "b6b994633297cc33",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_freetalk_01.wem"
         },
         "b7a95333428a463a": {
             "hash": "b7a95333428a463a",
@@ -908,7 +932,7 @@
             "hash": "c23b2b09a36fc511",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_l_05.wem"
+            "sourceName": "vo_xinyan_battle_hit_L_05.wem"
         },
         "c3134b631b44bb2e": {
             "hash": "c3134b631b44bb2e",
@@ -921,6 +945,12 @@
             "directory": "External24",
             "voiceContent": "SFX",
             "sourceName": "vo_xinyan_explore_fly_start_02.wem"
+        },
+        "c5fb7a83d75333e0": {
+            "hash": "c5fb7a83d75333e0",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_hard_01.wem"
         },
         "c7403184dcadb173": {
             "hash": "c7403184dcadb173",
@@ -938,7 +968,7 @@
             "hash": "caa1d2ff470ecc46",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_04.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_04.wem"
         },
         "d3635b406117f6da": {
             "hash": "d3635b406117f6da",
@@ -952,17 +982,17 @@
             "voiceContent": "还不够…激昂",
             "sourceName": "vo_xinyan_life_die_02.wem"
         },
-        "d88a204ed29cf76e": {
-            "hash": "d88a204ed29cf76e",
-            "directory": "External27",
-            "voiceContent": "味道不错，稍微欠点「火花」…需要我帮你摆个盘吗",
-            "sourceName": "vo_xinyan_spice_event_normal_01.wem"
-        },
         "d9541384e3a702a3": {
             "hash": "d9541384e3a702a3",
             "directory": "External27",
             "voiceContent": "嗯，节拍很准",
             "sourceName": "vo_card_xinyan_inGame_easy_01.wem"
+        },
+        "dd8d4574aa2e4cb0": {
+            "hash": "dd8d4574aa2e4cb0",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_invite_easy_02.wem"
         },
         "ddd8a91fba1c35e2": {
             "hash": "ddd8a91fba1c35e2",
@@ -992,13 +1022,25 @@
             "hash": "e53ae711922d0d68",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_attacklight_06.wem"
+            "sourceName": "vo_xinyan_battle_attackLight_06.wem"
+        },
+        "e85a53f7586b0686": {
+            "hash": "e85a53f7586b0686",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_xinyan_01.wem"
         },
         "e9ca5147c634c665": {
             "hash": "e9ca5147c634c665",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_h_05.wem"
+            "sourceName": "vo_xinyan_battle_hit_H_05.wem"
+        },
+        "ec608142011910c8": {
+            "hash": "ec608142011910c8",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_endOfGame_win_01.wem"
         },
         "ef802752dc097470": {
             "hash": "ef802752dc097470",
@@ -1017,6 +1059,12 @@
             "directory": "External30",
             "voiceContent": "嗯！就是这样的节奏",
             "sourceName": "vo_xinyan_starUp_01.wem"
+        },
+        "f6dc8ece1ebe47b0": {
+            "hash": "f6dc8ece1ebe47b0",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_xinyan_leave_01.wem"
         },
         "f78360fcba0da060": {
             "hash": "f78360fcba0da060",
@@ -1052,7 +1100,7 @@
             "hash": "fe668ae82485f21d",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_xinyan_battle_hit_l_01.wem"
+            "sourceName": "vo_xinyan_battle_hit_L_01.wem"
         },
         "fecc9523bb716f1b": {
             "hash": "fecc9523bb716f1b",

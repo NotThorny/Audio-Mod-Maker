@@ -626,7 +626,7 @@
             "hash": "04d2610f328004ab",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_02.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_02.wem"
         },
         "0530f17de9ba6e4a": {
             "hash": "0530f17de9ba6e4a",
@@ -658,12 +658,6 @@
             "voiceContent": "'Bout time",
             "sourceName": "vo_card_venti_inGame_easy_04.wem"
         },
-        "101685519d0492e5": {
-            "hash": "101685519d0492e5",
-            "directory": "External2",
-            "voiceContent": "Ahh, quite delightful! So... could I get the same again tomorrow? ...And maybe the day after that",
-            "sourceName": "vo_venti_spice_event_pref_01.wem"
-        },
         "101c7ace9c48464b": {
             "hash": "101c7ace9c48464b",
             "directory": "External2",
@@ -674,7 +668,7 @@
             "hash": "101f19a13cd74459",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_01.wem"
+            "sourceName": "vo_venti_battle_hit_L_01.wem"
         },
         "1145a6e046c8fda5": {
             "hash": "1145a6e046c8fda5",
@@ -752,7 +746,7 @@
             "hash": "252753419b838f11",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_05.wem"
+            "sourceName": "vo_venti_battle_hit_H_05.wem"
         },
         "25d927401d532da7": {
             "hash": "25d927401d532da7",
@@ -764,7 +758,7 @@
             "hash": "265e6267edd18ecc",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_06.wem"
+            "sourceName": "vo_venti_battle_attackLight_06.wem"
         },
         "2688dd868230e54b": {
             "hash": "2688dd868230e54b",
@@ -796,11 +790,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_idle_02.wem"
         },
+        "2e5d5ba28891bb29": {
+            "hash": "2e5d5ba28891bb29",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_battle_skill2_02.wem"
+        },
         "2ee4a4e82a3d2b42": {
             "hash": "2ee4a4e82a3d2b42",
             "directory": "External5",
             "voiceContent": "Eula has good taste when it comes to beverages of the alcoholic variety. Come summer or winter, she always likes them ice-cold. That's rare among Mondstadters these days! She and I would make great drinking buddies. Huh? My songs about the Lawrence Clan... She's heard them already? Eh, no harm done. Maybe she and I can do a duet sometime",
             "sourceName": "vo_venti_teammate_eula_01.wem"
+        },
+        "30d7662a0fb631d8": {
+            "hash": "30d7662a0fb631d8",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_02.wem"
         },
         "31037bdc9ab98250": {
             "hash": "31037bdc9ab98250",
@@ -824,7 +830,7 @@
             "hash": "37d75e56de25149a",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_04.wem"
+            "sourceName": "vo_venti_battle_attackLight_04.wem"
         },
         "384a62e1c6e8e650": {
             "hash": "384a62e1c6e8e650",
@@ -843,6 +849,12 @@
             "directory": "External7",
             "voiceContent": "What's that? You think I should try harder to be a good Anemo Archon? Well, you could be a better devotee too... you could be more pious, more passionate, or... um..",
             "sourceName": "vo_venti_dialog_close4.wem"
+        },
+        "4126660755879e94": {
+            "hash": "4126660755879e94",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_06.wem"
         },
         "4524c91a12e8d073": {
             "hash": "4524c91a12e8d073",
@@ -878,7 +890,7 @@
             "hash": "4cb6797fbe489065",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_05.wem"
+            "sourceName": "vo_venti_battle_hit_L_05.wem"
         },
         "4eb962d5253d2644": {
             "hash": "4eb962d5253d2644",
@@ -892,6 +904,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_jump_05.wem"
         },
+        "524d0453c0164ba7": {
+            "hash": "524d0453c0164ba7",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_09.wem"
+        },
         "5656ed0a0b9abd18": {
             "hash": "5656ed0a0b9abd18",
             "directory": "External10",
@@ -902,13 +920,13 @@
             "hash": "59171c808e57d591",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_03.wem"
+            "sourceName": "vo_venti_battle_attackLight_03.wem"
         },
         "5a32ef163d23ac62": {
             "hash": "5a32ef163d23ac62",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_03.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_03.wem"
         },
         "5ab6237734bda5a6": {
             "hash": "5ab6237734bda5a6",
@@ -920,7 +938,7 @@
             "hash": "5b5cd327e7a59c34",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackheavy_01.wem"
+            "sourceName": "vo_venti_battle_attackHeavy_01.wem"
         },
         "5bc9fcc1329f54f2": {
             "hash": "5bc9fcc1329f54f2",
@@ -950,7 +968,7 @@
             "hash": "6152b3201c99bc1d",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_01.wem"
+            "sourceName": "vo_venti_battle_hit_H_01.wem"
         },
         "61d0eddb16d09e34": {
             "hash": "61d0eddb16d09e34",
@@ -998,7 +1016,13 @@
             "hash": "6c760dbe8e4566db",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_03.wem"
+            "sourceName": "vo_venti_battle_attackMid_03.wem"
+        },
+        "6cc34fc1f1835c18": {
+            "hash": "6cc34fc1f1835c18",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_life_die_04.wem"
         },
         "6dade1bbc1b08a78": {
             "hash": "6dade1bbc1b08a78",
@@ -1016,7 +1040,7 @@
             "hash": "7104f9d03ba8daf5",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_01.wem"
+            "sourceName": "vo_venti_battle_attackMid_01.wem"
         },
         "769f03986088a467": {
             "hash": "769f03986088a467",
@@ -1126,11 +1150,17 @@
             "voiceContent": "Acting Grand Master Jean... Well, what do you think of her? Yes, I couldn't agree more conscientious, courageous... kind and considerate too. Reminds me of another good friend..",
             "sourceName": "vo_venti_teammate_qin_01.wem"
         },
+        "94ba01f81f050442": {
+            "hash": "94ba01f81f050442",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_04.wem"
+        },
         "95427c5f0f6e029d": {
             "hash": "95427c5f0f6e029d",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_07.wem"
+            "sourceName": "vo_venti_battle_attackLight_07.wem"
         },
         "9809cdde2f429399": {
             "hash": "9809cdde2f429399",
@@ -1150,6 +1180,12 @@
             "voiceContent": "Ah yes, the white-haired fellow from Wolvendom? Raised by wolves? Really? ... No wonder his scent is so familiar..",
             "sourceName": "vo_venti_teammate_razor_01.wem"
         },
+        "9b61740f841ad85f": {
+            "hash": "9b61740f841ad85f",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_01.wem"
+        },
         "9bec0e863bc1a2fe": {
             "hash": "9bec0e863bc1a2fe",
             "directory": "External19",
@@ -1160,7 +1196,7 @@
             "hash": "9eb0bf86c6089394",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_04.wem"
+            "sourceName": "vo_venti_battle_hit_L_04.wem"
         },
         "9ee7bec5ebd8a8f2": {
             "hash": "9ee7bec5ebd8a8f2",
@@ -1196,13 +1232,25 @@
             "hash": "a369f949dee37190",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_04.wem"
+            "sourceName": "vo_venti_battle_hit_H_04.wem"
+        },
+        "a47e625ac805ba9e": {
+            "hash": "a47e625ac805ba9e",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_08.wem"
+        },
+        "a909bf22c57c0a3b": {
+            "hash": "a909bf22c57c0a3b",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_03b.wem"
         },
         "acabb07157d6e0f7": {
             "hash": "acabb07157d6e0f7",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_01.wem"
+            "sourceName": "vo_venti_battle_attackLight_01.wem"
         },
         "acd40eb75415e98a": {
             "hash": "acd40eb75415e98a",
@@ -1226,7 +1274,7 @@
             "hash": "b1804710e333eb63",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_03.wem"
+            "sourceName": "vo_venti_battle_hit_H_03.wem"
         },
         "b350fca4789a0a2e": {
             "hash": "b350fca4789a0a2e",
@@ -1245,6 +1293,12 @@
             "directory": "External22",
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_sprint_start_02.wem"
+        },
+        "be192d99bc4575c6": {
+            "hash": "be192d99bc4575c6",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_battle_skill2_01.wem"
         },
         "c09d55a17ecc4069": {
             "hash": "c09d55a17ecc4069",
@@ -1275,6 +1329,12 @@
             "directory": "External24",
             "voiceContent": "Perfect timing, Traveler! I was about to ask you — what is your greatest wish",
             "sourceName": "vo_venti_friendship_01.wem"
+        },
+        "c6133fff7a7bbfdc": {
+            "hash": "c6133fff7a7bbfdc",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_venti_dialog_close2_heroine.wem"
         },
         "c90053f3c9036013": {
             "hash": "c90053f3c9036013",
@@ -1312,6 +1372,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_venti_explore_jump_04.wem"
         },
+        "d381f13a3f2f8944": {
+            "hash": "d381f13a3f2f8944",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_03a.wem"
+        },
         "d60b53d6d0f858d8": {
             "hash": "d60b53d6d0f858d8",
             "directory": "External26",
@@ -1322,7 +1388,7 @@
             "hash": "d759c288d1b7b810",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_02.wem"
+            "sourceName": "vo_venti_battle_attackLight_02.wem"
         },
         "dcf9a386a1492657": {
             "hash": "dcf9a386a1492657",
@@ -1352,7 +1418,7 @@
             "hash": "e570104fd60831e3",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attacklight_05.wem"
+            "sourceName": "vo_venti_battle_attackLight_05.wem"
         },
         "e868610f0390a349": {
             "hash": "e868610f0390a349",
@@ -1370,7 +1436,19 @@
             "hash": "ea819bc6d175dd92",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_attackmid_02.wem"
+            "sourceName": "vo_venti_battle_attackMid_02.wem"
+        },
+        "ee01f3eea345300b": {
+            "hash": "ee01f3eea345300b",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_05.wem"
+        },
+        "ef2c20004dc79b65": {
+            "hash": "ef2c20004dc79b65",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_21_venti_07.wem"
         },
         "efab6e55100ce3e6": {
             "hash": "efab6e55100ce3e6",
@@ -1388,13 +1466,13 @@
             "hash": "f2445b778f85f942",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_06.wem"
+            "sourceName": "vo_venti_battle_hit_L_06.wem"
         },
         "f398853aa57f466e": {
             "hash": "f398853aa57f466e",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_h_06.wem"
+            "sourceName": "vo_venti_battle_hit_H_06.wem"
         },
         "f418cf81a6e8fe96": {
             "hash": "f418cf81a6e8fe96",
@@ -1412,7 +1490,7 @@
             "hash": "f8ebcd8ef49bcd5f",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_venti_battle_hit_l_03.wem"
+            "sourceName": "vo_venti_battle_hit_L_03.wem"
         },
         "f9ebfab751ac48f0": {
             "hash": "f9ebfab751ac48f0",

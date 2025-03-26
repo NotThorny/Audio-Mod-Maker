@@ -308,11 +308,29 @@
         }
     },
     "Quests": {
+        "5167a27d95ea897b": {
+            "hash": "5167a27d95ea897b",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_02.wem"
+        },
+        "7be0d4950f9fba84": {
+            "hash": "7be0d4950f9fba84",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_01.wem"
+        },
         "cc4a60287b3b99ae": {
             "hash": "cc4a60287b3b99ae",
             "directory": "External25",
             "voiceContent": "道中は、拙者に任せるでござる",
             "sourceName": "vo_WYLQ103_1_kazuha_01.wem"
+        },
+        "cf743085d91cb332": {
+            "hash": "cf743085d91cb332",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_kazuha_03.wem"
         }
     },
     "Gameplay": {
@@ -332,7 +350,7 @@
             "hash": "051aa6e786543997",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_03.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_03.wem"
         },
         "0556190e5552f7e0": {
             "hash": "0556190e5552f7e0",
@@ -350,7 +368,7 @@
             "hash": "08fd395ae1dd6c2c",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_02.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_02.wem"
         },
         "095838da319030a9": {
             "hash": "095838da319030a9",
@@ -362,7 +380,7 @@
             "hash": "09aa92f933b960b1",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_01.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_01.wem"
         },
         "09dd448bcac5c805": {
             "hash": "09dd448bcac5c805",
@@ -382,11 +400,29 @@
             "voiceContent": "うむ、魚をこうも美味しく調理するとは、お主の腕は相当なものでござるな",
             "sourceName": "vo_kazuha_spice_pref_01.wem"
         },
+        "0ea28c1236571c14": {
+            "hash": "0ea28c1236571c14",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_2.wem"
+        },
+        "11971f5a70ff81d4": {
+            "hash": "11971f5a70ff81d4",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_2.wem"
+        },
         "11a9cee4c50b195b": {
             "hash": "11a9cee4c50b195b",
             "directory": "External2",
             "voiceContent": "楓原家はかつて有名な武士の家系であったが、拙者が跡を継いだ時にはすでに、武家の名以外は意味のないものとなっていた。しかし拙者からすれば、それくらいがちょうどよい。武士に裕福な生活などいらぬ。拙者たちに必要なのは詩歌と美酒、そして手中にある刀のみでござるよ",
             "sourceName": "vo_kazuha_dialog_idle2.wem"
+        },
+        "1332b823e3bcb076": {
+            "hash": "1332b823e3bcb076",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_4.wem"
         },
         "13e3d74268143bd1": {
             "hash": "13e3d74268143bd1",
@@ -410,19 +446,25 @@
             "hash": "1c366366beddaedb",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_01.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_01.wem"
         },
         "1f20716417d6dbc9": {
             "hash": "1f20716417d6dbc9",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_02.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_02.wem"
         },
         "20c54f786c4122f5": {
             "hash": "20c54f786c4122f5",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_03.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_03.wem"
+        },
+        "227522824bbf354a": {
+            "hash": "227522824bbf354a",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_02.wem"
         },
         "23f19f54418af1cd": {
             "hash": "23f19f54418af1cd",
@@ -434,7 +476,7 @@
             "hash": "25a6cca47d8f34ea",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_04.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_04.wem"
         },
         "26dced7598951ab3": {
             "hash": "26dced7598951ab3",
@@ -472,12 +514,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_fly_start_02.wem"
         },
-        "33efab83f0d26c9f": {
-            "hash": "33efab83f0d26c9f",
-            "directory": "External6",
-            "voiceContent": "うむ、魚をこうも美味しく調理するとは、お主の腕は相当なものでござるな",
-            "sourceName": "vo_kazuha_spice_event_pref_01.wem"
-        },
         "35b61115b3c2fdc2": {
             "hash": "35b61115b3c2fdc2",
             "directory": "External6",
@@ -508,11 +544,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_jump_02.wem"
         },
+        "3a1b54e5eb8b90df": {
+            "hash": "3a1b54e5eb8b90df",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_2.wem"
+        },
         "3a8d0761d7e368d7": {
             "hash": "3a8d0761d7e368d7",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_05.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_05.wem"
         },
         "3cf7917bef6ac537": {
             "hash": "3cf7917bef6ac537",
@@ -524,7 +566,7 @@
             "hash": "414606c6076a6683",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_07.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_07.wem"
         },
         "42575ebc805e1487": {
             "hash": "42575ebc805e1487",
@@ -536,13 +578,13 @@
             "hash": "426ff2d7b1ec64bd",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_05.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_05.wem"
         },
         "43804ace2ade5fa1": {
             "hash": "43804ace2ade5fa1",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_03.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_03.wem"
         },
         "4764056e7d360786": {
             "hash": "4764056e7d360786",
@@ -555,6 +597,12 @@
             "directory": "External9",
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_jump_04.wem"
+        },
+        "4d2e81c065c9131f": {
+            "hash": "4d2e81c065c9131f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_01.wem"
         },
         "5390cf3f611448d9": {
             "hash": "5390cf3f611448d9",
@@ -610,6 +658,12 @@
             "voiceContent": "実に面白い札遊びでござる…ちょうど、もう何局かやろうと思っていた",
             "sourceName": "vo_card_kazuha_invite_hard_01.wem"
         },
+        "6460cdd2ae02d719": {
+            "hash": "6460cdd2ae02d719",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_03.wem"
+        },
         "6606fdbe5ddd49ea": {
             "hash": "6606fdbe5ddd49ea",
             "directory": "External12",
@@ -627,6 +681,12 @@
             "directory": "External12",
             "voiceContent": "雪が地面に落ちる音…今の拙者は、それすらも聞こえるようになったかもしれぬ",
             "sourceName": "vo_kazuha_starUp_02.wem"
+        },
+        "68dd9a1a64ea55df": {
+            "hash": "68dd9a1a64ea55df",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_5.wem"
         },
         "68f1ae195a95db33": {
             "hash": "68f1ae195a95db33",
@@ -668,25 +728,31 @@
             "hash": "7150d76b1fc4a508",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_03.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_03.wem"
         },
         "735167405614b9c3": {
             "hash": "735167405614b9c3",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_01.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_01.wem"
         },
         "77e153520379e0fd": {
             "hash": "77e153520379e0fd",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_03.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_03.wem"
         },
         "795cb51008b88c55": {
             "hash": "795cb51008b88c55",
             "directory": "External15",
             "voiceContent": "海を渡る時の雷雨と比べれば、この程度は意にも介さぬ",
             "sourceName": "vo_kazuha_weather_thunder_01.wem"
+        },
+        "7ee5de358ecc1098": {
+            "hash": "7ee5de358ecc1098",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_1.wem"
         },
         "7f47beb95021655e": {
             "hash": "7f47beb95021655e",
@@ -722,13 +788,7 @@
             "hash": "835d44efc9b40e8e",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_02.wem"
-        },
-        "83981738321da717": {
-            "hash": "83981738321da717",
-            "directory": "External16",
-            "voiceContent": "少し休んではどうでござるか？心が疲れていては、せっかくの料理も味が落ちてしまうであろう",
-            "sourceName": "vo_kazuha_spice_event_dislike_01.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_02.wem"
         },
         "83e07be80b2c74a1": {
             "hash": "83e07be80b2c74a1",
@@ -760,11 +820,23 @@
             "voiceContent": "一進一退、といったところでござるな",
             "sourceName": "vo_card_kazuha_inGame_hard_03.wem"
         },
+        "8de600d6b53853e5": {
+            "hash": "8de600d6b53853e5",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_4.wem"
+        },
         "8efe030c3803298b": {
             "hash": "8efe030c3803298b",
             "directory": "External17",
             "voiceContent": "拙者は耳が優れていて、様々な音が聞こえる。例えば風が山を越える音、雲が散りゆく音、森で小狐がリンゴをかじる音、カニが泡を吹く音…これは自然と万物が拙者に与えた恩恵、いつでも危険を事前に察知することができるでござる",
             "sourceName": "vo_kazuha_friendship_02.wem"
+        },
+        "905f0a247f1fe8b6": {
+            "hash": "905f0a247f1fe8b6",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_3.wem"
         },
         "907a7636db1e8a20": {
             "hash": "907a7636db1e8a20",
@@ -818,13 +890,19 @@
             "hash": "9ed21580af73ac64",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackmid_02.wem"
+            "sourceName": "vo_kazuha_battle_attackMid_02.wem"
         },
         "9fc12339a2121739": {
             "hash": "9fc12339a2121739",
             "directory": "External19",
             "voiceContent": "ふぁ…誕生日だと知って、新しい詩歌を書いたでござるよ。ただあまり心得がなく、何日もかけて途中までしか思いつかなかった。とりあえず、これをお主に贈ろう。「歳月や、雲の赴く、誕生日」…ん、待った、何か思いついたでござる。続きは…「祝いの日には、異郷の友と」、どうであろうか？誕生日おめでとう、今日は一緒に甘味でも食べにゆこうではないか",
             "sourceName": "vo_kazuha_pref_birthday.wem"
+        },
+        "a3fc547a08317f53": {
+            "hash": "a3fc547a08317f53",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_03.wem"
         },
         "a407a48f1048773a": {
             "hash": "a407a48f1048773a",
@@ -836,7 +914,7 @@
             "hash": "a72dfe9c3a017ef3",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_05.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_05.wem"
         },
         "a7d04e29a1c87bd9": {
             "hash": "a7d04e29a1c87bd9",
@@ -850,6 +928,18 @@
             "voiceContent": "お主の料理は腹を満たすだけでなく、拙者にとって心の安らぎでもある",
             "sourceName": "vo_kazuha_spice_normal_01.wem"
         },
+        "a88c408bb596a64d": {
+            "hash": "a88c408bb596a64d",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_01.wem"
+        },
+        "a9a3bd96867b2b8a": {
+            "hash": "a9a3bd96867b2b8a",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_01.wem"
+        },
         "a9a8685d8fafa469": {
             "hash": "a9a8685d8fafa469",
             "directory": "External21",
@@ -862,12 +952,6 @@
             "voiceContent": "雲隠れ…雁鳴く時",
             "sourceName": "vo_kazuha_battle_skill3_01.wem"
         },
-        "ad7d3ca1a74ea829": {
-            "hash": "ad7d3ca1a74ea829",
-            "directory": "External21",
-            "voiceContent": "お主の料理は腹を満たすだけでなく、拙者にとって心の安らぎでもある",
-            "sourceName": "vo_kazuha_spice_event_normal_01.wem"
-        },
         "ae9586f59fff9a47": {
             "hash": "ae9586f59fff9a47",
             "directory": "External21",
@@ -878,7 +962,7 @@
             "hash": "aedc435b4b8a9666",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attackheavy_01.wem"
+            "sourceName": "vo_kazuha_battle_attackHeavy_01.wem"
         },
         "afb2e405ceb82402": {
             "hash": "afb2e405ceb82402",
@@ -914,19 +998,43 @@
             "hash": "b8cfa56a1b433dce",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_04.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_04.wem"
         },
         "b9f9997bc5c54970": {
             "hash": "b9f9997bc5c54970",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_l_06.wem"
+            "sourceName": "vo_kazuha_battle_hit_L_06.wem"
         },
         "bae2afdbc74c7bb5": {
             "hash": "bae2afdbc74c7bb5",
             "directory": "External23",
             "voiceContent": "神の目は力の「根源」ではなく、力の「証明」であると拙者は思う。神の目とは、前へ進みたいと思う人々の願い。拙者たち武士にとってのそれは、いつの日も手中にある刀のみなのでござるよ",
             "sourceName": "vo_kazuha_dialog_pendant.wem"
+        },
+        "bb0cad41bbd9ea4b": {
+            "hash": "bb0cad41bbd9ea4b",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_1.wem"
+        },
+        "bb7e19f98414ad8b": {
+            "hash": "bb7e19f98414ad8b",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_1.wem"
+        },
+        "bc35d953665aa1a5": {
+            "hash": "bc35d953665aa1a5",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04a_3.wem"
+        },
+        "bca8460b2e9718e5": {
+            "hash": "bca8460b2e9718e5",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_3.wem"
         },
         "c181deb12849b57d": {
             "hash": "c181deb12849b57d",
@@ -952,6 +1060,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_climb_breath_01.wem"
         },
+        "cf9147007726ea58": {
+            "hash": "cf9147007726ea58",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_1.wem"
+        },
         "d1d37547a4742b58": {
             "hash": "d1d37547a4742b58",
             "directory": "External26",
@@ -974,7 +1088,7 @@
             "hash": "d6f1d8e0933319ec",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_04.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_04.wem"
         },
         "d97821ef15ff8720": {
             "hash": "d97821ef15ff8720",
@@ -1054,6 +1168,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kazuha_explore_climb_breath_03.wem"
         },
+        "e2a373daf162b998": {
+            "hash": "e2a373daf162b998",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_36_kazuha_02.wem"
+        },
         "e33d81f678b75c8b": {
             "hash": "e33d81f678b75c8b",
             "directory": "External28",
@@ -1065,6 +1185,12 @@
             "directory": "External28",
             "voiceContent": "うむ、他の者とあと何局かやった後に、拙者も帰ろう…もう時間も遅い",
             "sourceName": "vo_card_kazuha_leave_01.wem"
+        },
+        "e47072ef6a5deb76": {
+            "hash": "e47072ef6a5deb76",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_38_kazuha_04b_3.wem"
         },
         "e6b4ee919346ad88": {
             "hash": "e6b4ee919346ad88",
@@ -1088,19 +1214,25 @@
             "hash": "e81b50b451c928dc",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_hit_h_06.wem"
+            "sourceName": "vo_kazuha_battle_hit_H_06.wem"
         },
         "e86ad4cf83869fba": {
             "hash": "e86ad4cf83869fba",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_kazuha_battle_attacklight_06.wem"
+            "sourceName": "vo_kazuha_battle_attackLight_06.wem"
         },
         "e963fd8b25ed6dd1": {
             "hash": "e963fd8b25ed6dd1",
             "directory": "External29",
             "voiceContent": "海の波は強い、拙者ももっと強くならねば",
             "sourceName": "vo_kazuha_starUp_03.wem"
+        },
+        "e970ec1b03326a1f": {
+            "hash": "e970ec1b03326a1f",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02a_2.wem"
         },
         "eab5e70031c11fc8": {
             "hash": "eab5e70031c11fc8",
@@ -1137,6 +1269,12 @@
             "directory": "External31",
             "voiceContent": "天地の恵みであるな",
             "sourceName": "vo_kazuha_chest_open_02.wem"
+        },
+        "fe538c34f085af58": {
+            "hash": "fe538c34f085af58",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_37_kazuha_02b_6.wem"
         }
     }
 }

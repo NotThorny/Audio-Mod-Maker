@@ -332,6 +332,24 @@
         }
     },
     "Quests": {
+        "1e208d045a0c235e": {
+            "hash": "1e208d045a0c235e",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_03.wem"
+        },
+        "22b0c1160771c400": {
+            "hash": "22b0c1160771c400",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_01.wem"
+        },
+        "2f9ceacb613fe019": {
+            "hash": "2f9ceacb613fe019",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_08.wem"
+        },
         "35dabd7a245ac9dc": {
             "hash": "35dabd7a245ac9dc",
             "directory": "External6",
@@ -344,11 +362,83 @@
             "voiceContent": "사기가 점점 높아지고 있어…. 네 「전투 의지」가 병사들에게도 영향을 주는 거야",
             "sourceName": "vo_DQAQ010_15_gorou_14.wem"
         },
+        "5a821ce2db50314a": {
+            "hash": "5a821ce2db50314a",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_07.wem"
+        },
+        "5aaa30bef96731b7": {
+            "hash": "5aaa30bef96731b7",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_4_gorou_01.wem"
+        },
+        "71b520f5238b2dbc": {
+            "hash": "71b520f5238b2dbc",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_05.wem"
+        },
+        "8910e7d33571e581": {
+            "hash": "8910e7d33571e581",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ003_6_gorou_01.wem"
+        },
+        "981143b5cd966e09": {
+            "hash": "981143b5cd966e09",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_gorou_03.wem"
+        },
         "a158d7714314156d": {
             "hash": "a158d7714314156d",
             "directory": "External20",
             "voiceContent": "막부군도 결코 넘지 못할 벽은 아냐. 우리도 할 수 있다",
             "sourceName": "vo_DQAQ010_15_gorou_13.wem"
+        },
+        "a7d70284e9785133": {
+            "hash": "a7d70284e9785133",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ004_3_gorou_01.wem"
+        },
+        "a98a77a4bdea538f": {
+            "hash": "a98a77a4bdea538f",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_gorou_01.wem"
+        },
+        "addf90d3a49fc298": {
+            "hash": "addf90d3a49fc298",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_09.wem"
+        },
+        "cbf02efd521e6767": {
+            "hash": "cbf02efd521e6767",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_02.wem"
+        },
+        "dc094eda97c27b53": {
+            "hash": "dc094eda97c27b53",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_06.wem"
+        },
+        "e0993aec4527a24d": {
+            "hash": "e0993aec4527a24d",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_SCHJEQ001_7_gorou_04.wem"
+        },
+        "ea42a9bcd585eb48": {
+            "hash": "ea42a9bcd585eb48",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_SCHJEQ003_gorou_02.wem"
         },
         "f4ed6b620c931ff3": {
             "hash": "f4ed6b620c931ff3",
@@ -362,7 +452,7 @@
             "hash": "017a96059c3a927b",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_04.wem"
+            "sourceName": "vo_gorou_battle_hit_L_04.wem"
         },
         "02021c4dd13e7f07": {
             "hash": "02021c4dd13e7f07",
@@ -404,25 +494,31 @@
             "hash": "0cdd17dd575cf605",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_04.wem"
+            "sourceName": "vo_gorou_battle_attackLight_04.wem"
         },
         "0dcfebef01af897f": {
             "hash": "0dcfebef01af897f",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_02.wem"
+            "sourceName": "vo_gorou_battle_attackLight_02.wem"
         },
         "0e4eee9626c8870f": {
             "hash": "0e4eee9626c8870f",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackheavy_01.wem"
+            "sourceName": "vo_gorou_battle_attackHeavy_01.wem"
         },
         "0fa5c72ab34a8b23": {
             "hash": "0fa5c72ab34a8b23",
             "directory": "External1",
             "voiceContent": "막을 수 없는 기세로 전우들과 호흡을 잘 맞추면 어떤 상황에서든 승리할 수 있구나. 알려줘서 고마워! 이건 우리 두 사람이 함께 이뤄낸 승리",
             "sourceName": "vo_gorou_starUp_04.wem"
+        },
+        "0ff8f05f973e51c6": {
+            "hash": "0ff8f05f973e51c6",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_freetalk_01.wem"
         },
         "100fde4aa715a0f1": {
             "hash": "100fde4aa715a0f1",
@@ -508,6 +604,12 @@
             "voiceContent": "반드시 기회를 잡아야 해",
             "sourceName": "vo_card_gorou_inGame_hard_03.wem"
         },
+        "2bb59769f761b94b": {
+            "hash": "2bb59769f761b94b",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_easy_02.wem"
+        },
         "2efb2ee3a9279e22": {
             "hash": "2efb2ee3a9279e22",
             "directory": "External5",
@@ -524,7 +626,7 @@
             "hash": "3082b42ec35337a6",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_01.wem"
+            "sourceName": "vo_gorou_battle_hit_L_01.wem"
         },
         "316e32cf281b3f48": {
             "hash": "316e32cf281b3f48",
@@ -550,6 +652,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_gorou_explore_climb_breath_01.wem"
         },
+        "37d2bfbc7e950b1c": {
+            "hash": "37d2bfbc7e950b1c",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_hard_02.wem"
+        },
+        "3db7795e5098be21": {
+            "hash": "3db7795e5098be21",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_endOfGame_fail_01.wem"
+        },
         "3dbf1a68e4494e6c": {
             "hash": "3dbf1a68e4494e6c",
             "directory": "External7",
@@ -572,7 +686,7 @@
             "hash": "44f04d77fef8b1a7",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_04.wem"
+            "sourceName": "vo_gorou_battle_hit_H_04.wem"
         },
         "4555c88cab0be139": {
             "hash": "4555c88cab0be139",
@@ -584,19 +698,13 @@
             "hash": "476147143cbd3359",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackmid_02.wem"
+            "sourceName": "vo_gorou_battle_attackMid_02.wem"
         },
         "4863a1f794e7c9ef": {
             "hash": "4863a1f794e7c9ef",
             "directory": "External9",
             "voiceContent": "SFX",
             "sourceName": "vo_gorou_explore_climb_breath_03.wem"
-        },
-        "4bce21dd3f45fa18": {
-            "hash": "4bce21dd3f45fa18",
-            "directory": "External9",
-            "voiceContent": "이 달콤한 맛은 정말 참을 수 없어",
-            "sourceName": "vo_gorou_spice_event_pref_01.wem"
         },
         "4c9884a74fdfeab8": {
             "hash": "4c9884a74fdfeab8",
@@ -608,13 +716,13 @@
             "hash": "4e875e071949da78",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_01.wem"
+            "sourceName": "vo_gorou_battle_attackLight_01.wem"
         },
         "4f0720ae3e641ec8": {
             "hash": "4f0720ae3e641ec8",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackheavy_02.wem"
+            "sourceName": "vo_gorou_battle_attackHeavy_02.wem"
         },
         "4f381657d49cd43a": {
             "hash": "4f381657d49cd43a",
@@ -662,7 +770,7 @@
             "hash": "5d0a6bce1df6b82b",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_06.wem"
+            "sourceName": "vo_gorou_battle_attackLight_06.wem"
         },
         "5e81926e576ff26b": {
             "hash": "5e81926e576ff26b",
@@ -674,19 +782,13 @@
             "hash": "600089f6099db196",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_03.wem"
+            "sourceName": "vo_gorou_battle_attackLight_03.wem"
         },
         "6320173dd5809082": {
             "hash": "6320173dd5809082",
             "directory": "External12",
             "voiceContent": "기선제압이다",
             "sourceName": "vo_gorou_battle_skill3_03.wem"
-        },
-        "65d917908abb5412": {
-            "hash": "65d917908abb5412",
-            "directory": "External12",
-            "voiceContent": "오! 사기가 마구 오르는걸! 내가 도울 만한 일 있어",
-            "sourceName": "vo_gorou_spice_event_normal_01.wem"
         },
         "673a5669b4582016": {
             "hash": "673a5669b4582016",
@@ -758,13 +860,19 @@
             "hash": "7f87240ddf6cbc32",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_05.wem"
+            "sourceName": "vo_gorou_battle_hit_L_05.wem"
         },
         "7fe6d35b68b706d1": {
             "hash": "7fe6d35b68b706d1",
             "directory": "External15",
             "voiceContent": "방어만으로는 동료를 지킬 수 없어. 적극적으로 공격해야",
             "sourceName": "vo_gorou_starUp_02.wem"
+        },
+        "82400982ac8750d4": {
+            "hash": "82400982ac8750d4",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_easy_01.wem"
         },
         "8281691eaa8cdc5f": {
             "hash": "8281691eaa8cdc5f",
@@ -808,12 +916,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_gorou_explore_fly_start_01.wem"
         },
-        "86f6df10d10e8bbe": {
-            "hash": "86f6df10d10e8bbe",
-            "directory": "External16",
-            "voiceContent": "생각보다 맵네… 우으, 나… 나 몸에 힘이 안 들어",
-            "sourceName": "vo_gorou_spice_event_dislike_01.wem"
-        },
         "896c4cebd7e88245": {
             "hash": "896c4cebd7e88245",
             "directory": "External17",
@@ -848,7 +950,7 @@
             "hash": "9721ab7f06e8209e",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_05.wem"
+            "sourceName": "vo_gorou_battle_hit_H_05.wem"
         },
         "998ee125088b04e0": {
             "hash": "998ee125088b04e0",
@@ -880,6 +982,18 @@
             "voiceContent": "대열을 맞춰라",
             "sourceName": "vo_gorou_teamJoin_03.wem"
         },
+        "a6b6d9b3a0317fad": {
+            "hash": "a6b6d9b3a0317fad",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_hard_03.wem"
+        },
+        "a75bc22dd93f84e3": {
+            "hash": "a75bc22dd93f84e3",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_leave_01.wem"
+        },
         "a93d34600302993d": {
             "hash": "a93d34600302993d",
             "directory": "External21",
@@ -902,7 +1016,7 @@
             "hash": "b14d0214d5a06315",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_06.wem"
+            "sourceName": "vo_gorou_battle_hit_L_06.wem"
         },
         "b1c914c181ab62c1": {
             "hash": "b1c914c181ab62c1",
@@ -920,7 +1034,7 @@
             "hash": "b26af9d5289a5fe2",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_07.wem"
+            "sourceName": "vo_gorou_battle_attackLight_07.wem"
         },
         "b277eb9e15609ec5": {
             "hash": "b277eb9e15609ec5",
@@ -932,7 +1046,7 @@
             "hash": "b394dde6d31c4fb4",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attacklight_05.wem"
+            "sourceName": "vo_gorou_battle_attackLight_05.wem"
         },
         "bc68093459c0bd4b": {
             "hash": "bc68093459c0bd4b",
@@ -962,7 +1076,7 @@
             "hash": "c5a3ed1c801d15d8",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackmid_03.wem"
+            "sourceName": "vo_gorou_battle_attackMid_03.wem"
         },
         "c6a63fffd8479e06": {
             "hash": "c6a63fffd8479e06",
@@ -986,7 +1100,7 @@
             "hash": "d01d3b5d8549058a",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_01.wem"
+            "sourceName": "vo_gorou_battle_hit_H_01.wem"
         },
         "d0fe181b8f3807da": {
             "hash": "d0fe181b8f3807da",
@@ -999,6 +1113,12 @@
             "directory": "External26",
             "voiceContent": "SFX",
             "sourceName": "vo_gorou_explore_jump_05.wem"
+        },
+        "d26da57373218c82": {
+            "hash": "d26da57373218c82",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_easy_03.wem"
         },
         "d47640517bff4116": {
             "hash": "d47640517bff4116",
@@ -1028,13 +1148,19 @@
             "hash": "da83190b735416f6",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackmid_01.wem"
+            "sourceName": "vo_gorou_battle_attackMid_01.wem"
         },
         "dd00a0dca167206b": {
             "hash": "dd00a0dca167206b",
             "directory": "External27",
             "voiceContent": "건장한 체격은 힘의 상징이지. 사기를 높이는 데도 도움이 되고. 더 노력해야겠어",
             "sourceName": "vo_gorou_character_idle_03.wem"
+        },
+        "dd5e36233abe9ff2": {
+            "hash": "dd5e36233abe9ff2",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_gorou_02.wem"
         },
         "dda6922c996547c8": {
             "hash": "dda6922c996547c8",
@@ -1058,7 +1184,7 @@
             "hash": "eab53f6fd06578fc",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_03.wem"
+            "sourceName": "vo_gorou_battle_hit_H_03.wem"
         },
         "efab8df9db3747d3": {
             "hash": "efab8df9db3747d3",
@@ -1066,11 +1192,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_gorou_explore_climb_02.wem"
         },
+        "f110ee6585e923c7": {
+            "hash": "f110ee6585e923c7",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_endOfGame_win_01.wem"
+        },
         "f15cb987357b5a41": {
             "hash": "f15cb987357b5a41",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_h_06.wem"
+            "sourceName": "vo_gorou_battle_hit_H_06.wem"
         },
         "f26bc3e79ee8e35d": {
             "hash": "f26bc3e79ee8e35d",
@@ -1082,7 +1214,7 @@
             "hash": "f2f8483e978efa48",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_hit_l_03.wem"
+            "sourceName": "vo_gorou_battle_hit_L_03.wem"
         },
         "f635ccce3dcfa577": {
             "hash": "f635ccce3dcfa577",
@@ -1096,11 +1228,17 @@
             "voiceContent": "오늘은 네 생일이잖아, 아주 의미 있는 날이지! 내가 축하해 줄게! 우리 해변에서 모닥불 피워놓고 싱싱한 물고기랑 꽃게도 잡자! 내가 직접 대장 특급 「사기충전 만찬」을 만들어 줄게",
             "sourceName": "vo_gorou_pref_birthday_01.wem"
         },
+        "fa4a6da469aed733": {
+            "hash": "fa4a6da469aed733",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_gorou_invite_hard_01.wem"
+        },
         "fcd5baa73674a189": {
             "hash": "fcd5baa73674a189",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_gorou_battle_attackheavy_03.wem"
+            "sourceName": "vo_gorou_battle_attackHeavy_03.wem"
         },
         "fceb3d3419ee6070": {
             "hash": "fceb3d3419ee6070",

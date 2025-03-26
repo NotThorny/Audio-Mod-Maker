@@ -303,6 +303,30 @@
     },
     "Quests": {},
     "Gameplay": {
+        "0260ca49a702f76d": {
+            "hash": "0260ca49a702f76d",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_11.wem"
+        },
+        "04ed7063018d9b73": {
+            "hash": "04ed7063018d9b73",
+            "directory": "External0",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_skill2_04.wem"
+        },
+        "0648f423f3e9df6e": {
+            "hash": "0648f423f3e9df6e",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_06.wem"
+        },
+        "06c02265766c89c5": {
+            "hash": "06c02265766c89c5",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_04.wem"
+        },
         "07471b53653e4c39": {
             "hash": "07471b53653e4c39",
             "directory": "External0",
@@ -327,11 +351,17 @@
             "voiceContent": "Fischl The magus-custodian of books, gatekeeper of universal knowledge... Win her trust, and one may yet gain access to a vast repository of wisdom...Oz She means as long as you return your first few library books on time, you'll never have any trouble borrowing a book again",
             "sourceName": "vo_fischl_teammate_lisa_01.wem"
         },
+        "0b19f67723a3f83f": {
+            "hash": "0b19f67723a3f83f",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_02.wem"
+        },
         "0cd6791aaf5a960c": {
             "hash": "0cd6791aaf5a960c",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackheavy_01.wem"
+            "sourceName": "vo_fischl_battle_attackHeavy_01.wem"
         },
         "0fda4ce69160c44a": {
             "hash": "0fda4ce69160c44a",
@@ -349,13 +379,13 @@
             "hash": "11a65f864caf8762",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_04.wem"
+            "sourceName": "vo_fischl_battle_attackLight_04.wem"
         },
         "11d1899a5167287c": {
             "hash": "11d1899a5167287c",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_04.wem"
+            "sourceName": "vo_fischl_battle_hit_L_04.wem"
         },
         "123b7a31338559b5": {
             "hash": "123b7a31338559b5",
@@ -367,7 +397,7 @@
             "hash": "12d04397f7317734",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_06.wem"
+            "sourceName": "vo_fischl_battle_attackLight_06.wem"
         },
         "12e937a06e1fad9c": {
             "hash": "12e937a06e1fad9c",
@@ -397,7 +427,13 @@
             "hash": "15dc870a7d615f39",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_h_05.wem"
+            "sourceName": "vo_fischl_battle_hit_H_05.wem"
+        },
+        "1698040139bb671a": {
+            "hash": "1698040139bb671a",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_02.wem"
         },
         "16dde1a31c4a6e9c": {
             "hash": "16dde1a31c4a6e9c",
@@ -415,13 +451,7 @@
             "hash": "187903b1b67d09c1",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_01.wem"
-        },
-        "1a405b332b367d14": {
-            "hash": "1a405b332b367d14",
-            "directory": "External3",
-            "voiceContent": "To vanquish the Beast of the World, one must first rise above mundane desires, thus weaving the path that leads to destiny",
-            "sourceName": "vo_fischl_spice_event_normal_01.wem"
+            "sourceName": "vo_fischl_battle_hit_L_01.wem"
         },
         "1dcfded8db040c72": {
             "hash": "1dcfded8db040c72",
@@ -451,7 +481,13 @@
             "hash": "21b67509a292f8da",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackheavy_03.wem"
+            "sourceName": "vo_fischl_battle_attackHeavy_03.wem"
+        },
+        "21bca7df4dc88510": {
+            "hash": "21bca7df4dc88510",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_02.wem"
         },
         "22ba05ca8b4e2fea": {
             "hash": "22ba05ca8b4e2fea",
@@ -481,19 +517,31 @@
             "hash": "2f801daff9ff1f79",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_03.wem"
+            "sourceName": "vo_fischl_battle_attackLight_03.wem"
         },
-        "2fc874058e8678ee": {
-            "hash": "2fc874058e8678ee",
+        "2f98600f29a10832": {
+            "hash": "2f98600f29a10832",
             "directory": "External5",
-            "voiceContent": "Such an exquisite delicacy is worthy of being served in the Garten Sanssouci",
-            "sourceName": "vo_fischl_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_09.wem"
+        },
+        "2fbb6a65e97ded5d": {
+            "hash": "2fbb6a65e97ded5d",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_24.wem"
+        },
+        "2fd2f5a65218fee3": {
+            "hash": "2fd2f5a65218fee3",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_05.wem"
         },
         "3059cc3cb1c4a9d3": {
             "hash": "3059cc3cb1c4a9d3",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackmid_03.wem"
+            "sourceName": "vo_fischl_battle_attackMid_03.wem"
         },
         "3135a81bb3fb42d7": {
             "hash": "3135a81bb3fb42d7",
@@ -501,11 +549,35 @@
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_jump_04.wem"
         },
+        "33962b0145d4aa19": {
+            "hash": "33962b0145d4aa19",
+            "directory": "External6",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_standbyShow_fischl_02.wem"
+        },
+        "34b4a010c04d8df4": {
+            "hash": "34b4a010c04d8df4",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_18.wem"
+        },
         "34e9b84e5f29d0cd": {
             "hash": "34e9b84e5f29d0cd",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackmid_01.wem"
+            "sourceName": "vo_fischl_battle_attackMid_01.wem"
+        },
+        "36cba52fd96962b2": {
+            "hash": "36cba52fd96962b2",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_01.wem"
+        },
+        "37d7c22ae9ee2811": {
+            "hash": "37d7c22ae9ee2811",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_05.wem"
         },
         "38a75ac3a07cb719": {
             "hash": "38a75ac3a07cb719",
@@ -531,11 +603,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_climb_breath_02.wem"
         },
+        "3f5c0071d2a0788e": {
+            "hash": "3f5c0071d2a0788e",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_05.wem"
+        },
         "3f6a97e28e1d0f87": {
             "hash": "3f6a97e28e1d0f87",
             "directory": "External7",
             "voiceContent": "Oz Some people address her by other names. But to me, the one who gave me life and bestowed my powers upon me is Fischl, and none other. All things considered, Fischl is the name that most aptly captures her identity. Seriously, don't call her anything else, or—Fischl Oh, how one's royal ears do burn! Pray tell, what is the matter which you discuss so furtively?Oz Mid—Midnight Phantasmagoria, mein Fräulein! And... the majesty of the Verurteilung name",
             "sourceName": "vo_fischl_friendship_04.wem"
+        },
+        "4023058397ec3a6f": {
+            "hash": "4023058397ec3a6f",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_09.wem"
+        },
+        "4085f4837d228430": {
+            "hash": "4085f4837d228430",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_07.wem"
         },
         "43401587e18348b7": {
             "hash": "43401587e18348b7",
@@ -549,11 +639,47 @@
             "voiceContent": "Even one of royal blood finds oneself susceptible to drowsiness at this hour",
             "sourceName": "vo_fischl_dialog_greetingNoon.wem"
         },
+        "46d1d86e0c93faf2": {
+            "hash": "46d1d86e0c93faf2",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_07.wem"
+        },
+        "4704ae8cc3d7437e": {
+            "hash": "4704ae8cc3d7437e",
+            "directory": "External8",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_skill2_01.wem"
+        },
+        "47249e7831e6cab7": {
+            "hash": "47249e7831e6cab7",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_22.wem"
+        },
         "47631a58d9632fbc": {
             "hash": "47631a58d9632fbc",
             "directory": "External8",
             "voiceContent": "Are you taking your leave? Just as well, for the Prinzessin is preparing to retire for the time being",
             "sourceName": "vo_card_fischl_leave_01.wem"
+        },
+        "47df50736c31f520": {
+            "hash": "47df50736c31f520",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_14.wem"
+        },
+        "4809b5f5a3b9f29c": {
+            "hash": "4809b5f5a3b9f29c",
+            "directory": "External9",
+            "voiceContent": "",
+            "sourceName": "vo_fischl_suit_aristocrat_03.wem"
+        },
+        "486b688f385b2038": {
+            "hash": "486b688f385b2038",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_01.wem"
         },
         "4a0366a1a479c733": {
             "hash": "4a0366a1a479c733",
@@ -585,6 +711,12 @@
             "voiceContent": "Hahaha, cry out my illustrious name",
             "sourceName": "vo_fischl_chest_open_03.wem"
         },
+        "4e7a94bbecf830da": {
+            "hash": "4e7a94bbecf830da",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_10.wem"
+        },
         "4ea96dc792e37a2b": {
             "hash": "4ea96dc792e37a2b",
             "directory": "External9",
@@ -615,23 +747,11 @@
             "voiceContent": "My left eye? It is the all-seeing Auge der Verurteilung, which reveals all that is true in the world. As to the question of why I conceal it... Well, would you willingly bear the agony of piercing to the heart of all truths? Furthermore... the world would lose much of its appeal if wholly stripped of delusion and falsehood",
             "sourceName": "vo_fischl_friendship_02.wem"
         },
-        "51e7d7ce4907c3fc": {
-            "hash": "51e7d7ce4907c3fc",
-            "directory": "External10",
-            "voiceContent": "Mein Fräulein says that she thoroughly enjoys your delicious cooking",
-            "sourceName": "vo_oz_spice_pref_01.wem"
-        },
         "523d015a1ebf4aeb": {
             "hash": "523d015a1ebf4aeb",
             "directory": "External10",
             "voiceContent": "By royal decree",
             "sourceName": "vo_fischl_battle_skill1_01.wem"
-        },
-        "52692c24a58255f8": {
-            "hash": "52692c24a58255f8",
-            "directory": "External10",
-            "voiceContent": "Why dost thou insist on raining down chaos and destruction in the presence of your Prinzessin",
-            "sourceName": "vo_fischl_spice_event_dislike_01.wem"
         },
         "52bf6b037cd7af2a": {
             "hash": "52bf6b037cd7af2a",
@@ -650,6 +770,42 @@
             "directory": "External10",
             "voiceContent": "Oz No rest for the wicked..",
             "sourceName": "vo_fischl_battle_skill1_04.wem"
+        },
+        "55f55e3a708201f3": {
+            "hash": "55f55e3a708201f3",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_13.wem"
+        },
+        "580b6359899c2389": {
+            "hash": "580b6359899c2389",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_06.wem"
+        },
+        "5a5476563feb27eb": {
+            "hash": "5a5476563feb27eb",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_06.wem"
+        },
+        "5b256ce262f89ff0": {
+            "hash": "5b256ce262f89ff0",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_09.wem"
+        },
+        "5b3b1dce453a9e09": {
+            "hash": "5b3b1dce453a9e09",
+            "directory": "External11",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_attackLight_laugh_01.wem"
+        },
+        "5d4a947e2b922156": {
+            "hash": "5d4a947e2b922156",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_03.wem"
         },
         "5f367a95dbc4967e": {
             "hash": "5f367a95dbc4967e",
@@ -681,23 +837,35 @@
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_sprint_start_02.wem"
         },
-        "689b5e0633d555f6": {
-            "hash": "689b5e0633d555f6",
+        "68918336cf9d0995": {
+            "hash": "68918336cf9d0995",
             "directory": "External13",
-            "voiceContent": "And yet, on this occasion, you appear to have eaten your fill, mein Fräulein",
-            "sourceName": "vo_oz_spice_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_02.wem"
+        },
+        "6984974879f0090f": {
+            "hash": "6984974879f0090f",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_04.wem"
+        },
+        "6b0af2ca933d3821": {
+            "hash": "6b0af2ca933d3821",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_08.wem"
         },
         "6c0c97a27ffa6127": {
             "hash": "6c0c97a27ffa6127",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_03.wem"
+            "sourceName": "vo_fischl_battle_hit_L_03.wem"
         },
         "6c187d8e7b721d85": {
             "hash": "6c187d8e7b721d85",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_07.wem"
+            "sourceName": "vo_fischl_battle_attackLight_07.wem"
         },
         "6c2b1c79a7735e07": {
             "hash": "6c2b1c79a7735e07",
@@ -705,11 +873,17 @@
             "voiceContent": "Fischl Oz, my loyal companion. That we should have met this person, one who hails from another world as I do... Perhaps even cruel fate has deigned to smile upon me, though sin courses through my veins. If I am indeed destined to remain here, in this inescapable prison that is reality, at least—Oz I understand, mein Fräulein! In this traveler, Fräulein has found one who will never forsake her",
             "sourceName": "vo_fischl_dialog_close2.wem"
         },
+        "6cb451bd358e838f": {
+            "hash": "6cb451bd358e838f",
+            "directory": "External13",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_attackLight_laugh_03.wem"
+        },
         "6d0b51a025c4b0ff": {
             "hash": "6d0b51a025c4b0ff",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_01.wem"
+            "sourceName": "vo_fischl_battle_attackLight_01.wem"
         },
         "6e89f40bdf91bafd": {
             "hash": "6e89f40bdf91bafd",
@@ -717,11 +891,35 @@
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_jump_02.wem"
         },
+        "7093d699565669b3": {
+            "hash": "7093d699565669b3",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_11.wem"
+        },
+        "70c147be69e25bcc": {
+            "hash": "70c147be69e25bcc",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_06.wem"
+        },
+        "71d3b08fabc955d0": {
+            "hash": "71d3b08fabc955d0",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_21.wem"
+        },
         "7311758bb579649a": {
             "hash": "7311758bb579649a",
             "directory": "External14",
             "voiceContent": "Dusk and dawn but fleeting shadows are. Once more, the twists of fate have led you into my everlasting night",
             "sourceName": "vo_fischl_dialog_greetingMorning.wem"
+        },
+        "740322096b04551d": {
+            "hash": "740322096b04551d",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_01.wem"
         },
         "7419178914ffe624": {
             "hash": "7419178914ffe624",
@@ -729,11 +927,23 @@
             "voiceContent": "Oz As you wish, mein Fräulein",
             "sourceName": "vo_fischl_battle_skill3_04.wem"
         },
+        "7897b67502c7a1d5": {
+            "hash": "7897b67502c7a1d5",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_04.wem"
+        },
         "78ba8d0573d38ad1": {
             "hash": "78ba8d0573d38ad1",
             "directory": "External15",
             "voiceContent": "Doth thou wish to witness my true power",
             "sourceName": "vo_fischl_life_less30_01.wem"
+        },
+        "798aca86ad1aa14f": {
+            "hash": "798aca86ad1aa14f",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_02.wem"
         },
         "7c019b1581c5d280": {
             "hash": "7c019b1581c5d280",
@@ -745,7 +955,7 @@
             "hash": "7d4fa3917020730d",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_05.wem"
+            "sourceName": "vo_fischl_battle_hit_L_05.wem"
         },
         "7ecb5c24d1b3a568": {
             "hash": "7ecb5c24d1b3a568",
@@ -759,11 +969,47 @@
             "voiceContent": "Fischl I do worry about the well-being of my retinue during my impromptu absence...Oz I'm sure the good people of the Adventurers' Guild are absolutely fine, mein Fräulein",
             "sourceName": "vo_fischl_character_idle_03.wem"
         },
+        "823a43ad5a35e19a": {
+            "hash": "823a43ad5a35e19a",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_04.wem"
+        },
+        "834ffe56b2fcf7a3": {
+            "hash": "834ffe56b2fcf7a3",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_26.wem"
+        },
+        "8581a1ca903bd766": {
+            "hash": "8581a1ca903bd766",
+            "directory": "External16",
+            "voiceContent": "<color=#37FFFF>Fischl</color> Ozvaldo von Hrafnavins. I, the Prinzessin der Verurteilung, sovereign of the Immernachtreich, do hereby call upon thee to do all within thy power to deliver the traveler from the claws of fate that would seek to snatch them at every turn, and to ready thy mind lest thou be required to make the ultimate sacrifice in the performance of this noblest of duties.n<color=#37FFFF>Oz</color> ...You'd place my life in danger so easily, mein Fräulein?",
+            "sourceName": "vo_fischl_dialog_close3b.wem"
+        },
+        "859431e5cf7e4baa": {
+            "hash": "859431e5cf7e4baa",
+            "directory": "External16",
+            "voiceContent": "",
+            "sourceName": "vo_fischl_suit_aristocrat_01.wem"
+        },
         "85c1fb9a3de6e32d": {
             "hash": "85c1fb9a3de6e32d",
             "directory": "External16",
             "voiceContent": "H—How did my Auge der Verurteilung fail to foresee this outcome",
             "sourceName": "vo_card_fischl_invite_easy_03.wem"
+        },
+        "8b6c561bb36d3377": {
+            "hash": "8b6c561bb36d3377",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_07.wem"
+        },
+        "8dfcda07448e3445": {
+            "hash": "8dfcda07448e3445",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_19.wem"
         },
         "8edfa6a517b4c128": {
             "hash": "8edfa6a517b4c128",
@@ -781,7 +1027,7 @@
             "hash": "90b92d12bdde18b8",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_h_04.wem"
+            "sourceName": "vo_fischl_battle_hit_H_04.wem"
         },
         "90c9b1a117ced429": {
             "hash": "90c9b1a117ced429",
@@ -801,6 +1047,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_climb_03.wem"
         },
+        "92f094629c1f83ec": {
+            "hash": "92f094629c1f83ec",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_03.wem"
+        },
         "94039d85d3628988": {
             "hash": "94039d85d3628988",
             "directory": "External18",
@@ -819,11 +1071,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_climb_01.wem"
         },
+        "96e2b0528849abdc": {
+            "hash": "96e2b0528849abdc",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_10.wem"
+        },
         "9702ed4a98f206d6": {
             "hash": "9702ed4a98f206d6",
             "directory": "External18",
             "voiceContent": "I hear the voice of fate, speaking my name in humble supplication..",
             "sourceName": "vo_fischl_character_idle_01.wem"
+        },
+        "980c9c6432cba9fe": {
+            "hash": "980c9c6432cba9fe",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_16.wem"
         },
         "98c86bb143153c40": {
             "hash": "98c86bb143153c40",
@@ -831,11 +1095,17 @@
             "voiceContent": "Fischl The stars of firmament are naught but rifts, thrust open by Oz's beak into the boundless tapestry of darkness.Oz You do say the strangest things, mein Fräulein",
             "sourceName": "vo_fischl_dialog_greetingNight.wem"
         },
+        "a13fbc94f26a7c21": {
+            "hash": "a13fbc94f26a7c21",
+            "directory": "External20",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_skill2_02.wem"
+        },
         "a2a23ad9c56e206b": {
             "hash": "a2a23ad9c56e206b",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_h_03.wem"
+            "sourceName": "vo_fischl_battle_hit_H_03.wem"
         },
         "a32950d09ab50abb": {
             "hash": "a32950d09ab50abb",
@@ -849,6 +1119,12 @@
             "voiceContent": "Oh? You inquire about my Edelstein der Dunkelheit? It is a royal heirloom, a ceremonial ornament that displays the majesty of the Prinzessin der Verurteilung before the unworthy. Even here, in this fallen world, I have been reunited with my rightful inheritance as one of royal blood and noble spirit, for the majesty of a true princess shall draw her royal heirlooms unto her wherever so she may roam",
             "sourceName": "vo_fischl_dialog_pendant.wem"
         },
+        "a37a01d70a68a291": {
+            "hash": "a37a01d70a68a291",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_03.wem"
+        },
         "a409fbce9d8721e2": {
             "hash": "a409fbce9d8721e2",
             "directory": "External20",
@@ -861,6 +1137,12 @@
             "voiceContent": "Fischl Hmph! What is food but the shackles of mortal flesh? ...But if the Prinzessin der Verurteilung should reckon any morsel worthy, then it must be the tears of sinners and the tongues of liars.Oz Has mein Fräulein lost her appetite for the Mitternachtsbrot des Sommernachtgartens?Fischl ...Uh— That is merely to provide mine earthly vessel with such sustenance as it doth require to perform its royal duties",
             "sourceName": "vo_fischl_pref_foodLike.wem"
         },
+        "a46990518c7309ba": {
+            "hash": "a46990518c7309ba",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_01.wem"
+        },
         "a5607372d1000674": {
             "hash": "a5607372d1000674",
             "directory": "External20",
@@ -871,7 +1153,7 @@
             "hash": "a5985901b11519d6",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_h_06.wem"
+            "sourceName": "vo_fischl_battle_hit_H_06.wem"
         },
         "a5a8e5900b05e2af": {
             "hash": "a5a8e5900b05e2af",
@@ -891,23 +1173,41 @@
             "voiceContent": "What trinkets lie veiled within this desolate plane",
             "sourceName": "vo_fischl_chest_open_02.wem"
         },
+        "ac4f045d47aba5a2": {
+            "hash": "ac4f045d47aba5a2",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_07.wem"
+        },
         "acf81c19488c729f": {
             "hash": "acf81c19488c729f",
             "directory": "External21",
             "voiceContent": "For the Prinzessin blessed with this Auge der Verurteilung, a card game such as this is but a trivial matter",
             "sourceName": "vo_card_fischl_freetalk_01.wem"
         },
+        "ad77e86ef22be374": {
+            "hash": "ad77e86ef22be374",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_05.wem"
+        },
         "adc2c3b83d5f01f8": {
             "hash": "adc2c3b83d5f01f8",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_02.wem"
+            "sourceName": "vo_fischl_battle_attackLight_02.wem"
+        },
+        "ae1c28b16b3c9d9c": {
+            "hash": "ae1c28b16b3c9d9c",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_12.wem"
         },
         "aed29a44f5525fca": {
             "hash": "aed29a44f5525fca",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackmid_02.wem"
+            "sourceName": "vo_fischl_battle_attackMid_02.wem"
         },
         "af784623f75b17ce": {
             "hash": "af784623f75b17ce",
@@ -921,6 +1221,18 @@
             "voiceContent": "To vanquish the Beast of the World, one must first rise above mundane desires, thus weaving the path that leads to destiny",
             "sourceName": "vo_fischl_spice_normal_01.wem"
         },
+        "b18bd206e66ede7b": {
+            "hash": "b18bd206e66ede7b",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_08.wem"
+        },
+        "b61a68332d4e0a90": {
+            "hash": "b61a68332d4e0a90",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_04.wem"
+        },
         "b6dacb7914f17072": {
             "hash": "b6dacb7914f17072",
             "directory": "External22",
@@ -933,23 +1245,41 @@
             "voiceContent": "But a small thread in the grand tapestry of fate",
             "sourceName": "vo_card_fischl_inGame_easy_02.wem"
         },
+        "b6edcfecc556672d": {
+            "hash": "b6edcfecc556672d",
+            "directory": "External22",
+            "voiceContent": "",
+            "sourceName": "vo_fischl_suit_aristocrat_02.wem"
+        },
         "b7e2feba9d2d94a0": {
             "hash": "b7e2feba9d2d94a0",
             "directory": "External22",
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_idle_01.wem"
         },
+        "ba41fc9ec4b48508": {
+            "hash": "ba41fc9ec4b48508",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_01.wem"
+        },
         "bc45d17f420bdfab": {
             "hash": "bc45d17f420bdfab",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attacklight_05.wem"
+            "sourceName": "vo_fischl_battle_attackLight_05.wem"
         },
         "be3df5a987e9d01e": {
             "hash": "be3df5a987e9d01e",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_02.wem"
+            "sourceName": "vo_fischl_battle_hit_L_02.wem"
+        },
+        "be65a38bdb4c0e86": {
+            "hash": "be65a38bdb4c0e86",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_08.wem"
         },
         "bf00cd2505306503": {
             "hash": "bf00cd2505306503",
@@ -963,11 +1293,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_sprint_start_01.wem"
         },
-        "c16cdb2281b8dab2": {
-            "hash": "c16cdb2281b8dab2",
+        "c0a298d19e104aa0": {
+            "hash": "c0a298d19e104aa0",
             "directory": "External24",
-            "voiceContent": "Mein Fräulein does not care a great deal for this dish. My apologies",
-            "sourceName": "vo_oz_spice_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_09.wem"
+        },
+        "c0d7506ec7e1788c": {
+            "hash": "c0d7506ec7e1788c",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_25.wem"
+        },
+        "c11962698f40a397": {
+            "hash": "c11962698f40a397",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_04.wem"
         },
         "c2ebae925cc6bba0": {
             "hash": "c2ebae925cc6bba0",
@@ -975,11 +1317,29 @@
             "voiceContent": "You seem... troubled. Traveler, do not lose heart! For with my left eye, the Auge der Verurteilung, which sees the threads of fate, I will surely keep you from harm. And Oz, the raven that has witnessed the demise of countless worlds, will watch over you on your journey. Should this world, like a beast prowling in the night, covet your dreams, then I, Prinzessin der Verurteilung, shall fell it with my ensorcelled arrows of judgment",
             "sourceName": "vo_fischl_dialog_close1.wem"
         },
+        "c430b5fa319e8463": {
+            "hash": "c430b5fa319e8463",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_oz_03.wem"
+        },
         "c51634a9e524542a": {
             "hash": "c51634a9e524542a",
             "directory": "External24",
             "voiceContent": "One shall... descend... once again..",
             "sourceName": "vo_fischl_life_die_02.wem"
+        },
+        "c5673c8075469fae": {
+            "hash": "c5673c8075469fae",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_23.wem"
+        },
+        "c5a94e7b3ca5cab1": {
+            "hash": "c5a94e7b3ca5cab1",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_06.wem"
         },
         "cb37060be8914750": {
             "hash": "cb37060be8914750",
@@ -992,6 +1352,12 @@
             "directory": "External25",
             "voiceContent": "Fischl If one must reckon time as this world does, I, Fischl, have already seen three thousand winters. Not that the illusory passage of time has any bearing on one such as I, to whom the causality of three thousand universes has been unveiled.Oz Be that as it may, mein Fräulein, you are not yet considered to be of drinking age in this world, and no bartender can ever be convinced otherwise",
             "sourceName": "vo_fischl_dialog_share.wem"
+        },
+        "cc2b4a65cc44f93b": {
+            "hash": "cc2b4a65cc44f93b",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_06.wem"
         },
         "cc4e20f63d50e237": {
             "hash": "cc4e20f63d50e237",
@@ -1009,7 +1375,13 @@
             "hash": "cf4f27029a761523",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_attackheavy_02.wem"
+            "sourceName": "vo_fischl_battle_attackHeavy_02.wem"
+        },
+        "d46e2c42b40fb7ea": {
+            "hash": "d46e2c42b40fb7ea",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_12.wem"
         },
         "d560e588593979b3": {
             "hash": "d560e588593979b3",
@@ -1022,6 +1394,18 @@
             "directory": "External27",
             "voiceContent": "Let the curtain of night descend, and place you into everlasting perdition",
             "sourceName": "vo_card_fischl_invite_easy_01.wem"
+        },
+        "dce2c6da1f98bd71": {
+            "hash": "dce2c6da1f98bd71",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_08.wem"
+        },
+        "dfa561b58b7ecf9d": {
+            "hash": "dfa561b58b7ecf9d",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_07.wem"
         },
         "dfc6e384e734d975": {
             "hash": "dfc6e384e734d975",
@@ -1041,6 +1425,12 @@
             "voiceContent": "Fischl Well! If today is truly the anniversary of your birth, it shan't do for me not to mark the occasion. You have my full attention. Speak! Speak to me of your wishes, that which you most desire to fulfill during your fleeting and harsh existence in this wretched world. Whatever that wish may be. Even if, perchance—Oz She means, Happy Birthday, and if you want, she can—Fischl Silence, Oz",
             "sourceName": "vo_fischl_pref_birthday.wem"
         },
+        "e338493f0fec6a04": {
+            "hash": "e338493f0fec6a04",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_03.wem"
+        },
         "e52e89da5f8823dc": {
             "hash": "e52e89da5f8823dc",
             "directory": "External28",
@@ -1058,6 +1448,12 @@
             "directory": "External28",
             "voiceContent": "Why must the Prinzessin der Verurteilung punish sin? Because sin defies fate's rightful decree, of course! ...And of course, fate brought you here, so, so... Ahem! It was fate that saw to your descent upon this world, destiny that saw our paths intertwined. I, Fischl, shall always protect you. Because... because fate has revealed to me that this is what has been decreed",
             "sourceName": "vo_fischl_friendship_05.wem"
+        },
+        "e7c73550bd4fde26": {
+            "hash": "e7c73550bd4fde26",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_oz_05.wem"
         },
         "e8a0a9800b251755": {
             "hash": "e8a0a9800b251755",
@@ -1077,11 +1473,41 @@
             "voiceContent": "Fischl Aha, yes, Mona, the mighty astrologer... Mona, who once had the vanity to probe the fate of the Prinzessin der Verurteilung herself! She wound up a trembling wreck, overborne and overmastered.Oz The poor lass was trying desperately not to laugh. It was no easy task",
             "sourceName": "vo_fischl_teammate_mona_01.wem"
         },
+        "eaf6efc578ee58a6": {
+            "hash": "eaf6efc578ee58a6",
+            "directory": "External29",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_attackLight_laugh_02.wem"
+        },
+        "eba6a4a19700f6aa": {
+            "hash": "eba6a4a19700f6aa",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_10.wem"
+        },
         "ebd7f63240b1606b": {
             "hash": "ebd7f63240b1606b",
             "directory": "External29",
             "voiceContent": "What does it take to rile a princess? ...If you must know, it is those who cannot recognize my true identity. But it is no great loss, for solitude is the noble's lot, so long as I do not lose the nobility of my soul..",
             "sourceName": "vo_fischl_dialog_annoyed.wem"
+        },
+        "f11ebe5ab6de9787": {
+            "hash": "f11ebe5ab6de9787",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_17.wem"
+        },
+        "f247aa6c615ee2a1": {
+            "hash": "f247aa6c615ee2a1",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_15.wem"
+        },
+        "f3910a8768697351": {
+            "hash": "f3910a8768697351",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_20.wem"
         },
         "f5c5cfd35c881cc9": {
             "hash": "f5c5cfd35c881cc9",
@@ -1101,17 +1527,53 @@
             "voiceContent": "This realm is no home for a princess..",
             "sourceName": "vo_fischl_life_die_01.wem"
         },
+        "f6a37c7d45f87844": {
+            "hash": "f6a37c7d45f87844",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_05.wem"
+        },
+        "f6d7629bfd3d8ea0": {
+            "hash": "f6d7629bfd3d8ea0",
+            "directory": "External30",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_fischl_battle_skill2_03.wem"
+        },
+        "f70e95c7d3e7adf7": {
+            "hash": "f70e95c7d3e7adf7",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_45_fischl_01.wem"
+        },
         "f7398588064ab50a": {
             "hash": "f7398588064ab50a",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_fischl_battle_hit_l_06.wem"
+            "sourceName": "vo_fischl_battle_hit_L_06.wem"
+        },
+        "f7cd688ef07a7666": {
+            "hash": "f7cd688ef07a7666",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_oz_03.wem"
+        },
+        "fc1346b4e4db4d23": {
+            "hash": "fc1346b4e4db4d23",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_46_fischl_11.wem"
         },
         "fdb33728c5db98a0": {
             "hash": "fdb33728c5db98a0",
             "directory": "External31",
             "voiceContent": "Destiny has brought me hither",
             "sourceName": "vo_fischl_chest_open_01.wem"
+        },
+        "fe6eae59bad8cebd": {
+            "hash": "fe6eae59bad8cebd",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_44_fischl_02.wem"
         },
         "fe7c19d6cc49b805": {
             "hash": "fe7c19d6cc49b805",
@@ -1130,78 +1592,6 @@
             "directory": "External31",
             "voiceContent": "SFX",
             "sourceName": "vo_fischl_explore_jump_03.wem"
-        },
-        "04ed7063018d9b73": {
-            "hash": "04ed7063018d9b73",
-            "directory": "External0",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_skill2_04.wem"
-        },
-        "33962b0145d4aa19": {
-            "hash": "33962b0145d4aa19",
-            "directory": "External6",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_standbyShow_fischl_02.wem"
-        },
-        "4704ae8cc3d7437e": {
-            "hash": "4704ae8cc3d7437e",
-            "directory": "External8",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_skill2_01.wem"
-        },
-        "4809b5f5a3b9f29c": {
-            "hash": "4809b5f5a3b9f29c",
-            "directory": "External9",
-            "voiceContent": "",
-            "sourceName": "vo_fischl_suit_aristocrat_03.wem"
-        },
-        "5b3b1dce453a9e09": {
-            "hash": "5b3b1dce453a9e09",
-            "directory": "External11",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_attackLight_laugh_01.wem"
-        },
-        "6cb451bd358e838f": {
-            "hash": "6cb451bd358e838f",
-            "directory": "External13",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_attackLight_laugh_03.wem"
-        },
-        "8581a1ca903bd766": {
-            "hash": "8581a1ca903bd766",
-            "directory": "External16",
-            "voiceContent": "<color=#37FFFF>Fischl</color> Ozvaldo von Hrafnavins. I, the Prinzessin der Verurteilung, sovereign of the Immernachtreich, do hereby call upon thee to do all within thy power to deliver the traveler from the claws of fate that would seek to snatch them at every turn, and to ready thy mind lest thou be required to make the ultimate sacrifice in the performance of this noblest of duties.n<color=#37FFFF>Oz</color> ...You'd place my life in danger so easily, mein Fräulein?",
-            "sourceName": "vo_fischl_dialog_close3b.wem"
-        },
-        "859431e5cf7e4baa": {
-            "hash": "859431e5cf7e4baa",
-            "directory": "External16",
-            "voiceContent": "",
-            "sourceName": "vo_fischl_suit_aristocrat_01.wem"
-        },
-        "a13fbc94f26a7c21": {
-            "hash": "a13fbc94f26a7c21",
-            "directory": "External20",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_skill2_02.wem"
-        },
-        "b6edcfecc556672d": {
-            "hash": "b6edcfecc556672d",
-            "directory": "External22",
-            "voiceContent": "",
-            "sourceName": "vo_fischl_suit_aristocrat_02.wem"
-        },
-        "eaf6efc578ee58a6": {
-            "hash": "eaf6efc578ee58a6",
-            "directory": "External29",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_attackLight_laugh_02.wem"
-        },
-        "f6d7629bfd3d8ea0": {
-            "hash": "f6d7629bfd3d8ea0",
-            "directory": "External30",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_fischl_battle_skill2_03.wem"
         }
     }
 }

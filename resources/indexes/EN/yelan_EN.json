@@ -356,6 +356,12 @@
             "voiceContent": "It's piqued your curiosity, huh? Well, this is one of the least fun gates there is. The Gate of Injury symbolizes wounds and loss. It's one of the three gates of great misfortune, along with the Gates of Death and Fright",
             "sourceName": "vo_dialog_EQHDJ403_yelan_02.wem"
         },
+        "44a8aa2b2d370ee6": {
+            "hash": "44a8aa2b2d370ee6",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_CYAQ001_1_yelan_19.wem"
+        },
         "4c635c64de14513a": {
             "hash": "4c635c64de14513a",
             "directory": "External9",
@@ -554,7 +560,7 @@
             "hash": "047b74985db1ee47",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_01.wem"
+            "sourceName": "vo_yelan_battle_hit_L_01.wem"
         },
         "07114558660385d1": {
             "hash": "07114558660385d1",
@@ -572,19 +578,13 @@
             "hash": "090b60aa0b171561",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_03.wem"
+            "sourceName": "vo_yelan_battle_hit_L_03.wem"
         },
         "0a37b0d06d4acddc": {
             "hash": "0a37b0d06d4acddc",
             "directory": "External1",
             "voiceContent": "Winging it wasn't the best idea..",
             "sourceName": "vo_yelan_life_less30_02.wem"
-        },
-        "0b4758e7d7401064": {
-            "hash": "0b4758e7d7401064",
-            "directory": "External1",
-            "voiceContent": "Hm, not bad. Almost good enough to bribe me with",
-            "sourceName": "vo_yelan_spice_event_pref_01.wem"
         },
         "0ddbc02ecbabc811": {
             "hash": "0ddbc02ecbabc811",
@@ -656,13 +656,19 @@
             "hash": "2349da12036360b2",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_02.wem"
+            "sourceName": "vo_yelan_battle_attackLight_02.wem"
         },
         "268ccc5e5f3bd1d7": {
             "hash": "268ccc5e5f3bd1d7",
             "directory": "External4",
             "voiceContent": "If I was to tell you that maybe you shouldn't celebrate too hard today, because you'll let your guard down, and someone out there might just be waiting for that moment to make their move on you... it probably wouldn't go down very well. So, relax and take it easy today. Oh, and you should stop by the Yanshang Teahouse — I whipped up some treats especially for you. Not sweet ones, of course. Just the tiniest little hint of chili",
             "sourceName": "vo_yelan_pref_birthday_01.wem"
+        },
+        "27f0075156c8b78b": {
+            "hash": "27f0075156c8b78b",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_freetalk_01.wem"
         },
         "286c7461071925cf": {
             "hash": "286c7461071925cf",
@@ -722,19 +728,19 @@
             "hash": "36f2fbfc0c4f80a2",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackheavy_01.wem"
+            "sourceName": "vo_yelan_battle_attackHeavy_01.wem"
         },
         "381be00db6cfbe74": {
             "hash": "381be00db6cfbe74",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackheavy_03.wem"
+            "sourceName": "vo_yelan_battle_attackHeavy_03.wem"
         },
         "38241c48d04fe8ec": {
             "hash": "38241c48d04fe8ec",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_02.wem"
+            "sourceName": "vo_yelan_battle_hit_H_02.wem"
         },
         "3949ea42f8d39b61": {
             "hash": "3949ea42f8d39b61",
@@ -760,6 +766,12 @@
             "voiceContent": "It's getting a little cold... Time to bundle up",
             "sourceName": "vo_yelan_weather_snowy_01.wem"
         },
+        "40ded220341ac928": {
+            "hash": "40ded220341ac928",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_easy_02.wem"
+        },
         "42021bbe5c9105d0": {
             "hash": "42021bbe5c9105d0",
             "directory": "External8",
@@ -770,19 +782,19 @@
             "hash": "4489983bb3962189",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_05.wem"
+            "sourceName": "vo_yelan_battle_attackLight_05.wem"
+        },
+        "4e16a0e804e6cb9f": {
+            "hash": "4e16a0e804e6cb9f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_hard_02.wem"
         },
         "4e71940e10881eb2": {
             "hash": "4e71940e10881eb2",
             "directory": "External9",
             "voiceContent": "You've played me like a fiddle..",
             "sourceName": "vo_card_yelan_inGame_hard_03.wem"
-        },
-        "51cf6d32ded5288a": {
-            "hash": "51cf6d32ded5288a",
-            "directory": "External10",
-            "voiceContent": "Shall we roll some dice? Whoever gets the lowest number... gets to eat it",
-            "sourceName": "vo_yelan_spice_event_dislike_01.wem"
         },
         "537e698563c4a7a3": {
             "hash": "537e698563c4a7a3",
@@ -794,13 +806,19 @@
             "hash": "550fb818f9970795",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_01.wem"
+            "sourceName": "vo_yelan_battle_attackLight_01.wem"
         },
         "5602cc2aa3ea070f": {
             "hash": "5602cc2aa3ea070f",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_07.wem"
+            "sourceName": "vo_yelan_battle_attackLight_07.wem"
+        },
+        "5639156e4774efc8": {
+            "hash": "5639156e4774efc8",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_leave_01.wem"
         },
         "564502183b13cbdc": {
             "hash": "564502183b13cbdc",
@@ -842,7 +860,7 @@
             "hash": "664cea4fc3710897",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_05.wem"
+            "sourceName": "vo_yelan_battle_hit_H_05.wem"
         },
         "6a9edfd61a8ccdb2": {
             "hash": "6a9edfd61a8ccdb2",
@@ -856,12 +874,6 @@
             "voiceContent": "Hm, not bad. Almost good enough to bribe me with",
             "sourceName": "vo_yelan_spice_pref_01.wem"
         },
-        "6b7e4475dae98dfe": {
-            "hash": "6b7e4475dae98dfe",
-            "directory": "External13",
-            "voiceContent": "Once you get accustomed to spicy food, everything else tastes bland. That's just the way it is",
-            "sourceName": "vo_yelan_spice_event_normal_01.wem"
-        },
         "6b8624e2dde9f4e1": {
             "hash": "6b8624e2dde9f4e1",
             "directory": "External13",
@@ -872,13 +884,13 @@
             "hash": "6cb814781a3880b3",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_05.wem"
+            "sourceName": "vo_yelan_battle_hit_L_05.wem"
         },
         "6d6fff4f9329bd91": {
             "hash": "6d6fff4f9329bd91",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackmid_03.wem"
+            "sourceName": "vo_yelan_battle_attackMid_03.wem"
         },
         "6d7cb843784695d4": {
             "hash": "6d7cb843784695d4",
@@ -940,6 +952,12 @@
             "voiceContent": "You're running cold, allow me",
             "sourceName": "vo_yelan_life_less30_teammate_02.wem"
         },
+        "843e760c58465e8c": {
+            "hash": "843e760c58465e8c",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_endOfGame_fail_01.wem"
+        },
         "8553eb60a9636850": {
             "hash": "8553eb60a9636850",
             "directory": "External16",
@@ -980,7 +998,7 @@
             "hash": "91641a043b1064c5",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackheavy_02.wem"
+            "sourceName": "vo_yelan_battle_attackHeavy_02.wem"
         },
         "9641dd22a30df707": {
             "hash": "9641dd22a30df707",
@@ -992,7 +1010,7 @@
             "hash": "96bafe42bb859ec8",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_04.wem"
+            "sourceName": "vo_yelan_battle_attackLight_04.wem"
         },
         "96d03927b0970a23": {
             "hash": "96d03927b0970a23",
@@ -1018,6 +1036,12 @@
             "voiceContent": "It's time to pull the trigger",
             "sourceName": "vo_yelan_teamJoin_02.wem"
         },
+        "99f0ec16b82daa69": {
+            "hash": "99f0ec16b82daa69",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_easy_03.wem"
+        },
         "9ae5c4b70b52079e": {
             "hash": "9ae5c4b70b52079e",
             "directory": "External19",
@@ -1040,7 +1064,7 @@
             "hash": "a3a2363fef0933bd",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_03.wem"
+            "sourceName": "vo_yelan_battle_hit_H_03.wem"
         },
         "a3b8c890ecc46619": {
             "hash": "a3b8c890ecc46619",
@@ -1052,7 +1076,7 @@
             "hash": "a53d4c09c03136fb",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_03.wem"
+            "sourceName": "vo_yelan_battle_attackLight_03.wem"
         },
         "a5c5d2e761d34425": {
             "hash": "a5c5d2e761d34425",
@@ -1076,7 +1100,13 @@
             "hash": "aa4066902f1eb49c",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_06.wem"
+            "sourceName": "vo_yelan_battle_hit_L_06.wem"
+        },
+        "ab6a2005a8818fef": {
+            "hash": "ab6a2005a8818fef",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_easy_01.wem"
         },
         "af9839a53674e246": {
             "hash": "af9839a53674e246",
@@ -1130,7 +1160,7 @@
             "hash": "c10493405ca8c8f7",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackmid_01.wem"
+            "sourceName": "vo_yelan_battle_attackMid_01.wem"
         },
         "c3bf75b619312351": {
             "hash": "c3bf75b619312351",
@@ -1154,7 +1184,7 @@
             "hash": "d4456a32e749dc26",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attacklight_06.wem"
+            "sourceName": "vo_yelan_battle_attackLight_06.wem"
         },
         "d4578b3fc57b8b0c": {
             "hash": "d4578b3fc57b8b0c",
@@ -1204,23 +1234,29 @@
             "voiceContent": "Try not to panic",
             "sourceName": "vo_card_yelan_inGame_easy_04.wem"
         },
+        "e38b930290807218": {
+            "hash": "e38b930290807218",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_hard_01.wem"
+        },
         "e48f885806d0dd8e": {
             "hash": "e48f885806d0dd8e",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_04.wem"
+            "sourceName": "vo_yelan_battle_hit_H_04.wem"
         },
         "e5b97c69b152e930": {
             "hash": "e5b97c69b152e930",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_h_06.wem"
+            "sourceName": "vo_yelan_battle_hit_H_06.wem"
         },
         "e7cae2805ae30daa": {
             "hash": "e7cae2805ae30daa",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_hit_l_04.wem"
+            "sourceName": "vo_yelan_battle_hit_L_04.wem"
         },
         "e937872eb8b3edda": {
             "hash": "e937872eb8b3edda",
@@ -1232,7 +1268,7 @@
             "hash": "ebb2a557d689a010",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_yelan_battle_attackmid_02.wem"
+            "sourceName": "vo_yelan_battle_attackMid_02.wem"
         },
         "ec9251cdd75aa3fb": {
             "hash": "ec9251cdd75aa3fb",
@@ -1245,6 +1281,12 @@
             "directory": "External29",
             "voiceContent": "How was I... so wrong..",
             "sourceName": "vo_yelan_life_die_02.wem"
+        },
+        "ed196663f9ed7370": {
+            "hash": "ed196663f9ed7370",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_endOfGame_win_01.wem"
         },
         "ef038fc8aeb59a8d": {
             "hash": "ef038fc8aeb59a8d",
@@ -1263,6 +1305,12 @@
             "directory": "External30",
             "voiceContent": "Only innocent children and timid adults are scared of thunder. But you're not either of those... are you",
             "sourceName": "vo_yelan_weather_thunder_01.wem"
+        },
+        "f504bef180d44a36": {
+            "hash": "f504bef180d44a36",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yelan_invite_hard_03.wem"
         },
         "f60e296157be4b91": {
             "hash": "f60e296157be4b91",

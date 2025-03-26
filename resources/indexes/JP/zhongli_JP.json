@@ -254,6 +254,12 @@
         }
     },
     "Quests": {
+        "015707ce9e9d7211": {
+            "hash": "015707ce9e9d7211",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_11_zhongli_02a_2.wem"
+        },
         "0a9de73803d9e88e": {
             "hash": "0a9de73803d9e88e",
             "directory": "External1",
@@ -332,6 +338,12 @@
             "voiceContent": "この銭を見ていると、自分も未練を残しそうで心配なわけか",
             "sourceName": "vo_EQHDJ403_16_zhongli_07.wem"
         },
+        "3d8267ad1fb39f1d": {
+            "hash": "3d8267ad1fb39f1d",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_11_zhongli_02a_6.wem"
+        },
         "408db5a6959768d9": {
             "hash": "408db5a6959768d9",
             "directory": "External8",
@@ -374,11 +386,23 @@
             "voiceContent": "すべては堂主の運次第だな",
             "sourceName": "vo_EQHDJ403_20_zhongli_07.wem"
         },
+        "60b29c4c2de3d57c": {
+            "hash": "60b29c4c2de3d57c",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_11_zhongli_01.wem"
+        },
         "63b4a1487463d174": {
             "hash": "63b4a1487463d174",
             "directory": "External12",
             "voiceContent": "もしまだ気がかりであれば、これを",
             "sourceName": "vo_EQHDJ401_18_zhongli_02.wem"
+        },
+        "6a1cab427d661282": {
+            "hash": "6a1cab427d661282",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ZLLQ003_3_zhongli_13.wem"
         },
         "6b72e7be0fa7b90a": {
             "hash": "6b72e7be0fa7b90a",
@@ -427,6 +451,24 @@
             "directory": "External15",
             "voiceContent": "しかし、往生堂は璃月の生と死の均衡を保つ責を担っている。もし堂主が本当に見た通り、何も考えていないのであれば、そのほうがかえって心配だ",
             "sourceName": "vo_EQHDJ401_17_zhongli_11.wem"
+        },
+        "7f99add6e1fd5490": {
+            "hash": "7f99add6e1fd5490",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_11_zhongli_02a_3.wem"
+        },
+        "8daffb9de64dce63": {
+            "hash": "8daffb9de64dce63",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_11_zhongli_02a_4.wem"
+        },
+        "8dc91a7a53e5249e": {
+            "hash": "8dc91a7a53e5249e",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ005_zhongli_01.wem"
         },
         "90eb35416ddf3ab1": {
             "hash": "90eb35416ddf3ab1",
@@ -494,6 +536,12 @@
             "voiceContent": "ハハッ、旅人、ぜひ受け取ってくれ。困ったことがあれば、それが道を切り開いてくれるかもしれない",
             "sourceName": "vo_EQHDJ401_18_zhongli_05.wem"
         },
+        "c3649d3901a63f4b": {
+            "hash": "c3649d3901a63f4b",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_ZLLQ003_3_zhongli_12.wem"
+        },
         "c886a90e41904083": {
             "hash": "c886a90e41904083",
             "directory": "External25",
@@ -524,6 +572,12 @@
             "voiceContent": "そうだったのか？用があるなら遠慮なく言ってくれ",
             "sourceName": "vo_EQHDJ401_17_zhongli_03.wem"
         },
+        "cfc839c7a899296e": {
+            "hash": "cfc839c7a899296e",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_11_zhongli_02a_1.wem"
+        },
         "d3af879dcc2e4c76": {
             "hash": "d3af879dcc2e4c76",
             "directory": "External26",
@@ -541,6 +595,18 @@
             "directory": "External27",
             "voiceContent": "水飲み人、井戸掘り人を忘るべからず。茶飲み人、堂主を忘るべからず",
             "sourceName": "vo_EQHDJ403_16_zhongli_01.wem"
+        },
+        "e01749a4ee6ab11a": {
+            "hash": "e01749a4ee6ab11a",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_11_zhongli_02a_5.wem"
+        },
+        "e48a918da18fc395": {
+            "hash": "e48a918da18fc395",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_11_zhongli_02b_1.wem"
         },
         "f05f19b5cefb7913": {
             "hash": "f05f19b5cefb7913",
@@ -578,7 +644,7 @@
             "hash": "00d4e3a7d043b797",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attackmid_03.wem"
+            "sourceName": "vo_zhongli_battle_attackMid_03.wem"
         },
         "020b7f89fee827d3": {
             "hash": "020b7f89fee827d3",
@@ -590,7 +656,7 @@
             "hash": "024aa65128180e84",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attacklight_02.wem"
+            "sourceName": "vo_zhongli_battle_attackLight_02.wem"
         },
         "055edc90769e76df": {
             "hash": "055edc90769e76df",
@@ -602,13 +668,13 @@
             "hash": "0564cfb97da8deb1",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attackmid_01.wem"
+            "sourceName": "vo_zhongli_battle_attackMid_01.wem"
         },
         "06d99262d57b82a6": {
             "hash": "06d99262d57b82a6",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attacklight_04.wem"
+            "sourceName": "vo_zhongli_battle_attackLight_04.wem"
         },
         "0a3e7247726aaf49": {
             "hash": "0a3e7247726aaf49",
@@ -622,11 +688,11 @@
             "voiceContent": "堅如磐石",
             "sourceName": "vo_zhongli_battle_skill1_05.wem"
         },
-        "0bf68a1d8d3966e6": {
-            "hash": "0bf68a1d8d3966e6",
+        "0d2790acb5769306": {
+            "hash": "0d2790acb5769306",
             "directory": "External1",
-            "voiceContent": "時間があれば、どこかの庭園でお前に物語を聞かせてやろう",
-            "sourceName": "vo_zhongli_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_03.wem"
         },
         "10c261be30c0130e": {
             "hash": "10c261be30c0130e",
@@ -658,6 +724,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_zhongli_explore_fly_start_02.wem"
         },
+        "1589d4fcbf16593c": {
+            "hash": "1589d4fcbf16593c",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_12.wem"
+        },
+        "171d4289c27ef528": {
+            "hash": "171d4289c27ef528",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_5_zhongli_02.wem"
+        },
         "1891c3400b90c631": {
             "hash": "1891c3400b90c631",
             "directory": "External3",
@@ -675,6 +753,12 @@
             "directory": "External3",
             "voiceContent": "SFX",
             "sourceName": "vo_zhongli_explore_climb_03.wem"
+        },
+        "1d22070ec95ce122": {
+            "hash": "1d22070ec95ce122",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_6_zhongli_09.wem"
         },
         "216e1d4894551d01": {
             "hash": "216e1d4894551d01",
@@ -700,11 +784,23 @@
             "voiceContent": "「契約」外のことでも俺に相談していいぞ。この土地で長く生きてきたから、大体のことは知っている。とはいえ、お前にやってもらいたいこともある。そうしないと「公平」じゃないからな",
             "sourceName": "vo_zhongli_dialog_close3.wem"
         },
+        "2459a4befdaff828": {
+            "hash": "2459a4befdaff828",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_01.wem"
+        },
         "24bdb9c739933bb3": {
             "hash": "24bdb9c739933bb3",
             "directory": "External4",
             "voiceContent": "なるほど、「神の目」を使って元素の力を操ることは常人にとって単なる偉業ではないんだな。ふん…あの時の彼らは、こんな覚悟を持って俺の傍にいたのか",
             "sourceName": "vo_zhongli_starUp_03.wem"
+        },
+        "28296e7e625f9e5e": {
+            "hash": "28296e7e625f9e5e",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_zhongli_01.wem"
         },
         "2ae2f91a279f37a7": {
             "hash": "2ae2f91a279f37a7",
@@ -718,12 +814,6 @@
             "voiceContent": "棋と札は似た理を持つ。ひとたび迷えば、勝つことはできない",
             "sourceName": "vo_card_zhongli_invite_hard_02.wem"
         },
-        "2e6e95548a24ef0a": {
-            "hash": "2e6e95548a24ef0a",
-            "directory": "External5",
-            "voiceContent": "料理とは、実に趣のあるもの。それはお前にとっても同じことだろう",
-            "sourceName": "vo_zhongli_spice_event_normal_01.wem"
-        },
         "2f168f5de668a479": {
             "hash": "2f168f5de668a479",
             "directory": "External5",
@@ -735,6 +825,12 @@
             "directory": "External5",
             "voiceContent": "すべての意志は時によって磨かれる。彼女は信念のためならば、自らのすべてを捧げることさえ厭わない。だからこそ、ここまで歩んでこられたのかもしれない…機会があれば、俺も彼女がすべてを費やした「永遠」を見てみたいものだ",
             "sourceName": "vo_zhongli_teammate_raidenShogun_01.wem"
+        },
+        "31759b831fc18620": {
+            "hash": "31759b831fc18620",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_6_zhongli_07.wem"
         },
         "33117e58aae677fa": {
             "hash": "33117e58aae677fa",
@@ -752,7 +848,7 @@
             "hash": "3c6722bb79e930e2",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_hit_h_06.wem"
+            "sourceName": "vo_zhongli_battle_hit_H_06.wem"
         },
         "3d5d5821af4a37ef": {
             "hash": "3d5d5821af4a37ef",
@@ -764,7 +860,7 @@
             "hash": "3d9106cd246b20b4",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_hit_h_04.wem"
+            "sourceName": "vo_zhongli_battle_hit_H_04.wem"
         },
         "40f8c3a1beaba052": {
             "hash": "40f8c3a1beaba052",
@@ -788,7 +884,7 @@
             "hash": "46a744d25366982e",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attackheavy_03.wem"
+            "sourceName": "vo_zhongli_battle_attackHeavy_03.wem"
         },
         "48ac4b4abcdc723a": {
             "hash": "48ac4b4abcdc723a",
@@ -826,6 +922,12 @@
             "voiceContent": "国を救う契約を「自己」と締結し、それを五百年に渡り厳守することで天理を欺いた…「正義」によってなされるすべてを、俺は尊重する。たとえ神性の部分がすでに消え去り、神座さえなくなったとしても、フォンテーヌすべての歴史において、フリーナは正義の神として認められるに値する存在だ",
             "sourceName": "vo_zhongli_teammate_furina_01.wem"
         },
+        "4eee9e56965d6192": {
+            "hash": "4eee9e56965d6192",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_5_zhongli_04.wem"
+        },
         "4f8fb1e9267fc9d6": {
             "hash": "4f8fb1e9267fc9d6",
             "directory": "External9",
@@ -843,6 +945,12 @@
             "directory": "External10",
             "voiceContent": "今日も好景気になることを願っている",
             "sourceName": "vo_zhongli_dialog_greetingMorning.wem"
+        },
+        "537ec26843c2e864": {
+            "hash": "537ec26843c2e864",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_5_zhongli_06.wem"
         },
         "56457647f9a52e5d": {
             "hash": "56457647f9a52e5d",
@@ -868,11 +976,23 @@
             "voiceContent": "油断したか",
             "sourceName": "vo_zhongli_battle_hit_H_01.wem"
         },
+        "5c2b008bd18e6492": {
+            "hash": "5c2b008bd18e6492",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_07.wem"
+        },
         "5ff0b019977c74f6": {
             "hash": "5ff0b019977c74f6",
             "directory": "External11",
             "voiceContent": "見苦しいところを見せたな",
             "sourceName": "vo_zhongli_life_die_02.wem"
+        },
+        "60bb249d7ef3eb64": {
+            "hash": "60bb249d7ef3eb64",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_05.wem"
         },
         "66b1e980efc67451": {
             "hash": "66b1e980efc67451",
@@ -890,7 +1010,7 @@
             "hash": "69ec09746d0f3331",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_hit_l_05.wem"
+            "sourceName": "vo_zhongli_battle_hit_L_05.wem"
         },
         "6a851a0122895eac": {
             "hash": "6a851a0122895eac",
@@ -916,6 +1036,18 @@
             "voiceContent": "勝敗は終わるまで分からない",
             "sourceName": "vo_card_zhongli_inGame_hard_04.wem"
         },
+        "702f5c804691d669": {
+            "hash": "702f5c804691d669",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_5_zhongli_03.wem"
+        },
+        "707e950027f30990": {
+            "hash": "707e950027f30990",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_09.wem"
+        },
         "70b6ea1606c836aa": {
             "hash": "70b6ea1606c836aa",
             "directory": "External14",
@@ -932,7 +1064,7 @@
             "hash": "771dc06ba1c7c809",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attacklight_07.wem"
+            "sourceName": "vo_zhongli_battle_attackLight_07.wem"
         },
         "79cab47771f75d36": {
             "hash": "79cab47771f75d36",
@@ -968,7 +1100,7 @@
             "hash": "7f1781b013a38c8e",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attackmid_02.wem"
+            "sourceName": "vo_zhongli_battle_attackMid_02.wem"
         },
         "7f6415f015c00e7a": {
             "hash": "7f6415f015c00e7a",
@@ -976,23 +1108,59 @@
             "voiceContent": "旅はいつか終わりを迎える、慌てる必要はない",
             "sourceName": "vo_zhongli_explore_idle_01.wem"
         },
+        "7fde02e2334da6d3": {
+            "hash": "7fde02e2334da6d3",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_11.wem"
+        },
+        "8078fb623bd93cdc": {
+            "hash": "8078fb623bd93cdc",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_6_zhongli_03.wem"
+        },
         "80844d924275ddca": {
             "hash": "80844d924275ddca",
             "directory": "External16",
             "voiceContent": "SFX",
             "sourceName": "vo_zhongli_explore_idle_03.wem"
         },
+        "81a2e773e65b3afe": {
+            "hash": "81a2e773e65b3afe",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_6_zhongli_05.wem"
+        },
+        "81a8906f36e5bbef": {
+            "hash": "81a8906f36e5bbef",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_5_zhongli_01.wem"
+        },
+        "846deef3e0b2cdcd": {
+            "hash": "846deef3e0b2cdcd",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_13.wem"
+        },
+        "85cb7c8693d7b301": {
+            "hash": "85cb7c8693d7b301",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_zhongli_02.wem"
+        },
         "87a3e048e7c8ae15": {
             "hash": "87a3e048e7c8ae15",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attacklight_03.wem"
+            "sourceName": "vo_zhongli_battle_attackLight_03.wem"
         },
         "8896f45a921bad8f": {
             "hash": "8896f45a921bad8f",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attacklight_05.wem"
+            "sourceName": "vo_zhongli_battle_attackLight_05.wem"
         },
         "8a93a4fc5674b7d0": {
             "hash": "8a93a4fc5674b7d0",
@@ -1005,6 +1173,12 @@
             "directory": "External17",
             "voiceContent": "休暇に向いていない天気だ。芝居でも見に行くか",
             "sourceName": "vo_zhongli_weather_gale_01.wem"
+        },
+        "8ee4f2a47216beef": {
+            "hash": "8ee4f2a47216beef",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_02.wem"
         },
         "91900a600f9a522f": {
             "hash": "91900a600f9a522f",
@@ -1022,7 +1196,7 @@
             "hash": "96d940c3a8abc705",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_hit_h_05.wem"
+            "sourceName": "vo_zhongli_battle_hit_H_05.wem"
         },
         "970fafc79ac56531": {
             "hash": "970fafc79ac56531",
@@ -1040,7 +1214,7 @@
             "hash": "97cc14d552fe5a7f",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_hit_h_03.wem"
+            "sourceName": "vo_zhongli_battle_hit_H_03.wem"
         },
         "9816c98447b148ab": {
             "hash": "9816c98447b148ab",
@@ -1088,13 +1262,13 @@
             "hash": "a1877d4140c03903",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_hit_l_03.wem"
+            "sourceName": "vo_zhongli_battle_hit_L_03.wem"
         },
         "a2b16952eb42373d": {
             "hash": "a2b16952eb42373d",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_hit_l_01.wem"
+            "sourceName": "vo_zhongli_battle_hit_L_01.wem"
         },
         "a4a9f49912d069e6": {
             "hash": "a4a9f49912d069e6",
@@ -1120,6 +1294,12 @@
             "voiceContent": "対局の勝敗は常に移ろいゆく…少し計算が足りなかったか",
             "sourceName": "vo_card_zhongli_invite_hard_03.wem"
         },
+        "aa6d9b7e7b71098c": {
+            "hash": "aa6d9b7e7b71098c",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_6_zhongli_10.wem"
+        },
         "ab23ce88480b3d14": {
             "hash": "ab23ce88480b3d14",
             "directory": "External21",
@@ -1144,17 +1324,17 @@
             "voiceContent": "長く生きすぎた人は記憶の中でのみ、昔の戦友や過去の景色を訪ねられる。それでも、お前との出会いを後悔していない、「友」よ。たとえいつかお前と別れる日が来るとしても、お前は俺の記憶の中で輝き続ける",
             "sourceName": "vo_zhongli_friendship_05.wem"
         },
-        "b098b9b6166a01d0": {
-            "hash": "b098b9b6166a01d0",
-            "directory": "External22",
-            "voiceContent": "本格的な調理法で、素材にまでこだわっている。大したものだ",
-            "sourceName": "vo_zhongli_spice_event_pref_01.wem"
-        },
         "b24e33816163b33a": {
             "hash": "b24e33816163b33a",
             "directory": "External22",
             "voiceContent": "岩山破蓄",
             "sourceName": "vo_zhongli_battle_skill1_04.wem"
+        },
+        "b370bebbb35ddb6e": {
+            "hash": "b370bebbb35ddb6e",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_5_zhongli_08.wem"
         },
         "b3dd93d45c4f7f3d": {
             "hash": "b3dd93d45c4f7f3d",
@@ -1167,6 +1347,12 @@
             "directory": "External22",
             "voiceContent": "磐石も…いつか土に還る",
             "sourceName": "vo_zhongli_life_die_03.wem"
+        },
+        "be047752679f48ea": {
+            "hash": "be047752679f48ea",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_6_zhongli_01.wem"
         },
         "c02c255452cb24ce": {
             "hash": "c02c255452cb24ce",
@@ -1196,13 +1382,19 @@
             "hash": "c864a6ca1006c337",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attackheavy_02.wem"
+            "sourceName": "vo_zhongli_battle_attackHeavy_02.wem"
         },
         "c94f2672a9b74548": {
             "hash": "c94f2672a9b74548",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attacklight_06.wem"
+            "sourceName": "vo_zhongli_battle_attackLight_06.wem"
+        },
+        "cb277907c19c636b": {
+            "hash": "cb277907c19c636b",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_6_zhongli_08.wem"
         },
         "cbed541766ec54a5": {
             "hash": "cbed541766ec54a5",
@@ -1234,6 +1426,12 @@
             "voiceContent": "もう一手、備えるとしよう",
             "sourceName": "vo_card_zhongli_inGame_easy_04.wem"
         },
+        "d0e3104e532ceadb": {
+            "hash": "d0e3104e532ceadb",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_5_zhongli_05.wem"
+        },
         "d12a25d67015e42d": {
             "hash": "d12a25d67015e42d",
             "directory": "External26",
@@ -1258,6 +1456,12 @@
             "voiceContent": "揺らぐことなし",
             "sourceName": "vo_zhongli_battle_skill1_03.wem"
         },
+        "d571fc6000905ef5": {
+            "hash": "d571fc6000905ef5",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_5_zhongli_07.wem"
+        },
         "d6a4170f95751008": {
             "hash": "d6a4170f95751008",
             "directory": "External26",
@@ -1280,7 +1484,7 @@
             "hash": "d7d17439ae62dd7b",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attacklight_01.wem"
+            "sourceName": "vo_zhongli_battle_attackLight_01.wem"
         },
         "d87d681c874dd1e5": {
             "hash": "d87d681c874dd1e5",
@@ -1293,6 +1497,24 @@
             "directory": "External27",
             "voiceContent": "次はどこに行くんだ？璃月の名所を巡りたいなら、いい案がいくつかあるぞ",
             "sourceName": "vo_zhongli_explore_idle_02.wem"
+        },
+        "dab5096a6a6e2887": {
+            "hash": "dab5096a6a6e2887",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_6_zhongli_04.wem"
+        },
+        "dbddf57c14ee73a1": {
+            "hash": "dbddf57c14ee73a1",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_6_zhongli_06.wem"
+        },
+        "de1f72838e5deddb": {
+            "hash": "de1f72838e5deddb",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_06.wem"
         },
         "df2cf56fd729057e": {
             "hash": "df2cf56fd729057e",
@@ -1312,17 +1534,23 @@
             "voiceContent": "「絶雲の間」に行く機会があったら、「清心」を一束取ってきてくれ。一束でいいんだ。旅費は…ああっ、忘れるところだった。「契約」の有効期間中の旅費はお前が持ってくれ。では、頼んだぞ",
             "sourceName": "vo_zhongli_pref_gift.wem"
         },
+        "e2ae5e953bc161f5": {
+            "hash": "e2ae5e953bc161f5",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_04.wem"
+        },
         "e39ebb6b0309e10e": {
             "hash": "e39ebb6b0309e10e",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_hit_l_06.wem"
+            "sourceName": "vo_zhongli_battle_hit_L_06.wem"
         },
         "e4c8af7cad8becb0": {
             "hash": "e4c8af7cad8becb0",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_hit_l_04.wem"
+            "sourceName": "vo_zhongli_battle_hit_L_04.wem"
         },
         "e68d87350c7fe1c8": {
             "hash": "e68d87350c7fe1c8",
@@ -1354,11 +1582,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_zhongli_explore_sprint_start_01.wem"
         },
+        "ebf715595a92886d": {
+            "hash": "ebf715595a92886d",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_6_zhongli_02.wem"
+        },
+        "f23beef7e4932711": {
+            "hash": "f23beef7e4932711",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_08.wem"
+        },
         "f313b8e189e94e50": {
             "hash": "f313b8e189e94e50",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_zhongli_battle_attackheavy_01.wem"
+            "sourceName": "vo_zhongli_battle_attackHeavy_01.wem"
+        },
+        "f77c9fc04781cad5": {
+            "hash": "f77c9fc04781cad5",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "sfx_standbyShow_vo_zhongli_02.wem"
         },
         "f93037abaaecc85c": {
             "hash": "f93037abaaecc85c",
@@ -1383,6 +1629,12 @@
             "directory": "External31",
             "voiceContent": "妙手を得られたようだ",
             "sourceName": "vo_card_zhongli_inGame_hard_01.wem"
+        },
+        "fe56d0ea76db5cca": {
+            "hash": "fe56d0ea76db5cca",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_4_zhongli_10.wem"
         },
         "feb76a791188a2c2": {
             "hash": "feb76a791188a2c2",

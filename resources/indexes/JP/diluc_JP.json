@@ -346,17 +346,23 @@
             "voiceContent": "モンドのディルック、約束通り参上。無駄話ならご遠慮願いたい。何か大事をなそうとしているなら興味はある",
             "sourceName": "vo_diluc_draw_appear.wem"
         },
+        "109936fc61999205": {
+            "hash": "109936fc61999205",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_07.wem"
+        },
+        "118c0b0e0bec257f": {
+            "hash": "118c0b0e0bec257f",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_01.wem"
+        },
         "12488acbb919bcad": {
             "hash": "12488acbb919bcad",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_03.wem"
-        },
-        "1327f7955d7dacb8": {
-            "hash": "1327f7955d7dacb8",
-            "directory": "External2",
-            "voiceContent": "調理した者のこだわりを感じる。悪くない一品だ",
-            "sourceName": "vo_diluc_spice_event_normal_01.wem"
+            "sourceName": "vo_diluc_battle_attackLight_03.wem"
         },
         "1730cb77cd0db48e": {
             "hash": "1730cb77cd0db48e",
@@ -369,6 +375,18 @@
             "directory": "External3",
             "voiceContent": "SFX",
             "sourceName": "vo_diluc_explore_climb_03.wem"
+        },
+        "1aa8f9594fd707be": {
+            "hash": "1aa8f9594fd707be",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_08.wem"
+        },
+        "1e5211d0238e3667": {
+            "hash": "1e5211d0238e3667",
+            "directory": "External3",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_diluc_suit_aristocrat_idle_03.wem"
         },
         "2268dfec93e7f841": {
             "hash": "2268dfec93e7f841",
@@ -386,7 +404,7 @@
             "hash": "294fcef2a184b232",
             "directory": "External5",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_02.wem"
+            "sourceName": "vo_diluc_battle_hit_L_02.wem"
         },
         "29d5ea978a6c8cd1": {
             "hash": "29d5ea978a6c8cd1",
@@ -400,23 +418,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_diluc_explore_climb_05.wem"
         },
+        "2b19f33173a04e9d": {
+            "hash": "2b19f33173a04e9d",
+            "directory": "External5",
+            "voiceContent": "",
+            "sourceName": "vo_diluc_suit_aristocrat_02.wem"
+        },
         "2e48b88d26e5303a": {
             "hash": "2e48b88d26e5303a",
             "directory": "External5",
             "voiceContent": "ディオナは僕に堅い態度を取る、それに僕自身も彼女と交流する機会に恵まれてこなかった。家族の恨みが…ん？違う？単に酒が嫌いだと？このモンドに酒の嫌いなバーテンダーがいるとはな",
             "sourceName": "vo_diluc_teammate_diona_01.wem"
         },
-        "2f788f381fffcb12": {
-            "hash": "2f788f381fffcb12",
-            "directory": "External5",
-            "voiceContent": "とてもよくできている。忘れられない味だ",
-            "sourceName": "vo_diluc_spice_event_pref_01.wem"
-        },
         "33066231698a1cbf": {
             "hash": "33066231698a1cbf",
             "directory": "External6",
             "voiceContent": "ふっ",
             "sourceName": "vo_diluc_suit_aristocrat_skill1_01.wem"
+        },
+        "34282efc037a3c3b": {
+            "hash": "34282efc037a3c3b",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_12.wem"
         },
         "361db0d373b385d5": {
             "hash": "361db0d373b385d5",
@@ -464,7 +488,7 @@
             "hash": "4a8f8d1c51b77309",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_05.wem"
+            "sourceName": "vo_diluc_battle_hit_L_05.wem"
         },
         "4c683777cfb745b6": {
             "hash": "4c683777cfb745b6",
@@ -489,6 +513,12 @@
             "directory": "External10",
             "voiceContent": "……ありがとう",
             "sourceName": "vo_diluc_spice_dislike_01.wem"
+        },
+        "52437d2623867678": {
+            "hash": "52437d2623867678",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_02.wem"
         },
         "5256f6c7467fa3f0": {
             "hash": "5256f6c7467fa3f0",
@@ -524,7 +554,7 @@
             "hash": "5b15acf997b85915",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_01.wem"
+            "sourceName": "vo_diluc_battle_hit_L_01.wem"
         },
         "5c8574f84df6b044": {
             "hash": "5c8574f84df6b044",
@@ -536,7 +566,7 @@
             "hash": "5caa63db93b926f9",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackmid_01.wem"
+            "sourceName": "vo_diluc_battle_attackMid_01.wem"
         },
         "5dfcd04c9c23537b": {
             "hash": "5dfcd04c9c23537b",
@@ -544,11 +574,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_diluc_explore_jump_04.wem"
         },
-        "5f4d03e9f3b2f49c": {
-            "hash": "5f4d03e9f3b2f49c",
+        "5ea061137d2dbb44": {
+            "hash": "5ea061137d2dbb44",
             "directory": "External11",
-            "voiceContent": "……ありがとう",
-            "sourceName": "vo_diluc_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_11.wem"
+        },
+        "60c68aed2833542b": {
+            "hash": "60c68aed2833542b",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_05.wem"
         },
         "629c0c94ad56d6d4": {
             "hash": "629c0c94ad56d6d4",
@@ -560,7 +596,7 @@
             "hash": "65dc1ebc82971433",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_01.wem"
+            "sourceName": "vo_diluc_battle_attackLight_01.wem"
         },
         "6804409942d037c5": {
             "hash": "6804409942d037c5",
@@ -616,11 +652,23 @@
             "voiceContent": "油断したな",
             "sourceName": "vo_card_diluc_inGame_easy_01.wem"
         },
+        "70541b4fd1051a47": {
+            "hash": "70541b4fd1051a47",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_09.wem"
+        },
         "7057d4497e4144b8": {
             "hash": "7057d4497e4144b8",
             "directory": "External14",
             "voiceContent": "はぁっ",
             "sourceName": "vo_diluc_suit_aristocrat_skill1_02.wem"
+        },
+        "70826fd72b7bf25e": {
+            "hash": "70826fd72b7bf25e",
+            "directory": "External14",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_diluc_suit_aristocrat_idle_02.wem"
         },
         "74f96ac016580998": {
             "hash": "74f96ac016580998",
@@ -632,7 +680,7 @@
             "hash": "75b429847148904c",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_h_04.wem"
+            "sourceName": "vo_diluc_battle_hit_H_04.wem"
         },
         "7686a4f9037a7076": {
             "hash": "7686a4f9037a7076",
@@ -644,7 +692,7 @@
             "hash": "76de15961bca8e6e",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_h_02.wem"
+            "sourceName": "vo_diluc_battle_hit_H_02.wem"
         },
         "7d697e8853e9e437": {
             "hash": "7d697e8853e9e437",
@@ -692,7 +740,7 @@
             "hash": "872d2573619c161a",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_h_06.wem"
+            "sourceName": "vo_diluc_battle_hit_H_06.wem"
         },
         "8c55c372533f69be": {
             "hash": "8c55c372533f69be",
@@ -710,7 +758,7 @@
             "hash": "8f18ec86b1d86558",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackheavy_01.wem"
+            "sourceName": "vo_diluc_battle_attackHeavy_01.wem"
         },
         "96e66be380f6fdda": {
             "hash": "96e66be380f6fdda",
@@ -728,7 +776,7 @@
             "hash": "9a3597cbbf7eb87f",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackmid_03.wem"
+            "sourceName": "vo_diluc_battle_attackMid_03.wem"
         },
         "9b2670e29d9d3c2b": {
             "hash": "9b2670e29d9d3c2b",
@@ -746,7 +794,7 @@
             "hash": "9cc0f32359a6f048",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_04.wem"
+            "sourceName": "vo_diluc_battle_hit_L_04.wem"
         },
         "9da878eca6e0d6fa": {
             "hash": "9da878eca6e0d6fa",
@@ -764,19 +812,19 @@
             "hash": "a36470d4977d481c",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_02.wem"
+            "sourceName": "vo_diluc_battle_attackLight_02.wem"
         },
         "a3f81875a50f6676": {
             "hash": "a3f81875a50f6676",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackheavy_03.wem"
+            "sourceName": "vo_diluc_battle_attackHeavy_03.wem"
         },
         "a7f45ce644e26f3e": {
             "hash": "a7f45ce644e26f3e",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attacklight_04.wem"
+            "sourceName": "vo_diluc_battle_attackLight_04.wem"
         },
         "a86ce39d11ced711": {
             "hash": "a86ce39d11ced711",
@@ -794,7 +842,7 @@
             "hash": "ab4340ea5e52887b",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_03.wem"
+            "sourceName": "vo_diluc_battle_hit_L_03.wem"
         },
         "ab84d31f3fc56aa2": {
             "hash": "ab84d31f3fc56aa2",
@@ -820,6 +868,12 @@
             "voiceContent": "いいだろう、勝負だ",
             "sourceName": "vo_card_diluc_invite_easy_01.wem"
         },
+        "aecebd0443c93df2": {
+            "hash": "aecebd0443c93df2",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_13.wem"
+        },
         "aefbd97309f1a3d0": {
             "hash": "aefbd97309f1a3d0",
             "directory": "External21",
@@ -844,11 +898,23 @@
             "voiceContent": "組合会には、まだ仕事が残っているんだ。君は休むといい。僕は仕事に戻ろう",
             "sourceName": "vo_diluc_explore_idle_03.wem"
         },
+        "b62718f432d6fbe2": {
+            "hash": "b62718f432d6fbe2",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_04.wem"
+        },
         "b62954323fcdadfb": {
             "hash": "b62954323fcdadfb",
             "directory": "External22",
             "voiceContent": "本当に倒すべき敵、罪を育む「闇」自身は、剣以外の方法で断ち切らなければいけない…",
             "sourceName": "vo_diluc_dialog_annoyed.wem"
+        },
+        "b750fd05dd58ebb4": {
+            "hash": "b750fd05dd58ebb4",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_06.wem"
         },
         "b9b47413830147c9": {
             "hash": "b9b47413830147c9",
@@ -868,6 +934,12 @@
             "voiceContent": "力が強くなった…だがまだ足りない、これだけでは力の探求に過ぎない。「黎明」が訪れる前に、「暗闇」を照らす人が必要なんだ",
             "sourceName": "vo_diluc_starUp_03.wem"
         },
+        "bc35d93a5203dacc": {
+            "hash": "bc35d93a5203dacc",
+            "directory": "External23",
+            "voiceContent": "",
+            "sourceName": "vo_diluc_suit_aristocrat_03.wem"
+        },
         "bf16e2d344c46b4f": {
             "hash": "bf16e2d344c46b4f",
             "directory": "External23",
@@ -886,6 +958,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_diluc_explore_climb_01.wem"
         },
+        "c6a0d4d4f9660a0e": {
+            "hash": "c6a0d4d4f9660a0e",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_diluc_01.wem"
+        },
         "c82dd1e46554be9e": {
             "hash": "c82dd1e46554be9e",
             "directory": "External25",
@@ -897,6 +975,18 @@
             "directory": "External25",
             "voiceContent": "喜ぶにはまだ早い",
             "sourceName": "vo_card_diluc_inGame_hard_03.wem"
+        },
+        "cdaed5294257609a": {
+            "hash": "cdaed5294257609a",
+            "directory": "External25",
+            "voiceContent": "",
+            "sourceName": "vo_diluc_suit_aristocrat_01.wem"
+        },
+        "ce247ddf5cf40701": {
+            "hash": "ce247ddf5cf40701",
+            "directory": "External25",
+            "voiceContent": "AnimatorEven",
+            "sourceName": "vo_diluc_suit_aristocrat_idle_01.wem"
         },
         "ce9acc63577b1ad0": {
             "hash": "ce9acc63577b1ad0",
@@ -910,6 +1000,12 @@
             "voiceContent": "チクショウ",
             "sourceName": "vo_diluc_life_less30_02.wem"
         },
+        "d00e7b2df3fbfec9": {
+            "hash": "d00e7b2df3fbfec9",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_14.wem"
+        },
         "d2ea64ad589dc357": {
             "hash": "d2ea64ad589dc357",
             "directory": "External26",
@@ -921,6 +1017,12 @@
             "directory": "External26",
             "voiceContent": "SFX",
             "sourceName": "vo_diluc_explore_idle_03.wem"
+        },
+        "d400d71de02693f9": {
+            "hash": "d400d71de02693f9",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_03.wem"
         },
         "d49ffeae77b8b034": {
             "hash": "d49ffeae77b8b034",
@@ -950,7 +1052,7 @@
             "hash": "da4b5f13856b2da6",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_l_06.wem"
+            "sourceName": "vo_diluc_battle_hit_L_06.wem"
         },
         "da54d8d6de22dda6": {
             "hash": "da54d8d6de22dda6",
@@ -976,6 +1078,12 @@
             "voiceContent": "フン",
             "sourceName": "vo_diluc_battle_skill1_01.wem"
         },
+        "e0949b0b39fce4d5": {
+            "hash": "e0949b0b39fce4d5",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_47_diluc_10.wem"
+        },
         "e200e568d46d7c47": {
             "hash": "e200e568d46d7c47",
             "directory": "External28",
@@ -992,7 +1100,7 @@
             "hash": "e498437b92e5041d",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_h_05.wem"
+            "sourceName": "vo_diluc_battle_hit_H_05.wem"
         },
         "e690d17a81d2a361": {
             "hash": "e690d17a81d2a361",
@@ -1010,7 +1118,7 @@
             "hash": "ec6635d2c76ce096",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackmid_02.wem"
+            "sourceName": "vo_diluc_battle_attackMid_02.wem"
         },
         "f0ea89ebaf5b0fdd": {
             "hash": "f0ea89ebaf5b0fdd",
@@ -1070,7 +1178,7 @@
             "hash": "f9a2fa6c263d0bdf",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_attackheavy_02.wem"
+            "sourceName": "vo_diluc_battle_attackHeavy_02.wem"
         },
         "fae8c14cef738616": {
             "hash": "fae8c14cef738616",
@@ -1088,7 +1196,7 @@
             "hash": "fc01778ddb4de277",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_diluc_battle_hit_h_03.wem"
+            "sourceName": "vo_diluc_battle_hit_H_03.wem"
         },
         "fcbc2815d979b252": {
             "hash": "fcbc2815d979b252",
@@ -1101,42 +1209,6 @@
             "directory": "External31",
             "voiceContent": "SFX",
             "sourceName": "vo_diluc_explore_jump_02.wem"
-        },
-        "1e5211d0238e3667": {
-            "hash": "1e5211d0238e3667",
-            "directory": "External3",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_diluc_suit_aristocrat_idle_03.wem"
-        },
-        "2b19f33173a04e9d": {
-            "hash": "2b19f33173a04e9d",
-            "directory": "External5",
-            "voiceContent": "",
-            "sourceName": "vo_diluc_suit_aristocrat_02.wem"
-        },
-        "70826fd72b7bf25e": {
-            "hash": "70826fd72b7bf25e",
-            "directory": "External14",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_diluc_suit_aristocrat_idle_02.wem"
-        },
-        "bc35d93a5203dacc": {
-            "hash": "bc35d93a5203dacc",
-            "directory": "External23",
-            "voiceContent": "",
-            "sourceName": "vo_diluc_suit_aristocrat_03.wem"
-        },
-        "cdaed5294257609a": {
-            "hash": "cdaed5294257609a",
-            "directory": "External25",
-            "voiceContent": "",
-            "sourceName": "vo_diluc_suit_aristocrat_01.wem"
-        },
-        "ce247ddf5cf40701": {
-            "hash": "ce247ddf5cf40701",
-            "directory": "External25",
-            "voiceContent": "AnimatorEven",
-            "sourceName": "vo_diluc_suit_aristocrat_idle_01.wem"
         }
     }
 }

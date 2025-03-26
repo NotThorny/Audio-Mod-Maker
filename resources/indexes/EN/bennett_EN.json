@@ -332,7 +332,7 @@
             "hash": "07969b2762c589ae",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackheavy_03.wem"
+            "sourceName": "vo_bennett_battle_attackHeavy_03.wem"
         },
         "0bc3a1d4061fa59b": {
             "hash": "0bc3a1d4061fa59b",
@@ -364,11 +364,17 @@
             "voiceContent": "Wrong again? But that was my best card..",
             "sourceName": "vo_card_bennett_inGame_hard_03.wem"
         },
+        "153ed72c1a6cb03d": {
+            "hash": "153ed72c1a6cb03d",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "sfx_standbyShow_vo_bennett_depart.wem"
+        },
         "1a903b3446f6a20e": {
             "hash": "1a903b3446f6a20e",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackmid_02.wem"
+            "sourceName": "vo_bennett_battle_attackMid_02.wem"
         },
         "212be1022fb5594b": {
             "hash": "212be1022fb5594b",
@@ -398,7 +404,7 @@
             "hash": "23da26d4d82bae62",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_h_06.wem"
+            "sourceName": "vo_bennett_battle_hit_H_06.wem"
         },
         "24e7bb59d119aa66": {
             "hash": "24e7bb59d119aa66",
@@ -410,7 +416,7 @@
             "hash": "25040ae682ad9e34",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_h_04.wem"
+            "sourceName": "vo_bennett_battle_hit_H_04.wem"
         },
         "25306254086726ca": {
             "hash": "25306254086726ca",
@@ -448,11 +454,11 @@
             "voiceContent": "Let's light it up",
             "sourceName": "vo_bennett_battle_skill1_step1_03.wem"
         },
-        "31691fb855d090e5": {
-            "hash": "31691fb855d090e5",
+        "325b0130de2925b5": {
+            "hash": "325b0130de2925b5",
             "directory": "External6",
-            "voiceContent": "Literally everything you cook ends up tasting amazing. Ha, you're awesome",
-            "sourceName": "vo_bennett_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_battle_skill1_step1_01.wem"
         },
         "3783cfd462e96714": {
             "hash": "3783cfd462e96714",
@@ -464,7 +470,7 @@
             "hash": "380d16c0b126b989",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_07.wem"
+            "sourceName": "vo_bennett_battle_attackLight_07.wem"
         },
         "3aac678b1e4692e4": {
             "hash": "3aac678b1e4692e4",
@@ -530,7 +536,7 @@
             "hash": "4893369df7279f95",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_03.wem"
+            "sourceName": "vo_bennett_battle_attackLight_03.wem"
         },
         "493bde7292ffdb87": {
             "hash": "493bde7292ffdb87",
@@ -542,7 +548,7 @@
             "hash": "49864aafa17a9f0f",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_05.wem"
+            "sourceName": "vo_bennett_battle_attackLight_05.wem"
         },
         "4dd9acb4a674b61b": {
             "hash": "4dd9acb4a674b61b",
@@ -566,7 +572,7 @@
             "hash": "515f0d8dcb51b0b1",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_l_05.wem"
+            "sourceName": "vo_bennett_battle_hit_L_05.wem"
         },
         "54643c54a4397fdf": {
             "hash": "54643c54a4397fdf",
@@ -640,6 +646,12 @@
             "voiceContent": "Benny's Adventure Team... I have failed you..",
             "sourceName": "vo_bennett_life_die_01.wem"
         },
+        "6e456fae29d3df9e": {
+            "hash": "6e456fae29d3df9e",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "sfx_standbyShow_vo_bennett_oh.wem"
+        },
         "6ffe14566e664173": {
             "hash": "6ffe14566e664173",
             "directory": "External13",
@@ -668,7 +680,7 @@
             "hash": "7e4c44dd06ee4485",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_h_05.wem"
+            "sourceName": "vo_bennett_battle_hit_H_05.wem"
         },
         "7e82b3e0f907e2b1": {
             "hash": "7e82b3e0f907e2b1",
@@ -686,7 +698,7 @@
             "hash": "7f3f18eeb140d7ff",
             "directory": "External15",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_h_03.wem"
+            "sourceName": "vo_bennett_battle_hit_H_03.wem"
         },
         "7fb7ebd5af250fe3": {
             "hash": "7fb7ebd5af250fe3",
@@ -716,25 +728,25 @@
             "hash": "88fa815a9f02b683",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_l_03.wem"
+            "sourceName": "vo_bennett_battle_hit_L_03.wem"
         },
         "8953fd1f1f65b4b7": {
             "hash": "8953fd1f1f65b4b7",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackheavy_02.wem"
+            "sourceName": "vo_bennett_battle_attackHeavy_02.wem"
         },
         "8a246d6c4984b4bd": {
             "hash": "8a246d6c4984b4bd",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_l_01.wem"
+            "sourceName": "vo_bennett_battle_hit_L_01.wem"
         },
         "8a3e7cc7b91636c8": {
             "hash": "8a3e7cc7b91636c8",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_06.wem"
+            "sourceName": "vo_bennett_battle_attackLight_06.wem"
         },
         "8acd396b1d7eb00c": {
             "hash": "8acd396b1d7eb00c",
@@ -788,7 +800,7 @@
             "hash": "98c0ca8ebdc1cefb",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_01.wem"
+            "sourceName": "vo_bennett_battle_attackLight_01.wem"
         },
         "992e48f0acd22cf7": {
             "hash": "992e48f0acd22cf7",
@@ -806,7 +818,7 @@
             "hash": "9c4d9d2c0396cd17",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackmid_03.wem"
+            "sourceName": "vo_bennett_battle_attackMid_03.wem"
         },
         "9d8f654ec69fa6c4": {
             "hash": "9d8f654ec69fa6c4",
@@ -824,7 +836,7 @@
             "hash": "a0dd893db0fbf431",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackmid_01.wem"
+            "sourceName": "vo_bennett_battle_attackMid_01.wem"
         },
         "a12e76f77caafde2": {
             "hash": "a12e76f77caafde2",
@@ -874,6 +886,12 @@
             "voiceContent": "I don't think my brand of luck is meant for this kind of game..",
             "sourceName": "vo_card_bennett_leave_01.wem"
         },
+        "af3da32776d95252": {
+            "hash": "af3da32776d95252",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_battle_skill1_step1_02.wem"
+        },
         "b0eb666e862deb5c": {
             "hash": "b0eb666e862deb5c",
             "directory": "External22",
@@ -884,7 +902,7 @@
             "hash": "b4030f3699483fd0",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attackheavy_01.wem"
+            "sourceName": "vo_bennett_battle_attackHeavy_01.wem"
         },
         "b567288bb569f960": {
             "hash": "b567288bb569f960",
@@ -932,7 +950,7 @@
             "hash": "c339fca637770004",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_02.wem"
+            "sourceName": "vo_bennett_battle_attackLight_02.wem"
         },
         "c3dc5b0826b30410": {
             "hash": "c3dc5b0826b30410",
@@ -950,7 +968,7 @@
             "hash": "c7c8e8b7e4da7426",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_attacklight_04.wem"
+            "sourceName": "vo_bennett_battle_attackLight_04.wem"
         },
         "c7f36803d0eb302c": {
             "hash": "c7f36803d0eb302c",
@@ -974,7 +992,7 @@
             "hash": "cb11bf84614c5e8e",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_l_06.wem"
+            "sourceName": "vo_bennett_battle_hit_L_06.wem"
         },
         "cbe63abce9a6e0d2": {
             "hash": "cbe63abce9a6e0d2",
@@ -986,13 +1004,19 @@
             "hash": "cc3bb3960bce6a30",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_bennett_battle_hit_l_04.wem"
+            "sourceName": "vo_bennett_battle_hit_L_04.wem"
         },
         "d16fb6f5b92f0016": {
             "hash": "d16fb6f5b92f0016",
             "directory": "External26",
             "voiceContent": "Why do they never miss",
             "sourceName": "vo_bennett_battle_hit_H_02.wem"
+        },
+        "d2e7e7c783958926": {
+            "hash": "d2e7e7c783958926",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_battle_skill1_step4_01.wem"
         },
         "d39f1a59a65cba16": {
             "hash": "d39f1a59a65cba16",
@@ -1012,11 +1036,11 @@
             "voiceContent": "Hahaha, you wish! Benny's Adventure Team has had no vacancies in ages... I mean, you must be spoiled for choice, right? Why'd you wanna join the unluckiest adventurer alive, anyway",
             "sourceName": "vo_bennett_dialog_close.wem"
         },
-        "d7dc68b5a9350b93": {
-            "hash": "d7dc68b5a9350b93",
-            "directory": "External26",
-            "voiceContent": "Oh no... my stomach hurts..",
-            "sourceName": "vo_bennett_spice_event_dislike_01.wem"
+        "d9580ece7d0e6e30": {
+            "hash": "d9580ece7d0e6e30",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_bennett_battle_skill1_02.wem"
         },
         "dd93f4fb1fec475e": {
             "hash": "dd93f4fb1fec475e",
@@ -1113,12 +1137,6 @@
             "directory": "External31",
             "voiceContent": "SFX",
             "sourceName": "vo_bennett_explore_jump_03.wem"
-        },
-        "fc199b3b787d5ecb": {
-            "hash": "fc199b3b787d5ecb",
-            "directory": "External31",
-            "voiceContent": "Whoa, lucky me! Haha... Oh wait! Does that mean I just used all of my good luck for today...",
-            "sourceName": "vo_bennett_spice_event_pref_01.wem"
         },
         "fd548b239bd77fe1": {
             "hash": "fd548b239bd77fe1",

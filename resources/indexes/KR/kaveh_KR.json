@@ -446,6 +446,12 @@
             "voiceContent": "내가 왜 물어봤을까…. 뭔 말을 못 하겠네",
             "sourceName": "vo_HSEQ003_18_kaveh_08.wem"
         },
+        "2517ba663c07aa5f": {
+            "hash": "2517ba663c07aa5f",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ002_15_kaveh_01.wem"
+        },
         "2939e203af1c6857": {
             "hash": "2939e203af1c6857",
             "directory": "External5",
@@ -457,6 +463,12 @@
             "directory": "External5",
             "voiceContent": "…한 치의 오차도",
             "sourceName": "vo_HSEQ002_7_kaveh_04.wem"
+        },
+        "3036948393b4a7d3": {
+            "hash": "3036948393b4a7d3",
+            "directory": "External6",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ002_kaveh_01.wem"
         },
         "305b5e6859286d3a": {
             "hash": "305b5e6859286d3a",
@@ -529,6 +541,12 @@
             "directory": "External9",
             "voiceContent": "그에 비해 여긴 수메르성이랑 거리가 있어서 그럴 확률이 훨씬 적",
             "sourceName": "vo_HSEQ002_11_kaveh_02.wem"
+        },
+        "54824be9770684fc": {
+            "hash": "54824be9770684fc",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ102_kaveh_15.wem"
         },
         "55d83df4d3d58047": {
             "hash": "55d83df4d3d58047",
@@ -643,6 +661,12 @@
             "directory": "External23",
             "voiceContent": "하긴… 뭐, 알았어. 그럼 마지막 폭발 부분이나 좀 봐",
             "sourceName": "vo_HSEQ002_7_kaveh_15.wem"
+        },
+        "c00065e095bfcf8d": {
+            "hash": "c00065e095bfcf8d",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_CNLQ102_kaveh_14.wem"
         },
         "c072b02fab2fbb09": {
             "hash": "c072b02fab2fbb09",
@@ -770,7 +794,13 @@
             "hash": "000c59c9e51789e5",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attacklight_02.wem"
+            "sourceName": "vo_kaveh_battle_attackLight_02.wem"
+        },
+        "01fe50be5a39e140": {
+            "hash": "01fe50be5a39e140",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_kaveh_02.wem"
         },
         "024fdd6b2b78568b": {
             "hash": "024fdd6b2b78568b",
@@ -782,7 +812,7 @@
             "hash": "02bc21f28cd3a03f",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attackheavy_03.wem"
+            "sourceName": "vo_kaveh_battle_attackHeavy_03.wem"
         },
         "06e7719a40f2bb69": {
             "hash": "06e7719a40f2bb69",
@@ -854,7 +884,7 @@
             "hash": "201b85b42883a0d7",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_hit_l_02.wem"
+            "sourceName": "vo_kaveh_battle_hit_L_02.wem"
         },
         "20ea991f1608c64c": {
             "hash": "20ea991f1608c64c",
@@ -914,7 +944,7 @@
             "hash": "334f8e14cf0fa368",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_hit_h_05.wem"
+            "sourceName": "vo_kaveh_battle_hit_H_05.wem"
         },
         "344ff248fd65536b": {
             "hash": "344ff248fd65536b",
@@ -928,6 +958,12 @@
             "voiceContent": "고민을 다 지우고 푹",
             "sourceName": "vo_kaveh_dialog_greetingNight2.wem"
         },
+        "39992d0182f8c2a0": {
+            "hash": "39992d0182f8c2a0",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kaveh_invite_easy_01.wem"
+        },
         "3b38adac51adf432": {
             "hash": "3b38adac51adf432",
             "directory": "External7",
@@ -940,11 +976,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kaveh_explore_jump_04.wem"
         },
+        "3fbfda1313457873": {
+            "hash": "3fbfda1313457873",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_explore_fly_end_02.wem"
+        },
         "41b79ff3a7062058": {
             "hash": "41b79ff3a7062058",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attacklight_07.wem"
+            "sourceName": "vo_kaveh_battle_attackLight_07.wem"
         },
         "47576aa90f610495": {
             "hash": "47576aa90f610495",
@@ -992,25 +1034,25 @@
             "hash": "52069fd0ecd78d14",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attacklight_03.wem"
+            "sourceName": "vo_kaveh_battle_attackLight_03.wem"
         },
         "54ecbff994c1c956": {
             "hash": "54ecbff994c1c956",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attackheavy_02.wem"
+            "sourceName": "vo_kaveh_battle_attackHeavy_02.wem"
         },
         "5696cbe29a3d2176": {
             "hash": "5696cbe29a3d2176",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attacklight_05.wem"
+            "sourceName": "vo_kaveh_battle_attackLight_05.wem"
         },
         "58dfe592a6b4f1c3": {
             "hash": "58dfe592a6b4f1c3",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_hit_l_06.wem"
+            "sourceName": "vo_kaveh_battle_hit_L_06.wem"
         },
         "59622b4b3afa9aed": {
             "hash": "59622b4b3afa9aed",
@@ -1034,7 +1076,7 @@
             "hash": "5d6fd1a4541a18fd",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_hit_l_04.wem"
+            "sourceName": "vo_kaveh_battle_hit_L_04.wem"
         },
         "5fdcd56760493e5a": {
             "hash": "5fdcd56760493e5a",
@@ -1094,7 +1136,7 @@
             "hash": "6b20e9e1a2ee0fd2",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_hit_h_03.wem"
+            "sourceName": "vo_kaveh_battle_hit_H_03.wem"
         },
         "6c4a0df34d6eb9a4": {
             "hash": "6c4a0df34d6eb9a4",
@@ -1120,6 +1162,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kaveh_explore_climb_03.wem"
         },
+        "7402a7d4e7509098": {
+            "hash": "7402a7d4e7509098",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kaveh_invite_hard_02.wem"
+        },
         "75e14bb21a5f22db": {
             "hash": "75e14bb21a5f22db",
             "directory": "External14",
@@ -1131,6 +1179,12 @@
             "directory": "External15",
             "voiceContent": "뭐",
             "sourceName": "vo_card_kaveh_inGame_easy_02.wem"
+        },
+        "80ad2c2b2b0d225c": {
+            "hash": "80ad2c2b2b0d225c",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_explore_fly_end_01.wem"
         },
         "8144a352540d3359": {
             "hash": "8144a352540d3359",
@@ -1154,7 +1208,13 @@
             "hash": "88faa80b503da7a9",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_hit_h_04.wem"
+            "sourceName": "vo_kaveh_battle_hit_H_04.wem"
+        },
+        "89c678f24992777e": {
+            "hash": "89c678f24992777e",
+            "directory": "External17",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kaveh_invite_easy_03.wem"
         },
         "8f79af4136875f53": {
             "hash": "8f79af4136875f53",
@@ -1190,7 +1250,7 @@
             "hash": "92c09fb85131e463",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attackmid_02.wem"
+            "sourceName": "vo_kaveh_battle_attackMid_02.wem"
         },
         "94099b52e3ec864d": {
             "hash": "94099b52e3ec864d",
@@ -1226,19 +1286,19 @@
             "hash": "9dd9dbfa4374b62f",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_hit_h_06.wem"
+            "sourceName": "vo_kaveh_battle_hit_H_06.wem"
         },
         "9e5e23bc6be375ce": {
             "hash": "9e5e23bc6be375ce",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_hit_l_03.wem"
+            "sourceName": "vo_kaveh_battle_hit_L_03.wem"
         },
         "9f8817ce16658170": {
             "hash": "9f8817ce16658170",
             "directory": "External19",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_hit_l_01.wem"
+            "sourceName": "vo_kaveh_battle_hit_L_01.wem"
         },
         "a3f5b2b5147d835c": {
             "hash": "a3f5b2b5147d835c",
@@ -1256,7 +1316,7 @@
             "hash": "a59a3bc1b654f2c2",
             "directory": "External20",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attacklight_01.wem"
+            "sourceName": "vo_kaveh_battle_attackLight_01.wem"
         },
         "a70de73e698ae462": {
             "hash": "a70de73e698ae462",
@@ -1274,7 +1334,7 @@
             "hash": "ac41add91b6ac6df",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attacklight_04.wem"
+            "sourceName": "vo_kaveh_battle_attackLight_04.wem"
         },
         "adc79e25f9bd332a": {
             "hash": "adc79e25f9bd332a",
@@ -1282,11 +1342,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kaveh_explore_climb_01.wem"
         },
+        "aea3bea5a7c9aca7": {
+            "hash": "aea3bea5a7c9aca7",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_kaveh_01.wem"
+        },
         "b272dff308a66573": {
             "hash": "b272dff308a66573",
             "directory": "External22",
             "voiceContent": "햇빛이 정말 따갑네. 밖에 말려둔 재료는 어떻게 됐으려나",
             "sourceName": "vo_kaveh_dialog_greetingNoon.wem"
+        },
+        "b2eb4a7935665d1f": {
+            "hash": "b2eb4a7935665d1f",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kaveh_leave_01.wem"
         },
         "b7ae151f721216af": {
             "hash": "b7ae151f721216af",
@@ -1318,6 +1390,18 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kaveh_explore_jump_05.wem"
         },
+        "be38a81b56d32e6a": {
+            "hash": "be38a81b56d32e6a",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_kaveh_explore_fly_end_03.wem"
+        },
+        "be66bdd9a059493d": {
+            "hash": "be66bdd9a059493d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kaveh_endOfGame_fail_01.wem"
+        },
         "be9452b8a3341160": {
             "hash": "be9452b8a3341160",
             "directory": "External23",
@@ -1334,13 +1418,13 @@
             "hash": "c374f9eb63a63dd9",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attacklight_06.wem"
+            "sourceName": "vo_kaveh_battle_attackLight_06.wem"
         },
         "c530ee02610e0eb9": {
             "hash": "c530ee02610e0eb9",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attackheavy_01.wem"
+            "sourceName": "vo_kaveh_battle_attackHeavy_01.wem"
         },
         "cde750f0b09d733a": {
             "hash": "cde750f0b09d733a",
@@ -1376,7 +1460,7 @@
             "hash": "d3aef1d068fb414c",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attackmid_01.wem"
+            "sourceName": "vo_kaveh_battle_attackMid_01.wem"
         },
         "d548de45f72e6b18": {
             "hash": "d548de45f72e6b18",
@@ -1396,11 +1480,23 @@
             "voiceContent": "작은 쿠사나리 화신은 참으로 현명한 신이야. 지혜로운 데다 성품까지 따라올 자가 없을 정도로 훌륭하지. 수메르 같은 학술의 나라에서 타인을 이해하고 포용하는 태도를 유지할 수 있다니 정말 존경스럽다니까.그런데 가끔 이런 생각이 들어. 신에겐 정말로 고민이 없는 걸까? 지혜는 늘 고민과 함께 생겨나는데, 어떻게 해야 진정한 행복을 얻을 수 있을까",
             "sourceName": "vo_kaveh_teammate_nahida_01.wem"
         },
+        "ddf1dbaae1eee99b": {
+            "hash": "ddf1dbaae1eee99b",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kaveh_endOfGame_win_01.wem"
+        },
         "de509693ce1a81e0": {
             "hash": "de509693ce1a81e0",
             "directory": "External27",
             "voiceContent": "SFX",
             "sourceName": "vo_kaveh_explore_sprint_start_01.wem"
+        },
+        "de8db5ba5bb6ea1f": {
+            "hash": "de8db5ba5bb6ea1f",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kaveh_invite_hard_01.wem"
         },
         "df213c2cef954ead": {
             "hash": "df213c2cef954ead",
@@ -1408,17 +1504,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_kaveh_explore_climb_02.wem"
         },
+        "e0297391a18cb3e2": {
+            "hash": "e0297391a18cb3e2",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kaveh_freetalk_01.wem"
+        },
         "e1c1206f0c85d206": {
             "hash": "e1c1206f0c85d206",
             "directory": "External28",
             "voiceContent": "진짜 귀찮네",
             "sourceName": "vo_kaveh_life_less30_01.wem"
         },
+        "e2d89ae8cda56507": {
+            "hash": "e2d89ae8cda56507",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kaveh_invite_easy_02.wem"
+        },
         "e527edbf594ec71a": {
             "hash": "e527edbf594ec71a",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_attackmid_03.wem"
+            "sourceName": "vo_kaveh_battle_attackMid_03.wem"
         },
         "e7a551bb8830fb84": {
             "hash": "e7a551bb8830fb84",
@@ -1442,7 +1550,7 @@
             "hash": "ee8bb7ad327da42c",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_kaveh_battle_hit_l_05.wem"
+            "sourceName": "vo_kaveh_battle_hit_L_05.wem"
         },
         "f13efd460b7bbeb9": {
             "hash": "f13efd460b7bbeb9",
@@ -1455,6 +1563,12 @@
             "directory": "External30",
             "voiceContent": "응? 갑자기 웬 비? 우산을 안 챙겼네",
             "sourceName": "vo_kaveh_weather_heavyRain_01.wem"
+        },
+        "f5c001cca3f0ae19": {
+            "hash": "f5c001cca3f0ae19",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_kaveh_invite_hard_03.wem"
         },
         "f6392fe752ed8813": {
             "hash": "f6392fe752ed8813",

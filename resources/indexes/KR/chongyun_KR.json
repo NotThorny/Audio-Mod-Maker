@@ -302,6 +302,12 @@
         }
     },
     "Quests": {
+        "049f9c7ff0381916": {
+            "hash": "049f9c7ff0381916",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_3_chongyun_02a_3.wem"
+        },
         "0de84360ad4c47d8": {
             "hash": "0de84360ad4c47d8",
             "directory": "External1",
@@ -350,6 +356,12 @@
             "voiceContent": "얼음 과자를 만들 재료는 다 찾았어",
             "sourceName": "vo_CYCOP001_1902408_chongyun_01.wem"
         },
+        "5833f070b9b6b734": {
+            "hash": "5833f070b9b6b734",
+            "directory": "External11",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_3_chongyun_02a_5.wem"
+        },
         "6f4306e7d9fd2df6": {
             "hash": "6f4306e7d9fd2df6",
             "directory": "External13",
@@ -373,6 +385,24 @@
             "directory": "External19",
             "voiceContent": "확실히 그것도 일리 있는 말이",
             "sourceName": "vo_EQHDJ404_2_chongyun_02.wem"
+        },
+        "b17c2a673df75d85": {
+            "hash": "b17c2a673df75d85",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_3_chongyun_02a_4.wem"
+        },
+        "b26efe78e849f0ff": {
+            "hash": "b26efe78e849f0ff",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_3_chongyun_02a_2.wem"
+        },
+        "b33166ea6bf4682a": {
+            "hash": "b33166ea6bf4682a",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_3_chongyun_01.wem"
         },
         "ba8acf6fe3fcb58a": {
             "hash": "ba8acf6fe3fcb58a",
@@ -404,17 +434,35 @@
             "voiceContent": "해피 해등",
             "sourceName": "vo_EQHDJ401_13_chongyun_01.wem"
         },
+        "dbeec19610e318eb": {
+            "hash": "dbeec19610e318eb",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_3_chongyun_02b_1.wem"
+        },
         "e057a6c08fb6eb4d": {
             "hash": "e057a6c08fb6eb4d",
             "directory": "External28",
             "voiceContent": "네가 그렇게까지 말한다면, 좋",
             "sourceName": "vo_CYCOP001_1903001_chongyun_13.wem"
         },
+        "e80c344ac3bc17ad": {
+            "hash": "e80c344ac3bc17ad",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_EQHDJ005_chongyun_01.wem"
+        },
         "eacf0b57494b4608": {
             "hash": "eacf0b57494b4608",
             "directory": "External29",
             "voiceContent": "음, 우리한테 라이트 노벨에 나오는 그런 안경이라도 있으면, 그걸로 모두의 전투력을 확인할 수 있을 텐데 말이",
             "sourceName": "vo_EQHDJ404_2_chongyun_03.wem"
+        },
+        "f3267090ffe441f8": {
+            "hash": "f3267090ffe441f8",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_EQHDJ005_3_chongyun_02a_1.wem"
         },
         "fc34022a691551b7": {
             "hash": "fc34022a691551b7",
@@ -424,6 +472,12 @@
         }
     },
     "Gameplay": {
+        "0088130dd39a2ee3": {
+            "hash": "0088130dd39a2ee3",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_03.wem"
+        },
         "03c97328961a9359": {
             "hash": "03c97328961a9359",
             "directory": "External0",
@@ -470,7 +524,7 @@
             "hash": "0d6b4a2face6a710",
             "directory": "External1",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attacklight_05.wem"
+            "sourceName": "vo_chongyun_battle_attackLight_05.wem"
         },
         "0e4bebb2b37b11ba": {
             "hash": "0e4bebb2b37b11ba",
@@ -496,11 +550,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_chongyun_explore_jump_01.wem"
         },
+        "141bc509a8e8951c": {
+            "hash": "141bc509a8e8951c",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_13.wem"
+        },
         "15efb7493e1e46c5": {
             "hash": "15efb7493e1e46c5",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attackmid_02.wem"
+            "sourceName": "vo_chongyun_battle_attackMid_02.wem"
         },
         "1781383b159f114e": {
             "hash": "1781383b159f114e",
@@ -524,7 +584,7 @@
             "hash": "1b8197f6b13720e3",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attacklight_02.wem"
+            "sourceName": "vo_chongyun_battle_attackLight_02.wem"
         },
         "1b98ddfb8b743f17": {
             "hash": "1b98ddfb8b743f17",
@@ -554,13 +614,19 @@
             "hash": "2073c28ffd96234b",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attackheavy_01.wem"
+            "sourceName": "vo_chongyun_battle_attackHeavy_01.wem"
         },
         "219ceea1a816daa5": {
             "hash": "219ceea1a816daa5",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attackheavy_03.wem"
+            "sourceName": "vo_chongyun_battle_attackHeavy_03.wem"
+        },
+        "22a0dd960de95e6d": {
+            "hash": "22a0dd960de95e6d",
+            "directory": "External4",
+            "voiceContent": "SFX",
+            "sourceName": "sfx_standbyShow_vo_chongyun_01.wem"
         },
         "240e1115fc6cd248": {
             "hash": "240e1115fc6cd248",
@@ -592,11 +658,11 @@
             "voiceContent": "열정만 있고 실력은 없다면 일을 그르칠 뿐이야. 이 점은 내가 잘 알지. 아, 내 경험이란 건 아니야. 어…리월에서 몇 년 동안 세상만사를 보면서 얻은 깨달음이랄까",
             "sourceName": "vo_chongyun_friendship_01.wem"
         },
-        "2996cc9ad72880f9": {
-            "hash": "2996cc9ad72880f9",
+        "2a234186447e959d": {
+            "hash": "2a234186447e959d",
             "directory": "External5",
-            "voiceContent": "이런! 설마 이 맛은… 절운 고추",
-            "sourceName": "vo_chongyun_spice_event_dislike_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_02a.wem"
         },
         "2a2d389ed21107d1": {
             "hash": "2a2d389ed21107d1",
@@ -634,6 +700,12 @@
             "voiceContent": "매일 수행이 끝나고 이나즈마에서 온 신선하고 차가운 음식을 먹을 수 있다면 정말 좋을 텐데. 차갑고 상쾌한 식감은 내 모든 피로를 날려",
             "sourceName": "vo_chongyun_pref_foodLike.wem"
         },
+        "42a0513795e589ee": {
+            "hash": "42a0513795e589ee",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_06.wem"
+        },
         "4ba71c56a6f66374": {
             "hash": "4ba71c56a6f66374",
             "directory": "External9",
@@ -646,17 +718,17 @@
             "voiceContent": "SFX",
             "sourceName": "vo_chongyun_explore_fly_start_03.wem"
         },
-        "4c1c5760279f8cdd": {
-            "hash": "4c1c5760279f8cdd",
+        "4bdcf1ef96c3193f": {
+            "hash": "4bdcf1ef96c3193f",
             "directory": "External9",
-            "voiceContent": "식감이 시원한 게 내 스타일이야! 조금 아껴뒀다가 수련이 끝나면 또 먹어야겠",
-            "sourceName": "vo_chongyun_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_chongyun_explore_sprint_end_01.wem"
         },
         "4c6c0c4dc939575b": {
             "hash": "4c6c0c4dc939575b",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_h_04.wem"
+            "sourceName": "vo_chongyun_battle_hit_H_04.wem"
         },
         "4fa1e2b5446abfbc": {
             "hash": "4fa1e2b5446abfbc",
@@ -674,13 +746,19 @@
             "hash": "50faf85f769ccb75",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_h_06.wem"
+            "sourceName": "vo_chongyun_battle_hit_H_06.wem"
         },
         "518e3243e96a47bd": {
             "hash": "518e3243e96a47bd",
             "directory": "External10",
             "voiceContent": "너… 너무 기뻐하진 마",
             "sourceName": "vo_card_chongyun_inGame_hard_03.wem"
+        },
+        "51a640f9d4acee2a": {
+            "hash": "51a640f9d4acee2a",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_11.wem"
         },
         "5539b48519e97e4e": {
             "hash": "5539b48519e97e4e",
@@ -716,7 +794,7 @@
             "hash": "5c6fea0ec9007dcc",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attacklight_01.wem"
+            "sourceName": "vo_chongyun_battle_attackLight_01.wem"
         },
         "5d5fd9f8302e2fcb": {
             "hash": "5d5fd9f8302e2fcb",
@@ -728,7 +806,7 @@
             "hash": "5d99d62073827bee",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attacklight_07.wem"
+            "sourceName": "vo_chongyun_battle_attackLight_07.wem"
         },
         "5e0330fac3d433dd": {
             "hash": "5e0330fac3d433dd",
@@ -747,6 +825,12 @@
             "directory": "External12",
             "voiceContent": "SFX",
             "sourceName": "vo_chongyun_explore_jump_03.wem"
+        },
+        "64a18edbe3180d75": {
+            "hash": "64a18edbe3180d75",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_09.wem"
         },
         "65c699592e3e5def": {
             "hash": "65c699592e3e5def",
@@ -788,13 +872,19 @@
             "hash": "6de8e5fdb954039a",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attacklight_03.wem"
+            "sourceName": "vo_chongyun_battle_attackLight_03.wem"
         },
         "725dac43ab24d4be": {
             "hash": "725dac43ab24d4be",
             "directory": "External14",
             "voiceContent": "SFX",
             "sourceName": "vo_chongyun_explore_climb_03.wem"
+        },
+        "742f1f3e8be9d291": {
+            "hash": "742f1f3e8be9d291",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_05.wem"
         },
         "745204ae52617429": {
             "hash": "745204ae52617429",
@@ -812,7 +902,7 @@
             "hash": "76fe34a8b2bbbad4",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attackheavy_02.wem"
+            "sourceName": "vo_chongyun_battle_attackHeavy_02.wem"
         },
         "78a938163320ea1d": {
             "hash": "78a938163320ea1d",
@@ -862,6 +952,12 @@
             "voiceContent": "같이 고생한 보람이 있네",
             "sourceName": "vo_chongyun_chest_open_02.wem"
         },
+        "82ffdf00ca8509ad": {
+            "hash": "82ffdf00ca8509ad",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_12.wem"
+        },
         "8356aad99f855908": {
             "hash": "8356aad99f855908",
             "directory": "External16",
@@ -886,17 +982,11 @@
             "voiceContent": "수소문해서 요괴가 나온다는 낡은 절 한 곳을 정말 어렵게 찾았는데, 나흘을 기다려도 요괴의 그림자조차 안 보였어. 어휴… 괜찮아, 자주 있는 일이",
             "sourceName": "vo_chongyun_dialog_annoyed.wem"
         },
-        "8b867cf83e7525a3": {
-            "hash": "8b867cf83e7525a3",
-            "directory": "External17",
-            "voiceContent": "미안, 네가 정성 들여 만들어줬는데 식혀 먹을 수밖에 없어서",
-            "sourceName": "vo_chongyun_spice_event_normal_01.wem"
-        },
         "8d174af6a517bc5c": {
             "hash": "8d174af6a517bc5c",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_l_03.wem"
+            "sourceName": "vo_chongyun_battle_hit_L_03.wem"
         },
         "8e361d3d77088fbf": {
             "hash": "8e361d3d77088fbf",
@@ -908,13 +998,13 @@
             "hash": "8e4137084f99ba7e",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_l_05.wem"
+            "sourceName": "vo_chongyun_battle_hit_L_05.wem"
         },
         "8f28a4276986c491": {
             "hash": "8f28a4276986c491",
             "directory": "External17",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attacklight_04.wem"
+            "sourceName": "vo_chongyun_battle_attackLight_04.wem"
         },
         "927b845c0131f18e": {
             "hash": "927b845c0131f18e",
@@ -926,7 +1016,7 @@
             "hash": "92a63e89388b61a8",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_h_03.wem"
+            "sourceName": "vo_chongyun_battle_hit_H_03.wem"
         },
         "993e9a32d23f3c57": {
             "hash": "993e9a32d23f3c57",
@@ -994,6 +1084,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_chongyun_explore_climb_breath_02.wem"
         },
+        "b05a7f1d0cffff9d": {
+            "hash": "b05a7f1d0cffff9d",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_01.wem"
+        },
         "b3ea4c10e553c754": {
             "hash": "b3ea4c10e553c754",
             "directory": "External22",
@@ -1016,7 +1112,7 @@
             "hash": "bb7e99410f5d62a2",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attackmid_01.wem"
+            "sourceName": "vo_chongyun_battle_attackMid_01.wem"
         },
         "bbe62c95937725b0": {
             "hash": "bbe62c95937725b0",
@@ -1028,7 +1124,7 @@
             "hash": "bca77d52b9dda074",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attackmid_03.wem"
+            "sourceName": "vo_chongyun_battle_attackMid_03.wem"
         },
         "be85fcac6607344d": {
             "hash": "be85fcac6607344d",
@@ -1042,6 +1138,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_chongyun_explore_fly_start_02.wem"
         },
+        "c7c3b32f5568ddf7": {
+            "hash": "c7c3b32f5568ddf7",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_07.wem"
+        },
         "c808ce3a2c52e747": {
             "hash": "c808ce3a2c52e747",
             "directory": "External25",
@@ -1052,19 +1154,25 @@
             "hash": "ca779a560c69ce12",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_h_05.wem"
+            "sourceName": "vo_chongyun_battle_hit_H_05.wem"
         },
         "caa2c6e6d0ddc86a": {
             "hash": "caa2c6e6d0ddc86a",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_l_01.wem"
+            "sourceName": "vo_chongyun_battle_hit_L_01.wem"
         },
         "cb878f558bbfb7b8": {
             "hash": "cb878f558bbfb7b8",
             "directory": "External25",
             "voiceContent": "조금만 버텨",
             "sourceName": "vo_chongyun_life_less30_teammate_02.wem"
+        },
+        "ccb8237e1335a79a": {
+            "hash": "ccb8237e1335a79a",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_02b.wem"
         },
         "cdf7f13bd8ac5ac2": {
             "hash": "cdf7f13bd8ac5ac2",
@@ -1083,6 +1191,12 @@
             "directory": "External26",
             "voiceContent": "보인환검",
             "sourceName": "vo_chongyun_battle_skill3_02.wem"
+        },
+        "d69372f194026133": {
+            "hash": "d69372f194026133",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_10.wem"
         },
         "d821028e810ba771": {
             "hash": "d821028e810ba771",
@@ -1108,11 +1222,17 @@
             "voiceContent": "오늘은 네 생일이니까 이 얼음 결정으로 만든 꽃을 줄게. 내가 직접 조각해서 만든 거야. 요마를 만나면 이 얼음꽃을 던져봐. 그럼 내가 봉인한 주술의 효력이 자동으로 나타날 거야. 그리고, 생일 축하",
             "sourceName": "vo_chongyun_pref_birthday.wem"
         },
+        "e2ae54e4264a96e4": {
+            "hash": "e2ae54e4264a96e4",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_08.wem"
+        },
         "e2bd38183305cff7": {
             "hash": "e2bd38183305cff7",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_attacklight_06.wem"
+            "sourceName": "vo_chongyun_battle_attackLight_06.wem"
         },
         "e355defde4d13a8f": {
             "hash": "e355defde4d13a8f",
@@ -1136,7 +1256,7 @@
             "hash": "e75358fed3aca807",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_l_04.wem"
+            "sourceName": "vo_chongyun_battle_hit_L_04.wem"
         },
         "e8067959fe422d97": {
             "hash": "e8067959fe422d97",
@@ -1148,7 +1268,7 @@
             "hash": "e87c45107e2cf321",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_l_06.wem"
+            "sourceName": "vo_chongyun_battle_hit_L_06.wem"
         },
         "eb46f496ab0092e9": {
             "hash": "eb46f496ab0092e9",
@@ -1160,7 +1280,7 @@
             "hash": "ebb8587fbc9e42e9",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_h_02.wem"
+            "sourceName": "vo_chongyun_battle_hit_H_02.wem"
         },
         "ebd2af6585fda5d9": {
             "hash": "ebd2af6585fda5d9",
@@ -1186,11 +1306,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_chongyun_explore_sprint_start_03.wem"
         },
+        "f271c546cf49b510": {
+            "hash": "f271c546cf49b510",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_11_chongyun_04.wem"
+        },
         "f2b4a4b70c795139": {
             "hash": "f2b4a4b70c795139",
             "directory": "External30",
             "voiceContent": "이런! 설마 이 맛은… 절운 고추",
             "sourceName": "vo_chongyun_spice_dislike_01.wem"
+        },
+        "f4ae3f8f1af61eea": {
+            "hash": "f4ae3f8f1af61eea",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "sfx_standbyShow_vo_chongyun_02.wem"
         },
         "f883aa3df4b5a7eb": {
             "hash": "f883aa3df4b5a7eb",
@@ -1202,7 +1334,7 @@
             "hash": "f89564edc3d107ed",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_chongyun_battle_hit_l_02.wem"
+            "sourceName": "vo_chongyun_battle_hit_L_02.wem"
         },
         "fd7d4173cb9dbd36": {
             "hash": "fd7d4173cb9dbd36",

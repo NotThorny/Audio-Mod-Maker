@@ -392,6 +392,12 @@
             "voiceContent": "あらあら、どちら様かと思えば、私の大事な、大事なお客さんじゃありませんの？んん？そちらは…アアル村のガーディアン、キャンディスさんですね？オホホ、これはまたまたステキなお客さんですこと",
             "sourceName": "vo_HSEQ001_5_dori_03.wem"
         },
+        "a63ddb3ad4d88147": {
+            "hash": "a63ddb3ad4d88147",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_HSEQ001_dori_01.wem"
+        },
         "a992f7427544b785": {
             "hash": "a992f7427544b785",
             "directory": "External21",
@@ -403,6 +409,12 @@
             "directory": "External21",
             "voiceContent": "えっ…",
             "sourceName": "vo_HSEQ001_5_dori_15.wem"
+        },
+        "ad86c18c9e864fa7": {
+            "hash": "ad86c18c9e864fa7",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_HSEQ001_6_dori_01.wem"
         },
         "bbc818da1618211d": {
             "hash": "bbc818da1618211d",
@@ -478,23 +490,29 @@
             "voiceContent": "えっと…次はど、どどのカードを出せば、どのカードを出せばいいんでしたっけ",
             "sourceName": "vo_card_dori_inGame_hard_03.wem"
         },
-        "010be6f450b326d3": {
-            "hash": "010be6f450b326d3",
+        "012e32d41d77cdae": {
+            "hash": "012e32d41d77cdae",
             "directory": "External0",
-            "voiceContent": "ほほう、私の子分は料理がお上手ですのね。料理を注文してもいいかしら",
-            "sourceName": "vo_dori_spice_event_normal_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_hard_03.wem"
         },
         "02bda7fbf23f8e16": {
             "hash": "02bda7fbf23f8e16",
             "directory": "External0",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_02.wem"
+            "sourceName": "vo_dori_battle_attackLight_02.wem"
         },
         "07e0d7a673fdf58a": {
             "hash": "07e0d7a673fdf58a",
             "directory": "External0",
             "voiceContent": "岩王帝君がご逝去されるまで、朝起きるたびにまず「富の神よ、ドリーが毎日儲かりますように」と唱えていましたの。でも今は神様に祈るより、自力で願いを実現させたほうがいいと思っていますわ。ですので、それ以降は自分自身に向けて「毎日儲かりますように」と唱えていますの",
             "sourceName": "vo_dori_teammate_morax_01.wem"
+        },
+        "0d193a797e0d3aa4": {
+            "hash": "0d193a797e0d3aa4",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_endOfGame_fail_01.wem"
         },
         "0d46f678d2cce22c": {
             "hash": "0d46f678d2cce22c",
@@ -548,7 +566,7 @@
             "hash": "1decbf32434f4145",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_03.wem"
+            "sourceName": "vo_dori_battle_hit_L_03.wem"
         },
         "1e4017e42ec9e821": {
             "hash": "1e4017e42ec9e821",
@@ -578,7 +596,7 @@
             "hash": "22469343f086afbf",
             "directory": "External4",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_05.wem"
+            "sourceName": "vo_dori_battle_hit_L_05.wem"
         },
         "25d152e654855988": {
             "hash": "25d152e654855988",
@@ -608,13 +626,13 @@
             "hash": "37baa0ad5c15cdbb",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_05.wem"
+            "sourceName": "vo_dori_battle_hit_H_05.wem"
         },
         "3a7cbded2ea8b11c": {
             "hash": "3a7cbded2ea8b11c",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackmid_02.wem"
+            "sourceName": "vo_dori_battle_attackMid_02.wem"
         },
         "3f6088109087f67e": {
             "hash": "3f6088109087f67e",
@@ -626,13 +644,19 @@
             "hash": "3fe299c2bddf8a61",
             "directory": "External7",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackheavy_02.wem"
+            "sourceName": "vo_dori_battle_attackHeavy_02.wem"
         },
         "402e480db8fcfaaa": {
             "hash": "402e480db8fcfaaa",
             "directory": "External8",
             "voiceContent": "ダンスはお上手ですが、スメールに留まっていては彼女の真価を発揮できないと思いますわ…つまり、才能の持ち腐れってやつですの。想像してみてください。彼女を連れてテイワットでツアーを行ったら、一体どれほどのモラが稼げると思います",
             "sourceName": "vo_dori_teammate_nilou_01.wem"
+        },
+        "40b81f7470084d40": {
+            "hash": "40b81f7470084d40",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_easy_02.wem"
         },
         "41dda8508be097b5": {
             "hash": "41dda8508be097b5",
@@ -734,13 +758,13 @@
             "hash": "552817db113c3c62",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_06.wem"
+            "sourceName": "vo_dori_battle_attackLight_06.wem"
         },
         "5651fbecbbbe2c34": {
             "hash": "5651fbecbbbe2c34",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_04.wem"
+            "sourceName": "vo_dori_battle_attackLight_04.wem"
         },
         "570419f13a0fa671": {
             "hash": "570419f13a0fa671",
@@ -764,13 +788,13 @@
             "hash": "5f98055c053dd7b8",
             "directory": "External11",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_06.wem"
+            "sourceName": "vo_dori_battle_hit_L_06.wem"
         },
         "6232d2c4d5c94cc4": {
             "hash": "6232d2c4d5c94cc4",
             "directory": "External12",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_06.wem"
+            "sourceName": "vo_dori_battle_hit_H_06.wem"
         },
         "63b1199bf6a49cf6": {
             "hash": "63b1199bf6a49cf6",
@@ -808,6 +832,12 @@
             "voiceContent": "時折、キャラバンを守るために彼女を雇いますの。彼女の実力は申し分なく、価格も高くありません。コストパフォーマンスが最高なんですの",
             "sourceName": "vo_dori_teammate_dehya_01.wem"
         },
+        "6a66430a25c77aa3": {
+            "hash": "6a66430a25c77aa3",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_dori_02.wem"
+        },
         "6add10cce49c5857": {
             "hash": "6add10cce49c5857",
             "directory": "External13",
@@ -838,12 +868,6 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dori_explore_climb_05.wem"
         },
-        "70bd67b1c08c8949": {
-            "hash": "70bd67b1c08c8949",
-            "directory": "External14",
-            "voiceContent": "こんなものを食べさせるなんて…まったく、慰謝料を払ってもらいますの",
-            "sourceName": "vo_dori_spice_event_dislike_01.wem"
-        },
         "71035c87755f47c4": {
             "hash": "71035c87755f47c4",
             "directory": "External14",
@@ -866,7 +890,7 @@
             "hash": "7301d604be8bd479",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_01.wem"
+            "sourceName": "vo_dori_battle_attackLight_01.wem"
         },
         "732195fac679bbcf": {
             "hash": "732195fac679bbcf",
@@ -878,7 +902,7 @@
             "hash": "7477314af874d8d6",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_l_04.wem"
+            "sourceName": "vo_dori_battle_hit_L_04.wem"
         },
         "779b245e47042fc3": {
             "hash": "779b245e47042fc3",
@@ -915,6 +939,18 @@
             "directory": "External16",
             "voiceContent": "少し腕が立つようですが…えーと、私の予想を…超えては、超えてはいませんのよ",
             "sourceName": "vo_card_dori_inGame_hard_02.wem"
+        },
+        "8236bf6de5fd6638": {
+            "hash": "8236bf6de5fd6638",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_endOfGame_win_01.wem"
+        },
+        "82eb94cbda17f8b7": {
+            "hash": "82eb94cbda17f8b7",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_hard_02.wem"
         },
         "84e58bc42eb64109": {
             "hash": "84e58bc42eb64109",
@@ -962,7 +998,13 @@
             "hash": "92133fc9c5cdc0e0",
             "directory": "External18",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackheavy_03.wem"
+            "sourceName": "vo_dori_battle_attackHeavy_03.wem"
+        },
+        "99c9f96af41ac141": {
+            "hash": "99c9f96af41ac141",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_easy_03.wem"
         },
         "9a5e3708132cd814": {
             "hash": "9a5e3708132cd814",
@@ -994,17 +1036,29 @@
             "voiceContent": "腕の見せ所ですの",
             "sourceName": "vo_dori_battle_skill3_02.wem"
         },
+        "a7ed95223aabfb8c": {
+            "hash": "a7ed95223aabfb8c",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_dori_01.wem"
+        },
         "a960d7e4504525ad": {
             "hash": "a960d7e4504525ad",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackmid_03.wem"
+            "sourceName": "vo_dori_battle_attackMid_03.wem"
+        },
+        "ad9aa6e353fa83d0": {
+            "hash": "ad9aa6e353fa83d0",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_hard_01.wem"
         },
         "af9a35e33ffed285": {
             "hash": "af9a35e33ffed285",
             "directory": "External21",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_05.wem"
+            "sourceName": "vo_dori_battle_attackLight_05.wem"
         },
         "afa3e2bfc5f3dc08": {
             "hash": "afa3e2bfc5f3dc08",
@@ -1016,13 +1070,19 @@
             "hash": "b08d09f4ea5165ff",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_03.wem"
+            "sourceName": "vo_dori_battle_attackLight_03.wem"
+        },
+        "b19490f9986db640": {
+            "hash": "b19490f9986db640",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_leave_01.wem"
         },
         "b2612eb59c64cf72": {
             "hash": "b2612eb59c64cf72",
             "directory": "External22",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_04.wem"
+            "sourceName": "vo_dori_battle_hit_H_04.wem"
         },
         "b9f683d4ca289ced": {
             "hash": "b9f683d4ca289ced",
@@ -1130,7 +1190,7 @@
             "hash": "d3a0ecdf4c979049",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_hit_h_03.wem"
+            "sourceName": "vo_dori_battle_hit_H_03.wem"
         },
         "d793a0124ef1efeb": {
             "hash": "d793a0124ef1efeb",
@@ -1160,7 +1220,7 @@
             "hash": "e5a78bba8f4c50be",
             "directory": "External28",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackheavy_01.wem"
+            "sourceName": "vo_dori_battle_attackHeavy_01.wem"
         },
         "e611d995c8be7509": {
             "hash": "e611d995c8be7509",
@@ -1179,6 +1239,12 @@
             "directory": "External29",
             "voiceContent": "多ければ多いほど幸せ、幸せですの",
             "sourceName": "vo_dori_starUp_02.wem"
+        },
+        "ed5d8d5bbd9818a7": {
+            "hash": "ed5d8d5bbd9818a7",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_invite_easy_01.wem"
         },
         "edf1d2f8dcaa3dc2": {
             "hash": "edf1d2f8dcaa3dc2",
@@ -1204,11 +1270,11 @@
             "voiceContent": "SFX",
             "sourceName": "vo_dori_explore_fly_start_03.wem"
         },
-        "f73c5201857fa26d": {
-            "hash": "f73c5201857fa26d",
+        "f6232b46f832b043": {
+            "hash": "f6232b46f832b043",
             "directory": "External30",
-            "voiceContent": "ん～最高、最高ですの。あなたも一緒に行商をしませんか？私の専属シェフになりません",
-            "sourceName": "vo_dori_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_dori_freetalk_01.wem"
         },
         "f9ce0de641a00468": {
             "hash": "f9ce0de641a00468",
@@ -1220,7 +1286,7 @@
             "hash": "fcf46bd519c27d33",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attackmid_01.wem"
+            "sourceName": "vo_dori_battle_attackMid_01.wem"
         },
         "fe02cda4378d1bbb": {
             "hash": "fe02cda4378d1bbb",
@@ -1232,7 +1298,7 @@
             "hash": "ffc789d4069894ab",
             "directory": "External31",
             "voiceContent": "SFX",
-            "sourceName": "vo_dori_battle_attacklight_07.wem"
+            "sourceName": "vo_dori_battle_attackLight_07.wem"
         }
     }
 }

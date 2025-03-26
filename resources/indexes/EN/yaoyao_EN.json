@@ -334,6 +334,12 @@
         }
     },
     "Gameplay": {
+        "00a05383fb5d9083": {
+            "hash": "00a05383fb5d9083",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_03a.wem"
+        },
         "01446921a13e20cc": {
             "hash": "01446921a13e20cc",
             "directory": "External0",
@@ -346,6 +352,12 @@
             "voiceContent": "You know the docks in Liyue Harbor? There's always loads of people talking, shouting, laughing, it's great! Totally different from back home. It's so quiet there, you can hear the leaves falling on the grass. That's why I go to the docks whenever I'm free — you know, to see the new ships, new sights... and new toys",
             "sourceName": "vo_yaoyao_dialog_idle.wem"
         },
+        "0279f7aa66eb06f5": {
+            "hash": "0279f7aa66eb06f5",
+            "directory": "External0",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_11.wem"
+        },
         "03595f62fc455dfb": {
             "hash": "03595f62fc455dfb",
             "directory": "External0",
@@ -357,6 +369,12 @@
             "directory": "External1",
             "voiceContent": "SFX",
             "sourceName": "vo_yaoyao_explore_jump_04.wem"
+        },
+        "0a8ead2a4f59e3a9": {
+            "hash": "0a8ead2a4f59e3a9",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_08.wem"
         },
         "0d5ea8d1a1ffb70c": {
             "hash": "0d5ea8d1a1ffb70c",
@@ -375,6 +393,12 @@
             "directory": "External1",
             "voiceContent": "The game's only starting, don't worry",
             "sourceName": "vo_card_yaoyao_inGame_easy_01.wem"
+        },
+        "0f1ed13bfcbf69a3": {
+            "hash": "0f1ed13bfcbf69a3",
+            "directory": "External1",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_06.wem"
         },
         "11ee94e34f64de2e": {
             "hash": "11ee94e34f64de2e",
@@ -400,17 +424,23 @@
             "voiceContent": "Hey, can you hear the frogs croaking? Hehe, silly frogs! They're singing along to the sound of the rain! Ribbit, ribbit, ribbit",
             "sourceName": "vo_yaoyao_weather_heavyRain_01.wem"
         },
+        "176b0e977ea1db12": {
+            "hash": "176b0e977ea1db12",
+            "directory": "External2",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_10.wem"
+        },
         "17c46861abaefe42": {
             "hash": "17c46861abaefe42",
             "directory": "External2",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_hit_h_06.wem"
+            "sourceName": "vo_yaoyao_battle_hit_H_06.wem"
         },
         "19189224c1a84b6e": {
             "hash": "19189224c1a84b6e",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_hit_l_06.wem"
+            "sourceName": "vo_yaoyao_battle_hit_L_06.wem"
         },
         "192dfec5ffe8b180": {
             "hash": "192dfec5ffe8b180",
@@ -418,11 +448,17 @@
             "voiceContent": "There's always a chance things will turn around..",
             "sourceName": "vo_card_yaoyao_inGame_hard_03.wem"
         },
+        "1bfb32a92c0761e4": {
+            "hash": "1bfb32a92c0761e4",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_12.wem"
+        },
         "1de4a5caabd7bbd1": {
             "hash": "1de4a5caabd7bbd1",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attackmid_01.wem"
+            "sourceName": "vo_yaoyao_battle_attackMid_01.wem"
         },
         "1e615b9bc14170d5": {
             "hash": "1e615b9bc14170d5",
@@ -434,7 +470,13 @@
             "hash": "1e6bda7910c4d25f",
             "directory": "External3",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_hit_h_03.wem"
+            "sourceName": "vo_yaoyao_battle_hit_H_03.wem"
+        },
+        "1feecdcd1f3b23bd": {
+            "hash": "1feecdcd1f3b23bd",
+            "directory": "External3",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yaoyao_freetalk_01.wem"
         },
         "20ddaba8e048ead1": {
             "hash": "20ddaba8e048ead1",
@@ -454,11 +496,29 @@
             "voiceContent": "Ouch",
             "sourceName": "vo_yaoyao_battle_hit_L_02.wem"
         },
+        "2a2af31288e476e2": {
+            "hash": "2a2af31288e476e2",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yaoyao_invite_hard_01.wem"
+        },
+        "2b54d724336666b4": {
+            "hash": "2b54d724336666b4",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yaoyao_invite_hard_03.wem"
+        },
         "2c91dbee7a1bde72": {
             "hash": "2c91dbee7a1bde72",
             "directory": "External5",
             "voiceContent": "This is amazing! It tastes just like Xiangling's cooking. It's like they say The apple didn't fall far from the tree, mmm... Wait, no, two peas in a pod! You two are like two peas in a pod. Hehe, I'm always mincing up my words when I get too excited",
             "sourceName": "vo_yaoyao_spice_pref_01.wem"
+        },
+        "2cf329c1e0a03806": {
+            "hash": "2cf329c1e0a03806",
+            "directory": "External5",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_16.wem"
         },
         "31c37932fe4328ef": {
             "hash": "31c37932fe4328ef",
@@ -476,25 +536,25 @@
             "hash": "359f268b59004959",
             "directory": "External6",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_hit_h_01.wem"
+            "sourceName": "vo_yaoyao_battle_hit_H_01.wem"
         },
-        "37842c3a948d13fd": {
-            "hash": "37842c3a948d13fd",
-            "directory": "External6",
-            "voiceContent": "...Uh, do you always eat this kind of stuff? Maybe you should let me cook for you instead! If you're not eating well and you're still going out adventuring every day, one of these days you're gonna wear yourself out..",
-            "sourceName": "vo_yaoyao_spice_event_dislike_01.wem"
-        },
-        "38b709bcfa5c2a51": {
-            "hash": "38b709bcfa5c2a51",
+        "38abccc12ed64fe9": {
+            "hash": "38abccc12ed64fe9",
             "directory": "External7",
-            "voiceContent": "This is amazing! It tastes just like Xiangling's cooking. It's like they say The apple didn't fall far from the tree, mmm... Wait, no, two peas in a pod! You two are like two peas in a pod. Hehe, I'm always mincing up my words when I get too excited",
-            "sourceName": "vo_yaoyao_spice_event_pref_01.wem"
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_17.wem"
         },
         "38db07a1bf8ec61a": {
             "hash": "38db07a1bf8ec61a",
             "directory": "External7",
             "voiceContent": "Xiangling hasn't been, um... looking for strange ingredients lately, has she? She gave me a real fright last time. She said she was about to try some raw octopus from the Sea of Clouds. One of these days, she'll give herself an upset stomach — then what's she gonna do? 'Cause she definitely doesn't like taking Dr. Baizhu's medicine... Anyway, I got Master to try and talk some sense into her, too. Who knows what dangerous thing she'll be trying to eat next... *sigh",
             "sourceName": "vo_yaoyao_teammate_xiangling_01.wem"
+        },
+        "3b02f9ab87cd7061": {
+            "hash": "3b02f9ab87cd7061",
+            "directory": "External7",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_yaoyao_02.wem"
         },
         "401862ea4287b1d1": {
             "hash": "401862ea4287b1d1",
@@ -512,13 +572,19 @@
             "hash": "40bdabf58b7d661b",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attacklight_01.wem"
+            "sourceName": "vo_yaoyao_battle_attackLight_01.wem"
         },
         "41e7980735ff6435": {
             "hash": "41e7980735ff6435",
             "directory": "External8",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attacklight_03.wem"
+            "sourceName": "vo_yaoyao_battle_attackLight_03.wem"
+        },
+        "44253dd428d99d28": {
+            "hash": "44253dd428d99d28",
+            "directory": "External8",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_14.wem"
         },
         "4524813ef0914105": {
             "hash": "4524813ef0914105",
@@ -538,11 +604,17 @@
             "voiceContent": "Sorry, Master..",
             "sourceName": "vo_yaoyao_life_die_02.wem"
         },
+        "4a2500b01f2a356f": {
+            "hash": "4a2500b01f2a356f",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_15.wem"
+        },
         "4aa7602bb7ac9411": {
             "hash": "4aa7602bb7ac9411",
             "directory": "External9",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_hit_l_05.wem"
+            "sourceName": "vo_yaoyao_battle_hit_L_05.wem"
         },
         "4b32f4c4ce0b200a": {
             "hash": "4b32f4c4ce0b200a",
@@ -556,11 +628,23 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yaoyao_explore_jump_01.wem"
         },
+        "4ca6235411a3ea8c": {
+            "hash": "4ca6235411a3ea8c",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_05.wem"
+        },
         "4cb9a9dd8c45ca86": {
             "hash": "4cb9a9dd8c45ca86",
             "directory": "External9",
             "voiceContent": "SFX",
             "sourceName": "vo_yaoyao_explore_climb_02.wem"
+        },
+        "4e32e7eb90d2f91d": {
+            "hash": "4e32e7eb90d2f91d",
+            "directory": "External9",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_19.wem"
         },
         "4e5c8ff33bf74ca9": {
             "hash": "4e5c8ff33bf74ca9",
@@ -574,11 +658,29 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yaoyao_explore_idle_02.wem"
         },
+        "51360f65bf0911ae": {
+            "hash": "51360f65bf0911ae",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_03.wem"
+        },
+        "52023984bd20a9e2": {
+            "hash": "52023984bd20a9e2",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_01.wem"
+        },
+        "5263d3bcc30984a6": {
+            "hash": "5263d3bcc30984a6",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yaoyao_invite_easy_02.wem"
+        },
         "529642dbd5784f57": {
             "hash": "529642dbd5784f57",
             "directory": "External10",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attackheavy_02.wem"
+            "sourceName": "vo_yaoyao_battle_attackHeavy_02.wem"
         },
         "52cb292c5d7f9dd4": {
             "hash": "52cb292c5d7f9dd4",
@@ -597,6 +699,12 @@
             "directory": "External10",
             "voiceContent": "Qingce Stir Fry, Come and Get It, boiled fish... Lots of Liyue dishes are not only delicious, they also turn mealtimes into a big event. Hmm? You like them too? That's great! You'll have to come over for dinner sometime, I'll cook for you! Don't worry, I've helped Xiangling in the kitchen before, so it's safe to say that I come from good stock where food is concerned",
             "sourceName": "vo_yaoyao_pref_foodLike_01.wem"
+        },
+        "5609862b50bf87ee": {
+            "hash": "5609862b50bf87ee",
+            "directory": "External10",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yaoyao_endOfGame_win_01.wem"
         },
         "572015ffce3bcc18": {
             "hash": "572015ffce3bcc18",
@@ -628,6 +736,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yaoyao_explore_sprint_start_01.wem"
         },
+        "61861f4304dc4d5a": {
+            "hash": "61861f4304dc4d5a",
+            "directory": "External12",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_07.wem"
+        },
         "62bfebb308d0db64": {
             "hash": "62bfebb308d0db64",
             "directory": "External12",
@@ -650,7 +764,7 @@
             "hash": "6c5fca1eafb2e346",
             "directory": "External13",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attacklight_04.wem"
+            "sourceName": "vo_yaoyao_battle_attackLight_04.wem"
         },
         "6ed0c23e6caf0ace": {
             "hash": "6ed0c23e6caf0ace",
@@ -664,6 +778,12 @@
             "voiceContent": "Now, Yun Jin's really good at spear dancing, and her Liyue opera performances are very popular. Master even takes me to go see them sometimes. You won't find an empty seat when she's on stage... but, um... does anyone understand what she's singing about",
             "sourceName": "vo_yaoyao_teammate_yunjin_01.wem"
         },
+        "6fdbf7ae6a7041f9": {
+            "hash": "6fdbf7ae6a7041f9",
+            "directory": "External13",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_06.wem"
+        },
         "70288318c2da949d": {
             "hash": "70288318c2da949d",
             "directory": "External14",
@@ -674,7 +794,13 @@
             "hash": "717839bb75551337",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attackmid_03.wem"
+            "sourceName": "vo_yaoyao_battle_attackMid_03.wem"
+        },
+        "717fddf06b549318": {
+            "hash": "717fddf06b549318",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_21.wem"
         },
         "71f4ef8c8abec83b": {
             "hash": "71f4ef8c8abec83b",
@@ -682,23 +808,29 @@
             "voiceContent": "Go get 'em, Yuegui",
             "sourceName": "vo_yaoyao_battle_skill3_03.wem"
         },
-        "7203d6f6f1f853b7": {
-            "hash": "7203d6f6f1f853b7",
-            "directory": "External14",
-            "voiceContent": "Sooo tasty! Next time you cook, lemme come too! I can help",
-            "sourceName": "vo_yaoyao_spice_event_normal_01.wem"
-        },
         "72368669da719565": {
             "hash": "72368669da719565",
             "directory": "External14",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_hit_h_05.wem"
+            "sourceName": "vo_yaoyao_battle_hit_H_05.wem"
         },
         "723fd8bc83fb2581": {
             "hash": "723fd8bc83fb2581",
             "directory": "External14",
             "voiceContent": "Uh-oh, not good... I need to find another plan..",
             "sourceName": "vo_card_yaoyao_inGame_hard_02.wem"
+        },
+        "741bf7a5b70cc0f6": {
+            "hash": "741bf7a5b70cc0f6",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_yaoyao_01.wem"
+        },
+        "746bdbc017d55ab3": {
+            "hash": "746bdbc017d55ab3",
+            "directory": "External14",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_08.wem"
         },
         "74713f99a9c64237": {
             "hash": "74713f99a9c64237",
@@ -718,17 +850,35 @@
             "voiceContent": "Beidou's ship is amazing! If I hadn't promised Ganyu that I wouldn't go on board anymore, I know exactly where I'd set up my own little bed, hee-hee",
             "sourceName": "vo_yaoyao_teammate_beidou_01.wem"
         },
+        "7bf699a0fcb80992": {
+            "hash": "7bf699a0fcb80992",
+            "directory": "External15",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_12.wem"
+        },
         "7de27d449c072d7c": {
             "hash": "7de27d449c072d7c",
             "directory": "External15",
             "voiceContent": "Huh? You're going out again tonight? Hmm, what time do you plan on getting back? *sigh* Well, it's dark out, so be really careful..",
             "sourceName": "vo_yaoyao_dialog_greetingNight.wem"
         },
+        "8086bdb2aa1d9064": {
+            "hash": "8086bdb2aa1d9064",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_10.wem"
+        },
         "8165ed6b3f7787b2": {
             "hash": "8165ed6b3f7787b2",
             "directory": "External16",
             "voiceContent": "After I met Master, she said that the path of my fate had intersected with the adepti way, and took me on as her disciple. To be honest with you, I didn't even understand what she meant by that. But it's been so much fun, getting to hang out with everybody, listening to Master tell stories, and sneakily slacking off with Xiangling... And we also get to help the people of Liyue Harbor out a lot. I really love it",
             "sourceName": "vo_yaoyao_friendship_05.wem"
+        },
+        "849d111ab7a70d05": {
+            "hash": "849d111ab7a70d05",
+            "directory": "External16",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yaoyao_invite_hard_02.wem"
         },
         "8540454667b22405": {
             "hash": "8540454667b22405",
@@ -740,13 +890,13 @@
             "hash": "86d2c00a38c2c11d",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_hit_l_01.wem"
+            "sourceName": "vo_yaoyao_battle_hit_L_01.wem"
         },
         "86f8de30fad12468": {
             "hash": "86f8de30fad12468",
             "directory": "External16",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attacklight_06.wem"
+            "sourceName": "vo_yaoyao_battle_attackLight_06.wem"
         },
         "87f3b0ae92f3cc47": {
             "hash": "87f3b0ae92f3cc47",
@@ -790,6 +940,12 @@
             "voiceContent": "It's okay, I'm fine..",
             "sourceName": "vo_yaoyao_life_less30_03.wem"
         },
+        "964c259e872643ec": {
+            "hash": "964c259e872643ec",
+            "directory": "External18",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_03b.wem"
+        },
         "98bae3a8f48b4414": {
             "hash": "98bae3a8f48b4414",
             "directory": "External19",
@@ -802,6 +958,12 @@
             "voiceContent": "One time, Shenhe ate too many Qingxin in one go and she was sick for days! And that's why I've got to take care of myself and not eat raw Qingxin. Hmm? How did I know about that? Aunty Cloud Retainer told me",
             "sourceName": "vo_yaoyao_pref_foodDislike.wem"
         },
+        "995f808f3b71645b": {
+            "hash": "995f808f3b71645b",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_11.wem"
+        },
         "998c9006e5c15eb2": {
             "hash": "998c9006e5c15eb2",
             "directory": "External19",
@@ -813,6 +975,18 @@
             "directory": "External19",
             "voiceContent": "SFX",
             "sourceName": "vo_yaoyao_explore_sprint_start_03.wem"
+        },
+        "9d3757caacec7e69": {
+            "hash": "9d3757caacec7e69",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_15.wem"
+        },
+        "9dee6ca0e8d4d875": {
+            "hash": "9dee6ca0e8d4d875",
+            "directory": "External19",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_13.wem"
         },
         "9f2051b123a8cd50": {
             "hash": "9f2051b123a8cd50",
@@ -832,6 +1006,12 @@
             "voiceContent": "SFX",
             "sourceName": "vo_yaoyao_explore_climb_breath_01.wem"
         },
+        "a3d88b3b14ebecd2": {
+            "hash": "a3d88b3b14ebecd2",
+            "directory": "External20",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yaoyao_endOfGame_fail_01.wem"
+        },
         "a47c51609a9165b6": {
             "hash": "a47c51609a9165b6",
             "directory": "External20",
@@ -844,11 +1024,35 @@
             "voiceContent": "Time to get up! Your breakfast is ready, so you'd better hurry... Uh, huh? You still wanna snooze a while? ...Well, okay — but five minutes and that's all, okay? Five minutes, and I'll be back to wake you up again. *sigh* I knew I should have sent you to bed earlier..",
             "sourceName": "vo_yaoyao_dialog_greetingMorning.wem"
         },
+        "ac74578cebe34005": {
+            "hash": "ac74578cebe34005",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_02.wem"
+        },
+        "ad672b9e9635d37f": {
+            "hash": "ad672b9e9635d37f",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_04.wem"
+        },
+        "aeb08bb99d4063ef": {
+            "hash": "aeb08bb99d4063ef",
+            "directory": "External21",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_17.wem"
+        },
         "af0d505906e0c47c": {
             "hash": "af0d505906e0c47c",
             "directory": "External21",
             "voiceContent": "...Uh, do you always eat this kind of stuff? Maybe you should let me cook for you instead! If you're not eating well and you're still going out adventuring every day, one of these days you're gonna wear yourself out..",
             "sourceName": "vo_yaoyao_spice_dislike_01.wem"
+        },
+        "b4e39333ce2bdf68": {
+            "hash": "b4e39333ce2bdf68",
+            "directory": "External22",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_09.wem"
         },
         "b73c7e1999a45ee6": {
             "hash": "b73c7e1999a45ee6",
@@ -862,23 +1066,41 @@
             "voiceContent": "I can't look after you anymore..",
             "sourceName": "vo_yaoyao_life_die_01.wem"
         },
+        "bb8a3d4b33405f5d": {
+            "hash": "bb8a3d4b33405f5d",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_04.wem"
+        },
         "bcfdd7e6589210e9": {
             "hash": "bcfdd7e6589210e9",
             "directory": "External23",
             "voiceContent": "SFX",
             "sourceName": "vo_yaoyao_explore_climb_01.wem"
         },
+        "bd994a45c1ee48ce": {
+            "hash": "bd994a45c1ee48ce",
+            "directory": "External23",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yaoyao_leave_01.wem"
+        },
         "bff35e0f79303aa4": {
             "hash": "bff35e0f79303aa4",
             "directory": "External23",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attacklight_02.wem"
+            "sourceName": "vo_yaoyao_battle_attackLight_02.wem"
+        },
+        "c2a801c58f55ca09": {
+            "hash": "c2a801c58f55ca09",
+            "directory": "External24",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yaoyao_invite_easy_01.wem"
         },
         "c430cc70e2319894": {
             "hash": "c430cc70e2319894",
             "directory": "External24",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_hit_h_04.wem"
+            "sourceName": "vo_yaoyao_battle_hit_H_04.wem"
         },
         "c7382b4d89dc6228": {
             "hash": "c7382b4d89dc6228",
@@ -891,6 +1113,12 @@
             "directory": "External25",
             "voiceContent": "When I went to look for Master the other day, I found her chatting with a very elegant-looking lady. She said her name was Xianyun, but her hijinks didn't fool me! I could tell it was Aunty Cloud Retainer right away! I mean, Master looked like she was really happy to see her, so how could it be a stranger? Evidently, she was an old friend",
             "sourceName": "vo_yaoyao_teammate_xianyun_01.wem"
+        },
+        "c8679eb8628a0986": {
+            "hash": "c8679eb8628a0986",
+            "directory": "External25",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_14.wem"
         },
         "c8b1eb3ee6685c83": {
             "hash": "c8b1eb3ee6685c83",
@@ -908,7 +1136,7 @@
             "hash": "c8ea0633fb0c7690",
             "directory": "External25",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_hit_l_04.wem"
+            "sourceName": "vo_yaoyao_battle_hit_L_04.wem"
         },
         "ce2534af3478366a": {
             "hash": "ce2534af3478366a",
@@ -932,13 +1160,13 @@
             "hash": "d0d8e0e418d8244e",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attackheavy_03.wem"
+            "sourceName": "vo_yaoyao_battle_attackHeavy_03.wem"
         },
         "d202d4f5c35a2ff0": {
             "hash": "d202d4f5c35a2ff0",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attackheavy_01.wem"
+            "sourceName": "vo_yaoyao_battle_attackHeavy_01.wem"
         },
         "d2868c8a903968d3": {
             "hash": "d2868c8a903968d3",
@@ -946,11 +1174,23 @@
             "voiceContent": "Time to show you my hand",
             "sourceName": "vo_card_yaoyao_inGame_hard_04.wem"
         },
+        "d2f3715d7ba93cb7": {
+            "hash": "d2f3715d7ba93cb7",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_02.wem"
+        },
+        "d42135b47fa9af8f": {
+            "hash": "d42135b47fa9af8f",
+            "directory": "External26",
+            "voiceContent": "SFX",
+            "sourceName": "vo_card_yaoyao_invite_easy_03.wem"
+        },
         "d70053faff5cf063": {
             "hash": "d70053faff5cf063",
             "directory": "External26",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_hit_l_03.wem"
+            "sourceName": "vo_yaoyao_battle_hit_L_03.wem"
         },
         "d9deba269ba0c03a": {
             "hash": "d9deba269ba0c03a",
@@ -974,7 +1214,7 @@
             "hash": "dca3f8277bff28a9",
             "directory": "External27",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attacklight_07.wem"
+            "sourceName": "vo_yaoyao_battle_attackLight_07.wem"
         },
         "de1861ea6fab0746": {
             "hash": "de1861ea6fab0746",
@@ -987,6 +1227,30 @@
             "directory": "External27",
             "voiceContent": "It's not that I'm lazy, it's just the spear's too long for me, and it's so heavy that training with it is really hard work... Luckily, Master doesn't push me too hard",
             "sourceName": "vo_yaoyao_dialog_close.wem"
+        },
+        "df4ecdf46f36854c": {
+            "hash": "df4ecdf46f36854c",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_18.wem"
+        },
+        "df99b2caaac36ea8": {
+            "hash": "df99b2caaac36ea8",
+            "directory": "External27",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_16.wem"
+        },
+        "e0c7eba3593a36be": {
+            "hash": "e0c7eba3593a36be",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_standbyShow_yaoyao_01.wem"
+        },
+        "e0fa25ae8075dd59": {
+            "hash": "e0fa25ae8075dd59",
+            "directory": "External28",
+            "voiceContent": "SFX",
+            "sourceName": "vo_dialog_anecdote_part1_yaoyao_02.wem"
         },
         "e4b325aac59e51f5": {
             "hash": "e4b325aac59e51f5",
@@ -1012,17 +1276,29 @@
             "voiceContent": "Pain, pain, go away",
             "sourceName": "vo_yaoyao_battle_skill3_02.wem"
         },
+        "ee1e9db6add02478": {
+            "hash": "ee1e9db6add02478",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_07.wem"
+        },
         "ee5adca88d105c16": {
             "hash": "ee5adca88d105c16",
             "directory": "External29",
             "voiceContent": "SFX",
             "sourceName": "vo_yaoyao_explore_sprint_start_02.wem"
         },
+        "ef7ea9c8587fe7aa": {
+            "hash": "ef7ea9c8587fe7aa",
+            "directory": "External29",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_09.wem"
+        },
         "efbad7c3b8b4e82e": {
             "hash": "efbad7c3b8b4e82e",
             "directory": "External29",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attackmid_02.wem"
+            "sourceName": "vo_yaoyao_battle_attackMid_02.wem"
         },
         "f12777cacc77df24": {
             "hash": "f12777cacc77df24",
@@ -1034,7 +1310,13 @@
             "hash": "f1832c166f36372f",
             "directory": "External30",
             "voiceContent": "SFX",
-            "sourceName": "vo_yaoyao_battle_attacklight_05.wem"
+            "sourceName": "vo_yaoyao_battle_attackLight_05.wem"
+        },
+        "f33d37e827f4b099": {
+            "hash": "f33d37e827f4b099",
+            "directory": "External30",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_20.wem"
         },
         "f4d7119bf799c5c8": {
             "hash": "f4d7119bf799c5c8",
@@ -1077,6 +1359,24 @@
             "directory": "External31",
             "voiceContent": "SFX",
             "sourceName": "vo_yaoyao_explore_climb_breath_02.wem"
+        },
+        "fda28374f58bc7d0": {
+            "hash": "fda28374f58bc7d0",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_24_yaoyao_01.wem"
+        },
+        "fdeb0b98b98792db": {
+            "hash": "fdeb0b98b98792db",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_13.wem"
+        },
+        "ff97c9a59e23fb96": {
+            "hash": "ff97c9a59e23fb96",
+            "directory": "External31",
+            "voiceContent": "SFX",
+            "sourceName": "vo_anecdote_part1_22_yaoyao_05.wem"
         }
     }
 }
