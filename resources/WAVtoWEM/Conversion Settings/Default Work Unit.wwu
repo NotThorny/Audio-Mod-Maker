@@ -3,11 +3,11 @@
 	<Conversions>
 		<WorkUnit Name="Default Work Unit" ID="{9C0134A0-BAF1-4D7A-94DC-A91887BDADCF}" PersistMode="Standalone">
 			<ChildrenList>
-				<Conversion Name="GameConvertWEM" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}">
+				<Conversion Name="GameConvertWEM" ID="{5177B70D-FA2A-4158-9448-CB6752D06993}">
 					<PropertyList>
 						<Property Name="Channels" Type="int32">
 							<ValueList>
-								<Value Platform="Windows">4</Value>
+								<Value Platform="Windows">0</Value>
 							</ValueList>
 						</Property>
 						<Property Name="LRMix" Type="Real64">
@@ -17,28 +17,32 @@
 						</Property>
 						<Property Name="MaxSampleRate" Type="int32">
 							<ValueList>
-								<Value Platform="Windows">48000</Value>
+								<Value Platform="Windows">0</Value>
 							</ValueList>
 						</Property>
 						<Property Name="MinSampleRate" Type="int32">
 							<ValueList>
-								<Value Platform="Windows">24000</Value>
+								<Value Platform="Windows">0</Value>
 							</ValueList>
 						</Property>
-						<Property Name="RemoveDCOffset" Type="bool">
+						<Property Name="SRConversionQuality" Type="int32">
 							<ValueList>
-								<Value>True</Value>
+								<Value>1</Value>
 							</ValueList>
 						</Property>
 						<Property Name="SampleRate" Type="int32">
 							<ValueList>
-								<Value Platform="Windows">0</Value>
+								<Value Platform="Windows">48000</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
 					<ConversionPluginInfoList>
 						<ConversionPluginInfo Platform="Windows">
-							<ConversionPlugin Name="" ID="{B17BE2D2-5D5D-43DE-B28D-8B98245311CB}" PluginName="ADPCM" CompanyID="0" PluginID="2"/>
+							<ConversionPlugin Name="" ID="{D65FB1EC-95F6-4BF3-9208-D9EF03AD0854}" PluginName="Vorbis" CompanyID="0" PluginID="4">
+								<PropertyList>
+									<Property Name="QualityFactor" Type="Real32" Value="10"/>
+								</PropertyList>
+							</ConversionPlugin>
 						</ConversionPluginInfo>
 					</ConversionPluginInfoList>
 				</Conversion>

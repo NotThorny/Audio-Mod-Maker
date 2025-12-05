@@ -61,7 +61,7 @@ public class WWiseHandler {
      * 
      * <?xml version="1.0" encoding="UTF-8"?>
      * <ExternalSourcesList SchemaVersion="1" Root="(root dir for sounds)">
-     *   <Source Path="(filename)" Conversion="ADPCM"/>
+     *   <Source Path="(filename)" Conversion="Vorbis High Quality"/>cmd
      * </ExternalSourcesList>
      */
     public static void createWwiseExternalFile() {
@@ -74,7 +74,7 @@ public class WWiseHandler {
 
         // Add each file specified
         sounds.forEach(file -> {
-            stringContent.append("\t<Source Path=\"" + file.getName() + "\" Conversion=\"ADPCM\"/>\n");
+            stringContent.append("\t<Source Path=\"" + file.getName() + "\" Conversion=\"Vorbis Quality High\"/>\n");
         });
 
         stringContent.append("</ExternalSourcesList>");
