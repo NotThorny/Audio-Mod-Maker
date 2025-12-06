@@ -24,7 +24,7 @@ public class AudioConverter {
      */
     public static File convertToWav(File source, String newName) {
         try {
-
+            var originalSource = source.getName();
             // For updating old wems, convert to wav then back to wem
             if (source.getName().endsWith(".wem")) {
                 final String sourceName = source.getAbsolutePath();
@@ -70,7 +70,9 @@ public class AudioConverter {
             Encoder encoder = new Encoder();
             encoder.encode(new MultimediaObject(source), target, attrs);
 
-            FileIO.deleteFile("resources/vgmstream/" + FilenameUtils.getBaseName(source.getName()) + ".wav");
+            if (originalSource.endsWith(".wem")) {
+                FileIO.deleteFile("resources/vgmstream/" + FilenameUtils.getBaseName(source.getName()) + ".wav");
+            }
 
             return target;
 
