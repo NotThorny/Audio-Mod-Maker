@@ -1,8 +1,11 @@
 package dev.thorny.utils;
 
 import java.io.File;
+import java.io.IOException;
+import org.apache.commons.io.FilenameUtils;
 
 import dev.thorny.App;
+import javafx.application.Platform;
 import ws.schild.jave.Encoder;
 import ws.schild.jave.EncoderException;
 import ws.schild.jave.MultimediaObject;
@@ -22,9 +25,22 @@ public class AudioConverter {
     public static File convertToWav(File source, String newName) {
         try {
 
-            // No reason to convert wem -> wav -> wem
+            // For updating old wems, convert to wav then back to wem
             if (source.getName().endsWith(".wem")) {
-                return source;
+                final String sourceName = source.getAbsolutePath();
+                String[] command = {
+                    new File("resources/vgmstream").getAbsolutePath() + "/vgmstream-cli.exe", "-o", FilenameUtils.getBaseName(source.toString()) + ".wav", sourceName
+                };
+                ProcessBuilder b = new ProcessBuilder(command);
+                b = b.directory(new File("resources/vgmstream/"));
+                try {
+                    Process p = b.start();
+                    p.waitFor();
+                } catch (IOException | InterruptedException e) {
+                    e.printStackTrace();
+                }
+
+                source = new File("resources/vgmstream/" + FilenameUtils.getBaseName(sourceName).replace(".wem", "") + ".wav");
             }
 
             // If no name has been defined, use name of existing file
@@ -57,8 +73,13 @@ public class AudioConverter {
             return target;
 
         } catch (EncoderException e) {
-            App.displayError("Failed to convert file! If reporting this issue, please include the following:\n\n"
+            Platform.runLater(new Runnable() {
+                @Override
+                public void run() {
+                    App.displayError("Failed to convert file! If reporting this issue, please include the following:\n\n"
                     + e.getMessage());
+                }
+            });
             return null;
         }
     }

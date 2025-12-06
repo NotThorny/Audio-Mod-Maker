@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import dev.thorny.App;
 import dev.thorny.data.AudioDetails;
 import dev.thorny.data.Avatar;
 
@@ -17,11 +18,13 @@ public class User {
     private final Map<String, File> sounds;
     private final Map<AudioDetails, File> modifiedSounds;
     private final Map<String, Avatar> loadedAvatars;
+    private final Map<String, AudioDetails> allHashes;
 
     public User() {
         this.sounds = new HashMap<>();
         this.modifiedSounds = new HashMap<>();
         this.loadedAvatars = new HashMap<>();
+        this.allHashes = new HashMap<>();
     }
 
     public void addUserSound(List<File> soundList) {
@@ -48,6 +51,17 @@ public class User {
 
     public Map<String, Avatar> getLoadedAvatars() {
         return this.loadedAvatars;
+    }
+
+    public void addAllHashes() {
+        this.allHashes.clear();
+        for (Avatar a : getLoadedAvatars().values()) {
+            allHashes.putAll(a.getAllHashes());
+        }
+    }
+
+    public Map<String, AudioDetails> getAllHashes() {
+        return this.allHashes;
     }
 
 }

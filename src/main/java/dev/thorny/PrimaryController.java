@@ -7,6 +7,7 @@ import java.net.URI;
 import java.net.URISyntaxException;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.ResourceBundle;
@@ -409,6 +410,12 @@ public class PrimaryController implements Initializable {
         }
 
         App.getUser().addUserSound(files);
+
+        // Automatically match file when adding it
+        var mod = matchFileToHash(files);
+        for (var audio : mod) {
+            setSoundReplacement(audio);
+        }
     }
 
     @FXML
@@ -461,23 +468,58 @@ public class PrimaryController implements Initializable {
         onAppStarted();
         var modMap = FileIO.readModsFromList();
         var mod = modMap.get(modName);
+        var files = new ArrayList<File>();
 
         if (mod == null) {
-            App.displayInfo("This mod does not have data in file! It likely comes from before saving was a feature, and therefore will not be able to load." +
-                "\n\n If you are trying to use a mod from GameBanana, please use the 'Apply Mod From File to Game' option below this one in the Mod Management menu.");
-            return;
-        }
+            // App.displayInfo("This mod does not have data in file! It likely comes from before saving was a feature, and therefore will not be able to load." +
+            //     "\n\n If you are trying to use a mod from GameBanana, please use the 'Apply Mod From File to Game' option below this one in the Mod Management menu.");
+            // return;
 
-        var files = FileIO.listFilesInAudioArray(mod);
+            // Attempt to load anyways by matching name to hash
+            files = new ArrayList<File>();
+            try {
+                var mFolder = FileIO.listFoldersInRelativeDir("mods/%s".formatted(modName));
+                // ExternalX...
+                for (var f : mFolder) {
+                    files.addAll(Arrays.asList(f.toFile().listFiles()));
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
+                App.displayInfo("No existing save file exists and failed to load mod files from mod folder, unable to continue loading to edit.");
+                return;
+            }
+        } else {
+            files = FileIO.listFilesInAudioArray(mod);
+        }
 
         // Adding files
         addUserFileIfNotPresent(files);
         App.getUser().addUserSound(files);
+
+        if (mod == null) {
+            mod = matchFileToHash(files);
+        }
+
         for (var audio : mod) {
             setSoundReplacement(audio);
         }
 
         App.displayInfo("Loaded " + modName + "! \n\n After you make the changes you want, click 'Make Mod' to update the mod or save it as a new one.");
+    }
+
+    private ArrayList<Audio> matchFileToHash(List<File> files) {
+        var mod = new ArrayList<Audio>();
+
+        for (var f : files) {
+            String name = FilenameUtils.getBaseName(f.toString());
+
+            var a = App.getUser().getAllHashes().get(name);
+            if (a != null) {
+                Audio audio = new Audio(a, new UserAudio(name, f));
+                mod.add(audio);
+            }
+        }
+        return mod;
     }
 
     private List<File> getAudioFromChooser() {
@@ -630,7 +672,7 @@ public class PrimaryController implements Initializable {
                 String ext = FilenameUtils.getExtension(fileName);
 
                 // No need to convert to wav when the file already is
-                if (!ext.equals("wav") && !ext.equals("wem")) {
+                if (!ext.equals("wav")) {
                     // Check if file exists in wav folder already
                     if (!new File("./wavs/" + FilenameUtils.getBaseName(fileName) + ".wav").isFile()) {
                         // File has not already been converted
@@ -651,10 +693,12 @@ public class PrimaryController implements Initializable {
                     }
 
                     file = new File("./wavs/" + fileName);
-                } else if (ext.equals("wem") && !fileName.equals("mute.wem")) {
-                    // Already a wem
-                    FileIO.copyFile(file, "./wems/Windows/" + fileName);
-                }
+                } 
+                // Allow wems to convert to update old mods
+                // else if (ext.equals("wem") && !fileName.equals("mute.wem")) {
+                //     // Already a wem
+                //     FileIO.copyFile(file, "./wems/Windows/" + fileName);
+                // }
 
                 // Add to converted files map
                 convertedFiles.put(sound, file);

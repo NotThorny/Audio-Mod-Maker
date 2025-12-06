@@ -77,6 +77,8 @@ public class FileIO {
                 return;
             }
         }
+
+        user.addAllHashes();
     }
 
     /**
