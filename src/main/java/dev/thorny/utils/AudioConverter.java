@@ -70,6 +70,8 @@ public class AudioConverter {
             Encoder encoder = new Encoder();
             encoder.encode(new MultimediaObject(source), target, attrs);
 
+            FileIO.deleteFile("resources/vgmstream/" + FilenameUtils.getBaseName(source.getName()) + ".wav");
+
             return target;
 
         } catch (EncoderException e) {
